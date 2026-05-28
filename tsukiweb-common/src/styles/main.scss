@@ -1,0 +1,75 @@
+@use "fonts.scss";
+@use "colors.scss";
+
+:root {
+	--page-width: max(1540px, 60%);
+
+	@include colors.color-vars;
+}
+
+html, body {
+	overscroll-behavior: none;
+	user-select: none;
+}
+
+img {
+	-webkit-user-drag: none;
+	user-select: none;
+	font-style: italic;
+}
+
+h1 {
+	font-size: 3.2em;
+	line-height: 1.1;
+}
+
+a {
+	font-weight: 500;
+	color: var(--color-link);
+	text-decoration: inherit;
+
+	&:hover {
+		text-decoration: underline;
+	}
+}
+
+button {
+	all: unset;
+	user-select: none;
+	box-sizing: border-box;
+
+	&:hover {
+		cursor: pointer;
+	}
+}
+
+// not touch devices
+@media (hover: hover) and (pointer: fine) {
+	*::-webkit-scrollbar {
+		width: 8px;
+		height: 8px;
+	}
+	*::-webkit-scrollbar-thumb {
+		border-radius: 4px;
+		background-color: var(--scrollbar-color);
+
+		&:hover {
+			background: var(--scrollbar-hover);
+		}
+	}
+	*::-webkit-scrollbar-corner {
+		background: transparent;
+	}
+
+	@supports not selector(::-webkit-scrollbar) {
+		* {
+			scrollbar-color: var(--scrollbar-color) transparent;
+			scrollbar-width: thin;
+		}
+	}
+}
+
+body.keyboard-navigating,
+body.keyboard-navigating * {
+	cursor: none !important;
+}

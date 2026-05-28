@@ -1,0 +1,111 @@
+import { CSSProperties, memo, useMemo } from "react"
+import GraphicElement from "./GraphicElement";
+import { SpritePos } from "../types"
+import { ResolutionId } from "../../utils/lang";
+import { isImage } from "../../utils/images";
+import { useGameConfig } from "../../context";
+import { DivProps } from "../../types";
+
+
+type Props = {
+	pos: SpritePos
+	image: string
+	resolution?: ResolutionId
+} & ({
+	fadeIn?: undefined
+	fadeOut?: undefined
+	fadeTime?: 0
+	toImg?: undefined
+	onAnimationEnd?: VoidFunction
+} | (
+	{ fadeTime: number, onAnimationEnd?: VoidFunction } & (
+		{ fadeIn: string, fadeOut?: undefined, toImg?: undefined } |
+		{ fadeOut: string, fadeIn?: undefined, toImg: string }
+	)
+)) & DivProps
+
+const TransitionGraphic = ({
+	pos,
+	image,
+	resolution="src",
+	fadeTime=0,
+	fadeIn=undefined,
+	fadeOut=undefined,
+	toImg=undefined,
+	onAnimationEnd=undefined,
+	style,
+	...rest}: Props)=> {
+	const { imageSrc, cg } = useGameConfig()
+	const getUrl = (img: string) => imageSrc(img, resolution)
+
+//____________________________________image_____________________________________
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	const imageProps = useMemo(()=> {
+		if (!image) return pos === 'bg' ? {} : null
+
+		// static image
+		if (fadeTime === 0) return onAnimationEnd ? { onAnimationEnd } : {}
+
+		// (dis)appearing image
+		const fadeAttr =
+			fadeIn ? { 'fade-in': fadeIn } :
+			fadeOut ? { 'fade-out': fadeOut } :
+			{}
+		return {
+			...fadeAttr,
+			style: {
+				'--transition-time': `${fadeTime}ms`
+			},
+			onAnimationEnd
+		}
+	}, [image, pos, fadeTime, fadeIn, fadeOut, onAnimationEnd])
+
+
+//________________________________crossfade mask________________________________
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	// add an opaque background to the crossfade-disappearing image to prevent
+	// the background from being visible by transparency
+	const maskProps = useMemo(()=> {
+		if (pos !== 'bg' && fadeTime > 0 && fadeOut === 'crossfade'
+				&& image && toImg && isImage(image) && isImage(toImg)) {
+			return {
+				'for-mask': "",
+				style: {
+					'--from-image': `url(${imageSrc(image)})`,
+					'--to-image': `url(${imageSrc(toImg)})`
+				} as CSSProperties
+			}
+		}
+		return null
+	}, [pos, fadeTime, fadeOut, image, toImg])
+
+	return (
+		<>
+			{maskProps &&
+				<GraphicElement
+					pos={pos}
+					image={image}
+					getUrl={getUrl}
+					blur={cg.shouldBlur}
+					props={maskProps}
+				/>
+			}
+
+			{imageProps &&
+				<GraphicElement
+					pos={pos}
+					image={image}
+					getUrl={getUrl}
+					blur={cg.shouldBlur}
+					props={{
+						...rest,
+						...imageProps,
+						style: { ...(imageProps as {style?: CSSProperties}).style, ...style }
+					}}
+				/>
+			}
+		</>
+	)
+}
+
+export default memo(TransitionGraphic)

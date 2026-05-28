@@ -1,0 +1,120 @@
+.modal {
+	position: fixed; 
+	inset: 0;
+	isolation: isolate;
+
+	display: flex;
+	flex-direction: column;
+	color: inherit;
+	background-color: var(--surface-dark);
+	border-radius: 3px;
+	border: 1px solid var(--surface-light);
+	max-width: 880px;
+	width: calc(100% - 1em);
+	min-height: min(100%, 54vh);
+	max-height: 80vh;
+	padding: 1.8em 2em;
+	overflow-y: auto;
+	overscroll-behavior: contain;
+	outline: none;
+	opacity: 0;
+
+	&::backdrop {
+		background: transparent;
+		backdrop-filter: blur(1px);
+	}
+
+	&[open] {
+		opacity: 1;
+		pointer-events: auto;
+		animation: fadeIn 0.2s ease forwards;
+
+		&::backdrop {
+			animation: fadeIn 0.2s ease forwards;
+		}
+	}
+
+	&.isClosing {
+		animation: fadeOut 0.2s ease forwards;
+		&::backdrop {
+			animation: fadeOut 0.2s ease forwards;
+		}
+	}
+}
+
+@keyframes fadeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@keyframes fadeOut {
+	from { opacity: 1; }
+	to { opacity: 0; }
+}
+
+
+.prompt {
+	--prompt-color: var(--btn-select-accent);
+	padding: 0;
+	width: calc(min(600px, 100%) - 1rem);
+	display: grid;
+	grid-template-rows: 1fr auto;
+	height: fit-content;
+	min-height: unset;
+	text-align: center;
+	text-wrap: balance;
+	user-select: none;
+	box-shadow: 0 0 1em hsl(0deg 0% 0% / 80%);
+	margin: auto;
+	font-size: 1.1rem;
+
+	color: #ffffffe8;
+	background-color: rgb(1 14 36);
+	background-color: color-mix(in srgb, rgb(1 14 36), var(--prompt-color) 25%);
+	border: 1px solid var(--prompt-color);
+
+	&::backdrop {
+		backdrop-filter: unset;
+	}
+
+	&[open] {
+		animation: popIn 0.2s ease forwards;
+	}
+
+	&:focus-visible, .keyboard-navigating &:focus {
+		outline: none;
+	}
+
+	.body {
+		padding-inline: min(3em, 3vmin);
+		padding-top: 2em;
+		padding-bottom: 2em;
+		line-height: 1.5;
+	}
+
+	.buttons {
+		display: grid;
+		grid-template-columns: 1fr 1px 1fr;
+		font-size: 1.2em;
+		border-top: 1px solid var(--separator);
+
+		&:not(:has(.separator)) {
+			grid-template-columns: 1fr;
+		}
+
+		& > button {
+			padding: 1rem .6rem;
+		}
+		.separator {
+			width: 1px;
+			height: 60%;
+			background-color: var(--separator);
+			align-self: center;
+		}
+	}
+}
+
+@keyframes popIn {
+	from { opacity: 0; transform: translateY(-10px); }
+	to { opacity: 1; transform: translateY(0); }
+}

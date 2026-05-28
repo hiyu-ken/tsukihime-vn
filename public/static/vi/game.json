@@ -1,0 +1,747 @@
+{
+  "scripts-dir": "./en-mm/scenes/",
+  "choices": {
+    "f20": [
+      "1. Chỉ còn vài phút nữa là tới giờ sinh hoạt lớp. Mình phải đến đó ngay.",
+      "2. …… Mình tò mò quá, nên sẽ qua xem thử."
+    ],
+    "f21": [
+      "1. Ra ngoài hành lang để suy nghĩ về chuyện đó.",
+      "2. Đến nhà ăn để ăn trưa.",
+      "3. Ăn trưa ngay tại lớp."
+    ],
+    "f22": [
+      "1. Ăn trưa ngay tại lớp.",
+      "2. Đến nhà ăn để ăn trưa.",
+      "3. Ra ngoài hành lang để suy nghĩ về chuyện đó."
+    ],
+    "f31": [
+      "1. Lấy lại bình tĩnh và quay trở về dinh thự.",
+      "2. Ở lại trường thêm một chút nữa."
+    ],
+    "f201": [
+      "1. Hỏi thăm về em gái Akiha của tôi.",
+      "2. Hỏi thăm về cô gái năng động ấy (Satsuki).",
+      "3. Hỏi thăm về cô gái đứng bên cửa sổ (Senpai)."
+    ],
+    "f42": [
+      "1. Đến phòng khách trò chuyện với Akiha.",
+      "2. Ở lại phòng riêng của mình.",
+      "3. Đến phòng Kohaku-san xem TV."
+    ],
+    "f46": [
+      "1. Đi thám thính xem sao.",
+      "2. Đi ngủ."
+    ],
+    "f183": [
+      "1. …… Quay trở về dinh thự.",
+      "2. …… Tiếp tục kiên nhẫn chờ đợi."
+    ],
+    "f184": [
+      "1. …… Tiếp tục kiên nhẫn chờ đợi.",
+      "2. …… Quay trở về dinh thự."
+    ],
+    "f185": [
+      "1. …… Tiếp tục kiên nhẫn chờ đợi.",
+      "2. …… Quay trở về dinh thự."
+    ],
+    "f189": [
+      "1. Lao nhanh đến con hẻm nhỏ đêm qua.",
+      "2. …… Chờ đợi ở công viên này.",
+      "3. Đến căn hộ của Arcueid."
+    ],
+    "f284": [
+      "1. Kohaku-san thật vướng mắt.",
+      "2. Mọi chuyện đúng như Kohaku-san nói."
+    ],
+    "f365": [
+      "1. Chái Đông, tầng một.",
+      "2. Chái Tây, tầng một.",
+      "3. Chái Đông, tầng hai.",
+      "4. Chái Tây, tầng hai."
+    ],
+    "f370": [
+      "1. Tháo bỏ cặp kính, sẵn sàng sát chước.",
+      "2. Trước mắt phải đưa cả hai rời xa khỏi phòng Akiha."
+    ],
+    "f194": [
+      "1. Dù vô vọng, tôi vẫn sẽ đi tìm Arcueid.",
+      "2. Chấp nhận sự thật và quay về dinh thự.",
+      "3. Nếu tình thế đã vậy, tự tôi sẽ đi săn lùng Roa."
+    ],
+    "f292": [
+      "1. Không, mình phải bảo Kohaku-san quay đi.",
+      "2. …… Đành bảo cô ấy đặt đồ ăn ở đây vậy."
+    ],
+    "f295": [
+      "1. …… Không thể để cô ấy nhìn thấy mình trong bộ dạng này.",
+      "2. …… Nhưng dẫu vậy, mình vẫn muốn nghe thấy giọng nói của cô ấy."
+    ],
+    "f297": [
+      "1. Tháo chạy về phía trước.",
+      "2. Tháo chạy ngược về sau."
+    ],
+    "f299": [
+      "1. …… Tháo cặp kính ra.",
+      "2. …… Không tháo kính."
+    ],
+    "f302": [
+      "1. Em thích vẻ ngoài tự nhiên của Senpai hơn.",
+      "2. Senpai không đeo kính thì không còn là Senpai nữa!"
+    ],
+    "f375": [
+      "1. Đuổi theo hắn ngay lập tức.",
+      "2. Hít một hơi sâu, bình tĩnh lại rồi mới đuổi theo."
+    ],
+    "f378": [
+      "1. …… Dừng tay.",
+      "2. …… Mình sẽ không để những lời xảo ngôn của hắn lung lạc."
+    ],
+    "f380": [
+      "1. …… Đuổi theo Akiha.",
+      "2. …… Mình lực bất tòng tâm."
+    ],
+    "f381": [
+      "1. …… Giữ trọn lời hứa.",
+      "2. …… Mình không thể làm thế."
+    ],
+    "f383": [
+      "1. …… Trả lại sinh mạng này cho Akiha.",
+      "2. …… Mình không thể làm thế."
+    ],
+    "f52": [
+      "1. Tôi sẽ giữ trọn lời thề.",
+      "2. Tôi sẽ mãi khắc ghi bóng hình Arcueid."
+    ],
+    "f307": [
+      "1. Nghe theo lời khuyên của Arcueid.",
+      "2. Không nghe lời Arcueid."
+    ],
+    "f405": [
+      "1. Mở khóa cửa phòng.",
+      "2. …… Nhưng ngay từ đầu, tại sao mình lại khóa cửa nhỉ?"
+    ],
+    "f409": [
+      "1. Gọi lớn tên Akiha.",
+      "2. Gọi lớn tên Kohaku."
+    ],
+    "f416": [
+      "1. Đi tìm Kohaku-san.",
+      "2. Khảo sát phòng của Makihisa."
+    ],
+    "f419": [
+      "1. …… Ra ngoài kiểm tra thử.",
+      "2. Quay lại phòng ngủ của mình."
+    ],
+    "f425": [
+      "1. [line=4]Xuống tay kết liễu cô ta ngay.",
+      "2. [line=4]Tạm thời rút lui."
+    ],
+    "f427": [
+      "1. …… Ra tay hạ sát cô ta trước khi bị phát hiện.",
+      "2. …… Kiên nhẫn chờ cô ta đi ngang qua rồi tập kích từ phía sau."
+    ],
+    "f51": [
+      "1. Chào Akiha.",
+      "2. Chào Kohaku-san.",
+      "3. Chào cả hai người."
+    ],
+    "f57": [
+      "1. Ở lại trong lớp học.",
+      "2. Đến nhà ăn.",
+      "3. Đến phòng trà đạo."
+    ],
+    "f65": [
+      "1. Đây chắc chắn chỉ là một cơn ác mộng.",
+      "2. Không thể nghi ngờ gì nữa, đây chính là hiện thực do chính đôi tay ta tạo tác."
+    ],
+    "f204": [
+      "1. Chào Akiha.",
+      "2. Chào Kohaku-san.",
+      "3. Chào cả hai người."
+    ],
+    "f205": [
+      "1. Chào Akiha.",
+      "2. Chào Kohaku-san.",
+      "3. Chào cả hai người."
+    ],
+    "f206": [
+      "1. Hỏi thăm về Yumizuka Satsuki.",
+      "2. …… Im lặng ngồi xem tình hình."
+    ],
+    "f210": [
+      "1. Ciel-senpai nói chí lý.",
+      "2. …… Không, thực sự mình thấy không khỏe."
+    ],
+    "f212": [
+      "1. Đến gặp Hisui.",
+      "2. Đến giúp Kohaku-san.",
+      "3. Ở lại trong phòng riêng."
+    ],
+    "f211": [
+      "1. Ra ngoài xem thử.",
+      "2. Không ra ngoài xem."
+    ],
+    "f69": [
+      "1. Trò chuyện về Akiha.",
+      "2. Trò chuyện về Kohaku-san.",
+      "3. Trò chuyện về khu dinh thự."
+    ],
+    "f75": [
+      "1. …… Tôi sẽ hợp tác.",
+      "2. Không, tôi từ chối hợp tác.",
+      "3. Tìm cách đào tẩu."
+    ],
+    "f80": [
+      "1. Sau cùng thì mình vẫn nên bỏ trốn.",
+      "2. …… Dẫu vậy, mình không thể bỏ mặc cô ấy một mình."
+    ],
+    "f81": [
+      "1. …… Được thôi, nhưng chỉ một lát thôi đấy.",
+      "2. …… Không đời nào. Tôi có linh cảm rất xấu."
+    ],
+    "f84": [
+      "1. Tôi nghĩ mình sẽ quay trở lại dinh thự.",
+      "2. Tôi nghĩ mình sẽ quay trở lại khách sạn."
+    ],
+    "f88": [
+      "1. [line=3]Mình nên đi thám thính xem bên ngoài có chuyện gì.",
+      "2. Trước mắt cứ ở lại trong phòng canh gác."
+    ],
+    "f235": [
+      "1. Đi tìm Yumizuka.",
+      "2. Tìm kiếm quanh khuôn viên trường học.",
+      "3. Tìm kiếm xung quanh thành phố."
+    ],
+    "f240": [
+      "1. Đi tìm Yumizuka.",
+      "2. Mình không thể làm chuyện nguy hiểm đến vậy."
+    ],
+    "f242half": [
+      "1. Tôi mến cô ấy.",
+      "2. Tôi ghét cô ấy.",
+      "3. Tôi không thể trả lời."
+    ],
+    "f94": [
+      "1. Tôi rất muốn từ chối, nhưng[line=3]",
+      "2. Không đời nào, làm sao tôi đối phó nổi với một con quái vật như thế."
+    ],
+    "f97": [
+      "1. Lao thẳng về phía Nrvnqsr.",
+      "2. …… Chưa được, vẫn còn quá sớm."
+    ],
+    "f98": [
+      "1. Tôi rất muốn từ chối, nhưng[line=3]",
+      "2. Không đời nào, làm sao tôi đối phó nổi với một con quái vật như thế."
+    ],
+    "f99": [
+      "1. Lao thẳng về phía Nrvnqsr.",
+      "2. …… Chưa được, vẫn còn quá sớm."
+    ],
+    "f101": [
+      "1. Tạm thời cam chịu nhẫn nhịn để chờ thời cơ.",
+      "2. Nhất định phải tiêu diệt được bản thể chính của hắn."
+    ],
+    "f305": [
+      "1. Không, thực sự em không có hứng thú.",
+      "2. Dĩ nhiên là em đồng ý rồi."
+    ],
+    "f306": [
+      "1. Không, thực sự em không có hứng thú.",
+      "2. Dĩ nhiên là em đồng ý rồi."
+    ],
+    "f303": [
+      "1. Hỏi lý do chị ấy chuyển đến ngôi trường này.",
+      "2. …… Có lẽ mình nên giới thiệu Arihiko.",
+      "3. Lẽ nào từ nãy đến giờ chị ta chỉ đang giả vờ ngây thơ?"
+    ],
+    "f317": [
+      "1. Đi trợ giúp Kohaku-san.",
+      "2. Đi trợ giúp Hisui."
+    ],
+    "f108": [
+      "1. Vì không thể giải thích rõ sự tình, ít nhất mình cũng nên tạ lỗi.",
+      "2. Không thể tiết lộ sự thực, đành phải nói dối để lấp liếm vậy.",
+      "3. Không, mình phải thành thực khai báo."
+    ],
+    "f112": [
+      "1. …… Vào trong trung tâm thành phố tìm kiếm cô ấy.",
+      "2. Thẫn thờ ngồi trong lớp học.",
+      "3. Quay thẳng về dinh thự nghỉ ngơi."
+    ],
+    "f116a": [
+      "1. Có lẽ là Arcueid.",
+      "2. Có lẽ là Ciel-senpai.",
+      "3. Có lẽ là Akiha.",
+      "4. Có lẽ là Hisui.",
+      "5. Có lẽ là Kohaku-san."
+    ],
+    "f200": [
+      "1. Tôi sẽ tạ lỗi.",
+      "2. Tìm cách lừa phỉnh cô ấy.",
+      "3. Thành thực khai báo."
+    ],
+    "f222": [
+      "1. …… Không thể nào, chắc chắn là nhầm với ai khác rồi.",
+      "2. Hỏi han về sự việc đêm qua."
+    ],
+    "f225": [
+      "1. Được rồi, tôi sẽ ăn.",
+      "2. Được rồi, tôi không ăn đâu."
+    ],
+    "f230": [
+      "1. Không đời nào. Tôi từ chối làm chuyện xấu hổ như thế.",
+      "2. Sao cũng được. Tôi sẽ gật đầu."
+    ],
+    "f325": [
+      "1. Hỏi lý do chị ấy chuyển đến ngôi trường này.",
+      "2. …… Có lẽ mình nên giới thiệu Arihiko.",
+      "3. Lẽ nào từ nãy đến giờ chị ta chỉ đang giả vờ ngây thơ?"
+    ],
+    "f329": [
+      "1. Tự mình đi bộ về nhà.",
+      "2. Tìm đến phòng học của Akiha."
+    ],
+    "f334": [
+      "1. Đến phòng khách.",
+      "2. Đến biệt khu tách biệt (nhà kho phía sau).",
+      "3. Ở lại phòng cho đến giờ dùng bữa tối."
+    ],
+    "f338": [
+      "1. Đến biệt khu biệt lập.",
+      "2. Đi ngủ luôn cho khỏe."
+    ],
+    "f386": [
+      "1. Đi gặp Hisui.",
+      "2. Đi trợ giúp Kohaku-san.",
+      "3. Tìm đến phòng của Akiha."
+    ],
+    "f129": [
+      "1. Ra ngoài hành lang để chủ động bắt chuyện với chị ấy.",
+      "2. Không, chắc chẳng liên quan gì đến mình đâu, cứ đứng đây xem thôi.",
+      "3. Cơ hội đây rồi! Mình sẽ hù chị ấy từ phía sau!"
+    ],
+    "f135": [
+      "1. Đi tìm Arcueid vô định.",
+      "2. Quay trở về dinh thự."
+    ],
+    "f244": [
+      "1. Được rồi, mình sẽ đi cùng Arihiko tới nhà ăn.",
+      "2. Không được, dẫu bị chị ấy ghét đi chăng nữa, mình vẫn phải đi tìm gặp Senpai."
+    ],
+    "f249": [
+      "1. Quay trở về dinh thự.",
+      "2. Tìm đến phòng trà đạo.",
+      "3. Đi dạo ngoài phố."
+    ],
+    "f256": [
+      "1. Tôi không thể bỏ mặc Arcueid đơn độc một mình.",
+      "2. Senpai là người vô cùng quan trọng đối với tôi."
+    ],
+    "f343": [
+      "1. Bình tĩnh lại một chút rồi mới xuống phòng khách.",
+      "2. Mình ổn rồi, xuống thẳng phòng khách thôi.",
+      "3. Có lẽ mình nên nghỉ ngơi thêm một chút."
+    ],
+    "f347": [
+      "1. Bộ đồng phục hiện tại của trường nữ sinh hợp với Akiha hơn.",
+      "2. Đồng phục trường mình chắc chắn sẽ hợp với em ấy hơn."
+    ],
+    "f350": [
+      "1. Đi phụ giúp Hisui.",
+      "2. Đi phụ giúp Kohaku-san."
+    ],
+    "f391": [
+      "1. Nói chuyện thẳng thắn với cô ấy về việc này.",
+      "2. Đừng đề cập chuyện đó với cô ấy."
+    ],
+    "f394": [
+      "1. Đến phòng của ông già (Makihisa).",
+      "2. Ở lại trong phòng của mình."
+    ],
+    "f395": [
+      "1. Đi ra ngoài phố đêm thám thính.",
+      "2. Thức trắng đêm chờ đến sáng."
+    ],
+    "f143": [
+      "1. Nên xoa dịu bầu không khí bằng một lời chào vui vẻ.",
+      "2. Sẽ không bày trò ngớ ngẩn nữa, cứ chào hỏi bình thường thôi.",
+      "3. Không được rồi. Giờ mình chỉ biết cúi đầu tạ lỗi thôi."
+    ],
+    "f149": [
+      "1. Lập tức đi ra sân sau trường học.",
+      "2. Cầu mong cô ấy sẽ không gây chuyện gì cho tới khi hết giờ học.",
+      "3. Mặc kệ đi. Mình sẽ lờ cô ấy luôn."
+    ],
+    "f153": [
+      "1. Tuy vậy, tôi vẫn sẽ khai thật với Hisui.",
+      "2. Không thể được, tôi tuyệt đối không thể để ai biết chuyện này."
+    ],
+    "f260": [
+      "1. Không, hãy xuống phòng khách đã.",
+      "2. Quan trọng hơn là mình phải tới trường ngay."
+    ],
+    "f267": [
+      "1. Nói thẳng thừng, dứt khoát.",
+      "2. Nói một cách điềm tĩnh, nhẹ nhàng."
+    ],
+    "f353": [
+      "1. Tuy vậy, ít nhất mình vẫn có thể chào buổi sáng Akiha.",
+      "2. …… Mình chịu rồi. Quay về phòng thôi."
+    ],
+    "f354": [
+      "1. Đến phòng học của Akiha.",
+      "2. Không cần, mình không có việc gì phải đến gặp em ấy."
+    ],
+    "f355": [
+      "1. Đến phòng học của Akiha.",
+      "2. Không cần, mình không có việc gì phải đến gặp em ấy."
+    ],
+    "f358": [
+      "1. Trò chuyện với Ciel về sự việc đêm qua.",
+      "2. …… Làm thế chỉ tổ lãng phí thời gian vô ích."
+    ],
+    "f399": [
+      "1. Nhờ Kohaku-san chuẩn bị chút thức ăn.",
+      "2. Nhờ Hisui chuẩn bị món ăn gì đó."
+    ],
+    "f402": [
+      "1. …… Chỉ như thế này thì hoàn toàn không đủ.",
+      "2. …… Cơ thể đã cử động lại được rồi, mình nên gửi lời cảm ơn cô ấy."
+    ],
+    "f159": [
+      "1. …… Nghe theo lời khuyên bảo của Akiha.",
+      "2. Không được, mình phải gượng dậy đi tìm Arcueid."
+    ],
+    "f361": [
+      "1. …… Đi để tự định đoạt số mệnh của chính mình.",
+      "2. Không, mình sẽ ẩn mình trong dinh thự."
+    ],
+    "f162": [
+      "1. …… Chẳng còn cách nào khác. Tôi sẽ đi cùng Arcueid.",
+      "2. …… Vẫn có cách mà. Mình nên tới trường học."
+    ],
+    "f163": [
+      "1. Nào, có phải vì cô quá ích kỷ đúng không?",
+      "2. Nào, có phải vì cô ghét bỏ tôi đúng không?",
+      "3. Nào, có phải bởi vì cô là một ma huyết quỷ đúng không?"
+    ],
+    "f168": [
+      "1. Chọn địa điểm quen thuộc, đưa cô ấy đến rạp chiếu phim.",
+      "2. Cô ấy chắc hẳn sẽ thích những nơi như ngõ hẻm tối tăm đúng không?",
+      "3. …… Tôi thực sự chẳng biết nữa, trước mắt cứ ra công viên cái đã."
+    ],
+    "f172": [
+      "1. Được rồi, tôi sẽ kể cho cô ấy nghe về sự việc đêm qua.",
+      "2. Vậy thì, hãy cho tôi biết chi tiết về \"kẻ thù\" của cô.",
+      "3. Chà, tôi nhất định phải tra hỏi cô về sở thích, lai lịch và số đo ba vòng mới được!"
+    ],
+    "f178": [
+      "1. Đến căn hộ của Arcueid.",
+      "2. Tìm kiếm quanh khu phố thương mại.",
+      "3. …… Hay là ở trường học nhỉ?"
+    ],
+    "f180": [
+      "1. Tôi không thể làm những điều cô ấy không mong muốn.",
+      "2. Tôi chỉ đơn giản là... khát khao cô ấy, chỉ vậy mà thôi."
+    ],
+    "f273": [
+      "1. Kiên nhẫn đứng đợi ở đây.",
+      "2. Đi thẳng vào phòng học.",
+      "3. Đi ra phía sau trường."
+    ],
+    "f277": [
+      "1. Thẫn thờ ngồi một góc trong lớp.",
+      "2. …… Đi ăn chút gì đó cho bữa trưa."
+    ],
+    "f279": [
+      "1. Tôi đoán vậy.",
+      "2. …… Không, việc đó vô cùng hệ trọng."
+    ],
+    "f362": [
+      "1. …… Mình phải tiếp tục sinh tồn.",
+      "2. …… Mình lực bất tòng tâm."
+    ]
+  },
+  "images": {
+    "words": {
+      "fin": "#ffffff$c`[center][noline][color=black][font=serif]Fin`",
+      "end": "#ffffff$b`[right][noline][color=black][font=serif]HẾT`",
+      "pd_fin": "#000000$b`[right][noline][font=serif]Fin`",
+      "pd_genshi": "#000000$b`[right][noline][font=serif][u]Ngoại truyện / Liên Minh Ma Nhãn Ảo Giác`",
+      "pd_tea": "#000000$t`[left][noline][noline][font=serif][u]Trà Chiều Ánh Trăng`",
+      "pd_one_a": "#000000$c`[center][noline][font=serif]Ngày Thứ Nhất/1`",
+      "pd_one_b": "#000000$c`[center][noline][font=serif]Ngày Thứ Nhất/2`",
+      "pd_two": "#000000$c`[center][noline][font=serif]Ngày Thứ Hai`",
+      "pd_three": "#000000$c`[center][noline][font=serif]Ngày Thứ Ba`"
+    },
+    "src": {
+      "tachi/osiete": "./images/%0"
+    }
+  },
+  "scenario": {
+    "days": [
+      "[i]Ngày 1 | Ngày 21 tháng 10 (Thứ năm)",
+      "[i]Ngày 2 | Ngày 22 tháng 10 (Thứ sáu)",
+      "[i]Ngày 3 | Ngày 23 tháng 10 (Thứ bảy)",
+      "[i]Ngày 4 | Ngày 24 tháng 10 (Chủ nhật)",
+      "[i]Ngày 5 | Ngày 25 tháng 10 (Thứ hai)",
+      "[i]Ngày 6 | Ngày 26 tháng 10 (Thứ ba)",
+      "[i]Ngày 7 | Ngày 27 tháng 10 (Thứ tư)",
+      "[i]Ngày 8 | Ngày 28 tháng 10 (Thứ năm)",
+      "[i]Ngày 9 | Ngày 29 tháng 10 (Thứ sáu)",
+      "[i]Ngày 10 | Ngày 30 tháng 10 (Thứ bảy)",
+      "[i]Ngày 11 | Ngày 31 tháng 10 (Chủ nhật)",
+      "[i]Ngày 12 | Ngày 1 tháng 11 (Thứ hai)",
+      "[i]Ngày 13 | Ngày 2 tháng 11 (Thứ ba)"
+    ],
+    "routes": {
+      "aki": {
+        "03a": "[b][i]3 / Bản Năng Đảo Nghịch III",
+        "03b": "[b][i]3 / Dấu Vết Nụ Hôn Tối Tăm",
+        "04a": "[b][i]4 / Vết Sẹo Tối Tăm I",
+        "05a": "[b][i]5 / Giấc Mộng Tĩnh Lặng",
+        "06a": "[b][i]6 / Giấc Mộng Sâu Thẳm",
+        "07a": "[b][i]7 / Vết Sẹo Tối Tăm II",
+        "08a": "[b][i]8 / Giấc Mộng Buổi Chiều",
+        "09a": "[b][i]9 / Quỷ Hút Máu",
+        "10a": "[b][i]10 / Đêm Oi Ả",
+        "11a": "[b][i]11 / Kính Viễn Vọng",
+        "12a": "[b][i]12 / Phần Kết",
+        "13a": "[b][i]Giấc Ngủ Trưa Ấm Áp",
+        "13b": "[b][i]Tiếng Chim Oanh Ríu Rít Đằng Xa"
+      },
+      "ark": {
+        "01a": "[b][i]1 / Xung Động Phản Ứng I",
+        "02a": "[b][i]2 / Xung Động Phản Ứng II",
+        "03a": "[b][i]3 / Hắc Thú I",
+        "04a": "[b][i]4 / Hắc Thú II",
+        "05a": "[b][i]5 / Vết Sẹo Xanh Của Tội Lỗi",
+        "06a": "[b][i]6 / Trực Tử Chi Ma Nhãn I",
+        "07a": "[b][i]7 / Trực Tử Chi Ma Nhãn II",
+        "08a": "[b][i]8 / Cái Chết.",
+        "09a": "[b][i]9 / Tử Hồng Nguyệt I",
+        "10a": "[b][i]10 / Tử Hồng Nguyệt II",
+        "11a": "[b][i]11 / Đêm Hoang Dại",
+        "11b": "[b][i]Kem",
+        "12a": "[b][i]12 / Thế Giới Của Ánh Trăng",
+        "13a": "[b][i]Nguyệt Cơ",
+        "13b": "[b][i]Bình Minh Ánh Trăng"
+      },
+      "cel": {
+        "05a": "[b][i]5 / Vết Tích Đỏ",
+        "06a": "[b][i]6 / Cầu Vồng Trên Bầu Trời I",
+        "07a": "[b][i]7 / Cầu Vồng Trên Bầu Trời II",
+        "08a": "[b][i]8 / (Cái Chết).",
+        "09a": "[b][i]9 / Xác Ve Sầu Thoát Xác",
+        "09b": "[b][i]9 / DNM",
+        "10a": "[b][i]10 / Vết Tích Đỏ II",
+        "11a": "[b][i]11 / Ảo Ảnh",
+        "11b": "[b][i]11 / Mất Ngủ",
+        "12a": "[b][i]12 / Hòn Đá Vô Tận",
+        "13a": "[b][i]Sắc Xanh Ban Ngày",
+        "13b": "[b][i]Thái Dương"
+      },
+      "his": {
+        "04a": "[b][i]4 / Khu Vườn Nôi",
+        "05a": "[b][i]5 / Kẻ Sát Nhân I",
+        "06a": "[b][i]6 / Kẻ Sát Nhân II",
+        "07a": "[b][i]7 / Vết Trầy Trong Suốt",
+        "07b": "[b][i]7 / Sát Nhân Shiki",
+        "08a": "[b][i]8 / “Cái Chết”.",
+        "09a": "[b][i]9 / Hỏa Thi I",
+        "10a": "[b][i]10 / Hỏa Thi II",
+        "11a": "[b][i]11 / Hỏa Thi III",
+        "12a": "[b][i]12 / Giấc Mơ Ban Ngày",
+        "13a": "[b][i]13 / Kén Vàng",
+        "14a": "[b][i]Trăng Ban Trưa",
+        "14b": "[b][i]Giấc Mơ Ánh Nắng"
+      },
+      "koha": {
+        "05a": "[b][i]5 / Cain I",
+        "06a": "[b][i]6 / Cain II",
+        "06b": "[b][i]6 / Tương Lai Nhãn, Tương Lai Tử",
+        "07a": "[b][i]7 / Hiểm Nguy Ở Mọi Góc Khuất I",
+        "08a": "[b][i]8 / Hiểm Nguy Ở Mọi Góc Khuất II",
+        "09a": "[b][i]9 / Origami",
+        "10a": "[b][i]10 / Lọn Tóc",
+        "11a": "[b][i]11 / Thất Dạ (Nanaya)",
+        "12a": "[b][i]GIẤC MƠ ÁNH NẮNG"
+      },
+      "others": {
+        "pro": "[b][i]Mở đầu (Prologue)",
+        "epi": "[i]Vĩ thanh (Epilogue)"
+      }
+    },
+    "scenes": {
+      "openning": {
+        "title": "[b][i]Mở đầu - Vầng Trăng Thủy Tinh"
+      },
+      "eclipse": {
+        "title": "[b][i]Phần vĩ thanh"
+      },
+      "ending": {
+        "title": "[b][i]Danh sách thực hiện"
+      }
+    },
+    "dead-end": "Ngõ cụt (Dead end)",
+    "osiete": "Bài học của Ciel-sensei"
+  },
+  "credits": [
+    {
+      "center": [
+        "[center][font=serif]Lên kế hoạch / [left=15]Takeuchi Takashi",
+        "[center][font=serif][hide]Lên kế hoạch / [/][left=15]Nasu Kinoko"
+      ]
+    },
+    {
+      "center": [
+        "",
+        "[right][font=serif]Kịch bản / Lập trình kịch bản /",
+        "[right][font=serif]Nasu Kinoko"
+      ]
+    },
+    {
+      "bottom": [
+        "[right][font=serif]Trợ lý lập trình kịch bản /[hide]OKSG",
+        "[right][font=serif]OKSG"
+      ]
+    },
+    {
+      "center": [
+        "",
+        "[right][font=serif]Thiết kế nhân vật / Họa sĩ chính / CG /",
+        "[right][font=serif]Takeuchi Takashi"
+      ]
+    },
+    {
+      "bottom": [
+        "[right][font=serif]Trợ lý đồ họa CG / [hide]Fumicchi",
+        "[right][font=serif]Fumicchi"
+      ]
+    },
+    {
+      "center": [
+        "[center][font=serif]Thiết kế bối cảnh / [left=15]",
+        "[center][font=serif][hide]Thiết kế bối cảnh / [/][left=15]Kuki Mamoru",
+        "[center][font=serif][hide]Thiết kế bối cảnh / [/][left=15]Takeuchi Takashi"
+      ]
+    },
+    {
+      "top": [
+        "[left][font=serif]Lập trình hệ thống / Ngoại cảnh /",
+        "[center][font=serif]Seibei"
+      ]
+    },
+    {
+      "top": [
+        "[left][font=serif]Âm nhạc / Phối khí / Hiệu ứng âm thanh",
+        "[center][font=serif]KEITA HAGA"
+      ]
+    },
+    {
+      "bottom": [
+        "[right][font=serif]Cảm ơn đặc biệt / [left=8/]",
+        "[right][font=serif][left=8]Takahashi Naoki",
+        "[right][font=serif][left=8]B46"
+      ]
+    },
+    {
+      "bottom": [
+        "[right][font=serif]Cảm ơn đặc biệt / [left=8/]",
+        "[right][font=serif][left=8]OKSG",
+        "[right][font=serif][left=8]SUBTLE",
+        "[right][font=serif][left=8]Kirihara Kojima",
+        "[right][font=serif][left=8]Hayashi Youko",
+        "[right][font=serif][size=80%](Lược bỏ chức danh)"
+      ]
+    },
+    {
+      "bottom": [
+        "[right][font=serif]Nhóm thử nghiệm trò chơi /[left=3/][left=12]Uetsugi Hiroyoshi",
+        "[right][font=serif][left=12]EDF Sakata",
+        "[right][font=serif][left=12]K-1",
+        "[right][font=serif][left=12]Shiten",
+        "[right][font=serif][left=12]Derocchi",
+        "[right][font=serif][left=12]NOCKy"
+      ]
+    },
+    {
+      "bottom": [
+        "[right][font=serif]Nhóm thử nghiệm trò chơi /[left=3/][left=12]B46",
+        "[right][font=serif][left=12]Mikage",
+        "[right][font=serif][left=12]Yamaguchi Tarou",
+        "[right][font=serif][left=12]Yamazaki Seiji",
+        "",
+        ""
+      ]
+    },
+    {
+      "bottom": [
+        "[right][font=serif]Nhóm thử nghiệm trò chơi /[left=15]",
+        "[right][font=serif]TOÀN BỘ NHÂN VIÊN TYPE-MOON",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "center": "[center][font=serif]Đạo diễn trò chơi /[left=3/]Nasu Kinoko"
+    },
+    {
+      "center": "[center][font=serif]Đạo diễn sản xuất /[left=3/]Takeuchi Takashi"
+    },
+    {
+      "center": "[center][font=serif][left=5/]Sản xuất bởi /[left=3/]TYPE-MOON"
+    },
+    {
+      "center": "[center][font=serif][left=5/]Phiên bản tiếng Anh /[left=3/]mirror moon",
+      "delay": 4300
+    },
+    {
+      "center": [
+        "[left][font=serif]Lập trình /[left=1/]chendo",
+        ""
+      ],
+      "delay": 4300
+    },
+    {
+      "center": [
+        "",
+        "",
+        "",
+        "[center][font=serif][left=12]Dịch thuật /[/][left=8]AstCd2",
+        "[center][font=serif][left=12/][left=8]Ryuusoul",
+        "[center][font=serif][left=12/][left=8]TakaJun",
+        "[center][font=serif][left=12/][left=8]tjm"
+      ],
+      "delay": 4300
+    },
+    {
+      "center": [
+        "[center][font=serif][left=5/]Bản Việt hóa giao diện /[left=3/]Fandom Type-Moon Việt Nam",
+        "[center][font=serif][left=5/][left=3]thực hiện bởi Antigravity"
+      ],
+      "delay": 4300
+    },
+    {
+      "center": [
+        "[center][font=serif]Chân thành cảm ơn cậu đã trải nghiệm!",
+        "[center][font=serif]Chúc cậu một đêm trăng thủy tinh tuyệt đẹp."
+      ],
+      "delay": 6000
+    },
+    {
+      "bottom": "[right][font=serif][noline][color=black][copy/] 2000 TYPE-MOON All right reserved.",
+      "delay": 21500,
+      "bg": "#ffffff"
+    }
+  ],
+  "plus_disc_scenario": {
+    "pd_alliance": "Liên Minh Ma Nhãn Ảo Giác (Genshi Doumei)",
+    "pd_geccha": "Geccha (Chỉ bảo em đi, Ciel-sensei!)",
+    "pd_geccha2": "Geccha 2",
+    "pd_experiment": "Nhà Hát Thử Nghiệm Tác Phẩm Kinh Điển Của Kinoko"
+  }
+}

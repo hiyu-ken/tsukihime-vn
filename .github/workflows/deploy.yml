@@ -37,6 +37,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Generate scenes from fullscripts
+        run: node index.js
+        working-directory: tools/convert-scripts
+
       - name: Build
         run: npm run build
         env:

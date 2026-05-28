@@ -35,7 +35,13 @@ function textImageToStr(textImg: TextImage): string {
 //------------------------------------------------------------------------------
 
 export function scenesDir() {
-  return assetPath(`${strings['scripts-dir']}`)
+  const dir = strings['scripts-dir']
+  if (dir.startsWith('./')) {
+    return `${import.meta.env.BASE_URL}static/${dir.substring(2)}`
+  } else if (dir.startsWith('../')) {
+    return `${import.meta.env.BASE_URL}static/${dir}`
+  }
+  return `${import.meta.env.BASE_URL}static/${dir}`
 }
 
 export function spriteSheetImgPath(file: string) {

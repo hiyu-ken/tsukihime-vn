@@ -1,4 +1,4 @@
-const ASSETS_PATH = `${import.meta.env.BASE_URL}static/`
+const ASSETS_PATH = 'https://tsukiweb.holofield.fr/static/'
 
 export function assetPath(basePath: string) {
 	if (!/^\w+:\/\//.test(basePath)) // does not start with "<protocol>://"

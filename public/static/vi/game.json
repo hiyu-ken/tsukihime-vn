@@ -1,5 +1,5 @@
 {
-  "scripts-dir": "./en-mm/scenes/",
+  "scripts-dir": "en-mm/scenes/",
   "choices": {
     "f20": [
       "1. Chỉ còn vài phút nữa là tới giờ sinh hoạt lớp. Mình phải đến đó ngay.",
@@ -476,7 +476,7 @@
       "pd_three": "#000000$c`[center][noline][font=serif]Ngày Thứ Ba`"
     },
     "src": {
-      "tachi/osiete": "./images/%0"
+      "tachi/osiete": "en-mm/images/%0"
     }
   },
   "scenario": {

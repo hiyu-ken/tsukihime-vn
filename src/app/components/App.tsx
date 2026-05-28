@@ -31,7 +31,7 @@ function App() {
 					shouldBlur: cg.shouldBlur
 				}
 			}}>
-				<Router base={import.meta.env.BASE_URL}>
+				<Router base={import.meta.env.BASE_URL.replace(/\/$/, "")}>
 					<AppLayout>
 						<AnimatedRoutes />
 					</AppLayout>

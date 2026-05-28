@@ -564,6 +564,9 @@ export async function main() {
 			await processSingleScript(folder, filename, outputDir, tree)
 		} catch (e) {
 			logError(`Error processing ${filename}: ${e.message}`)
+			if (folder === 'en-mm') {
+				throw e
+			}
 		}
 	}
 	logProgress(`Processing fullscripts: ${processedCount}/${totalScripts}\n`)

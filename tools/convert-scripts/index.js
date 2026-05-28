@@ -15,6 +15,7 @@ async function main() {
         console.log('\n--- Scenes generated ---')
     } catch (error) {
         console.error('An error occurred during execution:', error)
+        process.exit(1)
     }
 }
 

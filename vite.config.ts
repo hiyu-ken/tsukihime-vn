@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
+// Trigger rebuild to deploy with GitHub Actions setting enabled
 const serverUrl = 'https://tsukidev.holofield.fr'
 
 // List assets files to use from remote instead of fetching from local

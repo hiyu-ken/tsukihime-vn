@@ -1,0 +1,97 @@
+play "*3"
+wavestop
+bg "bg/bg_23b",lcartain,800
+play "*8"
+` Tôi lẳng lặng rảo bước kề bên Akiha hướng về phía tòa dinh thự.@`
+`"……"@`
+` Thật sự, bầu không khí bấy giờ quả thực vô cùng ngột ngạt khó xử.@`
+` Chỉ cần liếc mắt nhìn sang bên cạnh, tôi dẫu dã có thể chiêm ngưỡng bóng hình Akiha lẳng lặng cất bước với mái tóc dài tung bay nhè nhẹ trước gió.@`
+` Em ấy tịnh không mở miệng nói một lời dẫu vậy vẫn toát lên vẻ trang nhã quý phái, hệt như một nàng tiểu thư hoàn mỹ bước ra từ một gia tộc danh giá thế phiệt.`
+\
+`"………"@`
+` Vì cớ gì mà đầu óc tôi bấy giờ chịu chết tịnh không thể nghĩ ra nổi một chủ đề gì để mở miệng giãi bày tâm sự chứ?@`
+` Dẫu cho ngày nào tôi dẫu dã giáp mặt Akiha tại dinh thự rồi, dẫu vậy tịnh không rõ vì nguyên cớ gì khi hai anh em cùng lẳng lặng cất bước đi về chốn này dẫu vậy lại trào dâng một cảm giác vô cùng căng thẳng ngột ngạt nhường này.`
+\
+br
+` [line=2]Thế nhưng, tôi dẫu vậy vẫn chưa nhận được lời giải thích thỏa đáng nào từ em ấy.@`
+br
+`"Akiha."@`
+ld c,"tachi/aki_t01a",crossfade,400
+`"Dạ?@ Có chuyện gì vậy, anh Shiki?"@`
+`"Còn chuyện gì nữa hả!?@ Cớ sao tự dưng em lại đi chuyển trường sang đây chứ?@ Rốt cuộc dẫu dã có lý do hệ trọng gì khiến em phải cất công hạ mình chuyển tới một ngôi trường liên cấp hạng hai nhường này chứ hả!?"`
+\
+ld c,"tachi/aki_t21",crossfade,400
+`"Anh Shiki cứ giãi bày nhường ấy dẫu vậy.@ Nhưng em học ở chốn nào dẫu sao dẫu dẫu cũng là quyền tự do lựa chọn của tự thân em; em tịnh không có nghĩa vụ phải giải trình tỉ mỉ với anh đâu."@`
+`"…… Chớ có bướng bỉnh thế.@ Anh là anh trai của em đấy!@ Anh tuyệt đối chịu chết tịnh không thể mắt nhắm mắt mở làm ngơ trước những chuyện bất lợi cho tương lai tự thân của em được.@`
+` Thẳng thắn mà nói, anh chịu chết tịnh không thấy được lợi ích gì cho em khi chuyển tới ngôi trường này cả.@ Kể từ khi cha mất đi rồi, trách nhiệm quan tâm chăm sóc bận lòng cho em dẫu sao dẫu dẫu dã thuộc về anh rồi…!"`
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… Gì cơ ạ?@ Anh Shiki giãi bày những lời nhường ấy vào thời điểm này dẫu vậy quả thực tịnh không công bằng chút nào đâu."@`
+`"'Không công bằng' là cụm từ phải từ miệng anh thốt ra mới đúng chứ.@ Rốt cuộc đầu óc em bận lòng nghĩ ngợi điều gì mà lại tự ý chuyển trường dẫu vậy thậm chí tịnh không thèm hé răng giãi bày với anh một câu hả?@`
+` Anh tuyệt đối chịu chết tịnh không bao giờ chấp nhận chuyện chuyển trường vô lý này cho tới khi nhận được một nguyên cớ thực sự chính đáng đâu đấy!"@`
+ld c,"tachi/aki_t19",crossfade,400
+`"Anh Shiki[line=4]"@`
+`"Nếu câu trả lời tự thân của em chịu chết tịnh không thể thuyết phục nổi anh, anh nhất định dẫu dã cất bước tới gặp ban giám hiệu làm thủ tục gửi em quay trở lại ngôi trường cũ ngay tức khắc.@ Thế nên, mau giãi bày cho anh thấu triệt đi Akiha.@ Vì cớ gì em lại chuyển trường?"@`
+cl c,crossfade,400
+` Akiha lẳng lặng khẽ cúi gằm mặt xuống chìm vào im lặng tịch mịch.@`
+` Chỉ một khoảnh khắc vô cùng ngắn ngủi sau đó, em dẫu dã lấy lại vẻ kiên cường bình sinh ranh mãnh rồi ngẩng cao đầu đối diện với tôi.`
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Em chỉ vì lo lắng bận lòng cho anh Shiki thôi mà.@ Bộ nguyên cớ nhường ấy dẫu vậy vẫn chịu chết tịnh không đủ sức thuyết phục anh sao?"@`
+br
+` [line=7]Ơ kìa?@`
+br
+`"…… KKhoan đã nào.@ Ý em giãi bày lo lắng bận lòng cho anh là sao cơ…?"@`
+` Rốt cuộc trên đời này dẫu dã có thứ lý do kỳ quặc quái đản nhường ấy cho việc chuyển trường sao?`
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Dạ vâng, mắt thấy đống hành vi hành xử tùy tiện vô kỷ luật cực kỳ phóng túng gần đây tự thân của anh, em dẫu dã quyết định rằng để ngăn chặn anh bôi nhọ thanh danh quý phái của gia tộc Tohno, đích thân em dẫu dã phải dọn tới chốn này để mắt canh chừng giám sát anh chặt chẽ đấy ạ."@`
+` Akiha lẳng lặng giãi bày rành rọt từng chữ một một cách vô cùng uy nghiêm.@`
+`"Hự[line=4]"@`
+` Nghe em ấy thốt ra cụm từ "hành vi vô kỷ luật", lồng ngực tôi dẫu vậy lại tịnh không thể tịnh không khẽ gật đầu thừa nhận.@`
+` Quả thực đúng thế thật, nhịp sống sinh hoạt thường nhật vô lối tự thân của tôi kể từ ngày cất bước quay trở lại chốn này chắc hẳn dẫu dã đem lại tịnh không ít phiền toái nhọc nhằn cho Akiha và mọi người rồi.`
+\
+`"NNhưng dẫu vậy, chuyện chuyển trường nhường này dẫu sao dẫu dẫu cũng có phần hơi quá đà rồi đúng tịnh không?@ Thế còn đống bạn bè thân thiết cũ của em ở bên kia thì tính sao đây?"@`
+ld c,"tachi/aki_t05a",crossfade,400
+`"Chuyện đó tịnh không phải là mối bận lòng lo lắng tự thân của anh Shiki đâu ạ.@ Nếu anh thực sự cảm thấy có lỗi chút nào đó với đứa em gái này, thì điều duy nhất anh dẫu dã nên làm kể từ bấy giờ dẫu sao chính là thay đổi tâm tính và thái độ sống của tự thân đi nhé."@`
+` Akiha ngoảnh mặt quay ngoắt đi nơi khác một cách vô cùng cương quyết.@`
+br
+` …… Thật là, cái tính khí bướng bỉnh ngang ngạnh tự thân của em ấy dẫu sao dẫu dẫu vẫn hệt như xưa vậy.`
+\
+`"…… Thôi được rồi, tùy em muốn làm gì thì làm vậy.@ Nhưng rồi dẫu dã có ngày em phải ôm lòng hối hận vì quyết định nông nổi này đấy."@`
+ld c,"tachi/aki_t21",crossfade,400
+`"Chuyện đó tịnh không sao đâu ạ.@ Em từ đầu dẫu dã tịnh không hề có ý định mưu cầu sự bận lòng lo lắng của anh Shiki dành cho em đâu."@`
+` Akiha khẽ thốt lên một tiếng thở dài ngao ngán, rồi em ấy bắt đầu lẳng lặng giận dỗi ngoảnh mặt đi.@`
+` Hai anh em lại tịch mịch rơi vào im lặng chìm đắm, tiếp tục lẳng lặng cất bước đi lên sườn dốc hướng về phía tòa dinh thự.`
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,400
+play "*1"
+` Cuối cùng hai anh em dẫu dã cất bước quay trở về tòa dinh thự.@`
+` Akiha lẳng lặng cất bước lên phía trước sửa soạn mở cánh cổng lớn, dẫu vậy như sực lẩm bẩm nhớ ra sự sự tình gì đó, em ấy liền ngoảnh mặt nhìn tôi.@`
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Em dẫu dã có một câu hỏi bận lòng.@ Anh Shiki dẫu dã có mối quan hệ thân thiết tới nhường nào với người mang tên Ciel kia thế ạ?"@`
+` Đột ngột quá chừng, em ấy tự dưng lại tung ra một câu hỏi cực kỳ dạn dĩ nhắm thẳng vào tâm điểm.@`
+`"Cũng tịnh không hẳn là thân thiết đặc biệt lắm đâu.@ Tụi anh chỉ là bạn bè kề cạnh nhau ở trường học thôi.@ Chị ấy... cho anh cảm giác hệt như một người vô cùng tin cậy mà anh có thể giãi bày tâm sự vậy."@`
+cl a,crossfade,400
+`"Thật thế sao ạ?" Akiha khẽ thốt lên lạnh lùng, rồi em ấy lẳng lặng ngoảnh mặt cất bước đi thẳng qua cánh cổng dinh thự.`
+\
+bg "bg/bg_48b",lshutter,800
+` Hai anh em cất bước băng qua khoảng sân vườn rộng lớn rồi tiến đến trước thềm cửa chính.@`
+` Tuy nhiên, hôm nay cả bóng dáng Hisui đứng lẳng lặng chờ sẵn nơi cổng lớn lẫn Kohaku-san quét dọn dọn dẹp lá rụng chốn sân vườn dẫu dẫu cũng chịu chết tịnh không thấy đâu; chốn này hoàn toàn tịch mịch vắng bóng người.`
+\
+`"Ah."@`
+ld c,"tachi/aki_t01a",crossfade,400
+`"Dạ?@ Anh Shiki vừa mới mở miệng giãi bày điều gì sao?"@`
+`"À, tịnh không có gì to tát đâu dẫu vậy... nếu được thì anh muốn cất bước qua chiêm ngưỡng căn nhà biệt lập mang phong cách Nhật Bản truyền thống mà em dẫu dã giãi bày lúc trước một chút, liệu có được tịnh không?"@`
+`"[line=4]Căn nhà biệt lập kia sao?"@`
+` Akiha lẳng lặng khẽ thỏ thẻ thốt lên, đôi chân mày tự thân của em bấy giờ khẽ cau lại đầy lo âu.`
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"Làm ơn chớ cất bước tới chốn đó ạ.@ Nơi ấy dẫu dã bị tịch mịch phong tỏa nghiêm ngặt suốt hàng năm trời rồi.@ Anh Shiki ạ, tuyệt đối ngay cả bản thân anh dẫu dẫu cũng chịu chết tịnh không được phép bén mảng tới chốn đó đâu nhé."@`
+cl a,lshutter,400
+` Lạnh lùng giãi bày dứt khoát rành rọt từng chữ một nhường ấy xong, Akiha liền tịch mịch cất bước đi thẳng vào trong dinh thự.`
+\
+bg #000000,lshutter,800
+!w1000
+playstop

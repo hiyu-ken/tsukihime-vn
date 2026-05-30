@@ -1,0 +1,43 @@
+bg "bg/bg_06b",crossfade,800
+` Lớp học cuối cùng kết thúc.@
+` Tôi không muốn về lâu đài ngay lập tức, vì vậy tôi chỉ nhìn ra ngoài cửa sổ nhìn ra sân trường một cách trống rỗng.@
+` Lớp học được nhuộm màu cam bởi ánh hoàng hôn.@
+` Như là sơn màu đỏ pha nước, và nó làm tôi đau mắt.@
+br
+` …… Tôi không thích màu đỏ.@
+` Nó cảm thấy như thấm sâu vào phía sau mắt tôi và tôi muốn nôn mửa.
+\
+bg "bg/ima_08",crossfade,400
+` Có vẻ tôi yếu đuối trước những thứ giống máu.@
+` Không, tôi nên nói rằng tôi yếu trước chính máu.@
+` Bảy tám năm trước, tôi đã trải qua một tai nạn gần như tử vong.@
+` Tôi gặp phải một vụ tai nạn khiến ngực bị thương và tôi lênh đênh giữa sinh và tử trong nhiều ngày.@
+` Tôi nên chết ngay lập tức. Nhưng, một cách kỳ diệu, tôi đã sống sót. Có lẽ là do điều trị y tế tuyệt vời.@
+` Tuy nhiên, vết thương quá nặng đến nỗi tôi thậm chí không nhớ vụ tai nạn.
+\
+` Bảy tám năm trước, khi tôi còn là một đứa trẻ.@
+` Tôi cảm thấy một tiếng 'thud' xuyên qua chính giữa lồng ngực rồi bất tỉnh.@
+` Khi tỉnh dậy, tôi nằm trên giường bệnh viện. Tất cả những gì tôi nhớ sau đó là đau đớn và cái lạnh.@
+br
+` Tôi không nhớ nhiều về vụ tai nạn, nhưng cho đến ngày hôm nay, vết sẹo trên ngực vẫn còn.@
+` Tôi đoán rất nhiều mảnh thủy tinh đã đâm vào lồng ngực, để lại những vết sẹo giống như bỏng ở đó và ở lưng tôi.
+\
+` …… Trên thực tế, tôi khá ngạc nhiên khi được cứu sống.@
+` Kể từ đó, tôi thường xuyên bị chóng mặt do thiếu máu và gây phiền toái cho người khác.@
+` Có lẽ vì vậy mà cha tôi tin rằng tôi không đủ điều kiện để thừa kế gia tộc Tohno và giao phó tôi cho họ hàng của chúng ta.@
+br
+bg "bg/bg_06b",crossfade,400
+` …… Vết thương trên ngực của tôi, à?@
+` Vết sẹo to ở giữa ngực, bị bộ đồng phục che giấu.
+\
+` Bây giờ nghĩ lại, sau vụ tai nạn là khi tôi bắt đầu nhìn thấy những 'đường'.@
+` Tôi có thể quên chúng, nhờ vào kính mà Sensei tặng cho tôi. Nhưng tôi nghĩ rằng nếu không gặp cô ấy, tôi sẽ hoàn toàn điên.@
+` Keiko-san[line=3] người đã là mẹ của tôi cho đến nay, nói khi tôi rời khỏi nhà rằng gia tộc Tohno không 'bình thường'.@
+br
+` …… Không sao. Tôi cũng không phải là một người 'bình thường'.@
+br
+` Điều chỉnh kính của mình bị lệch, tôi nhặt túi xách lên.@
+` Tôi không thể ở lại lớp mãi mãi.
+\
+` Bây giờ rồi[line=3]
+\

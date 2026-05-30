@@ -1,0 +1,44 @@
+play "*3"
+wavestop
+bg "bg/bg_23b",lcartain,800
+` Tôi lẳng lặng rảo bước kề bên Akiha hướng về phía tòa dinh thự.@`
+`"……"@`
+` Thật sự, bầu không khí bấy giờ quả thực vô cùng ngột ngạt khó xử.@`
+` Chỉ cần liếc mắt nhìn sang bên cạnh, tôi dẫu dã có thể chiêm ngưỡng bóng hình Akiha lẳng lặng cất bước với mái tóc dài tung bay nhè nhẹ trước gió.@`
+` Em ấy tịnh không mở miệng nói một lời dẫu vậy vẫn toát lên vẻ trang nhã quý phái, hệt như một nàng tiểu thư hoàn mỹ bước ra từ một gia tộc danh giá thế phiệt.`
+\
+`"………"@`
+` Vì cớ gì mà đầu óc tôi bấy giờ chịu chết tịnh không thể nghĩ ra nổi một chủ đề gì để mở miệng giãi bày tâm sự chứ?@`
+` Dẫu cho ngày nào tôi dẫu dã giáp mặt Akiha tại dinh thự rồi, dẫu vậy tịnh không rõ vì nguyên cớ gì khi hai anh em cùng lẳng lặng cất bước đi về chốn này dẫu vậy lại trào dâng một cảm giác vô cùng căng thẳng ngột ngạt nhường này.`
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,400
+play "*1"
+` Cuối cùng hai anh em dẫu dã cất bước quay trở về tòa dinh thự.@`
+` Akiha lẳng lặng cất bước lên phía trước sửa soạn mở cánh cổng lớn, dẫu vậy như sực lẩm bẩm nhớ ra sự sự tình gì đó, em ấy liền ngoảnh mặt nhìn tôi.@`
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Em dẫu dã có một câu hỏi bận lòng.@ Anh Shiki dẫu dã có mối quan hệ thân thiết tới nhường nào với người mang tên Ciel kia thế ạ?"@`
+` Đột ngột quá chừng, em ấy tự dưng lại tung ra một câu hỏi cực kỳ dạn dĩ nhắm thẳng vào tâm điểm.@`
+`"Cũng tịnh không hẳn là thân thiết đặc biệt lắm đâu.@ Tụi anh chỉ là bạn bè kề cạnh nhau ở trường học thôi.@ Chị ấy... cho anh cảm giác hệt như một người vô cùng tin cậy mà anh có thể giãi bày tâm sự vậy."@`
+cl a,crossfade,400
+`"Thật thế sao ạ?" Akiha khẽ thốt lên lạnh lùng, rồi em ấy lẳng lặng ngoảnh mặt cất bước đi thẳng qua cánh cổng dinh thự.`
+\
+bg "bg/bg_48b",lshutter,800
+` Hai anh em cất bước băng qua khoảng sân vườn rộng lớn rồi tiến đến trước thềm cửa chính.@`
+` Tuy nhiên, hôm nay cả bóng dáng Hisui đứng lẳng lặng chờ sẵn nơi cổng lớn lẫn Kohaku-san quét dọn dọn dẹp lá rụng chốn sân vườn dẫu dẫu cũng chịu chết tịnh không thấy đâu; chốn này hoàn toàn tịch mịch vắng bóng người.`
+\
+`"Ah."@`
+ld c,"tachi/aki_t01a",crossfade,400
+`"Dạ?@ Anh Shiki vừa mới mở miệng giãi bày điều gì sao?"@`
+`"À, tịnh không có gì to tát đâu dẫu vậy... nếu được thì anh muốn cất bước qua chiêm ngưỡng căn nhà biệt lập mang phong cách Nhật Bản truyền thống mà em dẫu dã giãi bày lúc trước một chút, liệu có được tịnh không?"@`
+`"[line=4]Căn nhà biệt lập kia sao?"@`
+` Akiha lẳng lặng khẽ thỏ thẻ thốt lên, đôi chân mày tự thân của em bấy giờ khẽ cau lại đầy lo âu.`
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"Làm ơn chớ cất bước tới chốn đó ạ.@ Nơi ấy dẫu dã bị tịch mịch phong tỏa nghiêm ngặt suốt hàng năm trời rồi.@ Anh Shiki ạ, tuyệt đối ngay cả bản thân anh dẫu dẫu cũng chịu chết tịnh không được phép bén mảng tới chốn đó đâu nhé."@`
+cl a,lshutter,400
+` Lạnh lùng giãi bày dứt khoát rành rọt từng chữ một nhường ấy xong, Akiha liền tịch mịch cất bước đi thẳng vào trong dinh thự.`
+\
+bg #000000,lshutter,800
+playstop
+!w1000

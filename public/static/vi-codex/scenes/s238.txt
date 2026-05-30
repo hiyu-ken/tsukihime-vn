@@ -1,0 +1,47 @@
+play "*1"
+wavestop
+bg "bg/bg_06a",notrans,0
+br
+` [line=3]Mình sẽ thử tìm em ấy ở trường xem sao.@
+br
+` Tôi biết hôm nay em ấy nghỉ học, nhưng… ngay lúc này, ngôi trường này là sợi dây liên kết duy nhất giữa tôi và em ấy.
+\
+bg #000000,lshutter,800
+bg "bg/bg_11b",lshutter,800
+bg #000000,lshutter,800
+bg "bg/bg_06f",lshutter,800
+bg #000000,lshutter,800
+bg "bg/bg_10b",lshutter,800
+bg #000000,lshutter,800
+bg "bg/bg_03b",lshutter,800
+bg #000000,tshutter,1500
+bg "bg/bg_01b",bshutter,1500
+` Hoàng hôn buông xuống.@
+` Dù cho tôi đã lùng sục khắp mọi xó xỉnh trong trường, nhưng vẫn chẳng thấy bóng dáng Yumizuka Satsuki đâu cả.@
+br
+`"………… Khốn kiếp."@
+` Tôi tức giận tự cắn chặt môi mình.@
+` …… Nhưng đó không phải là cơn giận vì tôi không tìm thấy em ấy.
+\
+` Chuyện xảy ra hai ngày trước, tôi giận chính bản thân mình vì ngay từ đầu đã đi hứa hẹn một điều như thế.
+\
+br
+` [line=3]Hãy giúp tớ khi tớ gặp khó khăn nhé?@
+br
+` Yumizuka đã nói như thế, và tôi đã vô tư đáp lời chẳng suy nghĩ.@
+` Rằng tôi sẽ giúp em ấy, hết sức có thể.@
+` …… Thật là một lời hứa vô trách nhiệm làm sao.@
+` Bởi thực sự lúc này tôi chẳng thể làm gì cho em ấy được.@
+br
+` Em ấy đã nói rằng đau lắm.@
+` Vậy mà tôi thậm chí còn không tìm thấy Yumizuka, người đang phải chịu đựng nỗi đau đớn cô độc trong bóng đêm lạnh giá ngoài kia.
+\
+`"[line=3]"@
+` Mặt trời đã hoàn toàn khuất dạng.@
+` …… Dù không muốn thừa nhận, nhưng có lẽ tôi chỉ có thể tìm thấy Yumizuka sau khi màn đêm đã buông xuống hoàn toàn.@
+`"…… Mình đã bảo với Hisui là sẽ về vào lúc chiều tối rồi."@
+` Giờ này chắc vẫn còn hơi sớm.@
+` Tạm thời tôi nên quay về biệt thự để bình tâm suy nghĩ lại mọi chuyện đã.
+\
+bg #000000,lcartain,800
+!w1000

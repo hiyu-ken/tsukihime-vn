@@ -1,0 +1,882 @@
+monocro off
+playstop
+bg "bg/bg_11c",notrans,0
+wavestop
+br
+` [line=3]Rồi... bản thân tôi bấy giờ bắt buộc phải làm sao đây?@`
+br
+`"Không... tịnh không có lấy một cách nào cứu vãn nổi nữa."@`
+` Tôi tháo bỏ chiếc kính gọng đen rên mắt ra rồi dứt khoát ném phắt đi.@`
+` *Rắc!* Tiếng gãy vỡ khô khốc vang vọng dội khắp dãy hành lang tối tịch mịch.`
+\
+`"Bản thân em tuyệt đối tịnh không cách nào làm nổi chuyện tàn độc ấy!"@`
+` Tôi điên cuồng hét lớn lên trong đại não hòng dập tắt tiếng gầm rú ma quái kia.@`
+` Đây quả thực là lần đầu tiên tôi thực sự dâng trào xung năng muốn tự tay kết liễu mạng sống tự thân của mình.@`
+br
+` Tiếng vang của vật cứng lăn trên sàn nhà.
+\
+` …… Trước mắt tôi lúc này tịnh không hiển lộ ra bất kỳ "tử tuyến" nào cả.@`
+` Vật duy nhất tôi vừa nhẫn tâm vứt bỏ chính là lưỡi dao găm sắc lạnh của mình.@`
+` Tôi tuyệt đối dứt khoát tịnh không bao giờ tháo kính ra. ... Bản thân tôi chịu chết cũng không bao giờ làm điều điên rồ ấy nữa.@`
+` Đơn thuần chỉ là vì bản thân không dám tin tưởng vào lý trí tự thân, thế nên tôi đã chủ động ném vứt bỏ dao đi.@`
+` Bởi lẽ chừng nào lưỡi dao sắc bén còn ngự trị trong tay, tôi thừa hiểu bản thân chắc chắn sẽ gây ra muôn vàn tội ác tàn khốc còn đáng khiếp sợ hơn cả cái chết của mình gấp trăm lần.`
+\
+play "*9"
+ld c,"tachi/cel_t15",lshutter,800
+`"[line=7]"@
+` Và rồi, chầm chậm bước chân tịch mịch, chị ấy đã cất công tìm đến.@`
+` Tuyệt nhiên tịnh không có lấy một sự biến chuyển hay lay động nhỏ nhặt nào ngự trị trên gương mặt lạnh ngắt như băng tuyết lẫn cả món vũ khí hắc ám oai vệ oai vệ đang toát ra luồng sát khí thấu xương bấy giờ.@`
+br
+` Chị ấy nhẹ nhàng dừng bước đứng trực diện trước mắt tôi trong lúc bản thân đang ngồi đổ rạp bất lực trên mặt sàn nhà.@`
+` Cớ làm sao chứ?@`
+` Chị ấy bấy giờ dẫu vậy tịnh không hề lập tức vung vũ khí kết liễu mạng sống của tôi.@`
+` Đôi bên chúng tôi chỉ đăm đắm nhìn trố mắt vào đối phương tịch mịch tịnh không hé răng nửa lời.`
+\
+!w1000
+`"[line=3] Chị sở hữu duy nhất một câu hỏi muốn dành cho em."@`
+` Mũi lưỡi lê hắc ám oai vệ nhọn hoắt hướng thẳng về lồng ngực nơi trái tim tôi đang đập kịch liệt.@`
+br
+`"Cớ sao em lại tịnh không chịu tháo cặp kính ấy ra?"@`
+`"[line=3]Cớ sao em lại tuyệt đối tịnh không vung dao chống trả chống trả lại chị lấy một lần duy nhất?"@`
+`"…… Sự tình vô cùng đơn giản cơ mà."@`
+` Chỉ đơn giản là, thâm tâm tôi ngay từ thuở ban đầu tuyệt nhiên chưa từng một tích tắc nhen nhóm ý nghĩ muốn tổn hại chị.@`
+`"Bản thân em tuyệt đối chịu chết tịnh không thể vung dao làm ra sự tình tàn độc tàn nhẫn nhường ấy đối với chị đâu, Senpai."`
+\
+`"Tàn độc sao? ... Em bị ngu ngốc điên loạn rồi sao? ... Chị chuẩn bị tự tay kết liễu mạng sống của em đấy. Chị tuyệt đối tịnh không phải là Senpai gì của em cả. Chị đã sớm vạch trần tất thảy ngọt ngào bấy lâu nay toàn bộ chỉ là một ảo ảnh dối trá, thế mà em dẫu vậy vẫn chịu chết tịnh không chịu thấu triệt hả..."!@`
+` …… Thanh âm lạnh ngắt ấy cất lên nghe có vẻ vô cùng u uất khó chịu.@`
+` Người con gái ấy bấy giờ…… thực sự đang dâng trào sự phẫn nộ tột cùng.@`
+br
+` [line=3]Cô ấy quá ... giận dữ.@
+br
+` Tôi nhạy cảm nhận ra dẫu cho gương mặt xinh tú ấy bấy giờ đang cố gượng trưng ra vẻ lạnh ngắt như băng tuyết dửng dưng, dẫu vậy đôi bờ vai trần và đôi bàn tay chị bấy giờ đang không ngừng run rẩy dữ dội kịch liệt vì phẫn uất giằng xé.`
+\
+`"…… Bản thân em dõng dạc thấu triệt rõ ràng rồi.@ Chị Ciel ơi, chính chị đã nhẫn tâm lừa gạt cuộc đời em bấy lâu nay.@ Thực thể mang danh phận dịu hiền ngọt ngào "chị Ciel" bấy lâu nay vốn dĩ tịnh không hề tồn tại từ thuở ban đầu.@ Em hiểu rõ chân tướng sự tình rồi."@`
+`"Nếu em đã sớm hiểu rõ chân tướng nhường ấy, cớ làm sao em dẫu vậy……!"@`
+`"…… Em lạy chị, xin chị đừng lo lắng bận tâm.@ Dẫu cho thực thể mang danh "chị Ciel" dịu hiền ngọt ngào ngày trước có toàn bộ là một lời nói dối nhơ nhuốc đi chăng nữa, điều đó bấy giờ dẫu sao cũng tịnh không còn quan trọng nữa rồi."@`
+`"Bản thân em thực sự đã vô cùng hạnh phúc vui vẻ nhường ấy.@ Khoảng thời gian ngọt ngào đôi bên kề vai sát cánh bên nhau dẫu cho tịnh không mang chút ý nghĩa nào đối với cuộc đời chị, dẫu vậy đối với bản thể em đó lại là báu vật vô giá trân quý tột cùng bấy lâu nay."@`
+br
+` ... Đó là lý do tôi cảm thấy ổn.@
+` …… Thế nên, thâm tâm em lúc này thực sự đã vô cùng mãn nguyện rồi.@`
+` Cho dẫu đối với chị tất thảy ngọt ngào bấy lâu nay toàn bộ chỉ là ảo ảnh dối trá nhơ nhuốc xảo trá đi chăng nữa,`
+` thì việc linh hồn tôi được cứu rỗi che chở bởi chính người con gái ấy vẫn luôn là sự thật hiển nhiên bất biến không thể gột rửa nổi.`
+`"[line=3]Độc nhất vì nguyên cớ ngọt ngào ấy, tất thảy mọi sự bấy giờ đều ổn thỏa rồi."@`
+` Những tuần lễ ngắn ngủi bên nhau ấy thực sự đã mang lại cho cuộc đời em niềm hạnh phúc dịu hiền tột cùng.@`
+` Nếu bản thân em bấy giờ lại ôm lòng căm ghét oán hận chị tại chốn này, tôi chắc chắn sẽ tự tay đánh mất đi cả báu vật ngọt ngào trân quý ấy mất.@`
+` Cho dẫu chị có lừa gạt lừa dối tôi đi chăng nữa, dẫu vậy thì đó vẫn là một nửa ngọt ngào thực sự của cuộc đời tôi.@`
+` Về phía bản thân, tôi vô cùng khát khao muốn biến nửa ngọt ngào ảo ảnh ấy thành sự thật hiển nhiên chân thực, cho tới tận giây phút trút hơi thở cuối cùng.`
+br
+` …… Cho dù việc cắn răng đánh đổi cả sinh mạng xương thịt tự thân này hòng gìn giữ một ảo ảnh dịu hiền nhường ấy trông có vẻ là một tâm nguyện vô cùng nực cười ngớ ngẩn đi chăng nữa.`
+\
+`"[line=3]Chỉ vì nguyên cớ hoang đường ấy... chỉ vì ảo ảnh ấy mà em chấp nhận vứt bỏ vứt bỏ sạch sẽ sinh mạng xương thịt tự thân của mình sao? Một tâm nguyện như thế, ước mơ sinh tồn của cuộc đời em lại nhỏ bé thảm hại đến nhường này sao?"@`
+`"…… Em xin lỗi.@ Có lẽ nó thực sự quá đỗi nhỏ bé thảm hại thật."@`
+br
+` [line=3]Thế nhưng bấy giờ, tâm nguyện to lớn thứ hai mà tôi luôn hằng trân quý nhất chính là...@`
+` Ngoại trừ ước muốn nhỏ bé ấy ra, tôi lúc này tuyệt nhiên tịnh không còn mong khát điều gì khác trên đời nữa cả.`
+\
+`"[line=3]Bản thân chị bấy lâu nay đã từng cật lực lùng sục gặp gỡ vô vàn hạng người trên đời, thế nhưng..."@`
+` Cô ấy tiến lại gần.@
+`"Đây thực sự là lần đầu tiên chị phải đối mặt với một kẻ ngốc nghếch đến điên cuồng nhường này, em đấy Tohno-kun."@`
+` Senpai lạnh lùng đặt mũi lưỡi lê hắc ám nhọn hoắt găm chặt vào chính giữa lồng ngực nơi tim tôi đang đập kịch liệt.`
+\
+`"[line=6]@"@
+`"[line=6]@"@
+` Làm sao vậy?@
+` Chị ấy dẫu vậy tuyệt nhiên tịnh không hề kéo cò súng kích nổ phát bắn chí mạng.@`
+` Đôi mắt đang nhìn tôi hoàn toàn trống rỗng.@
+` …… Ánh mắt vô cảm nhạt nhòa ấy của Senpai đăm đắm nhìn trố mắt vào tôi bấy giờ dẫu vậy tịnh không phải là do lòng chị lạnh lùng băng giá tàn độc đâu, mà là bởi...`
+` [line=3]Chỉ đơn giản là vì người con gái ấy hoàn toàn chịu chết chịu chết không cách nào lừa dối nổi bản tâm nhân tính tự thân, thế nên vào giây phút cuối cùng này, chị chỉ còn biết dốc toàn lực đóng băng đóng cứng mọi cảm xúc giằng xé bên trong mà thôi.`
+\
+`"[line=5]@
+` Đúng thế đấy, bản thân tôi bấy giờ cuối cùng cũng chầm chậm thấu triệt hoàn toàn sự tình ấy rồi.@`
+` [line=2]Mỗi khi chị ấy trưng ra đôi mắt lạnh ngắt vô cảm băng giá nhường ấy, chị tuyệt nhiên tịnh không hề lừa gạt cuộc đời tôi đâu — mà thực chất là chị đang điên cuồng tự lừa dối dày vò chính bản thân mình đấy.`
+\
+`"…… Chị dứt khoát không định ra tay kết liễu mạng sống của em sao, Senpai?"@`
+`"[line=3] Em nói điên rồ gì thế.@ Vào giây phút lâm chung cuối cùng, chị bắt buộc phải cắn răng lắng nghe lời xưng tội xưng tội sám hối của em mới phải chứ.@ Dẫu sao chị dẫu vậy vẫn là một giáo sĩ của Giáo Hội cơ mà."@`
+`"…… Ồ.@ Bản thân tôi bấy giờ quả thực chịu chết tịnh không sở hữu bất kỳ điều gì đáng để xưng tội cả, thế nhưng liệu tôi có thể mạo muội xin phép hỏi chị một câu được không?"@`
+`"[line=4] Có.@ Nói ngắn gọn đi."@
+`"…… Vâng, sẽ rất nhanh thôi ạ.@ Chỉ là, bản thân em bấy giờ vô cùng thắc mắc cớ làm sao trông gương mặt chị lúc này lại có vẻ như sắp sửa bộc phát khóc nấc lên nhường ấy vậy."@`
+` Giống như một cú sốc,
+` Hệt như bị giáng một cú sốc trời giáng kịch liệt, bả vai và thân hình chị Ciel bỗng chốc run lên bần bật kịch liệt bấy giờ.`
+\
+`"[line=3] Chị... chị tuyệt đối... tịnh không hề... đang khóc."@`
+` Gương mặt thanh tú xinh đẹp ấy chắc chắn vẫn đang cố gượng đông cứng lạnh ngắt hệt như tuyết mùa đông khi căm phẫn phủ quyết chối bỏ sự tình ấy.@`
+` …… Nghe thấy thế, tôi thậm chí còn nghiêng đầu sang một bên.@
+br
+` [line=4]Nhưng, dù sao đi nữa,
+br
+`"…… Thế nhưng gương mặt chị bấy giờ dẫu vậy trông vẫn quá đỗi bi thương hệt như đang khóc nấc lên vậy.@ Bản thân em dẫu vậy chịu chết tịnh không rõ nguyên cớ là vì sao đâu."@`
+`"Đó độc nhất chỉ là ảo giác ảo ảnh do trí tưởng tượng của em dệt nên mà thôi.@ Bản thân chị bấy giờ tuyệt nhiên tịnh không hề cảm thấy chút cảm xúc lay động nào cả."`
+\
+`"[line=3]Cảm xúc lay động độc nhất vô nhị ngự trị trong tâm hồn chị lúc này chỉ hiện diện duy nhất một khao khát muốn được nhắm mắt lìa đời dưới tư cách một con người bình thường mà thôi.@ Tuyệt đối tịnh không còn bất kỳ điều gì khác cả."@`
+` Cô ấy nói thế với đôi mắt vô cảm.@
+` Đôi mắt nhạt nhòa nhạt nhòa băng giá ấy thì thầm lời lạnh lùng nhường ấy.@`
+` Lồng ngực tôi bấy giờ đột ngột nhói đau…… một nỗi buồn bi thương giằng xé dữ dội tột cùng.@`
+\
+`"... Thật đáng thương xót tột cùng.@ Cho tới tận giây phút lâm chung cuối cùng bấy giờ dẫu vậy chị vẫn cố cắn răng lừa dối em sao, Senpai?"@`
+`"[line=7]"@
+` Không có phản hồi.@
+` Hệt như một thực thể đã bị đóng băng đông cứng trọn vẹn bởi nỗi đau đớn tột bực, chị ấy đứng im lìm bất động tịnh không hề nhúc nhích mảy may.`
+\
+`"[line=3] Còn em thì sao chứ?@ Bản thân em dẫu vậy rõ ràng cũng đang dối lòng lừa dối chính mình cơ mà.@ Chị chịu chết tịnh không tin nổi một kẻ khao khát muốn được sống như em lại cam lòng chấp nhận để chị tự tay sát hại kết liễu cuộc đời tại chốn này đâu, đúng chứ?"@`
+`"…… Sự thực dĩ nhiên là thế rồi ạ.@ Bởi lẽ một khi bản thân phải lìa đời lạnh lẽo, tất thảy muôn vàn hạnh phúc ngọt ngào trên đời sẽ lập tức vỡ vụn biến thành hư vô sạch sẽ.@ Tôi đã từng nếm trải ranh giới cái chết tàn khốc ấy một lần rồi, thế nên bản thân dõng dạc thấu triệt sâu sắc điều đó lắm.@ ... Thực tâm, tôi vô cùng khát khao khao khát khao khát muốn được sống.@ Thế nhưng tôi tuyệt đối tịnh không muốn bản ngã tự thân chỉ sống sót lết đi hệt như một cái xác không hồn vô nghĩa lý."`
+\
+` "... Vâng, tôi cũng không muốn như vậy."@
+` Ngay cả khi tôi có thể tiếp tục sống, chẳng còn gì cho tôi sau đó.@
+` Người được gọi là Tohno Shiki sẽ chết và làm những điều tương tự như người này đã trải qua.@
+` Nhưng, hơn thế nữa.@
+` Và quan trọng hơn tất thảy mọi sự trên đời.@`
+` Nếu bản ngã tôi hèn nhát lết sống tại chốn này, điều đó đồng nghĩa với việc tôi sẽ vĩnh viễn đánh mất đi Senpai quý giá của cuộc đời mình.`
+` Bản thân tôi tuyệt đối tịnh không cách nào cắn răng cam chịu nổi một kiếp sinh tồn cô độc đầy nhơ nhuốc nhường ấy.`
+`"…… Senpai ơi, tất thảy muôn vàn ký ức đôi bên kề cạnh bên nhau bấy lâu nay thực sự đã vô cùng hạnh phúc ngọt ngào vui vẻ vô ngần.@`
+` Khoảng thời gian em được kề vai sát cánh bên chị cùng Arihiko tuyệt nhiên tịnh không tồi chút nào.@ Ngay cả muôn vàn khoảnh khắc giờ nghỉ giải lao đôi bên lẳng lặng cùng nhau sẻ chia dẫu vậy dẫu vậy cũng vô cùng thú vị ấm áp, trông hệt như một giấc mộng dịu hiền ngọt ngào ngọt ngào vậy.@`
+` [line=3]... Đó có lẽ chính là giấc mộng ngọt ngào nhất cuộc đời em. Dẫu cho chịu chết tịnh không bao giờ có thể trở thành hiện thực đi chăng nữa, em dẫu vậy dẫu vậy thực tâm vô cùng mong muốn kiếp sống ngọt ngào ấy cứ mãi mãi tiếp diễn hoài."@`
+`"Em vẫn chịu chết chưa chịu bừng tỉnh ngộ ra sao? Chị đã sớm dõng dạc nói rõ ràng trọn vẹn rồi cơ mà, tất thảy ngọt ngào bấy lâu nay toàn bộ chỉ là một ảo ảnh dối trá xảo trá."@`
+`"[line=4]Đúng là như thế thật, dẫu vậy thì tất thảy ảo ảnh ngọt ngào ấy dẫu sao vẫn thực sự vô cùng hạnh phúc vui vẻ dịu hiền."@`
+` Khi bản thân khẽ thốt lên lời thì thầm gan ruột ấy, lồng ngực tôi bấy giờ bỗng chốc trở nên bình yên tĩnh lặng tĩnh lặng đến lạ kỳ.`
+cl c,crossfade,400
+\
+` Chẳng có gì đáng ngại dẫu cho tất cả chỉ là một ảo ảnh mong manh tuyệt đối chịu chết tịnh không cách nào chạm tay nắm giữ nổi. Bản thân tôi dửng dưng tịnh không thèm bận tâm dẫu cho đó chỉ là một ảo giác ảo ảnh vô nguyên cớ chưa từng chân chính tồn tại trên đời ngay từ thuở ban đầu.@`
+` [line=3]Tuyệt nhiên không, biết đâu chính vì nó chỉ là một ảo ảnh ảo giác mong manh nhạt nhòa nhạt nhòa nhạt nhòa, thế nên vào giây phút lâm chung cận kề này, muôn vàn khoảnh khắc ngọt ngào được kề kề bên Senpai dẫu vậy mới lại dâng trào cảm giác trân quý tột bực nhường này chăng.@`
+` Dù sao đi nữa, tôi không thể thoát khỏi lúc này.@
+` [line=3][line=4]Nếu bản thân tôi dẫu vậy chỉ có thể tiếp tục đắm chìm đắm chìm chiêm ngưỡng đắm chìm sâu vào giấc mộng dịu hiền ngọt ngào ấy mãi mãi, thì đó quả thực là điều tuyệt diệu tột cùng rồi.`
+\
+ld c,"tachi/cel_t15",crossfade,400
+`"[line=5]Bằng cách nào chứ?"@`
+` Chị ấy khẽ cất lời thì thầm nghẹn ngào, "Ngốc nghếch thật chứ."@`
+` Và rồi, đôi bàn tay chị bấy giờ chầm chập khẽ dịch chuyển lưỡi lê nhọn hoắt thêm một chút.@`
+br
+` Lưỡi thép sắc lạnh nhẹ nhàng cắm sâu thẳng vào da thịt lồng ngực tôi.@`
+` Chỉ một chút nhọn hoắt thôi.@ Lưỡi thép cắm ngập xuyên qua lồng ngực tôi chỉ tương đương với độ sâu mỏng manh của một mảnh móng tay trần.@`
+` Đôi mắt cô ấy đã ngừng chuyển động.@
+` Tất cả những gì còn lại,
+` là cô ấy phải bước thêm một bước nữa và mọi thứ sẽ kết thúc.
+\
+`"[line=9]"@
+` Thế nhưng bước chân dứt khoát cuối cùng ấy của chị bấy giờ dẫu vậy vẫn tuyệt nhiên tịnh không hề bộc phát hạ xuống.@`
+` Cô ta cắm chặt thanh ba-yôn, nhìn tôi bằng đôi mắt vô cảm.@
+` Cô ta nghiến răng đau đớn.
+\
+`"... Tôi hiểu."@
+` ... Có lẽ đối với cô ấy, việc làm điều này trong khi tôi đang nhìn thấy là quá khó khăn.@
+` Hơn bất cứ điều gì khác, tôi cũng không muốn thấy gương mặt của người này khi cô ấy đứng bên bờ vực nước mắt.@
+bg #000000,crossfade,800
+` Vì vậy, tôi sẽ không làm phiền cô ấy nữa.@
+` Tôi quyết định nhắm mắt và chấp nhận số phận của mình.
+\
+playstop
+!w2000
+br
+` [line=3]Tiếng đập mạnh. Trái tim tôi run rẩy.@
+` Dù đã chuẩn bị, cảm giác buồn nôn và lạnh vẫn không tan biến.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Tiếng đập mạnh.@
+`   Đập, đập, đập.
+\
+`   Đập, đập, đập liên tiếp.
+\
+`"[line=8][Dừng lại]@
+` Cổ họng tôi đang cháy rát.@
+` Các đầu ngón tay tôi run rẩy không kiểm soát được.@
+` [line=3]Tôi biết. Tôi biết đây là cách tốt nhất, nhưng tôi vẫn sợ.
+\
+` [line=4]Tôi thở gấp, thở gấp, thở gấp.
+br
+` Tôi cố gắng kìm nén hơi thở đang muốn thoát ra.@
+` Cô ấy chỉ cần di chuyển mười phân mét nữa và tôi sẽ trở thành một đống thịt vô dụng.
+\
+` Mặc dù tôi được chuẩn bị cho điều này, trái tim sợ hãi của tôi vẫn lo lắng về việc biến mất mà không để lại dấu vết.
+\
+` [line=4]Tôi thở gấp, thở gấp, thở gấp...@
+br
+` Tôi chỉ làm điều đơn giản là vội vàng đóng miệng và cố chấp nhận số phận của mình.@
+` Có lẽ nó sẽ rất đau nếu tôi bị đâm vào ngực.
+\
+` Tôi sợ mình sẽ không thể suy nghĩ như lúc này nữa.
+\
+`"[line=5]Ư"@
+` Mồ hôi lấm tấm trên trán tôi.@
+` Nhưng vẫn, tôi không muốn nói chuyện.@
+` Nếu im lặng để mọi thứ kết thúc,
+` Cô ấy có lẽ sẽ không còn cảm thấy tội lỗi.
+\
+!w2000
+`"[line=8]Sss"@
+` Tôi nghe thấy một tiếng thốt lên.@
+br
+`"Tại sao"[line=5]@
+` Một giọng nói bị ép buộc.@
+br
+`"Tại sao, làm thế nào?"@
+` Kiếm đâm vào ngực tôi run rẩy.@
+br
+`"Làm sao bạn có thể không ghét tôi?"@
+` Không. Giọng nói của Senpai đang run rẩy.
+\
+`"Tôi, tôi đang cố giết bạn……! Tôi đã lừa dối bạn cho đến giờ, tôi đã phản bội và truy lùng bạn vô tình! Tại sao khuôn mặt bạn lại bình yên như vậy……!"@
+br
+` Nhấn.@
+` Cô ấy vẫn giữ thanh kiếm tại chỗ và tiến lại gần tôi một bước nữa.
+\
+`"Trả lời tôi...! Tôi sẽ giết cô. Không quan tâm đến ý muốn của chính cô, chỉ là một vụ giết người đơn phương...! Sau đó, cô sẽ không được đền bù trừ khi cô ghét tôi, phải không?"@
+br
+` Người học trên tôi hỏi với sự căng thẳng cháy bỏng.@
+` ... Đừng làm vậy. Tôi đang cố gắng hết sức để kiềm chế nỗi sợ này, nhưng nếu tôi trả lời lúc này, cảm xúc của tôi có thể tuôn trào.
+\
+`"Hoặc cô thực sự chỉ ngu ngốc đến thế sao...! Tôi tiêu diệt cô như một con quỷ bẩn thỉu, vậy tại sao [line=3]"@
+br
+` Tôi đã nói với cô ấy rằng đó không phải là lỗi của cô trước đó?@
+br
+`"[line=3]Vì nó không phải là lỗi của cậu, Senpai."@
+`"...!!!"
+\
+bg #ffffff,notrans,0
+` Lưỡi dao đâm sâu vào da tôi.@
+` Nó chắc chắn đã xuyên thủng da vì máu tươi chảy ròng ròng trên ngực tôi.@
+` "Ôi trời ơi... đau quá!"
+\
+bg #000000,crossfade,400
+`"[line=4][hình ảnh] Arcueid hét lên trong đau đớn, tay cầm dao run rẩy.@
+br
+` [line=4]Một cơn đau sắc nhọn.@
+br
+` Vết thương không sâu, nhưng chỉ cần một chút xâm nhập từ Kinh Thánh Thứ Bảy, tâm trí tôi đã tan vỡ.@
+`"[line=4]A... Ah..."@
+` Cơ thể tôi run rẩy không kiểm soát được.@
+` Máu trong người đảo ngược dòng chảy và tôi gần như nôn ra máu vì đau đớn.
+\
+`"[line=3]Đau, phải không? Tôi có thể kết liễu bạn mà không khiến bạn cảm thấy đau đớn, nhưng tôi đang cố tình làm tổn thương bạn như vậy."@
+` "... Trừ khi tôi thích điều này, chúng ta sẽ không thể gọi đó là sự cân bằng cho tất cả thời gian tôi đã dành cho bạn cho đến bây giờ."@
+` Chị ấy dường như đang cắn răng thốt lên lời thì thầm vô cùng nhọc nhằn nhọc nhằn.@`
+` Lưỡi kiếm lê hắc ám trong tay chị chầm chầm cắm sâu sâu sâu thêm vào lồng ngực tôi.`
+\
+`"Hya[line=4]aa!"@`
+` Nỗi đau đớn kịch liệt giằng xé khiến mồ hôi tuôn ra đầm đìa ướt sũng cơ thể tôi.@`
+` Cảm giác ngột ngạt dâng trào hệt như thể tất thảy nội tạng sắp sửa trào ngược phun ra ngoài qua đường miệng vậy.`
+\
+`"Nhìn xem, cớ sao em dẫu vậy vẫn chịu chết tịnh không hề căm ghét căm ghét chị hả, Tohno-kun?@`
+`"Thế nên xin em hãy điên cuồng căm ghét chị đi mà……!@ Hãy bảo rằng chính chị đã nhẫn tâm phản bội dối gạt em.@ Hãy bảo rằng thà em đừng bao giờ tin tưởng chị thì tốt biết mấy.@`
+`"Nếu em tịnh không chịu căm oán chị[line=3]chị chịu chết tịnh không cách nào xuống tay kết liễu đời em nổi đâu……!"@`
+` Giọng nói trầm ấm vốn có của chị bấy giờ rung lên bần bật dữ dội đầy giằng xé giằng xé giằng xé khi thốt lên lời ấy.@`
+` …… Thế nhưng, sự tình ấy dẫu vậy thật quá đỗi lạ lùng.@`
+` Bản ngã tôi tịnh không căm ghét chị vốn dĩ là chuyện tốt đẹp ngọt ngào, cớ sao chị dẫu vậy vẫn cứ tha thiết van nài cầu xin tôi oán hận chị đến thế.@`
+` Trông dáng vẻ chị lúc này hệt như đang lẳng lặng tự nhủ rằng, việc đóng vai ác quỷ tàn ác phản diện chính là hình phạt thích đáng duy nhất mà bản tâm chị bắt buộc phải gánh gánh gánh chịu tội lỗi của mình.`
+\
+`"Á……………… Hự."@`
+` Thế nhưng, đó quả thực là một mệnh lệnh quá đỗi hoang đường chịu chết tôi tịnh không cách nào thi hành nổi.@`
+` Bản thân tôi tuyệt đối tịnh không bao giờ có thể căm ghét chị.@`
+` Tôi tuyệt nhiên chịu chết tịnh không thể căm ghét người con gái bấy giờ trông có vẻ bé bỏng đơn độc hệt như một đứa trẻ thơ sắp sửa khóc nức nở.`
+\
+`"…… Chị đùa hoài.@ Em tuyệt đối chịu chết tịnh không thể căm ghét chị đâu, Senpai."@`
+`"[line=3]Làm ơn... làm ơn dừng lại đi mà……!@`
+`"Cớ sao... cớ sao cho tới tận giây phút lâm chung cuối cùng em dẫu vậy vẫn thốt lên những lời dịu hiền dung thứ nhường ấy……!?@ Kẻ có tội đáng nguyền rủa ở đây chính là chị, còn em dẫu sao đơn thuần chỉ là một nạn nhân tội nghiệp cơ mà……!"@`
+`"…………"@`
+` …… Chẳng lẽ chính bản thân Senpai cũng tịnh không phải là một nạn nhân bất hạnh đầy tội nghiệp sao?@`
+` And no matter what, I'll be taken over by Roa soon.@`
+` Trước thời khắc định mệnh u uất ấy, trước khi tôi vô tình lặp lại những sai lầm tàn nhẫn giống như chị Ciel đã từng nếm trải ngày trước, tôi bắt buộc phải tự tay tiêu diệt thực thể Roa.@`
+` Tịnh không hề tồn tại bất kỳ con đường nào khác hòng tiêu diệt Roa ngoại trừ việc bản thân tôi phải lìa đời lạnh lẽo[line=3]thế nên sự tình này vốn dĩ đã là điều bất khả kháng rồi.`
+\
+`"…… Không sao đâu chị.@ Tuyệt đối tịnh không phải lỗi của chị đâu.@ Mà hơn hết, em thực tâm vô cùng xin lỗi.@ Xin lỗi vì đã cắn răng dồn chị vào hoàn cảnh tàn nhẫn đầy bi thương nhường này nhé, Senpai."@`
+`"[line=4]Đừng... dừng lại đi."@`
+` Chị khẽ thốt lên lời thì thầm u uất u uất run rẩy ấy, đồng thời đầu mũi lưỡi lê hắc ám trong tay chị chầm chậm dịch chuyển lùi xa khỏi lồng ngực tôi đôi chút.`
+\
+`"[line=5][line=5]Khôngchị... chị tuyệt đối... tịnh không thể... để cho Roa trốn thoát nổi đâu."@`
+` Đầu mũi lưỡi lê nhọn hoắt của Đệ Thất Thánh Điển khẽ rung lên bần bật kịch liệt.@`
+` …… Thế nhưng, tất thảy thảm kịch ấy rồi cũng chầm chậm khép lại sớm thôi.@`
+`"Chị tuyệt đối tịnh không thể[line=3]cho phép chuyện hoang đường ấy diễn ra đâu, Tohno-kun."@`
+` Một tiếng nghiến răng chói tai rợn người.@`
+` Chị Ciel nghiến chặt răng dồn toàn lực kìm hãm sự dao động dữ dội của Đệ Thất Thánh Điển.@`
+` Đầu mũi lưỡi lê nhọn hoắt oai vệ hướng thẳng thẳng thẳng trực diện vào nơi trái tim tôi đang đập kịch liệt.`
+\
+`"[line=6]"@
+` Tôi khẽ khẽ lắng nghe thấy tiếng chị ấy hít vào một hơi thật sâu đầy nhọc nhằn.@`
+` Cho dẫu đã nhắm chặt mắt ngủ, bản thân tôi dẫu vậy vẫn cảm nhận rõ đầu ngón tay chị đang run rẩy ghì chặt trên cò súng kích nổ bấy giờ.@`
+` *Cạch.*`
+` Ngay thời khắc cận kề âm thanh kim loại khô khốc ấy phát ra,`
+\
+`"Em thực tâm vô cùng cảm ơn chị.@ Dẫu cho tất thảy ngọt ngào bấy lâu nay toàn bộ chỉ là một ảo ảnh dối trá đi chăng nữa[line=3]được làm em trai của chị, được gọi chị là Senpai vẫn là sự tình tuyệt vời vô ngần đối với em."@`
+br
+` Giây phút lâm chung cuối cùng, tôi dốc hết tàn lực thốt lên lời thì thầm gan ruột tự đáy lòng mà tôi luôn hằng khao khát muốn thổ lộ cùng chị nhất.`
+\
+bg #9c0120,crossfade,800
+wave se_10
+Lắc đầu 3,100 lần.
+!w3000
+bg #ffffff,crossfade,1500
+!w3000
+br
+`"……… Ư... hức..."`
+\
+br
+` [line=3]Phảng phất bên tai, tôi dẫu vậy vẫn chầm chậm nghe thấy một thanh âm nghẹn ngào cất lên.`
+\
+br
+`"Oa…… oa... hức... hức..."`
+\
+br
+` [line=3]Thanh âm thổn thức.@`
+` Tôi lẳng lặng nghe thấy tiếng khóc nấc giằng xé tâm can của một đứa trẻ thơ đơn độc đang bộc phát nức nở.`
+\
+br
+`"Oa…… oa…… oa…… hức..."`
+\
+br
+` [line=3]Một tiếng xoảng khô khốc vang dội.@`
+` Mòn vũ khí hắc ám oai vệ oai vệ bỗng chốc tuột khỏi tay chị rồi rơi thẳng xuống mặt sàn nhà lạnh ngắt.`
+` Một con dao găm chĩa vào tường sau lưng tôi như một mũi tên.
+\
+br
+` [line=3]Hic. Hic. Một giọng nói đầy đau đớn.@
+` Tôi nhận ra nguồn gốc của giọng nói ấy và chậm rãi mở mắt ra.
+\
+bg "bg/bg_11c",crossfade,800
+`"[line=6]"@
+` Không còn là người thầy (Senpai) mà tôi vừa thấy.@
+` Người đứng trước mặt tôi chỉ là một cô gái đang khóc đau đớn.@
+br
+` Tay cô ấy không cầm gì cả.@
+` Kinh thánh thứ bảy nằm ngã trên sàn nhà.@
+` Nơi thanh kiếm vốn nên xuyên qua trái tim tôi lại được cắm vào bên hông tôi.
+\
+`"... U... ừa, aah, aah..."@
+` ... Senpai chỉ khóc.
+\
+` Tôi không biết cô ấy buồn về chuyện gì, nhưng nước mắt cô ấy đau đớn đến mức tôi nghĩ cô ấy sẽ nôn máu.
+\
+`"... Sen, pai."@
+` Tôi gọi tên cô ấy.@
+`"... Điều đó không công bằng... Tohno-kun, điều đó không công bằng..."!@
+br
+` Shiki co thắt cổ họng, gào lên như một đứa trẻ bị chiều chuộng.@
+br
+`"... Nói... Nói điều đó không công bằng...! Tại sao... tại sao tôi không thể..."!@
+br
+` Nước mắt lăn dài trên gương mặt cô ấy.
+\
+`"Tôi không thể... Ngay cả khi tôi có thể tự sát bất cứ lúc nào, nếu bạn nói với tôi như vậy, tôi không thể..."!@
+br
+` Cô ấy dường như xấu hổ khi nhìn thấy tôi.@
+br
+`"Nói 'cảm ơn' như thế này[line=3] Tôi không thể, để một người hạnh phúc như vậy chết như vậy[line=4]"@
+br
+` Cô ấy che mặt bằng tay và tiếp tục khóc nức nở.
+\
+`"... Senpai. Thấy bạn khóc khiến tôi lo lắng."@
+` "Tôi... không biết phải làm gì."@
+`"Ư... ư, ôi trời ơi!"@
+` "Lời tôi nói có lẽ là sự lựa chọn sai lầm, khi người con gái ấy khóc to hơn."@
+br
+`"[line=5]Chuyện này tại sao lại xảy ra đột ngột thế này...!"@
+` "Tôi cũng không hiểu tại sao mình lại làm vậy."@
+` "Nhưng, tôi không thể bỏ mặc người đang khóc trước mặt tôi, nên tôi kéo cô ấy vào lòng và ôm chặt."
+\
+bg "event/cel_e07a",crossfade,800
+play "*7"
+br
+` [line=4]"Chúng tôi va chạm với một tiếng động lớn."@
+br
+` "Người Senpai gục xuống ngực tôi và tiếp tục khóc, giọng khàn đi."@
+`"……… Tôi xin lỗi……!"@
+br
+` [line=3]Tôi xin lỗi.@
+br
+` Với giọng run rẩy, cô ấy lặp lại điều đó liên tục.
+\
+`"[line=6]"@
+` …… Điều này là gì?@
+` Sau đó, sự dối trá thực sự là người con gái ấy của tôi cho đến bây giờ.@
+` Cuối cùng, tôi cũng gặp được người con gái ấy.@
+` Đã một tiếng đồng hồ kể từ khi tôi gọi cho cô ấy, nhưng tôi cảm thấy như đã chờ đợi rất lâu.
+\
+`"…… Không cần phải xin lỗi, Senpai."@
+` Tôi chỉ muốn làm thế, và tôi ôm cô ấy bằng bàn tay phải vẫn còn hoạt động của mình.@
+`"[line=8]A..."@
+` Một giọng nói giống như thứ gì đó bị kéo căng vừa mới bị gãy.@
+` Senpai cuối cùng cũng ngừng khóc.
+\
+br
+` …… Đập. Đập.@
+` Tôi có thể nghe thấy nhịp tim của người đối diện với tôi giống như nhịp tim của chính mình.
+\
+`"………"@
+` Nó quá yên tĩnh.@
+` Tôi không tìm thấy từ ngữ thích hợp để nói.@
+` Nhưng ở lại như thế này[line=3], chỉ nghe nhịp tim của cô ấy là đủ.@
+br
+` [line=3]Điều tôi thực sự mong muốn.@
+` Điều tôi thực sự ước ao chỉ là một điều nhỏ bé. Như vậy, việc có Senpai như hiện tại cũng đã ổn rồi.
+\
+`"... Senpai. Cơ thể bạn ấm áp."@
+`"... Không. Người ấm áp là bạn, Tohno-kun. Tôi là người rất lạnh lùng. Tôi[line=3]đã làm những điều tồi tệ đến một người tốt như vậy."@
+` ... Không, Senpai. Tôi không tốt bụng.@
+` Ngay cả bây giờ, tôi chỉ muốn chạm vào bạn, Senpai.@
+` [line=4]Tôi chỉ muốn ở như vậy mãi mãi.@
+`"... Đừng lo. Tôi vẫn còn sống, nên cũng không sao. Nếu... chúng ta có thể tiếp tục làm điều này, thì cũng không sao."
+\
+br
+` Tôi đã chết một lần cách đây rất lâu.@
+` Sau đó, tôi nhận ra niềm vui đơn giản chỉ là được sống.@
+` Một thế giới nơi cái chết có thể nhìn thấy được.@
+` Một thế giới nơi tôi có thể nhìn thấy cái chết.@
+` Mỗi lần, những thứ dễ mất đi.@
+br
+` Nhưng, đó là lý do tại sao[line=4]sống là hạnh phúc.@
+` Cảm nhận điều đó, và có thể cảm nhận được sự ấm áp của Senpai như thế này, chính là một niềm vui vô cùng lớn lao.
+\
+`"Senpai.[line=3] Em thực sự rất quý mến anh."@
+`"………@
+`"Tôi không muốn chết. Tôi muốn sống càng lâu càng tốt, và tôi muốn ở bên anh như vậy, Senpai."@
+` Rõ ràng,
+` Tôi nắm chặt tay cô ấy.@
+`"Vì vậy, tôi muốn anh sống. Xin… xin đừng nói rằng ước nguyện của anh là chết."@
+`"... ..."@
+` Không có câu trả lời nào.@
+` Tiếng đập, đập.@
+` Chỉ có tiếng tim cô ấy đập qua da thịt chúng ta.
+\
+bg "event/cel_e07b",crossfade,800
+`"..."@
+` Bất ngờ,
+` Cô ấy nói bằng giọng khóc nức nở.
+\
+`"... Đó là điều duy nhất giúp tôi kiên trì cho đến bây giờ."@
+` "Tôi có thể chết. Nếu Roa biến mất, tôi sẽ chết. Tôi phải chết. Đó là lý do tôi có thể chịu đựng mọi thứ cho đến giờ."@
+` "[line=4]Vì tôi đã giết cha mẹ mình, vì tôi đã giết tất cả mọi người, vì tôi trở nên như thế này, và vì tôi lừa gạt bạn và cố gắng giết bạn, tôi, không do dự, phải chết."
+\
+`"... Tại sao cậu phải chết?@"@
+` "Chắc chắn cậu đã làm nhiều điều đau đớn, nhưng đó không phải lỗi của cậu, Senpai..."!"@
+`"Cậu nói vậy, nhưng tôi đã làm tất cả bằng chính đôi tay mình, Tohno-kun."@
+`"Không...! Người có lỗi là Roa. Không có lý do nào cậu phải chết, Senpai!"@
+`"[line=3]Nhưng cũng không có lý do gì để tôi tồn tại nữa."@"@
+br
+` Nói vậy,
+` Một nụ cười không vui được trao đi.
+\
+`"... Tôi biết. Tôi biết mình không có quyền. Tôi đã làm nhiều chuyện khủng khiếp."@
+br
+` Nhưng tại sao?@
+` Cô ấy hỏi bằng giọng run rẩy.@
+br
+`"Tôi không xứng đáng được hạnh phúc. Đó là lý do tôi chưa bao giờ nghĩ đến nó, thậm chí còn không dám mơ về nó..."@
+` [line=3]Nhưng... tại sao?@
+` (Một tiếng đập mạnh.)@
+` Giống như một đứa trẻ khóc lóc, Senpai gõ vào ngực tôi bằng bàn tay.
+\
+`"[line=3]Tại sao [lẻ 3], giờ đây tôi lại thấy,"@
+` giấc mơ tội lỗi này?@
+br
+` Cô ấy chôn mặt vào ngực tôi khi nói như vậy.
+\
+`"... Nó rất vui vẻ."@
+` [line=4]Ngay cả khi tôi biết đó là tất cả đều là dối trá và tôi chỉ đang diễn ra cuộc sống nơi tôi cảm thấy hạnh phúc, tôi vẫn nghĩ nó ổn như thế này [lẻ 4] nó rất vui vẻ, tôi không muốn nó kết thúc ngay cả khi tôi biết đó là tất cả đều là dối trá.@
+` Một niềm vui gần giống như giấc mơ mà tôi muốn kéo dài mãi chỉ thêm một ngày nữa."@
+br
+` "... Tôi hiểu rồi.@ Điều chúng ta mong muốn, điều chúng ta ước ao, cuối cùng cũng giống nhau.
+\
+`"[line=3][lẻ 3] Nhưng, sự ích kỷ đó không thể được phép."@
+` Tôi phải giết Roa nhanh chóng và nhận lấy hình phạt của mình.@
+` Tôi không có quyền sống một cuộc đời bình thường như cậu, Tohno-kun.@
+` Một điều như vậy, tôi hiểu mà không cần cậu nói ra.@
+` Nếu tôi mong ước một giấc mơ như thế và thậm chí còn không thể giết cậu, tôi chỉ có thể biến mất.@
+` Không còn lý do nào để tôi ở lại đây nữa.@
+` Senpai nói với vẻ mặt đau khổ.
+\
+`"... Tạm biệt. Tôi thực sự hạnh phúc khi nghe cậu cảm ơn tôi."@
+bg #000000,crossfade,800
+` Senpai lùi lại xa tôi.@
+` Nhịp tim tôi cảm nhận cho đến giờ này đột ngột ngừng lại.
+\
+` ... Người này đã nói lời tạm biệt với tôi nhiều lần như thế.@
+` Ngay cả lúc đó.@
+` Với nụ cười, cô ấy nói như thể điều đó rất quan trọng với cô ấy vậy.@
+br
+` [line=3]Tạm biệt.@ Tôi thực sự muốn trở thành học sinh giống như bạn và Inui-kun.@
+br
+` ... Thật ra, tại sao tôi lại không bao giờ nhận ra điều đó?
+\
+` Cô ấy luôn nói những điều đơn giản,
+` Như thể chúng là một giấc mơ xa xôi đối với cô ấy vậy.
+\
+`"[line=3]Không, đây không phải là giấc mơ."@
+bg "event/cel_e07b",crossfade,400
+`"[line=4]Ồ... vậy à!"@
+` Tôi kéo cơ thể của Senpai lại gần mình.@
+` Ít hơn vì tình yêu và nhiều hơn vì nỗi buồn, tôi ôm cô ấy chặt hơn.
+\
+`"[line=5]Đủ rồi, Tohno-kun. Đừng cố lừa gạt tôi nữa."@
+`"Không. Tôi không còn tin vào những lời dối trá của cậu nữa, Senpai."@
+` Tôi ôm cô ấy gần mình, khi cô ấy cố thoát ra.@
+`"Nếu cậu muốn tiếp tục, thì cứ tự do làm. Nhưng những gì cậu nói chắc chắn không phải là giấc mơ."@
+`"Không thể... không thể đâu."@
+`"Tại sao? Sau tất cả, nó thực sự xảy ra trong hiện thực. Đó là một cách sống, nếu cậu mong muốn nó, nó sẽ quay trở lại. Đừng gọi những điều đơn giản như vậy là giấc mơ."
+\
+`"... Không thể nào. Tôi đã làm tổn thương cậu nhiều lắm, Tohno-kun, đã muộn để quay lại rồi."@
+`"Không sao đâu. Tôi không phiền, nên cậu cũng không nên phiền.@
+` "Xem này, tôi nghĩ mình đã trải nghiệm điều gì đó vô cùng hiếm hoi — bị theo đuổi bởi người mà tôi thích."@
+` Tôi cố gắng tỏ ra vui vẻ và hài hước nhất có thể.@
+`"... ..."@
+` Senpai im lặng.
+\
+`"Đêm nay, cậu trông thật tuyệt. Những bộ áo choàng linh mục cũng đẹp, nhưng trang phục của cậu đêm nay thực sự rất phù hợp với cậu. Tôi may mắn được chứng kiến điều đó."@
+`"... ..."@
+` Senpai vẫn im lặng.
+\
+`"Senpai, cậu trông khác biệt khi không đeo kính. Cậu thật đẹp trai và trông già hơn."@
+`"……………………"@
+br
+` Như dự đoán, Senpai im lặng.
+\
+` [line=8]Dù tôi nói gì, Senpai cũng không trả lời.@
+` Tôi cố gắng hết sức để làm dịu bầu không khí nhưng thất bại thảm hại.@ Tôi không biết mình còn thể nói điều gì khác.@
+` "…… Senpai ơi, nói điều gì đó.@ Hoặc Senpai không muốn nói chuyện với tôi lúc này sao?"@
+br
+`"…………………………"@
+\
+`"Senpai vẫn im lặng.@
+` Senpai không trả lời.@
+` Cô ấy chỉ vuốt ve trán mình trên ngực tôi.@
+` Nhẹ nhàng, như một tiếng thì thầm,
+br
+`"... Ngốc ạ,"@
+br
+` ... là những gì cô ấy cuối cùng nói.
+\
+`"... Tohno-kun, cậu thật ngốc."@
+` Tôi, tôi không phải là người mà cậu nghĩ, vậy làm sao cậu có thể tốt với tôi như thế?"@
+`"Vì tôi không muốn cậu khóc. Tôi muốn cậu cười; tôi muốn cậu vui lên."@
+`"... Nhưng, tôi không có quyền. Tôi không có quyền nhận sự tốt đẹp của cậu."
+\
+`"………………"@
+br
+` [line=3]Quyền được nhận sự tử tế.@
+` Tôi cũng không có điều đó.@
+` [line=3]Nhưng, vẫn là người đã cười nhạo và nói với tôi rằng tôi không cần điều đó, chính là cô ấy.
+\
+`"Tôi không biết. Tôi không biết hoàn cảnh của cô, và thành thật mà nói, tôi chẳng quan tâm. Tôi không làm điều này vì lợi ích của cô, nên đừng lo lắng."@
+br
+` Vào thời điểm đó.@
+` Sau khi tôi giết Arcueid và khi tôi chỉ còn nghĩ đến việc tự sát, giống như những gì cô đã nói với tôi vào lúc đó.
+\
+`"…… À, ừm. Tôi nghĩ tôi đang làm điều này vì muốn tử tế với cô."@
+` "Tình huống của cậu không liên quan gì đến điều này. Nó có thể khiến cậu phiền phức, nhưng hãy nghĩ rằng mình chỉ bị một học sinh cấp dưới độc ác bắt giữ và buông bỏ."@
+` Khó khăn hơn.
+` Tôi ôm cô ấy chặt hơn nữa, và ép hai cơ thể chúng tôi vào nhau.
+\
+`"[line=5]Ôi, Tohno-kun."@
+`"Tôi không biết về những tội lỗi của cậu."@
+` "[line=3]Tôi thích bạn, tôi yêu bạn, Senpai ơi. Đó là lý do tôi đối xử tốt với bạn."@
+` Mọi thứ khác đều không quan trọng. Tôi chỉ muốn hạnh phúc bên cạnh cậu. [line=3] Tôi muốn ở bên cậu mãi mãi, nên tôi không muốn cậu chết.@
+`"[line=3][line=4]Nhưng tôi, tôi"@
+`"... Nhưng vẫn thế. Nếu cậu nói rằng mình không muốn hạnh phúc, cũng được. Tôi sẽ chỉ làm điều tôi muốn, và bất kể cậu có ghét nó đến mức nào, tôi sẽ ở bên cạnh cậu và khiến cậu hạnh phúc..."!
+\
+`"[line=3]Vì vậy, xin đừng nói lời tạm biệt nữa."@
+` Khi nói như vậy, tôi đưa tay lên mặt cô ấy.@
+`"[line=6]Shiki."@
+` Sau khi cô ấy thì thầm...
+` Hoàn toàn tự nhiên, đôi môi chúng ta gặp nhau.
+\
+bg #000000,crossfade,800
+playstop
+!w1000
+bg "bg/bg_11c",crossfade,400
+`"[line=5]Mm..."@
+` ... Đôi môi chúng ta tách ra.@
+` Ciel-senpai buông tay xuống bên cạnh và lùi lại xa tôi.
+\
+`"@ ……"@
+` ... Hành lang im lặng.@
+` Nhìn ánh trăng xanh mờ ảo che phủ thế giới khiến tôi đột nhiên tỉnh ngộ.
+\
+`"@ Ha... ừm."@
+` Tôi chỉ... đã làm một kẻ ngốc lớn.@
+` Ngay cả khi không có lối thoát cho tôi, việc ôm lấy cô ấy cũng vô nghĩa.@
+` Nhưng, tôi vẫn không thể kiềm chế được hành động đó.@
+` Nếu tôi có thể, tôi muốn ở như vậy mãi mãi.
+\
+`"Tohno-kun.@ Có được nói như vậy không?"@
+`"[line=3][line=3]Xin lỗi, tôi không suy nghĩ cẩn thận. Tôi thậm chí còn không biết phải làm gì với bản thân mình và đã nói ra những lời kiêu ngạo như thế."@
+`"Đó không phải là điều tôi muốn nói. Tôi đang hỏi cậu có thực sự có thể hứa với tôi như vậy không."@
+` Sự yếu đuối trong giọng nói của cô ấy hoàn toàn biến mất.
+\
+`"... Tất nhiên rồi. Tôi như vậy, nhưng miễn là còn một phần tôi tồn tại, tôi sẽ luôn yêu cậu, Senpai."@
+`"Đừng nói những điều vô trách nhiệm. Nếu cậu muốn làm tôi hạnh phúc, cậu phải ở lại là Tohno-kun."@
+br
+` ... Đúng vậy, nhưng điều đó sẽ không xảy ra.@
+` Tôi không thể tin được rằng tôi sẽ là chính mình khi ngày mai đến.
+\
+`"... Xin lỗi. Tôi... thật vô vọng. Senpai, khi tôi đến một điểm mà tôi không thể quay lại, vào lúc đó[line=3]"@
+`"[line=3]Tôi sẽ không để bạn chết."@
+` Cô ấy tuyên bố.@
+` Cô ấy ngắt lời tôi mạnh mẽ.
+\
+`"Tôi sẽ không để bạn chết. Tôi sẽ không để Roa có được bạn."@
+`"Senpai, nhưng[line=3]"@
+`"Tôi sẽ bảo vệ bạn. Tôi sẽ cứu bạn, bất kể điều gì. Vì vậy[line=3]hãy đừng nói như vậy."@
+` Senpai nhanh chóng đứng dậy và với một vẻ mặt nghiêm túc, băng bó vết thương của tôi.
+\
+ld c,"tachi/cel_t14",crossfade,400
+`"... Chấn thương dường như đã lành lại. Đêm rồi, nên cơ thể bạn giờ giống một ma cà rồng hơn.@
+` Ừm, nhờ thế, bạn không chết. Có lẽ chúng ta nên cảm ơn Roa."@
+` ... Thử làm nhẹ bầu không khí, Senpai nói một câu đùa không dễ trả lời lắm.
+\
+`"Tohno-kun, cậu có thể tự đứng vững được không?"@
+`"Tôi có thể đứng, nhưng[line=3]Senpai, có cách nào để cứu tôi... không?"@
+ld c,"tachi/cel_t07c",crossfade,400
+`"... Tôi không chắc lắm, nhưng nếu tôi quay lại Vatican, có thể sẽ tìm ra cách."@
+` Ừm, so với trước, họ có một mẫu vật, tôi, để nghiên cứu, nên họ hẳn đã tìm hiểu về cách đóng kín linh hồn Roa trong khi giữ lại ý thức của người tái sinh."@
+`"[line=3][line=3]Đó là gì? Nếu có cách dễ dàng như vậy, tại sao lại không ai làm trước đây nhỉ?"
+\
+`"... Tohno-kun. Chắc chắn Giáo Hội có thể giúp cậu, nhưng những gì chờ đợi cậu có thể là địa ngục."@
+` "Đối với những người trong Giáo Hội, cậu và tôi đều là dị giáo. Cậu sẽ nhận được sự đối xử đặc biệt nếu đồng ý giúp họ nghiên cứu."@
+` "[line=3]... Mặc dù nếu cậu giữ im lặng về đôi mắt của mình, có lẽ cậu không bị đối xử như một mẫu vật phòng thí nghiệm như tôi đã từng, nhưng..."@
+`"[line=3]Ý cậu là... nó sẽ thực sự đau đớn?"
+\
+ld c,"tachi/cel_t15",crossfade,400
+`"[line=3]Đúng vậy. Và nếu họ vẫn không thể chữa lành cho cậu, cậu sẽ được xử lý như một ma cà rồng."@
+` "... Tôi không muốn cậu trải qua những điều khủng khiếp tồi tệ hơn cả cái chết."@
+` "[line=3]Vì vậy, tôi..."
+\
+`"…… Đừng lo, Senpai. Hiện tại chúng ta đang ở một ngã tư đường. Nếu có bất kỳ cơ hội nào, dù nhỏ nhất, thì chúng ta phải đi đến bất cứ nơi đâu."@
+` "Dù kết quả ra sao, tôi cũng không phàn nàn, Senpai."@
+ld c,"tachi/cel_t07c",crossfade,400
+`"[line=3] Không. Tôi sẽ không để ai làm tổn thương bạn. Xin hãy tin tưởng tôi về điều này."@
+`"…… Vâng, tôi tin bạn, Senpai."@
+` "Mặc dù tôi nói vậy, nhưng vì là một người dân thị trấn nhỏ bé, tôi thực sự lo lắng về những chuyện như hộ chiếu và vé máy bay."
+\
+`"Nhưng chúng ta sẽ làm gì? Chúng ta có đi đến Vatican ngay bây giờ không?"@
+ld c,"tachi/cel_t14",crossfade,400
+`"Không, tôi sẽ chăm sóc bạn cho đêm nay. Roa là một ma cà rồng, nên khi bình minh tới, anh ấy sẽ dịu lại."@
+` "Nếu chỉ đơn giản là đưa bạn đến Vatican, thì đã dễ dàng hơn rồi, nhưng vấn đề của bạn là điều nên giữ kín. Giống như với tôi, bạn cũng không nên tồn tại, vì vậy bạn phải đến một nơi bí mật trong Giáo Hội."@
+` "Nhưng để đưa em đến đó, tôi phải xin phép trước. Ngay cả khi chúng ta chỉ muốn thanh tẩy em một cách tối thiểu, cũng không có nơi nào trong thành phố này có thể làm được điều đó."@
+` "Chỉ có một nơi duy nhất ở quốc gia này mà chúng ta có thể thanh tẩy em theo phương pháp của mình, nên tôi phải đưa em đến đó trước tiên."
+\
+`"Ừm. Vậy là các người nói rằng chúng ta sẽ đến Giáo Hội vào sáng mai à?"@
+`"Không, chuyện này không đơn giản như vậy. Để một kẻ không tin như em bước vào Vatican, có một quy trình phê duyệt dài và phiền phức.@
+` Vì thế, sáng mai, tôi sẽ đến nhà thờ ở đây để em có thể xin được giấy phép tạm thời."
+\
+`"... Và có thể mất vài ngày, nên hãy chờ trong phòng của tôi cho đến lúc đó. Tôi sẽ đặt một rào cản chống lại ma cà rồng trong phòng, nên em có thể trụ được trước Roa khoảng một tuần hai."@
+`"[line=3]... Phòng của anh à? Em nghĩa là em sẽ ở trong phòng của anh sao?"
+\
+`"... À, Tohno-kun. Cuộc sống của em đang bị đe dọa, nên hãy chấp nhận điều đó. Ồ, em có thể cho chị gái biết, nhưng đừng nói chi tiết với cô ấy."@
+`"…… Thật ra tôi cũng không thể nói với cô ấy ngay từ đầu." [line=3]@
+`"Vậy thì chúng ta đi? Chúng ta cần tách Roa bên trong cậu để bắt đầu."@
+cl c,lshutter,800
+` Cô ấy nắm lấy cánh tay tôi và bắt đầu đi.
+\
+` …… Không có dấu hiệu nào về sự yếu đuối của cô ấy trước đây.@
+` Nhưng đó chỉ là sự vui vẻ giả tạo.@
+` Senpai thực sự không muốn tôi lo lắng, nên cô ấy đang cố gắng ép bản thân.@
+`"…… Cảm ơn Senpai."@
+` Tôi nói khẽ để cô ấy không nghe thấy.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_17b",lcartain,1500
+ld c,"tachi/cel_t14",lshutter,800
+`"Đây là nơi chúng ta sẽ ở. Nó khá nhỏ, nhưng xin hãy cảm thấy thoải mái."@
+`"Ừm... Vâng, xin lỗi đã làm phiền."@
+` Tôi hoàn toàn nhận thức được rằng mình đang bước vào phòng của một cô gái vào ban đêm như thế này, nên tôi tiến vào.
+\
+bg "bg/bg_18b",lcartain,800
+` Phòng của Ciel-senpai vẫn không thay đổi gì cả.@
+`"Senpai, vậy sau đó tôi phải làm gì bây giờ?"@
+ld c,"tachi/cel_t14",crossfade,400
+`"À, đầu tiên, chúng ta sẽ tạm thời dập tắt Roa bên trong cậu, Tohno-kun."@
+` "... Nhưng mà, khi tôi nói vậy, nơi ở của tôi vốn là vùng đất thiêng liêng, nên sự tiến hóa của ý thức Roa sẽ bị chậm lại đáng kể chỉ bằng việc ở lại đây."@
+`"[line=3]Ồ? Vậy thì tôi an toàn nếu ở lại đây phải không?"
+\
+`"Vâng, nếu chúng ta chỉ ngăn chặn tâm trí của Roa xâm nhập vào bạn, căn phòng này sẽ đủ, nhưng..."@
+`"Hừm...?"@
+` Cô ấy đỏ mặt, ngần ngại như muốn nói thêm điều gì đó.
+\
+ld c,"tachi/cel_t14b",crossfade,400
+`"... Senpai? Có vấn đề gì sao? Senpai?"@
+`"Không, tôi không gọi nó là vấn đề, nhưng nó có thể nguy hiểm đến tính mạng của bạn."
+\
+`"... Senpai. Nếu nó đe dọa tính mạng tôi, chẳng phải rất quan trọng sao?"@
+`"Đúng vậy, nhưng... nếu tôi nói thẳng ra, Tohno-kun, có phần nào trên cơ thể cậu thấy lạ không?"@
+`"Lạ? Vâng, tôi hiện đang có sức mạnh phi thường."
+\
+`"…… Đó không phải là điều tôi muốn nói, nhưng bạn có cảm thấy 'đây thực sự nóng bỏng' hay 'tôi cần giải tỏa' hay điều gì đó tương tự không?"@
+`"[line=3][line=3]Ồ, thế à"@
+` …… Thật ra, khát vọng hủy diệt vẫn tồn tại trong tôi cho đến gần đây.@
+` Và tôi đã làm điều kinh khủng ấy với Kohaku-san.
+\
+`"…… Không, tôi ổn. Kể từ khi bước vào phòng này, tôi chưa nghe thấy giọng của gã một lần nào. Giống như bạn nói, có vẻ anh ta sẽ bình tĩnh lại nếu tôi ở đây."@
+`"Nhưng đó là mặt tâm lý của vấn đề, không phải cơ thể của bạn."@
+`"[line=3]?"@
+cl c,crossfade,400
+\
+` Ciel-senpai vẫn do dự như thể cô ấy cần nói điều gì đó rất khó khăn.@
+` Tôi hoàn toàn không biết.@
+` Tôi ngồi xuống sàn để nghỉ ngơi tạm thời.
+\
+`"Này, cậu không cần phải đứng, ngồi xuống đi." Cậu ấy mệt mỏi sau tất cả những gì đã xảy ra, à?@
+`"... ..."@
+` Không trả lời tôi, cô ấy nhìn chằm chằm vào khoảng không, suy nghĩ sâu sắc.@
+br
+` Và rồi...@
+ld c,"tachi/cel_t07c",crossfade,400
+`"Tohno-kun, cậu hãy tắm đi."@
+`"[line=4] Hừ?"
+\
+`"Vì như cậu vừa nói, tất cả những gì đã xảy ra, nên nếu cậu không rửa sạch mình và bình tĩnh lại thì cũng đáng ngờ."@
+`"Đúng rồi[line=3]nhưng..."@
+`"Không được tranh cãi, Tohno-kun. Cậu đã dùng bồn tắm của tôi một lần rồi, nên xin đừng ngần ngại."@
+cl c,crossfade,400
+` Senpai kéo mạnh cánh tay tôi.
+\
+bg #000000,lcartain,800
+`"H, ơi Senpai, tôi nói nó không tốt...!"@
+` Cô ấy không nghe tôi.@
+` Cô ấy kéo tôi đến khu thay đồ và ép tôi tắm.@
+br
+` Tự mình, tất nhiên rồi.@
+` Ciel-senpai đang chờ tôi trong phòng của cô ấy.
+\
+`"... Làm thế nào điều này xảy ra?"@
+br
+` Tôi chấp nhận việc tắm rửa.@
+` ... Như Ciel-senpai nói, cơ thể tôi bẩn thỉu.@
+` Có bùn phủ khắp cánh tay và cổ họng tôi, và cơ thể tôi ngửi thấy mùi mồ hôi.
+\
+(Trượt 8)
+`"Tôi hiểu rồi... Tôi đã khóa mình trong phòng từ hôm qua. Và nó giống như tôi bị kích thích suốt thời gian đó..."@
+br
+` "...?"@
+` "[line=3]Ồ, điều này thật kỳ lạ... Tôi vẫn còn đứng thẳng như vậy...?"
+\
+`"[line=3]Hừm?"@
+` "[line=3]Tôi không cảm thấy kích thích gì cả, vậy mà... tại sao nó lại ở trạng thái như thế?"
+\
+`"[line=3]Chờ đã, điều này thật kỳ lạ!"@
+` "Nó đầy máu, bất chấp mọi lời tôi nói."@
+`"[line=4][line=4]Đừng nói với tôi..."@
+` "Từ đêm qua."@
+` "[line=3]Theo thôi thúc của ý thức Roa, kể từ khi tôi tấn công người phụ nữ trên đường phố... Tôi luôn như vậy sao?"
+\
+`"……"@
+` Tôi cảm thấy vô cùng sợ hãi.@
+` …… Điều đó không tốt lành chút nào.@
+` Tôi được cho là an toàn trong phòng của Ciel-senpai, nhưng dường như cơ thể tôi vẫn không ngừng run rẩy.
+\
+`"…… Này. Giữ nguyên tư thế trong một thời gian dài, ừm, có lẽ điều đó không tốt sao?"@
+` Không, không phải "có lẽ", mà là "chắc chắn".@
+` Đầu tiên, việc giữ nguyên tư thế trong một tiếng đồng hồ đã đau đớn, vậy nên nếu tôi giữ nguyên như vậy cả ngày, điều đó chỉ đơn giản là sai.
+\
+`"[line=5]Tôi nghĩ tôi phải làm thế?"@
+` Tôi nói to và cảm thấy sốc.@
+` Vậy nên, tôi đã giữ nguyên tư thế suốt cả ngày.@
+` Và vì điều này không thể tốt đẹp gì, tôi sẽ tự giải quyết trong phòng tắm của Ciel-senpai?@
+br
+`"[line=3]Tôi không tin được."@
+` Tôi không thể làm điều ngượng ngùng này...!@
+` Đây là nhà vệ sinh, nên nếu tôi làm gì đó mà cô ấy không phát hiện ra, nhưng vẫn, điều này quá đáng xấu hổ...
+\
+` ... Nhưng, việc cương cứng suốt cả ngày thực sự rất tệ.@
+` Tôi nghĩ sau khi tấn công Kohaku-san, bầu không khí đã trở nên bình tĩnh, nên chưa phải là cả ngày, nhưng vẫn... [line=3]
+\
+`"[line=3]Ôi trời! Ngay cả khi tôi gần như bị ai đó mà tôi yêu thích giết chết cho đến lúc này, tại sao tôi lại gặp rắc rối với những chuyện ngốc nghếch này?"!@
+` ... La hét cũng không giải quyết được gì.@
+` Tôi bỏ cuộc và quyết định buông lỏng.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_17b",lcartain,800
+`"... ..."@
+` Tôi rời phòng tắm.@
+ld c,"tachi/cel_t14",crossfade,400
+`"Ôi, cậu giờ đã sạch sẽ rồi. Cậu thực sự dành rất nhiều thời gian, Tohno-kun, cậu thích ngâm mình trong nước à?"@
+`"[line=3]Không, không phải thế, nhưng..."@
+` Tôi gần như không còn sức để trả lời.@
+` [line=3][line=3]Tôi đã làm điều gì đó khiến phẩm giá của tôi bị trôi tuột xuống đường ống thoát nước, nhưng vẫn...
+\
+`"Vậy thì sao? Cậu có thể tự kể cho tôi nghe, Tohno-kun?"@
+`"Ờm... [line=4]Cậu chủ à, ý cậu là... ừm..."@
+ld c,"tachi/cel_t14b",crossfade,400
+` Cô ấy thở dài.@
+`"Tôi biết rồi. Nếu cậu... đã kìm nén nó trong thời gian dài như vậy, có lẽ không thể giải phóng nó trừ khi đó là ý muốn của Roa."@
+`"[line=7]"@
+` "Ciel-cậu bắt đầu ửng đỏ, và má tôi cũng đỏ bừng lên."@
+` "Kìm nén nó... có chút khó xử nếu cô ấy nói thẳng như vậy."
+\
+`"À... ừm... ..."@
+` "Nhưng giống như Ciel-cậu nói, dù tôi cố gắng thế nào đi chăng nữa, tôi không thể dập tắt ngọn lửa bên trong bằng chính mình."@
+` "Cuối cùng, tôi bỏ cuộc và rời khỏi phòng tắm."
+\
+`"Tôi sẽ xuất hiện một cách trung thực. Đây không phải là tình huống mà sự ngượng ngùng nên ngăn cản tôi. Như cậu nói, Ciel-cậu ạ, cơ thể tôi bây giờ có chút kỳ lạ."@
+` [line=3]Tôi thề, nhưng tôi không nghĩ về những điều lệch lạc. À, tôi không, nhưng cơ thể tôi, chỉ bằng chính nó, đã cương cứng và...@
+` Tôi thực sự không thể nói rằng tôi sẽ ở lại như thế này.
+\
+`"Xem nào, tôi đã bảo cậu nói với tôi nếu cơ thể cậu có gì lạ đâu phải không?"@
+`"[line=3]Không!@ Vậy thì, cậu đã hỏi về điều này trước...!"@
+`"Đúng vậy.@ Tohno-kun, cậu có thể chưa nhận ra, nhưng cậu rất phấn khích. Tôi đã làm dịu tâm trí cậu, nhưng chúng ta cũng phải làm dịu cơ thể, hoặc Roa sẽ chiếm lấy."
+\
+`"Tôi hiểu rồi... Này, hãy nói cho tôi những điều đó rõ ràng. Tôi cảm thấy thật ngốc nghê khi không nhận ra nó cho đến khi tôi khỏa thân!"@
+ld c,"tachi/cel_t06c",crossfade,400
+`"Nếu tôi có thể nói rõ, thì điều đó cũng chẳng khó!"@
+` [line=3]Ôi...@
+` Đúng vậy.@ Cô ấy không thể nói rõ ràng được, vì Ciel-senpai là một cô gái.
+\
+`"Xin lỗi.@ Nhưng tôi phải làm gì?@ Tôi đã cố gắng làm điều gì đó, nhưng nó vẫn không ngừng lại.@
+` Nó giống như tâm trí và cơ thể tôi hoàn toàn tách biệt.@ Cơ thể tôi cảm thấy như không thuộc về tôi, và tôi thậm chí còn không có tâm trạng để suy nghĩ về nó[line=3]"@
+br
+` Ồ, nói thẳng ra, nó giống như tôi hoàn toàn mất hết sự nhạy cảm!@
+` …… Nếu tôi có thể nói to như vậy, thì dễ rồi, nhưng tôi không thể nói những điều đó với senpai.
+\
+ld c,"tachi/cel_t14b",crossfade,400
+`"…… Tôi hiểu.@
+` Tôi đã đưa cậu đến đây để chữa lành cơ thể.@
+` Ừm, tôi biết rằng chỉ bằng chính mình là không thể.@ Ừm…… Tôi cũng từng như vậy trước đây."@
+br
+` Cô ấy nói ngần ngại.@
+` Tôi thấy... Ciel-senpai cũng từng trải qua việc Roa chiếm lấy cơ thể cô ấy.@
+` Vì vậy, cô ấy biết điều này sẽ xảy ra với tôi.
+\
+`"Senpai, vậy thì cậu biết tôi phải làm gì..."@
+`"Đương nhiên rồi."@
+` ... À, ừm... Tâm trí của cậu hiện tại có vẻ tách biệt với cơ thể.@
+` Vì vậy, hơn cả bản thân mình, ừm... da thịt của người khác, sự giúp đỡ từ người khác, sẽ khiến cậu cảm thấy dễ chịu hơn."@
+`"[line=6]"@
+` Ngay lập tức.@
+` Khi tôi nghe thấy những lời của cô ấy, tâm trí tôi trở nên trống rỗng.
+\
+`"... Có người khác giúp tôi...  À, Senpai?"@
+ld c,"tachi/cel_t07d",crossfade,400
+`"Đó chính là ý tôi. Bạn có thể không muốn làm điều này cùng tôi, Tohno-kun, nhưng xin hãy kiên nhẫn. Đây là một kỹ thuật để an yên tâm hồn, nên nó không có tính tình dục."@
+` Vì vậy, xin đừng quá xấu hổ.@
+`"À... h..."@
+` Sau khi cô ấy nói thẳng thắn như vậy, tôi không biết phải phản ứng thế nào.
+\
+`"Vậy thì, Tohno-kun, hãy đợi trong phòng. Tôi cũng có một số việc cần chuẩn bị."@
+`"Chờ đã?@ ... Senpai, cô có vẻ đang đi đâu đó?"@
+`"Đúng vậy, tôi cũng sẽ tắm.@ Tôi không muốn làm điều này với cả lớp sơn này trên tay."@
+` Ngay cả khi cô ấy bảo tôi không cần xấu hổ, cô ấy cũng đỏ mặt.
+\
+`"Senpai, đây... ừm, chúng ta thực sự không nên đâu."@
+`"Không sao, vậy thì hãy đợi trong phòng!@ Tôi sẽ chuẩn bị và đi cùng..."!"@
+cl c,lshutter,800
+` Senpai vội vã chạy đi thay đồ và đóng sập cửa.@
+`"[line=5]Aha"@
+` Không có thời gian để ngăn cô ấy.@
+` Dù sao đi nữa, tôi không thể làm gì trừ khi tôi bình tĩnh điều này xuống.@
+` Tôi biết nó đang lợi dụng cô ấy, nhưng tôi sẽ phải chấp nhận lòng tốt của cô ấy cho đến lúc này.
+\
+` Tôi thuyết phục bản thân như vậy và khi tôi bước vào phòng của cô ấy,
+br
+`"... Ôi, Tohno-kun? Ừm, à, cậu có phiền nếu tôi đeo kính không...?"@
+br
+` Tôi nghe thấy giọng nói của cô ấy từ phía bên kia cửa.@
+`"?" Kính... Senpai, tại sao cậu hỏi điều đó?@
+`"À, um... Tôi biết có những chàng trai như vậy, quan tâm đến thứ này."@
+` Cô ấy nghe có vẻ rất ngượng ngùng.
+\
+`"... Kính, hả? ... Senpai, thực sự lo lắng về những thứ kỳ lạ nhất."@
+` ... Nhưng, khuôn mặt đỏ bừng của cô ấy ở cửa ra vào quá dễ thương.@
+br
+` Này, đối với tôi[line=4]
+\

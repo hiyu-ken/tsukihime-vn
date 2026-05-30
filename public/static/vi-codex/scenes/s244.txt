@@ -1,0 +1,42 @@
+monocro off
+wavestop
+play "*3"
+bg "bg/bg_06a",crossfade,800
+wave se_03
+` Vào giờ nghỉ trưa, tên lập dị vốn chẳng thèm đi học lấy một tiết nào vào buổi sáng bỗng nhiên xuất hiện.@
+ld c,"tachi/ari_t05",lshutter,400
+`"Yo Tohno!@ Đi ăn thôi, đi ăn căng-tin với tao đi!"@
+` Thằng cha này có vẻ đang cực kỳ phấn khởi chuyện gì đó, năng nổ hoạt bát hơn hẳn mọi khi.
+\
+`"Ăn trưa thì tất nhiên rồi.@ Cơ mà trông mày có vẻ đang rất phấn chấn nhỉ.@ Có chuyện gì vui hả, Arihiko?"@
+`"Ừ.@ Tao vừa mới mở lời rủ Senpai đi ăn trưa cùng, thế là chị ấy từ chối thẳng thừng luôn."@
+`"………………"@
+` Lạ đời thật đấy.@
+` "Senpai" ở đây chắc chắn là ám chỉ Senpai Ciel rồi, thế mà thằng cha này bỗng dưng lại thấy vui mừng hớn hở chỉ vì bị người ta từ chối lời mời.
+\
+`"Này, Arihiko, hóa ra mày lại có cái gu sở thích mặn mòi thế cơ à?"@
+ld c,"tachi/ari_t02",crossfade,400
+`"Không, không đâu, tao đã nói hết đâu.@ Thế là tao mới hỏi Senpai tại sao không đi, chị ấy liền bảo: 'Nếu có cả Tohno-kun đi cùng thì tôi tuyệt đối không đi đâu'!!@ Ha ha ha ha ha ha ha!@ Không phải thế là tuyệt vời lắm sao hả, Tohno!?"@
+`"……………"@
+` Lạ đời thật đấy.@
+` Tại sao mình lại có thể làm bạn thân với cái thằng cha chập mạch này suốt từ hồi cấp hai đến giờ được nhỉ?
+\
+`"Trời đất, xem ra Senpai thực sự ghét mày cay đắng luôn rồi đấy Tohno!@ Sự thất bại của đối thủ chính là cơ hội của tao, thế nên hôm nay tao sẽ bao mày bữa trưa nhé!"@
+` Arihiko khoái chí vỗ bôm bốp vào lưng tôi cười lớn.@
+`"…… Ờ thì, mày bao ăn thì tao vui thật, nhưng Senpai thực sự đang giận tao sao?"@
+ld c,"tachi/ari_t01",crossfade,400
+`"Hử?@ …… Ừ thì, ngay sau khi tao bảo 'Tohno-kun cũng sẽ đi ăn cùng chúng ta đấy' và tao gật đầu, mặt chị ấy bỗng đỏ lựng cả lên.@ Vừa nghe thấy tên mày thôi là mặt chị ấy đã bừng bừng sát khí tức giận rồi ấy chứ."@
+`"…… Sát khí tức giận á?@ Nghe có vẻ hơi sai sai đúng không Arihiko?"@
+`"Chắc thế.@ Mà chắc cũng không phải đâu."@
+cl c,crossfade,800
+\
+` …… Quả thực lời kể của thằng cha Arihiko chẳng đáng tin chút nào.@
+` Cơ mà đúng là sáng nay trông Senpai có vẻ hơi bực bội thật, nhưng tôi chẳng thể nào lý giải nổi tại sao chị ấy lại giận nữa.@
+`"…… Không thể nào, làm sao chị ấy lại biết được mình vừa mơ cái giấc mơ kỳ quặc đó chứ."@
+` Nếu chị ấy mà thấu thị được chuyện đó chỉ qua một cuộc đối thoại bình thường sáng nay, thì chị ấy chắc chắn phải là siêu thám tử lừng danh rồi.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Này, thôi càu nhàu đi rồi lẹ chân lên nào Tohno.@ Căng-tin đông lắm, chậm chân là hết chỗ ngồi đấy."@
+`"À[line=3]không, tao[line=3]"@
+br
+cl c,crossfade,800

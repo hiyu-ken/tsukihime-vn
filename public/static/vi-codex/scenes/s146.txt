@@ -1,0 +1,136 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` "Trước tiên, tôi phải thay đổi tâm trạng."@
+` "Có vẻ như tôi sẽ thua trước áp lực im lặng của cô ấy nếu hành xử bình thường, nên tôi phải thay đổi cách tiếp cận."
+\
+`"Chào buổi sáng," tôi nói với Akiha bằng tiếng Anh. "Một buổi sáng tuyệt vời, phải không, Akiha?"@
+` "Haha." Tôi chào cô ấy thẳng thắn.@
+ld c,"tachi/aki_t02",crossfade,400
+`"... "@
+` Tôi nghĩ cô ấy đang nhìn tôi chằm chằm nhiều hơn.@
+br
+` ... Đau quá.@
+` Nếu tôi tiếp tục chịu áp lực im lặng từ cô ấy, không nghi ngờ gì cô ấy sẽ xuyên thủng tôi.
+\
+`"Ừm... Tôi đi ăn sáng nên tôi đến phòng ăn."@
+` Đúng vậy. Tôi nên lui về phòng ăn.@
+br
+ld c,"tachi/aki_t11a",crossfade,400
+`"[line=4] Anh trai."@
+` Giọng nói của cô ấy khiến tôi đứng im.@
+` ... Vậy dĩ nhiên là cô ấy sẽ không để tôi rời đi như thế.@
+`"Chuyện gì vậy?@ Cậu cần tôi giúp gì à?"@
+` Tôi cố gắng làm ngơ.@
+` Cô ấy thậm chí còn không chớp mắt.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Tôi có một chuyện muốn nói với cậu trước bữa sáng.@ Hãy ngồi xuống chiếc sofa đó nhé."@
+`"…… Được rồi.@ Cậu hãy nói ngắn gọn nhất có thể."@
+` Tôi ngồi xuống trên chiếc sofa đối diện cô ấy.@
+` Kohaku-san mang cho tôi một tách trà.@
+` Nụ cười của cô ấy dường như muốn nói "Hãy cố gắng vượt qua nhé, được không?" và tôi có thể thu thập lại ít nhất một chút can đảm.@
+` Tôi nhấp một ngụm trà và đối mặt với ánh nhìn của cô ấy.
+\
+`"Vậy thì, Akiha muốn nói về điều gì vậy?"@
+`"Người phụ nữ tối qua, cô ấy có liên quan gì đến anh sao?"@
+br
+` [line=3]Ôi trời!@
+br
+` Đó là một cú sốc gần như khiến tôi phun trà khắp nơi.@
+` Akiha thường hay quanh co, nhưng lần này cô ấy hỏi thẳng thắn.@
+` Tôi hoàn toàn bất ngờ đến mức suýt nữa thì văng trà khắp người.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Anh trai, có nghe em nói không?"@
+`"Ừm, tôi hiểu rồi. Rõ ràng và rõ ràng."@
+`"Vậy thì hãy trả lời đi. Người phụ nữ tối qua, cô ấy là ai với anh, anh trai ạ?"@
+`"[line=3]... Ừm, đó là một câu hỏi khó xử, ừm, cô ấy là bạn bè, là người tôi đồng ý giúp đỡ."
+\
+`"Một người bạn quan trọng đến mức anh phải rời đi giữa đêm? Vâng, tôi không định phải chấp thuận tất cả mối quan hệ của anh, nhưng anh đang học trường giờ này, đúng không?"@
+ld c,"tachi/aki_t16a",crossfade,400
+` "Con trai lớn của gia tộc Tohno, đi đến những nơi nào đó với một người phụ nữ lạ vào giữa đêm... xin hãy ngừng làm những việc thiếu phẩm giá như vậy."
+\
+cl c,crossfade,400
+` Khi cô ấy nói, má cô ấy đỏ lên và cô ấy nhìn đi nơi khác.@
+br
+` [line=3]Tôi hiểu rồi, Akiha nghĩ mối quan hệ của tôi với Arcueid giống thế này.
+\
+`"Chờ đã, Akiha. Không có gì giữa chúng tôi cả. Tôi chỉ giúp cô ấy tìm thứ gì đó. Sau đó, chúng tôi sẽ không gặp nhau nữa."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"Thật sao? Cậu chắc chắn rất gần gũi với cô ấy, phải không anh trai?"@
+` Nhìn của cô ấy lạnh lẽo.@
+` [line=3]... Nếu tôi nói dối rằng "Đó không phải là sự thật," mọi thứ sẽ dễ dàng hơn, nhưng không chỉ vì tôi không muốn nói dối Akiha, mà thực sự tôi không muốn thừa nhận rằng chúng tôi không gần gũi.
+\
+`"[line=4]Có thể đó... không phải là trí tưởng tượng của cậu, có lẽ."@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Đúng vậy. Cậu hoảng loạn đến mức tôi chưa từng thấy trước đây. Cậu chưa bao giờ nghiêm túc về điều gì và giờ đây lại biểu lộ nhiều cảm xúc như vậy, chuyện gì đã xảy ra với cậu?"@
+`"Không phải thế. Tôi chỉ hoàn toàn bất ngờ khi cô ấy thực sự đến đây."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"Người phụ nữ đó bình tĩnh chờ đợi cậu suốt cả thời gian, anh trai."@
+` Cô ấy liếc nhìn tôi qua một bên.@
+` Cô ấy thực sự trông như đã thuyết phục rằng Arcueid và tôi đang hẹn hò.
+\
+`"[line=3]Nhìn này, Akiha. Cậu hiểu sai hoàn toàn rồi. Đầu tiên, chúng ta đã gặp nhau lần đầu tiên ở..."@
+br
+` "Tôi giết cô ấy, nhưng tôi nuốt trôi những lời còn lại."@
+` "Nó sẽ quá ngốc nghếch khi nói ra sự thật."@
+` Nhưng tôi thậm chí còn không nghĩ ra được một lý do hợp lý nào, và tôi chỉ có thể lắp bắp.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nếu bạn không thể trả lời thì chúng ta hãy thay đổi câu hỏi. Bạn đã gọi người phụ nữ đó là 'cô ấy' suốt thời gian này, tên cô ấy là gì?"@
+`"…… À, Arcueid."@
+`"Tôi hiểu rồi. Vậy là các bạn không gặp nhau ở trường học à? Trường trung học của các bạn không có học sinh quốc tế cả sao?"@
+`"…… Ừ."@
+` Như Akiha nói, không có ai từ nước ngoài trong trường tôi.@
+` Đúng vậy, nhưng sao cô ấy biết nhiều đến vậy?
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Vậy thì anh trai ơi, Nii-san, anh đã gặp người như thế ở đâu trên thế giới này?"@
+`"Ở thành phố này. Một sự trùng hợp chăng?"@
+`"Ôi, một sự trùng hợp? Vậy thì Arcueid đã nói chuyện với cậu rồi sao?"@
+`"[line=3]Ồ không, chính tôi là người nói chuyện với cô ấy..."@
+` "Nói đúng hơn, tôi không thực sự nói chuyện, nhưng tôi là người khởi xướng sự liên lạc giữa chúng ta."
+\
+`"Tại sao cậu lại nói chuyện với cô ấy? Tôi nghĩ Arcueid-san chẳng có gì quan trọng với cậu. Hay cậu chỉ định như vậy từ đầu?"@
+br
+` "Những câu hỏi của cô ấy rất chính xác."@
+` "Dần dần, cô ấy tiến gần hơn đến bí mật của tôi."@
+` "Như một con rắn nhìn chằm chằm vào một con ếch, cô ấy phớt lờ mọi lời giải thích của tôi và đang cố đẩy tôi vào thế khó xử."@
+br
+` Tôi chỉ còn cách dùng sức mạnh để kết thúc cuộc trò chuyện này.
+\
+`"Đủ rồi. Tôi nói cô ấy không có ý nghĩa gì với tôi!"@
+` Hơn nữa, bất kể tôi làm gì cũng không liên quan đến bạn. Bạn chẳng có quyền phàn nàn về người tôi hẹn hò đâu."@
+` Tôi chỉ vào cô ấy trực tiếp.@
+cl c,crossfade,400
+` Sau khi tỏ ra giận dữ[line=4], cô ấy đứng dậy mà không nói một lời.@
+`"Hả?"[line=4]@
+` ... Điều này thật kỳ lạ.@
+` Tôi nghĩ cô ấy sẽ hét lại với tôi, nhưng thay vào đó, cô ấy trông rất khó chịu và quay mặt đi.
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Ngay cả tôi, cũng không muốn nói điều này.@ Nhưng mà, tôi chỉ có cảm giác không tốt từ cô ấy.@
+` Nếu đó là ai khác, tôi sẽ chỉ chấp nhận nó.@ Nhưng, khi bạn bị cuốn vào cô ấy, điều đó làm tôi trở thành một kẻ ngốc lớn sao?"@
+` …… Tôi không biết tại sao.@
+` Cô ấy tiếc nuối cắn môi khi nói những lời này.
+\
+`"Đó là lý do tôi nói cô ấy chẳng có gì đặc biệt.@ Akiha, có chuyện gì vậy? Bạn trông có vẻ kỳ lạ một chút."@
+ld c,"tachi/aki_t14",crossfade,400
+`"Đủ rồi.@ Nếu bạn muốn tự do hành động theo ý mình, hãy thoải mái làm đi, anh trai……!"@
+cl c,lshutter,400
+` Akiha giận dữ bước ra khỏi sảnh.@
+`"………?"@
+` Tôi hoàn toàn không hiểu chuyện gì đang xảy ra.
+\
+ld c,"tachi/koha_t01a",lshutter,400
+`"Ôi, Shiki-san, hành động của cậu thật đáng sợ."@
+` Kohaku-san thở dài thất vọng và bắt đầu đi theo cô ấy.@
+`"Thật thương cho Akiha-sama. Nếu cậu mang theo người yêu, hãy chọn ai đó bình thường hơn. Nếu làm như vậy, Akiha-sama có lẽ sẽ hiểu."@
+cl c,lshutter,800
+` Sau khi Akiha đi, Kohaku-san biến mất hướng về sảnh chính.
+\
+bg #000000,crossfade,1500
+!w2000
+playstop

@@ -1,0 +1,10 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01a",notrans,0
+"……"@
+   Không, linh tính mách bảo tôi rằng dẫu có đứng đợi ở đây thì cũng chẳng thể gặp được Senpai.@
+   Nếu Senpai đã không muốn chạm mặt tôi, chị ấy sẽ lập tức quay đi ngay khi vừa nhác thấy bóng tôi.@
+   Tốt nhất tôi nên về lớp trước rồi mới tính tiếp nên làm gì.
+\
+bg #000000,lcartain,800

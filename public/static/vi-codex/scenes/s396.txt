@@ -1,0 +1,208 @@
+playstop
+wavestop
+bg "bg/bg_40a",notrans,0
+` Lồng ngực tôi dẫu dã bắt đầu phập phồng thở dốc dữ dội.@
+` …… Tôi tịnh không dám cử động dù chỉ một chút.@
+` Ngay lúc này, nếu có điều gì đó...
+` Bởi nếu cơ thể này nhúc nhích cựa quậy dẫu chỉ một ly vào lúc này[line=3]chẳng khác nào tôi tự thú nhận rằng bản thân dẫu dã điên loạn mất trí thật rồi, nỗi sợ hãi ấy khiến tôi chết lặng.@
+` Thần trí tôi dẫu dã tê liệt bần bật hoàn toàn.@
+` [line=3][line=4]Nếu tôi ở lại như thế này, tôi đang nghĩ một cách ngốc nghếch rằng cơn bão sẽ qua đi.
+wave se_01
+bg #000000,crossfade,400
+` Toàn bộ thế giới của tôi bắt đầu nhấp nháy.@
+bg #9c0120,crossfade,400
+` Giống như tiếng còi của xe cảnh sát, mọi thứ xoay vòng, màu đỏ và đen.@
+wave se_01
+bg #000000,crossfade,800
+`"[line=7]Ôi..."@
+` Đầu tôi đau nhức.@
+bg #9c0120,crossfade,800
+`"[line=3]Tôi mệt mỏi. Tôi chỉ đơn giản là mệt mỏi thôi."@
+` Tôi tự nhủ như vậy.@
+wave se_01
+bg #000000,crossfade,1500
+` Tôi sụp đổ xuống giường.
+\
+!w2000
+bg "bg/bg_40c",crossfade,400
+!w3000
+wave se_04
+`"Thưa Shiki-sama, cậu đã trở về ạ?"@
+` …… Một giọng nói giống Hisui thức tôi dậy.@
+`"Shiki-sama, xin lỗi cậu."@
+` …… Ai đó bước vào phòng của tôi.@
+` Nhưng, nó đau quá nhiều.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` Tôi không phân biệt được là ai.
+\
+`"Xin tha thứ. Tôi không biết rằng cậu đã về, nên tôi không thể chào đón cậu ở cửa."@
+`"[line=3]… Không, thế thì, để tôi yên, xin cậu."@
+`"Thưa Shiki-sama, cô có thấy không khỏe không?"@
+`"[line=3]... À. Tôi... thực ra cũng không chắc."@
+` "Tôi... không thể hoàn thành câu nói của mình."@
+`"[line=4]... Xin lỗi. Tôi cảm thấy không tốt. Tôi muốn... ngủ. Có thuốc nào không? Có thể giúp tôi không?"@
+`"Có, tôi sẽ đi lấy ngay."
+\
+!w2000
+ld c,"tachi/his_t18",crossfade,400
+`"Cảm ơn cô đã chờ đợi. Hãy uống thứ này."@
+`"Cảm ơn như mọi khi và xin lỗi."@
+` Với đôi mắt không nhìn rõ lắm, tôi cầm lấy nước và thuốc bột mà Hisui đưa cho tôi.@
+` Vì một lý do nào đó, có hai loại thuốc.@
+` ... Tôi không quan tâm, nên tôi nhai cả hai và uống nước.@
+ld c,"tachi/his_t29",crossfade,400
+` Dường như nó tác dụng nhanh; tôi bắt đầu thấy buồn ngủ rồi.
+\
+`"[line=4]…… Tôi sẽ đi ngủ.@ Cho đến mai."@
+`"Đừng lo lắng, không ai sẽ làm phiền bạn, Shiki-sama."@
+` Hisui cười khanh khách và tôi cảm nhận cô ấy đang rời đi.@
+bg #000000,crossfade,400
+` Ý thức của tôi bắt đầu lơ lửng.@
+br
+` [line=3]Tôi sẽ đi ngủ.@
+` "[line=3]Đầu tôi đau quá đi! Tôi chẳng quan tâm nếu mình có thấy những giấc mơ xấu đó hay không."
+\
+!w4000
+Dòng ảnh nền số 07B, 7.
+!w1000
+bg "bg/bg_25b",tshutter,800
+play "*6"
+` [line=3]Tôi đang ở trong thị trấn bị màn đêm bao trùm.@
+br
+` Tôi đến đây bằng một cách nào đó.@
+` Liệu đây có phải là giấc mơ? Nếu vậy, tại sao tôi lại ở đây?@
+`"[line=7]"@
+` Không, lý do là rõ ràng.@
+` [line=3]Tôi đang lang thang trên đường phố giữa đêm vì kẻ giết người. Để tìm kiếm và bắt giữ kẻ giết người.
+\
+bg #000000,crossfade,400
+bg "bg/bg_27b",crossfade,400
+` Tôi lang thang vô định.@
+` Tôi thắc mắc đã muộn giờ mấy rồi?@
+br
+bg #000000,crossfade,400
+bg "bg/bg_26a",crossfade,400
+` …… Tôi không nhìn thấy ai đáng ngờ.
+\
+br
+bg "bg/bg_12b",crossfade,400
+` …… Không có lý do gì để tôi đến đây cả.@
+br
+bg "bg/bg_24c",crossfade,400
+` …… Tôi không nhìn thấy dấu hiệu nào của kẻ giết người.
+\
+bg "bg/bg_25b",crossfade,400
+`"[line=9]"@
+` …… Chân tôi trở nên nặng trĩu.@
+` Có lẽ mọi thứ đều cảm giác vô thực.@
+` Không khí ngày càng yếu đi.@
+` Thời gian đang suy thoái.@
+` Cảm giác về những người xung quanh trở nên khủng khiếp và phi thực.@
+br
+bg "bg/bg_30b",crossfade,400
+` ... Nhưng cảm giác khứu giác lại rất thật.@
+` Mùi hôi kéo căng lên mũi tôi.@
+` Nó trôi nổi từ phía kia.
+\
+bg #000000,crossfade,400
+monocro #ff0000
+bg "bg/bg_31b",notrans,0
+br
+` [line=4]Đó là điểm dừng cuối cùng.@
+br
+` Giống như giấc mơ của tôi đêm qua, một xác chết không quen biết nằm ở ngõ hẻm sau.
+\
+` Đó là một người phụ nữ. Khuôn mặt cô ấy bị trầy xước từ cằm đến mũi, và giờ tôi không thể phân biệt được cô ấy có đẹp hay không.@
+` Máu chảy xuống rất dính, khiến tôi liên tưởng đến gel đỏ hơn là chất lỏng.@
+` Từ cơ thể cô ấy, các cơ quan nội tạng bung ra như những chân của một con bạch tuộc. Đám thịt hồng của các cơ quan chết sáng rực và trông ấm áp.@
+br
+` Trước xác cô ấy,
+` một hình bóng đen, thực sự là đen, cúi xuống và dường như đang khóc.
+\
+`"[line=7]Ai là bạn!?"[@
+` Tiếng chúng tôi chồng lên nhau.@
+` Tôi hỏi anh ta là ai, và anh ta hỏi tôi là ai rồi quay lại.@
+`"[line=4]Tôi là..."@
+`"Một kẻ giết người." ... Nhưng ai trong chúng ta đã nói điều đó?@
+br
+bg #000000,crossfade,400
+` Vậy nên tôi đùa giỡn một chút, và với một chút hy vọng, tôi tuyên bố rằng tôi là kẻ giết người.@
+` Tôi quan sát bóng tối di chuyển đầu, ngạc nhiên.
+\
+playstop
+bg "bg/bg_31b",crossfade,400
+[âm thanh vòng lặp: se_02]
+`"[line=9]Ồ?"@
+` Hình bóng đen nghiêng đầu, bối rối.@
+` Người đàn ông cúi xuống trước thi thể đang co giật nhìn tôi, như thể so sánh hai chúng tôi.@
+` Trong khoảnh khắc đó,
+` trong sự trống rỗng ấy, tôi nhận thức rõ một điều.@
+`"[line=8]Ha."@
+` Một tiếng cười thoát ra khỏi cổ họng tôi.@
+` Người đàn ông này là kẻ giả mạo.@
+` Hình ảnh bối rối trước xác chết, và tôi không cảm thấy bất cứ điều gì.@
+` Nếu bạn hỏi ai trong chúng tôi giống một kẻ giết người hơn, câu trả lời rất đơn giản.
+\
+`"... Có phải là cậu?"@
+` Người đàn ông nói với giọng run rẩy.@
+` Tôi kìm nén tiếng cười và tự nhiên, như thể đang bắt tay anh ta, tôi đâm dao vào ngực anh ta.@
+br
+` [line=9]"Ồ?"@
+br
+` Một giọng nói biểu lộ sự ngạc nhiên.@
+` Ngay cả khi anh ta sắp bị giết, anh ta vẫn lười biếng đến mức không di chuyển được. Điều đó khiến tôi ghê tởm là gã này lại tự xưng là kẻ giết người như vậy.
+\
+bg "bg/ima_12",lshutter,400
+` Tôi nôn mửa khi cắt anh ta.@
+` Giống như một con rối giấy, anh ta tan thành từng mảnh.
+\
+` Máu của anh ta nhuộm đỏ cơ thể tôi từ đầu đến chân, giống như một chậu nước tràn đầy.@
+br
+` Tiếng giọt nước nhỏ rơi liên tục.@
+br
+` Máu của hắn vẫn còn dính trên tóc tôi.
+\
+bg "bg/bg_31b",crossfade,400
+` Tôi thở sâu một hơi.@
+br
+` Trước mắt tôi là xác chết khác một lần nữa.@
+` Trong tay tôi là con dao đang bốc khói.@
+` Kẻ giết người đã chết, thị trấn giờ đây an toàn như trước.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Nhưng điều đó không có nghĩa là tôi ổn.
+\
+` Ngay cả khi thị trấn trở lại bình thường, tôi vẫn bị ám ảnh bởi những gì đã xảy ra.@
+br
+` Kẻ giết người vẫn tồn tại.@
+br
+`"...Hãy về nhà."@
+` Vâng, tôi nên về nhà.@
+` Bị ảnh hưởng như vậy, tôi nên quay lại biệt thự.@
+` Không có gì thay đổi.@
+` Tôi sẽ sống bình thường với danh tính Tohno Shiki và tiếp tục cơn ác mộng vào ban đêm.
+\
+br
+` [line=3]Thật ra, không có gì cả.\@
+br
+` Đó chỉ là vấn đề rằng thay vì giấc mơ trở thành hiện thực, tôi đơn giản là không bao giờ tỉnh khỏi giấc mơ của mình nữa.@
+monocro off
+bg "bg/ima_18",crossfade,400
+br
+` Tôi nghĩ mình nghe thấy tiếng cười khẽ của một cô bé nhỏ.@
+` Đó chỉ là một chuyện nhỏ thôi.@
+` [line=4]Tôi phải đi ngủ, và chờ đợi giấc mơ tiếp tục vào đêm mai.
+\
+bg #000000,crossfade,800
+wavestop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

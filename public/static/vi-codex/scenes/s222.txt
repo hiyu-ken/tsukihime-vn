@@ -1,0 +1,136 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+ld c,"tachi/aki_t02",crossfade,400
+`"Em hiểu rồi.@ Vậy em sẽ không hỏi về chuyện này nữa.@ Nhưng, xin anh đừng bao giờ làm chuyện như thế nữa.@ Anh là trưởng nam gia tộc Tohno; nếu anh không tự ý thức rõ vị thế của mình, sẽ rất phiền phức."@
+`"[line=2]Này, chuyện đó đâu có liên quan gì.@ Vả lại, bây giờ em mới là người kế thừa gia tộc Tohno, nên anh làm gì cũng chẳng ảnh hưởng đâu.@ Nếu em lo lắng về tương lai gia tộc Tohno, em nên đi tìm cho mình một tấm chồng xứng đáng đi."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"[line=5]"@
+` ……?@
+` Chẳng hiểu vì sao, Akiha bỗng chìm vào im lặng.
+\
+`"Sao thế?@ Em có ổn không, Akiha?"@
+`"[line=2]Không có gì cả.@ Nếu anh có thời gian lo lắng cho em, thì hãy lo cho chính bản thân mình đi.@ Anh còn chứng thiếu máu mãn tính phải lo cơ mà."@
+`"……… Hmpf."@
+` …… Ừ thì, đúng là tôi hay ngất xỉu vì thiếu máu thật.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Dù sao thì, anh đừng tự ý rời biệt thự đi lang thang một mình thường xuyên nữa.@ Ngay cả bình thường, thành phố gần đây cũng rất nguy hiểm.@
+` Một người cứ lơ ngơ lang thang trong trạng thái mơ hồ như anh thì chẳng khác nào tự mời gọi kẻ giết người hàng loạt tấn công."@
+`"Kẻ giết người hàng loạt?[line=2]À, mấy vụ giết người hàng loạt ấy."
+\
+` Chuỗi vụ giết người hàng loạt mà đã tìm thấy chín nạn nhân.@
+` Cơ thể các nạn nhân đều bị hút cạn máu, nên dư luận gọi đó là vụ ma cà rồng thời hiện đại, nhưng[line=2]
+\
+`"Ồ, chuyện đó thì không sao đâu.@ Những vụ án đó sẽ vĩnh viễn không bao giờ xảy ra nữa."@
+`"[line=4]Hả?"@
+`"Ý anh là con ma cà rồng đó không còn tồn tại nữa.@ Kẻ giết người đó[line=2]đã bị tiêu diệt rồi."@
+`"Thật sao……?@ Anh biết chuyện này từ đâu vậy?"@
+`"À, anh chỉ tình cờ chứng kiến thôi, nhưng chắc chắn, những chuyện kiểu đó sẽ không bao giờ xảy ra nữa."@
+cl c,crossfade,400
+` …… Ừ, ít nhất sẽ không còn ai bị Nrvnqsr sát hại nữa.@
+` Hai ngày qua bên Arcueid… quá nhiều chuyện đã xảy ra, tôi thực sự không thể nào phán xét đâu là đúng đâu là sai.@
+` Nhưng, chỉ có một sự thật đơn giản tuyệt đối không thể phủ nhận[line=2]tôi có thể nói rằng tất cả đều xứng đáng.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Anh[line=4]?@ Sao thế ạ?@ Bỗng nhiên anh trông vui vẻ ghê."@
+` Akiha nhìn gương mặt tôi với vẻ kỳ lạ.@
+`"Không có gì đâu.@ Anh chỉ cảm thấy mọi thứ rốt cuộc, rốt cuộc cũng đã kết thúc rồi."@
+` Một nụ cười vô thức bất giác nở trên môi tôi khi trả lời.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34a",lshutter,800
+` Đã bảy giờ rưỡi.@
+`"Shiki-san, bữa sáng đã sẵn sàng rồi ạ!"@
+` Giọng nói tươi vui của Kohaku-san vang vọng từ phòng ăn.@
+`"Vậy, anh đi ăn sáng đây.@ Gần đến giờ rồi đúng không, Akiha?@ Em cứ tự nhiên đi trước đi."@
+ld c,"tachi/aki_t09",crossfade,400
+`"Vâng ạ, em biết rồi, anh."@
+` Có lẽ nhờ cuộc trò chuyện vừa rồi, tâm trạng Akiha đã khá lên đôi chút.@
+cl a,crossfade,400
+` Đứng dậy khỏi ghế, tôi bước về phía phòng ăn.
+\
+playstop
+bg #000000,crossfade,1500
+` Tôi hoàn toàn chẳng có chút cảm giác thèm ăn nào.@
+` Sao lại thế?@ À, bởi vì nhìn bát cơm trắng mà thấy thứ gì đó đỏ lòm phủ khắp bề mặt thì ai mà chẳng mất hết cảm giác thèm ăn.@
+`"[line=5]"@
+` Tôi lắc đầu mạnh.@
+` Chắc chắn đó chỉ là ảo giác thôi, và món ăn Kohaku-san nấu trông vẫn tuyệt vời như mọi khi.@
+` Gượng trấn tĩnh tinh thần, tôi gắng gượng đưa một miếng cơm vào miệng.@
+br
+` [line=4]Lập tức, tôi nhổ phèo ra ngay.
+\
+bg "bg/bg_34a",lcartain,800
+ld l,"tachi/aki_t01a",lshutter,400
+play "*3"
+` Akiha nhìn tôi đầy nghi hoặc khi tôi bước ra khỏi phòng ăn ngay sau khi vừa bước vào.@
+`"Anh, anh quên gì à?"@
+`"Không, chẳng có gì đâu.@ Chỉ là chuyện vặt thôi."@
+ld r,"tachi/koha_t01a",lshutter,400
+`"Shiki-san sáng nay dường như không có cảm giác thèm ăn ạ.@ Cậu chủ ăn gì vào cũng nôn ra hết, nên em đã cho cậu chủ uống thuốc bổ rồi ạ."@
+ld l,"tachi/aki_t13a",crossfade,400
+`"Hả[line=5]?"@
+`"Cô ấy bảo là thuốc, nhưng thực ra chỉ là mấy viên vitamin thôi… Đêm qua anh gặp ác mộng.@ Chắc lát nữa sẽ ổn, anh sẽ ăn ở trường."@
+` Tôi không nói câu này với Kohaku-san, mà hướng về phía ánh mắt muốn nói gì đó của Akiha.
+\
+`"Vậy anh đi sớm đây.@ Đầu óc anh chắc sẽ tỉnh táo lại khi bắt đầu đi bộ đến trường."@
+ld l,"tachi/aki_t17a",crossfade,400
+`"Chờ đã, anh[line=3]"@
+` Giọng Akiha vọng lại từ phía sau lưng tôi.@
+`"Anh đi đây.@ Hôm nay anh sẽ về sớm, đến lúc đó em muốn mắng gì thì mắng nhé."@
+` Phớt lờ giọng nói lo lắng của Akiha, tôi bước ra khỏi biệt thự.
+\
+bg #000000,lshutter,800
+bg "bg/bg_32a",lcartain,800
+` Hisui đi cùng tôi ra đến cổng, tay xách chiếc cặp sách giúp.@
+`"Vậy, anh đi nhé.@ Cảm ơn em đã tiễn anh, Hisui."@
+` Hisui lặng lẽ trao chiếc cặp sách cho tôi.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Thưa Shiki-sama, khoảng mấy giờ người sẽ trở về ạ?"@
+`"Em cũng không tin anh sao?@ Không sao đâu.@ Hôm nay anh nhất định sẽ về vào buổi chiều."@
+`"[line=2]Em hiểu ạ.@ Vậy, xin Shiki-sama hãy cẩn thận trên đường."@
+` Hisui cúi đầu thật sâu.@
+` Hơi ngượng ngùng, tôi bước qua cổng biệt thự.
+\
+bg #000000,lshutter,1500
+bg "bg/bg_24a",lcartain,1500
+` Ở ngã tư chỉ có bóng dáng những học sinh cùng trường đang vội vã.@
+` Không có bóng dáng cô gái trẻ nào ngồi trên lan can tay vịn như lần đó.
+\
+`"[line=2]Ừ thì, dĩ nhiên rồi."@
+` Có lẽ tôi sẽ chẳng bao giờ gặp lại cô ấy nữa.@
+` Trước hết, mục tiêu của cô ấy là tiêu diệt ma cà rồng, và khi Nrvnqsr đã bị hạ, cô ấy chẳng còn lý do gì để nán lại đây nữa.@
+br
+` [line=2]Chỉ hơi nhói nhẹ, nơi lồng ngực.@
+` Thứ gì đó giống như nỗi hối tiếc… và sự luyến lưu khó tả.@
+` Đúng là cô ấy chỉ toàn mang đến rắc rối, nhưng dẫu vậy…… bên cạnh cô ấy thật sự rất vui.
+\
+`"………"@
+` Chắc hẳn bản thân mình cũng có gì đó không ổn rồi.@
+` Dẫu biết rằng mình đã ở trong tình trạng nguy hiểm chết người suốt cả quãng thời gian ấy, thế nhưng sâu thẳm trong tâm trí vẫn có một phần vô thức cứ mãi cố gắng nhớ về cô ấy.@
+` …… Gần như là đang yêu vậy.@
+` Cho dẫu tôi tuyệt đối không muốn phải đối mặt với loại nguy hiểm đó thêm lần nào nữa.
+\
+bg "bg/bg_01a",lcartain,1500
+` Vì bỏ bữa sáng, tôi đến cổng trường sớm hơn mười phút trước giờ đóng cổng.@
+` Những ai không tham gia hoạt động câu lạc bộ buổi sáng đều đến trường vào giờ này.@
+` Chỉ có các câu lạc bộ thể thao mới sinh hoạt vào buổi sáng.@
+` Tự nhiên, cổng trường trở nên đông nghịt học sinh.@
+`"[line=4]À."@
+` Bên cạnh cổng trường, tôi bắt gặp một bóng dáng quen thuộc.@
+` Chẳng kịp suy nghĩ mình định làm gì, tôi vội vàng đuổi theo.
+\
+bg "bg/bg_03a",lcartain,400
+ld c,"tachi/cel_t01a",lshutter,400
+`"À, chào buổi sáng Tohno-kun.@ Thật bất ngờ khi gặp cậu ở đây nhỉ."@
+`"…… Vâng, tôi nhìn thấy senpai từ phía sau nên chạy theo.@ À…… có chuyện tôi muốn hỏi ạ."@
+` Tôi lén liếc nhìn gương mặt cô ấy.
+\
+`"Ừ, chuyện gì vậy?"@
+` Cô ấy quay lại đối diện tôi với nụ cười dịu dàng quen thuộc.@
+` Tôi[line=3]
+br
+cl c,crossfade,400

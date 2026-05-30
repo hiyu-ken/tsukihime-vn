@@ -1,0 +1,197 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` "[line=3]Không, tôi không nên khiến Akiha và những người khác lo lắng về điều này."@
+` Biến cố này[line=3]cùng cơn ác mộng kinh hoàng kia, bản thân tôi phải tự mình gánh vác giải quyết.
+\
+`"Chỉ là... dạo này việc học ở trường đang khiến anh khá bận rộn thôi.@ Sang tháng Mười Một dẫu dã có lễ hội văn hóa, mà trước đó còn có cả lễ hội thể thao nữa chứ."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Vậy sao ạ?@ Nếu dẫu dã là việc ở trường, thì em đoán dẫu dã tịnh không giúp gì được cho anh rồi."@
+cl c,crossfade,400
+` Akiha khẽ cụp mi mắt buồn bã, biểu lộ chút thất vọng.@
+` ... Lừa gạt Akiha bằng một lời dối là rất đau đớn.
+\
+ld c,"tachi/koha_t02",lshutter,800
+`"Đây rồi, Shiki-san. Cảm ơn vì đã chờ đợi."@
+` Kohaku-san mang đến một chiếc khay với cốc trong tay.@
+`"Cảm ơn."@
+` Tôi dùng ống hút uống nước ép chanh mà Kohaku-san mua cho tôi.@
+` ... Cuộc trò chuyện kết thúc ở đó.@
+` Người duy nhất vui vẻ trong phòng khách là Kohaku-san, và tôi ăn sáng như thường lệ.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48a",lcartain,400
+` Hisui đi cùng tôi đến cổng tiễn tôi.@
+` Giống như trước đây trong phòng khách, Hisui tiếp tục im lặng, điều đó khiến tôi bất an.@
+ld c,"tachi/his_t01",lshutter,400
+`"Hãy cẩn thận trên đường đi, Shiki-sama."@
+`"Ừm, tôi sẽ lên đường…… Hisui?"@
+`"Vâng, có chuyện gì, Shiki-sama?"@
+` Hisui nhìn thẳng vào mắt tôi.@
+br
+` [line=3]Tại sao vậy?@
+br
+` Khi bị những đôi mắt trong trẻo đó nhìn chằm chằm, tôi cảm thấy khó chịu, như thể mình rất bẩn thỉu.
+\
+`"…… Không có gì. Chỉ cẩn thận khi ở nhà."@
+cl c,crossfade,400
+` Với một sự bất an sâu thẳm trong ngực, tôi rời khỏi biệt thự.
+\
+bg #000000,lcartain,800
+playstop
+!w2000
+wave se_03
+bg "bg/bg_06a",lcartain,400
+` [line=3]Giờ ăn trưa rồi.@
+` Như thường lệ, Arihiko lại bỏ học.@
+br
+`"…… Tôi sẽ đi ăn ở quán ăn."@
+` Nếu tôi ăn một mình, chỉ có nỗi buồn mà thôi.@
+` Nếu tôi đến quán ăn đông người, có lẽ nó sẽ giúp tôi xua tan những suy nghĩ này.
+\
+bg "bg/bg_50",lcartain,800
+` Như dự đoán, quán ăn chật ních người.@
+` Sau khi đứng xếp hàng lâu, tôi mua bộ đồ ăn đã được kiểm chứng và đi đến một bàn.@
+` Tiếng nói của các học sinh khá lớn tiếng, nên tôi có thể tập trung vào việc ăn bữa ăn của mình.@
+` Tôi dùng đũa và ăn trong im lặng.@
+br
+` [line=4]Và sau đó.@
+br
+` Trong khoảnh khắc, tôi nhìn thấy một hình ảnh khủng khiếp.
+\
+waveloop se_02
+`"...Màn hình tivi..."@
+` Tôi ngạc nhiên trước chiếc tivi lớn được treo trên tường cuối nhà hàng ăn.@
+` Tại trường của tôi, họ ghi lại bản tin buổi sáng và phát lại vào giờ ăn trưa. Mắt tôi bị thu hút bởi những gì đang được chiếu.@
+wave se_01
+`"[line=4]Không thể..."@
+` Tôi theo dõi bản tin với sự kinh ngạc và rùng mình.@
+` Trên màn hình, con hẻm mà tôi nhìn thấy trong giấc mơ đêm qua xuất hiện.@
+` Người dẫn chương trình đang nói.@
+` Trên màn hình, những từ "Nạn nhân thứ chín của Kẻ giết người hàng loạt Ma cà rồng" xuất hiện bằng chữ đỏ rực.
+\
+bg #9c0120,notrans,0
+bg "bg/bg_50",notrans,0
+` Sau đó, khuôn mặt của nạn nhân xuất hiện.@
+` Người phụ nữ tóc dài... chắc chắn là người mà tôi đã giết trong giấc mơ.@
+bg #9c0120,crossfade,400
+bg "bg/bg_50",crossfade,400
+`"[line=6]" Tôi bắt đầu cảm thấy choáng váng.@
+` "Làm sao…… có thể?"@
+`"Đó là một giấc mơ. Phải là một giấc mơ.@
+` Nhưng trong thực tế, người giống như trong giấc mơ tôi, ở nơi giống như trong giấc mơ tôi, đã bị giết theo cách giống như trong giấc mơ tôi.@
+` "Người ma cà rồng chắc đã biến mất rồi."
+\
+`"Tôi đã giết Yumizuka bằng chính đôi tay mình.@
+` Những vụ giết người này, chúng không còn được phép xảy ra nữa.@
+` (Những hành động) của tôi, chúng không thể tiếp diễn được.@
+br
+`"[line=4]Tôi đã giết ai đó."@
+br
+` Vâng, tôi đã giết người ấy.@
+` Giống như lần tôi giết Yumizuka.@
+` [line=3]Khi hơi thở gấp gáp, đêm qua, một người phụ nữ tôi chưa từng gặp...
+\
+bg #000000,notrans,0
+br
+br
+br
+br
+br
+br
+` Tôi đã nói với cậu, Shiki-kun?@
+` Không có ích khi chống lại nó.
+\
+bg "bg/bg_50",notrans,0
+`"[line=3]Ừm..."@
+` Đẩy lùi cơn muốn nôn mửa, tôi đứng dậy khỏi ghế.@
+bg #000000,lshutter,400
+br
+` Tôi không thể quay lại lớp học.@
+` Không hiểu sao, tôi lại chạy vào thị trấn.
+\
+wavestop
+!w2000
+bg "bg/bg_30a",lcartain,400
+` [line=3]Tôi đến nơi mà tôi đã thấy trong giấc mơ của mình.|@
+br
+` Có nhiều cảnh sát xung quanh khu vực này, và băng rôn "Hạn chế bước vào" được căng ngang qua con hẻm.@
+`"[line=3]Chính xác như vậy."@
+` Không thể phủ nhận, đây chính là nơi tôi đã đến trong giấc mơ của mình.@
+` [line=3]Không, đó không phải là giấc mơ.|@
+` Tôi không thể tiếp tục lừa dối bản thân rằng đó chỉ là một giấc mơ nữa.@
+`"……"@
+` Ngay cả khi tôi ở lại đây lâu hơn, cảnh sát chỉ sẽ nhìn chằm chằm vào tôi.@
+` …… Tôi không thể quay lại trường học lúc này. Tôi nghĩ tôi sẽ trở về biệt thự.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_33a",lcartain,800
+[loop âm thanh: se_11]
+` Vì chưa đến hai giờ, Hisui không chờ ở sảnh.@
+`"……"@
+` Tôi có thể nói mình may mắn. Tôi không muốn gặp ai vào lúc này.@
+br
+bg #000000,tshutter,800
+bg "bg/bg_40a",tshutter,800
+` *thở dài*@
+` Hít một hơi sâu, tôi ngã xuống giường.
+\
+bg #000000,crossfade,400
+` …… Tôi hoàn toàn không hiểu chuyện gì đang xảy ra cả.@
+` Tôi có những giấc mơ nơi tôi giết người.@
+` Trong thực tế, cùng một hành động giết chóc đã diễn ra.@
+` Tôi đang sống cuộc sống bình thường như thể nó là thật.@
+` Tôi từng tận hưởng việc giết người trong giấc mơ của mình.@
+br
+br
+` [line=6]Làm sao để biết…
+`      Ai mới chính là Tohno Shiki?
+\
+Màu chữ đỏ đậm
+br
+br
+` Bạn thực sự phải hỏi à?
+\
+Màu chữ trắng
+br
+br
+` ... Lại là giọng nói ấy.
+\
+Màu chữ đỏ đậm
+br
+br
+br
+br
+` Đi thôi, tiếp tục đi, Shiki.
+\
+Màu chữ trắng
+br
+br
+br
+br
+` ... Giọng nói vang vọng trong đầu tôi.@ Giọng tôi.
+\
+Màu chữ #FF0000 (đỏ)
+br
+br
+br
+br
+br
+` Đêm đến mỗi ngày.@
+` Chắc chắn rồi, chúng ta sẽ tìm thấy người mà chúng ta muốn vào một ngày nào đó, phải không...?
+\
+Màu văn bản trắng (`#ffffff`)
+ld c,"tachi/aki_t09",notrans,0
+bg "bg/bg_40a",notrans,0
+wavestop
+`"[line=6]Im lặng đi!"@
+` Tôi nhảy dậy khỏi giường.@
+` Tôi bắt đầu thở nặng nhọc.@
+` Hô hấp của tôi mất kiểm soát.@
+` Chỉ vừa rồi...
+` Tôi muốn Akiha.@
+`"[line=4]Chết tiệt! Cái gì thế này..."@
+` Tôi không hiểu chuyện gì đang xảy ra với tôi.@
+` Tất cả những gì tôi chắc chắn, là nếu tôi nhìn thấy Akiha hoặc Hisui ngay lúc này, tôi không biết mình sẽ làm gì với họ.
+\

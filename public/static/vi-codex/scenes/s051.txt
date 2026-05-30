@@ -1,0 +1,136 @@
+` [center]Cái chết...[/center]`
+bg #ffffff,crossfade,800
+` Thầy bảo tôi.`@
+` Mắt tôi có thể nhìn thấy những điểm dễ bị gãy vỡ.`@
+` Và nếu thứ đó là một người, thì tôi sẽ nhìn thấy những điểm yếu của họ.`
+\
+` Những dòng này, nếu cắt ra, có thể khiến mọi thứ tan vỡ một cách dễ dàng.`@
+` Với những đường như thế, ngay cả thứ cứng rắn như thép cũng dễ dàng bị cắt.`@
+br
+` “Nói cách khác, mọi thứ tồn tại đều có số phận ‘bị vỡ’ được tiềm ẩn bên trong. @ Điều này là điều không thể tránh khỏi đối với bất cứ thứ gì có hình dạng vật chất, Shiki.”`
+\
+` "Đó là điều thầy đã nói."@
+` Tôi vẫn còn là đứa trẻ lúc ấy.`@
+` Tôi nhớ cuối cùng hiểu được ý của cô ấy và sợ hãi.`@
+` Thế giới này đầy rẫy những vết nứt, có thể sụp đổ bất cứ lúc nào.`@
+` Nếu có những nét vẽ khắp mặt đất, thì có thể trái đất sẽ vỡ ra nếu tôi bước lên nó.@
+` , [line=3]Khi tôi hiểu ý cô ấy, tôi chân thành cảm ơn Giáo Sư vì đã tặng cho tôi cặp kính này.`
+\
+br
+` Tôi không thể sống tiếp nếu cứ mãi nhìn thấy những đường kẻ ấy.`@
+` Những điểm dễ vỡ.`@
+` [line=3]Không có một lợi ích nào khi có thể nhìn thấy chúng
+\
+bg #000000,crossfade,1500
+!w1000
+bg "bg/ima_03",crossfade,800
+` [line=3]"Chào buổi sáng."@
+br
+` Tôi nghe thấy một giọng nói lạ.`
+\
+` "Đã sáng rồi.  Là lúc cậu thức dậy, Shiki-sama."@
+` Cease calling me Shiki-sama already.@
+` [line=4]Tôi đã nói với bạn hôm qua, điều đó khiến tôi rùng mình.
+\
+bg "bg/bg_40e",crossfade,1500
+ld c,"tachi/his_t01",crossfade,400
+play "*2"
+br
+` [line=3]Tôi thức dậy.@
+` Hisui đứng cách giường một khoảng cách xa, như một bức tượng.@
+` "……"@
+br
+` "Tôi ở đâu vậy?"@
+br
+` "Good morning, Shiki-sama."@
+` Một cô gái mặc đồng phục nhân viên nhà bếp cúi chào.
+\
+` "Ah… yeah, I came home, right…"@
+` Tôi cố gắng ngồi dậy, quan sát xung quanh căn phòng.@
+cl c,crossfade,400
+` Trong khoảnh khắc đó[line=3]
+br
+` [line=3]Tôi cảm thấy một cơn đau nhức sắc bén ở thái dương.
+\
+` "Huh[line=3]?"@
+` "Are you looking for your glasses?"@
+` Hisui nhẹ nhàng đưa cho tôi cặp kính.@
+bg "bg/bg_40a",lshutter,400
+` [line=3]Phew."@
+br
+` Tôi thở dài một cách thoải mái.@
+` [line=3]Đêm qua, trước khi ngủ, tôi có cảm giác như đang nhìn thấy những đường nét ngay cả khi đeo kính. Có vẻ như đó chỉ là tưởng tượng của tôi.
+\
+` "Sstt……"@
+` Có lẽ vì tôi ngủ trong một căn phòng lạ nên tâm trí tôi đang mờ mịt.@
+ld c,"tachi/his_t01",crossfade,400
+` Shiki-sama…?@
+` Hisui gọi tôi.@
+` Lắc đầu, tôi xua tan cơn buồn ngủ.
+\
+` Chào buổi sáng, Hisui. Cảm ơn vì đã đến đánh thức tôi.@
+` Không cần cảm ơn. Đây là nhiệm vụ của tôi, Shiki-sama.@
+` Hisui trả lời một cách đơn giản và hoàn toàn không biểu cảm.
+\
+` …… Ngay cả trong ánh sáng không thuận lợi, tôi nghĩ vẻ đẹp của Hisui rất tuyệt.@
+` Nên thật tuyệt vời nếu một cô gái như vậy thức dậy mỗi buổi sáng cho tôi, nhưng vì Hisui chưa bao giờ mỉm cười nên tôi không cảm thấy vui lắm.@
+br
+` …… Thật đáng tiếc.@
+` Nếu Hisui chỉ có một nửa độ rực rỡ của Kohaku, cô ấy sẽ thật dễ thương.
+\
+` [line=3]Bạn cần gì?@
+` Nhận ra tôi đang nhìn cô ấy, Hisui cũng nhìn thẳng vào tôi.@
+` Không, không có gì cả. Đánh thức cùng với bạn khiến tôi cảm thấy mình thật sự ở trong biệt thự Tohno.@
+` Bây giờ rồi. Tôi xuống giường và duỗi hai tay ra.@
+br
+` Đột nhiên, tôi nhận ra mình đang mặc pijama.
+\
+` [line=3]Ê, chắc chắn rằng ngày hôm qua, tôi…
+\
+` Gì? Tôi nghĩ mình đã ngủ trong đồng phục tối qua.@
+` Vâng. Vì không tốt cho sức khỏe nên chị Nee-san đã thay quần áo và đưa bạn vào giường sau đó.@
+` Hisui giải thích nó như thể điều đó là hoàn toàn tự nhiên.@
+` Tôi hiểu. Cô ấy đã thay quần áo cho tôi. Thật vậy, nếu tôi ngủ như vậy thì có thể bị cảm lạnh.@
+` Đó là loại dịch vụ chu đáo mà bạn có thể mong đợi từ một người hầu gái[line=3]Ê, chờ tí…!
+\
+` "N-n-[line=6]!?@
+` Tôi nhanh chóng kiểm tra quần và đồ lót của mình.@
+` Quần tôi là loại quần pijama mới.@ Ngay cả đồ lót cũng mới.
+\
+` "N-n-n-!?@
+` Tôi muốn nói 'Cậu đã làm gì thế!?', nhưng không hiểu sao những lời ấy cứ mắc ở cổ họng.@
+` Tôi phải bình tĩnh lại và suy nghĩ mọi chuyện cho kỹ hơn lúc này.@
+` …… Hãy xem đi. Trước hết, một nửa lỗi thuộc về tôi.@
+` Và người thay đổi tôi không phải là Hisui, mà là chị gái của cô ấy, Kohaku-san.@
+` Không nên than phiền với Hisui.
+\
+` [line=3]Hisui.@
+` "Vâng, có chuyện gì?@
+` "Bạn không cần phải làm những việc không cần thiết như thế này nữa từ bây giờ. Nếu bạn phải làm, xin hãy đánh thức tôi. Tôi có thể tự thay đổi mình, vì vậy tôi muốn làm như vậy.@
+` Mặt tôi đỏ chàm khi nói hết tất cả những điều này. Hisui gật đầu một cách vâng lời để xác nhận.@
+` "Bộ đồng phục của bạn đã được gấp và đang chờ đợi ở đó.@ Vui lòng đến phòng khách sau khi thay xong.
+\
+cl c,lshutter,800
+` ………@
+` Curses! Làm thế nào tôi lại có thể vô ý như vậy.@
+` Ban đầu tôi đã lơ là khi ngủ trên giường như vậy, nhưng không thức dậy trong lúc đang bị thay đổi thì quá đáng.@
+` "Thông thường tôi sẽ cảm nhận được điều đó, nhưng… có lẽ tôi chỉ thật sự mệt mỏi.@
+` Than phiền với bản thân mình không làm thay đổi gì.@ Tôi không thể cứ đứng đây tự nói chuyện như một kẻ ngốc.@ Tôi tốt hơn là nên nhanh chóng thay xong, rồi đi ăn sáng.
+\
+` Áo đồng phục của tôi được gấp gọn gàng, cả áo sơ mi cũng được ủi thẳng.`@
+` Mỗi khi đưa cổ tay qua ống tay áo đều cảm thấy thật tốt.@ Đó là cảm giác mới mẻ, như chưa từng trải qua.`
+\
+` “…… Không, chẳng có gì sai khi cởi trần cả, phải không?” Vâng.”@
+` Không có gì sai cả, nhưng tôi lại tự thấy ngượng nghịu vì mình đang bị ảnh hưởng bởi nụ cười ấm áp của Kohaku-san.@
+` Và như để thổi thêm vào nỗi kinh hoàng, gương mặt trong gương vẫn mỉm cười thoảng qua dù đã đỏ ửng.@
+` ……. Cậu thật sự ổn chứ, Tohno Shiki?@
+` Tôi tưởng cậu nên lo lắng vì ở lại đây chứ, thằng nhãi.`
+\
+bg #000000,lcartain,800
+!w500
+bg "bg/bg_34a",lcartain,800
+` Akiha và Kohaku-san đang thư giãn trong phòng khách.`@
+` Akiha mặc đồng phục Học viện Nữ sinh Asagami, một trường nổi tiếng dành cho thiếu nữ.@
+` Họ đang thưởng thức trà một cách thanh nhã, như thể bữa sáng đã kết thúc từ lâu rồi.`@
+` [line=4]Tôi
+\

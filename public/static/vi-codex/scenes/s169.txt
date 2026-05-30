@@ -1,0 +1,118 @@
+monocro off
+play "*3"
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+play "*3"
+` Trong những tình huống thế này, rạp chiếu phim luôn là một lựa chọn an toàn. Dĩ nhiên, miễn sao bộ phim được chọn đủ hay thì buổi hẹn sẽ không bao giờ nhàm chán.@
+br
+ld c,"tachi/ark_t01a",lshutter,400
+`"Nơi này lúc nào cũng tấp nập thật đấy, dẫu tôi chẳng rõ ở đây có hoạt động gì thú vị nữa."@
+` Arcueid rảo bước ngay bên cạnh tôi.@
+cl c,crossfade,400
+`"[line=6]"@
+` [line=4]Dọc đường đi, cho đến tận lúc này, mọi người xung quanh vẫn không ngừng liếc nhìn hai chúng tôi.@
+` ... Chẳng cần nói ra thì ai cũng hiểu, lý do đơn giản là vì Arcueid thực sự quá nổi bật giữa đám đông.
+\
+` Tôi cũng phần nào tự ý thức được điều đó, nhưng phản ứng ngoái nhìn của dòng người qua đường càng làm tôi ngượng ngùng hơn, đầu óc có chút bối rối.@
+br
+` Arcueid vẫn cư xử tự nhiên như thường lệ. Nhưng kể từ lúc bản thân không thể ngừng bị cuốn hút bởi nét nữ tính đầy mê hoặc của cô ấy, tôi đâm ra lúng túng, chẳng thể mở lời bắt đầu một cuộc trò chuyện tự nhiên nào cả.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Này Shiki, cậu có nghe tôi nói không đấy? Tôi đang hỏi chúng ta đang đi đâu cơ mà."@
+`"[line=4]Ồ, à... Hầu hết các cặp đôi đến đây thường sẽ chọn đi xem phim ở rạp chiếu phim."@
+` Tôi chỉ tay về phía rạp chiếu phim sừng sững ngay trước mặt.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Rạp chiếu phim... Hừm, vậy là chúng ta sẽ đi xem phim nhỉ."@
+` Nàng công chúa ma cà rồng khẽ nghiêng đầu, vẻ mặt có chút hoài nghi.@
+` Nhưng đã lỡ đặt chân đến đây rồi, tôi cũng chẳng còn lựa chọn nào khác.@
+` Ngay từ đầu tôi vốn đâu có biết một cô gái ma cà rồng sẽ thích những trò giải trí kiểu gì cơ chứ.@
+` Đi đến bước này rồi, tôi chỉ còn biết chuẩn bị sẵn tinh thần nghe cô ấy bĩu môi chê "Tẻ nhạt quá đi".
+\
+`"Cứ vào thử xem sao đi. Nếu cậu thấy không thích, chúng ta lúc nào cũng có thể đổi địa điểm khác mà."@
+`"Tôi thực sự... đâu có bảo là không thích đâu chứ."@
+` Khẽ thở hắt ra một hơi, Arcueid lặng lẽ bước theo sau tôi.@
+cl c,crossfade,400
+` Vai cô ấy khẽ rũ xuống như muốn cằn nhằn: "Đúng là ông anh vô dụng mà!"
+\
+`"Tôi đi mua vé đây, cậu muốn xem thể loại gì? Hừm, có một bộ phim tình cảm lãng mạn, và một bộ phim khác... Mà cái rạp này tuyển phim tệ thật đấy."@
+` Thú thật, chính tôi nhìn danh sách phim cũng muốn quay xe đi về.@
+ld c,"tachi/ark_t02",crossfade,400
+`"Phim nào cũng được hết á. Trông chúng đều giống nhau cả thôi mà."@
+`"Ừm, vậy cũng được. Thế để tôi mua vé nhé."@
+cl c,rcartain,800
+` Tôi đứng vào hàng ngắn nhất và nhanh chóng mua hai chiếc vé.
+\
+`"Đây rồi. Lúc vào cửa cứ đưa vé này cho họ nhé. Người ta sẽ xé giữ lại một nửa vé, đó là quy định thông thường thôi nên cậu đừng có nổi giận đấy."@
+ld c,"tachi/ark_t02",crossfade,400
+`"Tôi biết quy định đó mà. Shiki, cậu nghĩ tôi hoàn toàn mù tịt chẳng hiểu gì về xã hội loài người đấy hả?"@
+`"À... Không phải thế. Tôi chỉ sợ cậu chưa quen với lối sống thường nhật của con người thôi."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Tôi có lượng kiến thức khổng lồ được lưu trữ sẵn trong đầu nhé. Mấy chuyện như rạp chiếu phim này tôi thừa biết."@
+cl c,lshutter,400
+` Khẽ hứ một tiếng nhỏ đầy kiêu kỳ, cô ấy quay mặt đi rồi kiêu hãnh bước thẳng vào phòng chiếu.
+\
+` ... Đúng là một sai lầm lớn.@
+` Biết thế tôi đã không đưa một ma cà rồng đến rạp chiếu phim thế này, chắc chắn cô ấy sẽ chán ngấy cho mà xem.
+\
+bg #000000,crossfade,400
+!w1000
+bg "bg/bg_25a",crossfade,400
+` [line=4]Chúng tôi rời khỏi rạp chiếu phim.@
+br
+` Bộ phim tình cảm lãng mạn chúng tôi vừa xem... tuy không đến mức quá tẻ nhạt, nhưng cũng chẳng có gì đặc biệt xuất sắc cả.@
+` Đó là một tác phẩm điện ảnh nghệ thuật kiểu Pháp điển hình, ít tập trung vào các tình tiết giật gân mà chủ yếu chú trọng tạo dựng một bầu không khí êm đềm, sâu lắng.@
+` Suốt quãng đường rời rạp, Arcueid chỉ im lặng bước đi bên cạnh tôi.
+\
+`"…………"@
+` Bầu không khí im lặng làm tôi có chút bứt rứt khó chịu.@
+` Biết thế chọn phim hành động hay phim kinh dị, có khi cô ấy lại thấy phấn khích hơn.@
+br
+`"Này, Arcueid."@
+ld c,"tachi/ark_t08",lshutter,400
+`"Oa, xem phim vui thật đấy, Shiki!"@
+br
+` Trời đất ơi, cái gì cơ!?
+\
+`"Cậu thấy vui sao, Arcueid?"@
+`"Phải rồi! Nghe kể và trực tiếp trải nghiệm đúng là hai chuyện hoàn toàn khác nhau mà. Dù trong đầu tôi có lưu trữ sẵn thông tin về rạp chiếu phim, trí tưởng tượng của tôi vẫn không thể nào sánh được với trải nghiệm thực tế sinh động này."@
+` Arcueid mỉm cười rạng rỡ, ánh mắt ngập tràn niềm hạnh phúc chân thành.
+\
+`"Không gian tối tăm ở đó rất đẹp, âm thanh tuy có hơi lớn nhưng nghe rất sống động chứ không hề ồn ào tí nào. Và quan trọng nhất là được ngồi xem phim bên cạnh cậu làm tôi vui lắm đấy."@
+` "Với lại cốt truyện thực sự rất tuyệt vời! Tôi vô cùng kinh ngạc khi con người có thể sáng tạo ra một câu chuyện chi tiết và sâu sắc đến thế. Trí tưởng tượng phong phú của họ vượt xa những gì tôi nghĩ. Tôi thực sự bị cảm động rồi đấy."@
+`"... À, ra... ra là thế sao?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Sao thế? Trông mặt cậu có vẻ không đồng tình lắm. Shiki, cậu thấy bộ phim đó tẻ nhạt lắm à?"@
+`"Không, không hẳn là tẻ nhạt, chỉ là nó thuộc dạng phim nghệ thuật bình thường thôi. Thực ra còn rất nhiều bộ phim khác thú vị và kịch tính hơn thế này nhiều."
+\
+ld c,"tachi/ark_t12",crossfade,400
+`"Làm sao thế được! Bộ phim vừa rồi thực sự rất hay mà!?"@
+`"À thì, mấy nhà phê bình phim chắc chắn sẽ đánh giá cao tác phẩm vừa rồi, nhưng với khán giả đại chúng thì có nhiều bộ phim giải trí xuất sắc hơn hẳn."@
+` Tuy hiện tại rạp không chiếu, nhưng thực tế có vô số tác phẩm kinh điển vượt trội hơn thế nhiều.@
+` Nói thẳng ra, bộ phim chúng ta vừa xem chỉ ở mức trung bình trung mà thôi.@
+!w500
+`"... Cậu đúng là làm tôi kinh ngạc đấy."@
+!w500
+`"... Gương mặt cậu dễ đọc cảm xúc quá đi mất, Arcueid."
+\
+cl c,crossfade,400
+` Tôi không chỉ bất ngờ, mà thực sự là vô cùng kinh ngạc.@
+` Ban đầu trông mặt cô ấy lạnh tanh, tôi cứ ngỡ cô ấy sẽ phàn nằn chê bai dữ dội... ai ngờ lúc này cô ấy lại hớn hở phấn khích hệt như một đứa trẻ lần đầu được đi chơi viên vậy.@
+br
+`"... Tiếc thật đấy. Biết cậu thích xem phim thế này, đáng lẽ tôi nên lựa chọn một bộ phim xuất sắc hơn để đưa cậu đi xem rồi."@
+br
+` Không phải vì tôi muốn nhận được lời cảm ơn từ cô ấy, mà thực tâm tôi chỉ muốn làm cô ấy được hạnh phúc trọn vẹn mà thôi.
+\
+ld c,"tachi/ark_t17",crossfade,400
+`"Ồ, ra là thế sao.@ Xem ra lần này chúng ta không được may mắn cho lắm nhỉ."@
+` Arcueid rũ vai tỏ vẻ tiếc nuối đầy ngộ nghĩnh.@
+`"Đúng vậy, coi như lần này chúng ta bỏ lỡ cơ hội tốt rồi."@
+` Tôi cũng nhún vai chia sẻ sự tiếc nuối đó cùng cô ấy.@
+` …… Đúng vậy, quả thực là như thế.@
+` Nhìn nụ cười hạnh phúc rạng rỡ của cô ấy làm tôi bỗng muốn được ngắm nhìn nó lâu hơn thêm chút nữa.
+\
+cl c,crossfade,400
+bg #000000,lcartain,800
+playstop
+!w1000

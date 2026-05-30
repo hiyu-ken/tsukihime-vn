@@ -1,0 +1,420 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+br
+` [line=3]không bị tiêu hủy.@
+br
+` Tiếng kêu chát chát vang lên.@
+br
+` Một tiếng thét, làn sóng đen ngừng lại trước mặt tôi.@
+`"...?"@
+` Tôi không hiểu.@
+` Tôi không hiểu, nhưng đây có lẽ là cơ hội cuối cùng của tôi.
+\
+br
+` Tôi chạy. Tôi lao về phía cầu thang.@
+br
+` [line=2]Thay vì chạy về phía tôi, những con quái vật dưới ánh đèn khẩn cấp đang di chuyển về phía thang máy mà tôi vừa rời đi, theo âm thanh của những bước chân.@
+br
+` Trước mặt chúng, tôi nghe thấy tiếng dao gọt rau củ như một con dao nhà bếp cắt qua chúng.@
+` [line=2][line=2]Một bóng đen của con người vung dao cắt xuyên qua những sinh vật đen tối.
+\
+`"[line=5]Làm sao thế này?"@
+` Nhưng tôi không có thời gian để nhận diện nó.@
+` Tôi dùng tay và chân, lao lên cầu thang bằng lửa như một con chó.
+\
+bg #000000,crossfade,1500
+` ...Tôi trèo lên tầng mười một.@
+` Khu vực xung quanh vẫn đen tối như mực.@
+` Nhưng ở đây, không hề có dấu vết của mùi hôi đó.@
+` Mùi thô thiển của động vật, máu và nội tạng.@
+`"Ha... ha..." [line=4]@
+` Tôi cố gắng ngồi dậy, và khi theo dõi dọc theo bức tường, tôi đi trở lại phòng của Arcueid.
+\
+bg "bg/bg_20a",crossfade,400
+bg #000000,crossfade,400
+bg "bg/bg_20b",crossfade,400
+`"[line=5]"@
+` Những ánh sáng trở lại.@
+` Mảnh đất này vẫn như trước.@
+` [line=3]Điều duy nhất khác biệt là sự hiện diện của tôi, vương vãi khắp nơi trong máu người.@
+`"Hãy nhớ điều này" [line=6]@
+` Quần của tôi hoàn toàn màu đỏ, giống như chúng vốn dĩ là màu tím đậm từ đầu.@
+` Những đốm đỏ bao phủ khắp người tôi. Tay và ngực tôi, thậm chí cả mặt tôi.
+\
+`"Ha ha" [line=6]@
+` Vậy là thế này.@
+` Tôi lẽ ra phải nhận ra điều đó khi đứng trước thang máy, khi những âm thanh từ tầng dưới ngừng lại.@
+` Lúc ấy,
+` Không còn ai khác sống sót nữa.
+\
+`"Ha ha ha" [line=5]@
+br
+` Đó là gì vậy?@
+` Điều gì vừa xảy ra vậy?@
+` Một biển máu.@
+` Nếu sàn dưới này giống như thế, những tầng khác thì sao?@
+` Cảnh tượng tàn sát đó là gì?@
+` Cảnh tượng địa ngục đó là gì?@
+` [line=3]Điều này và điều kia... tất cả đều là công việc của kẻ thù mà Arcueid nói đến[line=5]!?
+\
+`"[line=6]"@
+` Răng tôi nghiến lại với nhau.@
+` Họ siết chặt lấy nhau đến mức có vẻ như sẽ tan vỡ.@
+` Cơ thể tôi vẫn đang run rẩy.@
+` Ý thức của tôi vẫn còn tê dại.@
+` Nhưng hơn cả điều đó[line=3], tôi không thể chấp nhận cảnh tượng ấy.
+\
+` Đó là gì vậy?@
+` Những con vật không rõ nguồn gốc vừa nuốt trọn những vị khách ở các tầng dưới?@
+` Chúng có phải đã bị giết và ăn thịt?@
+` Một cách một chiều, vô nghĩa, bị giết mà không có cơ hội tranh luận, trốn thoát hay thậm chí cầu cứu...!?
+\
+`"[line=2]Anh phải đùa đấy."@
+br
+` Anh chắc chắn đang đùa tôi chứ gì?@
+br
+` Tôi siết chặt con dao.@
+` Và sau đó...@
+` Với âm thanh vui vẻ như chuông điện tử, thang máy dừng lại ở tầng mười đã đến tầng này.
+\
+`"[line=6](Shiki nhíu mày)@
+` Tôi quay lại đối mặt với thang máy, giờ đây cách tôi khoảng mười mét trong hành lang.@
+br
+` Cửa mở ra.@
+` Trong [line=3] có hai con chó đen.
+\
+play "*4"
+`"[line=6]"@
+` "Tôi hiểu rồi. Các cậu đến sau tôi."@
+`"[line=5]Ha."@
+` Tôi nắm chặt con dao bằng cả hai bàn tay.@
+` Những con chó đen đột ngột xuất hiện từ thang máy.@
+` Chúng lao tới như một cơn gió.@
+` Dĩ nhiên, chúng chạy về phía tôi, con mồi cuối cùng.
+\
+ld c,"tachi/kemo_t02",crossfade,400
+`"[line=5]Ha!"@
+br
+` Những con chó đen đang đến gần tôi.@
+` Trên cơ thể chúng, tôi có thể thấy vô số đường nét, và trên trán chúng, điểm của cái chết.@
+br
+` [line=4]Không do dự.@
+br
+` Tôi đầu tiên đâm con chó nhảy về phía tôi vào trán.@
+` Con chó đen ngã xuống sàn mà không phát ra tiếng thét nào.@
+` Nó tan chảy thành chất lỏng đen.
+\
+` Sau đó,
+` con chó đen khác nhảy về phía tôi.
+\
+bg #000000,lcartain,400
+` Nó cũng nhảy lên.@
+` Tốc độ của nó vượt xa mọi so sánh với con người.@
+` Nó chỉ mất hai giây để di chuyển mười mét dọc theo hành lang.
+\
+br
+`"[line=4]Kuh!"@
+br
+` Tôi lại đưa dao lên, nhưng không nhanh đủ.@
+` Con chó đen mở miệng.@
+` Miệng nó đầy nanh vuốt sắc hơn cả con dao tôi cầm, và chúng nhắm thẳng vào cổ tôi.
+\
+` Chính xác và nhanh chóng.@
+` Ngay khi tôi nhận ra chúng đang hút lấy tôi,
+` những nanh vuốt ấy cắn vào cổ tôi với một âm thanh giòn rắc.@
+br
+` Tôi chết đi.
+\
+bg #ffffff,crossfade,1500
+` Nhưng điều đó không đúng.@
+` Tôi không thể bị giết bởi thứ gì đó như thế này và tôi từ chối chết.@
+br
+` Nỗi bi kịch này sẽ không khiến tôi do dự.
+\
+br
+` [line=4]Một ngày hè nóng nực.@
+br
+` Nó đã xảy ra từ lâu, tám năm trước.@
+` [line=4]Tôi đã chứng kiến điều kinh khủng hơn thế nữa.
+\
+bg #000000,crossfade,400
+Vòng lặp âm thanh se_02
+ld c,"tachi/kemo_t02",crossfade,400
+br
+` Nâng cao.@
+br
+` Tôi đâm con dao vào trán con chó đen đang cắn vào cổ tôi.@
+` Tay tôi di chuyển ngay trước khi con chó đen xé qua cổ họng tôi.
+\
+` Nó được thực hiện khá hoàn hảo, thậm chí đối với bản thân tôi.@
+` Giống như một cỗ máy duy nhất chức năng là cắt, tôi đâm dao vào trán con chó mà không có bất kỳ động tác vô ích hay lãng phí nào.@
+` Vì đó chính là vị trí "điểm" của con chó đầu tiên.@
+` Thông thường, ngay cả khi não bị phá hủy, cơ bắp vẫn cố gắng thực hiện các lệnh họ đã nhận được từ não.@
+` Con chó đen có lẽ sẽ xé qua cổ họng tôi ngay cả khi tôi chỉ đơn giản là xuyên thủng đầu nó.
+\
+br
+br
+br
+br
+br
+br
+br
+` Tốt[line=2]thường thì điều đó sẽ xảy ra.
+\
+` Con chó đen đã chết.@
+` Cái chết là sự ngừng trệ hoàn toàn. Khi tôi giết nó, nó mất đi mọi giá trị.
+\
+cl c,crossfade,400
+` Con chó đen thứ hai cũng sụp xuống sàn nhà.@
+` Nó trở thành một vết bẩn đen trên hành lang khách sạn.
+\
+`"[line=2]Hah..."@
+` Tôi mệt mỏi.@
+` Với một tiếng đập, tôi tựa lưng vào tường và nhìn lên trần nhà.@
+bg #9c0120,crossfade,400
+` [line=3]Đầu tôi... đau.@
+` Thế giới trở thành một tấm thảm ghép, và ở đây đó, tôi có thể thấy những điểm đen của cái chết.@
+` Cơ thể tôi đang đông cứng, nhưng tâm trí tôi lại cháy rực lên với sốt cao.
+\
+`"[line=2]Kuh!"@
+` Bên cạnh tôi là xác hai con chó đen.@
+` Một cánh tay của tôi phủ đầy máu, cánh tay kia siết chặt một con dao đỏ.@
+` ... Và còn có một số lượng không đếm xiết các thi thể ở tầng dưới.@
+br
+`"[line=4]Ha, haha, hahaha."@
+br
+` Tôi chỉ có thể cười.@
+` Vì điều này không phải là thực.@
+` Không thể nào điều này lại là thực.@
+` [line=4]Ở đâu đó, khi đôi mắt tôi mở to, tôi bắt đầu thấy một cơn ác mộng?
+\
+` Chịu thôi!@
+br
+`"[line=2]Ồ?"@
+br
+` Một âm thanh vui vẻ vô cùng không phù hợp vang lên.@
+`"[line=2]Chết tiệt, cái đau đầu này là sao nhỉ?"@
+` Tôi đứng dậy, chịu đựng nỗi đau đầu và nhìn về phía âm thanh.@
+`"Ele... vator...?"@
+` Nghe có vẻ là tiếng động từ thang máy khác đang di chuyển lên.
+\
+br
+` Cánh cửa mở ra.@
+` Bên trong đứng một người đàn ông mặc áo khoác đen.
+\
+bg #9c0120,crossfade,400
+ld c,"tachi/nero_t01a",crossfade,400
+bg #9c0120,crossfade,400
+bg "bg/bg_20b",crossfade,400
+` Đau đầu càng trở nặng hơn.@
+br
+`"[line=2]Anh ấy..."@
+` Vâng, tôi đã gặp anh ta trước đây.@
+` Tôi chắc chắn rằng mình đã gặp người đàn ông này trước đây.
+\
+`"[line=6]"@
+` Anh ấy bước đến gần tôi một cách thầm lặng.@
+br
+`"[line=2]Anh...!"@
+` Tôi rút con dao ra và nhìn chằm chằm vào anh ta.@
+`"[line=7]"@
+` Nhưng anh ta hoàn toàn không phản ứng, vẫn tiếp tục tiến lại gần tôi.@
+` Anh ta dường như chẳng để ý đến sự hiện diện của tôi chút nào.
+\
+` Khoảng cách giữa chúng tôi ngày càng thu hẹp.@
+` [line=3]Chỉ còn một mét nữa thôi, khi người đàn ông cuối cùng cũng để ý đến tôi.@
+ld c,"tachi/nero_t03",crossfade,400
+` Đôi mắt đỏ ngầu đó.@
+` Khi tôi nhìn thấy đôi mắt không thuộc về bất kỳ con người nào, tôi hoàn toàn mất đi khả năng di chuyển cơ thể.
+\
+`"Tôi nghĩ mình đã giết hết mọi người, nhưng có vẻ như vẫn còn ai đó sống sót."@
+` Người đàn ông quay lại và nhìn những xác chết của hai con chó đen.@
+`"[line=2]Các thứ rác rưởi này. Nếu cả một miếng thịt nhỏ cũng không chăm sóc được, thì các ngươi không xứng đáng là một phần của cơ thể tôi."@
+cl a,crossfade,400
+` Người đàn ông tỏ ra bất mãn và giơ tay lên.@
+` Áo khoác của anh ta bay lên như một chiếc áo choàng.@
+br
+` [line=3]Có điều gì đó không bình thường.@
+` Với một cú đánh, xác của những con chó đen tan chảy và biến mất vào trong áo khoác của người đàn ông.
+\
+`"[line=4]À..."@
+` Tôi thậm chí còn không thể hét lên.@
+` Dưới lớp áo khoác của người đàn ông là bóng tối thuần khiết, không có dấu vết nào của một đường viền.@
+` Chỉ tồn tại một bóng tối giống như bùn.@
+`"[line=4]Thật nguy hiểm..."@
+br
+` Đây là một tình huống nguy hiểm.@
+` [line=4]Anh ta quá nguy hiểm.
+` Bản năng của tôi reo lên cảnh báo trong đầu, nhưng tôi không thể di chuyển dù chỉ một ngón tay.
+\
+` Người đàn ông mặc áo choàng đen đang tiến lại gần tôi.@
+`"[line=6]Chuyện này không tốt đẹp chút nào!"@
+` Nếu tôi chỉ ngồi đây thì không được.@
+` Đau đầu không ngừng tăng lên, đến mức khó chịu, báo hiệu nơi này rất nguy hiểm.@
+` Bất kể phương tiện, nếu tôi không rời khỏi đây sớm, tôi sẽ mất mạng.@
+br
+` [line=4]Nhưng đã quá muộn.@
+br
+` Người đàn ông đứng ngay trước mặt tôi.@
+` Đôi mắt đó hoàn toàn không nhìn về phía tôi.
+\
+`"Cho ăn."@
+` Anh ta giơ một tay lên.@
+` Dưới nó là một bóng tối hỗn loạn.@
+` Từ đó, một thứ khổng lồ xuất hiện.@
+br
+` "Đánh rơi."@
+` Tiếng gió vang lên.@
+` Cái mà xuất hiện từ dưới áo khoác của người đàn ông là một miệng cá sấu, đủ lớn để nuốt chửng một người cả.
+\
+`"Ôi trời!" [line=6]@
+br
+` [line=3]Ý thức của tôi đột ngột bùng lên.@
+` Trong sự hoảng loạn, tôi vung dao vào miệng cá sấu.@
+` Nhưng đó là hành động vô ích.@
+br
+` Có âm thanh bẹp tép.@
+br
+`"!!!!!!!" [line=7]
+\
+monocro #ff0000
+bg "bg/bg_20b",crossfade,400
+Động đất 2,100
+wavestop
+playstop
+` Tôi ngã xuống sàn.@
+`"[line=4][line=5]Haa... haa... hahaha..."@
+` Cổ họng tôi bị vỡ.@
+` Tôi không thể thở, máu đang chảy ra từ cổ họng.@
+` Máu phun ra từ cổ họng theo nhịp đập của trái tim.@
+br
+`"[line=2]Gah... ahh... aaaah..."@
+` Ý thức của tôi đang phân mảnh.@
+` Đau đớn đang xóa sổ những suy nghĩ của tôi.@
+br
+` Tôi nhìn thấy,
+` rằng phần bên phải bụng tôi gần như không tồn tại.
+\
+monocro off
+bg #ffffff,crossfade,800
+!w2000
+`"[line=2]Shiki!"@
+` Tôi nghe thấy một giọng nói.@
+` Nhưng tôi không thể nghe rõ lắm.@
+br
+`"Không ấn tượng chút nào cho một con chó canh của cậu."@
+` Giọng của người đàn ông.@
+br
+`"[line=3]Tôi không thể tin rằng một ma cà rồng tên là Chaos lại chơi những trò vô nghĩa như thế. Nó giống như một cơn ác mộng được viết kịch bản kém, Nrvnqsr Chaos."@
+` Tiếng của Arcueid vang lên.
+\
+`"Tôi cũng cảm thấy như vậy.@ Để bắt giữ một trong các Chân Tổ còn sống... tôi chưa từng nghĩ mình lại thành một phần của lễ hội ngu xuẩn này.@ Với tôi, đây cũng là một cơn ác mộng."@
+` Giọng nói sâu thẳm của người đàn ông.
+\
+`"…… Nhưng chuyện này nghĩa là sao?@ Tôi nghe nói Thừa Hành Giả trước đó thậm chí còn không thể chạm vào cô.@ Đây là sai lầm kiểu gì vậy?"@
+` Hiện tại, khí tức của cô yếu đến mức lạ thường.@ Còn yếu hơn cả một Tử Giả tầm thường[line=2]cô đã bị Giáo Hội tấn công trước khi tôi tới sao, Arcueid Brunestud?"@
+` [line=2]Tôi không thể nghe thấy tiếng Arcueid nói.
+\
+`"…… Thật khó hiểu. Chỉ có một số ít vũ khí khái niệm đủ sức làm hại cô. Những kẻ duy nhất sở hữu chúng là các sát thủ của Giáo Hội, và tôi không nghĩ Cơ Quan Mai Táng lại cử người đến tận phương Đông như thế. Dù sao, chuyện này cũng may cho tôi. Tôi sẽ không hỏi vì sao cô suy yếu. Việc tôi làm chỉ là lấy đầu cô khi mình còn cơ hội thắng."
+\
+` Tiếng bước chân vang lên.@
+` Người đàn ông mặc áo choàng đen, dù đã tuyên bố sẽ lấy đầu cô gái ấy, giờ đang bước ra khỏi căn phòng và đi về phía thang máy.@
+`"……… ?"@
+` Tôi không hiểu.@
+` [line=2]Chỉ đơn giản là quá nóng.@
+` [line=2]Ý thức của tôi mờ dần và lụi tàn.
+\
+bg #9c0120,crossfade,1500
+bg "bg/bg_20b",notrans,0
+ld c,"tachi/ark_t01a",crossfade,1500
+play "*9"
+`"Ah, cậu tỉnh lại rồi sao?"@
+`"…… A…… Arcueid……?"@
+` Tôi mở đôi mắt nửa nhắm.@
+` Arcueid đứng trước mặt tôi. Nó dường như chúng ta đang ở hành lang khách sạn.@
+`"Cảm giác của bạn thế nào? Tôi nghĩ mình đã khép lại vết thương, nhưng có lẽ nó vẫn còn đau."@
+`"...?"@
+` Khép lại vết thương[line=2]? Không thể đâu.@
+` Chấn thương tôi nhận được từ... thứ đó thậm chí cũng không được xem là vết thương.@
+` Nó đã cạo đi nửa phần thân trên của tôi.@
+` Thật kỳ lạ khi tôi vẫn còn sống, nhưng việc vết thương khép lại... có lẽ sẽ là một phép màu.
+\
+`"[line=4]Hả? ... Sao tôi lại còn sống?"@
+` Tôi ngồi dậy và kiểm tra cơ thể mình.@
+` ... Không có đau đớn nào cả.@
+` Phần bên phải bụng tôi đã trở lại như trước đây.@
+` ... Nhưng nhìn có vẻ đen và sưng tấy.
+\
+`"[line=2]Ồ... ồ?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Cậu nói gì vậy?"@
+`"Ồ... điều này là...!"@
+` Tôi chỉ vào thứ vật mềm sưng tấy trên bụng mình.@
+` Thật ra, không có đau đớn gì và tôi cảm thấy một luồng sức mạnh tràn về, nhưng tôi có cảm giác như vừa nãy tôi đã nhìn thấy điều tương tự... Hy vọng chỉ là tưởng tượng của tôi thôi...
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Đúng vậy, điều đó? Nó là một Nrvnqsr quen thuộc mà anh ta dùng để tăng cường cơ thể. Cậu đã giết nó khi nó tấn công cậu, phải không? Nó vẫn còn sống, nên tôi quyết định sử dụng nó để thay thế những bộ phận bị tổn thương của cậu."@
+`"[line=4][line=2]Quen thuộc à? Vậy cậu muốn nói là..."@
+` ...con cá sấu xuất hiện từ chiếc áo khoác của người đàn ông.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Đúng vậy. Không tuyệt sao, Shiki? Chỉ là một phần nhỏ, nhưng cậu đã tăng sức mạnh!"@
+` Arcueid cười vui vẻ một cách chân thành.@
+` Đối với tôi, tất nhiên đây không phải là chuyện đùa.@
+`"T-tại sao lại làm...!? Cậu đã làm gì vậy...! Tốt nhất cậu đừng gắn những thứ kỳ lạ vào cơ thể người khác mà không hỏi ý kiến họ..."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Ý cậu là sao? Tôi đã giúp cậu rồi mà, phải không? Tôi không thể chữa lành cho người khác, và nếu tôi bỏ mặc cậu như vậy, cậu sẽ chết."@
+` "Hoặc cậu muốn chết thay?"
+\
+`"[line=2][line=2]Này, tôi rất biết ơn vì cậu đã giúp tôi, nhưng... Làm thế nào tôi có thể sống với cơ thể này từ bây giờ?!"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"À, đừng lo lắng về điều đó. Khi một linh vật bị tách rời khỏi chủ nhân, nó chỉ còn là mẩu thịt vô dụng."@
+` Nó hiện tại hơi bất ổn về hình dạng, nhưng theo thời gian, nó sẽ bắt đầu bắt chước các đặc tính của cơ thể bạn, và bạn sẽ trở lại bình thường.@
+` Hơn nữa, nó sẽ mạnh hơn cả cơ thể bạn từng có từ trước đến nay, Shiki. Nếu bạn học phép thuật, có lẽ bạn thậm chí có thể trả lại nó về hình dạng cá sấu nguyên bản."@
+` Arcueid nói, giọng ghen tị hơn là vui mừng.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Chắc chắn bạn không hạnh phúc, Shiki? Bây giờ tôi ước bạn bị thương khắp người!"@
+`"[line=4]Đừng nói ngốc thế! Tôi không thể hạnh phúc khi có thứ như vậy được đặt lên mình...!"@
+ld c,"tachi/ark_t12",crossfade,400
+`"Không thể nào! Bạn không hạnh phúc, Shiki?!?"@
+`"Không chút nào! ... Vậy mà tôi nghĩ mình có thể sống sót nhờ điều này, nhưng tôi không muốn sống sót bằng phương pháp này lần nữa...!"
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"Ừm... Được rồi, lần sau tôi sẽ dùng phương pháp khác."@
+` Arcueid thì thầm một câu trả lời.@
+` "... Cô ấy có hối hận không? Hay là cô ấy chẳng học được gì từ những chuyện này? Tôi thực sự không thể nói chắc chắn từ một câu như thế này."@
+`"…… Ồ, cũng được. Tôi chỉ sốc lúc đầu vì nó xảy ra quá đột ngột, nhưng cậu đã giúp tôi, Arcueid. Đó là điều tôi thực sự biết ơn."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Thật sao? Đó là một điều kỳ lạ để cảm ơn tôi, Shiki. Tôi chẳng làm nhiều đâu."@
+`"[line=2]Đúng rồi. Tôi biết ơn, nên hãy được cảm ơn. Cậu không cần phải cảm thấy có lỗi."@
+`"…… Vâng. Có lẽ cậu nói đúng."@
+` Arcueid dường như đang mải mê suy nghĩ vì một lý do nào đó.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=2]Được rồi. Dù sao, chúng ta hãy rời khỏi đây ngay lập tức. Với những xáo trộn đã gây ra, sẽ trở nên bất tiện nếu chúng ta ở lại lâu hơn nữa."@
+`"[line=2]Tất cả sự ồn ào này là gì?"@
+cl a,crossfade,400
+br
+` [line=3]"À, đúng vậy."@
+` "... Không ai trong khách sạn này còn sống nữa."@
+br
+`"..."@
+` Tôi đứng dậy.@
+` [line=2][line=2]Bụng tôi không đau, nhưng nó cảm thấy như thể cơ thể tôi thuộc về người khác và tâm trí tôi đang lơ lửng.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=2]Chúng ta sẽ đến phòng của tôi trước tiên, nhưng Shiki?"@
+cl a,crossfade,1500
+br
+` [line=4]Tâm trí tôi... lắc lư.@
+` Arcueid đang nói điều gì đó, nhưng tôi không nghe thấy gì cả.@
+br
+` [line=4]Cảm giác như tôi đang rơi vào một vực thẳm, tôi mất ý thức, lần này là thật.
+\
+playstop
+bg #000000,crossfade,1500
+!w3000

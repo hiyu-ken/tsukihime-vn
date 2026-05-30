@@ -1,0 +1,68 @@
+monocro off
+wavestop
+bg "bg/bg_02a",notrans,0
+play "*4"
+br
+` [line=3]Tôi lập tức nhảy lùi lại phía sau.@`
+br
+bg #000000,lshutter,400
+` Chỉ bằng cú nhảy lùi nhẹ nhàng ấy,`
+` tôi đã tự nới rộng khoảng cách giữa hai chúng tôi ra xa tới vài mét.`
+\
+`"Cái...[line=5]?"@`
+` Kẻ duy nhất đang bàng hoàng bấy giờ lại chính là tôi.@`
+` Vũ khí vẫn thủ thế sẵn sàng trên tay, chị Ciel lạnh lùng truy đuổi sát kề tôi.@ "[line=4]!"@`
+` Tôi điên cuồng cắm đầu chạy tháo thân về phía cổng trước của trường.@`
+` Thân thể tôi bấy giờ nhẹ bẫng đến độ đáng kinh ngạc.@`
+` Tôi lao vun vút như đang xé toạc làn gió cuốn đi.@`
+br
+` Cho dù năng lực thể chất của chị Ciel có vượt xa người thường đến mấy, chị ấy tuyệt đối không cách nào đuổi kịp tôi nếu tôi cứ di chuyển với tốc độ quỷ dị thế này[line=4]`
+\
+bg "bg/bg_03c",lshutter,800
+wave se_06
+monocro #0000ff
+bg "bg/bg_03c",crossfade,400
+monocro off
+bg "bg/bg_03c",crossfade,400
+` [line=4]Thế nhưng ngay sau đó.@`
+br
+` Cơ thể tôi bỗng chốc đột ngột khựng lại.@`
+` Dẫu cho bản thân có điên cuồng dùng sức muốn tiến về phía trước thế nào, đôi chân tôi vẫn cứng đờ bám chặt lấy mặt đất không thể nhúc nhích nổi một milimét.`
+\
+`"[line=5]Cái... gì...[line=2]"@`
+` Đến khi tôi hoảng hốt quay đầu nhìn lại, tôi phát hiện có một thanh kiếm đang cắm ngập tại đó từ thuở nào.@`
+` Một thanh hắc kiếm thanh mảnh hệt như một chiếc đinh khổng lồ đang găm chặt xuống mặt đất ngay dưới chân tôi.@`
+` Thanh kiếm ấy bấy giờ đang đâm xuyên qua bóng của tôi, và đó chính là chân tướng quỷ dị khiến đôi chân tôi không cách nào nhấc nổi lên khỏi mặt đất.`
+\
+`"Cớ... sao lại thế này……!"@`
+` Tôi dồn hết chút tàn lực cuối cùng vào đôi bàn chân.@`
+` Thế nhưng dẫu cho có cố giãy giụa ra sao, đôi chân tôi vẫn tuyệt đối không suy suyển lấy một milimét.@`
+br
+` [line=3]Và rồi bấy giờ.@`
+br
+ld c,"tachi/cel_t06c",lshutter,800
+`"Thật sơ hở quá đi.@ Kể cả có muốn chạy trốn, em tin chắc rằng vẫn tồn tại những phương cách khôn ngoan hơn nhiều chứ."@`
+` Thành viên của Giáo Hội trực thuộc Giáo khu Mai táng biệt danh "Cánh Cung" chầm chậm hiện bước.`
+\
+`"Chị Ciel……[line=3]"@`
+`"Chị không thể để em đi được nữa một khi cơ thể em đã hoàn toàn biến đổi thành ma cà rồng.@ Tại đây[line=3]chị sẽ tự tay thanh tẩy linh hồn tội lỗi ấy."@`
+cl c,crossfade,800
+br
+` Tiếng bước chân của chị ấy chầm chậm tiến lại gần.@`
+` Khô khốc hệt như tiếng bước chân của một tội đồ mang án tử đang chầm chậm bước lên mười ba bậc thềm của đoạn đầu đài.`
+\
+bg #000000,crossfade,800
+`"[line=3]Vĩnh biệt.@ Ít nhất, với thứ này[line=3]"@`
+` Chị ấy thì thầm bằng một giọng nói nhỏ bé, gần như không thể nghe nổi.@ Chị ấy gí thẳng đầu vũ khí hắc ám vào lồng ngực nơi tim tôi đang đập, rồi dứt khoát bóp cò.@`
+br
+` Một tiếng nổ chát chúa vang lên đứt quãng.`
+\
+`"Hộc...[line=3]"@`
+` Tôi phun ngược ra một ngụm máu tươi.@`
+` Sau một luồng sáng chói lòa bỗng chốc bốc cháy hệt như muốn nổ tung cả đại não,`
+` sâu thẳm bên trong bản thể đang chầm chậm tan biến đi của mình, tôi bàng hoàng trông thấy linh hồn mình đang rệu rã vỡ vụn, chầm chậm bay bay như những trang giấy úa màu của một cuốn sách cổ cũ nát.`
+\
+playstop
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

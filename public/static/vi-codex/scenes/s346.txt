@@ -1,0 +1,57 @@
+play "*2"
+wavestop
+bg "bg/bg_40a",notrans,0
+` [line=4]Quả đúng là như thế rồi.@ Cũng dẫu dã là nhờ công lao to lớn tự thân của cơn ác mộng cuồng loạn tàn độc thuở sớm dẫu vậy dẫu dẫu dã, trong sâu thẳm cõi lòng tôi bấy giờ dẫu dã dấy lên cảm giác bồn chồn băn khoăn tịnh không yên chút nào chốn ấy.@`
+` Vẫn còn dạt dào chút thời gian thong thả ngắn ngủi tự thân chốn này dẫu dã thế dẫu vậy, thiết nghĩ bản thân dẫu dã cứ lẳng lặng chợp mắt nghỉ ngơi chút đỉnh dẫu dã ổn rồi.`
+\
+bg #000000,tshutter,800
+!w500
+bg "bg/bg_40a",tshutter,800
+` Tịch mịch lúc nào chịu chết tịnh không hay thấu triệt nổi, khi đầu óc tự thân khôi phục thần trí dẫu vậy tôi mới bàng hoàng thấu triệt ra bản thân dẫu dã ngủ quên trễ tràng quá chừng chốn này mất rồi.`
+\
+` Tôi cật lực lắc lắc cái đầu choáng váng trĩu nặng mơ màng tự thân rồi dáo dác dòm ngó hướng mắt ngó nghiêng xung quanh gian phòng ngủ.@`
+br
+` Và rồi bấy giờ,`
+ld c,"tachi/his_t01",bshutter,400
+`"Cậu Shiki."@`
+`"Oa!"@`
+` Hisui bấy giờ đang đứng túc trực tịnh không tiếng động ngay sát mép giường ngủ, đăm đăm cúi gương mặt thong thả nhìn chăm chú vào diện mạo tự thân của tôi.`
+\
+`"Ch... chuyện gì thế...[line=4]"@`
+`"Thưa cậu Shiki, liệu thời gian sinh hoạt bấy giờ tự thân dẫu dã có chút bất tiện tịnh không ạ?@ Kim đồng hồ bấy giờ dẫu dã tịch mịch trôi qua mốc tám giờ sáng đằng đẵng rồi đấy ạ."@`
+`"[line=4]Hả?"@`
+cl c,crossfade,400
+` Tôi quýnh quáng hướng mắt nhìn trân trân lên chiếc đồng hồ treo tường chốn ấy.@`
+` Chịu chết tịnh không sai đi đâu được, chiếc kim giờ tự thân của nó bấy giờ đang cất công chỉ thẳng tắp vào con số tám tròn trĩnh đầy kinh hoàng.@`
+`"Chết tiệt thật dẫu dã ổn rồi, mình thực sự dẫu dã ngủ quên trễ tràng quá chừng rồi chốn ấy……!"@`
+` Tôi điên cuồng cất công bật người nhảy phắt ra khỏi chiếc giường ngủ tự thân.@`
+` Quýnh quáng cuống cuồng hết cả lên, tôi vội vã lột phăng đống đồ ngủ cất lực sửa soạn thay quần áo tự thân mới sực thấu triệt sâu sắc ra sự sự tình Hisui bấy giờ vẫn đang đứng lặng yên ngự chốn này.`
+\
+`"Ơ kìa Hisui.@ Ờ thì dẫu sao dẫu dẫu, anh vô cùng sám hối, dẫu vậy dẫu dã thế dẫu vậy..."@`
+ld c,"tachi/his_t09",crossfade,400
+`"Dạ vâng em thấu triệt rồi ạ.@ Cầu xin cậu Shiki bấy giờ cứ túc trực cất công di chuyển xuống phòng khách dinh thự trước dẫu dã ổn rồi ạ."@`
+cl c,lshutter,400
+` Dứt lời giãi bày trang trọng xong, Hisui tịch mịch cất bước đi ra khỏi phòng ngủ tự thân…… Ánh mắt rầu rĩ buồn bã tự thân của em ấy lúc quay đi dẫu dã biểu lộ vô cùng sắc nét sự oán giận hờn dỗi sâu sắc quá chừng rồi.@`
+`"…… Ờ thì dẫu sao dẫu dẫu, dĩ nhiên dẫu dã là như vậy rồi dẫu dã ổn dẫu dã ổn rồi.@ Em ấy dẫu dã cất công cất bước sang phòng đánh thức mình dậy chu đáo nhường ấy dẫu dã thế, dẫu vậy bản thân lại dám lẳng lặng trườn mình đi ngủ nướng tiếp tập hai nhường này dẫu dã thế dẫu vậy……"@`
+` Lẩm bẩm tự trách cõi lòng tự thân vài câu xong, tôi quýnh quáng cất lực sửa soạn thay đồ đạc thật nhanh chân.`
+\
+bg #000000,lcartain,800
+playstop
+!w1500
+bg "bg/bg_01a",lcartain,400
+` …… Trải qua hàng tá khó khăn nhọc nhằn dạt dào dẫu vậy, rốt cuộc bản thân tôi dẫu dã cất công lết xác đặt chân tới trường học dẫu dã ổn dẫu dã ổn rồi.@`
+` Tiết học thứ nhất dẫu dã cất công khai giảng diễn ra từ thuở nào đằng đẵng rồi, thế nên chốn cổng trường bấy giờ dẫu dã tịch mịch cô tịch, tịnh không mảy may có lấy một bóng học sinh qua lại.@`
+` Khẽ buông một hơi thở dài tịch mịch thườn thượt chán nản tự thân, tôi chầm chậm cất bước di chuyển đi vào bên trong gian sảnh tòa nhà trường học.`
+\
+bg #000000,tcartain,800
+wave se_03
+!w1000
+bg "bg/bg_06a",tshutter,800
+play "*3"
+` [line=4]Tiết học thứ tư bấy giờ dẫu dã tịch mịch kết thúc trôi qua.@`
+br
+` Giờ nghỉ trưa thanh mát chầm chậm đặt chân tới, và toàn bộ khuôn viên trường học bỗng chốc rộn rã náo nhiệt phồn hoa hẳn lên bởi hàng tá thanh âm ồn ào tự thân.@`
+`"[line=4]Được rồi dẫu dã ổn ổn rồi."@`
+` Chắc hẳn Akiha bấy giờ dẫu dã cất công lẳng lặng đứng đợi chờ tôi nơi khoảng sân vườn chốn giữa trường rồi chốn ấy.@`
+` …… Dẫu vậy dẫu sao dẫu dẫu dã thế, đối kề bên một người như Akiha dẫu vậy dẫu dẫu dã dẫu sao dẫu dẫu, tôi thiết nghĩ nhất định em ấy dẫu dã cất công nhờ cậy Kohaku-san chuẩn bị hộp cơm bento tươm tất đĩnh đạc tự thân từ nhà mang theo rồi chốn ấy dẫu dã thế, dẫu vậy phòng hờ sự sự tình bất trắc nổ ra tôi vẫn dẫu dã nên cất công cất bước đi mua tạm món gì đó dẫu dã thôi.`
+\

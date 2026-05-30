@@ -1,0 +1,29 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` Này, nếu cô ấy đi lại trong lớp học của tôi như thế này, có lẽ cô ấy muốn gặp tôi vì một lý do nào đó.@
+br
+`"...Tôi tự hỏi. Cô ấy thường xuyên bước vào mà không do dự."@
+` Hay là cô ấy cuối cùng cũng nhận ra việc một học sinh năm thứ ba đến thăm lớp học của học sinh năm thứ hai là điều kỳ lạ?@
+br
+`"[line=2]Không. Điều đó chắc chắn không thể nào."@
+` Gật đầu với chính mình, tôi bước ra hành lang.
+\
+bg "bg/bg_11a",lcartain,800
+`"Senpai."@
+ld c,"tachi/cel_t08",lshutter,400
+`"[line=2]Ồ, Tohno à?"@
+` Thầy giáo dường như rất ngạc nhiên khi tôi gọi cô ấy và đứng đó với miệng mở to.@
+`"Cô đang làm gì vậy? Lớp sắp bắt đầu rồi, sao cô vẫn còn ở đây?"@
+`"[line=5]"@
+` Cô ấy nhìn tôi ngạc nhiên, sau đó quay mặt đi.
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Tôi đang làm gì? Đó không phải là việc của cô, Tohno à."@
+`"[line=2]Không... có lẽ không hẳn."@
+`"[line=2] Không, tôi đang nói dối. Một chút là đúng."@
+cl c,lshutter,800
+` Tôi nghĩ cô ấy đang liếc đi nơi khác, nhưng cô ấy bắt đầu ngửi tôi.@
+`"[line=2]…… Ồ, Senpai……?"
+\

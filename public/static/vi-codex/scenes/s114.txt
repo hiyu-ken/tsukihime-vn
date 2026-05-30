@@ -1,0 +1,42 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` ... *thở dài*@
+` Tôi không muốn quay trở về biệt thự, nên tôi giết thời gian bằng cách mơ màng trong lớp học.
+\
+` Bên ngoài, mặt trời đang lặn.@
+` Tôi có thể nghe thấy tiếng nói của những người tập luyện trong câu lạc bộ thể thao; tôi hoàn toàn thoải mái khi ngồi yên bình tại bàn viết của mình.@
+` Có lẽ là vì hôm qua và ngày trước đã như bước ra khỏi thế giới bất thường.@
+br
+` [line=4]Và sau đó,
+br
+ld c,"tachi/cel_t01a",lshutter,400
+`"Tốt. Tôi thấy cậu vẫn còn ở đây, Tohno-kun."@
+` Mặt của người cố vấn bỗng hiện ra.
+\
+`"Hừm? Người cố vấn...? Tại sao lại xuống lớp của học sinh năm hai? Có chuyện gì đặc biệt muốn nói không?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Đúng vậy, tôi thắc mắc cậu còn ở đây nên đến để xem."@
+` Người cố vấn nói điều khiến tôi vui sướng.
+\
+`"Vâng, tôi ở đây... Có chuyện gì vậy?"@
+`"Có một thứ tôi quên nói trong bữa trưa. Tôi định chờ đến ngày mai, nhưng nghĩ rằng mình nên nói ngay lập tức."@
+`"... Ừm. Chuyện gì vậy?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Đúng rồi. Tohno-kun, gần đây cậu hay ra ngoài vào ban đêm, nên tôi muốn cảnh báo cậu. Gần đây có nhiều chuyện nguy hiểm xảy ra, vì vậy cậu không nên ở ngoài quá khuya."@
+`"[line=4]Ừm... ừm..."@
+` "...? Senpai biết điều đó sao? Tôi trông có vẻ mệt mỏi vì thiếu ngủ không? Hay cô ấy thấy tôi đi dạo vào ban đêm...?"
+\
+`"Này Tohno-kun, tôi đã nói rồi. Cậu không nên dính líu đến những chuyện nguy hiểm."@
+cl c,lshutter,800
+` Khi Senpai vừa nói xong, cô ấy biến mất như một cơn gió.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_01b",lcartain,1500
+` Sau một tiếng đồng hồ ngồi làm không việc gì trong lớp học, tôi quyết định về nhà.@
+` Đã quá năm giờ rồi.@
+` Nếu tôi đến muộn, Hisui sẽ lo lắng, nên tôi nên quay trở lại sớm [line=4]
+\
+bg #000000,lcartain,1500
+!w1000

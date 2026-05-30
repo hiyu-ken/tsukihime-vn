@@ -1,0 +1,459 @@
+playstop
+wavestop
+bg "bg/bg_06a",crossfade,800
+` Giai đoạn thứ năm.`@
+` Mệt mỏi trong giờ học văn cổ, tôi nhìn ra ngoài cửa sổ.`@
+br
+` [line=4]Và,
+br
+` Một con quạ đậu trên ban công lớp học.
+\
+` [line=5]" "@
+` Không phải con quạ xanh từ đêm qua, mà chỉ là một con quạ đen bình thường.`@
+` Con quạ với đôi mắt đen nhìn vào lớp học qua cửa sổ kính.@
+` Thật ra chim đậu ở đó cũng chẳng phải chuyện lạ lắm, nhưng cũng chẳng đến nỗi là sự kiện lớn đâu.`
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,800
+wave se_01
+` "À"[line=4]@
+` Bỗng nhiên nó lao vào tôi.`@
+` Tôi nhìn thấy thế giới dần mờ trắng, cảm giác thăng bằng bị phá vỡ hoàn toàn.`
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,800
+` [line=3]" "@
+` > Tròng mắt tôi lay động.@
+` Cảm giác như có thứ gì đang tích tụ ở sau đầu tôi, và não tôi nặng nề.
+\
+` …… Crap.@
+` Tôi biết cảm giác này. Đó là tiền đề của cơn đau thiếu máu.@
+` Máu đã tích tụ bên trong các mạch máu ở não tôi tạo thành cục máu đông đen và lộn xộn bên trong đầu tôi, khiến tầm nhìn của tôi tối sầm.@
+br
+` Nếu tôi phải miêu tả nó, tôi sẽ nói rằng cảm giác như bóng tối đang đẩy từ não tôi ra ngoài về phía mắt.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,800
+bg #000000,crossfade,1500
+` [line=3]Điều này tồi tệ… Tôi không thường xuyên ngất giữa giờ học, nhưng…
+\
+br
+` Lẩm bẩm trong thế giới tối tăm, tôi mù quáng sử dụng bàn làm việc của mình để tựa vào.@
+br
+` Ngay cả điều đó cũng trở nên vô dụng…
+` Tôi không thể đưa bất kỳ sức mạnh nào vào ngón tay của tôi.@
+` Tất cả những gì tôi có thể làm bây giờ là rơi xuống sàn[line=3]
+\
+!w1000
+bg "bg/bg_06a",notrans,0
+play "*3"
+` "Xin lỗi, Sensei."@
+br
+` [line=3]Và,
+br
+` Điều gì đó đánh vào lưng tôi một cách thô bạo.
+\
+ld r,"tachi/ari_t04",notrans,0
+` "Tohno đang rất tệ, vì vậy tôi muốn đưa anh ta đến phòng y tế."@
+` [line=4]["Arihiko."]@
+br
+` Tại một thời điểm nào đó, Arihiko đã đến gần tôi.@
+br
+` "Bạn có thật sự cảm thấy tồi tệ không, Tohno?"@
+` Tôi nghe được giọng của giáo viên từ bục giảng.
+\
+` "Không, tôi nghĩ tôi sẽ ổn[line=3]"@
+ld r,"tachi/ari_t01",crossfade,400
+` "Chà, anh ta hoàn toàn không tỉnh táo. Có lẽ tốt hơn cho anh ta rời đi sớm?"@
+br
+` Arihiko tuyên bố điều đó một cách táo bạo.
+\
+` "Tôi hiểu. Nếu cậu nói vậy, Inui, thì không có gì sai. Tôi đã nghe Kunifuji-sensei nói về tình trạng sức khỏe của Tohno. Tohno, nếu cậu không khỏe, cậu có thể nghỉ ngơi tại phòng y tế hoặc ra về sớm."@
+` …… Chậc. Tôi không biết chuyện gì xảy ra với anh ta.@
+br
+` Dường như giáo viên văn học tin tưởng hoàn toàn vào những gì Arihiko nói.
+\
+ld r,"tachi/ari_t04",crossfade,400
+` "C'mon, cậu có thể về đi rồi. Mặt cậu tái nhợt và mọi người đều không biết cậu đang không khỏe cho đến khi cậu nói ra đâu."@
+` Arihiko đá tôi vào lưng một cách khó chịu.@
+` "…… Tôi sẽ về sớm trước đây, Sensei."@
+` Giáo viên văn học gật đầu nghiêm túc.
+\
+` "…… Xin lỗi vì đã khiến cậu lo lắng vô ích, Arihiko."@
+ld r,"tachi/ari_t01",crossfade,400
+` "Không cần phải lo. Chúng ta là bạn thân từ trung học; tôi có thể biết khi nào cậu sắp kiệt sức vì thiếu máu."@
+cl r,crossfade,400
+` Arihiko quay lại chỗ ngồi của mình.@
+` Tôi bày tỏ lòng biết ơn bằng ánh mắt và kéo cơ thể nặng nề ra khỏi lớp học.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_01a",lcartain,1500
+` [line=3] Tôi rời khỏi trường.@
+` Nên nằm nghỉ tại phòng y tế nhưng giờ này, đến khi tôi thức dậy thì đã hết giờ học rồi.@
+` Vậy nên, tôi quyết định tốt hơn là về nhà nằm nghỉ ngay cả khi phải ép mình.
+\
+` "…… Aaa. Tôi nghĩ mình đang cảm thấy tốt hơn một chút."@
+` Tôi hít thở không khí bên ngoài và cảm thấy mình được hồi sinh một chút.@
+br
+` …… Chậc.@ Tôi ngạc nhiên về cơ thể của chính mình.
+\
+` Bảy năm trước.@
+` Giá phải trả để hồi phục từ vết thương gần như tử vong là trở nên dễ bị thiếu máu đột ngột.@
+br
+` Khi lần đầu tiên rời khỏi bệnh viện, nó xảy ra ít nhất một lần mỗi ngày. Tôi thường xuyên bị ngất xỉu vì chóng mặt.@
+` Sau một thời gian, có lẽ do cơ thể tôi lớn lên, tình trạng chóng mặt và thiếu máu tự phát hiếm gặp hơn.@
+` Nhưng thỉnh thoảng, những thứ vẫn kích thích cơn chóng mặt, và tôi vẫn bị mất ý thức.@
+` Hôm nay tôi may mắn khi Arihiko đỡ được tôi. Thông thường, tôi ngất đi trên sàn nhà.@
+` *thở dài*@
+` Lấy một hơi thở sâu và chậm, tôi hít đầy không khí vào phổi.@
+` Tôi cảm thấy máu tụ lại ở giữa đầu bắt đầu quay cuồng trở lại, vì vậy tôi rời xa trường học.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25a",lcartain,800
+` Tôi rẽ sang đường chính.@
+` Một khi tôi qua đoạn này và rời khỏi khu vực dân cư, nó là một con đường thẳng đến biệt thự Tohno.@
+bg #ffffff,crossfade,800
+bg "bg/bg_25a",crossfade,800
+br
+` [line=2]Agh.@
+` ... Đáng lẽ tôi phải hồi phục hoàn toàn rồi.@
+` Có vẻ tôi chưa hoàn toàn hồi phục.@
+` Đặt tay lên trán, tôi nhận ra nó nóng hơn bình thường.
+\
+` ……@
+` Tôi không làm gì tốt cho bản thân bằng cách ép mình đến mức ngất xỉu bên lề đường.@
+` [line=3]Tôi đoán là không có cách nào thay đổi được.@
+` Ngực mình với bản thân, tôi dựa vào lan can.@
+` Tôi sẽ nghỉ ngơi một chút cho đến khi bình tĩnh lại.
+\
+bg #000000,lshutter,800
+bg "bg/bg_25a",lshutter,800
+playstop
+` …… Tôi không có nhiều việc phải làm, vì vậy tôi chỉ nhìn lơ đãng xung quanh đường phố.@
+br
+` Chỉ vừa qua trưa vào một ngày thường, nhưng đường phố lại đầy người đi lại.@
+` Người qua lại chen chúc.`@
+` Những người vô danh, chẳng có cá tính bước đi thẳng băng, thậm chí chẳng liếc nhìn những người đi cùng bên cạnh.@
+` Mặc dù có rất nhiều người tụ tập ở đây, trong cùng một không gian này, họ chỉ nhìn thấy một điều duy nhất.
+\
+` Mỗi người đều là nhân vật chính của cuộc đời mình, nên họ chỉ sống qua ngày từ góc nhìn của chính mình.`@
+` Và thế là, mà chẳng thật sự tương tác với ai khác, mỗi người đều kết thúc ngày một cách riêng biệt.`
+\
+br
+` [line=3]Có thể nói, đó là một điều rất cô đơn.`@
+` ……"`@
+br
+` Tôi bắt đầu nghĩ những suy nghĩ buồn bã, có lẽ là do cơn sốt của mình.`@
+` [line=3]"Tôi guess sẽ về nhà đây."@
+` Tôi cảm thấy bình tĩnh hơn, và mọi việc tôi đang làm chỉ là lãng phí thời gian với những suy nghĩ vô nghĩa.@
+` Dừng lại bên đường, tôi tiếp tục về nhà để nghỉ ngơi.`@
+br
+br
+br
+!w1000
+` [line=3]Cho đến khi tôi nhìn thấy cô ấy.`
+\
+bg #000000,crossfade,800
+bg "event/ark_e01",crossfade,800
+wave se_01
+` Thư thái.@
+` Mình chỉ lướt mắt qua đám đông thôi mà tầm nhìn lại bị đóng băng.`
+\
+br
+` [line=3]Tiếng động vang vọng.@
+br
+` Tóc vàng và mắt đỏ.@
+` Trang phục của cô trắng tinh, như thể là biểu tượng của chính cô.@
+wave se_01
+br
+` [line=3] Âm thanh vang vọng.`@
+br
+` Tim tôi đập nhanh hơn.`@
+` Đập mạnh, máu tôi dâng lên.`@
+` Cơ thể tôi run rẩy, từng dây thần kinh đều bị đứt gãy.@ Hậu môn tôi như muốn nhảy ra khỏi lưng.
+\
+wave se_01
+br
+` [line=3]Một tiếng đập mạnh.@
+br
+` Cô gái đi giữa đám đông thật… đẹp.@
+` [line=6]@
+` Cơn quay đầu xa xưa lại trở về.@
+` Tâm trí tôi như đang lơ lửng, sắp chìm vào bóng tối.
+\
+wave se_01
+br
+` [line=4]Một tiếng đập mạnh.@
+br
+` Tôi-tôi không thở được.@
+` Ngón tay tôi run rẩy. Máu không đến được tận ngón tay.@
+` Toàn bộ cơ thể tôi lạnh như băng, như sắp chết vì lạnh.
+\
+wave se_01
+br
+` [line=4]ĐỘN.@
+br
+` Tim tôi đập thình thịch, thúc giục tôi mau chóng chạy đi.@
+` "Ah[line=2]ah!"@
+` Tôi không thể chịu đựng được nữa, những lời nói ngớ ngẩn trào ra khỏi miệng tôi.
+\
+wave se_01
+` [line=5]Tôi không thể nghĩ.@
+` Não tôi chỉ truyền một từ duy nhất.@
+br
+` [line=4]TH-U-MP.@
+br
+` Chỉ có một từ lặp đi lặp lại trong đầu tôi.@
+` Cô ấy.@
+` Cô gái đó.@
+` Tôi sẽ[line=4]
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_25a",crossfade,400
+` *hắt* *hắt* *hắt*@
+br
+` Tôi cảm thấy nôn nao.@
+` Tôi không thở được.@
+` Hít thở đau lòng.@
+` Lý do gì tôi lại quên cách hít thở đúng chứ.
+\
+wave se_01
+` *hắt* *hắt* *hắt*@
+br
+` Họng tôi đang bỏng rát.@
+` Mắt tôi sắp bể.@
+` Bàn tay tôi ướt đẫm.@
+` Tôi cảm thấy lạnh[line=2]nhưng tôi mồ hôi nhễu ra.
+\
+wave se_01
+` *thở hổn hển* *thở hổn hển* *thở hổn hển*@
+` …… Tôi phải theo cô ấy.@
+` Tôi phải theo cô bé đó.@
+` Đuổi theo cô ấy, đuổi kịp cô ấy và nói chuyện với cô ấy.@
+` Chân tôi tê cứng bắt đầu di chuyển.@
+br
+` Hít thở của tôi thô kệch, giống như một con thú.@
+br
+` Tôi đuổi theo cô gái mặc trắng.
+\
+wave se_01
+bg "bg/bg_27a",crossfade,800
+ld c,"tachi/ark_t22",crossfade,400
+` *thở hổn hển* *thở hổn hển* *thở hổn hển*@
+br
+` Cô gái đi chậm rãi.@
+` Cô ấy không nhận ra tôi đang theo dõi cô ấy.@
+br
+` Ha[line=4]ah.@
+br
+` Nếu tôi đuổi theo cô ấy bây giờ, tôi có thể nói chuyện với cô ấy.@
+` Nói chuyện với cô ấy và hỏi tên cô ấy…
+\
+` Ha[line=4]ahah, ha.@
+br
+` [line=3]Hỏi tên cô ấy?@
+` Tôi đang lừa ai đây?@
+` Tôi biết rất rõ điều đó không phải là điều tôi muốn làm.@
+` …… Tôi biết, nhưng tôi không biết.@
+` Dường như tôi muốn làm điều gì khác.@
+` Nhưng tôi không thể chính xác diễn tả 'điều tôi muốn làm' bằng lời.@
+br
+` Bên trong đầu tôi bị mù mờ như đám mây mưa.
+\
+bg "bg/bg_23a",crossfade,800
+ld c,"tachi/ark_t22",crossfade,400
+` [line=7]@
+br
+` Họng tôi… nóng.@
+` Tôi không thể thở được.@
+` Nhưng sao?@
+` Điều đó là tự nhiên, phải không? Tôi vừa nhìn thấy người phụ nữ tuyệt vời… sẽ bất lịch sự nếu không bị kích động, phải không?@
+` Dừng cô ấy lại và hỏi tên cô ấy?@
+` Hah! Cho tôi một thời gian nghỉ ngơi. Tôi không còn là đứa trẻ nữa.@
+` Tôi không hiểu rõ điều đó, nhưng chỉ có một việc duy nhất tôi phải làm.
+\
+` Tôi đi với tay trong túi.@
+` Ngón tay tôi cảm nhận được sự cứng rắn của kim loại.@
+br
+` "Ku[line=4]huhh. Hehe."@
+` Thật may mắn.@
+` Cái cần thiết đều có sẵn.
+\
+` …… Cô ấy đi.@
+` Tôi để khoảng cách lớn giữa chúng ta.@
+` Để cô ấy không nhận ra. Để những người khác xung quanh chúng ta không nghi ngờ.@
+` Cô ấy và tôi là người xa lạ hoàn toàn.@
+` Đó là lý do tại sao tôi phải cố gắng hết sức để việc theo dõi cô ấy trông tự nhiên.
+\
+bg #000000,crossfade,400
+bg "bg/bg_12a",crossfade,400
+` …… Cô ấy bước vào một tòa nhà chung cư.@
+` Tôi không đi vào ngay lập tức mà chỉ quan sát từ bên ngoài.@
+` Cô ấy lên thang máy.@
+` Thang máy dừng ở tầng sáu.@
+br
+` Tôi kiểm tra hộp thư chung ở tầng một.@
+` Có năm hộp thư cho tầng sáu. Tôi chạm vào một trong số chúng và cảm thấy một cơn đau nhói.@
+` Tôi ngửi thấy nó.@
+` Không có gì sai sót.@
+` Phòng của cô ấy là căn thứ ba ở tầng sáu.
+\
+br
+br
+` Tôi bước vào thang máy và ấn số sáu.
+\
+bg #000000,crossfade,800
+` Tôi rất háo hức.@
+` Tôi siết chặt con dao trong túi khi ở trong thang máy nhỏ.@
+` Cô ấy rất gần đây.@
+` Chỉ còn một chút nữa thôi, tôi có thể...@
+` [line=2]Ây, chỉ nghĩ đến nó thôi cũng khiến tôi cảm thấy sung sướng.
+` Cả cơ thể tôi đều cảm giác như một bộ phận sinh dục ngay trước khi xuất tinh.
+\
+` Tôi ra khỏi thang máy.@
+` Hành lang tầng sáu trống rỗng.@
+` Đây là tốt.@
+` [line=4]Nhanh! Nhanh! Tôi muốn làm điều đó.
+\
+bg "bg/bg_13a",crossfade,800
+br
+br
+` [line=4]Tôi đến trước Căn phòng Ba.
+\
+` Tôi sắp ấn chuông cửa khi dừng lại.@
+` Gọng kính này cản đường tôi.@
+` Tôi không thể làm những gì tôi đến đây để làm với chúng trên đầu.@
+br
+` [line=3]…… Đó là một lời hứa, Shiki.@
+` [line=3]Bạn không nên cắt những đường đó một cách bừa bãi.
+br
+` ……@
+` Cách đây lâu lắm, một người phụ nữ từng nói với tôi điều như vậy.@
+` Nhưng ngay bây giờ, cả tên lẫn khuôn mặt của cô ấy đều không hiện lên trong tâm trí tôi.@
+` Chậm rãi, tôi tháo kính ra.
+\
+bg #000000,crossfade,800
+lặp lại âm thanh se_02
+br
+` Tôi nhìn thấy những đường đen.@
+` Và không chỉ những đường đó.@
+` Có chuyện gì xảy ra với mắt tôi không?@
+` Ngoài những đường đen ghê tởm ấy, tôi còn nhìn thấy những 'điểm', giống như lỗ đen. Không đếm xuể.@
+br
+` Tôi không biết chính xác.@
+` Điều tôi đang cố làm.@
+` Lý do tại sao tôi lại làm điều này.@
+br
+` Tohno Shiki[line=5] muốn làm gì với cô bé đó?
+\
+br
+` Tôi không biết.@
+` Vẫn chưa biết, tôi ấn chuông cửa.
+\
+bg "bg/bg_14d",crossfade,400
+` "Vâng[line=3]?@
+` Tôi nghe thấy giọng nói từ phía sau cánh cửa và cánh cửa mở một khe hở.@
+` Trong khoảnh khắc đó[line=6] tôi chui qua nó.
+\
+` "Ê[line=4]"@
+` Cô bé nói.@
+` Không, cô cố gắng nói.@
+` Cô sẽ không bao giờ kịp hoàn thành những gì cô đã cố gắng nói.@
+` Bởi vì tôi đã cắt cô ra trước khi cô có thể.
+\
+bg #000000,notrans,0
+bg "bg/ima_14",crossfade,400
+` Trong khoảnh khắc đó, tôi chui qua cánh cửa.@
+` Không mất một giây nào, tôi rút dao qua những đường kẻ chạy khắp cơ thể cô gái.@
+` Đâm vào.@
+!w500
+` Chém.@
+!w500
+` Tắm xuyên qua.@
+!w500
+` Thổi vào.@
+!w500
+` Bị chia thành từng mảnh nhỏ.@
+br
+` Hoàn toàn và tuyệt đối, tôi 'giết' cô ta.
+\
+` Những đường kẻ đen chia cơ thể cô ta thành bảy mươi mốt mảnh.@
+` Qua cổ, sau gáy, từ mắt phải đến môi, cánh tay phải trên, cánh tay phải dưới, ngón đeo nhẫn bên phải, khuỷu tay trái, ngón cái trái, ngón giữa trái, ngực trái, từ xương sườn đến tim, từ dạ dày đến bụng ở hai chỗ, háng trái, đùi trái, chân trái, ngón chân trái, tất cả.@
+` Khi tôi đi qua cô ta,
+` không mất một giây nào.@
+br
+` Thật vậy, trong chớp mắt, hoàn toàn.@
+br
+` Tôi 'phân tách' cô ta thành bảy mươi mốt mảnh thịt.
+\
+bg #000000,crossfade,400
+wavestop
+bg "bg/ima_13",crossfade,800
+play "*4"
+` [line=3]"Eh?"@
+` Tôi nghe thấy một giọng nói thật ngu ngốc.@
+` Giọng nói không giống như đang đến từ cổ họng của tôi.@
+br
+` Mất thăng bằng.@
+br
+` Những mảnh vụn thịt của cô gái nằm trước mắt tôi.@
+` Máu đỏ khắp sàn gỗ, giống như một thùng nước bị lật đổ.
+\
+br
+` Có mùi máu nghẹt thở.@
+` Những vết cắt rất sạch sẽ, nên nội tạng của cô ấy không bị rò rỉ ra.@
+` Chỉ có màu đỏ trải dài trên mặt đất.@
+` Thật kỳ lạ.@
+` Trong phòng không có gì. Chỉ có những chi anggota của cô gái bị vứt lung tung và tôi, đứng đó như một kẻ ngây thơ.
+\
+` [line=3]Cái gì[line=3]?@
+br
+` Một biển máu đỏ đang lan rộng trên sàn nhà.@
+` Trong tay tôi, tôi nắm chặt con dao của mình, vũ khí gây ra cái chết.@
+br
+` "Cô ấy[line=4]đã chết."@
+br
+` Dĩ nhiên là cô ấy đã chết.@
+` Nếu cô ấy còn sống thì cô ấy không phải là người.
+\
+` "Tại[line=4]sao?"@
+br
+` Không có gì để hỏi.@
+` Tôi đã làm điều đó bằng chính tay mình.@
+` Với chính đôi tay của tôi, một cách sạch sẽ và tức thì, tôi đã cắt đứt cô gái này mà tôi thậm chí không hề biết.
+\
+br
+` "Tôi[line=4]đã giết cô ấy?"@
+br
+` Vâng, không có gì nghi ngờ cả.@
+` Hay tôi đã nhầm?@
+br
+` Tôi không có lý do để làm điều đó.@
+` Đó là lý do nó sai. Nó phải là một sai lầm.
+\
+` Nhưng từ đầu tôi đã không có lý do nào cả.@
+` Vậy nên đây là một sai lầm.@ Phải là một sai lầm.
+\
+monocro #ff0000
+bg #000000,crossfade,400
+bg "bg/ima_13",crossfade,800
+br
+` [line=3]Máu đỏ chảy khắp sàn.@
+br
+` Chậm rãi, vết bẩn màu đỏ thẫm bò quanh chân tôi.
+\
+` ……… Ah!@
+` Ngạc nhiên, tôi nâng giày lên, nhưng đã muộn.@
+br
+` Giống như dầu hỏa, máu của cô tạo thành một sợi dây nối từ bồn máu trên sàn đến chân tôi.@
+` [line=9]@
+` Nó… đỏ… máu…
+` Màu sắc mà tôi ghét, vẫn chảy tràn ngay cả bây giờ.@ Tất cả là do tôi cắt cô ra.
+\
+` [line=3]Không phải tôi.@
+` Có. Phải là một sai lầm.@
+br
+` Một sai lầm. Một sai lầm. Có lẽ là một sai lầm, chắc chắn là một sai lầm.@
+` Đây là@
+` Đây là, Đây là, Đây là, Đây là, Đây là Đây là Đây là Đây là Đây là Đây là[line=4]
+\

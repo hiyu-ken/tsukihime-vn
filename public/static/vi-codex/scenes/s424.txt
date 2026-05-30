@@ -1,0 +1,43 @@
+playstop
+wavestop
+bg "bg/bg_40c",tshutter,800
+play "*1"
+` Tôi nhận ra có ai đó đang chăm sóc tôi.
+\
+ld c,"tachi/koha_t02b",lshutter,800
+`"Chào buổi tối. Làm sao bạn cảm thấy, Shiki-san?"@
+` Cô ấy nói với nụ cười quen thuộc.@
+`"À... Kohaku, à."@
+` Tôi cố gắng nói lên dù hơi thở của tôi yếu ớt.@
+ld c,"tachi/koha_t03b",crossfade,400
+`"À, cậu không cần phải nói. Tôi có lẽ hiểu tình trạng của cậu hơn cả bạn."@
+` Cô ấy lấy khăn khỏi trán tôi, vẫn mỉm cười.
+\
+` [line=3]Liệu điều thứ vừa rồi đó chỉ là ảo ảnh?@
+br
+` Kohaku bình tĩnh như thường. Cô ấy vẫn mỉm cười và tiếp tục thể hiện Hisui.@
+` ... Điều đó.@
+` Tôi có chết ở đây không, mà không thể tháo mặt nạ này?
+\
+`"tiểu thư Akiha đã kể cho tôi mọi thứ. Cô ấy nói sẽ chờ đến ngày mai, nhưng có lẽ quá lâu.@
+` tiểu thư Akiha dường như đã mất khả năng suy nghĩ rõ ràng.@
+` Tôi không nghĩ cậu sẽ vượt qua đêm nay như thế, Shiki-san.@
+`"[line=9]@
+` *hít thở khò khè* *hít thở khò khè*
+` Lời của Kohaku-san vô cùng chân thực.
+\
+ld c,"tachi/koha_t08",crossfade,400
+`"Shiki-san, tôi kinh ngạc."@
+` Bạn có không hiểu mức độ nguy hiểm mà cơ thể cậu đang đối mặt, Shiki-san? Tất cả những gì tiểu thư Akiha cần làm là suy nghĩ và bạn sẽ chết.@
+` "Vậy thì tại sao cậu vẫn chống lại cô ấy? Nó hoàn toàn vô vọng."@
+`"[line=9]Kohaku, em ạ."@
+` "Tôi... tôi thực sự ngạc nhiên."@
+` Giọng nói của Kohaku-san hoàn toàn khác so với trước đây.
+\
+`"…… Tôi biết. Tôi biết rằng tôi không thể trụ qua đêm như thế này."@
+`"Vậy thì cậu không sợ chết sao? Nếu cậu chấp nhận tiểu thư Akiha, cậu sẽ nhanh chóng hồi phục, nhưng vẫn chưa. Có điều gì đó sai với cậu."
+\
+`"... Có thể là vậy. Nhưng, tôi nghĩ nó ổn. Tôi thích bản thân hành động như thế này, và tôi yêu Akiha vì cô ấy thích tôi như thế nào."@
+` "... Vâng, và, ừm... Tôi tận hưởng những điều nhỏ nhặt như chỉ đơn giản được cất tiếng đối thoại với cậu, Kohaku-san."@
+` "[line=4]... Nhưng tôi cảm thấy nếu tôi nói dối bản thân, tất cả những điều nhỏ nhặt đó sẽ mất đi niềm vui, và tôi sợ điều đó."
+\

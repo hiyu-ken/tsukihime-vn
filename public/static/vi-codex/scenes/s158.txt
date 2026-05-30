@@ -1,0 +1,108 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_32d",lcartain,800
+play "*6"
+` ... Tôi leo lên con dốc dẫn lên khu dân cư và đến tận rìa ngoài của căn biệt thự.@
+` Khoảng hai giờ sáng.@
+` Đúng như dự kiến, cơn buồn ngủ dồn dập ập đến xâm chiếm tâm trí tôi.
+\
+`"... Không biết cô ấy có ổn không nữa."@
+` Tôi cứ băn khoăn mãi về dáng vẻ của cô ấy lúc hai đứa chia tay.@
+` Trông không giống như cô ấy đang đau đớn vì vết thương, mà là...[line=3]
+\
+`"Hừm... Ồ, cổng chính khóa chặt rồi."@
+` Âu cũng là lẽ thường tình, nhưng đúng là nó đã bị khóa.@
+br
+` ... Nếu mình lại trèo tường vào như hôm qua, khéo hệ thống báo động sẽ kích hoạt mất.@
+`"... Biệt thự này... liệu có cửa sau không nhỉ?"
+\
+bg #000000,lcartain,800
+bg "bg/bg_47",lcartain,800
+` ... Tôi đi vòng quanh men theo bờ tường ngoài biệt thự.@
+` Quả thực là có một lối trông như cửa sau, nhưng nó cũng bị khóa kỹ nên tôi chịu không vào nổi.@
+` Xem ra tôi không thể đột nhập vào vườn bằng cách này rồi.
+\
+`"... Cứ thế này... khéo mình phải ngủ bờ ngủ bụi ngoài này mất..."@
+` Tôi rất muốn tránh kịch bản đó nếu có thể.@
+` Khu biệt thự này vốn ít người qua lại, nên khi đêm xuống, nơi đây chìm sâu trong màn đêm tĩnh mịch.@
+` Rảo bước vào khung giờ này làm tôi không khỏi rùng mình lạnh sống lưng.
+\
+bg #000000,crossfade,400
+bg "bg/bg_47",crossfade,400
+`"Hửm?"@
+br
+` Cái gì thế kia?@
+` Tôi có cảm giác như có ai đó đang ẩn nấp trong những khoảng tối bóng đèn đường không rọi tới.
+\
+bg #9c0120,notrans,0
+bg "bg/bg_47",notrans,0
+br
+` [line=3]Thịch.@
+br
+` Tim tôi ngừng đập một nhịp, khiến tôi bỗng ngạt thở.@
+` [line=3]Máu trong người dường như chảy nhanh hơn, cơ thể tôi tràn ngập cảm giác kỳ lạ này.
+\
+br
+br
+br
+br
+br
+br
+br
+` Chắc chắn là có ai đó đang đứng đằng kia.@
+` Bóng người đó đang mỗi lúc một tiến lại gần hơn.
+\
+br
+` Tiếng bước chân khô khốc.@
+br
+` Những tiếng bước chân khô khốc ấy lọt vào tai tôi.
+\
+br
+` [line=4]Linh tính báo cho tôi điều chẳng lành.@
+br
+` Một luồng khí lạnh chạy dọc sống lưng tôi.@
+` Những giọt mồ hôi lạnh vã ra trên trán tôi.
+\
+`"[line=4]"@
+` Bóng người kia lại tiến gần hơn.@
+` Bất thình lình[line=4]tiếng nổ lớn vang lên, những chiếc đèn đường vỡ vụn.@
+bg #000000,notrans,0
+` Mặt trăng đã bị những đám mây đen che khuất.@
+` Toàn bộ thế giới lập tức chìm vào bóng tối sâu thẳm.@
+br
+`"!"@
+br
+` [line=4]Đột ngột...!@
+` Nhịp tim tôi lỡ một nhịp, hệt như một điềm báo tử.@
+` Có lẽ vì tôi đã thấm mệt sau khi đi bộ quanh biệt thự suốt thời gian dài.@
+` Cơ thể tôi phản ứng quá đỗi chậm chạp khi tôi cố gắng nhảy lùi lại né tránh.
+\
+bg #9c0120,notrans,0
+wave se_06
+bg #000000,notrans,0
+` Một lưỡi dao sắc lẹm xé toạc bóng đêm đâm tới.@
+` Tiếng da thịt bị xé rách vang lên ngay lồng ngực tôi.@
+br
+bg "bg/ima_13",lshutter,400
+`"Hả...[line=3]?"@
+br
+` [line=3]Tôi... không... hiểu... nổi.@
+br
+` Chỉ thấy... một lưỡi dao... cắm ngập... giữa ngực mình.
+\
+bg "bg/bg_47",crossfade,400
+ld c,"tachi/roa_t07b",crossfade,400
+bg "bg/bg_47",crossfade,400
+` Đám mây trôi đi trong thoáng chốc, ánh trăng hé lộ và chiếu rọi lên bóng đen kia.
+\
+br
+`"A...[line=4]!"@
+` Một gã đàn ông toàn thân quấn băng trắng toát kỳ dị.@
+` Đó... chính là hình ảnh cuối cùng tôi còn nhìn thấy được.
+\
+playstop
+bg #000000,crossfade,1500
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

@@ -1,0 +1,73 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",lcartain,800
+   Giờ sinh hoạt lớp sắp bắt đầu, nhưng không khí trong phòng học vẫn vô cùng náo nhiệt ồn ào.@
+   Tôi bước về chỗ ngồi quen thuộc bên cạnh cửa sổ rồi đặt chiếc cặp sách xuống.
+\
+ld c,"tachi/ari_t01",lshutter,400
+"Ê Shiki, chào buổi sáng.@ Trông sắc mặt ông hôm nay tồi tệ ghê thế."@
+"…… Thật là.@ Ai gặp tôi cũng phán một câu y hệt nhau vậy.@ Bộ trông tôi giống người sắp chết lắm hả?"@
+"Ủa thế hả[line=3]?@ …… Ừm, nghĩ kỹ thì trông ông vẫn bình thường.@ Cơ mà chả hiểu sao trông ông ủ rũ cực kỳ luôn đấy, Tohno."@
+"………… Ủ rũ sao?@ …"@
+   Quả thực, tinh thần của tôi đang xuống dốc thảm hại.@
+   Kể từ khi Senpai nói lời vĩnh biệt đêm qua, toàn thân tôi cứ nặng trĩu và cả tâm trí lẫn thể xác đều rã rời kiệt quệ.
+\
+"[line=3]Arihiko này.@ Hôm nay ông có thấy Senpai không?"@
+ld c,"tachi/ari_t03",crossfade,400
+"Hử?@ Senpai?@ Senpai nào cơ?"@
+"Senpai nào á?@ …… Chẳng phải Senpai duy nhất mà hai đứa mình quen là chị Ciel sao."@
+"Chị Ciel á?@ …… Ai thế?@ Trường mình có học sinh nước ngoài nào tên như thế sao?"@
+br
+   [line=4]Tôi há hốc mồm kinh ngạc đến mức không nói nên lời.@
+br
+"…… Arihiko, ông……"@
+   Tôi lắp bắp thốt ra trong sự bàng hoàng tột độ.@
+   Thế nhưng, tôi chẳng thể nói thêm được lời nào nữa.
+\
+ld c,"tachi/ari_t01",crossfade,400
+"Ông có sao không thế Tohno?@ Có chuyện gì thì cứ nói thẳng ra đi.@ Trừ việc mượn tiền ra thì việc gì tôi cũng sẵn lòng giúp đỡ."@
+br
+   Arihiko vẫn hành xử hoàn toàn bình thường như mọi ngày.@
+   Đúng như mọi khi, cậu ấy tuyệt nhiên chẳng có chút ký ức nào về sự tồn tại của Senpai cả.@
+br
+"…… À, không có gì đâu.@ Về chỗ ngồi đi, sắp vào học rồi đấy."@
+"Ồ, đến giờ rồi hả.@ Thế lát gặp nhé."@
+cl c,lshutter,800
+   Arihiko rảo bước trở về chỗ ngồi của mình ngay khi giáo viên bước vào lớp.
+\
+   Giờ sinh hoạt lớp nhanh chóng kết thúc, tiếp theo là tiết Vật lý đầu tiên bắt đầu.@
+br
+   [line=3]Tôi chỉ biết ngơ ngẩn dõi theo mọi thứ trôi qua tựa như đang xem một thước phim câm trên màn ảnh.
+\
+bg #000000,lshutter,400
+bg "bg/ima_03",lshutter,400
+   Senpai…… thực sự đã biến mất rồi.@
+   Không chỉ biến mất khỏi tầm mắt tôi, mà dường như sự tồn tại của người con gái mang tên Ciel-senpai đã bị xóa sạch hoàn toàn không để lại một dấu vết.@
+   Arihiko hoàn toàn không nhớ gì về chị ấy.@ …… Chắc chắn những người khác cũng sẽ như vậy mà thôi.@
+   Lời vĩnh biệt đêm qua, thì ra mang ý nghĩa tàn nhẫn như thế này đây.
+\
+"[line=8]"@
+   Thước phim trước mắt tôi vẫn tiếp tục trôi đi, hình ảnh người thầy giáo cặm cụi viết những dòng phấn trắng lên bảng đen hiện ra mờ nhạt.@
+   Mọi thứ xung quanh dường như chẳng còn chút gì chân thực nữa.@
+   Khi giờ học kết thúc và giờ nghỉ giải lao bắt đầu, người con gái ấy sẽ vĩnh viễn không bao giờ ghé qua căn phòng này nữa rồi.@
+   Cả những buổi trưa bình dị, hai chúng tôi cùng ngồi ăn bánh mì và trò chuyện vu vơ trong phòng trà đạo cũng sẽ không bao giờ trở lại.
+\
+   …… Ở một góc khuất nào đó trong tim.@ Tôi vẫn huyễn hoặc giữ một tia hy vọng mong manh, nhưng giờ đây nó đã hoàn toàn tắt lịm.@
+br
+   Tôi đã hoàn toàn đánh mất Ciel thật rồi.@
+ [line=3]Tôi vẫn chưa…… chưa kịp làm được gì cho chị ấy cả.@ Chưa kịp thổ lộ với chị ấy bất cứ điều gì cả.@
+   Được cùng nhau ăn trưa dưới tiết trời thu thanh bình tuyệt đẹp như hôm nay.@
+br
+   Giờ đây chỉ còn là một giấc mơ xa xôi và quý giá vô ngần[line=4]
+\
+bg #000000,crossfade,1500
+!w1000
+bg "bg/bg_06a",crossfade,400
+   Đến khi tôi bừng tỉnh, số lượng bạn học trong lớp chỉ còn lác đác vài người.@
+br
+   [line=3]Hóa ra giờ nghỉ trưa đã đến từ lúc nào rồi.@
+"………………"@
+   Tôi chẳng còn tâm trạng nào để làm bất cứ việc gì nữa cả.@
+   Cơ thể uể oải rã rời, tôi chỉ muốn nằm gục xuống bàn[line=3]
+\

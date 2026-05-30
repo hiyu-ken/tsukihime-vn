@@ -1,0 +1,330 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` Shiki-san, đã sẵn sàng!@
+` Tôi nghe thấy giọng nói của Kohaku-san từ phòng ăn.@
+br
+` Vâng, tôi sẽ đi lấy đồ ăn.@
+ld c,"tachi/aki_t03a",notrans,0
+` Ôi, anh trai! Xin đừng nói chuyện với cách thô lỗ như vậy!@
+` Akiha liếc nhìn tôi một cái sắc bén.@
+` À, cậu đã trở lại bình thường rồi. Tôi thích cậu hơn khi cậu bình tĩnh vì lo lắng cho tôi.@
+ld c,"tachi/aki_t21",crossfade,400
+` Tôi không lo lắng về cậu, anh trai!@
+` Akiha nhanh chóng nhìn đi chỗ khác.@
+` Nhìn cô ấy với một nụ cười mờ nhạt, tôi đến phòng ăn.@
+\
+bg #000000,lcartain,1500
+playstop
+!w1000
+bg "bg/bg_48a",lcartain,1500
+` Tôi được Hisui dẫn ra ngoài.@
+ld c,"tachi/his_t01",crossfade,400
+` Xin hãy cẩn thận.@
+` Cô ấy vẫn cứ nói những điều cũ kỹ và nhìn chằm chằm vào tôi.@
+` "Shiki-sama, chuyện gì đã xảy ra với anh tối qua?"@
+` "Hôm qua? Không có gì đặc biệt. Tôi chỉ cảm thấy không khỏe ở trường nên về sớm. Tôi đang trên đường về thì[line=3]"@
+br
+` Trên đường về?@
+br
+` "Tôi chỉ ngã ở công viên.@ Chắc là tôi đã cẩu thả như Akiha nói.@ …… Vâng, từ giờ tôi sẽ cẩn thận hơn."
+\
+` "Tôi không đổ lỗi cho anh, Shiki-sama, nhưng anh trông như đang ép mình quá mức hôm nay. Xin hãy cẩn thận trên đường đi."@
+` Hisui cúi đầu sâu và tiễn tôi ra.
+\
+bg #000000,lcartain,800
+bg "bg/bg_24a",lcartain,1500
+` Khi tôi đến gần trường, tôi bắt đầu nhìn thấy nhiều sinh viên mặc đồng phục hơn.@
+` Hôm nay là thứ bảy, vì vậy hầu hết họ đều mỉm cười khi đi.
+\
+` Chỉ còn một đoạn đường ngắn đến cổng chính sau khi tôi qua ngã tư này.@
+` Vẫn chỉ là bảy giờ rưỡi.@
+` Dường như tôi có thể đến trường kịp thời hôm nay.@
+br
+` Đèn xanh chuyển sang đỏ và tôi dừng lại trước vạch kẻ ngang.@
+` Bức tường rào của trường chỉ ở bên kia.@
+` Vì đây là đường đi học, lối đi bộ được bảo vệ bởi lan can. Ngay cả bây giờ, những sinh viên trước mặt tôi cũng đang đi về phía cổng trường.@
+br
+` Chỉ có học sinh của trường chúng ta ở bên kia vào lúc này của ngày.@
+` …… Phải chỉ có những sinh viên.@
+` Nhưng giữa dòng xe qua lại, tôi cảm thấy như mình thoáng nhìn thấy ai đó mặc áo trắng.
+\
+bg #000000,lshutter,800
+bg "event/ark_e02",lshutter,800
+` " [line=5]Hả……"@
+br
+` Cô ấy ở đó.@
+br
+` Đeo chiếc áo trắng, mái tóc vàng óng ả buông dài đến vai.`@
+` Mái mày dài thon và đôi mắt đỏ.`@
+` Tôi chỉ từng gặp cô ấy một lần, nhưng tuyệt đối không thể nhầm lẫn với người khác.
+\
+` [line=6]" "@
+` Nhưng điều đó là không thể.`@
+` Tôi giết cô ta hôm qua, cắt xác thành từng mảnh.@
+` [line=4]"Ừm..."@
+` Ngay cả điều đó cũng là một lời nói dối.`@
+` Nó chỉ là một giấc mơ thôi.@ Hisui nói với tôi.[line=4]
+\
+` [line=5]" "@
+` Không, cô ấy chẳng nói điều gì như thế đâu.`@
+` Mình chỉ muốn tin là nó chỉ là một giấc mơ.`@
+` Vậy thì thật sự nó không phải là một giấc mơ.`@
+` Nhưng rồi…
+` Tại sao?@ Tại sao cô ấy tồn tại, thật như bất cứ thứ gì [line=3]?`
+\
+` Ánh đèn chuyển sang màu xanh.`@
+` Các học sinh xung quanh tôi đi sang bên kia.`@
+` Tôi là người duy nhất đứng đây, ngây ra.
+\
+` Cô ngồi trên lan can, chân dang đưa lên xuống nhàn nhạt.
+` như thể cô đang chờ ai đó.`@
+` Tôi không thể biết cô ấy đã chờ bao lâu, nhưng biểu cảm của cô ấy không phải là một cái gì đó u ám.@
+br
+` [line=3]Ai mà cô ấy đang đợi?@
+br
+` Cô ấy fidget restlessly, như thể đang chờ người yêu của mình.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Tôi có một cảm giác không lành về điều này.@
+` [line=5]Ah@
+` Cô gái mặc trắng nhìn về phía tôi.@
+` Có lẽ chỉ là một sự trùng hợp ngẫu nhiên thôi.@
+br
+` Cô ấy chỉ là người lạ trông giống cô ấy. Chắc chắn cô ấy đang chờ ai khác.@
+` Nếu không, thì khoảnh khắc này chắc chắn cũng là một cơn ác mộng.@
+` [line=4]Sau cùng, tôi đã hoàn toàn giết chết cô ấy bằng chính tay mình
+\
+` Nhưng cô ấy đang nhìn về phía tôi và cười.@
+` [line=4]Nhìn rất hài lòng vì đã tìm thấy người giết cô ấy, nụ cười của cô ấy như thể nói: 'Bạn cuối cùng cũng đến'
+\
+bg "bg/bg_24a",lshutter,800
+` Gửi một cái vẫy tay quen thuộc và một nụ cười, cô nhảy xuống khỏi lan can.@
+` Phất mái tóc của mình, cô tiến về phía tôi.@
+` [line=6]'Đừng đến.'@
+` Điều này... là một cơn ác mộng.@
+` Ánh đèn chuyển sang màu đỏ.@
+` [line=6]'Đừng đến gần tôi.'@
+` Cô ấy thậm chí không có vẻ như quan tâm, đi thẳng qua đường khi xe cộ lướt qua.@
+br
+` Chỉ còn vài mét giữa chúng ta.
+\
+` “...... Tôi bảo cậu đừng đến đây[line=4]!!!”`@
+` Thực tại trước mắt tôi vẫn không thay đổi dù tôi hét lên.`@
+` Tôi chạy trốn cô gái áo trắng, hét lên theo một giọng tôi thậm chí không hiểu nổi.`
+\
+bg "bg/bg_23a",lcartain,800
+waveloop se_02
+` Tôi chạy.`@
+` Tôi chạy hết tốc lực.`@
+` Không ngần ngại chút nào, tôi lao qua đám người, chạy như gió trên đường nhựa.@
+br
+` *thở hổn hển* *thở hổn hển* *thở hổn hển* *thở hổn hển*@
+br
+` Hít thở của tôi rối loạn, tim đập thình thịch.@
+` Nhưng tôi vẫn chạy.`@
+` Tôi sẽ phát điên nếu không làm.`
+\
+` Tôi nhìn lại.`@
+` Cô gái mặc trắng đang đi về phía tôi.`@
+` Cô ấy chắc chắn đang theo dõi tôi.`@
+` Cô gái tôi đã giết đang đuổi theo tôi.`@
+` Cũng đủ lý do để tôi chạy rồi.`
+\
+bg "bg/bg_25a",lcartain,800
+` hít hít hít hít`@
+br
+` Tim tôi như sắp vỡ ra, nhưng tôi vẫn bỏ qua cảm giác đó và tiếp tục chạy.`@
+` Khi tôi nhìn lại, cô bé vẫn còn đó.`@
+` Bước chân nhẹ nhàng, cô ta theo sau tôi khi tôi chạy trốn.@
+br
+` *hít* *hít* *hít* *hít@
+br
+` Tôi cúi đầu xuống.@
+` Tay tôi cảm thấy nặng nề.@
+` Chân tôi cảm thấy như sắp bị tách ra.@
+` Nhưng bất chấp điều đó,
+` Tôi đang chạy hết tốc lực, nhưng vẫn không thể thoát khỏi người đàn bà chỉ đơn giản đi sau tôi[line=3]!
+\
+bg #000000,lcartain,800
+bg "bg/bg_30a",lcartain,800
+` *hít* *hít* *hít* *hít*@
+br
+` Hít thở của tôi không còn kiểm soát được.@
+` Tôi nghĩ mình đã chạy vài cây số rồi.@
+` Nhưng dù vậy, khi nhìn lại, cô vẫn luôn ở đó, đang đi về phía tôi.
+\
+` Tự nhiên như đang dạo chơi, cô đi ngay sau lưng tôi.@
+` *hít* *hít* "…… Haha, hahaha!"@
+br
+` Không phải là chuyện hài hước, nhưng tôi bắt đầu cười.
+\
+br
+` "Haha, hahaha, ahahahahahaha!"@
+br
+` Tôi không thể ngừng cười.@
+` Nhưng dù vậy, tôi vẫn chạy. Cơ thể tôi than phiền rằng nếu tiếp tục chạy nữa sẽ chết, nhưng tôi vẫn cứ chạy.@
+` Lí do rất đơn giản.@
+` Nếu cô bắt được tôi, cô chắc chắn sẽ giết tôi.@
+` Tôi tự hỏi mình dựa vào điều gì, cố gắng gạt bỏ nó như là tưởng tượng đơn thuần. Nhưng ngay cả khi cố trấn an bản thân, tôi chính là người hiểu rõ nhất điều đó là sự thật.@
+br
+` Không có lý do, không có cơ sở, không có bằng chứng.@
+` [line=5]Tôi đã biết rõ như một sự thật rằng nếu cô ta đuổi kịp tôi, tôi sẽ bị giết.
+\
+bg "bg/bg_31a",lcartain,800
+wave se_05
+quakey 2,100
+` [line=3]A!`@
+` Đã thật sự thảm hại khi tôi ngã xuống đất.`@
+` Tôi ngã xuống, không phải vì té ngã, mà đơn giản là tôi không thể bước đi được nữa.@
+` [line=3]Uhm... à.`@
+` Đang nằm đó, bất động, tôi bỗng dưng bò được đến tường.`
+\
+` [line=4]" "@
+` Tôi cố gắng chống tay vào tường, nhưng vô ích.`@
+` Đùi tôi yếu đi khi cố gắng đứng dậy, rồi lại sụp xuống.@
+` Cơ thể tôi không thể cử động nữa.`@
+br
+` *thở hổn hển* *thở hổn hển* *thở hổn hển*@
+br
+` Tôi ngước nhìn khi hít thở.
+\
+` [line=4]Buồn.`@
+` Tôi thiếu oxy.`@
+` Tôi không thể nghĩ ngơi được vì nó.`@
+` Tôi chẳng biết mình đang làm cái gì nữa.`@
+` Tôi không biết tại sao mình lại làm điều này.
+\
+` Tại sao? Tại sao? Tôi thậm chí không biết tại sao cô gái tôi đã giết lại còn sống.@
+` Tôi đã giết cô ấy thật sự rồi. Không còn nghi ngờ gì nữa.@
+` Vậy tại sao?@
+` Cô ấy có thể đang chờ tôi trước trường của tôi, cười[line=2]?
+\
+` …… Tôi chắc chắn đã giết cô ấy.@
+br
+` [line=3]Đúng vậy.@
+` Tôi chắc chắn đã giết cô ấy.@
+!w500
+` Tôi chắc chắn đã giết cô ấy.@
+!w500
+` Tôi chắc chắn đã giết cô ấy.@
+!w500
+` TÔI CHẮC CHẮN ĐÃ GIẾT M california HER, NÊN
+!w500
+br
+` Tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao[line=5]!?
+\
+ld c,"tachi/ark_t03",lshutter,400
+wavestop
+` "Ây? Cuộc đuổi bắt đã kết thúc rồi à?@
+` Với những bước chân nhẹ nhàng, cô bước vào ngõ hẻm, nhún vai với vẻ thất vọng.
+\
+` "Xin chào. Hôm qua cậu thật sự gây phiền toái cho tôi.@
+ld c,"tachi/ark_t01",crossfade,400
+play "*9"
+` Với nụ cười ấm áp, cô bước vào ngõ hẻm.@
+` [line=4]Tôi phải chạy đi.@
+br
+` Nghĩ vậy, tôi lui lại, chỉ để đập đầu vào một bức tường bê tông.@
+br
+` "Cuộc đuổi bắt đã kết thúc rồi phải không? Đây là con đường chết, sau cùng. Không cần lo lắng ai đến hoặc can thiệp.@
+` Cô cười, trông rất vui vẻ.@
+cl c,crossfade,400
+\
+` Panic, tôi nhìn xung quanh.@
+` Một ngõ hẻm hoang vắng. Tôi ghê tởm sự ngu xuẩn của mình.@
+` Chạy trốn ở đây giống như đang yêu cầu cô ấy giết tôi.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` Đã lâu rồi. Tám mươi tám tiếng trôi qua, tôi cuối cùng cũng tìm thấy cậu.@
+` Cô bước thêm một bước vào ngõ hẻm.@
+br
+` Ê[line=4]!@
+` Gì?@
+` Tôi chắc chắn[line=4]@
+` Vâng. Tôi là cô gái mà cậu đã giết hôm qua. Tôi vui vì cậu còn nhớ.@
+` Th[line=3]@
+` Điều đó không thể nào đúng.@ Không có cách nào điều đó có thể xảy ra…!
+\
+` ¡Ngớ ngẩn quá! Người chết không thể sống lại!@
+` Đó là sự thật, nhưng cậu không cần phải kinh ngạc như vậy. Tôi chỉ hồi sinh thôi, đơn giản thế mà.@
+` Với câu trả lời ngắn gọn đó, cô bước thêm một bước nữa, tiếng động của nó vang đến tai tôi.@
+br
+` Khoảng cách giữa chúng ta đang dần thu hẹp lại.
+\
+` …… Hồi… sinh?@
+` Ngây ngất, tôi lặp lại câu nói của cô ấy:@
+` Hồi sinh… có nghĩa là bác sĩ nào đó đã cứu cô ấy bằng một cuộc phẫu thuật…?
+\
+` [line=3]Ngớ ngẩn quá! Không thể có ai sống lại sau khi bị cắt ra như vậy[line=3]!@
+` Ừ. Nhưng rồi, tôi không phải là người.@
+` [line=5]Ờ?@
+` Lời của cô ấy đơn giản đến nỗi tôi không thể hiểu nhầm được.@
+br
+` Tôi không phải là người.@
+br
+` Đó là điều cô gái trước mặt tôi đã nói.
+\
+` …… Cậu không phải người?@
+ld c,"tachi/ark_t02",crossfade,400
+` Ê, chẳng phải rõ ràng sao? Cậu có nghĩ có ai sống lại được sau khi bị cắt làm nhiều mảnh chứ?@
+cl c,crossfade,400
+` [line=7]@
+` Không thể nào một người như vậy tồn tại.@
+` Điều đó chỉ là quái vật trông giống người.@
+br
+` Điều gì có thể sống lại ngay cả khi bị giết.@
+` Điều gì mà cái chết không liên quan đến.@
+` Điều gì nhanh chóng trở về bình thường và bắt đầu di chuyển ngay cả sau khi bị cắt làm nhiều mảnh thì không thể gọi là người.
+\
+` Không… có khả năng.@
+` Dường như đó chính là cô gái ngay trước mắt tôi.@
+` Tôi cố gắng cười, nhưng cổ họng tôi quá khô, không thể.
+\
+` …… Cái gì thế?@
+` Không phải là câu chuyện hài hước lắm.@
+` Bên cạnh đó, có quá nhiều thứ trong câu chuyện này không hề buồn cười.@
+` Vì chắc chắn…
+` Nếu cô ấy không phải là người, thì nó giải thích tại sao cô ấy vẫn sống sau khi tôi giết cô ấy.@
+br
+` [line=3]Tôi bắt đầu bình tĩnh lại.@
+br
+` Đây là tình huống mà tôi phải quan sát mọi thứ và suy nghĩ kỹ.
+\
+` …… Cậu nói cậu không phải người. Vậy cậu là gì?@
+` Tôi? Tôi là ma cà rồng. Nói theo cách của bạn, tôi là quái vật sống bằng máu người.`@
+ld c,"tachi/ark_t01a",crossfade,400
+` Ây, tốt rồi.`@
+` "Ma cà rồng" là điều tôi có thể hiểu được."`
+\
+` Tôi thấy rồi.` Cậu là ma cà rồng.[line=3]`@
+` Cô ta mỉm cười mãn nguyện như đang cho đồng ý.@
+` ... Trả lời thật điên rồ.`@
+` Tôi nghe nói ma cà rồng không thể đi lại ban ngày, nhưng tôi đoán điều đó chẳng quan trọng lắm lúc này.@
+` “Vậy con quái vật này muốn gì từ tôi?”`@
+` Bỗng nhiên cô như ngạc nhiên, lùi lại.@
+ld c,"tachi/ark_t12",crossfade,400
+` Sau một lúc, cô đặt tay lên hông và nhìn tôi, vẻ mặt khó chịu.
+\
+ld c,"tachi/ark_t16",crossfade,400
+` “Mày đã quên chuyện mày làm với tôi hôm qua chưa? Mặc dù không quen biết nhau, mày vẫn cắt đứt tôi ngay khi gặp mặt. Sao mày lại có thể hỏi tôi muốn gì từ mày như bây giờ?”`@
+` Cô ta nhìn ra vẻ ghê tởm hơn là tức giận.`@
+` Nhưng ngay lúc này, tôi cũng cảm thấy như vậy.`@
+` Bởi vì người mà tôi đã giết đang than phiền với tôi về việc tôi giết cô ấy.`
+\
+ld c,"tachi/ark_t04",crossfade,400
+` "Ê! Cậu nghe thấy đấy chứ, sát thủ?"@
+` “......Ừ, tôi nghe nè. Xin lỗi, cậu có thể im lặng một chút được không? Tôi đang suy nghĩ xem cái này thật đen đủi, thậm chí với cả tôi nữa.”`@
+cl c,crossfade,400
+br
+` [line=3]A! Tôi thật tệ quá.`@
+` Có một cô gái tôi muốn giết chỉ vì vô lý, và tôi đã giết cô ấy theo trực giác.@
+` Hồi ức của tôi không rõ ràng sau đó, nên tôi đã bình tĩnh lại, nghĩ rằng đó chỉ là một giấc mơ... nhưng hóa ra nó là sự thật.@ Thậm chí còn hơn thế nữa, người mà tôi đã giết thậm chí không phải là con người.`
+\

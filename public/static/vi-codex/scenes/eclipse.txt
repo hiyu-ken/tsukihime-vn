@@ -1,0 +1,348 @@
+playstop
+bg #000000,crossfade,1500
+!w2000
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Bất chợt, tôi tỉnh giấc.
+\
+bg "bg/ima_21",crossfade,400
+` Một đêm bao la.@
+` Giữa cánh đồng cỏ trải dài đến tận chân trời, tôi nằm đó, ngơ ngẩn ngước nhìn vầng trăng.@
+` Không có một ai khác ở đây.@
+` Không có bóng dáng con người, cũng không có cả tiếng kêu của muông thú.@
+` Có lẽ là vì tôi đã bắt cơ thể mình phải cố gắng quá sức trong vài ngày qua.@
+` Tôi chỉ muốn nằm xuống yên lặng một mình, nhưng có vẻ như tôi đã ngủ thiếp đi.
+\
+` Đó là một bóng tối sáng tỏ.@
+` Có lẽ là vì vầng trăng đang treo quá thấp.@
+` Cánh đồng cỏ vốn trông như một đại dương đen vào đêm qua giờ đây lại sáng rực, như một sân khấu nào đó.@
+` Một khoảng trống ngập trong ánh trăng sắc lạnh, thật sắc lạnh.@
+br
+` Tôi thầm nghĩ nơi này trông thật giống một nhà hát ở đâu đó.@
+br
+` Chỉ có điều, xung quanh không có rèm diễn.@
+` Cánh đồng cỏ trải rộng mênh mông này không có những bức rèm cây che chắn, cũng không có khán giả hay đội ngũ hậu đài.
+\
+` Ở đây không có gì cả.@
+` Thứ duy nhất hiện hữu là ánh trăng và bóng tối trắng.@
+` Gió không thổi, và những ngọn cỏ cũng chẳng buồn lay.@
+!w1000
+br
+` [line=4]Thật yên ắng quá.@
+br
+` Tôi khẽ bật cười, cảm giác như mọi xáo trộn cho đến ngày hôm qua chỉ là một trò đùa.@
+` Không, nếu nói về trò đùa,
+` thì cả cuộc đời tôi cho đến giờ đã quá đỗi hạnh phúc, đến mức khi nhìn lại, nó như chỉ là một ảo ảnh.
+\
+` Đã có biết bao chuyện xảy ra.@
+` Đã có rất nhiều điều kinh ngạc đến mức nhịp sống của tôi thay đổi xoành xoạch.@
+` Cả những điều tôi mong đợi, lẫn những thứ nằm ngoài dự liệu.@
+br
+` Tất cả đều thật mơ hồ.@
+` Khi nhìn lại, mọi chuyện dù nhỏ nhặt đến đâu, đều là những sự trùng hợp ngẫu nhiên xếp chồng lên nhau.@
+` Những ngày tháng trôi qua chỉ là sự lặp lại của chính nó, nhưng không có hai ngày nào giống hệt nhau.@
+` Vậy thì, điều đó có nghĩa là...
+` Có lẽ từng giây từng phút ấy đều là những khoảnh khắc duy nhất, vô giá mà tôi không bao giờ có thể quay lại.
+\
+` Tôi nhớ lại vô vàn chuyện đã qua.@
+` Những ký ức hoài niệm khiến tôi bất giác mỉm cười.@
+` Chỉ nghĩ đến những trải nghiệm mới đang chờ đợi phía trước, khác hẳn với quá khứ, đã đủ làm tôi choáng váng.@
+br
+` Thật là những cảm xúc lẫn lộn.@ Hạnh phúc, háo hức, và đủ thứ lo lắng đến nhức đầu.@
+br
+bg #000000,crossfade,400
+` [line=6]Thịch.@
+br
+` Tim tôi đột nhiên đập mạnh một nhịp.
+\
+` Cơn thiếu máu quen thuộc lập tức ập đến ngay sau đó.@
+` Cơn choáng váng kéo dài một lúc, rồi cũng dần tan biến.
+\
+` Dù vết thương ở ngực đã hoàn toàn lành lặn, cơn thiếu máu của tôi vẫn không biến mất.@
+` Có vẻ như sức khỏe yếu ớt của tôi không chỉ đơn thuần do vết thương đó gây ra.@
+br
+` …… Mà cũng phải thôi.@
+` Khả năng nhìn thấy hình dáng của cái chết đồng nghĩa với việc tôi đứng gần với cái chết hơn người khác rất nhiều.@
+` Thật lòng mà nói, tôi chưa từng nghĩ mình sẽ sống một cuộc đời dài lâu như những người bình thường.
+\
+` Thịch.@ Tiếng đập của con tim.@
+` Không giống tôi chút nào khi nghĩ về chuyện này, nhưng tôi tự hỏi mình còn có thể tiếp tục chạy đua cùng thời gian được bao lâu nữa.@
+` Kết luận rút ra quả thực chẳng có gì thú vị.@
+br
+` Bởi vì, cho dù nó có ngừng đập vào ngày mai, hay vài chục năm nữa, thì[line=4]
+\
+`"Này, cậu kia.@ Nằm khểnh ở chỗ đó là nguy hiểm lắm đấy."@
+br
+` [line=4]Và rồi.@
+br
+` Tôi nghe thấy một giọng nói vô cùng quen thuộc.
+\
+play "*8"
+bg "event/ao_01",lshutter,400
+`"Hả…?"@
+`"Hả với hỉ gì chứ?@ Cậu cũng rảnh rỗi dữ luôn, nửa đêm nửa hôm còn nằm khoèo ở đây.@ Suýt chút nữa là tôi đá cho một cái rồi đấy, liệu mà coi chừng."@
+` Cô gắt gỏng nói, tay kia đang xách một chiếc vali.
+\
+`"Ơ…?@ Đá?@ Đá tôi ấy hả?"@
+` Tôi gượng ngồi dậy.@
+`"Còn ai vào đây nữa hả đồ ngốc?@ Ở đây chỉ có hai chúng ta, không phải tôi thì còn ai?"@
+` Cô khoanh tay, dõng dạc tuyên bố.@
+`"Ha[line=7]"@
+` Cố nén tiếng cười đang trực trào ra, tôi ngước nhìn lên cô và vầng trăng.
+\
+`"Tôi không thể tin được… Tôi vốn có linh cảm là sẽ gặp lại cô, nhưng không ngờ ngày đó lại là hôm nay."@
+`"Trùng hợp thật.@ Tôi cũng đâu ngờ là sẽ gặp cậu ở đây.@
+` Tôi nghe nói cậu đang ở vùng này, nhưng chúng ta chưa chạm mặt lần nào đúng không?@ Nên tôi cứ tưởng số mệnh lần này là không cho hai ta gặp nhau rồi. Mặc dù…\"@
+`"Nếu gặp thật thì sẽ rắc rối to, phải không?"@
+`"Chuẩn luôn.@ Dù sao tôi cũng là người của Hiệp hội mà.@ Bọn tôi đâu có êm đẹp gì với Giáo Hội."@
+` Cô cười mà không chút ngần ngại.@
+` Thật là khó mà nhịn cười nổi.@
+` Điều đó khiến tôi thấy hạnh phúc, vì người này không hề thay đổi dù chỉ một chút kể từ ngày đầu tiên chúng tôi gặp nhau.
+\
+`"Mà, vì cũng xong việc rồi nên ngày mai tôi định rời khỏi đây.@
+` Vụ việc lần này một phần cũng là do tôi mà ra, cậu biết chứ?@ Thế nên tôi mới ghé qua kiểm tra lần cuối, ai dè suýt nữa thì đá trúng một người thường."@
+`"Vậy thì… chúng ta đúng là có duyên gặp lại.@ Thật lòng, tôi cũng linh cảm là sẽ gặp lại cô."@
+` Tôi mỉm cười.@
+`"Đúng vậy.@ Tôi rất hoan nghênh mối nhân duyên kiểu này."@
+` Cô đáp lại tôi bằng một nụ cười giống hệt.
+\
+br
+br
+br
+br
+br
+br
+`"Đã lâu không gặp.@ Cậu lớn khôn nhiều rồi đấy, Shiki."@
+`"Vâng.@ Sensei trông cũng rất khỏe mạnh."@
+br
+` Đáp lại lời chào bình thản của cô, tôi nhìn Sensei bằng ánh mắt nghiêm túc.
+\
+bg #000000,crossfade,400
+!w1000
+bg "bg/ima_21",crossfade,400
+` Hai chúng tôi cùng ngồi xuống cánh đồng cỏ và trò chuyện.@
+` Chúng tôi nói về những chuyện vu vơ, hệt như những ngày xưa cũ.@
+` Chỉ có một thoáng chốc, hai cô trò mới nhắc về những chuyện đã qua và những dự định sắp tới.
+\
+`"Đến lúc rồi.@ Tôi không định ở lại đây lâu đâu.@ Tôi sẽ rời đi trước khi bình minh ló rạng, nên hai ta phải chia tay ở đây thôi."@
+` Nói rồi, Sensei đứng dậy.@
+` Tôi cũng cố gắng gượng đứng dậy theo cô… nhưng rồi khuỵu xuống.
+\
+`"…… Shiki?"@
+` Tôi nghe thấy giọng nói của cô gọi tên mình.@
+` Tôi hít một vài hơi thật sâu rồi đứng thẳng dậy.@
+`"…… Khổ thật.@ Có vẻ như việc thiếu ngủ và không nghỉ ngơi suốt mấy hôm nay giờ mới ập đến."@
+`"Xem ra đúng là vậy.@ Cơn choáng váng đó chính là điểm yếu lớn nhất của cậu.@
+` Cậu trông không có vẻ gì là bị thương.@ Cơ thể cậu vẫn ổn chứ?"@
+`"Vâng, cảm ơn Sensei.@ Khác với Sensei, em có một cơ thể bình thường mà."@
+`"Hừm… Nếu cậu đã nói thế."@
+` Cô liếc nhìn tôi đầy ẩn ý, rồi nhìn thẳng vào mắt tôi.
+\
+`"[line=4]Shiki… Cậu biết là mình không còn trụ được bao lâu nữa, đúng không?"@
+br
+` Lời nói rõ ràng, không chút vòng vo của cô.@
+`"[line=9]"@
+` Tôi thoáng sững sờ.@
+` Không phải tôi bất ngờ vì câu nói đó, mà tôi bất ngờ vì không nghĩ cô lại chủ động nói ra điều ấy.
+\
+`"[line=4]Vâng, đúng vậy… em cũng phần nào tự biết rồi."@
+`"Vậy à?@ Nhưng trông cậu có vẻ khá bình thản đấy.@
+` Ngay cả lúc này, cậu vẫn bắt cơ thể mình phải chịu đựng vì những thứ chẳng liên quan gì đến mình.@
+` Thật khó tin nổi, nhưng cậu thực sự không sợ chết sao?"@
+` Cô nhìn tôi chằm chằm, có chút bực dọc.
+\
+`"Đâu có chứ.@ Em nghĩ mình còn sợ chết hơn hầu hết mọi người ấy chứ."@
+br
+` Nhưng… đó là chuyện của tương lai.@
+` Có thể là ngày mai, hoặc năm sau, tôi không muốn nghĩ ngợi quá nhiều về tương lai.@
+br
+`"Em không thể nghĩ ngợi quá nhiều về tương lai.@ Em ưu tiên làm những gì mình muốn thực hiện ngay lúc này hơn."
+\
+`"Ra vậy, ra là cậu cũng có thể nhìn thấy cái chết của chính mình.@ Hèn chi cậu lại sợ chết hơn những người khác.@
+` Cũng phải thôi… Ngay cả tôi, nếu nhìn thấy mười ba bậc thang dẫn lên giá treo cổ thì chắc cũng phải run sợ."@
+`"Không, không hẳn là như thế.@ Không phải là em có thể cảm nhận rõ ràng khi nào mình sẽ chết đâu."
+\
+`"Thì cũng gần như nhau cả thôi.@ Để xem… tôi hỏi cậu một câu được không, coi như để tham khảo nhé?@
+` Cậu phải mang một cơ thể yếu ớt hơn hẳn người khác.@ Việc nguyền rủa nó và luôn sống trong nỗi sợ hãi cho sinh mạng của mình là điều hết sức tự nhiên.@
+` Này Shiki.@ Sống cả đời với một cơ thể như thế, cậu có thấy đau khổ không?"@
+` Sensei nhìn tôi một cách thẳng thắn, nhưng đôi mắt cô thật khó đoán.@
+` Đó là ánh mắt của một pháp sư, một khía cạnh của cô mà tôi chưa từng quen thuộc.
+\
+`"[line=3]Chẳng phải thế sao…?@ Cậu không thể có được hạnh phúc 'bình thường' như bao người khác.@ Chừng nào còn mang cơ thể đó, những gì chờ đón cậu phía trước chỉ có đau khổ mà thôi."@
+`"[line=5]Có thể là như vậy… nhưng…"@
+` Tôi nghĩ mọi chuyện cũng chẳng tệ đến thế.
+`"Nhưng, em chắc chắn là mình đang hạnh phúc.@
+` Bởi vì từ trước đến nay em đã vui lắm rồi.@ Nên chắc chắn tương lai cũng sẽ có nhiều điều vui vẻ."@
+`"[line=13]"@
+` Tiếng cô khẽ hắt một hơi ngạc nhiên.@
+` Thở dài một hơi thật lớn, cô lại trở về với bộ dáng thường ngày.
+\
+`"Shiki."@
+` Giọng cô đượm vẻ u buồn khi gọi tên tôi.@
+`"Nói thật, tôi cũng có chút hối tiếc.@
+` Tôi có cảm giác hồi đó tôi đã nói với cậu những lời không nên nói."@
+` Tôi nhìn thẳng vào mắt cô.@
+` Cảm giác thật khác so với ngày xưa… Ngày ấy tôi phải ngước lên mới chạm mắt cô, còn giờ đây, chính cô mới là người đang ngước nhìn tôi.
+\
+`"Thượng đế không tự dưng ban tặng một sức mạnh vô lý mà không có nguyên do.@ Và tôi từng bảo cậu rằng nếu có sức mạnh đó, thì hẳn nó phải mang một ý nghĩa nào đó.@
+` Thế nhưng, ý nghĩa ấy là do mỗi người tự quyết định.@ Không có chỗ cho bất kỳ ai khác, kể cả một thứ mơ hồ như chúa trời, can thiệp vào.@
+` Thế nên, cho dù cậu có chẳng làm gì cả thì cũng không sao cả.@
+` Ngay cả khi cậu chối bỏ đôi mắt đó và sống một đời vô can, thì mọi chuyện vẫn tốt đẹp.@
+` Tôi hối tiếc những lời mình đã nói, bởi vì… đáng ra cậu đã có thể sống một cuộc đời bình thường, phù hợp với một Shiki hơn."@
+`"……………… Sensei."
+\
+`"Chẳng phải tôi từng dặn cậu rằng hãy sống cuộc đời mình với một trái tim chân thành sao?@ Cậu đã thực sự làm vậy, Shiki ạ.@
+` Thế nhưng, việc đó quả thực vô cùng khó khăn.@
+` Đáng lẽ ra cậu nên đi chệch khỏi con đường ngay thẳng một chút thì sẽ dễ thở hơn, bởi đôi mắt của cậu luôn kéo cậu vào những tai ương.@
+` …… Thật mỉa mai làm sao, một kẻ sát nhân tài ba hơn bất cứ ai, lại là kẻ ghét việc giết chóc hơn bất kỳ ai?@
+` Nếu cậu sống một cuộc đời bình thường, hay để trái tim mình đi lệch khỏi lối chính đạo một chút, thì cậu đã không phải chịu đựng nhiều đau đớn đến thế."
+\
+`"Vâng… Sensei nói cũng có thể đúng.@ Nếu em buông bỏ, có lẽ mọi chuyện đã nhẹ nhàng hơn một chút rồi.@
+` Thế nhưng, làm vậy chẳng có ý nghĩa gì cả.@ Nó chỉ giúp mọi chuyện dễ chịu hơn một chút, vả lại ngay từ đầu, em chưa từng thấy chuyện này đặc biệt đau đớn.@
+` Sensei hiểu sai rồi.@ Tất cả những gì em làm, đều là vì em muốn làm.@ Chứ em chẳng phải thánh nhân hay gì cả.@
+` Em thích con người của mình như hiện tại.@
+` Chính vì vậy… em rất biết ơn vì ngày ấy Sensei đã bảo em cứ sống đúng với chính mình để trưởng thành.@
+` Sensei.@ Em không hối tiếc bất cứ điều gì cả, thế nên Sensei cũng không có lý do gì để phải hối tiếc nữa."
+\
+` Tôi thực lòng cảm thấy như vậy từ tận đáy lòng, và mỉm cười với cô.@
+` Như thể bị chói mắt trước một vầng hào quang rực rỡ, cô nheo mắt lại, rồi nhắm mắt trong một thoáng.
+\
+`"[line=5]Vậy à……
+` Trời ạ, hóa ra cậu đã thực sự trở thành một chàng trai tuyệt vời rồi."@
+` Tay cô với lấy chiếc vali.
+\
+`"Ừm, cậu cứ như vậy là tốt rồi, Shiki.@
+` …… Thế giới của tôi toàn những kẻ đầy mưu mô, giao du với một người như cậu giúp mọi thứ được cân bằng trở lại.@ Có thể sẽ có nhiều khó khăn cho cậu, nhưng nếu cậu không bận tâm, thì tôi nghĩ mọi chuyện sẽ ổn cả thôi."@
+br
+` Buông một câu "gặp lại sau", Sensei quay lưng bước đi.
+\
+`"[line=13]"@
+` Tôi không thể giữ cô lại, và cũng chẳng có lý do gì để làm vậy.@
+` Tôi cảm thấy đây thực sự là lần cuối cùng hai cô trò gặp nhau.@
+` …… Và tôi chợt nhớ ra một điều duy nhất mình đã quên chưa nói.
+br
+` Ngày hôm ấy.
+` Giữa biển cỏ rộng lớn, người bạn quan trọng đã từng trò chuyện cùng tôi, đang chuẩn bị biến mất.
+\
+`"[line=13]"@
+` Không có gió.@
+` Cỏ không lay, thứ duy nhất thay đổi là bóng dáng cô đang ngày một rời xa.@
+` Ngày ấy cô đã không hề quay đầu lại, và bây giờ cũng vậy.
+\
+`"[line=6]Sensei."@
+br
+` Tôi gọi lớn để giữ cô lại.@
+` Cô dừng bước. @
+`"Gì thế?"@
+` Cô không quay đầu lại.@ Chỉ có giọng nói vọng lại về phía tôi.
+\
+`"[line=13]"@
+` Tôi biết rõ mình phải nói gì.@
+` Những lời mà tôi đã luôn muốn thổ lộ.@
+` Chỉ là… nếu nói ra những lời này, tôi sẽ thực sự không bao giờ được gặp lại cô nữa.@
+` Nhưng thế nhưng[line=3]tôi vẫn phải nói.
+\
+` Cô từng dặn tôi: "Tôi chỉ muốn bảo rằng hãy sống thật với bản thân, và trở thành một người đàn ông theo cách cậu cho là đúng."@
+` Cô cũng đã dạy tôi rằng biết chấp nhận những sai lầm và biết nói lời xin lỗi là điều vô cùng quan trọng.
+\
+` Chính vì vậy.
+` Chính vì vậy tôi phải nói ra. @
+br
+br
+br
+br
+`"[line=4]Cảm ơn cô.@ Thật may mắn vì tôi đã được gặp cô, Sensei."
+\
+` …… Đó là những gì tôi đã cảm nhận được khi còn là một đứa trẻ.@
+` Những lời tự tận đáy lòng ấy, ngày xưa tôi đã không thể nói ra, bởi cõi lòng ngập tràn nỗi buồn ly biệt.
+\
+` Phía sau lưng tôi, Sensei dường như lặng người đi. @
+` Cô đứng đó, khẽ cúi đầu, rồi quay lại nhìn tôi với vẻ mặt như thường ngày.
+\
+bg #000000,lshutter,400
+bg "event/ao_02",lshutter,400
+!w2000
+`"[line=4]Bảo trọng nhé, Shiki… Nếu có duyên, chúng ta sẽ gặp lại."@
+` Cô nói nhẹ nhàng như không có gì, và một cơn gió bỗng nhiên thổi tới.@
+` Vù.@
+` Cơn gió luồn qua những ngọn cỏ đang lay động, và ánh trăng bỗng chốc tắt lịm.
+\
+bg #000000,crossfade,400
+` Ngay sau đó,
+` như bị cơn gió cuốn đi, cô đã biến mất.
+\
+playstop
+bg "bg/ima_21",crossfade,400
+play "*7"
+`"[line=14]"@
+` Thật kỳ lạ, tôi không hề rơi một giọt nước mắt nào.@
+` Cảm giác buồn bã, và tôi không muốn chia ly.@
+` Nhưng việc không khóc cũng đồng nghĩa với việc tôi đã thực sự trưởng thành kể từ ngày đó.
+\
+` Cánh đồng cỏ lại trở nên tĩnh lặng một lần nữa.@
+` Ngước nhìn lên, vầng trăng dường như sắp tan biến vào bầu trời.@
+` Mọi thứ rồi cũng sẽ trôi qua, giống như vầng trăng đang dần khuất.@
+` Thế nhưng, sau một khoảng thời gian dài đằng đẵng, biết đâu hai ta lại có cơ hội gặp lại.@
+br
+` Và cứ thế, vầng trăng đêm nay tan biến.
+\
+`"[line=4]Vậy thì…\"@
+` Tôi nhắm mắt lại một lần, như thể đang hạ xuống những bức rèm sân khấu.@
+` Trên bầu trời, bình minh đang dần đến gần.@
+` Giống như vầng trăng vừa lặn xuống,
+` tạm thời, bức màn sẽ được hạ xuống cho câu chuyện dài về Tohno Shiki[line=4]
+\
+bg #000000,crossfade,400
+bg "bg/ima_01",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` Bầu trời cao vút tít tắp trên đầu.@
+` Tôi ngước nhìn lên, được ôm trọn trong làn không khí đêm trong trẻo và mát lạnh.
+\
+br
+br
+br
+br
+` Mọi thứ đều thật mơ hồ, hệt như một giấc mơ nửa tỉnh nửa mê.@
+` Quá khứ chỉ là một ảo ảnh.@
+` Nó không để lại một hình hài cụ thể, và ngay cả những ký ức rực rỡ nhất rồi cũng thật phù du.@
+` Yet, I believe that the moon's image will never fade away.
+\
+bg #000000,crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` Ngay cả điều đó cũng thật mong manh.@
+br
+` Dù biết rằng một ngày nào đó tất cả sẽ kết thúc, tôi cũng chẳng bận lòng.
+\
+br
+br
+br
+br
+` Những ký ức vẫn sẽ tiếp tục nối dài.@
+` Tôi tin chắc rằng, ngay cả cái kết rồi cũng sẽ là một kết thúc hạnh phúc.@
+br
+` [line=4]Nguyệt thực vẫn còn xa xôi lắm.@
+br
+` Mọi người đều đang chạy đua cùng quãng thời gian còn lại của mình, và bước tiếp.@
+!w5000
+\
+playstop
+cl a,notrans,0
+bg "word/fin",crossfade,1500
+wait 3000

@@ -1,0 +1,157 @@
+play "*3"
+wavestop
+bg "bg/bg_06b",notrans,0
+` Tôi tuyệt đối chịu chết tịnh không biết bản thân phải đối diện với gương mặt Akiha nhường nào sau khi cất bước quay trở về tòa dinh thự.@`
+` Vì lẽ đó, tôi quyết định lẳng lặng ngồi lì tại chốn này suy tư tìm kiếm đối sách trước khi cắp sách ra về.@`
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+\
+` Có vẻ như không có ý tưởng nào xuất hiện.@
+` Trước khi tôi nhận ra, lớp học đã trống rỗng.@
+`"[line=3]Tôi đoán tôi sẽ về nhà."@
+` Thật là lãng phí thời gian.@
+` Nếu dẫu dã dành ngần ấy thời gian suy tư tìm đối sách dẫu vậy chịu chết tịnh không ra kết quả, thiết nghĩ bản thân cứ trực tiếp đối diện diện kiến Akiha một cách tự nhiên tịnh không thèm lên kế hoạch dẫu sao dẫu vậy dẫu lại hiệu quả hơn nhiều.`
+\
+bg #000000,lcartain,400
+bg "bg/bg_11b",lcartain,400
+`"Tohno-kun!"@
+` Ai đó gọi tên tôi khi tôi bước ra hành lang.@
+ld c,"tachi/cel_t03",lshutter,400
+`"Thật may là cậu vẫn ở đây. À, cậu về nhà ngay bây giờ à?"@
+`"Ừm, khoảng như vậy. Vì tôi không có việc gì, nên tôi nghĩ sẽ về nhà thẳng tiếp. Cậu cũng về nhà, Senpai à?"@
+`"Đúng vậy, vì tôi không có việc gì phải làm, nên tôi định đi mua sắm."@
+`"Hiểu rồi, mua sắm. Cậu có nghĩa là ở ga à?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Không, đây đang có bán khuyến mãi."@
+` "Senpai lại bắt đầu nói những điều kỳ lạ."
+\
+`"[line=2]... Ở đây à?" @
+ld c,"tachi/cel_t04",crossfade,400
+` "Đúng vậy," Senpai mỉm cười rộng. @
+`"... Ý bạn là ở đây sao?" @
+ld c,"tachi/cel_t02",crossfade,400
+`"Đúng vậy." @
+` Senpai chỉ bằng ngón tay. @
+` Chỉ có mặt tôi bị chặn bởi ngón tay gầy của cô ấy.
+\
+`"Bạn muốn nói tôi ạ?" @
+ld c,"tachi/cel_t01a",crossfade,400
+`"Vâng ạ, nhân lúc cậu dẫu dã nấn ná ở chốn này, em xin mạn phép tự ý tước đoạt mua trọn quỹ thời gian tự thân của cậu Shiki nhé.@ Thế nên tụi mình cùng đi về chung nào, cậu Shiki."@`
+` Senpai kéo tay tôi và bắt đầu đi bộ.@
+`"Chờ một chút, tôi vui vì chúng ta có thể cùng về nhà, nhưng nhà cậu không phải ở hướng đối diện với nhà tôi sao? Cậu đến chỉ để đi bộ cùng tôi tới cổng à?"@
+`"Không, tôi định đi mua sắm gần ga tàu điện, nên chúng ta sẽ đi bộ cùng nhau một lúc."@
+`"Tôi hiểu rồi, vậy chúng ta sẽ đi bộ cùng nhau một lúc[line=3]chờ, cậu mua gì vậy?"
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"À, tôi nghĩ từ khi thời tiết bắt đầu lạnh, tôi nên mua một số thiết bị sưởi ấm."@
+`"Thiết bị sưởi ấm à... Tôi nghĩ còn sớm để mua nó, nhưng có lẽ mùa thu trôi qua nhanh. Vậy cậu định mua gì? Một điều hòa không khí?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Học sinh cấp ba làm gì dẫu có đủ tiền mua nổi điều hòa nhiệt độ cơ chứ.@ Thế nên, em đang nhen nhóm ý định tậu chiếc bàn sưởi Kotatsu-san vô cùng rẻ tiền dẫu vậy cực kỳ hiệu nghiệm truyền thống Nhật Bản kia kìa."@`
+` Tôi chưa bao giờ biết kotatsu là một nghề thủ công truyền thống của Nhật Bản.@
+` Ngỏ qua điều đó.
+\
+`"[line=4]Senpai, cậu định thuyết phục tôi mang đồ cho cậu, phải không?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Đó không phải sự thật.@ Tôi chỉ nghĩ chúng ta có thể đi cùng nhau một lúc, và cậu có thể đồng hành cùng tôi khi mua sắm."@
+`"... Và cậu sẽ nói điều này với tôi sau khi mua sắm.@ Tohno-kun, tôi không thể mang theo gánh nặng quá lớn này!"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Ồn ào.@ Tohno-kun, tôi sẽ không bao giờ yêu cầu cậu làm điều đó.@ Ngay cả nếu tôi có, tôi cũng sẽ hỏi một cách vòng vo hơn."@
+`"Đúng vậy.@ Bất kể thế nào, tôi sẽ nói với cậu rằng tôi không muốn làm điều đó."
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Ha ha, không sao.@ Tôi sẽ không bao giờ yêu cầu cậu làm điều đó."@
+`"Tôi biết cậu không phải là người như thế, Senpai."@
+` Chúng tôi cùng nhau cười trong một lúc.@
+` Chúng tôi vẫn đang cười cùng nhau, nhưng Senpai đột nhiên hạ vai xuống.@
+ld c,"tachi/cel_t09",crossfade,400
+`"... Cái ác độc đó."@
+` Ôi không, có lẽ tôi đã trêu chọc cô ấy quá nhiều.@
+` Cô ấy tin tưởng vào tôi, nên có lẽ tôi nên hợp tác với cô ấy nhiều hơn một chút.
+\
+`"[line=3]Được rồi.@ Nếu cậu mua cho tôi bữa trưa lần sau, tôi sẽ mang đồ hoặc làm bất cứ điều gì cậu muốn."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Cậu không cần giúp tôi nếu cậu không muốn.@ Tôi chỉ nghĩ nó có thể hơi nặng đối với tôi một mình thôi."@
+`"Anh nói gì vậy? Không thể nào em mang nó được với đôi tay yếu ớt này. Tôi sẽ làm điều đó. Em nói rằng em sẽ mua thời gian cho tôi, Senpai. Tôi sẽ làm việc để đổi lấy bữa trưa, nên hãy tận dụng cơ hội này."
+\
+ld c,"tachi/cel_t05",crossfade,400
+`"[line=2]Được rồi. Tôi sẽ ghi nhớ những lời tốt đẹp của em và tin tưởng vào em hôm nay."@
+`"Ừm, tin tưởng vào em tất cả những gì anh muốn."@
+` Tôi đập nhẹ vào cánh tay mình để thể hiện rằng tôi có một chút sức mạnh ở đó.@
+` Senpai cười và bắt đầu đi bộ.@
+ld c,"tachi/cel_t03",crossfade,400
+`"Ôi, tôi muốn hỏi em một điều trước khi rời đi."@
+`"Điều gì?"@
+`"Liệu em có thể cất công tự tay làm cơm hộp bento buổi trưa cho anh được tịnh không?"@`
+` Tất nhiên rồi.@
+` Tôi đã gật đầu ngay cả trước khi tự hỏi điều đó.
+\
+bg #000000,lcartain,800
+bg "bg/bg_03b",lcartain,800
+` Chúng tôi bước ra sân trường.@
+` Không ai ở đây ngoài đội chạy bộ.@
+ld c,"tachi/cel_t09",crossfade,400
+`"Hoạt động sau giờ học ít hơn bây giờ."@
+` Senpai nói với giọng tiếc nuối.@
+` Do sự kiện về ma cà rồng, hầu hết các câu lạc bộ sau giờ học đã bị hủy và chỉ còn lại đội chạy bộ.
+\
+` …… Nhưng sự kiện đó sẽ không xảy ra lần nữa.@
+` Vì Yumizuka đã không còn sống nữa, nên sẽ không có thêm nạn nhân nào khác. @ Nhưng tôi dám cá là ngay cả khi tôi nói điều đó, chẳng ai sẽ tin tôi cả.@
+`"... Anh đúng rồi. @ Có vẻ như đã có vài nạn nhân, nên có lẽ cha mẹ họ cũng có liên quan."@
+`"Tôi thấy hơi buồn. @ Tôi thích bầu không khí sau giờ học ấy."
+\
+bg "bg/bg_01b",lshutter,800
+` Chúng tôi ra khỏi cổng.@
+`"Huh?"@
+` Đồng thời, tôi đối mặt với một người bất ngờ.@
+ld l,"tachi/aki_t21",lshutter,800
+`"Chà, anh cũng về muộn thế này, Nii-san."@
+`"À, Aki-"@
+` Khi tôi sắp kết thúc câu nói với âm "ha", Senpai xuất hiện bên cạnh.@
+ld r,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun?"@
+` Senpai gọi tôi khi tôi đứng yên đó.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+` Có vẻ như Akiha đã nhận ra rằng Senpai và tôi cùng về nhà.@
+` Cô ấy nhìn chằm chằm vào Senpai và tôi, như thể đang chỉ trích chúng tôi.@
+`"Akiha[line=3], bạn đang làm gì vậy?"@
+`"Tôi nghĩ tôi sẽ về nhà với anh, anh trai."@
+` Akiha trả lời trong khi nhìn tôi lạnh lùng.@
+`"Tohno, đó có phải là em gái nhỏ của cậu?"@
+` Người thầy (Senpai) liếc nhìn Akiha.@
+` Họ không nói thẳng ra, nhưng cả Senpai và Akiha đều truyền đạt bằng ánh mắt rằng "Hãy giới thiệu tôi với người này".@
+br
+` [line=7]*thở dài*@
+` Có vẻ như công việc này sẽ rất mệt mỏi.
+\
+`"Thầy ơi, đây là em gái tôi, Akiha. Cô ấy vừa chuyển đến trường chúng ta hôm nay."@
+` Akiha cúi đầu trước Senpai.@
+` Chị chào em.@ Chị tên là Ciel, chị dẫu dã luôn là bạn học kề cạnh thân thiết của Tohno-kun đấy.`
+ld l,"tachi/aki_t11a",crossfade,400
+ld r,"tachi/cel_t07a",crossfade,400
+` "Chuyện gì đang xảy ra vậy?"@
+` Shiki và Akiha chỉ nhìn nhau, không nói gì.
+\
+`"Akiha, hôm nay tôi sẽ đi mua sắm với Senpai, nên..."@
+ld l,"tachi/aki_t01a",crossfade,400
+`"Đúng là như thế, Senpai ạ?"@
+` Trước khi tôi kịp bảo cô ấy về nhà, Akiha đã hỏi Senpai.@
+ld r,"tachi/cel_t04",crossfade,400
+`"Vâng, nhưng tôi sẽ làm điều đó vào dịp khác. Tohno-kun, cậu nên đối xử tốt hơn với em gái của mình."@
+cl r,lshutter,800
+`"Tạm biệt" - Senpai nói và bước ra khỏi chúng tôi.
+\
+`"[line=6]Này."@
+` Senpai rời đi mà không cho tôi cơ hội ngăn cô ấy.@
+`"Hãy về nhà, anh trai. Sớm tối lắm."@
+` Akiha nói như thể chẳng có gì xảy ra.
+\
+bg #000000,lcartain,800

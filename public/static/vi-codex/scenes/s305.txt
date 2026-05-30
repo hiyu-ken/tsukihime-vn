@@ -1,0 +1,390 @@
+Tôi thức dậy dưới ánh nắng chói chang rực rỡ.
+bg #ffffff,crossfade,1500
+play "*2"
+bg "bg/bg_40a",crossfade,800
+` [line=4]... “Ưm.”@`
+br
+` Tôi nhọc nhằn gượng dậy ngồi khoanh chân trên giường và chầm chậm hướng mắt nhìn ra ngoài cửa sổ.@`
+` Tiết trời bên ngoài bấy giờ đẹp đẽ vô ngần, quả thực là một ngày thời tiết lý tưởng thích hợp dành cho ngày Chủ Nhật.@`
+` ... Hay nói cách khác,@`
+` ngước mắt trông lên vòm trời cao rộng tịnh không một gợn mây trôi nổi, hệt như đang âm thầm thì thầm bảo rằng tất thảy muôn vàn thảm cảnh kinh hoàng ngày hôm qua toàn bộ chỉ là một giấc chiêm bao hoang đường mà thôi.`
+` (Mô tả cảm giác của nhân vật khi thức dậy và nhận thức về môi trường xung quanh.)`
+\
+`"…… Phải chăng trời đã sáng hẳn rồi sao?"@`
+` Lồng ngực tôi bấy giờ đột ngột nhói lên cơn đau thắt quặn dữ dội.@`
+` Vòm trời cao rộng trong vắt tịch mịch tịch mịch soi bóng chào đón tôi bấy giờ, hệt như thói quen thường lệ muôn thuở.@`
+` Thế nhưng, chính sự thật bình yên hiển nhiên ấy lại chỉ càng khiến lồng ngực tôi nhói đau buốt giá tột cùng.@`
+` Người con gái ấy.@`
+` Người con gái tội nghiệp đã đột ngột tiêu biến biến mất vào màn đêm u uất ngày hôm qua bấy giờ sẽ vĩnh viễn tịnh không bao giờ còn cơ hội nếm trải ánh bình minh dịu hiền nhường này thêm một lần nào nữa[line=4]`
+\
+wave se_04
+`"Cậu Shiki ơi, cậu đã thức chưa ạ?"@`
+` …… Thanh âm dịu hiền khẽ réo gọi ấy lập tức kéo hồn tôi bừng tỉnh trở lại với thực tại.@`
+`"…… Có chuyện gì thế em, sao tự dưng lại gõ cửa đột ngột thế này… ?"@`
+` Liệu việc ôm lòng ăn sám hối hối hận muộn màng nhường này có phải chỉ là một sự đạo đức giả tạo xảo trá chăng?@`
+`"Cậu Shiki ơi?@ Cậu đã thức hẳn chưa ạ, cậu Shiki?"@`
+` *Cốc, cốc*, kèm theo tiếng gõ cửa do dự nhẹ nhàng vang lên.@`
+` Bản thân tôi bấy giờ đã thực sự trở về căn phòng thân thuộc của mình rồi.@`
+` Dẫu cho tâm hồn có đang rỉ máu và ôm lòng tiếc nuối giằng xé tâm can đến nhường nào đi chăng nữa, tôi mỗi sớm mai dẫu vậy vẫn bừng tỉnh dậy hệt như thói quen thường lệ thường nhật.@`
+` Chừng nào bản thân vẫn còn được hít thở sinh tồn trên đời, tôi tuyệt đối chịu chết tịnh không cách nào trốn chạy nổi khỏi thực tại tàn khốc.@`
+` Dẫu cho th thâm tâm có đang ôm lòng ăn sám hối muộn màng nhường ấy.`
+\
+`"…… Ừm, tôi dậy rồi đây.@ Em cứ tự nhiên vào đi."@`
+ld c,"tachi/his_t16",lshutter,800
+`"Em xin phép vào ạ."@`
+` Cánh cửa phòng mở ra kèm theo tiếng lách cách cạch nhẹ vang lên, và Hisui nhẹ nhàng bước chân vào phòng.@`
+ld c,"tachi/his_t01",crossfade,400
+`"Chào buổi sáng cậu Shiki ạ."@`
+` Có vẻ em ấy cất công ghé qua để đem bộ quần áo thay mới cho tôi chăng? Đôi bàn tay em bấy giờ đang nâng một bộ quần áo sạch sẽ phẳng phiu.@`
+`"Chào buổi sáng Hisui.@ Ờm, mọi người ở dưới nhà bấy giờ đã dùng bữa sáng hết chưa em?"@`
+`"…… Cậu Shiki ơi.@ Xin tha thứ cho sự vô lễ của em, nhưng cậu đã xem giờ từ lúc thức dậy chưa ạ?"@`
+`"Hử[line=2]?@ Giờ giấc sao?@ Vẫn còn là buổi sáng mà em[line=2]"@`
+br
+` Chiếc kim đồng hồ treo tường bấy giờ dõng dạc tuyên cáo đã quá mười hai giờ trưa mất rồi.`
+\
+`"Hơ[line=2]?@ Th, thế cớ sao cái đồng hồ này bấy giờ lại chỉ mốc giờ trưa rồi em?"@`
+`"Em thiết nghĩ đồng hồ treo tường tuyệt đối tịnh không phải là thực thể hiển thị sai giờ đâu, cậu Shiki ạ.@`
+` Sáng nay em đã cất công ghé phòng gọi cậu thức giấc rất nhiều lần, thế nhưng cậu dẫu vậy tịnh không chịu hé mở mắt lấy một lần duy nhất."@`
+`"…………………"@`
+` …… Bản thân ngủ sâu đến nhường ấy sao?@`
+` Tuyệt nhiên tịnh không chỉ tâm trí kiệt quệ rã rời, có lẽ cơ thể xương thịt này của tôi dẫu vậy cũng phải hứng chịu muôn vàn vết thương chí mạng rách nát lắm nên mới mệt mỏi nhường này.`
+\
+`"Tôi hiểu rồi, xin lỗi em nhé.@ Em đã cất công đến đánh thức tôi... nãy tôi làm cái gì thế nhỉ?@`
+` …… Ờ thì, tối qua tôi có ngủ hơi muộn một chút thật, dẫu vậy bản thân cũng tịnh không nên ngủ nướng trễ tràng nhường này mới phải."@`
+ld c,"tachi/his_t08",crossfade,400
+`"Dạ không sao đâu ạ, hôm nay cậu tịnh không có lịch học ở trường nên việc ngủ nướng trễ tràng cũng hoàn toàn chấp nhận được, dẫu vậy[line=3]cậu Shiki ơi, tối nay cậu lại định lẳng lặng đi ra ngoài tiếp nữa sao ạ?"`
+\
+`"Hử[line=3]Không, tịnh không phải thế đâu em…… Ờ mà, hơn hết là không biết Akiha bấy giờ thế nào rồi nhỉ?@`
+` Tôi nhớ hình như tối qua em ấy dẫu vậy cũng thức rất khuya mới đi ngủ mà[line=4]"@`
+`"Tiểu thư Akiha đã bừng tỉnh dậy từ sớm hệt như giờ giấc thường lệ mỗi sáng rồi ạ."`
+` Gương mặt Hisui bấy giờ trông có vẻ mang theo đôi chút ngập ngừng ngập ngừng muốn mở lời giãi bày thêm sự tình gì đó, thế nhưng rốt cuộc em dẫu vậy vẫn ngoan ngoãn đáp lời câu hỏi của tôi.`
+\
+`"…… Vậy sao.@ Em ấy quả thực hoàn toàn khác biệt với tôi, luôn giữ gìn một nếp sống kỷ luật nề nếp nhường ấy."@`
+` Tôi chầm chậm nghĩ lại về thảm cảnh kinh hoàng nổ ra đêm hôm trước.@`
+` Vào thời khắc hồn vía tôi bấy giờ vẫn còn đang hoàn toàn dại đi và sụp đổ tột cùng vì biến cố xảy đến với Yumizuka, Akiha dẫu vậy vẫn ân cần chăm sóc cuộc đời tôi mà tịnh không hề gặng hỏi nửa lời.@`
+` Nghĩ lại sự tình sau đó, ờ thì…… quả thực có chút ngượng ngùng đỏ mặt vô ngần, thế nên thâm tâm tôi tuyệt đối tịnh không muốn khơi gợi dòng ký ức ấy lúc này chút nào.`
+\
+`"Hisui này, bấy giờ Akiha vẫn còn ở dưới phòng khách chứ em?@ Em ấy vốn dĩ là một người vô cùng bận rộn cơ mà, không biết vào ngày nghỉ thường nhật em ấy thường ôm giữ thói quen làm gì nhỉ?"@`
+`"Dạ vâng, tiểu thư lẽ thường luôn lên sẵn kế hoạch chi tiết cho ngày nghỉ của mình, thế nhưng hôm nay tiểu thư dẫu vậy vẫn đang nán lại bên trong mansion ạ."`
+`"………?"@`
+` Lên sẵn kế hoạch chi tiết dẫu vậy bấy giờ vẫn nán lại đây sao……?`
+\
+`"Tôi chịu chết không hiểu nổi ẩn ý của em ấy rồi dẫu vậy…… Được rồi, tôi sẽ mau chóng thay quần áo mới, thế nên em cứ tự nhiên xuống phòng khách ngồi đợi tôi trước nhé."@`
+`"Dạ vâng.@ Vậy em xin phép cáo lui trước ạ."`
+\
+cl a,crossfade,400
+` Hệt như thói quen thường lệ thường nhật, Hisui nhẹ nhàng lướt chân đi tịch mịch tịnh không phát ra lấy một thanh âm nhỏ nhặt nào.@`
+`"À, Hisui ơi."@`
+ld c,"tachi/his_t01",crossfade,400
+`"Dạ có chuyện gì thế ạ? Cậu Shiki muốn dặn dò gì em sao?"`
+\
+`"Ờ, tôi suýt chút nữa quên mất tiêu việc này.@ Cảm ơn em vì đã cất công đến gọi tôi thức giấc nhé.@ Dẫu cho bấy giờ có hơi muộn màng một chút thật, nhưng... chào buổi sáng Hisui nhé."`
+\
+ld c,"tachi/his_t03",crossfade,400
+`"[line=3]Dạ vâng.@ Chúc cậu Shiki có một ngày mới thật tốt lành ạ."`
+\
+cl a,lshutter,800
+` Đăm đắm ngước nhìn lên vòm trần nhà, tôi chầm chậm thở dài ra một hơi thật sâu.@`
+` Về sự tình của Yumizuka Satsuki…… Đó chắc chắn phải là một nỗi đau đớn nhói lòng tột cùng mà bản thân tôi tuyệt đối tịnh không bao giờ được phép lãng quên trong suốt quãng đời còn lại.@`
+` Thế nhưng dẫu vậy, tôi tuyệt đối không được phép để biến cố đau thương ấy chi phối trọn vẹn cuộc sống sinh tồn tự thân của mình.@`
+` Tôi vẫn còn một chốn bình yên thân thuộc để trở về.@ Nơi ấy vẫn luôn hiện diện Akiha luôn ân cần chờ đón tôi, và bản thân tôi dẫu vậy vẫn phải tiếp tục sống một cuộc đời bình thường nề nếp.@`
+` Để bảo toàn gìn giữ tất thảy muôn vàn sự ấm áp ngọt ngào trân quý ấy, tôi bấy giờ đã nhẫn tâm tự tay phản bội chà đạp lên cô gái ấy.@`
+` Thế nên[line=2]nếu bản thân tôi dẫu vậy vẫn chịu chết tịnh không bảo toàn nổi sự ấm áp ngọt ngào này, tất thảy thảm cảnh hi sinh kia sẽ lập tức biến thành một lời dối trá xảo trá nhơ nhuốc sạch sẽ.`
+\
+`"[line=4]Liệu đây có phải chỉ là những lời ngụy biện che đậy hèn hạ của bản thân chăng?"@`
+` Có lẽ thứ duy nhất bản ngã tôi có thể làm bấy giờ chỉ là trơ trẽn tự lừa dối chính mình mà thôi.@`
+` Được rồi, Hisui bấy giờ chắc đang đợi ở dưới nhà rồi.@`
+` Tôi nên chầm chậm thay đồ thật nhanh, rồi quay trở lại cuộc sống bình thường thường nhật đang dang tay chờ đón tôi dưới phòng khách khách[line=4]`
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_34a",lcartain,800
+` Bước chân vào phòng khách, tôi trông thấy Akiha đang ngồi khoanh chân trên sofa, Kohaku-san đang ân cần trò chuyện kề bên kề kề bên em ấy, còn Hisui đang lẳng lặng đứng sát bức tường.`
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Chào buổi sáng cậu Shiki nhé."@`
+`"Chào buổi sáng chị Kohaku nhé.@ Xin lỗi vì đã làm phiền chị đột ngột thế này, nhưng chị có thể cất công chuẩn bị cho tôi một chút đồ ăn nhẹ được không? Bản thân ngủ trưa muộn nhường này xong bỗng thấy bụng đói cồn cào ghê."@`
+ld c,"tachi/koha_t02",crossfade,400
+`"Dạ vâng, em sẽ chuẩn bị ngay lập tức ạ.@ Em sẽ làm thật nhanh nên cậu vui lòng đợi em một lát nhé."@`
+cl a,lshutter,400
+` Kohaku-san nhanh chóng patters lách cách chạy biến về phía nhà bếp.`
+\
+` Căn phòng bấy giờ chỉ còn lại Akiha và Hisui, em ấy vẫn lẳng lặng đứng im lìm hệt như một bức tượng tịnh không hé răng nửa lời.@`
+`"…… Chào em, Akiha.@ Chào buổi sáng em nhé."@`
+ld c,"tachi/aki_t03b",crossfade,400
+`"……………………"@`
+` Akiha chỉ đăm đắm nhìn trố mắt vào tôi bằng một vẻ mặt đầy bất mãn lạnh nhạt rồi tuyệt nhiên tịnh không chịu đáp lại lời chào của tôi.@`
+`"…………… Ờm."@`
+` Bản thân tôi thừa hiểu em ấy chắc chắn đang giận dỗi tím người về biến cố tối qua rồi.@`
+` Bản thân tôi quả thực cũng hoàn toàn xứng đáng phải hứng chịu cơn thịnh nộ lạnh lùng ấy của em ấy, bởi lẽ tối qua tôi dẫu vậy đã thô bạo dang tay ôm chặt em ấy vào lòng như thế cơ mà[line=3]`
+\
+`"Akiha ơi.@ Tối qua, thực sự là[line=3]"@`
+ld c,"tachi/aki_t18b",crossfade,400
+`"Nii-san.@ Ngủ nướng trễ tràng đến tận giờ này… rốt cuộc anh đang nghĩ cái chuyện điên rồ gì trong đầu thế hả?"@`
+`"[line=3]Á... ờm, chuyện đó, anh... anh thực sự xin lỗi em."@`
+ld c,"tachi/aki_t05b",crossfade,400
+`"…… Trời ơi, em vốn dĩ tịnh không hề tức giận vì chuyện đó đâu.@ Hôm nay là ngày nghỉ thường nhật của anh cơ mà, anh hoàn toàn có quyền ngủ trướng trễ tràng tùy ý dẫu vậy.@ Sự lười biếng bê tha vô kỷ luật ấy của anh mới là thứ khiến lòng em dâng trào u uất phẫn nộ đấy!"@`
+` Với một tiếng hứ nhẹ vang lên, Akiha căm phẫn quay phắt mặt đi hướng khác dứt khoát.@`
+` …… Ờ thì, có thể chỉ là do bản thân tôi tự ngộ nhận tưởng tượng ra thôi, nhưng từ "hờn dỗi peevishly" xem ra lại phù hợp hơn từ "giận dữ" rất nhiều.`
+\
+`"Nào, anh dẫu sao cũng tịnh không thể tự chủ nổi chuyện này cơ mà.@ Tối qua anh về nhà hơi trễ tràng chút, thế nên cơ thể bấy giờ thực sự đã hoàn toàn rã rời kiệt sức mất rồi."@`
+ld c,"tachi/aki_t18b",crossfade,400
+`"Tất cả đều là do anh tự chuốc lấy rắc rối đau khổ vào thân thôi.@ Dẫu cho có phải đối mặt với bất kỳ hoàn cảnh nào đi chăng nữa, làm ơn hãy nghiêm túc tuân thủ nghiêm chỉnh nề nếp gia quy của ngôi nhà này hộ em."@`
+`"………… Hực."@`
+` Bản thân dẫu cho vô cùng ghét việc phải cúi đầu thừa nhận sự tình này, thế nhưng kể từ khi em ấy dẫu cho cũng đi ngủ cùng thời điểm với tôi dẫu vậy sáng nay vẫn có thể bừng tỉnh dậy từ sớm tinh mơ, tôi quả thực chịu chết tịnh không cách nào phản bác nổi lý lẽ thép ấy của em.`
+\
+ld c,"tachi/aki_t03b",crossfade,400
+`"Vả lại, Nii-san ơi.@ Cớ sao anh lại tịnh không chịu để Hisui ghé phòng đánh thức mình mỗi sáng chứ?@`
+`"Hôm nay em tạm thời tha thứ cho anh vì sự tình tối qua, thế nhưng anh luôn giữ thói quen la cà lười biếng nằm ườn trên giường quá đỗi lâu rồi đấy, Nii-san."@`
+`"…… Ờm, Akiha này.@ Có thể điều này tịnh không phải là cớ thoái thác lý tưởng đâu, nhưng anh dẫu vậy tuyệt nhiên không phải ngủ nướng vì bản thân mong muốn thế đâu em."@`
+ld c,"tachi/aki_t06b",crossfade,400
+`"Cái gì cơ?@ Vậy cớ làm sao mỗi buổi sáng anh đều ngủ nướng ườn ra cho tới tận phút chót mới chịu dậy hả?@ Anh vốn dĩ tịnh không hề thấu cảm nổi cảm giác bất an giằng xé của em khi phải cắn răng đứng chờ đợi anh cho tới tận phút chót nhường ấy đâu, đúng chứ[line=4]"`
+\
+cl a,crossfade,400
+ld c,"tachi/his_t01",crossfade,400
+`"Tiểu thư Akiha ơi."@`
+cl a,crossfade,400
+ld c,"tachi/aki_t24",crossfade,400
+`"Dạ[line=4]"@`
+`"………?"@`
+` Bầu không khí u uất đe dọa căng thẳng ban nãy bấy giờ bỗng chốc bay biến đi đâu sạch sẽ rồi? Đột ngột kịch liệt, Akiha lập tức chìm sâu vào sự im lặng tịch mịch.`
+\
+`"Này, Akiha ơi.@ Anh đã giãi bày rồi cơ mà, việc bản thân bừng tỉnh dậy muộn sau bảy giờ sáng tuyệt đối tịnh không phải là chủ ý cá nhân đâu.@`
+` Ngay cả bản thân anh dẫu vậy cũng rất khát khao muốn dậy thật sớm, thế nhưng cơ thể xương thịt này bấy giờ chịu chết tịnh không nghe theo mệnh lệnh điều khiển của ý thức.@`
+` Nếu em thực sự muốn trợ giúp anh dậy sớm hơn mỗi sáng, làm ơn hãy mua tặng anh một chiếc đồng hồ báo thức công suất cực mạnh đi.@ Anh tin chắc thứ thần khí ấy mới đủ sức lôi anh dậy nổi."@`
+ld c,"tachi/aki_t13b",crossfade,400
+`"…… Ủa, Nii-san ơi?@ Đây quả thực có thể là một câu hỏi cực kỳ ngốc nghếch dẫu vậy, nhưng cớ làm sao anh lại chưa từng một lần mở lời dặn dò rõ ràng với Hisui về giờ giấc anh muốn em ấy đánh thức mình thế hả?"@`
+`"A[line=4]"@`
+` Đúng thế thật, bản thân tôi hóa ra lại vô tình quên béng mất tiêu một sự tình cực kỳ đơn giản và hiển nhiên nhường ấy.`
+\
+cl a,crossfade,400
+`"Ờ há.@ Hisui mỗi buổi sáng đều cất công ghé phòng gọi tôi thức giấc cơ mà, thế nên em cứ tự nhiên làm việc đó nhé.@`
+` Vậy thì... Hisui ơi, từ mai em cất công gọi anh dậy vào lúc sáu giờ rưỡi mỗi sáng được không? Như thế thì giúp anh nhiều lắm……"@`
+` Tôi xoay người lại trực diện đối mặt với Hisui.@`
+` Em ấy đăm đắm nhìn thẳng vào mắt tôi.`
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Em xin phép từ chối ạ."@`
+`"Hử?"@`
+`"Xin tha thứ cho em, nhưng em xin phép dứt khoát từ chối việc đánh thức cậu dậy mỗi sáng, cậu Shiki ạ."@`
+`"Ờ... ừm[line=2]"@`
+` Bản thân tôi bấy giờ hoàn toàn ngây người tịnh không biết phải mở lời thế nào nữa.@ Cơn chấn động bất ngờ đột ngột này trực tiếp khiến não bộ tôi lập tức đình trệ ngừng hoạt động hẳn đi.@`
+` Trông thấy tình cảnh quỷ dị bấy giờ, ngay cả Akiha dẫu vậy cũng tròn mắt kinh ngạc nhìn trố mắt vào Hisui.`
+\
+cl a,crossfade,400
+ld l,"tachi/aki_t15b",crossfade,400
+`"Hả[line=4]"@`
+ld l,"tachi/aki_t21b",crossfade,400
+`"Hisui ơi, cớ làm sao em lại tịnh không thể đánh thức Nii-san dậy hả em?"@`
+ld r,"tachi/his_t01",crossfade,400
+`"Dạ bản thân em tuyệt đối tịnh không dám nhận làm những việc nằm ngoài khả năng thực hiện tự thân đâu ạ.@`
+` Em thiết nghĩ bản thân dẫu cho có cố gắng ra sao cũng chịu chết không cách nào đánh thức nổi cậu Shiki bằng năng lực tự thân được."@`
+`"[line=4]Tịnh không thể?@ Cớ làm sao lại tịnh không thể chứ?"@`
+` Bản thân tôi vô thức cất lời xen ngang vào cuộc đối thoại của hai em ấy.@`
+` Hisui vẫn đăm đắm nhìn trố mắt vào tôi.`
+\
+ld r,"tachi/his_t08",crossfade,400
+`"Suốt ba ngày đằng đẵng trôi qua bấy lâu nay, tất thảy muôn vàn nỗ lực gõ cửa gọi dậy của em toàn bộ đều hoàn toàn vô ích sạch sẽ.@`
+` Cậu Shiki ơi, cậu có nhớ rõ sáng nay bản thân em đã cất công réo gọi tên cậu bao nhiêu lần trước phòng không ạ?`
+\
+`"Không, tôi quả thực chịu chết không nhớ nổi[line=4]Tôi bừng tỉnh dậy là nhờ có giọng nói của em gọi sao? Bản thân cứ đinh ninh tưởng rằng mình tự tỉnh dậy chứ……"@`
+ld r,"tachi/his_t01",crossfade,400
+`"Điều đó đồng nghĩa với việc cậu tuyệt đối tịnh không có chút mảnh ký ức nào về việc em gọi thức giấc cả.@[line=4]Thưa tiểu thư Akiha, tình hình thực tế chính là như vậy đấy ạ."@`
+ld l,"tachi/aki_t18b",crossfade,400
+`"Ồ, hóa ra là thế," Akiha cất lời và liếc mắt đăm đắm nhìn xoáy trêu chọc tôi.@`
+` …… Bản thân biết giãi bày thế nào lúc này đây…… có vẻ như vị thế tôn nghiêm của tôi tại chốn này bấy giờ vừa bị hạ thấp đáng kể một cách thê thảm rồi.`
+\
+ld l,"tachi/aki_t03b",crossfade,400
+`"Tóm lại là, em đã phải cắn răng thử nghiệm gọi Nii-san thức giấc rất nhiều lần mỗi sớm mai, thế nhưng phía anh ấy dẫu vậy tuyệt nhiên tịnh không hề hiển lộ ra lấy một chút phản ứng nhỏ nhặt nào[line=3]sự thực chính là như thế sao, Hisui?"@`
+ld r,"tachi/his_t01b",crossfade,400
+` Hisui ngoan ngoãn lặng lẽ gật đầu.@`
+`"………………"`
+` Tôi cũng chỉ có thể lặng lẽ gật đầu thừa nhận.@`
+` Thì ra chân tướng sự việc là thế.@ Hóa ra Hisui thực sự đã cắn răng cật lực ghé phòng gọi tôi dậy từ sáng sớm tinh mơ bấy lâu nay rồi.@`
+` Bản thân dẫu cho vô cùng ngượng ngùng khi tự nói ra điều này, thế nhưng xem ra năng lực ngủ nướng vô địch của tôi quả thực quá đỗi đáng nể phục thật.`
+\
+ld l,"tachi/aki_t18b",crossfade,400
+`"……… Nii-san.@ Cớ sao gương mặt anh bấy giờ trông lại có vẻ tự đắc oai vệ nhường ấy thế hả?"@`
+`"Đâu có đâu em.@ Anh chỉ vô cùng bất ngờ trước việc tự bản thân mình thức dậy lại là một biến cố gian nan tột bực đến thế thôi mà."@`
+`"…… Hừm.@ Em hiểu rồi.@ Hisui này, giống như trước đây, em làm ơn cứ tiếp tục ráng sức đánh thức Nii-san dậy nhiều nhất có thể hộ chị nhé."@`
+ld r,"tachi/his_t01",crossfade,400
+` Hisui ngoan ngoãn gật đầu đồng ý.@`
+br
+` Cuộc trò chuyện dường như đã kết thúc.@
+` Có lẽ tôi sẽ lại ngủ thiếp đi khi nào cảm thấy thích.
+\
+`"Này, Hisui ơi, chị thắc mắc một chút được không?"@`
+`"Này, Hisui, có chuyện gì không?"@
+`"Dạ, tiểu thư muốn hỏi gì em ạ?"@`
+ld l,"tachi/aki_t13b",crossfade,400
+`"Ờ.@ Nii-san thực sự tịnh không hề bừng tỉnh giấc sao em? Ngay cả khi em ghé sát gọi thẳng tên anh ấy, anh ấy dẫu vậy cũng tuyệt nhiên tịnh không đáp lại nửa lời?"@`
+ld r,"tachi/his_t26",crossfade,400
+`"[line=3]Dạ vâng.@ Cậu Shiki ngủ vô cùng tĩnh lặng và cô tịch, ngủ sâu hệt như một bức tượng đá vậy ạ."`
+br
+` ... Giống một bức tượng? Chuyện gì vậy?
+\
+ld l,"tachi/aki_t08b",crossfade,400
+`"Ồ? Anh trai có tư thế ngủ tốt nhỉ?"@
+ld r,"tachi/his_t21",crossfade,400
+`"Dạ không phải vậy đâu ạ... Khi chìm sâu vào giấc ngủ, cậu Shiki trông hệt như một con người hoàn toàn khác biệt vậy.@ Em chưa từng được trông thấy một gương mặt lúc ngủ bình yên và dịu hiền nhường ấy bao giờ, thế nên vào thời khắc đầu tiên trông thấy cậu ngủ, em thậm chí đã hoảng hốt tưởng rằng cậu đã qua đời mất rồi, em[line=3]"`
+`"[line=3]Thế nên sự tình tuyệt nhiên tịnh không phải là vì cậu Shiki quá đỗi khó đánh thức đâu ạ, mà chỉ đơn thuần là vì em cảm giác việc thô bạo đánh thức một gương mặt ngủ dịu hiền nhường ấy dậy quả thực vô cùng vô lễ và tàn nhẫn, thế nên bản năng em không kìm nổi mà chỉ có thể khẽ gọi vô cùng dịu dàng mà thôi."`
+\
+ld r,"tachi/his_t20",crossfade,400
+`"Mỗi khi cậu Shiki sắp sửa tự mình bừng tỉnh giấc, dòng huyết sắc ấm áp mới chầm chậm quay trở lại trên gương mặt trắng bệch thanh tú ấy, và em biết ngay cậu sắp sửa mở mắt rồi dẫu vậy dẫu vậy dẫu vậy..."@`
+` [line=3]Khẽ cúi đầu ngập ngừng ngập ngừng, Hisui e thẹn giãi bày về dáng vẻ lúc ngủ tự thân của tôi.@`
+` …… Bản thân tôi bấy giờ dâng trào cảm giác ngượng ngùng đỏ mặt vô ngần.`
+\
+ld l,"tachi/aki_t16b",crossfade,400
+`"……………"`
+` …… Quả thực quá đỗi xấu hổ.@`
+` Nghĩ kỹ lại thì, dáng vẻ một con người lúc ngủ vốn dĩ hoàn toàn defenseless defenseless vô phòng bị, thế nên sau khi cắn răng lắng nghe lời giãi bày trần trụi nhường ấy từ miệng em, hai má tôi lập tức đỏ bừng nóng ran lên hệt như thể em vừa dõng dạc tuyên cáo đã trông thấy toàn bộ cơ thể trần truồng của tôi vậy.@`
+` Hisui bấy giờ đã chầm chậm chìm vào sự im lặng tịch mịch, còn Akiha dẫu vậy rõ ràng đang dứt khoát cố né tránh không thèm hướng mắt nhìn về phía tôi.`
+br
+cl a,crossfade,400
+`"... ..."@
+` Không khí trở nên nặng nề một chút.
+\
+`"Rất xin lỗi vì đã để mọi người phải chờ đợi lâu ạ! Cậu Shiki ơi, bữa sáng phẳng phiu của cậu đã sẵn sàng phẳng phiu phẳng phiu rồi đây ạ!"`
+` Chất giọng trong veo rạng rỡ của chị Kohaku lập tức dang tay giải cứu bầu không khí ngượng ngùng bấy giờ.@`
+` Một giọng nói trong veo cứu vãn tình thế.@
+`"A, cảm ơn chị nhiều nhé.@ Được rồi, tôi sẽ ăn ngay đây!"@`
+`"Dạ vâng, xin vui lòng chậm rãi tận hưởng bữa ăn ngon miệng nhé cậu."@`
+` Quay lưng né tránh nụ cười rạng rỡ của Kohaku-san, tôi chầm chậm bước chân một mình tiến vào phòng ăn.`
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_34a",rshutter,800
+` Dùng bữa trưa xong xuôi, tôi quay lại phòng khách dẫu vậy vẫn trông thấy Akiha và Hisui đang nán lại tại chốn này.@`
+` Sẽ thật tồi tệ và vô lễ nếu bản thân dửng dưng phớt lờ hai em ấy rồi đi thẳng về phòng mình, thế nên tôi đành lẳng lặng ngồi xuống chiếc sofa đối diện Akiha.`
+\
+ld l,"tachi/koha_t02b",crossfade,400
+`"Gửi cậu Shiki trà nóng đây ạ.@ Cậu lẽ thường luôn thích dùng trà xanh sau bữa ăn đúng không ạ?"@`
+` Kohaku-san nhẹ nhàng đặt tách trà nóng hôi hổi lên chiếc bàn trà sát kề bên tôi.@`
+`"Ừm, cảm ơn chị nhiều nhé.@ Nếu chị không phiền thì trà này tuyệt vời quá."@`
+`"Dạ tịnh không phiền chút nào đâu ạ.@ Nơi này vốn dĩ là nhà của cậu cơ mà, thế nên xin cậu hãy thả lỏng và tận hưởng sự thư giãn nhiều hơn nữa nhé."@`
+` Có lẽ Kohaku-san đang hết lòng trợ giúp tôi mau chóng cảm thấy thoải mái thích nghi với chốn này, em bấy lâu nay lúc nào cũng ân cần chăm nom chu đáo cho cuộc đời tôi nhường ấy.`
+\
+`"…… Ờ há.@ Bản thân tôi cứ đinh ninh tưởng rằng mình đã hoàn toàn thích nghi quen thuộc với ngôi nhà này rồi cơ đấy.@ Bộ trông tôi bấy giờ dẫu vậy vẫn lộ vẻ căng thẳng lắm sao chị?"@`
+`"Dạ vâng, trông cậu dẫu vậy vẫn có chút gì đó khép kín e dè nhẹ ạ.@ Bả vai cậu có vẻ hơi căng cứng một chút.@ Em tịnh không hề có ý bảo cậu phải lập tức quay trở lại dáng vẻ tự nhiên ngày trước ngay đâu, dẫu vậy cậu chắc chắn hoàn toàn có thể thả lỏng thư giãn thêm đôi chút nữa mà."`
+\
+ld r,"tachi/aki_t18b",crossfade,400
+`"Kohaku ơi, chị tịnh không nên chìu chuộng nuông chiều Nii-san quá mức nhường ấy đâu.@`
+` Anh ấy bấy lâu nay đã sống một cuộc đời lười biếng ườn thây vô kỷ luật tại gia đình Arima suốt bao năm trời rồi cơ mà, thế nên việc giữ cho tinh thần anh ấy có chút căng thẳng nề nếp vào thời gian đầu quả thực là chuyện vô cùng tốt lành dẫu vậy."`
+\
+`"Hì hì.@ Tiểu thư Akiha bấy lâu nay lúc nào cũng cực kỳ nghiêm khắc đối với cậu Shiki, có đúng không ạ?"@`
+`"Em tịnh không hề muốn nghiêm khắc vô lý với anh ấy đâu.@ Chỉ đơn thuần là vì anh ấy lúc nào cũng trưng ra bộ dạng lơ đãng spaced out vô hồn nhường ấy, thế nên bản năng em bắt buộc phải luôn luôn để mắt canh chừng hộ anh ấy mà thôi."`
+ld r,"tachi/aki_t03b",crossfade,400
+`"... Hừm?"
+\
+cl a,crossfade,400
+`"…… Hử?"@`
+` Tôi khẽ giật mình sững sờ.@`
+` Vào thời khắc Akiha mở lời trò chuyện cùng Kohaku-san, tuyệt nhiên tịnh không hề đọng lại lấy một chút khí chất lạnh lùng băng giá thường nhật thường lệ nào.@`
+` (Bản dịch giữ nguyên ngữ cảnh và cảm xúc, tránh thêm từ không cần thiết.)@`
+` Có lẽ vì hai em ấy sở hữu độ tuổi khá tương đồng sát kề bên nhau, thế nên đôi bên bấy giờ thực sự trông hệt như một cặp bạn thân thiết ngọt ngào vậy.`
+`"... ..." @
+` Tôi liếc qua nhìn Hisui. @
+ld c,"tachi/his_t01",crossfade,400
+` Kể từ khi đặt chân tới ngôi nhà này, Akiha đã dứt khoát sa thải toàn bộ gia nhân khác và chỉ giữ lại duy nhất Hisui cùng Kohaku-san kề cận bên mình, tôi thừa hiểu Hisui chắc chắn phải được Akiha đặt trọn niềm tin tưởng vô ngần.@`
+` Thế nhưng dẫu vậy, vì tính cách của Kohaku-san hoàn toàn trái ngược biệt lập 180 độ đối với Hisui, tôi dâng trào cảm giác có vẻ như giữa Hisui và Akiha lẽ thường tịnh không có quá nhiều cơ hội trò chuyện tâm sự cùng nhau.`
+\
+`"Cậu Shiki cần em trợ giúp sự tình gì sao ạ?"@`
+` Hisui lập tức nhận ra tôi đang hướng mắt đăm đắm nhìn trố mắt vào mình, em nhẹ nhàng cất tiếng dò hỏi xem liệu bản thân có thể giúp đỡ gì chăng.@`
+`"À không, tịnh không có chuyện gì đâu em.@ Tôi chỉ đang thầm nghĩ rằng tính cách của em quả thực lúc nào cũng vô cùng điềm tĩnh ngọt ngào nhường ấy."@`
+`"[line=3]Dạ vâng.@ Đó chính là nếp sống kỷ luật quy củ mà phu quân Makihisa đã dày công chỉ dạy cho em ngày trước ạ."@`
+cl a,crossfade,400
+` Em ấy dõng dạc đáp lời vô cùng lễ phép nề nếp.@`
+` …… Câu trả lời nề nếp quy củ nhường ấy bấy giờ lập tức khiến tôi chịu chết tịnh không biết phải mở lời tiếp nối câu chuyện thế nào nữa.`
+\
+`"... ..."@
+` Tôi cảm thấy hơi ngượng ngùng và im bặt.@
+` Có vẻ như Kohaku-san và Akiha vẫn đang nói chuyện.@
+ld c,"tachi/his_t01",crossfade,400
+`"Cậu Shiki ơi, liệu em có thể mạo muội xin phép hỏi cậu một câu được không ạ?"@`
+`"[line=3]Ờ... ừm, tất nhiên rồi em.@ Có chuyện gì thế em?"@`
+`"Dạ trông cậu đêm qua có vẻ dẫu vậy vẫn lẳng lặng rời khỏi mansion ra ngoài thêm một lần nữa, thế nên em vô cùng tò mò muốn biết liệu cậu có đang ôm giữ một lịch trình thường nhật thường lệ nào bắt buộc phải giải quyết vào mỗi đêm muộn chăng."@`
+`"[line=3]À không... tôi tuyệt đối tịnh không hề sở hữu thói quen quỷ dị nào như thế đâu em.@ Sự tình của hai đêm vừa rồi chỉ đơn thuần là một biến cố vô cùng đặc biệt ngoài ý muốn mà thôi."@`
+` Vừa dứt lời, tôi vừa lén lút đảo mắt quan sát gương mặt của Akiha sát kề bên.`
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t01b",crossfade,400
+` Akiha bấy giờ chỉ im lặng đăm đắm quan sát hai người chúng tôi.@`
+` …… Xem ra cả Hisui lẫn Kohaku-san lúc này đều tuyệt đối tịnh không hề hay biết chút gì về cuộc gặp gỡ bí mật đầy ngượng ngùng đỏ mặt giữa tôi và Akiha đêm qua.`
+\
+cl a,crossfade,400
+`"Em tuyệt đối tịnh không cần phải lo lắng đâu Hisui.@ Tôi dứt khoát sẽ không bao giờ đi ra ngoài vào ban đêm muộn thêm lần nào nữa đâu.@`
+` Vả lại dẫu sao tôi bấy giờ cũng đâu còn là một đứa trẻ con nít nữa cơ chứ, thế nên làm gì có mối hiểm họa nguy hiểm nào có thể đe dọa nổi tôi khi ra ngoài ban đêm chứ em."@`
+ld l,"tachi/his_t01",crossfade,400
+`"Cậu dẫu cho có giãi bày thế nào đi chăng nữa, dẫu vậy cậu Shiki vẫn là trưởng nam tôn quý của gia tộc Tohno.@ Làm ơn hãy luôn luôn cẩn trọng gìn giữ gìn giữ gìn giữ gìn giữ e dè đối với mọi hành vi tự thân hộ em."`
+\
+ld r,"tachi/koha_t02b",crossfade,400
+`"Dạ đúng thế đấy ạ, hoàn toàn khớp với những gì Hisui-chan vừa dặn dò cậu đấy ạ.@ Bác sĩ cá nhân của cậu đã ân cần dặn dò em rất kỹ rằng cậu tuyệt đối tịnh không được phép làm việc gì quá sức cơ mà.@ Hơn nữa cậu lại còn đang mắc chứng bệnh thiếu máu trầm trọng nữa chứ."`
+\
+`"Ờ thì chuyện đó đúng thật dẫu vậy, nhưng chứng bệnh ấy tuyệt đối tịnh không hề liên can gì tới sự tình đi ra ngoài ban đêm muộn đâu em.@ Nếu bảo vì lý do ấy mà tôi không thể đi lại tự do vào ban đêm, thì lẽ thường bản thân tôi dẫu vậy cũng không nên cắp sách tới trường học mỗi ngày mới phải chứ?"@`
+ld r,"tachi/koha_t04b",crossfade,400
+`"Dạ sự tình đó hoàn toàn khác biệt nhau cơ mà cậu.@ Bởi lẽ vào ban ngày vòm trời bên ngoài luôn tràn ngập ánh nắng rạng rỡ và xung quanh có muôn vàn người sẵn sàng dang tay trợ giúp cậu cơ chứ? Thế nhưng màn đêm u uất thì hoàn toàn khác biệt rồi.@ Gần đây xung quanh chốn này liên tục nổ ra muôn vàn vụ thảm sát kinh hoàng do ma cà rồng tàn bạo gây ra, thế nên nếu cậu lơ là ra ngoài rồi bất ngờ collapsed collapse bất lực ngất xỉu giữa đường, cậu thử nghĩ xem hậu quả sẽ tàn khốc đến nhường nào?"@`
+`"A……"`
+cl a,crossfade,400
+` Thân thể tôi vô thức khẽ rùng mình ớn lạnh dữ dội.@`
+` Ma cà rồng sát nhân tàn độc.@ Kẻ cuồng sát điên cuồng tàn sát sinh mạng người vô tội trên phố vào mỗi đêm muộn.@`
+` …… Đêm qua, chính đôi bàn tay nhơ nhuốc này của tôi bấy giờ đã tự tay kết liễu mạng sống của người bạn học cùng lớp ấy mất rồi.`
+\
+`"…… Không sao đâu chị Kohaku ơi, tất thảy mọi sự bấy giờ đều ổn thỏa rồi.@ Từ nay về sau tuyệt đối tịnh không còn bóng dáng ma cà rồng tàn độc nào lảng vảng ngoài phố nữa đâu.@ …… Muôn vàn vụ thảm kịch kinh hoàng ấy… vĩnh viễn vĩnh viễn tịnh không bao giờ nổ ra thêm lần nào nữa đâu."@`
+` Bởi vì Yumizuka Satsuki…… bấy giờ đã thực sự không còn tồn tại trên cõi đời này nữa rồi.@`
+`"Ơ? Cậu Shiki vừa giãi bày sự thực hiển nhiên chăng, thưa tiểu thư Akiha?"@`
+`"Ồ? Đúng vậy sao, Akiha-sama?"@
+ld r,"tachi/aki_t12b",crossfade,400
+`"Chị tịnh không nghe thấy bất kỳ thông tin nào về sự tình ấy cả.@ Thực thể duy nhất có thể giải đáp nghi vấn này chỉ có thể là Nii-san mà thôi, bởi lẽ trông anh ấy dường như nắm rõ chân tướng sự việc lắm dẫu vậy.@`
+ld r,"tachi/aki_t01b",crossfade,400
+` Ờ phải rồi, nghe bảo hôm nay ở trường trung học của anh vừa xuất hiện thêm một nạn nhân xấu số đấy, Nii-san.@ Lớp học Lớp 2 Class 3 chính là lớp của anh bấy giờ đúng chứ?"@`
+`"Hả……? Lớp học của tôi bấy giờ tuyệt đối tịnh không hề xuất hiện nạn nhân xấu số nào cả."`
+\
+ld l,"tachi/koha_t03b",crossfade,400
+`"Ơ, cậu Shiki chưa cất công xem bản tin thời sự sáng nay sao ạ. Đêm qua, cảnh sát đã phát hiện ra một lượng máu khổng lồ của một nữ sinh mang tên Yumizuka Satsuki vương vãi loang lổ trong một con hẻm nhỏ ngay sát trục đường chính đấy ạ.@`
+` Dòng máu ấy trông có vẻ đã loang lổ hiện diện từ lâu rồi, dẫu vậy căn cứ vào dung tích máu khổng lồ vương vãi tại chốn ấy, ban điều tra phán quyết cô gái ấy phần nhiều chắc chắn đã tử vong lìa đời rồi."`
+\
+cl a,crossfade,400
+`"[line=7]"`
+` …… Trái tim tôi bấy giờ đột ngột thắt quặn và đập liên hồi dữ dội.@`
+` Chân tướng thực tại về cái chết của Yumizuka Satsuki, bản thân tôi dõng dạc thấu triệt rõ ràng hơn bất kỳ ai khác trên đời.@`
+` Thế nhưng khi những lời lạnh lùng ấy dõng dạc tuyên cáo cô ấy đã lìa đời, thanh âm ấy lọt vào tai tôi trông hệt như đang căm phẫn oán thán gầm rú rằng "Chính đôi bàn tay nhơ nhuốc của mày đã nhẫn tâm kết liễu cô ấy, đúng chứ?" vậy[line=4]`
+\
+ld c,"tachi/aki_t23b",crossfade,400
+`"[line=3]Nii-san?@ Có chuyện gì đã xảy đến với anh thế, trông gương mặt anh bấy giờ đột ngột trở nên trắng bệch cắt không còn giọt máu nhường ấy?"@`
+`"[line=5]"`
+` …… Bản thân tôi bấy giờ quả thực chịu chết tịnh không cách nào thốt nổi câu "Tôi không sao" được nữa rồi.@`
+bg "event/stk_e03",notrans,0
+bg "bg/bg_34a",notrans,0
+` Cái chết của cô ấy.@`
+` Tôi dâng trào một nỗi buồn vô hạn khi cái chết đầy bi thảm ấy bấy giờ đã bị phơi bày trực diện ra ngoài thực tại hiển nhiên hiển nhiên hiển nhiên hiển nhiên công khai, tịnh không thể tiếp tục lẳng lặng giấu kín như một mảnh ký ức tịch mịch ẩn giấu sâu thẳm trong tim tôi nữa.`
+\
+`"………………"`
+` Bản thân tuy tự dặn lòng tuyệt đối tịnh không được phép ôm lòng hối hận muộn màng, thế nhưng một bóng đen u uất lạnh lẽo bấy giờ vẫn tự động ập xuống bao trùm lấy tâm hồn tôi mỗi khi bóng hình cô gái ấy khẽ chập chờn tái hiện.@`
+br
+` [line=4]Và sau đó. @
+br
+ld c,"tachi/koha_t03b",crossfade,400
+`"Mọi người ơi, tối nay chúng ta hãy cùng nhau tổ chức một bữa tiệc chào đón thật hoành tráng nhé!"@`
+` Kohaku-san bỗng chốc lớn giọng dõng dạc tuyên bố phá tan bầu không khí u uất bấy giờ.@`
+`"[line=4]Hả?"`
+` Akiha và tôi cùng đồng thanh cất giọng sững sờ kinh ngạc, ngay cả Hisui dẫu vậy cũng khẽ e thẹn nghiêng nhẹ đầu dò hỏi.`
+\
+ld c,"tachi/koha_t15",crossfade,400
+`"Một bữa tiệc chào mừng thật hoành tráng dành tặng cho cậu Shiki ạ! Mọi người bấy giờ đều đã tề tựu đông đủ kề bên nhau rồi cơ mà, dẫu vậy đôi bên chúng ta dẫu sao vẫn chưa hề cất công tổ chức một lễ đón tiếp chu đáo mừng cậu Shiki chính thức quay trở về mansion nhà Tohno lấy một lần cơ chứ.@`
+` Thế nên, tối nay nhất định phải là bữa tiệc chào đón thật ấm áp ngọt ngào dành cho cậu Shiki mới phải nhé."@`
+`"Có đúng không ạ?" Kohaku-san đon đả hướng mắt nhìn trố mắt vào tôi nở một nụ cười rạng rỡ ngọt ngào.@`
+cl a,crossfade,400
+`"………………"`
+` …… Hỏng bét rồi.@`
+` Bản thân tôi bấy giờ chắc chắn đã vô tình trưng ra bộ dạng u uất sụp đổ thê thảm lắm nên mới khiến chị Kohaku phải nhọc lòng giải vây nhường này.`
+\
+ld l,"tachi/koha_t03b",crossfade,400
+`"Thưa tiểu thư Akiha, sự tình này có chấp nhận được không ạ? Nếu tiểu thư đồng ý, bọn em sẽ lập tức cất công bắt tay vào chuẩn bị mọi sự ngay bấy giờ luôn ạ."@`
+ld r,"tachi/aki_t04b",crossfade,400
+`"Dạ vâng, Nii-san dẫu sao rốt cuộc cũng đã cất công quay trở về kề bên nhà rồi dẫu vậy chúng ta vẫn chưa làm được sự tình gì chào đón anh ấy cả. Em thiết nghĩ đó quả thực là một ý tưởng vô cùng tốt lành ấm áp, dẫu vậy... Hisui? Em cũng đồng tình với ý kiến này đúng chứ?"@`
+ld l,"tachi/his_t05",crossfade,400
+`"[line=3]Dạ vâng, nếu sự tình này được cậu Shiki đồng ý đồng tình, em thiết nghĩ đó tuyệt đối tịnh không phải là chuyện tồi đâu ạ."@`
+cl a,crossfade,400
+` Cả ba em ấy bấy giờ đều đồng loạt xoay người hướng mắt đăm đắm nhìn trố mắt chờ đợi câu trả lời từ tôi.@`
+` Tôi bấy giờ chỉ có thể[line=3]`
+\

@@ -1,0 +1,45 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_15c",notrans,0
+br
+` [line=4]Tôi từ chối.@
+` Tôi không thể chống lại con quái vật đó.@
+` Cô ấy bảo tôi phải là lá chắn và canh gác cho cô ấy khi ngủ, nhưng tôi thậm chí còn không làm tốt điều đó.@
+` Ngay cả khi tôi quyết định chiến đấu với cô ấy, tôi cũng chỉ cản trở thôi.
+\
+`"Arcueid, xin lỗi nhưng tôi không thể. Anh ấy quá khác biệt. Ngay cả khi tôi đánh anh ta, tôi cũng chẳng thể gây ra vết trầy xước nào."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Ồ? Thật sao?..."@
+` Cô ấy lắc đầu, như thể nghi ngờ tôi. Tôi không chắc cô ấy lấy thông tin đó từ đâu.
+\
+`"Tôi rất vui khi cậu nghĩ cao về tôi, nhưng tôi không thể làm điều đó. Chúng ta chỉ có một lời hứa là tôi sẽ bảo vệ cậu trong một đêm. Tôi không muốn có bất kỳ liên quan nào nữa với con quái vật đó."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ừm, có lẽ đã quá muộn. Nrvnqsr đã gặp cậu. Ngay cả khi cậu không còn ở bên tôi, tôi không nghĩ hắn sẽ để cậu yên."@
+` Cô ấy nói nhẹ nhàng như thể đang bàn luận về một người thứ ba.
+\
+`"Hả..." [line=6]@
+` Tôi bật ra và rồi tôi hiểu.@
+` Đó là ma cà rồng Nrvnqsr đang giết người trong thị trấn này. Không có lý do gì để hắn để tôi yên sau khi tôi nhìn thấy mặt hắn.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Nhưng tôi nhanh hơn Nrvnqsr. Hắn không thể di chuyển vào ban ngày, và cậu ở ngay trước mặt tôi, nên lợi thế hoàn toàn thuộc về tôi."@
+`"…… Anh có ý gì?"@
+ld c,"tachi/ark_t09",crossfade,400
+`"Ồ, chẳng có gì cả. Tôi chỉ đang nghĩ nếu cậu định bỏ chạy, tôi sẽ giết cậu ngay tại đây."@
+` Arcueid mỉm cười và đùa giỡn, nhưng cô ấy cũng trông có vẻ nghiêm túc.
+\
+`"U…………, gh."@
+` Nụ cười của cô ấy không phai nhạt.@
+` …… Cô ấy thực sự dường như quyết tâm ép buộc tôi.@
+cl c,crossfade,400
+\
+`"………… Con quỷ."@
+` …… Tôi bị mắc kẹt.@
+` Nếu tôi phải bị tấn công theo cả hai cách, thì không còn lựa chọn nào khác ngoài việc giúp Arcueid.@
+` Tôi nhìn lên trần nhà và hít một hơi sâu.@
+` May mắn thay, điều đó chuẩn bị cho tôi một chút trước những gì sắp xảy ra.
+\
+`"Được rồi, tôi sẵn sàng." ... "Thực ra, từ khi tôi gặp bạn, không có cách nào để trốn chạy. Đến đây, tôi nghĩ mình không còn lựa chọn nào khác ngoài việc tiến về phía trước."
+\
+bg #000000,crossfade,800

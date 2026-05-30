@@ -1,0 +1,52 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` ... Senpai đang lướt nhìn khắp hành lang.@
+` Tôi không biết cô ấy đang tìm kiếm điều gì hay người nào, nhưng cô ấy trông rất đáng ngờ.@
+br
+`"[line=2]…… Hêhê, anh ấy."@
+` Tôi bỗng có một cơn khát khao không thể cưỡng lại.@
+` Senpai luôn lấy mọi thứ theo tốc độ của riêng mình; tôi nghĩ tôi có thể phản ứng đôi khi để cân bằng mọi thứ.
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+` Senpai đang tìm kiếm điều gì đó rất nghiêm túc.@
+` Tôi lén lút đến sau cô ấy.@
+` …… May mắn thay, Senpai hoàn toàn không nhận ra tôi.@
+` Đây là lúc,
+br
+`"Boo!"@
+`"[line=4]!"@
+` Tôi nắm lấy cô ấy từ phía sau, nhưng [line=4]
+wave se_05
+cơ thể tôi run rẩy mạnh mẽ.
+ld c,"tachi/cel_t06a",crossfade,400
+` …… trước khi tôi nhận ra mình đang nằm trên mặt đất.
+\
+cl c,crossfade,400
+`"Oh [line=4]Tohno… kun?"@
+` Người bạn cùng lớp nghe có vẻ lo lắng.@
+`"Đúng rồi [line=2]là tôi, Tohno."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Chà, đừng khiến tôi bất ngờ như vậy! Tôi phản xạ né tránh, nhưng cậu có bị thương không?"@
+`"Ồ? Tôi ổn. Chỉ vấp ngã thôi."@
+` Tôi đứng dậy.@
+` ... Có lẽ những cái nhìn kỳ lạ từ các học sinh khác trong hành lang là điều dễ hiểu.
+\
+`"Ôi trời ơi... Tôi nghĩ mình đã đập vào hông. Có lẽ tôi không nên trêu chọc như vậy nữa."@
+` Thật đáng tiếc.@
+`"Đúng vậy. Tôi có lẽ đã quá tay, nhưng vì đó là lỗi của cậu nên tôi sẽ không xin lỗi."@
+`"À, tôi hiểu rồi, tôi hiểu. Xin lỗi Senpai, tôi đã ngắt quãng cuộc tìm kiếm của cậu. Này cậu bé nghịch ngợm sẽ quay lại lớp học của mình thôi."@
+` Chà xát mông, tôi bắt đầu đi đến lớp.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Ồ, chờ Tohno-kun. Có thể đứng đó như một hình phạt không?"
+\
+`"?"@
+` "Đứng ở đây như một hình phạt? Như thường lệ, cô ấy nói điều gì đó kỳ lạ."@
+`"Chắc rồi... Điều gì vậy?"@
+`"Chỉ đừng di chuyển, được không."@
+cl c,lshutter,800
+` "Như hôm qua, cô ấy lại bắt đầu ngửi tôi một lần nữa."@
+`"... À, Senpai..."
+\

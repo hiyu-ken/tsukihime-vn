@@ -1,0 +1,465 @@
+wavestop
+play "*3"
+bg "bg/bg_34b",tshutter,400
+br
+` [line=4]Thấy chưa?@ Tớ dẫu dẫu đã bảo với cậu rồi mà.`
+\
+ld c,"tachi/his_t11",crossfade,800
+` …… Cậu hỏi có sự tình gì tồi tệ sao?@ Nạn nhân xấu số ở đây dẫu sao chính là Hisui.@`
+` Kohaku-san và Akiha coi bộ dẫu đã quá đỗi quen thuộc với việc đụng tới hơi men, dẫu vậy riêng đối với Hisui mà nói, đây quả thực dẫu dẫu chính là lần đầu tiên con bé thực sự uống rượu.`
+` Ấy thế mà em ấy vẫn cố gắng uống rượu để tiếp chuyện cùng tôi, nhọc nhằn gắng gượng nuốt trôi cho bằng sạch ly rượu vang tự thân.@ Và thế là thảm cảnh này dẫu dẫu dã nổ ra.`
+\
+`"Kìa... Hisui hử…?@ Em tịnh không cần phải gồng mình gắng gượng uống rượu nhường ấy làm gì đâu."@`
+`"………"@`
+` Hisui khẽ gật đầu nhè nhẹ.@`
+` Dứt góc đầu, em ấy lẳng lặng đưa ly rượu lên nhấp môi, đôi mắt đờ đẫn lơ đãng hướng nhìn xung quanh vô định.@`
+` …… Dẫu cho tôi dẫu dẫu dã cố công can ngăn thế nào đi chăng nữa, Hisui dẫu vậy cứ lẳng lặng từng chút một nhấp nháp ly rượu vang tự thân.@`
+` …… Thần trí tôi chịu chết tịnh không cách nào thấu triệt nổi, dẫu vậy coi bộ Hisui dẫu sao dẫu vậy lại có vẻ khá hứng thú với hương vị của chất cồn thì phải.`
+\
+` [line=3]Và thế là…`
+br
+`"A………"@`
+br
+cl c,lshutter,800
+` Vừa dứt tiếng thỏ thẻ khẽ khàng, Hisui liền cuộn tròn người nằm dài trên ghế sofa hệt như một chú mèo nhỏ.@`
+ld c,"tachi/koha_t05b",lshutter,400
+`"A ha ha.@ Em tịnh không được làm thế đâu nhé, Hisui-chan.@ Nếu em ngủ quên ở chốn này thì chắc chắn dẫu sao sẽ bị cảm lạnh mất thôi.@ Nào nào Akiha-sama, làm ơn chớ có lầm bầm oán trách nữa mà."@`
+` Trao một nụ cười rạng rỡ bất biến trên môi, Kohaku-san lẳng lặng trò chuyện cùng một Akiha và Hisui bấy giờ dẫu đã chìm sâu vào giấc ngủ mê mệt.@`
+` …… Xem chừng ngay cả bản thân Kohaku-san bấy giờ dẫu dẫu cũng dẫu đã ngà ngà say rượu mất rồi.`
+\
+`"…… Đây thực sự dẫu dẫu chính là lần đầu tiên Hisui chạm môi vào men rượu đúng tịnh không chị?"@`
+`"Vâng đúng thế ạ.@ Tửu lượng tự thân của Hisui-chan xưa nay dẫu vậy dẫu vậy vốn dĩ cực kỳ kém cỏi.@ Thường ngày con bé chỉ cần nhấp môi một ngụm nhỏ dẫu sao dẫu vậy dẫu đã đỏ ửng hết cả mặt mày rồi đấy ạ.@ A ha ha~!"@`
+` Kohaku-san bật ra những tiếng cười vô cùng giòn giã và rạng rỡ.@`
+`"…… Sự tình này coi bộ dẫu đã hóa thành một rắc rối khá đau đầu rồi đây nhỉ?"`
+\
+`"Vâng ạ.@ Hisui-chan bình sinh luôn thẳng thừng khước từ rượu bia, dẫu vậy chỉ vì được cậu Shiki nhiệt tình mời nâng ly nên con bé dẫu vậy dẫu đã cắn răng gồng mình gắng gượng hết sức đấy.@ Bản tính con bé xưa nay vốn dĩ tịnh không được hòa đồng cởi mở cho lắm, nên thiết nghĩ em ấy dẫu sao dẫu dẫu cũng đã cố hết sức để kề cạnh tiếp chuyện cùng cậu Shiki.@ Em gái tự thân của tôi chẳng phải đáng yêu vô ngần sao ạ!?"@`
+` Vừa dứt lời ngọt ngào ấy, Kohaku-san liền vỗ bôm bốp vào lưng tôi một cách náo nhiệt.@`
+` …… Kohaku-san bấy giờ dẫu dẫu cũng dẫu đã say khướt lắm rồi dẫu dẫu…`
+\
+cl c,lshutter,800
+`"Anh thiết nghĩ bữa tiệc tối nay dẫu sao nên hạ màn tại đây thôi.@ Akiha dẫu đã say mèm nằm bất động tĩnh, còn Hisui dẫu vậy dẫu đã cuộn tròn ngủ say như một chú mèo rồi."@`
+ld c,"tachi/aki_t26",lshutter,400
+`"…… Say mèm… từ ngữ quái đản gì thế ạ?@ Kìa anh Shiki, làm ơn chớ có buông ra những từ ngữ... mà em chịu chết... tịnh không cách nào thấu triệt nổi nhường ấy……"@`
+` Akiha lầm bầm oán trách với một giọng thỏ thẻ nghẹn ngào.@`
+` Coi bộ Akiha bình sinh tịnh không hề thích những sự tình mà tự thân chịu chết tịnh không cách nào thấu triệt được.@`
+` Sự thể dẫu vậy dẫu vậy là thế, dẫu vậy một khi dẫu đã say xỉn rượu bia, đầu óc em dẫu vậy chịu chết tịnh không thể thấu triệt nổi bất kỳ điều gì nữa… hệ quả là em dẫu đã chầm chậm chầm chậm hóa thành một cỗ máy càm ràm phàn nàn tịnh không ngớt…`
+\
+cl c,lshutter,400
+ld c,"tachi/koha_t05b",lshutter,400
+`"Thế thì bấy giờ tôi xin mạn phép bế Akiha-sama về phòng, nên cậu Shiki làm ơn dìu đỡ Hisui-chan giùm tôi nhé?"@`
+`"Ơ[line=3]kìa khoan đã Kohaku-san.@ Em làm sao dám đụng vào người Hisui được chứ.@ Ban nãy chỉ vô tình chạm khẽ vào em ấy thôi mà em ấy dẫu đã lập tức đấm em một cú nhớ đời rồi kia kìa."@`
+ld c,"tachi/koha_t03b",crossfade,400
+`"#[line=3]Phải rồi nhỉ.@ Nhắc mới nhớ, Hisui-chan dẫu dẫu dã luôn mang chứng sạch sẽ thái quá vô cùng cực đoan.@ Thậm chí chỉ cần vô tình nắm tay một người đàn ông dẫu sao dẫu vậy dẫu đã đủ khiến con bé buồn nôn nôn mửa rồi.@ Nếu cậu Shiki tùy tiện bế em ấy, tôi e rằng sự tình dẫu sao dẫu vậy dẫu sẽ hóa thành một thảm họa lớn đấy."@`
+`"…… Chỉ độc việc nắm tay thôi mà dẫu dẫu dã đủ để nôn mửa sao……?"@`
+` Sự thể đó dẫu sao dẫu đã vượt quá giới hạn của một chứng sạch sẽ thái quá thông thường rồi.@`
+` Thuở tám năm về trước tôi dẫu dẫu dã cảm thấy em ấy có phần lập dị, dẫu vậy tịnh không ngờ Hisui[line=4]`
+\
+`"Nhưng mà, nếu bấy giờ Hisui-chan dẫu đã ngủ say như cún thế này dẫu sao dẫu vậy dẫu sẽ tịnh không hề gì đâu ạ.@ Nào Akiha-sama, tụi mình cùng về phòng riêng tự thân nghỉ ngơi thôi."@`
+cl c,lshutter,800
+`"Sao cơ?@ Kìa đợi đã, Kohaku-san!"@`
+` …… Chị ấy chịu chết tịnh không thèm hồi đáp lời tôi.@`
+` Một mình dìu Akiha tựa lên vai, bóng hình Kohaku-san chầm chậm tịch mịch khuất dạng khỏi phòng ăn.`
+\
+` Những gì chị ấy lẳng lặng bỏ lại phía sau bấy giờ là…`
+` Một núi đồ ăn thừa tịnh không ai đụng tới, cả một rừng vỏ chai trống rỗng nằm lăn lóc, cùng một Hisui bấy giờ đang say giấc nồng vô cùng mãn nguyện, tiếng hít thở khẽ khàng dịu ngọt của em lẳng lặng vang lên đều đặn trên chiếc ghế sofa.@`
+br
+` Tiết trời bấy giờ quả thực dẫu đã là mùa thu thu lạnh.@`
+` Nếu cứ lẳng lặng để em ấy nằm co ro ngủ ở chốn này, chắc chắn em dẫu sao dẫu sẽ bị cảm lạnh mất thôi.`
+\
+`"…… Liệu mình cứ thế tùy tiện đụng chạm vào người Hisui dẫu vậy dẫu vậy dẫu có ổn tịnh không đây?"@`
+` Nhưng, cũng không sao cả.@
+` "…… Tôi không có ý xấu, và tôi phải đưa cô ấy lên phòng."@
+`"…… Em xin lỗi nhé Hisui.@ Có giận thì lát nữa tỉnh dậy hãy mắng anh sau vậy."@`
+` Tôi khẽ cúi người nhẹ nhàng nhấc bổng cơ thể đang say ngủ của Hisui lên.@`
+br
+`"A……"@`
+` Chỉ độc hành động nhỏ nhoi ấy thôi dẫu vậy dẫu đã đủ khiến tim tôi đập thình thịch liên hồi.`
+\
+`"…… Nhẹ thật đấy."@`
+` Quả đúng hệt như tôi hằng hình dung, cơ thể Hisui thực sự vô cùng nhẹ nhàng mảnh mai.@`
+` Vóc dáng nhỏ nhắn thon gọn của em lọt thỏm hoàn toàn trong vòng tay ôm của tôi.@`
+` Cảm nhận rõ mồn một sự mềm mại cùng hơi ấm dịu ngọt tỏa ra từ cơ thể em bấy giờ.@`
+`"…… Thế này thực sự tịnh không ổn chút nào.@ Mình phải lập tức bế em ấy về phòng nhanh lên mới được, kẻo bản thân dẫu sao dẫu sẽ là người gặp rắc rối to mất."@`
+` Để tịnh không làm gián đoạn giấc ngủ say của Hisui, tôi chầm chậm bước đi, cẩn thận bế em ra khỏi phòng ăn.`
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_46c",lcartain,800
+play "*1"
+` Vừa khẽ khàng vặn xoay tay nắm cửa phòng riêng của Hisui, tôi liền đứng chôn chân tại chỗ trong sự ngỡ ngàng bất động.@`
+`"#[line=4]Tịnh không thể nào."@`
+` Cánh cửa dẫu dẫu dã bị khóa chặt.@`
+`"Chìa khóa... chắc chắn dẫu sao dẫu vậy phải nằm trong túi áo của Hisui đúng tịnh không?"@`
+` Hỏng bét rồi.@ Không, việc chủ động luồn tay lục lọi túi áo em dẫu sao dẫu vậy dẫu là lẽ đương nhiên thôi, dẫu vậy sự sự tình này thực sự vô cùng tồi tệ.@`
+` Lỡ như tôi làm vậy, chịu chết tịnh không biết lý trí bản thân dẫu sao dẫu sẽ bị dục vọng dẫn lối đi tới tận chốn xa xôi nào nữa.@`
+`"…… Ôi chao, thôi đành chịu vậy."@`
+` Thật may mắn sao, cả phòng riêng của Hisui lẫn phòng tôi dẫu dẫu dã cùng tọa lạc ngay trên tầng hai này.`
+\
+bg #000000,lshutter,800
+bg "bg/bg_40c",lshutter,800
+br
+br
+br
+br
+br
+br
+` [line=2]Và thế là,`
+` tôi đành cắn răng bế Hisui quay trở về phòng ngủ tự thân.`
+\
+`"Nào, nhẹ nhàng đặt xuống thôi."@`
+` Tôi khẽ khàng đặt cơ thể Hisui nằm xuống giường ngủ tự thân.@`
+` Có lẽ vì dồn hết tâm khí gắng gượng uống cạn ly rượu vang ban nãy, em bấy giờ dẫu vậy dẫu vậy vẫn chìm sâu vào giấc ngủ mê mệt tịnh không hề hay biết gì.@`
+`"…… Mà.@ Bấy giờ bản thân mình nên làm gì tiếp theo đây[line=3]"`
+\
+Tim tôi đập mạnh với nhịp độ 1.250 lần/phút.
+wave se_05
+`"Ơ?"@`
+` Có phải do dốc hết sức bế cơ thể Hisui suốt một quãng đường dài mà tôi dẫu đã kiệt sức chăng?@ Thể xác tôi đột ngột đổ gục xuống tấm thảm sàn phòng.@`
+`"Hự... [line=3]"@`
+` Xem ra tác động của men rượu rực cháy bấy giờ dẫu dẫu dã chầm chậm ngấm sâu vào đầu óc tôi rồi.@`
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` Bất thình lình, một cơn váng đầu chóng mặt dữ dội ập tới tấn công tôi.@`
+`"…… Thôi... thế nào dẫu sao dẫu vậy dẫu cũng được cả."@`
+` Đằng nào thì bản ngã tôi vốn tịnh không hề có bất kỳ ý đồ đen tối nào với em cả.@`
+` Dẫu cho bản thân có lẳng lặng nằm bò ra sàn nhà ngủ thiếp đi thế này, thiết nghĩ dẫu vậy dẫu sao dẫu vậy dẫu sẽ tịnh không một ai rỗi hơi trách cứ oán hận nổi[line=3]`
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg #ffffff,crossfade,1500
+bg "bg/bg_45c",crossfade,800
+play "*7"
+br
+br
+br
+br
+` [line=3]Cảm giác này dường như… vô cùng quen thuộc sờ sờ.`
+\
+` Một gian phòng thuần phong cách Nhật Bản cổ xưa.@`
+` Một căn phòng tối tăm tịch mịch.`
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Đó quả thực là,`
+` một ký ức vô cùng xa xăm xưa cũ của bản ngã tôi.`
+\
+` Thuở bản thân hãy còn là một đứa trẻ bé nhỏ ngây ngô, vì tịnh không quen sống chung với những con người hoàn toàn xa lạ vừa nhận nuôi mình, tôi dẫu đã tự nhốt mình lẳng lặng cô tịch trong phòng ngủ.@`
+br
+` Tôi chịu chết tịnh không mảy may để tâm tới bất kỳ sự tình gì trên đời, dẫu dẫu d dẫu cũng tuyệt đối tịnh không muốn mở miệng đàm đạo với bất kỳ ai.@`
+` Mãi mãi, mãi mãi lủi thủi độc hành một mình, tôi chỉ khao khát được lẳng lặng vùi mình trong chiếc nôi êm ái của những ký ức ngọt ngào xưa cũ.`
+\
+` Dẫu cho tự ý thức được sâu sắc rằng bản thân tuyệt đối dẫu sao dẫu sẽ chịu chết tịnh không bao giờ được tận hưởng những tháng ngày êm đềm ấy thêm lần nào nữa, tôi dẫu vậy dẫu vậy dẫu vẫn khao khát khôn nguôi.`
+\
+` Cộc cộc, có tiếng gõ cửa nhẹ nhàng vang lên.@`
+`"…… Ai thế?"@`
+`"Tớ đây mà."@`
+` A, người con gái ấy dẫu dẫu dã lại cất bước tới rồi.@`
+` Người con gái sàn sàn bằng tuổi tôi dẫu vậy lại kiên trì lẳng lặng đứng gõ cửa phòng thêm lần nữa.@`
+`"Shiki-chan ơi, ra chơi với tớ đi.@ Cứ ru rú một xó ở đó là người cậu mốc meo ra đấy."@`
+`"Tớ tịnh không muốn đâu.@ Tớ ghét phải đi ra ngoài lắm."@`
+` Khẽ bó gối co ro, tôi lẳng lặng rúc vào góc sâu thẳm nhất của căn phòng tối tăm cô tịch.
+\
+bg "bg/ima_06",crossfade,400
+` ... Cô gái ấy đến mỗi ngày.@
+` Cô ấy luôn gõ cửa, không bao giờ chán nản.@
+` Cô ấy không bao giờ ép tôi ra ngoài, nên cô ấy không mở cửa, nhưng chỉ tiếp tục gọi tên tôi.
+\
+`"Tại sao cô không ra ngoài?"@
+br
+` "Vì không có ai mà tôi biết ở bên ngoài. Mọi người đều ghét tôi ở bên ngoài."@
+br
+`"Đó không phải là sự thật. Mọi người đều muốn được gần gũi với cậu, Shiki-kun."@
+br
+` [line=3]Vâng. Tôi biết điều đó, nhưng tôi không thể tin nó. Vì cha tôi đã ra ngoài...
+\
+br
+br
+br
+br
+br
+` Anh ấy bị xé nát thành từng mảnh.@
+` "... Tôi hiểu rồi. Không ngạc nhiên khi cậu không tin ai cả."
+\
+`"Vâng, đó là lý do tôi sẽ luôn ở đây. Tôi không muốn xảy ra thêm bất cứ điều gì đáng sợ nào nữa.@
+br
+` "Nhưng, cậu sẽ chỉ một mình suốt thời gian. Ở một mình chẳng vui chút nào."@
+br
+`"Ngay cả khi nó không vui, vẫn tốt hơn là không bị sợ hãi.@
+br
+` "... Đó không phải là điều gì thú vị cả. Vậy thì, Shiki-chan, cậu có thể tin tưởng vào tôi được không?"
+\
+`"Đó... đó thực sự không thú vị chút nào. Sau đó, Shiki-chan, cậu có thể tin tôi."@
+br
+` "... Cậu nói tôi có thể tin tưởng vào cậu. Điều đó hơi kỳ lạ. Người ta thường nói, 'Tôi tin cậu' chứ."@
+br
+`"Đừng lo! Shiki-chan, hãy tin tưởng vào tôi và ra ngoài!"@
+br
+` ... Được rồi. Nhưng, tin... Tôi nên tin vào điều gì?
+\
+`"Đơn giản thôi. Ngay cả khi mọi người ghét bỏ bạn, tôi vẫn sẽ thích bạn, Shiki-chan. Vì tôi yêu thích bạn, nên tôi luôn đến và mời bạn chơi."@
+br
+` ... Ngoài trời vui không?@
+br
+`"[line=5]Có! Nó thú vị hơn rất nhiều so với việc ở một mình!"@
+bg #ffffff,crossfade,800
+br
+br
+` [line=4]Và sau đó, tôi ra ngoài.
+\
+br
+br
+br
+br
+br
+br
+` Khi nghĩ lại,
+` [line=4]đó là ký ức đầu tiên của tôi với tư cách là Tohno Shiki.
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+Giai đoạn "bg/bg_30a", l, Hisui, 05a, 5
+bg #ffffff,crossfade,400
+br
+` [line=3]Một ánh sáng chói lóa tràn ngập nhận thức của tôi.@
+` Khi mở mắt ra, ánh sáng buổi sáng xuyên qua cửa sổ.@
+br
+`"... Nn..."@
+` Tôi tỉnh giấc khỏi giấc mơ.@
+` ... Tôi không nhớ rõ lắm, nhưng tôi nhớ mình đã nhìn thấy một giấc mơ mờ nhạt.@
+` Nó rất hoài niệm.@
+` Mùi hương của thảm cỏ [line=3]Đó có phải là điều tôi đang tìm kiếm?
+\
+`"Hừ?"@
+` Điều đó thật kỳ lạ, ngay cả khi tôi đang tỉnh táo, tôi vẫn ngửi thấy một mùi hương dễ chịu.@
+br
+`"[line=3]SHIKI………"@
+` Tôi nghe thấy một giọng nói bên tai.@
+`"...... Ồn ào?"@
+` Nhận thấy có điều gì đó ở bên cạnh mình, đôi mắt đang nửa ngủ của tôi bỗng mở to.
+\
+bg "event/his_e03",lshutter,800
+play "*2"
+`"...... sssssst!"@
+` Tôi vội vã ngăn chặn tiếng hét ngạc nhiên của mình.@
+` Tôi không biết tại sao, nhưng Hisui đang ngủ trên giường tôi.@
+` Và điều đó không chỉ dừng lại ở đó. Cùng lúc đó, khuôn mặt cô ấy đang ngủ thiếp đi hoàn toàn áp vào tôi.
+\
+`"[line=4]Ôi..."@
+` Mặc dù tôi căng thẳng đến mức không thể nói được gì.@
+` Màn buồn ngủ của tôi tan biến trong chớp mắt.@
+`"... Điều gì đang xảy ra vậy?"@
+` Tôi di chuyển chỉ cổ họng, liếc nhìn xung quanh.@
+` ... Không có nghi ngờ nào, đây là phòng của tôi.@
+` Hisui nằm đó, thở nhẹ nhàng.
+\
+`"... Hãy xem lại, hôm qua chúng ta..."@
+` Tôi cố gắng nhớ lại những gì đã xảy ra hôm qua, nhưng điều đó không quan trọng.
+\
+` Hơi thở của Hisui chạm vào ngực tôi.@
+` ... Khuôn mặt bình yên, đang ngủ say của cô ấy.@
+` Hiện tại, chỉ cần được nhìn thấy nó gần như vậy, khiến tôi không còn bận tâm đến bất cứ điều gì khác.
+\
+`"..."@
+` Tôi hoàn toàn bị cuốn hút.@
+` Không phải tôi chưa từng nhận ra điều đó trước đây, nhưng Hisui thực sự rất xinh đẹp.@
+` Không chỉ có khuôn mặt đẹp, mà bầu không khí thanh nhã của cô ấy, tôi không thể không nghĩ rằng nó rất xinh đẹp.@
+`"...Hisui."@
+` Nếu có thể, tôi muốn ở như thế này mãi mãi.@
+` Nhưng điều đó là không thể... Hơn nữa, nếu Hisui không thức dậy sớm, sẽ có nhiều rắc rối.
+\
+`"...Hisui. Này, Hisui."@
+` Tôi gọi, nhưng cô ấy dường như vẫn chưa tỉnh giấc.@
+`"Này, đã sáng rồi. Không phải đã đến lúc thức dậy chưa?"@
+` Tôi nhẹ nhàng lay động Hisui.
+\
+`"Hisui. Wake up, Hisui."@
+`"U...nh."@
+` Các ngón tay của Hisui bắt đầu run rẩy.@
+` Mi mắt Hisui từ từ mở ra, giống như băng tan chảy.
+\
+bg "bg/bg_40a",lshutter,800
+`"...mm."@
+` Cô ấy duỗi tay do dự, dần tỉnh lại.@
+` Cô nhìn xung quanh phòng, chà xát đôi mắt trong vài giây.@
+` Hisui cuối cùng cũng nhận ra cô ấy đang ở trong phòng tôi và tôi đang đứng ngay trước mặt cô ấy.
+\
+`"Kyaaa!"@
+` Hisui nhảy dậy khỏi giường.@
+ld c,"tachi/his_t28",crossfade,400
+`"[line=4]Ồ, Shiki-sama, tại sao tôi lại ở đây?"@
+`"Tôi... Tôi không thể giải thích rõ lắm, nhưng bạn có nhớ về đêm qua không?"@
+`"[line=3]À, về đêm qua à?"@
+cl c,lshutter,800
+` Hisui bắt đầu suy nghĩ.@
+` Và đột nhiên, má Hisui đỏ bừng lên.
+\
+`"Anh nhớ không?"@
+ld c,"tachi/his_t02",lshutter,400
+`"Vâng... Tôi đã gây ra rất nhiều phiền toái cho ngươi, Shiki-sama."@
+` Với đôi má ửng đỏ, Hisui nhìn thẳng vào tôi.@
+`"... Xin lỗi về điều đó. Tôi đến phòng ngươi, nhưng nó bị khóa và tôi không thể vào được."@
+` "Tôi nghĩ ngươi có thể ngủ trong phòng tôi trong khi tôi đi lấy Kohaku-san, nhưng rượu khiến tôi say và bỗng nhiên, tôi ngủ thiếp đi."@
+` "... Vâng, đó chính là những gì tôi nhớ."@
+` "Nhưng điều này kỳ lạ, tối qua tôi chắc chắn...
+\
+`"Đúng vậy, tôi nghĩ rằng tôi đã ngủ trên thảm, nhưng... có lẽ trong đêm tôi đã lên giường."@
+` "À, tôi không có ý định làm gì kỳ quặc với cậu, Hisui! Tôi chỉ vừa thức dậy thôi..."@
+`"... "@
+` Hisui im lặng nhìn tôi.
+\
+`"Tôi... tôi muốn nói là, tôi không có lựa chọn nào khác, Kohaku phải chăm sóc Akiha, và tôi không thể để cậu một mình như vậy... Tôi xin lỗi vì đã giữ cậu lại, và tôi sẵn sàng chấp nhận việc cậu tức giận với tôi vì điều đó!"@
+` Trong lúc cố gắng đáp lại ánh nhìn trực tiếp của Hisui, tôi nỗ lực giải thích tối đa.@
+`"... "@
+` Hisui không trả lời; cô ấy chỉ lướt mắt qua trang phục của mình và gật đầu.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Có vẻ như vậy. Trang phục của tôi không bị chạm vào. Cậu vô tội, Shiki-sama."@
+`"Tốt[line=4]"@
+` Tôi thở dài nhẹ nhõm.@
+ld c,"tachi/his_t26",crossfade,400
+`"Và tôi nghĩ người đã đặt bạn lên giường... chính là tôi. Tôi đã thức dậy một lần giữa đêm và thấy bạn ngủ trên sàn nhà. Tôi không muốn bạn bị cảm, nên tôi nhớ mình đã giúp bạn nằm lên giường."@
+`"Ồ... thật sao?"@
+` Nếu điều đó đúng, thì nó sẽ giải thích tại sao tôi lại ở trên giường, nhưng tại sao Hisui cũng ngủ trên giường?
+\
+ld c,"tachi/his_t22",crossfade,400
+`"... Xin hãy tha thứ cho tôi. Tôi, tôi vẫn còn hơi say, và tôi nghĩ rằng vì có một chiếc giường trước mặt, nên tôi không cần phải quay lại phòng của mình..."@
+` Khổ sở, Hisui giải thích chuyện xảy ra.@
+`"Tôi-Tôi hiểu rồi. Chắc chắn, đó là suy nghĩ khi say rượu. Ha ha."@
+` Tôi bắt đầu cười vì một lý do nào đó.@
+` Nhúng ngượng ngùng, Hisui hạ thấp vai mình.@
+` ... Tại sao lại thế?@
+` Ngay cả khi tôi chỉ ngủ cạnh cô ấy, tôi vẫn quá nhạy cảm với Hisui, khiến tôi không thể nói rõ điều gì.
+\
+`"À, dù sao, hãy giữ bí mật này giữa chúng ta. Nếu Akiha biết được, cô ấy sẽ tức giận, và nếu Kohaku-san biết, cô ấy sẽ trêu chọc chúng tôi không ngừng."@
+ld c,"tachi/his_t04",crossfade,400
+`"[line=3]Vâng. Nếu Shiki-sama đồng ý, điều đó sẽ giúp tôi rất nhiều."@
+`"Đúng vậy, xin lỗi Hisui. Nếu tôi có trách nhiệm hơn, sự việc này chưa bao giờ xảy ra."@
+` Tôi nói lời xin lỗi và cúi đầu trước mặt cô ấy.@
+` Không có gì xảy ra, nhưng đó vẫn là một sự thật rằng tôi đã mang một cô gái về phòng và ngủ bên cạnh cô ấy.@
+` Dù Hisui nói gì đi chăng nữa, tôi cảm thấy mình phải chịu trách nhiệm.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"Không chút nào, đó hoàn toàn là lỗi của tôi."@ Nếu tôi có trách nhiệm hơn, thì bạn sẽ không bao giờ phải lo lắng về điều này, Shiki-sama.@
+`"Không, không sao cả."@ Dù sao, tôi chỉ muốn xin lỗi.@ ... Tôi thực sự cảm thấy nhẹ nhõm hơn nếu bạn nói điều gì đó như 'Shiki-sama là một kẻ ngốc'. Bạn có quyền làm vậy, mặc dù tôi nghĩ bạn sẽ không nói như thế.@
+ld c,"tachi/his_t02",crossfade,400
+`"À... Vâng.@ Loại mệnh lệnh như vậy, chắc chắn sẽ khiến người ta lo lắng."@
+`"Đúng vậy phải không?@ Vậy nên tôi xin lỗi.@ Nếu bạn không chấp nhận lời xin lỗi này, thì tôi sẽ không bao giờ tin tưởng bạn với bất cứ điều gì nữa."
+\
+cl c,lshutter,800
+`"...@
+` Hisui chỉ nhìn tôi, suy nghĩ sâu sắc.@
+`"…… Thật ra Shiki-sama rất vụng về, phải không?" @ Hisui nói với giọng nhẹ nhàng khác thường so với trước đây.@
+` "Vậy thì, tôi sẽ cho rằng lần này là lỗi của Shiki-sama. Tôi sẽ để cậu chuộc lỗi sau này, nên đừng quên." @
+\
+ld c,"tachi/his_t03",lshutter,400
+`"Ồ, Hisu,i?" @
+`"[line=5]Nếu cậu có thể tha thứ cho tôi. Shiki-sama, hãy vội đến phòng khách hoặc cậu sẽ trễ rồi." @
+`"Hisui cúi chào hoàn hảo và rời khỏi phòng.@
+cl c,lshutter,400
+` Hisui cúi chào hoàn hảo rồi rời khỏi phòng.
+\
+`"[line=5]Tôi chỉ còn lại trên giường, miệng mở to và im lặng ngạc nhiên.@
+` @
+`"...Cô ấy mỉm cười."@
+` Trong khoảnh khắc đó, dường như thời gian đã ngừng lại.@
+`"[line=7]"@
+` Không tốt. Thật không tốt chút nào.@
+` Cô ấy chỉ mỉm cười, nhưng tại sao tôi lại sốc đến vậy? [line=3]
+\
+bg #000000,crossfade,800
+bg "bg/bg_34a",lcartain,800
+` Tôi bước vào phòng khách và thấy Hisui đứng đó.@
+` Akiha đã ăn sáng và đang uống trà, còn Kohaku-san thì ở trong bếp.@
+ld c,"tachi/aki_t04a",lshutter,400
+`"Chào buổi sáng, anh trai. Anh dậy rất sớm hôm nay, phải không?"@
+`"Hừm? Ồ, sáng nay có chút rắc rối..." Tôi dừng lại và liếc nhìn mặt Hisui.@
+cl c,lshutter,400
+ld c,"tachi/his_t20",lshutter,800
+!w750
+cl c,lshutter,800
+`"À, tôi chỉ tình cờ thức dậy sớm hôm nay. Nhưng cậu, Akiha, cũng đáng ngưỡng mộ đấy. Thức dậy sớm như vậy khi đã uống say từ hôm qua."
+\
+ld c,"tachi/aki_t21",crossfade,400
+`"Dĩ nhiên rồi. Cậu nên uống có trách nhiệm, cân nhắc cho ngày mai, nên không có lý do gì để ngủ quá nhiều vì điều đó."@
+`"Thật sao? Nhưng cậu đã say xỉn rất nhiều tối qua. Có lẽ cậu có nhiều enzyme phân giải hơn người bình thường, Akiha. Nếu đúng như vậy, tôi hơi ghen tị."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"Anh trai, những thứ này là 'enzyme phân giải' gì vậy?"
+\
+`"À, tôi sẽ nói ngắn gọn. Sau khi rượu vào cơ thể, tôi nghĩ nó biến thành một loại độc tố nào đó. Độc tố đó được gan xử lý bởi các enzyme này, phân giải rượu thành nước."@
+` "Độc tố được các enzyme này phân giải rượu thành nước. Lượng enzyme ở mỗi người khác nhau, và người Nhật có xu hướng có ít hơn những người khác."@
+` "Nên nói cách khác, những người có ít enzyme phải cẩn trọng một chút."@
+` Akiha trông có vẻ ấn tượng.
+\
+ld c,"tachi/aki_t04a",crossfade,400
+`"... Tôi hơi ngạc nhiên. Cậu dường như biết khá nhiều, anh trai ạ."@
+`"Không, không thực sự. Tôi chỉ có một người bạn xấu thích uống rượu nhiều thôi."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"Vậy à? Đêm qua cậu lại không uống nhiều sao?"@
+`"Đúng vậy vì tôi là kiểu người phải kiềm chế. Bạn xấu của tôi đơn giản là uống nhanh nên tôi luôn phải tỉnh táo để chăm sóc cậu ấy."@
+` À, người bạn xấu mà tôi nói đến chính là Arihiko Inui.
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"... Ừm. Tôi không thực sự hiểu, nhưng dường như cuộc sống riêng tư của cậu rất thú vị đấy."@
+`"Làm sao đột nhiên lại hỏi thế? Tại sao cậu lại nhắc đến chuyện này?"@
+ld c,"tachi/aki_t21",crossfade,400
+`"Anh trai, khuôn mặt anh vừa rồi trông rất vui vẻ. Nhưng tối qua thì không."@
+`"[line=3]Ừm..."@
+` "Đúng là tối qua có nhiều bất ngờ hơn là thú vị."
+\
+`"Shiki-san, bữa sáng đã sẵn!"@
+` "Rất kịp thời, giọng Kohaku-san vang lên."@
+`"Ôi, tôi sẽ đến ngay! ... Này, Akiha, tôi phải đi đây."@
+ld c,"tachi/aki_t02",crossfade,400
+`"..."
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_34a",lcartain,800
+` "Sau khi ăn sáng, tôi đến phòng khách và thấy Akiha đã biến mất."@
+`"Hừ...?@ Hisui, Akiha ở đâu vậy?"@
+ld c,"tachi/his_t01",lshutter,400
+`"Akiha-sama đã rời đi học ngay sau khi cậu đến phòng ăn, Shiki-sama."@
+`"Ừm, trường của Akiha khá xa, phải không? ... À, tôi cũng không nên đứng đây nữa."@
+ld c,"tachi/his_t04",crossfade,400
+`"Vâng, tôi sẽ mang túi của cậu ngay lập tức."@
+cl c,lshutter,400
+` Hisui biến mất hướng về sảnh.@
+`"... "@
+` Tôi nhìn theo cô ấy một cách lơ đãng.
+\
+ld c,"tachi/koha_t02",lshutter,400
+`"Hee hee.@ Shiki-san, chuyện gì đã xảy ra đêm qua?"@
+`"Chuyện gì vậy, Kohaku-san?!?"@
+ld c,"tachi/koha_t05",crossfade,400
+`"Ôi trời, tôi thấy má cậu đỏ rồi. Có chuyện gì đó xảy ra à?"@
+`"[line=3]Không, chẳng có chuyện gì cả. Hãy hỏi Hisui."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Thật sao? Nghe có vẻ như cậu và Hisui trở nên thân thiết lắm đấy."@
+cl c,lshutter,400
+` Kohaku nghiêng đầu sang một bên.@
+` "... Tôi trở thành bạn tốt với Hisui? Đó là điều tôi muốn được nghe trực tiếp từ cô ấy."
+\
+ld l,"tachi/his_t01",lshutter,400
+`"Shiki-sama, túi của ngài đã sẵn sàng. Xin hãy chuẩn bị rời khỏi biệt thự vì thời gian của ngài không còn nhiều."@
+`"Ừm, tôi sẽ đến. Chào tạm biệt Kohaku-san, gặp lại tối nay."@
+ld r,"tachi/koha_t03",lshutter,400
+`"Đúng vậy, tôi rất mong chờ điều đó."
+\
+bg #000000,lshutter,400
+bg "bg/bg_32a",lshutter,400
+`"Tôi sẽ quay lại ngay hôm nay, nên tôi sẽ trở lại vào khoảng bốn giờ chiều. À, và ngài không cần phải đợi ở đây."@
+ld c,"tachi/his_t01",lshutter,400
+`"Tôi hiểu rồi. Xin hãy cẩn thận trên đường đi, Shiki-sama."@
+`"Cảm ơn. Tôi sẽ ra đi bây giờ, Hisui."@
+ld c,"tachi/his_t16",crossfade,800
+cl c,lshutter,800
+` Vẫy tay chào Hisui đang cúi đầu, tôi lao xuống con phố.
+\
+bg #000000,crossfade,800
+playstop

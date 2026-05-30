@@ -1,0 +1,59 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` [line=3]Chắc chắn rồi, nếu tôi cứ cố chấp vác cái đầu đau như búa bổ này đi gặp Ciel-senpai, tôi chỉ tổ gây phiền toái cho chị ấy mà thôi.@
+br
+`"…… Đúng vậy nhỉ…… Đêm qua đến giờ tôi còn chưa được chợp mắt nghỉ ngơi chút nào.@ Có lẽ tôi đã hơi quá sức một chút rồi."@
+ld l,"tachi/koha_t03",crossfade,400
+`"Vậy thì xin cậu hãy mau nghỉ ngơi đi ạ.@ Cậu Shiki, cậu có tự đi bộ nổi không?"@
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+`"A[line=3]không."@
+` Hiện tại có vẻ như chuyện đó hoàn toàn bất khả thi đối với tôi.
+\
+ld l,"tachi/koha_t02",crossfade,400
+`"Biết ngay mà, ôi dào Hisui-chan ơi!@ Em mau dìu cậu Shiki về phòng ngủ giúp chị nhé."@
+ld r,"tachi/his_t07",crossfade,400
+`"Ơ[line=3]Nee-san, nhưng mà[line=3]"@
+ld l,"tachi/koha_t04",crossfade,400
+`"Hisui-chan!@ Cậu Shiki đang đau ốm thế kia, em định nhẫn tâm bỏ mặc cậu ấy tự lực cánh sinh thế đấy hả?"@
+`"A[line=4]"@
+`"Hôm nay chị đặc cách cho phép đấy, thế nên em mau đưa cậu ấy về phòng ngủ đi thôi."
+\
+ld r,"tachi/his_t21",crossfade,400
+`"…… Vâng ạ.@ Xin lỗi vì em đã lỡ nói những lời ích kỷ như vậy."@
+ld l,"tachi/koha_t01a",crossfade,400
+`"Em tự hiểu ra là tốt rồi.@ Thế em đã tìm thấy mấy liều thuốc cất sẵn chưa?"@
+ld r,"tachi/his_t23",crossfade,400
+`"…… Dạ, Nee-san cất giữ nhiều loại thuốc quá, liệu đây có phải là liều thuốc hạ sốt hạ nhiệt không ạ?"
+\
+ld l,"tachi/koha_t05",crossfade,400
+`"A ha ha, liều đó dùng cho việc khác cơ.@ Cậu Shiki lúc này vẫn còn tỉnh táo minh mẫn mà, chúng ta không cần dùng đến loại thuốc an thần cưỡng chế đó đâu."@
+ld l,"tachi/koha_t02",crossfade,400
+`"Có vẻ như cơn sốt của cậu ấy bùng phát đơn thuần do kiệt sức mỏi mệt thôi, để tôi chạy đi pha một liều thuốc chuyên dụng khác.@ Hisui-chan, phiền em lo liệu phần còn lại giúp chị nhé."@
+cl l,lshutter,800
+` Nói rồi, Kohaku-san nhanh thoăn thoắt bước đi và mất hút về phía hành lang phía Tây[line=3]hướng căn phòng riêng của chị ấy.
+\
+ld r,"tachi/his_t20",crossfade,400
+`"Cậu chủ Shiki, em xin phép dìu cậu trở về phòng ngủ ạ."@
+` Khẽ nói lời "em xin thất lễ", em ấy nhẹ nhàng ghé vai làm chỗ dựa nâng đỡ cơ thể tôi.@
+cl r,crossfade,400
+br
+` Nhờ có sự dìu dắt ấm áp của Hisui, tôi cuối cùng cũng cố lết được qua các bậc cầu thang cao.@
+` Trên suốt quãng đường đi lên, thay vì cơn đau nhói buốt đầu óc dữ dội hành hạ, gương mặt e thẹn, đỏ bừng cực kỳ ngượng ngùng dễ thương của Hisui mới là thứ in đậm sâu sắc trong tâm trí tôi.
+\
+bg #000000,crossfade,800
+!w2000
+play "*1"
+bg "bg/bg_40c",crossfade,800
+br
+` [line=3]Rốt cuộc, 
+` tôi ngoan ngoãn nằm tĩnh dưỡng trên giường, uống cạn liều thuốc mà Kohaku-san pha chế, rồi nhờ chị ấy chạy đi gửi lời xin lỗi và nhắn lại biến cố này tới Ciel-senpai đang mỏi mòn ngóng đợi trước rạp chiếu phim.@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"………… Hự."@
+` Cơn buốt nhói đau đầu kinh hoàng vẫn tuyệt đối không chịu buông tha.@
+` Nhưng bù lại, như một sự đền đáp công bằng, thân nhiệt nóng ran của tôi có vẻ đã bắt đầu hạ nhiệt nhè nhẹ.
+\

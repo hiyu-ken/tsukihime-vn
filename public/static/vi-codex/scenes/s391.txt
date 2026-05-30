@@ -1,0 +1,163 @@
+[hình nền - 47]
+bg "bg/bg_40a",tshutter,400
+Chơi âm thanh vòng lặp se_02
+Lắc 2,10
+`"[line=7]Ôi!"@
+br
+` Hộc[line=7]!@
+br
+` Tôi cật lực há miệng đớp lấy từng ngụm không khí rát buốt.@
+` Giờ dẫu dã là[line=3]sáng sớm rồi sao…@
+` Đây là phòng của tôi.@
+` Cho đến lúc này, tôi đã ở đây,
+` chính xác như vậy,
+` [line=9]và lẽ ra tôi nên đang ngủ
+\
+bg #9c0120,notrans,0
+bg "bg/bg_31b",notrans,0
+bg "bg/bg_40a",notrans,0
+`"Ahh……"@
+` Trán tôi đau nhói lên từng cơn như búa bổ.@
+`"Chỉ là…… ác mộng sao."@
+` Bản thân dẫu dã vừa trải qua một giấc chiêm bao vô cùng kinh hoàng.@
+` Giấc mơ mà trong đó, chính tôi dẫu dã ra tay tàn sát dã man một người.@
+` Một giấc mộng cuồng loạn nơi bản thân dẫu dã cất lực đạt tới đỉnh điểm của sự hưng phấn tột độ khi tàn sát đồng loại.
+\
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+`"Nóng…… quá……"@
+` Cổ họng tôi bỏng rát lên tựa như đang bốc hỏa.@
+` Toàn thân nặng trĩu tựa như đeo chì, còn đôi bàn tay này dẫu dã…
+` Cái cảm giác bóp gãy cổ họng một sinh mạng dẫu dã vẫn hiển hiện chân thực, lưu lại sâu đậm trên lòng bàn tay.
+\
+`"Không thể..."@
+` Không thể.@
+` Ấy chắc chắn dẫu dã là một giấc mơ.@ Không thể sai lệch vào đâu được, dẫu dã chỉ là một giấc mơ mà thôi.@
+` Thế nhưng, liệu giấc mơ dẫu dã có thể đạt độ chân thực, sống động đến kinh hoàng nhường này sao?@
+` Mọi chi tiết dẫu dã khắc sâu mồn một trong tâm trí tôi.@
+` Con phố giữa đêm đen,
+` Cái cảm giác bẻ gãy cổ họng kẻ khác,
+` Vị máu tanh nồng nhầy nhụa chảy tràn ực ực xuống cuống họng,
+` Gương mặt hoảng loạn tột cùng của người thiếu nữ bị tàn sát dã man lúc đó[line=5]
+\
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+` Nhưng dẫu thế, đó cũng dẫu dã chỉ là mơ.@ Vì tôi đang an toàn nằm tại căn phòng này, tịnh không thể là thực tại được.@
+` Nhưng vấn đề là...
+` Tôi dẫu dã mơ thấy bản thân tìm kiếm khoái cảm rợn người trong việc cất lực sát hại đồng loại.
+\
+bg "bg/ima_08",crossfade,400
+br
+` [line=3]Em và tôi giống nhau, Shiki-kun.@
+!w1000
+bg "bg/bg_25b",crossfade,400
+br
+` Trước mắt tôi, thế giới bắt đầu quay cuồng.@
+bg "bg/ima_13b",crossfade,400
+br
+` [line=3]Một kẻ không thể cưỡng lại được niềm vui từ việc giết chóc.@
+!w1000
+bg "bg/bg_31b",crossfade,400
+br
+` Thế giới như ngừng quay lại.
+\
+bg "bg/bg_40a",notrans,0
+!w1000
+wavestop
+play "*2"
+` "Xin lỗi," Hisui nói khi bước vào phòng.@
+ld c,"tachi/his_t01",lshutter,400
+`"Chào buổi sáng. Có vẻ như ngài Shiki đã thức dậy rồi."@
+`"... À. Chào buổi sáng, Hisui."@
+` Khi Hisui lên tiếng, cơn lốc xoáy tôi mắc kẹt tan biến như một ảo ảnh.@
+` "... Shiki-sama?"
+\
+!w2000
+ld c,"tachi/his_t04",crossfade,400
+`"Ồ, chuyện gì vậy, Hisui?"@
+`"[line=5]@
+`"Sáng nay ngài thấy trong người thế nào ạ?@ Sao ngài tịnh không đáp lời em vậy ạ?"
+\
+`"…… À, xin lỗi em nhé, anh chỉ mải suy nghĩ vẩn vơ chút thôi.@ Anh biết rồi, anh dẫu dã phải đi học nữa.@ Anh sẽ sửa soạn xuống phòng khách ngay, em cất công xuống đó đợi anh trước nhé."@
+ld c,"tachi/his_t07",crossfade,400
+`"Shiki-sama.@ Nếu ngài thấy cơ thể tịnh không khỏe, xin ngài đừng cất lực gượng sức quá ạ.@ Ngọc thể của ngài dẫu dã là trân quý hơn hẳn việc tới trường học mà."
+\
+`"Haha, tịnh không thể đâu Hisui.@ Anh tịnh không thể cúp học vô lý thế được.@ Chuyện tịnh không có gì to tát đâu[line=3]thật đấy.@ Nên em đừng chiều chuộng anh quá thế chứ."@
+ld c,"tachi/his_t01",crossfade,400
+`"Tịnh không được, xin ngài hãy nằm nghỉ ngơi đi ạ.@ Em sẽ cất công báo lại một tiếng cùng Akiha-sama, nên xin ngài hãy tịnh dưỡng đi ạ."@
+` Hisui rất kiên trì một cách bất thường.@
+` …… Gương mặt tôi lúc này dẫu dã tiều tụy xơ xác đến mức ấy sao?@
+`"Hisui này, em dẫu dã lo xa quá rồi.@ Anh thực sự tịnh không sao đâu mà, nên em đừng bận lòng quá nhé… Anh đi rửa mặt một cái đã, em xuống phòng khách chờ anh chút đi."
+\
+cl c,lshutter,400
+` Bước xuống giường, tôi cất bước lướt qua Hisui, người dường như vẫn còn cất lực muốn khuyên nhủ thêm điều gì đó.@
+ld c,"tachi/his_t07",lshutter,400
+` Khi rời phòng,
+` Nhìn ánh mắt Hisui ánh lên nỗi bất an bồn chồn khôn nguôi dõi theo mình, cõi lòng tôi chợt nhói đau khẽ.
+\
+bg #000000,crossfade,800
+` Tôi nhìn vào gương trong phòng tắm.@
+`"…… Trông sắc mặt mình tịnh không hề có vẻ đau ốm bĩ cực gì cả.@ Sao Hisui lại cất công lo lắng đến mức ấy chứ?"@
+` Tôi đổ nước lạnh lên mặt.@
+br
+` [line=3]Chỉ nghĩ về giấc mơ tôi vừa thấy đêm qua đã khiến tôi muốn nôn mửa và không đi học.@
+br
+` Thế nhưng, nếu vì chuyện ấy mà chùn bước nghỉ học ở nhà, chẳng khác nào tự mình thừa nhận điềm báo nghiệt ngã kia là thật, điều ấy càng làm tôi bất an khôn nguôi.
+\
+bg #000000,crossfade,800
+bg "bg/bg_34a",lcartain,800
+` Akiha và Kohaku-san đang ở trong phòng khách, còn Hisui đứng gần đó.@
+` Như thường lệ, tôi là người cuối cùng bước vào phòng.
+\
+ld l,"tachi/koha_t01a",lshutter,400
+`"Ồ, buổi sáng tốt lành, Shiki-san."@
+ld r,"tachi/aki_t15a",lshutter,400
+`"Không thể nào! Chưa đến sáu rưỡi thôi!"@
+` Kohaku-san mỉm cười nhẹ nhàng hướng về tôi trong khi Akiha đứng dậy khỏi chiếc ghế sofa và nhìn tôi ngạc nhiên.
+\
+`"Buổi sáng tốt lành, Kohaku-san, à, và Akiha cũng vậy."@
+ld r,"tachi/aki_t21",crossfade,400
+`"Ý… Ý anh là sao khi bảo 'Akiha cũng vậy' thế hử Nii-san?"@
+`"Thì 'Akiha cũng vậy' tức dẫu dã là 'Akiha cũng vậy' thôi.@ Lời chào ấy quá đỗi thích hợp dành tặng cho cô em gái suốt ngày cằn nhằn cất lực bắt anh trai dậy sớm, để rồi hôm nay tròn xoe mắt kinh ngạc khi thấy anh cất công dậy sớm thế này."@
+ld r,"tachi/aki_t03a",crossfade,400
+`"[line=4]Tôi thấy rồi. Anh trai, anh thức dậy sớm một lần và giờ đây anh đi dạo xung quanh với cái đầu ngẩng cao."@
+`"Ngẩng cao đầu ư, Akiha[line=3]"
+\
+br
+br
+br
+br
+` Đầu.@ Cổ.@
+` Cổ họng……?@
+` Mọi cảm giác chân thực đầy máu me trong giấc mơ đột ngột dội về khiến tôi buồn nôn ghê cổ.
+\
+`"…… Xin lỗi chị nhé Kohaku-san.@ Phiền chị cất công lấy giùm tôi thứ gì đó thật mát lạnh để uống trước bữa ăn được không ạ?"@
+ld l,"tachi/koha_t02",crossfade,400
+`"Ờm... Tôi muốn nước ngọt xin."@
+`"(Dòng cuối không cần dịch vì là phản ứng của Kohaku.)@
+`"Đang đến ngay."@
+cl l,lshutter,800
+` Kohaku-san biến mất hướng về nhà bếp.
+\
+ld r,"tachi/aki_t01a",crossfade,400
+`"…… Nii-san?@ Hôm nay anh tịnh không cự cãi lại em.@ Anh thực sự không sao chứ?"@
+`"…… Ôi dào.@ Từ em cho tới Hisui, rốt cuộc mọi người coi anh là cái gì thế hả?@ Chỉ dẫu dã là anh dậy sớm chút nên cổ họng hơi khô thôi, tịnh không có gì bất ổn cả đâu…!"@
+` Tôi cố kìm nén cơn buồn nôn, gào lên.
+\
+ld r,"tachi/aki_t12a",crossfade,400
+`"…… Em xin lỗi, Nii-san.@ Nhưng rõ ràng sắc mặt anh có điều gì bất ổn lắm, em chỉ cất công muốn chia sẻ cùng anh thôi…"@
+`"[line=3]Không, không phải thế. Việc anh lo lắng cho tôi khiến tôi rất vui. Tôi chỉ có một giấc mơ xấu khủng khiếp đêm qua và tâm trí tôi đang ở nơi khác, thôi mà."@
+` "…… Xin lỗi, Akiha. Tôi là người nên xin lỗi."@
+cl r,lshutter,400
+` Tôi ngồi xuống trên chiếc sofa.@
+` Tôi biết có điều gì đó không ổn với tôi, nhưng tôi không thể làm gì được.
+\
+ld c,"tachi/aki_t12a",lshutter,400
+`Nii-san, rốt cuộc có chuyện gì đang đè nặng lên tâm trí anh sao?@ Nếu có bất kỳ điều gì tịnh không quen khi sinh hoạt tại biệt thự này, xin anh cứ cất công thổ lộ cùng em, em tin chắc mình dẫu dã có thể giúp đỡ được anh phần nào…"@
+`"[line=3]Không, không phải tôi chưa quen sống ở đây."@
+cl c,lshutter,800
+` Đúng vậy.@
+` Có lẽ nếu tôi hỏi cô ấy một cách gián tiếp, nó có thể giúp tôi cảm thấy tốt hơn.@
+br
+` Tôi quyết định rằng [line=3]
+\

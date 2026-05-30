@@ -1,0 +1,118 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Cứ ngồi thui thủi một chỗ thế này cũng chẳng giải quyết được gì.@
+br
+` Hơn nữa, sức khỏe tôi hiện tại cũng chẳng tốt lành gì, nếu không ăn chút gì đó thì tôi sẽ quỵ xuống mất.@
+`"Có lẽ mình nên đến nhà ăn."@
+` Tự lẩm bẩm một mình, tôi đứng dậy khỏi bàn học.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Giờ cao điểm chắc đã qua rồi vì không thấy ai xếp hàng cả.@
+` Hầu hết các bàn ăn đều đã chật kín những học sinh đang dùng bữa.@
+` Tôi đảo mắt nhìn quanh phòng để xem còn chỗ trống nào không.@
+br
+` [line=3]Và rồi,
+ld c,"tachi/cel_t01a",crossfade,400
+cl c,crossfade,400
+br
+` …… Tôi bắt gặp một dáng hình trông rất giống Senpai.
+\
+`"[line=4]*Haha*."@
+` Tôi bật cười thành tiếng.@
+` Nhầm người khác thành Ciel-senpai chỉ vì một chút nét tương đồng… tôi thực sự kiệt quệ rồi.
+\
+` Dẫu biết bản thân đang quá mệt mỏi, tôi vẫn không thể dời mắt khỏi người con gái có diện mạo giống chị ấy kia.@
+` Người giống chị ấy đang ngồi bên bàn ăn, xì xụp húp mì udon ngon lành.@
+` Lại còn là mì udon cà ri nữa chứ.@
+` Đến cả món ăn cũng y hệt thứ mà Senpai thường chọn.@
+br
+`"[line=6]Ồ."@
+br
+` Hóa ra, đó chính là Senpai.
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+play "*3"
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=4]Senpai!"@
+` Tôi dùng hết sức bình sinh lao thẳng về phía Senpai.@
+`"[line=7]"@
+cl c,crossfade,400
+` Senpai ngước nhìn tôi, rồi vội vàng ngoảnh mặt đi chỗ khác.@
+` Chị ấy rõ ràng là đang né tránh tôi.@
+` Nhưng điều đó chẳng còn quan trọng nữa.
+\
+`"Senpai, sao chị lại ở đây……!"@
+` Tôi buột miệng thốt ra câu đó vì đầu óc chẳng thể nghĩ được điều gì khác để nói.@
+ld c,"tachi/cel_t12",crossfade,400
+`"Sao tôi lại ở đây ư?@ Tôi là học sinh ở trường này mà cậu biết đấy.@ Nếu không ăn trưa thì tôi sẽ ngất xỉu mất thôi."@
+`"Không, ý em không phải thế, nhưng mà[line=3]"@
+cl c,crossfade,400
+` Tôi chẳng biết phải nói gì tiếp theo nữa.@ Đầu óc tôi hoàn toàn đình trệ rồi.@
+` Chị ấy ngoảnh mặt đi, vẻ mặt như muốn phân bua.
+\
+`"Tôi lại thấy việc cậu ở đây mới là lạ đấy.@ Mới hôm qua cậu còn nói lời tạm biệt cơ mà, nên tôi cứ nghĩ sẽ không bao giờ gặp lại cậu nữa chứ[line=3]"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Vâng, vì lúc đó trời đã muộn rồi.@ Học sinh thì nên đi về nhà vào giờ đó chứ, phải không?"@
+` Thật đơn giản.@
+` Với vẻ mặt tỉnh bơ, chị ấy thản nhiên buông ra câu trả lời vô lý đùng đoàng ấy.
+\
+`"Cá[line=3]"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Hay là, Tohno-kun, cậu đang muốn bảo một người như tôi thì không nên đến trường hả?"@
+` Đôi mắt chị ấy, thứ vốn hoàn toàn trống rỗng không chút cảm xúc vào ngày hôm qua, giờ đây đang nhìn thẳng vào mắt tôi.@
+br
+` …… Một người như tôi?@ Chị ấy đã nói như thế đấy.@
+` Tôi chẳng rõ chị ấy có thực sự là ma cà rồng hay không nữa.@
+` Thế nhưng vết thương chí mạng kia lại lành nhanh đến thế, nên chắc chắn chị ấy phải là một tồn tại vượt lên trên con người bình thường, giống như Arcueid.@
+` Người thường làm sao có thể làm được như thế.
+\
+` Nhưng dẫu vậy đi chăng nữa.@
+` Đối với tôi, chị ấy vẫn là một người vô cùng trân quý.@
+` Tôi vẫn chưa rõ chính xác bản thân đang dành thứ tình cảm gì cho chị ấy nữa.@
+` Nhưng chỉ mới nửa ngày trôi qua.@ Mới chỉ vỏn vẹn nửa ngày, mà ý nghĩ chị ấy không còn tồn tại trong thế giới của mình nữa đã khiến tôi cảm thấy thực tại này chẳng còn gì đáng để bận tâm.@
+` Thế nên[line=3]với tôi, chị ấy là người tôi tuyệt đối không thể đánh mất.
+\
+`"…… Senpai, em[line=3]"@
+` Nếu nói ra tất cả thì sẽ là nói dối, nhưng tôi chẳng quan tâm nữa.@
+` Cho dù chị ấy có giống như Arcueid đi nữa, thì Senpai vẫn cứ là Senpai.@ Đó là chân lý tuyệt đối mà tôi luôn tin tưởng.@
+` Phải rồi, tôi nên nói ra những lời mà đêm qua mình đã không thể thốt nên câu.@
+br
+` Thế nhưng, trước khi tôi kịp nói…
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Được rồi.@ Tôi cũng chẳng biết làm thế nào nếu cậu ghét tôi đâu, Tohno-kun.@ Nhưng đây là cuộc sống thường nhật của tôi, nên bất kể cậu có nói gì đi nữa, tôi cũng đã quyết định sẽ làm theo ý mình."@
+br
+` Chị ấy nói một cách thẳng thắn.@
+` "Cậu chẳng có gì để phàn nàn nữa, đúng chứ?" Senpai nói rồi đăm đăm nhìn tôi.
+\
+`"………… Hả?"@
+` Tất nhiên là tôi chẳng có gì để phàn nàn rồi.@
+` Tôi cảm thấy mình thật ngốc nghếch khi cứ lo lắng mông lung nhiều đến thế.@ Toàn thân tôi như trút bỏ được gánh nặng, bủn rủn cả đi.@
+` Nhưng hơn cả thế, tôi không thể ngăn trái tim mình dâng trào niềm hạnh phúc tột cùng.@
+`"…… Vâng, tất nhiên là em chẳng có gì phàn nàn rồi.@ Bởi vì từ trước đến nay, em cũng toàn phớt lờ mọi lời cảnh báo của chị để làm theo ý mình đấy thôi, Senpai."
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Chấp nhận được.@ Vậy thì, ta bắt tay nhau nhé."@
+` Chị ấy chủ động chìa tay ra.@
+` Tôi chẳng rõ chị ấy đang nghĩ ngợi điều gì, nhưng tôi vẫn đưa tay nắm lấy bàn tay đang chìa ra ấy.@
+br
+` Senpai lắc mạnh tay tôi lên xuống đầy vui vẻ.
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Được rồi, đây là minh chứng cho việc chúng ta đã làm hòa nhé.@ Từ giờ cứ giữ thế này nhé, được không Tohno-kun?"@
+` Chị ấy nở một nụ cười rạng rỡ, ngập trạng hạnh phúc chân thành.@
+cl c,lshutter,1500
+` Nói đoạn, chị ấy đứng dậy, bê khay thức ăn của mình rồi rảo bước rời đi.@
+br
+` …… Tôi chẳng biết chị ấy đi đâu, nhưng trông có vẻ là đang hướng tới một nơi cụ thể nào đó.
+\
+`"A[line=4]"@
+` Sau khi cất khay đĩa đúng nơi quy định, chị ấy bước chân ra khỏi nhà ăn.@
+` …… Như thế là tốt rồi.@
+` Tôi rất hạnh phúc khi chị ấy vẫn đến trường học và hai chúng tôi đã làm hòa với nhau, thế nhưng[line=3]liệu tôi có thể buông bỏ mọi chuyện liên quan đến Arcueid, cùng con ma cà rồng mà chúng tôi đang truy lùng không?
+\
+playstop

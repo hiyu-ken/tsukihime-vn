@@ -1,0 +1,23 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` “À, đúng rồi đấy. Bây giờ lâu đài của chúng ta ra sao, Akiha?”`@
+ld c,"tachi/aki_t01a",crossfade,400
+` “Cậu có nghĩa là gì? Nếu cậu đang nói về việc sở hữu biệt thự này, tôi sẽ thừa kế nó.”`@
+` "Không phải thế đâu. Chỉ có chúng ta ở trong biệt thự này thôi, đúng không? Tôi, cậu, Kohaku và Hisui."@
+` Tôi thắc mắc phòng này được dùng để làm gì, vân vân...
+\
+ld c,"tachi/aki_t04a",crossfade,400
+` Không có gì. Nói chung, tất cả các phòng trừ những phòng chúng ta đang sử dụng đều bị khóa.@
+` Phòng của cậu ở phía sau tầng hai của cánh tây, còn phòng của tôi ở cánh đông.@
+` Phòng Hisui ngay trước cầu thang ở cánh tây, tầng hai, còn phòng Kohaku ngay trước cánh tây, tầng một.@
+` Phòng cha ở cạnh phòng Kohaku. Cái đó hiện vẫn mở.@
+` Bên lề, phòng khách là lối rẽ phải đầu tiên từ sảnh.@ Theo cách nói của Akiha thì nó giống như 'ngay trước sảnh ở tầng một của cánh đông'.@
+\
+` Phòng chơi và các phòng khách kế bên phòng khách bị đóng, nhưng tôi sẽ mở chúng nếu cậu quyết định mang bạn bè đến đây.@
+` Thư viện… à, có một số tin đồn xấu về nó, vì vậy hiện tại nó là khu vực cấm.@
+cl c,crossfade,400
+` Tôi hiểu. Được rồi, rõ ràng rồi.@
+` Tôi có cảm giác nghi ngờ kỳ lạ về những 'thư viện bị cấm' đó, nhưng hiện tại chúng hoàn toàn không liên quan đến tôi.@
+\

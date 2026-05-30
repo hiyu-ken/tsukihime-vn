@@ -1,0 +1,58 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+` [line=4]Tôi quyết định đi kiểm tra con hẻm nơi cô ấy từng trú ngụ đêm qua.@
+` Nếu cô ấy thực sự đang chạy trốn khỏi tất cả mọi người, đó là nơi duy nhất tôi có thể nghĩ tới.
+\
+bg "bg/bg_30b",lcartain,800
+` Tôi vẫn hoàn toàn không thể làm chủ được nhịp thở dồn dập của mình.@
+` Tôi đã dùng hết sức bình sinh để chạy thục mạng từ công viên đến đây.@
+` Trái tim tôi như gào thét vì quá sức.@
+` Phớt lờ cơn đau nhói ở lồng ngực, tôi tiếp tục chạy để tìm cô ấy càng sớm càng tốt.
+\
+bg "bg/bg_31b",lcartain,800
+`"[line=4]Arcueid!"@
+` Ngay khi vừa đặt chân tới con hẻm tối, tôi liền gọi lớn tên cô ấy.@
+`"Cậu đang ở đây đúng không? Hãy ra đi, Arcueid...!"@
+` Dưới ánh trăng mờ ảo, tiếng gọi cô độc của tôi vang vọng rồi chìm nghỉm giữa ngõ hẻm vắng tanh.@
+`"... Arcueid...! Hãy ra đi mà...!"
+\
+br
+br
+br
+br
+br
+` ... Vẫn không hề có tiếng trả lời.@
+` Chỉ có sự trống rỗng và nỗi cô đơn vô tận bao trùm lấy không gian.
+\
+`"Chết tiệt..."@
+` Arcueid không có ở đây.@
+` Vậy thì cô ấy có thể đi đâu được chứ?@
+br
+` Cứ chạy loạn vô định thế này thì làm sao tìm thấy cô ấy được.@
+` [line=4]Cứ đà này, tôi sẽ vĩnh viễn không bao giờ có thể gặp lại cô ấy nữa mất.
+\
+`"[line=6]..."@
+` Không, tôi vẫn chưa thể bỏ cuộc được.@
+` Tôi vẫn chưa thực hiện trọn vẹn lời hứa với Arcueid.@
+br
+` Lời hứa sẽ cùng cô ấy đánh bại ma cà rồng, và lời hứa sẽ gặp mặt tối nay để chúng tôi sát cánh chiến đấu bên nhau.
+\
+`"... Lời... hứa... "@
+` Đúng vậy. Chúng tôi vẫn còn lời hứa hẹn.@
+` [line=4]Dẫu chỉ có một mình, tôi vẫn sẽ đơn độc thực hiện lời hứa của chúng tôi.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+` Tôi quay trở lại công viên.@
+` Lời hứa của chúng tôi vẫn luôn ở nơi này.@
+` Lời hẹn ước chưa thành của đêm nay vẫn đang chờ đợi.@
+br
+` [line=4]Chính vì thế,
+` Nếu tôi kiên quyết giữ trọn lời hứa này, và nếu cô ấy cũng coi trọng nó...
+br
+` Arcueid chắc chắn sẽ quay trở lại đây.@
+` Tôi chỉ còn biết tiếp tục tin tưởng vào cô ấy và đứng đây chờ đợi.
+\
+bg #000000,crossfade,1500

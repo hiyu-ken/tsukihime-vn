@@ -1,0 +1,322 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",lcartain,400
+play "*9"
+` Có lẽ là do hàng loạt vụ giết người gần đây, dù mới mười giờ đêm nhưng trong công viên không một bóng người.@
+` Khoảng không đêm tối trống trải tĩnh mịch bao trùm không gian.@
+` Tại đó, một bóng dáng khoác áo trắng đang lặng lẽ đứng đợi.
+\
+ld c,"tachi/ark_t16",lshutter,400
+`"Shiki!"@
+` Ngay khi vừa trông thấy tôi, Arcueid liền giận dữ quát lên.@
+`"Này, cậu có biết bây giờ là mấy giờ rồi không?@ Cậu đến muộn những hai mươi phút đấy!"@
+`"…………"@
+` Có vẻ như cô ấy đã đến đây vô cùng đúng giờ.
+\
+`"Ừm, xin lỗi nhé.@ Tôi đã xuất phát từ trước mười giờ rồi, nhưng trốn ra khỏi biệt thự mà không để Akiha phát hiện thì mất chút thời gian.@
+` Lần tới tôi nhất định sẽ đến đúng giờ, cậu bỏ qua cho tôi nhé."@
+ld c,"tachi/ark_t04",crossfade,400
+`"[line=3]Thật là.@ Cậu chẳng có chút tự giác nào của một người sắp đi săn ma cà rồng cả."@
+` Arcueid dẩu môi phụng phịu.@
+` Đừng nói là cô ấy đã đứng đợi ở đây từ rất lâu trước giờ hẹn đấy nhé?
+\
+`"Arcueid này.@ Cậu đã đứng đợi tôi từ lúc mấy giờ thế?"@
+`"Tôi hả?@ Tôi đến đây ngay sau khi thức dậy, nên là[line=4]"@
+` "Ừm...", Arcueid nghiêng đầu suy nghĩ.@
+ld c,"tachi/ark_t03",crossfade,400
+`"[line=4]Chắc là từ khoảng bảy giờ tối."@
+`"Từ bảy giờ á?@ Cậu đã đứng đợi ở đây hơn ba tiếng đồng hồ rồi sao?"@
+` Không biết đầu óc cô ấy nghĩ gì mà lại đi đến sớm tận ba tiếng đồng hồ như vậy chứ.
+\
+`"Hình như tôi hơi kỳ lạ thì phải."@
+` Gương mặt đầy vẻ hoang mang, Arcueid khẽ lẩm bẩm một mình.@
+`"[line=3]Thì đúng là một phần lỗi ở tôi vì đã đi muộn, nhưng bản thân cậu cũng có vấn đề mà đúng không?@ Nếu đi đến trước giờ hẹn lâu như thế, thì dĩ nhiên là phải đứng đợi rồi."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Này[line=3]chuyện đó hoàn toàn khác nhau nhé.@ Việc cậu đi muộn vẫn là sự thật rành rành ra đấy."@
+`"…… Thì đúng là vậy.@ Nhưng mà, tại sao cậu lại đứng đợi tận ba tiếng?@ Nếu có nhiều thời gian rảnh như thế, sao cậu không quay lại phòng mình nghỉ ngơi cho khỏe?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Tôi…… cũng chẳng biết tại sao nữa.@ Chỉ là cảm thấy việc đứng đợi cậu ở đây cũng rất vui, và trong lúc mải nghĩ ngợi như vậy thì trời đã mười giờ mất rồi."@
+`"?@ Vui á?@ Tại sao lại vui?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Ai mà biết được chứ.@ Chẳng phải tôi đã bảo chính mình cũng không hiểu nổi sao?@ …… Có lẽ là vì cậu đã giết tôi.@ Vào lúc đó, một thứ gì đó bên trong tôi đã vỡ vụn mà không cách nào chữa lành được nữa.@ Chính tôi cũng thấy thật kỳ lạ, nhưng tôi không thể hiểu nổi cái gì đã bị hỏng bên trong mình."
+\
+`"………… Ừm."@
+` Nghe cô ấy nói vậy làm tôi thấy vô cùng bối rối.@
+` Đã trót chém người ta ra làm mười bảy mảnh rồi, giờ nghe cô ấy bảo có gì đó bị hỏng bên trong, tôi cũng chỉ biết câm nín cúi đầu xin lỗi mà thôi.
+\
+`"[line=3]Thôi bỏ đi.@ Chúng ta không có nhiều thời gian đâu, không thể lãng phí thì giờ nói những chuyện vô ích được, Shiki."@
+` Một câu nói làm tôi nhẹ cả người.@
+ld c,"tachi/ark_t06",crossfade,400
+`"Nhưng mà, nếu lần sau cậu còn đi muộn nữa, tôi sẽ tự ý đến tận nhà để đón cậu đi đấy.@ Cậu là người thất hứa nên không có quyền phàn nàn gì đâu nhé?"
+\
+`"Cậu[line=3]không đời nào!@ Tôi nhất định sẽ đúng giờ, nhưng những sự cố ngoài ý muốn như hôm nay thì lúc nào chẳng có thể xảy ra.@ Nếu tôi có đi muộn, đó là điều cuối cùng cậu nên làm đấy!@
+` Nghe này, dù có nhầm lẫn thế nào đi nữa cũng tuyệt đối không được bén mảng đến nhà tôi đâu đấy.@ [line=2]Hơn nữa, Akiha hoàn toàn không biết gì về chuyện này cả, xin cậu đừng làm mọi chuyện rối tung lên!"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hửm?@ …… Akiha?@ Cô em gái trông chẳng có nét nào giống cậu ấy hả?"@
+`"Nói thế thì hơi quá, nhưng mà đúng rồi đấy."
+\
+`"Ra vậy.@ Cậu sợ em gái mình đến thế cơ à?"@
+`"[line=3]Im đi.@ Tôi chỉ không muốn làm em ấy phải lo lắng thôi.@ …… Nói cho cùng thì tôi chỉ đang ăn bám ở đó, nên tôi không muốn làm em ấy phải mệt mỏi thêm vì mình nữa."@
+`"Hửm.@ Cậu thực sự rất dịu dàng với em gái mình nhỉ, Shiki."@
+`"Bản tính của tôi là tốt bụng với tất cả mọi người mà.@ Cơ mà dạo gần đây thì có một ngoại lệ."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Aha, ngoại lệ đó chính là tôi chứ gì!"
+\
+`"…… Cậu lúc nào cũng ngốc nghếch thật.@ Đó là một lời cằn nhằn chứ có phải khen ngợi gì đâu."@
+`"Không sao đâu chứ.@ Đối với cậu, tôi là một ngoại lệ cơ mà đúng không?@ Làm sao tôi có thể không vui vì điều đó cho được?"@
+` Cô ấy lại nở nụ cười.@
+` Một nụ cười thuần khiết, rạng rỡ và vô tư như một đứa trẻ.@
+br
+`"………"@
+` Cứ nhìn chằm chằm vào nụ cười ấy mãi, tôi e là mình sẽ chẳng còn giữ nổi chút gai góc nào nữa mất.
+\
+`"[line=3]Tự nhiên tôi thấy mệt ngang luôn á.@
+` Đi tìm kẻ hút máu thôi nào, Arcueid."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ừm, cũng đến lúc rồi.@ Vậy chúng ta bắt đầu đi tuần quanh thị trấn thôi[line=3]"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Shiki này.@ Tôi muốn cậu tháo kính mắt ra, cậu thấy thế nào?"@
+`"Tháo kính ra á?@ …… Để làm gì?"
+\
+`"Nếu chỉ có một mình tôi thì rất khó để phát hiện ra hắn.@
+` Tôi có thể cảm nhận được sự hiện diện của con người và những kẻ phi nhân, nhưng điều đó không giúp ích nhiều cho việc định vị chính xác kẻ hút máu.@
+` Tôi chỉ cảm nhận được khí tức thôi, nhưng với đôi mắt của cậu, cậu có thể nhanh chóng phân biệt vật sống và vật chết.@ Có thứ như vậy mà không dùng thì phí quá, đúng không?"@
+br
+`"[line=5]"@
+` …… Quả thực những lời cô ấy nói rất có lý.@
+` Nhưng mà, việc tháo kính ra đối với tôi nghĩa là[line=3]
+\
+`"Tôi biết chứ.@ Ngay cả tôi cũng cảm nhận được đôi mắt của cậu đang ngày một mạnh lên trong những ngày qua.@ Và nếu cậu cứ tiếp tục lạm dụng nó, điều đó có thể không tốt cho sức khỏe của cậu đâu.@
+` Dù biết thế nhưng tôi vẫn đưa ra đề nghị này.@ Tuy nhiên, quyền lựa chọn vẫn nằm ở cậu, tôi sẽ không ép buộc cậu đâu.@ Nếu cậu thấy không sao, hãy tháo kính ra và đi theo tôi nhé."@
+cl c,crossfade,400
+\
+` …… Tháo kính ra và đi bộ quanh thị trấn sao?@
+` Kể từ khi nhận được chiếc kính này tám năm trước, tôi chưa bao giờ làm điều đó.@
+` Huống hồ, những thứ tôi nhìn thấy khi không đeo kính luôn gây ra những cơn đau đầu kinh hoàng, chỉ cần tưởng tượng việc đi lại giữa phố xá đông đúc thôi cũng đủ làm tôi rùng mình rồi.@
+br
+` Thế nhưng.@
+` Giống như Arcueid vẫn kiên cường tiến bước dù vết thương chí mạng trên người vẫn chưa hề lành lặn, Tohno Shiki cũng nên làm gì đó để đền đáp lại ơn nghĩa này[line=4]
+\
+`"Arcueid, tôi[line=3]"@
+br
+` [line=3]Không sao đâu, chỉ là một cơn đau đầu thôi mà?@
+` So với nỗi đau đớn mà cơ thể cô ấy đang phải chịu đựng, chút khó chịu này có là gì chứ.@
+br
+`"Được rồi, tôi sẽ tháo kính ra.@ Chút giá phải trả này chẳng thấm vào đâu nếu nó giúp việc tìm kiếm của chúng ta dễ dàng hơn."
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"[line=3]Tôi biết mà.@ Vậy đi thôi, Shiki."@
+cl c,lshutter,800
+` Arcueid quay lại và bắt đầu đi bộ.@
+` Tôi tháo chiếc kính cản ma nhãn ra rồi bước theo sau cô ấy.
+\
+bg #000000,crossfade,800
+monocro #ff00ff
+bg "bg/bg_26a",crossfade,800
+` …… Tôi lặng lẽ bước theo sau Arcueid.@
+` Kể từ sau đợt nằm viện năm đó, tôi chưa từng bước đi trong một thế giới tràn ngập những đường nét đứt gãy như thế này.@
+br
+`"[line=4]"@
+br
+` Thật kỳ lạ, tôi không hề bị đau đầu.@
+` Có vẻ như việc chỉ nhìn thấy chúng không trực tiếp gây ra cơn đau.@
+` Không phải những đường nét đứt gãy mảnh mai trên các tòa nhà, mà chính việc nhìn thấy các "đường tử vong" chằng chịt trên người những người qua đường mới là thứ khiến tôi thấy ghê tởm nhất.@
+\
+` Trước đây, tôi chỉ nghĩ đơn giản chúng là những đường chỉ giúp mình dễ dàng chém đứt mọi thứ.@
+` Nhưng giờ đây tôi đã hiểu, chúng chính là sự "chết chóc" hiện hữu của vạn vật.@
+` Đó là lý do tại sao cảm giác đầu tiên xâm chiếm lấy tôi là sự ghê tởm.@
+` Không phải vì những cơ thể người bị vẽ nguệch ngoạc những đường nét kia trông đáng sợ,@
+` mà chính việc tận mắt chứng kiến[line=3]rằng con người là một sự tồn tại mỏng manh và cận kề cái chết đến thế mới là thứ khiến tôi muốn nôn mửa.
+\
+bg #000000,lcartain,800
+` [... Chúng tôi bước đi trên những con phố đêm.]@
+` Arcueid không nói lời nào, cô ấy chỉ tiếp tục tiến bước một cách kiên định.@
+br
+` Chúng tôi đã đi bộ nhiều giờ liền giữa lòng thành phố.@
+` Cuối cùng, chúng tôi không phát hiện ra bất kỳ sự bất thường nào, cũng chẳng có bóng dáng của ai bị bao trùm bởi "cái chết".
+\
+monocro off
+playstop
+bg "bg/bg_29c",lcartain,800
+ld c,"tachi/ark_t04",crossfade,400
+`"Shiki, cậu có thể đeo kính lại rồi đấy.@ Xem ra đêm nay dù có tìm kiếm thêm nữa thì cũng vô ích thôi."@
+` Arcueid thở dài một tiếng thất vọng.@
+bg "bg/bg_29b",crossfade,400
+play "*1"
+` Tôi đeo chiếc kính trở lại.@
+` Tầm nhìn trở lại bình thường và tôi có thể thở phào nhẹ nhõm.
+\
+`"Vô ích sao?@ Liệu quyết định như thế có vội vàng quá không?@ Chúng ta mới chỉ đi tuần qua các khu vực một lần thôi mà?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Không cần đâu, chỉ một lần là đủ rồi.@ Khí tức của những Tử Giả thường có xu hướng lưu lại rất lâu quanh khu vực hoạt động.@ Tôi hoàn toàn không cảm nhận được chút tàn tích nào, nghĩa là đêm nay không có kẻ nào hành động cả."
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Tên đối thủ kia chắc chắn đang cảnh giác cao độ sau khi phần lớn Tử Giả thuộc hạ của hắn bị tiêu diệt.@
+` Thật tình, hắn đúng là một kẻ hèn nhát.@ Tôi đã chuẩn bị tinh thần để kết liễu tất cả trong đêm nay, thế mà hắn vẫn muốn tiếp tục chơi trò trốn tìm."@
+` Arcueid ấm ức cắn môi.@
+`"Trông cậu có vẻ khó chịu quá nhỉ, Arcueid."@
+`"Dĩ nhiên là khó chịu rồi.@ Cậu đã cất công tháo kính ra để giúp tôi, thế mà cuối cùng lại chẳng thu được kết quả gì."
+\
+`"[line=2]Thôi nào, tôi có bận tâm gì đâu chứ.@ Nếu cậu thấy chưa cam lòng, tôi không ngại cùng cậu đi tìm thêm lần nữa đâu.@ Biết đâu nếu tôi tập trung hơn thì sẽ phát hiện ra manh mối gì đó."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Không được đâu.@ Tôi không thể bắt cậu phải chịu đựng thêm nữa."@
+`"Chịu đựng sao?@ Tôi thấy mình vẫn hoàn toàn bình thường mà."@
+`"Cậu đang cố quá đấy.@ Cậu có thể không tự nhận ra, nhưng nếu cứ tiếp tục lạm dụng và vắt kiệt bộ não của mình như vậy, có ngày cậu sẽ trở thành một kẻ tàn phế đấy."
+\
+`"……?@ Tàn phế sao?@ Ai cơ?"@
+`"[line=3]Cậu chứ ai.@ Đúng là cậu hoàn toàn chưa hiểu rõ về cách thức hoạt động của đôi mắt mình mà."@
+ld c,"tachi/ark_t02",crossfade,400
+`"Cậu từng tự mình nói rằng việc nhìn thấy cái chết của sinh vật sống dễ dàng hơn nhiều so với vật vô tri đúng không?@
+` Về cơ bản, đó là vấn đề nằm ở cấu trúc liên kết mạch não của cậu.@
+` Việc nhìn thấy cái chết của vạn vật và nhận biết được sợi dây nhân quả đó, thực chất nó gần giống với việc 'đọc' thông tin hơn là 'nhìn' bằng mắt thường."
+\
+`"…… Mọi thực thể trong thế giới này đều bắt nguồn từ một nguồn cội duy nhất.@ Ừm, nó chính là thứ mà các nhà khoa học phương Tây gọi là Akashic Record (Căn Bản Bản Ghi).@
+` Nói cách khác, tại tâm điểm của mọi hiện tượng, tồn tại một thứ 'ghi lại vạn vật'. Nó giống như một dạng 'sự hiện hữu' hơn là một bản ghi chép, thế nên nó không phải là thông tin thuần túy. Nó đơn giản là tồn tại ở đó, không có mục đích hay phương hướng cụ thể nào cả.@
+` Nó giống như một vòng xoáy cội nguồn, nơi khởi sinh và chảy ra mọi sợi dây nhân quả của thế giới."
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Vạn vật trên đời này đều tuôn chảy từ cội nguồn đó, phái sinh từ đó và duy trì hình dạng hiện tại của chúng. Tôi và cậu, ma cà rồng và con người, tất cả đều xuất phát từ cội nguồn vĩ đại ấy.@
+` …… Dù trải qua thời gian, mọi thứ trở nên phức tạp và phân rã hơn, không thể quay trở về cội nguồn ban đầu được nữa, nhưng cậu vẫn lờ mờ nhận thức được sự tồn tại của 'Cội Nguồn Duy Nhất' đó đúng không?@
+` Dẫu cho một thực thể có biến đổi hình dạng xa rời nguồn cội đến đâu, nó vẫn là một phái sinh. Vì thế, dù chỉ là một đường nét đứt gãy mỏng manh, vẫn luôn có một sợi chỉ kết nối nó với Cội Nguồn."
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Cội nguồn của vạn vật, bản ghi chép khởi đầu và kết thúc của mọi hiện tượng.@ Việc kết nối được với cội nguồn đó đồng nghĩa với việc thấu thị được điểm tận cùng của vạn vật.@
+` Vốn dĩ bộ não sinh vật có khả năng kiểm soát việc tiếp nhận và truyền tải thông tin này, nhưng hầu hết con người đều đã đóng chặt tất cả các mạch kết nối đó để bảo vệ bản thân.@
+` Thế nhưng, vẫn có những cá nhân sở hữu các mạch kết nối này mở ra một cách bẩm sinh.@ Không cần sử dụng tới một chút Mạch Ma Thuật nào, họ vẫn là những con người bình thường có khả năng chạm tới những hiện tượng siêu việt dù không thuộc về các chủng tộc siêu nhiên."
+\
+`"Các pháp sư phân loại họ là những nhà ngoại cảm (Psychics). Dù vẫn mang thân xác con người, họ là những cá nhân đột biến bẩm sinh sở hữu các mạch kết nối đặc biệt.@
+` [line=3]Ví dụ như một người có thể thấu thị được 'cái chết của vạn vật' mà không cần qua bất kỳ trường lớp học thuật huyền bí nào."@
+cl c,crossfade,400
+br
+`"[line=6]……"
+\
+ld c,"tachi/ark_t04",crossfade,400
+\
+ld c,"tachi/ark_t04",crossfade,400
+` Theo lý thuyết, nếu thực sự muốn, cậu vẫn có thể nhìn thấy 'đường tử vong' của những vật vô tri vô giác.@
+` Nhưng để làm được điều đó, bộ não của cậu buộc phải mở rộng và tái cấu trúc các mạch nhận thức từ phạm vi sinh vật sống sang cả phạm vi phi sinh vật để có thể tiếp nhận thông tin.@
+` Đó là một quá trình nhận thức vốn dĩ không thể xảy ra ở người thường.@
+` Hậu quả là nó sẽ làm bộ não của cậu bị quá tải hoàn toàn, và cậu sẽ biến thành một kẻ tàn phế vô dụng đấy."
+[line=3]\
+cl c,crossfade,400
+\
+cl c,crossfade,400
+`"[line=3]Dĩ nhiên là không rồi.@ Này Shiki, chuyện gì sẽ xảy ra với một động cơ bị hoạt động quá công suất dẫn đến nổ tung?"@
+ld c,"tachi/ark_t06",crossfade,400
+[line=3]br
+` [line=4]Ồ, ra là vậy.@
+br
+\
+`""@
+\
+`"[line=6]Cậu đã hiểu chưa?@ Nếu chỉ nhìn thấy những đường tự nhiên hiện ra thì không sao.@ Nhưng tuyệt đối đừng cố công thấu thị những thứ nằm ngoài tầm nhận thức của cậu.@ Các mạch máu trong não của cậu sẽ vỡ tung ra, và mọi chuyện sẽ chấm dứt ngay lập tức đấy."@
+ld c,"tachi/ark_t02",crossfade,400
+` …… Tôi hoàn toàn câm nín.@
+br
+\
+ld c,"tachi/ark_t01b",crossfade,400
+\
+ld c,"tachi/ark_t01b",crossfade,400
+cl c,crossfade,400
+\
+cl c,crossfade,400
+\
+` [line=5]Có vẻ như đó chính là lý do tôi ở đây.@
+br
+[line=3]br
+` Cô ấy (Aoko-sensei) đã nói như vậy và trao cho tôi chiếc kính này.@
+br
+` Người thầy đó, theo rất nhiều nghĩa khác nhau, thực sự đã cứu rỗi cuộc đời tôi
+\
+[line=3]playstop
+\
+playstop
+bg #9c0120,crossfade,400
+bg "bg/bg_29b",crossfade,400
+wave se_01
+` [line=3]Không hẳn là đau đớn, mà là một cảm giác kỳ lạ, ngứa ngáy khó tả.@
+ld c,"tachi/ark_t03",crossfade,400
+`"Shiki?"@
+ld c,"tachi/ark_t03",crossfade,400
+` Chỉ diễn ra trong một khoảnh khắc cực ngắn, nhưng tôi cảm nhận rõ ràng có thứ gì đó đang trào ra trong lồng ngực mình.@
+[line=3]cl c,notrans,0
+\
+cl c,notrans,0
+\
+wave se_01
+[line=3]br
+` Cảm giác ẩm ướt.@
+br
+[line=3]waveloop se_02
+br
+waveloop se_02
+bg #9c0120,crossfade,400
+bg "bg/bg_29b",crossfade,400
+\
+`"Cái gì thế này…… ướt sũng thế này?"@
+\
+` Trên lòng bàn tay đang xòe ra của tôi,
+bg "bg/ima_13b",notrans,0
+bg "bg/bg_29b",notrans,0
+bg "bg/ima_13b",notrans,0
+bg "bg/bg_29b",notrans,0
+bg "bg/bg_29b",notrans,0
+bg "bg/ima_13b",notrans,0
+bg "bg/bg_29b",notrans,0
+` [line=6]Lại là một cảm giác kỳ lạ khác.@
+` Tôi phải mất một khoảng thời gian dài đến đáng sợ mới nhận ra rằng vệt máu đó đang trào ra từ vết sẹo cũ trên ngực mình.
+\
+ld c,"tachi/ark_t13",crossfade,400
+\
+ld c,"tachi/ark_t13",crossfade,400
+[line=4]br
+` [line=4]Màu đỏ của nó tươi rói đến lạ lùng.@
+br
+br
+`"Mà thôi, không đau đớn gì thì chắc chắn là không sao rồi.@ Vết máu có vẻ cũng đã ngừng chảy, nên cậu không cần phải"@
+br
+[line=4]\
+ld c,"tachi/ark_t06",crossfade,400
+\
+` she stares at the red blood coating my hand.@
+`"Arcueid?"@
+`"……"@
+[line=4]cl c,crossfade,400
+` [line=8]Arcueid không hề đáp lời.@
+cl c,crossfade,400
+` Hộc, hộc.@ Gương mặt cô ấy nhăn lại như thể đang phải gồng mình chịu đựng một nỗi đau đớn tột cùng.
+\
+`"Này, Arcueid……!@ Cậu sao thế?@ Vết thương của cậu lại đau sao……!?"@
+\
+` Thế rồi,
+` she jumps back as if she was trying to escape.
+[line=4]\
+wavestop
+\
+wavestop
+ld c,"tachi/ark_t20",crossfade,400
+cl c,crossfade,400
+`"[line=4]…… Ar…… cueid?"@
+ld c,"tachi/ark_t07",crossfade,800
+`"Shiki?"@
+ld c,"tachi/ark_t07",crossfade,800
+` [line=6]Ngắn gọn, nhát gừng.@ Giọng nói của cô ấy thậm chí còn chứa đựng sự căm ghét lạnh lùng.@
+br
+ld c,"tachi/ark_t10",crossfade,800
+br
+ld c,"tachi/ark_t10",crossfade,800
+` [line=4]She averts her gaze awkwardly.
+\
+`"Có chuyện gì vậy? Cậu cư xử lạ quá.@ Vết thương vẫn chưa hồi phục hẳn sao?"@
+\
+`"À, ừm.@ Vậy đêm nay chúng ta nghỉ sớm ở đây thôi."@
+`"…… Ừm.@ Tối mai tôi vẫn sẽ đợi cậu ở chỗ này."@
+[line=4]cl c,crossfade,1500
+` Tuyệt nhiên không dám nhìn thẳng vào mắt tôi, Arcueid vội vã quay người rời đi rất nhanh.
+cl c,crossfade,1500
+bg #000000,crossfade,800
+\
+bg #000000,crossfade,800
+!w3000

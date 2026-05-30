@@ -1,0 +1,84 @@
+play "*1"
+wavestop
+bg "bg/bg_40c",notrans,0
+`"[line=2]Dừng đập cửa lại đi, tôi sẽ mở..."@
+` Mơ màng, tôi mở cửa.@
+`"[line=2]Anh trai!"@
+` Akiha lao vào phòng.@
+` Kohaku theo sau cô ấy.
+\
+bg "event/aki_h13",notrans,0
+bg "bg/bg_40c",notrans,0
+ld c,"tachi/aki_t15b",lshutter,400
+`"[line=3]Anh trai, anh đang làm gì vậy...!? Anh trông khủng khiếp, anh nên ở trên giường!"@
+cl c,crossfade,400
+br
+wave se_01
+` [line=4]Trái tim tôi đập thình thịch.
+\
+br
+ld c,"tachi/koha_t03",lshutter,400
+`"Đúng rồi, Shiki-san. Bạn chưa ăn gì kể từ bữa trưa và cũng không tiêm thuốc qua đường tĩnh mạch. Nếu cứ tiếp tục như vậy, bạn sẽ không hồi phục."@
+cl c,crossfade,400
+br
+wave se_01
+` [line=4]Tim tôi đập thình thịch.
+\
+ld c,"tachi/aki_t02b",crossfade,400
+`"Chúa ơi! Tôi không biết chuyện gì đã xảy ra, nhưng xin hãy bình tĩnh lại. Ngủ trên sàn như thế này... Bạn muốn chết à, anh trai?"@
+cl c,crossfade,400
+br
+wave se_01
+` [line=4]Tim tôi đập thình thịch.@
+br
+` Akiha tiến lại gần, nắm lấy cánh tay tôi khi nói những lời đó.
+\
+` Giống như cô ấy đã nói trong căn nhà bỏ hoang.@
+` Cô ấy đang đến... để giết tôi.
+\
+`"[line=4] Ra khỏi đây!"@
+wave se_10
+"Ồ, anh trai ơi, em nói thế nào đây? Em không thể để em giết anh sao?"
+ld c,"tachi/aki_t15b",crossfade,400
+`"[line=3][line=3]Shiki nhìn anh ta với đôi mắt đầy nghi ngờ, giọng nói run rẩy.@
+`"[line=2]Đi ra ngoài đi! Tôi đã nói rồi! Tôi sẽ không để bạn giết tôi!"@
+cl c,lshutter,400
+` Cô đẩy cô ấy ra xa, nhưng cơ thể yếu ớt này khiến cô cảm thấy bất lực.@
+` "... Nhưng mà tôi cũng không thể đẩy em ra hành lang được, cơ thể này quá nặng nề."@
+` Akiha chỉ đơn giản là lùi lại một bước và nhìn chằm chằm vào Shiki.
+\
+ld c,"tachi/aki_t11b",crossfade,400
+`"Anh trai ơi, ý anh là sao? Ai đã nói với anh rằng em sẽ giết anh?"@
+` Đôi mắt sắc lạnh của Akiha xuyên thấu qua Shiki.@
+` Trái tim tôi như bỏ lỡ một nhịp.@
+` Nhìn sắc bén của cô ấy khiến tôi có cảm giác như thể cô ấy đang đọc suy nghĩ của tôi.@
+`"... Chỉ rời khỏi đây đi! Tôi không phải là kẻ giết người, tôi vẫn tỉnh táo!"
+\
+ld c,"tachi/aki_t15b",crossfade,400
+`"[line=2]Kẻ giết người... Anh trai [lối 2] đã bị cuốn vào sâu đến thế này à?"@
+` Giọng nói của cô ấy tràn đầy ngạc nhiên.@
+` Akiha bước về phía cửa một mình.@
+ld c,"tachi/aki_t11b",crossfade,400
+`"... Tôi hiểu rồi. Anh trai, anh đang kiệt sức lúc này, nên tôi sẽ quay lại thăm anh sau."@
+`"[line=2]Dừng lại! Tôi không để cô hoặc bất kỳ ai khác vào phòng này!"@
+`"...…"@
+` Akiha nhíu mày một giây rồi rời khỏi phòng.
+\
+ld c,"tachi/aki_t10b",crossfade,400
+`"..."@ Anh trai. Tôi sẽ lắng nghe lời anh hôm nay, nhưng ngày mai, tôi sẽ khiến anh phải lắng nghe tôi.@
+` Để bỏ lại anh một mình trong một ngày đã đủ nguy hiểm; tôi đơn giản không thể để anh một mình hai ngày, nếu không anh chắc chắn sẽ chết. Xin hãy chờ thêm một ngày nữa, anh trai."@
+cl c,lshutter,800
+` Cánh cửa đóng lại.
+\
+` "*thở gấp...* ... *thở gấp*"
+` Tôi gần như không thể thở được. Giống như Akiha nói, tôi sẽ chắc chắn chết theo tốc độ này.@
+` "*thở gấp...* ... *thở gấp*"
+` Nhưng, vẫn tốt hơn khi Akiha không giết tôi.@
+br
+` [line=4]Tôi khóa cửa lại.@
+br
+` Tôi dựa vào tường và giữ mắt mở để không ngủ gật.
+\
+bg #000000,crossfade,1500
+playstop
+!w3000

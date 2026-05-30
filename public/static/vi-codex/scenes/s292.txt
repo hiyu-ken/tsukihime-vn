@@ -1,0 +1,141 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_40e",crossfade,800
+bg #9c0120,notrans,0
+bg "bg/bg_40e",notrans,0
+` *Hộc...*, *hộc...*, *hộc...*[line=4]
+br
+` Thì ra là thế.@
+` Thứ xung năng hăm hở hung tàn này.@
+` Thứ xung năng quỷ dị đang điên cuồng thúc đẩy tôi vào bờ vực điên loạn tàn khốc trong lúc vẫn giữ cho ý thức tôi hoàn toàn tỉnh táo để tự gặm nhấm sự bất lực của chính mình.@
+br
+` Sự tồn tại này chính là,
+` là gã ma cà rồng Roa.
+\
+` Nhưng cớ làm sao chứ?@ Đầu óc tôi bấy lâu nay vẫn luôn vô cùng tỉnh táo cơ mà.@
+` Cho tới tận lúc tôi đặt chân quay trở về tòa gia trang này, bản thân tôi quả thực vẫn hoàn toàn bình thường.@
+br
+` Tôi nghe thấy những tiếng gõ cửa dồn dập vang lên khô khốc bên ngoài.@
+` Nhưng tôi tuyệt đối không thể ra mở cửa.@
+` Nếu tôi mở nó ra, tất thảy mọi thứ chắc chắn sẽ sụp đổ chấm dứt hoàn toàn.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_13",crossfade,400
+bg "bg/bg_40e",crossfade,400
+`"A[line=5]"@
+` Tôi cuối cùng cũng đã thấu triệt chân tướng sự việc.@
+` Cơn ác mộng kinh hoàng trước đó chính là mảnh ký ức truyền kiếp của Roa ở kiếp luân hồi ngay trước kiếp chuyển sinh hiện tại của hắn.@
+` Việc tự nhốt mình trong phòng kín, tự tay thảm sát hạ sát cả cha lẫn mẹ ruột, rồi thống trị cả thị trấn hệt như một gã ma cà rồng tàn độc, toàn bộ chỉ là đống ký ức lâm chung của một kẻ xa lạ nào đó mà tôi tuyệt đối không hề quen biết.
+\
+`"[line=6]"@
+` …… Tuyệt đối không còn lối thoát nào nữa rồi.@
+` Đây hoàn toàn không phải là loại rắc rối có thể dễ dàng giải quyết triệt để chỉ bằng cách tự sát kết liễu đời mình.@
+` Sự thật tàn khốc này quả thực bất trị, không cách nào cứu vãn nổi nữa rồi.
+\
+` Tôi hoàn toàn thấu hiểu nổi tâm tư cảm xúc của kẻ ở kiếp chuyển sinh trước kia.@
+` Bởi vì dẫu cho tôi có nhắm mắt bỏ mạng, thứ tiêu vong độc nhất chỉ là ý chí tự nhận thức của bản thể tôi.@ Để rồi sau đó, ý thức thống trị của Roa sẽ lập tức nuốt chửng chiếm đoạt trọn vẹn cơ thể này.@
+` Nếu như kịch bản điên rồ ấy thực sự diễn ra[line=3]mọi chuyện chắc chắn sẽ chuyển biến tồi tệ tàn khốc hơn gấp vạn lần.@
+br
+`"Ha[line=3]haha, ha."@
+` …… Vả lại ngay từ đầu, bản thân tôi vốn dĩ cũng chẳng hề ôm giữ một chút ý định tự sát nào cả.
+\
+`"Cậu Shiki ơi, làm ơn mở cửa ra đi ạ, cậu Shiki!"@
+` Tôi nghe thấy tiếng gọi lo lắng của em ấy phát ra từ bên kia cánh cửa phòng.@
+br
+` …… Thứ âm thanh ấy lọt vào tai tôi bỗng trở nên vô cùng xa lạ, hệt như một thứ ngôn ngữ ngoại lai nào đó mà tôi chẳng thể hiểu nổi.
+\
+` Quá đỗi xa xôi cách biệt.@
+` Chỉ duy nhất.@ Chỉ tồn tại độc nhất một tấm gỗ mỏng ngăn cách giữa hai chúng tôi.@
+br
+` Nhưng nó dường như cách biệt vời vợi hệt như khoảng cách tới tận mặt trăng và các vì sao trên trời cao vậy.
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_40e",crossfade,1500
+waveloop se_11
+` Hiện giờ đã là mười giờ sáng.@
+` Hisui sau một hồi nhọc nhằn khuyên can bất lực rốt cuộc đã bỏ cuộc quay về.@
+` Akiha và chị Kohaku sau đó cũng cất công tìm đến, thay phiên nhau gõ cửa dồn dập thuyết phục nhưng tôi hoàn toàn chọn cách im lặng phớt lờ tất cả.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` Mười hai giờ trưa.@
+` …… Bụng tôi bắt đầu đói cồn cào.@
+` Thế nhưng, tôi nhận thấy bản thân vẫn tạm thời ổn thỏa.@
+` Tôi kéo chăn trùm kín đầu, ôm chặt lấy cơ thể đang không ngừng run rẩy kịch liệt của mình.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` Hai giờ chiều.@
+` …… Cổ họng tôi khô khốc, khát cháy dữ dội.@
+` Tôi dường như đã hoàn toàn mất đi nhận thức về mặt thời gian.@
+` Không gian xung quanh hiện diện vô cùng tĩnh lặng.@
+` Thế nhưng phản ứng cơ thể lại hệt như vừa bị tiêm một liều chất kích thích cực mạnh, điên cuồng muốn vùng vẫy đập phá xung quanh để giải tỏa.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+` Bốn giờ chiều.@
+` …… Lại có tiếng gõ cửa dồn dập vang lên.@
+` Có tiếng ai đó đang cất tiếng gọi tên tôi.@
+` Đó là giọng của ai thế nhỉ?@ Họ đang không ngừng réo gọi cái tên của ai thế?@ Bản thân tôi hoàn toàn chịu chết chẳng thể nhận diện nổi nữa rồi.
+\
+bg #000000,crossfade,1500
+monocro #ff0000
+bg "bg/bg_40e",crossfade,1500
+br
+br
+` Năm giờ chiều.@
+` Bầu trời bên ngoài ô cửa sổ đã bắt đầu chầm chậm sụp tối.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+br
+br
+` Sáu giờ tối.
+\
+bg #000000,crossfade,1500
+monocro off
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+` Bảy giờ tối.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+br
+` Tám giờ tối.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+wave se_04
+br
+br
+br
+br
+br
+br
+` [line=3]Có ai đó, đang chầm chậm tiến lại gần cửa phòng tôi.
+\
+`"Cậu Shiki ơi, em mang bữa tối đến cho cậu đây ạ.@ Từ sáng tới giờ cậu chưa nuốt hạt cơm nào vào bụng rồi, cứ thế này cậu sẽ kiệt sức đổ bệnh mất thôi."@
+br
+` Đó là giọng nói dịu dàng quen thuộc của chị Kohaku.@
+` Chị ấy nhẹ nhàng gõ cửa phòng.@
+br
+`"Trời ạ, em bắt buộc phải tìm cách ép cậu ăn chút gì đó mới được."@
+` Một tiếng động lách cách khô khốc bỗng vang lên.@
+` Đó tuyệt nhiên không phải tiếng gõ cửa bình thường, mà chính là âm thanh cơ học của ổ khóa đang bị bẻ mở.
+\
+`"Hì hì, đã đến lúc phải xuất chiêu sử dụng món vũ khí tối mật của em rồi, chìa khóa vạn năng!"@
+`"[line=4]A."@
+br
+` Chốt cửa bỗng chốc bật mở tanh tách.
+\

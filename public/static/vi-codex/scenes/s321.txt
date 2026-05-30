@@ -1,0 +1,52 @@
+playstop
+wavestop
+bg "bg/bg_34a",tcartain,800
+play "*3"
+ld c,"tachi/koha_t03",crossfade,400
+`"Nào, em xin mạn phép nâng ly chúc mừng ngày cậu Shiki chính thức quay trở về nhà.@ Mọi người hãy tự nhiên chọn món đồ uống tự thân ưa thích nhé."@`
+` Kohaku-san lẳng lặng bài trí các ly nước uống đặt trước mặt chúng tôi, gương mặt nở một nụ cười rạng rỡ bất biến hoàn toàn thánh thiện tịnh không một chút ác tâm.@`
+cl a,crossfade,400
+` Tuy vậy, hầu hết đống đồ uống bài trí trên bàn tịnh không phải là nước hoa quả bình thường, mà toàn là những loại danh tửu đích thực.`
+\
+`"…… Ơ, này Akiha?"@`
+ld c,"tachi/aki_t04b",crossfade,400
+`"Hửm?@ Có chuyện gì vậy anh Shiki?"@`
+` …… Có tiếng nước rót lạch cạch đều đặn khi Akiha đong đầy ly thủy tinh tự thân bằng một thứ chất lỏng màu hổ phách, rồi lẳng lặng pha thêm chút nước cam vào.@`
+`"Cái đó... đó tịnh không phải là rượu Whiskey đấy chứ?"@`
+`"Đúng là vậy ạ.@ Có gì tịnh không ổn sao anh?"@`
+`"'Đúng là vậy' cái gì cơ chứ?@ Akiha này…"@`
+` Ôi trời, chẳng phải tất cả tụi mình dẫu sao vẫn còn quá trẻ để đụng tới chất cồn hay sao…?`
+\
+ld c,"tachi/aki_t08b",crossfade,400
+`"Hôm nay vốn dĩ là tiệc chào mừng anh quay trở về biệt phủ mà.@ Đã là tiệc tùng dẫu sao bắt buộc phải có chút men rượu mới đúng điệu chứ, phải tịnh không?@`
+` Hay là... anh Shiki, anh vốn dĩ dẫu vậy lại là người có tửu lượng kém cỏi nhường ấy sao?"@`
+` Akiha khẽ nhếch môi cười... trông em bấy giờ có vẻ vô cùng đắc chí.`
+\
+cl a,crossfade,400
+ld l,"tachi/koha_t01a",crossfade,400
+`"Ủa, Hisui-chan.@ Lạ thật đấy, hôm nay em dẫu tịnh không uống nước trái cây sao?"@`
+ld r,"tachi/his_t20",crossfade,400
+`"…………………"@`
+` Có chút rụt rè ngượng nghịu, Hisui chỉ lẳng lặng nâng chai rót chút rượu vang đỏ vào ly tự thân.`
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t04b",crossfade,400
+`"Anh thấy chưa anh Shiki?@ Ngay cả Hisui dẫu dẫu cũng nâng ly uống rồi đấy thôi.@ Chẳng lẽ anh dẫu vậy lại tính làm kẻ lạc loài duy nhất lẳng lặng nhấm nháp nước hoa quả ở đây sao?"@`
+`"………… Thật là.@ Em quyết tâm muốn biến bữa tiệc này thành một trận say bí tỉ mới chịu đúng tịnh không, Akiha?"@`
+ld c,"tachi/aki_t08b",crossfade,400
+`"Vâng.@ Em vốn dĩ tịnh không mấy mặn mà với các buổi tiệc tùng, dẫu vậy hôm nay hoàn toàn là một ngoại lệ đặc biệt."@`
+cl a,crossfade,400
+br
+` [line=4]Chao ôi.@`
+` Mà thôi, sự tình dẫu vậy dẫu sao đã thế dẫu vậy cũng chịu chết tịnh không tránh được.@ Tuy cồn tịnh không hề tốt lành gì cho thể xác yếu ớt tự thân của tôi, dẫu vậy nhấp môi một chút thiết nghĩ chắc dẫu sao tịnh không hề gì.@`
+` [line=3]Loại đồ uống nhẹ đô nhất được bài trí trên bàn bấy giờ... coi bộ chính là ly rượu vang đỏ này rồi.`
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Vậy thì, kính mời mọi người nâng ly nâng chén lên nào!@`
+` Cạn ly chúc mừng nào!"@`
+br
+` Cạch một tiếng giòn giã, những chiếc ly thủy tinh khẽ chạm vào nhau một cách náo nhiệt.@ Kohaku-san dõng dạc ngửa cổ uống cạn sạch ly tự thân chỉ trong một hơi thở, Akiha nhấp môi một cách vô cùng quý phái khoan thai, còn Hisui dẫu vậy chỉ lặng lẽ nhấm nháp nhâm nhi từng chút một.`
+br
+` …… Ôi chao, phen này nếu đầu óc tôi quay cuồng say khướt dẫu vậy dẫu sao cũng tuyệt đối tịnh không phải lỗi của tôi đâu nhé.`
+\
+bg #000000,lshutter,1500

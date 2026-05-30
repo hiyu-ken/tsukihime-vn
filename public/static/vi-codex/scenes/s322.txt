@@ -1,0 +1,248 @@
+bg #000000,notrans,0
+wavestop
+play "*3"
+!w2000
+bg "bg/bg_34c",rshutter,800
+` [line=5]"Và..."
+br
+` Chưa đầy một giờ đồng hồ sau, Hisui đã gục đầu thiếp đi, còn Kohaku-san thì nở một nụ cười ấm áp rồi khẽ khàng bế em ấy về phòng riêng.@`
+\
+`"…………"@`
+` Vốn dĩ tịnh không quen đụng tới chất cồn, đầu óc tôi bấy giờ bắt đầu chệnh choạng mơ màng.@`
+` Akiha ngồi tựa bên cạnh dẫu vậy vẫn đang mải miết nâng ly uống một cách vô cùng hăng hái.@ Sự tình này e là điềm báo tịnh không mấy tốt lành cho phần còn lại của đêm nay rồi.@`
+`"…… Akiha này, tửu lượng của em quả thực tịnh không phải dạng vừa đâu nhỉ."@`
+ld c,"tachi/aki_t26",crossfade,400
+`"Ồ?@ Em đâu có uống rượu nguyên chất đâu cơ chứ, nên em thiết nghĩ thế này dẫu sao cũng chỉ là tửu lượng bình thường của một người mà thôi."@`
+` …… Ơ, vấn đề tịnh không phải nằm ở chỗ đó…`
+` Ý tôi muốn bảo là con bé dẫu vậy đã quá đỗi quen thuộc với việc uống rượu dẫu cho vẫn đang ở tuổi vị thành niên rồi.`
+\
+ld c,"tachi/aki_t13b",crossfade,400
+`"Gớm nữa, anh lại bắt đầu trưng ra cái bộ mặt khó đăm đăm ấy rồi đấy.@ Xin anh hãy thả lỏng tâm trí mà say sưa đôi chút đi chứ, anh Shiki.@`
+` Chị Kohaku đã cất công chuẩn bị tất cả những thứ này chỉ để giúp anh khuây khỏa, nên nếu anh tịnh không uống say thì bữa tiệc này dẫu sao chẳng phải hóa vô nghĩa rồi sao?"@`
+`"À, đúng thế thật.@ …… Phải rồi, anh dẫu sao dẫu vậy phải gửi lời cảm tạ chân thành tới Kohaku-san vì sự chu đáo ngọt ngào của chị ấy mới được.@ Nhờ có bữa tiệc này, lồng ngực anh thực sự dẫu đã cảm thấy nhẹ nhõm hơn nhiều rồi."`
+\
+ld c,"tachi/aki_t03b",crossfade,400
+`"Anh lại xạo ngôn rồi!@ Trông anh tịnh không có vẻ gì là vui sướng hạnh phúc cả.@ Nếu ngay cả hơi men dẫu vậy dẫu vậy cũng tịnh không thể giúp anh nguôi ngoai, thì rốt cuộc trên đời này chẳng phải dẫu vậy tịnh không còn thứ gì cứu rỗi nổi anh nữa sao?"@`
+`"Ồ chao, lời giãi bày ấy của em nghe có vẻ hơi bạo gan quá chừng rồi đấy.@ Dám khẳng định tịnh không còn thứ gì cứu rỗi nếu rượu bia tịnh không hiệu quả… chẳng phải em đã lầm đường lạc lối rồi sao?"@`
+ld c,"tachi/aki_t18b",crossfade,400
+`"Nếu anh Shiki tuyệt đối tịnh không muốn mở lòng đàm đạo chân tình với em dẫu sao cũng đành chịu vậy.@ Chứ nếu anh chịu giãi bày sự tình đêm hôm qua, em dẫu vậy đã chẳng thèm cậy nhờ tới sự trợ giúp của chất cồn nhường này làm gì."@`
+`"#[line=6]"`
+` Ra là vậy.@`
+` Cũng hệt như Kohaku-san, Akiha bấy giờ dẫu vậy đang vô cùng lo lắng bận lòng về kiếp sống của tôi.`
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"Nhưng mà, em dẫu sao tịnh không thể mở miệng gặng hỏi đúng tịnh không?@ Bởi bản thân em dẫu đã thề nguyện sẽ tuyệt đối tịnh không bao giờ truy vấn về sự tình ấy nữa rồi."@`
+`"…… Anh xin lỗi.@ Bản thân anh dẫu sao chỉ toàn mang lại gánh nặng phiền hà cho mọi người mà thôi."@`
+ld c,"tachi/aki_t26",crossfade,400
+`"Ừm, miễn là anh Shiki tự thấu triệt được điều đó dẫu sao dẫu vậy là tốt rồi.@`
+` [line=4]Mà, hệt như anh nói, em có vẻ hơi say rượu thật rồi, nên em xin phép ra ngoài hít thở chút không khí nhé."@`
+cl a,lshutter,800
+br
+` Em ấy tuy buông lời tự nhận mình đã "say", dẫu vậy bước đi dẫu vậy vẫn vô cùng dõng dạc và vững vàng khi cất bước rời khỏi phòng ăn.`
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_42b",lcartain,800
+play "*9"
+` Lặng lẽ cất bước dõi theo bóng hình Akiha, tôi đi ra phía khoảng sân rộng lớn của biệt phủ để hít thở chút gió đêm mát lành.@`
+` Bấy giờ đồng hồ dẫu vậy vẫn chưa điểm sáu giờ tối.@`
+` Ánh hoàng hôn rực đỏ chầm chậm nhuộm thắm cả bầu trời cao.@`
+`"…… Giờ này dẫu vậy vẫn là buổi chiều sao?"@`
+` Xung quanh tịnh không một bóng người.@`
+` Tôi cứ ngỡ Akiha dẫu sao sẽ lẳng lặng đứng đợi ở đây, dẫu vậy coi bộ hai anh em đã vô tình đi lướt qua nhau mất rồi.`
+\
+`"…… Ánh hoàng hôn rực đỏ này sao?"@`
+` Cho tới tận bấy giờ, mỗi khi chiêm ngưỡng cảnh hoàng hôn rực đỏ, lồng ngực tôi dẫu vậy chỉ luôn liên tưởng tới màu máu tươi xối xả tàn khốc.@`
+` Nhưng hôm nay,`
+` cảnh tượng ấy dẫu vậy lại gợi nhắc tôi về nụ cười tịch mịch cuối cùng của em ấy trước thời khắc hai đứa chia tay trên con đường quen thuộc dẫn lối về nhà.`
+br
+wave se_01
+` …… Nhói buốt.@ Một cơn đau buốt nhói dữ dội đột ngột dấy lên nơi lồng ngực tự thân.@`
+br
+wave se_01
+` Liệu đây có phải là cơn đau nhói từ vết sẹo sâu hoắm năm xưa trên ngực tôi?@`
+` Hay vốn dĩ tâm can tôi bấy giờ đang gào xé đau đớn vì nỗi hối hận giằng xé vô bờ?`
+\
+` Thần trí tôi chịu chết tịnh không cách nào phân biệt nổi.@`
+` Chỉ thấu triệt độc một điều rằng lồng ngực mình đang buốt nhói dữ dội.@`
+` Tựa hồ như máu tươi đang chầm chậm xối xả tuôn trào bên trong vậy.@`
+br
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_42b",crossfade,400
+`"Ực... [line=6]"`
+` Một cơn váng đầu chóng mặt dữ dội bất ngờ ập tới tấn công tôi.@`
+` Dưới tác động cộng hưởng của men rượu rực cháy cùng cơn đau buốt nơi lồng ngực,`
+` chỉ độc một tác nhân nhỏ nhoi vô nghĩa nhường ấy dẫu vậy đã đủ sức khiến tôi hoàn toàn mất đi ý thức chìm sâu vào tịch mịch[line=4]`
+\
+bg #ffffff,crossfade,800
+!w2000
+` …… Nhà của tôi ở phía bên này cơ.@`
+` Buông lời giãi bày nhẹ nhàng nhường ấy, em ấy liền cất bước đi theo một ngả đường hoàn toàn khác.`
+\
+` …… Cảm ơn anh.@`
+` Em ấy hẳn đã thốt ra những lời ngọt ngào ấy độc nhất vì tôi đã tình nguyện kề cạnh bên em cho tới tận giây phút cuối cùng.`
+\
+br
+` …… Xin lỗi anh.@`
+` Em ấy hẳn đã buông lời xin lỗi ấy vì thấu triệt sâu sắc rằng bản thân tôi từ nay về sau dẫu vậy dẫu vậy sẽ phải gánh vác nỗi hối hận giằng xé khôn nguôi này suốt đời.`
+\
+` …… Thế nên, anh cứ lẳng lặng quên sạch mọi chuyện đi dẫu vậy dẫu vậy cũng tịnh không sao đâu.`
+br
+` Cảm giác tựa như em ấy đang lẳng lặng thỏ thẻ bên tai tôi những lời dịu ngọt nhường ấy vậy.`
+\
+` …… Chẳng phải đó dẫu vậy chỉ là một thứ hạnh phúc giả tạo hư ảo mà thôi sao?@`
+` Ngay trong giấc mộng sâu thẳm tự thân, tôi dẫu vậy lại dệt nên những lời ích kỷ đến nực cười nhường ấy.`
+\
+` Nếu bản ngã tôi có thể lẳng lặng quên đi tất thảy mọi sự, kiếp sống này dẫu sao dẫu vậy sẽ trở nên vô cùng dễ dàng thanh thản biết bao.@`
+` Nhưng tôi tuyệt đối chịu chết tịnh không thể quên nổi.@`
+` Tôi tịnh không hề căm ghét em ấy, dẫu vậy dẫu dẫu cũng tịnh không hề ôm lòng yêu thương em, dẫu vậy,`
+` lý trí tôi tự nhủ bản thân tuyệt đối tịnh không bao giờ được phép quên đi nụ cười tịch mịch ngày ấy của em.`
+` Và hơn hết thảy mọi sự trên đời,`
+` chừng nào vết sẹo sâu hoắm này dẫu vậy vẫn còn hằn sâu nơi lồng ngực tự thân, tôi dẫu sao chịu chết tịnh không cách nào quên lãng nổi[line=4]`
+\
+playstop
+!w1000
+bg "bg/bg_40c",crossfade,800
+play "*1"
+`"A... [line=5]"`
+` Đến khi sực tỉnh thần trí, tôi nhận ra bản thân bấy giờ đang nằm dài trên giường trong phòng riêng tự thân.@`
+` Trong suốt quãng thời gian tôi chìm vào giấc ngủ mê mệt, Akiha chắc hẳn dẫu đã lẳng lặng túc trực bên gối chăm nom, bởi bóng hình em bấy giờ đang lù lù hiện hữu ngay trước mắt tôi.`
+`"Aki... ha?"@`
+ld c,"tachi/aki_t17b",crossfade,400
+`"Anh Shiki đã tỉnh giấc rồi sao?@ Trời đất ơi, tự dưng lăn đùng ra ngất xỉu nhường ấy, rốt cuộc đã xảy ra sự tình gì thế hả anh?"@`
+`"Ra là thế…… anh dẫu đã bất tỉnh nhân sự sao?"@`
+ld c,"tachi/aki_t12b",crossfade,400
+`"Vâng.@ Dẫu vậy dẫu dẫu dẫu sao cũng thật may mắn vì anh dẫu đã tỉnh lại nhanh chóng.@ Em vô cùng sám hối vì dẫu dẫu dẫu đã ép anh Shiki phải uống rượu nhường ấy."@`
+`"Không đâu, chuyện đó tuyệt đối tịnh không liên quan gì tới việc này cả.@ Hoàn toàn là do tự thân anh đột ngột ngất xỉu mà thôi."`
+\
+cl a,crossfade,400
+` Dứt lời, tôi lẳng lặng hướng ánh mắt đăm đăm nhìn lên trần nhà.@`
+` Thần trí tôi bấy giờ dẫu vậy vẫn còn váng vất chóng mặt dữ dội, và bản thân tịnh không hề có chút tâm khí nào muốn đàm đạo cùng Akiha lúc này cả.@`
+` …… Dẫu là vậy, Akiha dẫu vậy tịnh không hề tỏ ra bực dọc phiền lòng, em dẫu vậy chỉ lẳng lặng ân cần túc trực bên cạnh chăm nom cho tôi.`
+\
+`"…… Akiha này?"@`
+ld c,"tachi/aki_t01b",crossfade,400
+`"Dạ?@ Có chuyện gì thế anh Shiki?"@`
+`"#[line=3]Ừm, chuyện là.@ Thế này tịnh không phải là quá đỗi nhàm chán tẻ nhạt đối với em sao?@ Anh dẫu dẫu ổn rồi, nên nếu muốn em cứ tự nhiên về phòng riêng tự thân nghỉ ngơi đi dẫu vậy dẫu vậy cũng không sao đâu."@`
+ld c,"tachi/aki_t12b",crossfade,400
+`"Anh Shiki bấy giờ đang chê em phiền hà vướng chân vướng tay đấy à?"@`
+`"Không đâu, anh tịnh không hề có ý đồ đó chút nào cả.@ Anh chỉ lẳng lặng nghĩ rằng có lẽ em bấy giờ đang cảm thấy hơi tẻ nhạt vô vị mà thôi."@`
+ld c,"tachi/aki_t04b",crossfade,400
+`"Đúng là vô vị thật ạ, nhưng em dẫu vậy vẫn có thể chịu đựng được.@ Đây hoàn toàn là việc em tự nguyện làm theo ý thích của tự thân thôi, nên anh Shiki tịnh không cần phải bận lòng lo lắng làm gì đâu."@`
+br
+` Nếu đã vậy[line=4]thì thiết nghĩ dẫu vậy dẫu vậy cũng ổn thôi.`
+\
+` Thời gian cứ thế lẳng lặng trôi qua.@`
+` Đồng hồ dẫu đã điểm quá bảy giờ tối.@`
+` Suốt bảy giờ đồng hồ ròng rã kể từ thời khắc ấy.@ Chẳng lẽ Akiha dẫu đã lẳng lặng chăm nom cho tôi suốt ngần ấy thời gian sao?@`
+` Akiha lẳng lặng đặt tay lên trán đo nhiệt độ cho tôi.`
+br
+bg #000000,crossfade,800
+monocro #ffff00
+bg "bg/bg_45b",crossfade,800
+` …… A, trí não tôi bấy giờ dường như sực nhớ ra một ký ức xưa cũ.@`
+` Chuyện ấy chắc hẳn dẫu dẫu đã xảy ra từ ngót nghét hơn tám năm về trước rồi.@`
+` Akiha dẫu dẫu dã từng cất công tới túc trực bên gối chăm nom cho tôi sau khi tôi bị cảm lạnh hay đại loại thế.`
+\
+` Trận cảm lạnh năm ấy quả thực vô cùng tàn khốc kinh hoàng; đến mức ngay cả việc hít thở dẫu vậy dẫu dẫu cũng buốt nhói dữ dội.@`
+` Người con gái với mái tóc đen tuyền lẳng lặng ngồi bên gối tôi, khẽ nắm chặt lấy bàn tay tôi rồi cứ thế đăm đăm dõi nhìn tịnh không chớp mắt.@`
+` Sàn tatami và những cánh cửa shouji truyền thống.@`
+` Luồng gió đông lạnh buốt xương tủy.@`
+` Trong gian phòng trải chiếu tatami tối tăm cô tịch ấy, bóng hình bé nhỏ của Akiha lẳng lặng túc trực bên gối tôi, gương mặt em đầm đìa nước mắt hệt như sắp khóc nức nở đến nơi nhường ấy.`
+\
+bg #000000,crossfade,800
+monocro off
+bg "bg/bg_40c",crossfade,400
+`"…… Tự dưng anh cảm thấy nhẹ nhõm hơn nhiều."@`
+ld c,"tachi/aki_t01b",crossfade,400
+`"Ơ?@ Anh Shiki vừa buông lời thì thầm gì thế ạ?"@`
+`"…… À tịnh không.@ Anh chỉ lẳng lặng nghĩ rằng bấy giờ dẫu vậy vẫn có thể tìm thấy chút hình bóng của Akiha ngày xưa cũ bên trong em.@ Chuyện tịnh không có gì to tát cả, dẫu vậy nó dẫu sao lại làm anh cảm thấy vô cùng hạnh phúc ấm áp."@`
+` Tôi trao cho Akiha một nụ cười ôn hòa trìu mến vô cùng tự nhiên, đến mức chính bản thân dẫu dẫu cũng thấy bất ngờ khôn tả.`
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"Được thế thì tốt quá rồi, dẫu vậy anh dẫu vậy tuyệt đối chẳng chịu thay đổi chút nào cả anh Shiki ạ.@ Lúc nào dẫu dẫu cũng chỉ biết gây phiền hà lo lắng cho người khác mà thôi… làm ơn hãy hành xử cho ra dáng người lớn một chút giùm em đi."@`
+` Akiha khẽ ngoảnh mặt đi chỗ khác rồi lẩm bẩm oán trách.@`
+` Thấu triệt rằng em ấy dẫu vậy chỉ đang ngượng ngùng xấu hổ mà thôi, cõi lòng tôi bấy giờ lại càng dấy lên cảm giác hạnh phúc ngọt ngào khôn tả.`
+\
+ld c,"tachi/aki_t13b",crossfade,400
+`"…… Trời đất ơi, cớ sao anh dẫu vậy lại cứ mỉm cười suốt như thế hả?@ Nếu anh dẫu có nhiều sinh lực dư thừa nhường này thì em thiết nghĩ bản thân tịnh không cần phải túc trực chăm nom làm gì nữa."@`
+`"Đâu có đâu.@ Chỉ là anh chợt nhớ lại phân cảnh ngày xửa ngày xưa ấy mà.@ Akiha này, trong gian phòng tatami năm ấy[line=4]"`
+\
+cl a,crossfade,400
+wave se_01
+br
+` [line=4]Phòng trải chiếu tatami sao?@`
+br
+` Sự tình đó rốt cuộc là thế nào cơ chứ?@`
+` Việc Akiha cất công chăm nom cho tôi dẫu sao là sự thật hiển nhiên, dẫu vậy cớ sao phân cảnh ấy lại diễn ra trong một gian phòng trải chiếu tatami truyền thống chứ tịnh không phải căn phòng này của tôi?@`
+br
+` Có điều gì đó.@`
+` Chắc chắn có điều gì đó tịnh không hề khớp với thực tế ở đây.`
+\
+`"Akiha này.@ Liệu trong dinh thự bề thế này dẫu dẫu có gian phòng nào được trải chiếu tatami truyền thống tịnh không em?"@`
+ld c,"tachi/aki_t01b",crossfade,400
+`"Không có đâu ạ.@ Trong tòa biệt phủ này tuyệt đối tịnh không có bất kỳ gian phòng kiểu Nhật nào cả."@`
+`"Ừm, phải rồi nhỉ.@ Chắc anh nhớ nhầm thôi.@ Tự dưng anh thấy hơi kỳ quặc chút, em tịnh không cần để tâm bận lòng làm gì đâu."@`
+ld c,"tachi/aki_t13b",crossfade,400
+`"Hửm?@ Việc tịnh không có phòng kiểu Nhật dẫu vậy dẫu sao lại có gì kỳ quặc đến thế sao anh?"@`
+`"À thì, em biết đấy.@ Căn dinh thự này bề thế nhường này, anh cứ ngỡ dẫu sao dẫu vậy phải có ít nhất một gian phòng như thế chứ."@`
+ld c,"tachi/aki_t01b",crossfade,400
+`"Tuy nhiên, biệt viện biệt lập bên ngoài dẫu vậy lại là một tòa nhà thuần phong cách Nhật Bản đấy ạ."@`
+`"Ơ[line=4]?"@`
+` [line=4]A, nghe em ấy nhắc nhở, trí não tôi dẫu dẫu dẫu sao lập tức sực nhớ ra ngay.@`
+` Nằm lọt thỏm giữa khu rừng rậm rạp chốn sân vườn rộng lớn kia, quả thực dẫu dẫu có một căn biệt viện thuần phong cách Nhật Bản.`
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"…… Trời đất ơi, trông anh Shiki bấy giờ thực sự dẫu đã tràn trề sinh lực khỏe khoắn lại rồi đấy.@ Em thiết nghĩ nếu mình cứ nấn ná ở lại đây dẫu sao dẫu dẫu cũng chỉ tổ vướng chân vướng tay anh thôi, nên em xin phép về phòng riêng tự thân đây ạ."@`
+cl a,crossfade,400
+` Khẽ đứng dậy khỏi chiếc ghế dựa bên giường, Akiha lẳng lặng cất bước chuẩn bị rời khỏi phòng ngủ.`
+\
+`"Cảm ơn em nhiều lắm, Akiha.@ Anh vô cùng sám hối vì dẫu dẫu dã bắt em phải túc trực ở chốn này suốt cả buổi tối nhường này."@`
+ld c,"tachi/aki_t04b",crossfade,400
+`"Xin anh chớ để tâm.@ Bởi kể từ ngày mai trở đi, kiếp sống sinh hoạt thường nhật của anh dẫu sao dẫu vậy dẫu sẽ chầm chậm chầm chậm trở nên giống như thế này mà thôi."@`
+cl a,lcartain,800
+`"………?"@`
+` Buông ra những lời lẽ đầy ẩn ý khó hiểu nhường ấy, Akiha lẳng lặng cất bước bước ra khỏi căn phòng.`
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_40d",rcartain,800
+` [line=4]Tôi khẽ với tay tắt đèn phòng rồi lẳng lặng nằm nghỉ ngơi trên giường ngủ.@`
+br
+` Nhờ có sự ân cần túc trực chăm nom chu đáo ngọt ngào của Akiha, cõi lòng tôi bấy giờ dẫu đã trở nên thanh thản nhẹ nhõm hơn nhiều.@`
+` Cứ đà này, thiết nghĩ đêm nay bản thân dẫu sao dẫu sẽ dệt nên một giấc mộng ôn hòa bình yên sau chuỗi ngày dài mệt mỏi triền miên.@`
+br
+` Tôi hít một hơi thật sâu rồi chầm chậm khép hờ đôi mi mắt lại.`
+\
+bg #000000,crossfade,800
+monocro #ffff00
+bg "bg/bg_45b",crossfade,800
+` …… Ngay trước thời khắc thần trí tôi chìm sâu vào tịch mịch tịch mịch của giấc ngủ,`
+` ký ức tự thân về phân cảnh được túc trực chăm nom bởi bóng hình bé nhỏ của Akiha ngày xửa ngày xưa lại tươi mới hiện hữu mồn một trong trí não.`
+\
+` Gian phòng thuần phong cách Nhật tối tăm cô tịch ấy, chốn heo lánh tịnh không một bóng người cất bước tới thăm nom tôi.@`
+` Có phải em ấy dẫu đã lén lút trốn chạy khỏi tầm mắt nghiêm khắc của Makihisa chăng?@ Akiha dẫu đã âm thầm lẻn vào phòng, vừa nắm chặt lấy bàn tay tôi vừa khóc nức nở đầm đìa nước mắt.@`
+` "Em xin lỗi anh," tiếng thỏ thẻ nghẹn ngào của em cứ thế vang lên.@`
+` Bản thân tôi thuở ấy chịu chết tịnh không thấu hiểu nguyên cớ cớ sao, dẫu vậy người con gái bé nhỏ với mái tóc đen tuyền ấy dẫu vậy cứ liên tục lặp đi lặp lại lời sám hối "Em xin lỗi anh" tịnh không biết bao nhiêu lần.`
+\
+` [line=6]Tôi dẫu dẫu nhớ ra rồi.@`
+br
+` Về người con gái độc nhất vô nhị luôn kiêu hãnh của gia tộc Tohno, người duy nhất trên cõi đời này tình nguyện dang tay bảo bọc chăm nom cho tôi.`
+\
+`"………………"@`
+` Hình bóng người con gái bé nhỏ lẳng lặng đầm đìa nước mắt khóc lóc trong gian phòng Nhật Bản tối tăm cô tịch ngày ấy.@ Tôi dẫu đã cắn chặt môi tự thân trong đau đớn bất lực khi đầu óc quay cuồng dữ dội vì cơn sốt cao hành hạ.@`
+` Tôi tự hỏi cớ sao thuở ấy em dẫu lại khóc thương nhường ấy nhỉ.@`
+` Nếu là bản ngã tôi bấy giờ,`
+` tôi thề nguyện tuyệt đối dẫu sao dẫu dẫu cũng tịnh không bao giờ, tịnh không bao giờ để Akiha phải rơi nước mắt thêm lần nào nữa.`
+\
+` …… Em xin lỗi anh.@`
+` …… Em xin lỗi anh nhiều lắm, anh Shiki.@`
+br
+` Những giọt nước mắt lăn dài trên gương mặt em ngày ấy thực sự vô cùng thuần khiết và đẹp đẽ làm sao.@`
+` Kể từ giây phút định mệnh ấy, tôi dẫu vậy đã thầm thề nguyện sẽ trở thành một người anh trai thực sự che chở cho em trọn đời[line=4]`
+\
+bg #000000,crossfade,1500
+monocro off
+playstop
+!w2000

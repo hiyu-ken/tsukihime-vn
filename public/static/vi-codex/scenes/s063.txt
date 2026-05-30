@@ -1,0 +1,20 @@
+playstop
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Tôi quyết định ăn ở căng tin náo nhiệt như mọi ngày.@
+br
+` Lý do nào đó, udon và soba ngon hơn cả bữa trưa của trường chúng tôi, nên đương nhiên tôi đã chọn ăn udon.
+\
+` Ngồi xuống bàn, tôi ăn udon tanuki của mình.@
+` Tivi ở căng tin đang phát tin tức.@
+` Tivi được lắp đặt để học sinh có thể xem tin tức sáng hôm trước được ghi lại vào giờ ăn trưa.
+\
+` Tin tức đang có một đoạn đặc biệt về vụ giết người liên tiếp.@
+` Đã một tháng kể từ khi vụ giết người bắt đầu, nhưng vẫn chưa ai biết tên hung thủ này.@
+` Anh ta là một con quỷ sát nhân không rõ danh tính, không để lại dấu vết và hành động mà không có động cơ.@
+` Danh tính của hắn vẫn còn là một bí ẩn, ngay cả khi đã có tám vụ giết người ở thị trấn nhỏ của chúng ta.@
+` Đó chắc chắn rất đáng sợ, người dẫn chương trình tin tức nói.
+\
+bg #000000,crossfade,800
+!w2000

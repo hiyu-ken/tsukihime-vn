@@ -1,0 +1,393 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_40c",notrans,0
+ld c,"tachi/his_t01",crossfade,400
+`"Nhờ có lòng nhân từ của lão gia Makihisa mà Nee-san của tôi mới được đào tạo bài bản về y dược.@
+` Cho đến trước khi lão gia tạ thế, chị ấy vẫn luôn chịu trách nhiệm chăm sóc và duy trì sức khỏe cho ông."@
+` Dung nhan của Hisui lại quay về vẻ phẳng lặng, vô cảm thường nhật, em ấy khẽ giãi bày những chuyện mà tôi thậm chí còn chưa mở lời hỏi tới.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"Hự…………!"@
+` Một cơn đau buốt nhọn dữ dội bất ngờ găm thẳng qua đầu tôi.@
+br
+` Dẫu cho tôi có đang quằn quại đau đớn đến nhường này, em ấy dường như vẫn thản nhiên săn sóc tôi mà không hề chớp mắt lấy một cái.@
+br
+` …… À mà, chuyện đó thực chất cũng là điều dễ hiểu thôi.@
+` Kẻ đang phải chịu đựng cơn đau buốt óc này là tôi chứ đâu phải em ấy.@
+` Nếu em ấy cũng lộ vẻ mặt đau đớn hay tỏ ra u uất lo âu theo, mọi chuyện sẽ chỉ càng thêm phiền hà rắc rối mà thôi.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"Hự[line=4]!"@
+`"Cậu chủ Shiki, cậu vẫn còn đau lắm sao ạ?"@
+`"[line=3]…… Xin lỗi em nhé, Hisui."@
+`"Dạ, cậu có chuyện gì sao ạ?"@
+`"Nhìn em đứng túc trực ở đây anh thấy vướng mắt lắm, thế nên xin em hãy ra ngoài đi.@ Có em túc trực bên cạnh thế này anh tuyệt đối không ngủ nổi đâu."@
+ld c,"tachi/his_t05",crossfade,400
+`"[line=4]Em hiểu rồi ạ, vậy em xin phép cáo lui.@ Nếu cậu cần bất kỳ điều gì, xin cậu hãy cứ réo gọi em ngay nhé."@
+cl c,lshutter,800
+` Nói rồi, Hisui lặng lẽ cúi chào rồi bước ra khỏi phòng.@
+br
+` Ngay khi bóng dáng em ấy vừa khuất hẳn, thâm tâm tôi mới thực sự buông lỏng, nhẹ nhõm.@
+` Cơn buốt nhói đau đầu cũng dần dịu bớt nhè nhẹ, có lẽ lúc này tôi đã có thể bình yên chìm vào giấc ngủ rồi.
+\
+bg #000000,crossfade,1500
+!w1000
+playstop
+bg "bg/bg_40c",crossfade,800
+waveloop se_11
+` ……@
+` …………
+\
+` ………………@
+` ……………………@
+` …………………………@
+` ………………………………@
+` ……………………………………
+\
+` Cộc, cộc.@ Cánh cửa phòng ngủ nhẹ nhàng hé mở.@
+br
+ld c,"tachi/aki_t12b",lshutter,800
+`"[line=3]Em xin lỗi vì đã làm phiền nhé, Nii-san.@ Anh đã tỉnh giấc chưa ạ?"@
+`"…… Ừm, anh thức rồi.@ Em tìm anh có việc gì sao, Akiha?"@
+`"Dạ không có gì đâu ạ, em nghe mọi người báo lại anh đang phải nằm tĩnh dưỡng vì chứng thiếu máu bộc phát, nên em chỉ muốn ghé qua xem tình hình sức khỏe của anh thế nào thôi."@
+` Nói rồi, cô ấy đăm đăm hướng ánh mắt nhìn về phía tôi đang nằm bất động trên giường.@
+` Ánh mắt dịu hiền và ấm áp ấy lộ rõ một sự lo lắng, u uất khôn tả.@
+br
+` …… Nhưng nói thực lòng, sự túc trực lo lắng thái quá ấy lúc này lại khiến tôi thấy vô cùng vướng mắt và khó chịu dữ dội.
+\
+`"Anh hoàn toàn ổn mà.@ Tình trạng không đến mức tệ hại thế đâu, nên anh mới muốn tự nằm nghỉ ngơi tĩnh dưỡng một mình thế này.@ Em mau trở về phòng ngủ của mình đi thôi, Akiha."@
+ld c,"tachi/aki_t21b",crossfade,400
+`"[line=3]Nii-san, anh đang lảm nhảm chuyện gì thế hả?@
+` Bây giờ đã đến giờ dùng bữa tối rồi đấy ạ.@ Em cất công chạy lên đây chính là muốn gọi anh xuống ăn cơm cùng mọi người đấy."@
+\
+` …… Bữa tối……?@
+` Ơ kìa, hóa ra thời gian trôi nhanh đến mức trời đã tối muộn thế rồi sao?@
+` Nhưng thâm tâm tôi lúc này hoàn toàn không có chút cảm giác thèm ăn nào cả, và tôi cũng chẳng muốn nuốt nổi thứ gì vào bụng.@
+br
+`"Anh hoàn toàn không có cảm giác ngon miệng, nên tối nay anh sẽ bỏ bữa vậy.@ Anh không sao đâu, nên tối nay em cứ mặc kệ anh đi.@ Cơ thể anh lúc này thực sự thấy mệt mỏi khó chịu lắm."
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"…… Em hiểu rồi ạ.@ Vậy anh hãy cố gắng nằm tĩnh dưỡng nghỉ ngơi cho khỏe nhé.@ Nhưng Nii-san này, dẫu có nằm thức đi chăng nữa, xin anh hãy bật đèn phòng ngủ sáng lên giúp em được không? Cứ túc trực nằm đăm đăm trong bóng tối đêm đen thế này sẽ có hại cho thị lực của anh lắm đấy."@
+`"[line=3]Anh ổn mà.@ Nằm thư giãn trong bóng tối thế này anh lại thấy dễ chịu hơn."@
+`"………………"@
+cl c,lshutter,800
+` Dẫu cho đôi mắt đượm buồn của Akiha lộ rõ vẻ muốn giãi bày thêm nhiều điều nữa, cô ấy vẫn đành lặng lẽ quay lưng bước ra khỏi phòng ngủ.
+\
+`"………………"@
+` Thâm tâm tôi bỗng dâng lên một nỗi bực dọc, u uất vô cớ.@
+` Thái độ dè dặt túc trực của Hisui, và cả ánh mắt lo âu quá mức của Akiha nữa, tất cả bọn họ dường như đang đối xử với tôi như thể tôi là một món đồ thủy tinh dễ vỡ vậy.@
+br
+` Chẳng phải mọi chuyện lâu nay vốn dĩ vẫn luôn như thế sao?@
+` Tôi có phải là kẻ đang ho ra máu hay là con quái vật chuyên đi hút máu người đâu chứ, tại sao bọn họ tuyệt đối không chịu để tôi được yên ổn một mình đi hả?
+\
+br
+` [line=4]*Nghiến răng.*@
+br
+` Giữa bóng tối phẳng lặng đêm đen, tôi nghe thấy rõ tiếng răng mình đang nghiến chặt lại kèn kẹt dữ dội.@
+`"…………"@
+` Hệ thần kinh của tôi lúc này đang bị căng thẳng, kéo căng dữ dội, tôi tự hiểu rõ điều đó hơn ai hết.@
+` Nếu cứ túc trực thức trắng quay cuồng trong suy nghĩ tiêu cực thế này, đầu óc tôi chắc chắn sẽ rơi vào trầm cảm tột độ mất thôi.@
+` Tuy thâm tâm tuyệt đối không hề buồn ngủ, nhưng tôi bắt buộc phải cưỡng chế bản thân chìm vào giấc ngủ ngay lập tức thôi.
+\
+wavestop
+bg #000000,crossfade,1500
+!w1000
+play "*6"
+bg "bg/bg_40c",notrans,0
+monocro #0000ff
+bg "bg/bg_46a",notrans,0
+bg "bg/bg_33d",notrans,0
+bg "bg/bg_48d",notrans,0
+bg "bg/bg_32d",notrans,0
+bg "bg/bg_47",notrans,0
+bg "bg/bg_22c",notrans,0
+bg "bg/bg_24c",notrans,0
+bg "bg/bg_25b",crossfade,400
+wave se_01
+br
+br
+br
+br
+br
+br
+` Tôi cất bước ra ngoài đại lộ trung tâm sầm uất.@
+` Ngày mới vừa mới bước sang được chừng hai phút đồng hồ trước.@
+!w1000
+\
+br
+br
+br
+br
+br
+br
+` Đêm khuya Chủ Nhật phẳng lặng tĩnh mịch.@
+` Tuyệt đối không có một bóng người nào qua lại trên đường phố lúc này.@
+!w1000
+\
+br
+br
+br
+br
+br
+` Liệu tôi có lỡ nhầm lẫn mốc thời gian chăng?@
+` Nếu như tôi chủ động cất bước đi bộ sớm hơn chừng một tiếng đồng hồ, tôi đã chẳng phải gượng sức lê bước điên cuồng vất vả đến nhường này rồi.@
+!w1000
+\
+br
+br
+br
+br
+br
+br
+` Tôi cứ thế lê bước, nặng trĩu điên cuồng.@
+` Tiếng động lết kéo lê lết quái dị phát ra lúc này, 
+` tuyệt đối không phải là tiếng bước chân đi bộ của tôi, 
+` mà là tiếng kéo lê của một thứ gì đó khác sát mặt đất.
+\
+br
+br
+br
+br
+br
+br
+` Đúng vậy, mốc thời gian này là hoàn toàn chuẩn xác rồi.@
+` Bởi nếu tôi cất bước ra ngoài sớm hơn chừng một tiếng đồng hồ, tôi chắc chắn sẽ tuyệt đối không bao giờ có thể tự do lê bước theo một điệu đi quái dị đến nhường này.
+\
+br
+br
+br
+br
+br
+br
+` Tiếng lê lết kéo lê sát mặt đất, 
+` Một bàn tay tôi lúc này đang nắm chặt bấu vào mái tóc dài của một người phụ nữ, kéo lê thân xác cô ấy cất bước điên cuồng về phía trước.@
+` Mái tóc dài thướt tha tuyệt đẹp.@ Bởi bóng hình cô ấy trông cực kỳ giống với Akiha, thế nên tôi mới ra tay lựa chọn người phụ nữ tội nghiệp này.@ Không phải vì dung nhan gương mặt, mà bởi thâm tâm tôi cực kỳ say đắm mái tóc dài của cô ấy.
+\
+bg #000000,crossfade,400
+bg "bg/bg_31b",crossfade,400
+` Tôi thẳng tay buông lỏng mái tóc dài gầy của cô ấy ra.@
+` Thân xác cô ấy hoàn toàn bất tỉnh, đổ sập lăn xuống nền đất lạnh lẽo.@
+` Nhưng tôi tuyệt đối chưa ra tay giết hại cô ấy đâu.@
+` Bởi trưa nay tôi chưa có chút cơm tối nào bỏ bụng cả, thế nên tôi muốn thưởng thức bữa tối ngon lành này một cách ngon miệng nhất có thể.@
+` Tôi đã từng nghe phong thanh ở đâu đó nói rằng, dòng máu của một cái xác chết sẽ trở nên lạnh lẽo hoàn toàn và có hương vị vô cùng tồi tệ, kinh tởm.
+\
+` Chiếc cổ trắng ngần, mịn màng không một tì vết của cô ấy thực sự khiến tôi vô cùng thỏa mãn, không có chút phàn nàn nào cả.@
+` Một bàn tay siết chặt lấy chuôi dao găm sắc lẹm, tôi từ từ cúi đầu kề môi sát lại gần[line=3]
+playstop
+bg #000000,notrans,0
+monocro off
+` Vừa trải qua giấc mơ ác mộng kinh hoàng tột độ ấy, tôi giật mình tỉnh giấc.@
+`"[line=5]!"@
+` Vừa choàng tỉnh giấc ngủ sâu, đầu óc tôi bỗng chốc trống rỗng, bắt đầu tỉnh táo trở lại.@
+` Cổ họng tôi lúc này khô khốc đáng sợ như hoang mạc, toàn bộ cơ thể bỗng trào dâng một cảm giác hưng phấn rạo rực dữ dội.
+\
+`"Rốt cuộc[line=3]mình vừa trải qua giấc mơ quái dị gì thế này……"@
+` Giấc mơ ác mộng điên rồ gì thế không biết?@
+` Tôi tuyệt đối không dám tin vào những gì mình vừa nhìn thấy.@
+` Lẻn ra ngoài biệt thự giữa đêm khuya phẳng lặng, thẳng tay đánh bất tỉnh một người phụ nữ xa lạ hoàn toàn không quen biết, rồi kéo lê lết cô ấy vào hẻm tối để làm nhục sao.
+\
+` Đó thực sự là một tội ác điên rồ và đồi bại tột cùng.@
+` May mắn thay chuyện đó chỉ xảy ra trong giấc mơ nên vẫn ổn, chứ nếu là hiện thực ngoài đời, tôi chắc chắn đã hóa thành một tên sát nhân điên loạn mất rồi.
+\
+` Tiếng thở dốc dồn dập, gấp gáp của tôi vang vọng phẳng lặng khắp căn phòng ngủ.@
+` Tôi phải cố gắng điều hòa lại nhịp thở dồn dập của mình.@
+` Đưa tay dụi nhè nhẹ đôi mắt mỏi mệt, tôi hít một hơi thật sâu để trấn tĩnh lại tinh thần.@
+` …… Sau biến cố ác mộng điên loạn vừa rồi, tôi cá là thâm tâm mình tuyệt đối không cách nào chợp mắt ngủ tiếp nổi nữa.@
+` Quyết định tắt ngấm ánh đèn phòng, tôi lẳng lặng lôi cuốn sách ra đọc cho qua thời gian cho đến tận lúc sáng bình minh lên.
+\
+monocro #ff00ff
+bg "bg/ima_10b",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` Đôi mắt tôi, từ từ, nhè nhẹ,
+\
+monocro #0000ff
+bg "bg/bg_31b",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` dần thích nghi và quen thuộc với bóng tối phẳng lặng đêm đen.
+\
+monocro off
+bg "bg/bg_31b",crossfade,400
+`"[line=11]C, cái gì thế này……"@
+` Tôi bỗng nghẹn họng thốt lên trong sự bàng hoàng tột độ.@
+` Đây tuyệt đối không phải là phòng ngủ ấm áp thường nhật của tôi.@
+` Một con hẻm hoang vắng tối tăm u ám.@
+` Một bàn tay đang siết chặt lấy chuôi dao găm sắc lẹm.@
+` Ngay trước mắt tôi lúc này, 
+` là thân xác bất tỉnh nhân sự của một người phụ nữ xa lạ hoàn toàn không quen biết đang nằm sõng soài dưới đất.
+\
+wave se_01
+`"Hộc[line=11]"@
+` Chuyện quái quỷ gì thế này? 
+` Tôi đang làm cái trò điên rồ gì ở chốn này thế này?@
+br
+` Chẳng phải mọi chuyện vừa rồi chỉ là một giấc mơ thôi sao?
+\
+` Chẳng phải đây chính xác là những gì tôi vừa mơ thấy trong ác mộng đêm qua ư?
+\
+wave se_01
+`"[line=10]"@
+` Chắc chắn đây bắt buộc phải là một giấc mơ ác mộng mà thôi.@
+` Bởi trong thâm tâm của một kẻ dung dị thường nhật như tôi, tuyệt đối không bao giờ tồn tại một ham muốn đồi bại, quái dị đến nhường này.@
+` Thẳng tay tấn công tàn bạo một người phụ nữ tội nghiệp xa lạ, 
+` thèm khát được lướt lưỡi dao găm sắc lẹm điên cuồng dọc theo những 'đường tử vong' chằng chịt khắp cơ thể mềm mại của cô ấy, 
+` muốn được tận mắt chứng kiến dòng máu đỏ tươi chảy tràn trề ra từ những thớ thịt bị cắt rời rạc ra làm nhiều mảnh, không thể nào[line=4]tuyệt đối không thể nào có chuyện điên rồ ấy được?
+\
+wave se_01
+` Đúng thế, bản tính con người tôi tuyệt đối không bao giờ muốn làm điều tàn ác ấy cả.@
+` Nhưng dẫu vậy, không vì bất kỳ lý do gì[line=3]đầu óc tôi lúc này lại điên cuồng thôi thúc, găm vào đầu một mệnh lệnh rằng mình bắt buộc phải ra tay phân xác cô ấy ngay lập tức.
+\
+wave se_01
+br
+` Hãy tàn sát cô ấy đi.@@
+wave se_01
+` Hãy tàn sát cô ấy đi.@@
+wave se_01
+` Hãy phân thây cô ấy ra thành trăm mảnh đi.@@
+wave se_01
+` Hãy phân thây cô ấy ra thành trăm mảnh đi.@@
+wave se_01
+br
+` Chỉ cần ra tay thực hiện tội ác vĩ đại ấy thôi, 
+` bản thân tôi sẽ lập tức được giải phóng hoàn toàn, hóa thân thành một thực thể vĩ đại mà tuyệt đối không một luật lệ hay kẻ nào trên đời có thể ràng buộc nổi nữa.
+br
+` Sực nghĩ lại chuyện đó, hóa ra…… 
+` trước đây dường như đã từng có một kẻ giãi bày những lời điên cuồng tương tự như thế trước mặt tôi rồi.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Ngươi và ta thực chất cũng giống hệt như nhau thôi.@ Ngươi rồi cũng sẽ giống như ta, cuối cùng đều sẽ hóa thành một kẻ sát nhân khát máu điên loạn mà thôi, Tohno Shiki.
+\
+wave se_01
+`"…… Câm mồm đi!"@
+br
+` [line=3]Mau ngoan ngoãn thừa nhận sự thật hiển nhiên ấy đi, hỡi kẻ sát nhân.@
+`   Bản năng đảo ngược điên cuồng đang trỗi dậy trong lòng ngươi chẳng qua chỉ là thứ mà thâm tâm ngươi hằng đêm tơ tưởng thèm khát mà thôi[line=3]
+br
+`"Câm…… câm ngay đi cho tao!"
+\
+wave se_01
+` Nhưng rốt cuộc, chuyện quái dị gì đang bủa vây thế này? @
+` Chuyện điên rồ gì thế này? @
+` Tại sao tôi lại ra tay thực hiện hành vi tội ác đồi bại này cơ chứ?
+\
+` Và ngay cả sau khi đã nhận thức rõ hành vi điên rồ này, tại sao đôi tay tôi vẫn ngoan cố đè chặt lưỡi dao găm sắc lẹm dí sát vào cổ cô ấy cơ chứ?
+\
+wave se_01
+` Nếu như biến cố ác mộng này tuyệt đối không phải là mơ, nếu như đây hoàn toàn là sự thật hiển nhiên của hiện thực ngoài đời, 
+` thì chẳng phải nó đồng nghĩa với việc bản thân tôi thực sự đã hoàn toàn phát điên điên loạn như những trăn trở lo âu lúc trước rồi sao?
+\
+wave se_01
+`"[line=4]Ưm."@
+br
+` Đôi mi mắt của cô ấy khẽ cử động nhấp nháy nhè nhẹ.@
+` Cô ấy đang dần dần hé mở mắt thức tỉnh.@
+` Trước khi cô ấy kịp thức giấc, 
+` tôi bắt buộc phải thẳng tay ra tay phân xác xẻ thịt cô ấy ra làm nhiều mảnh ngay lập tức, hoặc không thì bản thân tôi[line=3]
+\
+`"A."@
+br
+` Lưỡi dao găm sắc lẹm trong tay tôi bỗng chốc di chuyển.@
+` Nhưng hành động điên cuồng đó thực chất lại là……
+br
+`"…… Anh là ai thế?"@
+` Giọng nói yếu ớt, thều thào của cô ấy bỗng cất lên bên tai tôi.@
+` Và rồi, cô ấy lập tức nhận thức được chiếc lưỡi dao găm sắc lẹm lạnh toát đang đè chặt dí sát ngay bên cạnh cổ mình.
+\
+br
+`"Á[line=3]"@
+`"Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á Á!"
+\
+bg #000000,lcartain,400
+bg "bg/bg_25b",lcartain,400
+waveloop se_02
+` Tiếng thét thất thanh của cô ấy bỗng chốc bị đè bẹp, tan biến hoàn toàn vào tiếng gào rú điên loạn tột độ của tôi.@
+` Tôi gào rú điên cuồng.@ Hệt như một tiếng còi báo động bị hỏng hóc chập mạch, tôi vừa điên cuồng tháo chạy vừa túc trực gào rú hết sức bình sinh phẳng lặng giữa đêm đen.
+\
+bg #000000,lcartain,400
+bg "bg/bg_22c",lcartain,400
+` @Hơi thở của tôi dồn dập, hổn hển dữ dội.@
+` @Mười đầu ngón tay run rẩy bần bật điên cuồng.@
+` @Đầu óc tôi lúc này bỗng chốc trống rỗng, trắng xóa hoàn toàn.@
+` @Nhưng thật may mắn, tôi đã kịp thời thu hồi con dao găm lại rồi cắm đầu chạy tháo mạng trước khi kịp ra tay phân xác cô ấy.@
+br
+` @Tuy nhiên, nếu như trước đó cô ấy không kịp thét thất thanh trước mặt tôi như vậy, 
+br
+` @tôi chắc chắn đã thẳng tay ra tay tàn độc[line=4]
+\
+`"Hơ, hộc, ha ha, ha ha ha ha ha………!"@
+br
+` Kinh hoàng tột độ.@
+` Nỗi sợ hãi ác mộng này thực sự quá đỗi kinh hoàng, tàn khốc.
+\
+` Nó thậm chí còn đáng sợ và tàn bạo hơn gấp trăm ngàn lần so với tất cả những biến cố kinh hoàng bủa vây tôi suốt mấy ngày giông bão vừa qua.
+\
+bg #000000,lcartain,400
+bg "bg/bg_32d",lcartain,400
+` Vừa cười điên loạn vừa thở hổn hển dữ dội như một gã điên, tôi cắm đầu chạy tháo mạng.@
+` Bóng ma kinh hoàng ấy vẫn đang túc trực bám đuổi sát nút ngay phía sau lưng tôi.@
+` Cảm giác ớn lạnh rùng mình tựa như có một bàn tay tử thần đang vuốt ve dọc sống lưng.@
+` Dẫu cho có điên cuồng chạy trốn xa đến nhường nào đi chăng nữa[line=3]tôi cũng tuyệt đối không cách nào tháo chạy thoát khỏi nỗi sợ hãi tột cùng bộc phát từ chính thâm tâm của bản thân.
+\
+bg #000000,lcartain,400
+bg "bg/bg_33d",lcartain,800
+bg "bg/bg_40d",lcartain,800
+` *Hộc* *hộc* *hộc*
+` Tôi phi như bay lao thẳng vào phòng ngủ của mình rồi cuống cuồng tìm cách chốt khóa cửa chặt lại.@
+` Tôi cuống cuồng loay hoay trong hỗn loạn phẳng lặng, nhưng tuyệt đối chẳng cách nào chốt khóa nổi cửa.
+\
+` Đống đầu ngón tay của tôi lúc này.
+` Mười đầu ngón tay của tôi đang run rẩy bần bật, co giật một cách điên cuồng.@ Chỉ đơn thuần là một thao tác trượt chiếc then sắt nhỏ bé để chốt khóa cửa lại thôi, vậy mà tôi lại bất lực chẳng thể nào thực hiện nổi.‹
+\
+` *Hộc* *hộc* *hộc*
+` Tôi thực sự sợ hãi tột độ rồi.@
+` Nếu không nhanh chóng chốt khóa cửa lại ngay lập tức, bóng ma quái quỷ ấy chắc chắn sẽ tràn vào phòng mất thôi.
+\
+` Một sinh vật vô hình tà ác nào đó sẽ điên cuồng đột nhập vào phòng ngủ này.
+\
+`"Hự…………!"@
+` Mình bắt buộc phải, phải khóa chặt cửa phòng ngủ lại bằng mọi giá.@
+` Tôi tuyệt đối không thể cho phép thứ tà ác ấy bước chân đột nhập vào căn phòng này.
+\
+` Tôi tuyệt đối không thể cho phép thứ tà ác trong người tôi bước chân rời khỏi căn phòng ngủ này thêm một lần nào nữa.
+\
+` Nhưng tại sao chứ?@
+` Tôi tuyệt đối không thể hiểu nổi lý do vì sao nữa.@
+` Dẫu cho có bất lực không biết vì sao, tôi vẫn điên cuồng, cuống quýt tìm cách chốt khóa cửa phòng ngủ suốt đêm phẳng lặng trong vô vọng.
+\
+wavestop
+` Suốt cả đêm dài phẳng lặng tĩnh mịch, tôi cứ thế cuống quýt tìm cách khóa chặt cửa phòng.@
+` Nhưng dẫu cho có loay hoay kiên trì chật vật đến nhường nào đi chăng nữa, tôi vẫn tuyệt đối chẳng cách nào chốt khóa nổi cửa phòng ngủ của mình.
+\
+br
+br
+br
+br
+br
+br
+` Và ngay tại thời khắc kinh hoàng ấy, tôi bỗng chợt nhận thức sâu sắc được một sự thật hiển nhiên.@@
+` Hóa ra bản thân tôi vốn dĩ đã là một kẻ điên loạn hoàn toàn ngay từ thuở ban đầu rồi.
+\
+bg #000000,crossfade,800
+!w3000

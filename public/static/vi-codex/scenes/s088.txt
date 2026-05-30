@@ -1,0 +1,226 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_19d",notrans,0
+ld c,"tachi/ark_t01a",crossfade,400
+` "Ừm. Tôi đoán chắc bộ não của cậu bị căng thẳng vì có thể nhìn thấy 'cái chết'… Vâng, chắc chắn là có lý do gì đó cho đôi mắt của cậu, nhưng đây là tất cả những gì tôi có thể nói với cậu bây giờ. Nếu chúng ta có cơ hội sau này, tôi sẽ giải thích chi tiết hơn."@
+` "Được rồi. Tôi không thích nghe chuyện dài đâu."@
+ld c,"tachi/ark_t08",crossfade,400
+` "Vậy à? Cá nhân tôi thích nói chuyện với người khác."@
+` Arcueid bật cười một cách hồn nhiên.@
+` Thật ra cô ấy dường như rất thích làm việc gì đó hơn là nói chuyện.
+\
+bg #000000,lshutter,800
+bg "bg/bg_19d",rshutter,800
+` Ban đêm buông xuống.@
+` Arcueid ngồi trên giường và chúng tôi đều nhìn đồng hồ một cách thờ ơ.@
+` Đã qua bốn giờ sáng rồi.@
+` Khoảng một tiếng nữa là bình minh.
+\
+` "Chỉ còn một tiếng nữa thôi?"@
+` Cho đến nay chưa có gì bất thường xảy ra, và Arcueid không có dấu hiệu căng thẳng.@
+` Chúng tôi bị bao quanh bởi sự thanh bình tuyệt đối.@
+` Lẽ nào đêm nay lại kết thúc như thế này?
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` "Ê, Shiki."@
+` Arcueid gọi tôi một lần nữa.@
+` "Gì? Tôi không có gì khác để nói đâu."@
+ld c,"tachi/ark_t03",crossfade,400
+` "Thật sao? Nhưng thật lãng phí nếu không nói chuyện, khi chúng ta đang ở trong tình huống như thế này chứ."@
+` …… Nghe đây, cậu nghĩ tôi đã phải chịu đựng những lời nói ngớ ngẩn của cậu bao nhiêu giờ rồi? Sáu tiếng. Cái đó khiến tôi mệt mỏi hơn cả việc canh gác.@
+ld c,"tachi/ark_t04",crossfade,400
+` Arcueid liếc nhìn tôi với ánh mắt không hài lòng.
+\
+` [line=3]Đúng vậy.@
+` Có một lý do nào đó Arcueid đã nói chuyện với tôi liên tục trong sáu giờ.@
+` Tôi bảo cô ấy nên ngủ nếu cô ấy cảm thấy yếu, nhưng cô ấy trả lời là 'Thú vị hơn khi nói chuyện', vì vậy cuối cùng chúng ta đối mặt và trò chuyện suốt cả thời gian.@
+` *thở dài*@
+` Tôi chỉ không biết cô ấy đang nghĩ gì.@
+br
+` [line=3]"Ồ, thêm một vấn đề nữa, tôi lại đói rồi."@
+br
+` Để rồi tôi còn đói nữa.@
+` Nghĩ lại, bữa ăn cuối cùng của tôi là bữa sáng, vì vậy tôi đã không ăn gì cả một ngày.
+\
+ld c,"tachi/ark_t03",crossfade,400
+` "Nếu cậu đói thì hãy ăn cái gì đi? Chúng ta đang ở khách sạn sang trọng mà, nên cậu có thể gọi dịch vụ phòng."@
+` "Được rồi. Tôi sẽ mất cảm giác căng thẳng nếu tôi no bụng bây giờ. Quan trọng hơn, cậu không nên ăn cái gì đó à? Cậu yếu đi nhưng lại không ngủ, nên ít nhất cũng phải ăn cái gì đó."@
+` "Nếu cậu không ăn thì tôi cũng không ăn.@ Thức ăn bình thường có ý nghĩa riêng của nó, nhưng thật nhàm chán khi ăn một mình."
+\
+` "Thức ăn bình thường? Không có gì bình thường hay đặc biệt về[line=3]@
+cl c,crossfade,400
+br
+` …… À, chờ chút.@
+` Arcueid là một ma cà rồng.`Tôi đoán đối với cô ấy, "thức ăn" có nghĩa là uống máu người.`@
+br
+` "[line=3]Hay là có chứ?@ Tôi đoán làm ma cà rồng, cậu thường chỉ ăn máu thôi mà."`
+\
+` Cô ấy chẳng có vẻ ngoài như vậy, nhưng Arcueid là một ma cà rồng.`@
+` Cô ấy nói ma cà rồng cần máu người để sống sót.`@
+` [line=3]Thế thì cô ta đã hút máu bao nhiêu người rồi, giết bao nhiêu người trước đây?`
+\
+` [line=5]" "@
+` Tôi liếc nhanh vào khuôn mặt cô ấy.`@
+` ……. Tôi không thể tưởng tượng được.`@
+` Mặc dù tôi biết cô ấy là ma cà rồng, nhưng vì một lý do nào đó, tôi không thể hình dung ra cô ấy hút máu ai.[line=3]`
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` "Có chuyện gì sao?",@
+` ……"!`@
+` Cô nhìn tôi, tôi lập tức tránh mắt.@
+` Arcueid liếc nhìn tôi rồi bật cười như hiểu ra điều gì đó.
+\
+` Cậu tò mò sao?`
+\
+` "Vài chuyện...?"@
+` Tôi đã hút máu bao nhiêu người?`
+\
+` [line=5]Erk`@
+` Cô ấy đã đọc hết suy nghĩ của tôi.`@
+br
+` Nụ cười của Arcueid rộng hơn nữa, tôi không thích nó.
+\
+cl c,crossfade,400
+` “...... Ừm, đương nhiên tôi tò mò.  Tôi đang giúp cậu, nếu không biết thì chẳng thể đoán được khi nào cậu lại thay đổi ý định và tấn công tôi.”`@
+` Điều đó quả thật là một vấn đề.@
+` "Tôi hiểu rồi, tôi hiểu rồi," Arcueid nói.
+\
+` "Vậy thì, đây là một câu hỏi. Tôi đã hút máu bao nhiêu người cho đến nay?@
+` Cô nhảy nhẹ từ giường lên và đi đến cửa sổ.@
+` Bao nhiêu người? Đó là[line=3]@
+ld c,"tachi/ark_t01a",crossfade,400
+` Arcueid mỉm cười vui vẻ và nhìn tôi một cách im lặng với vẻ thích thú.@
+` …… Curses, rõ ràng cô ta đang cố gắng provok tôi.@
+` Được rồi. Tôi sẽ trả lời.@
+` Ừm… nó phải là…
+\
+` "Cỡ vài trăm người?@
+` "Xin lỗi, cậu sai rồi."@
+ld c,"tachi/ark_t09",crossfade,400
+` "Vậy thì… hàng ngàn người?@
+` "Không, lần này cũng sai.@
+` Arcueid cười như thể điều đó thật buồn cười.@
+` …… Một cách nào đó, cảm giác này thật phiền toái.
+\
+` "Curses! Vậy… tốt nhất là tôi không nghĩ như vậy, nhưng… hàng chục?@
+ld c,"tachi/ark_t01a",crossfade,400
+` "Cũng sai. Ôi, thật sự? Hàng chục, hàng trăm, hàng ngàn… cậu có coi tôi là người như thế không? Cậu quá tàn nhẫn rồi, điều đó sẽ khiến tôi trở nên vô cảm.@
+` "Tôi sai chứ? Ma cà rồng là những kẻ vô cảm, phải không? Ngay cả con người cũng thèm khát khi sống, và khi mạng sống của họ bị đe dọa, họ sẽ không thể kiên nhẫn được.@
+` "Vâng, điều đó đúng, nhưng…
+\
+ld c,"tachi/ark_t22",crossfade,400
+` "Tôi chưa từng nếm máu trong tám trăm năm qua. Và tôi cũng chưa bao giờ giết một người bình thường.@
+br
+` [line=4]Ê?@
+br
+` "Chờ chút[line=3]đó có phải sự thật không?"@
+` "Đó là sự thật.@ Sau cùng, tôi sợ hút máu."
+\
+` Ê?[line=3]@
+` Sợ hút máu?@
+br
+` "Bạn phải đang đùa chứ? Một ma cà rồng sợ hút máu? Tại sao?"@
+` "…… Tôi đoán tôi là một kẻ yếu đuối. Đó là lý do tại sao tôi là một thất bại như một ma cà rồng."@
+` Arcueid thì thầm khi nhìn lên bầu trời đêm từ cửa sổ.@
+cl c,crossfade,800
+br
+` Cô ấy ở vậy rất lâu, tiếp tục ngắm nhìn bầu trời.@
+` Lưng trắng của cô ấy trông mờ nhạt… như bị phủ một lớp sương mù, như thể cô ấy chỉ là một ảo ảnh.
+\
+` "…… Tôi hiểu, một kẻ thất bại."@
+` Tôi thì thầm, và tôi cảm thấy nhẹ nhõm.@
+` …… B somehow, điều đó khiến tôi vui.@
+` Dĩ nhiên, việc này rất bình thường.@
+` Bởi vì bây giờ tôi biết người đứng trước mặt tôi không phải là một sinh vật hung ác, xấu xa.@
+` Hiện tại, nếu tôi tin vào những gì cô ấy nói, tôi sẽ không bị cô ấy giết ngẫu nhiên.
+\
+` Vậy nên, tôi an toàn. …… Tôi an toàn, nhưng tôi cảm thấy đó không phải là lý do duy nhất khiến tôi nhẹ nhõm.@
+br
+` [line=3]Chết tiệt, có chuyện gì sai với tôi?@
+br
+` Cảm thấy nhẹ nhõm về điều như thế này… làm sao tôi có thể vui vì Arcueid là một kẻ thất bại?
+\
+bg #9c0120,crossfade,400
+playstop
+bg "bg/bg_19d",crossfade,400
+` "Ah[line=4]"@
+` Đột nhiên, tôi cảm thấy một cơn choáng váng nhẹ.@
+br
+ld c,"tachi/ark_t01a",crossfade,400
+` "Shiki? Cậu sao vậy? Cậu đổ mồ hôi quá nhiều "@
+` "Không, chỉ là một cơn đau nhói ở đầu thôi[line=3]"@
+` Tôi nhận ra điều gì đó với sự sốc khi trả lời Arcueid.@
+bg #000000,crossfade,400
+bg "bg/cmo_16",crossfade,400
+` Cửa sổ sau lưng Arcueid.@
+` Bên ngoài kính, trong những con phố thành phố vẫn chìm trong bóng tối của đêm.@
+br
+` Một con quạ màu xanh đang nhìn về phía tôi.
+\
+` "Đó là[line=3]"@
+` Tôi chỉ có thể nhìn chằm chằm vào hình bóng mờ nhạt của nó qua cửa sổ.@
+` Arcueid quay sang cửa sổ.@
+` "…… Nrvnqsr?"@
+br
+` "ĐÚNG RỒI. TÔI ĐÃ CUỐNG NGAY BẠN, NỮ HOÀNG CỦA CÁC TIỀN NHÂN CHÍNH THỨC."@
+br
+` Từ đâu đó,
+` một luồng ý chí tràn vào phòng.
+\
+` Mắt Arcueid đầy thù hận.@
+` Bên ngoài cửa sổ, con quạ kêu to và cao.@
+br
+` "ĐÂY LÀ NÓ. TÔI ĐANG ĐI ĐÓ NGAY."@
+br
+bg "bg/ima_18",crossfade,400
+` Con quạ màu xanh bay đi.@
+` Chỉ còn lại bóng tối của đêm và trăng trắng.
+\
+bg "bg/bg_19d",notrans,0
+play "*6"
+` [line=8]Đột nhiên
+br
+Lắc động mạnh 5,100
+` Bùm!@
+` Với tiếng động lớn, căn phòng rung chuyển dữ dội.@
+` Không, để chính xác hơn,
+` toàn bộ khách sạn đều bị ảnh hưởng bởi cú va chạm đó.
+\
+` [line=3]"Cái gì thế này!?"@
+` Tôi đứng dậy khỏi giường.@
+ld c,"tachi/ark_t07",crossfade,400
+` Arcueid im lặng, cắn chặt môi với vẻ mặt khó chịu.@
+` "Arcueid, cái rung động vừa rồi[line=3]"@
+` [line=5]"@
+` Cô không trả lời.
+\
+` "…… Nói điều gì đi! Chẳng phải là động đất chứ?@
+` [line=3] Nếu tôi phải đoán, nó giống như ai đó đã lái xe tải vào sảnh khách sạn với tốc độ tối đa. Đó là loại cú va chạm.@
+` "…… Arcueid!"@
+` Cô… không trả lời.@
+cl c,crossfade,400
+br
+` Nếu tôi nghe kỹ, tôi có thể nghe thấy tiếng động từ tầng dưới.
+\
+` …… Mặt Arcueid rất nghiêm trọng.@
+` Cô ấy nói rằng cô ta vô lực vào lúc này.@
+` Đó là lý do tại sao cô ta không nói gì.
+\
+` " [line=6] "@
+` Chỉ có thời gian trôi qua.@
+` Hai phút.@
+` Đã hai phút kể từ va chạm, nhưng khách sạn thật im lặng.@
+br
+` Arcueid vẫn im lặng và không động đậy.@
+` Chỉ cắn môi như thể đang chống lại điều gì đó.@
+` Tôi có thể nhìn thấy một dòng máu đỏ chảy chậm từ môi cô xuống.
+\
+` [line=4]Arcueid[line=4]@
+` Cô có lo lắng? Phẫn nộ?@
+` Cô vẫn im lặng, gần như đang ôm lấy chính mình, chịu đựng điều gì đó.@
+br
+` Cô nói cô sẽ không rời khỏi phòng.@
+` Rồi,
+` thì tôi ở đây để làm gì?
+\

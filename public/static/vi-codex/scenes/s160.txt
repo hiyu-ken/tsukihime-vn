@@ -1,0 +1,56 @@
+monocro off
+play "*8"
+wavestop
+bg "bg/bg_40c",notrans,0
+`"………………`@
+` Tôi đoán chuyện này cũng không thể tránh khỏi.@
+` Tôi sợ mình sẽ khiến con bé bật khóc nếu tôi cứ tiếp tục bướng bỉnh chống đối.
+\
+`"…… Được rồi. Tối nay tôi sẽ ngoan ngoãn đi ngủ."@
+` Nói rồi, tôi nằm xuống giường.@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Thật chứ...? Anh không định lén trốn khỏi phòng đấy chứ?"@
+`"Không đâu, tôi biết điều đó mà. Thú thật là cơ thể tôi bây giờ nặng như chì vậy. Tôi có muốn trốn ra ngoài cũng chịu chết thôi."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"[line=4]Thật tốt quá."@
+` Akiha thở phào nhẹ nhõm, vẻ mặt giãn ra rõ rệt.
+\
+`"Hisui, em xuống bảo chị Kohaku là cậu chủ đã tỉnh nhé. Nii-san, anh có muốn ăn tối chút không?"@
+`"... À phải rồi. Thôi, cho tôi gửi lời xin lỗi đến Kohaku nhé, nhưng hiện tại tôi thực sự không nuốt nổi thứ gì. Tôi chỉ muốn đi ngủ thôi."@
+ld c,"tachi/aki_t01b",crossfade,400
+`"... Em hiểu rồi. Vậy Hisui, xuống bảo chị Kohaku như vậy nhé."@
+` Vẫn cúi gục đầu buồn bã, Hisui khẽ gật đầu rồi bước ra khỏi phòng.
+\
+` ... Vậy là xong.@
+` Nằm trên giường, cơn buồn ngủ lại lập tức ập đến bủa vây lấy tôi.@
+` Cứ đà này, chắc tôi sẽ thiếp đi trong vòng chưa đầy một phút.@
+br
+` [line=4]Nhưng trước đó,
+br
+`"Akiha này. Trong vườn biệt thự có một khoảng trống nhỏ đúng không em?"@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Vâng. Khi chúng ta còn nhỏ, cả ba chúng ta vẫn thường chơi đùa ở đó suốt mà."@
+`"Ra vậy. Không hiểu sao tôi lại quên béng mất chuyện đó."@
+` ... Phải. Tôi thực sự đã hoàn toàn lãng quên nó.
+\
+`"[line=4]Còn một chuyện nữa. ... Một câu hỏi hơi kỳ lạ, nhưng ngày bé, ngoài chúng ta ra còn đứa trẻ nào khác chơi cùng không em?"@
+ld c,"tachi/aki_t01b",crossfade,400
+`"Hả?"@
+` Con bé nghiêng đầu đầy ngơ ngác, như thể không hiểu tôi đang nói gì.@
+` ... Có lẽ là không rồi. Không thể nào có đứa trẻ nào khác được.@
+` Nhưng... nếu quả thực là vậy, thì chuyện này kỳ lạ quá?@
+` Cảnh tượng mà tôi thấy trong giấc mơ,@
+` và ảo ảnh mà tôi thấy ở khoảng rừng trống lúc nãy.@
+` Nếu hai thứ đó là một[line=4]
+` Thì chuyện này chỉ hợp lý khi có một đứa trẻ khác đã bị sát hại dã man...
+\
+`"Không có gì đâu. Chỉ là tôi vừa mơ thấy một giấc mơ kỳ lạ thôi."@
+ld c,"tachi/aki_t12b",crossfade,400
+`"Thế ạ? Vậy chúc Nii-san ngủ ngon nhé. Anh hãy nghỉ ngơi thật tốt đi."@
+`"Ừm, tôi biết rồi."@
+bg #000000,crossfade,800
+` Ngay khi tôi trả lời con bé,
+` tôi chìm vào giấc ngủ sâu nhanh chóng hệt như lại bị ngất đi vậy.
+\
+playstop
+!w3000

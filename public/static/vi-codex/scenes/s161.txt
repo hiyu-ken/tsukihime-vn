@@ -1,0 +1,331 @@
+monocro off
+play "*8"
+wavestop
+bg "bg/bg_40c",notrans,0
+` …… Tôi rất cảm động vì con bé lo lắng cho tôi như vậy. Nhưng tôi không thể nuốt lời hứa với Arcueid được.@
+` Đêm qua cô ấy đã đứng chờ tôi suốt ba tiếng đồng hồ liền. Đó không phải là lý do duy nhất, nhưng dù cơ thể có đang thiếu máu thế nào, tôi cũng không thể tiếp tục để cô ấy phải chờ đợi thêm nữa.
+\
+`"…… Được rồi. Tối nay tôi sẽ ngoan ngoãn đi ngủ."@
+` Nói rồi, tôi nằm xuống giường.@
+ld c,"tachi/aki_t17b",crossfade,400
+`"Thật chứ...? Anh không định lén trốn khỏi phòng đấy chứ?"@
+`"... Ừm, tôi biết rồi mà. Cậu nghĩ tôi có thể trốn ra ngoài với tình trạng cơ thể thế này sao?"@
+`"[line=4]Vâng, nghĩ kỹ thì đúng là thế thật."@
+` Akiha thở phào nhẹ nhõm, vẻ mặt giãn ra rõ rệt.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"Hisui, em xuống bảo chị Kohaku là cậu chủ đã tỉnh nhé. Nii-san, anh có muốn ăn tối chút không?"@
+`"... À phải rồi. Thôi, cho tôi gửi lời xin lỗi đến Kohaku nhé, nhưng hiện tại tôi thực sự không nuốt nổi thứ gì. Tôi chỉ muốn đi ngủ thôi."@
+`"... Em hiểu rồi. Vậy Hisui, xuống bảo chị Kohaku như vậy nhé."@
+` Hisui vẫn cúi gục đầu buồn bã, khẽ gật đầu rồi bước ra khỏi phòng.
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"Vậy em xin phép về phòng trước. Có chuyện gì anh nhớ gọi em ngay nhé. Bất kể là mấy giờ, em cũng sẽ tới ngay lập tức."@
+cl c,lshutter,800
+\
+bg "bg/bg_40d",lshutter,800
+` Akiha tắt đèn rồi bước ra ngoài và khép cửa phòng lại.@
+`"... Xin lỗi em nhé, Akiha."@
+` Lầm bầm tạ lỗi, tôi gượng ngồi dậy trên giường.@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40d",crossfade,400
+`"Hộc... hự..."@
+` Chỉ việc ngồi bật dậy thôi cũng đủ khiến ý thức tôi chao đảo dữ dội.@
+` ... Cơn đau đầu này hoàn toàn khác với chứng thiếu máu thông thường của tôi.@
+` Tôi thừa hiểu điều đó, nhưng tôi không thể để Arcueid chờ đợi mãi được.@
+` Với tính cách của cô ấy, dù tôi có bỏ mặc cô ấy ở đó, chắc chắn cô ấy vẫn sẽ đứng chờ đợi tôi đến tận cùng.
+\
+` Tôi loạng choạng bước đến bàn làm việc.@
+` Tôi lấy con dao giấu trong ngăn kéo ra và mặc chiếc áo khoác vào.@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40d",crossfade,400
+`"Hộc... cứ đà này, mình thực sự chịu chết không trốn ra ngoài nổi mất."@
+` ... Tôi cần phải nghỉ ngơi lấy lại chút sức lực cho đến khi có thể chạy nhảy bình thường, bằng không khéo Hisui sẽ bắt gặp và đưa tôi trở lại phòng mất.
+\
+`"Xin lỗi Arcueid nhé.@ Xem ra đêm nay tôi lại trễ hẹn lâu hơn cả hôm qua rồi."@
+` Tôi ngồi bệt xuống sàn nhà.@
+` [line=4]Một tiếng nữa.@ Nếu nghỉ ngơi thêm một tiếng nữa, tôi chắc chắn có thể gượng dậy bước đi.
+\
+bg #000000,lcartain,1500
+playstop
+!w2000
+bg "bg/bg_28b",lcartain,1500
+` Tôi đến được công viên trước nửa đêm.@
+` Rốt cuộc, dù đã nghỉ ngơi thêm một tiếng, cơ thể tôi vẫn không thể hồi phục hoàn toàn, khiến tôi phải mất cả tiếng đồng hồ đi bộ mới lết được tới đây.
+\
+bg "bg/bg_29b",lcartain,800
+` Tôi thở dốc dồn dập.@
+` Cố nén lồng ngực đang phập phồng dữ dội, tôi đảo mắt nhìn quanh.@
+` Màn đêm tịch mịch bao trùm lấy công viên. Gần chỗ chúng tôi hẹn gặp, có một bóng người màu trắng đang đứng túc trực.@
+br
+`"... Biết ngay là cô ấy vẫn đứng chờ mà."@
+` Tôi thở hắt ra một hơi thở dài nhẹ nhõm.@
+` Có vẻ Arcueid đã nhận ra tôi.@
+` Cô ấy bước nhanh thẳng về phía tôi.
+\
+ld c,"tachi/ark_t16",lshutter,800
+play "*9"
+`"Này Shiki, trễ tận hai tiếng so với giờ hẹn rồi đấy. [line=4]Cậu định giải thích sao đây hả?"@
+ld c,"tachi/ark_t13",crossfade,400
+` Cô ấy định lên tiếng trách móc, nhưng ngay khi nhìn thấy sắc mặt tôi, cô ấy bỗng sững lại.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Này Shiki, có chuyện gì vậy? Sắc mặt cậu trắng bệch thế kia, em chẳng cảm thấy chút sinh khí nào ở cậu cả. Trông không bình thường chút nào."@
+`"Ừm, chứng thiếu máu mãn tính của tôi lại tái phát thôi mà. Lâu lâu vẫn bị thế, chẳng có gì lạ đâu."@
+` "... Cơ mà, xin lỗi vì lại để cậu phải chờ đợi suốt hai tiếng đồng hồ nhé."@
+ld c,"tachi/ark_t14",crossfade,400
+`"[line=4]À không, tôi thực sự chẳng phiền lòng chuyện chờ đợi đâu, nhưng mà... Shiki, việc cậu vác cái thân xác tồi tàn này đến đây mới là chuyện kỳ lạ đấy."@
+` Dù mới nãy còn tỏ ra bực bội, giờ đây trông cô ấy hoàn toàn lo lắng cho tôi.
+\
+`"[line=4]Tôi đã hứa rồi mà, đúng không? Tôi đã bảo sẽ giúp cậu, nên tôi tuyệt đối không nuốt lời bỏ rơi cậu đâu."@
+`"... Điều đó khiến em vui thật đấy nhưng mà... Shiki, cậu chẳng hiểu gì về cơ thể mình cả."@
+`"Cần gì cậu phải nói chứ, Arcueid. Tôi đã phải sống chung với chứng thiếu máu này suốt tám năm nay rồi, tôi tự hiểu rõ cơ thể mình hơn ai hết."
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=4]Cậu không hiểu được sự bất ổn trong sinh mạng của mình đâu. Trước đây tôi đã cảm nhận được rồi, nhưng giờ thì tôi biết chắc chắn.@
+` Shiki, cậu luôn đứng sát bên bờ vực của cái chết.@
+` Tôi không rõ điều này là do tác dụng phụ từ đôi Trực Tử Chi Ma Nhãn của cậu hay sao, nhưng cậu đang bước đi trên một sợi chỉ mỏng manh phân định giữa sống và chết. Nghĩ rằng chứng thiếu máu lần này không nguy hiểm chỉ vì những lần trước cậu không sao là một sai lầm cực kỳ tai hại đấy."@
+` Cô ấy trừng mắt nhìn thẳng vào tôi đầy nghiêm nghị.
+\
+`"Nghe này, Shiki. Khả năng chống chọi lại cái chết từ các tác nhân bên ngoài của cậu cao hơn hẳn người bình thường. Có lẽ vì cậu đã từng chạm tay vào cái chết một lần trước đây.@
+` Nhưng ngược lại, cậu gần như không có chút kháng cự nào trước cái chết từ các nguyên nhân nội tại bên trong. Chứng thiếu máu này của cậu, nếu cứ bỏ mặc không điều trị thì cậu có thể đột tử bất cứ lúc nào đấy."@
+`"[line=3]Cái gì cơ? Ý cậu là tôi có thể mất mạng chỉ vì những thứ thông thường như bệnh cảm lạnh sao?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Shiki, tôi đang nghiêm túc cảnh báo cậu đấy!@
+` Tôi rất vui vì cậu đã đến, nhưng cậu phải biết trân quý sức khỏe của mình trước chứ! Đêm nay cậu hãy mau về nhà nghỉ ngơi đi."@
+cl c,lshutter,800
+` Cô ấy tiến lại gần và kéo sát tôi vào lòng.@
+` Chắc vì quá lo lắng cho tôi nên khi áp sát lại gần, cô ấy hoàn toàn mất hết khả năng phòng thủ thường ngày.
+\
+`"[line=4]Ồ."@
+` Trước khi tôi kịp lùi lại, lồng ngực cô ấy đã chạm sát vào ngực tôi.@
+br
+waveloop se_02
+` ... Đột nhiên.@
+` Đầu óc tôi bỗng bị bủa vây bởi một cảm giác chóng mặt hoàn toàn khác với chứng thiếu máu thông thường.@
+` Tất cả những thứ trước đây tôi cố tình lờ đi bỗng hiện rõ mồn một: sự mềm mại ấm áp từ ngực cô ấy, làn da trắng ngần hương thơm dịu nhẹ, mái tóc vàng óng tuyệt đẹp như tranh vẽ, và cả nét quyến rũ nữ tính đầy mê hoặc của cô ấy.
+\
+`"[line=4]Arcueid, xin hãy đứng tránh xa ra một chút."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Sao thế? Cậu chê bai lời cảnh báo từ một ma cà rồng như tôi sao?"@
+`"Sao cậu lại nghĩ thế chứ, ngốc ạ? Tôi chưa từng nghi ngờ cậu lấy một lần."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Nói dối. Thế sao cậu không dám nhìn thẳng vào mắt tôi hả?"@
+`"Chỉ là... vì lý do cá nhân thôi. Tôi là con trai, nên nếu cậu áp sát gần thế này... làm tôi hơi bối rối."@
+cl c,crossfade,400
+` Nghe tôi nói thế với chất giọng khẽ run lên vì ngượng ngùng, Arcueid vội vàng giật mình lùi lại.
+\
+wavestop
+br
+` [line=4]Thở phào nhẹ nhõm.@
+br
+` Nhờ khoảng cách vừa rồi, cơn chóng mặt khủng khiếp do sự hiện diện của Arcueid và chứng thiếu máu trong tôi cuối cùng cũng dịu đi phần nào.
+\
+ld c,"tachi/ark_t14",crossfade,400
+` Có vẻ cô ấy cuối cùng cũng nhận ra tình cảnh ngượng ngùng vừa rồi, con bé nhìn tôi với vẻ mặt đỏ ửng đầy xấu hổ.@
+`"[line=7]Ừm."@
+` Cái đồ ngốc này.@ Nhìn điệu bộ thẹn thùng đáng yêu đó của cô ấy, làm tôi bỗng thấy cô ấy vô cùng dễ thương.@ Chuyện này nguy hiểm thật rồi.
+\
+`"[line=2]Dừng lại đi."@
+` Tôi khẽ lầm bầm một câu rất nhỏ để cô ấy không nghe thấy.@
+` Lời đó không phải dành cho cô ấy, mà là để tôi tự cảnh tỉnh bản thân khi trái tim đang đập loạn nhịp vì cô ấy.@
+br
+` "... Đúng là không ổn chút nào."@
+` Dù cô ấy có xinh đẹp và đáng yêu đến thế nào đi nữa, cô ấy vẫn là một ma cà rồng thứ thiệt.@
+` Mình đang nghĩ cái quái gì thế này? Sao mình có thể quên mất điều căn bản đó chứ?
+\
+`"[line=4]Này, tôi không có yếu ớt đến mức cậu phải lo lắng thái quá thế đâu.@
+` Hơn nữa, nếu đêm nay tôi lại bị tấn công bất ngờ như tối qua, tôi có thể mất mạng thật đấy. Nên tôi không thể lãng phí thời gian nghỉ ngơi lúc này được."@
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=2]Hả? Shiki, cậu vừa nói cái gì cơ?"@
+`"Tôi bảo là nếu đêm nay tôi lại bị tấn công như tối qua, tôi thực sự có thể mất mạng.@
+` Hắn ta chắc chắn vẫn đang lẩn khuất đâu đó, nên chúng ta phải truy tìm tung tích của hắn càng sớm càng tốt." [line=4]@
+br
+` Nói đến đây, tôi đột nhiên sực nhớ ra một chuyện cực kỳ quan trọng.
+\
+`"... Tôi quên béng mất.@ Đêm qua, tôi đã bị tấn công bởi một trong các Tử Đồ."@
+`"Đêm qua?@ Ngay sau khi chúng ta chia tay sao!?"@
+`"Phải.@ Một gã đàn ông toàn thân quấn băng trắng toát đã đứng chờ sẵn và tấn công tôi ngay bên ngoài biệt thự."@
+ld c,"tachi/ark_t07",crossfade,400
+` Vẻ mặt của Arcueid lập tức trở nên vô cùng nghiêm nghị.
+\
+`"... Tôi không thể tin nổi.@ Chuyện hệ trọng như vậy sao cậu lại có thể quên đi được chứ?"@
+`"... Ừm."@
+` Tôi cũng chịu thôi.@ Ngày hôm nay tôi đã phải trải qua những chuyện còn kỳ lạ và điên rồ hơn thế này nhiều.
+\
+`"... Thôi được rồi.@ Hãy kể chi tiết cho tôi nghe chuyện gì đã xảy ra đi, Shiki."@
+` [line=2]Với ánh mắt nghiêm túc, Arcueid gặng hỏi tôi về sự việc đêm qua. "Để tôi xem..."@
+br
+` Tôi trấn tĩnh lại và cố gắng mô tả rõ ràng nhất có thể diễn biến trận chiến đêm qua.@
+br
+` ... Nhưng, tôi đã giấu không kể chuyện gã đàn ông quấn băng gạc kia cũng có thể nhìn thấy các "đường chết".@
+` Tôi không có bằng chứng xác thực, nên biết đâu đó chỉ là ảo giác do tôi quá căng thẳng mà thôi.
+\
+bg #000000,lshutter,400
+playstop
+bg "bg/bg_29b",lshutter,400
+`"[line=6]... Câu chuyện là như vậy đấy."@
+` Sau khi kết thúc lời giải thích, tôi chăm chú quan sát biểu cảm trên gương mặt của Arcueid.@
+ld c,"tachi/ark_t05b",crossfade,400
+` Từ lúc tôi bắt đầu kể cho đến giờ, ánh mắt cô ấy vẫn sắc lẹm và nghiêm túc, không hề có chút thả lỏng nào.
+\
+`"Thế nào, Arcueid? Gã quấn băng gạc đó, và người phụ nữ mặc áo choàng tu sĩ kia, họ có phải là kẻ thù của cậu không?"@
+ld c,"tachi/ark_t07",crossfade,400
+`play "*1"
+`"…… Phải. Cả hai đều là 'kẻ thù'. Tôi chưa rõ danh tính thực sự của gã quấn băng kia là ai, nhưng người phụ nữ mặc áo choàng Công giáo đó thì tôi có manh mối rồi."@
+` Cô ấy cắn môi tỏ vẻ bực dọc.@
+` Không hẳn là bực dọc, mà trông cô ấy giống như đang bị kích động dữ dội thì đúng hơn.
+\
+`"Tôi biết người đã cứu cậu là ai rồi, Shiki. ... Hừm, nếu đúng là cô ta, có khi cô ta sẽ săn lùng được kẻ thù trước tôi mất."@
+` Cô ấy cắn chặt môi đầy ấm ức.
+\
+`"Khoan đã. Tôi đã nói người cứu tôi là phụ nữ đâu nhỉ?"@
+`"Không sai vào đâu được. Ả ta là đặc vụ duy nhất được ủy quyền săn lùng những kẻ dị giáo đơn độc của Giáo Hội, kẻ chuyên sử dụng Hắc Phím kết hợp với nghi lễ rửa tội và hiệu ứng vỏ thép đặc trưng."@
+` Sự kích động của cô ấy lộ rõ vẻ thù địch.@
+` Ngay cả khi đối mặt với Nrvnqsr, giọng điệu của cô ấy chưa bao giờ bị cảm xúc chi phối mạnh mẽ đến mức này.
+\
+`"... Arcueid này.@ Người đã cứu tôi... cô ta có phải là ma cà rồng không?"@
+`"Tuyệt đối không.@ Ả ta thuộc về tổ chức coi ma cà rồng chúng tôi là kẻ thù không đội trời chung.@
+` Ở đất nước này thì không có, nhưng ở phương Tây có một tổ chức chuyên săn lùng ma cà rồng và quái vật nhân danh tiêu diệt dị giáo.@ Người đã giúp cậu chính là kẻ phiền phức nhất trong số đó — một Hành Pháp Giả của Giáo Hội."
+\
+`"... Nhưng chuyện này kỳ lạ thật đấy.@ Cơ Quan Mai Táng đáng lẽ không nên gửi một đặc vụ tới sớm như vậy chứ."@
+` Arcueid lầm bầm tự nói một mình.@ Tôi hoàn toàn mù tịt chẳng hiểu cô ấy đang nói về cái quái gì nữa.
+\
+`"Hành Pháp Giả?@ ... Ý cậu là tu sĩ hay mục sư gì đó sao?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hử?@ Ừm, đại loại là thế nhưng cũng không hoàn toàn đúng.@ Thôi, giải thích chuyện này mất thời gian lắm, cậu chỉ cần biết hiện tại có những kẻ chuyên đi săn lùng tiêu diệt ma cà rồng đang có mặt ở đây là được."@
+`"………………"@
+` Cô ấy bảo tôi chỉ cần hiểu thế, nhưng...
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Mà quan trọng hơn, tại sao cậu lại tự ý chiến đấu hả? Cậu đã hứa sẽ hợp tác với tôi, nhưng tôi chưa từng bảo cậu phải tự mình xông trận chiến đấu đơn độc cả!"@
+` Cô ấy trừng mắt nhìn tôi đầy tức giận.@
+br
+` ... Trông cô ấy có vẻ vô cùng lo lắng cho sự an toàn của tôi[line=4]
+ld c,"tachi/ark_t16",crossfade,400
+`"Thế là không công bằng chút nào nhé, Shiki! Dám giữ bí mật rồi tự mình tận hưởng con mồi một mình như thế!"@
+br
+` [line=4]À, hóa ra không phải lo cho tôi sao?
+\
+`"…… Thế cậu suy luận ra cái kết luận điên rồ đó từ đâu vậy hả?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hả? Chẳng phải cậu đang cố tình giấu tôi để tự mình lập công chiếm lấy con mồi sao?"@
+` Cô ấy tuôn ra những lời vô lý đó với vẻ mặt cực kỳ nghiêm túc.@
+`"Ngốc ạ, hoàn toàn không phải thế. ... Chạm trán với hắn chỉ là tình thế bắt buộc thôi. Hoàn toàn là ngoài ý muốn."@
+` Tôi đâu có điên mà tự mình đi gây chiến với Tử Giả hay ma cà rồng khi không có cậu đi cùng chứ.
+\
+`"... Ồ? Tình thế bắt buộc thế nào kể tôi nghe xem?"@
+`"Chính nghĩa? Là cảm giác bất bình của một người bình thường... hay đại loại thế. Giờ nghĩ lại tôi cũng thấy hơi hối hận đây."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Chính nghĩa?"@
+` Cô ấy nghiêng đầu ngơ ngác như muốn hỏi: "Đó là cái gì thế?"@
+` "…… Đau đớn thay, bài học xương máu ngày hôm qua đã chứng minh đó chỉ là một lời ngụy biện rẻ tiền."@
+cl c,crossfade,400
+\
+` [line=4]"Vào khoảnh khắc đó."@
+br
+` "Khi nhận ra có một bóng đen đứng sừng sững trước mặt mình, thứ duy nhất tôi cảm nhận được là nỗi sợ hãi tột cùng."@
+` "Kẻ [line=4]đó, gã quấn băng đó, ngay từ đầu tôi đã biết hắn không phải là con người bình thường, và tất cả những gì tôi có thể làm lúc ấy là run rẩy."@
+` "Và rồi, tôi buộc phải rút con dao ra để đối mặt với hắn, bắt đầu một cuộc chiến sinh tử thực sự."
+\
+` "…… Không ai có thể tước đoạt mạng sống của kẻ khác chỉ bằng một thứ lý tưởng rẻ tiền như chính nghĩa cả."@
+` "Sinh vật giết chóc chỉ để bảo vệ mạng sống của chính mình."@
+` "Đó chính là logic nguyên thủy, đơn giản nhất của loài thú thú tính."@
+br
+` [line=3][line=4]Vào thời khắc đó, theo đúng logic sinh tồn ấy, nếu người giống Senpai không xuất hiện găm chặt hắn lại, có lẽ tôi đã vung dao kết liễu hắn mà không hề do dự.
+\
+`"... Arcueid. Người đã cứu tôi đêm qua, cậu có thể kể thêm cho tôi nghe về cô ta được không?"@
+ld c,"tachi/ark_t05b",crossfade,400
+`"[line=4]Cũng chẳng có gì nhiều để kể cả, cô ta là một Thẩm vấn viên của Giáo Hội. Như tôi đã nói trước đó, họ là kẻ thù tự nhiên của tất cả ma cà rồng. Táng Nghi Xã này, họ không phải là những nhà trừ tà thông thường mà là những cỗ máy giết người, một nhóm chuyên trách xử lý dị giáo cực kỳ tàn bạo. Tôi rất ngạc nhiên khi tay mắt của họ đã vươn tới tận vùng Đông Á này đấy."@
+` Arcueid khoanh tay trầm ngâm suy nghĩ.@
+` Trông cô ấy lạnh lùng và không chút cảm xúc, hoàn toàn khác hẳn vẻ nhí nhảnh thường ngày.
+\
+` [line=3]Cô ấy đang vô cùng nghiêm túc.@
+` Có vẻ vấn đề này còn khiến cô ấy bận tâm hơn cả kẻ thù mà chúng tôi đang truy đuổi.
+\
+`"... Arcueid. Tôi vẫn chưa hiểu rõ lắm, nhưng những kẻ trừ tà đó chuyên đi săn lùng ma cà rồng đúng không? Vậy cậu cũng là mục tiêu của họ sao?"@
+` Tôi ngập ngừng hỏi vì có chút lo lắng cho cô ấy.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"[line=3]À, chuyện đó hả? Họ chỉ là thiên địch của lũ Tử Đồ thôi. Giữa tôi và họ không có xung đột lợi ích cốt lõi nào cả, nên không thể có chuyện giao tranh đâu."@
+` [line=4]Nhưng nếu cô ta thực sự là kẻ mà tôi nghĩ, chắc chắn cô ta đang mang theo Kinh Thánh Thứ Bảy. Có nguy cơ cô ta sẽ ra tay trước tôi mất.@
+cl c,crossfade,400
+`"... Ra tay trước sao...?"@
+` Tôi không hiểu rõ ẩn ý trong câu nói của cô ấy lắm.@
+` Tôi không rõ chi tiết, nhưng có vẻ Arcueid cực kỳ không thích sự can thiệp của một người giống hệt Senpai bước lên sân khấu lần này.
+\
+`"... Ồ, chuyện đó không liên quan đến chúng ta. Thế thì, sau khi cậu đã trấn tĩnh lại rồi, chúng ta bắt đầu đi săn chứ nhỉ? Tôi đến đây không phải để chơi đâu, ít nhất chúng ta phải tìm ra tung tích của một tên Tử Giả đêm nay."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Mà khoan, sao sắc mặt cậu vẫn trắng bệch ra thế kia hả? Chúng ta bị lạc đề vì câu chuyện kỳ lạ của cậu, nhưng tôi đã bảo cậu phải biết giữ gìn cơ thể mình cơ mà!"
+\
+` Arcueid trừng mắt nhìn tôi đầy giận dỗi.@
+` ... Trước đây tôi không nghĩ cô ấy như thế, nhưng có vẻ cô ấy thực sự đang vô cùng lo lắng cho tôi.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Nghe rõ chưa? Cơ thể cậu đang cực kỳ bất ổn hơn người bình thường nhiều, nếu cậu không chịu nghỉ ngơi lúc này, cậu đang tự đùa giỡn với mạng sống của mình đấy."@
+` Cậu hay bị ngất xỉu không phải vì chứng thiếu máu thông thường đâu, mà vì cơ thể cậu tự nhận thức được hiểm họa cận kề.@
+` Cơ thể cậu cảm nhận được mối nguy hiểm trước cả khi tâm trí cậu kịp nhận ra, nên nó tự động ngắt hoạt động để ngăn tình trạng trở nên tồi tệ hơn đấy.
+\
+`"[line=4]Ồ? Thật thế sao?"@
+`"Tôi lừa cậu làm gì chứ? Này, tôi đã cảnh báo rồi đấy nhé. Tin hay không là tùy cậu thôi, Shiki."@
+cl c,crossfade,400
+`"... Tùy tôi sao? Đúng là tôi thấy chẳng có lý do gì cậu lại phải nói dối tôi cả..."
+\
+` Trò chuyện với cô ấy làm tâm trí tôi chìm sâu vào suy tư.@
+` Bấy lâu nay tôi luôn đinh ninh mình hay ngất xỉu là do thể trạng yếu ớt bẩm sinh, nhưng giờ cô ấy lại bảo đó là cơ chế tự bảo vệ tự động của cơ thể? Chuyện này rốt cuộc là sao?
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Dù sao đi nữa, đêm nay chúng ta cũng không nên tiến hành điều tra."@
+` Tôi đoán kẻ thù sẽ không ra mặt cho đến khi vết thương của hắn lành lại hoàn toàn. Hơn nữa, việc hắn tự mình xuất hiện trước nhà cậu mà không dùng tới lũ *Tử Giả* chứng tỏ hắn đã không còn thuộc hạ nào khác ở đây nữa rồi.@
+` Cô ấy giải thích với giọng điệu vô cùng nghiêm túc.@
+br
+` "... Nếu cô ấy đã nói vậy, tôi cũng chẳng có lý do gì để tranh cãi." Trước mắt, một mình tôi thì chắc chắn không thể tự đi tìm ma cà rồng được rồi.
+\
+`"…… Được rồi. Nếu cậu đã nói thế, Arcueid, tối nay tôi sẽ nghỉ ngơi."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Phải thế chứ, hãy nghỉ ngơi thật tốt đi. Không chỉ bị tấn công đêm qua, sinh khí cơ thể cậu hiện giờ cũng đang cực kỳ suy kiệt đấy."@
+` "Nếu đêm nay cậu không ngủ bù để ngày mai hồi phục lại bình thường, chuyện sẽ rắc rối to đấy."
+\
+`"... Tôi biết rồi. Thú thật thì với thể trạng này, tôi cũng chẳng giúp ích gì được cho cậu cả."@
+` "Được rồi, tôi sẽ tự điều chỉnh lại sức khỏe vào ngày mai."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Không phải thế đâu. Chỉ là nói chuyện với cậu lúc cậu tồi tàn thế này chán ngắt à, nên tôi muốn cậu mau khỏe lại thôi."
+\
+` Cô ấy bĩu môi tỏ vẻ thất vọng.@
+` ... Tôi biết là vắt óc cố hiểu suy nghĩ của cô ấy chỉ hoài công thôi mà.@
+cl c,crossfade,400
+\
+`"Tôi quay về biệt thự đây. Hẹn gặp lại ngày mai nhé, Arcueid."@
+` Giơ tay chào tạm biệt, tôi quay lưng bắt đầu bước đi.@
+`"Này, Shiki."@
+` Arcueid đột nhiên gọi giật tôi lại.
+\
+`"... Chuyện gì thế? Còn việc gì nữa sao?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Để tôi tiễn cậu về nhà nhé?"@
+` Cô ấy liếc mắt nhìn đi nơi khác, ngập ngừng lên tiếng.@
+br
+` [line=4]Theo cách riêng của mình, cô ấy thực sự vẫn đang vô cùng lo lắng về vụ tấn công đêm qua của tôi.
+\
+` Nghĩ vậy, tôi bỗng cảm thấy ấm lòng, có lẽ để cô ấy tiễn cũng không tệ...@
+`"[line=4]Ồ."@
+` Nhưng ngay trước khi lời đồng ý kịp thốt ra, tôi đột ngột khựng lại.
+\
+` Khoan đã. Bình tĩnh lại nào. Chẳng phải mình vừa tự thề với lòng mình sao, Shiki?@
+` Dù cô ấy có xinh đẹp và đáng yêu đến thế nào đi nữa, Arcueid vẫn là một ma cà rồng chân chính. Tôi tuyệt đối không được phép quên điều đó.@
+` [line=4]Nếu tôi để bản thân gắn kết thân thiết với Arcueid hơn mức cần thiết, tôi có cảm giác mình sẽ bước qua một ranh giới vô hình mà bản thân tuyệt đối không bao giờ được phép vượt qua.
+\
+`"Thôi đi. Tôi tự về được, cậu không cần lo lắng thái quá thế đâu. Đừng có làm mấy việc không hợp với tính cách của cậu nữa, ngốc ạ."@
+`"[line=4]Ừm..."@
+` [line=4]Trong một khoảnh khắc ngắn ngủi, Arcueid khẽ cúi mặt xuống đầy hụt hẫng, nhưng rồi cô ấy lập tức ngẩng cao đầu rạng rỡ trở lại.@
+ld c,"tachi/ark_t08",crossfade,400
+`"Thế thì, hẹn gặp lại ngày mai nhé!"@
+` Vẫy tay chào đầy năng lượng, ma cà rồng váy trắng thoăn thoắt bước đi rồi nhanh chóng hòa mình vào bóng đêm tịch mịch.@
+cl c,lshutter,800
+\
+bg #000000,crossfade,1500
+playstop
+!w3000

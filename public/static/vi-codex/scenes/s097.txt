@@ -1,0 +1,157 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_15c",crossfade,800
+ld c,"tachi/ark_t01a",crossfade,400
+waveloop se_11
+`"Vậy thì đã quyết định. Không sao, Shiki. Với kỹ năng của bạn, bạn sẽ không gặp khó khăn khi giết anh ta."@
+` Arcueid nói điều vô lý này với vẻ mặt thẳng thắn.@
+` ... Tôi không lạc quan như cô ấy, nhưng tôi không còn lựa chọn nào khác.
+\
+`"Câu hỏi là tôi sẽ hành động như thế nào để làm điều đó.@ Tôi đã đóng băng ngay khi nhìn vào mắt anh ấy ở khách sạn, vì vậy tôi nghĩ tất cả những gì tôi có thể làm là tiếp cận anh ấy từ phía sau để anh ấy không nhận ra tôi và sau đó bắt giữ anh ấy bằng một cách nào đó."@
+`"Ồ, chuyện đó à?@ Đó chỉ đơn giản là vì ý chí của bạn yếu đuối, Shiki.@ Mắt Thần bí của Nrvnqsr chẳng có gì đặc biệt, nên nếu bạn chỉ gạt bỏ những nghi ngờ của mình, bạn nên có thể lướt qua ánh nhìn của anh ấy ngay cả khi nhìn thẳng vào mắt."@
+`"...@
+` Arcueid nói một cách thoải mái, nhưng tôi vẫn cảm thấy lo lắng.
+\
+`"[line=2]Không, tốt hơn là tôi không nên lên kế hoạch làm điều gì đó mà chưa từng làm.@ Tôi sẽ tiếp cận anh ấy từ phía sau và cắt 'dây' trên chi của anh ấy.@ Điều đó có thể tước đi khả năng di chuyển của anh ấy."@
+`"[line=2]Nếu bạn làm thế, Shiki, bạn sẽ chết."@
+ld c,"tachi/ark_t05b",crossfade,400
+`"[line=2]Ồ?"@
+`"Bạn nói câu hỏi là cách bạn sẽ hành động.@ Đó không đúng.@ Câu hỏi thực sự là cách bạn sẽ giết."@
+`"[line=2]Đúng vậy, nhưng..."
+\
+`"Shiki, khi ngươi chuẩn bị đối đầu với một sinh vật gọi là ma cà rồng, hãy bỏ qua đạo đức của loài người, ít nhất là cho đêm nay. Chúng chỉ sẽ làm ngươi chùn bước trong những khoảnh khắc quyết định."@
+`"[line=2]Ta hiểu điều đó. Anh ta là một quái vật, vì vậy ngươi muốn giúp ta ngăn chặn hắn."
+\
+`"Không, ngươi không hiểu. Cắt đứt chi của hắn? Đừng làm điều quá liều lĩnh. Nếu ngươi có thời gian cắt đứt chi, hãy kết thúc mạng sống của hắn trước."@
+` "Không ai khác có thể làm được ngoài ngươi. Nghe ta và đừng cho Nrvnqsr cơ hội phản công. Sự chênh lệch về khả năng tấn công giữa hai chúng ta quá lớn; nếu ngươi bỏ lỡ cú đánh đầu tiên, ngươi sẽ không có cơ hội chiến thắng nào."
+\
+` Mắt của Arcueid không tha thứ cho bất kỳ sự phủ nhận nào.@
+` [line=3]"Đúng vậy."@
+` "[line=2]Đó chính xác là như cô ấy nói. Nếu ta mất thời gian cắt chi trước, có thể đầu của ta sẽ bị một con cá sấu ăn khi ta làm điều đó."
+\
+`"[line=3]Shiki.@ Nrvnqsr sẽ xuất hiện vào nửa đêm hôm nay.@ Đó là lúc chúng ta, [lối hành xử] không, cậu và tôi sẽ giết hắn cho tới khi không thể giết được nữa."@
+` Không phải là cách cư xử.@
+` Nhưng là cách giết, chỉ nghĩ về điều đó."@
+br
+` "Mắt hoang dã của Arcueid đang nhìn thẳng vào tôi.@
+` [line=3]Cô ấy thực sự giận dữ.@
+` Giận dữ vì tôi vẫn giữ những quan niệm ngây thơ như vậy.
+\
+`"[line=3]Tôi hiểu rồi.@ Tôi sẽ không do dự.@
+` Tôi sẽ loại bỏ 'điểm chết' của hắn trong một cú đánh duy nhất.@ Đó là điều tôi nên làm, phải không, Arcueid?"
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"…………"@
+` Arcueid không trả lời.@
+` Tôi giả định sự im lặng của cô ấy là đồng ý.@
+`"[line=3]Nhưng chúng ta nên chờ ở đâu? Người ngoài sẽ bị giết như trong khách sạn nếu chúng ta đợi ở những căn hộ này. Chúng ta có nên đổi địa điểm không?"@
+`"[line=3][line=2]Đúng vậy. Tôi nghĩ công viên sẽ phù hợp. Không ai ở đó vào ban đêm, và nếu ai đó tình cờ đi qua, đó là lỗi của họ."@
+ld c,"tachi/ark_t22",crossfade,400
+` Nói rồi, Arcueid quay lưng lại với tôi.
+\
+`"Có chuyện gì? Nếu có điều gì muốn nói, hãy nói ra. Tôi đã quyết định giúp bạn, nên tôi sẵn sàng chịu rủi ro."@
+`"…… Không ích lợi gì cả. Bạn chưa từng dùng từ 'giết' một lần nào. Với tốc độ này, bạn sẽ chỉ do dự vào phút cuối và bị giết."@
+`"[line=3]Đó không phải là sự thật. Anh ta là một quái vật đã ăn thịt hơn trăm người. Tôi sẽ không hề do dự khi giết anh ta."@
+`"[line=8]Arcueid thở dài nhẹ nhàng.@
+` "Nếu tôi kiểm soát được cậu, tôi có thể đảm bảo cậu sẽ giết Nrvnqsr."
+\
+`"[line=3]Tôi cảm thấy mình muốn làm điều đó lần đầu tiên, nhưng cũng lần đầu tiên tôi lại không muốn. Nó giống như một mâu thuẫn lớn.@
+` …… Arcueid quay mặt về phía tôi, thì thầm điều gì đó mà tôi không thực sự hiểu được.@
+` "Tôi tin cậu, Shiki. Chúng ta cùng bắt tay vào việc với Nrvnqsr."
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Một nụ cười xuất hiện trên khuôn mặt Arcueid.@
+` (Arcueid mỉm cười)@
+br
+` Nụ cười của cô ấy trông thật không thoải mái.@
+wavestop
+bg #000000,crossfade,1500
+` Kế hoạch này thực sự đơn giản đến không thể tin được.@
+` Chỉ một chút trước nửa đêm, Arcueid rời phòng và đi thẳng tới công viên.@
+br
+` [line=3][line=3]Theo lời Arcueid, con quạ xanh quen thuộc của Nrvnqsr sẽ theo dõi cô ấy, nên tôi rời phòng và đến công viên ngay sau khi cô ấy.
+\
+` [line=4]Sau đó, tôi sẽ ẩn mình trong một bụi cây nơi tôi có thể nhìn thấy Arcueid và chờ Nrvnqsr đến. Trong lúc Arcueid bị phân tâm, tôi sẽ tiếp cận từ phía sau và cắt đứt 'hình ảnh cái chết' của anh ấy.
+\
+!w3000
+bg "bg/bg_29b",crossfade,800
+` [line=3]Arcueid đứng mơ màng ở giữa công viên.@
+br
+` Tôi ẩn mình trong một bụi cây cách đó khoảng hai mươi mét.
+\
+`"... ..."@
+` Công viên vắng lặng.@
+` Đã đến mười phút trước nửa đêm.@
+` Arcueid ngẩng đầu lên, nhìn chằm chằm vào mặt trăng xanh trên cao.
+\
+`"…………@
+` Tôi siết chặt nắm đấm, cầm dao chặt.@
+` Arcueid nói rằng Nrvnqsr chắc chắn sẽ xuất hiện.@
+` Vì vậy, tất cả những gì tôi cần làm là đứng sau lưng cậu ấy, tiến lại gần mà không gây ra tiếng động quá lớn, và rồi cắt 'dây' của cậu ấy trong một hơi thở.
+\
+`"Haa[line=6]ahh."@
+` Tôi cố gắng hít một hơi sâu.@
+` Cơ thể tôi đang di chuyển bình thường.@
+` "Trừ khi tôi nắm chặt con dao. Chúng siết chặt và bất động, như thể không phải là một phần của cơ thể tôi."
+\
+`"[line=6]"@
+` Có thể tôi hơi lo lắng.@
+` Đó là sự trở lại của con quái vật máu uống gọi là Nrvnqsr.@
+` Đó là điều tôi phải đối mặt với con quái vật đó một lần nữa.
+\
+`"[line=6]"@
+` Hoặc,
+` Tôi phải giết anh ta sớm.
+\
+` *hít một hơi sâu*@
+` "Lòng tôi đập nhanh hơn."@
+` Trái tim tôi đập thình thịch, như thể nó không thuộc về cơ thể tôi.@
+`"[line=2]Hãy bình tĩnh." Tôi thì thầm, "Anh ấy chưa đến đâu."@
+` Đúng vậy. Mục tiêu vẫn chưa xuất hiện.@
+` Tôi bắt đầu lo lắng, có lẽ khi Nrvnqsr đến, tôi sẽ không còn khả năng di chuyển.
+\
+`"Arcueid... Cô không sợ sao?"@
+` Tôi nhìn cô gái trắng nhạt ngước mặt lên trăng, ánh mắt trống rỗng.@
+` Cô ấy hoàn toàn không tỏ ra lo lắng.@
+` Khuôn mặt cô ấy ngước lên trăng dần hạ xuống.@
+` [line=2]Vào cùng lúc đó...
+br
+`"[line=3]Có vẻ như tôi đã khiến ngài chờ đợi, Công chúa của Những Tổ tiên Thực sự."@
+br
+` Một giọng nói nặng nề, giống như sắt gỉ.
+\
+`"[line=6]!"@
+` Vì vậy, Arcueid nhìn xuống.@
+` [line=3]Hơn năm mét cách cô ấy, và hơn mười mét cách tôi, một người đàn ông mặc áo choàng đen xuất hiện như một ma hồn.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_29b",crossfade,800
+ld c,"tachi/ark_t05c",crossfade,400
+`"Vâng."@
+` "Tôi đã chờ đợi từ lâu rồi, Nrvnqsr Chaos. Hay ngài muốn tôi gọi ngài là Fabro Rowan? Nghe có vẻ trang trọng hơn."@
+br
+` Tiếng của Arcueid vang đến tôi qua cơn gió.
+\
+cl c,crossfade,400
+ld c,"tachi/nero_t01a",crossfade,400
+`"[line=3]Thật ấn tượng. Tôi chẳng bao giờ nghĩ ai đó sẽ gọi tôi bằng cái tên tôi dùng khi còn là con người."@
+` Chỉ như thế mà ta mong đợi từ Người Thực thi. Có lẽ cậu đã tìm hiểu được nhiều về dòng Twenty-Seven Tổ tiên của các Thiên sứ Chết từ lâu rồi.@
+br
+` Tôi có thể nghe rõ câu trả lời của Nrvnqsr.@
+cl c,crossfade,400
+\
+waveloop se_02
+`"[line=5]Hahh."@
+` Nhịp thở của tôi trở nên lớn hơn.@
+` Arcueid đang thu hút sự chú ý của Nrvnqsr.@
+` Đây là cơ hội duy nhất của tôi.@
+` Tôi tháo kính ra bằng ý chí mạnh mẽ.
+\
+bg "bg/bg_29c",crossfade,1500
+`"[line=7]!"@
+` Tôi nắm chặt con dao trong tay phải, ép nó vào ngực mình.@
+` …… Một vũ khí màu trắng.@
+` Bây giờ, bằng nó,
+` [line=2]Tôi sẽ "giải thể" quái vật ăn người đó.
+\

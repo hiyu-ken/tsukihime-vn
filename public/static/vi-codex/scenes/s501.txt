@@ -1,0 +1,189 @@
+playstop
+[dòng âm thanh]
+bg "event/aki_e05a",notrans,0
+` *hộc* *hộc* *hộc*`
+br
+` Cổ họng nghẹn ứ, tôi chịu chết tịnh không cách nào thở dốc nổi nữa.@`
+` Đôi mắt tịch mịch của Senpai thậm chí tịnh không có lấy một chút lay động trước cái chết cận kề của tôi.@`
+` Mũi dao găm sắc lẹm của cô ấy đang chĩa trân trối thẳng vào tim tôi.@`
+` Trong tình huống này, chỉ cần một giây nữa là tôi sẽ bị giết.
+\
+`  *Hít thở gấp gáp* *Hít thở gấp gáp* *Hít thở gấp gáp*
+br
+`"Đó là điều kỳ lạ.@ Cô ấy đã giết rất nhiều người, nhưng lại sợ chết."@
+` Giọng nói của cô ấy ngả về sự khinh bỉ.@
+` Đôi mắt cô ấy lấp lánh sự khinh miệt.@
+br
+` Con dao của cô ấy sẵn sàng kết liễu tôi.
+\
+bg "bg/ima_13b",notrans,0
+` Tôi sẽ bị giết.@
+` Tôi sẽ bị giết.@
+` Tôi sẽ không thể trốn thoát số phận này.@
+` Cái chết của tôi dường như đã đến gần.@
+` Tôi *sẽ* bị giết.@
+` *Tôi sẽ bị giết.*@
+`                 Và sau đó...@
+monocro #ff0000
+bg "bg/ima_13b",notrans,0
+` Nếu tôi giết ai đó,@
+` Có lẽ tôi cũng sẽ trở thành kẻ bị giết.@
+` Nếu tôi giết...@
+` Nếu tôi giết...@
+` Nếu tôi giết...@
+` Nếu tôi giết...@
+`                 "Đáng sao?"
+\
+monocro off
+bg "bg/bg_10f",notrans,0
+`"[line=6][line=6]Ha ha, ah."@
+br
+` I.@
+br
+`"Tạm biệt. Xin hãy chết ở đây, Tohno."@
+br
+` Tôi không thể làm gì được.@
+br
+`"[line=4][line=4][line=4][line=4]Ha ha ha!"@
+br
+` Tôi chỉ có thể thở.
+\
+bg #000000,notrans,0
+!w500
+wave se_13
+bg "bg/ima_12b",notrans,0
+` Nhưng tôi nhanh hơn.@
+` Trước khi cô ấy kịp đâm dao vào tôi, con dao của tôi xuyên qua cổ của Senpai.@
+br
+`"[line=8]"@
+br
+` Ai đã nói thế?@
+` Tiếng đầu đập xuống mặt đất và tiếng ợ hơi. Cổ, "cổ", / mặt? / Nó lăn, lăn, lăn, lăn.
+\
+monocro #ff0000
+bg "bg/ima_13b",tshutter,400
+play "*4"
+`"[line=6]À?"@
+br
+` Nhưng, điều đó thật kỳ lạ.
+\
+` Nó phải là cùng một thời điểm.@ Nhưng chỉ có tôi còn sống.@ Đầu của Senpai, ĐẦU, là thứ duy nhất lăn qua lăn lại và lăn tiếp.
+\
+`"[line=4]Haha!"@
+br
+` Nói cách khác.@
+` Từ đầu,
+` Senpai không... dự định... giết tôi.@
+br
+`"À, haa, à, haahaahaahaa, haha!"@
+br
+` Cảm giác cổ họng như bị nghẹn lại.@
+` Cơ thể của Senpai nhuộm đỏ rực.@
+` Hành lang bỗng trở nên ẩm ướt.
+\
+` Mọi thứ đều phủ một lớp sơn đỏ.
+\
+bg "bg/bg_10f",bshutter,400
+`"[line=4]Haha" [lối dòng=4]@
+` Khi một ai đó bị chặt đầu, dường như họ có một chức năng khác.@
+` Nổ tung.@
+` Giống như vòi phun nước, phun máu đỏ khắp nơi.@
+br
+`"[line=6]Ha, ha ha."@
+br
+` Toàn bộ cơ thể tôi giờ đây nhuộm đỏ.@
+` Hơn cả con dao của tôi, từ mái tóc đến đôi giày, nó bị đốm đỏ một cách đáng sợ.
+\
+`"[line=4]Đây là gì?@ Không phải chuyện lớn đâu."@
+br
+` Đúng vậy, không phải chuyện lớn.@
+` Tôi nghĩ sẽ có điều gì đó sâu sắc hơn, nhưng tôi chỉ cảm thấy một cảm giác trôi nổi.@
+br
+`"Nếu nó như thế này... giấc mơ của tôi..."@
+br
+` Sống động và chân thực.
+\
+` Tôi đứng dậy và bắt đầu đi.@
+` Chân tôi chạm xuống mặt đất với từng bước chân.@
+` Trước mặt tôi là đầu của một người phụ nữ tên Ciel. Đôi mắt cô ấy dường như đang nhìn thẳng vào tôi.@
+br
+`"Ngốc nghếch, Senpai. Tôi không biết cậu đã tự tin đến mức nào, nhưng chẳng có thứ gì là bất tử."@
+br
+` Vậy nên đó là lỗi của cậu.@
+` Lỗi.@
+` Lỗi.@
+` Lỗi.@
+` Lỗi.@
+`                 Tất cả đều sai.
+\
+br
+br
+br
+br
+br
+br
+br
+` Sự ảo ảnh đã kết thúc.@
+\
+` Ngay cả khi tôi cố gắng phủ nhận điều này cho đến giờ, nó xác nhận điều đó.@
+` Tôi chỉ là một kẻ giết người.@
+` Bằng chính tay mình, tôi đã phá hủy những thứ không nên bị phá hủy.@ Nền tảng của sự tồn tại của tôi đang sụp đổ.@
+` "Yumizuka, này có phải như lời cậu nói không?@
+br
+`"[line=4]'Nó chỉ giống như cậu nói.'"@
+br
+` Tôi bắt đầu cười.@
+` Có vẻ như tôi đã mất trí rồi.@
+` Sự thật rằng tôi là kẻ giết người lại khiến tôi thấy hài hước.
+\
+bg #000000,lshutter,400
+bg "bg/ima_18",lshutter,400
+` Mặt trăng xa xôi lấp lánh bên ngoài cửa sổ.@
+` Thị lực của tôi đã chuyển sang màu đỏ, không dấu hiệu nào cho thấy nó sẽ trở lại bình thường.@
+` Nhưng tâm trí của tôi trên Trái Đất đã bị thay thế bằng tâm trí từ một hành tinh khác.@
+` Những năm tháng tích lũy nhận thức vượt quá sự đếm tính của những phương trình tiến hóa chưa biết.@
+` Không có gì giống nhau chút nào. Bạn không thể phân biệt được màu đỏ bạn nhìn thấy với màu đỏ tôi nhìn thấy.@
+` Thật đáng tiếc.@
+` Có vẻ như tôi đã bị hỏng.@
+br
+br
+br
+[màu đỏ] Hoặc mọi thứ chỉ là một lời nói dối hài hước từ đầu?
+` @Hoặc là mọi thứ chỉ là một trò đùa lớn?@
+` Hãy để mọi thứ biến mất vào ngày mai trong trường hợp đó.
+\
+(Màu văn bản trắng)
+br
+br
+br
+br
+br
+` ... Màn trình diễn bắt đầu trong khu rừng u tối.@
+` Tôi không hiểu rõ, nhưng nếu tôi là một kẻ giết người, tôi phải hành động như một kẻ giết người.@
+` Đầu tiên, hãy đi ra ngoài thành phố và tiếp tục những giấc mơ của tôi.
+\
+bg #000000,crossfade,800
+` Tôi bắt một người ngẫu nhiên.@
+` Tôi đưa họ vào ngõ và chờ người đó tỉnh lại.@
+br
+` Sau một lúc, đôi mắt người đó mở ra.@
+` Tôi chào đón bạn bằng cả hai cánh tay mở rộng nhất có thể.
+\
+bg "bg/bg_31b",bcartain,800
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Bây giờ thì,
+`    Hãy chào mừng đến với căn phòng giết chóc tuyệt vời này.
+\
+bg "bg/ima_12b",notrans,0
+monocro off
+playstop
+bg #000000,crossfade,1500
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

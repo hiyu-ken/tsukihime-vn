@@ -1,0 +1,96 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_40a",notrans,0
+[line=4]\
+bg "bg/bg_12a",lcartain,800
+` Chúng tôi đi bộ đến khu phố mua sắm phía trước nhà ga.@
+` [line=3]Dưới ánh nắng ban ngày, Arcueid trông vô cùng nổi bật giữa đám đông.@
+\
+` Đi bên cạnh một mỹ nhân nổi bật như vậy làm tôi thấy vô cùng ngượng ngùng và áp lực.
+ld c,"tachi/ark_t01b",crossfade,400
+ld c,"tachi/ark_t02",lshutter,800
+`"Này Shiki, chúng ta đi đâu bây giờ?"@
+\
+`"Đi đâu là đi đâu cơ chứ... Chẳng phải cậu là người đòi tôi đi chơi cùng sao? Đáng lẽ cậu phải có kế hoạch trước rồi chứ."@
+ld c,"tachi/ark_t16",crossfade,400
+\
+`"………… Thật là."@
+` Tôi thở dài ngao ngán. Đúng là tính cách tùy hứng của ma cà rồng mà.
+[line=4]\
+\
+`"Được rồi. Thế chúng ta cứ đi dạo quanh khu mua sắm này trước nhé. Cậu có muốn ăn gì hay mua gì không?"@
+`"[line=6]Ăn á? Tôi không cần ăn đồ ăn của con người đâu. Nhưng đi dạo thì được đấy!"@
+` Cô ấy rạng rỡ gật đầu đồng ý.
+cl c,crossfade,400
+br
+` Thế là chúng tôi cùng nhau dạo bước qua các con phố mua sắm náo nhiệt. Arcueid tỏ ra vô cùng phấn khích trước mọi thứ xung quanh hệt như một đứa trẻ lần đầu được đi hội chợ vậy.
+\
+[line=4]bg #000000,lcartain,800
+\
+` Chúng tôi dừng chân tại một công viên nhỏ ven đường.@
+` [line=4]Đi bộ suốt một buổi sáng làm đôi chân tôi có chút mỏi mệt, nhưng Arcueid trông vẫn tràn đầy năng lượng không hề có chút mệt mỏi nào.
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Vui thật đấy, Shiki! Đi dạo ban ngày thế này thú vị hơn tôi nghĩ nhiều."@
+` Cô ấy tươi cười rạng rỡ.@
+ld c,"tachi/ark_t08",crossfade,400
+` Tôi ngồi bệt xuống chiếc ghế băng công viên, thở dốc.@
+cl c,lshutter,400
+`"Ơ, cậu yếu ớt thế Shiki? Mới đi có một chút mà đã mệt rồi sao?"@
+\
+`"Tôi là con người bình thường, lại đang bị thiếu máu nữa, làm sao so bì thể lực với ma cà rồng như cậu được chứ."@
+ld c,"tachi/ark_t01a",crossfade,400
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Hì hì, thế thì cậu cứ ngồi nghỉ ngơi đi nhé. Tôi sẽ đứng canh gác cho cậu!"@
+cl c,lshutter,400
+\
+cl c,crossfade,400
+` Nhìn bóng lưng năng động và nụ cười rạng rỡ của cô ấy dưới ánh nắng ban trưa, tôi bỗng cảm nhận được một sự bình yên kỳ lạ. Nếu không biết thân phận thực sự của cô ấy, có lẽ tôi đã nghĩ đây chỉ là một cô gái bình thường, năng động và vô cùng dễ thương mà thôi.
+\
+br
+bg "bg/bg_05a",lcartain,1000
+\
+` Ánh hoàng hôn nhuộm đỏ cả góc trời, bừng sáng lên mái tóc vàng của Arcueid.
+\
+ld c,"tachi/ark_t01a",lshutter,800
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_32a",lcartain,800
+play "*3"
+`"Phải rồi. Đêm nay chúng ta phải tìm ra tung tích của Roa. Vết thương của hắn chắc chắn đã lành lại kha khá rồi, hắn sẽ sớm bắt đầu hành động tiếp thôi."@
+` Vẻ nhí nhảnh thường ngày của cô ấy lập tức biến mất, thay vào đó là nét nghiêm nghị vốn có của một thợ săn ma cà rồng.
+ld c,"tachi/ark_t22",crossfade,400
+`"Được rồi. Đêm nay tôi sẽ đồng hành cùng cậu đến cùng."@
+ld c,"tachi/ark_t14",crossfade,400
+\
+cl c,lshutter,800
+\
+playstop
+!w3000
+` Tôi nhấn mạnh từ "lại một lần nữa" nhưng giọng nói của cô ấy vẫn trống rỗng.@
+br
+` [line=4]Có vẻ như cô ấy đang lên kế hoạch điều gì đó. Tôi cảm thấy hơi sợ.@
+br
+`"... Bạn có bị ốm vì trời còn sáng không? Không cần phải ép bản thân ra ngoài. Nếu khó chịu, chúng ta có thể dừng lại."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Ừm, tôi cảm thấy ổn lúc này. Nhưng nhìn bức tường này làm tôi nhớ lại đêm qua."@
+`"...?@ Về đêm qua, cậu muốn nói khi cậu chờ tôi ở công viên à?"@
+ld c,"tachi/ark_t04",crossfade,400
+` "Đúng vậy," Arcueid gật đầu ngượng ngùng.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Tôi chạy đến đây hết sức và lén vào phòng cậu... nhưng giờ nghĩ lại thấy lạ."@
+` "Tại sao lúc đó tôi lại tức giận?@ Chỉ là một lời hứa nhỏ thôi mà."@
+` "Nói rằng cô ấy không hiểu, Arcueid chéo tay suy nghĩ."
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Ừm, đúng rồi.@ Có lẽ cậu hiểu, Shiki?@ Cậu luôn nói với tôi rằng tôi thật ngốc nghếch, nên có lẽ cậu có thể hiểu được?"@
+`"Này..."@
+` "Nếu cô ấy không tự hiểu được, thì làm sao tôi có thể hiểu được?"@
+` [line=4]Tôi không thể hiểu được, nhưng nếu tôi phải trả lời:
+br
+cl c,crossfade,400

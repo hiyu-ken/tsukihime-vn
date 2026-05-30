@@ -1,0 +1,149 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11a",notrans,0
+`"Em có mang theo bánh mì nhân cà ri đây này."@
+br
+` Tôi quyết định rút ra món vũ khí bí mật tột cùng lợi hại của mình.
+\
+`"Tohno-kun, cậu nghĩ tôi là loại con gái có thể dễ dàng bị mua chuộc chỉ bằng đồ ăn sao hả!?"@
+` Senpai hậm hực hét lớn vọng ra từ phía bên kia cánh cửa.@
+` …… Ôi trời, có vẻ món bánh mì cà ri bình dân giá chưa đầy một trăm yên này không ăn thua rồi.@
+`"……………"@
+` Haiz.@ Tôi nghĩ nếu mình cứ cố chấp đứng đây mè nheo gõ cửa thế nào cũng làm chị ấy giận dữ hơn thôi, nên chắc tốt nhất là nên đi về phòng học thôi.@
+br
+` [line=3]Ngay đúng lúc đó,
+\
+ld c,"tachi/cel_t12",lcartain,400
+`"…… Cơ mà, nếu cậu đã mang đến thì tôi cũng xin nhận vậy."@
+` Nói đoạn, cánh cửa bỗng hé mở và em ấy xuất hiện ngay trước mặt tôi.@
+`"Ơ, Senpai[line=2]?"@
+ld c,"tachi/cel_t08b",crossfade,400
+`"Nghĩ lại thì, tôi cũng không nên giận cá chém thớt đổ hết bực dọc lên đầu cậu làm gì, Tohno-kun.@ Việc thẳng thừng xua đuổi một vị khách có lòng tìm đến đây quả thực cũng có chút bất lịch sự thật."@
+` Đôi má đỏ lựng lên, em ấy lí nhí thì thầm như để tìm kiếm một lời bào chữa cho bản thân.
+\
+`"Senpai ơi, điều đó có nghĩa là, tụi mình có thể cùng ăn trưa với nhau đúng không ạ?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"…… Ừm, nếu cậu thích hiểu theo nghĩa đó thì cũng được.@ Nếu cậu đã thích cái phòng này đến thế, thì xin mời vào."@
+cl a,crossfade,400
+` Nói rồi, Senpai thoăn thoắt quay người bước vào trong phòng trà đạo.@
+` Tôi hớn hở bước nhanh theo sau chị ấy vào bên trong phòng.
+\
+bg #000000,lcartain,800
+bg "bg/bg_09a",lcartain,800
+play "*3"
+` Tôi bắt đầu thưởng thức bữa trưa cùng với Senpai.@
+` Dù lúc trước nghe thằng cha Arihiko kể làm tôi cứ đinh ninh là chị ấy đang bực bội khó chịu lắm, thế nhưng thực tế bấy giờ xem ra hoàn toàn không phải như vậy.
+\
+`"…… Senpai ơi.@ Em nghe Arihiko kể là chị đang giận em ghê lắm hả?@ Rốt cuộc là vì chuyện gì thế ạ?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Hả[line=2]đâu có, tôi đâu có giận cậu chuyện gì đâu cơ chứ.@ Chỉ là do một vài chuyện gián tiếp tác động thôi…… Mà có khi, lý do chính là do sự vô tâm của cậu chăng?"@
+`"…… Khoan đã thưa Senpai.@ Bình thường chị đã là người cực kỳ khó hiểu rồi, thế mà hôm nay trông chị còn khó hiểu hơn bội phần đấy.@ Nếu chị giận vì sự vô tâm của em thì em xin nhận lỗi, nhưng từ 'có khi' ở đây nghĩa là sao chứ?@
+` Senpai ơi, chính chị cũng chẳng thể hiểu nổi cảm xúc của bản thân mình nữa sao?"
+\
+ld c,"tachi/cel_t09",crossfade,400
+` Em ấy khẽ thở dài một tiếng đầy ngao ngán.@
+`"Thực sự tôi cũng hơi bối rối.@ Bình thường tôi vốn ít khi bận tâm đến cảm xúc của bản thân mình mà."@
+` Senpai lí nhí trả lời với giọng điệu hệt như đang hối lỗi.@
+`"[line=3]Có lẽ là, tôi tự ghét chính bản thân mình chăng."@
+`"…… Senpai?"@
+` Senpai lặng lẽ ngồi thẫn thờ, cúi gằm mặt xuống đất không dám nhìn thẳng vào tôi.@
+` Sau một khoảnh khắc im lặng ngắn ngủi bao trùm, em ấy đột ngột ngẩng đầu lên nhìn chằm chằm vào tôi đầy nghiêm nghị.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Chuyện đó không quan trọng bằng chuyện này đâu, Tohno-kun."@
+`"…… Dạ?"@
+` Tôi vội thẳng lưng nghiêm túc nhìn thẳng vào đôi mắt em ấy.@
+` …… Bởi tôi cảm nhận được rõ rệt em ấy sắp sửa bắt đầu một cuộc trò chuyện cực kỳ nghiêm trọng và sâu sắc.@
+br
+`"Ừm…… có chuyện gì thế thưa Senpai?"
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Tôi có thể lấy chiếc bánh mì nhân cà ri đó được không?"@
+br
+`"Cá, cái gì thế hả, tự dưng lại hỏi xin bánh mì cà ri đột ngột thế!?@ Không phải ban nãy chị vừa lớn tiếng bảo mình không phải loại con gái dễ bị mua chuộc bằng đồ ăn sao hả!?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Chuyện đó với chuyện này là hai phạm trù hoàn toàn khác nhau nhé.@ Tohno-kun này, chẳng lẽ cậu định nuốt lời rút lại món quà vừa mới tặng cho tôi đấy hả!?"@
+br
+` …… Senpai thực sự đang hậm hực nổi giận lôi đình kìa.@
+` Dù đối với tôi lời trêu chọc ban nãy chỉ là một trò đùa vô hại, thế nhưng xem ra chị ấy lại đón nhận nó một cách cực kỳ nghiêm túc.
+\
+`"…… Rồi rồi, em hiểu rồi ạ.@ Xin mời người nhận lấy món quà mọn này, thưa Nữ hoàng của em."@
+` Tôi thành kính dâng chiếc bánh mì cà ri ra trước mặt em ấy.@
+` Sau khi nhượng bộ dâng chiếc bánh cà ri ra, phần ăn trưa của tôi lúc này chỉ còn trơ trọi lại mỗi cái bánh mì xúc xích nhỏ.@
+ld c,"tachi/cel_t04",crossfade,400
+br
+`"Yeah!" Senpai hớn hở reo lên rồi nhanh tay giật lấy chiếc bánh mì từ tay tôi.@
+` …… Chị ấy thực sự là trẻ con hay sao thế không biết?
+\
+ld c,"tachi/cel_t05",crossfade,400
+`"Thế thì tôi đền bù cho cậu một nửa phần bánh hamburger này nhé.@
+` Cầm lấy này," Senpai vừa nói vừa vui vẻ bẻ đôi phần bánh hamburger trong hộp cơm trưa của mình chia cho tôi một nửa.@
+`"……………"@
+` Tôi tự nhủ thầm cái tỷ giá trao đổi hàng hóa này có vẻ hơi chênh lệch quá đà rồi thì phải…
+\
+bg #000000,lshutter,800
+bg "event/cel_e02a",lshutter,800
+` Sau khi thưởng thức xong bữa trưa, chúng tôi cùng nhau thong thả nhâm nhi tách trà nóng để giết thời gian.@
+` Một khoảng thời gian trôi đi trong bầu không khí vô cùng bình yên và tĩnh lặng.@
+br
+` Cảm giác hệt như em ấy chẳng hề bận tâm đến sự hiện diện của tôi, và bản thân tôi cũng chẳng hề có chút e dè giữ kẽ nào trước sự có mặt của em ấy vậy.@
+br
+` Chỉ đơn giản là sự tĩnh lặng, bình yên tuyệt đối.@
+` Y như hai người bạn chí cốt cùng giới tính, chúng tôi cùng nhau tận hưởng nốt khoảng thời gian nghỉ trưa ngắn ngủi còn lại như thế.
+\
+`"Này, Tohno-kun."@
+`"Dạ?@ Có chuyện gì thế thưa Senpai?"@
+`"Tôi đã thắc mắc chuyện này từ lâu lắm rồi, nhưng mà chiếc kính cậu đang đeo vốn chẳng phải dùng để điều trị cận thị hay viễn thị đúng không?"@
+`"…… Oa, Senpai đỉnh thật đấy, đoán chuẩn xác 100% luôn.@ Chiếc kính này em đeo chỉ là để làm cảnh thôi ạ."@
+br
+`"Tôi biết ngay mà," Senpai khẽ gật đầu tâm đắc.
+\
+`"Này, Tohno-kun, tôi có thể xin cậu một thỉnh cầu nho nhỏ được không?"@
+` Senpai nhìn tôi với ánh mắt ngập tràn vẻ mong đợi.@ …… Mà nói chính xác hơn, em ấy đang dán chặt mắt vào chiếc kính của tôi chứ chẳng phải mắt tôi.@
+`"Chỉ một lần duy nhất thôi, cậu có thể tháo chiếc kính đó ra cho tôi xem thử được không?"@
+`"[line=9]"@
+` Chuyện này quả thực vô cùng rắc rối đây.@
+` Việc tháo chiếc kính này ra đồng nghĩa với việc tôi sẽ lại phải nhìn thấy những "đường tử" chết chóc đáng sợ kia, và quan trọng hơn cả[line=3]tôi tuyệt đối không muốn nhìn thấy cái chết của người đang ngồi ngay sát bên cạnh mình lúc này.
+\
+`"Em không làm được đâu ạ.@ Thật đáng tiếc là em chưa bao giờ tháo kính ra trước mặt người khác cả.@ Nó giống như một lời thề nguyền bắt buộc của bản thân vậy, nên em buộc phải từ chối thỉnh cầu này của Senpai rồi."@
+` Tôi dứt khoát cất tiếng từ chối rõ ràng.@
+` Senpai ỉu xìu đầy thất vọng.@
+`"Hừm, nếu cậu đã kiên quyết nói thế thì chắc là không được rồi nhỉ."@
+`"Vâng, bởi vì suốt tám năm qua, em chưa bao giờ[line=3]"@
+br
+` …… chưa bao giờ dám tháo chiếc kính này ra trước mặt người khác cả, nhưng.@
+playstop
+`"[line=4]"@
+` Đúng thế.@ Mọi chuyện rốt cuộc đã kết thúc rồi.@
+` Với đôi mắt nguyền rủa này.@
+` Tôi đã phải chứng kiến cái chết của vô vàn, vô vàn sinh linh.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_09a",crossfade,400
+bg "bg/cmo_13",crossfade,1500
+!w4000
+br
+br
+br
+br
+br
+br
+br
+`"Tohno-kun? [line=7]"
+\
+bg "bg/bg_09a",crossfade,1500
+ld c,"tachi/cel_t07a",crossfade,1500
+`"À[line=3]vâng, có chuyện gì thế thưa Senpai?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Em hỏi 'có chuyện gì' là sao chứ? Tự dưng lại ngồi thẫn thờ đờ đẫn ra cả buổi thế, giờ nghỉ trưa sắp kết thúc rồi đấy cậu biết không hả."@
+`"…… Ơ, thế ạ.@ Em cứ tưởng chúng ta vẫn còn khoảng mười phút nữa cơ chứ."@
+cl a,crossfade,400
+ld c,"tachi/cel_t12",crossfade,400
+`"Thì đúng là lúc nãy còn mười phút thật.@ Nhưng cậu đã ngồi thẫn thờ đờ đẫn suốt ngần ấy thời gian rồi đấy."@
+cl a,crossfade,400
+` Senpai vừa nói vừa nhanh tay thu dọn các tách trà.@
+`"Hả…… Thực sự đã trôi qua mười phút rồi sao……?"@
+` Trong khi tôi vẫn còn đang ngơ ngác khẽ nghiêng đầu thắc mắc, tôi phụ giúp Senpai dọn dẹp lại phòng trà đạo rồi cất bước ra về.
+\
+bg #000000,crossfade,1500

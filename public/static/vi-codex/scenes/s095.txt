@@ -1,0 +1,39 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_15c",notrans,0
+` [line=4]Tôi từ chối.@
+` Tôi biết mình phải từ chối.@
+` Dù tôi suy nghĩ nhiều như thế nào đi chăng nữa, tôi cũng không thể làm gì được.@
+br
+`"[line=4]Arcueid.@ Xin lỗi, nhưng tôi[line=4]"@
+br
+` Liệu tôi có bỏ rơi cô ấy?@
+` Đó là lỗi của tôi. Vì Tohno Shiki, cô ấy không thể di chuyển như cô ấy cần phải.
+\
+`"[line=4]Tôi[line=4]"@
+br
+` Tôi có đang chạy trốn không?
+\
+` Từ con [line=4]quỷ dữ tàn nhẫn, vô tình, một chiều đã tàn sát tất cả những người đó?@
+br
+` Chạy trốn và giả vờ như tôi chưa từng thấy nó sao?@
+` Sau khi là người duy nhất sống sót, tôi chỉ sẽ chạy trốn mà không có bất kỳ nỗi đau nào về tội lỗi sao?
+\
+`"[line=8]"@
+br
+` Những đường kẻ chết chỉ tôi mới nhìn thấy.@
+` Người quan trọng đó đã từng nói với tôi rằng tôi có sức mạnh này vì sẽ có một lúc tôi cần nó[line=4] sao?
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"[line=4]Shiki?"@
+`"... Vâng, tôi biết. Tôi không thể chạy trốn một mình."@
+cl c,crossfade,400
+br
+` Tôi nhìn lên trần nhà và hít một hơi sâu.@
+` May mắn thay, điều đó giúp tôi chuẩn bị một chút cho những gì sắp xảy ra.@
+br
+`"[line=4]Được rồi, tôi sẽ giúp cậu, Arcueid. Tôi nghĩ đó là nghĩa vụ của tôi làm người duy nhất sống sót trong khách sạn đó."
+\
+bg #000000,crossfade,800
+!w1000

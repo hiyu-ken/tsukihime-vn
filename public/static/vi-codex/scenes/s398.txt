@@ -1,0 +1,217 @@
+playstop
+wavestop
+bg "bg/bg_40d",notrans,0
+` Dẫu dã chỉ cần đêm nay tôi cất lực thức trắng tịnh không chợp mắt, mọi sự sẽ êm đẹp.@
+br
+`"…… Đúng thế.@ Chỉ cần mình tịnh không ngủ, và dẫu cho[line=2]"@
+` Nếu ngày mai dẫu dã vẫn xuất hiện thêm một nạn nhân xấu số vong mạng, thì chắc chắn 100% tôi tịnh không có bất kỳ can hệ gì tới vụ án mạng ấy.
+\
+`"[line=4]Được rồi."@
+` Tôi dẫu dã thừa hiểu quyết định thức trắng này là có hơi cực đoan lệch hướng.@
+` Tôi biết việc ở đây và chờ đợi ai đó bị giết mà không ngủ là hơi kỳ lạ.@
+`"[line=3]Nhưng, tôi có thể làm gì khác?"@
+` [line=3]Vì ký ức của tôi không đáng tin cậy, nên đây là cách duy nhất để làm điều này.@
+br
+` [line=3]Bất kể thế nào.@
+` Không có cách nào khác cho tôi ngoài việc ở trong phòng của mình không mơ mộng và chờ đến sáng.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+br
+br
+br
+` [line=5]Thời gian trôi qua.@
+` Tôi vẫn cố gắng giữ tỉnh táo.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+br
+br
+br
+br
+br
+` [line=4]Một giờ đồng hồ nữa.@
+` Tôi vẫn cố gắng giữ tỉnh táo.
+\
+bg #000000,crossfade,400
+bg "bg/bg_40d",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=5]Một giờ.@
+` Tôi vẫn... cố gắng giữ tỉnh táo.
+\
+bg #000000,notrans,0
+bg "bg/bg_40d",notrans,0
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Đã qua một giờ sáng.@
+bg #000000,notrans,0
+bg "bg/bg_40d",notrans,0
+` Tôi... vẫn còn tỉnh táo.
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Chỉ còn bốn giờ nữa là sáng.
+\
+bg #9c0120,notrans,0
+bg "bg/bg_40d",notrans,0
+` Có điều gì đó không ổn.@
+` Tôi vẫn còn tỉnh... nhưng...
+bg #000000,notrans,0
+bg "bg/bg_40d",notrans,0
+` ... tầm nhìn của tôi đang mờ đi.@
+bg #9c0120,notrans,0
+bg "bg/bg_40d",notrans,0
+bg #000000,notrans,0
+bg "bg/bg_40d",crossfade,800
+br
+` Tôi phải giữ mình tỉnh thức.@
+` Tôi chưa buồn ngủ, nhưng...
+` Tại sao?@
+!w750
+` Tại sao?@
+!w1350
+` Tại sao?@
+!w1750
+` [line=5]Cơ thể tôi muốn ngủ nhiều đến vậy sao?
+\
+bg #000000,tcartain,800
+!w2000
+!w3000
+Vòng lặp âm thanh se_11
+bg "bg/bg_26a",notrans,0
+` [line=3][line=4](Hít thở gấp)
+\
+` Tôi có cảm giác mình đang bị theo dõi.@
+` Tôi...@
+` Với đôi mắt đỏ ngầu, tôi quan sát những người đi bộ trên đường phố.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Có thể là do thời gian?@
+`   So với đêm qua, gần như không ai ở quanh đây.
+\
+` ... Có ai đó đang theo dõi tôi.@
+` Tôi vẫn không tìm thấy điều mình đang tìm kiếm.@
+` Một lần nữa. Đêm nay, tôi không thể tìm thấy người mà tôi đang tìm kiếm.@
+br
+br
+br
+br
+[màu văn bản #ff0000]
+`      Tôi bắt đầu cảm thấy khó chịu.
+\
+Màu chữ trắng.
+` Tôi thở dốc.
+\
+` Tôi nên đổi vị trí.@
+` Tôi sẽ ngừng tìm kiếm trong thị trấn.
+\
+bg "bg/bg_24c",crossfade,400
+` Tôi di chuyển từ mái nhà này sang mái nhà khác và cuối cùng đến một nơi đông đúc.@
+` ... Nhìn từ mái nhà cao nhất, tôi quét qua các con phố.
+\
+br
+br
+br
+br
+br
+br
+br
+Màu chữ đỏ.
+`             Đừng nhìn!
+\
+Màu chữ trắng.
+`"[line=4]Có một người đang đi một mình."@
+` Tôi nhìn thấy một phụ nữ.@
+` Lần này, không thể có sai lầm nào...@
+` Thật tuyệt nếu đó là Akiha.
+` (Đừng) Nhìn tôi.
+\
+Màu chữ đỏ.
+br
+br
+br
+br
+br
+br
+br
+`        Hãy giữ khoảng cách với tôi.
+\
+Màu chữ trắng.
+` Không, điều đó thực sự không quan trọng.@
+` Một lần nữa.@
+` [line=4]Một lần nữa, tôi muốn nếm trải cảm giác tuyệt vời đó.
+\
+bg #000000,notrans,0
+wave se_13
+bg "bg/ima_12b",lshutter,400
+` Tôi giết cô ấy từ phía sau, cẩn thận không làm tổn thương cơ thể cô ấy.@
+` Giữ chặt mái tóc dài của cô ấy, tôi kéo theo cơ thể Akiha.@
+bg "bg/bg_22c",lshutter,800
+` [line=4][line=4]*Hít thở gấp gáp*
+` Nắn nót vào cổ Akiha, tôi hút máu của cô ấy.@
+br
+` [line=3]Chán ngắt.@
+` Điều này chẳng thú vị chút nào so với đêm qua.@
+` Nếu mái tóc ngắn như vậy, cô ấy không phải là Akiha.
+\
+`"... Chán quá..."@
+` Tôi bắt đầu cảm thấy bực bội.
+\
+` Ngay cả khi tôi cắt xác thành từng mảnh, tôi vẫn tức giận.@
+` Người giả mạo.@
+` Kẻ giả mạo này khiến tôi phẫn nộ.
+\
+Màu chữ đỏ đậm
+br
+br
+br
+br
+br
+br
+br
+`         Dừng lại việc nhìn tôi!
+\
+Màu chữ trắng
+` [line=4][line=4][line=4]*(hít sâu)* *Hít thở* *Hít sâu* *Hít thở*
+br
+` Tôi đã tiêu hao năng lượng dư thừa.@
+` Sớm thôi, bình minh sẽ đến.@
+` Khi trời sáng, Shiki sẽ thức giấc.@
+br
+`"Tôi mệt mỏi vào đêm nay. Tôi sẽ bắt đầu lại từ ngày mai."@
+` "Ừm, như thế cũng được. Đó là điều tôi sẽ làm."
+\
+` "Vậy thì..."@
+` "[line=4]Trước khi bình minh đến, trước khi ai đó nhận ra, tôi phải quay lại trường học."
+\
+bg #000000,crossfade,800
+wavestop
+!w3000

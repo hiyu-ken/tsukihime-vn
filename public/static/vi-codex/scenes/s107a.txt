@@ -1,0 +1,211 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",crossfade,800
+` ...Lớp học đã bắt đầu từ lâu rồi.@
+` Lớp nào vậy?@ Tôi không nhớ bài học thứ năm hôm nay.@
+br
+bg #ffffff,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+` Ngay cả khi tôi nhìn vào bảng đen và ngắm những dấu vết mà phấn của giáo viên để lại, tôi vẫn không biết lớp này là gì.@
+br
+bg #ffffff,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+br
+` Tôi không thể đọc được.@
+` Những chữ viết bắt đầu chảy như nước và trộn lẫn với nhau giống như một ảo giác.@
+br
+wave se_01
+\
+`"Ối trời ơi..."@
+` Tôi cảm thấy như thể mình sắp nôn mửa.@
+` Cảm giác choáng váng.@ Trí óc tôi bắt đầu trôi đi.
+\
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+` Lắc lư...@
+` Run rẩy...@
+` Cọ xát...@
+` Chao đảo...@
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+\
+` Những âm thanh đó khiến tôi chú ý.
+\
+` Sự bất tương thích.@
+` Nơi nguồn gốc của sự bất nhất đó đến?@
+wave se_01
+` Tôi không thể xoa dịu cảm giác điều gì đó không đúng trong cơ thể tôi.@
+` Nó lấp đầy tôi đến rìa.@
+` Như thể xương của tôi đang trượt ra khỏi khớp.@
+wave se_01
+` Vâng, vì khớp của tôi bị lệch vị trí, nó gây ra cảm giác không tự nhiên. Thân xác của tôi đang đốt khói vô hình và tan rã.
+\
+br
+br
+br
+br
+br
+br
+br
+` Click, click. Lắc lư, lắc lư. Creak, creak. Chao đảo, chao đảo.
+\
+bg #9c0120,crossfade,400
+wave se_01
+bg "bg/bg_06a",crossfade,400
+bg #000000,crossfade,800
+` Tôi ngã khỏi ghế.@
+` Một cô gái la hét.@
+` Tôi nghe thấy tiếng chân của giáo viên chạy đến gần tôi.@
+` Tôi...
+` Ngay cả khi tôi đã ngất hoàn toàn, tôi vẫn quan sát bản thân mình từ xa với một sự bình tĩnh kỳ lạ.
+\
+!w3000
+` ... Sau đó là những gì thường xảy ra.@
+` Vì bị thiếu máu, tôi được đưa đến phòng khám và ngủ thiếp đi cho đến khi hồi phục.@
+` Vì tôi có sốt trên 38 độ C sau bảy giờ chiều, thời gian trường học kết thúc, y tá đã gọi điện về nhà để tìm người đến đón tôi và trở về.@
+br
+` Và điều đó dẫn đến...
+\
+play "*1"
+bg "bg/bg_10c",crossfade,400
+ld c,"tachi/koha_t01b",crossfade,400
+`"Bạn ổn chứ, Shiki? Bạn vẫn còn sốt, nên đừng ngần ngại dựa vào vai tôi."@
+br
+` [line=4]Vâng, đó là sự thật.
+\
+`"... Không, tôi ổn. Tôi có thể đi được, nên xin đừng lo lắng."@
+` Khi rời xa Kohaku, tôi cố gắng giả vờ vượt qua tình huống này.@
+` ... Ồi trời. Việc Kohaku đến đón tôi đã đủ xấu hổ rồi. Ngày nào tôi cũng dựa vào vai cô ấy, tôi sẽ chết.
+\
+`"Không tốt khi ép bản thân như vậy, Shiki. Không phải lỗi của bạn khi cơ thể yếu đi. Bạn có thể xin giúp đỡ một chút."@
+` Tôi sẽ không nói với Akiha hay Hisui, nên bạn có thể dựa vào tôi tạm thời."@
+` Với nụ cười dịu dàng, cô ấy nắm lấy tay tôi.
+\
+`"Ồ... vâng, xin lỗi."@
+` Tôi đỏ mặt, ngượng ngùng làm theo lời cô ấy.@
+` ... Chắc chắn là tôi sẽ ngất nếu tiếp tục cứng đầu.
+\
+`"Có một chiếc xe đang chờ bên ngoài, nên hãy đợi đến lúc đó nhé."@
+cl c,lshutter,800
+` Kohaku-san kéo tay tôi và bắt đầu đi bộ.@
+bg #000000,crossfade,400
+bg "bg/bg_10c",crossfade,400
+`"[line=4]Ồ"@
+` ... Điều này không tốt.@
+` Tôi dựa vào Kohaku-san để dẫn đường đến cầu thang trong khi cố giữ ý thức của mình.
+\
+bg #000000,lcartain,1500
+!w1000
+playstop
+bg "bg/bg_07b",notrans,0
+bg "bg/bg_11c",crossfade,800
+` [line=4]Tôi tỉnh dậy, cảm thấy một sự bất an kỳ lạ.@
+` [line=4]Tại sao tôi lại đi lên tầng hai?
+\
+`"Kohaku-san... đây không phải là lối đi đúng."@
+` Tôi gọi tên cô ấy.@
+` [line=4]Không có phản hồi nào. Không, thậm chí tôi cũng không cảm nhận được sự hiện diện của cô ấy hay nhìn thấy bóng dáng.
+\
+bg #000000,crossfade,400
+bg "bg/bg_11c",crossfade,400
+play "*6"
+`"Kohaku... san?"@
+` Tôi cố gắng tập trung tinh thần mờ mịt để quan sát xung quanh.@
+` Không ai trên hành lang cả.@
+` Ánh trăng duy nhất xuyên qua cửa sổ thật rực rỡ.
+\
+wave se_01
+`"[line=8]"@
+` Nó xuất hiện đột ngột.@
+wave se_01
+`"Ah"[line=6]"@
+` Tiếng đập của trái tim tôi.@
+` Và một cảm giác lạnh lẽo chạy dọc sống lưng.
+\
+waveloop se_02
+wave se_08
+` "Thump."@ "Tap."
+\
+br
+wave se_08
+` "Thump."@ "Tap."@
+br
+wave se_08
+` "Thump."@ "Tap."@
+br
+` "Thump."@ "Tap."@ "Thump."@ "Tap."@ "Thump."@ "Tap."@ "Tap."@ "Tap."
+\
+` Trong bóng tối, những bước chân đang tiến lại gần.@
+br
+` [line=3]Đây giống như nỗi sợ tôi từng cảm nhận.@
+br
+` Tôi gọi tên cô ấy. Không phải để cầu cứu, mà để dặn cô ấy chạy trốn. Tôi hoảng loạn gọi tên Kohaku.
+\
+`"Kohaku-san...!"@
+` Cô ấy ở đâu? Tôi không nhìn thấy cô ấy ở đâu cả.
+\
+`"Bước chân giờ đây gần tôi hơn.@
+` Ít nhất...@
+` ...tôi vẫn còn hơi thở.@
+br
+` (Tôi)
+` Tôi muốn @Kohaku-san thoát khỏi nơi này mà không bị tổn thương.
+\
+`"Đừng cố, Shiki. Cô ấy đã hoàn thành rồi."@
+` Tôi nghe thấy một giọng nói.@
+` Trong bóng tối trước mặt tôi là...
+ld c,"tachi/roa_t04a",crossfade,800
+` người đàn ông bị băng bó, người đã cố giết tôi vào đêm đó.
+\
+`"Ah." [line=6]@
+` "Tại sao lại thế...?"@
+` Tôi có cảm giác như tôi biết mặt người này.
+\
+`"Mày chắc là không may mắn đâu. Nếu biết nó sẽ như thế này, tao chẳng đợi mày ở trước biệt thự."@
+br
+` ... Bước chân ngày càng gần hơn.@
+br
+`"Ka... ừm."@
+` Tao cố gắng di chuyển.@
+` Nhưng tao chỉ có thể lắc lư bước đi.@
+` Có lẽ tao đã ép cơ thể quá sức mỗi ngày. Cơ thể tao dường như đã hỏng xuống vào khoảnh khắc cuối cùng.
+\
+`"Đây là kết thúc rồi, nên tao sẽ nói cho mày biết. Đây là sào huyệt của tao bây giờ."@
+bg #9c0120,crossfade,800
+` Tao nghe thấy âm thanh đâm xuyên qua.@
+` Trong tay anh ta có một con dao. Dấu kiếm bạc xuyên thẳng vào tim tôi.
+\
+wavestop
+bg #000000,crossfade,400
+monocro #0000ff
+bg "bg/ima_18",notrans,0
+playstop
+` [line=4]Tôi ngã xuống đất.@
+` Tôi cảm thấy cái chết đang lan tỏa từ đầu ngón tay tôi.@
+` Trí óc tôi dần mờ đi, từng giọt một.
+\
+` Trong quá trình đó.@
+` Khi trí óc tôi mờ nhạt, tôi ngước nhìn bầu trời.@
+` Tôi không còn nơi nào khác để nhìn, nên tôi chỉ nhìn chằm chằm vào đó.@
+br
+` Mặt trăng xanh lơ lửng trên bầu trời đêm.@
+` "Ngốc quá."@
+` "Tôi sắp chết rồi, nhưng..."
+` "Tôi bị mê hoặc bởi một thứ bình thường như vậy."
+\
+monocro off
+bg #000000,crossfade,1500
+` "Từ khi nào ký ức này lại xuất hiện?"@
+` "Trong khu rừng như tấm màn đen."@
+` "Vào đêm kinh hoàng đó."@
+` "[line=4]Chỉ như thế này, tôi chỉ nhìn chằm chằm vào mặt trăng."
+!w2000
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

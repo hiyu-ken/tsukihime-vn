@@ -1,0 +1,68 @@
+monocro off
+wavestop
+bg "bg/bg_56",notrans,0
+play "*1"
+` …… Đúng vậy.@
+` Tôi đã đồng ý giúp Arcueid săn lùng kẻ thù này, dẫu bản thân tôi thậm chí còn chưa rõ hắn là loại quái vật như thế nào.@
+br
+`"Thế thì tôi hỏi đây. Arcueid này, kẻ thù mà cậu đang truy đuổi suốt bấy lâu nay, hắn rốt cuộc là loại ma cà rồng như thế nào vậy? Cậu đã theo dấu hắn lâu như thế, chắc chắn cậu phải biết rõ ngoại hình và năng lực của hắn chứ."
+ld c,"tachi/ark_t10",crossfade,400
+`"[line=4][line=4]Ồ, cậu muốn biết về Roa sao?"@
+ld c,"tachi/ark_t01a",crossfade,400
+\
+`"Hắn ta là một Tử Đồ cực kỳ đặc biệt, kẻ được mệnh danh là 'Tử Đồ Rắn' (Xà Akasha of Akasha). Hắn sở hữu khả năng chuyển sinh luân hồi vô hạn bằng cách nhập hồn vào cơ thể của những thế hệ con cháu có dòng máu tương thích ngay khi cơ thể cũ bị tiêu diệt."@
+ld c,"tachi/ark_t14",crossfade,400
+` Cô ấy giải thích với giọng điệu trầm ngâm đầy nghiêm nghị.
+\
+`"Chuyển sinh luân hồi vô hạn sao... Một năng lực gian lận đáng sợ thật đấy."@
+` [line=4]Tôi rùng mình kinh hãi trước sự tồn tại quái dị của hắn.@
+\
+` Cô ấy nắm chặt bàn tay nần nà của mình lại đầy quyết tâm.
+\
+`"[line=3]Đêm nay, chúng ta nhất định phải tìm ra tung tích của hắn trước khi hắn kịp hoàn tất việc hồi phục sức mạnh hoàn toàn."@
+br
+\
+[line=4]cl c,lshutter,800
+\
+playstop
+[line=4]!w3000
+cl c,crossfade,400
+`"[line=4]Tên?"@
+`"Đúng vậy, tên của hắn."@
+` Cô ấy buồn bã xuống giọng, rơi vào sự im lặng.@
+` Cô ấy không thể nói cho tôi biết tên anh ta vì một lý do nào đó, và cô ấy lo lắng.@
+br
+` Vâng, đó là điều tôi nghĩ thế.
+\
+ld c,"tachi/ark_t05c",crossfade,400
+`"[line=4]Tên của anh ấy."@
+` Lạnh giá.@
+` Nhanh chóng, tôi cảm thấy một cơn lạnh lớn đến mức dường như có thể đóng băng cả căn phòng.@
+br
+`"Shiki, tên của anh ấy là……"@
+` Arcueid không gặp khó khăn gì khi nói ra.@
+br
+`"…… Tên của anh ấy là Michael.@ Michael Roa Valdamjong."@
+` Được gọi là Uroboros, một Tử Đồ từng là người bình thường.@
+` Cô ấy nói trong khi vẫn nhìn xuống.@
+` Sự thù địch thuần khiết, như thể cô ấy đang nhổ máu ra.@
+cl c,crossfade,400
+\
+`"[line=4]Arcueid, bạn..."@
+`"[line=6]... (lặng im)"@
+` Vai cô ấy run rẩy.@
+` Có vẻ như cô ấy đang cố kìm nén bản thân để không lao vào tấn công.@
+`"... Xin lỗi. Tôi không nên hỏi. Đừng bận tâm, cứ quên đi."@
+` Arcueid nhẹ nhàng lắc đầu.@
+` Như thể cô ấy muốn nói rằng mình sẽ không bao giờ quên.@
+br
+` Một khoảng lặng kéo dài giữa chúng tôi.
+\
+`"[line=6]Tôi xin lỗi."@
+` Arcueid nói vậy, vẫn nhìn xuống đất.@
+`"[line=4]Ừm."@
+` Tôi trả lời một cách không chắc chắn. Cả hai chúng tôi tự động đứng dậy khỏi ghế và rời nhà hàng.
+\
+bg #000000,lcartain,800
+playstop
+!w2000

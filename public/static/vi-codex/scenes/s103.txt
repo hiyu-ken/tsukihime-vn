@@ -1,0 +1,41 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+`"[line=6]"@
+` ... Nguồn gốc chính.@
+` [line=2]Nếu tôi có thể làm gì đó để thao túng cơ thể chính của Nrvnqsr bằng cách điều khiển những con quái vật, có lẽ tôi có thể cứu được Arcueid ít nhất.
+\
+`"AAAAAAAAAH!"@
+wave se_07
+` Tôi vung dao một cách mù quáng.@
+` Tôi ép buộc cơ thể yếu ớt và lao về phía trước.@
+` Nếu anh ta chưa di chuyển khi trêu chọc tôi,
+` thì chắc chắn anh ta đang đứng đó với nửa thân người ở phía trước đây[line=4]
+\
+bg "bg/bg_29c",notrans,0
+ld c,"tachi/nero_t02d",notrans,0
+`"!"[line=4]@
+` Nrvnqsr[line=4]!@
+`"Dừng tiếng ồn ào của cậu, rất khó chịu."@
+` Áo khoác của anh ta bay phấp phới.@
+br
+` Từ đó,
+` Một sừng trắng thẳng tiến về phía tôi.
+\
+bg #000000,crossfade,400
+ld c,"tachi/kemo_t05",bshutter,800
+`"[line=4]Ồ?"@
+` Một thứ gì đó giống như sừng... đâm vào thân tôi.@
+` Một âm thanh vang lên.@
+` Nó sắc nét đến mức không thực sự gây đau.@
+br
+`"[line=6]"@
+` Tôi ngã sấp mặt xuống đất.
+\
+bg #000000,crossfade,800
+`"Tôi là người rất cầu toàn. Hãy yên tâm, không một tế bào nào của bạn sẽ còn lại."@
+br
+` Tôi nghe thấy một giọng nói.@
+` Đồng thời, một hình cầu đen bao phủ tôi.
+\

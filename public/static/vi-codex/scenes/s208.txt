@@ -1,0 +1,13 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Tôi định hỏi, nhưng tôi không nghĩ giáo viên sẽ nói với tôi.@
+br
+` Nếu cô ấy thực sự bỏ nhà như Arihiko nói, đó là việc của cô ấy.@
+` Hơn nữa, không có giáo viên nào trên hành tinh này sẽ trả lời một người bạn cùng lớp ngẫu nhiên hỏi: "Yumizuka-san đã bỏ nhà chưa?"
+\
+`"... Vâng, nó cũng chưa được xác nhận gì đâu."@
+` Có thể Yumizuka chỉ trễ thôi.@
+` Ý tưởng tốt hơn là chờ xem tình hình diễn ra như thế nào trong một thời gian ngắn trước khi hỏi giáo viên.
+\
+bg #000000,crossfade,800

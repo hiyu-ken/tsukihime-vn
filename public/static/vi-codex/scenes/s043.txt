@@ -1,0 +1,339 @@
+playstop
+bg #000000,lcartain,800
+bg "bg/bg_34b",lcartain,800
+play "*2"
+` Khi đến phòng khách, Akiha đang thư giãn một mình ở đó.@
+` Không có dấu hiệu của Kohaku-san hay Hisui.@
+` Trên bàn có hai tách trà và Akiha đang sử dụng một trong số chúng.
+\
+ld c,"tachi/aki_t09b",lshutter,800
+` "Ồ?  Bạn cũng uống trà sau bữa ăn, phải không, Nii-san?@
+` "À, không… chẳng có gì như vậy. Tôi chỉ nghĩ đến việc đến đây trò chuyện với anh.@
+` Mặt tôi cho cô biết rằng 'Tôi sẽ đi nếu làm phiền bạn'.@
+ld c,"tachi/aki_t04b",crossfade,400
+` "Vậy thì, xin mời ngồi xuống. Trà có ổn không?@
+` "À, được; tôi uống bất cứ thứ gì ngon.@
+` Tôi thực sự thích trà xanh Nhật Bản hơn, nhưng tôi sẽ giữ cho mình chút ích kỷ này.@
+` Akiha cầm ấm trà và rót trà đỏ trong suốt vào một tách khác.
+\
+` "Cảm ơn.@
+` Tôi ngồi trên ghế sofa và đưa tách trà lên miệng.@
+` …… Trước mắt tôi là Akiha lạnh lùng và bình tĩnh, điều đó khiến tôi hơi lo lắng.@
+` Tôi đến đây để nói chuyện với cô ấy, nhưng thật lòng mà nói, bây giờ khi cô ấy đứng trước mặt tôi, tôi thực sự không biết nên nói gì nữa.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+` Anh trai? Cậu rất im lặng. Có phải cậu đến đây để nói chuyện với tôi không?"@
+` Akiha nhìn chằm chằm.`@
+` Không khí đây chẳng giống như em gái, mà tựa như cô gái lạ mặt.@ Tôi không thể nói chuyện tự nhiên được.`
+\
+` “Ừm… Tôi chỉ thắc mắc thôi, tám năm qua cậu đã làm gì?”`@
+ld c,"tachi/aki_t03b",crossfade,400
+` "Chuyện đó đương nhiên rồi. Bây giờ anh trai không ở đây, bố chỉ để ý tôi thôi."@
+` Akiha liếc nhìn đầy phàn nàn.`@
+` Chắc hẳn tám năm qua là chủ đề cấm kỵ rồi nhỉ?
+\
+ld c,"tachi/aki_t18b",crossfade,400
+` “Còn cậu thì sao? Bảy năm qua cậu đã làm gì? Tôi gửi nhiều thư lắm, nhưng chẳng nhận được hồi âm nào.”`@
+` …… À.`@
+` Tôi nghẹn ứ.`@
+` Chắc chắn, Akiha đã gửi rất nhiều thư.`@
+` Nhưng tôi chưa bao giờ trả lời.`@
+` Tôi chẳng phải là người viết thư thường xuyên lắm, nhưng sâu trong lòng tôi muốn cắt đứt mọi liên lạc với gia tộc Tohno, điều đó khiến tôi ngần ngại khi viết cho Akiha.`
+\
+ld c,"tachi/aki_t04b",crossfade,400
+` “Chuyện những lá thư thì thôi đừng bận tâm.  Mà kể cả cậu trả lời, chắc chắn cha cũng sẽ không cho phép đưa vào nhà đâu.`@
+` Quan trọng hơn là cảm giác của cậu khi trở lại biệt thự lần đầu tiên sau tám năm? @ Nó hầu như không thay đổi... mặc dù có một số công việc trùng tu được thực hiện.`
+\
+` [line=5]" "@
+` Mặc dù Akiha nói thế, nhưng ngôi biệt thự vẫn còn xa lạ với tôi.`@
+` Bảy năm trước, tôi chỉ là một đứa trẻ.`@
+` , Mặc dù tôi nhớ chút ít về căn biệt thự này, nhưng cảm giác như mình đang ở trong nhà người khác, thật là khó chịu.`
+\
+ld c,"tachi/aki_t01b",crossfade,400
+` "Anh trai?"@
+` “À, không, tôi chỉ đang mải nghĩ một chút.”`@
+` Ừm, cậu nói dinh thự này thay đổi rất ít, nhưng đối với tôi thì khá là rùng người.  Mặc dù phòng khách và sảnh chính có vẻ quen thuộc, nhưng tôi không nhớ rõ hành lang, cũng như phòng của mình."@
+` “Thật… 8 năm cũng là một khoảng thời gian dài.”`@
+br
+` Tôi đoán là thế thôi.`@
+` Cũng như nửa cuộc đời tôi vậy.@ Tôi không thể mong đợi mình có những ký ức rõ ràng được.`
+\
+` “Ừm, tám năm rồi nên có vẻ không quen lắm đâu. Nhưng tôi nghĩ mình sẽ dần quen được. Mong cậu tha thứ cho sự vụng về của tôi một thời gian nhé.”`@
+ld c,"tachi/aki_t03b",crossfade,400
+` "Xin lỗi, đừng quá phi lý.`Tôi đã kiên nhẫn với cách ứng xử của anh trai tôi đến mức tối đa rồi."`@
+` "U…"`
+\
+` Ugh…… Rất may mà thoát được.  Tôi gần như phun nước trà ra.@
+` Bữa tối hôm nay, ánh mắt của Akiha khiến tôi mồ hôi lạnh dù chỉ là dùng dao sai chỗ.
+\
+` …… Tôi thấy đấy. Cậu đã khá khoan dung lúc trước…`@
+ld c,"tachi/aki_t21b",crossfade,400
+` "Vâng. Tôi đang nhường bớt cho phù hợp với khả năng của cậu. Anh trai đã được dạy dỗ bởi gia tộc Arima mà sau cùng.@
+` Bởi vì dì Keiko là người họ hàng xa nên được phép một chút tự do, và anh đã bị chiều quá, Nii-san.  Kết quả là bữa tối chúng ta vừa rồi."@
+` "Ừm, cũng chẳng thể nào khác được, phải không?@ Chúng ta chưa bao giờ nghĩ rằng tôi sẽ trở lại đây."
+\
+` “Vậy ư?  Cậu gần như không muốn trở lại, anh trai.”`@
+` “Đừng ngu ngốc như vậy, không phải thế đâu. Tôi có thể nghi ngờ, nhưng tôi không thể bỏ mặc cậu ở đây, phải không?  Thế thì tôi là anh trai gì?”`@
+cl c,crossfade,400
+br
+` Vâng. Đó là lý do tôi trở lại.`@
+` [line=4]Nếu không có Akiha, tôi sẽ chẳng bao giờ trở lại`
+\
+` “Bởi vì tớ chẳng nghe thấy tin tức gì gần như tám năm liền nên luôn tự hỏi cậu có khỏe không?”`@
+` Tôi quay lại dinh thự vì lo lắng cho cậu.@
+` Ngước nhìn nghiêng một chút, tôi thốt ra những cảm xúc chân thật của mình.
+\
+ld c,"tachi/aki_t16b",crossfade,400
+` "À… vậy thì, cảm ơn [line=2]@
+` "Nhưng tôi đoán tôi chỉ lo lắng về chuyện không có gì. Trong tám năm qua, cậu dường như đã trưởng thành hơn. Tôi thở phào nhẹ nhõm, nhưng cũng hơi thất vọng."@
+br
+` Không, một chút là nói quá ít.@
+` Vì tôi chỉ nhớ về Akiha khi còn nhỏ, hiền lành và bình tĩnh, nên Akiha hiện tại sắc bén như thế thật sự khiến tôi ngạc nhiên.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+` " [line=3]Thật sao? Tôi xin lỗi vì không đáp ứng được kỳ vọng của anh trai."@
+` Mắt Akiha thật đáng sợ.@
+` …… Crap, tôi nghĩ mình đã nói quá nhiều lần nữa.
+\
+ld c,"tachi/aki_t03b",crossfade,400
+` "Vậy thì, anh trai. Cuộc sống tại nhà Arima như thế nào? "@
+` Akiha hỏi, vẫn với biểu cảm đáng sợ.@
+` Tôi cảm thấy mình đang chịu áp lực khủng khiếp, ngay cả khi chỉ đang trò chuyện với em gái của mình.
+\
+` "Anh trai? Anh có nghe thấy tôi nói gì không? "@
+` "Tôi nghe. Cuộc sống tại nhà Arima, đúng không? Nó bình thường, không có vấn đề thực sự. Dường như cuộc sống ở đó phù hợp với tôi hơn.@
+ld c,"tachi/aki_t01b",crossfade,400
+` "Chuyện đó không phải là ý của tôi.@ Tình trạng sức khỏe của anh thế nào?@ Tôi nghe nói anh bị ngất rất nhiều vì bệnh thiếu máu mãn tính."
+\
+` "À, vâng, khoảng một năm sau khi rời khỏi bệnh viện, nhưng bây giờ tôi ổn rồi.@
+` Tôi chỉ gặp vấn đề thỉnh thoảng, khoảng một lần một tháng. Tôi chắc chắn không yếu đuối đến nỗi phải lo lắng.@
+` Lừa dối, tôi đập vào ngực mình với vết sẹo của nó.@
+` Akiha gật đầu đồng ý một cách nghiêm túc.
+\
+` "Nhưng anh trai, cậu cũng bắt đầu đeo kính rồi. Sau khi vào bệnh viện, thị lực của cậu có bị giảm sút không? "@
+` ……@
+` Tôi thấy. Akiha không biết tôi đeo kính hay lý do tôi đeo chúng.@
+` Tôi không thể đơn giản giải thích về những đường kẻ mà mọi thứ bị vỡ, hoặc rằng chúng không xuất hiện khi tôi đeo kính này.
+\
+` "Chuyện gì đâu. Mắt tôi trở nên hơi kỳ quặc sau tai nạn. Nhưng nó cũng chẳng phải là thị lực xấu đi, nên thật ra không phải vấn đề nghiêm trọng lắm "@
+ld c,"tachi/aki_t12b",crossfade,400
+` "Thật… Tôi… ừm, tôi ngạc nhiên khi nhìn thấy anh một lúc trước. Tôi không biết anh đã bắt đầu đeo kính, Nii-san.@
+` "Thế à? Bạn dường như rất bình tĩnh lúc đó.@
+ld c,"tachi/aki_t03b",crossfade,400
+` "Chắc chắn rồi. Tôi gặp bạn lần đầu tiên sau tám năm; tôi không thể để bạn thấy mình hành động kỳ quặc "@
+` Đôi mày Akiha nhăn lại cau có.
+\
+cl c,crossfade,400
+wave se_04
+ld l,"tachi/koha_t03",lshutter,800
+` "Akiha-sama? Bồn tắm đã sẵn sàng; tôi nên làm gì?@
+ld r,"tachi/aki_t04b",crossfade,400
+` "Thế à? Cảm ơn, Kohaku. Tôi sẽ đi ngay thôi, cứ tiến hành trước đi.@
+ld l,"tachi/koha_t02",crossfade,400
+` "À, vậy được à?@ Sau cuối, bạn đang thư giãn với Shiki-sama.@ Shiki-sama có thể chạy trốn, nhưng bồn tắm thì không.@ Hãy thư giãn thêm một chút nữa "
+\
+` "Không sao đâu. Chúng ta chẳng nói về bất cứ điều gì quan trọng cả.@
+cl r,lshutter,800
+` Akiha đứng dậy và đi qua Kohaku-san vào sảnh.@
+cl l,lshutter,800
+` Kohaku-san theo sau Akiha.@
+br
+` Bị cô đơn trong phòng khách, tôi uống hết ly trà.@
+` Akiha và Kohaku-san dường như đang đi về phía bồn tắm, nên tôi đoán mình sẽ quay lại phòng.
+\
+` …… Chờ chút. Akiha và Kohaku-san không định tắm chung với nhau chứ…?@
+` Không, tôi chắc chắn họ sẽ.@
+` Thế thì có lẽ Kohaku-san đang rửa lưng…?@
+` Tất nhiên, với một cô gái khác, điều đó không phải là vấn đề, nhưng…
+\
+ld c,"tachi/aki_t18b",crossfade,400
+` " [line=3]Chà, bạn có thể tưởng tượng bất cứ điều gì bạn muốn, Nii-san, nhưng…"@
+` [line=4]¡!@
+` Akiha trở lại đúng lúc.@
+ld c,"tachi/aki_t03b",crossfade,400
+` ‘Đừng ép Hisui làm những việc ngu ngốc. Không giống Kohaku, cô ấy không hiểu trò đùa đâu.’@
+br
+` Akiha nhìn tôi như thể đang nhìn vào suy nghĩ của tôi.@
+` Tôi ngạc nhiên…
+` Có lẽ căn biệt thự này có thiết bị thu âm.
+\
+` ‘…… Chờ tí, cậu đang làm gì ở đây? Cậu không tắm với Kohaku-san sao?’@
+` ‘Tôi quên chưa nói cậu về việc tắm. Anh trai, phòng tắm lớn chúng ta từng sử dụng lâu trước giờ không được dùng nữa. Nó quá nhiều cho Hisui và Kohaku nên đã bị đóng lại.’@
+` ‘…… Phòng tắm lớn?’@
+` Có nơi như vậy sao?@
+` Tôi lắp bắp một chút.@
+` Không nhớ được, tôi làm ra vẻ nghi ngờ.@
+` Đôi lông mày của Akiha nhăn lại dữ dội.
+\
+` ‘Bồn tắm trong sân. Cậu thậm chí không nhớ chuyện đó sao?’@
+` …… À, giờ nghĩ lại thì có vẻ như vậy.@
+` ‘…… Nhưng, đây là biệt thự phong cách châu Âu. Chuyện như thế hơi kỳ quặc chứ?’@
+ld c,"tachi/aki_t01b",crossfade,400
+` ‘Bố thích nửa phần kiến trúc phong cách Nhật Bản. Đó là lý do tòa nhà phụ lại được thiết kế theo phong cách Nhật Bản.’
+\
+` ‘Bất kể gì, nếu muốn tắm thì hãy dùng phòng của mình; phòng tắm thứ hai sau sảnh chính là của anh trai.’@
+` Với điều đó, Akiha rời đi.@
+cl c,lshutter,400
+br
+` ‘…… Được rồi.’@
+` Khi Akiha đi rồi, chẳng có lý do gì để ở lại phòng khách nữa.@
+` Tôi cũng sẽ tắm một lúc rồi trở về phòng.
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_40c",lcartain,800
+` Ah[line=3]@
+` Khi tôi quay lại phòng, giường đã được dọn… Tôi đoán Hisui đã làm khi tôi vắng mặt.@
+` Tôi vui vì cô ấy đã làm thế, nhưng thực sự là quá nhiều so với những gì tôi xứng đáng.@
+` Tôi cọ xát vào má mình.@
+br
+` [line=7]Sau đó.
+\
+wave se_04
+` "Cậu có ở đây, Shiki-sama?@
+` Tôi nghe thấy giọng nói của Hisui cùng với tiếng gõ cửa.@
+` "Ừ, tôi ở đây. Vào đi."@
+ld c,"tachi/his_t16",crossfade,800
+` "Xin lỗi.@
+ld c,"tachi/his_t01",crossfade,400
+play "*1"
+` "Chào tối. Cảm ơn Hisui vì đã dọn giường cho tôi.@
+` Hisui gật nhẹ để đáp lại.@
+` …… Ôi.@
+` Đúng như tôi nghĩ, tôi chưa quen với điều này.@
+` …… À… có phải cậu còn muốn nói gì nữa không?@
+` Không, tôi không có gì để nói, nhưng Akiha-sama đã bảo tôi trả lời bất kỳ câu hỏi nào của cậu.
+\
+` …… Tôi hiểu. Có rất nhiều điều tôi muốn hỏi, nhưng tôi nghĩ rằng tôi sẽ biết chúng khi tiếp tục sống ở đây……@
+` Ừ.@ Điều tôi muốn biết ngay bây giờ trước khi ngủ là[line=3]
+` "Có phải quy định về giờ giới nghiêm ở đây là bảy không?@
+` "Vâng.`Cổng chính khóa lúc bảy giờ, và tất cả các lối vào biệt thự đều được khóa lúc tám giờ.`@
+` Cũng có quy định là sau mười giờ tối không nên đi lại trong lâu đài.`
+\
+` “Mà chẳng dạo chơi trong phủ à? …… Ừm, tôi không phiền đâu, nhưng có hơi quá đáng chứ không?  Akiha và tôi chẳng phải trẻ con mà, nên nghĩ là không cần thiết phải như vậy.”`@
+` “Ồ… Đúng vậy. Đó là quy tắc, nên xin vui lòng tuân thủ. Ngươi biết về những sự cố gần đây vào ban đêm chứ, Shiki-sama?”`@
+br
+` Ừm, chuyện ma cà rồng mà Arihiko nói đấy.`@
+` Mà nếu có chuyện như vậy xảy ra thì tốt hơn hết là cẩn thận.
+\
+` "Còn cái gì nữa… À, cậu phiền không nếu tôi hỏi một câu chuyện khác?"@
+` "Vâng, có chuyện gì sao?"@
+` Tôi muốn biết cậu và Kohaku làm việc gì ở đây.`@
+` "Tôi ở đây để phục vụ nhu cầu của cậu, và em gái tôi là Kohaku sẽ phục vụ cô Akiha."@
+` Vào lúc rảnh rỗi, chúng ta thường phụ giúp việc dọn dẹp khắp lâu đài.  Còn điều gì khác bạn muốn biết không?`@
+` “…… Để phục vụ... Vậy là kết quả cuối cùng.”`
+\
+` vai tôi bỗng trở nên nặng hơn.`@
+` "Dường như nó hoàn toàn tự nhiên với Akiha khi cô ấy nói vậy, nhưng tôi chỉ là một học sinh trung học bình thường thôi."@
+` Tôi không muốn có một cô gái cùng tuổi phục vụ tôi, ít nhất là bây giờ.
+\
+` “…… Bởi vì phục vụ tôi, cậu có nghĩa là trở thành người hầu cá nhân của tôi?”`@
+` "Vâng." Hãy cứ thoải mái ra lệnh cho tôi. "@
+` “……. Vâng, tôi hiểu rồi. Theo cách Akiha nói về cậu, dường như tôi không thể coi thường cậu được, nên tôi sẽ ngoan ngoãn để cậu phục vụ tôi..."`@
+` "Có điều gì cậu muốn đặc biệt không?"@
+` “Không có gì đặc biệt, nhưng cậu có thể ngừng gọi tôi là ‘Shiki-sama’ được không?@ Thực ra, khi nghe thấy như vậy, tôi run lên người.”`
+\
+` Nhưng Shiki-sama, ngài là chủ của tôi.@
+` Đó chính là điều tôi ghét. Tôi đã sống một cuộc sống bình thường cho đến hôm qua. Tôi không muốn bắt đầu cuộc sống nơi một cô gái cùng tuổi như tôi gọi tôi bằng '-sama'.@
+` Tôi hiểu.
+\
+` Chỉ gọi tôi là Shiki, và đổi lại, tôi sẽ gọi cậu là Hisui. Hãy loại bỏ những nghi thức chính thức và thoải mái hơn với nhau.@
+` Vẫn không biểu cảm, Hisui hạ mày xuống như thể đang bị phiền toái.@
+ld c,"tachi/his_t23",crossfade,400
+` Nhưng ngài là người thuê tôi.@
+` Không giống như tôi đang thuê cậu. Cậu là người làm những việc mà tôi không thể làm, vì vậy cậu mới là người tuyệt vời.@
+` Tôi hiểu.@
+` …… Tôi đoán ra mình sẽ không thuyết phục được cô ấy chỉ trong một ngày.
+\
+` [line=3]Bất kể sao, đây là sự thật. Đừng quá trang trọng với tôi. Tôi sẽ rất biết ơn nếu cậu nói điều đó cho em gái Kohaku-san của cậu cũng vậy.@
+ld c,"tachi/his_t16",crossfade,400
+` Được như vậy, theo lời ngài, Shiki-sama.@
+` Không biểu cảm, Hisui cúi đầu.@
+br
+` Cô ấy hoàn toàn không hiểu.@
+br
+` Tôi sẽ ra đi rồi. Xin hãy nghỉ ngơi cho đêm nay.@
+cl c,lshutter,800
+` Cúi đầu, Hisui đặt tay lên núm cửa.
+\
+br
+` [line=3]À, tôi quên hỏi điều gì đó.@
+br
+` À, chờ một chút.@
+` Chạy về phía cửa, tôi đặt tay lên vai Hisui trước khi cô ấy rời đi.@
+bg #ffffff,notrans,0
+bg "bg/bg_40c",notrans,0
+` Trong một khoảnh khắc[line=3]Tay Hisui đẩy cánh tay của tôi ra với động lượng đáng kinh ngạc.
+\
+` Với một tiếng 'thwack!', cô ấy tát tay tôi ra và nhảy lùi lại.@
+ld c,"tachi/his_t10",lshutter,400
+` [line=3]"Ê? "@
+` Mới quá, đó là điều duy nhất tôi có thể nói.@
+` Hisui im lặng, nhưng ánh mắt nhìn tôi dữ dằn.`
+\
+` “À… Tôi có làm sai điều gì không?”`@
+ld c,"tachi/his_t28",crossfade,400
+` "Â... "@
+ld c,"tachi/his_t26",crossfade,400
+` …… Tôi rất xin lỗi…`@
+` Tiếng Hisui run rẩy.`@
+` “...... Tôi chưa quen với việc bị chạm vào. Xin lỗi.”`@
+` vai Hisui run lên nhẹ.`@
+` Tôi cảm thấy như vừa làm điều thật tồi tệ.
+\
+` "À... Vâng, tôi xin lỗi."`@
+` Tôi xin lỗi mà không suy nghĩ.`@
+` Tôi chẳng hiểu sao mình lại thế này. Chỉ là thấy tội cho Hisui nên tôi cúi đầu.`@
+ld c,"tachi/his_t04",crossfade,400
+` [line=6]" "@
+` Hisui im lặng.`@
+` Tôi cảm thấy ánh nhìn cô bình tĩnh trở lại.
+\
+ld c,"tachi/his_t23",crossfade,400
+` [line=3]"Không có gì để xin lỗi, SHIKI. Tôi là người nên nhận trách nhiệm."@
+` “Không, ừm, có lẽ vậy, nhưng tôi chỉ…”`@
+ld c,"tachi/his_t01",crossfade,400
+` Tôi cọ đầu mình.@
+` Hisui nhìn tôi, chỉ ngắt quãng một giây để nhắm mắt.@
+` Ừ… Cậu muốn hỏi gì tớ, Shiki-sama?@
+` Đúng thế.@
+` Tôi ngăn Hisui lại vì muốn hỏi cô ấy một chuyện.
+\
+` À, tôi muốn hỏi về Akiha. Cô ấy có học ở trường nội trú không?@
+` Chỉ trong thời trung học thôi, Shiki-sama. Từ năm nay trở đi, Akiha-sama được phép đặc biệt học từ nhà.@
+` Ê… Cậu có nghĩa là cô ấy học ở đây?@
+` Vâng, nhưng hiếm khi cô ấy về trước hoàng hôn như hôm nay.@ Akiha-sama tập luyện cho đến bữa tối, nên luôn về trước bảy giờ.
+\
+` Tập luyện?[line=3]Tập luyện cái gì?@
+` Hôm nay là thứ tư, vì vậy cô ấy có buổi tập đàn violin.@
+` Eh? [line=4]@
+` Thông thường, cô ấy có thể về trước bữa tối vào các ngày trong tuần, nên nếu cậu muốn nói chuyện với Akiha-sama, hãy cho chị biết sau bữa tối.@
+cl c,lshutter,400
+` Hisui cúi đầu chào tạm biệt và rời khỏi phòng.
+\
+` Tập đàn violin…@
+` Cái gì thế?@
+` Cô ấy không phải là quý bà hay ai đó như vậy, vì sao lại phải làm những việc phiền phức như [line=3]
+br
+` …… À, khoan đã, cô ấy là quý bà.@
+br
+` Vâng.@ Nghĩ lại, em gái tôi, Tohno Akiha, là một quý bà đích thực.
+\
+` Trong ký ức của tôi, cô ấy luôn là chị em ngoan ngoãn, luôn lo lắng và theo sau tôi.@
+` Khi còn nhỏ, cô ấy luôn im lặng, chưa bao giờ dám bày tỏ mong muốn của mình. Cô ấy là một cô bé yếu đuối, luôn sống trong sợ hãi bị cha la mắng.@
+br
+` [line=3]Yeah, người ta thật sự thay đổi sau tám năm.@
+` Sau tám năm, tôi đã trở thành người như bây giờ.`@
+` Akiha cũng đã trở thành người như thế này, đúng không?`
+\
+` [line=3]Bảy năm là một khoảng thời gian dài.`@
+` Đã là nửa cuộc đời chúng ta sống đến giờ rồi.`@
+` Tôi vắng mặt khỏi căn biệt thự này trong giai đoạn quan trọng khi một đứa trẻ trở thành người lớn.`@
+br
+` “…. Tôi xin lỗi, Akiha.”`@
+` Tôi nghĩ mọi chuyện sẽ tốt hơn nếu tôi ở bên cô ấy trong tám năm đó.`@
+` Tôi liếc nhìn rồi thầm thì xin lỗi.
+\
+bg #000000,crossfade,800
+playstop
+!w1000

@@ -1,0 +1,173 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_32c",crossfade,800
+` Cánh cổng biệt thự yên tĩnh.@
+` Giờ đã bảy giờ tối.@
+` Akiha nên đã về, có lẽ đang uống trà trong phòng khách.
+\
+bg #000000,lshutter,800
+bg "bg/bg_48c",lshutter,800
+` ...?@
+` Tôi không chắc chuyện gì đang xảy ra, nhưng tôi nghe thấy tiếng nói từ phòng khách. Gần giờ ăn tối, nên lạ lùng khi mọi người chỉ đang trò chuyện lúc này.@
+` Kohaku-san nên đang ở bếp, và tôi nghĩ một cuộc trò chuyện giữa Hisui và Akiha sẽ không phù hợp với tính cách của họ.@
+br
+`"... Kohaku-san và Akiha đang uống trà, có lẽ." Vậy thì đó là điều có thể xảy ra nhất.@
+` Đầu tiên, tôi mở cửa trước của biệt thự.
+\
+bg "bg/bg_33c",lcartain,800
+ld c,"tachi/his_t01",notrans,0
+` Hisui đứng trong hành lang.@
+`"Tôi hơi trễ, nhưng tôi đã quay lại."@
+`"...@
+` Hisui chào tôi mà không có biểu cảm nào.@
+` Cô ấy không nói câu chào đón quen thuộc và trông có vẻ khó chịu.
+\
+`"Có chuyện gì xảy ra không? Tôi có thể đang tưởng tượng, nhưng cậu dường như rất tức giận."@
+ld c,"tachi/his_t08",crossfade,400
+`"... Có một vị khách cho ngài, Shiki-sama. Họ đã chờ trong phòng khách, vì vậy xin hãy vội đến đó."@
+`"Một vị khách cho tôi?"@
+` Hisui gật đầu.
+\
+`"[line=4]Tôi tự hỏi là ai vậy. Không có ai đến thăm tôi à?"@
+br
+` Chờ đợi một lúc...@
+` Tôi có cảm giác rất đáng sợ, thật đáng sợ.@
+br
+`"Hisui. Loại người nào thế này...?"@
+`"Một người phụ nữ xinh đẹp với mái tóc vàng."@
+` Câu trả lời của Hisui rất thẳng thắn.@
+` Tôi lặng lẽ chạy đến phòng khách.
+\
+bg #000000,lcartain,400
+bg "bg/bg_34b",lcartain,400
+play "*3"
+` [line=4]Đã quá muộn rồi.@
+` Có vẻ như tình hình hiện tại đã đạt đến một mức độ mà tôi không thể thoát khỏi được.
+\
+bg "event/ark_e08",tshutter,800
+`"[line=4]Chào mừng về nhà, anh trai."@
+`"Ôi, cuối cùng cậu cũng về rồi."@
+` Họ chào đón tôi theo hai cách hoàn toàn trái ngược.@
+`"…………@
+` Điều này là gì?@
+` Arcueid và Akiha dường như đang đối đầu với nhau.
+\
+` Họ đều ngồi yên bình.@
+` Nhưng sự bình tĩnh của Arcueid là tự nhiên, còn Akiha thì bình tĩnh vì sự thù địch với Arcueid.@
+` Akiha nhìn tôi.
+\
+`"Có chuyện gì vậy, anh trai?@ Anh không cần đứng đó, xin hãy ngồi xuống đây."@
+br
+` Ồ, tôi cảm thấy như mình sẽ bị đâm nếu đi qua đó.@
+br
+`"Ồ, tôi ổn.@ Dù sao thì, Akiha, người này, ừm[line=4]"@
+` Ừm... [line=4]Tôi nên giải thích thế nào đây?@
+` Akiha sẽ không tin nếu tôi nói cô ấy là bạn cùng lớp của tôi, và nói với cô ấy rằng tôi gặp cô ấy ở thị trấn sẽ giống như đổ dầu vào lửa.
+\
+`"Ừm? Chuyện gì vậy?"@
+`"[line=4]À, ừm... đó là..."@
+br
+` Bây giờ chúng ta đã ở trong tình huống này, tôi nghĩ những lời tôi nói không còn quan trọng, nhưng tôi phải tìm một lý do hợp lý và thoát ra được.@
+` [line=4]Đó là điều tôi phải làm, nhưng tại sao Arcueid lại đến đây ban đầu nhỉ?@
+br
+`"[line=4]Ừm... cô ấy có nói tại sao mình đến đây không?"@
+` Tôi chỉ vào Arcueid trong một cuộc đánh cược tuyệt vọng tự sát.
+\
+`"Hừm?"@
+` Cô ấy nghiêng đầu, bối rối.@
+`"…… Cô ấy không phải là bạn của cậu, Nii-san? Đó là điều cô ấy nói với tôi."@
+`"[line=3]Ừm, đúng rồi, có thể coi cô ấy là bạn của cậu."@
+`"Tôi hiểu. Tôi thực sự muốn được gặp và làm quen với cô ấy. Nếu cô ấy là bạn của cậu, Nii-san, tôi không thể ép cô ấy rời khỏi nhà chúng ta."@
+`"[line=3]À, thì ra là Akiha-san."@
+` Tôi lại bắt đầu lắp bắp.@
+` Sau đó, Arcueid, không thể ngồi yên trong cuộc trò chuyện giữa các anh chị em, tham gia mà không có sự cho phép của tôi.
+\
+`"Đừng lo lắng về điều đó. Tôi chỉ đến đây để tìm Shiki, nên chúng ta sẽ lên đường. Đúng không, Shiki?"@
+` ... Thế giới của tôi đột ngột rung chuyển.@
+br
+` [line=6]Điều này rất tệ.@
+` Nếu tôi cho phép cô ấy tiếp tục nói, cô ấy sẽ dẫn dắt tôi đến một cái chết sớm.
+\
+`"Huhu, ahahahaha!"@
+` Cười điên cuồng, tôi chạy đến gần Arcueid và nắm lấy cánh tay của cô ấy.@
+bg "bg/bg_34b",lshutter,800
+ld l,"tachi/ark_t06",crossfade,400
+`"Này Shiki, cậu đang làm gì thế?"@
+` Không có thời gian để nghe những phàn nàn của cô ấy.@
+cl l,lshutter,400
+` Tôi kéo tay cô ấy và vội vã ra khỏi phòng khách, để lại Akiha ngỡ ngàng sau lưng.
+\
+bg #000000,lcartain,400
+bg "bg/bg_33c",lcartain,400
+ld c,"tachi/his_t01",notrans,0
+` Hisui ở sảnh.@
+` Cô ấy nhìn tôi bằng đôi mắt lạnh hơn một chút so với bình thường khi tôi chạy cùng Arcueid.@
+br
+`"Cậu có định rời đi, Shiki-sama?"@
+`"[line=4]Vâng, tôi sẽ về muộn. Tôi xin lỗi, nhưng cậu có thể để cổng mở không?"@
+`"[line=4]Đúng vậy, theo ý cậu."@
+` Tôi vội vã chạy qua hình ảnh cúi chào lịch sự của Hisui và thoát khỏi căn biệt thự.
+\
+bg #000000,lcartain,400
+bg "bg/bg_32c",lcartain,400
+ld c,"tachi/ark_t11",crossfade,400
+`"Ồ. Chỉ mới đây thôi sao? Cậu nghĩ mình đang làm gì vậy, đưa tôi ra ngoài nhanh như thế?"@
+`"Đó là giới hạn của tôi...! Cậu nghĩ gì vậy!? Vào nhà tôi như thế này là điên rồ!"@
+` "Anh có cố ý phá hủy cuộc đời tôi không, ngốc ạ..."@
+` Tôi gầm gừ khi nhìn chằm chằm vào Arcueid.@
+ld c,"tachi/ark_t13",crossfade,400
+`"[line=3]Tôi là kẻ ngốc à?!"
+\
+`"Tôi gọi cậu là ngốc, vậy có vấn đề gì, ngốc ạ? Nếu muốn tranh luận, tôi sẵn sàng nghe!"@
+`"[line=4]Ồ, thế à?"@
+` Tôi thực sự rất tức giận.@
+` Đã lâu lắm rồi tôi mới cảm thấy như vậy, và khi tôi tức, tôi phải nói tất cả những gì tôi muốn với người khiến tôi tức giận, bất kể là ai.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Này, tôi đến gặp cậu thôi.@ Tôi không làm gì khiến cậu tức đâu!"@
+`"... Đợi đã.@ Cậu nghiêm túc à, Arcueid?@ Cậu chỉ đến để gặp tôi sao?"@
+ld c,"tachi/ark_t14",crossfade,400
+`"Tôi chẳng nói điều gì kỳ quặc cả.@ Tôi chẳng kể cho chị cậu nghe về đôi mắt của cậu, hay về tôi, hoặc bất cứ điều gì khác."@
+`"Tất nhiên rồi.@ Nếu cậu làm thế, chúng ta sẽ không đang trò chuyện như vậy.@ Tôi sẽ không ngần ngại và đuổi cậu đi nếu cậu làm vậy."
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"... Tôi không hiểu.@ Vậy thì tại sao cậu lại tức?"@
+`"Vì cậu chẳng bao giờ suy nghĩ!@
+` "Nghe này, chỉ bằng việc ở đây thôi, ngươi đã nổi bật rồi. Tôi nói ngay bây giờ, nhưng ngươi nên nhận ra rằng chỉ bằng sự hiện diện của mình, ngươi đã gây rắc rối..."!@
+` "Đối với lúc này, tôi đã nói hết."@
+` "Trút mọi thứ ra khỏi hệ thống của tôi giúp tôi bình tĩnh lại, nhưng rõ ràng Arcueid không hề bình tĩnh."@
+` "Với vẻ mặt giống như một con mèo, cô ta nhìn tôi với ánh mắt đầy bất mãn."
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"[line=4]Chuyện gì vậy? Nói những điều như thế... Ý ngươi là tôi nổi bật sao? Tôi chẳng khác nào người khác đâu!"@
+`"Không, những người phụ nữ xinh đẹp luôn nổi bật. Điều đó không liên quan đến việc là con người."@
+` "Tôi trả lời thẳng thắn."@
+cl c,crossfade,400
+br
+` "Trả lời một cách quá bình thản đến nỗi Arcueid cũng hiểu rõ điều đó."
+\
+`"[line=3]Tôi đã nói quá nhiều. Đây là lần đầu tiên điều này xảy ra với tôi, nên tôi có chút hoảng loạn."@
+ld c,"tachi/ark_t14",crossfade,400
+`"... Không sao. Có vẻ như tôi là người cần trách nhiệm."@
+` Arcueid gật đầu khiêm tốn.@
+` Tôi cảm thấy một chút tội lỗi vì tôi nghĩ có điều gì đó sâu hơn đằng sau câu chuyện này.@
+` ... Trước tiên, tại sao cô ấy lại đến nhà tôi?
+\
+`"Nói chung, tại sao bạn đến đây? ... Ồ, tôi cũng muốn nói chuyện với bạn, nên có lẽ là tốt."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Thật sao? Tôi chỉ... tò mò về tình hình của bạn, nên ghé qua để gặp bạn."@
+`"... Tôi hiểu rồi. Lần sau, hãy làm điều đó ở một nơi khác. Và cố gắng lén lút nhất có thể."@
+` Tôi mệt mỏi rồi.
+\
+`"[line=4]Này, tôi muốn nói chuyện nghiêm túc. Tôi cảm thấy không thoải mái ở đây, nên chúng ta có thể đi đâu đó khác chứ?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"[line=4]Được thôi, nhưng nói về chuyện gì vậy?"@
+`"Cô sẽ hiểu. ... Có ít người xung quanh hơn, nên chúng ta hãy đi sâu hơn vào công viên này."@
+` Tôi nói với cô ấy và bắt đầu đi.@
+cl c,lshutter,800
+` Cô ấy tò mò nghiêng đầu theo tôi một cách vâng lời.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

@@ -1,0 +1,249 @@
+bg "bg/bg_04",lshutter,400
+` Tiếng động lịch kịch ở đâu phát ra bỗng chốc rõ mồn một khi tôi cất bước đi về phía khoảng sân trong.@
+` Một cô bạn nữ sinh đang ngồi khom lưng ở giữa con đường rợp bóng cây, cặm cụi gõ búa đóng đinh gì đó.
+\
+`"……"@
+` Chị ấy đang làm cái gì thế nhỉ?@ Chỉ còn vài phút ngắn ngủi nữa là tới giờ điểm danh buổi sáng rồi.@
+`"[line=3]Chắc là chị ấy không đeo đồng hồ rồi."@
+` Lúc này, đó là lý do hợp lý nhất mà đầu óc tôi nghĩ ra được.@
+` …… Dẫu vậy, nếu đã đi qua trông thấy mà lại làm ngơ rồi bỏ đi thì quả thực là có hơi phũ phàng quá.@
+` Tôi chậm rãi rảo bước tiến lại gần chị ấy, cố gắng tránh làm chị ấy giật mình, rồi mở lời bắt chuyện.
+\
+bg #000000,lshutter,800
+bg "event/cel_e01",lshutter,800
+play "*3"
+`"Này chị ơi, giờ học sắp bắt đầu rồi đấy ạ."@
+`"Hửm?"@
+` Cô bạn đang ngồi khom lưng khẽ ngẩng mặt lên.@ Chiếc nơ đeo trên đồng phục cho thấy chị ấy là học sinh năm ba khóa trên.@
+`"……"@
+` Người đàn chị khóa trên vừa cầm búa vừa ngơ ngác nhìn tôi.@
+`"À… ừm…"@
+` Ánh mắt của chị ấy nhìn qua cặp kính trực diện đến mức làm tôi có cảm giác như đang bị hút hồn vào đó vậy.@
+` Đôi mắt nghiêm túc, sâu thẳm ấy khiến tôi bỗng dâng lên một cảm giác muốn xin lỗi vì đã lỡ cắt ngang công việc của chị.@
+` Tấm ván gỗ cắm ở khu vườn mà chị ấy đang đối mặt đã bị mục nát hoàn toàn đến mức không thể dùng được nữa.
+\
+` …… Mà nghĩ lại thì, khoảng sân trong phía sau trường chúng tôi vốn dĩ từ lâu đã bị bỏ hoang hoen rỉ đến thảm hại.@
+` Các thanh gỗ che chắn thì gãy đổ ngổn ngang, còn các bồn hoa thì chẳng một ai thèm chăm bón.@
+` Nghe nói ban giám hiệu định để đến cuối năm cho học sinh tổng vệ sinh một thể, thành ra cánh lao công bảo trì trường học chẳng thèm ngó ngàng gì đến nơi này từ suốt mùa hè.
+\
+` [line=3]Tôi chỉ liếc mắt một cái là đã thấu rõ toàn bộ sự tình.@
+` Cô bạn cầm búa đang cặm cụi sửa chữa lại những tấm ván mục nát gãy đổ, hoàn toàn không để tâm đến việc bộ đồng phục sạch sẽ tươm tất của mình đang bị lấm lem cát bụi.@ Chị ấy có mồ hôi trên trán, và trông như thể chị đã dùng búa một cách vô cùng nghiêm túc và chăm chỉ.@
+` …… Thế nhưng theo tôi được biết thì trong trường này làm gì có ai được giao nhiệm vụ tự tay đi sửa sang công ích thế này đâu.
+\
+`"Ừm… Có chuyện gì thế em?"@
+` Người đàn chị khóa trên vừa hỏi vừa khẽ đẩy lại gọng kính hơi lệch của mình.@
+`"Dạ không có gì đâu ạ.@ Em chỉ tò mò không biết chị đang làm gì ở đây thôi."@
+`"À… Như em thấy đấy, chị đang tranh thủ sửa lại mấy tấm gỗ chắn này một chút."@
+` Vâng. Đúng là em nhìn thấy rõ mồn một thật.@
+`"Nhưng ý em không phải thế.@ Em chỉ thắc mắc là tại sao chị lại tự tay đi làm những việc này thôi.@ Đằng nào thì ban lao công của trường cũng sẽ giải quyết nó thôi mà?"@
+`"A ha ha…"@
+` Người đàn chị khẽ cười ngượng ngùng để che giấu sự bối rối.
+\
+`"Tính chị vốn dĩ cứ trông thấy cảnh tượng ngổn ngang bừa bộn thế này là không chịu nổi.@ Thực sự là không thể nhắm mắt làm ngơ bỏ mặc chúng được em ạ."@
+` Hóa ra chị ấy tự tay sửa sang đống ván gỗ gãy nát này đơn giản là vì tấm lòng không nỡ để mặc chúng hoang tàn như thế.@
+`"……"@
+` Thật là một người chị Senpai kỳ lạ làm sao.@
+`"Thế nên chị mới tự mình ra đây cặm cụi sửa á?@ Nếu không thích nhìn thấy nó bừa bộn thì tốt nhất chị cứ tránh đi qua lối này là xong mà?"@
+`"Nhưng phòng học của chị lại nằm ở ngay đằng kia kìa."@
+` Senpai chỉ tay về phía dãy phòng học nằm ở tầng hai đối diện khoảng sân trong này.
+\
+`"Chỗ ngồi của chị ở ngay sát cửa sổ, thế nên cứ nhìn ra ngoài là lại thấy ngay khoảng sân này… Ừm, bình thường thì chị cũng cố nhịn rồi đấy, nhưng hôm nay vừa ngồi vào chỗ ngồi nhìn xuống là chị đã vô cùng sửng sốt khi thấy toàn bộ các tấm gỗ chắn ở khu vực này đều gãy đổ hết cả rồi."@
+` Gương mặt Senpai khẽ thoáng buồn, như thể đang muốn nói: "Chẳng phải cảnh tượng đó trông thảm hại lắm sao?"@
+` …… Có vẻ như chị ấy thực sự buồn lòng vì chuyện đó dẫu nét mặt không có vẻ gì là giận dữ cả.
+\
+`"Dân gian ta có câu 'nước đến chân mới nhảy' mà em.@ Chị đã xuống mượn dụng cụ ở văn phòng, rồi quyết định tự tay mình ra đây sửa sang lại luôn."@
+br
+` Lời giải thích đầy thật thà khép lại tại đó.@
+br
+` Khẽ cúi đầu chào tôi một cái, Senpai lại tiếp tục quay trở lại cặm cụi gõ búa đóng đinh vào tấm ván gỗ.
+\
+`"…… Được rồi ạ, em hiểu hết rồi, nhưng mà hay là hôm nay tụi mình dừng ở đây đi chị?@ Chỉ còn chưa đầy năm phút nữa là vào giờ học rồi đấy, với lại nếu nó hỏng nặng thế này thì đằng nào nhà trường chẳng phải sớm cử người xuống sửa thôi ạ?"@
+`"Không đời nào!"@
+` Ghì chặt cán búa trong tay, đàn chị kính cận lắc đầu nguầy nguậy đầy kiên quyết.
+\
+`"Khu vườn bừa bộn thế này thì dẫu có vào lớp học chị cũng chẳng tài nào tập trung nổi đâu.@ Lời giáo viên giảng bài trên bảng nghe sẽ chẳng khác nào tiếng gió thổi bên tai thôi, rồi thầy cô lại mắng: 'Này, cô kia! Đang nhìn cái gì ngoài cửa sổ thế hả?' Chắc chắn chị sẽ bị ăn mắng cho mà xem!"@
+` Senpai vừa ôm khư khư cây búa vừa ra sức nhấn mạnh lý lẽ của mình.@
+`"…… Ừm, em nghĩ nếu chị cứ mải ngó nghiêng ra ngoài cửa sổ suốt giờ học thì thầy cô có nổi giận cũng là đáng đời mà."@
+`"He would, wouldn't he?@ Thế nên chị mới phải giải quyết dứt điểm nó ngay bây giờ đấy chứ."@
+` Với lời nói đó, Senpai bắt đầu sửa chữa một lần nữa, vụng về đập đinh vào gỗ. Cô ấy rõ ràng chưa quen sử dụng búa.
+\
+bg "bg/bg_04",crossfade,400
+` Tiếng *cốp, cốp* vang lên khô khốc khi đầu búa đập lệch vào tấm ván gỗ.@
+` …… Theo như tôi quan sát thì số lượng ván gỗ gãy đổ ngổn ngang ở đây chẳng phải chỉ có một hai tấm.@
+` Tôi thực sự không tài nào tưởng tượng nổi nếu chỉ có một mình chị ấy cặm cụi làm thì đến bao giờ mới xong được đống này đây.
+wave se_03
+!w2000
+` Tiếng chuông báo hiệu giờ học bắt đầu vang lên lảnh lót.@
+`"…… Xem ra tiết học đầu tiên bắt đầu mất rồi."@
+` Tôi đành buông một tiếng thở dài ngao ngán chịu thua khi mọi chuyện đã lỡ dở thế này rồi.@
+` Tôi lặng lẽ ngồi xuống bãi cỏ cạnh chị ấy, bắt tay vào giúp một tay sửa sang lại đống gỗ chắn gãy nát.
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_04",lshutter,800
+` Đến khi tự tay vào giúp, tôi mới chợt nhận ra công việc sửa chữa này hóa ra cũng chẳng có gì phức tạp lắm.@
+` Dẫu người đàn chị khóa trên không quen dùng búa đóng đinh, nhưng đôi bàn tay của chị ấy lại vô cùng khéo léo.@ Chị ấy nhanh chóng nắm bắt được nhịp điệu và công việc của chúng tôi tiến triển với tốc độ nhanh đến kinh ngạc.@
+` Động tác của Senpai thoăn thoắt, sắc sảo vô cùng, khiến tôi ngắm nhìn mà không khỏi trầm trồ thán phục.@ Chị ấy thực sự là một người vô cùng thông minh nhạy bén.@
+` …… Trước khi kịp nhận ra, chỉ còn lại đúng một tấm gỗ chắn cuối cùng cần phải sửa nữa mà thôi.
+\
+br
+` Ba mươi phút dài trôi qua trong nháy mắt.@
+` Tôi không thể ở lại đây thêm được nữa, vả lại chỉ còn một tấm gỗ duy nhất này thì Senpai hoàn toàn có thể tự mình xử lý nốt một cách dễ dàng rồi.
+\
+`"Thôi, em xin phép đi trước đây ạ."@
+` Tôi đứng dậy và khẽ phủi sạch cát bụi bám trên quần.@
+` Đàn chị kính cận cũng đứng dậy theo và lặng lẽ hướng đôi mắt qua cặp kính chăm chú nhìn tôi.@
+ld c,"tachi/cel_t07a",crossfade,800
+\
+`"...?"@
+` Kìa, chị ấy là ai thế nhỉ?@
+` Nãy giờ mải cặm cụi phụ giúp đóng đinh nên tôi không để ý, giờ đứng yên lặng ngắm nhìn mới thấy chị ấy thực sự rất xinh đẹp.@
+` Một người có ngoại hình nổi bật thế này đáng lý ra phải được đám con trai trong trường bàn tán xôn xao là "Nữ thần kính cận khóa trên" rồi chứ nhỉ.
+\
+`"Dạ… em phải đi đây ạ.@ Chị đừng có cố quá sức nhé Senpai."@
+ld c,"tachi/cel_t03",crossfade,400
+` Chị ấy khẽ gật đầu gật đầu một cách vô cùng ngoan ngoãn.@
+` …… Dù chị ấy lớn tuổi hơn tôi, nhưng cách cư xử dịu dàng ấy lại mang lại cảm giác dễ mến tựa như một người em gái nhỏ vậy.@
+`"Cảm ơn em đã phụ giúp chị nhé.@ Chị vui lắm."@
+` Chị ấy khẽ cúi đầu chào tôi đầy lễ phép.
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Giờ nghỉ trưa chị chắc chắn sẽ đến tìm em để cảm ơn nhé.@ A, nhớ rửa tay thật sạch đấy nhé Tohno-kun."@
+`"Dạ vâng, Senpai cũng thế nhé ạ."@
+` Nói xong, tôi vẫy vẫy tay chào tạm biệt rồi quay người rời đi.@
+br
+` …… Khoan đã nào.@
+br
+`"…… Ơ kìa?@ Em đã từng gặp Senpai ở đâu trước đây chưa ạ?"@
+`"Eeeh!?"@
+` Senpai thốt lên một tiếng ngạc nhiên đầy dễ thương, rồi giả vờ xị mặt xuống vẻ tủi thân.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"Em thật là phũ phàng quá đi mất Tohno-kun!@ Em dám quên sạch sẽ người ta rồi sao?"@
+`"…?"@
+` Quên ư?@ Không, tôi không nghĩ thế.@ Nếu tôi từng gặp gỡ một người con gái xinh đẹp nhường này thì đời nào tôi lại có thể quên sạch sẽ được cơ chứ…@
+`"…… Hừm…"@
+` Chị ấy ngước nhìn tôi với ánh mắt đầy trách móc.@
+` Ánh mắt đó… Rõ ràng mình… đã từng gặp qua ở đâu đó rồi… phải không nhỉ?@
+bg #ffffff,crossfade,400
+bg "bg/bg_04",crossfade,400
+ld c,"tachi/cel_t09",notrans,0
+` …… À, nghĩ kỹ lại thì, hình như chúng tôi đã từng chạm mặt gật đầu chào hỏi nhau một hai lần gì đó trước đây rồi… thì phải nhỉ?
+\
+`"Ciel-senpai… phải không ạ?"@
+` Tôi ngập ngừng hỏi thử tên chị ấy.
+ld c,"tachi/cel_t04",crossfade,400
+`"Đúng thế đấy, chị rất vui vì em rốt cuộc cũng chịu nhớ ra đấy.@ Nhìn em cứ có vẻ là kiểu người hay thẩn thờ rồi hay quên lắm cơ Tohno-kun."@
+` …… Tôi không nghĩ mình là kẻ thẩn thờ hay quên đâu, nhưng quả thực việc lỡ quên mất tên chị ấy làm tôi chẳng biết trốn đi đâu cho đỡ ngượng.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Thôi, chào tạm biệt em nhé.@ Xin lỗi vì đã làm mất thời gian của em nha."@
+cl c,crossfade,400
+` Ciel-senpai khẽ cúi đầu chào thêm lần nữa.@ Tôi lặng đứng nhìn bóng dáng chị ấy khuất dần nơi cuối khoảng sân, rồi bắt đầu cất bước đi về phía tòa nhà trường học.
+\
+playstop
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+play "*3"
+` Khi tôi đến được phòng học của mình thì đã là giờ nghỉ giải lao sau tiết học đầu tiên mất rồi.
+\
+` Tôi lén lút lẻn vào phòng trong lúc mọi người đang rôm rả trò chuyện.@
+` Bàn học của tôi nằm ở hàng cuối cùng sát cửa sổ, thế nên tôi hoàn toàn có thể lén ngồi vào chỗ mà không gây ra bất kỳ sự chú ý nào cả.@
+` Đến khi điểm danh vào tiết hai, mọi người chắc chắn sẽ ngơ ngác tự hỏi: "Ủa, tên Tohno lẻn vào lớp từ lúc nào thế?".@
+` Đó là một thú vui nho nhỏ đầy kỳ quặc trong chuỗi ngày học tập tẻ nhạt bình thường.
+\
+br
+` [line=4]Thế nhưng xem ra kế hoạch lén lút lần này của tôi đã thất bại thảm hại mất rồi.
+ld c,"tachi/ari_t01",lshutter,400
+`"Yo, truant boy!@ Thật chẳng giống cậu tí nào khi lại đi học muộn thế này nha."@
+`"……"@
+` Tôi buông một tiếng thở dài ngao ngán.@
+` Cảm giác như thực tại phũ phàng đang lập tức đập thẳng vào mặt tôi sau khoảng thời gian êm đềm dễ chịu bên cạnh chị Senpai.
+\
+ld c,"tachi/ari_t03",crossfade,400
+`"Gương mặt xị ra thế kia là sao hả?@ Đi muộn đúng vào cái ngày mà tôi lại đi học đúng giờ thế này… cậu nghĩ mình đang làm trò gì thế?"@
+`"…… Này, nghe đây, tôi đi học đâu có phải vì cậu đâu nhé."@
+`"Cái gì cơ!?@ Nhưng tôi đi học đúng giờ là vì cậu đấy chứ!@ Thật không công bằng chút nào!"@
+`"……"@
+` Tôi cạn lời chẳng biết phải nói gì luôn.@
+` Tôi lại tự hỏi bản thân thêm lần nữa, y như vô số lần trước đây, làm thế nào mà mình lại quen biết cái tên dở hơi này được nhỉ.
+\
+` Mái tóc nhuộm cam rực, đôi tai bấm khuyên ngổ ngáo.@
+` Ánh mắt sắc lẹm sẵn sàng lao vào tẩn nhau với bất kỳ ai, bất kỳ lúc nào, cùng bộ đồ nổi loạn phá cách.@
+` Inui Arihiko chính là kẻ sống ngoài vòng pháp luật, tự do tự tại duy nhất trong ngôi trường trung học hướng tới mục tiêu đại học nghiêm túc này của chúng tôi.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Tụi mình vốn dĩ là kẻ thù truyền kiếp từ thời cấp hai rồi đúng không?@ Dám bày ra bộ mặt thảnh thơi nhởn nhơ trước mặt đối thủ thế kia thì liệu hồn chuẩn bị ăn đòn đi nhé!"@
+` Dù trong bất kỳ hoàn cảnh nào thì tên Arihiko này vẫn luôn là kẻ vô cùng ồn ào náo nhiệt.
+`"Yô! Chào buổi sáng nhé Tohno!"@
+` Trước khi tôi kịp phản ứng, cả đám bạn học trong lớp bỗng chốc quay lại nhìn tôi và cất tiếng chào mừng rôm rả.
+\
+`"…… Im đi Arihiko.@ Cậu đang phá hỏng kế hoạch lẻn vào lớp không ai hay biết của tôi đấy!@
+` Với lại tại sao tôi lại là 'đối thủ' của cậu cơ chứ?@ Quanh đây thiếu gì mấy tên đô con ngầu lòi khác đâu, làm ơn tha cho tôi đi."@
+` …… Mà nghĩ lại thì hắn vẫn còn quỵt tôi gần mười ngàn yên từ hồi cấp hai chưa trả, thành ra coi hắn là kẻ thù truyền kiếp cũng chẳng có gì sai cả.
+ld c,"tachi/ari_t04",crossfade,400
+`"Tại sao cậu chỉ lạnh lùng độc ác với mỗi mình tôi thế hả Tohno?@ Cậu đối xử với mọi người khác hiền lành như thánh sống ấy.@ Thật không công bằng chút nào."@
+`"Gì cơ, giờ cậu mới nhận ra à?@ Cuộc đời vốn dĩ làm gì có công bằng."@
+`"…… Cậu đúng là chỉ tàn nhẫn với mỗi tôi."@
+` Tôi thực ra chẳng hề cố ý lạnh lùng với Arihiko làm gì.@ Chỉ là mối quan hệ của hai chúng tôi vốn dĩ đã như vậy rồi.
+\
+`"Thế nên, Arihiko này, một kẻ chuyên đi muộn kinh niên chẳng bao giờ thò mặt tới lớp trước tiết hai như cậu hôm nay lại có mặt đúng giờ điểm danh thế này?@ Chuyện này có chút… không, phải nói là cực kỳ kỳ quặc đấy."@
+ld c,"tachi/ari_t01",crossfade,400
+`"Hơ hơ… Tôi cũng thấy thế thật.@ Xem ra việc đến trường đúng giờ không chỉ xảy ra mỗi khi tôi vô tình thức dậy sớm đâu nhỉ."@
+`"…… Tôi không rảnh bình luận về sở thích của cậu, nhưng cái tôi muốn hỏi là tại sao cậu lại thức dậy sớm như thế?"@
+ld c,"tachi/ari_t01",crossfade,400
+\
+cl c,crossfade,400
+cl c,crossfade,400
+br
+br
+`"…… À ra vậy.@ Nghĩ lại thì đúng là tôi cũng có nghe loáng thoáng về chuyện đó."@
+` Trong lòng dấy lên một chút tự trách khi phải để tên Arihiko này nhắc nhở.@
+\
+\
+ld l,"tachi/ari_t04",notrans,0
+ld l,"tachi/ari_t04",notrans,0
+`"There's more to it.@ So far, all the victims have been young girls.@ Nạn nhân thứ tám vừa mới bị hạ sát cách đây hai ngày thôi đấy!@ Và điều kinh khủng nhất là, họ đều bị… khoan đã, rốt cuộc họ bị làm sao ấy nhỉ?"@
+`"……"@
+` Tôi thật là ngốc mới đi hỏi hắn ta.@
+ld l,"tachi/ari_t02",crossfade,400
+`"À nhớ ra rồi!@ Tất cả các nạn nhân đều bị băm vằm ra thành từng mảnh rồi xếp theo một hình thù kỳ quái nào đó!"@
+\
+ld r,"tachi/stk_t01",lshutter,400
+`"…… Không phải đâu, Inui-kun.@ Tất cả những người bị hại đều bị mất một lượng máu cực kỳ lớn."@
+`"Ờ đúng rồi, chính là nó.@ Nghe đồn đó là do ma cà rồng thời hiện đại làm hay gì đó."@
+`"Hửm.@ Cậu biết nhiều thông tin ghê nhỉ, Yumizuka-san."@
+`"Cũng không hẳn đâu.@ Vụ án xảy ra ngay tại thị trấn này nên đài báo đưa tin suốt mà.@ Dù không muốn nghe thì cậu cũng tự khắc nhớ thôi."@
+` …… Ra vậy.@
+` Tôi cứ tưởng vụ án xảy ra ở thị trấn lân cận… hóa ra hung thủ đã mò tới tận đây rồi.
+\
+ld l,"tachi/ari_t01",crossfade,400
+`"Thế nên dạo này mới có chuyện như vậy đấy.@ Có một tên sát nhân điên loạn đang lởn vởn ngoài kia thì ngay cả tôi cũng chẳng dám bén mảng ra đường vào ban đêm đâu.@ Đó là lý do dạo này tôi toàn thức dậy lúc bảy giờ sáng đấy."@
+`"…… Gì cơ, chỉ có vậy thôi á?@ Có lý do chính đáng thế thì câu chuyện còn gì là ly kỳ nữa.@ Thế thì còn gì là vui."@
+` Tôi ngồi xuống ghế trong lúc đối phó với tên Arihiko.@
+`"Trời ơi, phũ phàng quá.@ Sao thế, sáng nay cậu lại bị tụt huyết áp vì thiếu máu nữa hả?"@
+`"Tôi ổn, cảm ơn đã hỏi thăm.@ Nếu tôi bị thiếu máu suốt hai mươi tư giờ mỗi ngày thì tôi đã xanh cỏ từ lâu rồi."@
+`"Ừm, cậu nói phải.@ Cậu đã bảo mình ổn thì chắc là ổn rồi."
+\
+wave se_03
+!w1000
+` Tiếng chuông báo hiệu giờ học bắt đầu vang lên ngắt quãng cuộc trò chuyện của chúng tôi.@
+`"Kìa, giờ học sắp bắt đầu rồi đấy.@ Mau về chỗ ngồi đi hai cậu."@
+`"Ừm, biết rồi.@ À, mà nói bên lề nhé, hôm nay chúng ta sẽ ăn trưa ở dưới quán ăn căn tin của trường thay vì trên sân thượng như thường lệ nha.@ Tôi đã mời được một vị khách vô cùng đặc biệt đấy, hãy mong chờ đi!"@
+cl l,lshutter,400
+`"Chào tạm biệt cậu nhé, Tohno-kun."@
+`"À… ừm.@ Xin lỗi vì đã làm mất thời gian của cậu nhé, Yumizuka-san."@
+cl r,lshutter,400
+cl r,lshutter,400
+\
+\
+` Cho đến nay tôi vẫn thắc mắc tại sao cô bạn ấy lại tham gia cuộc trò chuyện của tụi tôi nữa.@ Rõ ràng hai đứa chỉ là bạn cùng lớp bình thường thôi mà nhỉ.
+\
+\
+playstop
+bg #000000,lshutter,1500
+!w1000
+bg "bg/bg_06a",lshutter,800
+` Giờ thì, mình nên đi ăn trưa ở đâu bây giờ nhỉ?
+\
+\

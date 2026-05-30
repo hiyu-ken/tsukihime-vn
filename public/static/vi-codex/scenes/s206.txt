@@ -1,0 +1,254 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+ld r,"tachi/koha_t02",crossfade,400
+`"Tiểu thư Akiha? Sắp đến giờ xuất phát rồi ạ, tiểu thư sửa soạn thế này liệu đã ổn chưa ạ?"@
+ld l,"tachi/aki_t05a",crossfade,400
+`"... Ta biết rõ rồi.@ Ôi trời, Kohaku này, em chớ có quá bận tâm lo lắng về những chi tiết nhỏ nhặt vô nghĩa đó ngay vào ngày đầu tiên ta nhập học lại chứ."@
+` Akiha khẽ cất lời phàn nàn nhỏ nhẹ rồi lẳng lặng đứng dậy rời khỏi ghế sofa.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+`"Thôi được rồi, em phải đi học trước đây.@ Anh trai ở nhà, ngày hôm nay hãy cố gắng tập trung toàn bộ tâm trí vào việc học tập cho thật tốt nhé."@
+cl a,lshutter,800
+` Akiha thướt tha rảo bước rời khỏi phòng khách.@
+` Kohaku-san cũng vội vàng theo sau để tiễn tiểu thư ra xe.@
+`"Cố gắng tập trung toàn bộ tâm trí vào việc học sao..."@
+` Em ấy quả thực lúc nào cũng quá đỗi nghiêm túc và giữ kẽ với những lễ nghi gia giáo cổ điển... Có lẽ tất cả là vì em ấy đã phải chịu đựng một chế độ giáo dục vô cùng khắc nghiệt và tàn nhẫn dưới sự giám sát lạnh lùng của cha suốt tám năm ròng rã chăng.@
+`"... Dẫu cho em ấy không cất lời nhắc nhở đi chăng nữa, thì dĩ nhiên hôm nay tôi vẫn sẽ ngoan ngoãn đi học cơ mà."
+\
+` Tôi khẽ đưa tay cào nhẹ lên má đầy ái ngại.@
+` Vẫn có một chi tiết gì đó vô cùng bất thường đọng lại trên biểu cảm của Akiha vào thời khắc em ấy chuẩn bị rời đi... Chính vì mải mê suy nghĩ về chi tiết kỳ lạ đó mà tôi bấy giờ đã hoàn toàn phớt lờ toàn bộ những lời dặn dò đầy nghiêm khắc của em ấy buổi sớm nay.@
+`"[line=3]Nhưng dĩ nhiên rồi."@
+` Tôi khẽ vỗ mạnh hai bàn tay vào nhau đầy dứt khoát.@
+` [line=3]Bởi vì không biết có phải do ảo giác hay không, nhưng gương mặt đầy nghiêm nghị xen lẫn ngượng ngùng của Akiha ban nãy trông thực sự giống hệt với nét mặt đáng yêu thơ bé của em ấy cách đây tám năm về trước.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` Sau khi thong thả dùng xong bữa sáng ngon lành do chính tay Kohaku-san chuẩn bị, tôi vội vã sửa soạn đồ đạc ra khỏi phòng ngủ rồi đi xuống phía tiền sảnh.@
+` Hisui bấy giờ đã túc trực sẵn ở đó, đôi tay khẽ nâng chiếc cặp sách của tôi một cách vô cùng cung kính.@
+ld c,"tachi/his_t01",crossfade,400
+`"Cậu chủ Shiki, cậu chủ bấy giờ liệu có kịp thời gian đến trường không ạ?"@
+`"Ừm, nếu tôi chạy bộ thật nhanh thì chỉ mất khoảng hai mươi phút ngắn ngủi là có thể tới trường rồi. Lúc này mới chỉ có bảy giờ rưỡi sáng thôi, thế nên dẫu cho tôi có thong thả đi đường vòng đi chăng nữa thì mọi chuyện chắc chắn vẫn sẽ ổn thỏa cả thôi em."@
+` Nhận thấy bản thân hoàn toàn hài lòng với lời khẳng định đầy tự tin của tôi, Hisui khẽ cúi đầu chào tỏ ý đồng thuận.
+\
+`"Dạ vâng, vậy thì em xin phép được tiễn cậu chủ lên đường ạ."@
+`"Ơ? À, vâng... xin cảm ơn em nhiều nhé."@
+` Bản thân tôi thực chất vẫn luôn cảm thấy vô cùng ngượng ngùng, ái ngại khi có riêng một hầu nữ túc trực phục vụ mình thế này.
+\
+`"Ôi kìa, Shiki-san! Xin cậu làm ơn hãy dừng bước chờ tôi một lát nhé!"@
+` Nghe thấy thanh âm vội vã vang lên, tôi ngoảnh nhìn lại và bắt gặp Kohaku-san đang nhanh nhảu chạy xuống từ các bậc cầu thang tầng hai.@
+`"... ... ... "@
+cl c,crossfade,400
+` Hisui lẳng lặng lùi lại phía sau một bước và giữ im lặng cung kính ngay khi Kohaku-san rạng rỡ tiến lại gần.
+\
+ld c,"tachi/koha_t03",lshutter,400
+`"Ủa? Kohaku-san không đi cùng để tiễn Akiha lên xe sao em?"@
+`"Dạ tiểu thư Akiha bấy giờ đã lên xe hơi riêng đến trường rồi ạ thưa cậu chủ. Vì sáng nay em có một kỷ vật vô cùng quan trọng cần phải trao lại tận tay cho cậu chủ, thế nên em đã xin phép được ở lại sau ạ."@
+`"Kỷ vật quan trọng sao? Đó là thứ gì thế em?"@
+`"Dạ chính là thứ này đây ạ. Một món đồ cũ được gửi đến từ phía gia tộc Arima vào ngày hôm qua đấy ạ."@
+` Kohaku-san khẽ nở một nụ cười rạng rỡ và dịu dàng.
+\
+`"Ủa lạ thế? Nhưng toàn bộ hành lý cá nhân của tôi thực chất đều đã được vận chuyển đến biệt thự đầy đủ từ hôm qua rồi cơ mà. Những vật dụng sinh hoạt tôi dùng bên nhà Arima bấy giờ đều thuộc quyền sở hữu của họ, thế nên tôi chỉ mang theo duy nhất bộ quần áo này thôi chứ..."@
+`"Dạ chuyện đó em thực sự không rõ ạ, thế nhưng món đồ này quả thực đã được phía bên họ chỉ đích danh để gửi đến biệt thự này cho cậu chủ đấy ạ..."@
+` Nói rồi, Kohaku-san khẽ khàng trao vào tay tôi một chiếc hộp gỗ mỏng manh có chiều dài khoảng chừng hai mươi centimet.@
+` Cầm chiếc hộp gỗ trên tay, tôi nhận thấy trọng lượng của nó thực sự vô cùng nhẹ nhàng dẫu cho kích thước khá dài.
+\
+`"... Kohaku-san này, tôi thực sự chưa từng nhìn thấy món đồ này bao giờ cả."@
+`"Dạ vâng... Nghe bảo đây thực chất là kỷ vật do chính người cha quá cố của cậu chủ để lại cho cậu đấy ạ. Nó đã được ông ấy quy định vô cùng rõ ràng trong di chúc thừa kế của mình."@
+`"... Cha... cha tôi để lại sao?"@
+` Cảm giác trong lòng tôi bấy giờ thực sự vô cùng mơ hồ và xa lạ.@
+` Một người cha nghiêm khắc lạnh lùng đã nhẫn tâm trục xuất tôi ra khỏi biệt thự này suốt tám năm ròng rã... tại sao trước khi trút hơi thở cuối cùng lại đột ngột để lại một kỷ vật thế này cho tôi chứ?
+\
+`"Ồ, hóa ra là như thế sao. Vậy thì Kohaku-san làm ơn hãy mang nó lên phòng của tôi cất giấu hộ nhé."@
+ld c,"tachi/koha_t09",crossfade,400
+`"[line=5]"@
+` Trái ngược hoàn toàn với lời đề nghị của tôi, Kohaku-san bấy giờ vẫn đang trừng trừng đôi mắt chăm chú nhìn ngắm chiếc hộp gỗ với vẻ mặt vô cùng tò mò.@
+` Biểu cảm rạng rỡ của em ấy lúc này trông thực sự giống hệt như một đứa trẻ nhỏ đang khao khát có được một món đồ chơi mới vậy.@
+br
+` Nhìn ngắm...@
+br
+` Không nghi ngờ gì nữa, em ấy thực sự là một đứa trẻ lớn xác mà.
+\
+`"…… Tôi hiểu rồi nhé. Kohaku-san bấy giờ thực chất đang vô cùng tò mò muốn biết thứ gì được cất giấu bên trong chiếc hộp gỗ này đúng không?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Dạ... dạ hoàn toàn không phải thế đâu ạ! Em chỉ là... khẽ tò mò một chút xíu thôi mà cậu chủ."@
+` …… Đúng như tôi suy đoán, biểu cảm háo hức kia chứng thực em ấy đang vô cùng khao khát được mở nó ra.@
+`"Được rồi, vậy thì hai chúng ta cùng nhau mở chiếc hộp này ra xem nhé. Nào... một, hai... ba!"@
+` Một tiếng động khô khốc khẽ vang lên khi chiếc nắp hộp gỗ được nhấc ra.@
+` [line=4]Bên trong là một thanh sắt mỏng dài mười centimet.
+\
+`"... Hử... Nó... thực chất chỉ là một thanh sắt thông thường thôi sao?"@
+` Một thanh kim loại phẳng lỳ tuyệt đối không hề có bất kỳ họa tiết trang trí nào, bề mặt kim loại đã bắt đầu sờn màu và phủ đầy dấu vết của thời gian.@
+` Xem ra người cha quá cố năm xưa thực sự oán ghét tôi đến mức dẫu có để lại di vật đi chăng nữa thì cũng phải là một món đồ bỏ đi thảm hại thế này mới chịu được.
+\
+`"Dạ hoàn toàn không phải vậy đâu thưa Shiki-san. Vật này thực chất chính là một con dao gọt trái cây đấy ạ."@
+` Kohaku-san nhẹ nhàng nhấc thanh kim loại mỏng ra khỏi chiếc hộp gỗ.@
+`"Xem nào, đây chẳng phải là loại dao gập cầm tay sao? Nào... một, hai... ba!"@
+` Một tiếng động kim loại trượt ngọt xớt khẽ vang lên, và ngay lập tức một lưỡi dao sắc bén dài mười centimet bật ra từ thanh kim loại.@
+` ... Ồ, tôi hiểu rõ rồi. Món đồ này quả thực dứt khoát là một con dao sắc bén gập cầm tay.
+\
+`"Con dao này dẫu đã khá cũ kỹ theo năm tháng, thế nhưng kết cấu của nó trông thực sự vô cùng chắc chắn và sắc lẹm đấy ạ. Niên đại và tên của thời kỳ chế tạo ra nó còn được khắc vô cùng rõ nét ở mặt sau của chuôi dao cơ này thưa Shiki-san."@
+` Kohaku-san thay thế lưỡi dao và trao lại con dao.@
+cl c,crossfade,400
+` Nhận lấy con dao trên tay, tôi quả thực bắt gặp một dãy ký tự cổ xưa được khắc vô cùng tinh xảo trên chuôi cầm bằng kim loại.@
+` Ký tự thứ nhất chính là chữ "Thất" (Bảy), và ngay phía dưới nó chính là chữ "Dạ" (Đêm).
+\
+ld l,"tachi/his_t01",notrans,0
+`"Chị Kohaku, trên thế gian này làm gì có niên hiệu hay thời kỳ cổ xưa nào mang cái tên kỳ lạ như vậy chứ. Dãy ký tự đó thực chất chính là chữ 'Nanatsu-yoru' (Thất Dạ) đấy ạ thưa chị."@
+`"Ồ!"@
+` Tôi quay lại với sự ngạc nhiên.@
+` Hisui, người đã im lặng cho đến lúc này, đang nhìn con dao trên vai tôi.
+\
+`"Hisui này, em làm tôi suýt chút nữa giật mình rồi đấy... Lần sau nếu muốn nói gì thì làm ơn hãy cất tiếng trước nhé. Với lại em tuyệt đối không cần phải đứng từ xa nhìn ngó như thế đâu, nếu muốn xem kỹ thì tôi sẽ sẵn lòng trao cho em cầm ngắm cơ mà."@
+ld l,"tachi/his_t02",crossfade,400
+`"[line=4]Ồ..."@
+br
+` Đôi má bầu bĩnh của Hisui bấy giờ bỗng chốc ửng hồng lên đầy ngượng ngùng.
+\
+`"[line=3]Em vô cùng xin lỗi vì đã thất lễ ạ. Thế nhưng... con dao gập này của cậu chủ... thực sự sở hữu một vẻ đẹp vô cùng tinh xảo và cuốn hút, đến mức khiến em hoàn toàn không thể cưỡng lại được ánh nhìn ạ."@
+`"Xinh đẹp sao? Em thực sự nghĩ một thanh kim loại cũ kỹ thế này là đẹp sao Hisui? Theo cảm quan của tôi thì món đồ này trông thực sự có hơi cũ nát và lỗi thời rồi đấy chứ."@
+ld l,"tachi/his_t01",crossfade,400
+`"[line=3]Dạ hoàn toàn không phải thế đâu ạ thưa cậu chủ. Kỹ thuật rèn luyện và chế tác lưỡi dao của con dao gập này thực sự vô cùng tinh xảo và thượng hạng. Em tin chắc chắn đây dứt khoát phải là một kỷ vật mang trong mình một lịch sử vô cùng oai hùng và sâu thẳm đấy ạ."@
+`"Thật vậy sao? Đối với tôi thì món đồ này lúc nãy trông thực sự chẳng khác nào một mẩu rác kim loại bỏ đi..."
+\
+` Thế nhưng nhận thấy thái độ khẳng định vô cùng kiên định và đầy am hiểu của Hisui bấy giờ, lòng tôi bấy giờ cũng bắt đầu trào dâng cảm giác tương tự.@
+` ... Ừm. Dõi mắt nhìn kỹ lại, tôi đoán món đồ này dẫu sao cũng là di vật duy nhất của cha để lại, xem ra kết cấu của nó cũng không đến nỗi quá tệ hại như tôi nghĩ ban đầu.
+\
+ld r,"tachi/koha_t02",notrans,0
+`"Chữ 'Thất Dạ' (Nanatsu-yoru) sao? Liệu đó có phải là tên riêng được đặt cho con dao gọt trái cây này không nhỉ cậu chủ?"@
+`"Có lẽ là như thế thật... dẫu cho tôi hoàn toàn không thể tưởng tượng nổi một người cha nghiêm khắc và lạnh lùng như ông ấy lại có sở thích lãng mạn đi đặt tên cho một con dao gập thế này."@
+` Nhưng dẫu thế nào đi nữa, rõ ràng đây dứt khoát là một món đồ cổ vô giá.@
+`"Dù sao đi nữa, tôi tin rằng mình nên chấp nhận những gì đã được giao cho mình."@
+` Tôi gập lưỡi dao lại và nhét con dao vào túi quần.
+\
+cl r,crossfade,400
+`"Cậu chủ Shiki, cậu có kịp thời gian không ạ...?"@
+`"Á chết thật! Tôi bắt buộc phải lên đường ngay lập tức thôi! Này Kohaku-san, xin chân thành cảm ơn em đã tận tình trao lại kỷ vật này cho tôi nhé!"@
+` Kohaku-san rạng rỡ nở nụ cười tươi tắn rồi vẫy bàn tay nhỏ nhắn tiễn biệt tôi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48a",lcartain,400
+ld c,"tachi/his_t01",crossfade,400
+` Tôi sải bước chân đi ra ngoài cổng biệt thự.@
+` Hisui theo sau một cách lặng lẽ.@
+`"... Hisui này, em định cất công đi theo tiễn tôi đi học luôn sao?"@
+` Hisui gật đầu nhẹ nhàng đồng ý.
+\
+`"Cậu chủ Shiki? Khi nào cậu chủ sẽ trở lại ạ?"@
+` Xem ra Hisui bấy giờ đã quyết tâm sẽ kiên định sử dụng danh xưng tôn kính "-sama" (cậu chủ) này cho đến cùng mất rồi.@
+` Thôi được rồi, nếu tôi bấy giờ còn phí phạm thời gian để đứng đây tranh cãi về danh xưng tôn kính với em ấy thì dứt khoát sẽ trễ học mất. Mấy chuyện phàn nàn nhỏ nhặt đó cứ để dành sau khi đi học về giải quyết sau vậy.
+\
+`"Cậu chủ Shiki?"@
+`"À, vâng. Ừm... chắc là khoảng bốn giờ chiều tôi sẽ về tới nhà thôi em. Bản thân tôi bấy giờ không tham gia vào bất kỳ câu lạc bộ ngoại khóa nào ở trường cả."@
+` Những ngày không tụ tập đi chơi bời lêu lổng cùng Arihiko, tôi thường có thói quen đi thẳng về biệt thự nghỉ ngơi ngay sau khi tan học chiều.@
+` Hisui cúi đầu sâu chào tôi một cách cung kính trước thời gian dự đoán của tôi.
+\
+ld c,"tachi/his_t16",crossfade,800
+`"Em đã hiểu rồi ạ. Xin cậu chủ hãy đi đứng cẩn thận suốt hành trình đi học nhé."@
+` ... Tôi không rõ mình cần cẩn thận điều gì, nhưng có lẽ cô ấy chỉ đang lo lắng cho sức khỏe của tôi.@
+`"Đúng rồi, cảm ơn em nhiều nhé. Em ở nhà cũng giữ gìn sức khỏe nhé Hisui."@
+` Tôi đáp lại lời của em ấy bằng một nụ cười rạng rỡ.@
+` Vẫy tay chào tạm biệt Hisui, tôi nhanh nhảu bước chân ra khỏi cánh cổng biệt thự.
+\
+bg #000000,lcartain,800
+bg "bg/bg_22a",lcartain,800
+br
+` [line=3]Tôi rảo bước nhanh đi xuống phía con dốc dài.@
+` Vì tôi đã học ở nhà Arima từ khi còn nhỏ cho đến giờ, đây là lần đầu tiên tôi đi con đường này.@
+`"Không có nhiều học sinh cùng trường lắm..."@
+` Có vẻ như không có nhiều học sinh từ trường tôi sinh sống ở khu vực quanh đây.@
+` Đúng bảy giờ rưỡi sáng.@
+` Tôi không nhìn thấy ai chạy dọc đường phố trong đồng phục học sinh ngoài bản thân tôi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_23a",lcartain,800
+` Dần dần, tôi bắt đầu nhìn thấy một vài người trong đồng phục học viện lẫn vào đám đông.@
+` Đây chính là ngã rẽ nơi con đường dẫn tới trường học thực sự bắt đầu.@
+br
+`"... Yumizuka-san bấy giờ đang ở đâu nhỉ?... Xem ra sáng nay vận may của mình không tốt rồi, chẳng thể tình cờ gặp mặt em ấy..."@
+` Tôi nhớ lại gương mặt tươi cười của bạn cùng lớp đã rời đi hôm qua, nói rằng "nhà tôi ở phía này".@
+` Nghĩ ngợi về hình bóng dịu dàng của Yumizuka Satsuki trong lớp học bấy giờ bỗng chốc khiến bước chân tôi trở nên nhanh nhẹn hơn đôi chút, tôi vội vã rảo bước hướng thẳng về phía trường.
+\
+bg #000000,lcartain,800
+bg "bg/bg_24a",lcartain,800
+` Tôi bước ra khỏi khu dân cư yên tĩnh và tiếp cận sát ngã tư đường lớn.@
+` Cánh cổng sắt của trường học bấy giờ chỉ còn đúng mười phút ngắn ngủi nữa là sẽ chính thức đóng chặt lại.@
+` Tôi bắt đầu gồng mình chạy thục mạng trên nền đường nhựa phẳng lỳ.
+br
+bg #000000,lcartain,400
+bg "bg/bg_01a",lcartain,800
+` [line=6]Cuối cùng tôi cũng đã đến nơi rồi.@
+br
+` Hóa ra quãng đường thực tế di chuyển từ biệt thự đến trường học chỉ tiêu tốn của tôi khoảng hai mươi phút ngắn ngủi thay vì ba mươi phút như Hisui dự tính ban đầu. Có lẽ lần sau tôi chỉ cần xuất phát vào lúc bảy giờ mười lăm phút sáng là hoàn toàn có thể thong thả đi bộ đến lớp rồi, bởi hành trình sáng nay tôi đã phải gồng mình chạy bộ vài lần dọc đường đi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,400
+`"[line=4]Ơ kìa...?"@
+` Ngay khi vừa đặt chân bước vào lớp học quen thuộc của mình, tôi đã lập tức nhận thấy một bầu không khí vô cùng ngột ngạt và căng thẳng đang bao trùm khắp căn phòng.@
+` Dẫu cho phòng học vào những buổi sớm thường ngày vốn dĩ luôn vô cùng ồn ào và náo nhiệt, thế nhưng những thanh âm bàn tán xôn xao sáng nay lại mang một sắc thái hoàn toàn khác biệt, vô cùng bất thường.@
+` Tôi lẳng lặng tiến lại gần chỗ ngồi quen thuộc của mình ngay sát bên khung cửa sổ rộng lớn.@
+` Arihiko bấy giờ đã chực chờ sẵn ở đó với gương mặt vô cùng u ám và thâm trầm.
+\
+`"Này Arihiko, lớp học sáng nay rốt cuộc đang xảy ra biến cố gì thế cậu?"@
+ld c,"tachi/ari_t04",crossfade,400
+`"... Tôi cũng không rõ nữa. Chỉ nghe đồn thổi xôn xao rằng dường như có một học sinh trong lớp chúng ta đã đột ngột bỏ nhà ra đi biệt tăm biệt tích từ đêm qua."@
+`"Hả... bỏ nhà đi sao? Hèn chi không khí trong lớp lại xôn xao nháo nhác đến nhường này."@
+` Tôi khẽ buông xuôi cơ thể ngồi xuống chiếc ghế tựa với một tiếng thở dài thườn thượt.@
+`"[line=3] Ý cậu là không có chuyện gì lớn sao? Ai bỏ nhà? Ai!"@
+ld c,"tachi/ari_t03",crossfade,400
+`"Tôi thực sự chịu chết, chẳng biết chút thông tin cụ thể nào cả. Thế nhưng dẫu sao thì lát nữa khi giờ học chính thức bắt đầu, giáo viên lên lớp điểm danh là chúng ta sẽ biết ngay thôi mà. Cứ nhìn xem chiếc bàn học nào bấy giờ vẫn đang bỏ trống là lập tức vạch trần danh tính kẻ bỏ đi ngay thôi chứ gì."
+\
+`"Ừm, đúng vậy."@
+` Dẫu lời giải thích của Arihiko vô cùng hợp lý và thực tế, thế nhưng thái độ hờ hững có phần khô khan, lạnh lùng của cậu ấy bấy giờ bỗng chốc khiến lòng tôi cảm thấy hơi ái ngại.@
+` Nếu quả thực có một người bạn học cùng lớp với chúng tôi bấy giờ đang phải lâm vào tình cảnh tồi tệ đến mức bỏ nhà ra đi biệt tích như thế, việc chỉ đứng ngoài lề xem đó là chuyện vui nhạt nhẽo của kẻ khác để bàn tán thực sự vô cùng nhẫn tâm và thiếu tế nhị.
+\
+`"Này Arihiko? Tại sao cậu lại có thể tỏ thái độ thờ ơ, vô cảm đến nhường ấy chứ? Một người bạn học cùng lớp bấy giờ đang phải bỏ nhà đi biệt tích cơ mà... cậu thực sự không cảm thấy lo lắng chút nào cho họ sao?"@
+ld c,"tachi/ari_t01",crossfade,400
+`"Ồ sướng thật đấy nhỉ, trên cõi đời này chắc chỉ có duy nhất gã ngốc đại từ bi nhà cậu là lúc nào cũng nghiêm túc đi lo lắng cho người dưng nước lã thôi đấy Tohno ạ. Mọi người ở đây bàn tán xôn xao về vụ này thực chất chỉ vì coi đó là một chủ đề buôn chuyện vô cùng thú vị và kích thích để giết thời gian buổi sớm thôi cơ mà."@
+` Kẻ bỏ nhà đi biệt tích đó dứt khoát tuyệt đối không phải là tôi, cũng chẳng phải là cậu, thế nên việc gì hai chúng ta bắt buộc phải đứng đây lo lắng sốt ruột cho mệt thân cơ chứ, đúng không?@
+br
+` ... Đến lúc này tôi mới chợt hồi tưởng lại tính cách đặc trưng của gã bạn thân này. Cậu ấy vốn dĩ luôn hành xử vô cùng lạnh lùng, tàn nhẫn và hờ hững với toàn bộ thế giới xung quanh ngoại trừ những người bạn thực sự thân thiết của mình.
+\
+ld c,"tachi/ari_t04",crossfade,400
+`"Nhưng dẫu sao thì... sâu trong lòng tôi thực sự vẫn thấy có chút bất an lo sợ. Việc đột ngột quyết định bỏ nhà đi biệt tích vào chính thời điểm nhạy cảm này... kẻ đó dẫu có dũng cảm gan dạ đến nhường nào đi nữa thì..."@
+`"... Ơ? Thời điểm nhạy cảm sao cậu? Ý cậu là loại thời điểm gì thế?"@
+`"Cậu quên sạch bẵng lời cảnh báo tôi nói ngày hôm qua rồi sao hả Tohno? Lúc này đây ngoài phố đang có một tên sát nhân hàng loạt điên loạn ẩn mình đi săn người cơ mà! Tôi thực sự chịu chẳng biết kẻ ngu ngốc nào trong lớp đã bỏ nhà đi biệt tích, thế nhưng nếu kẻ đó không may bị tên quái vật khát máu kia xé xác tấn công giữa đêm tối trong lúc đang lang thang ngoài đường phố... thì dứt khoát dẫu có hối hận đi chăng nữa cũng đã quá muộn màng rồi cơ chứ!"
+\
+`"[line=4]Không thể nào có chuyện trùng hợp tồi tệ đến mức ấy xảy ra được đâu..."
+\
+`"Tohno, cậu nên xem tivi nhiều hơn. Có tám nạn nhân rồi, và hắn không phân biệt đối xử. Cậu tốt nhất nên suy nghĩ lại nếu nghĩ mình an toàn."@
+` "Khu phố trung tâm này dẫu có nhộn nhịp ban ngày đi chăng nữa thì khi màn đêm buông xuống bấy giờ thực sự vô cùng vắng lặng và rợn người. Chỉ có những kẻ say rượu vất vưởng cùng lực lượng cảnh sát tuần tra đi lại thôi, thế nên bầu không khí ban đêm bấy giờ thực sự vô cùng tẻ nhạt và u ám."@
+` Giọng điệu cất lời của Arihiko bấy giờ bỗng trở nên vô cùng trầm ấm và nghiêm túc, chứa đựng một sự lo lắng thực sự dành cho tôi.@
+` Lắng nghe những lời cảnh báo đầy chân thành của cậu ấy bấy giờ bỗng chốc dấy lên một nỗi bất an lo sợ mơ hồ, chập chùng trong thâm tâm tôi.
+\
+`"Ôi, Kunifuji ở đây rồi. Cuối cùng là giờ học."@
+cl a,lshutter,400
+` Arihiko quay lại chỗ ngồi.@
+br
+` Sau một lúc, mọi người đều ngồi yên.@
+` Chỉ còn một chỗ trống.@
+` Không thể nhầm lẫn được. Bàn của Yumizuka Satsuki vẫn trống.
+\
+bg #000000,crossfade,400
+bg "bg/bg_22b",crossfade,400
+ld c,"tachi/stk_t03",notrans,0
+br
+br
+br
+br
+br
+br
+`"Này nhé Shiki-kun, nhà tớ thực ra cũng ở ngay phía hướng này này."@
+` Tạm biệt cậu nhé. Hẹn gặp lại cậu ở lớp học vào ngày mai nha.
+\
+bg #000000,crossfade,400
+bg "bg/bg_06a",crossfade,400
+`"... ... ... "@
+` ... Đó chính là những lời đối thoại cuối cùng đầy rạng rỡ của Yumizuka khi hai đứa chúng tôi chia tay vào chiều ngày hôm qua. Tôi thực sự không thể nào tưởng tượng nổi rốt cuộc đã có biến cố khủng khiếp gì đột ngột xảy ra bên trong gia đình của em ấy, thế nhưng dẫu có nghĩ thế nào đi nữa, tôi vẫn tuyệt đối không thể chấp nhận sự thật rằng người con gái đã tươi cười vẫy tay chào tôi hôm qua bấy giờ lại bỗng chốc biến mất biệt tích không lời từ biệt thế này được.
+\
+`"Yumizuka vắng mặt."@
+` Cái tên Yumizuka Satsuki chỉ được giáo viên chủ nhiệm Kunifuji cất giọng hờ hững thông báo là vắng mặt trong buổi điểm danh đầu giờ.@
+` Và rồi dường như không hề có bất kỳ chuyện lớn gì xảy ra, buổi học chính thức của ngày hôm nay bắt đầu.@
+br
+` [line=4]Thế nhưng sâu trong tâm trí, tôi vẫn nhớ như in nụ cười rạng rỡ, đầy ấm áp của Yumizuka chiều ngày hôm qua.
+\

@@ -1,0 +1,194 @@
+bg #000000,lcartain,800
+play "*3"
+bg "bg/bg_11a",lcartain,800
+` Hành lang vào giờ ăn trưa đông đúc lắm.@
+` Sinh viên đi về căng tin hoặc đến những nơi yêu thích của họ, tay cầm bữa trưa.@
+` Bị cuốn theo dòng người, tôi suy nghĩ xem mình nên đi căng tin hay cửa hàng.@
+` ……@
+` Tôi ngạc nhiên về sự thong thả của chính mình.@
+` Nếu tôi có thời gian để lãng phí ở đây, thì tốt hơn là nên đến căng tin nơi Arihiko đang ngồi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Hầu hết các chỗ ngồi trong căng tin đều đã được chiếm.@
+` Vì tôi bỡ ngỡ ở hành lang, bây giờ những chỗ trống hầu như không còn.@
+br
+` [line=3]Có chỗ trống nào không?@
+` Tôi nhìn khắp căng tin đông đúc.@
+` Nên không có chỗ trống vào lúc này, nhưng tôi vẫn quyết định kiểm tra các bàn một lần nữa.
+\
+` …… À.@
+` Tôi ngạc nhiên…… không, tôi kinh ngạc.@
+` Đó, rõ ràng như vậy, là một bàn có không hai, thậm chí không phải ba, mà là bốn chỗ trống.@
+` Có hai sinh viên đang ngồi ở bàn đó, và dường như một trong số họ đã nhận ra tôi khi tôi cố gắng tìm kiếm một chỗ ngồi.@
+ld c,"tachi/ari_t05",lshutter,400
+` Yo, Tohno!@
+` Sinh viên vẫy tay mạnh mẽ là bạn cùng lớp thân yêu của tôi với mái tóc cam nhuộm.@
+cl c,crossfade,400
+` ……@
+` Đầu tôi đau.`@
+` Nhưng không có chỗ ngồi nào khác, nên tôi buộc phải đáp lại vẫy tay và đi về phía bàn nơi bạn của tôi đang ngồi.`
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+` Một người bất ngờ đang ngồi cùng anh tại bàn.@
+` "Ê, Ciel-senpai?"`@
+ld l,"tachi/cel_t01a",lshutter,400
+` “Ây, nếu không phải là Tohno-kun.”`@
+` Chúng tôi chỉ vào nhau cùng lúc.
+\
+ld r,"tachi/ari_t01",lshutter,400
+` "Ê, Tohno,[line=3] chờ chút… Anh trai, cậu có biết Tohno không?"@
+ld l,"tachi/cel_t03",crossfade,400
+` "Vâng, tôi đã gặp anh ta một lần hôm nay rồi.  Chúng ta va chạm nhau thật mạnh mẽ hôm nay đấy, phải không, Tohno-kun?"@
+` "Ân… vâng, xin lỗi."@
+` Tôi cúi đầu xin lỗi.`@
+ld l,"tachi/cel_t04",crossfade,400
+` "Không đâu. Tôi cũng xin lỗi vì lúc nãy đã mơ mộng quá. Anh là người nghiêm túc đấy chứ, Tohno-kun?"`@
+` "Nghiêm túc……? Không, không hẳn đâu."@
+` Cười tươi, anh trai gật đầu hài lòng.`@
+` Làm sao để nói đây… Chị có một bầu không khí rất đặc biệt.`
+\
+ld l,"tachi/cel_t01a",crossfade,400
+` "Nhưng thật bất ngờ mà Tohno và Inui lại quen nhau.  Có phải hai người học cùng lớp không?"@
+` "Đúng thế! Tôi và Shiki là hơn hẳn những người quen biết đơn thuần! Chúng ta đã học chung từ năm nhất, và là bạn thân không thể tách rời kể từ hồi cấp hai!"@
+` Bạn thân nhất của tôi gõ mạnh vào bàn để nhấn mạnh.`@
+` ……… Chỉ là tôi thôi hay anh ấy hoạt bát hơn thường ngày?`
+\
+ld r,"tachi/ari_t02",crossfade,400
+` "C'mon, bạn thân nhất, ngồi xuống đi! Nếu cứ đứng đó như vậy thì mì của cậu sẽ nguội mất. Nhanh lên ngồi xuống, và kể cho tôi nghe về chuyện cậu quen được anh ấy."@
+` Arihiko vỗ vai tôi thật vui vẻ.`@
+` ……"`@
+` Mặc dù tôi thật sự chẳng có câu chuyện lãng mạn như Arihiko mong đợi đâu, nhưng cũng chẳng còn chỗ ngồi nào khác.@
+` Tôi miễn cưỡng ngồi cạnh anh.
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+` Chắc là Arihiko thân với anh ấy.`@
+` Ngược lại với tôi, chỉ gặp cô ấy vài lần thôi mà anh ta lại có thể nói chuyện với cô ấy rất tự nhiên.@
+ld r,"tachi/ari_t01",crossfade,400
+` "À, anh trai, anh nói gặp Tohno à? Có chuyện gì xảy ra?"@
+ld l,"tachi/cel_t01a",crossfade,400
+` “Vâng, tôi va phải SHIKI giữa giờ học.  Tôi không sao, nhưng SHIKI bị trầy đầu.”`@
+` “Ừm…… Tôi không nghĩ Tohno lại làm cái việc vụng về như thế.@ Người này có vẻ lơ đãng, nhưng thực ra anh ta là người cực kỳ sắc bén.@ Anh ta không thích dựa dẫm vào người khác, và ghét gây phiền toái cho người khác……”`
+\
+ld l,"tachi/cel_t04",crossfade,400
+` “À, tôi cũng có cảm giác như vậy. Anh ấy chỉ quan tâm đến tôi khi chúng ta gặp nhau, và anh ấy vừa xin lỗi tôi nữa.”`@
+ld r,"tachi/ari_t04",crossfade,400
+` “Xem này. Đó là loại người như vậy, nên anh ta không bao giờ mắc sai lầm như thế. …… À, có phải bệnh thiếu máu của cậu lại tái phát?”`@
+` Arihiko lo lắng cho sức khỏe của tôi.`@
+` “……. Không phải thế đâu. Tôi đang chạy đến văn phòng để lo mấy việc chuyển nhà. Cậu gặp tôi lúc đó.”`@
+ld r,"tachi/ari_t01",crossfade,400
+` “Thế à? Tôi tưởng cậu trở nên cẩu thả vì buồn bã chuyện chuyển nhà.”`@
+` Arihiko gập tay lại và gật đầu tán thành.
+\
+` [line=4]Và sau đó,`
+br
+ld l,"tachi/cel_t10a",crossfade,400
+` Tohno-kun, cậu chuyển trường à!?`@
+` Anh ấy thốt lên gần như histeric.`
+\
+` Tôi không chuyển trường đâu, Shiki.`Chỉ là đổi chỗ ở thôi nên tôi đã nộp đơn xin thay đổi địa chỉ.`@
+ld l,"tachi/cel_t08",crossfade,400
+` "Ê…… Vậy là cậu sẽ sống một mình ư?"`
+\
+` “Không, tôi chỉ về nhà thật của mình thôi.”`@
+` Đó là nơi sang trọng trên đỉnh đồi. Tôi vẫn chưa tin nổi.@
+` "Ô…… Có lẽ đó là biệt thự gia tộc Tohno?
+\
+` Senpai hỏi với chút do dự.@
+` Ngôi nhà kiểu phương Tây trên đỉnh đồi có lẽ được coi là điều đặc biệt đối với người dân ở thị trấn này.@
+` Tôi chưa từng đến đó trong tám năm, nhưng ngay cả trong ký ức của tôi, biệt thự Tohno cũng quá lớn.
+\
+` "Ừm, đúng rồi. Tôi nghĩ nó không phải là nơi phù hợp với tôi, nhưng bây giờ đã muộn khi tôi đã dọn đến đây rồi.@
+ld r,"tachi/ari_t04",crossfade,400
+` "Ừm…… Bạn không có vẻ quá vui về điều đó.@
+` "Không phải là điều tốt hay xấu. Tôi thực sự không hiểu nó lắm.@
+ld r,"tachi/ari_t01",crossfade,400
+` "Chà, ngay cả khi đó là nhà của bạn, cũng đã tám năm rồi đúng không? Tôi có thể hiểu nếu bạn cảm thấy bồn chồn. Có lẽ nó sẽ giống như nhà của người khác trong một thời gian.@
+` "Tôi tự hỏi liệu có phải vậy không…… Tôi chưa quay lại nên tôi không biết.@ Nói chung, tôi khá thoải mái vì tôi luôn có nơi trú ẩn ở đây.
+\
+ld r,"tachi/ari_t03",crossfade,400
+` "Hừm. Nghe này, cậu, tôi không ấn tượng với việc cậu đến ở nhà tôi mỗi khi xảy ra chuyện xấu. Tôi thích tính cách của cậu là không nổi bật, nhưng tôi đã ghét tính cách quá dè dặt của cậu suốt một thời gian dài rồi!@
+` Arihiko đập mạnh vào bàn.@
+` "……"@
+` Chà, mọi thứ Arihiko nói đều là sự thật, nên không thể chống lại được.@
+ld l,"tachi/cel_t12",crossfade,400
+` "Inui-kun, Tohno-kun thực sự ở nhà cậu thường xuyên không?
+\
+ld r,"tachi/ari_t01",crossfade,400
+` "Ừm, đúng vậy. Tohno khốn nạn đó quá dè dặt với cha mẹ và anh ta sẽ đến nhà tôi mỗi kỳ nghỉ dài. Anh ta dè dặt với họ vì họ đang chăm sóc anh ta.@
+` Đó là lý do tại sao anh ta đến nhà tôi, nơi chúng tôi tiện có một phòng trống. Vì anh ta trông khá ổn nên em gái tôi thích anh ta, và anh ta vô tư ở lại với chúng tôi mà không phải trả tiền!@
+` Cú đấm của Arihiko run lên, như thể muốn nói 'không thể tha thứ!'@
+ld l,"tachi/cel_t07a",crossfade,400
+` "…… Chăm sóc Tohno-kun?@
+` "Ah[line=4]"@
+` Arihiko giơ tay che miệng.@
+ld r,"tachi/ari_t03",crossfade,400
+` …… Xin lỗi. Tôi nên suy nghĩ trước khi nói.@
+` Không sao đâu. Cậu không nói gì xấu cả.@
+` Tôi tiếp tục ăn udon chikara mà không nhìn Arihiko.
+\
+ld r,"tachi/ari_t01",crossfade,400
+` Thật à? Vâng, cậu đúng. Nếu cậu than phiền về điều đó, cậu sẽ bị trừng phạt đấy.@
+` Arihiko gật đầu đồng ý với chính mình.@
+` Sự lạc quan quá mức của anh là điều tôi thực sự ao ước.
+\
+ld l,"tachi/cel_t07a",crossfade,400
+` Tohno-kun, um…… cậu có không hòa thuận với gia đình cũ không?@
+ld r,"tachi/ari_t04",crossfade,400
+` Không phải vậy. Người này không có vấn đề gì với Arimas. Ồ, Arimas là gia đình đã chăm sóc anh ấy. Họ là những người tốt bụng lắm, và theo tôi thấy, họ là một gia đình hạnh phúc.@
+` Tuy nhiên, anh vẫn từ chối trở thành con nuôi của họ, và anh trốn đến chỗ tôi mỗi kỳ nghỉ. Ôi…… anh không hài lòng với điều gì chứ?@
+` Không có gì tôi không hài lòng về.@ Chỉ là tôi đã nhận được rất nhiều từ họ, nên tôi không muốn trở thành gánh nặng thêm nữa.
+\
+cl a,crossfade,400
+` …… Senpai thả vai xuống và im lặng.@
+` Có vẻ cô ấy xin lỗi vì đã hỏi về hoàn cảnh gia đình tôi.@
+` Không sao đâu, Senpai. Xin lỗi vì làm cho cậu nghe điều nhàm chán như vậy.@
+ld c,"tachi/cel_t08",crossfade,400
+` Ê, không sao cả. Tôi xin lỗi vì đã hỏi cậu một câu chuyện kỳ lạ.@
+` Senpai cố gắng để bản thân vui vẻ.@
+` Chủ đề có thể ổn với một người bạn lâu năm như Arihiko, nhưng một vấn đề phức tạp như vậy chỉ gây phiền toái cho Senpai.@
+` Và để chứng minh cho điều đó, Senpai ngồi đó bất an.
+\
+` Nghe này, Senpai[line=3]@
+ld c,"tachi/cel_t01a",crossfade,400
+` Ừm, tôi đã ăn xong rồi, nên tôi sẽ đi đây. Tôi rất xin lỗi.@
+cl c,lshutter,800
+` Senpai cúi đầu một cái rồi rời khỏi chỗ ngồi.@
+br
+` Chỉ còn tôi và Arihiko ở lại bàn.
+\
+` …… Xin lỗi. Cậu đã cuối cùng có thể ăn với chỉ hai người, nhưng tôi đã làm phiền.@
+ld c,"tachi/ari_t01",crossfade,400
+` Không sao đâu. Đó là lỗi của tôi vì không chú ý. Tôi nghĩ nó không tốt cho Senpai, thực sự.@
+` Arihiko ăn mì udon với vẻ hào hứng.@
+` Dường như nó đã lạnh đi khi chúng ta đang nói chuyện.@
+` Chà, điều đó thuận tiện cho chúng ta, dù sao. Tôi có một số việc muốn nói riêng với cậu, vì vậy thật may mắn khi Senpai rời đi trước.
+\
+` Có chuyện gì đâu? Bỗng nhiên trở nên nghiêm túc như thế? Tôi sẽ nói ngay, tôi không có tiền. Từ hôm nay trở đi, tôi sẽ sống cuộc đời như một thanh niên nghèo khổ.@
+` Không phải vậy, thằng khốn kiếp! Điều tôi muốn biết là: chuyện gì đang xảy ra với cậu, Tohno?@
+` Cậu có nghĩa là gì?@
+ld c,"tachi/ari_t04",crossfade,400
+` Cậu đã ở nhà Arimas từ tiểu học, phải không? Tôi không biết tại sao, nhưng đã tám năm rồi. Cha của cậu đã gần như ruồng bỏ cậu. Tại sao anh ta lại gọi cậu trở về đột ngột?@
+` …… Tôi hiểu.@
+` Theo cách riêng của mình, anh ấy lo lắng cho tôi.
+\
+` Anh ta không 'ruồng bỏ' tôi. Anh ta chỉ đuổi tôi ra khỏi nhà vì một lý do nào đó.@
+` 'Tohno-kun', nếu có một ngôi nhà nào đuổi con cái ra khỏi nhà 'vì một lý do nào đó', thì đó không phải là bi kịch, mà là hài kịch. 'Ồ, đây là trò đùa!' Nhưng thật nhàm chán, nó không buồn cười.@
+` Arihiko giang rộng cánh tay và lắc vai.@
+` ……Ừ, tôi đoán cậu đúng. Nếu bị đuổi khỏi nhà, tất cả những gì cậu có thể làm là cười.
+\
+` Và sau đó anh ta nói một câu thoại cũ kỹ như 'Không bao giờ bước chân vào ngôi nhà này nữa!' hay cái gì đó, phải không? Đó là điều mà mọi người gọi là 'ruồng bỏ'.
+` Nghĩ lại, tôi chưa từng nghe lý do tại sao cậu bị ruồng bỏ.@
+` …….@
+` Ai biết đâu?@
+` Tôi cũng muốn biết điều đó.@
+` Ừ, nếu không muốn nói thì thôi.@
+cl c,crossfade,400
+` Arihiko dùng cả hai tay nắm bát và uống hết tô udon lạnh của mình.@
+` Giờ ăn trưa ngắn lắm.@
+` Theo Arihiko, tôi quyết định nhanh chóng ăn mì chikara của mình.
+\
+bg #000000,crossfade,800
+playstop

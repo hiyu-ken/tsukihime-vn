@@ -1,0 +1,44 @@
+monocro off
+playstop
+wavestop
+bg "event/ark_e05b",lshutter,800
+play "*4"
+[line=3]bg "word/end",crossfade,1500
+\
+br
+` Tay cô ấy lạnh lẽo trên vai tôi và nhiệt độ thấp của cơ thể cô ấy khiến tôi nghe thấy một âm thanh rắc rắc, đóng băng.
+\
+` Tiếng ồn không đến từ bất cứ nơi nào xung quanh tôi.@
+` Nó chỉ đơn giản là cơ thể tôi đang đóng băng khi cái lạnh thấm sâu bên trong từ nơi cô ấy chạm vào tôi.@
+` Nói cách khác, âm thanh đang đến từ bên trong tôi.@
+` Tim, ruột, não của tôi, chúng đều rắc rắc.
+\
+`"[line=8]Ah."@
+` Giống như một tế bào ung thư.@
+` Nó phát triển nhanh chóng, vô hạn, hỗn loạn và thiếu trí tuệ.@
+` Nó xâm phạm tôi từ bên trong ra ngoài.
+\
+bg "bg/ima_13",crossfade,400
+`"[line=6]Ar,"@
+` ... Tôi không thể cảm nhận được hơi thở của cô ấy.@
+` Giống như một con thú đói khát, nó chỉ cắn vào cổ tôi.@
+` [line=4]Đồng thời
+monocro #ff0000
+` Tôi lao xuống địa ngục vô tận của nỗi đau, như thể các dây thần kinh của tôi đang bị xé nát từng mảnh một.
+\
+`"[line=4]Arcueid[line=4]"@
+` Tâm trí tôi, đang trong tình trạng nóng bỏng, vừa nói ra từ cuối cùng này.
+\
+` Nó... đau.@
+` Tôi... cảm thấy... tư duy... bị xé nát.
+` Tôi... chỉ còn lại... một mảnh vỡ.
+` Tôi... không thể... di chuyển.
+` Đây... là... kết thúc... của tôi.@
+!w2000
+\
+playstop
+bg #ffffff,crossfade,800
+monocro off
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

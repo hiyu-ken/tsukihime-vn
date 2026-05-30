@@ -1,0 +1,119 @@
+(Hiển thị hình nền: 42a)
+!w3000
+bg #000000,notrans,0
+` "Tôi không thể tỉnh dậy."@
+` "Ngụp lặn chìm sâu trong giấc chiêm bao u ám, tôi tịnh không cách nào tỉnh giấc nổi."
+br
+` [line=3]"(Lại cảm thấy lạnh chạy dọc sống lưng.)"@
+` "Không có lý do, không có mục đích."@
+` Tôi cay đắng nhận ra bản thân dẫu dã tịnh không bao giờ thoát ra khỏi giấc mộng nghiệt ngã này được nữa.
+\
+!w5000
+`"Shiki-sama, xin ngài vui lòng tỉnh giấc đi ạ.@ Ngài sắp sửa trễ giờ tới trường rồi đấy ạ."
+bg "bg/bg_40a",notrans,0
+play "*2"
+`"[line=9]Ồ?"@
+` Hisui đứng trước mặt tôi.@
+` Đây là phòng của tôi, và thời tiết bên ngoài lại bất ngờ đẹp đến vậy.@
+`"Hi... suï?"@
+ld c,"tachi/his_t01",lshutter,400
+`"Chào buổi sáng lành lạnh thưa Shiki-sama.@ Thời gian sáng nay tịnh không còn nhiều nữa, xin ngài cất công khẩn trương sửa soạn rồi xuống phòng khách dùng bữa ạ."
+` Như thường lệ, Hisui nói với giọng điệu lạnh lùng.
+\
+`"[line=6]Ôi."@
+` Với điều đó, mọi thứ tan biến.@
+` Tôi ôm lấy cơ thể mình vừa thức tỉnh nhưng vẫn còn đau nhức.@
+` ... Tôi cảm thấy nhẹ nhõm.@
+` Thế giới kinh hoàng mà tôi ở cho đến lúc này vừa trở thành một giấc mơ.@
+`"…… Cảm ơn em nhé.@ Nếu em tịnh không cất công đánh thức anh dậy, biết đâu anh dẫu dã tịnh không bao giờ tỉnh lại được nữa rồi."
+\
+`"Shiki-sama……?@ Nếu trong người ngài thấy tịnh không được khỏe, xin ngài cứ cất công bảo em một tiếng ạ."
+`"Không đâu, tịnh không phải thế đâu em.@ [line=3]Chào buổi sáng em nhé, Hisui.@ Anh thực sự rất vui vì có em ở bên cạnh lúc này."
+ld c,"tachi/his_t02",crossfade,400
+`"Ối chao[line=4]dạ, em xin chân thành cảm tạ ngài, Shiki-sama."
+` Cô ấy hơi đỏ mặt và cúi đầu.@
+`"Tịnh không, người cất công nói lời cảm ơn phải là anh mới[line=5]cái gì cơ, đã quá bảy giờ rưỡi rồi sao!?@ Ôi thôi chết, anh phải dậy ngay đây, em cứ xuống phòng khách đợi anh trước nhé!"
+`"Vâng, tôi sẽ đợi."@
+cl c,lshutter,400
+` Khi Hisui rời phòng, tôi thay đồ trường.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_32a",lcartain,800
+` Bật dậy khỏi giường, tôi cất lực nuốt vội dăm ba miếng bữa sáng Kohaku-san cất công chuẩn bị rồi ba chân bốn cẳng rời khỏi biệt thự.@
+` Tất cả chỉ mất dưới mười phút.@
+br
+`"Anh đi học đây[line=2]hẹn gặp lại em sau nhé, Hisui!"
+ld c,"tachi/his_t01",lshutter,400
+`"Dạ vâng, em nguyện trọn ngày đợi trông ngài cất bước trở về biệt thự ạ."
+\
+cl c,lshutter,800
+bg "bg/bg_22a",lshutter,400
+bg "bg/bg_24a",lshutter,400
+bg "bg/bg_03a",lshutter,400
+wave se_03
+!w2000
+`"... Tôi đã đến nơi..."@
+` Tôi thở ra và thư giãn cơ thể.@
+` Tôi vừa kịp đến trước khi cổng đóng lại, nhưng vẫn phải vội đến lớp.
+\
+bg "bg/bg_06a",lshutter,400
+`"Hít một hơi sâu."@
+` Giáo viên chưa đến lớp học.@
+` Tôi cố gắng lấy lại hơi thở khi ngồi xuống.@
+` ... Lớp học hôm nay dường như sôi nổi hơn bình thường.@
+` Ngày mai là ngày nghỉ, nên mọi người có lẽ cảm thấy hôm nay giống thứ Bảy.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_06b",crossfade,400
+` Trường học kết thúc.@
+` Vì tôi không có lý do gì để ở lại trường, nên tôi sẽ trở về biệt thự.
+\
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+`"... Giấc mơ ngày hôm qua."@
+` Nơi này chắc chắn là nơi tôi thấy ai đó bị giết trong giấc mơ của mình.@
+` Dù tôi cố gắng hết sức không để mơ, nhưng có lẽ tôi không thể trốn tránh bản thân.@
+`"[line=5] Ừm."@
+` Tôi cắn chặt răng.@
+` Tôi cảm thấy thương hại về sự yếu đuối của mình.@
+` Sau cùng, tất cả chỉ là giấc mơ.@
+` Chắc chắn có điều gì đó sai với tôi khi nhìn thấy những giấc mơ này, nhưng tôi nghĩ mình vẫn tỉnh táo.
+\
+bg "bg/bg_22b",lshutter,800
+` "... Cha tôi là cha tôi."@
+` Tôi không biết về dòng máu Tohno.@
+` Nhưng tôi không muốn trở thành gánh nặng cho Akiha và những người khác trong khi tôi vẫn còn tỉnh táo.@
+` [line=3]Tôi phải cố gắng hành xử bình thường nhất có thể, và tìm cách giải quyết mọi thứ này.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33b",lshutter,800
+play "*3"
+ld c,"tachi/his_t01",lshutter,400
+`"Chào mừng trở lại, Shiki-sama."@
+` Ngay khi tôi mở cửa, Hisui lịch sự chào đón tôi.@
+`"Tôi đã quay lại. Tôi sẽ ở trong phòng nên các bạn cứ tiếp tục những việc trước đó cũng được."@
+`"Cảm ơn. Tôi sẽ tiếp tục dọn dẹp phòng khách. Nếu cần gì, hãy gọi tôi."@
+cl c,lshutter,400
+`"... Hisui đang dọn dẹp phòng khách..."@
+` Tôi không nhìn thấy Kohaku-san, nhưng có lẽ cô ấy đang quét sân sau hoặc đi mua đồ ăn.@
+` Akiha vẫn chưa về, nên tôi sẽ quay lại phòng của mình.
+\
+bg "bg/bg_40b",lshutter,800
+` Tôi đặt túi xuống và thay quần áo đồng phục.@
+` Khoảng một tiếng trôi qua, tôi chỉ ngồi phịch trong phòng.@
+` Bất ngờ, tôi nghe thấy âm thanh gầm gừ.@
+` Đó không phải là âm thanh lạ gì cả.@
+` Chỉ là tiếng bụng tôi thôi.
+\
+`"... Đúng vậy, tôi thực sự không có cơ hội ăn gì kể từ sáng nay."@
+` Không muốn trễ buổi sáng này, tôi chỉ có thể ăn một ít những gì cô Hakku chuẩn bị cho bữa sáng.@
+` Tôi nghĩ về việc ăn ở quán ăn, nhưng cơn đói nhanh chóng biến mất khi tôi nhớ lại điều đã thấy ở đó hôm qua.
+\
+`"... Tôi tự hỏi mình có thể tìm thứ gì đó ăn trước bữa tối không..."@
+` ... Tôi thực sự không muốn làm phiền ai, nhưng tôi đang rất đói.@
+br
+` [line=3]Tôi nên...
+\

@@ -1,0 +1,33 @@
+wavestop
+playstop
+bg "bg/bg_25b",lcartain,800
+` …… Xung quanh hoàn toàn không có lấy một bóng người.@
+` Khu mua sắm ngoài kia dẫu vẫn còn lác đác vài người đi lại, thế nhưng lối đường dốc dẫn về biệt thự bấy giờ chắc chắn sẽ vô cùng vắng lặng và trống trải.@
+`"………"@
+` Cụm từ "sát nhân hàng loạt" cứ chập chùng lẩn khuất trong đại não tôi bấy giờ.@
+` Lúc này đã là nửa đêm rồi.@ Lại còn đơn độc đi bộ xuyên qua thị trấn vắng vẻ thế này.@ Bản thân tôi rất có thể sẽ trở thành một con mồi vô cùng béo bở, dễ dàng cho một kẻ đi săn tàn bạo như thế tấn công.
+\
+wave se_10
+`"[line=4]!?!"@
+` Có tiếng động khẽ vang lên.@
+` Đâu đó ở góc khuất phía sau tòa nhà kia, có một thanh âm gì đó.@
+` Hình như... đó là tiếng bước chân của ai đó vừa trượt ngã thì phải?@
+`"…… Con hẻm nhỏ phía sau sao……?"@
+` Thanh âm kỳ lạ đó chỉ vang lên duy nhất một lần rồi tắt ngấm.@
+` Một bầu không khí im lặng đến đáng sợ, rợn người bao trùm lấy tôi.
+\
+wave se_10
+` …… Bản thân tôi bỗng trào dâng một linh cảm vô cùng bất tường về chuyện này.@
+` Liệu có phải đang có ai đó ngã quỵ bất lực trong con hẻm tối kia không?@
+` Hay đó thực chất chỉ là một cơn gió đêm vô tình quật đổ thứ gì đó xuống đất thôi?@
+` …… Dẫu đó có là chuyện gì đi chăng nữa, tốt nhất tôi tuyệt đối không nên dại dột dấn thân vào làm gì.
+br
+` [line=5]Thế nhưng.
+` Phải chăng vì suốt thời gian qua tôi vẫn đang mải miết đi tìm kiếm bóng dáng của Yumizuka? Sâu trong lòng tôi bấy giờ khẽ dấy lên một linh cảm vô hình rằng em ấy bấy giờ đang hiện hữu nơi đó vì một lý do nào đó.
+\
+`"…… Mình... mình bắt buộc phải làm gì bấy giờ đây……?"@
+` Ngoảnh nhìn xung quanh, tuyệt đối không có lấy một ai có thể giúp đỡ cả.@
+` Thứ duy nhất tôi có thể dựa dẫm để làm chỗ dựa tinh thần lúc này chỉ có thể là con dao gập cổ xưa mà Kohaku-san đã trao cho tôi sáng nay mà thôi.@
+br
+` Tôi... [line=7]
+\

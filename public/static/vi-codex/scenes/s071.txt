@@ -1,0 +1,18 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` Akiha. Về Kohaku-san...`@
+ld c,"tachi/aki_t01a",notrans,0
+` Vâng?@ Cậu có chuyện gì với Kohaku?"`
+\
+` "Cô ấy thật tốt bụng, phải không?@ Mới lúc nãy tôi bị cô ấy mắng ở hành lang.@ 'Nếu không ăn sáng thì sẽ chẳng lớn lên được đâu!' Cô ấy nói vậy."
+\
+ld c,"tachi/aki_t04a",crossfade,800
+` Hmmmn.` "Cái đó nghe giống như lời cô ấy." "Anh có thích Kohaku không, anh trai?"
+\
+` "À[line=3]Không, không phải thế đâu. Tôi chỉ ngạc nhiên thôi vì chưa bao giờ bị trách phạt như vậy khi ở nhà Arima. Cảm ơn cô ấy, từ giờ chắc tôi sẽ không thể bỏ bữa sáng nữa đâu."`@
+` "Đúng vậy.`Cậu bị thiếu máu mà, nên không nên bỏ bữa sáng đâu.`@
+` Đau đầu này chẳng liên quan đến bữa ăn đâu, nhưng tôi vẫn gật đầu nghe theo.`@
+cl c,notrans,0
+\

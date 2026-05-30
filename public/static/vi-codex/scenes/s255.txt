@@ -1,0 +1,53 @@
+play "*3"
+wavestop
+monocro #0000ff
+bg "bg/bg_29b",notrans,0
+ld c,"tachi/ark_t08",crossfade,400
+br
+` [line=3]Tôi thà cắn lưỡi chết chứ nhất định không chịu mở miệng kể ra chuyện đó.@
+br
+`"Arcueid này, chuyện đó chẳng liên quan gì đến em đâu, nên làm ơn mặc kệ anh đi."@
+` Tôi lập tức quay ngoắt mặt đi chỗ khác để từ chối trả lời.@
+` Nhưng Arcueid vẫn cứ bám riết lấy tôi, liên tục mè nheo "Kể đi mà, kể đi mà," không chịu buông tha.
+\
+`"Kìa cậu, kể tôi nghe đi mà.@ Ít nhất cậu cũng phải cho tôi biết cậu đã mơ thấy ai chứ lị."@
+` Em ấy gặng hỏi với vẻ mặt tò mò phấn khích hệt như một đứa trẻ con.@
+` Cứ mỗi lần tôi quay mặt né tránh, em ấy lại nhanh nhảu nhảy tót ra trước mặt tôi chắn đường, miệng không ngừng mè nheo "Kể đi mà, kể đi mà."
+\
+cl a,crossfade,400
+`"…… Làm ơn đi em, tha cho anh đi.@ Giấc mơ đó thực sự có vấn đề gì đó cực kỳ sai lệch.@ …… Ngay cả bây giờ, chuyện đó vẫn[line=3]"@
+` Chính tôi cũng chẳng thể hiểu nổi tại sao mình lại mơ thấy cái cảnh hoang lạc đó nữa.@
+` Arcueid thì cứ khăng khăng bảo đó là thứ khao khát ham muốn lớn nhất của tôi, nhưng tôi tuyệt đối không muốn thừa nhận sự thật trần trụi đó chút nào.@
+br
+ld c,"tachi/ark_t11",crossfade,400
+`"Ồ, hay là giấc mộng đó đã biến thành một cơn ác mộng rồi hả?@ Mấy con quỷ mộng sứ đó thường có xu hướng tự ý nhào nặn cốt truyện giấc mơ theo sở thích của chúng một khi đã phải lòng con mồi của mình.@ Con mộng sứ đó vẫn còn non nớt lắm, nên chắc là thích bày trò chọc phá cậu thôi, không tránh khỏi được đâu."@
+` Arcueid lẩm nhẩm tự đưa ra giả thuyết suy luận của mình.@
+`"……?@ Tự ý nhào nặn cốt truyện giấc mơ theo sở thích sao?@ Ý em là thế nào cơ?"@
+`"Thì ý tôi là nó sẽ tự diễn giải ham muốn của cậu theo thế giới quan riêng của nó đấy.@ Con mộng sứ tôi gửi cho cậu thực chất chỉ như một đứa trẻ con tinh nghịch thôi, nên chắc chắn là nó đã bày trò trêu chọc cậu trong giấc mơ rồi."@
+`"[line=4]Hóa ra là thế."@
+` …… Ôi thở phào nhẹ nhõm cả người.@
+` Phải rồi, cái giấc mộng hoang đường đó[line=3]tuyệt đối không thể nào là thứ mà sâu thẳm lòng tôi khao khát ham muốn được.
+\
+` Tôi khẽ thở phào nhẹ nhõm một tiếng.@
+` Nhờ thế mà sự trong trắng vô tội của tôi đã được chứng minh rõ ràng, thế nhưng[line=3]
+`"Arcueid này.@ Tại sao tự dưng em lại đi gửi cho anh cái thứ kỳ quặc đó chứ?@ Trò đùa này có phần hơi quá đà rồi đấy nhé."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Hừm.@ Tôi thèm vào mà trêu chọc chọc phá cậu nhé.@
+` Tôi gửi mộng sứ cho cậu thực chất là để trả ơn cậu vì đã dũng cảm chiến đấu tiêu diệt Nrvnqsr giúp tôi cơ mà.@ Tôi thực lòng vô cùng biết ơn cậu, nên mới nghĩ nếu gửi thứ đó đến sẽ khiến cậu thấy hạnh phúc vui vẻ chứ bộ."
+\
+`"Trả ơn anh á?[line=3]Ờ thì, em có lòng biết ơn thì anh rất vui thật, nhưng mà……"@
+` Nhưng cái kiểu trả ơn ngượng chín cả mặt thế này thì cho tôi xin kiếu gấp.@
+ld c,"tachi/ark_t04",crossfade,400
+`"Kìa cậu.@ Chẳng lẽ cậu định nhẫn tâm từ chối tấm lòng hảo tâm của người khác thế sao?"@
+`"…… Này nhé, em có phải con người bình thường đâu, em là ma ca rồng cơ mà, Arcueid."@
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Chuyện đó…… đúng là vậy thật, nhưng mà……"@
+` Arcueid nghe thế bỗng ỉu xìu, khẽ xuôi hai bờ vai xuống đầy thất vọng.@
+` …… Biết nói sao nhỉ…… Arcueid thực sự là một người vô cùng thật thà và bộc trực trong việc biểu lộ cảm xúc ra bên ngoài.
+\
+` Khi thì vui tươi hớn hở, lúc thì bực dọc dỗi hờn, em ấy thay đổi sắc mặt nhanh như chớp[line=3]nhưng thực sự bộ dạng đó trông vô cùng đáng yêu.@
+br
+` …… Dù miệng tôi cứ liên tục nhắc nhở bản thân em ấy là ma ca rồng, nhưng……
+` em ấy thực sự quá đỗi giống một con người bình thường; đến mức nhiều lúc tôi hoàn toàn quên mất đi sự thật đáng sợ đó.
+\
+playstop

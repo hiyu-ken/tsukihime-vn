@@ -1,0 +1,94 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_56",notrans,0
+` Suốt quãng đường đi chơi tôi mải bận tâm chiều theo ý muốn của cô ấy mà quên mất, nhưng thực tế có một câu hỏi vô cùng hệ trọng tôi muốn gặng hỏi cô ấy.
+\
+`"Thế thì tôi sẽ hỏi đây. Arcueid này, đêm hôm kia tôi đã bị tấn công bất ngờ bởi một kẻ lạ mặt ngay bên ngoài biệt thự."@
+`"Hử? Một kẻ lạ mặt sao? Hắn ta trông như thế nào?"@
+`"À thì, chuyện là thế này...[line=4]"@
+` Tôi trấn tĩnh lại rồi cố gắng thuật lại một cách rõ ràng nhất có thể toàn bộ diễn biến trận chiến đêm hôm kia.
+\
+bg #000000,lshutter,800
+bg "bg/bg_56",lshutter,800
+play "*9"
+`"... Diễn biến sự việc quả thực đúng là như vậy đấy[line=6]"@
+` Sau khi kết thúc lời giải thích, tôi chăm chú quan sát biểu cảm trên gương mặt của Arcueid.@
+ld c,"tachi/ark_t07",crossfade,400
+` Từ lúc tôi bắt đầu kể cho đến tận bây giờ, ánh mắt cô ấy vẫn sắc lẹm và nghiêm túc, không hề có chút thả lỏng nào.
+\
+`"Thế nào, Arcueid? Gã quấn băng gạc đó, và người mặc áo choàng tu sĩ kia, họ có phải là kẻ thù của cậu không?"@
+`"…… Phải. Cả hai đều là 'kẻ thù'. Tôi chưa rõ danh tính thực sự của gã quấn băng kia là ai, nhưng người phụ nữ mặc áo choàng Công giáo đó thì tôi có manh mối rồi."@
+` Cô ấy cắn môi tỏ vẻ bực dọc đầy nghiêm nghị.@
+` Không hẳn là bực dọc, mà trông cô ấy giống như đang bị kích động dữ dội thì đúng hơn.
+\
+`"Tôi biết người đã cứu cậu là ai rồi, Shiki. ... Hừm, đúng là đáng ghét thật mà. Nếu đúng là cô ta, có khi cô ta sẽ săn lùng được kẻ thù trước tôi mất."@
+` Cô ấy cắn chặt môi đầy ấm ức dồn nén.
+\
+`"Khoan đã. Tôi đã nói người cứu tôi là phụ nữ đâu nhỉ?"@
+`"Không sai vào đâu được. Ả ta là đặc vụ duy nhất được ủy quyền săn lùng những kẻ dị giáo đơn độc của Giáo Hội, kẻ chuyên sử dụng Hắc Phím kết hợp với nghi lễ rửa tội và hiệu ứng vỏ thép đặc trưng."
+\
+` Sự kích động của cô ấy lộ rõ vẻ thù địch.@
+` Ngay cả khi đối mặt với Nrvnqsr, giọng điệu của cô ấy chưa bao giờ bị cảm xúc chi phối mạnh mẽ đến mức này.
+\
+`"... Arcueid này.@ Người đã cứu tôi... cô ta có phải là ma cà rồng không?"@
+`"Không, tuyệt đối không phải như vậy đâu[line=4]Mà đúng rồi, có một chuyện cực kỳ quan trọng khác mà trước giờ tôi chưa từng kể cho cậu nghe nhỉ."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Trước đây tôi từng giải thích sơ qua rồi đúng không, lũ ma cà rồng đang dựng ổ săn mồi trong thành phố này chuyên biến con người thành nô lệ để mở rộng lãnh địa của chúng. Đồng thời, chúng cũng luôn cố gắng che giấu tung tích và sự tồn tại của mình đến mức tối đa."@
+` Dù có vô số nạn nhân mất mạng, chúng vẫn dùng đủ loại ma thuật và ám thị để biến mọi vụ án mạng trông giống như tai nạn thông thường.@
+` Cậu có biết tại sao chúng phải làm thế không?
+\
+`"…… Là bởi vì con người không hề ngu ngốc. Nếu họ phát hiện ra có những sinh vật ăn thịt người đáng sợ đang lẩn khuất ngay trong khu vực sinh sống của mình, họ sẽ lập tức hợp lực tấn công tiêu diệt chúng. Dẫu một cá nhân con người có yếu ớt, nhưng họ lại sở hữu các tổ chức vũ trang mạnh mẽ như cảnh sát hay quân đội, nên chắc chắn họ sẽ làm gì đó."@
+`"[line=3] Nhưng thực tế thì, cảnh sát chỉ là lực lượng thực thi pháp luật đối phó với con người thôi. Ma cà rồng chúng tôi chưa bao giờ coi họ ra gì cả."@
+` "Tuy nhiên, việc lập luận rằng ma cà rồng phải che giấu hành tung vì mục đích tự bảo vệ bản thân vẫn hoàn toàn chính xác."
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Shiki này, thực chất ma cà rồng sở hữu một thiên địch tự nhiên vô cùng đáng sợ. Đó là một tổ chức gồm những sát thủ diệt quỷ chuyên nghiệp sở hữu sức mạnh ma thuật cực kỳ khủng khiếp.@
+` ... Đối với các chủng tộc dị giáo siêu nhiên khác nói chung, và đặc biệt là ma cà rồng nói riêng, việc bị bại lộ tung tích trước tổ chức này đồng nghĩa với cái chết cận kề."@
+` "Dẫu một ma cà rồng có trốn chạy đến một ngôi làng hẻo lánh xa xôi hẻo lánh cách biệt hoàn toàn với thế giới văn minh để lập nên vương quốc bóng tối của riêng mình, những thiên địch tự nhiên này chắc chắn sẽ đánh hơi ra ngay nếu số lượng nạn nhân mất tích tiếp tục gia tăng."
+\
+` "Lũ ma cà rồng bắt buộc phải lén lút săn mồi trong bóng tối để che giấu hành tung, hoàn toàn là vì mục đích tự bảo vệ bản thân trước thế lực này mà thôi."@
+` "Chúng phải phi tang xác của những nạn nhân xấu số, tuyệt đối không phải vì sợ bị xã hội loài người phát hiện, mà là vì sợ bị những thiên địch tự nhiên đáng sợ này đánh hơi ra tung tích."@
+`"…… Hử?@ Thiên địch tự nhiên của ma cà rồng sao?@ Lại thêm một thế lực quái dị nào đó mà tôi chưa từng nghe tên à."@
+br
+` Đối với một người bình thường chỉ muốn sống yên ổn như tôi, tôi thực lòng chỉ muốn đống chuyện quái dị bất thường này mau chóng kết thúc đi cho rảnh nợ mà thôi.
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Cậu đang nói cái gì thế hả?@ Thiên địch tự nhiên của ma cà rồng chúng tôi không nghi ngờ gì nữa chính là chủng tộc con người các cậu đấy chứ."@
+`"[line=5] Thiên địch tự nhiên... là con người chúng tôi sao?"@
+`"Đúng vậy.@ Từ thuở sơ khai xa xưa, loài người đã biết sử dụng vô số loại ma thuật, nghi lễ thánh và thuật huyền bí để lập nên một tổ chức tôn giáo khổng lồ chuyên đi săn lùng tiêu diệt tất cả các loài linh trưởng phi nhân loại khác."@
+` Lớn nhất và hùng mạnh nhất trong số đó chính là Giáo Hội Công giáo Vatican[line=3]nơi sở hữu lực lượng Hành Pháp Giả diệt quỷ tinh nhuệ nhất.@ Giáo Hội luôn xem tất cả những sinh vật phi nhân loại là 'dị giáo' cần phải thanh trừng thanh lọc, trong đó ma cà rồng bị coi là dị giáo nguy hiểm và tà ác nhất.
+\
+ld c,"tachi/ark_t07",crossfade,400
+` "Trên đời có vô số tôn giáo khác nhau, nhưng duy chỉ có Giáo Hội Công giáo phương Tây là nhìn nhận ma cà rồng với một thái độ thù địch và cực đoan hơn hẳn."@
+` "Thậm chí thái độ đó đã biến thành một sự ám ảnh cuồng tín đáng sợ. Bọn họ cực kỳ điên cuồng và tàn bạo, đến mức tôi cũng chẳng bao giờ muốn đụng độ với bọn họ làm gì cho phiền phức."@
+` Arcueid khẽ thở dài ngao ngán.
+\
+`"Và người phụ nữ đã ra tay cứu mạng cậu đêm đó, chính là thành viên thuộc một tổ chức đặc nhiệm chuyên trách thanh trừng dị giáo của Giáo Hội."@
+`"Tổ chức đó có tên là Táng Nghi Xã (Burial Agency), thế lực ngầm tối cao đứng sau Giáo Hội. Bọn họ tự ý sử dụng sức mạnh bạo lực tàn bạo của mình để thanh trừng bất cứ kẻ nào dám đi ngược lại giáo lý Công giáo. Những tu sĩ bí ẩn này giống như những cỗ máy giết người chuyên nghiệp tinh nhuệ hơn là những người tu hành sùng đạo bình thường."@
+`"..."@
+` "Các tu sĩ đi khắp nơi săn lùng tiêu diệt ma cà rồng sao? Nghe hoành tráng thật đấy, tôi cũng chẳng biết phải bình luận thế nào nữa."@
+` "Đúng là một chuyện kỳ lạ khó tin mà."
+\
+`"Vậy mục tiêu của họ cũng giống chúng ta đúng không? Nếu Táng Nghi Xã cũng chuyên đi săn lùng ma cà rồng, sao hai bên không hợp tác cùng nhau tìm kiếm cho nhanh?"@
+`"[line=4]Không đời nào có chuyện đó đâu. Đối với bọn họ, điều duy nhất quan trọng chỉ là việc xác định xem đối phương có phải là ma cà rồng hay không mà thôi."@
+` Đối với bọn họ, tất cả những loài linh trưởng phi nhân loại đều là 'Ác quỷ' tà ác cần thanh trừng. Bọn họ tuyệt đối không quan tâm cậu có hút máu người hay sống thiện lành thế nào đâu.@
+` "Thậm chí có nguy cơ ả Hành Pháp Giả đó đến thành phố này là để phong ấn tiêu diệt tôi trước, chứ không thèm bận tâm đến việc săn lùng tên Tử Đồ đang lẩn trốn ở đây đâu."
+\
+`"... ..."@
+` Mọi chuyện bỗng chốc trở nên cực kỳ phức tạp rồi đây.@
+` Kẻ thù của Arcueid đang bị truy lùng gắt gao bởi cả một ma cà rồng Chân Tổ lẫn một thế lực săn quỷ tàn bạo của Giáo Hội.@
+`"..." ... "Hắn ta chỉ có một mình thôi sao?"@
+`"Đúng vậy, đó chính là số phận cô độc của một ma cà rồng."@
+` Nrvnqsr trước đây từng nói thế đúng không nhỉ? Dẫu ma cà rồng thuộc cùng một chủng tộc, nhưng tính cách và lý tưởng của họ quá khác biệt đến mức cuối cùng, tất cả đều phải chịu đựng sự cô độc tuyệt đối.@
+cl c,crossfade,400
+` Arcueid thản nhiên cắn thêm một miếng hamburger ngon lành.
+\
+` Cô ấy thản nhiên chấp nhận sự cô độc đó một cách vô cùng bình thản.@
+`"……@
+` Lòng tôi bỗng trào dâng một cảm giác xót xa khôn tả, tôi lặng im lắng nghe với vẻ mặt đượm buồn khó tả.
+\
+bg #000000,lcartain,800
+playstop
+!w2000

@@ -1,0 +1,246 @@
+bg "bg/bg_01b",lcartain,800
+` Tôi không có việc gì phải làm nên vội vàng rời khỏi trường.@
+` …… Nghĩ lại thì kể từ lễ khai giảng, tôi chưa bao giờ ra cổng chính trường.@
+` "Từ nay chắc đây sẽ là con đường đi học về nhà của tôi vì tôi sống trong biệt thự…"
+\
+bg #000000,lcartain,800
+bg "bg/bg_24b",lcartain,800
+` Đi qua cổng chính, tôi đến ngã tư dẫn vào khu dân cư.@
+` [line=3]Đây là nơi hai con đường dẫn đến thành phố và khu dân cư, nơi có biệt thự, chia ra.
+br
+play "*3"
+ld c,"tachi/stk_t01",lshutter,800
+` "Ôi, là Tohno-kun."@
+` Bỗng nhiên tôi va phải Yumizuka.@
+` "Ah… Xin chào, Yumizuka-san."@
+` …… Có lẽ vì bị Ciel-senpai trêu chọc nên tôi hơi xấu hổ.@
+` Yumizuka nhìn tôi với vẻ ngạc nhiên.
+\
+` "Uh… Yumizuka-san? Có phải trên mặt tôi có gì không?@
+` "Ừm, tôi đang tự hỏi cậu đang làm gì ở đây, Tohno-kun. Chẳng phải nhà cậu ở hướng khác sao?@
+` "Ah… À, nó là như vậy cho đến hôm qua, nhưng từ hôm nay tôi sẽ sống ở nơi khác. Từ nay về sau, tôi sẽ sống ở ngôi nhà trên đỉnh đồi cuối cùng khu dân cư đó."@
+ld c,"tachi/stk_t07",crossfade,400
+` "À, vậy là cậu đang nói chuyện vào sáng nay.@
+` Yumizuka gõ nắm tay lại với nhau để thể hiện sự hiểu biết.@
+` …… Mặc dù có lời khen ngợi nhưng cử chỉ đó thật đáng yêu.
+\
+` "…… Đúng vậy. Tôi nghĩ không cần giấu gì nữa, vì cậu đã biết rồi. Tôi đang rời khỏi những người bảo vệ của mình, Arimas, và trở về nhà thật của mình hôm nay."@
+ld c,"tachi/stk_t13",crossfade,400
+` "Nhà thật của cậu… Cậu có nghĩa là biệt thự Tohno-san?@
+` "Yeah. Tôi nghĩ nó cũng không phù hợp với tôi lắm đâu.@
+ld c,"tachi/stk_t01",crossfade,400
+` "Tôi hiểu rồi. Vậy cậu thực sự là một hoàng tử trên đỉnh đồi như mọi người vẫn nói."@
+` Đó là một bí mật chỉ Inui-kun và tôi biết, nhưng giờ đây tôi đoán mọi người sẽ đều tìm ra.@
+` Với nụ cười nhạt, Yumizuka nhìn xa xăm.@
+` Cô ấy nhìn ra xa, như thể đang nhìn về biệt thự Tohno ở xa trên đỉnh đồi.
+\
+` "Nhưng cậu có ổn không? Ngay cả khi đó là nhà của cậu, cậu đã vắng mặt tám năm rồi, phải không? Cậu không sợ hay lo lắng gì đâu?@
+` "Ừ. Trên thực tế tôi hơi bất an. Tôi chưa bao giờ thích ngôi biệt thự này, và bây giờ nó sẽ giống như nhà của người khác. Nhưng vẫn[line=3] "@
+br
+` …… Tôi không thể sống một cuộc sống vô tư mà bỏ lại em gái Akiha ở đó một mình.@
+` Dù tôi có bất an đến mấy, tôi vẫn phải trở về biệt thự.
+\
+` [line=3]Cuối cùng, nó vẫn là nhà của tôi. Tôi nghĩ điều đó rất tự nhiên khi tôi quay lại.@
+` "…… Tôi hiểu. À, xin lỗi vì đã làm phiền cậu, Tohno-kun. Cậu chắc chắn đang bận đúng không?@
+` "Không, không lắm. Tôi chỉ đang dạo chơi trên đường về.@
+` "À… tôi hiểu.@
+cl a,crossfade,400
+` Lý do nào đó, Yumizuka nhìn xuống và im lặng.
+\
+` "…… Sao vậy, Yumizuka-san? Cậu có bị bệnh không?@
+` Tôi phá vỡ sự im lặng,
+` nhưng cô ấy vẫn tiếp tục nhìn xuống mà không ngẩng đầu.@
+` "……"@
+` Tôi không thể để cô ấy ở đó, vì vậy tôi tiếp tục đứng đó và nhìn cô ấy.@
+br
+` [line=3]Và sau đó.
+\
+ld c,"tachi/stk_t07",crossfade,400
+` "U… um!"@
+` "Ừ, chuyện gì vậy?@
+` Ừ… à… Tôi về nhà theo đường cũ như cậu, cho đến khi tới gò đồi…@
+` Thật sao? Thế thì chúng ta đi cùng nhau một đoạn.@
+` …… À?@
+` Mắt Yumizuka mở to và cô đứng im lặng một lúc.@
+` D… đúng rồi! Cậu nói đúng. Chúng ta đi về đường cũ mà, nên không có gì lạ khi đi cùng nhau một đoạn chứ!?@
+ld c,"tachi/stk_t03",crossfade,400
+` Cô nói như vậy với giọng điệu quá vui vẻ và đứng ngay bên cạnh tôi.
+\
+` Vừa đúng lúc. Tôi không quen lắm đường phố quanh đây, nên cậu có thể dẫn đường cho tôi được không?@
+ld c,"tachi/stk_t07",crossfade,400
+` Được.@ Vậy thì chúng ta đi xuống con phố này.@ Đây là một con hẻm nhỏ dẫn thẳng đến con phố trên gò đồi.
+\
+cl a,crossfade,400
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+` [line=3]Tôi về nhà trong khi trò chuyện với Yumizuka.@
+br
+` Trò chuyện với Yumizuka không có gì đặc biệt, nhưng nó thật thư thái và dễ chịu.@
+` …… Mặc dù Arihiko đã nói vậy, nhưng Yumizuka Satsuki có vẻ ngoài dịu dàng, tôi cảm thấy an tâm khi ở bên cạnh cô ấy.
+\
+ld c,"tachi/stk_t03",crossfade,400
+` [line=3]Huhu.@
+` Trong lúc trò chuyện, Yumizuka đột nhiên cười như thể nhớ ra điều gì đó.@
+` Cậu có chuyện gì sao? Tôi có nói điều gì buồn cười không?@
+` Không phải đâu. Chỉ là từ ngày mai, tôi sẽ đi học cùng đường với cậu.@
+` Cô cười, trông thật hạnh phúc.@
+` Khuôn mặt chân thành và tươi cười ấy đủ để làm tôi vui khi nhìn cô ấy.
+\
+cl a,crossfade,400
+` …… Tôi không nhận ra điều này cho đến bây giờ.@
+` Ngay cả ngoại hình và cách cư xử của cô ấy, Yumizuka Satsuki cũng khá dễ thương.@
+` Tôi dần hiểu tại sao những cậu trai trong lớp chúng tôi lại say mê cô ấy đến vậy.
+\
+` Chúng tôi ngừng trò chuyện.`@
+` Tôi đơn giản bị nụ cười của Yumizuka cuốn hút, rồi cả hai chúng ta đều im lặng.@
+` Mình lặng lẽ đi về phía khu dân cư khi mặt trời lặn.@
+` [line=3]Đột ngột
+\
+playstop
+bg "event/stk_e03",crossfade,800
+br
+` "Chợt nhớ cái chuyện hồi kỳ nghỉ đông năm lớp 7."@
+br
+` Yumizuka thì thầm.`@
+` ……"?`@
+` Tôi nghiêng đầu sang một bên.`@
+` Mùa đông năm thứ hai cấp trung học là lúc tôi xin ở lại trường học thêm vì cảm thấy không được ở nhà Arima.@
+` Tôi nhớ rõ nó, nhưng vẫn chưa hiểu tại sao cô ấy lại hỏi tôi về chuyện đó.`
+\
+` “Đúng như tôi nghĩ. Một người như Tohno-kun chắc chắn sẽ chẳng bao giờ nhớ đến.”`@
+` Vai vai Yumizuka rơi xuống, vẻ thất vọng hiện rõ.`
+\
+` Có hai cái sân tập thể thao ở trường trung học của chúng ta, nhớ không? Một cái mới dùng cho các câu lạc bộ lớn, còn cái kia cũ dùng cho các câu lạc bộ nhỏ hơn như cầu lông.`@
+` Cái chuồng cũ có một vấn đề là cánh cửa không được đóng mở đúng, nên thường xuyên nó bị kẹt.
+\
+` Cái chuồng cũ… Cái nhà bê tông nhỏ ở sau sân tập thể dục…?
+\
+` “À, cái chuồng cũ ấy. Chốn mà bọn học sinh bị kẹt bên trong nên thôi dùng rồi.”`@
+` "Ừm, đúng rồi đấy.` Học sinh là học sinh năm hai của câu lạc bộ cầu lông."@
+` [line=4]"A!"@
+br
+` Ừ, có chuyện như thế thật.`
+\
+playstop
+play "*7"
+bg #000000,tshutter,800
+monocro #0000ff
+bg "bg/ima_06",bshutter,800
+` Mới đầu năm, một ngày đông giá rét.@
+` Ba ngày đầu năm đã qua, tôi xin gia sư thêm và đề nghị ở lại trường giúp đỡ vì cảm thấy có lỗi khi về nhà Arima.@
+` Nhưng ngay cả điều đó cũng chỉ đến năm giờ chiều thôi.`@
+` Bầu trời đã tối, tôi bị đẩy ra khỏi lớp học vì tất cả giáo viên đều về nhà rồi.`
+\
+` Giữa mùa đông.`@
+` Ngay cả khi chỉ là năm phút, xung quanh thật sự đã tối hơn.`@
+` Tin dự báo hôm đó nói sẽ có tuyết rơi, và cái lạnh thật sự khắc nghiệt.`@
+` Vậy là, khi tôi định về nhà ngay lúc đó, bỗng nghe tiếng động từ cái chuồng cũ nên tôi đi xem thử.`
+\
+` [line=3]Có ai ở trong đấy không?@
+br
+` Tôi hỏi, và nghe thấy giọng nói của vài nữ sinh từ bên trong cái chuồng.`@
+` Chúng tôi đã bị kẹt trong đó hai tiếng rồi. Khi thu dọn dụng cụ câu lạc bộ, chúng tôi đóng cửa vì lạnh, và giờ nó không mở được nữa.@
+` Họ không thể mở cửa dù cố gắng thế nào, rồi muốn tôi gọi một giáo viên đến giúp đỡ.`
+\
+` …… Nhưng thầy cô đã về hết rồi. Mà ngay cả gọi điện bây giờ cũng phải mất ít nhất một tiếng nữa.`@
+` Ngày hôm đó lạnh thật kinh khủng.`@
+` Trong cái lạnh lẽo như phải có tuyết rơi, tôi nghĩ là thật tàn nhẫn nếu để những cô gái đó bị kẹt trong chuồng đựng nông cụ mặc duy nhất bộ đồng phục thể dục thêm một tiếng nữa.`
+\
+` Sau một hồi do dự và xác nhận rằng không ai khác xung quanh, tôi cởi kính ra và cắt đứt cái "dấu phân cách" trên cánh cửa chuồng.@
+` [line=3]Cửa mở ra, khoảng năm nữ sinh, mắt đỏ hoe vì khóc, tràn ra.
+\
+bg #000000,crossfade,800
+monocro off
+bg "bg/bg_23b",crossfade,400
+` “...... Ngẫm lại thì có vẻ như vậy đấy.`@
+` Nhưng tôi ngạc nhiên cậu biết chuyện này. Thủ đội cầu lông bị kẹt đã nói với tôi, 'Điều này liên quan đến sự tồn tại của câu lạc bộ, đừng kể cho ai khác'. Nói như thể cô ấy đang đe dọa tôi."@
+` “Ôi, Shiki-kun! Cậu chẳng tò mò chút nào về ai đang bị kẹt bên trong ư?”`@
+br
+` Nghe này. Tôi là một trong những thành viên câu lạc bộ cầu lông ấy.`@
+` Yumizuka nghe như đang bực mình.`@
+` Ừ… Nói cách khác là…
+\
+bg "event/stk_e03",crossfade,800
+` "[line=3]Tôi vẫn nhớ rõ như in. Khi nghĩ lại bây giờ, chỉ là bị nhốt trong cái chuồng cũ thôi mà lúc đó thật lạnh lẽo và tối tăm, tôi rất lo sợ.`@
+` Mọi người đều nghĩ chúng ta sắp chết vì lạnh như thế này.`@
+` Cái bụng tôi ré lên vì đói quá. Tôi sắp ngã ra bất tỉnh luôn."@
+` Ừm… Chắc hẳn nó rất khó khăn.`@
+` Tôi không thực sự đồng cảm với cô ấy lắm, nên tôi chỉ đáp lại một cách miễn cưỡng.`@
+` Vô tâm, Yumizuka tiếp tục hồi tưởng, trỗi dậy những sự kiện cũ.
+\
+` "Và khi mọi người đều run sợ thì cậu xuất hiện và hỏi: 'Có ai ở trong đó không?' bằng giọng vô cảm như thường... Sau đó thuyền trưởng nổi giận và hét lên: 'Không nhìn thấy sao mà biết được!?'... Cậu nhớ không?"@
+` Vâng, tôi nhớ. Bóng tối ập đến khi cô ném gậy vào cửa. Tôi thật sự ngạc nhiên.`@
+` "Đúng thế!" Yumizuka cười nói.`
+\
+` Nhưng khi nghe thấy tất cả giáo viên đều về nhà rồi, chúng ta thật sự tuyệt vọng.`@
+` Chúng ta không thể ở đó thêm một phút nữa, nhưng dường như chúng ta sẽ bị giam cầm cho đến ngày mai.@
+` Chưa đầy phút, chúng ta đang than thở về sự cay đắng của thế giới thì cậu gõ cửa và nói: "Tôi có thể mở cánh cửa này ra nếu các ngươi giữ bí mật."@
+` "Ừ.@ Rồi tôi nghe một tiếng nổ khác, và ai đó nói: 'Nếu nó mở dễ như vậy thì chúng ta sẽ không phải chịu khổ ở đây đâu!'.@ Cô ấy thật sự tức giận."`
+\
+` "Ahahaha. Ừ, thuyền trưởng cảm thấy mình có trách nhiệm với việc chúng ta bị mắc kẹt nên không còn nhiều kiên nhẫn lắm. Nhưng ngay sau đó, cánh cửa mở ra. "@
+` Mọi người đều vui mừng vì cú đánh của thuyền trưởng chắc chắn đã có tác dụng và chạy ra ngoài, nhưng tôi thì nhìn cậu đứng vẩn vơ bên cửa.`
+\
+` Yumizuka nhìn tôi nhẹ nhàng.@
+` …Nhưng điều đó chỉ làm tôi phiền thôi.`@
+` Đối với tôi, nó chẳng có ý nghĩa gì cả, nên tôi không thể thực sự trân trọng lòng biết ơn của cô ấy.`
+\
+` Lúc đó tôi khóc rất toạt. Mắt tôi cứ như sắp phồng lên, nhìn thật kinh khủng. Theo cậu nghĩ lúc thấy tôi thế, tôi đã nói gì?@
+` Tôi không nhớ. Tôi đã nói gì?@
+` …… Tôi thực sự không nhớ, nên tôi hỏi như thể đó là chuyện của người khác.@
+` Mặc dù vậy, Yumizuka vẫn nhìn tôi với vẻ vui vẻ.
+\
+` 'Cậu đặt tay lên đầu tôi và nói: 'Mau về nhà đi, rồi ăn Ozouni'. Tôi hơi xấu hổ vì run rẩy quá nhiều do lạnh.@
+` ……@
+` 'Ừm.' Tôi cau mày.@
+` Tôi không biết tôi có ý gì lúc đó.
+\
+` 'Tôi nghĩ cậu muốn tôi sưởi ấm cơ thể bằng Ozouni.'@
+` …… Tôi hiểu. Sau tất cả, đúng là ngay sau Tết Nguyên Đán.@
+` …… Vậy thì nghe có vẻ như kiểu chuyện ngu ngốc mà tôi từng nói.@
+` Bây giờ khi được đặt ra như vậy, tôi hối tiếc vì không chọn câu trả lời tốt hơn.
+\
+` 'Lúc đó tôi nghĩ, trường có rất nhiều người đáng tin cậy, nhưng nếu tôi thật sự cần được cứu, thì chắc chắn là Tohno-kun sẽ cứu tôi.'@
+` 'Cậu đang cường điệu. Xem này, giống như khi một chú chim con nghĩ người đầu tiên nó gặp là mẹ của nó. Tôi chỉ tình cờ giúp cậu thôi.'@
+` 'Không phải đâu…! Từ đó trở đi, tôi thật sự tin rằng cậu sẽ đến giúp tôi bất kể vấn đề gì.'@
+` Mặt bà ấy rất quả quyết.
+\
+bg "bg/bg_22b",tshutter,800
+` 'Cậu đang cho tôi quá nhiều điểm tín nhiệm, Yumizuka-san. Tôi không phải là người đáng tin cậy lắm đâu.'@
+ld c,"tachi/stk_t07",crossfade,400
+` 'Không sao đâu. Đó là điều tôi tin, nên để tôi cứ tin như vậy.'@
+` Cô ấy nói điều này trong khi nhìn thẳng vào tôi, và tôi quá xấu hổ để có thể phản bác.
+\
+` [line=2]Chà, tôi đoán cậu có thể tin vào bất cứ điều gì cậu muốn.'@
+ld c,"tachi/stk_t03",crossfade,400
+` Chẳng phải sao? Nếu tôi gặp chuyện khó khăn, cậu sẽ giúp tôi, đúng không?@
+` Yumizuka hỏi tôi, cười.
+\
+` …… Thành thật mà nói, điều đó hơi phiền phức.@
+` Dù cô nghĩ như thế nào đi nữa, tôi cũng không phải là người có thể làm mọi việc.@
+` Tôi không… nhưng khi cô đối mặt với tôi bằng nụ cười đó, tôi không muốn phá vỡ niềm tin mà cô ấy dành cho tôi.
+\
+` Ừ. Nếu có trong khả năng của tôi, tôi sẽ giúp cậu.@
+` Vâng! Cảm ơn Tohno-kun. Tôi biết là hơi muộn để nói điều này, nhưng tôi rất vui vì những gì cậu đã nói với tôi trước đây.@
+cl a,crossfade,400
+` Nói xong, Yumizuka đột ngột dừng lại.@
+` Tự nhiên, tôi cũng dừng lại.
+\
+!w500
+ld c,"tachi/stk_t13",crossfade,400
+` Tôi luôn muốn nói chuyện với cậu như thế này, Tohno-kun.@
+br
+` Somewhere in her voice was a hint of wistfulness.@
+` Có lẽ vì ánh sáng đỏ của hoàng hôn, mà somehow, Yumizuka trông cô đơn.@
+br
+` …… Cậu có nghĩa là gì? Cậu có thể nói chuyện với tôi bất cứ lúc nào.@
+` Không, tôi không được. Inui-kun luôn ở bên cậu, và ngoài ra… Tôi không thể trở thành người như cậu, Tohno-kun.@
+` Với câu trả lời dè dặt đó, Yumizuka rút xa khỏi tôi.
+\
+ld c,"tachi/stk_t03",lshutter,400
+` Chà, nhà tôi ở hướng này, nên ngày mai chúng ta sẽ gặp nhau ở trường.@
+` Tạm biệt!@ Cười tươi, Yumizuka vẫy tay và bắt đầu đi trên một con đường khác.
+\
+cl a,lshutter,800
+!w500
+bg #000000,lcartain,800
+playstop

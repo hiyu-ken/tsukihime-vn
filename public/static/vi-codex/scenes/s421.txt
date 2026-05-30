@@ -1,0 +1,195 @@
+playstop
+wavestop
+bg "bg/bg_33d",notrans,0
+` [line=4]Tôi chịu chết tịnh không còn cách nào khác ngoài việc cất bước quay trở về phòng của mình.@`
+br
+` Lời nói tịch mịch của Hisui cứ liên tục vang vọng nhức nhối bên trong đầu tôi.@`
+` Thân thể nặng trĩu như chì của tôi dẫu dẫu đã suy kiệt hơn nữa, hệt như bị đè nặng bởi những sợi xiềng xích vô hình kia.@`
+play "*6"
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_33d",crossfade,400
+`"…………………………"@
+` Tôi cất lực cố gắng nhấc chân lên cầu thang, dẫu vậy toàn bộ cơ thể dẫu đã đổ sụp ngừng lại.@`
+` …… Chân tôi không thể đi xa hơn được. Có vẻ như tôi chỉ có thể đi bộ.@
+`"……… Điều này là gì?"@
+` …… Tốt thôi. Tôi nên quay lại bếp hỏi Hisui cho mượn vai cô ấy. [line=4]
+\
+bg #000000,crossfade,400
+bg "bg/bg_33d",crossfade,400
+Lắc đầu 2,300 lần.
+`"[line=6]Hừm?"@
+` Tôi bắt đầu quay lại và gục xuống thảm.@
+`"[line=5]H, chào."@
+` Tôi không thể hét lên được.@
+` Tôi kiệt sức khi bò bằng tay.
+\
+bg "bg/ima_10b",crossfade,800
+!w2000
+` Tiếng bước chân vang lên.@
+` Hisui xuất hiện từ căn bếp.@
+` [line=3]... Tôi được cứu rồi. Bây giờ, Hisui có thể giúp tôi.
+` Tiếng bước chân tiếp tục vang lên, nhịp nhàng và mạnh mẽ.@
+`"... Không thể nào."@
+` Việc trườn xuống cầu thang đã thất bại.@
+` Tôi ẩn mình trong bóng tối, còn Hisui lại bước lên cầu thang mà không hề hay biết về sự hiện diện của tôi.
+\
+`"... Mình thật ngốc nghếch quá."@
+wave se_01
+` Khi tôi thốt ra những suy nghĩ của mình, một điều gì đó thu hút sự chú ý của tôi.@
+` Tôi cảm nhận được một cảm giác như có thứ gì đó gần gũi với tôi.@
+br
+`"[line=11]!"@
+` Tôi quay lại phía sau khi nằm trên mặt đất.@
+br
+` Ở đó,
+` một hình bóng ma quái.
+\
+waveloop se_02
+`"[line=10]"@
+` Tôi nhận ra tình cảnh của mình một cách rõ ràng.@
+` Tôi không thể di chuyển.@
+` Tôi thậm chí còn không thể kêu lên được.@
+` Ngôi nhà tối tăm này.@
+` ... Người đó nhìn tôi như thể đang ngắm nhìn con mồi của họ vậy.@
+` Trong hoàn cảnh này, chẳng ngạc nhiên nếu tôi chết ở đây.@
+` Tình huống này giống như một bộ phim kinh dị tồi tệ đến mức tôi gần như bắt đầu cười thay vì sợ hãi.
+\
+bg #9c0120,crossfade,400
+bg "bg/ima_10b",crossfade,400
+`"... ... Ha, haha."@
+` Một "ai đó" tiến lại gần tôi.@
+` Có phải là nỗi sợ bị giết? Sự chóng mặt của tôi ngày càng tăng.@
+bg #9c0120,crossfade,400
+bg "bg/ima_10b",crossfade,400
+`"[line=9]@
+` Sự hiện diện ngừng lại.@
+` [line=4]Nó nhìn xuống tôi và lưng không có phòng thủ của tôi.
+playstop
+br
+`"Shiki-san, nếu bạn ngủ ở đó, bạn sẽ bị cảm đấy, biết không."@
+br
+` [line=3]và ném vào tôi những lời nói đầy nhiệt tình như vậy.
+\
+wavestop
+bg "bg/bg_33d",tshutter,800
+play "*3"
+`"... ... Kohaku, san?"@
+`"Vâng, chính là tôi. Bạn muốn gì?"@
+` ... Tôi buông lỏng căng thẳng của mình.@
+`"Shiki-san? Thật sao? Cô đang làm gì vậy, nằm đó?"@
+` Giọng cô ấy thực sự rất vui vẻ.@
+` Với điều đó, tôi thư giãn và [line=3]
+bg #000000,crossfade,800
+` hoàn toàn bị choáng váng bởi cảm giác chóng mặt, ý thức của tôi tắt đi.
+\
+playstop
+!w5000
+Giai đoạn "bg/bg_36d", l, koha, 08a, 8
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,400
+play "*2"
+` Những tia nắng mạnh khiến tôi mở mắt. Tôi ở trong phòng mình.@
+` Tôi đang mặc đồ ngủ và nằm trên giường.
+\
+`"[line=9]Đúng vậy, tối qua."@
+` Tôi đã ngất ở sảnh tối qua.@
+` Hisui không hay biết tôi có mặt ở đó, và Kohaku-san nghe thấy điều gì đó nên đến.@
+`"... Điều đó có nghĩa là Akiha là người đã rời đi."@
+` ... Có lẽ vậy. Akiha luôn có ý thức trách nhiệm mạnh mẽ, nên cô ấy chắc chắn đã ra đường tìm SHIKI.@
+`"... Akiha. Tôi đã bảo cô ấy để việc này cho tôi..."
+\
+wave se_04
+`"Xin lỗi."@
+` Một tiếng gõ cửa, cánh cửa mở ra.@
+` Kohaku bước vào, tay cầm khăn và xô nước.@
+ld c,"tachi/koha_t02",lshutter,800
+`"Ôi, chào buổi sáng Shiki-san.@ Bạn cảm thấy thế nào hôm nay?"@
+` Kohaku tiến lại gần với nụ cười tự nhiên của cô ấy.@
+`"[line=7]"@
+` Tôi nhớ lại cuộc trò chuyện đêm qua với Hisui.@
+` Đẩy nó vào góc trí nhớ, tôi cố gắng tạo ra nụ cười thường lệ của mình.
+\
+`"[line=3]Chào buổi sáng, Kohaku-san.@ À, cậu đã mang tôi lên đây sau đêm qua sao?"@
+ld c,"tachi/koha_t03",crossfade,400
+`"Hả? Cậu không nhớ, Shiki-san? Tôi tìm thấy cậu ngất ở sảnh và khi tôi gọi tên cậu, cậu đã ngồi dậy."@
+` "Cậu nói là mình ngủ ngon và bắt đầu đi bộ. Tôi đã đỡ lưng cậu, nhưng cuối cùng cậu tự mình đến đây."@
+`"... Ồ. Tôi không nhớ chút nào cả. Phải tôi quá mệt mỏi đến mức quên mất những gì mình đã làm."@
+`"Vậy cậu không nhớ gì về đêm qua à?"@
+`"[line=5]... Có lẽ. Tôi nhớ mình ở trong bếp."@
+` ... Và nghe về mối liên kết giữa Hisui và Kohaku-san.
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"Ha ha. Thật đáng tiếc. Shiki-san, cậu cứ xin lỗi tôi mãi."@
+` "Tôi hỏi tại sao cậu lại cứ xin lỗi, và cậu cứ nói rằng mình là một kẻ ngốc và một đầu óc bị tắc nghẽn."@
+` "Shiki-san, cậu có phải là người ngốc không?"@
+`"Không, tôi không nghĩ vậy."@
+` "... Vậy thì, tôi thực sự bắt đầu hiểu rằng họ cho rằng não bộ của tôi được làm từ gỗ."
+\
+cl c,crossfade,400
+`"[line=3]..."@
+` "Chờ đã! Có phải mắt tôi đang lừa tôi không? Đồng hồ nói đã hơn mười giờ sáng rồi."
+\
+`"[line=3]Aha! Ko, Kohaku-san, trường học!"@
+ld c,"tachi/koha_t03",crossfade,400
+`"Đúng vậy. Ngày hôm nay là ngày lễ thành lập trường học của cậu nên cậu không có lớp học."@
+`"[line=8]"@
+` Đúng vậy. Đến khi nghĩ lại, nó cũng là như vậy.@
+` Tôi hoàn toàn quên mất điều đó vì tôi đã bị phân tâm ở trường gần đây.
+\
+`"[line=3]Này, tôi nên dậy thôi. Nếu ngủ thêm nữa, Akiha sẽ..."@
+` Tôi ngồi dậy trên giường.@
+Độ rung đất: 2,300
+`"[line=5]Hả? Tôi... thực ra thì không thể."@
+` Cơ thể tôi không thể di chuyển.@
+` Tôi cố gắng dùng tay nâng mình lên, nhưng chúng chẳng có sức mạnh nào cả.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"Tình trạng của cậu vẫn không tốt lắm. Cậu có chút sốt và trông hơi nhợt nhạt. Có thể cậu thấy chán, nhưng hôm nay hãy nghỉ ngơi trên giường đi, Shiki-san."@
+cl c,lshutter,400
+` Kohaku-san lau trán tôi bằng chiếc khăn lạnh ướt.@
+` ... Cảm giác rất dễ chịu và mát mẻ.
+\
+`"Ừm, dường như sốt của cậu đã hạ xuống. Cậu không đổ mồ hôi nhiều và mặt cậu trông tốt hơn nhiều. Cậu sẽ khỏi bệnh vào tối nay."@
+` Kohaku-san nhanh chóng lấy ra một nhiệt kế và một gối đá.@
+` ... Cuối cùng, cô ấy khiến tôi mở miệng và kiểm tra tình trạng lưỡi của tôi.
+\
+ld c,"tachi/koha_t03",lshutter,400
+`"Tốt rồi, tôi sẽ mang cho cậu cháo gạo ngay lập tức. Shiki-san, cậu nên cư xử tốt hơn hôm nay."@
+cl c,lshutter,400
+`"[line=3]À... Kohaku-san."@
+ld c,"tachi/koha_t03",lshutter,400
+`"Có?@ Chuyện gì vậy, Shiki-san?"@
+` ... Như dự đoán, cô ấy như thường lệ.@
+` Nụ cười vui vẻ quen thuộc của cô ấy không thay đổi.@
+` Tôi [line=3] không thể buộc mình tin rằng nụ cười đó chỉ là giả tạo.
+\
+`"... Không có gì.@ Tôi đang mong chờ cháo gạo."@
+ld c,"tachi/koha_t05",crossfade,400
+`"Vâng, vậy thì xin lỗi."@
+cl c,lshutter,400
+` Kohaku-san biến mất xuống hành lang, những bước chân nhẹ nhàng theo sau cô ấy.@
+` Tôi chỉ im lặng nhìn hình bóng đó.
+\
+bg #000000,tshutter,400
+playstop
+!w2500
+bg "bg/bg_40a",bshutter,400
+play "*1"
+` Giờ trưa đã đến.@
+` Sau khi mang thức ăn, Kohaku quay lại với công việc của mình.@
+` ... *thở dài*@
+` Khi ở một mình, tôi thở dài, suy nghĩ về hoàn cảnh kỳ lạ của mình.@
+` ... Việc tôi bị nhận nuôi.@
+` ... Akiha nói rằng cô ấy không quan tâm đến nó.@
+` ... Hisui và Kohaku.@
+` ... Và kẻ giết người vẫn đang lẩn trốn.
+\
+` Tôi đã hỏi Kohaku-san, nhưng dường như không có nạn nhân mới trong tin tức hôm nay.@
+` Nhưng miễn là SHIKI vẫn lẩn trốn, sẽ có thêm nhiều nạn nhân khác.@
+`"[line=3]... Nếu chỉ có thể điều khiển cơ thể này theo ý tôi, tôi"@
+` Có thể ngăn chặn SHIKI. Tôi đặt đầu xuống gối và bắt đầu nói như vậy.@
+` Có lẽ là do những giấc mơ ấy, nhưng tôi bắt đầu có những suy nghĩ bạo lực giống SHIKI.@
+`"... Bất kể tôi làm gì, trước tiên tôi cần hồi phục."@
+` Tôi nhắm mắt lại.
+\

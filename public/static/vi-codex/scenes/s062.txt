@@ -1,0 +1,15 @@
+playstop
+wavestop
+bg "bg/bg_06a",notrans,0
+` Tôi quyết định mua một ổ bánh mì và ăn chậm rãi trong lớp học của mình.@
+br
+` …… Vẫn còn một vài chàng trai và nhóm bạn gái thân thiết ở đây.
+\
+` …… Huh?@
+` Tôi mới nhận ra.@
+` Yumizuka Satsuki, thường là cô gái thu hút nhất trong số tất cả, đâu mất tiêu rồi.@
+` … Cô ấy chắc chắn vắng mặt.@
+` Tôi thật ngu ngốc khi đến giờ ăn trưa mới nhận ra một trong những bạn cùng lớp của tôi đã không ở đây.
+\
+bg #000000,crossfade,800
+!w1000

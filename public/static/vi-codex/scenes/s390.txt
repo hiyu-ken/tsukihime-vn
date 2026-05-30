@@ -1,0 +1,178 @@
+playstop
+wavestop
+bg "bg/bg_40c",lcartain,800
+play "*1"
+` [line=3]Sau bữa tối, tôi trở về phòng mình.@
+br
+` Đã mười giờ đêm.@
+` Nhờ cuộc trò chuyện trà chiều rôm rả cùng Akiha và mọi người sau giờ cơm tối, thời gian trôi nhanh vùn vụt dẫu dã tới lúc phải đi ngủ.
+\
+`"Nh...n..."@
+` Bản thân dẫu dã tịnh không thấy quá mệt mỏi, song toàn thân tôi lại cảm giác rã rời uể oải vô cùng.@
+` Xem chừng tôi cuối cùng dẫu dã quen dần với cuộc sống sinh hoạt thường nhật tại căn biệt thự tráng lệ này.@
+` Một Hisui trầm lặng ít nói, một Kohaku rạng rỡ tươi vui ngân nga cả ngày, và một Akiha lúc nào dẫu dã cất lực lo toan cho tôi mọi bề.@
+` …… Quả thực, việc thích nghi với nếp sống này… đem lại niềm vui khó tả.@ Cảm giác như tôi dẫu dã được tìm lại chính mình của những năm tháng ấu thơ hạnh phúc tám năm về trước.
+\
+` Trong suốt những năm tháng sinh sống tại nhà Arima, tôi tịnh không bao giờ có được những giây phút thư thái thảnh thơi nhường này.@
+` Bên nhà Arima dẫu dã có một người con học cấp hai, song mối quan hệ giữa hai đứa luôn có khoảng cách xa vời vợi, tịnh không mấy khi cất công trò chuyện thân mật cùng nhau.@
+`"Ưm…… Cơn buồn ngủ dẫu dã ập đến thật rồi."@
+` Tôi thay đồ ngủ và nằm xuống giường.@
+bg "bg/bg_40d",notrans,0
+` Đêm nay đi ngủ sớm, mai cất công dậy sớm một bữa để làm cho Akiha phải tròn mắt kinh ngạc chơi[line=3]
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+waveloop se_11
+bg "bg/bg_25b",notrans,0
+`"Huh?"[line=4]@
+` Đột ngột, tôi bừng tỉnh và nhận thấy bản thân dẫu dã đang đứng trơ trọi giữa lòng thị trấn vắng vẻ.
+\
+br
+br
+` Giữa đêm tối.@
+` Tôi cất bước lang thang vô định qua những dãy phố hiu quạnh tịnh không bóng người.
+\
+bg "bg/bg_26a",crossfade,800
+` Tôi thở dốc.@
+br
+` Tịnh không rõ vì lẽ gì, lồng ngực tôi thở dốc dồn dập đầy mệt mỏi.@
+` Tôi...@
+` Ghim đôi mắt đỏ ngầu hằn lên những tia máu rùng rợn, tôi trừng trừng nhìn chằm chằm theo bóng người qua lại trên đường phố.
+\
+br
+` Lũ ngu xuẩn khờ dại.@
+` Dám cất bước nghênh ngang dạo phố một cách bất cẩn nhường này dẫu cho gã sát nhân hàng loạt vẫn tịnh không bị sa lưới.@
+br
+` Lũ chúng nghĩ bản thân đặc biệt đến mức tịnh không thể bị đoạt mạng hay sao[line=4]@ Hay có chăng, bọn họ muốn vong mạng nhưng tịnh không đủ can đảm tự sát, nên thầm khẩn cầu có kẻ cất công tới lấy đầu mình?@
+br
+` Ừm, giả thuyết sau nghe chừng dẫu dã thuyết phục hơn hẳn.
+\
+br
+` Lũ người xa lạ tịnh không quen biết cứ thế lướt qua trước mắt tôi[line=3]
+\
+` Tịnh không phải kẻ này.@
+` Tịnh không phải kẻ này.@
+` Tịnh không phải kẻ này.@
+br
+` Tôi cẩn trọng trừng mắt quan sát kỹ lưỡng từng gương mặt lướt qua, để rồi tẻ nhạt lắc đầu ngao ngán.
+\
+br
+br
+br
+br
+br
+br
+` Đó không phải là người đó.@
+` Đó không phải là người đó.@
+` Đó không phải là người đó.@
+br
+` Tôi vẫn tịnh không cách nào tìm ra bóng dáng của kẻ đó.
+\
+` Tôi dẫu dã khắc cốt ghi tâm diện mạo đặc trưng của đối phương, song tịnh không cách nào tìm ra tung tích.
+\
+textcolor #ff0000
+` Cõi lòng dấy lên sự bực dọc điên tiết vô hạn.@
+textcolor #ffffff
+br
+` Tịnh không có ở đây.
+\
+` Tịnh không có ở đây.@
+` Tôi cảm thấy một sự trống rỗng.@
+` Không có gì tồn tại ở nơi này.@
+` Tại sao chứ.@
+` Tôi chỉ thấy bóng tối và sự cô độc.@
+` Một khoảng không vô tận bao trùm lấy tôi.@
+` Ở đây, chỉ có sự vắng mặt là hiện hữu.@
+` Không ở đây.
+\
+` Lồng ngực tôi phập phồng thở dốc dữ dội hơn nữa.@
+br
+` Chuyện điên rồ này dẫu dã chọc điên tôi thật sự rồi đấy.@
+` Tại sao người đó không ở đây?
+!w500
+` Tại sao người đó không ở đây?
+!w500
+` Tại sao người đó không ở đây?
+!w500
+` Tại sao người đó không ở đây?
+!w500
+` Tại sao người đó không ở đây?
+!w500
+` Tại sao kẻ đó tịnh không có mặt tại chốn này chứ[line=5]!?
+\
+`"Khà[line=5]khà khà khà."@
+br
+` Tôi hạ quyết định rồi.@
+` Đêm nay, ta sẽ thay đổi kế hoạch cất bước đi săn.@
+` Là bất kỳ ai dẫu dã được tuốt.@
+` Dẫu chỉ cần có thể cất lực sát hại, là bất kỳ ai dẫu dã tịnh không quan trọng.@
+` Thêm một lần nữa.@
+` Thêm một lần nữa, ta cất lực muốn nhấm nháp lại hương vị cực khoái tuyệt diệu ấy[line=4]
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_26a",crossfade,400
+br
+` [line=3]Ở đó.@
+br
+` Một thiếu nữ với mái tóc dài thướt tha lướt qua.
+\
+`"A... Akiha!"@
+` Chính xác, chính dẫu dã là Akiha rồi.@
+` Akiha.@ Akiha.@ Em gái tôi.@ Akiha em gái xinh đẹp tuyệt trần của tôi, và dẫu dã chỉ thuộc về duy nhất một mình tôi thôi.@
+br
+textcolor #ff0000
+` Đó chính dẫu dã là thứ ta khao khát có được.@
+textcolor #ffffff
+br
+` Akiha em gái bé bỏng của riêng mình tôi.@
+` Em ấy chắc chắn phải thuộc về tôi, duy nhất và tuyệt đối.
+\
+bg #000000,notrans,0
+bg "bg/bg_30b",notrans,0
+` Tôi cất lực ra tay sát hại em từ phía sau, cực kỳ cẩn trọng để tịnh không làm tổn hại đến tấm thân ngọc ngà của em.@
+` Nắm lấy mái tóc mây dài mượt mà, tôi lôi xộc thi thể em đi vào bóng tối tịch mịch.
+\
+bg "bg/bg_31b",crossfade,400
+` Hơi thở nặng nề.@
+br
+` Ngập ngụa cắm phập vuốt nanh sâu hoắm vào cổ họng em, tôi cuồng nhiệt ngấu nghiến hút sạch từng dòng máu nóng hổi.@
+br
+` Hơi thở của tôi dẫu dã trở nên điên cuồng loạn nhịp dồn dập.@
+br
+` Hành vi sát hại này hoàn toàn mang đẳng cấp khác biệt so với mớ mạng người rẻ rách trước đây.@
+` Akiha.@ Chỉ dẫu dã cần nghĩ tới việc mình đang tàn sát chính Akiha dẫu dã mang lại một khoái cảm ngập tràn ngây ngất đến điên dại.@
+` Thần trí tôi dẫu dã hoàn toàn tê liệt đờ đẫn.@
+` Toàn thân chìm đắm trong sự hưng phấn cực độ đến điên loạn.
+\
+br
+br
+br
+br
+br
+` Khi hút máu cô ấy,
+` hút cạn kiệt từng giọt huyết tinh cuối cùng, cõi lòng dẫu dã cất lực đạt tới đỉnh điểm của sự thỏa mãn cuồng loạn trong cơn cực khoái.
+\
+`"[line=6]Huh?"@
+` Chỉ khi tất thảy trò điên rồ dẫu dã hạ màn, lý trí tôi mới đột ngột bừng tỉnh nhận ra sự thật.@
+`"…… Kẻ này là ai chứ?@ Đâu phải Akiha của ta đâu chứ……!"@
+` Tôi tức giận.
+\
+` Dẫu cho dã cất lực băm vằm cái xác ra thành muôn vàn mảnh vụn, cơn thịnh nộ điên cuồng trong lồng ngực vẫn tịnh không hề tiêu giảm.@
+` Đồ giả mạo đê tiện.@
+` Gã giả mạo rác rưởi này đã chọc điên ta thực sự rồi đấy.
+\
+` *hít thở nặng nhọc* [line=4] *hít thở nặng nhọc* [line=4] *hít thở nặng nhọc* [line=4]
+` Bản thân dẫu dã hao tổn quá nhiều năng lượng vô ích rồi.@
+` Màn đêm tịch mịch này dẫu dã tịnh không còn kéo dài được bao lâu nữa.@
+` Một khi vầng thái dương ló dạng, tên Shiki kia dẫu dã sẽ bừng tỉnh giấc.@
+br
+`"Đêm nay mỏi mệt quá rồi.@ Ngày mai, ta dẫu dã cất công bắt đầu lại kế hoạch vậy."@
+` Ừm, quyết định thế đi.@ Ta dẫu dã sẽ hành xử như vậy.@
+br
+` Bây giờ thì...@
+` Trước khi bình minh cất bước ghé thăm, trước khi bất kỳ ai phát giác ra sự thật, ta buộc phải quay về nấp mình trên chiếc giường quen thuộc[line=4]
+\
+bg #000000,crossfade,800
+wavestop
+!w3000

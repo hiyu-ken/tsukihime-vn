@@ -1,0 +1,54 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]Thời gian lẳng lặng trôi qua trong đêm tối tĩnh mịch.@
+br
+` Ánh trăng rực rỡ, trong vắt như gương chiếu rọi khắp nơi, bừng sáng lên bóng dáng kiều diễm của Arcueid.
+\
+\
+bg #000000,lcartain,800
+bg "bg/bg_12b",lcartain,800
+bg "bg/bg_13b",lcartain,800
+`"Sao thế Shiki? Trông cậu cứ thẫn thờ ra thế kia hả?"@
+` Cô ấy tò mò quay sang hỏi tôi.@
+`"[line=4]Không có gì đâu mà. Chỉ là ngắm nhìn ánh trăng đêm nay làm tôi chợt nhớ lại trận chiến kinh hoàng đêm hôm kia thôi."@
+ld c,"tachi/ark_t08",crossfade,400
+\
+` Cô ấy tự tin cười rạng rỡ, để lộ chiếc răng nanh nhỏ nhắn xinh xắn đầy đáng yêu.@
+` Nhìn vẻ hoạt bát năng động đó của cô ấy dưới ánh trăng mờ ảo, lòng tôi bỗng trào dâng một cảm giác yên bình đến lạ kỳ.
+br
+[line=4]cl c,lshutter,800
+br
+playstop
+!w3000
+\
+`"…… Hừ?"@
+` Nó không bị khóa.@
+` Cánh cửa mở dễ dàng chỉ với một vòng quay.
+\
+bg #000000,lcartain,800
+bg "bg/bg_15b",lcartain,800
+`"…… Arcueid, cậu ở đây à?"@
+` …… Không có hồi đáp.@
+` Có lẽ cô ấy chẳng khóa nó từ đầu? Không ai xung quanh cả.@
+`"Cô ta nghĩ mình đang đi đâu trong tình trạng này……!?"@
+quakex 1,300
+` "... Grr."@
+`"... Tôi đang làm gì vậy?@
+` Nếu tôi có thời gian để giải tỏa sự giận dữ này, tôi phải ra ngoài và tìm cô ấy.@
+` [line=4]... Tôi không thể tìm thấy cô ấy.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_25b",lcartain,800
+` Có lẽ nếu cô ấy thực sự không muốn bị tìm thấy, thì tôi sẽ chẳng bao giờ tìm được cô ấy cả.@
+` "... Cô ấy nói chúng ta sẽ gặp lại nhau ngày mai."
+\
+`"(Tôi tự nhủ)@
+` Tất cả những gì tôi có thể làm trong tình huống này là tin tưởng cô ấy và chờ đợi đến đêm mai.@
+`"…………@
+` Với một sự bất an lớn trong ngực, tôi trở lại biệt thự.
+\
+bg #000000,lcartain,800
+!w2000

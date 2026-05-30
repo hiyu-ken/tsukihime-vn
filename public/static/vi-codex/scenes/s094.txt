@@ -1,0 +1,593 @@
+phase "bg/bg_28b",r,ark,04a,4
+bg "bg/bg_15a",crossfade,800
+` Phòng của Arcueid không giống với những gì bạn mong đợi từ một ma cà rồng.@
+` ... Khi đó, tôi chỉ lo lắng cho Arcueid nên không thực sự để ý, nhưng nhìn lại bây giờ, phòng của cô ấy hoàn toàn bình thường.@
+`"... Thậm chí cô ấy còn đăng ký báo chí.?"@ Điều đó có nghĩa là sao?"@
+` Tôi lẩm bẩm khi đặt Arcueid đang ngủ lên giường.
+\
+`"Hwaa[line=4]ahhhhh."@
+` Tôi hít một hơi thật sâu khi ngồi trên sàn nhà.@
+` Đã gần sáu giờ sáng.@
+` Bầu trời bên ngoài cửa sổ đang dần sáng lên nhưng đầy ắp những đám mây.@
+`"...Đúng rồi.@ Tôi nên đóng rèm."@
+` Tôi thúc giục cơ thể mệt mỏi đứng dậy.@
+` Tôi đóng rèm và ngồi lại.
+\
+` "Thud."@
+` Khi tôi cúi xuống, sức mạnh rời khỏi đầu gối và tôi ngã quỵ trên sàn.@
+`"[line=4]Thật là mệt mỏi, tôi cũng thấy vậy."@
+` Thật đáng thương nhưng tôi thậm chí còn không thể đứng vững được.@
+` Nghĩ lại, tôi đã nói chuyện với Arcueid suốt cả đêm qua và chẳng ăn gì trong hơn một ngày.@
+` [line=4]Hơn nữa, ngay cả khi tôi đeo kính, đầu tôi vẫn đau. Não tôi đang vang lên vì cơn đau này.
+\
+`"... Arcueid... Tôi tự hỏi vết thương của cô ấy có ổn không..."@
+` Cô ấy đã ngừng chảy máu, và cô ấy là người có khả năng tái tạo sau khi bị cắt rời... nên có lẽ tôi không cần lo lắng.@
+`"... Tôi tự hỏi tại sao."@
+` Hiện tại tôi quá mệt mỏi đến mức có thể gục xuống bất cứ lúc nào.@
+` [line=4]Tôi lo lắng hơn cho Arcueid chứ không phải cho chính mình.
+\
+bg #ffffff,crossfade,1500
+!w3000
+bg "bg/bg_15c",crossfade,800
+play "*9"
+br
+`"Theo điều tra, nguyên nhân tai nạn xe máy của Takada Youichi là do lỗi ở phanh khi anh ta xuống một con dốc.@
+` May mắn không có ai thiệt mạng trong vụ tai nạn.
+\
+br
+` ... Tôi tỉnh dậy bởi giọng nói bình thản, không mang theo cảm xúc của một người đàn ông.
+\
+`"[line=4]Tôi có ngủ không?"@
+` Khi mở mắt ra, tôi thấy mình nằm trên sàn dưới tấm chăn.@
+` Đã qua trưa.@
+` Arcueid không còn trên giường và những tin tức vô vị đang lan tỏa trong phòng từ chiếc tivi.
+\
+`"…… Arcueid đi đâu vậy?"@
+` Và, tôi cảm nhận có ai đó trong bếp.@
+`"Kẻ ngốc ấy, vẫn di chuyển với vết thương như thế."@
+` Tôi rời khỏi tấm chăn và đứng dậy.@
+` Tôi phải đến bếp và kiểm tra vết thương của cô ấy.@
+br
+`"Tin tức tiếp theo. Một số lượng lớn người mất tích vào lúc bình minh tại một khách sạn ở thành phố Minamiyashirogi phía nam."
+\
+`"[line=6]"@
+` Tôi ngừng lại giữa đường.@
+` Tôi nhìn chăm chú vào người dẫn chương trình tin tức trên màn hình tivi.@
+br
+`"Một trăm ba người đang lưu trú tại khách sạn vẫn chưa được tìm thấy. Hơn nữa, có vết máu trong khách sạn và cảnh sát bắt đầu nghi ngờ họ liên quan đến một vụ án."
+\
+`"[line=4][line=4]Anh nói gì vậy? Vết máu? Không phải thứ nhỏ xíu như thế."@
+br
+` Người dẫn chương trình đọc bản tin với giọng điệu thờ ơ. Màn hình chuyển sang cảnh khách sạn tôi đã ở trước đó và liệt kê tên 103 người mất tích.@
+br
+` [line=4]Dĩ nhiên, tên tôi và Arcueid không có trong danh sách.
+\
+`"Hơn nữa, một lượng lớn lông động vật hoang dã được tìm thấy trong khách sạn. Giả thuyết cho rằng lông này liên quan đến nghi phạm theo một cách nào đó. Một số mẫu tóc xác nhận xuất hiện từ giống chó lớn, sói, và cũng có bằng chứng về gấu."@
+` [line=4]Có nhiều mẫu tóc khác nhau được tìm thấy tại hiện trường. Thật kỳ lạ, những vết cắn trông như của cá mập cũng được báo cáo từ hiện trường.@
+br
+` Tôi nhấn nút tắt tivi.
+\
+`"[line=4]"@
+` "Một trăm người. Khoảng một trăm người lúc đó. Trong vòng nửa giờ, họ đều bị giết tàn nhẫn."@
+` "[line=4]Dấu vết máu? "@
+` "[line=4]Không có dấu vết?"@
+` "Làm sao bạn có thể nói vậy khi bạn có nhiều thông tin như thế?"@
+` "Tôi hiểu hoàn toàn."@
+` "Tất cả mọi người ở khách sạn đều bị giết bởi những con quái vật không thể hiểu được và bị nuốt chửng mà không để lại dấu vết nào."
+\
+`"[line=4]Ối trời!"@
+` Tôi cố kiềm chế cơn nôn mửa.@
+` Tôi không thể để bản thân nôn mửa khi nhớ lại từng sự kiện xảy ra đêm qua.@
+` Sự đồng cảm tầm thường đó sẽ khiến tôi thấp hèn như một con lợn bẩn thỉu.@
+` Đối với tôi, người duy nhất thoát chết trong khách sạn đó, tôi không cho phép bất cứ điều gì khác ngoài sự căm phẫn đối với kẻ đứng sau tất cả.
+\
+` Một trăm người.@
+` Một trăm người... bị giết mà không để lại xác, chỉ có máu.@
+` Mặt nạ của người đàn ông áo đen hiện lên trong ký ức tôi.@
+` Tôi không biết anh ta là ai.@
+` Nhưng không phải là sai lầm khi nghĩ rằng anh ta đứng sau mọi chuyện xảy ra.@
+br
+` [line=4]Lòng tôi vẫn tê dại?@
+` Lúc này, căm ghét chiến thắng trước nỗi sợ và sự ghê tởm.@
+` [line=4]Hoặc có lẽ, ngay cả những cảm xúc xoáy cuồng trong ngực tôi cũng chỉ là một dạng khác của nỗi sợ.
+\
+`"[line=4]Đó chỉ là điều ngớ ngẩn."@
+` Tôi gầm răng.@
+` Tôi không biết đó là sự hối tiếc, nỗi sợ hay một sự ghê tởm khó chịu.@
+` [line=4]Nhưng chỉ cần nhớ lại gương mặt người đàn ông trong bộ áo đen, tôi muốn phá vỡ thứ gì đó và điều đó khiến tôi bực bội.
+\
+ld c,"tachi/ark_t01a",lshutter,400
+`"Anh tỉnh rồi, Shiki?"@
+` Arcueid nhích đầu ra khỏi bếp.@
+`"[line=4]Ồ."@
+`"Có chuyện gì vậy? Anh làm mặt như thế, có chuyện gì không xảy ra sao?"@
+` Arcueid nói nhẹ nhàng như thể chẳng có chuyện gì cả.@
+`"... "@
+` Cảm giác dâng trào bên trong tôi cho đến lúc này bỗng chốc tan biến.
+\
+`"[line=4]Arcueid... em... vết thương của anh có ổn không?"@
+`"Vâng, cho đến lúc này."@
+` Cô ấy cười tự tin.@
+` Cô ấy trông giống như trước đây, có lẽ còn tốt hơn tôi.@
+`"... Ồ. Vậy... điều đó tốt rồi[line=4]"@
+` Ít nhất. Ít nhất người gần tôi an toàn.
+\
+`"... Hừm?"@
+` Này, chờ đã.@
+` Arcueid không phải là con người.@
+` Quên một điều quan trọng như vậy... Tôi thực sự mất tập trung.
+\
+`"…… Dù sao, tôi vui vì vết thương của cậu không nghiêm trọng."@
+`"Ồ?@ Có chuyện gì vậy, Shiki?@ Và chỉ một lúc trước, cậu gọi tôi là quái vật."@
+`"Ngốc ạ, tôi vẫn nghĩ cậu là như vậy.@ Nhưng, đó là một chuyện khác.@ Tôi chỉ muốn cảm ơn cậu vì đã giúp đỡ tôi."
+\
+ld c,"tachi/ark_t12",crossfade,400
+`"Ờ?@ Tôi đã giúp cậu, Shiki?"@
+` Mắt Arcueid mở to ngạc nhiên.@
+` Có vẻ như cô ấy thậm chí còn không hay biết về điều đó.@
+`"Đúng vậy, cậu đã giúp tôi.@ Mặc dù hơi muộn, nhưng cảm ơn vì đã bảo vệ tôi.@ Nếu không có việc cậu kéo tôi ra khỏi đường, tôi sẽ nằm trong danh sách 103 tên."
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"[line=4]Cảm ơn. Không thực sự có gì cả. Tôi là lý do bạn gặp Nrvnqsr, nên không cần cảm thấy nợ nần tôi."@
+`"Có thể, nhưng sự thật là bạn đã cứu tôi. Vì vậy, tôi muốn cảm ơn bạn."
+\
+`"[line=4]Nhưng nếu tôi không khiến bạn trông chừng tôi, bạn cũng sẽ không bao giờ liên quan đến tất cả điều đó. Tôi là người làm xáo trộn cuộc sống hàng ngày của bạn."@
+` "Vì vậy, có lẽ bạn nên ghét tôi thay vì cảm thấy nợ nần tôi?"@
+`"... Dĩ nhiên, tôi nghĩ bạn là một phiền toái lớn. Nhưng cuối cùng, tôi phải chịu trách nhiệm cho hành động của mình."@
+` "... Từ rất lâu rồi, ai đó đã dạy tôi điều này. Cô ấy nói bất kể điều gì xảy ra xung quanh tôi, tôi phải kiên trì với những việc tôi bắt đầu đến tận cùng."@
+` "Mặc dù có vẻ tự nhiên, tôi là người ủng hộ ý tưởng này."
+\
+` "Vì vậy, tôi không ghét Arcueid."@
+` Tôi chỉ cảm thấy như mình đang dính líu vào chuyện gì đó rất phiền phức.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"[line=4]Ồ.@ Bây giờ cậu nhắc đến, tôi đã nói rằng tôi cần một lá chắn vì cậu đã giết tôi.@ Vậy nên tôi không cần phải xin lỗi vì kéo cậu vào những chuyện như thế này."@
+`"Đúng vậy.@ Tình huống tôi đang ở là do chính tôi gây ra."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Do cậu, huh.@ Hm, tôi nghĩ cậu có xui xẻo, Shiki.@ Nếu chỉ có một cô gái khác bị cậu giết, mọi chuyện sẽ không kết thúc như thế này."@
+cl c,crossfade,400
+\
+`"... Ê."@
+` "Trước hết, cậu không thể chỉ giả định rằng tôi sẽ giết ai đó khác ngoài cậu, Arcueid.@
+` Tôi chỉ cảm thấy như vậy, theo dõi và giết người chỉ một lần, chỉ có Arcueid."@
+br
+` "... Hoặc tôi muốn nghĩ cô ấy là người duy nhất như vậy."
+\
+`"[line=4]Ồ."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hả? Cậu nhớ ra điều gì mà trước đây đã quên sao?"@
+`"Không, không phải thế. ... Tôi chưa bao giờ thực sự suy nghĩ về nó trước đây, nhưng tôi chỉ thắc mắc tại sao tôi lại muốn giết cậu."@
+ld c,"tachi/ark_t06",crossfade,400
+` Arcueid nhíu mày khi nhìn tôi.@
+` ... Đúng vậy, đó là phản ứng tự nhiên.@
+` Tôi, kẻ đã giết Arcueid, đang nói rằng tôi không biết tại sao mình lại giết cô ấy.
+\
+playstop
+ld c,"tachi/ark_t03",crossfade,400
+`"Không có lý do nào cả, phải không? Vì cậu chỉ là một kẻ sát nhân bẩm sinh, Shiki."@
+`"[line=6]Hả?"@
+br
+` Giữ lại.@
+` "[line=4]Chị ta vừa nói gì về tôi vậy?"@
+br
+`"Khi tấn công tôi, cậu dường như đã quá quen với điều đó. Cậu gõ cửa, đưa tay qua cửa khi nó mở ra và bước vào."
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Khi tôi vẫn còn bất ngờ, cậu đã kết liễu tôi bằng đòn tấn công đầu tiên và hoàn tất bằng cách cắt tôi thành từng mảnh." [line=4] "Đúng vậy, cuộc tấn công bất ngờ của cậu hoàn hảo quá." @
+` "Đẹp đến mức nào? Một bức tranh về bạn vào thời điểm đó sẽ là một kiệt tác không thể so sánh được, đó là mức độ hoàn hảo như thế."@
+`"Vào [line=4]..."
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Dù bạn là sát thủ xuất sắc nhất, dù kỹ thuật của bạn hoàn hảo đến đâu, nạn nhân lần này là một sự lựa chọn tồi tệ."@
+` "Tôi không biết bạn đã giết bao nhiêu người cho đến giờ, nhưng tôi nghĩ đã đến lúc bạn bị bắt khi bạn chọn tôi làm con mồi của mình."@
+`"Th, th—"@
+ld c,"tachi/ark_t04",crossfade,400
+`"Đó là... mặt sợ hãi đó bỗng xuất hiện? Nếu muốn nói điều gì, tốt hơn nói thẳng ra. Chúng ta chưa bao giờ giấu giếm nhau, phải không?"
+\
+br
+` [line=4]"Có thể là vậy."@
+` Tôi gật đầu và cử chỉ cho cô ấy đến gần tôi, dùng tay mình.@
+ld c,"tachi/ark_t08",crossfade,400
+`"Ừm? Một bí mật?"@
+cl c,crossfade,800
+` Arcueid tiến lại gần với vẻ hào hứng. Tôi đưa miệng gần tai cô ấy và nói rõ điều tôi muốn nói.
+\
+`"... Bạn biết mà, Arcueid..."@
+`"Ừm, sao vậy?"@
+br
+` "Được rồi, sẵn sàng..."
+\
+br
+br
+br
+br
+br
+br
+br
+`"[line=4]Đó hoàn toàn không phải là điều đó, ngốc ạ!"
+\
+` "Ngốc, ngốc, ngốc, ngốc..."
+br
+` "Tiếng hét của tôi vang vọng khắp căn phòng. Tôi tấn công màng nhĩ của cô ấy với toàn bộ sức mạnh, không hề giữ lại một chút nào."@
+` "Ồ... đau... rất đau..."
+\
+`"Arcueid giả vờ che tai.@
+` "Bây giờ tôi rất tức! Bạn đang làm gì đột nhiên vậy, Shiki?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Tại sao lại thế, Shiki?!"@
+`"Tôi là người nên giận! Tôi tự hỏi tại sao bạn lại yêu cầu tôi làm những điều không thể, nhưng giờ tôi hiểu rồi!"@
+ld c,"tachi/ark_t11",crossfade,400
+`"[line=4]Ồ? Hiểu ý gì...?"
+\
+`"Về việc bạn bảo tôi trở thành lá chắn chống lại quái vật và canh gác bạn vì nghĩ tôi là kẻ giết người điên loạn! Trời ơi, bạn sai quá. Bạn đánh giá cao tôi vì điều đó."@
+` "Này, tôi sẽ nói ngay bây giờ. Tôi không phải là kẻ giết người hay man rợ.@
+` "Bạn... bạn là người đầu tiên tôi giết."@
+` "[line=4]Miệng Arcueid sững lại."@
+ld c,"tachi/ark_t12",crossfade,400
+` "... Đi chả được, cô ấy thực sự ngạc nhiên hoàn toàn."@
+` (Không có dòng nào mới sau dòng 6)
+\
+`"[line=4]Không thể nào! Đây là lần đầu tiên của cậu mà sao kỹ năng lại cao đến vậy!"@
+`"Vâng... Đúng là tôi có đôi mắt kỳ lạ, nhưng tôi vẫn sống một cuộc đời trung thực. Tôi chưa bao giờ nghĩ đến việc dùng những 'dòng' này để giết người."
+\
+`"[line=2]Nhưng tại sao cậu lại giết tôi? Cậu chẳng hề biết tôi trước đây."@
+`"Tôi cũng không biết tại sao nữa."@
+` "[line=2][line=4]Tôi chỉ trở nên quá tập trung khi nhìn thấy bạn trên đường phố... Khi tỉnh lại, tôi đã cắt bạn thành từng mảnh."@
+cl c,crossfade,400
+play "*8"
+br
+` "Trong căn phòng này."@
+` "Không có lý do, không có mục đích."
+\
+`"[line=6]Tôi... Tôi thấy rồi."@
+br
+` "... Vâng, tôi hiểu."@
+` "Tôi không có quyền tức giận với Arcueid."@
+` "Cho dù cô ấy vẫn còn sống và không phải là con người."@
+` "Sự thật là, tôi đã giết cô ấy bằng chính đôi tay mình."
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Tại sao mọi người lại im lặng thế này? Cậu muốn nói gì với Shiki à?"@
+`"... Tôi, tôi xin lỗi... Tôi phải... xin lỗi... "@
+br
+` [line=4]Tại sao tôi lại quên mất điều quan trọng như vậy?
+\
+cl c,crossfade,400
+`"[line=2][line=4]Xin lỗi. Tôi xin lỗi, Arcueid. Tôi, Tohno Shiki đã giết cậu. Hơn bất cứ điều gì khác, tôi nên đã xin lỗi từ đầu."@
+` ... Có vẻ như có điều gì đó sai trái ở tôi.@
+` Đương nhiên là cô ấy lại nhầm tôi với kẻ giết người.@
+` Vì tôi cũng không hiểu rõ bản thân mình bị cuốn vào cơn khát máu đó thế nào.@
+` Vậy nên...
+br
+` Tohno Shiki có thể là một kẻ giết người thực thụ.
+` [line=6]Thực tế là, tôi đã giết bạn. Vì vậy, tôi phải chấp nhận tội lỗi và hình phạt của mình.
+\
+`"[line=4][line=4]Một kẻ giết người như tôi, không thể hòa nhập với xã hội bình thường.@
+` Không nhận ra điều quan trọng này cho đến bây giờ là quá nhát gan.@
+br
+` [line=4]Bất kể Arcueid là ai, tôi là một kẻ giết người không có lý do nào cả.@
+` [line=2]Tôi hiểu rồi. Vậy thì bạn thực sự không hiểu vì sao cả, Shiki à.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"[line=4]... Tôi gật đầu im lặng.@
+br
+` ...@
+br
+`"Rồi bạn cũng không cảm thấy bất kỳ niềm vui nào sao? ... Đúng vậy, chắc chắn có những kẻ giết người cho việc giết chóc giống như thở, nhưng bạn thực sự bình thường, Shiki."@
+`"... Đúng thế. ... Ít nhất tôi cố gắng là như vậy."@
+`"Không, bạn vô cùng bình thường. ... Vậy thì tôi là người duy nhất bạn muốn giết sao?"@
+`"... Có. ... Ngoài bạn, tôi chưa bao giờ cảm thấy như vậy trước đây."
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Tôi hiểu rồi, không có vấn đề gì. Bạn không phải là một kẻ giết người, Shiki."@
+` Cô ấy nói điều này nhẹ nhàng, gần như bỏ qua.
+\
+`"Tôi không nghĩ bạn cần phải chịu bất kỳ hình phạt nào."@
+` "Thật ra, tôi là người bạn muốn giết và tệ hơn nữa, bạn được trang bị kỹ thuật giết chóc bất khả chiến bại này."@
+` Nhưng may mắn là tôi là một ma cà rồng nên không ai chết, phải không? Vì vậy bạn không cần lo lắng nhiều như vậy.@
+` Tôi không nghĩ bạn cần quan tâm đến những đạo đức của xã hội loài người.
+\
+`"... Tôi biết. Nhưng vẫn, tôi đã giết ai đó. Một kẻ nguy hiểm như tôi không thể được để lang thang."@
+ld c,"tachi/ark_t02",crossfade,400
+`"Đó không phải là vấn đề. Hiện tại, chỉ có tôi, nạn nhân, và chính bạn mới có quyền kết án."@
+`"[line=4]Có thể là như vậy, nhưng điều đó không thay đổi sự thật rằng tôi đã giết bạn."@
+br
+` Đúng rồi.@
+` Ngay cả khi không có hình phạt, tội lỗi sẽ không bao giờ biến mất.
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Tất nhiên. Ngay cả bây giờ tôi vẫn cảm thấy phẫn nộ, nên sẽ gây rắc rối nếu bạn chỉ quên đi chuyện này."@
+` "Nhưng cậu biết đấy, Shiki. Nếu cậu cảm thấy thế và luôn hối hận về điều đó, thì tôi không nghĩ sẽ có vấn đề."@
+br
+` [line=4]"Nhưng đó chỉ là cách nói đẹp thôi."@
+br
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Shiki, thực ra có những người không bán linh hồn cho quỷ dữ ngay cả khi họ ghét thế giới. Như... một người vô cùng trung thực đến mức có thể xin lỗi một ma cà rồng."@
+` "Vì vậy tôi nghĩ điều đó là chấp nhận được. Bất kể mọi người nói gì và bất kể cậu nói mình không phải [là như vậy], cậu vẫn có thể ở lại trong thế giới mà cậu muốn sống."@
+ld c,"tachi/ark_t08",crossfade,400
+` "[line=4]Vậy thì... tôi không có lời nào để phản bác."@
+`"[line=4]…… Tôi mất lời rồi."@
+` "Làm sao cậu có thể... làm sao cậu có thể mỉm cười và nói điều đó với người đã giết cậu?"@
+` "[line=4]Làm sao cậu có thể... làm sao cậu có thể sống trong thế giới mà cậu muốn, ngay cả sau khi đã trải qua điều đó?"
+\
+playstop
+`"[line=4]Arcueid..."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"[line=2]Đi thôi, chúng ta có một vấn đề khó khăn hơn nhiều để lo lắng. Bây giờ mà bạn đã tỉnh lại, Shiki, tôi muốn nói chuyện từ đây trở đi."@
+` Khi cô ấy nói vậy, Arcueid ngã xuống sàn.@
+cl c,tcartain,400
+`"[line=4]Arcueid!?"@
+` Tôi chạy đến bên cô ấy.@
+` Mồ hôi lấp lánh trên trán cô ấy và cô ấy đang thở đau đớn.@
+`"... Ôi trời, dường như tôi vẫn không thể làm được nhiều gì."@
+` Tôi nhìn xuống.@
+` Nơi áo sơ mi trắng của cô ấy thấm đẫm máu gần vùng bụng.
+\
+`"Cậu, vết thương đó[line=4]"@
+`"À, cái này ạ? Hiệu quả của đòn tấn công vẫn còn đọng lại và tôi thậm chí không thể chữa lành vết thương của mình."@
+` Tôi đã cố đóng vết thương nhưng dường như nó không hiệu quả lắm."@
+` Giọng điệu của cô ấy rất vui vẻ.@
+` Nhưng tôi nhận thấy có một chút đau đớn trong đó.
+\
+`"Đóng vết thương? Với cái gì, Arcueid……!!?"@
+`"Ừm... như thế này ạ."@
+` Arcueid chỉ vào một vật trên sàn nhà.
+\
+` Nó có màu nâu.@
+` Nhìn thoáng qua, nó giống như một chiếc bánh rán hoặc bánh kuchen, nhưng hóa ra chỉ là cuộn băng dính đóng gói.
+\
+`"[line=4]Đúng rồi, ngốc ạ! Ai mà dùng băng dính để đóng vết thương chứ!"@
+`"... Đừng gọi người khác là ngốc thường xuyên như vậy. Tôi có thể sẽ nghĩ mình là một trong số họ sau một thời gian."@
+`"Im đi và để tôi xem vết thương của cậu..."@
+` Tôi vươn tay ra chạm vào quần áo cô ấy.@
+` Nhưng cô ấy lăn qua sàn nhà và bỏ chạy.
+\
+`"Đừng ngốc nghếch như vậy, nếu nó mở ra lại thì cậu định làm gì?"@
+`"Không sao đâu, chỉ cần bỏ qua thôi. Cậu cũng nên ngừng hành động ngớ ngẩn này. Thử kéo áo một cô gái như thế, cậu còn tệ hơn Nrvnqsr."@
+`"[line=4]Nhìn xem. Tôi không coi cậu là con người, dù là nam hay nữ thì cũng chẳng khác gì. Bình tĩnh lại được không?@
+` Nếu cậu chết vì vết thương khi bảo vệ tôi, tôi sẽ cảm thấy tội lỗi suốt đời..."!@
+` Arcueid nhìn tôi với vẻ không hài lòng và lần này, cô ấy lăn về phía tôi.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"...@
+` Arcueid siết chặt môi.@
+` ... Có vẻ như cô ấy đang giận dỗi một chút, nhưng có lẽ tôi nên xem vết thương của cô ấy."@
+ld c,"tachi/ark_t21",crossfade,400
+` Tôi nâng áo lên và phơi bày bụng cô ấy.@
+` Dây dính được quấn khắp người cô ấy.@
+` Thật sự là một việc làm tệ hại, và khi nhìn kỹ, tôi thấy máu thấm qua.
+\
+`"[line=4]"@
+` Tôi cảm thấy ghê tởm.@
+` Hơn thế nữa, tôi rất tức giận.@
+` Tôi hạ áo xuống và nhấc Arcueid lên.@
+cl c,lshutter,400
+`"Này[line=2]Shiki, cậu đang làm gì vậy?!"@
+`"Tôi sẽ đưa bạn vào giường. Tôi không thể đưa bạn đến bệnh viện đâu."@
+` Tôi cẩn thận đặt cô ấy lên giường.
+\
+`"Hãy nhìn này. Khi tôi trở lại, đừng di chuyển. Nếu vẫn đi lung tung như trước, tôi sẽ quên mất bạn, nên hãy chuẩn bị tinh thần cho hậu quả."@
+br
+` Tôi quét mắt quanh căn phòng.@
+` Như tôi nghĩ, không có hộp cứu thương nào cả.
+\
+`"Arcueid, cô nói là giàu có mà?"@
+ld c,"tachi/ark_t21",crossfade,400
+`"[line=2]Ừm...? Vâng, tôi giàu có... Nhưng điều đó có liên quan gì đến vấn đề này?"@
+`"Đưa cho tôi. Tôi sẽ mua một số thứ cần thiết để chăm sóc bạn. ... Tôi không biết liệu nó có hiệu quả với bạn không, nhưng tôi phải đối xử với bạn như cách tôi chăm sóc một người bị thương."@
+`"Được rồi, nhưng có thể nó vô dụng."@
+`"[line=4] Ngay cả nếu nó vô dụng, tôi vẫn sẽ làm. Tôi không thể để nó như vậy."
+\
+`"... Tôi hiểu rồi. Cơ thể tôi được tạo ra giống như của cậu, nên có lẽ nó có ý nghĩa nào đó."@
+`"Nhanh lên và đưa cho tôi tiền. Im lặng và ở lại đó. À, nhưng đừng ngủ. Cậu có thể nằm ngửa, nhưng đừng ngủ say."@
+ld c,"tachi/ark_t14",crossfade,400
+`"Ồ... Shiki, lệnh này thật kỳ quặc."
+\
+`"Kỳ quặc nhưng vẫn làm. Tôi nghe nói chức năng cơ thể của cậu yếu đi khi ngủ.@
+` Tôi nghĩ nếu cậu ngủ với vết thương chưa lành, hệ miễn dịch sẽ suy yếu và vết thương sẽ càng tồi tệ hơn."@
+` "Ngủ sẽ chỉ khiến mệt mỏi tăng lên, không giúp vết thương lành nhanh hơn. Vì vậy, ít nhất cho đến khi tôi trở lại, đừng ngủ."@
+ld c,"tachi/ark_t08",crossfade,400
+`"[line=4]Thật sao? Được rồi, tôi sẽ làm như vậy, Shiki."@
+br
+` Arcueid mỉm cười vui vẻ.@
+` ... Như dự đoán, quá trình suy nghĩ của Arcueid hoàn toàn là một bí ẩn.
+\
+`"…… À, tại sao cô lại cười?"@
+`"Vì cậu đáng tin cậy, Shiki."@
+`"[line=6]"@
+` Tôi không nói gì và giơ tay ra.@
+` Arcueid lấy ví từ váy và trao cho tôi.@
+`"[line=4]Tôi sẽ trở lại ngay."@
+` Tôi quay lưng lại với Arcueid và rời khỏi phòng.
+\
+bg "bg/bg_14a",lcartain,800
+` Khi tôi bước ra ngoài, tôi nhận thấy một thứ gì đó trong bếp.@
+`"[line=4]Đồ ăn."@
+` Trên bàn là thứ gì đó ít hơn một bữa ăn và nhiều hơn thức ăn... thứ ít giống thức ăn và nhiều hơn nguyên liệu, bạn có thể nói nó là thứ "có vẻ ăn được".@
+br
+` Tôi đoán đây là lý do cô ấy ở trong bếp.
+\
+`"……… Ngốc."@
+` Arcueid nói rằng cô ấy không ăn thức ăn bình thường.@
+` Tôi không cần phải suy nghĩ xem thức ăn này dành cho ai.@
+br
+`"[line=4]Chết tiệt! Cô ấy đang làm gì vậy?"@
+` Tôi càng lúc càng bực bội.@
+` Tôi quá bực mình đến mức quyết định nhanh chóng tìm thứ gì đó để chăm sóc cô ấy càng sớm càng tốt.
+\
+bg #000000,lcartain,800
+!w1000
+` Mặc dù tôi nói là sơ cứu, những điều duy nhất xuất hiện trong đầu tôi là băng gạc giữ vết thương hoặc thuốc giảm đau.@
+` Nhưng vẫn tốt hơn không có gì cả.@
+` Ngay cả nếu đó là một việc nhỏ, nếu nó có ý nghĩa, thì nó cũng không bằng không.@
+` Tin vào điều đó, tôi mua bất cứ thứ gì tôi nghĩ đến.
+\
+!w1000
+bg "bg/bg_15c",rcartain,1500
+play "*3"
+`"Ồ, đó ngứa quá." @
+`"... ..." @
+` Tôi phớt lờ giọng nói của Arcueid và cố gắng bó băng cẩn thận nhất có thể.@
+br
+` Vết thương ở bụng cô ấy không thực sự lớn lắm. Arcueid tự nhận rằng phần lớn vết thương đã lành bên ngoài.
+\
+` Nhưng vẫn còn bốn lỗ đen bằng quả bóng gôn từ răng nanh của con cá sấu.@
+` Nó có thể thực sự nguy hiểm với một vết thương cỡ này, nhưng xét đến khả năng nhiễm trùng, tôi bôi một chút thuốc khử trùng.@
+` Sau đó, tôi phủ một lớp băng lên vết thương và quấn nó cẩn thận bằng băng gạc.
+\
+`"Hahaha, dừng lại đi. Cậu quá mạnh." @
+` Arcueid đang cười vui vẻ.@
+`"...@
+` Tôi bỏ qua cô ấy và quấn chặt băng gạc lên vết thương.@
+` Để ngăn máu chảy, tôi nhẹ nhàng siết chặt băng gạc quanh vết thương.@
+`"[line=4] Ồi!@ Trời ơi, tôi sẽ trừ điểm cho điều đó, Shiki."@
+`"...@
+` Thở phào.
+\
+`"[line=4] Vậy thì... Tôi ít nhất cũng làm cho nó trông đẹp, nhưng sao rồi?@ Có thể di chuyển bình thường không, Arcueid?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Vâng, dường như nó sẽ không gây trở ngại.@
+` Bên trong tôi vẫn còn rối bời, nên tôi không thể di chuyển hoàn toàn được."@
+`"Tôi hiểu rồi. Nên phần còn lại tùy vào bạn. Chuyên môn của tôi là chia cắt, chứ không phải chữa lành."@
+` Tôi lùi ra xa Arcueid và ngồi vào tường.
+\
+`"Bây giờ bạn có thể ngủ rồi. Ngủ sẽ giúp bạn hồi phục sức lực và sớm khỏi vết thương đúng không? Tôi sẽ canh gác nên hãy thư giãn và ngủ đi."@
+`"Không, ngủ thực sự không giúp tôi hồi phục sức lực. Bạn nói chính mình cũng chỉ loại bỏ cảm giác mệt mỏi thôi mà.@
+` Đối với tôi, việc hồi phục sức lực chỉ là vấn đề thời gian. Đến ngày mai tôi chắc chắn sẽ có thể di chuyển bình thường."
+\
+`"[line=4]Chỉ cần đi ngủ đi. Bạn trông như đang gặp khó khăn khi nói chuyện vậy."@
+`"Đúng rồi, nhưng kể từ khi cậu thức rồi, Shiki, có vẻ lãng phí nếu tôi ngủ lúc này."@
+cl c,crossfade,400
+` Arcueid ngồi dậy trên giường và nói với giọng vui vẻ.@
+br
+`"[line=4]Chà."@
+` Ờ thì sao?@
+` Có một số điều tôi muốn hỏi, nên có lẽ ổn khi ở bên Arcueid.
+\
+playstop
+`"Arcueid. Tôi có thể hỏi về khách sạn hôm qua được không?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"... Đúng vậy. Có vẻ như chủ đề của chúng ta sẽ xoay quanh điều này."@
+`"[line=4]Đúng vậy. Tôi chỉ có một câu hỏi. Người đêm qua... người mà cậu gọi là Nrvnqsr... anh ta là ai vậy?@
+` Tôi đang nói nghiêm túc đây, nên đừng nói anh ta là một pháp sư có thể khiến cá sấu xuất hiện từ cơ thể mình.
+\
+ld c,"tachi/ark_t02",crossfade,400
+play "*4"
+`"Tôi sẽ không nói điều đó.@
+` Theo tôi biết, nhưng anh ấy cũng là một ma cà rồng. Chúng tôi gọi anh ấy là Nrvnqsr và anh ấy thực sự khác biệt.@
+` ... Để nói thật, anh ấy không phải là người mà bạn có thể trò chuyện thoải mái như vậy.@
+`"...@
+` Vậy nên anh ta thực sự là một ma cà rồng.@
+` Nhưng, vì lý do nào đó [line=4]như Arcueid ngồi trước mặt tôi, anh ta cũng không phù hợp với hình ảnh ma cà rồng trong đầu tôi.
+\
+`"Vậy thì Nrvnqsr... anh ta là loại người gì vậy? Bạn dường như biết anh ta hoặc điều gì đó."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Tất nhiên là không. Tôi không có bất kỳ mối quan hệ nào với những kẻ ma cà rồng. Biết về họ đồng nghĩa với việc tôi sẽ giết họ ngay lập tức. Đây là lần đầu tiên tôi gặp một ma cà rồng mà không giết nó."
+\
+`"Nhưng các cậu vẫn nói nhiều thứ."@
+`"Sẽ vội vàng nếu gọi anh ta là bạn bè chỉ vì điều đó. Nrvnqsr là một ma cà rồng nổi tiếng nên không cần giới thiệu khi chúng ta gặp nhau, vậy thôi."@
+` "Không có gì lạ khi biết tên của những ma cà rồng có sức mạnh bất thường và lịch sử lâu dài sao?"@
+` "Trong số đó, Nrvnqsr còn nổi bật hơn nữa."@
+` "Dù là một trong những ma cà rồng cổ nhất, anh ta không có lâu đài hay lãnh thổ và là một kẻ lang thang kỳ quặc."@
+` "Giáo Hội đã đặt cho anh ta một cái tên khác, Chaos."@
+` "Và đó là tất cả những gì tôi biết về Nrvnqsr."
+\
+`"…… Sự hỗn loạn?@ Điều đó là gì?"@
+`"Hỗn loạn thực sự là sự quằn quại, ngột ngạt.@
+` Giống như một hành tinh nguyên thủy nơi không ai biết sẽ xuất hiện điều gì sau khi trộn lẫn các thứ khác nhau…… một ý nghĩa tôi đoán từ đêm qua."@
+`"Không biết điều gì sẽ bay ra……?"
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Chà trời ơi. Cậu cũng thấy xác anh ta, Shiki. Chúng ta đã nói về điều này trước đó nhưng những ma cà rồng già không thể dễ dàng tái tạo lại cơ thể của họ."@
+` "Để khôi phục cơ thể sau hàng thế kỷ tồn tại, sinh mạng yếu ớt của con người không đủ."@
+` "Vì vậy, họ sử dụng các dạng sống cao cấp hơn, động vật hoang dã và quái thú ma thuật, như nguyên liệu thô để tạo nên cơ thể của họ."@
+` "... Là một trong những ma cà rồng già nhất, Nrvnqsr có lẽ thuộc hàng độc nhất vô nhị về số lượng quái thú mà anh ta đã bắt giữ và sử dụng cho cơ thể mình."
+\
+`"Một hạng mục riêng biệt[line=4]Những con chó đen đó là một phần của cơ thể anh ta thì sao?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Đúng vậy. Nhưng có giới hạn cho khả năng của con người. Có lẽ chỉ khoảng ba mươi quái thú có thể được kiểm soát cùng một lúc."@
+` "Có quá nhiều quái thú ảo như quái thú ma thuật hoặc linh hồn sẽ khiến khả năng của họ vượt quá giới hạn."@
+` "Vì vậy, tất cả những con vật nuôi của Nrvnqsr có lẽ đều là động vật thật."@
+` "…… Có thể đó là một điều may mắn."@
+br
+` "…… Tôi không hiểu rõ phần cuối cùng nhưng điều đó có nghĩa là có ba mươi con chó đen như vậy.
+\
+`"…… Không, điều đó không thể đúng.@ Những con chó đen không phải là những thứ duy nhất đang phá hủy khách sạn.@ Tôi nghĩ còn có những con sư tử và báo cũng vậy."@
+ld c,"tachi/ark_t02",crossfade,400
+`"Đúng rồi.@ …… Khả năng tập hợp ba mươi con vật cùng loại là một điều, nhưng Nrvnqsr có những sinh vật khác nhau trong cơ thể thực sự làm nổi bật sức mạnh ý chí của cậu so với người khác.@
+ld c,"tachi/ark_t03",crossfade,400
+` "Vậy thì, thật kỳ lạ khi nếu cậu sở hữu sức mạnh như vậy lại chỉ sử dụng động vật hoang dã.@
+` [line=4]Tôi nghĩ cậu sẽ sử dụng nhiều sinh vật ma thuật hơn với mức độ ý chí như vậy."@
+` "Ừm.@ Arcueid chìm sâu vào suy nghĩ.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Tất nhiên.@ Dù sao, chúng ta ít nhất cũng biết vũ khí của cậu là hai mươi hoặc ba mươi người bạn đồng hành."@
+` "Vậy là giờ tôi hiểu tại sao anh ta lại được gọi là Chaos."@
+`"Ồ...? Tên của anh ấy thực sự không phải là Chaos à?"@
+`"Đúng vậy, hầu hết các Tử Đồ sống lâu không dùng tên họ từng có khi còn là người. Nhưng họ cũng không tự đặt tên mới, Giáo Hội sẽ gán cho họ một cái."@
+` Họ thêm vào những đặc tính mới mà họ tìm thấy ở ma cà rồng, nên một số tên của họ dài như chú thích pháp thuật."@
+` "À... Tôi đoán Giáo Hội thực sự ghét anh ta đến mức đặt tên là Chaos.
+\
+`"...Và tôi nghĩ Giáo Hội thực sự ghét anh ta đến mức đặt tên là Chaos."@
+` "Sẽ đủ nếu chỉ có một con sư tử săn lùng cả khách sạn chứ? Nhưng anh ta thả tất cả những con quái vật của mình để ăn, điều đó cho thấy anh ta thích những hành động thái quá."@
+cl c,crossfade,400
+`"..."@
+` Có tới ba mươi con quái vật bên trong ma cà rồng Nrvnqsr.@
+` Chỉ với điều đó, hắn đã giết và ăn thịt một trăm người tại khách sạn mà không để lại dấu vết chỉ trong ba mươi phút.
+\
+`"[line=4] Tôi không thể tin được. Hắn là một sinh vật hoàn toàn quái dị."@
+ld c,"tachi/ark_t05b",crossfade,400
+`"Đúng vậy. Hắn thực sự là đối thủ tồi tệ nhất tôi có thể gặp phải vào lúc này. Hắn là loại người mà bạn không bao giờ muốn gặp mặt."@
+` Nhưng điều đáng sợ hơn là gã đó biết chúng ta ở đâu.@
+` Ngay cả bây giờ, tôi vẫn chắc chắn rằng những linh thú của hắn đang theo dõi chúng ta.@
+`"[line=4] Cái gì vậy?"@
+`"Đáng lẽ phải rõ ràng rồi. Chúng ta đã được cứu trước đó vì mặt trời mọc, nhưng chúng ta không thể dựa vào điều đó tối nay. Hắn biết về nơi này nên chắc chắn sẽ đến để giết chúng ta ở đỉnh cao quyền năng của mình vào nửa đêm."
+\
+`"Đến để giết chúng ta, tối nay……?"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Vâng, anh ấy tự nói như vậy."@
+cl c,crossfade,400
+br
+` [line=4]Điều này là gì?@
+` [line=4]Anh ấy… người đàn ông mặc áo choàng đen đó sẽ đến tối nay?
+\
+`"[line=6]"@
+` Tôi… không biết mình nên nói điều gì.@
+` Tôi nên trốn thoát. Tôi biết đó là quyết định khôn ngoan nhất.@
+` Nhưng Arcueid đang trong tình trạng này.@
+` Ngay cả khi cô ấy chạy trốn, tôi không nghĩ cô ấy có thể thoát khỏi con quái vật đó.
+\
+` Không, ít nói về cô ấy và nhiều hơn về tôi.@
+` Nếu tôi ở lại đây[line=4]nếu tôi tiếp tục gắn bó với Arcueid, không có sự nhầm lẫn rằng tôi sẽ đối mặt với anh ta.@
+br
+` Anh ta... rất nguy hiểm.@
+` Rõ ràng, anh ta không bình thường.@
+` Không chỉ cơ thể anh ta chứa đựng những sinh vật đó, đôi mắt anh ta giống như một cỗ máy.@
+br
+` Không có bất kỳ cảm xúc nào cả.@
+` Đôi mắt thật sự của một kẻ giết người, thực hiện bất cứ điều gì được giao cho họ.@
+` Khi đã trải qua cuộc tấn công của hắn, tôi chắc chắn mà không nghi ngờ gì nữa, hắn cần phải được tránh né.
+\
+`"[line=6]"@
+` Nhưng, điều đó có nghĩa là tôi nên để Arcueid ở đây và chạy trốn?@
+` Dù cô ấy là ai, cô ấy không thể di chuyển vì cô ấy đã bảo vệ tôi. Và tôi có thể chúc cô ấy may mắn rồi về nhà. [line=6]@
+br
+`"[line=4]Arcueid, tôi..."
+\
+playstop
+ld c,"tachi/ark_t01a",crossfade,400
+`"...nhưng không sao cả. Ngay cả Nrvnqsr cũng không phải là vấn đề với bạn. Dù là ai đi nữa, bạn có thể giết bất kỳ ai chỉ bằng một đòn."@
+`"[line=6]Huh?"@
+br
+` Arcueid nói... điều gì đó táo bạo,
+` Như thể điều đó hoàn toàn bình thường vậy.
+\
+`"[line=3]Này, cậu nói gì thế?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Cậu đang nói gì vậy? Cậu định đánh nhau với tôi à?"@
+` Arcueid nhìn thẳng vào mắt tôi.@
+` Đôi mắt cô ấy trao cho tôi sự tin tưởng tuyệt đối.@
+` Nhưng đây không phải là trò đùa.@
+` [line=6]Tôi...
+\

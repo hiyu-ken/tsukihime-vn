@@ -1,0 +1,75 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=4]Tôi sẽ đến phòng của Akiha.@
+br
+` …… Nghe nói Akiha dẫu dã vẫn chưa trở về biệt thự.@
+` Đồng nghĩa với việc nếu tôi cất bước vào phòng em ấy lúc này, tịnh không có một ai ở đó cả.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46b",lcartain,800
+play "*3"
+` Khi tôi đến phòng cô ấy...@
+` Căn phòng của Akiha tọa lạc ngay trung tâm của cánh đông biệt thự.@ Cách phòng tôi khoảng chừng bốn mươi mét, thế nên đây dẫu dã là một cơ hội hãn hữu để tôi thỏa trí tò mò.@
+`"[line=5]@
+` Tôi e dè nuốt nước bọt đầy vẻ bồn chồn.@
+` …… Trấn tĩnh suy nghĩ lại, hành vi lén lút này của mình dẫu dã là vô cùng nguy hại.@
+`"[line=2] Tôi không thể quay lại bây giờ!@
+` Cắn răng hạ quyết tâm, tôi nhẹ nhàng vặn tay nắm mở toang cánh cửa phòng Akiha.
+\
+bg #000000,lshutter,400
+bg "bg/bg_36c",lshutter,400
+`"[line=5]`@
+` …… Bản thân dẫu dã phần nào đoán trước… song khi tận mắt chứng kiến, tôi vẫn tịnh không thốt nên lời.@
+` Tôi ngẩn ngơ ngắm nhìn căn phòng bài trí xa hoa, tịnh không hề có chút dáng dấp nào của một nữ sinh trung học bình thường.@
+`"…… Tịnh không thấy giường ngủ…… chắc hẳn nó nằm ở phòng trong rồi."@
+` Mải mê chiêm ngưỡng sự tráng lệ của căn phòng, tôi suýt chút nữa dẫu dã đánh mất cả lý trí.@
+` Dẫu vẫn biết định lén lút khám phá căn phòng khi Akiha vắng nhà, song nơi tôn nghiêm quyền quý thế này tịnh không phải chốn để tôi có thể tự tiện ra vào thoải mái.
+\
+`"…… Tốt nhất nên mau cất bước rời đi trước khi bị Akiha bắt quả tang."@
+` Khẽ thở dài một tiếng, tôi xoay người định cất bước rời đi.@
+br
+` [line=4]Và...@
+br
+ld c,"tachi/aki_t03a",notrans,0
+`"Ồ tịnh không sao đâu ạ, xin Nii-san cứ tự nhiên thư thả."@
+br
+` [line=3]Akiha đứng trước cửa với đôi tay chéo trước ngực.
+\
+`"Á, Akiha[line=4]Em dẫu dã cất công trở về sớm thế sao……!?"@
+`"Dạ vâng, em vừa mới về tới biệt thự ạ.@ Nhưng điều quan trọng hơn dẫu dã là, Nii-san cất công lén lút vào phòng em một mình thế này, hẳn phải có chuyện hệ trọng muốn nói với em đúng không ạ?"@
+`"À[line=4]ừm..."@
+` Tôi e dè lùi lại dưới ánh nhìn chằm chằm đầy nghiêm nghị của Akiha.
+\
+`"À tịnh không[line=3]chuyện tịnh không có gì quan trọng đâu… Chỉ là anh nghĩ bụng muốn chuyện trò với em một lát thôi mà[line=3]"@
+`"Ồ, thật vậy sao?@ Lạ lùng ghê nhỉ.@ Nếu Nii-san thực lòng muốn nói chuyện với em, thì việc tự tiện mò vào phòng khi chủ nhân vắng mặt dẫu dã là vô nghĩa đúng không ạ?@ Lẽ thường dẫu dã là khi thấy phòng trống trơn, anh phải lập tức quay về phòng mình mới phải chứ?"@
+`"Thì cũng đúng, nhưng mà…… anh lại nghĩ bụng hay là cứ ngồi trong phòng đợi em một chút, hoặc giả như anh tịnh không có ý đó……"@
+ld c,"tachi/aki_t02",crossfade,400
+`"[line=7](Không có dòng nào để dịch ở đây)@
+` Ánh mắt Akiha trừng lên nhìn tôi ngày một sắc lạnh và nghiêm nghị hơn.@
+` …… Ôi trời, xem chừng tốt nhất dẫu dã là tôi nên lập tức cúi đầu tạ tội ngay lúc này.
+\
+`"…… Xin lỗi em.@ Chỉ là anh tò mò muốn biết căn phòng của em trông ra sao thôi."@
+`"Nói tóm lại dẫu dã là anh cất lực đột nhập trái phép vào phòng em chỉ vì sự tò mò vô bổ đó sao?"@
+`"Ơ[line=3]tịnh không, anh thề dẫu dã tịnh không hề có ý đồ xấu xa gì đâu mà[line=3]"@
+ld c,"tachi/aki_t07",crossfade,400
+`"Tịnh không quan trọng!@ Lén lút đột nhập vào phòng thiếu nữ thế này, gia giáo bên nhà Arima dạy anh thế đấy hả Nii-san!?"@
+`"Anh thực sự xin lỗi.@ Có lẽ dẫu dã do thói táy máy nghịch ngợm cùng sự ngu ngốc của anh mà ra."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"[line=7]"@
+` Ánh nhìn trừng trừng của Akiha dẫu dã khiến tôi vô cùng bứt rứt đau đớn.@
+` Bởi lẽ bản thân dẫu dã hoàn toàn sai trái, tôi tịnh không cách nào khác ngoài việc liên tục tạ lỗi.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"…… Thôi được rồi, lần này em dẫu dã rộng lượng bỏ qua cho anh.@ Mau cất bước trở về phòng mình trước khi chị Kohaku trông thấy đi ạ."@
+`"Anh... vô cùng xin lỗi em, Akiha."@
+` Xem bộ hóa ra người anh trai tôn kính dẫu dã chỉ là một gã nghịch ngợm thích táy máy thôi sao.@
+`"Nhưng Nii-san chớ nghĩ rằng mọi sự dẫu dã êm xuôi tại đây nhé.@ Em kỳ vọng sẽ được nhận sự đền bù thỏa đáng từ anh sau vụ này đấy."@
+cl c,lshutter,800
+` Chẳng hiểu sao, thanh âm của Akiha vừa mang vẻ đùa cợt trêu chọc lại vừa đầy ý vị đe dọa rợn tóc gáy khi em ấy cất bước tránh đường khỏi cánh cửa.@
+`"... "@
+` Tôi lủi thủi rời khỏi phòng Akiha, cõi lòng nặng trĩu ý thức rằng em ấy dẫu dã cất công nắm thóp được điểm yếu chí tử thảm hại của mình.
+\
+bg #000000,lcartain,800
+playstop
+!w1500

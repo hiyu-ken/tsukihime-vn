@@ -1,0 +1,60 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_32b",lcartain,800
+play "*1"
+` Tôi bước lên con đường và tiến gần đến căn biệt thự.@
+` Sau khi đi thêm một chút, tôi thấy Hisui đứng một mình ở cổng trước.@
+br
+`"……? Tôi tự hỏi Hisui đang làm gì?"@
+` Tôi nghiêng đầu sang một bên và tiến về phía cổng trước.@
+` Hisui nhận ra sự hiện diện của tôi và cúi đầu.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Chào mừng trở lại, Shiki-sama."@
+`"[line=3][line=3]Ừm... Cảm ơn, Hisui."@
+` Tôi chỉ có thể đáp lại khó khăn vì tôi bị bối rối trước sự tôn kính như vậy.@
+`"[line=3]Có phải bạn đang chờ tôi về nhà?"@
+`"Đúng vậy. Chào đón chủ nhân là nghĩa vụ của một người hầu."@
+` Cô ấy trả lời rất bình thản, thậm chí không chớp mắt.
+\
+`"Ồ, Hisui, thật vui khi cậu chờ tôi, nhưng thực sự không cần phải đứng ngoài đợi như vậy."@
+` "Tôi sẽ tự mình quay lại, nên cậu có thể chào tôi bất cứ lúc nào cậu nhận ra tôi đã trở về."@
+ld c,"tachi/his_t05",crossfade,400
+`"[line=5]"@
+` Mặt Hisui hơi u ám.@
+` "... Có lẽ...
+` Có lẽ cậu ấy đang chờ tôi như thế này vào thứ Bảy và Chủ Nhật.
+\
+`"[line=2]Hisui, ừm[line=2]"@
+ld c,"tachi/his_t01",crossfade,400
+`"Tôi hiểu rồi. Từ mai, tôi sẽ đợi cậu ở sảnh."@
+` Hisui nhanh chóng cúi chào và mở cổng biệt thự.@
+` Cô ấy quay lại khi đang làm vậy.
+\
+` ... *thở dài*@
+` Không hiểu sao, bầu không khí không thực sự thuận lợi cho việc trò chuyện.@
+` Hisui đóng cổng sau khi tôi đi qua, rồi cô ấy lặng lẽ đi đến lối vào mở cửa và dẫn tôi vào sảnh.
+\
+bg #000000,lcartain,800
+bg "bg/bg_40b",lcartain,800
+` Tôi đến phòng của mình.@
+` Akiha vẫn chưa về từ giờ học, Kohaku-san đang chuẩn bị bữa tối, còn Hisui thì dọn dẹp biệt thự.@
+br
+`"[line=3]Ôi trời, chẳng có gì để làm cả."@
+` Này thì, có một đống việc học, ôn tập và ghi nhớ mà một sinh viên như tôi phải làm.@
+` Nhưng, tôi thực sự không muốn làm gì cả.
+\
+` Bất ngờ, khuôn mặt của Arcueid hiện lên trong tâm trí tôi.@
+` Dù tốt hay xấu, nó có lẽ chỉ là phản ứng trước hai ngày điên rồ vừa qua của tôi.@
+` Có lẽ việc ở một mình trong phòng sẽ tốt cho tâm trí và trái tim tôi.
+\
+bg #000000,crossfade,800
+!w1500
+bg "bg/bg_40c",crossfade,800
+` Sau khi ăn tối một mình trong phòng ăn rộng lớn, Kohaku-san chăm sóc vết thương của tôi và tôi quay lại phòng.@
+` Akiha không kịp trở về kịp giờ tối. Bài học của cô ấy dường như kéo dài, nên cô ấy sẽ ăn ở nơi khác.@
+` Giờ đây đã quá mười giờ đêm.@
+` [line=2]Đã hơi sớm, nhưng vì tôi mệt mỏi, tôi nên ngủ sớm đêm nay.
+\
+playstop

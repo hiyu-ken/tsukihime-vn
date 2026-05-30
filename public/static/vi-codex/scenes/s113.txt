@@ -1,0 +1,23 @@
+monocro off
+playstop
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+` Tôi lang thang vô định ra ngoài thành phố.@
+` Tại sao tôi lại đi dạo ở đây mà không có lý do nào?@
+br
+bg "bg/bg_25a",crossfade,400
+ld c,"tachi/ark_t22",crossfade,400
+bg "bg/bg_25a",crossfade,400
+`"[line=4]Ừm."@
+` Đó chỉ là một sai lầm.@
+` Không có cách nào cô ấy vẫn còn ở đây, và thực sự tôi không có lý do gì để nói chuyện với cô ấy.
+\
+` Vậy tại sao tôi lại nghĩ đó là cô ấy?@
+` [line=4]Tại sao tôi lại lang thang vô ích trong thành phố như thế này?@
+br
+`"... Tôi phải quay trở về biệt thự."@
+` Tôi lắc đầu như thể đang cố làm rõ tâm trí sau khi say và quay lưng lại với ảo ảnh không tồn tại của Arcueid.
+\
+bg #000000,crossfade,800
+!w1000

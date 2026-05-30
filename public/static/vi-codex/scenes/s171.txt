@@ -1,0 +1,139 @@
+monocro off
+play "*3"
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_27a",lcartain,800
+play "*3"
+` Vì thời tiết hôm nay rất đẹp nên tôi quyết định đưa hai đứa đến công viên.@
+` Chúng tôi có thể ngồi nghỉ ngơi thư giãn ở đó một chút trước khi chuyển sang một địa điểm khác thích hợp hơn sau này.
+\
+bg "bg/bg_28a",lcartain,800
+` Chúng tôi bước vào khuôn viên công viên.@
+` Dẫu vẫn đang là giữa trưa, nơi đây đã có khá đông những nhóm học sinh bằng tuổi tôi tụ tập vui chơi.
+\
+ld c,"tachi/ark_t01a",lshutter,800
+`"Oa, ban ngày ở đây đông vui nhộn nhịp thật đấy.@ Đêm qua tôi và cậu gặp nhau ở đây, trông nó cứ như một thế giới hoàn toàn khác vậy."@
+` Arcueid tỏ ra vô cùng hào hứng rạng rỡ.@
+` Tôi ban đầu chỉ định đưa cô ấy đi dạo quanh công viên cho mát, nhưng cô ấy có vẻ cực kỳ hài lòng chứ không hề tỏ ra thất vọng chút nào.
+\
+`"Ơ kìa, đằng kia có quầy bán đồ ăn đúng không nhỉ?@ Shiki ơi, người ta đang bán cái gì thế kia?"@
+` Arcueid phấn khích chỉ tay về phía một quầy hàng di động.@
+` Ngay bên cạnh đài phun nước trung tâm có một chiếc xe đẩy bán kem di động.
+\
+`"Đó là xe bán kem ngoài trời đấy.@ Thời tiết thu lạnh thế này ăn đồ lạnh không tốt cho sức khỏe đâu, nên chúng ta bỏ qua nhé." Tôi vội vàng ngăn câu hỏi định đòi ăn của cô ấy lại trước khi cô ấy kịp mở lời.@
+ld c,"tachi/ark_t11",crossfade,400
+` Dù cô ấy có bĩu môi làm vẻ mặt phụng phịu đáng yêu đến thế nào đi nữa, tôi vẫn nhất quyết giữ quan điểm ăn kem vào mùa thu lạnh thế này là không tốt chút nào.
+\
+` [line=4]Nhưng bỗng nhiên, tôi cảm nhận được một sự bứt rứt kỳ lạ.@
+` Tôi thấy việc bước đi bên cạnh cô ấy bỗng trở nên vô cùng khó chịu, khi mọi người xung quanh cứ liên tục đổ dồn ánh mắt về phía hai chúng tôi...
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Shiki này, cậu quen biết mấy người đằng kia sao?"@
+`"Không đời nào. Ở cái trường này chỉ có mỗi thằng Arihiko là hay cúp học lang thang thôi, sao cậu lại hỏi thế?"@
+`"Hửm, tại tôi thấy có rất nhiều người cứ nhìn chằm chằm về phía hai chúng ta, nên tôi cứ ngỡ cậu quen biết họ chứ."@
+`"... Ra vậy. Hóa ra đó mới là nguyên nhân làm tôi thấy bứt rứt nãy giờ."
+\
+` Giờ thì tôi đã hiểu rõ lý do tại sao rồi.@
+` Tôi chỉ đơn thuần muốn tìm một bãi cỏ yên tĩnh để hai đứa ngồi nghỉ ngơi, nhưng ánh mắt của mọi người xung quanh cứ liên tục lén lút đổ dồn về phía chúng tôi.@
+` Chẳng cần nói ra thì ai cũng biết, mục tiêu của những ánh nhìn ái mộ đó là Arcueid xinh đẹp tuyệt trần đứng bên cạnh, chứ tuyệt đối không phải là một gã tầm thường như tôi.
+\
+` Tôi đã cố lờ đi không để ý, nhưng quả thực diện mạo của Arcueid nổi bật và xinh đẹp đến mức không tưởng. Việc rảo bước bên cạnh cô ấy giữa công viên đông người chỉ tổ biến hai đứa thành tâm điểm chú ý của mọi người mà thôi.@
+br
+` Mấy gã trai đang ngồi giết thời gian ở công viên cứ trố mắt nhìn chằm chằm vào cô ấy đầy thèm muốn.@
+` ... Không hiểu sao, lồng ngực tôi bỗng trào dâng một cảm giác bực dọc, khó chịu vô cớ hệt như đang ghen tị vậy.
+\
+`"Arcueid, chúng ta đi chỗ khác đi."@
+` Tôi nắm chặt lấy bàn tay mềm mại nần nà của cô ấy rồi kéo nhanh cô ấy đi thẳng về phía khu vực sân sau vắng vẻ của công viên.@
+bg "bg/bg_29a",lcartain,800
+` Nơi hai chúng tôi thường hẹn gặp nhau vào ban đêm vắng vẻ và ít người qua lại hơn nhiều so với khu vực đài phun nước trung tâm sầm uất lúc nãy.@
+` ... Ở đây ít nhất cũng yên tĩnh và dễ chịu hơn hẳn, tôi thở phào nhẹ nhõm.
+\
+`"Chúng ta ngồi nghỉ ở đây một lát nhé. Tôi đi mua chút nước uống đây, cậu có muốn uống gì không?"@
+` Tôi buông bàn tay mềm mại của cô ấy ra rồi quay sang hỏi.
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"Ơ... ừm, cho tôi xin một chai nước lọc nhé?"@
+`"Được rồi. Cậu cứ ngồi chờ trên chiếc ghế băng kia đi nhé... Nhớ kỹ là nếu có gã nào đến bắt chuyện làm quen thì tuyệt đối đừng thèm bận tâm nghe họ nói gì đấy."@
+` Nói rồi, tôi rảo bước nhanh về phía máy bán nước tự động gần đó.
+\
+bg #000000,lshutter,400
+bg "bg/bg_29a",lshutter,400
+` Dù trời đã quá trưa, hai chúng tôi vẫn ngồi nán lại công viên vắng vẻ.@
+` ... Tôi không rõ lý do tại sao, nhưng Arcueid bỗng trở nên vô cùng im lặng kể từ khi hai đứa chuyển đến góc vắng này.@
+` Cô ấy thậm chí còn chưa thèm mở chai nước lọc tôi mua cho, chỉ lặng im ngắm nhìn quang cảnh công viên xung quanh đầy suy tư.
+\
+` Chúng tôi lặng lẽ ngắm nhìn đàn chim bồ câu chao lượn trên bầu trời xanh và những đứa trẻ đang vui vẻ chạy nhảy nô đùa cùng mẹ chúng trên bãi cỏ.
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"Này, Shiki."@
+`"Hửm?@ Cậu thấy chán rồi sao?@ Nếu muốn, chúng ta có thể rời đây đi tìm quán ăn trưa chút nhé."@
+`"Không, không phải thế... Tôi chỉ đang nghĩ về chuyện xảy ra lúc nãy thôi."@
+`"……?"@
+` Lúc nãy? …… Cô ấy đang nói về chuyện gì thế nhỉ?
+\
+`"Tôi không hiểu lắm.@ Ý cậu là chuyện gì cơ?"@
+`"Là lúc nãy khi cậu bất ngờ nắm chặt lấy tay tôi kéo đi ấy.@ Trước đây hai chúng ta cũng từng tiếp xúc thân thể vài lần, nhưng luôn là vì một lý do bắt buộc nào đó.@ Nhưng khi nãy, rõ ràng chẳng có lý do bắt buộc nào cả, nên tôi cứ thắc mắc hành động đó nghĩa là gì."@
+`"Nghĩa là gì á...[line=4] Thật ra làm gì có ẩn ý hay lý do to tát gì đâu chứ."
+\
+` Nói ra câu đó, chính bản thân tôi cũng thấy ngượng ngùng bối rối.@
+` …… Nghĩ lại thì, đúng là tôi đã hành động vô lý khi tự tiện nắm tay kéo cô ấy đi hệt như một cặp đôi yêu nhau vậy.@
+` Thậm chí lúc đó lý trí tôi còn chưa kịp suy nghĩ xem tại sao mình lại làm như thế nữa.
+\
+`"Cậu đừng bận tâm làm gì. Chuyện nhỏ nhặt thôi mà. Hành động bột phát ngoài ý muốn đó... chỉ là bản năng phản xạ tự nhiên của con người thôi."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ra là vậy sao. Con người các cậu thường làm rất nhiều việc mà chẳng cần lý do cụ thể nhỉ... Cậu toàn làm mấy chuyện vô bổ thôi hà."@
+` Arcueid khẽ mỉm cười đầy thích thú trước lời giải thích gượng gạo của tôi.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Này Shiki. Tuy hơi chệch đề tài một chút, nhưng ngày bé cậu có thường chơi đùa vui vẻ như lũ trẻ đằng kia không?"@
+` Cô ấy ngước mắt hỏi đầy tò mò.@
+` Nhìn theo ánh mắt cô ấy hướng về phía những đứa trẻ đang nô đùa trên bãi cỏ, tôi đoán cô ấy đang thắc mắc về thời thơ ấu của con người.
+\
+`"... Ừm, chắc là có. Ngày bé tôi cũng chơi đùa nhiều lắm, nhưng hầu như chỉ quanh quẩn nghịch ngợm bên trong biệt thự thôi. Tôi hiếm khi được ra ngoài chơi ở những công viên công cộng rộng lớn thế này."@
+br
+` "... Phải. Bạn chơi cùng tôi ngày đó chỉ quanh đi quẩn lại có Akiha và một vài người khác mà thôi. Tôi chưa bao giờ được chơi đùa thoải mái cùng những đứa trẻ xa lạ khác như lũ nhóc kia cả."@
+br
+` Nghĩ lại thì, tuổi thơ của tôi cũng...
+` chẳng khác nào một đứa trẻ bị cô lập hoàn toàn khỏi thế giới bên ngoài vậy.
+\
+`"Còn cậu thì sao, Arcueid?@ …… Nếu cậu không muốn nói thì cũng không cần kể đâu nhé."@
+` …… Đúng vậy, ma cà rồng làm gì có khái niệm thời thơ ấu, tôi tự trách mình vì đã lỡ lời hỏi một câu thiếu tế nhị như thế.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Không sao đâu mà.@ Đúng như cậu nghĩ đấy, tôi làm gì có thời thơ ấu cơ chứ.@ Khi cơ thể tôi còn chưa phát triển hoàn thiện, tôi chỉ việc nằm ngủ say sưa suốt hàng trăm năm liền, và chỉ được đánh thức dậy hoạt động khi sức mạnh đạt đến trạng thái đỉnh cao nhất thôi."@
+` "Đối với tôi, chuyện đó thật kỳ lạ.@ Thời thơ ấu và tuổi già đều là những giai đoạn cơ thể yếu ớt vô dụng nhất, sao sinh vật các cậu lại có thể sinh tồn qua những khoảng thời gian đó được nhỉ?"@
+` Cô ấy nói đầy đăm chiêu, giống như đang tự hỏi chính bản thân mình hơn là chất vấn tôi.
+\
+`"…… Arcueid?"@
+`"Không có gì đâu mà. Đây là lần đầu tiên trong đời tôi được trải nghiệm cảm giác ngồi không dành thời gian làm mấy việc vô bổ thế này, nên đầu óc tôi bỗng suy nghĩ vẩn vơ chăng."@
+cl c,crossfade,400
+` Dứt lời, Arcueid đứng dậy khỏi ghế băng công viên.@
+` Tôi cũng vội đứng lên bước theo cô ấy.@
+` ... Hai đứa đã ngồi tắm nắng ở đây suốt hơn hai tiếng đồng hồ rồi, có lẽ cũng đến lúc nên quay trở lại khu phố sầm uất.
+\
+`"[line=4]Ừm, nếu cậu thấy đi dạo với tôi chán ngắt thì cứ thẳng thắn nói ra nhé."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ai bảo cậu là chán ngắt chứ, tuy không có gì kịch tính nhưng bình yên lắm.@
+` Tôi thậm chí còn ước thời gian có thể trôi chậm lại để được ở bên cậu thế này lâu hơn nữa đấy. Shiki không thích thế sao?"@
+`"Hả...?"
+\
+` Đúng vậy, dẫu không có hoạt động giải trí gì đặc biệt, buổi đi dạo này vẫn cực kỳ thú vị và dễ chịu.@
+` Nghĩ lại thì, việc được thảnh thơi ngồi tắm nắng ấm áp bên cạnh Arcueid quả thực là một trải nghiệm vô cùng quý giá mà tôi chưa từng dám nghĩ tới trước đây.
+\
+`"[line=4]Phải rồi, không tệ chút nào cả.@ Nhưng trước mắt, chúng ta nên đi tìm quán ăn gì đó đi.@ Từ sáng tới giờ tôi chưa bỏ bụng thứ gì cả, đói cồn cào cả ruột gan rồi đây."@
+` Vừa trò chuyện bình thường, chúng tôi vừa rảo bước đi ra khỏi công viên.
+\
+`"[line=6]Mmm..."@
+` Trong một khoảnh khắc ngắn ngủi, tôi bỗng có ý định muốn chủ động nắm lấy bàn tay cô ấy một lần nữa, nhưng lập tức rụt ý nghĩ đó lại ngay.@
+` Lúc nãy hành động bột phát nắm tay kéo đi là vì tình thế bắt buộc, nên mọi chuyện diễn ra vô cùng tự nhiên.@
+` Nhưng bây giờ khi đầu óc đã tỉnh táo hoàn toàn, việc chủ động nắm tay cô ấy mà không có lý do gì rõ ràng bỗng trở nên vô cùng ngượng ngùng và gượng gạo.
+\
+` Việc mất kiểm soát hành vi vừa rồi quả thực là kết quả của những suy nghĩ thiếu trong sáng trong đầu tôi mà.@
+br
+`"Hôm nay mình đúng là nghĩ nhiều chuyện vớ vẩn thật đấy."@
+br
+` Trời ạ. Quả đúng như Arcueid nói, hôm nay tôi toàn tự mình làm mấy việc vô bổ không đâu mà.
+\
+bg #000000,lcartain,1500
+playstop
+!w1000

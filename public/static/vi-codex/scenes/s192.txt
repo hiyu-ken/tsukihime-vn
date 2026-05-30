@@ -1,0 +1,60 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+` [line=4]@
+br
+` Nếu cơ thể Arcueid thực sự kiệt quệ như lời Senpai nói, cô ấy chắc chắn phải quay về căn hộ của mình để nghỉ ngơi.
+\
+bg "bg/bg_12b",lcartain,800
+` Tôi thở dốc dồn dập dường như không thể hít nổi khí trời.@
+` Đôi chân chạy thục mạng với tốc độ tối đa cuối cùng cũng chịu dừng lại.@
+` Cố gắng điều hòa lại hơi thở, tôi vội vã bước vào trong khu căn hộ.
+\
+bg "bg/bg_13b",lcartain,800
+` …… Tôi đặt tay lên nắm cửa phòng cô ấy.@
+` Cửa không khóa.@
+` Không một chút chần chừ, tôi lập tức vặn nắm cửa và bước vào trong.
+\
+bg #000000,crossfade,800
+bg "bg/bg_15b",crossfade,800
+` …… Dẫu cửa không khóa, nhưng bên trong hoàn toàn vắng lặng, chẳng có một bóng người.
+\
+br
+`"Arcueid... Cậu có ở đây không?"@
+br
+` Đáp lại tôi chỉ là sự tĩnh lặng chết chóc.@
+` "Có phải cậu chưa bao giờ khóa cửa? Hoàn toàn không có dấu vết nào chứng tỏ cô ấy đã quay lại đây."
+\
+`"Khốn kiếp thật... Vậy là cậu vẫn còn lang thang ngoài thành phố sao?!"@
+` Tôi đấm mạnh lên bức tường lạnh lẽo.@
+` Nhưng dẫu tôi có nổi giận đấm tường thì Arcueid cũng chẳng thể xuất hiện trước mặt tôi được.@
+`"... Cậu đang ở đâu chứ... Cậu đi đâu rồi, Arcueid... Có nghe tôi gọi không?!"@
+br
+` [line=6]Nếu thực sự có thần linh trên đời này, tôi chỉ muốn cầu xin ngài hãy chỉ lối cho tôi.
+\
+` Arcueid không có ở đây.@
+` Nhưng tôi cũng chẳng thể tìm thấy cô ấy nếu cứ lang thang vô định ngoài kia.@
+` [line=4]Cứ đà này, tôi sẽ vĩnh viễn không bao giờ có thể gặp lại cô ấy nữa.@
+br
+`"[line=6]Thật đáng ghét."@
+` Không, tôi chưa xong.@
+` Tôi chưa thực hiện được lời hứa với Arcueid. Lời hứa cùng cô ấy đánh bại ma cà rồng, và lời hứa gặp mặt tối nay để chúng tôi sát cánh chiến đấu.
+\
+`"... Lời... hứa... "@
+` Đúng vậy. Chúng tôi vẫn còn lời hứa hẹn.@
+` [line=4]Dẫu chỉ có một mình, tôi vẫn sẽ kiên định thực hiện lời hứa của chúng tôi.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+` Tôi quay trở lại công viên.@
+` Lời hứa của chúng tôi vẫn luôn ở nơi này.@
+` Lời hẹn ước chưa thành của đêm nay vẫn đang chờ đợi.@
+br
+` [line=4]Chính vì thế,
+` Nếu tôi kiên quyết giữ trọn lời hứa này, và nếu cô ấy cũng coi trọng nó...
+br
+` Arcueid chắc chắn sẽ quay trở lại đây.@
+` Tôi chỉ còn biết tiếp tục tin tưởng vào cô ấy và đứng đây chờ đợi.
+\
+bg #000000,crossfade,1500

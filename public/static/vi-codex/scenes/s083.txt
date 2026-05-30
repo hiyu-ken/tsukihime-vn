@@ -1,0 +1,27 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_19d",notrans,0
+` …… Điều này rất đáng ngờ.@
+` Có điều rất đáng ngờ về cách cô ấy nói 'Tôi sẽ không phá chúng'.
+\
+` [line=2]Ngay cả chỉ để nhìn. Tôi biết về sức mạnh phi thường của bạn sau khi thấy bạn ở con hẻm đó. Nếu bạn vô tình nghiền nát chúng thì tôi sẽ làm gì?@
+ld c,"tachi/ark_t16",crossfade,400
+` Ê! Cậu có nghĩa là 'sức mạnh phi thường'? Hãy để tôi nói cho cậu biết, về sức mạnh không chiến đấu, cậu mạnh hơn tôi. Tôi sẽ không phá vỡ những thứ một cách ngẫu nhiên.@
+` Nói vậy, Arcueid giơ tay ra như thể cô ấy sắp lấy chúng bằng vũ lực.@
+br
+` …… Thái độ của cô ta ngày càng đáng ngờ hơn.
+\
+cl c,lshutter,800
+` Tôi nhảy khỏi giường để tránh xa cô ta.@
+ld c,"tachi/ark_t06",crossfade,400
+` Ê, cậu đang chạy trốn.@
+` Tất nhiên.@ Tôi sẽ nói cho cậu biết ngay bây giờ: tôi sẽ không giao những chiếc kính này.@ Ngay cả khi chỉ có một trong một triệu cơ hội bạn sẽ phá vỡ chúng, chúng là vô giá đối với tôi.@ Sau tất cả, chính cậu đã nói rằng tôi sẽ không thể giữ được bình tĩnh mà không có những chiếc kính này.@ Cậu muốn tôi điên lên sao?
+\
+ld c,"tachi/ark_t03",crossfade,400
+` Huh? N… không, không phải như vậy đâu.@
+` …… Arcueid rõ ràng đang cố gắng không nhìn tôi.@
+cl c,crossfade,400
+` [line=2]C'mon, Arcueid.@
+` Tôi không biết cậu đang lên kế hoạch gì, nhưng nếu tôi mất những chiếc kính này, tôi sẽ không có khả năng giúp cậu.@ Nếu tôi phải nhìn thấy những đường kẻ đó suốt 24 giờ một ngày, tôi nghĩ tôi sẽ chết vì đau đầu trước khi điên cuồng.
+\

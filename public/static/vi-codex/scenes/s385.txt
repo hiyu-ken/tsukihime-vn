@@ -1,0 +1,443 @@
+monocro off
+play "*7"
+wavestop
+bg "bg/bg_54a",notrans,0
+br
+` Tôi tịnh không tin cái chết dẫu dã là phương cách để cứu rỗi bất kỳ một ai.@
+br
+` Ấy dẫu dã là chân lý tôi luôn mang theo bên mình kể từ khi được cất công cứu mạng vào tám năm trước.@
+` Dẫu cho có phải trải qua đau đớn bĩ cực hay gian truân thế nào, dẫu dã chỉ cần còn sống trên đời dẫu dã là một niềm hạnh phúc khôn tả.
+\
+` Do đó, nếu nguyện trung thành với đức tin của bản thân, tôi tuyệt đối tịnh không được phép tự kết liễu mạng sống của chính mình.@
+` Vả lại, Akiha lúc này dẫu dã tịnh không phải là đã chết.@
+` Chỉ cần em ấy còn sống, biết đâu dẫu dã có một ngày nào đó nếu tôi cất lực chăm nom, em ấy sẽ hồi phục trở lại.@
+` Tôi biết việc dễ dàng buông bỏ cuộc đời mình có nghĩa là bạn mắc phải ảo tưởng rằng cái chết là vinh quang.
+\
+`"[line=6] Nhưng vẫn thế."@
+br
+` Tôi vẫn muốn Akiha hạnh phúc.@
+` Tôi chỉ mong Akiha hạnh phúc hơn tôi nhiều.@
+` Hơn nữa,
+` Tám năm trước tôi đã chết, và Akiha đã ban cho tôi giấc mơ này suốt thời gian qua.@
+br
+` Đây chỉ là việc trả lại điều từng thuộc về cô ấy.@
+` Không có lý do để buồn bã và không có gì để mất.@
+` Đó là một kết thúc nơi mọi thứ quay trở lại nguồn gốc ban đầu.
+\
+bg "bg/bg_54a",crossfade,800
+` Lá thu rơi.@
+` Akiha nằm trên mặt đất màu đỏ.@
+` Tóc cô ấy trên mặt đất màu đỏ. Nó chảy qua những chiếc lá đỏ như tan chảy trong chúng.@
+` Mặt cô ấy có vẻ bình yên, như đang mơ một giấc mơ hạnh phúc.
+\
+`"... Trời ơi, đừng bị cảm khi ngủ ở nơi này."@
+` Tôi thì thầm với giọng bình thường nhất có thể và nhìn xuống cơ thể mình.@
+` Những "dấu hiệu" trải dài trên toàn bộ cơ thể tôi.@
+` Tôi liếc xem dấu hiệu nào sẽ giết tôi dễ dàng nhất.
+\
+`"... Tôi phải trả lại những gì tôi đã vay mượn từ lâu. Tôi đã vay nó quá lâu, nhưng tôi vẫn có thể trả lại cho bạn đúng thời hạn. Đúng rồi, Akiha?"@
+` ... Nếu cơ thể này đang được giữ sống bởi Akiha,
+` thì nếu tôi bị loại bỏ, cuộc sống nên quay trở về chủ nhân ban đầu của nó.
+\
+` Tôi đặt con dao lên người mình.@
+` Trái tim tôi hét lên rất to.@
+` Tôi vẫn còn sợ hãi.@
+` Vì tôi sợ, nên tôi nhìn mặt ngủ của Akiha để có thể rời đi bình tĩnh.
+\
+`"[line=3]Chết tiệt, tôi cứ liên tục phá vỡ lời hứa với Akiha."@
+` Cảm giác quen thuộc về cái chết.@
+` Con dao của tôi xuyên qua "dòng" dễ giết tôi nhất.@
+` Vào khoảnh khắc đó,
+` như thể thứ gì đó kiểm soát cơ thể tôi bị lỗi, toàn bộ cơ thể tôi ngừng hoạt động.@
+br
+bg #000000,notrans,0
+!w500
+bg "bg/bg_54a",notrans,0
+` Tôi ngã xuống Akiha.
+\
+` Khi bắt đầu ngất đi, tôi nhìn những chiếc lá thu rơi.@
+br
+` Chúng dày đặc như tuyết.@
+` Có lẽ vì nó quá đẹp.@
+br
+` Trí óc tôi trở nên trống rỗng như đang ngủ.
+\
+bg #ffffff,crossfade,800
+br
+br
+` Mặt trăng xa xôi.@
+` Mặt trời mùa hè trắng xóa.@
+br
+` Và âm thanh.@
+!w1000
+` Âm thanh của những con chuồn chuồn.
+\
+bg #000000,crossfade,1500
+playstop
+!w4000
+[hình nền "bg/cmo_05b", l, aki, 13a, epi]
+bg #ffffff,crossfade,800
+play "*2"
+` [line=5]Ánh nắng ấm áp.@
+br
+` Tôi cảm nhận ánh nắng chiếu vào từ cửa sổ và chậm rãi mở mắt ra.
+\
+bg "bg/bg_40a",crossfade,400
+`"... Ừm."@
+` Tôi bắt đầu tỉnh giấc.@
+` Không gian bên ngoài cửa sổ là một bầu trời xanh trong, và nó báo hiệu ngày hôm nay sẽ rất đẹp.@
+`"[line=6]Hwaa..."@
+` ... Có thể là do tôi ngủ trên giường không quen, nhưng cơ thể tôi cảm thấy hơi nặng nề.@
+` Tôi duỗi người và đứng dậy.
+\
+wave se_04
+` Tôi nghe thấy tiếng gõ cửa.@
+ld c,"tachi/his_t16",lshutter,800
+`"Xin lỗi."@
+` Hisui bước vào với một cú cúi chào.@
+` Hisui đóng cửa như thể cô ấy đã rất quen với việc này.@
+cl a,crossfade,400
+`"[line=10]Ah"@
+` ... Một buổi sáng yên tĩnh.@
+` [line=3]Khi nhìn cô ấy hành xử như thể bước vào phòng này là điều tự nhiên của cô ấy, tôi cảm thấy một lúc nào đó đây là phòng của tôi.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Chào buổi sáng, Akiha-sama. Bạn có ngủ ngon đêm qua không?"@
+`"Có, tôi đã ngủ rất ngon. Xin lỗi vì nói những điều ích kỷ như tôi muốn ngủ trong phòng anh trai."@
+ld c,"tachi/his_t04",crossfade,400
+`"... Không, không có vấn đề gì. Tôi nghĩ... Shiki-sama cũng vui khi bạn sử dụng phòng này."@
+` Hisui nói lắp bắp.@
+`"Tôi hiểu rồi. Cậu không dễ bỏ cuộc, Hisui à. Anh trai cậu chắc chắn sẽ vui khi biết rằng cậu quan tâm đến anh ấy như vậy."
+\
+ld c,"tachi/his_t17",crossfade,400
+`"[line=6]Akiha-sama...!!"@
+`"Đúng vậy mà, phải không? Tôi sẽ thay đồ và đi vào phòng khách. Cậu có thể nói với Kohaku thay mình được không?"@
+`"... Vâng. Xin lỗi, Akiha-sama."@
+cl a,lshutter,400
+` Hisui rời khỏi phòng một cách lặng lẽ.@
+` Phòng bỗng trở nên trống trải.@
+` ... Anh trai tôi không mang theo bất kỳ đồ đạc nào ở đây; chỉ có một chiếc giường và bàn viết.
+\
+`"…… Thật sao? Làm sao anh trai cậu có thể ngủ trong một căn phòng trống trơn như vậy?"@
+` Tôi bất ngờ.@
+` Tôi sẽ lấy cho cậu ấy bất cứ điều gì cậu ấy muốn, nhưng anh trai tôi không xin điều gì cả.@
+` ... Tôi nghĩ cậu ấy đang giữ một chút khoảng cách, nhưng bản chất của cậu ấy là người không có ham muốn vật chất.@
+` Cậu ấy như vậy từ khi chúng tôi còn nhỏ.@
+` Cậu ấy mỉm cười nói rằng cậu ấy không cần gì và hạnh phúc nếu chúng tôi ở bên cậu ấy.
+\
+` Nhưng điều đó khiến tôi lo lắng.@
+` Cậu ấy không để lại gì và không bị ràng buộc bởi bất cứ điều gì.@
+` Và cậu ấy đã cho tôi biết từ khi còn nhỏ rằng tự do đồng nghĩa với sự cô đơn.@
+br
+`"[line=10]Tôi nhìn ra cửa sổ."@
+br
+` Tôi ngắm cảnh quan mà Nii-san thường xuyên quan sát.@
+` Rừng rực sáng dưới bầu trời xanh.@
+` Sau đó, tôi dần tỉnh lại.
+\
+bg #000000,tshutter,800
+playstop
+bg "bg/ima_03",bshutter,800
+play "*9"
+br
+` [line=4]Trong khu vườn đầy lá khô.@
+br
+` Tôi di chuyển cơ thể đang yếu ớt.@
+` …… Tôi vẫn còn sống. Tóc đen trở lại, và tôi không còn cảm thấy cơn thịnh nộ trong máu mình.@
+` (Shiki cảm nhận được một sự thay đổi kỳ lạ, như thể một lớp bụi thời gian đã bị xóa sạch.)@
+` Tôi cảm thấy khá tốt và gánh nặng mà tôi luôn mang trong người bỗng nhiên biến mất, gần như nó không từng tồn tại.
+\
+` Vâng, kể từ khi tôi còn nhỏ.@
+` Gánh nặng mà tôi mang từ khi mong muốn cứu anh trai mình đã tan biến, như thể nó chưa bao giờ có.@
+` ... Gánh nặng đó đau đớn với tôi, nhưng cũng là thứ giúp tôi cảm thấy nhẹ nhõm.@
+` Tôi luôn chỉ có nửa năng lượng và luôn cảm thấy gánh nặng, nhưng tôi vẫn hạnh phúc.@
+` Vì gánh nặng đó là anh trai tôi, và tôi có thể cảm nhận được anh ấy miễn là tôi còn cảm thấy gánh nặng.
+\
+` Nhưng nó bắt đầu trở nên nhẹ nhàng hơn rất nhiều.@
+` Tôi ngước nhìn khu vườn xung quanh.@
+` Tôi không thể nhìn thấy Tohno Shiki ở đâu cả trong đêm rơi lá ấy.@
+` Sau đó, tôi hiểu ra.@
+` Tại sao tôi có thể sống tiếp.@
+` Và tại sao Tohno Akiha quay lại thành chính mình.
+\
+bg #000000,tshutter,800
+playstop
+bg "bg/bg_40a",bshutter,800
+`"……………………@
+` Không khí bên ngoài thật dễ chịu, nhưng tôi không thể ở như vậy mãi.@
+` Tôi phải thay đồ và ăn sáng để đến trường đúng giờ.
+\
+bg #000000,crossfade,800
+bg "bg/bg_34a",lcartain,800
+play "*2"
+` Tôi xuống nhà bếp và hoàn tất bữa sáng.@
+` Đã qua lúc 6 giờ một chút. Tôi có thể thư giãn thêm vài phút nữa.
+\
+ld c,"tachi/his_t18",lshutter,400
+`"Akiha-sama."@
+`"Ừm? Cái gì vậy, Hisui? Cậu cũng muốn thư giãn à?"@
+`"... "@
+` Hisui nhìn tôi với biểu cảm giận dữ... không, có lẽ là cô ấy đang nhìn chằm chằm vào tôi.@
+` Điều này khá bất thường đối với Hisui bình tĩnh thường ngày.@
+`"..." Nó dường như... không phải là cậu muốn cùng tôi uống trà buổi sáng. Có điều gì đó muốn nói à?@
+`"... Vâng. Xin lỗi vì sự thô lỗ của tôi, nhưng tại sao cậu lại chuyển trường lần nữa, Akiha-sama?"
+\
+` [line=5]Tôi hiểu rồi. Nó liên quan đến việc đó.@
+` Sự thật là tôi quay lại trường cũ phải có ý nghĩa gì đó với Hisui vì cô ấy không tin anh trai tôi đã chết.
+\
+`"Tại sao bạn hỏi? Tôi chuyển đến trường đó vì anh trai tôi ở đó. Bây giờ khi lý do đó không còn, tự nhiên tôi sẽ trở về."@
+ld c,"tachi/his_t17",crossfade,400
+`"... ..."@
+` Không có vẻ như Hisui bị thuyết phục.@
+`"Hoặc điều gì đó khác ư? Bạn đang nói tôi nên ở lại trường đó ngay cả khi anh trai tôi không còn ở đó sao?"@
+`"Đúng vậy. Nó không phải Shiki-sama đã qua đời. Nếu có chuyện như thế xảy ra, Shiki-sama sẽ buồn."
+\
+`"Không thể nào. Làm sao người không còn ở đây nữa có thể cảm thấy buồn, Hisui?"@
+cl c,crossfade,400
+` Tôi đứng dậy khỏi chiếc sofa.@
+` ... Vẫn còn sớm nhưng tôi nên đi thôi.
+\
+`"Hisui, cậu có thể bảo Kohaku chuẩn bị không?"@
+` Ừm, và từ bây giờ tôi sẽ sống trong ký túc xá, nên tôi để hai người trông coi biệt thự nhé.@
+` Tôi sẽ làm thủ tục chính thức trong tuần này, nên khi về nhà tôi sẽ đưa cho các bạn chi tiết.@
+`"[line=11]Akiha-sama!"@
+`"Có chuyện gì vậy? Hisui, cậu còn điều gì muốn nói không?"@
+ld c,"tachi/his_t21b",crossfade,400
+`"... Akiha-sama... cậu có quên Shiki-sama không?"@
+`"Không, nhưng đó là một sự lãng phí thời gian khi nghĩ về ai đó đã không còn ở đây nữa."
+\
+bg #000000,lshutter,800
+` Tôi rời phòng.@
+` Tôi đi đến sảnh, cảm thấy ánh mắt Hisui trên lưng tôi.
+\
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/koha_t03b",lshutter,800
+`"Hãy cẩn thận trên đường đi, Akiha-sama."@
+` Kohaku dẫn tôi ra cổng và cúi đầu.@
+`"Tôi sẽ đi. Tôi sẽ trở lại vào buổi chiều nay, nên chúng ta có thể nói chuyện lúc đó."@
+ld c,"tachi/koha_t12",crossfade,400
+`"Đúng vậy, nhưng có chút tiếc nuối vì tôi sẽ không còn cơ hội tiễn bạn như thế này nữa."@
+`"... Thật là. Ngay cả bạn cũng nói vậy."@
+` "Đây giống như trước khi anh trai tôi đến vậy. Tôi chỉ về vào cuối tuần lúc đó."@
+`"Đúng vậy, nhưng giờ Makihisa-sama đã mất, không còn lý do nào để bạn quay lại đây, Akiha-sama."@
+` "Bạn chỉ sẽ về vào kỳ nghỉ dài, phải không?"
+\
+`"[line=7]Vâng, tôi nghĩ là như vậy."@
+` Tôi gật đầu và cảm thấy mình không thể giấu được điều gì khỏi Kohaku.@
+` Lý do duy nhất tôi quay lại biệt thự là vì cha tôi muốn như vậy.@
+` Bây giờ khi cha tôi qua đời và tôi không còn trách nhiệm làm người kế vị cho đến khi tốt nghiệp, không có lý do nào để tôi quay lại đây nữa.@
+` Vì sau khi tôi tốt nghiệp, tôi sẽ sống trong biệt thự này cho đến cuối đời.@
+` Nó thật ngốc nghếch khi để mất thời gian tự do cuối cùng của cuộc đời mình.
+\
+`"Nhưng tôi không thuê người khác đâu. Xin hãy tiếp tục làm tốt công việc của mình, Kohaku."@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Vâng, xin hãy quay lại đây ít nhất một lần mỗi tháng, Akiha-sama."@
+`"[line=4]Được rồi, tôi sẽ cố gắng."@
+` Đã đến lúc rồi.@
+` Người lái xe gõ cửa để báo cho tôi rằng đã đến giờ rời đi.
+\
+`"...Akiha-sama? Có ổn không?..."@
+`"Anh đang nói gì vậy? Anh có định lặp lại những gì Hisui đã nói với tôi à, Kohaku?"@
+`"[line=3]Không, thì được rồi. Hãy cẩn thận, ngài Akiha."@
+cl c,crossfade,400
+` Kohaku cúi đầu.@
+` Để lại cô ấy trước cổng, chiếc xe bắt đầu xuống đồi.
+\
+playstop
+bg #ffffff,crossfade,800
+bg "bg/ima_03",crossfade,800
+play "*7"
+` [line=4]Tôi nhìn cảnh vật trôi qua.@
+br
+` Bạn có định quên đi tất cả, Akiha-sama?@
+br
+` Tôi không nói gì khi Hisui hỏi tôi câu đó.@
+` Vì đó là lựa chọn của mỗi người.@
+` Điều đó không quan trọng với tôi là Hisui có tin hay không tin vào cái chết của Nii-san.@
+` Hisui mong rằng anh trai vẫn còn sống... giống như ước một trận thắng hoàn toàn, một cú đánh grand slam trong bóng chày.@
+` ... Khi nhận ra suy nghĩ của tôi vô nghĩa, tôi cười nhạo chính mình.@
+` Vì điều đó cũng là ước muốn của tôi.
+\
+br
+` [line=3]Anh có định quên Shiki-sama không?@
+br
+` Có nên tôi đã trả lời rằng điều đó sẽ không bao giờ xảy ra?@
+` Tôi biết anh trai không thể sống lại được.@
+` Bởi con đường duy nhất để tôi quay về là anh trai phải trả lại sinh mạng của mình.@
+` Tôi hiểu sự thật đó hơn ai hết [line=4]nhưng vẫn tin tưởng vào anh như Hisui vậy.
+\
+`"... Vì nó vẫn còn ở đó."@
+` Tôi ngước nhìn bầu trời.@
+` ... Nhịp tim đã tồn tại từ khi tôi trao cho anh trai nửa cuộc đời của mình.@
+` Cảm giác như thể tôi có một trái tim khác bên trong.@
+` Nhịp đập vẫn còn ở đó.@
+` ... Nó rất yếu và mờ nhạt, nhưng nó vẫn còn.@
+` Nó không đập và cảm giác như một tảng đá, nhưng tôi chắc chắn nó vẫn còn.
+\
+` Vì vậy, mặc dù tôi không đồng ý, tôi tin chắc hơn Kohaku hay Hisui hoặc bất kỳ ai khác trên thế giới rằng anh trai tôi vẫn sống.@
+br
+` Anh ấy sẽ quay lại một ngày nào đó.@
+` [line=5]Tôi nên trở lại cuộc sống bình thường vì không có vấn đề gì nữa.
+\
+playstop
+bg #000000,crossfade,800
+!w4000
+bg "bg/bg_48b",lcartain,800
+` [line=5]Tôi quay trở về biệt thự.@
+br
+` Tôi tin rằng đây sẽ chỉ là vài lần nữa tôi về nhà như thế này.@
+`"... Tôi đến đây sớm hơn dự kiến."@
+` Tôi tự nói to và cho phép bản thân một chút tình cảm.
+\
+bg "bg/bg_42b",lcartain,800
+bg "bg/bg_54b",lcartain,800
+play "*8"
+` Tôi đang ở trong rừng.@
+` Tôi không đặt chân đến nơi này kể từ đêm đó.@
+br
+` Có quá nhiều ký ức ở đây.@
+` Vườn nơi tôi và anh trai chơi đùa khi còn nhỏ.@
+` Đêm chúng tôi lén ra khỏi biệt thự để ngắm sao.@
+` Không gian kín đáo giữa những tán cây khi tôi trò chuyện với anh trai sau khi anh trở về.@
+br
+` [line=3]Và khu rừng nơi tôi tỉnh dậy sau sự việc đó.
+\
+`"[line=4]... Anh ấy thật ngốc nghếch. Tôi đã nói với anh ta nhiều đến mức muốn giết tôi, và vẫn như vậy..."@
+br
+` Anh trai đã chọn hy sinh bản thân.@
+` Tôi biết anh ấy sẽ chọn làm điều đó.@
+` Đó là lý do tôi buộc anh ấy phải hứa, nhưng anh trai (Nii-san) không nghe một từ nào trong những gì tôi nói.
+\
+`"Đúng vậy, anh ấy như thế từ khi còn nhỏ. Anh trai chỉ làm những gì anh ấy tin là đúng... ... Anh ấy luôn hy sinh bản thân vì người khác."@
+br
+` [line=5]Vâng.@
+` Mỗi khi Hisui hay tôi bị cha mắng, anh trai đều nhận lỗi thay cho chúng tôi.@
+` Khi tôi sắp bị SHIKI giết, anh ấy đã cứu tôi.@
+playstop
+br
+` Và khi tôi không thể quay lại được nữa.@
+` [line=4]Tôi thậm chí còn không nhờ anh ấy, nhưng...
+\
+bg "event/aki_f01",crossfade,400
+`"...!!!"@
+` Tôi ngăn chặn những giọt nước mắt sắp tuôn ra.@
+` Tôi không buồn.@
+` Thay vào đó, tôi rất tức giận.@
+` Lần này tôi thực sự tức giận.@
+` Anh ta chỉ nghĩ về bản thân và không quan tâm đến cảm giác của tôi.
+\
+`"... Tôi sẽ không tha thứ cho anh ta lần này."@
+` Nhưng khi người để tôi nói điều đó không có mặt...
+` Tôi nên giải tỏa cảm xúc của mình ở đâu?@
+` Anh trai tôi không có mặt.@
+` Không có cảm giác nào cho thấy anh ấy sẽ quay lại.@
+` [line=3]Sự ấm áp trong trái tim tôi đã mất, và chỉ còn lại trọng lượng của điều dường như đã chết.
+br
+`"[line=5]Điều duy nhất chắc chắn trong tôi là điều đó."@
+br
+` Tôi cảm thấy bất an khi nghĩ về điều đó.@
+` Tôi có cảm giác muốn bỏ cuộc, nghĩ rằng dù cố gắng thế nào đi chăng nữa, nó cũng có thể vô ích.
+\
+` [line=3]Tôi tin anh trai tôi vẫn còn sống ở đâu đó.@
+br
+` Nặng nề trong tôi giờ đây rất nhẹ nhàng, nhưng nó vẫn còn đó.@
+` Vì vậy tôi muốn tin anh ấy vẫn còn sống.@
+` [line=3]Tôi muốn tin, nhưng
+\
+`"[line=3][line=3]... Nhưng anh trai ơi, nếu im lặng như thế này, tôi sợ một ngày nào đó tôi sẽ quên mất, và tôi@
+br
+` ... đang chờ anh trai.@
+` Nó thật khó để tôi giữ vững niềm tin vào anh ấy.@
+` Nặng nề vẫn còn đây, trong ngực tôi.@
+` Mặc dù điều này có thể là bằng chứng cho thấy anh trai tôi vẫn sống, nhưng tôi lại sợ rằng nó có thể là dấu hiệu cho thấy anh ấy đã chết.
+\
+`"... Trời ơi, tôi không thể để ai đó nhìn thấy tôi như thế này."@
+` Tôi thở một hơi dài và quyết định quay trở về biệt thự.@
+br
+` [line=3]Sau đó,
+br
+` Tôi vấp phải thứ gì đó bằng chân.
+\
+`"... Hừm?"@
+` Tôi không thể nhìn thấy nó dưới những lá cây, nhưng có thứ gì đó ở đó.@
+`"... ... Chào."@
+` Một lưỡi dao kim loại lấp lánh khi mặt trời lặn.@
+` ... Có phải là một con dao gặt hay thứ gì đó vậy?@
+` Kohaku không nên để đồ dùng vương vãi như thế này[line=3]
+`"[line=11]"@
+` Không, nó không phải.@
+` Khi tôi nhận ra điều đó, tôi quên thở khi nhặt nó lên.
+\
+bg #ffffff,crossfade,400
+wave se_01
+bg "bg/bg_54b",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=10]Tiếng đập mạnh.
+\
+br
+br
+br
+br
+br
+br
+` Vâng, chỉ một lần.@
+` Khi tôi cầm con dao, những thứ chết bên trong tôi bỗng sống lại.
+\
+` ... Tôi không biết đó là mối liên kết như thế nào.@
+` Có phải có một mối liên kết đặc biệt giữa anh ấy và con dao?@
+` Nhưng vẫn còn một khoảnh khắc.@
+` Tôi cảm nhận được nhịp tim của anh ấy bên trong mình, giống như trước đây, thậm chí còn mạnh hơn.
+\
+bg #ffffff,crossfade,800
+play "*7"
+bg "event/aki_f02",crossfade,800
+`"[line=12]Ừm."@
+` Một thứ gì đó ấm áp chảy xuống gò má tôi.@
+` Ngay cả khi nhận ra đó là nước mắt của mình, tôi vẫn không lau chúng đi.@
+br
+` [line=9]Anh ấy còn sống.@
+br
+` Chỉ với sự thật đó, tôi không thể suy nghĩ.@
+` Tôi không biết anh ấy đang ở đâu.@
+` Anh ấy không nói cho tôi biết mình đang làm gì.@
+` Nhưng tôi biết.@
+` Anh trai tôi còn sống. Nó chỉ là một lần duy nhất, nhưng tôi chắc chắn cảm nhận được sự ấm áp của anh trai và tôi đã có thể ôm lấy nó.
+\
+` Tôi hít một hơi thật sâu và nuốt lời mình muốn nói.@
+` ... Tôi có thể tin được.@
+` Nhịp tim ấy đã đủ.@
+` Dù tương lai có thế nào đi chăng nữa, tôi cảm thấy như tôi có thể tin tưởng anh trai và chờ đợi sự trở lại của anh ấy.@
+br
+` [line=4]Điều đó khiến tôi rất vui sướng.@
+br
+`"... Vâng, tôi sẽ giữ chặt nó cho anh, anh trai."@
+` Tôi bỏ túi con dao mang tên "Nanatsu Yoru" và quay lưng lại khu rừng ký ức.
+\
+` Khu rừng ấy nhuộm đỏ.@
+` Tôi nói lời tạm biệt với khu rừng chứa đựng vô vàn ký ức.@
+` Bởi vì tôi có thể tạo ra những kỷ niệm mới, và còn nhiều việc phải làm.@
+` Tôi sẽ không còn đắm chìm trong tình cảm nữa.
+\
+br
+br
+br
+br
+br
+` [line=7]Vậy thì...@
+` Tôi quay trở lại cuộc sống bình thường của mình với chính con người tôi.@
+` Và, dù mất bao lâu,
+` [line=7]Tôi vẫn tin rằng anh ấy sẽ quay về một ngày nào đó, và tôi sẽ chờ đợi anh ấy cho đến khi điều đó xảy ra.
+\
+bg #ffffff,crossfade,1500
+playstop
+!w3000
+cl a,notrans,0
+bg "word/fin",crossfade,1500
+wait 3000
+gosub *ending

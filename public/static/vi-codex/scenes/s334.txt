@@ -1,0 +1,7 @@
+playstop
+wavestop
+bg "bg/bg_40b",tshutter,800
+` Bấy giờ dẫu dã hơn năm giờ chiều một chút.@`
+` Hai anh em vẫn dẫu dã có tầm một tiếng đồng hồ rảnh rỗi trước giờ dùng bữa tối.@`
+` Từ bấy giờ cho tới bữa tối, liệu tôi dẫu dã nên thong thả nghỉ ngơi thư giãn trong phòng tự thân, hay là[line=3]`
+\

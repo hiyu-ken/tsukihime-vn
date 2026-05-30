@@ -1,0 +1,350 @@
+monocro off
+playstop
+bg "bg/bg_40f",notrans,0
+waveloop se_02
+br
+` …… Cánh cửa chầm chậm mở ra.@`
+` Đã quá muộn rồi.@ Ngay cả khi tôi có toan tiếng đuổi chị ấy đi, thì chị ấy cũng đã đặt chân bước hẳn vào bên trong phòng mất rồi.@`
+` Có lẽ ít nhất tôi cũng nên để chị ấy đặt khay thức ăn lại.@ Từ sáng tới giờ tôi chưa nuốt hạt cơm nào vào bụng rồi... bụng tôi đang đói cồn cào cả lên.`
+\
+` Cổ họng tôi khô khốc, thèm khát cháy bỏng.@`
+` Toàn thân tôi nóng ran hệt như lửa đốt.@`
+` Tôi bắt buộc phải...`
+` tìm cách giải tỏa ngay thứ xung năng điên cuồng này... bằng không tôi chắc chắn sẽ phát điên mất.@`
+br
+` …… *Hộc...*…… *hộc...*…… *hộc...*……`
+br
+` Tôi thở dốc nặng nề dồn dập.@`
+` Mau lên.@`
+` Tôi bắt buộc phải giải phóng nó ra ngoài.`
+\
+ld c,"tachi/koha_t02b",lshutter,800
+`"Cậu Shiki ơi, em vào đây ạ…… Ủ, Ủa, có chuyện gì xảy ra thế này?"@`
+` Trên môi vẫn đọng lại nụ cười rạng rỡ thường ngày, chị ấy bàng hoàng nhìn xoáy vào đống đổ nát, hỗn độn xung quanh căn phòng.`
+\
+` …… *Hộc...*…… *hộc...*…… *hộc...*……`
+br
+` Gương mặt thanh tú dễ thương của chị ấy tuyệt nhiên không hề đọng lại chút vẻ khiếp nhược nào.@`
+` Dáng hình hoàn toàn lơ là mất cảnh giác, không một chút phòng bị của chị ấy hiện diện trước mắt tôi.@ Làn tóc đỏ óng ả ấy[line=4]và cả làn da trắng ngần trông vô cùng quyến rũ kia nữa.`
+\
+br
+` Mau lên.@`
+` Nhanh lên nào.`
+\
+` Nhanh lên.`
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40f",crossfade,400
+`"Cậu Shiki……?@ Lạ quá đi, sao đồ đạc lại đổ vỡ lung tung thế này ạ?"@`
+` Vẫn nở nụ cười dịu dàng trên môi, chị ấy chậm rãi tiến lại gần chiếc giường nơi tôi đang nằm co rúm run rẩy.@`
+br
+` Đôi ngón tay trắng ngần thanh mảnh của chị ấy khẽ chạm nhẹ vào vai tôi.@`
+` Chỉ qua chút tiếp xúc ngắn ngủi và nhỏ bé ấy, tôi đã có thể cảm nhận rõ ràng dòng máu nóng hổi đang cuồn cuộn chảy qua huyết quản của chị ấy.@`
+` Và cả luồng hơi ấm phả ra dịu nhẹ.@`
+` Từng chùm pháo hoa nhỏ bỗng chốc phát nổ kinh hoàng ngay sau gáy tôi.`
+\
+` Mau lên.@ Mau lên.@ Nhanh lên nào.@`
+` Nếu không lập tức giải phóng cơn nóng rực đang thiêu đốt bên trong mình, tôi chắc chắn sẽ phát điên mất.@`
+` Nếu không tống khứ thứ xung năng đang sôi sục này ra ngoài, tôi nhất định sẽ hoàn toàn đánh mất lý trí.@`
+` Ngay bây giờ.@ Ngay lúc này.@ Ngay lập tức.@`
+` Bất kể ai cũng được.@ Để không còn sót lại bất kỳ vết tích nguyên bản nào, tôi bắt buộc phải chà đạp, hủy hoại, tàn phá, hủy hoại, hủy hoại, hủy hoại, hủy hoại, hủy hoại, chà đạp, chà đạp tất thảy[line=5]`
+\
+bg #000000,crossfade,400
+`"Á!"@`
+` Tôi nghe thấy một tiếng thét thất thanh chói tai.@`
+` Bàn tay tàn bạo của tôi đã bóp chặt khóa ngang cổ họng chị ấy từ thuở nào.`
+\
+`"[line=3][line=3]Hộc…… hộc, hộc, hộc"@`
+` Nhịp thở dồn dập của tôi đã hoàn toàn mất đi sự kiểm soát.@`
+` Nhưng... cơn đau buốt bấy lâu bỗng chốc hoàn toàn tan biến.@`
+` Thật sảng khoái.@ Ngay lúc này, tôi đang cảm thấy vô cùng tuyệt vời.`
+\
+`"Cậu…… Shiki, sa[line=3]"@`
+` Giọng nói của chị ấy đột ngột nghẹn ứ cắt đứt.@`
+` Thật kỳ diệu.@ Chị ấy vẫn còn thoi thóp thở được.@`
+` Tôi lại càng dùng lực siết chặt hơn nữa.@`
+`"Dừ... ng[line=3]!"@`
+` Một tiếng vải rách sột soạt nhỏ vang lên.@`
+` Đôi ngón tay của chị ấy điên cuồng cào cấu bấu chặt lấy cánh tay tôi.`
+\
+bg "bg/ima_13",crossfade,400
+`"[line=3]Áực."@`
+` Cơn đau nhức dội lên.@`
+` Đôi móng tay của chị ấy điên cuồng cào cấu đâm xuyên qua lớp vải áo của tôi.@`
+` *Hộc...*[line=3]*hộc...*[line=3]*hộc...*`
+` Tuyệt vời.@ Chị thực sự quá đỗi tuyệt vời đấy, chị Kohaku[line=2]chị trông mới đáng yêu làm sao.@`
+br
+` Vẻ mặt hoảng loạn tột độ này của chị[line=3]gương mặt đỏ ửng lên, những giọt lệ tuôn trào trên khóe mắt, và cả nước bọt khẽ trào ra nơi khóe môi rên rỉ.@`
+` Dáng vẻ vùng vẫy cầu xin thảm hại ấy thực sự quá đỗi quyến rũ.`
+\
+`"Ha[line=4]ha, haha."@`
+` Tôi đã sai rồi.`
+\
+` Bản thân tôi thực sự đã quá sai lầm rồi.`
+\
+`"Chị Kohaku……"@`
+` Đúng vậy.@`
+` Tôi tuyệt đối không thể hành hạ chị ấy như THẾ NÀY,`
+` đối với... chị... Kohaku.`
+\
+br
+` [line=3]*Hộc...*, *hộc...*, *hộc...*………!@`
+br
+` Câm miệng.@ Đó không phải là thứ mà ngươi thực sự khao khát, đúng chứ hả Shiki?@`
+` Đối xử tàn nhẫn với cô ta như thế này quả thực là sai lầm rồi.@ Ngươi không thể nào dễ dàng hủy hoại một người phụ nữ tuyệt vời thế này một cách đơn giản như vậy được.@`
+` Cô ta vẫn còn nguyên vẹn cả tay lẫn chân cơ mà.@ Có biết bao nhiêu phương cách tàn độc để một gã đàn ông có thể đoạt lấy thứ khoái cảm sung sướng từ một người phụ nữ chứ.`
+\
+eroskip 34
+bg #000000,crossfade,400
+` Tôi lập tức buông tay ra.@`
+` Thân thể rã rời không chút sức lực của chị Kohaku lập tức đổ ụp xuống sàn nhà lạnh lẽo.@`
+` Chị ấy điên cuồng thở dốc đứt quãng để cố gắng hớp lấy chút không khí.`
+\
+`"Ha[line=3]haha, ha."@`
+` Nằm sấp bất lực trên sàn nhà lạnh lẽo, vòng hông của chị ấy trông vô cùng quyến rũ phơi bày trước mắt tôi.@`
+`"Haha, ha."@`
+` Tôi thô bạo dùng lực đè chặt lấy tấm lưng trần của chị ấy.@`
+` Chị ấy tuyệt vọng cố gắng vùng vẫy bò đi để thoát thân, thế nhưng tôi đã nhanh chóng khóa chặt lấy cơ thể chị ấy không để dịch chuyển.`
+\
+`"L... Làm ơn[line=3]Làm ơn dừng lại đi mà, cậu Shiki!"@`
+` Một tay tôi tàn nhẫn đè chặt tấm lưng chị ấy xuống sàn, trong khi tay còn lại thô bạo nhấc bổng hai bên hông chị ấy lên.@`
+br
+` Kéo tuột tà áo kimono lên cao, tôi phơi bày trọn vẹn nửa thân dưới của chị ấy ra ngoài.`
+\
+`"[line=4]!"@`
+` Chị Kohaku điên cuồng giãy giụa hòng giật người ra.@`
+` Tôi chẳng thèm bận tâm.@ Chị ấy tuyệt đối không cách nào trốn thoát nổi nữa rồi.@`
+` Tôi thô bạo bóp chặt lấy làn mông trần mịn màng của chị ấy.@`
+` Làn da mềm mại nhường ấy.@ Cơ thể chị ấy bấy giờ đang co rúm lại vì hoảng loạn tột độ.@`
+` Vùng nhạy cảm hồng hào không còn gì che giấu bấy giờ đang không ngừng co thắt kịch liệt vì sợ hãi.`
+\
+` *Hộc...*, *hộc...*, *hộc...*`
+br
+` Tuyệt đối chẳng cần bất kỳ thứ cử chỉ mơn trớn dạo đầu nào.@`
+` Tôi penetrate vào cơ thể chị ấy bằng thứ hạ bộ đang cương cứng kịch liệt của mình, không quan tâm liệu tôi có xé toạc cơ thể chị ấy hay không.`
+\
+bg "event/cel_h10",crossfade,400
+`"Á……!!"@`
+` Giọng nói thất thanh chịu đựng của chị Kohaku dội lên.@`
+` Thứ dị vật thô bạo gớm ghiếc đang điên cuồng lấn sâu vào lối đi khô khốc của chị ấy.@`
+` Chị ấy tuyệt đối không thể nào cảm nhận thấy một chút khoái cảm nào.@`
+` Vạn vật hiện hữu lúc này chỉ độc nhất nỗi đau đớn xé thịt da.`
+\
+`"Dừ... Dừng lại đi[line=3]Làm ơn, dừng lại đi mà, cậu Shiki……!"@`
+br
+` Chị ấy cố gắng cào cấu sàn nhà bò lên phía trước hòng chạy trốn.@`
+` Thế nhưng thứ hành vi phản kháng tuyệt vọng ấy chỉ càng khiến mọi sự chuyển biến đau đớn tột cùng hơn.@`
+` Việc cơ thể không ngừng chuyển động chỉ càng khiến các múi cơ sâu bên trong chị ấy co thắt chặt lại.@`
+` Và tất thảy những gì chị ấy đạt được chỉ là vô tình kéo tuột thứ hạ bộ của tôi đâm sâu ngập hẳn vào tận cùng cơ thể chị ấy.`
+\
+br
+` Tiếng thở dốc man dại của tôi vang vọng ngập tràn khắp căn phòng kín.@`
+br
+` Càng lúc càng sâu hơn.@ Tôi thô bạo thúc sâu đến độ dường như đã chạm tới tận cùng nơi tử cung của chị ấy.`
+\
+`"Á[line=3]... ư[line=4]!"@`
+` Tiếng rên rỉ nghẹn ngào của chị ấy bấy giờ gần như không còn nghe rõ nổi nữa.@`
+` Có vẻ như chị ấy đang dùng hết chút tàn lực cuối cùng để cắn chặt răng kìm nén tiếng khóc.@`
+` Đôi bàn tay cào cấu bấu chặt đau đớn xuống mặt sàn lạnh lẽo, chị ấy vẫn đang kiên cường làm hết sức mình để không bật thành tiếng khóc than van nài.`
+\
+`"[line=4]A..."@
+` Tôi bắt đầu vuốt ve cô ấy.@
+` Và nghe thấy âm thanh giống như nước bẩn rò rỉ ra.@
+` Những phần bên trong Kohaku đã chống chọi cho đến giờ phút này dần ẩm ướt.
+\
+` Cảm giác ướt mờ này, và cảm giác rõ ràng rằng cô ấy đang cố hút tôi vào.@
+` Nhiệt độ bên trong cô ấy tăng lên.
+\
+br
+` Tiếng thở dốc của tôi biến thành tiếng cười.@
+br
+` Tôi vẫn vuốt ve cô ấy.@
+` Vào một lúc nào đó, Kohaku bắt đầu nâng hông lên. Giống như con chó cái đang nóng bỏng, tôi chèn vào, rút ra, và chèn lại.@
+` Nhịp điệu của những âm thanh ướt, bẩn thỉu lấp đầy không khí chắc chắn phù hợp với hình ảnh của những con vật giao phối.@
+br
+`"[line=3][line=4]Ah...g, Shiki-sa... bạn không được..." Cô ấy nói bằng giọng khàn khàn.
+\
+br
+` Ha... ha... ha.@
+br
+` Tôi hiểu rồi. Cô ấy vẫn lo lắng về Akiha và Hisui à?@
+` Thật hài hước.@
+` Ngay cả khi cơ thể cậu muốn điều đó, Kohaku ơi, cậu vẫn còn suy nghĩ rõ ràng sao?
+\
+br
+` *Hít vào, thở ra, hít vào...* Ôi.@
+br
+`"[line=3]Shiki-san, tại sao cậu lại... xin cậu, dừng lại đi..."!"@
+` Toàn bộ cơ thể cô ấy nhuốm màu đỏ vì ham muốn, ngay cả mông cô ấy cũng cảm nhận được điều đó, và cô ấy vẫn gọi tên người đó ra!
+\
+br
+` Ha, ha, ha, hahaha.@
+br
+` Tôi thở gấp gáp.@
+` Cơ thể cô ấy cảm thấy... đặc biệt quá.@
+` Khoái cảm cháy bỏng này không đến từ bộ phận sinh dục của tôi, nó gần như như đang xuất phát từ sâu thẳm bên trong tôi.
+\
+` Thật tuyệt vời quá.@
+` Cảm giác như có ai đó đâm tôi từ phía sau, cơ thể tôi co giật về phía trước và dương vật tôi xâm nhập sâu hơn.
+\
+` Cơ thể cô ấy, trái ngược với lương tâm của cô ấy, tham gia vào chuyển động của tôi một cách hoảng loạn.@
+` Bên trong cô ấy ướt át là một không gian được cách điện, không có chút không gian tự do nào.@
+` Càng di chuyển, cô ấy càng siết chặt tôi.@
+` Bên trong cô ấy siết chặt tôi bằng những chuyển động khác nhau, không có cái nào giống nhau.
+\
+br
+` Ha, ha, ha, ha, ha!@
+br
+` Có điều gì đó sai với cơ thể của cô ấy.@
+` Đây là lần đầu tiên tôi gặp một người phụ nữ mà tôi sẽ hối hận vì giết cô ấy.
+\
+` Cảm giác này không có hồi kết.@
+` Vui sướng không ngừng lại.@
+` Chất lỏng tràn ngập khắp sàn nhà, cơ thể tôi và mông của Kohaku.@
+br
+` Ngay cả khi chạm đến khe hở bên trên âm đạo của cô ấy.
+\
+br
+` Aha, hahahaha.@
+br
+` Cảm giác căng thẳng.@
+` Tôi đưa một ngón tay vào hậu môn của cô ấy và quấy động nó.@
+`"[line=3]Ha!?" - Cô ấy thốt lên lần đầu tiên.@
+` Làn nước mắt chảy xuống, một dấu hiệu bất ngờ.@
+` Động tác của cô ấy đột ngột thay đổi.@
+br
+` Cơ thể cô ấy siết chặt lấy tôi.
+\
+` Nóng.@
+` Nóng, nóng, nóng.@
+` Cơ thể cô ấy cảm thấy rất dễ chịu đến mức khiến tôi muốn cười to.
+\
+` Tôi xoắn ngón tay.@
+` Mở rộng và đẩy sâu vào cô ấy.@
+`"N, ơi!" [line=5]@
+` Cô ấy rùng mình và khóc nức nở khi cảm nhận được điều đó.@
+` Haha, hahaha.@`
+` Có điều gì đó... sai mất rồi.@`
+` Thật sự có điều gì đó... không ổn rồi.@`
+` Điên cuồng mất rồi.@`
+br
+` Nóng cháy.@`
+` Thứ xung năng điên loạn đang không ngừng cuồn cuộn bên trong tôi bấy giờ dồn dập tích tụ lại tại độc nhất một điểm.`
+\
+`"Cậu…… Shiki…… làm ơn…… dừng lại đi mà."@`
+` Tôi thô bạo giật mạnh người thoát khỏi cõi sâu thẳm vô tận của cơ thể chị ấy.@`
+` Tiếng da thịt va chạm dồn dập vang lên chói tai hệt như một lời oán thán bất lực.@`
+` Tôi lùi hẳn người ra ngoài cho tới khi có thể thu trọn vẹn cảnh tượng quyến rũ vào tầm mắt.@`
+` Dòng dịch lỏng trong suốt chầm chậm tuôn tràn loang lổ dọc đùi chị ấy.`
+\
+br
+` *Hộc...*, *hộc...*, hahahaha, ha.@`
+br
+` Dù hơi vội vàng một chút, nhưng hãy kết thúc chuyện này tại đây thôi.@`
+` Bản thân tôi bấy giờ vốn dĩ đã sớm chuẩn bị vô cùng chu đáo rồi.@`
+` Tôi tàn bạo ấn ngập sâu ngón tay của mình vào tận cùng nơi hậu môn của chị ấy.`
+\
+`"Ư... hự[line=4]!"@`
+` Thân thể chị Kohaku bỗng chốc cứng đờ lại vì sự xâm nhập thô bạo đầy đau đớn của thứ dị vật gớm ghiếc.@`
+` Dẫu cho chị ấy có cố gắng kìm nén đến đâu, dáng vẻ vùng vẫy bất lực lúc này cũng tương tự hệt như khi bị thứ hạ bộ cương cứng của tôi ngấu nghiến ghim chặt.@`
+` Cơ thể chị ấy bấy giờ bỗng chốc co thắt lại, siết chặt lấy tôi dữ dội hơn nữa.@`
+` Dùng trọn vẹn tàn lực, tôi lại một lần nữa hung hãn thúc mạnh sâu hẳn vào tận cùng cơ thể chị ấy.`
+\
+`"[line=8]!"@`
+` Thân xác chị Kohaku không ngừng co giật kịch liệt.@`
+` Chị ấy điên cuồng vặn vẹo cơ thể để mong mỏi giảm bớt nỗi đau đớn xé thịt da.@`
+br
+` *Hộc...*, *hộc...*, haha, ha.@`
+br
+` Tôi tuyệt nhiên chẳng màng bận tâm.@`
+` Đột ngột bộc phát, tôi giải phóng toàn bộ luồng khí nóng sôi sục mà bản thân đã cố công kìm nén bấy lâu nay.`
+\
+` Phun trào tất thảy.@`
+` Tôi có thể cảm nhận rõ ràng dòng tinh dịch nóng hổi đang điên cuồng bắn sâu vào tận cùng cơ thể chị ấy.`
+\
+br
+` *Hộc...*, *hộc...*, *hộc...*`
+br
+` Đang tiêu tán dần.@`
+` Luồng xung năng nóng rực điên cuồng bên trong tôi bấy giờ đã nguôi ngoai đi mất.@`
+` Chị Kohaku vẫn đang nằm co rúm oằn oại trên mặt sàn lạnh lẽo, nhưng chuyện đó thì liên can gì đến tôi chứ?@`
+` Đôi mắt vô hồn chết lặng, vùng hông trần vẫn đang khẽ co giật vô thức trông vô cùng thảm hại.@ Tôi thực sự rất thích thú khi được thưởng ngoạn cảnh tượng quyến rũ đầm đìa ấy.`
+\
+br
+` *Hộc...*, *hộc...*, *hộc...*`
+br
+` Tôi thở dốc nặng nề dồn dập.@`
+br
+` *Hộc...*, *hộc...*, *hộc...*`
+br
+` Có thứ gì đó... bỗng chốc buồn cười làm sao.@`
+br
+` *Hộc...*, *hộc...*, *hộc...*`
+br
+` Để rồi, bản thân tôi bất giác bật tiếng cười điên dại.`
+\
+br
+br
+` Ha... haha, a... hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha!!`
+\
+bg #000000,crossfade,400
+!w2000
+bg "bg/bg_40c",crossfade,800
+wavestop
+`"Haha, hahahaha, ha."@`
+br
+` Tiếng cười của ai đó.@`
+br
+`"Ha, haha…… ahahaha, ha."@`
+br
+` Tôi đột ngột bừng tỉnh giấc bởi chính tiếng cười điên dại phát ra từ khuôn miệng mình.`
+\
+`"Ha[line=5]ha."@`
+` Chị Kohaku nằm rệu rã bất động trên mặt sàn nhà.@`
+` Có phải chị ấy đã ngất lịm đi rồi chăng?@ Chị ấy tuyệt nhiên không hề nhúc nhích lấy một chút.@`
+` Độc nhất... dòng tinh dịch trắng sữa nhầy nhụa đang chầm chậm rò rỉ ra ngoài cơ thể chị ấy.@`
+br
+` Thứ đó[line=3]tuyệt đối không nghi ngờ gì nữa... chính là của tôi.@`
+` Tôi thậm chí còn chẳng thể nhớ nổi bản thân đã thô bạo hành hạ cơ thể chị ấy bao nhiêu lần nữa.@`
+` Thế nhưng, việc thỏa mãn thứ dục vọng điên cuồng bên trong tôi bấy giờ quả thực đã giúp tôi tạm thời thoát khỏi việc phải trố mắt nhìn vào những đường "tử tuyến" chết chóc xung quanh.`
+\
+`"Haha, ha."@`
+` Tuyệt đối chẳng cần phải hoài nghi về những gì bản thân tôi đã làm ra nữa.@`
+` Đầu óc tôi lúc ấy tuy vẫn hoàn toàn tỉnh táo, thế nhưng bản thân lại bất lực không cách nào dừng tay lại nổi trước tội ác ghê tởm ấy... thứ tội lỗi mà tôi đã nhẫn tâm chà đạp lên cơ thể chị Kohaku[line=3]`
+\
+`"[line=4]Ha."@`
+` Tôi phát điên thật rồi.@`
+` Đã hoàn toàn điên loạn đến độ không thể cứu vãn nổi nữa rồi...@`
+` Vừa rồi, bản thân tôi đã phóng tinh liên tiếp biết bao nhiêu lần để thỏa mãn thứ tà niệm đen tối ngự trị bên trong mình, thế nhưng mọi sự vẫn chưa chịu dừng lại.@`
+` Nơi hạ bộ vẫn cương cứng kịch liệt, và hơn thế nữa, bản thân tôi hoàn toàn không hề cảm nhận thấy bất kỳ sự thỏa mãn chân thật nào.`
+\
+` Cổ họng tôi khát cháy dữ dội.@`
+` Dẫu cho tôi[line=3]vừa mới nhẫn tâm gây ra thứ tội ác man rợ tột cùng này với chị Kohaku, thế nhưng sự việc dường như vẫn chưa chịu dừng lại ở đó.@`
+` Sự thật tàn khốc là, ngay cả khi đang trố mắt nhìn vào cổ chị Kohaku, niềm hối hận ít ỏi vừa mới nhen nhóm trong lòng tôi lại đang chầm chậm tiêu biến đi mất.@`
+` Chiếc cổ trắng ngần ấy.@`
+` Cắm ngập răng vào nơi yết hầu ấy và.`
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=4]Haha."@`
+` Bản ngã của tôi... đã vỡ vụn mất rồi.@`
+!w1000
+`"Aha, ahaha."@`
+` Tôi thực sự đã sụp đổ hoàn toàn rồi.@`
+!w1000
+` Chấm hết thật rồi.@`
+` Tôi tuyệt đối không còn[line=3]một chút tự tin hay bản lĩnh nào để có thể tiếp tục giữ vững nổi lý trí của mình nữa.`
+\
+`"Ahaha, ahahahaha."@`
+` Phải chạy thoát ra ngoài thôi.@`
+` Tôi bắt buộc phải chạy ngay ra khỏi căn phòng này.@`
+` Nếu còn tiếp tục nán lại đây thêm một giây nào nữa, tôi chắc chắn sẽ tự tay tước đoạt mạng sống của chị Kohaku mất.@`
+` Nếu cứ ở lại trong tòa gia trang này,@ tôi sẽ tàn sát cả Akiha lẫn Hisui mà không cách nào tự kiểm soát nổi.@`
+` Thế nên, trước khi thứ ham muốn khát máu hung tàn ấy trỗi dậy thiêu rụi lý trí thêm lần nữa, tôi bắt buộc phải lập tức biến mất.`
+\
+`"Ahahahahahaha!"@`
+` Mau lên.@`
+` Phải đến một nơi không một bóng người.@`
+` Tôi phải điên cuồng lẩn trốn đến một nơi hoang vắng tuyệt đối, bằng không bản thân chắc chắn sẽ lại lâm vào cảnh điên cuồng khát máu tàn độc[line=4]`
+\
+bg #000000,crossfade,800

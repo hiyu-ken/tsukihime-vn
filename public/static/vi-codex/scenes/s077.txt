@@ -1,0 +1,134 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_31a",notrans,0
+` "Tôi[line=3]@
+br
+` Không có cách nào tôi có thể giúp cô ấy.@
+` Tôi gần như bị cái chó đen đó giết chết. Nếu đi cùng cô ấy, tôi chắc chắn sẽ chết.@
+br
+` [line=3]Tôi không thể làm điều đó. Đó là tự tử.@
+` Tôi cố gắng liếc nhìn cô ấy và trả lời, run rẩy.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` Cô nhìn tôi với vẻ khó chịu.@
+` "Tự tử? Tại sao? Với khả năng giết người của bạn, tôi nghĩ rằng bạn không có gì để sợ.@
+` "Đó là khác.@
+` Tôi xin lỗi, nhưng tôi chỉ là một học sinh bình thường thôi, chứ không phải quái vật gì như ma cà rồng đâu.  Một học sinh bình thường thì không thể hợp tác với người như cậu được.@
+ld c,"tachi/ark_t01a",crossfade,400
+` "À?  Sinh viên bình thường thường cắt người con gái mà họ chẳng quen biết à?"`@
+` [line=4]"Ân."@
+` Tôi cảm thấy yếu ớt vì lời nói của cô ấy.
+\
+` “…… Nhưng đó là trường hợp đặc biệt. Tôi chưa bao giờ cảm thấy như vậy trước đây, mặc dù tôi sống một cuộc đời bình thường[line=3]”`@
+playstop
+` "Dừng lại đi! Bớt ồn ào!"@
+ld c,"tachi/ark_t23",lshutter,400
+wave se_01
+` [line=3]Ê.`@
+` Mắt đỏ mở to ra.`@
+` Ngay lập tức, cảm giác cô toả ra thay đổi.`@
+br
+` Cảm giác lạnh lẽo này thật kinh khủng.`@
+` Tôi nghĩ tim tôi có thể ngừng đập chỉ vì ánh nhìn của cô thôi.
+\
+monocro #ff0000
+` "Đừng hiểu lầm, tôi giết cậu rồi. Tôi đang cứu cậu chứ không chặt đầu cậu ngay bây giờ chỉ vì cậu có thể hữu ích thôi."
+\
+br
+wave se_01
+` Cổ tôi tê buốt, như có ai đang từ từ đâm lưỡi kiếm vào.@
+` "`[line=5]"@
+wave se_01
+` Cổ họng tôi, chỉ một lúc trước còn nóng rực, giờ đang lạnh dần nhanh chóng.
+\
+` Cái không khí tôi hít vào nặng nề.`@
+` Giống như không khí xung quanh đang đóng băng... Tôi cảm thấy một sự co lại gần như khiến tôi sắp ngất xỉu.@
+wave se_01
+` Một cảm giác áp bức đầy tuyệt vọng, như thế giới đang nhìn chằm chằm vào tôi.`@
+br
+wave se_01
+` Cảm giác nặng nề ấy tập trung lại rồi đập vào đầu tôi như một viên đạn.`
+\
+bg #ffffff,crossfade,400
+wave se_01
+` "Àh"[line=5]eh?@
+br
+` Mọi thứ đều trắng xóa.`@
+` Một cảm giác kinh tởm.`Đau đớn, như ai đó đã mở một lỗ vào hộp sọ tôi và đang rót rượu vào.`@
+` Đó là cách duy nhất để diễn tả cảm giác này.
+\
+wave se_01
+` [line=7]"A!"`@
+br
+` Tôi thậm chí không thể thốt ra một tiếng kêu.@
+` Tiếng ra từ miệng tôi giờ đây chẳng còn là lời người nữa.`
+\
+wave se_01
+` [line=3]"Âu."@
+br
+` Tim tôi đang tan vỡ.`@
+` Những ký ức của tôi đang tan rã.`@
+` Cô chỉ nhìn tôi với ánh mắt gườm gở, nhưng tôi cảm thấy như cô đang chui vào đầu óc tôi và bóp nát não tôi bằng tay trần.@
+wave se_01
+` [line=4]Nếu cứ tiếp tục như thế này, tôi sẽ trở nên trống rỗng.`
+\
+wave se_01
+` [line=4]"Dừng lại."@
+br
+` Đó là tất cả những gì tôi có thể nói trước khi tôi mất lý trí.`@
+` [line=3]Bỗng nhiên cảm giác xâm nhập trong đầu tôi biến mất.@
+monocro off
+play "*1"
+bg "bg/bg_31a",crossfade,400
+` "A[line=3]a."@
+` Buông khỏi bầu không khí nặng nề, tôi ôm lấy chính mình.`@
+br
+` [line=3]Tôi vẫn còn sống.`@
+br
+` Tôi chưa chết.`@
+` Tôi vẫn còn sống, vẫn hít thở.`@
+br
+` [line=3]Tôi sắp khóc.`@
+` [line=3]Cảm thấy một nỗi xúc cảm sâu sắc đến như vậy đối với một điều đơn giản là điều tôi chưa từng trải qua cho đến bây giờ
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` "Vậy sao? Chắc hẳn bây giờ cậu hiểu rõ hơn về vị trí của mình rồi.@
+` [line=7]@
+` …… Cậu nghĩ tôi có thể hiểu điều đó không?@
+` Tất cả những gì tôi có thể làm là nhìn lên, run rẩy và cắn chặt răng.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` "Chỉ có hai lựa chọn. Cậu hợp tác với tôi, hoặc không.@
+` Đơn giản thôi chứ? Tôi chỉ hỏi cậu là cậu muốn sống hay chết.@
+` "H[line=6]@
+` Tôi không thể nói được.@
+` Chỉ có bản năng sinh tồn cơ bản của tôi giúp tôi tránh cái chết bằng cách gật đầu.@
+ld c,"tachi/ark_t01a",crossfade,400
+` "Được rồi. Thế là hợp đồng của chúng ta đã được thiết lập.@
+` Lòng giận dữ chỉ mới đây đã biến mất đi đâu?@
+` Với giọng nói vui vẻ, cô ấy đưa tay ra trước mặt tôi.
+\
+` "Tôi đoán bây giờ tôi có thể tự giới thiệu rồi.@
+br
+` Tôi là Arcueid[line=3]hmm…… họ của tôi thật dài, nên chỉ gọi là Arcueid là được. Tôi là một loại ma cà rồng True Chân Tổ. Còn cậu?@
+` Tôi thở ra một hơi dài trước cuộc giới thiệu chưa từng thấy ấy.@
+` …… Đó là một tiếng thở dài của sự đầu hàng, bằng chứng cho thấy tôi đã quyết định chấp nhận tình huống vô lý này.
+\
+` "Tôi là Tohno Shiki. Thật đáng tiếc, tôi chỉ là một học sinh bình thường. …… Tôi đã nói trước đó rồi, nhưng tôi thực sự không có ích gì nhiều.@
+` Bắt tay cô ấy[line=3]Arcueid's hand, tôi đứng dậy.@
+` Cô ấy nhìn tôi kỹ một lúc rồi lại đưa tay ra lần nữa.@
+ld c,"tachi/ark_t09",crossfade,400
+br
+` Rất vui được gặp bạn, Shiki.@
+` Tôi muốn cậu chịu trách nhiệm về việc giết tôi.@
+` Arcueid mỉm cười và giơ tay trái của mình ra.@
+` …… Thế giới này có rất nhiều loại trách nhiệm, nhưng đây có lẽ là lần đầu tiên và cũng là lần cuối cùng ai đó chịu trách nhiệm bằng cách giúp đỡ người họ đã giết.
+\
+` …… Đáng ghét! Làm bất cứ điều gì cậu muốn.@
+` Nhưng tôi không thể làm gì khác được.@
+` Tôi miễn cưỡng giơ tay trái lên và bắt tay với người phụ nữ mặc trắng tự xưng là ma cà rồng.
+\
+bg #000000,lcartain,1500
+!w1500
+playstop

@@ -1,0 +1,82 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_33a",notrans,0
+`"…… Đúng thế.@ Mình nghĩ đây là lựa chọn sáng suốt nhất rồi."@
+` Akiha chắc chắn sẽ không thể nào thấu hiểu nổi về những tồn tại phi nhân loại kiểu như Arcueid hay Nrvnqsr, và vì mình không thể nào nói ra sự thật, thì ít nhất cũng phải chân thành xin lỗi cô ấy.@
+br
+`"[line=2]Được rồi, đi thôi."@
+` Hít một hơi thật sâu, tôi đặt tay lên nắm cửa phòng khách rồi mở ra.
+\
+bg "bg/bg_34a",lcartain,800
+` Trong phòng khách, Akiha đang ngồi trên chiếc sofa, còn Hisui thì đứng yên lặng sát bên tường.@
+ld c,"tachi/aki_t01a",notrans,0
+`"[line=2]Chào buổi sáng, anh."@
+` Ánh mắt em ấy đang gào thét rằng "Em đang rất tức giận đấy."@
+`"Ờ, à…… Chào buổi sáng, Akiha."@
+`"Miễn lời chào hỏi đi.@ Mời anh ngồi xuống đó.@ Em muốn nói chuyện nghiêm túc với anh."@
+cl c,notrans,0
+`"[line=6]"@
+` Giọng em ấy dứt khoát đến mức tôi chẳng thể nào từ chối được.@
+` Tôi nghiêm túc ngồi xuống chiếc sofa đối diện với em ấy.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Anh.@ Chuyện này rất đột ngột, nhưng em có thể hỏi về hai ngày vừa qua không?"@
+`"[line=4]Guh."@
+` Dẫu giọng nói vẫn nhã nhặn lịch sự, thế nhưng từng lời của Akiha rõ ràng mang đầy ẩn ý đe dọa.@
+` Nhưng, anh trai của cô ấy tuyệt đối không thể nào kể ra câu chuyện đó.
+\
+br
+`"Về chuyện đó, Akiha."@
+`"Dạ, chuyện gì ạ?"@
+`"Anh xin lỗi, nhưng anh không thể nào nói cho em biết."@
+cl c,notrans,0
+\
+` *Rắc!*@
+` Chiếc tách trà mà Akiha đang cầm trên tay rơi đánh keng xuống mặt bàn.@
+` Nói chính xác hơn, tôi nghĩ em ấy đã cố tình thả rơi nó.
+\
+ld l,"tachi/his_t01",crossfade,400
+`"Akiha-sama[line=3]"@
+ld r,"tachi/aki_t04a",crossfade,400
+`"Ồ, xin lỗi em, Hisui.@ Phiền em dọn dẹp giúp chị nhé?"@
+cl a,crossfade,400
+` Hisui lặng lẽ dọn sạch vũng trà đổ cùng những mảnh vỡ của chiếc tách trà (trông có vẻ vô cùng đắt tiền).@
+br
+` Tôi bồn chồn ngồi nhìn em ấy dọn dẹp trong khi Akiha liên tục liếc nhìn tôi bằng ánh mắt sắc lạnh.@
+` Sau khi dọn dẹp xong, Hisui đi vào bếp.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"[line=3]Vậy, thưa anh."@
+`"…… Dạ?"@
+`"Em có thể hỏi anh lần nữa được không?"@
+` Akiha vẫn kiên quyết không bỏ cuộc.@
+` Tôi có thể cảm nhận rõ quyết tâm mãnh liệt của em ấy nhất định phải moi ra được câu trả lời từ tôi bằng mọi giá.@
+` Thế nhưng, tôi thực sự không thể nào nói cho em ấy nghe.@
+` Không chỉ vì bản thân tôi, mà còn vì chính em ấy nữa.
+\
+`"…… Không.@ Dẫu em có hỏi bao nhiêu lần đi nữa, anh cũng không thể nào nói được.@ Anh rất hối hận vì đã khiến em lo lắng, nhưng anh thực sự không thể nói."@
+ld c,"tachi/aki_t02",crossfade,400
+`"[line=2]Anh hối hận nhưng vẫn không thể nói, anh nhỉ."@
+`"Đúng thế.@ Anh xin lỗi vì đã mất liên lạc và không thể chia sẻ lý do.@ Nhưng hai ngày qua anh hoàn toàn chẳng làm điều gì sai trái.@ …… Anh thậm chí còn không muốn nghĩ rằng những việc mình đã làm là sai."@
+cl c,crossfade,400
+\
+` [line=3]Đúng vậy.@
+` Cho dẫu hai ngày qua đơn thuần chỉ là giết hoặc bị giết[line=2]tôi vẫn muốn tin rằng đó là việc đúng đắn.@
+br
+` Tôi đã làm điều đó để giúp Arcueid, và hơn hết tất cả… tôi hoàn toàn không hề hối hận vì đã tiêu diệt con quái vật ăn thịt đồng loại đó.@
+br
+` Ít nhất, sẽ không còn thêm bất kỳ nạn nhân nào bị sát hại bằng cách hút cạn máu nữa.
+\
+`"[line=4]Anh xin lỗi, Akiha.@ Anh biết em rất lo lắng, nhưng xin em đừng hỏi thêm nữa."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=6]"@
+` Akiha nhìn thẳng vào mắt tôi.@
+` Trong một khoảng thời gian khá lâu, em ấy cứ giữ nguyên tư thế đó.
+\
+`"…… Em hiểu rồi.@ Suy đi nghĩ lại, chắc anh phải có lý do riêng của mình, nên em sẽ không truy hỏi thêm nữa."@
+`"…… Anh xin lỗi.@ Cảm ơn em đã thông cảm."@
+ld c,"tachi/aki_t03a",crossfade,400
+`"[line=5]"
+\
+cl c,crossfade,400

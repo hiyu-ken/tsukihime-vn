@@ -1,0 +1,14 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` Tôi chẳng có việc gì đặc biệt để làm, nên quyết định sẽ đi thẳng về biệt thự luôn.@
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_32b",lcartain,1500
+` Rảo bước lên con dốc quen thuộc, tôi trở về biệt thự.@
+` Bây giờ còn chưa đến năm giờ chiều nữa.@
+` Vẫn còn hẳn hai tiếng nữa mới tới giờ ăn tối, nên tôi quyết định về phòng mình để giết thời gian vậy[line=3]
+\
+bg #000000,lcartain,800
+!w1000

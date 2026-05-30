@@ -1,0 +1,33 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+` [line=4]Mối bận tâm lớn nhất của tôi dẫu dã là sự an toàn của Akiha.@
+br
+` [line=3]Giao chiến ở cự ly gần Akiha dẫu dã quá nguy hiểm. Tôi cần phải dẫn dụ hắn ra một không gian rộng rãi hơn, như là đại sảnh.
+`"Ku……………"@
+` Tay cầm chắc con dao găm, tôi vừa giữ nguyên ánh nhìn cảnh giác vừa lùi lại.
+\
+bg "bg/ima_14",lshutter,400
+wave se_12
+"……!!"
+` Lưỡi dao của SHIKI vút qua ngay trước mặt tôi.@
+` May mắn thay dẫu dã tịnh không có vết chém nào.@
+` [line=4]Thế nhưng hắn dẫu dã đánh bay chiếc kính mắt của tôi.
+br
+bg #9c0120,notrans,0
+bg "bg/ima_14",notrans,0
+`"[line=4]Gư-ư... Khốn kiếp……!!!!"@
+` Tim tôi đập thình thịch. @
+` "Khốn kiếp..." tầm mắt tôi tối sầm lại.@
+` Cơn căm hận tột độ xâm chiếm hoàn toàn tâm trí tôi.
+\
+` Tôi cố lấy lại hơi thở.@
+` Nhịp thở của tôi trở nên hỗn loạn.@
+` SHIKI lao tới.@
+` Dẫu dã đến nước này, tịnh không còn gì phải sợ hãi nữa.@
+br
+` [line=4](Tịnh không hề hấn gì)@
+` May mắn thay dẫu dã là lần thứ ba tôi đối mặt với tình cảnh sinh tử này.@
+` [line=3]Vào lúc này, tôi hiểu rõ cách thức di chuyển chính xác hơn bao giờ hết.
+\

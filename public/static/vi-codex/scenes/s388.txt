@@ -1,0 +1,44 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]Tôi sẽ đến giúp Kohaku-san.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+play "*3"
+` Bước ra khoảng sân rộng, tôi dẫu dã thấy Kohaku-san đang cầm cây chổi quét lá.@
+` Hẳn là chị ấy dẫu dã dọn dẹp xong xuôi khoảng sân sau, giờ đây đang vừa khe khẽ ngân nga hát vừa quét lá rụng trong sân.
+\
+ld c,"tachi/koha_t06",lshutter,800
+`"Ối chao?@ Có chuyện gì vậy Shiki-san, sao cậu lại cất công ra sân vào giờ này thế ạ?"@
+`"À…… Tịnh không có gì to tát đâu.@ Chỉ là tôi thấy hơi bồn chồn rảnh rỗi, nên muốn ra giúp chị một tay.@ Chị dẫu dã sắp dọn xong chưa?"@
+`"Dạ vâng, em dẫu dã quét dọn xong khoảng sân sau rồi ạ.@ Nhận thấy vẫn còn dư chút thời gian trước giờ chuẩn bị cơm tối, em nghĩ bụng dẫu dã nên cất công quét dọn nốt khoảng sân này luôn."@
+` Xem ra Kohaku-san quả thực vô cùng chăm chỉ, phần lớn lá rụng dẫu dã được chị quét dọn sạch sẽ rồi.
+\
+`"... Tôi đoán mình chẳng giúp được gì.@ Kohaku-san, bạn đã dọn sạch gần hết lá trong cả sân rồi."@
+`"Đúng vậy, chăm sóc khu vườn luôn là nhiệm vụ của tôi.@ Chăm sóc khu vườn sau nhà, khu rừng và những cây sồi phía nam cũng nằm dưới trướng trách nhiệm của tôi."@
+`"Wow, công việc của cậu không chỉ dừng lại ở việc chăm sóc giường hoa, mà còn cả khu rừng này sao?"@
+` ... Đợi một chút.@
+` Có nghĩa là...?@
+`"Ồ, Kohaku-san. Có một cây to lớn giữa khu rừng. Cậu cũng chăm sóc nó chứ?"
+\
+ld c,"tachi/koha_t18",crossfade,400
+`"Không, làm sao tôi có thể, Shiki-san? Cây đó đã ở trong biệt thự từ lâu lắm rồi. Tôi không thể chăm sóc thứ gì đó to như vậy."@
+` Kohaku-san mỉm cười vui vẻ như đang rất thoải mái.
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Nhưng cây đó rất quan trọng. Từ hành lang tầng hai của biệt thự, cậu có thể nhìn thấy nó rất rõ. Khi còn nhỏ, tôi thường dùng nó làm điểm mốc để tìm mọi thứ."@
+`"[line=3]Tôi hiểu rồi. Tôi cũng có ký ức về cây đó, dù chỉ một lần."@
+` Nó dường như không còn ý nghĩa gì nữa.@
+` [line=3]Cô gái từ thời đó, Hisui, không nghĩ nhiều về lời hứa chúng ta đã trao đổi. Đã tám năm rồi, nên tôi đoán cô ấy có thể có quan điểm khác biệt bây giờ.
+\
+`"À, sắp đến giờ ăn rồi. Vậy thì, Shiki-san, khi nào ăn tối, hãy đến phòng ăn nhé."@
+cl c,crossfade,400
+` Với lời nói đó, Kohaku-san biến mất, tiếng chân cô ấy còn vang vọng trong không khí.@
+` Tôi chắc chắn tất cả nguyên liệu đã chuẩn bị sẵn, và điều duy nhất còn lại là chế biến thức ăn.@
+`"... Tôi nghĩ mình nên quay lại phòng của mình."@
+` Sau khi ngắm nhìn thêm một chút cây lớn ở giữa rừng, tôi rời sân trong.
+\
+bg #000000,lcartain,800
+playstop
+!w1500

@@ -1,0 +1,43 @@
+playstop
+wavestop
+bg "bg/bg_40c",tshutter,800
+play "*1"
+` Tôi nhận ra rằng có người đang chăm sóc tôi.
+\
+ld c,"tachi/koha_t02b",lshutter,800
+`"Chào buổi tối. Shiki-san, bạn cảm thấy thế nào?"@
+` Cô ấy nói với nụ cười quen thuộc.@
+`"À... Kohaku, à."@
+` Tôi cố gắng cất tiếng đối thoại dù hơi thở của tôi yếu ớt như giấy rách.@
+ld c,"tachi/koha_t03b",crossfade,400
+`"À, cậu không cần phải nói. Tôi có lẽ hiểu tình trạng của cậu hơn cả bạn."@
+` Cô ấy lấy khăn khỏi trán tôi, vẫn mỉm cười.
+\
+` [line=3]Liệu thứ vừa rồi đó chỉ là ảo ảnh?@
+br
+` Kohaku-san đang cư xử bình thường. Cô ấy tiếp tục mỉm cười và đóng vai Hisui.@
+` ... Điều đó đấy.@
+` Tôi có chết ở đây mà không thể tháo mặt nạ này không?
+\
+`"tiểu thư Akiha đã kể cho tôi mọi thứ. Cô ấy nói sẽ chờ đến ngày mai, nhưng có lẽ quá lâu."@
+` "Ngài Akiha dường như đã mất khả năng suy nghĩ rõ ràng."@
+` "Tôi không nghĩ cậu sẽ vượt qua đêm nay với tâm trí như vậy, Shiki."@
+`"[line=9]"@
+` "*Hít vào... thở ra..."
+` "Lời Kohaku nói hoàn toàn chính xác."
+\
+ld c,"tachi/koha_t08",crossfade,400
+`"Shiki-san, cậu đã nói với tôi trước đó. Cậu nói rằng cậu không còn cảm giác về cái chết nữa."@
+` "Có vẫn đúng như vậy không? Cậu có vẫn quyết tâm chống lại tiểu thư Akiha một cách vô vọng với cơ thể này?"@
+`"[line=9] Kohaku?"@
+` "Tôi ngạc nhiên."@
+` Giọng của Kohaku-san hoàn toàn khác trước.
+\
+`"... Không thể nào. Tôi đã nói với cậu rằng tôi nhạy cảm với cái chết hơn hầu hết mọi người... Vì vậy tôi nghĩ mình hiểu tình huống hiện tại của mình."@
+` Không có bạn dặn dò[line=3], tôi biết việc sống qua đêm sẽ vô cùng khó khăn.@
+`"Vậy thì cậu không sợ chết à? Nếu chấp nhận tiểu thư Akiha, bạn sẽ nhanh chóng hồi phục, nhưng bạn vẫn chưa làm thế. Có điều gì đó sai với cậu."
+\
+`"... Có thể là vậy. Nhưng tôi nghĩ điều đó cũng ổn. Tôi thích bản thân hiện tại và thích Akiha vì cô ấy yêu thương tôi như thế này."@
+` "... Vâng, và... Tốt thôi... Tôi tận hưởng những điều nhỏ nhặt như chỉ đơn giản được cất tiếng đối thoại với cậu, Kohaku-san."@
+` "... Nhưng tôi cảm thấy nếu tôi lừa dối bản thân, tất cả những điều nhỏ nhặt đó sẽ mất đi niềm vui, và tôi sợ điều đó."[line=4]
+\

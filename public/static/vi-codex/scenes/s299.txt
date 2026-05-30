@@ -1,0 +1,467 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_02a",notrans,0
+` [line=3]Tôi đổ nhào về phía trước.@
+br
+` Tôi có cảm giác từ trước rằng nếu mình quay đầu bỏ chạy, tim tôi sẽ lập tức bị đâm xuyên từ phía sau.@
+br
+bg #ffffff,notrans,0
+bg "bg/bg_02a",notrans,0
+wave se_12
+`"[line=4]Hya!"`
+` Lưỡi lê của chị ấy sượt qua đầu tôi.@`
+` Đòn tấn công ấy dường như vô cùng chậm chạp.@`
+` [line=4]Tôi né tránh đòn tấn công của chị ấy, áp sát ngay bên cạnh chị, và...`
+\
+bg "bg/ima_14",lshutter,400
+wave se_06
+`"[line=5]!"`
+` Ngay thời khắc tôi định lao mình về phía trước, chuyển động của Senpai bỗng chốc thay đổi kịch liệt.@`
+` Trong tích tắc, với tốc độ kinh hoàng trông như thể chị ấy đã hoàn toàn biến mất, chị vung ngang món vũ khí.`
+\
+` [line=3]Tiếng gió rít điên cuồng bên tai... và tịnh không hiểu vì lẽ gì, tôi bấy giờ đã đứng cách xa chị ấy tới vài mét.@`
+bg "bg/bg_02a",crossfade,400
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=7]"`
+` Chị ấy tặc lưỡi căm phẫn nhìn xoáy vào tôi.@`
+cl c,crossfade,400
+\
+bg #9c0120,notrans,0
+bg "bg/bg_02a",notrans,0
+`"Á……!"`
+` Cánh tay trái của tôi đau điếng.@`
+`"Cái gì…… Hả[line=5]!?"`
+` Tôi bàng hoàng sững sờ.@`
+` Đoạn từ khuỷu tay trở xuống của tôi đã bị bẻ gãy gập.@`
+` Tuyệt nhiên không phải là vết gãy xương thông thường, mà cẳng tay tôi đã bị bẻ cong gập thành hình tam giác.`
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=3]Chấp nhận hy sinh cánh tay để bảo toàn cái đầu sao?@ Nếu em cứ ngoan ngoãn đứng yên, chị vốn dĩ đã có thể kết liễu em một cách êm ái tịnh không chút đau đớn rồi."`
+`"Cái[line=4]"`
+` Bản thân dẫu cho không hề nhận ra, tôi chắc chắn đã vô tình đỡ đòn tấn công cuồng bạo của chị ấy bằng cánh tay trái của mình.`
+\
+`"Em vẫn chưa chịu rút dao găm ra sao?"`
+` Chị ấy nhìn tôi bằng một vẻ mặt đầy chán chường lạnh nhạt.@`
+` …… Chị ấy đang đứng trố mắt nhìn khinh bỉ tôi.@`
+` Chị ấy trố mắt nhìn tôi như thể muốn tuyên bố rằng bản thân có thể tự tay kết liễu cuộc đời tôi bất kỳ lúc nào tùy ý.@`
+cl c,crossfade,400
+\
+bg #9c0120,notrans,0
+bg "bg/bg_02a",notrans,0
+`"Hực……!"`
+` Đau đớn dữ dội.@ Cơn đau đớn kịch liệt từ cánh tay lập tức dội thẳng ngược lên đại não tôi.@`
+` Dòng máu tươi tuôn chảy ra từ cánh tay gãy gập dường như đang ngấm vào hệ thần kinh hệt như một liều kịch độc.@`
+` Nhức nhối tê dại.@`
+` Chỉ độc nhất vết thương ấy dẫu vậy cũng đủ khiến đầu óc tôi bỗng chốc chìm vào một khoảng trắng xóa rỗng tuếch.`
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=5]"`
+` Chị ấy vẫn tiếp tục nhìn trố mắt vào tôi bằng đôi mắt lạnh lùng băng giá nhường ấy.@`
+`"Chị[line=3]!"`
+` Đã nhẫn tâm bẻ gãy tay tôi rồi dẫu vậy mà chị vẫn có thể dửng dưng như thế sao!?@`
+` Chị có biết vết thương này đau đớn tột cùng đến nhường nào không!?@`
+` Điên cuồng xem thường tôi đến thế.@`
+` Điên cuồng xem thường tôi đến thế!@`
+` Nhẫn tâm chà đạp lên lòng tự trọng của tôi nhường này[line=6]!`
+\
+`"Nếu chị đã dứt khoát quyết định dồn em vào bước đường cùng này, Senpai[line=4]"`
+br
+` Tôi nắm chặt lấy chuôi dao găm cất trong túi quần.@`
+br
+`"Em tuyệt đối không đời nào đứng im chịu chết[line=4]"`
+br
+` Cảm giác lạnh lẽo và cứng cáp của chất liệu kim loại truyền tới tay.@`
+br
+`"[line=2]để mặc chị tùy ý tước đoạt mạng sống của mình đâu."`
+br
+` Bằng một động tác dứt khoát vang lên tiếng cạch nhẹ,`
+` tôi bật tung lưỡi dao sắc lạnh ra.`
+\
+`"[line=3]Em bị ngu ngốc sao?"`
+cl c,lshutter,400
+` Ngay trong tích tắc,`
+` thân ảnh của chị ấy bỗng bộc phát lao vút đi.`
+\
+bg #000000,notrans,0
+br
+` [line=4]Không, nói thế tịnh không chính xác.@`
+` Chị ấy cúi gập rạp người xuống sát đất[line=3]hệt như dáng vẻ một con thằn lằn, rồi phóng vút thẳng về phía tôi trong chớp mắt.@`
+br
+` Khoảng cách sáu mét bấy giờ đã bị chị ấy chầm chầm san phẳng trong một tích tắc.`
+\
+` Tầm nhìn của tôi bấy giờ hoàn toàn không bắt kịp nổi thân ảnh chị ấy.@`
+` Thân thể chị thu nhỏ rạp xuống dưới tầm đầu gối tôi, rồi đột ngột từ hướng đó bộc phát đâm thốc ngược lên kịch liệt.@`
+br
+` Một tiếng thịch khô khốc.@`
+br
+` Từ ngay dưới mình, mũi lưỡi lê hắc ám chuẩn xác đâm thẳng hướng về phía yết hầu của tôi.`
+\
+bg "bg/bg_02a",lshutter,400
+wave se_05
+quakey 4,500
+wave se_10
+`"[line=4]Hộc... hự!"`
+` Tôi thở dốc dồn dập.@`
+` Đau đớn sao, liệu có còn đau đớn không?@ Đúng thế, tôi bấy giờ dẫu sao vẫn còn cảm nhận được nỗi đau.@`
+br
+`"[line=5]Hộc…… hự."`
+` Ý thức sao, liệu ý thức tôi có còn tỉnh táo không?@ Tuyệt vời, tôi vẫn chưa bị ngất lịm đi.@`
+br
+`"A, aaaaaa…………!"`
+` Cơ thể tôi.@ Thể xác tôi bấy giờ[line=4]quả thực đã nát bấy mất rồi.`
+\
+bg "bg/ima_13",lshutter,400
+` Tiếng máu tươi rơi nhỏ giọt tong tong.@`
+` Thanh âm ấy đang phát ra từ bả vai trái của tôi.@`
+` Ghé mắt nhìn qua, nơi ấy bấy giờ đã hóa thành một dòng thác máu phun ra xối xả chảy ròng ròng xuống đất.@`
+` Khoảnh khắc định mệnh vừa rồi.@`
+` Mũi lưỡi lê hắc ám quỷ dị kia tuy tịnh không đâm trúng yết hầu, nhưng đã cắm ngập xuyên qua bả vai trái của tôi.`
+\
+bg "bg/bg_02a",lshutter,400
+`"A, A, Aaaaaaah!"`
+` Đau đớn quá đỗi.@`
+` Vết đâm chí mạng nhức nhối giằng xé tâm can đến độ từ ngữ "đau đớn" đơn thuần tuyệt đối chịu chết chẳng thể diễn tả nổi lấy một phần mười.@`
+br
+`"[line=6]Hộc, a, aaaaaaa!"`
+` Thế nhưng, tôi vẫn còn sống sót.@`
+` Dẫu cho có thoi thóp nhọc nhằn, tôi lúc này vẫn đang được hít thở sinh tồn.`
+\
+` Thể xác tôi.@ Thân thể tôi lúc này bấy giờ đã bị văng ra xa biệt lập khỏi chị ấy thêm lần nữa.`
+\
+` Phảng phất xộc thẳng vào mũi tôi lúc này là mùi thuốc súng cháy khét lẹt bốc ra từ bả vai rách nát.@`
+br
+`"A, A, a."`
+` Thời khắc vừa rồi.@ Ngay khi mũi lưỡi lê đâm thấu qua bả vai tôi, chị ấy chắc chắn đã dứt khoát bóp cò món súng hắc ám ấy.@`
+` Nhờ có sức giật cuồng bạo từ phát bắn cự ly gần ấy thổi bay tôi đi, tôi mới may mắn có cơ hội dạt ra xa giữ khoảng cách với chị ấy.`
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"…… Chuyện này đã xảy đến liên tiếp tới hai lần, tuyệt đối tịnh không thể gọi là sự trùng hợp ngẫu nhiên được nữa rồi.@ Hứng chịu vết thương chí mạng mất máu nhiều nhường ấy mà dẫu vậy em vẫn tịnh không hề chết vì sốc phản vệ, điều đó quả thực đã là bằng chứng hiển nhiên cho thấy thể xác của em đã chầm chậm chầm chậm bắt đầu biến đổi rồi."`
+br
+` *Cạch**xoảng*!@ Tiếng kim loại vang lên khô khốc rợn người.@`
+` Mũi kiếm lê gắn ở đầu món vũ khí hắc ám lập tức được tự động thay thế bằng một lưỡi lê mới oai vệ.@`
+` Lưỡi kiếm lê cũ vừa đâm xuyên qua tôi chầm chậm rơi rụng[line=3]rồi lập tức biến đổi ngược lại thành những trang giấy sách úa vàng bay lơ lửng khắp không gian.`
+\
+`"…… Chuyện đó…… thật quá đỗi vô lý."`
+` Thế nhưng thứ vô lý đến hoang đường ấy bấy giờ lại reo rắc nỗi sợ hãi tột cùng vào sâu thẳm tâm can tôi.@`
+` Thứ quái dị đó[line=3]độc nhất việc để nó chạm khẽ vào da thịt thôi cũng mang theo một liều kịch độc chí mạng ghê tởm rồi.@`
+` Cái chết.@`
+` Bản thân tôi chắc chắn sẽ phải lìa đời.@`
+` Tuyệt đối không còn nghi ngờ gì nữa, tôi sắp sửa tự tay bị chị ấy kết liễu mạng sống rồi.`
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_02a",crossfade,400
+` Liệu mình có phải lìa đời tại đây chăng?@`
+` Đó có phải là thứ khiến tôi sợ hãi tột cùng chăng?@`
+` Bản thân tôi cũng tịnh không rõ nữa.@`
+br
+`"Hộc... ực………!"`
+br
+` Bả vai tôi bấy giờ đang nóng ran hệt như lửa đốt.@`
+` Nóng bỏng, cơ thể nóng bừng lên dữ dội hệt như sắp sửa bốc cháy ngùn ngụt vậy.`
+\
+` Kèm theo tiếng cạch nhẹ của kim loại, chị ấy lại chầm chậm nâng món vũ khí hắc ám oai vệ lên.@`
+` …… Đã hai lần rồi.@`
+` Đỡ đòn tấn công cuồng bạo ấy hai lần liên tiếp mà dẫu vậy vẫn còn sống sót thì tịnh không có gì khác ngoài một phép màu kỳ diệu rồi.@`
+` Lần tiếp theo đây chắc chắn sẽ là[line=4]`
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_02a",crossfade,400
+waveloop se_02
+` Tôi mường tượng ra cảnh tượng mũi lưỡi lê hắc ám đâm xuyên thẳng qua gương mặt mình.@`
+` Cảnh tượng tàn khốc ấy đối với tôi còn đáng kinh tởm hơn cả sự khiếp sợ đơn thuần.@`
+br
+` Bản chất cái chết vốn dĩ là.@`
+` Dẫu có xảy đến dưới hình thức nào đi chăng nữa, đó vẫn là thứ vô dụng, nhơ nhuốc và cực kỳ gớm ghiếc.@`
+` Bản thân tôi vô cùng yêu quý chính mình[line=3]thế nên tôi tuyệt đối tịnh không muốn biến cố tàn khốc ấy xảy đến với mình đâu.`
+\
+` Đó có phải là lý do khiến tôi sợ hãi chăng?@`
+` Bản thân tôi cũng chịu chết tịnh không rõ nữa.@`
+` Nghĩ kỹ lại thì[line=3]bản thân dẫu cho luôn trố mắt nhìn thấy "cái chết" hiển hiện sờ sờ, tôi dẫu vậy lại chưa từng nghiêm túc động não suy ngẫm về ý nghĩa thực sự của "cái chết" tự thân.`
+\
+` Không, biến cố đó bấy giờ tuyệt đối tịnh không còn quan trọng nữa rồi.@`
+` *Hộc...*, *hộc...*, *hộc...*[line=5]`
+` Bản thân tôi bắt buộc phải chạy trốn thôi.@`
+` Tôi tuyệt đối tịnh không muốn lìa đời, thế nên bản thân bắt buộc phải dạt ra xa thoát khỏi chốn này.@`
+br
+ld c,"tachi/cel_t07c",crossfade,400
+`"[line=2]Em tịnh không chịu tháo bỏ cặp kính của mình ra sao?"`
+` Một chất giọng hờ hững đơn điệu hệt như âm thanh giả tạo cất lên.@`
+` Lời nói ấy.@ Tôi giật mình thấu triệt ẩn ý sâu xa của nó.@`
+` Bởi lẽ việc tháo bỏ cặp kính đồng nghĩa với việc đôi mắt tôi sẽ lập tức nhìn xoáy thấy rõ muôn vàn "tử tuyến" trên cơ thể Senpai.@`
+` Nếu điều đó xảy đến, bản thân tôi rất có thể sẽ tự tay sát hại chị ấy mất[line=4]`
+\
+`"[line=2]Chuyện gì thế hả Senpai...?!?"`
+ld c,"tachi/cel_t06c",crossfade,400
+`"[line=7]"`
+` Một luồng ớn lạnh chạy dọc sống lưng tôi.@`
+` Bầu không khí xung quanh bấy giờ bỗng chốc tràn ngập sát khí nồng nặc đông cứng lạnh ngắt.`
+\
+`"…… Chị tịnh không thể lãng phí thêm thời gian với em nữa. Hãy dứt khoát kết thúc tại đây thôi."`
+cl c,crossfade,400
+` Thân ảnh của chị ấy lại cúi gập rạp người sát đất thêm lần nữa.@`
+br
+` [line=3]Chị ấy đang lao tới.@`
+br
+` Bản thân dẫu cho hiểu rõ chị ấy sắp sửa phóng vút kịch liệt về phía mình thêm lần nữa, đôi mắt tôi lúc này quả thực chịu chết tịnh không cách nào bắt kịp nổi thân ảnh chị.`
+\
+` [line=3]Tôi chỉ điên cuồng nghĩ đến việc trốn thoát.@`
+` [line=3]Nếu tịnh không muốn bị chị ấy kết liễu dã man, trốn chạy chính là lựa chọn duy nhất của tôi bấy giờ.@`
+` "[line=5]May mắn là khoảng cách giữa đôi bên bấy giờ gần mười mét. Nếu bản thân dốc toàn lực chạy với tốc độ tối đa, tôi chắc chắn có thể đặt chân vào tòa nhà trường học. Biết đâu tôi có thể tìm ra sinh lộ nếu dồn chị ấy vào một không gian hẹp hơn!"`
+bg #000000,lcartain,400
+bg "bg/bg_03c",lcartain,400
+monocro #ff0000
+bg "bg/bg_03c",notrans,0
+monocro off
+bg #000000,notrans,0
+wave se_07
+br
+`"[line=6]"`
+` Tấm lưng tôi.@`
+` [line=4]Một vật thể sắc nhọn đột ngột đâm xuyên qua lưng tôi.@`
+`"[line=4]Hực... á."`
+waveloop se_02
+` Thể xác tôi đổ rạp thẳng về phía trước.@`
+` Chỉ còn một chút nữa thôi.@`
+` Chỉ một chút nữa thôi là tôi đã có thể đặt chân vào tòa nhà trường học rồi, tôi nhọc nhằn chống một tay gượng dậy.`
+\
+`"[line=5]@
+` Tôi dùng một cánh tay nâng đỡ thân thể rách nát gượng dậy.@`
+` Vật thể đang cắm ngập xuyên qua cơ thể tôi bấy giờ chính là một trong những thanh kiếm lê trông hệt như đinh sắt mà Senpai đã sử dụng ngày trước.`
+\
+`"[line=4]Cớ sao... chị lại tàn độc đến thế hả?!`
+` Cơn đau nhức dữ dội bấy giờ dường như đã hoàn toàn làm tôi tê liệt, tôi nghiến răng tự tay rút mạnh thanh kiếm lê xuyên lưng mình từ phía sau ra.@`
+` Vì nó đã cắm xuyên qua hẳn lồng ngực, tôi căm phẫn dùng trọn tàn lực rút thẳng nó ra từ phía trước ngực mình.@`
+`"Được rồi………!"`
+` Giờ thì tôi đã có thể dứt khoát trốn vào bên trong rồi……!`
+\
+`"Em định trốn chạy đến phương trời nào nữa đây, Tohno-kun?"`
+br
+` Trước đó,
+` Chợt, từ phía sau lưng, tôi nghe thấy thanh âm lạnh ngắt của Senpai cất lên réo gọi.`
+\
+`"Đến tận lúc này mà em vẫn chưa chịu bừng tỉnh ngộ ra sao?@ Em tự hỏi xem bản thân đã phóng chạy tới chốn này bằng tốc độ kinh hoàng nhường nào?@ Và cớ sao em vẫn còn sống sót hít thở dẫu cho đã hứng chịu vết thương chí mạng nhường ấy?"`
+\
+`"Dừng[line=7]"`
+` Đại não tôi bắt đầu mờ mịt trắng xóa hẳn đi.@`
+` Đừng để lời nói của chị ấy lung lạc tâm trí.@`
+` Đừng để chị ấy tiếp tục lừa gạt bản thân nữa.@`
+` Chị ấy ngay từ thuở ban đầu vốn dĩ đã luôn lừa dối cuộc đời em rồi cơ mà.@`
+` Tuyệt đối không được phép lắng nghe lời chị ấy nữa.@`
+` Nếu em tiếp tục nghe theo, em chắc chắn sẽ phải lìa đời tàn khốc.@`
+` Hãy phớt lờ hoàn toàn chị ấy đi.@`
+` Tuyệt đối tịnh không được thừa nhận điều đó.@`
+` Dẫu cho đó có là sự thật hiển nhiên đi chăng nữa, thể xác này của tôi cũng dứt khoát phủ quyết chối bỏ sạch sẽ[line=3]`
+\
+`"[line=4]Làm ơn dừng lại đi."`
+`"Vô dụng thôi, em làm gì còn chốn nào để dung thân trốn chạy nữa đâu.@`
+` Em chỉ có duy nhất hai lựa chọn: vung vũ khí chống trả hoặc đứng im chịu chết. Nhưng một khi tịnh không thể chiến đấu, cái chết chính là kết cục duy nhất dành cho em."`
+` Tiếng bước chân của cô ấy.@
+` Tiếng bước chân nhẹ nhàng cất lên dồn dập, chị ấy đang chầm chậm tiến sát lại gần tôi.`
+\
+`"[line=7]!"`
+` Tôi nhảy vọt đi.@`
+` Tấm lưng, bả vai và cánh tay tôi tuy đã hoàn toàn nát bấy và tê liệt, dẫu vậy cơ thể tôi vẫn bộc phát nhảy vọt đi hệt như tịnh không hề hứng chịu vết thương nào.@`
+br
+` [line=3]Ngay cả bản thân tôi bấy giờ cũng chịu chết không tin nổi vào điều phi thường này.@`
+` Ôm lồng ngực thở dốc dồn dập kịch liệt dẫu vậy vẫn đạt được tốc độ kinh hoàng tương đương với Senpai, tôi lao thẳng vào sâu bên trong tòa nhà trường học.`
+\
+wavestop
+bg #000000,lcartain,400
+!w1000
+play "*8"
+bg "bg/bg_11c",lcartain,400
+` [line=5]*Hộc...*, *hộc...*, *hộc...*, *hộc...*`
+` Tôi điên cuồng phóng chạy.@`
+` Đầu óc hoàn toàn rỗng tuếch tịnh không nghĩ ngợi nổi điều gì khác ngoài khát khao muốn trốn thoát, tôi tiếp tục cắm đầu chạy trốn.`
+\
+` [line=5]*Hộc...*, *hộc...*, *hộc...*, *hộc...*`
+` Thế nhưng cơ thể tôi bấy giờ đã chạm tới giới hạn chịu đựng cuối cùng rồi.@`
+` Là do phổi tôi đã hoàn toàn cạn sạch dưỡng khí, hay là do muôn vàn vết thương rách nát chí mạng này đã dứt khoát tước đoạt khả năng cử động của tay chân tôi đây?@`
+` Dẫu cho nguyên cớ là gì đi chăng nữa, bấy giờ tuyệt đối tịnh không còn quan trọng nữa rồi.`
+\
+` Nhịp thở của tôi ngày một dồn dập nhọc nhằn hơn.@`
+` Tại góc cuối của dãy hành lang tối tăm.@`
+` Cắm đầu va mạnh vào bức tường lạnh lẽo vô định, tôi đổ sụp bất lực xuống nền đất.@`
+` Nằm ngửa người ra sàn nhà, tôi nhọc nhằn gượng ngồi dậy dẫu vậy thầm tự cười nhạo bản thân vì hành động ngớ ngẩn vô ích ấy.`
+\
+` …… *Hộc...*…… *hộc...*…… *hộc...*`
+` Ngồi khoanh chân trên nền đất lạnh, tôi mệt mỏi tựa hẳn tấm lưng rách nát vào tường.@`
+` Nhọc nhằn ngửa cổ ra sau, tôi ráng sức hít một hơi thật sâu hòng lấp đầy buồng phổi.`
+\
+`"[line=5]Vầng trăng."`
+` Ngước mắt nhìn lên, tôi có thể trông thấy ánh trăng khuya dịu hiền soi rọi qua khung cửa sổ.@`
+` Phải chăng vì cơ thể đã quá đỗi kiệt quệ rã rời?@`
+` Mọi cảnh vật hiển hiện trước mắt tôi bấy giờ đều trở nên nhạt nhòa ảo ảnh, trông hệt như thể đang bị bao phủ trọn vẹn trong một màn sương mù dày đặc.@`
+br
+` Sự mơ hồ nhạt nhòa nhường ấy.@`
+` Liệu có phải đang muốn tuyên cáo rằng bản ngã của tôi bấy giờ vốn dĩ là thứ vô định tịnh không có thực chăng?@`
+` Cực kỳ tương đồng với bản thể tôi bấy giờ.@ Hoàn toàn tương đồng với thực thể mang danh Tohno Shiki vô định hoang đường này.`
+\
+`"…… Đau…… quá……"`
+` Bả vai tôi bấy giờ lại nhói lên cơn đau nhức nhối kịch liệt.@`
+` Nếu sự tồn tại tự thân của tôi cũng hiển nhiên và chân thực hệt như nỗi đau đớn giằng xé này, liệu thảm cảnh bi thương bấy giờ có xảy đến với tôi chăng?`
+\
+` Đại não tôi bắt đầu điên cuồng rối loạn tịnh không thể thấu triệt nổi sự tình nữa rồi.@`
+` Bản thân bấy lâu nay vẫn hằng đinh ninh tin tưởng rằng mình chính là Tohno Shiki.@`
+` Thế nhưng kẻ đó hóa ra lại là một người hoàn toàn khác, và mọi người dửng dưng tuyên cáo với tôi rằng bản thể tôi chẳng qua chỉ là một đứa con nuôi nhặt nhạnh từ phương nào về.@`
+` Đã là con nuôi thì lẽ thường bản thân phải sở hữu mảnh ký ức nào đó về khoảng thời gian trước khi đặt chân tới mansion nhà Tohno chứ, thế nhưng trong đầu tôi quả thực tuyệt nhiên trống rỗng tịnh không đọng lại lấy một chút gì.@`
+` Bản thể tôi bấy giờ…… thực sự chỉ ôm giữ duy nhất dòng ký ức tự thân của một kẻ mang danh Tohno Shiki mà thôi.`
+\
+bg #000000,crossfade,400
+bg "bg/ima_01",crossfade,400
+` Ngự trị cô tịch trên vòm trời đêm khuya là vầng trăng khuyết dịu hiền lẻ bóng.@`
+`"[line=4]"`
+` Quả thực vô cùng…… kỳ quái làm sao.@`
+` Cớ sao bản thân tôi cho tới tận thời khắc này mới bừng tỉnh nhận ra sự việc quỷ dị ấy chứ?@`
+` [line=3]Đêm nay trông thật…`
+\
+bg "bg/bg_11c",crossfade,400
+br
+` …… Rút cuộc, bản ngã tôi bấy giờ thực chất là thứ tà vật gì cơ chứ?@`
+` Thật ngớ ngẩn quá đỗi, chết đi mà dẫu vậy bản thân vẫn chịu chết tịnh không biết nổi chân tướng thực sự của chính mình là gì rồi tiêu biến thành hư vô như thế này.@`
+br
+` Tất thảy mọi sự hiển hiện đều quá đỗi mơ hồ ảo ảnh, thật nực cười làm sao.@` Prince of Wales
+` Một thế giới kỳ dị nơi mắt tôi có thể nhìn thấy rõ ràng ranh giới cái chết.@`
+` Một đôi mắt quỷ dị có thể perceiving trực diện điểm tử của vạn vật.@`
+` Vào ngày định mệnh ấy của tám năm trước.@`
+` Bản thân tôi đã may mắn được hội ngộ cùng Sensei và được chỉ dạy cách để sinh tồn như một con người bình thường.@`
+` Cho tới tận lúc này, thâm tâm tôi dẫu vậy vẫn có thể dõng dạc khẳng định rằng việc được hội ngộ cùng người con gái ấy là điều tuyệt vời nhất trong cuộc đời tôi.`
+\
+`"…… Thế nhưng, Sensei ơi.@ Em nghĩ... bản thân em vốn dĩ là một thực thể tà ác tuyệt đối tịnh không nên tồn tại trên đời này mới phải."`
+` …… Có lẽ tôi nên tự tay kết liễu mạng sống tự thân của mình trong khi một phần nhân tính bên trong vẫn còn đủ tỉnh táo ôm giữ suy nghĩ lương thiện ấy.@`
+` Thế nhưng bản thân tôi quả thực chịu chết không cách nào làm nổi chuyện đó.@`
+` Tôi không cách nào tự tay tước đoạt mạng sống của chính mình được.@`
+` Cho dù có vô nghĩa lý đến nhường nào, cho dù việc sống sót có là một sai lầm tột độ đi chăng nữa, thâm tâm tôi vẫn vô cùng khao khát được tiếp tục hít thở sinh tồn.`
+\
+` Nếu bản thân tôi dứt khoát lìa đời tại đây, muôn vàn ký ức ngọt ngào bấy lâu nay sẽ lập tức biến thành một lời dối trá sạch sẽ.@`
+` Tôi vô cùng khát khao muốn được tiếp tục sống sót.@`
+` Dẫu cho việc đó có sai trái tội lỗi đến đâu, dẫu cho bản thân có phải cắn răng đánh mất đi bao nhiêu điều trân quý đi chăng nữa, tôi vẫn muốn được kiên cường sống tiếp.@`
+br
+` Độc nhất người con gái ấy.@`
+` Chỉ cần trên đời này luôn có chị Ciel kề cận bên tôi.@ Bản thân tôi dẫu cho có phải đánh mất đi toàn bộ mọi thứ trân quý khác trên đời cũng tuyệt đối tịnh không mảy may hối tiếc.`
+\
+br
+br
+br
+br
+br
+` [line=3]Độc nhất vì nguyên cớ ngọt ngào ấy, tôi mới có thể kiên cường sống sót vượt qua muôn vàn thảm cảnh cho tới tận bấy giờ.@ Thế nhưng, tất thảy mọi sự bấy giờ đều đi đến hồi kết kết thúc rồi.@`
+` Năm năm đằng đẵng trôi qua kề bên nhau ấy.@ Liệu đó có phải là một khoảng thời gian dài đằng đẵng chăng? Hay chỉ là một cái chớp mắt ngắn ngủi chăng? Bản thân tôi lúc này quả thực chịu chết tịnh không rõ nữa.`
+\
+`"…… Chị là đồ dối trá."`
+` Thâm tâm tôi tuyệt đối không muốn nghe thấy lời nói phũ phàng ấy từ miệng chị chút nào.`
+\
+br
+br
+br
+br
+br
+` [line=3]Chị vô cùng biết ơn em, Tohno-kun.@`
+` Sứ mệnh của chị tại chốn này bấy giờ đã hoàn thành trọn vẹn rồi.@ Việc còn lại độc nhất chỉ là tự thân chị cắn răng gánh vác trách nhiệm chuộc tội cho mọi hành vi sai trái của mình mà thôi.`
+\
+`"…… Đồ... dối... trá."`
+` Đúng vậy.@ Thế nhưng, biết đâu sâu thẳm trong muôn vàn lời xảo trá ấy, vẫn nhen nhóm đâu đó lấy một chút chân tình thực sự chăng.@ Bởi lẽ dẫu cho chị ấy có lừa gạt cuộc đời tôi ra sao, tịnh không một lần nào chị...`
+\
+br
+br
+br
+br
+br
+` [line=3]Chị vô cùng biết ơn em vì tất cả những ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào ngọt ngào đã dành cho chị bấy lâu nay.@ Đã lâu lắm rồi lồng ngực chị mới lại ngập tràn cảm giác hạnh phúc dịu hiền nhường này.@`
+` Thế nên, hãy cùng hạ màn kết thúc bằng một cái bắt tay nhé.`
+\
+`"…… Chị... đồ đại dối trá."`
+` Chị ấy dẫu vậy chưa từng lừa dối tôi dù chỉ một lần duy nhất.`
+\
+br
+br
+br
+br
+br
+` [line=3]Dẫu cho bản thân chị sau này tịnh không còn hiện diện ở chốn này nữa, em làm ơn hãy luôn giữ tình bạn thân thiết kề kề bên Inui-kun nhé.@`
+` Chị đã từng vô cùng khát khao được làm một người học sinh bình thường kề vai sát cánh bên em và Inui-kun[line=4]`
+\
+`"…………………"`
+` Thế nhưng bản thể con người dịu dàng ấy bấy giờ hóa ra toàn bộ chỉ là một ảo ảnh giả tạo mà thôi.@`
+` Tôi tuyệt đối tịnh không cách nào tin nổi nụ cười ngọt ngào thanh tú ngày trước bấy giờ hóa ra chỉ là một lời nói dối nhơ nhuốc.`
+\
+` Thế nhưng, đây chính là chân tướng tàn khốc của thực tại bấy giờ.@`
+` …… Người con gái mang danh Ciel kia toàn bộ chỉ là một ảo ảnh dối trá, và chị ấy chấp nhận nán lại sát kề bên tôi chỉ độc nhất mục tiêu tự tay kết liễu mạng sống của tôi.@`
+` Tôi đã bị lừa gạt trọn vẹn.@`
+` Chị ấy ngay từ thuở ban đầu vốn dĩ chưa từng mảy may đem lòng yêu thương bản thể tôi lấy một chút.@ Ngay cả vào thời khắc chị dang tay cứu rỗi cuộc đời tôi khi tôi hoàn toàn tuyệt vọng sụp đổ trong đêm hôm ấy cũng vậy.@`
+` Và cả muôn vàn khoảnh khắc ngọt ngào vô nguyên cớ đôi bên cùng nhau sẻ chia vào mỗi giờ nghỉ giải lao cũng vậy.@`
+` Tất thảy mọi sự, hóa ra chỉ đơn thuần là mưu đồ tính toán hòng xác nhận xem liệu tôi có phải là tên Roa gớm ghiếc hay không mà thôi.`
+\
+` Tôi căm phẫn nghiến chặt răng.@`
+` Tôi nghiến răng mạnh đến độ tưởng chừng như sắp vỡ vụn kịch liệt.@`
+br
+`"…… Khốn kiếp."`
+` Tôi điên cuồng dùng móng tay cào mạnh vào bức tường gạch lạnh lẽo hòng giải tỏa u uất.@`
+` Đúng thế, bản thân tôi quả thực đã bị lừa gạt trọn vẹn rồi.@`
+` Ciel đã cất công tiếp cận cuộc đời tôi, lẳng lặng tính toán chi li chu đáo mọi sự ngay từ thuở ban đầu.`
+\
+`"…… Dẫu cho có là như thế."`
+` Lồng ngực nhói lên cơn đau thắt quặn giằng xé tâm can, tôi bất lực cào móng tay vào tường.@`
+` …… Đúng vậy, bản thân tôi quả thực đã bị lừa gạt trọn vẹn.@`
+` Thế nhưng, dẫu cho có là như thế đi chăng nữa[line=4]`
+br
+`"[line=3]Bản thân em... tuyệt đối tịnh không cách nào oán ghét nổi Senpai."`
+!w1000
+\
+` Thâm tâm tôi tuyệt đối chịu chết tịnh không cách nào nảy sinh lòng căm ghét đối với người con gái ấy nổi.@`
+` Cho dù đối với chị ấy, muôn vàn ngọt ngào bấy lâu nay toàn bộ chỉ là một vở kịch dối trá nhơ nhuốc đi chăng nữa, thì bản thân tôi dẫu vậy vẫn thực sự vô cùng trân quý và hạnh phúc vì điều đó.`
+\
+` Dẫu cho thảm cảnh có tàn khốc ra sao, sự thật ngọt ngào ấy vẫn tuyệt đối bất biến.@`
+` [line=3]Khoảng thời gian từ khi gặp gỡ Senpai cho tới bấy giờ dẫu cho chưa đầy hai tuần ngắn ngủi, dẫu vậy... tôi thực sự đã được nếm trải cảm giác hạnh phúc dịu hiền tột cùng.`
+br
+`"…… Khốn kiếp thật chứ[line=5]"`
+` Đó chính là lý do độc nhất khiến tôi tịnh không cách nào oán ghét nổi chị.@`
+` Cho dù thứ hạnh phúc ấy bấy giờ chỉ đơn thuần là một ảo ảnh ảo giác dịu hiền độc nhất do chính tôi tự ngộ nhận dệt nên.@`
+` Thế nên, nỗi oán hận duy nhất dâng trào trong lồng ngực tôi lúc này chỉ có thể là... sự phẫn uất tột độ vì bất lực chực trào nhường này mà thôi.`
+\
+bg "bg/ima_01",crossfade,400
+` Tầm nhìn của tôi bấy giờ bắt đầu chầm chậm nhạt nhòa nhạt nhòa nhạt nhòa ảo ảnh hẳn đi.@`
+` Soi rọi qua khung cửa sổ khuya lúc này là vầng trăng khuyết chìm sâu trong đêm trắng.@`
+` Không gian xung quanh bấy giờ tịch mịch và cô tịch vô ngần, trông hệt như đáy biển sâu thẳm cô đơn.@`
+` Thân thể tôi bập bềnh trôi nổi trong không gian tịch mịch ấy một cách nhẹ nhàng vô định.@`
+br
+` Mọi sự hiển hiện toàn bộ chỉ là một ảo ảnh giả tạo, một ảo giác mong manh tự động tan biến sạch sẽ ngay khi bản thân có ý định tiếp cận kề bên.@`
+` Hệt như một vệt mirage hoang đường mà bản năng con người tuyệt đối chịu chết tịnh không cách nào chạm tay nắm giữ nổi.`
+playstop
+!w2000
+\
+bg #000000,crossfade,400
+bg "bg/bg_11c",crossfade,400
+wave se_08
+` Có tiếng bước chân nhẹ nhàng cất lên vang vọng.@`
+` …… Chị ấy đang chầm chậm tiến lại gần.@`
+wave se_08
+br
+`"[line=4]Hãy ra tay kết liễu ả ta?"`
+br
+` Sâu thẳm trong đại não tôi bấy giờ lại điên cuồng vang vọng thanh âm quỷ dị ấy.@`
+` Nếu em tuyệt đối tịnh không muốn lìa đời bi thảm, hãy thẳng tay phanh thây con mụ sát thủ ấy ra trăm mảnh đi.@`
+wave se_08
+` Nếu em tự dặn lòng bản thân tịnh không hề phạm phải sai lầm nào, hãy thẳng tay phanh thây ả ta ra trăm mảnh đi.@`
+` Hãy lập tức vung dao phanh thây ả ta ra trăm mảnh đi nào!@`
+wave se_08
+` Phanh thây ả ta.@ Phanh thây ả ta, Phanh thây ả ta, Phanh thây ả ta, Phanh thây ả ta, Phanh thây ả ta, Phanh thây ả ta, Phanh thây ả ta, phanh thây, phanh thây, phanh thây, phanh thây, phanhthâyphanhthâyphanhthâyphanhthâyphanhthâyphanhthâyphanhthây[line=7]`
+\
+`"[line=6]"`
+` …… Có vẻ như bản ngã tự chủ của tôi bấy giờ đã thực sự đi đến hồi kết thúc rồi.@`
+wave se_08
+` Cơn cuồng nộ khát máu lại điên cuồng bùng lên thiêu rụi lý trí tôi thêm lần nữa.@`
+` Thế nhưng dẫu vậy, thâm tâm tôi lúc này vẫn tuyệt đối tịnh không hề khát khao muốn chết chút nào.@`
+` Chừng nào bản năng sinh tồn vẫn gào thét tịnh không muốn lìa đời[line=3]bản thân tôi lúc này chỉ hiện diện duy nhất một con đường độc nhất để hành sự thôi.`
+br
+wave se_08
+` Tiếng bước chân khô khốc ngày một lớn dần réo gọi dồn dập.@`
+` Thân ảnh khổng lồ oai vệ của chị ấy bấy giờ đã chầm chầm phóng to hiển hiện sờ sờ ngay sát kề bên.`
+\
+br
+` [line=3]Em làm ơn hãy tháo bỏ cặp kính của mình ra đi được không?@`
+br
+` Chị ấy dẫu cho thừa thấu triệt ẩn ý tàn độc chứa đựng trong lời nói đó, dẫu vậy vẫn nhẹ nhàng cất tiếng thì thầm réo gọi tên tôi bấy giờ.@`
+` Trong trường hợp đó`
+\

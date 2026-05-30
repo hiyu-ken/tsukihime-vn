@@ -1,0 +1,66 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Chào bạn!@
+` Và giờ đây, góc gợi ý dành cho Tohno-kun hiếu kỳ, người dễ dàng gặp rắc rối khác,
+` Đã đến lúc "Hãy dạy tôi, Ciel-sensei!"@
+br
+` Bây giờ, bài học đầu tiên trong ngày thứ ba. Các bài học còn lại chỉ nói về tuyến của Akiha-san.
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Ồ? Thầy ơi, tại sao bài học của Hisui lại kết thúc trước bài học của Akiha?"@
+br
+` Câu hỏi bị từ chối.@
+` Bây giờ, Tohno-kun.@
+` Tôi hiểu cảm giác của cậu, nhưng Yumizuka-san đang gặp rắc rối lớn.@
+br
+`"Liệu Shiki không phải là người đang gặp nguy hiểm?"
+\
+` Đủ rồi, đây thực sự là một tình huống nghiêm trọng.@
+` Một cô gái cùng trang lứa đang gặp khó khăn, nên đây không phải lúc để né tránh nguy hiểm.@
+` Hãy quay lại một chút và chắc chắn điều tra ngõ hẻm phía sau.@
+` Vậy thì, hẹn gặp lại trong buổi học tiếp theo!
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t31a",lshutter,400
+`"... Tôi vẫn không hiểu. Tại sao Hisui lại kết thúc trước Akiha?"@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+`"Tôi vẫn không thể hiểu được. Tôi là nhân vật chính và lại không có nhiều thời gian xuất hiện trên màn ảnh, còn Shiki thì bỏ qua tôi!"@
+br
+ld r,"tachi/ark_t31b",lshutter,400
+`"Ừm, tôi vẫn không hiểu! Nó chỉ là tôi, và thậm chí Arcueid cũng xuất hiện! Nhưng bạn chỉ được nhìn thấy tôi từ phía sau. Hơn nữa, Sacchin lại hành xử giống một ma cà rồng hơn cả tôi! Cái quái gì thế này, Kinoko?"
+\
+ld r,"tachi/ark_t31a",notrans,0
+ld l,"tachi/ark_t31a",notrans,0
+ld c,"tachi/ark_t31b",notrans,0
+ld l,"tachi/ark_t31b",notrans,0
+ld c,"tachi/ark_t31a",notrans,0
+ld r,"tachi/ark_t31b",notrans,0
+ld r,"tachi/ark_t31a",notrans,0
+ld l,"tachi/ark_t31a",notrans,0
+ld c,"tachi/ark_t31b",notrans,0
+ld l,"tachi/ark_t31b",notrans,0
+ld c,"tachi/ark_t31a",notrans,0
+ld r,"tachi/ark_t31b",notrans,0
+ld r,"tachi/ark_t31a",notrans,0
+ld l,"tachi/ark_t31a",notrans,0
+ld c,"tachi/ark_t31b",notrans,0
+ld l,"tachi/ark_t31b",notrans,0
+ld c,"tachi/ark_t31a",notrans,0
+ld r,"tachi/ark_t31b",notrans,0
+br
+br
+br
+br
+br
+br
+br
+`"Tôi thực sự không hiểu. Đừng nói rằng cậu không hiểu, đừng nói rằng cậu không hiểu!!!"
+\
+bg #000000,crossfade,800
+playstop

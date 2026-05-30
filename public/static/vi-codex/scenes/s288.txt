@@ -1,0 +1,220 @@
+phase "bg/cmo_14",l,cel,11a,11
+monocro #fffff0
+bg "bg/bg_40e",crossfade,1500
+play "*6"
+` Trời đã hửng sáng, và tôi cuối cùng cũng khóa chặt được cửa phòng.@
+br
+` *hộc* *hộc* *hộc*
+br
+` Tiếng thở dốc như dã thú của tôi vang vọng khắp căn phòng.@
+` Đầu tôi đau như búa bổ.@
+` Có vẻ như tôi đã đánh rơi chiếc kính ở đâu đó rồi.@
+` Nhìn những "đường kẻ" chằng chịt khắp phòng, tôi cảm thấy buồn nôn kinh khủng.
+\
+` *hộc* *hộc* *hộc*
+br
+` Cảm giác ghê tởm dâng trào, tôi dùng dao vạch đứt tất cả những đường kẻ đập vào mắt.@
+` Tôi cảm thấy dễ chịu hơn đôi chút.@
+` Chỉ trong khoảnh khắc cắt rời vạn vật, trái tim tôi mới được bình yên.@
+` Nhưng càng cắt, cơn khát trong tôi lại càng cháy bỏng.
+\
+` *hộc* *hộc* *hộc*
+br
+` Tôi biết bản thân đang khát khao điều gì.@
+` Tôi khát khao mọi thứ.@
+` Bất cứ thứ gì đập vào mắt cũng đều khiến tôi ngứa ngáy điên tiết.
+\
+` Trông chúng thật thảm hại.@
+` Tôi không thể dung thứ cho việc chúng sống một cách vô nghĩa, dù cái chết đã được khắc sâu vào trong bản thể.@
+` Tại sao chúng không chết đi cho rồi?@ Đằng nào cũng có một kết cục không thể trốn tránh, vậy sao chúng vẫn còn tồn tại như thế kia chứ?@
+` Nếu đằng nào cũng kết thúc[line=3]thì sự tồn tại này còn ý nghĩa gì cơ chứ?@
+` Mọi thứ trước mắt tôi thật ma quái và đáng tởm.
+\
+` Thế nhưng chỉ cần nhắm mắt lại, tất cả những gì tôi nhớ là khoái cảm khi giết chóc.@
+` Cảm giác của một lưỡi dao sắc lạnh, không vương giọt máu,
+` êm ái lún sâu vào những thớ thịt đang phập phồng ấm nóng.@
+br
+` Trên đời này, không thể có sự kích thích nào mãnh liệt hơn thế đối với một con người.@
+` Một cảm giác kinh hoàng đến mức khiến tôi muốn cắn đứt lưỡi mình.@
+` Cảm giác đó là cực lạc hay cực khổ, điều đó chẳng còn quan trọng nữa.
+\
+` Nhất là đối với tôi.@ Khi lần đầu tiên lại là trải nghiệm tuyệt đỉnh vượt ngoài mọi sự tưởng tượng, thì tôi đã vô phương cứu chữa rồi.@
+` …… Arcueid.@ Sự đê mê khi xẻ thi thể cô ấy ra làm mười bảy mảnh vẫn đang thiêu đốt đại não tôi và không chịu tiêu biến.@
+br
+` Những phần cơ thể tuyệt mỹ ấy.@
+` Mang dáng hình của một con người, nhưng lại sở hữu một sức sống bền bỉ vượt xa người thường.@
+` Sự khoái cảm có được từ việc giết chóc ấy giờ đã phai nhạt.@ Lúc đó, tôi không hề giết Arcueid, mà có lẽ chính tôi đã tự tay phá hủy lý trí của mình rồi.
+\
+` *hộc* *hộc* *hộc*
+br
+` Tôi muốn tàn phá mọi thứ,
+` giết sạch tất cả.@
+` Tôi biết làm vậy là sai trái, nhưng tôi không nghĩ mình có thể kìm nén thêm được nữa.@
+` Cơ thể tôi run lên vì phấn khích; tôi sắp phát điên mất rồi.
+\
+`"Cậu Shiki, cậu đã thức chưa ạ?"@
+`"[line=4]!?"@
+` Tôi có thể nghe thấy giọng nói của Hisui từ phía bên kia cánh cửa.
+\
+`"Cậu Shiki, cậu khóa cửa như vậy không tốt đâu ạ.@ Nếu cậu đã thức rồi thì làm ơn mở cửa cho em."@
+`"…… Mở…… cửa ư…………?"@
+` Mở cửa?@
+` Mở cửa và cho phép Hisui vào trong?@
+` [line=3]Điên rồ thật mà.@
+` Nếu chuyện đó xảy ra, chính tôi cũng không biết mình sẽ làm ra loại chuyện gì nữa.@
+` Cứ như thế này[line=3]chỉ cần ở một mình thế này, nằm trên giường và kéo rèm che kín, tôi còn có thể kìm hãm những dục vọng đang chực chờ nuốt chửng tâm trí mình.@
+` Chính vì thế, nếu Hisui bước chân vào đây, tôi sẽ[line=3]
+\
+`"[line=3]Im đi!@ Để tôi yên!"@
+` Tôi gào lên phía cánh cửa.@
+`"…… Cậu Shiki?@ Cậu cảm thấy không được khỏe sao ạ?"@
+`"Tôi đã bảo để tôi yên mà……!@ Tôi không sao hết, nên làm ơn hãy để tôi yên đi……!"@
+` Nếu cô ấy[line=3]bước vào căn phòng này, một thảm kịch không thể cứu vãn chắc chắn sẽ xảy ra.@
+br
+`"…………"@
+` Sau một hồi im lặng kéo dài, tôi nghe thấy tiếng bước chân của cô ấy.@
+` Từng bước lặng lẽ, cô ấy rời khỏi trước cửa phòng tôi.
+\
+` *hộc* *hộc* *hộc*
+br
+` [line=3]Giờ thì an toàn rồi.@
+` Nghĩ vậy, tôi dần lấy lại bình tĩnh đôi chút.@
+` Mình nên[line=3]mình nên đọc sách để giải tỏa tâm trí thôi.
+\
+`"Ủ[line=3]a?"@
+` Cuốn sách luôn đặt cạnh gối nằm của tôi đã biến mất.@
+` Cuốn sách viết bằng tiếng Anh kia…… Dù tôi hoàn toàn chẳng thể đọc hiểu nổi, nhưng nó luôn là một công cụ hữu hiệu để giết thời gian.@
+` Tôi lục tìm xung quanh nhưng tuyệt nhiên không thấy nó đâu.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40e",crossfade,800
+` Không thể tìm thấy nó đâu hết.@
+` Tôi điên cuồng lục lọi ký ức để nhớ lại xem bìa sách trông như thế nào.@
+` Nhưng tôi không tài nào nhớ nổi.@
+br
+` *hộc* *hộc* *hộc*
+br
+`"Cuốn sách[line=3]cuốn sách đó đâu rồi."@
+` Mà nghĩ lại thì,
+` Tại sao mình lại đặt cuốn sách đó ngay cạnh gối nằm cơ chứ?
+\
+` Tôi không biết nữa.@ Tôi thậm chí còn chẳng nhớ bản thân đã mang nó vào phòng từ lúc nào.@
+` Tôi cũng chẳng biết mình đã lấy nó từ đâu ra nữa.@
+` Ngay từ đầu[line=3]liệu cuốn sách đó có thực sự tồn tại trên đời hay không?
+\
+br
+br
+br
+br
+` …… Thực sự thì, có lẽ ngươi vẫn chưa nhận ra đâu.
+\
+` …… Giọng nói đầy phiền toái của Roa lại hiện lên trong tôi.@
+` Cuốn sách đó[line=3]và cả nội dung của nó.@
+` Cuốn sách tôi thường hay đọc mỗi khi trằn trọc mất ngủ.@
+` Hay liệu, đó chỉ là một giấc mơ mà trong đó tôi mộng mị thấy bản thân đang thức trắng đêm và không thể chợp mắt?
+\
+br
+br
+br
+br
+br
+br
+br
+br
+` …… Nhưng thực chất, ngươi đã hóa điên từ lâu, lâu lắm rồi cơ mà……!
+\
+` Roa đã thốt lên những lời như thế.@
+` MƠ[line=3]một giấc mơ sao.@
+` Nhưng tôi, chưa bao giờ mơ thấy những giấc mộng kiểu đó cả.@
+` Ngay từ đầu, trong tôi làm gì có thứ kiến thức kỳ lạ đó chứ.@
+` Chẳng có lý do gì để tôi mơ thấy một giấc mộng như thế cả.@
+` Đó, không phải là giấc mơ của tôi.
+\
+br
+br
+br
+br
+br
+br
+br
+`   Có lẽ chính ngươi cũng chưa nhận ra đâu.
+\
+`"[line=4]Câm... miệng đi."@
+br
+` *hộc* *hộc* *hộc*
+br
+` Thế thì rốt cuộc thứ đó là cái gì cơ chứ?@
+` Từ cái quái nào mà tôi lại bắt đầu mơ thấy những giấc mơ thuộc về một kẻ khác chứ?
+\
+br
+br
+br
+br
+br
+br
+br
+`    Ngươi và ta đã được liên kết làm một rồi, Shiki.
+\
+`"[line=4]Câm miệng đi, ngươi chết rồi cơ mà."@
+` Ngươi đã chết từ đời nào rồi, đồ khốn, nên bớt lải nhải bên tai ta đi.@
+` Ta[line=3]hoàn toàn khác biệt với ngươi.@
+` Ta không phải là một kẻ sát nhân.@
+` Ta chỉ đang bị chấn động bởi những di chứng để lại mà thôi.@
+` Kể từ lúc chị Ciel quay trở về, ta tuyệt đối không cho phép bản thân điên loạn chỉ vì dăm ba thứ nhảm nhí này.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Đúng vậy, ban đầu ta cũng từng nghĩ như thế đấy.@
+`    Cho dù kẻ tên Roa này có xâm nhập vào[line=3]
+\
+wave se_05
+`"[line=3]Ta đã bảo ngươi câm miệng lại rồi cơ mà……!"@
+quakey 4,100
+br
+` *hộc* *hộc* *hộc*[line=5]
+br
+` …… Tôi thở dốc một cách nặng nhọc.@
+` Ánh nắng mặt trời chói chang ngoài kia khiến tôi điên tiết.@
+` Cổ họng tôi.@ Cổ họng tôi khô khốc đến mức sắp phát điên phát cuồng lên được.
+\
+`"Cậu Shiki……!@ Cậu đang làm cái gì vậy hả, cậu Shiki!?"@
+` Tiếng của Hisui vọng vào từ phía bên kia cánh cửa.@
+` …… Tôi thậm chí còn chẳng thể trả lời nổi cô ấy.@
+` Ngôn từ.@ Tôi thậm chí còn chẳng nhớ nổi từ ngữ mình muốn nói.@
+br
+` Thứ duy nhất lấp đầy tâm trí tôi lúc này,
+\
+bg #ffffff,notrans,0
+bg "bg/bg_40e",notrans,0
+br
+` Thứ đang chực nuốt chửng đại não tôi,
+\
+bg #ffffff,notrans,0
+bg "bg/bg_40e",notrans,0
+br
+` chỉ là thú tính cuồng loạn.@
+br
+` Tôi muốn xâm hại, chà đạp bất cứ người phụ nữ nào.@
+br
+bg #ffffff,notrans,0
+` Dục vọng dâng trào cuồng loạn trong tôi.
+\
+bg #9c0120,crossfade,400
+monocro off
+bg "bg/bg_40e",crossfade,400
+`"Uwaaaa[line=4]!"@
+wave se_10
+wave se_10
+wave se_10
+br
+` Đầu tôi.@ Tôi đập mạnh đầu mình vào bức tường.@
+` Đập liên hồi, như thể tôi đang cố tự xẻ đôi hộp sọ của chính mình.@
+` Thế nhưng[line=3]ý nghĩ muốn phân thây Hisui ra từng mảnh vẫn chẳng chịu biến mất khỏi não bộ của tôi.
+\
+` *Bốp!*@ *Bốp!*@ Tôi liên tục nện đầu vào bức tường.@
+` Như muốn át đi tiếng đập đầu ấy, Hisui bên ngoài lại càng đập cửa dồn dập hơn.
+\

@@ -1,0 +1,263 @@
+"Bối cảnh: Mặt trăng 'bg/bg_33d', rực rỡ, Arcueid, màu 05a, 5"
+bg #ffffff,crossfade,800
+` Tôi cảm nhận ánh nắng mặt trời buổi sáng.@
+` Tôi giữ mắt nhắm lại khi cố gắng ngủ lại, nhưng ánh nắng nhẹ nhàng vẫn thúc giục tôi mở mắt ra.@
+br
+` [line=3]Từ từ, tôi bắt đầu tỉnh giấc.
+\
+` Không khí yên bình.@
+` Không khí thoáng mát, nhưng lại cảm thấy dịu dàng.@
+` Có lẽ thời tiết sẽ đẹp hôm nay.@
+br
+` [line=3]Rồi tôi nên dậy và đi học.@
+br
+` Đúng vậy, tôi phải đi học.@
+` Những ngày qua, cuộc sống của tôi rơi vào hỗn loạn, khiến tôi quên đi mình là một sinh viên.
+\
+bg "bg/bg_40e",crossfade,800
+play "*2"
+`"...@
+` Tôi thức dậy.@
+` Tôi nằm trên giường, cặp kính nằm trên bàn bên cạnh.@
+` Tôi đeo kính và nhìn xung quanh.@
+bg "bg/bg_40a",crossfade,400
+` Ánh nắng mặt trời chiếu rực qua cửa sổ, tôi gần như mong đợi nghe thấy nó tuôn tràn vào.
+\
+`"[line=4]@
+` Tôi hít một hơi thật sâu.@
+` Tôi hít một hơi không khí trong lành, và nó như làm sạch ngực tôi.@
+` Tôi nghe thấy tiếng đồng hồ đang điểm.@
+` Những con chim nhỏ hót trong rừng bên ngoài.@
+` Tôi ở trên giường ấm áp, vô định cảm nhận dòng thời gian thư thái trôi qua.
+\
+br
+` [line=5]À, tôi đã trở lại.@
+br
+` Mặc dù buổi sáng này không có gì đặc biệt,
+` Ngay lúc này[line=4]tôi cảm thấy như có điều gì đó gần gũi với sự thiêng liêng trong nó.
+\
+`"[line=4] Thật may mắn."@
+` Thật tuyệt vời.@
+` Không phải vì tôi vẫn còn sống hay đã làm được điều gì đó về con ma cà rồng đen kia.@
+` Nhưng dù đang ở trong thế giới này, tôi vẫn có thể quay trở lại cuộc sống bình thường và cảm thấy hạnh phúc với buổi sáng nay.@
+br
+` [line=4]Sau đó.@
+br
+ld c,"tachi/his_t01",notrans,0
+`"Chào buổi sáng, Shiki-sama."
+\
+`"Uwaaaa!"@
+` Tôi bật dậy trên giường.@
+` Khi nhìn lại, Hisui đang đứng yên lặng bên cạnh giường tôi.@
+`"[line=3]Ha ha ha, Hisui," @
+`"... Xin lỗi ngài Shiki, nhưng vì ngài không để ý, tôi đã nói." @
+`"[line=3]À, ừm, tôi cũng xin lỗi." @
+` Hisui cúi đầu lịch sự với tôi. @
+br
+` [line=3]Cô ấy khiến tôi bất ngờ. @
+` Tim tôi vẫn đập nhanh như thường.
+\
+`"[line=3]Ồ? Nhưng vẫn chưa đến bảy giờ, Hisui à?" @
+`"Đúng vậy. Nó sớm hơn một chút so với thời gian thức dậy thông thường của ngài, Shiki-sama." @
+`"[line=3]Vậy mà, tại sao cậu lại ở đây, Hisui?"@
+`"Tôi đến để đánh thức cậu. Akiha muốn biết cậu đã làm gì trong hai ngày qua nên cô ấy yêu cầu tôi đưa cậu về bất kể thế nào."@
+`"[line=4]Ừm."@
+` ... Tôi quên mất.@
+` Thật ra, tôi đã bỏ học vào thứ Bảy tuần trước và ở với Arcueid suốt cả ngày Chủ nhật.
+\
+`"... Không thể nào! Akiha giận dữ à?"@
+`"Tôi không biết. Hãy tự mình xác nhận đi, Shiki-sama."@
+br
+` [line=3]Giọng của Hisui nghe rất lạnh lẽo.@
+br
+`"…… Chờ một phút. Trước đó, tại sao tôi lại đang ngủ trong phòng của mình……?"@
+`"Shiki-sama, ngài trở về khoảng hai giờ sáng. Nee-san tìm thấy ngài ngủ say ở cửa và mang ngài lên phòng."
+\
+cl c,crossfade,400
+`"[line=6]Hả..."@
+` ... Miệng tôi mở to.@
+` [line=4]Điều này rất tệ. Không liên lạc với ai trong hai ngày, trở về giữa đêm, và ngủ lại cửa. Tôi đang hành xử như một kẻ say!@
+br
+`"[line=4][line=4][line=4]Đó là người phụ nữ... đối xử với tôi như thể tôi là con mèo vậy."@
+` Mặt Arcueid lóe lên trong tâm trí tôi.@
+` ... Nhưng có lẽ tôi vẫn phải cảm ơn cô ấy đã mang tôi đến tận cửa vào.
+\
+`"[line=3]Tốt rồi. Tôi sẽ xuống ngay lập tức. À... và nếu có thể, tôi muốn bạn cố gắng làm dịu cô ấy xuống nhiều nhất có thể."@
+ld c,"tachi/his_t01",crossfade,400
+`"[line=4]Tôi từ chối."@
+` Cô ấy trả lời.@
+` ... Có lẽ Hisui cũng đang giận tôi.
+\
+cl c,crossfade,400
+`"[line=3]"@
+` Ồi trời, một rắc rối khác ư?@
+` Chủ nhân của ngôi nhà này là Akiha, vậy có nghĩa là nếu Akiha giận dỗi, không ai có thể bảo vệ tôi sao?@
+br
+` Tốt rồi, giờ phải dậy rồi.@
+` Tôi không thể làm gì khác ngoài việc nằm trên giường.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,400
+`"Ts………!"@
+` "[line=4]Ồ."@
+` Ngay khi tôi đứng dậy, cơn đau lan tỏa khắp cơ thể.@
+br
+`"[line=4][line=2]Đêm qua là những vết thương như thế nào?"@
+` …… Ừm, đúng vậy. Nếu có điều gì đó khiến ta ngạc nhiên, đó chính là việc tôi vẫn còn sống.@
+` Mặc dù tôi bị thương và đầy máu như vậy, nhưng tôi vẫn tỉnh lại bình thường. Điều đó không tự nhiên chút nào.
+\
+ld c,"tachi/his_t07",crossfade,400
+`"[line=4]Shiki-sama, những vết thương đó là..."@
+` "Thật hiếm thấy."@
+` Hisui mở toan đôi mắt và nhìn tôi.@
+`"[line=4]Chuyện gì vậy? Có điều gì sai không?"@
+` Tôi nhìn xuống cơ thể mình.@
+` [line=4]Và...
+br
+`"Chúa ơi, điều này là gì vậy?!?"@
+` Một mảng các đốm đỏ bao phủ khắp bộ đồ ngủ của tôi.@
+` Dĩ nhiên, thiết kế này chưa từng tồn tại; đó là máu của tôi thấm khắp mọi nơi.
+\
+`"[line=6]"@
+` Hisui kìm nén lời của mình.@
+` [line=2]Tôi biết ơn.@
+` Nó giúp tôi bình tĩnh lại.@
+` "Lý do cho sự chảy máu là rõ ràng."@
+` Nhưng vì tôi không thể nói với cô ấy lý do tại sao, nên tôi phải nói dối để không khiến cô ấy lo lắng.
+\
+`"[line=4]Thưa Ngài Shiki, cơ thể của ngài..."@
+`"...... Tôi ổn, chẳng có gì đau đớn cả. @ Xem này, tôi không sao mà lại về khuya như vậy phải không? @ Sự thật là, tôi vừa tham gia một trận chiến, đó là lý do tôi về nhà muộn."@
+` "Những vết thương này là từ trận chiến đó, và chúng chỉ là những vết cào nhẹ, nên đừng lo lắng về chúng."@
+`"[line=6]"@
+` "Mắt Hisui cầu xin tôi, nói: 'Xin đừng nói dối.'"@
+` Nhưng từ quan điểm của cô ấy, có lẽ cô ấy không thể hỏi tôi thêm gì nữa.@
+` "... Tôi cảm thấy tiếc, nhưng tôi sẽ phải giữ lời nói dối của mình."
+\
+`"À, vậy cậu có thể xin đừng kể cho Akiha biết về chuyện này được không? Cô ấy sẽ rất tức giận nếu nghe thấy tôi tham gia vào các cuộc chiến."@
+ld c,"tachi/his_t01",crossfade,400
+`"[line=4]Đúng rồi, tôi hiểu. Chắc chắn Akiha-sama sẽ không hay biết."@
+` Hisui gật đầu.
+\
+`"Cảm ơn. À, tôi có một yêu cầu khác. Cậu có chất khử trùng nào không? Tôi bị nhiều vết trầy khắp người nên muốn chăm sóc chúng."@
+ld c,"tachi/his_t05",crossfade,400
+`"[line=4]Ừm, tôi sẽ mang ngay."@
+cl c,lshutter,400
+\
+`"...?"@
+` "Chuyện gì vậy?"@
+` "Cô ấy đột nhiên trông rất khó chịu."@
+` "Dù sao đi nữa, tôi vui vì cô ấy đã lấy cho tôi chất khử trùng. Khi cô ấy mang đến đây, tôi có thể tự chăm sóc nó."@
+` "Đau chỉ nhẹ thôi, nên bất cứ thứ gì che giấu máu đều tốt."
+\
+bg #000000,lshutter,800
+bg "bg/bg_40a",lshutter,800
+ld c,"tachi/koha_t02",lshutter,400
+`"Cảm ơn vì đã chờ đợi~"@
+` Người mở cửa và bước vào không phải là Hisui mà là Kohaku-san. Trong tay cô ấy cầm một hộp có chữ thập đỏ in lên.
+\
+`"[line=4]Hừm, Kohaku-san?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Vâng, tôi nghe Hisui-chan kể lại tình hình. Shiki-san, cậu đi ra ngoài và tham gia đánh nhau à?"@
+`"[line=4]Ừm... không thực sự như vậy, tôi..."@
+` Tôi không thể nghĩ ra lời giải thích nào khác được.@
+ld c,"tachi/koha_t04",crossfade,400
+`"Chà, cậu không nên làm những việc như thế. Được phép nghịch ngợm nhưng không nên bạo lực. Chỉ gây đau đớn cho người thực hiện và người nhận thôi."
+\
+` Đau đớn cho cả người đánh và người bị đánh, phải không?@
+` Lời của Kohaku-san khiến tôi suy nghĩ rất nhiều.@
+br
+`"…… Vâng. Đó... đúng rồi. Đánh... chỉ đau thôi."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Không phải sao? Tôi thất vọng khi thấy những vết thương này trên cậu. Bất kể tình huống ra sao... tôi sẽ thất vọng nếu cậu tiếp tục làm những việc như thế này, Shiki-san."@
+` Lời cô ấy xuyên thủng sâu vào ngực tôi.
+\
+br
+` [line=4]Trong lòng, tôi muốn xin lỗi.@
+br
+` Xin lỗi, Kohaku-san.@
+` [line=4]Có lẽ tôi đã làm rất nhiều điều khiến cô ấy thất vọng về tôi.
+\
+`"[line=4]Vâng, tôi là một kẻ ngốc và tôi hối hận về điều đó. Tôi sẽ không bao giờ lặp lại nữa."@
+`"Nếu cậu hiểu rồi thì được. Tôi sẽ kiểm tra vết thương của cậu, nên hãy cởi quần áo ra nhé."@
+cl c,lshutter,800
+`"[line=4]Hả?"@
+` Kohaku ngồi xuống cạnh tôi và nắm lấy áo tôi.@
+` Cô ấy bảo tôi cởi quần áo ở đây.
+\
+`"Chờ đã! Cô không cần phải làm thế. Tôi chỉ muốn tẩy trùng vài vết trầy xước thôi!"@
+ld c,"tachi/koha_t04",crossfade,400
+`"Cô đang nói gì vậy? Ngay cả khi cô nói rằng chỉ có vài vết trầy, chúng cũng không trông nhẹ như vậy."@
+`"Không, tôi ổn. Tôi có thể tự làm được."@
+`"[line=4]Không được. Những vết thương trên lưng bạn..."@
+` Khi nhìn thấy những vết thương trên lưng tôi, Kohaku há hốc miệng.
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"[line=4]Thật đáng thương. Cậu có phải đã đánh nhau với một con Doberman, Shiki-san?"@
+`"…… Ừm.@ Vậy à? Nói thế cũng đúng."@
+`"[[line=8]]"@
+` Kohaku-san thở dài ngạc nhiên.@
+br
+`"Chà, giờ tôi thực sự không thể để bạn tự xử lý điều này, Shiki-san. Hãy nhanh lên đi, tháo quần áo ra nhé."@
+`"Không, tôi nói là tôi có thể tự làm được! Chúng không phải là chuyện lớn, tôi không cần phải khỏa thân..."
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"[line=4] Tôi hiểu rồi. Bạn chắc hẳn cảm thấy ngượng ngùng, Shiki-san."@
+` Với nụ cười, cô ấy vẫn cố gắng tháo quần áo tôi mặc.@
+br
+`"Tôi đã quen với cơ thể bạn, Shiki-san. Hãy tháo quần áo ra thôi."@
+`"... 'Quen' à, Kohaku-san?"@
+`"Tôi đã thay quần áo cho bạn một lần rồi, nên tôi biết rõ từng chi tiết trên cơ thể bạn."@
+`"W-W-Hả?"@
+`"Hãy đi thôi, chúng ta không còn nhiều thời gian." @ Nếu cậu mất quá nhiều thời gian, Akiha-sama sẽ để ý."
+\
+` [line=4]Ồ.@
+` Tôi không thể tranh luận với điều đó.@
+` Nhưng, để cởi quần áo trước mặt Kohaku-san...
+br
+ld c,"tachi/koha_t03",crossfade,400
+`"... tôi nghĩ cũng không sao. @ Vậy thì, tôi chỉ xem phần thân trên của cậu thôi. @ Như vậy, chẳng có gì phải xấu hổ cả, phải không?"@
+` Ngay cả điều đó cũng khiến tôi xấu hổ, nhưng tôi nghĩ đây là sự thỏa hiệp tốt nhất.@
+cl c,crossfade,800
+`"... Tôi hiểu rồi. @ Vậy thì, xin hãy làm theo."@
+` Tôi ngồi xuống giường và cởi áo sơ mi ra.
+\
+` Kohaku-san khéo léo chăm sóc những vết thương của tôi.@
+` Cô ấy cẩn thận băng bó những vết thương trên cánh tay, vai và lưng tôi.@
+` Chất khử trùng thấm vào vết thương.@
+` Chúng thấm vào, nhưng so với cơn chóng mặt thỉnh thoảng của tôi hoặc nỗi đau từ vết sẹo cũ, nó chẳng là gì.@
+` Khi cô ấy bôi chất khử trùng,
+ld c,"tachi/koha_t05",crossfade,400
+`"Wow, cậu thực sự là một chàng trai."@
+cl c,crossfade,400
+` Kohaku-san cười vui vẻ, có lẽ điều đó đã giúp tôi chịu đựng hết những cơn đau.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"Bây giờ chúng ta phải dán miếng gạc này vào. Nó có thể bị cọ xát, nên hãy băng lại nó."@
+` Cô ấy đặt một miếng áp dụng lên ngực tôi bị thương và quấn băng quanh nó.@
+ld c,"tachi/koha_t03",crossfade,400
+`"Đã xong rồi.  Bạn chắc chắn không muốn tôi làm chân bạn à?"@
+`"Ừm, tôi có thể tự làm phần còn lại. ... Cảm ơn Kohaku-san. Tôi biết bạn bận rộn lắm."@
+`"Không, không cần lo lắng đâu. Sau đó tôi sẽ quay lại bếp. Khi bạn xong việc, hãy đến phòng ăn nhé, được chứ?"@
+cl c,crossfade,400
+` Kohaku-san đi đến cửa.
+\
+`"À, Kohaku-san."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Có chuyện gì ạ?"@
+`"[line=4]Ờm... xin lỗi. Như bạn nói, đánh nhau thật ngốc nghếch. Nó chỉ là một phiền toái lớn và chẳng bao giờ mang lại điều tốt đẹp nào cả."@
+`"[line=6]"@
+` Kohaku nhìn tôi với vẻ ngạc nhiên rồi đột nhiên bật cười vui vẻ.
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"Tôi hiểu rồi. Tôi sẽ để nó qua lần này, được chứ?"@
+cl c,lshutter,800
+` Cô ấy vui vẻ nói vậy và rời phòng một cách lặng lẽ.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` [line=3]"Được rồi, tôi ở đây."@
+` Bây giờ chỉ còn một cánh cửa ngăn cách tôi với phòng khách nơi Akiha đang chờ đợi.@
+` "Không có hoàn cảnh nào có thể biện minh cho việc bỏ học và không về nhà trong hai ngày."
+\
+` Bây giờ. [line=2]
+\

@@ -1,0 +1,159 @@
+Giai đoạn "bg/bg_47", l, ark, 07a, 7
+bg "bg/cmo_05",crossfade,800
+` Ngày đó, toàn bộ biệt thự giống như một sân chơi khổng lồ.@
+br
+` Vườn như một khu rừng sâu thẳm.@
+` Nhà là một lâu đài cao chót vót.@
+br
+` Chúng tôi chơi đùa trong thế giới nhỏ bé của mình, nơi cần nhiều ngày để khám phá.
+\
+` Mỗi ngày đều vui vẻ.@
+` Không ai từng nghĩ về việc lớn lên,
+` và chúng tôi tin rằng ngày đêm luôn như nhau.@
+br
+` Đó chỉ là một tuổi thơ dành cho những trò chơi như những chú chó con.@
+` Chúng tôi rất hợp nhau, và là những người bạn chơi tốt nhất.
+\
+` Mỗi khi tôi quay lại, Akiha sẽ ở đó, vẫy tay và rụt rè giấu mặt.@
+` Vâng, luôn như vậy.
+\
+` Lúc đó, biệt thự là một sân chơi khổng lồ.@
+` Vườn, một khu rừng sâu thẳm.@
+` Ngôi nhà, một lâu đài cao chọc trời.@
+br
+` Chúng tôi chơi đùa trong thế giới nhỏ bé của mình, nơi có thể mất nhiều ngày để khám phá.
+\
+!w2000
+bg #ffffff,crossfade,800
+` Tôi từ từ tỉnh giấc và mở mắt ra.@
+` Ánh sáng buổi sáng bao trùm lấy tôi và cảm giác mệt mỏi bắt đầu tan biến.@
+br
+` Khi những dấu vết cuối cùng biến mất,
+` Tôi nhận ra rằng mình đã có một giấc mơ rất hoài niệm.
+\
+bg "bg/bg_40e",crossfade,1500
+`"[line=7]"@
+` Ngay khi tôi mở mắt ra, tôi bắt đầu nhìn thấy những hình ảnh đáng sợ nhảy vào tầm nhìn của tôi.@
+` Đầu tôi bị đau nhức dữ dội.@
+`"[line=4]`@
+` Tôi vội vã tìm cặp kính bên gối và đeo chúng lên.
+\
+bg "bg/bg_40a",crossfade,800
+play "*2"
+` Tôi hít một hơi không khí.@
+` Sau khi hít một vài hơi thở sâu, tôi cuối cùng cũng bình tĩnh lại.@
+`"[line=3]Tại sao tôi lại đến sớm như vậy..."@
+` "Xem những đường nét rõ ràng đó vào buổi sáng sớm như vậy?"@
+` "Khó có thể nhìn thấy những đường ranh giới giữa sự sống và cái chết trong những tòa nhà."@
+` Nó thường khó để nhìn thấy chúng, và việc nhìn thấy chúng rõ ràng như vừa rồi là hiếm xảy ra.@
+`"... ..."@
+` Thêm vào đó, tôi thậm chí còn nhìn thấy những "điểm" đó.@
+` Tôi nghĩ cơn đau đầu của tôi cũng đang trở nên tồi tệ hơn.
+\
+` Thầy nói rằng đôi mắt này sẽ thu hút những thứ không tốt.@
+` Tôi nghĩ Arcueid và những kẻ ma cà rồng này chắc chắn không phải là điều tốt.@
+` Vì vậy, có lẽ tất cả đang ảnh hưởng đến đôi mắt tôi và khiến chúng mạnh mẽ hơn.@
+`"[line=4]Không thể."@
+` Tôi có lẽ chỉ mệt mỏi thôi.
+\
+wave se_04
+`"Xin lỗi nhé."@
+ld c,"tachi/his_t01",lshutter,800
+` Hisui bước vào và chào tôi bằng một cú đầu lễ phép.@
+`"Ôi, buổi sáng, Hisui à?"@
+`"Vâng, buổi sáng tốt lành, Shiki-sama."@
+` ... Hisui mang đồng phục của tôi như thường lệ.@
+` Nhưng, tôi có thể cảm nhận được cô ấy hơi giận dữ.
+\
+` ... Không cần nói ra lý do cũng rõ ràng rồi.@
+` Cô ấy chắc hẳn đang tức giận về việc hôm qua tôi về nhà quá muộn, tôi lén lút vào phòng và ngủ thiếp đi.
+\
+`"Hisui, tối qua, ừm..."@
+ld c,"tachi/his_t08",crossfade,400
+`"Shiki-sama, không cần phải đưa ra bất kỳ lý do nào cho tôi."@
+` Cô ấy nhanh chóng trả lời và bắt đầu bước về phía cửa.@
+ld c,"tachi/his_t01",crossfade,400
+`"Vậy thì xin lỗi. Chị Nanaya đã chuẩn bị bữa sáng cho bạn, nên hãy vội đến phòng khách."@
+`"Đúng vậy, tôi dự định sẽ làm thế..."
+\
+ld c,"tachi/his_t09",crossfade,400
+`"Và Shiki-sama,
+` Akiha-sama muốn nói chuyện với bạn về việc về nhà muộn tối qua. Nên xin hãy nhanh chóng đến phòng khách."@
+cl c,lshutter,800
+br
+` Cô ấy đóng cửa một cách vô cảm.@
+`"U[line=5]"@
+` ... Vậy mà khi nghĩ lại, kết quả này hoàn toàn bình thường.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Akiha là người duy nhất ở phòng khách.@
+` Kohaku-san đang ở bếp, hát khăng khít.@
+ld c,"tachi/aki_t11a",crossfade,400
+`"...@
+` Akiha không nói gì khi thấy tôi và lặng lẽ nhấp một ngụm trà.
+\
+`"Này. Chào buổi sáng, Akiha."@
+` Tôi cố gắng chào cô ấy một cách tự nhiên nhất có thể. @ Mày của Akiha nhíu lại khi cô đặt chén trà xuống và chậm rãi nhìn tôi.
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Chào buổi sáng anh trai. @ Anh đến nhà muộn đêm qua, phải không?"@
+`"... Không, không thực sự. @ Tối qua em mới vừa một giờ rưỡi, điều bình thường đối với một chàng trai trung học khỏe mạnh."@
+`"Tôi hiểu rồi. @ Giờ ngủ của em cũng sau nửa đêm nên em cũng thức lúc đó. @ Nhưng em thường về nhà sớm hơn thế."
+\
+`"[line=3]À... có những chuyện cấp bách và em không thể trở về. @ Nhưng em đã quay lại, vì vậy..."@
+ld c,"tachi/aki_t11a",crossfade,400
+`"Đúng vậy, rất muộn vào ban đêm và anh đi thẳng lên phòng. @ Không nói gì hay thậm chí không làm ồn. @ ..."@
+` "... Thật đáng ngạc nhiên, anh hành động như thể đang làm một việc nào đó mà cảm thấy có lỗi."@
+`"Ừm..."@
+` Nhìn của cô ấy như tảng băng lạnh giá.@
+` ... Đây là lần thứ hai, và tôi chắc chắn dù Akiha trông bình tĩnh, nhưng cô ấy rất tức giận.
+\
+`"[line=2]Anh trai ơi."@
+` Tôi không biết chuyện gì đã xảy ra tại nhà Arima, nhưng ở đây giờ giới nghiêm là tám giờ. Nó là một quy tắc không được vi phạm.@
+` Cánh cổng sẽ bị khóa sau đó, nên đừng trèo vào như tên trộm nhé.@
+`"[line=3]Ồ... Anh biết à?"@
+`"... Camera giám sát đã cho tôi thấy rất rõ ràng."@
+` Tốt lắm là Kohaku nhận ra là anh và tắt hệ thống báo động vì nếu không, có lẽ anh sẽ bị bắt giữ ngay lúc này.
+\
+`"…… Ồ. Tôi nên cảm ơn Kohaku-san rồi. Và... Akiha, xin lỗi. Tôi không nên giữ im lặng về chuyện này."
+\
+`"…… Nếu cậu hiểu rồi, thì không sao. Từ giờ trở đi, hãy đảm bảo tuân thủ giờ giới nghiêm. Tôi sẽ bỏ qua lần này."@
+`"…… Về chuyện đó, Akiha."@
+`"Chuyện gì vậy?"@
+`"[line=3]…… Nói ra có vẻ khó một chút. Tôi... cũng có việc vào đêm nay. Không biết sẽ trở về khi nào, nhưng tôi không làm điều gì xấu xa đâu."
+\
+`"[line=9]"@
+` Nhìn chằm chằm, ánh mắt Akiha trở nên căng thẳng hơn.@
+`"Kohaku!"@
+` Cô bỗng đứng dậy.@
+cl c,lshutter,400
+` Kohaku bước vào từ phòng bếp.
+\
+ld l,"tachi/koha_t02",lshutter,800
+`"Vâng, có chuyện gì vậy, Akiha-sama?"@
+ld r,"tachi/aki_t11a",crossfade,400
+`"Tôi sẽ đến trường, chuẩn bị đồ dùng."@
+`"Hừ? Nhưng tôi chưa chuẩn bị bữa sáng cho Shiki-san."@
+ld r,"tachi/aki_t06",crossfade,400
+`"Bạn có thể để người này yên. Anh ta có vẻ tự làm mọi thứ được."@
+cl r,lshutter,800
+` Akiha bước tới sảnh.
+\
+ld l,"tachi/koha_t01a",crossfade,800
+` Kohaku-san thở dài.@
+`"... Shiki-san, cậu không nên khiến Akiha-sama buồn như vậy. Cậu là anh trai của cô ấy, nên hãy đối xử tốt hơn với cô ấy nhé?"@
+` Nói rồi, cô ấy đi theo Akiha.@
+cl l,lshutter,800
+br
+` Chén trà vẫn còn nguyên, hơi nước bốc lên.
+\
+`"[line=3]Nói tóm lại..."@
+` Tôi ở một mình, bình tĩnh suy ngẫm về tình cảnh của mình.@
+`"Chắc là tôi bỏ bữa sáng hôm nay."@
+` Vâng, không nghi ngờ gì nữa.@
+` ... Tôi nên ghé một cửa hàng tiện lợi trên đường và mua chút bánh mì.
+\
+bg #000000,lcartain,1500
+playstop
+!w2000

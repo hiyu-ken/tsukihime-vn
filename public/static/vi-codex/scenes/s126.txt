@@ -1,0 +1,213 @@
+if (%flgE>=1) skip 3
+Cảnh nền "bg/bg_06g", lớp (l), Arcueid (ark), hình 06a, số khung 6
+Nhảy qua 2 khung
+Cảnh nền "bg/bg_27b", lớp (l), Ciel (cel), hình 06a, số khung 6
+bg #ffffff,crossfade,1500
+bg "bg/bg_40a",crossfade,800
+play "*2"
+br
+` ... , ... , ... @
+br
+`"[line=2][line=2] Buổi sáng à?" @
+` Tôi mơ màng mở mắt. @
+` Ánh nắng từ cửa sổ đổ vào, bao trùm căn phòng trong bầu không khí ấm áp.
+\
+`"... ..." @
+` Tôi nhìn xuống đôi tay mình.@
+` Chúng hơi mồ hôi. Cơ thể tôi cũng ướt sũng, như thể đêm qua vô cùng nóng bức.@
+` Thêm vào đó, tôi đang thở dốc.
+\
+`"... Ừm."@
+` ... Tốt thôi, tôi cần bình tĩnh lại.@
+` Đầu tiên, tôi lấy hơi và sau đó nhắm mắt.@
+` Đây là phòng của tôi.@
+` Đang là lúc 7 giờ sáng.@
+` Tôi là người duy nhất ở đây, và dĩ nhiên, Senpai không đâu cả.@
+br
+` Như cô ấy nói,
+` tất cả chỉ là một giấc mơ.
+\
+`"... ..."@
+` Vâng, tôi biết.@
+` Tôi biết đó là một giấc mơ. Bây giờ khi tôi đã bình tĩnh lại, tôi biết cô ấy sẽ chẳng bao giờ làm điều như vậy.@
+` Vậy có nghĩa là... những gì xảy ra đêm qua không phải là thực.
+\
+`"Hhaa[line=2]ahhhh."@
+` Tôi thở sâu ra.@
+` Dù sao đi nữa, tôi vẫn cảm nhận được những dư âm của sự chạm vào của cô ấy còn lưu lại trên cơ thể tôi.@
+` Giống như cảm giác của đôi ngực cô ấy khi cô ấy ôm tôi từ phía sau trong bộ đồ lót, và những ngón tay nhảy nhót của cô ấy trên dương vật tôi.@
+` Tôi biết đó là một giấc mơ[line=2]nhưng nó quá chân thực; khiến tôi nghĩ rằng nó có thật.
+\
+` Dù sao đi nữa, nó chắc chắn phải là một giấc mơ.@
+` Tôi không thể nói liệu điều đó có nên làm tôi vui hay buồn, nhưng dù gì thì nó cũng chỉ là trí tưởng tượng của tôi thôi.@
+` Nhưng,
+\
+`"[line=2][line=2]Tại sao?"@
+` Tại sao tôi lại thấy giấc mơ kỳ lạ như vậy?@
+` Tôi biết Senpai là người bạn quan trọng của tôi; nhưng liệu việc mơ thấy cô ấy như một người phụ nữ có nghĩa là tôi cũng nhìn thấy cô ấy như thế không?
+\
+`"[line=4]Hừm."@
+` Chỉ nghĩ đến điều đó, ký ức quá chân thực về làn da của cô ấy liền ùa về.@
+` Để chắc chắn rằng mình không còn đang mơ nữa, tôi ôm lấy chính mình.@
+` ... Vâng, điều này chắc chắn là thật.@
+` Làn da của cô ấy hoàn toàn khác với làn da của một chàng trai như thế này... mềm mại và ấm áp đến bất ngờ.
+\
+`"... Và cô ấy thực sự rất tàn nhẫn."
+\
+` [line=2]Chỉ nghĩ về điều đó cũng khiến hơi thở tôi trở nên hoang mang.@
+` ... Dường như tôi đã trải qua rất nhiều chuyện tồi tệ, nhưng thật ra nó cảm thấy vô cùng tuyệt vời.@
+` Tôi nên cảm thấy có chút tội lỗi khi mơ về việc làm điều đó với Senpai, nhưng khi nhớ lại giấc mơ, tôi chỉ ngồi đó và suy nghĩ về nó.@
+br
+` Nhưng sau đó,
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Shiki-sama."@
+`"Uwaaaaaa!"@
+Cơ thể tôi run rẩy mạnh đến mức tôi như cố thoát khỏi giường.
+` Tôi vung vãi trên giường như đang cố trốn chạy.@
+` [line=2]Tôi chỉ cố gắng trốn thoát, nhưng cuối cùng lại ngã xuống sàn với những tấm chăn quấn quanh người.
+\
+`"Này, Hihi, Hisui...?! H, cậu đã ở đó từ bao giờ vậy?"@
+`"Từ trước khi ngươi tỉnh dậy, Shiki-sama."@
+` Cô ấy nói với vẻ bình thản như thường lệ.@
+` Vẫn còn nằm trên sàn, vướng trong những tấm chăn và không thể đứng lên, tôi nhìn lên khuôn mặt Hisui.
+\
+`"...Trước khi... tôi... tỉnh giấc..."@
+br
+` [line=2]Rồi ra nghĩa là...
+` Hisui đã thấy mặt tôi trong giấc mơ đó à?@
+br
+` Mặt tôi đỏ bừng lên.
+\
+` Hisui đứng đó, như thường lệ, không biểu cảm chút nào và không cố gắng nói chuyện.@
+`"Ừm…… tôi có trông…… kỳ lạ……?"@
+ld c,"tachi/his_t01b",crossfade,400
+`"Tôi không muốn mô tả nó."@
+`"[line=2]Ah" — tôi biết rồi. Tôi chắc chắn trông thật kỳ quặc.@
+` "Nhưng, nếu cậu kiên quyết, Shiki-sama, tôi có thể mô tả một cách chính xác nhất."@
+ld c,"tachi/his_t01",crossfade,400
+`"... Không, cậu không cần làm điều đó..."@
+`"Mặt tôi vẫn đỏ bừng, giọng nói yếu ớt vang lên.@
+` "Ừm, Hisui-san?"
+\
+`"Tôi khạc nhẹ để phá vỡ sự im lặng.@
+` Thêm "san" vào tên cô ấy là dấu hiệu rõ ràng về sự yếu thế của tôi.@
+` ...
+\
+`"Chuyện gì vậy, Shiki-sama?"@
+`"Ừm... Tôi sắp thay quần áo, nên cậu có thể chờ bên ngoài được không?"@
+` [line=2]Hoặc đúng hơn, tôi quá xấu hổ đến mức chỉ muốn cô ấy rời đi.@
+` Nhưng Hisui lại không vâng lời ngày hôm nay.
+\
+`"Khi tôi xác nhận được rằng cậu đã tỉnh, tôi sẽ rời phòng, Shiki-sama."@
+`"...!"@
+` "Hả? Cô ấy... có phải đang đùa sao?"@
+` Tại sao cô ấy lại nghĩ tôi che giấu mình trong những tấm chăn này!?@
+` Để che giấu điều gì đó vẫn còn đứng vững!
+\
+`"Tôi, tôi ổn, vậy xin hãy rời đi. Tôi có thể ngồi dậy và sẽ không ngủ lại. Tôi sẽ thay quần áo và đến phòng khách ngay khi các người rời đi."@
+`"[line=2]Shiki-sama, bạn bị thương và không thể đứng được...?"@
+` Hisui tiến lại gần tôi vì lo lắng.
+\
+cl c,crossfade,800
+`"[line=4]Không, không phải như vậy. Tôi đang đứng, tôi có nghĩa là tôi có thể đứng vững, nên đừng lo lắng."@
+` Tôi bò ra khỏi giường, kéo chăn như một con ốc sên, và tạo khoảng cách với cô ấy.@
+br
+` Sử dụng giường làm rào cản, tôi di chuyển xa hơn.
+\
+ld c,"tachi/his_t01b",crossfade,400
+`"Vậy thì, xin lỗi. Tôi sẽ chuẩn bị bữa sáng cho các người, vậy hãy đến sau khi thay quần áo nhé."@
+cl c,lshutter,800
+` Cô ấy chắc chắn đang nghi ngờ, nhưng cô ấy cúi đầu và rời khỏi phòng.
+\
+` *thở dài*@
+` Tôi thực sự bất ngờ.@
+` Nội dung trong giấc mơ của tôi thật đáng ngạc nhiên, nhưng biết rằng Hisui đã nhìn thấy tôi khi tôi đang mơ là điều rất khó chịu.@
+` …… Hoặc có lẽ đó là lỗi của tôi vì đã mơ về Senpai như vậy?
+\
+`"…… Có lẽ đó là lỗi của tôi.@ Với một người tốt như Senpai[line=2]làm sao tôi lại mơ về điều đó?"@
+` Tôi thở dài tự trách mình.@
+` Nhưng, tôi biết chắc rằng tôi sẽ không bao giờ quên giấc mơ đó trong thời gian gần đây.
+\
+bg #000000,lcartain,800
+!w500
+bg "bg/bg_34a",lcartain,800
+` Sau khi bình tĩnh lại, tôi bước vào phòng khách.@
+` Như thường lệ, Akiha ngồi trên ghế sofa, thanh lịch nhấp một ngụm trà.@
+br
+ld c,"tachi/aki_t04a",crossfade,400
+`"Chào buổi sáng, anh trai.@ Anh thật sớm dậy hôm nay."@
+` Cô ấy hẳn vui vì tôi thức dậy, nên chào đón tôi với nụ cười.@
+cl c,crossfade,400
+`"Ừ, chào buổi sáng.@ Sáng nay có rất nhiều chuyện xảy ra."@
+` [line=2]Ngay khi tôi nói vậy, tôi chợt nhớ lại ký ức về lưỡi của Senpai.
+\
+`"[line=2]Ờ...@"@
+` Không tốt lắm.@ Tôi có thể thấy mặt mình đang đỏ bừng không kiểm soát được.@
+`"[line=2]Anh trai?"@
+` Một tiếng ồn ào ngắn ngủi.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Có chuyện gì vậy? Mặt anh đỏ rực, có phải sốt không?"@
+`"[line=5]!"@
+` Cô ấy chạy đến gần tôi, nhìn lên từ dưới dưới.@
+` [line=2][line=4]Nhưng... khi cô ấy làm thế, từ góc nhìn này... ừm...
+\
+ld c,"tachi/aki_t12a",crossfade,400
+` Akiha thở dài.@
+`"Có vẻ như anh trai bị sốt rồi. Kohaku, nhanh lên đi. Anh trai không thấy tốt lắm."@
+` Akiha gọi từ phòng ăn.@
+` Kohaku-san chắc chắn đang chuẩn bị bữa sáng trong bếp.
+\
+`"[line=2]Tôi ổn! Chỉ là cảm lạnh nhẹ, nên đừng lo lắng!"@
+ld c,"tachi/aki_t21",crossfade,400
+`"Nếu chỉ là cảm lạnh, tôi không thể để nó qua. Đối với bạn, một bệnh nhỏ cũng là vấn đề lớn. Hệ miễn dịch của bạn thấp hơn nhiều so với người khác."@
+cl c,crossfade,400
+\
+` Akiha dường như đã mất kiên nhẫn và đặt tay lên trán tôi.@
+br
+` [line=2]Cảm giác bàn tay cô ấy mát lạnh và mềm mại.
+br
+`"!!!!!"@
+` Điều này không tốt.@
+` Điều này hoàn toàn không tốt, nên tôi thoát ra và chạy ra sảnh chính.
+\
+bg "bg/bg_33a",lcartain,800
+br
+` Tiếng chân bước vang lên khi tôi vội vã chạy đi.@
+br
+bg "bg/bg_40a",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Thưa Shiki-sama? Bạn đã ăn sáng xong chưa?"@
+`"[line=2]Không, không phải thế, nhưng... Ừm, túi của tôi đâu rồi?"@
+`"Tôi có túi cho bạn đây. Bạn chuẩn bị đi học rồi à?"@
+` Gật đầu, tôi nhanh chóng lấy lại túi từ Hisui.@
+`"Tôi sẽ đi thôi. Đừng lo lắng về việc tiễn tôi!"
+\
+bg "bg/bg_33a",lcartain,800
+ld c,"tachi/aki_t02",crossfade,400
+`"Anh trai, anh có vẻ kỳ lạ lắm. Với cái sốt như thế này, anh đang làm gì vậy?"@
+`"Chuyện này chẳng là gì đâu! Tôi đi học thôi! Sau đó tôi sẽ ăn sáng, nên để tôi yên!"@
+`"[line=2]Để tôi yên, anh trai ơi?"@
+br
+` Tiếng chân tôi chạy trốn là câu trả lời duy nhất.
+\
+bg "bg/bg_32a",lcartain,800
+`"[line=4]Ưm..."@
+` Ngay cả Akiha cũng không thể đuổi theo tôi đến mức này.
+\
+` Bây giờ chúng tôi đã không còn là trẻ con nữa, nên cô ấy sẽ không ngăn cản tôi đi học.
+\
+`"[line=4]Phụt."@
+`  Tôi hít một hơi sâu và cuối cùng cũng bình tĩnh lại.@
+`"...Tôi đang chạy trốn vì điều gì?"@
+` Khi tôi bình tĩnh lại, tôi có thể suy nghĩ rõ ràng hơn.@
+` Tôi không làm sai điều gì, nên không cần phải chạy trốn như vậy.
+\
+`"[line=2] Tôi không tin nó.@ Tôi trông thật ngốc nghếch."@
+` Nhưng quay lại biệt thự để ăn sáng nghe còn ngốc nghếch hơn.@
+`"[line=2] Đến trường ư?"@
+` Thở dài, tôi đi xuống con phố dân cư.
+\
+playstop
+bg #000000,lcartain,800
+!w1000

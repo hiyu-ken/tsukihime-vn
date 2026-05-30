@@ -1,0 +1,35 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Cảm ơn!@
+` Bây giờ, góc gợi ý cho Tohno-kun, người đáng tiếc đã rơi vào tình thế này,
+` Đã đến lúc "Hãy dạy tôi, Ciel-sensei!"@
+br
+` Trong giai đoạn thứ ba của ngày thứ ba này, tôi sẽ dạy bạn về tầm quan trọng của sự hợp tác.@
+` Này Tohno-kun, điều đó không tốt đâu.@
+` Tình huống mà cậu đang vướng phải lúc này không phải là thứ mà cậu có thể giải quyết một mình.@
+br
+` [line=5]Hãy xem, sai lầm mà cậu đã mắc lần này:
+\
+` ... À, không được rồi.@
+` Tình huống mà cậu đang vướng phải lúc này không phải là thứ mà cậu có thể giải quyết một mình.@
+` Cậu phải tìm kiếm những nơi kỳ lạ xung quanh nhà của mình,
+` và đừng quá cố chấp; cậu nên tin tưởng những người xung quanh và xin sự giúp đỡ từ họ.@
+` Tôi không muốn thấy Tohno-kun trở thành một kẻ giết người.
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Nhưng sau vài năm, Shiki sẽ được gọi là Shikiller, và cô ấy sẽ hợp tác với Hiệp sĩ Báo thù để truy lùng các Tử Đồ."@
+br
+` Arcueid, đó chỉ là điều bạn hy vọng, không phải là sự thật.@
+` Được rồi, Tohno-kun.@ Nghe đây, người không thậm chí còn có một lần xuất hiện trong tuyến đường này và tận hưởng phần còn lại của cốt truyện chính.
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",crossfade,800
+`"Ôi trời ơi.@ Tôi chẳng làm gì sai cả, sao tôi không được xuất hiện nhỉ?@ Tôi là nữ chính dự định mà."
+\
+cl c,crossfade,800
+playstop

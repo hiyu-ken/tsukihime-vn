@@ -1,0 +1,600 @@
+phase #000000,l,ark,08a,8
+bg #ffffff,crossfade,800
+` [line=3]Trắng.@
+` Sắc trắng gợi nhớ về một ký ức xa xưa.@
+` Một điều tưởng chừng đã ngủ quên.@
+` Một điều tôi buộc phải quên đi.@
+br
+` Một điều mà cha tôi ra lệnh phải xóa sạch khỏi tâm trí.
+\
+bg "bg/cmo_05",crossfade,800
+br
+br
+br
+br
+` Một ngày hè oi ả.@
+br
+` Bầu trời xanh thẳm cùng những đám mây giông khổng lồ.@
+` Làn gió nhẹ thoảng qua,
+` Mang theo tiếng ve sầu kêu râm ran nhức óc.@
+br
+` Tiếng ve sầu râm ran khắp không gian.
+\
+br
+br
+br
+br
+` Chíp.@ Chíp chíp.@
+!w500
+` Chíp.@ Chíp chíp.@
+!w500
+` Chíp.@ Chíp chíp.@
+!w500
+br
+` [line=4]Tiếng ve kêu nhức óc khiến tôi phát điên.
+\
+br
+br
+br
+` Xác ve sầu nằm rải rác trên mặt đất.@
+` Cảm giác như mặt trời đang ở ngay bên cạnh mình,
+` tỏa hơi nóng hầm hập thiêu đốt vạn vật.@
+br
+` Một ngày hè oi ả.@
+` Cảm giác như cả thế giới biến thành một chảo rán khổng lồ.
+\
+br
+br
+br
+br
+` Ôi, ừm... ừm...@
+!w500
+` Ôi, ừm... ừm...@
+!w500
+` Ôi, ừm... ừm...@
+!w500
+br
+` Akiha đang khóc nức nở.
+\
+` Akiha, người em gái luôn ngoan ngoãn túc trực bên tôi, bỗng dưng giàn giụa nước mắt.
+\
+bg "bg/cmo_06",crossfade,800
+br
+` Một đứa trẻ nằm gục ngay dưới chân con bé.@
+` Chiếc áo sơ mi trắng của nó đẫm máu đỏ tươi, cơ thể bất động không một chút cựa quậy.@
+br
+` Tôi đang đứng trân trân nhìn cảnh tượng đó.@
+` Đôi bàn tay tôi đỏ ngầu máu, y hệt như đứa trẻ dưới đất kia.@
+` Không, không phải thế.@
+` Bởi chính đôi bàn tay này đã nhuốm đỏ máu của đứa trẻ đó.
+\
+br
+`"[line=5]Akiha!"@
+br
+` Người lớn đã ập đến.@
+` Sau khi chứng kiến cảnh tượng này, biểu cảm của họ lập tức thay đổi dữ dội.@
+br
+`"[line=5]Chuyện gì xảy ra thế này..."@
+br
+` Họ bế thốc Akiha đi.@
+` Đứa trẻ vẫn nằm đó, đã chết.@
+` Trên bầu trời cao rộng, những đám mây giông trắng xóa trôi đi vô định.
+\
+br
+br
+` Tôi bị bỏ lại một mình, ngơ ngác ngước nhìn bầu trời cao thẳm.@
+br
+`"[line=4]Là ngươi đã giết nó phải không?"@
+br
+` Những người lớn giận dữ thét gào vào mặt tôi.
+\
+` Họ thét vang cái tên của tôi, kẻ đã cướp đi mạng sống của đứa trẻ kia.@
+` Hai âm tiết đó vang lên điên cuồng như thể họ đã mất trí.
+\
+br
+br
+br
+br
+br
+` Chỉ hai âm tiết ấy.@
+` Những người lớn gọi tôi là SHIKI, vì hai bàn tay tôi đã nhuốm màu máu đỏ.
+\
+bg #ffffff,crossfade,800
+bg "bg/bg_40e",crossfade,400
+play "*2"
+` Tôi có cảm giác như vừa thấy một giấc mơ cũ quen thuộc.@
+` Tôi mở mắt ra.@
+br
+`"... ..."@
+` Tôi ở trong phòng của mình.@
+` [line=3]Thì ra tôi đang ở trong phòng mình. Sau khi ngất đi dưới chân bờ tường biệt thự đêm qua, có vẻ tôi đã được đưa về đây.@
+` Suy nghĩ của tôi vẫn chưa thể kết nối lại được.@
+` Tôi nhớ lại những sự kiện hỗn loạn xảy ra đêm qua.
+\
+` Gã đàn ông quấn băng trắng toát đó.@
+` Và cách hắn ta có thể nhìn thấy những "đường chết" hệt như tôi.@
+` Sau khi bị đâm bởi những thanh hắc giáo, cơ thể hắn bùng cháy dữ dội. Hắn vừa chạy trốn vừa thét lên những lời nguyền rủa cay độc cuối cùng.`
+\
+`"[line=4]"@
+` Sau đó, tôi chỉ nhớ lại mọi thứ một cách mờ nhạt.@
+` Hình bóng trên cột đèn đường.@
+` Người đã cứu tôi, trông giống hệt như Ciel-senpai, [line=3]
+\
+bg "bg/bg_40a",crossfade,400
+`"... Đúng là không thể tin nổi.@ Chuyện đó làm sao có thể là thật được."@
+` Tôi cuối cùng cũng tỉnh táo lại.@
+` Đeo kính lên mắt, tôi ngồi dậy trên giường.@
+` Đồng hồ cho thấy đã quá tám giờ.@
+` Bình thường giờ này tôi đã ăn sáng từ lâu, nhưng hôm nay là ngày nghỉ.
+\
+`"Hisui... không có ở đây sao?"@
+` Bóng dáng Hisui đứng túc trực ngoài cửa như mọi khi cũng không thấy đâu.@
+` Chắc em ấy đã vào đây gọi tôi dậy vài lần rồi, nhưng vì tôi ngủ quá say nên em ấy đành đi làm việc khác.
+\
+` ... *thở dài*@
+` Tôi thở hắt ra một hơi dài.@
+br
+` [line=3]Sau khi chia tay Arcueid tối qua, những sự việc xảy ra sau đó hoàn toàn vượt quá tầm hiểu biết của tôi.@
+br
+` Gã quấn băng và người đã cứu tôi... tôi có vắt óc suy nghĩ thế nào cũng không thể lý giải nổi.
+\
+`"Dù sao thì tối nay mình cũng phải gặp Arcueid. Chắc chắn cô ấy sẽ cho mình câu trả lời."@
+` Tôi sẽ hỏi cô ấy về tất cả những chuyện kỳ lạ này, nhưng hiện tại, tôi phải quay lại nhịp sống bình thường, bằng không tôi sẽ phát điên mất.
+\
+`"[line=2]Được rồi. Trước mắt cứ phải ăn sáng đã."@
+` Bụng đói thì chẳng làm được việc gì ra hồn cả, đúng không?@
+` Tôi bước xuống giường, cố gắng rũ bỏ cơn mệt mỏi ra khỏi cơ thể rồi đi ra phòng ăn.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46a",lcartain,800
+`"Hửm..."@
+` Trên hành lang phía đông của tầng hai, tôi bắt gặp một bóng dáng mặc đồng phục hầu gái màu sẫm.@
+`"Là... Hisui."@
+` Có vẻ Hisui vừa bước ra khỏi phòng của Akiha.@
+` Đằng nào cũng chạm mặt nhau, nên tôi lên tiếng chào hỏi trước.
+\
+`"Chào em, Hisui!"@
+` Tôi gọi tên em ấy.@
+` Hisui nhận ra tôi và bước lại gần một cách im lặng.
+ld c,"tachi/his_t01",lshutter,800
+ld c,"tachi/his_t01",lshutter,800
+`"Chào buổi sáng, cậu chủ Shiki."@
+`"Chào buổi sáng. Xin lỗi em vì nay tôi dậy muộn thế này nhé."@
+`"Em cũng vô cùng xin lỗi. Đáng lẽ em phải túc trực sẵn ở đây khi cậu chủ thức giấc. Xin hãy trách phạt em."@
+` Hisui khẽ cúi đầu tạ lỗi.@
+\
+\
+`"Không cần phải xin lỗi đâu. Tôi dậy muộn không đúng giờ giấc thường ngày, đó hoàn toàn là lỗi của tôi. Nếu em muốn cằn nhằn thì cứ nói ra đi."@
+`"…… Lời cằn nhằn... của em sao……?"@
+\
+\
+`"………"@
+` Hisui đứng trơ ra đó, lặng im nhìn tôi đầy suy tư.@
+` Khoảng lặng ấy kéo dài đến gần một phút.@
+` Em ấy không hề chớp mắt, chỉ trân trân nhìn tôi.@
+\
+\
+`"Đừng bận tâm nữa…… cứ quên chuyện đó đi. Quan trọng hơn là tôi hơi đói rồi. Bữa sáng chuẩn bị xong chưa em?"@
+`"…… Em xin phép đi trước.@ Bữa sáng của cậu chủ đã được chuẩn bị sẵn dưới phòng ăn."@
+`"Ồ.@ Vậy tôi xuống ăn đây.@ Xin lỗi đã làm phiền em lúc đang làm việc nhé."@
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_34a",lcartain,800
+bg "bg/bg_34a",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+ld c,"tachi/his_t01",crossfade,400
+`"Món ăn ngon lắm.@ Cảm ơn em vì bữa sáng tuyệt vời mỗi ngày nhé."@
+\
+\
+`"[line=3]Chuẩn bị bữa ăn là nhiệm vụ của em.@ Nhưng nếu muốn khen món ăn, xin cậu chủ hãy nói trực tiếp với chị Kohaku ạ."@
+ld c,"tachi/his_t08",crossfade,400
+ld c,"tachi/his_t08",crossfade,400
+\
+[line=4]\
+`"Hả?"@
+` Câu hỏi của em ấy hoàn toàn chệch hướng... làm tôi bối rối.@
+br
+br
+`"Không phải thế đâu! Ngay cả khi nguội lạnh, món ăn Kohaku nấu vẫn rất ngon mà."@
+\
+ld c,"tachi/his_t01",crossfade,400
+[line=3]ld c,"tachi/his_t01",crossfade,400
+`"Em xin phép từ chối. Thưa cậu chủ Shiki, em từ chối nấu ăn cho cậu."@
+` Ánh mắt em ấy đột nhiên trở nên nghiêm nghị.@
+\
+ld c,"tachi/his_t05",crossfade,400
+ld c,"tachi/his_t05",crossfade,400
+`"... "@
+` Em ấy vẫn im lặng, đứng đối diện tôi như thể muốn nói điều gì đó.@
+` ... Có chuyện gì thế nhỉ?@
+` Hay là có điều gì khó nói với em ấy?@
+`"Có chuyện gì sao, Hisui? Tôi đã lỡ làm điều gì xấu mà tôi không biết à?"@
+` Hisui khẽ lắc đầu phủ nhận.@
+\
+\
+cl c,crossfade,400
+` cl c,crossfade,400
+` [line=3]Nói rồi, tôi bắt đầu bước ra khỏi phòng khách.@
+\
+ld c,"tachi/his_t01",crossfade,400
+[line=3]ld c,"tachi/his_t01",crossfade,400
+`"Cậu chủ Shiki."@
+`"Hửm?"@
+`"Tuy có hơi thất lễ, nhưng em muốn thực hiện yêu cầu của cậu theo cách tốt nhất có thể."@
+`"…… Hả?"@
+\
+\
+`"[line=3]Sáng nay, em mới nhận ra bản thân mình thật vô dụng."@
+`"Hả?"@
+`"Tám lần. Em đã gọi cậu chủ tám lần nhưng không hề có phản hồi. Cậu thấy việc đó có chấp nhận được không?"@
+`"Tám lần? Ý em là sao?"@
+\
+\
+ld c,"tachi/his_t09",crossfade,400
+ld c,"tachi/his_t09",crossfade,400
+cl c,lshutter,400
+cl c,lshutter,400
+\
+\
+`"……… Hả?"@
+` Tôi bị bỏ lại một mình, ngơ ngác đứng trơ ra.@
+br
+[line=3]br
+br
+br
+\
+[line=3]\
+`"Đó... chính là lời cằn nhằn theo yêu cầu của tôi sao?"@
+` Đúng vậy, không sai vào đâu được.@
+br
+br
+`"…… Cơ mà, đó chỉ là lời cằn nhằn thôi mà?"@
+` Nói thế nào đi nữa, gọi chủ nhân của mình là "ngốc" thì hơi quá đáng nhỉ?@
+` …… Tôi thực sự không muốn nghĩ sâu xa,
+\
+bg #000000,crossfade,800
+bg "bg/bg_40a",crossfade,800
+bg "bg/bg_40a",crossfade,800
+` Tôi quay lại phòng mình, nhưng thực ra cũng chẳng có việc gì để làm ở đây.@
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+bg "bg/bg_33a",lcartain,800
+` Tôi bước ra sảnh chính.@
+` Thật ra, khi nhớ lại ngày bé, tôi luôn bị cha quát mắng mỗi khi chạy nhảy nô đùa trong biệt thự.@
+` Giờ tôi không còn là đứa trẻ nghịch ngợm ngày nào, và cha tôi cũng đã qua đời.@
+br
+br
+\
+bg #000000,lcartain,800
+bg "bg/bg_46a",lcartain,800
+bg "bg/bg_46a",lcartain,800
+` Hành lang dài dằng dặc kéo dài hun hút.@
+br
+br
+` Ngôi biệt thự này rộng lớn hệt như một tòa lâu đài thực sự. Ngày ấy, mỗi ngày tôi lại đi khám phá một chút, tự tay khắc tên mình lên tường, cột trụ hay sàn nhà để đánh dấu.@
+` Đó là trò chơi kỳ lạ mà tôi và Akiha hay chơi cùng nhau xem ai có thể chiếm lĩnh được căn biệt thự này.@
+\
+bg #000000,lshutter,400
+bg "bg/bg_46a",lshutter,400
+bg "bg/bg_46a",lshutter,400
+`"Ồ, đây rồi. Chỗ này nữa."@
+\
+\
+` Có lẽ vì những trò nghịch ngợm này mà cha mới cấm chúng tôi chơi đùa trong biệt thự.@
+\
+\
+` Ngôi biệt thự thật rộng lớn.@
+` Ngày xưa tôi thấy nó vĩ đại như một tòa lâu đài khổng lồ, còn giờ đây trông nó tịch mịch, u ám hệt như một ngôi nhà hoang đầy ma mị.@
+` Có lẽ vì tôi đã trưởng thành kể từ đó.@
+\
+bg #000000,lcartain,800
+bg "bg/bg_48a",lcartain,800
+bg "bg/bg_48a",lcartain,800
+br
+[line=3]br
+br
+br
+` Khác với tôi, Akiha luôn ngoan ngoãn vâng lời cha, nên con bé chỉ được phép ra ngoài chơi khoảng ba mươi phút mỗi ngày.@
+\
+\
+br
+br
+`"... Có lẽ tính cách hiếu thắng của con bé đã bắt nguồn từ những khoảnh khắc đó?"@
+` Có thể ngày ấy con bé đã phải kìm nén bản thân trước mặt cha.@
+\
+bg #000000,lcartain,800
+bg "bg/bg_42a",lcartain,800
+[line=3]bg "bg/bg_42a",lcartain,800
+` Tôi đi đến sân trong.@
+br
+br
+br
+br
+` Số lần xuất hiện của chữ SHIKI nhiều hơn hẳn.@
+\
+\
+`"Trời ạ.@ Biết thế ngày ấy mình nhường con bé một chút thì tốt hơn."@
+` Tự trách bản thân lúc này cũng chẳng thay đổi được những nét chữ cũ.@
+` Nhưng đúng là hồi đó tôi đã làm Akiha tức giận rất nhiều, bởi con bé cực kỳ ghét thất bại.@
+`"Ra vậy. Có khi giờ con bé đang trả đũa mình cũng nên."@
+\
+\
+`"Mình đúng là một ông anh ngốc nghếch mà."@
+` "[line=4]Phải, tôi thực sự là vậy."@
+`"Thôi được rồi."@
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_54a",lcartain,800
+bg "bg/bg_54a",lcartain,800
+`"Hisui...?"@
+` Khi đi vòng ra sân sau, tôi bắt gặp bóng lưng của Hisui phía xa.@
+` Hisui không hề biết tôi đang đi phía sau.@
+` Em ấy đang định đi đâu mà lại tiến sâu vào khu rừng rậm kia nhỉ?@
+`"?"@
+br
+[line=4]br
+br
+br
+br
+br
+`"…… Hả? Có một khoảng trống ở nơi đó sao?"@
+` Tôi nghiêng đầu cố nhớ lại, nhưng vì lý do nào đó, ký ức của tôi về khu vực này vô cùng mờ nhạt.@
+\
+[line=3]\
+` Không, "nhìn thấy" không hoàn toàn chính xác.@
+` Nếu chỉ đi qua bình thường, có lẽ bạn sẽ chẳng bao giờ nhận ra nó.@
+br
+br
+`"…… Chỗ đó đã luôn tồn tại sao?@ Nếu có, đáng lẽ ngày bé chúng tôi đã chơi ở đó rồi chứ nhỉ."@
+\
+!w1500
+br
+br
+br
+br
+br
+br
+br
+[line=4]br
+!w1500
+\
+\
+` "…………"@
+\
+bg #000000,lcartain,800
+bg "bg/bg_53",lcartain,800
+bg "bg/bg_53",lcartain,800
+` …… Khu rừng rậm rạp cũng không có gì quá bất thường.@
+br
+[line=3]br
+`"Cái gì thế nàychỉ là một khoảng đất trống thôi sao."@
+` Tôi bước vào giữa khoảng trống.@
+` Quả thực nơi đây chỉ là một khoảng không trống trải.@
+` Mặt đất bằng phẳng rộng mở.@
+\
+wave se_01
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+br
+br
+br
+br
+br
+br
+` [line=6]Tiếng ve sầu kêu râm ran nhức óc.@
+\
+wave se_01
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+bg "bg/bg_53",crossfade,400
+` "[line=3]Ồ...?"@
+\
+wave se_01
+bg #ffffff,crossfade,400
+bg "bg/bg_53",crossfade,400
+[line=4]bg "bg/bg_53",crossfade,400
+`"Hự..."@
+!w500
+!w500
+!w500
+!w500
+\
+bg #ffffff,crossfade,800
+br
+br
+!w500
+!w500
+!w500
+[line=4]!w500
+br
+br
+br
+[line=4]br
+br
+br
+br
+[line=4]br
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+!w500
+!w500
+!w500
+!w500
+\
+!w500
+[line=2]!w500
+\
+wave se_01
+[line=4]wave se_01
+br
+br
+!w500
+!w500
+!w500
+\
+bg "bg/ima_13",notrans,0
+bg "bg/cmo_06",crossfade,400
+waveloop se_02
+br
+br
+` ... Bóng dáng gục ngã của ai đó.@
+` Tiếng bước chân nhẹ nhàng của một cô bé đang đến gần.@
+` Những cột mây giông trên bầu trời xa xăm. Xác ve sầu nằm rải rác dưới đất.@
+br
+!w500
+!w500
+\
+br
+br
+br
+br
+br
+br
+\
+\
+\
+br
+br
+br
+br
+br
+br
+[line=3]br
+` À. @ Những tiếng kêu cố xé rách màng nhĩ của tôi,
+\
+bg #ffffff,crossfade,1500
+bg "bg/bg_53",notrans,0
+[line=4]bg "bg/bg_53",notrans,0
+`"Á h." @
+` Ngực tôi đau quá. @
+` Khó thở quá. @
+monocro #ff0000
+bg "bg/ima_13",crossfade,800
+bg "bg/ima_13",crossfade,800
+` Trái tim tôi như vỡ vụn.@
+\
+br
+[line=3]br
+` Chuyện gì thế này?@
+\
+br
+br
+br
+br
+br
+` Đau quá.@
+` Đáng sợ quá.@
+!w1000
+!w1000
+\
+monocro off
+bg #000000,crossfade,800
+br
+br
+br
+br
+br
+br
+br
+br
+` Ý thức của tôi dần mờ mịt đi.@
+\
+br
+br
+br
+br
+br
+br
+br
+br
+\
+wavestop
+bg #ffffff,crossfade,1500
+!w2000
+play "*8"
+bg "bg/bg_40c",crossfade,800
+br
+br
+br
+br
+\
+` ... Tôi có thể nghe thấy những giọng nói loáng thoáng bên tai.
+\
+`"Akiha-sama, cô không gọi bác sĩ sao?"@
+\
+` Em không thể gọi bác sĩ được, vì vết thương của Nii-san không phải là thứ y học bình thường chữa được...!"
+\
+` ... Akiha và Hisui đang tranh luận.@
+br
+` Có vẻ như tôi đang nằm trên giường.@
+br
+` Tôi định lên tiếng chào và ngồi dậy, nhưng cơ thể hoàn toàn bất động.@
+\
+ld r,"tachi/aki_t07b",crossfade,400
+\
+ld l,"tachi/his_t05",crossfade,400
+`"Chuyện gì thế này, Hisui? Em thừa biết Shiki tuyệt đối không được đến gần nơi đó cơ mà……!"@
+ld l,"tachi/his_t05",crossfade,400
+\
+`"Chuyện này không thể giải quyết bằng lời xin lỗi được! Nhiệm vụ của em là hầu hạ anh trai tôi để tránh tình huống này xảy ra. Vậy mà em đã làm cái gì thế hả……!?"
+\
+br
+` Trái lại, Hisui chỉ lặng im cúi đầu nhận sự trách mắng.@
+br
+\
+` Nhưng ít nhất tôi cũng biết rằng Hisui đang bị mắng mỏ vì tôi.
+\
+`"Trả lời tôi đi, Hisui.@ Em đã làm gì và ở đâu suốt cả ngày hôm nay?"@
+` Hisui vẫn im lặng không đáp.@
+cl a,crossfade,400
+br
+cl a,crossfade,400
+br
+\
+` [line=3]Hisui dường như cũng biết trước điều đó, nhưng em ấy chỉ nhắm mắt đứng im cúi đầu chịu đựng.
+ld c,"tachi/aki_t15b",crossfade,400
+`"[line=2]Dừng lại đi, Akiha."@
+ld c,"tachi/aki_t15b",crossfade,400
+`"Nii-sanAnh tỉnh rồi ạ?"@
+ld c,"tachi/aki_t16b",crossfade,400
+`"Ơ…………"@
+ld c,"tachi/aki_t16b",crossfade,400
+\
+` Hisui vẫn đứng cúi gục đầu xuống, không dám nhìn tôi lấy một lần.
+br
+`"Em biết đấy, em không nên trách mắng Hisui. Tôi không rõ hoàn cảnh thế nào, nhưng chuyện tôi ngất đi chẳng liên quan gì đến em ấy cả. Là tôi tự ngất đi thôi."@
+br
+` Tôi dùng hết sức bình sinh để gượng dậy nửa người trên giường.@
+\
+` Vì Hisui đang buồn bã, tôi phải cố gắng tỏ ra bình thường nhất có thể.
+ld c,"tachi/aki_t17b",crossfade,400
+`"Thật tình, lại cãi nhau vì tôi. Trông thì lớn tướng rồi đấy mà cư xử vẫn như trẻ con vậy."@
+[line=3]ld c,"tachi/aki_t17b",crossfade,400
+`"Nhưng... anh đã ngất đi hoàn toàn đấy, Nii-san. Anh đã bất tỉnh suốt hơn mười tiếng đồng hồ liền, chuyện này chưa từng xảy ra trước đây. Nếu anh không tỉnh lại thì em biết phải làm sao đây?"@
+\
+ld c,"tachi/aki_t12b",crossfade,400
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"Vâng, anh đã bất tỉnh từ trưa rồi."@
+\
+` Tôi không lo cho bản thân, nhưng tôi chợt nhớ ra lời hẹn gặp Arcueid ở công viên lúc mười giờ đêm.
+\
+`"Chết dở, tôi phải đi đây. Akiha, tôi có việc phải đi nên chuyện còn lại nhờ em nhé. Đừng bắt nạt Hisui đấy biết chưa?"@
+`"A, anh đừng có nói những điều điên rồ như thế nữa……!"@
+ld c,"tachi/aki_t23b",crossfade,400
+`"[line=3]Haha, tôi ổn mà. Chuyện này xảy ra như cơm bữa rồi. Hồi học cấp hai tôi còn ngất hai lần một ngày ấy chứ, em biết rõ mà Akiha."@
+\
+`"Chính vì thế em mới lo lắng đấy! Nii-san, xin anh hãy nghe lời em nói, ít nhất là tối nay thôi."
+br
+` [line=5]Con bé nhìn thẳng vào mắt tôi với ánh mắt vô cùng nghiêm túc.@
+br
+cl c,crossfade,400

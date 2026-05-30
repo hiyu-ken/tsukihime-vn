@@ -1,0 +1,457 @@
+play "*1"
+wavestop
+bg #000000,lcartain,800
+play "*3"
+bg "bg/bg_11a",lcartain,400
+` "Ciel-senpai đưa tôi đến một lớp học không còn sử dụng ở góc rất xa của tòa nhà trường."@
+br
+`"Hừ...?@ Đây là một căn phòng theo phong cách Nhật Bản, phải không?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Đúng vậy.@ Nó rất thư giãn vì không ai khác ở đây."@
+`"Ừm, điều đó đúng, nhưng... nơi này bị khóa, senpai à?"@
+`"Có.@ Nó chỉ mở cho các thành viên câu lạc bộ nghi lễ trà, nên học sinh bình thường không thể vào được."@
+` Nói rồi, cô ấy lấy một chìa khóa từ túi quần.
+\
+`"Ồ.@ Cậu tham gia câu lạc bộ nghi thức trà à, Senpai?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"[line=2]Đúng vậy.@ À, thực ra cậu là thành viên duy nhất."@
+` Với nụ cười, Senpai bước vào căn phòng theo phong cách Nhật Bản.
+\
+bg #000000,lshutter,400
+bg "bg/bg_09a",lshutter,400
+` ... Không khí trong phòng có điều gì đó đặc biệt, như thể nó không thuộc về trường học.@
+` Cảm giác của thảm tatami và ánh nắng xuyên qua cửa sổ khiến cậu thấy thư thái vô cùng.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Như tôi đã nói trước, tôi là thành viên duy nhất của câu lạc bộ trà.@ Nhờ vậy, tôi có thể sử dụng nơi này tự do trong giờ trưa và sau giờ học.@ Đây."@
+` Cậu ấy cười và trải các chiếc gối ra.@
+`"Tohno-kun, cậu hãy đợi một chút, tôi sẽ pha trà ngay bây giờ."@
+cl a,lshutter,400
+` Shiki nhìn thấy người hướng dẫn (Senpai) tiến về phía bồn rửa để chuẩn bị trà.@
+` Không có lý do gì để đứng dậy, nên tôi làm theo lời dặn và ngồi xuống trên tấm thảm.
+\
+`"...@
+` Có lẽ là do không khí của căn phòng kiểu Nhật.@
+` Dòng hỗn loạn trong ngực tôi đã lắng xuống, và giờ đây tôi cuối cùng cũng có thể bình tĩnh suy nghĩ về những gì đã xảy ra với Yumizuka.
+\
+ld c,"tachi/cel_t01a",lshutter,400
+`"Cảm ơn bạn đã chờ đợi. Đây rồi. Bây giờ, hãy ăn trưa đi. Thực ra, tôi có một vài điều muốn hỏi bạn, nên việc chúng ta ăn trưa ở đây là tốt nhất.@
+`"Bạn có chuyện gì muốn nói với tôi à?"@
+` Thấy bối rối, tôi uống chén trà được mời.@
+` Khi tôi bước vào căn phòng theo phong cách Nhật Bản, tư thế của tôi tự nhiên thẳng dậy và tâm trí tôi trở nên bình tĩnh.
+\
+` ... Mặc dù tôi không có mối liên hệ nào với nó, gia tộc Arima đứng đầu một trường nghi thức trà. Có lẽ vì lớn lên trong môi trường như vậy, tôi cảm thấy thoải mái hơn trong một căn phòng theo phong cách Nhật Bản hơn là phương Tây.@
+` Thượng cấp nhìn tôi với biểu hiện lo lắng.
+\
+`"Có chuyện gì, thượng cấp? Bạn trông có vẻ hơi lo lắng."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Ờ? À, ừm, tôi chỉ bất ngờ khi thấy bạn bình tĩnh như vậy trước mọi chuyện, Tohno-kun."@
+`"Thật sao? Vậy thì, gia đình tôi khá nghiêm khắc, nên tôi đã quen với những chuyện này. Quan trọng hơn, thượng cấp, bạn có điều gì muốn nói với tôi không?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Tôi có. Tiếp tục cuộc trò chuyện chúng ta đã bắt đầu trước đó."@
+`"... Cuộc trò chuyện trước đó... Bạn nói về gia đình tôi à?"@
+` Người thầy chỉ đầu để biểu thị sự đồng ý.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Nếu bạn không phiền, tôi muốn nghe thêm về nó. Tôi tò mò về nó kể từ khi chúng ta dừng lại giữa chừng."@
+`"... Nó không phải là tôi phiền, nhưng nghe về gia đình tôi không thực sự thú vị. Đó sẽ là một lãng phí thời gian."@
+`"Tôi không phiền nếu nó không thú vị, tôi chỉ muốn nghe về nó."@
+`"... Ừm, bạn chắc chắn rất kỳ quặc, Người thầy ạ."@
+`"Có thể tôi là như vậy," Người thầy cười.
+\
+`"Được rồi, thì. Tiếp tục từ trước. Bạn nói rằng bạn chuyển đến nhà mới. Ý bạn là gì?"@
+` Người thầy hỏi, đầy tò mò.@
+` "…… Khi đó, cuộc trò chuyện chắc hẳn rất rối rắm đối với Senpai, vì cô ấy không hiểu hoàn cảnh gì cả."
+\
+`"[line=3]Nói chung, tôi là một chàng trai bị tước quyền thừa kế."@
+` "Tôi bị thương nặng trong một tai nạn giao thông khi mới chín tuổi."@
+` "Những vết thương tự nhiên lành lại, nhưng sau đó, tôi dễ bị ngất xỉu vì thiếu máu và nôn mửa. Đó là lý do tôi được giao cho họ hàng Arimas để điều trị."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Ừm, nghĩa là, gia tộc Arimas đã là cha mẹ nuôi nuôi bạn kể từ khi bạn chín tuổi, đúng không?"
+\
+`"Đúng vậy. Tôi biết bố cũ ghét tôi vì lý do nào đó và rằng một khi được giao phó cho gia tộc Arimas, tôi sẽ không bao giờ quay về nhà... quay về biệt thự Tohno, chứ. Vì vậy, ừm, tôi nghĩ mình sẽ chỉ tiếp tục sống như con trai của gia tộc Arimas mãi mãi."@
+` "Đó là suy nghĩ của tôi, nhưng bố cũ vừa qua đời gần đây. Khi đó họ bảo tôi quay trở lại biệt thự, vì bố cũ không còn ở đó nữa, và cuối cùng tôi cũng đồng ý."
+\
+` [line=3]"Và đó, về cơ bản, là tình hình gia đình của tôi. Tôi kết thúc câu chuyện như vậy."@
+br
+` "Ciel-senpai gật đầu im lặng."@
+` "...Tôi có thể hỏi một điều không?"
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"…… Được phép hỏi một điều được không?"@
+`"Ừm? Chắc rồi, nếu tôi có thể trả lời. Hãy nói đi."@
+`"... Vậy thì tôi sẽ hỏi. Cậu có ghét gia đình trước đây của mình không?"@
+br
+` [line=3]Gia đình trước đây của tôi - dòng họ Arimas đã nuôi tôi như con của họ, cha mẹ không phải là bố mẹ thật của tôi,@
+br
+` và tòa nhà lạ lẫm mà chắc chắn là nơi ở của những người xa lạ.
+` Nhưng bất kể điều đó thế nào@
+` "[line=3]Không, tôi thích họ. Họ là những người không quan tâm đến việc tôi không liên quan đến họ bằng máu. Họ đối xử với tôi rất ấm áp đến mức tôi cảm thấy tội lỗi vì bị trầm cảm một mình. Và khi họ yêu thương tôi bất chấp mọi thứ... Tôi không nghĩ điều đó là xấu."
+\
+`"Tôi được yêu thương bởi những người này.
+\
+` [line=3]Đó là lý do tại sao sớm hơn, thậm chí chỉ một ngày nào đó,@
+br
+` tôi sẽ rời khỏi đây.
+` Tôi phải thực sự trở thành một phần trong gia đình họ. [line=3]
+\
+br
+` Tôi đã tự nhủ những lời này từ khi còn nhỏ.@
+` ... Từ rất lâu trước đó.@
+` Tôi lặp đi lặp lại lời thề đó, cho đến khi gần như ngất đi.
+\
+`" ... À, giống như Arihiko nói, tôi không có phàn nàn gì về gia đình Arima cả.@
+` Họ đối xử tốt với tôi, và tôi nghĩ tôi cũng đáp lại tình cảm của họ.@
+` Giữa chúng tôi, mặc dù tôi biết chúng chỉ là trò chơi giả vờ thành một gia đình, ngay cả khi đó chỉ là một hành động, tôi không cảm thấy đau đớn gì.@
+` Không, thay vào đó, tôi rất hạnh phúc.@
+` Trong một khía cạnh nào đó, tôi đã xem gia đình Arima và tôi là gia đình hạt nhân lý tưởng.
+\
+`"[line=3]Nhưng điều đó không tốt, phải không?"@
+`"... Vâng. Bất chấp mọi thứ, có một ranh giới mà tôi không thể vượt qua. 'Đây không phải là gia đình thật của bạn...' Không quan trọng tôi làm gì, những lời đó vẫn ám ảnh tôi.@
+` Tôi biết mình nên phớt lờ nó, nhưng tôi chỉ không thể làm được.@
+` Tôi không biết nếu điều này có thể gọi là trải nghiệm thời thơ ấu, nhưng nó đã trở thành lời nguyền đối với tôi. Có lẽ, dù ở đâu, tôi cũng cảm thấy như một người xa lạ với gia đình mình."@
+ld c,"tachi/cel_t09",crossfade,400
+` Senpai im lặng.@
+` Tránh nhìn tôi, cô ấy cúi vai xin lỗi.
+\
+`"Xem này? Nó thật nhàm chán cuối cùng, phải không? Đó là lý do tôi nói lãng phí thời gian."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Không, đó không phải là sự thật. Nó là một câu chuyện rất có ý nghĩa."@
+` Nói như vậy, Senpai bắt đầu ăn trưa của mình.
+\
+cl a,crossfade,400
+` Tôi theo gương cô ấy và bắt đầu cắn từng miếng bánh mà tôi đã mua.@
+` ... Cảm ơn cuộc trò chuyện với Senpai, cơn đói của tôi đã trở lại.@
+` Dù vậy, tôi vẫn không thể ăn hết một nửa.
+\
+playstop
+!w1000
+ld c,"tachi/cel_t07a",crossfade,400
+`"Vậy thì. Tohno-kun, có điều gì đó làm phiền cậu lúc này không?"@
+`"Ờ ạ[line=2]tại sao đột nhiên như vậy? Tôi không có lo lắng gì đặc biệt."@
+`"Ừm. Vậy thì lý do cậu không ăn nhiều phải là vì sức khỏe của cậu chứ."@
+` Senpai nhìn tôi.@
+` ... Dường như, ánh nhìn của cô ấy rất sâu sắc.@
+` Tôi thấy khó giữ im lặng trước một cái nhìn như vậy.
+\
+`"…… Tôi không có lo lắng gì, nhưng... Senpai, cô nghĩ sao về những vụ giết người gần đây?"@
+` Tôi không thể ngừng hỏi. Những câu chuyện về bạn cùng lớp chưa về nhà luôn ám ảnh tôi.
+\
+`"Giết người? Ôi, cô có nghĩa là chuyện về những sinh vật hút máu đúng không?"@
+`"[line=2]Vâng. Đã có tám nạn nhân rồi, phải không? Tôi không theo tin tức gần đây nên không chắc lắm về chủ đề này. Cô biết gì, Senpai?"@
+`"À, tôi biết như mọi người khác, nhưng không, không phải chi tiết.@
+` "Chỉ là... từ 'ma cà rồng' khiến tôi rùng mình."
+\
+`"À, cậu muốn nói về việc nạn nhân dường như đã mất máu?@ Thật kỳ lạ, phải không?@ Tôi tự hỏi điều đó có ý nghĩa gì?"@
+`"Ai biết được?@ Không thể nào biết được những kẻ này suy nghĩ thế nào.@ Nhưng tôi tự hỏi tại sao họ lại gọi anh ta là 'ma cà rồng'?"@
+`"...?"@
+` "Câu hỏi kỳ lạ."
+\
+`"Vâng, có lẽ vì máu đã bị hút khỏi xác họ?@ Tự nhiên là gọi họ là ma cà rồng, phải không?"@
+play "*4"
+ld c,"tachi/cel_t04",crossfade,400
+`"Cậu có biết truyền thuyết về ma cà rồng, Tohno-kun?"@
+` Bất ngờ mỉm cười, người thầy lại hỏi một câu càng kỳ lạ hơn.
+\
+`"...Truyền thuyết về ma cà rồng?@ Bạn có nghĩa là những người bị hút máu bởi ma cà rồng sẽ trở thành ma cà rồng chính họ sao?"
+\
+`"Đúng vậy.@ Nếu điều đó đúng, thì không nên còn xác chết nào cả, phải không?@ Giả sử một ma cà rồng là kẻ giết người, thì sẽ không có xác chết, Tohno-kun."@
+`"[line=3]Tôi hiểu rồi.@ Đúng là như vậy, nhưng... đó chỉ là biệt danh, phải không?@ Cậu thực sự tin vào ma cà rồng, Senpai?"@
+ld c,"tachi/cel_t05",crossfade,400
+`"Không chút nào.@ Sau cùng, sự tồn tại của xác chết chứng tỏ điều đó không phải là một ma cà rồng, đúng không?"@
+` Nụ cười của Senpai trả lời có vẻ hơi lạc đề.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Nhưng cậu cũng có thể nghĩ theo cách khác sao?"@
+` "Có lẽ những nạn nhân mà xác chết được tìm thấy đã chết vì không trở thành ma cà rồng."@
+` "Có thể có những người có thể bị biến đổi, và những người không thể.@ Những người có thể trở thành ma cà rồng sẽ không để lại xác chết ngay cả khi họ bị tấn công bởi ma cà rồng.@ Bởi vì ngay cả bây giờ, họ vẫn đang sống[line=2]ở đâu đó ngoài kia."@
+` Những người không thể trở thành ma cà rồng thì chỉ đơn giản là chết đi, và cơ thể họ thường bị tìm thấy như vậy.
+\
+`"[line=5]Vậy à..."@
+` ...Senpai vẫn mỉm cười.@
+` Tôi biết đó chỉ là một trò đùa, nhưng tôi gặp khó khăn trong việc bỏ qua nó.
+\
+play "*3"
+ld c,"tachi/cel_t03",crossfade,400
+`"Ôi, tôi chỉ đùa thôi. Nó sẽ giống như một câu chuyện kinh dị nếu điều đó thực sự xảy ra. Tôi không thích những câu chuyện ma quái, nên xin đừng hỏi tôi những điều tương tự."@
+`"... Cái gì? Theo tôi thì cậu đang rất nghiêm túc, Senpai."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Đúng là tôi không thích những câu chuyện ma quái, nhưng tôi thích khiến cậu sợ, Tohno-kun."@
+`"... "@
+` Tôi có làm điều gì đó khiến cô ấy thù ghét tôi không?
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Nhưng nói chung, Tohno-kun, gần đây đường phố trở nên nguy hiểm vào ban đêm."@
+` "Bạn không được ra ngoài, ngay cả khi bạn là một chàng trai đầy năng lượng."@
+` "Senpai cảnh báo tôi như thể đó là một trò đùa. Tôi không biết cô ấy có nghiêm túc hay không."
+\
+bg #000000,crossfade,800
+playstop
+!w1000
+bg "bg/bg_06a",tshutter,800
+` Giờ nghỉ trưa kết thúc, tiết học thứ năm bắt đầu.@
+` Bài giảng về kinh điển trôi qua mà tôi chẳng nghe vào được.
+\
+bg "event/stk_e03",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` [line=3]À, nhà tôi ở phía này đây.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Tạm biệt. Hẹn gặp lại bạn ở trường ngày mai.
+\
+bg "bg/bg_06a",crossfade,400
+` Đó là điều Yumizuka nói.@
+` Cô ấy sẽ không nói như vậy rồi bỏ nhà đi.@
+br
+`"[line=4]"@
+br
+` Tôi có linh cảm không tốt về chuyện này.@
+` Kẻ giết người lang thang khắp thị trấn vào ban đêm.@
+` Đi ra ngoài vào ban đêm rất nguy hiểm, những lời của Senpai.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_06a",notrans,0
+`"[line=4]"@
+` Có lẽ là do hình ảnh đỏ bao quanh chúng ta khi chúng ta chia tay.@
+` Bất ngờ,
+` một hình ảnh của Yumizuka Satsuki ngâm mình trong máu đỏ hiện ra trước mắt tôi.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_06a",crossfade,400
+`"[Guh]([line=2])"@
+br
+` Nó xảy ra đột ngột.@
+` Thị lực của tôi chuyển sang màu trắng, và cảm giác cân bằng của tôi lắc lư.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_06a",crossfade,400
+br
+`"[line=4]"@
+br
+` Lĩnh vực nhìn của tôi bị chao đảo.@
+` Một thứ gì đó ẩn nấp ở phía sau đầu tôi, và ý thức của tôi cảm thấy nặng nề.
+\
+`"…… Điều này thật tệ…"@
+` Tôi hiểu cảm giác này.@
+` Sự chóng mặt đột ngột trước khi ngất xỉu.@
+` Máu tích tụ trong các mạch máu não trở thành một cục đen, khiến đầu tôi lắc lư, và tầm nhìn của tôi sẽ chuyển sang màu đen sâu thẳm.@
+` Nó cảm thấy như bóng tối đang đẩy ra khỏi não bộ của tôi vào các quả cầu mắt.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_06a",crossfade,400
+bg #000000,crossfade,800
+` [line=3][line=2]Điều này thật tệ.@ Tôi không ngất xỉu trong lớp gần đây
+br
+` Màu đỏ.@
+` Có phải vì hình ảnh máu đỏ của Yumizuka vẫn còn tươi mới trong tâm trí tôi?@
+` Thị lực tôi mờ đi.@
+` Khi bóng tối bao trùm, tôi cố bám vào bàn làm việc.@
+br
+` Nhưng vô ích.@
+` Các ngón tay tôi không còn sức mạnh.@
+` [line=2]Tôi rơi xuống sàn nhà.
+\
+` Khi đó, tôi nhớ lại lời cô ấy nói.@
+br
+`  "Tohno-kun, giúp tôi khi tôi gặp khó khăn được không?"@
+br
+` [line=2]Tôi đã nói với cậu rằng điều đó là bất khả thi.@
+` [line=4]Dù bạn nghĩ gì về tôi, tôi không phải là Superman.
+\
+!w3000
+bg "bg/bg_10c",tshutter,800
+play "*1"
+!w1000
+`"[line=3]Xin lỗi đã kéo cậu cùng tôi, Arihiko."@
+ld c,"tachi/ari_t03",tshutter,800
+`"Ừm, ừm, tôi quen với việc cậu đột ngột ngất như vậy. Thật ra, ngủ ở phòng y tế cho đến khi họ khóa chúng ta trong tòa nhà à? Cậu nghĩ mình là ai?"@
+`"Cậu nên đánh thức tôi. Không có gì đáng để để tôi ngủ thiếp đi cho đến khi bị khóa lại."@
+`"Im đi. Cậu nghĩ tôi sẽ đánh thức một người ốm yếu sao? Cậu chỉ lại ngất thôi. Đi thôi, chúng ta phải quay lại. Đã bảy giờ rồi mà."@
+cl a,tshutter,800
+` Arihiko bước dọc hành lang.
+\
+` ... Sau đó.@
+` Tôi ngất vì thiếu máu và bị bỏ lại ngủ ở phòng y tế.@
+` Thời gian trôi qua cho đến khi trường khóa cửa lúc sáu rưỡi ba mươi, và tôi tỉnh giấc vì cú đấm của Arihiko. Và thế là, chúng tôi bước đi dọc theo hành lang hoang vắng này.@
+`"Này. Tohno, sao rồi? Cậu đang làm gì vậy?"@
+`"[line=2]Xin lỗi. Tôi sắp đến."@
+` Tôi lắc đầu vẫn còn choáng váng, và theo sau Arihiko.
+\
+bg #000000,lshutter,800
+bg "bg/bg_01c",lshutter,800
+ld c,"tachi/ari_t04",crossfade,400
+`"Được rồi. Cậu có thể về nhà một mình từ đây. Nhìn gặp nhau ở trường ngày mai."@
+`"... Cảm ơn. Xin lỗi như thường lệ, Arihiko."@
+ld c,"tachi/ari_t02",crossfade,400
+`"Đừng lo lắng, tôi sẽ đòi lại với mức gấp đôi vào tương lai."@
+cl a,lshutter,800
+` ... Câu trả lời của Arihiko không hoàn toàn đúng ngữ pháp tiếng Nhật...
+` Tôi mỉm cười khẩy với chính mình và quyết định trở về nhà của tôi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_24c",lcartain,800
+` Tôi đến ngã tư đường.@
+` Đã là bảy giờ tối nhưng không ai xung quanh.@
+` Có lẽ vì kẻ giết người, ít người ra ngoài vào ban đêm hơn.@
+` Hình bóng duy nhất tôi có thể nhìn thấy lúc này là lưng của một phụ nữ cách xa.
+\
+`"... À, cô ấy tóc vàng à?"@
+` Người phụ nữ ở khoảng cách kia dường như là một người nước ngoài.@
+` Ngay cả từ xa, tôi vẫn có thể thấy mái tóc vàng óng ả của cô ấy khi cô ấy đi bộ.@
+playstop
+ld c,"tachi/ark_t22",crossfade,800
+br
+` Nó thu hút đôi mắt tôi theo sau cô ấy.@
+` Ngay cả khi tôi chỉ nhìn thấy cô ấy từ phía sau, tôi vẫn biết cô ấy xinh đẹp.
+\
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=8]Một tiếng "thấp".
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_24c",crossfade,400
+`"Ờ..."@
+br
+` Đột nhiên trái tim tôi đập mạnh lên.@
+` Cổ họng tôi bỗng khô khốc và rát.
+\
+` Tôi đổ mồ hôi lạnh.
+\
+wave se_01
+bg "bg/ima_13",crossfade,400
+bg "bg/bg_24c",crossfade,400
+`"[line=2]Ư... "@
+` Đầu tôi đau nhức.@
+` Không giống như tình trạng thiếu máu trước đây. Thay vì mờ dần, nhận thức của tôi trở nên sắc nét hơn.
+\
+wave se_01
+`"[line=5]Hah..."@
+` Tôi ngạt thở.@
+ld c,"tachi/ark_t22",crossfade,800
+` [line=3]Đằng sau...@
+` [line=2]Quan sát mái tóc vàng của người phụ nữ - Đầu tôi đau khủng khiếp.
+\
+wave se_01
+` [line=3][line=4]*Hít vào, hít ra, hít vào, hít ra*@
+` "...Tư duy của tôi như tan chảy trong sương mù."@
+` [line=3]Tôi sẽ... theo sau cô ấy, và sau đó...
+br
+`"Và... sau đó thì sao?"@
+` Tôi sẽ làm gì tiếp theo?@
+cl a,lshutter,400
+` Người phụ nữ biến mất trong một nhóm căn hộ ở khu mua sắm.
+\
+wave se_01
+`"...tôi phải... theo..."@
+` Tôi không biết tại sao, nhưng tôi nghĩ vậy.@
+` Chân tôi di chuyển về phía những căn hộ đó.@
+br
+` Nhưng trước khi làm điều đó...@
+br
+ld c,"tachi/stk_t10",lshutter,400
+cl a,lshutter,400
+`"[line=2]!"@
+` Chỉ trong một khoảnh khắc.@
+` Từ góc mắt tôi, tôi nhìn thấy hình bóng của Yumizuka Satsuki.
+\
+`"[line=5]Yumizuka, sao?"@
+` Đầu tôi bỗng sáng sủa.@
+` Yumizuka... chỉ là một khoảnh khắc ngắn ngủi, nhưng không hề nghi ngờ gì, đó chính là Yumizuka.@
+` Cô ấy có lẽ đang đi về thị trấn?@
+`"Cô ấy đang làm gì ở đây, vào thời điểm này...!?"@
+` Tôi quá tức giận, tôi không quan tâm nếu cô ấy biến mất hay bỏ chạy khỏi nhà.@
+` Quá nguy hiểm cho một cô gái lang thang trong thị trấn vào ban đêm một mình.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` Yumizuka đi qua thị trấn đông đúc.@
+` ... Cô ấy quá xa, tôi không chắc.@
+` Nhưng ngay cả khi tôi nhầm lẫn, tôi quyết định đuổi theo và bảo cô ấy dừng lại.@
+`"[line=2]Chờ đã, Yumizuka-san!"@
+` Tôi hét lên, đuổi theo cô ấy.@
+ld c,"tachi/stk_t10",lshutter,800
+`"[line=3][Đứng lại]"@
+` Yumizuka liếc lại, như thể cô ấy nghe thấy giọng tôi.
+\
+bg #000000,crossfade,400
+bg "bg/bg_25b",crossfade,400
+` Mặt đó... không thể nhầm lẫn được.@
+` Cô gái đang đi trước mặt tôi rõ ràng là Yumizuka Satsuki, và biểu cảm trên khuôn mặt cô ấy không đáng sợ.@
+`"[line=2]À."@
+` Tôi cảm thấy một cơn lạnh chạy dọc sống lưng.@
+br
+` [line=3]Một tiếng đập mạnh.@
+br
+` Tim tôi đập nhanh hơn.@
+` Nền tảng đầu trở nên nặng nề, cổ họng tôi cháy rát.@
+` Một cơn đau tấn công vào đầu tôi, giống như với người phụ nữ tóc vàng trước đó.
+\
+`"Điều này là gì... Nó kỳ lạ..."@
+` Bên trong cơ thể tôi đang cháy bỏng.@
+` Tôi cảm thấy choáng váng như đang bị một căn bệnh kinh hoàng nắm giữ.@
+br
+` Trong khoảnh khắc ấy, Yumizuka bắt đầu bước đi một lần nữa.
+\
+bg #000000,lshutter,800
+bg "bg/bg_26a",lshutter,800
+`"Wa... Chờ đã, Yumizuka-san!"@
+` Tôi hét lên và chạy đi.@
+` Yumizuka tiếp tục đi, không quay lại.@
+`"Ca... Cô có nghe tôi nói không, Yumizuka?"@
+` Tôi thúc đẩy cơ thể nóng bỏng của mình tiến về phía trước.@
+` Nhưng bất kể tôi cố gắng thế nào, tôi vẫn không thể bắt kịp cô ấy.@
+br
+` ... Dù tôi chạy nhanh như thế nào, tôi cũng không thể theo kịp cô ấy ngay cả khi cô ấy đang đi bộ.
+\
+`"[line=6]"@
+` Có điều gì đó... kỳ lạ.@
+` Tôi biết điều đó, nhưng tôi không thể nói rõ là gì.@
+` Lúc này, tất cả những gì tôi có thể làm là theo sau Yumizuka Satsuki.@
+br
+bg #000000,notrans,0
+` [line=4]Và sau đó.@
+br
+` Tôi mất dấu cô ấy.@
+` Yumizuka Satsuki, người mà tôi đã truy tìm không thành công, không nơi nào để tìm thấy.
+\
+bg "bg/bg_26a",bshutter,800
+`"... Chết tiệt... Điều gì đang xảy ra vậy...!?"@
+` Tôi dừng lại, bắt nhịp thở,
+` Ngực tôi co giật sâu.@
+` ... Mặc dù tôi chưa nhận ra cho đến bây giờ, tôi phải đã chạy suốt một thời gian dài.@
+br
+`"Chuyện gì... giờ là bao nhiêu?"@
+` Đặt tay lên đầu gối, tôi liếc nhìn cửa sổ tiệm gần đó.@
+` [line=2]Đã nửa đêm rồi.
+\
+`"[line=4]Không thể nào. Tôi không thể đã chạy lâu như vậy."@
+` ... Mặc dù khó tin, nhưng đồng hồ đúng.@
+` Nhìn quanh, phần lớn khu mua sắm đã đóng cửa.
+\
+`"[line=3]Tôi nên... quay lại."@
+` Ngay cả khi lo lắng về Yumizuka, tôi cảm thấy như sẽ không thể tìm thấy cô ấy nữa.@
+` ... Tôi đuổi theo cô ấy suốt gần bốn giờ đồng hồ, gọi tên cô ấy liên tục, nhưng cô ấy thậm chí còn không trả lời.@ Cô ấy đang nghĩ gì?@
+br
+` Với một hơi thở dài, tôi quyết định quay trở lại biệt thự.
+\
+bg #000000,crossfade,800

@@ -1,0 +1,288 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_47",lcartain,800
+` ... Tôi leo lên con dốc dẫn lên khu dân cư và đến tận rìa ngoài của căn biệt thự.@
+` Khoảng hai giờ sáng.@
+` Đúng như dự kiến, cơn buồn ngủ dồn dập ập đến xâm chiếm tâm trí tôi.@
+br
+`"... Không biết cô ấy có ổn không nữa."@
+` Tôi cứ băn khoăn mãi về dáng vẻ của cô ấy lúc hai đứa chia tay.@
+` Trông không giống như cô ấy đang đau đớn vì vết thương, mà là...[line=3]
+\
+`"Hửm?"@
+br
+` Cái gì thế kia?@
+` Cảm giác như có ai đó đang ẩn nấp trong những khoảng tối bóng đèn đường không rọi tới.
+\
+bg #000000,notrans,0
+bg "bg/bg_47",notrans,0
+br
+wave se_01
+` [line=3]Thịch.@
+br
+` Tim tôi ngừng đập một nhịp, khiến hơi thở bỗng nghẹn lại.@
+` Máu trong người như sôi sục, chảy rần rần khắp cơ thể. Cảm giác này...[line=4]
+\
+br
+` Chắc chắn là có ai đó đang đứng đằng kia.@
+` Bóng người đó đang mỗi lúc một tiến lại gần.@
+br
+` Tiếng bước chân.@
+` Những tiếng bước chân khô khốc, vang vọng bên tai tôi.
+\
+br
+wave se_01
+` [line=4]Thịch.@
+br
+` Một linh tính cực kỳ bất an ập đến.@
+` Một luồng khí lạnh chạy dọc sống lưng tôi.
+\
+`"[line=4]"@
+` Bóng người kia tiến sát lại gần hơn.@
+` Bất thình lình[line=4]tiếng nổ lớn vang lên, những chiếc đèn đường vỡ vụn.@
+bg #000000,notrans,0
+` Mặt trăng đã bị những đám mây đen che khuất.@
+` Toàn bộ thế giới lập tức chìm vào bóng tối sâu thẳm.@
+br
+`"!"@
+`      Thịch………!@
+br
+` Nhịp tim tôi đập lỗi nhịp, như một điềm báo tử.@
+` Tôi giật mình nhảy lùi lại mà không rõ lý do.
+\
+bg "bg/ima_14",crossfade,400
+` Một lưỡi dao sắc lẹm xé toạc bóng đêm lao tới.@
+` Vì không thể né tránh hoàn toàn, gọng kính của tôi đã bị lưỡi dao sượt qua.@
+` Chiếc kính rơi xuống nền đất phát ra những tiếng lách cách.
+\
+`"Kẻ[line=3]"@
+` Ngay khoảnh khắc tôi định thốt lên "ngươi là ai?",
+` Những đám mây trôi đi trong thoáng chốc, ánh trăng hé lộ và chiếu rọi lên bóng đen kia.
+\
+bg #000000,crossfade,400
+ld c,"tachi/roa_t07a",crossfade,400
+`"Cái[line=4]"@
+` Một gã đàn ông toàn thân quấn băng trắng toát đang lăm lăm con dao trong tay.
+\
+cl c,lshutter,400
+` Gã quấn băng gạc tiếp tục lao vào tấn công tôi một lần nữa.@
+` Tôi nhanh chóng thủ thế dao và chặn đòn tấn công của hắn.@
+bg "bg/ima_14",lshutter,400
+waveloop se_02
+br
+` Hai vệt sáng sắc bén lao thẳng vào nhau.@
+`"[line=4]!"@
+` Đầu óc tôi không thể suy nghĩ thấu đáo được nữa.@
+` Việc đột ngột bị tấn công khiến tâm trí tôi rơi vào hoảng loạn.
+\
+` Keng! Choang! Những tia lửa bắn ra từ hai lưỡi dao va chạm rồi lập tức tan biến vào bóng tối.@
+`"Ư...[line=3]"@
+` Tôi vẫn chưa thể trấn tĩnh lại.@
+` Nhưng không phải vì tôi bị tấn công.@
+br
+` Keng[line=3].@
+` Tôi vung dao để chặn đứng đường lưỡi dao đang ập đến từ mọi góc độ.
+\
+`"Tại sao[line=4]"@
+` Nhưng điều đáng kinh ngạc nhất là,
+` cơ thể tôi tự động triệt tiêu mọi đường dao trong bóng tối một cách trơn tru, không một nhịp trễ.
+\
+`"Cơ thể mình... đang tự cử động sao[line=3]?"@
+` Không, không phải thế.@
+` Tất cả những gì đôi tay tôi đang làm,
+` chỉ là tìm kiếm những đường chết và điểm chết vốn hiện rõ mồn một trong bóng tối sau khi tháo kính ra.@
+br
+` Vì mắt tôi chỉ nhìn thấy những thứ đó, nên tôi vung dao xé toạc bóng đêm theo những đường kẻ ấy.@
+` Kết quả là, đường dao của gã quấn băng đơn thuần chỉ là đang cố chống đỡ đòn tấn công của tôi.@
+` Nói cách khác,
+` Không phải tôi đang tự vệ, mà chính hắn mới là kẻ đang phải chật vật phòng thủ trước tôi.
+\
+br
+` [line=4]Mình có thể thắng……!@
+br
+` Tôi không biết hắn là ai, nhưng chắc chắn là thế.@
+` Tôi đang hoàn toàn áp đảo hắn.@
+` Việc nắm thế chủ động làm dòng máu trong tôi sôi sục cuồng nhiệt.@
+` Mình sẽ thắng. Mình mạnh hơn hắn.@
+` Vì tôi mạnh hơn. Hắn đã muốn lấy mạng tôi, thì tôi chỉ việc sòng phẳng đáp lễ lại thôi chứ sao[line=4]!?
+\
+wave se_12
+` Keng. Keng.@
+` Tiếng va chạm kim khí ngân vang, tôi dồn hắn lùi dần sát vào bức tường ngoài biệt thự.
+\
+waveloop se_02
+`"[line=4]!"@
+` Ngay đó.@
+` Mắt tôi khóa chặt vào "đường chết" trên ngực hắn, rồi đâm thẳng con dao về phía trước.@
+monocro #ff0000
+bg "bg/cmo_06",crossfade,400
+br
+` [line=4]Trong chớp nhoáng.@
+` Không hiểu sao hình ảnh một cậu bé đẫm máu cùng khuôn mặt khóc nghẹn của Akiha lại hiện lên[line=4]
+\
+monocro off
+bg #000000,crossfade,400
+`"Hự!"@
+` Tôi rụt dao lại ngay trước khi đòn đánh kịp hoàn tất.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Mình... mình đang làm gì thế này[line=2] Mình định giết người sao... Tại sao[line=3]
+\
+bg #9c0120,crossfade,400
+bg #000000,crossfade,400
+` Đầu tôi.@
+` Đầu tôi đau như búa bổ.@
+` Đôi chân run rẩy không vững khiến tôi loạng choạng lùi lại.@
+` Đúng lúc đó,
+` Dạ dày tôi co thắt mạnh, tôi nôn thốc nôn tháo.@
+br
+` Ngực tôi bắt đầu ngứa ngáy dữ dội.@
+br
+` Đầu đau điên cuồng, vết thương cũ trên ngực nóng rát như lửa đốt.@
+` Hai con mắt như muốn lồi hẳn ra khỏi hốc mắt[line=4]
+\
+`"Hộc...[line=4] hộc, ặc[line=3]!"@
+` Tôi không thể ngừng nôn mửa.@
+` Bãi nôn nhơ nhớp vương vãi khắp mặt đường nhựa.@
+` Và ngay khoảnh khắc ấy,
+` gã quấn băng lại vung dao lao tới phía tôi.
+\
+bg "bg/ima_14",lshutter,400
+br
+`"[line=5]!"@
+br
+wave se_12
+` Choang! Một cú va chạm khác.@
+` Lưỡi dao của tôi lao ra đỡ lấy lưỡi dao của hắn.@
+` Lần này, tôi buộc phải tự vệ thực sự.@
+` Tôi biết hắn đang nhắm vào đâu. Nhờ biết rõ mục tiêu của hắn, tôi lại đỡ được đòn đánh của hắn với một tiếng choang nữa.
+\
+wave se_12
+br
+` Choang! Choang! Choang!@
+br
+wave se_12
+` Dù tốc độ của đòn đánh quá nhanh khiến tôi không thể nhìn rõ con dao của hắn, tôi vẫn bằng cách nào đó chặn đứng nó hết lần này đến lần khác.@
+` Lý do tôi có thể tự vệ được vô cùng đơn giản.@
+waveloop se_02
+` Bởi vì, những nơi hắn nhắm tới chính là các "đường chết" trên cơ thể tôi.@
+br
+` Vì vậy, tôi biết chính xác điểm đến của lưỡi dao. Tôi thấu hiểu hơn ai hết rằng nếu những đường kẻ ấy bị cắt đứt nghĩa là cái chết lập tức cận kề, nên tôi phải liều mạng bảo vệ chúng.
+\
+` Không, khoan đã.@
+br
+` …… Hắn đang nhắm...[line=3] vào các đường chết của mình sao?
+\
+`"[line=6]A."@
+` Tình thế hoàn toàn trái ngược với khi nãy.@
+` Điều đó có nghĩa là,
+` không lẽ... tên này.@
+br
+` [line=4]Hử.@
+br
+` Gã quấn băng khẽ nở nụ cười nham hiểm trong bóng tối.
+\
+` [line=3]Thịch.@
+br
+` Nhịp tim tôi bắt đầu mất kiểm soát đập điên loạn.@
+` Một nỗi sợ hãi vô hình đè nặng khiến tôi loạng choạng bước lùi lại.@
+` Hắn không đuổi theo. Hắn chỉ đứng đó cười.@
+` Đôi mắt đỏ ngầu vằn tia máu như đang chế giễu: "Cuối cùng ngươi cũng nhận ra rồi sao?"@
+br
+`"Ngươi cũng...[line=4] nhìn thấy chúng sao?"@
+` Phải.@
+` Hắn ta cũng... có thể nhìn thấy những "đường chết"[line=4]
+\
+br
+br
+br
+br
+br
+br
+` Và như thế,
+` Hắn cũng có thể tước đoạt mạng sống chỉ với một nhát chém...[line=3]
+\
+br
+` [line=4]Hì.@
+br
+` Gã quấn băng cất tiếng cười.@
+` Hắn vừa cười vừa từ từ tiến lại gần.@
+` Tôi[line=3] run rẩy không kiểm soát nổi, đến tận những đầu ngón tay đang siết chặt cán dao.@
+br
+bg #9c0120,crossfade,400
+` Xoẹt. Xoẹt. Xoẹt. Tiếng kim khí sắc lẹm đâm thấu da thịt vang lên ba lần liên tiếp.@
+` Kế đến là một tiếng rầm lớn, âm thanh một cơ thể bị găm chặt vào tường.
+\
+bg #000000,lshutter,400
+wavestop
+`"Hả...[line=3]?"@
+br
+` [line=3]Tôi hoàn toàn không hiểu nổi chuyện gì đang xảy ra.@
+br
+` Gã đàn ông quấn băng đột nhiên bị đâm xuyên bởi ba thứ vũ khí dạng đinh cọc nhọn hoắt như giáo.@
+` Không chỉ đâm thấu, chúng còn ghim chặt cơ thể hắn vào bức tường.@
+` Trông hắn lúc này hệt như một con côn trùng bị găm chặt trong bảng tiêu bản.
+\
+br
+`"[line=3]NGƯƠI ĐANG NGÁNG ĐƯỜNG TA ĐẤY."@
+br
+` Giọng nói ấy cất lên nghe lạnh lẽo và chói tai đến gai người.@
+` Cùng lúc đó[line=3]ba thanh hắc giáo bừng sáng như những ngọn nến và thiêu rụi hắn trong biển lửa.@
+br
+`"AAAAAaAAAaaaaAaAAAh!"@
+br
+` Tiếng la hét thảm khốc đau đớn vang vọng giữa cơn lốc lửa.@
+` Trong bóng tối mịt mùng, cảnh tượng ấy trông bớt phần tàn nhẫn hơn, thậm chí có nét gì đó gần như duy mỹ.
+\
+br
+`"AAAAAAAAAAH!"@
+br
+` Gã quấn băng[line=3] không, lớp băng gạc bên ngoài đã bị thiêu rụi hoàn toàn, để lộ ra những mảng da thịt đỏ hỏn.@
+` Bị ngọn lửa bao trùm, hắn trừng trừng mắt nhìn tôi.@
+` Đôi mắt đỏ ngầu vằn lên tia máu hung ác, ngập tràn sát khí điên cuồng.@
+` Ánh mắt đen tối tựa như một món nguyền khí muốn băm vằm Tohno Shiki thành trăm mảnh.
+\
+`"[line=5]Cái..."@
+` Quá đỗi bàng hoàng, tôi chỉ biết trố mắt đứng nhìn.@
+` Hắn lao vụt đi mất hút vào màn đêm xa thẳm, thân hình vẫn bùng cháy rực lửa.
+\
+bg "bg/ima_18",crossfade,800
+` [line=3]Vầng trăng lại ló dạng.@
+` Sau khi ngọn lửa lụi tàn và tiếng nguyền rủa im bặt, vạn vật lại chìm vào không gian tĩnh lặng như tờ.@
+`"[line=4]"@
+` Tôi khuỵu hai gối xuống đất, mệt nhoài tựa lưng vào tường.
+\
+` Tôi ngước nhìn lên bầu trời.@
+` Ở nơi những thanh hắc giáo lao đến lúc nãy, có bóng ai đó đang đứng từ trên cao phía đằng xa.@
+bg "event/cel_e04",crossfade,400
+`"[line=5]"@
+` Quá đỗi xa xăm.@
+` Đứng tĩnh lặng hiên ngang trên đỉnh chiếc cột đèn đường, tôi nhìn thấy một hình bóng quen thuộc.
+\
+`"…… Hả?"@
+` Trang phục trông hệt như áo thầy tu của giáo hội nước ngoài.@
+` Đôi tay cô ấy đang siết chặt những thanh hắc kiếm to bản trông như những móng vuốt sắc nhọn.@
+` Ánh mắt vô hồn, lạnh lẽo.@ Đôi mắt màu xanh lam, trong vắt như bầu trời.@
+`"…… Sen…… pai?"@
+` Dưới ánh trăng mờ ảo, tôi chỉ có thể nhìn ra bóng dáng cô ấy.@
+` Nhưng bóng hình ấy... giống hệt Senpai của tôi.
+\
+`"[line=6]"@
+` Ánh mắt hai chúng tôi chạm nhau.@
+` Nhân dáng đứng trên chiếc cột đèn đường bỗng chốc biến mất không tăm tích tựa như một bóng ma.@
+bg #000000,crossfade,400
+bg "bg/bg_47",crossfade,800
+`"A...[line=5]"@
+` Tôi ngồi bệt xuống đất một cách rã rời.@
+` Do cơn đau đầu đã dịu bớt, hay vì mọi sự căng thẳng tột độ vừa được rũ bỏ?@
+br
+` Tựa lưng vào bờ tường lạnh lẽo, tôi bắt đầu thiếp dần vào giấc ngủ sâu[line=5].
+\
+bg #000000,crossfade,1500
+!w3000

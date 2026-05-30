@@ -1,0 +1,118 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=2]Dẫu sao đi nữa, tôi cũng cần phải nạp một ít dinh dưỡng vào cơ thể.@
+br
+` Vốn dĩ tôi đã dễ ngất xỉu bất cứ lúc nào; nếu không gượng ăn thứ gì đó, chắc chắn sẽ ngất ngay thôi.
+\
+`"Xin lỗi, cậu cứ ăn trước đi.@ Tôi phải đi mua đồ ăn cái đã."@
+`"Vậy hả?@ Thế thì tôi ăn trước nhé."@
+cl c,crossfade,400
+` Bỏ lại Arihiko đang hào hứng bóc lớp bọc chiếc sandwich phía sau, tôi bước ra khỏi lớp.
+\
+bg #000000,lcartain,800
+` Tôi mua một hộp cơm nắm ở căn-tin.@
+` Lấy cơm xong, tôi quay về lớp.@
+` Thế nhưng bụng tôi vẫn hoàn toàn chẳng có cảm giác thèm ăn.@
+` Nói chính xác hơn, ngay cả khi nhìn thấy thức ăn, tôi cũng không cảm thấy đó là thứ ăn được.
+ld l,"tachi/cel_t03",lshutter,800
+`"Guh"@
+` Dạ dày tôi quặn thắt lại.@
+` Thậm chí chỉ mới nhìn thôi mà đã muốn nôn.@
+` Rốt cuộc, lần cuối tôi ăn được bữa ra trò là khi nào thế nhỉ?@
+` Tôi nghĩ bữa trưa hôm kia với Arcueid là bữa cuối cùng……
+\
+`"Đúng vậy. Cậu thực sự giúp tôi rất nhiều khi đến đây, senpai. Tôi không biết mình sẽ làm gì nếu phải ăn trong khi nhìn vào gương mặt này."@
+`"Oi, Tohno, cậu ổn không đấy?@ Mặt cậu tái mét kìa."@
+` Arihiko nhìn tôi bằng vẻ mặt lo lắng.@
+`"À, tôi ổn.@ Chỉ là hơi mệt thôi."@
+\
+`"Hơi mệt kiểu gì?@ Cậu trông như sắp ngất đến nơi đấy.@ Nếu không khỏe thì đi y tế đi, đừng gượng."@
+`"Không, thật sự chỉ hơi mệt thôi.@ Tôi sẽ ổn sau khi ăn chút gì đó."@
+` Mặc dù vẫn không có cảm giác thèm ăn, cô buộc mình nuốt xuống bằng một ít sữa.@
+` Tôi cố gắng nhét miếng cơm nắm vào miệng.@
+` …… Nhưng ngay khi chạm lưỡi, dạ dày lại quặn thắt dữ dội.
+` Họ bàn về những sự kiện kỳ lạ như giết người hàng loạt và những chuyện tương tự, điều này thực sự không giúp cô thèm ăn hơn.
+\
+`"Gah[line=3]"@
+` Tôi vội che miệng chạy ra hành lang.@
+` …… Không ổn.@
+` Rõ ràng đó chỉ là cơm nắm bình thường, nhưng cơ thể tôi từ chối tiếp nhận.@
+` Hệt như thể mọi thức ăn đều mang vị máu tanh.
+`"Đó không phải là điều tốt, bạn biết đấy, thức khuya. Bạn không nên lang thang vào ban đêm, có những kẻ đáng sợ ở ngoài kia."
+\
+` Tôi tựa lưng vào tường hành lang, gồng mình kìm cơn buồn nôn.@
+` …… Nếu tình trạng này tiếp tục, thể lực tôi sẽ suy kiệt nghiêm trọng.@
+` Tôi vốn dĩ đã dễ bị ngất xỉu vì thiếu máu.@
+` Nếu không ăn được gì thêm, chắc chắn sẽ nguy hiểm.
+` "Hahaha." Hai người họ cười.@
+`"[line=4]Ừm[line=3]"@
+` Tôi cố gắng hít thở thật sâu.@
+` Cơn buồn nôn dần dần lắng xuống.@
+` …… Vẫn chưa ổn, nhưng ít nhất tôi đã kiểm soát được.@
+` Tôi quyết định bỏ bữa trưa.
+\
+`"[line=3][line=2]Senpai, bạn nói về một báo cáo mới, phải không?..."@
+`"Oi, Tohno.@ Cậu đã quay lại sao?@ Cậu có ổn không?"@
+`"[line=2][line=2]Ừ, tôi ổn rồi.@ Chỉ là dạ dày hơi trục trặc thôi."@
+`"Cậu không ăn gì à?"@
+`"Tôi sẽ ăn sau.@ Giờ bụng không chịu được."@
+` Ngay khi tôi nói vậy, cảm giác khó chịu từ bụng đe dọa sẽ nổi lên.
+`"[line=3]Cậu chắc chứ?@ Nếu không ổn thì nói cho tôi biết nhé."@
+`"[line=2]Ừ, cảm ơn cậu."@
+br
+` Arihiko gật đầu rồi quay lại ăn tiếp.@
+` Tôi ngồi vào chỗ của mình, tựa đầu lên bàn.@
+` …… Mệt mỏi.@
+` Toàn thân tôi không còn chút sức lực nào.@
+` Tôi muốn ngủ, nhưng mỗi khi nhắm mắt,
+` cảnh tượng đẫm máu đêm qua lại hiện lên rõ mồn một.
+`"Có, nhưng tôi nghe sự biến mất vào đêm qua có vẻ khác biệt so với những lần trước.@ Các gia đình của những cô gái khác cũng biến mất nhận ra điều đó sau một thời gian ngắn."@
+` "À, Tohno-kun, cậu cũng không xem tin tức buổi sáng à? Đừng nói với tôi rằng cậu cũng không phải người thích buổi sáng nhé?"
+`"Đêm qua[line=3]"@
+` Yumizuka.@
+` Nụ cười em ấy.@
+` Đôi bàn tay nhuộm đỏ máu tươi.@
+` "Tớ sẽ trở thành ma cà rồng mạnh mẽ rồi quay lại gặp cậu."@
+` …… Câu nói đó cứ văng vẳng bên tai, không thể nào dứt ra được.
+\
+ld l,"tachi/cel_t08",crossfade,400
+`"[line=2]"@
+` Chuông báo hết giờ nghỉ trưa vang lên.@
+` Tôi ngẩng đầu dậy.@
+` …… Buổi chiều, tôi phải cố gắng tập trung vào bài học.@
+` Dẫu cho đầu óc đang rối bời, tôi vẫn cần phải sống cuộc sống bình thường.
+` "Có một cô gái nhỏ trong phòng của Kohaku-san, nhưng tôi không định xông vào phòng của một cô gái vào buổi sáng."@
+` "Nếu muốn biết tin tức, tôi chỉ có thể dựa vào báo chí."
+\
+ld l,"tachi/cel_t07a",crossfade,400
+`"Tohno-kun, cậu muốn nói gì bằng từ 'cô gái'?"@
+ld r,"tachi/ari_t04",crossfade,400
+`"Cậu không thể nói như vậy và thoát khỏi sự trừng phạt, Tohno."@
+` "Chúng đều nhìn chằm chằm vào tôi."@
+` "Tôi đặt tay lên miệng, nhưng đã quá muộn."
+\
+`"[line=2]Ờm... đơn giản là có một người hầu tên là Kohaku-san ở nhà tôi."@
+ld l,"tachi/cel_t12",crossfade,400
+`"Hừm, một người hầu? Cậu thực sự may mắn khi luôn có một cô gái bên cạnh để chăm sóc mọi nhu cầu của cậu."@
+`"Đó không phải là vấn đề! Không có ai để chăm sóc biệt thự, nên chúng ta phải thuê người làm điều đó."@
+` "Giới tính của cô ấy không quan trọng lắm."
+\
+`"Ồ, thực sự sao? Này Inui-kun, Tohno-kun nghe có vẻ rất thân mật với Kohaku-san đấy?"@
+`"Đúng vậy, anh ấy trông rất hạnh phúc khi nói tên cô ấy. Tôi muốn hỏi trước, nhưng cuộc sống của Tohno hiện tại như thế nào nhỉ?"@
+cl a,crossfade,400
+` Họ trao đổi những ánh nhìn.
+\
+`"... Ối chao."@
+` Tôi nghẹn bánh mì tôi đang ăn.@
+` Arihiko, ngay cả Ciel-senpai với cái nhìn lạnh lùng cũng thẩm vấn tôi bằng một sự căng thẳng kỳ lạ.@
+ld l,"tachi/cel_t04",crossfade,400
+`"Tohno-kun, vẫn còn rất nhiều thời gian. Xin hãy kể cho chúng tôi nghe về cuộc sống của cậu tại biệt thự."@
+` Cô ấy tiến lại gần với nụ cười không cho phép tôi thoát khỏi đây.@
+`"... ..."@
+br
+` Chỉ nghĩ đến hai mươi phút hoặc ít hơn tôi còn lại để sống qua điều này đã khiến đầu tôi quay cuồng.
+\
+bg #000000,lcartain,1500
+!w1000

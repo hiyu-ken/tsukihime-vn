@@ -1,0 +1,42 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=4]Tôi sẽ phớt lờ cô ấy.@
+br
+` Nếu tôi chạy thẳng đến cô ấy và mọi người nhìn thấy, sẽ là một vấn đề.@
+` Bất kể cô ấy làm gì, nếu tôi cư xử như một người lạ, nó cũng không gây tổn thương cho tôi.@
+` …… Thôi thì đêm nay cô ấy có thể hỏi "Tại sao bạn lại bỏ mặc tôi?" Nhưng, cũng không sao cả.@
+` Tôi chỉ mong trường học giữ được bình yên và đừng làm gì.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` Giờ là giờ ăn trưa.@
+` Tôi không muốn ăn bánh mì vào bữa trưa, nên tôi sẽ đến quán ăn.@
+`"…… Hừ?"@
+` Tôi cảm thấy như mình đã quên mất điều gì đó, nhưng, cũng không sao.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_50",lcartain,1500
+` Nhà ăn trường học đang hỗn loạn như thường lệ.@
+` Hầu hết các bàn đều đã đầy, nên nếu tôi không vội, tôi sẽ không có chỗ ngồi.
+\
+`"À, Senpai."@
+` Tôi thấy Ciel-senpai ngồi trong một nhóm bạn.@
+` Liệu đó có phải là bạn cùng lớp của cô ấy? Trong khi trò chuyện với một nhóm gái, cô ấy đang ăn nghiêm túc món mì udon cà ri.@
+br
+` ... Đúng rồi, cô ấy luôn ăn thứ gì đó cà ri.@
+`"Có vẻ như cô ấy rất thích cà ri."@
+` Tôi sẽ phải hỏi cô ấy về điều này.
+\
+`"………"@
+` Nhưng một điều gì đó đang kéo tôi lại.@
+` Tôi cảm thấy như mình đã quên đi điều gì đó quan trọng. Một thứ gì đó nguy hiểm nếu để nó một mình.@
+br
+`"…… Ồ, nếu tôi không nhớ ra thì có lẽ nó cũng không quá quan trọng."@
+` Mặc dù nó thực sự rất quan trọng, nhưng lúc này tôi chỉ tập trung hết sự chú ý vào bữa trưa của mình.
+\
+bg #000000,crossfade,1500
+!w1000

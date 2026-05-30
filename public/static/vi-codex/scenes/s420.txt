@@ -1,0 +1,327 @@
+playstop
+wavestop
+bg "bg/bg_33d",notrans,0
+br
+` [line=3]kiểm tra nó.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48d",lcartain,800
+` Tôi ra ngoài.@
+` Mặt trăng trước đây hiện diện giờ bị mây che khuất.@
+br
+`"Ừm………?"@
+` Ai đó đang mở cổng trước.@
+` Tôi bắt đầu nói điều gì đó,
+`"……… Akiha?"@
+` Akiha liếc nhanh qua vai và rời khỏi cổng.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_48d",crossfade,400
+[loop âm thanh se_02]
+`"[line=5]Ồ?"@
+` Một tiếng đập mạnh bất ngờ vang lên trong ngực tôi.@
+` Tiếng đập.@
+br
+` (Tiếng đập)@
+` Một âm thanh đập mạnh.@
+` Một âm thanh đập mạnh.@
+` Một tiếng đập mạnh.@
+br
+` Trái tim tôi dường như đập mạnh với một cuộc sống mới.@
+` Tôi có thể cảm nhận được máu chảy qua cơ thể mình và sự run rẩy của ngón tay.@
+`"A" [line=5]@
+` Một cơn lạnh chạy dọc sống lưng tôi.@
+` Dù vậy, cơ thể tôi như đang cháy rực.
+\
+bg #9c0120,notrans,0
+bg "bg/bg_32d",notrans,0
+`"[line=4][line=3]Akiha đang làm gì vào giờ này?"@
+` Tôi cảm thấy choáng váng.@
+` Tôi cố gắng sắp xếp mọi thứ một cách hợp lý, nhưng tôi lại dừng lại.@
+` Hiện tại, tôi phải theo sau Akiha.
+\
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_24c",lcartain,800
+play "*6"
+`"[line=4]Haa..."@
+` Ngăn thở, tôi đuổi theo cô ấy.@
+` Đập mạnh, đập mạnh.@
+` Trái tim tôi đập thình thịch.@
+` Tôi theo cô ấy một cách lặng lẽ để tránh bị chú ý.
+\
+` Tiếng đập, đập, đập.@
+` Tôi cảm thấy hối tiếc. Tôi không có con dao của mình tối nay.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` Không có ánh trăng và giờ đã giữa đêm.@
+` Không có dấu hiệu nào của người khác trên đường phố.@
+wave se_01
+`                (Tiếng đập)
+`                (Tiếng đập.)
+\
+` Akiha đi lảo đảo.@
+` Tôi cố gắng dập tắt hơi thở và chờ đợi cơ hội.@
+wave se_01
+`                Một tiếng đập,
+`                Một tiếng đập khác.@
+` Cô ấy mất khá nhiều thời gian để ở một mình.@
+` Nơi cô ấy đang đi không quan trọng lắm.@
+wave se_01
+`                Một tiếng đập,
+`                Một lần nữa, tiếng đập vang lên.
+\
+` Tôi khát nước quá.@
+` Tôi vô cùng phấn khích.@
+wave se_01
+`                Một tiếng đập mạnh,
+`              Tiếng đập liên tiếp.@
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+wave se_01
+br
+` [line=3]Bất ngờ, tôi mất dấu cô ấy.@
+` Cô ấy đi đâu vậy?
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` Tôi quay lại con phố chính.@
+` Tôi có cảm giác bản năng rằng nếu đợi ở đây, tôi sẽ gặp lại cô ấy.@
+wave se_01
+` Tôi thở dài sâu.@
+` Trái tim tôi vẫn đang cháy.@
+`"[line=7]"@
+` Điều này thật kỳ lạ.@
+` Đây không phải là giấc mơ.@
+` Đây không phải là giấc mơ, vậy mà tại sao [line=3]lòng tôi lại sôi sục khi theo sau Akiha?@
+wave se_01
+` Nó giống như... Tôi muốn giết Akiha.
+\
+waveloop se_02
+`                  Tiếng đập mạnh
+!w1000
+`                  Tiếng đập mạnh.
+!w1000
+`                  Tiếng đập lặp đi lặp lại.
+!w750
+`                  Một nhịp điệu kiên định.
+!w750
+`                  Mỗi cú đập như một sự nhắc nhở.
+!w750
+`                  Về sự tồn tại mong manh của chúng ta.
+!w500
+`                  Và những bí ẩn ẩn giấu trong bóng tối.
+!w500
+`                  Trong thế giới này, nơi mà...
+!w500
+`                  ...mọi thứ đều có thể thay đổi trong khoảnh khắc.
+!w250
+`                  Tôi cảm nhận được điều gì đó và ngay lập tức ẩn mình.
+!w250
+`                  Akiha đang đến gần.
+!w250
+`                  Cô ấy nhìn xung quanh, như thể đang tìm kiếm thứ gì đó.
+\
+wavestop
+` "... Không có ai ở đây cả, tôi nghĩ vậy."@
+` Tôi nghe thấy cô ấy tự nói với bản thân.@
+` (Tôi phải cẩn thận, không để lộ hình dạng thật.)@
+br
+`"(Arcueid sẽ đến đây sớm thôi.)@
+br
+` (Hy vọng mọi thứ đều ổn...)@
+` Tôi phải ở rất gần nếu tôi có thể nghe thấy cô ấy.@
+` Nhìn từ bóng tối, tôi nhìn ra đường phố.
+\
+ld c,"tachi/aki_t27",lshutter,400
+`"[line=3]@
+` Đầu tôi đau nhức.@
+` Không khí xung quanh căng thẳng.@
+bg #000000,notrans,0
+br
+` [line=4]Tôi ngã xuống đất.@
+br
+` Tôi chưa bao giờ cảm thấy nỗi đau như vậy trước đây.@
+` Nó quá tồi tệ đến mức khiến tôi nghiêm túc nghĩ rằng sọ của tôi vừa nứt ra và tôi sẽ chết.
+\
+playstop
+!w2000
+bg "bg/bg_25b",crossfade,400
+`"[line=5]Ồ đau..."@
+` Tôi lắc đầu và đứng dậy.@
+` Tôi không biết mình đã ngất bao lâu, nhưng đêm nay yên tĩnh.@
+br
+` [line=3]Chờ một phút.@
+br
+`"Tại sao tôi lại ở đây?!"@
+` Tôi đang đứng trên con phố chính.@
+` [line=3]Tôi nhìn thấy Akiha bên cổng, và sau đó... đúng rồi, tôi theo cô ấy.@
+`"...Tôi đang làm gì vậy?"@
+` Tôi bất ngờ với những gì tôi đang làm.
+\
+`"[line=6]Hừ?"@
+` Một mùi khó chịu châm vào mũi tôi.@
+` Mùi mà tôi chưa từng biết cho đến bây giờ. Mùi bám vào miệng tôi trong giấc mơ vài ngày qua.@
+`"... Từ con hẻm đó...?"@
+` Cảm giác không tốt, tôi chạy về phía con hẻm đó.
+\
+bg #000000,lcartain,800
+bg "bg/bg_31b",lcartain,800
+bg "bg/ima_13b",lshutter,800
+waveloop se_11
+` "[line=3]Nó giống như một bản sao của giấc mơ đêm qua của tôi."@
+br
+` Có một người lạ mặt nằm ngổn ngang trong con hẻm.@
+` Mặc dù máu chảy từ cổ, người đó vẫn còn thở.@
+`"[line=9]@
+` Mọi thứ trước mặt tôi bỗng chuyển sang màu đỏ thẫm.@
+` Nhưng đây không phải là giấc mơ.@
+` Có lẽ vì tôi đã từng mơ về những cảnh sát giết người, nên tôi có thể suy nghĩ bình tĩnh.
+\
+bg #000000,lcartain,400
+bg "bg/bg_25b",lcartain,400
+` Tôi bước ra đường.@
+` Tôi đến chiếc điện thoại công cộng gần nhất và gọi cho bệnh viện gần nhất.@
+` Sau khi đưa ra một cái tên giả, tôi nói về vị trí và tình trạng của nạn nhân rồi kết thúc cuộc gọi.@
+` Bây giờ, trước khi xe cứu thương đến, tôi nên quay trở lại biệt thự để không ai nhìn thấy mình.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48d",lcartain,800
+bg #000000,lcartain,400
+bg "bg/bg_33d",lcartain,400
+` *Hít vào... Hít vào...* [line=6]
+` Sau khi chạy liên tục mà không dừng lại, tôi cuối cùng cũng có thể thư giãn.@
+` Tôi chẳng có gì phải cảm thấy xấu hổ, nhưng tôi nhận thấy việc can thiệp sẽ nguy hiểm, và mình đã làm tốt nhất có thể.@
+` ... Người trong ngõ vẫn còn thở,
+` và vết thương không quá nghiêm trọng, nên tôi nghĩ nó không đe dọa tính mạng.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_33d",crossfade,400
+`"Ah" [line=5]@
+` Như dự kiến, chạy với hết sức lực ở đây, thậm chí lên con đồi lớn, cũng hơi nhiều đối với tôi. Tôi hoàn toàn thiếu thở.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_33d",crossfade,400
+`"[line=2]Cra"@
+` ... Cảm giác chóng mặt ập đến.@
+` Tôi có thể cảm nhận được ý thức của mình đang lui lại.@
+` Đây không phải là cảm giác chóng mặt bình thường.@
+` Nếu nó quá nghiêm trọng như vậy, nếu tôi ngất đi, tôi sẽ không thể đứng dậy trong một thời gian.
+\
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_33d",crossfade,400
+`"[line=4]Chết tiệt... Tôi phải, quay lại, phòng của tôi, trước"@
+` Tôi dựa vào bậc thang.@
+` Tôi bước lên cầu thang được một bậc.@
+bg #000000,crossfade,1500
+` Đó là tất cả những gì tôi có thể làm.@
+` Tôi ngất đi.
+\
+!w4000
+[Hình nền: Phòng của Kohaku - Buổi sáng]
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,400
+play "*2"
+` Những tia nắng mạnh khiến tôi mở mắt. Tôi đang ở trong phòng của mình.@
+` Bây giờ tôi mặc đồ ngủ và nằm trên giường.
+\
+wave se_04
+`"Xin lỗi.@
+` Cánh cửa mở ra sau một tiếng gõ nhẹ.@
+` Kohaku-san bước vào mang theo một chiếc khăn và xô nước.@
+ld c,"tachi/koha_t02",lshutter,400
+`"Chào buổi sáng, Shiki-san. Làm sao bạn cảm thấy?"@
+` Kohaku-san tiến lại gần với nụ cười tự nhiên của cô ấy.@
+`"[line=7]"@
+` Tôi nhớ lại cuộc trò chuyện đêm qua với Hisui.@
+` Đặt nó vào góc tối của tâm trí, tôi cố gắng tạo ra nụ cười quen thuộc của mình.
+\
+`"[line=3]Chào buổi sáng, Kohaku-san. À, cậu đã mang tôi lên đây à?"@
+ld c,"tachi/koha_t03",crossfade,400
+`"Hả? Bạn không nhớ Shiki-san sao? Tôi tìm thấy bạn một mình trên cầu thang và bạn đứng dậy khi tôi gọi tên."@
+` "Bạn nói rằng mình đã ngủ ngon và bắt đầu đi bộ. Tôi đã để bạn tựa vào vai mình, nhưng bạn vẫn tự mình đi đến đây."@
+` "... *thở dài*"@
+`"Tôi không nhớ. Phải là tôi quá mệt mỏi nên quên mất những gì đã làm."
+\
+`"Vậy cậu không nhớ gì về đêm qua sao?"
+\
+`"..." Có lẽ. Tôi không nhớ gì sau khi trở lại biệt thự."@
+ld c,"tachi/koha_t18",crossfade,400
+`"Ha ha. Thật đáng tiếc. Shiki-san, bạn liên tục xin lỗi tôi."@
+` Tôi hỏi tại sao bạn cứ xin lỗi, và bạn cứ nói rằng mình là một kẻ ngốc và một đầu óc ngu ngơ.@
+ld c,"tachi/koha_t02",crossfade,400
+` "Shiki-san, cậu có phải là một đầu óc ngu ngơ?"
+\
+`"Không, tôi không nghĩ vậy."@
+` "... Vậy mà, tôi bắt đầu nhận ra họ cho rằng bộ não của tôi được làm từ gỗ."
+\
+cl c,lshutter,400
+`"... Dù sao, cảm ơn nhiều. Nếu tôi ngủ trên bậc thang, tôi sẽ bị cảm, và trường học[line=3]"@
+` "Hừm? Liệu đôi mắt tôi đang lừa tôi? Đồng hồ báo cho biết đã qua mười giờ sáng rồi."@
+`"[line=3]Ôi! Kohaku-san, trường học!"@
+ld c,"tachi/koha_t03",lshutter,400
+`"Đúng vậy. Ngày hôm nay là ngày lễ thành lập trường học của cậu, nên cậu không có lớp học."@
+`"[line=8]"@
+` "Đúng rồi. Khi nghĩ lại, đúng là như vậy."@
+` Tôi hoàn toàn quên mất điều đó vì gần đây tôi thường mơ màng ở trường.
+\
+`"Này, tôi nên dậy thôi. Nếu ngủ thêm nữa, Akiha sẽ" [line=3]@
+` Tôi ngồi thẳng dậy trên giường.@
+rung chuyển nhẹ, 1,300 lần.
+`"[line=5]Tôi không thể thực sự di chuyển được."@
+` Cơ thể tôi như bị đóng băng, không chịu nghe lệnh.@
+` Tôi cố gắng nhấc mình lên bằng tay nhưng chúng chẳng có sức mạnh nào.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"Tình trạng của cậu vẫn chưa tốt lắm. Có vẻ như cậu bị sốt nhẹ và mặt mày hơi ngả màu."@
+cl c,lshutter,400
+` Kohaku-san lau trán tôi bằng chiếc khăn lạnh, ướt sũng.@
+` ... Nó thật dễ chịu và lạnh lẽo.
+\
+`"Ừm, có vẻ sốt của cậu đã hạ rồi. Mồ hôi trên trán ít hơn và mặt mày trông tốt hơn nhiều."@
+` Kohaku-san nhanh chóng lấy ra một chiếc nhiệt kế và một túi chườm đá.@
+` Cô ấy khiến tôi mở miệng và kiểm tra tình trạng lưỡi của tôi.
+\
+ld c,"tachi/koha_t03",lshutter,400
+`"Này, tôi sẽ mang cháo ngay bây giờ. Shiki-san, cậu nên cư xử tốt hơn ngày hôm nay."@
+cl c,lshutter,400
+`"[line=3]Kohaku-san."@
+ld c,"tachi/koha_t03",lshutter,400
+`"Ừm?@ Chuyện gì vậy, Shiki-san?"@
+` Như mong đợi, cô ấy vẫn như thường lệ.@
+` Nụ cười vui vẻ quen thuộc của cô ấy không thay đổi.@
+` [line=3]Tôi... Tôi không thể tự thuyết phục rằng nụ cười đó chỉ là giả tạo.
+\
+`"... Không có gì. Tôi rất mong chờ cháo."@
+ld c,"tachi/koha_t05",crossfade,400
+`"Vâng, thì được rồi, xin lỗi."@
+cl c,lshutter,400
+` Kohaku-san biến mất xuống hành lang, những bước chân nhẹ nhàng theo sau cô.@
+` Tôi chỉ im lặng nhìn hình bóng đó.
+\
+bg #000000,tshutter,400
+playstop
+!w2500
+bg "bg/bg_40a",bshutter,400
+play "*1"
+` Giờ trưa đến.@
+` Sau khi mang thức ăn, Kohaku-san quay lại tiếp tục nhiệm vụ của mình.@
+` …………………… *thở dài*@
+` Khi ở một mình, tôi thở dài, nghĩ về hoàn cảnh kỳ lạ của bản thân.@
+` ... Việc tôi được nhận nuôi.@
+` Akiha nói rằng cô ấy không quan tâm đến điều đó.@
+` Hisui và Kohaku-san.@
+` Và kẻ giết người vẫn đang lẩn trốn.
+\
+` Tôi hỏi Kohaku-san, nhưng dường như không có nạn nhân mới trong tin tức hôm nay.@
+` Có lẽ nạn nhân đêm qua đã được cứu, nhưng khi SHIKI vẫn còn tự do, sẽ có nhiều nạn nhân khác.@
+`"…… Nếu cơ thể này nghe lời tôi, tôi[line=3]"@
+` Tôi có thể ngăn chặn SHIKI. Tôi đặt đầu lại lên gối khi bắt đầu nói điều đó.@
+` Có lẽ là vì những giấc mơ ấy, nhưng tôi bắt đầu có những suy nghĩ bạo lực giống như SHIKI.@
+`"…… Bất kể tôi làm gì, tôi cần hồi phục trước."@
+` Tôi nhắm mắt lại.
+\

@@ -1,0 +1,16 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_08b",notrans,0
+` [line=4]Dù có vẻ bất khả thi hay vô vọng đến nhường nào, đó vẫn là con đường duy nhất mà tôi lựa chọn.@
+br
+` Tôi quyết định sẽ tiếp tục tìm kiếm cho đến khi tìm thấy cô ấy mới thôi.@
+` Tôi tuyệt đối không thể bỏ mặc cô ấy cô độc một mình, càng không thể để cô ấy đơn độc đi giải quyết ân oán sinh tử với Roa được.@
+` "[line=4]Phải, nhất định thế."
+\
+`"[line=4]@
+` Ý chí trong tôi bấy giờ đã vô cùng kiên định.@
+` Chính vì thế, tôi tuyệt đối không thể lãng phí thêm dẫu chỉ một giây một phút ở nơi này nữa.@
+` [line=4]Tôi phải lập tức đi vào trung tâm thành phố ngay lúc này. Dẫu cho việc tìm kiếm có khác nào mò kim đáy bể đi chăng nữa, tôi vẫn quyết chí phải tìm bằng được Arcueid.
+\
+bg #000000,lcartain,800

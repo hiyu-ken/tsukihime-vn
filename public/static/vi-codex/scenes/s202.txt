@@ -1,0 +1,86 @@
+bg "bg/bg_22b",notrans,0
+playstop
+` ... Thực chất Akiha không phải là hình bóng duy nhất mà tôi hoàn toàn không gặp lại kể từ ngày định mệnh đó.@
+` Tám năm ròng rã trôi qua đã xóa nhòa quá nhiều chi tiết khiến tôi không thể nhớ rõ mồn một mọi chuyện, thế nhưng tôi biết chắc chắn thuở ấy trong biệt thự vẫn còn những đứa trẻ khác trạc tuổi tôi sinh sống.
+\
+` Tôi không thể nhớ nổi cái tên của chúng bấy giờ là gì, chỉ mang máng nhớ rằng có hai cô bé là cặp song sinh sinh đôi.@
+` Cha tôi năm xưa từng bảo hai đứa trẻ đó vốn là trẻ mồ côi không người thân thích nương tựa, thế nên ông đã nhận hai đứa về biệt thự nuôi nấng để đào tạo thành hầu nữ phục vụ cho gia đình.@
+`"... Thật là kỳ lạ quá đi mất. Thuở bé rõ ràng ba chúng tôi đã từng ngày ngày chơi đùa vô cùng thân thiết cùng nhau như thế, vậy mà giờ đây tôi lại hoàn toàn không thể nhớ nổi dẫu chỉ một cái tên của họ."@
+` Tôi khẽ khép hờ đôi mi lại, cố gắng vận động đại não hồi tưởng lại những mảnh ký ức xưa cũ.
+\
+bg #000000,crossfade,400
+play "*9"
+bg "event/his_e01",crossfade,800
+` Đáng lẽ ra tôi phải nhớ mới phải chứ.@
+` Đó là một cô bé vô cùng tinh nghịch, hiếu động và rạng rỡ, đến mức chỉ cần dõi mắt nhìn ngắm nụ cười tươi tắn của cô bé ấy thôi cũng đủ để khiến lòng người xung quanh tràn ngập niềm vui phơi phới.@
+` Một thiếu nữ mang tính cách vô cùng cởi mở, phóng khoáng, luôn nhận được sự yêu quý vô bờ bến của toàn bộ người hầu trong căn biệt thự rộng lớn.@
+` Vì cô bé trạc tuổi tôi nên hai đứa chơi đùa cực kỳ hợp cạ, cảm giác hệt như ngày nào hai đứa cũng cùng nhau chạy nhảy, rượt đuổi náo loạn khắp khoảng sân vườn râm mát vậy.@
+`"Này, hãy chơi cùng tớ đi mà, Shiki-chan!"@
+` Cô bé ấy thường rạng rỡ cất lời gọi mời như vậy, và tôi vẫn nhớ như in hình ảnh cô bé đã kiên trì dắt tay kéo tôi ra khỏi phòng sau khi tôi bướng bỉnh tự nhốt mình bên trong vì dỗi hờn.
+\
+` Cô bé ấy cũng luôn rạng rỡ tươi cười nắm lấy bàn tay của Akiha đang e thẹn cúi đầu, nỗ lực hết mình để lôi kéo em ấy cùng hòa nhập vào trò chơi chung của hai đứa chúng tôi.@
+` Xét về tuổi tác, có lẽ cô bé ấy lớn tuổi hơn cả tôi và Akiha đôi chút.@
+` Cô bé ấy luôn đóng vai trò là thủ lĩnh dẫn đầu dẫn dắt tôi và Akiha chơi đùa vui vẻ bên nhau, thế nhưng mỗi khi chúng tôi bắt đầu chạy nhảy hăng say, cô bé lại lặng lẽ lui ra một góc dịu dàng dõi mắt quan sát hai đứa từ đằng xa.@
+` Thậm chí ngay cả vị gia nhân nghiêm nghị, người chịu trách nhiệm giáo dục Akiha vô cùng khắc khe thuở ấy, cũng phải dịu giọng cất lời: "Nếu có ****** ở bên cạnh trông nom các cháu thì tôi hoàn toàn có thể yên tâm cho phép Akiha ra sân chơi đùa rồi."
+\
+bg #000000,crossfade,400
+` Thế nhưng, bóng dáng của cô gái còn lại mới thực sự là thứ khiến lòng tôi luôn cảm thấy bận tâm, dằn vặt khôn nguôi.
+\
+bg "event/his_e02",crossfade,800
+` ... Tôi hoàn toàn không biết cô bé ấy mang tính cách thế nào, hay tại sao cô bé lại luôn hành xử kỳ lạ đến nhường ấy.@
+` Mỗi khi tôi đang mải mê chơi đùa cùng mọi người ngoài sân vườn rộng lớn, chỉ cần tôi vô tình quay đầu ngoảnh nhìn lại căn biệt thự... @
+` tôi sẽ lập tức bắt gặp hình bóng của cô bé ấy đang lặng lẽ sừng sững bên khung cửa sổ tầng hai dõi mắt nhìn xuống quan sát chúng tôi.
+\
+` Trái ngược hoàn toàn với người chị song sinh hoạt bát, hiếu động kia, cô bé này lại luôn im lặng trừng trừng dõi mắt quan sát chúng tôi bằng một ánh nhìn vô cùng lạnh lùng, vô cảm.@
+` Cô bé ấy chưa bao giờ mảy may có ý định bước chân ra khỏi căn nhà gỗ để tham gia chơi đùa cùng chúng tôi.@
+` Cô bé chỉ lặng lẽ sừng sững nơi góc tối, nhìn ngắm chúng tôi bằng đôi mắt sâu thẳm, lạnh ngắt như băng giá.@
+` ... Có lẽ chính vì ánh mắt băng giá đầy u sầu đó đã vô tình chạm đến một góc khuất nhạy cảm trong tâm hồn, khiến tôi luôn cảm thấy cô bé ấy trông vô cùng cô tịch và cô đơn chăng? Hầu hết mọi mảnh ký ức cốt lõi của tôi về căn biệt thự gia tộc Tohno thuở ấy thực chất đều chập chùng hiện về xoay quanh hình bóng u buồn của cô bé ấy.
+\
+br
+br
+br
+br
+br
+` [line=3]Ấy vậy mà, rốt cuộc số lần tôi thực sự cất lời trò chuyện cùng cô bé ấy thuở nhỏ lại chỉ đếm trên đầu ngón tay.
+\
+bg #000000,crossfade,400
+bg "bg/bg_22b",crossfade,400
+`"Tôi tự hỏi liệu hai cô bé song sinh năm xưa bấy giờ có còn tiếp tục làm việc ở biệt thự này nữa không nhỉ..."@
+` Vừa mải mê suy nghĩ về chuyện cũ, tôi vừa nhẹ nhàng thò tay vào túi quần rút ra một dải ruy băng trắng tinh khôi.@
+` Một dải ruy băng trắng cũ kỹ đã bắt đầu sờn màu theo năm tháng, món quà biệt ly vô giá mà cô bé năm xưa đã trao cho tôi vào giây phút chia tay định mệnh.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_20",crossfade,800
+` [line=3]Đã tròn tám năm đằng đẵng trôi qua kể từ ngày định mệnh đó rồi.@
+` Kể từ sau biến cố tai nạn kinh hoàng xảy ra với tôi năm xưa.@
+` Kể từ cái ngày tôi bị cha lạnh lùng trục xuất khỏi gia tộc Tohno để gửi sang làm con nuôi cho gia đình Arima.@
+br
+` Ngay trước thời khắc tôi chuẩn bị bước chân lên xe rời khỏi căn biệt thự này, cô bé u buồn ấy bỗng đột ngột chạy lại gần và trao vào tay tôi món quà này vì một lý do vô cùng mập mờ.@
+br
+` "... Tôi chỉ tạm thời cho cậu mượn thứ này thôi nhé, thế nên cậu bắt buộc phải ghi nhớ để sau này quay lại trả tận tay cho tôi đấy."@
+` Thốt ra những lời lẽ bướng bỉnh đầy ái ngại như thế xong xuôi, cô bé vội vã quay đầu chạy thục mạng đi mất dạng.
+\
+` Một lời hứa thiêng liêng thuở nhỏ được ký thác dưới bóng mát của cây cổ thụ lớn ngoài sân biệt thự.@
+br
+` Tiết trời ngày hôm đó thực sự vô cùng đẹp đẽ và trong lành. Nhìn lên cao, bầu trời thu cao rộng xanh mướt mát rượi hệt như muốn nhấn chìm tâm hồn trẻ thơ của tôi vào khoảng không vô tận.@
+` Đó chính là mảnh ký ức tươi đẹp cuối cùng đọng lại trong tôi khi đặt chân rời khỏi biệt thự gia tộc Tohno cách đây tám năm.
+\
+bg #000000,crossfade,400
+bg "bg/bg_22b",crossfade,400
+` *Thở dài*@
+` Tôi cẩn thận nhét dải ruy băng trắng tinh khôi trở lại túi quần.@
+` "Nhưng dẫu sao thì cũng đã tám năm đằng đẵng trôi qua rồi còn gì..."@
+` Bản thân tôi thậm chí còn hoàn toàn không biết liệu hai cô bé ấy có còn tiếp tục sống ở biệt thự này nữa hay không, và tồi tệ hơn là tôi đến cả cái tên của họ cũng chẳng thể nhớ nổi dẫu chỉ một từ.@
+`"…… Dải ruy băng trắng này vẫn luôn là một kỷ vật vô cùng quý giá và thiêng liêng đối với tôi……"@
+` Vào cái ngày cha lạnh lùng tước bỏ hoàn toàn quyền thừa kế duy nhất và trục xuất tôi đi.@
+` Thay vì cảm thấy đau buồn, u sầu vì bị chính cha ruột bỏ rơi lạnh nhạt, sâu trong thâm tâm tôi lại trào dâng một cảm giác ấm áp và an lòng vô bờ bến khi nghĩ rằng nơi biệt thự vẫn luôn có một cô bé đang kiên nhẫn chực chờ ngày tôi quay trở về để trả lại dải ruy băng trắng này.@
+` Đó chính là lý do cốt lõi khiến tôi luôn khao khát được giữ trọn vẹn lời hứa thiêng liêng ấy, miễn là bản thân vẫn chưa quên đi nó.@
+` Tôi đã gật đầu đồng ý quay trở lại biệt thự này chủ yếu là vì lo lắng cho Akiha bấy giờ đang phải đơn độc một mình gánh vác trách nhiệm.@
+` Tôi đã để mặc em ấy đơn độc chịu đựng suốt tám năm ròng rã, đẩy hết trách nhiệm nặng nề gia tộc lên đôi vai gầy của em ấy trong khi bản thân tự do sống một cuộc đời ích kỷ rộng mở bên ngoài.
+\
+` ... Nhưng bên cạnh lý do đó, sâu thẳm trong lòng, tôi thực sự tin chắc rằng quyết định quay trở về của tôi hôm nay phần lớn chính là vì muốn hoàn thành lời hứa thiêng liêng năm xưa.@
+` Dải ruy băng trắng tinh khôi.@
+` ... Lời hẹn ước với người duy nhất trên cõi đời này hứa sẽ kiên nhẫn chờ đợi tôi quay trở về.
+\
+bg #000000,lcartain,800
+playstop

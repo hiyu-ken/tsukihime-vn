@@ -1,0 +1,29 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+!w3000
+` ………… Cơ thể tôi mệt nhoài.@
+` Nhưng, tôi không thể chìm vào giấc ngủ sâu.@
+` Những vết thương khắp cơ thể khiến tôi ngứa ngáy và tâm trí tôi tỉnh táo khi cố gắng ngủ.@
+br
+` Tôi nhìn đồng hồ khi nằm trên giường.@
+` [line=4]Đã quá ba giờ sáng, tôi đã ngủ không yên trong năm tiếng đồng hồ.@
+`"...Chết tiệt, tôi không thể ngủ."@
+` Không thể ngủ khi mình muốn... nó giống như một hình phạt.
+\
+` Tick, tick, tick. Tiếng kim đồng hồ đập vào thần kinh của tôi.@
+br
+` [line=4]Tick, tick, tick, tick, tick, rắc rối, tick, tick, tick, tick
+br
+`"[line=2]Ồ?"@
+` Tôi nghĩ mình nghe thấy thứ gì đó lẫn trong tiếng ticking.@
+` Có vẻ như cửa mở ra, nhưng ai có thể đến vào giờ này?
+\
+` Tiếng gõ nhẹ nhàng.@
+br
+` Không, không có nhầm lẫn nào cả.@
+` Một người bước vào phòng và đang tiến lại gần tôi.@
+`"[line=4]"@
+` [line=3]Ai thế? ... Nếu có ai đó đến vào ban đêm muộn như vậy, chắc là
+\

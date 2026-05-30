@@ -1,0 +1,1046 @@
+monocro off
+bg "bg/bg_17b",notrans,0
+playstop
+wavestop
+`"…… À... Senpai, nếu anh nói là phiền thì tôi sẽ tháo chúng ra."@
+`"Ồ? Vậy à? Thực ra chúng không có toa nên có thể gây phiền phức, nhưng chúng có ổn không?"@
+`"... ..."@
+` Tôi nghĩ cô ấy đang làm quá lên, nên tôi quyết định nói thẳng với cô ấy.@
+`"Không cần lo lắng về những chuyện kỳ lạ……" @ Ừm, bạn sẽ gặp nhiều rắc rối mà không cần thiết như thế này. [line=5]@
+`"À." [line=7]@
+` Senpai tỏ ra im lặng.@
+`"Có... Đó là sự thật.@ Rồi hãy chờ trong phòng nhé."@
+` ... Tôi nghe thấy một cái vặn tay nắm và âm thanh nước phun từ vòi sen.
+\
+bg #000000,lcartain,800
+bg "bg/bg_18c",lcartain,800
+play "*5"
+`"...@"@
+` Nằm xuống giường, tôi nhìn xuống cơ thể mình.@
+` Thật ra tôi đang cương cứng hoàn toàn bất chấp những gì tôi đang nghĩ.
+\
+` Senpai nói sẽ tốt hơn nếu có người khác làm.@
+` Cô ấy không nói trực tiếp phương pháp, nhưng tôi có thể đoán ra được dựa trên cách hành xử của cô ấy.
+\
+`"[line=4]Hừm."@
+` Khi tôi nghĩ về điều này, trái tim tôi đập mạnh.@
+br
+`"Chết tiệt, tôi đang suy nghĩ gì vậy?"@
+` Tôi cố gắng bình tĩnh lại bằng cách lắc đầu.@
+` Ciel-senpai nói rằng đó chỉ là một phương pháp để kiềm chế Roa, nên không có ý nghĩa tình dục nào cả.@
+` Ý thức của Roa giờ đây yên tĩnh, nên tôi cũng không thể bị kích động.
+\
+`"... Bình tĩnh lại, bình tĩnh lại."@
+` Tôi lặp lại điều đó như một lời chú như một lời niệm.@
+` Trong lúc tôi làm vậy, Ciel-senpai bước ra từ phòng tắm.
+\
+bg "event/cel_h03a",lshutter,800
+`"[line=6]" @
+` Cánh môi tôi sụt xuống.@
+` Cô bạn cùng lớp Ciel bước vào phòng với bộ trang phục gây sốc, chỉ mặc một chiếc áo sơ mi và quần lót.
+\
+`"Ôi trời ơi, Senpai! Tại sao cô lại mặc như vậy...!"@
+` Tôi vẫy tay ngạc nhiên khi Ciel nở nụ cười đỏ mặt.
+\
+`"À, có kỳ lạ không? Tôi mặc như thế này để giúp cô."@
+`"Giúp? Với cái gì?"@
+`"... À, tôi cố gắng rất nhiều để có thể giúp cô cảm thấy kích thích hơn..."@
+` Ciel-senpai lẩm bẩm trả lời.
+\
+`"[line=5]"@
+` Tôi không biết phải nói gì.@
+` Khi bị nhìn chằm chằm đầy ngạc nhiên, Ciel-senpai liếc mắt đi nơi khác, tỏ ra không thoải mái.@
+`"...Tôi xin lỗi. Có lẽ tôi nên đoán trước được rằng việc mặc trang phục như thế này chẳng có chút quyến rũ nào với tôi."@
+`"Hả-sao anh lại nói vậy!? Tất nhiên anh trông rất quyến rũ trong bộ đồ này!"@
+` Tôi phản ứng ngay lập tức và nhận ra mình đã nói quá nhiều.
+\
+`"[line=3]Ồ... ừm, vâng, tôi cảm ơn anh vì điều đó, nhưng..."@
+` "Đó không phải là bộ trang phục tốt, Senpai."@
+` "Với tốc độ này, tôi sẽ điên trước khi Roa làm vậy."
+\
+`"Tohno-kun?"@
+`"[line=5]"@
+` "Tôi quay mặt đi khỏi Ciel-senpai."@
+` "Hình dạng của vai cô ấy dưới chiếc áo trắng."@
+` "Màu sắc của đồ lót che giấu của cô ấy."@
+` "Đôi đùi trông mềm mại của cô ấy."@
+` Nhìn thẳng vào chúng khiến tôi mất kiểm soát.@
+br
+` [line=3]... Tôi biết cô ấy muốn kích thích tôi để làm mới tôi, nhưng vẫn...
+\
+`"Senpai, tôi nghĩ chúng ta nên dừng lại.@ Tôi không tự tin lắm."@
+`"Đừng lo lắng.@ Tôi nghe nói nam giới rất nhạy cảm, vì vậy tôi nghĩ ngay cả tôi cũng có thể làm mới bạn."@
+`"Ồ, không, điều đó không phải là ý tôi khi nói không tự tin."@
+` Ý tôi là tôi không nghĩ mình có thể kiềm chế được.
+\
+`"Vậy thì bắt đầu đi, Tohno-kun."@
+`"Chuyện gì...?!"@
+`"Có thể em tháo quần áo ra được không? Đừng lo, chỉ cần kéo khóa xuống và lấy nó ra thôi."@
+`"[line=4]Ừm..."@
+` "Senpai đã sẵn sàng. Và cô ấy dường như cũng không quá ngượng ngùng về điều này."@
+` "…… Senpai…… à, em có hơi ngại chứ?"
+\
+`"À, tốt lắm, tôi hơi lo lắng, nhưng cơ thể em sẽ không kéo dài được nhiều nếu chúng ta không làm gì cả."@
+`"Tôi chỉ nghĩ đến việc này như chọc một vết mụn."@
+` "Một vết mụn... Đó là một cách diễn đạt khá trực tiếp."@
+`"Vết mụn... Thật thú vị."
+\
+`"Ôi, Tohno-kun. Trong khi tôi làm điều này, xin đừng xem quá nhiều. Tôi không thể tập trung khi có người quan sát."@
+` Khi nói vậy, Ciel-senpai tiến lại gần hơn.@
+` [line=3]Tôi càng lúc càng bối rối bên trong khi Ciel-senpai vẫn giữ bình tĩnh.
+\
+`"Chờ đã, chúng ta nên dừng lại.@
+` [line=3]Điều này sai lầm. Senpai, tôi vẫn muốn..."@
+` tiến tới hết mình nhưng tôi không muốn làm điều này vì lý do như thế này.
+\
+`"Tohno-kun. Tôi phải rời bỏ bạn ở đây vào sáng mai.@
+` Đây là khoảng thời gian duy nhất tôi có với cậu, đúng không? Nếu tôi không làm điều này ngay bây giờ, bạn sẽ như vậy suốt thời gian tôi vắng mặt."@
+`"Đó... đúng vậy."@
+`"Vâng. Đúng là ổn, nên hãy ngồi yên đi. Tôi chưa có kinh nghiệm, nhưng tôi sẽ cất lực cố gắng."
+\
+` Má cô ấy ửng hồng nhẹ, cô nhìn thẳng vào tôi.@
+`"Cậu Shiki…… Xin cậu cất lực giữ gìn, vết thương dẫu dẫu đã hở ra rỉ máu loang lổ rồi."@`
+` Cô ấy đã chuẩn bị sẵn sàng, nên tôi không thể chỉ ngồi đây và lo lắng.
+\
+` Giọng của Hisui nhỏ dần rồi tan biến vào sảnh biệt thự tịch mịch tăm tối.`
+`"…… Tôi hiểu rồi. Ồ, có được không?"@
+` Tôi kéo xuống khóa quần và hạ thấp quần lót xuống.@
+` Khi thấy dương vật của tôi dựng đứng hoàn toàn, Ciel-hiền sinh đột nhiên đóng băng.
+\
+`"... Hiền sinh...? Ừm, chúng ta có nên dừng lại không?"@
+`"Không, không phải thế! Tôi chỉ đang nghĩ rằng điều này thực sự là bạn."@
+` Sau một hơi thở sâu, Ciel-hiền sinh tiến về phía tôi.
+\
+`"Ừm, xin hãy nhìn lên trần nhà, Tohno-kun."@
+` Thân thể của cô ấy biến mất khỏi tầm nhìn của tôi.@
+` Hiền sinh ngồi giữa hai chân tôi mở rộng.@
+` Cô ấy đối mặt với dương vật của tôi đến mức tôi có thể cảm nhận hơi thở của cô ấy trên người mình.
+\
+bg #000000,lshutter,400
+` Dẫu cho bước đường phía trước dẫu dẫu đã bị bao phủ bởi tịch mịch tăm tối, tôi vẫn chịu chết tịnh không cách nào ngăn mình tiếp tục cất bước dấn sâu.`
+` Khi ngón tay cô ấy chạm vào tôi.@
+` Cô ấy dùng một bàn tay, nhẹ nhàng đưa những ngón tay do dự dọc theo cơ thể tôi.@
+`"Tohno-kun, cảm giác như thế nào? Hãy nói với tôi khi nó thật dễ chịu."@
+`"[line=6]"@
+` Tôi không thể trả lời.@
+` ... Làm sao tôi có thể diễn tả? Tôi cảm thấy một chút tội lỗi.@
+` Cô ấy chạm vào tôi do dự, như đang nâng niu một thứ gì đó mong manh.
+\
+`"... Mm."@
+` Chỉ với điều đó thôi.@
+` Cô ấy chỉ chạm vào tôi, nhưng tâm trí tôi đang loạn lên.@
+` Tâm trí tôi loạn loạn, nhưng thanh gậy của tôi tịnh không cảm nhận được điều gì cả.
+\
+`"Ừm... em cứng hơn trước..."@
+` Nói vậy, cô ấy quấn những ngón tay tinh tế quanh tôi.
+\
+` ... Có vẻ như hành động của cô ấy không thoải mái, vì công cụ của tôi thậm chí chưa hề phóng ra thứ gì.@
+` Dù khô khan như tôi, Senpai vẫn cố gắng "làm dịu" tôi xuống.@
+` Cảm giác ngượng ngùng, khó chịu này kéo dài vài phút.
+\
+` Những ngón tay của cô ấy ban đầu nhẹ nhàng và do dự, giờ đây nắm chặt tôi hơn.@
+` Ngay cả khi cô ấy chỉ di chuyển lên xuống đơn giản, cô ấy vẫn làm điều đó với lực chặt hơn.
+\
+`"... Điều này kỳ lạ... Tại sao nó không có tác dụng gì, Tohno-kun?"@
+` Cô ấy nghe có vẻ lo lắng.@
+` Chỉ từ việc nghe giọng nói của cô ấy, tâm trí tôi sắp mất kiểm soát.
+\
+` Được vuốt ve bởi ngón tay của Senpai cảm thấy rất dễ chịu, nhưng nó chẳng khiến tôi hưng phấn chút nào.@
+` Nhưng hơn cả, ngay lúc này[line=3], càng để ý đến cảm giác tốt đẹp từ ngón tay của Ciel-senpai, tôi càng muốn ôm cô ấy chặt hơn.
+\
+`"Mmm..."@
+` Tiếng nói của cô ấy trở nên đầy đam mê hơn.@
+` Có thể là vì cô ấy xấu hổ hoặc cố gắng vuốt ve tôi một cách chăm chỉ, nhưng hơi thở của cô ấy thực sự cảm thấy nóng hơn.
+\
+`"N... ha, ah... m, mm..."@
+` Tôi có thể nghe thấy hơi thở của cô ấy trở nên hoang dã hơn.@
+` Sau đó, tôi nhận ra cô ấy đang dùng cả hai tay.
+\
+`"... Haa... ha... h, ha... ah."@
+` Với cả hai tay, cô ấy ôm lấy bộ phận của tôi một cách cẩn thận.@
+` Có lẽ là do nỗ lực chăm chỉ của cô ấy, nhưng cuối cùng tôi bắt đầu cảm nhận được một chút khoái cảm.
+\
+` Một tia chớp chạy dọc sống lưng tôi.@
+` Nhưng đó không phải là vì ngón tay của Ciel-senpai.@
+` Chỉ việc cô ấy cất lực cố gắng đã khiến tôi phấn khích hơn cả sự chạm vào của cô ấy.
+\
+`"Ha, tôi, tôi [line=4]"@
+` Giọng cô ấy trở nên khàn khàn hơn.@
+` Sau đó `[line=3]`
+br
+`"[line=4]Hả?!"@
+br
+` Một cảm giác khác biệt so với những xúc cảm trước đó khiến tôi cong lưng lại.
+\
+`"[line=3]...... M, mm, ah"@
+` Giọng cô ấy nghe có vẻ khó nhọc hơn rồi.@
+` Cô ấy nghe như đang gặp khó khăn trong việc thở.@
+` Nhưng hơi ấm tôi cảm nhận được lại gần gũi với tôi.@
+` Và hơn thế nữa[line=3], cây gậy khô của tôi bắt đầu ẩm đi.
+\
+`"[line=3]Ah, m"@
+` ... Hơi thở của cô ấy ngày càng nóng hơn.@
+`"Này, Senpai......?!"@
+` Không thể cưỡng lại cám dỗ, tôi nhìn xuống mà không suy nghĩ.
+\
+bg #000000,lshutter,400
+bg "event/cel_h04a",lshutter,400
+`"[line=6]"@
+` Tâm trí tôi trở nên trống rỗng.
+\
+` Đó là nguyên nhân khiến tôi cảm thấy những cơn run rẩy khoái lạc.@
+` Dây cứng của tôi đã se thắt và run rẩy.@
+` Những ngón tay mềm mại quấn quanh nó.@
+` Mặt cô ấy quá gần, đủ để tôi cảm nhận hơi thở của cô ấy trên người tôi.
+\
+` Và,...
+` Ngón lưỡi đỏ liếm lên tôi như thể nó có ý thức riêng.
+\
+`"N, m, ha, n……"@
+` Với đôi mắt nhắm lại, cô ấy cuộn lưỡi nhiệt tình quanh mái tóc tôi.@
+` Cảm giác của lưỡi cô ấy ở một tầm cao khác so với những ngón tay của cô ấy.
+\
+` …… Điều này rất nguy hiểm.@
+` Nếu tôi chứng kiến điều như vậy, tâm trí tôi cũng sẽ bị kích thích.@
+` Trên thực tế, tôi đã quá kích thích rồi, đang phồng lên như thể cố thoát khỏi sự nắm giữ của cô ấy.
+\
+`"M[line=3]!?"@
+` Ciel giật mình lùi lại, nhưng nhanh chóng quấn ngón tay của cô ấy quanh tôi một lần nữa.@
+` ... Tôi bắt đầu cảm thấy sống động hơn.@
+` Một đường nứt mỏng, dính rỉ ra từ đầu tôi, và cô ấy lau nó bằng ngón tay.@
+` Sau đó, cô ấy đổ chất lỏng đó lên bộ phận của tôi.@
+` Ngón lưỡi đỏ của cô ấy liếm tôi một lần nữa.
+\
+`"Tohno, đến đây, [line=3]"@
+` Lời nói của cô ấy bị gián đoạn bởi những cái liếm mềm mại.@
+` Từ đôi môi cô ấy, một đường nước bọt hình thành giữa tôi và cô ấy.
+\
+`"[line=4]Ah..."@
+` Điều này thật tệ.@
+` Thật ra, nhìn thấy cô ấy như vậy sẽ khiến tôi mất trí.
+\
+bg #000000,lshutter,400
+bg "bg/bg_18c",lshutter,400
+`"Senpai, dừng lại...! Nếu anh tiếp tục thế này, tôi sẽ điên trước khi để nó thoát..."@
+`"N... không, Tohno-kun. Không sao. Chúng ta phải tiếp tục."@
+` Một cảm giác khác xuyên qua tôi.@
+` Ngôn của cô ấy đã liếm dọc theo gốc dương vật tôi.
+\
+`"...Dừng lại đi! Tôi không thể kiềm chế như thế này nữa..."@
+`"Xin đừng kìm nén. Nếu bạn thả lỏng những gì bên trong mình, bạn sẽ bình tĩnh lại."@
+` "Nhưng tôi không thể, vì đó là bạn...! Được rồi, hãy dừng lại, Senpai... Tôi biết nói điều này sau khi cậu đã tiến xa như vậy là sai, nhưng tôi không thể bình tĩnh khi bạn làm thế này..."@
+`"Xin đừng lo cho tôi. Tôi... thực sự... không... phiền gì cả."
+\
+`"(Nói xong, cô ấy tiếp tục vuốt ve tôi bằng lưỡi.)@
+` "Ôi!"
+\
+`"[line=4]Tôi thốt lên một tiếng nhỏ.@
+` Nếu cô ấy nghĩ đây chỉ là một nhiệm vụ, có lẽ tôi cũng phải xem nó như vậy.@
+` ...@
+` Tôi cố không nhìn cô ấy, nỗ lực tập trung vào việc để mọi thứ ra ngoài.
+\
+bg #000000,lshutter,400
+bg "event/cel_h04a",lshutter,400
+`"[line=3]Ờ... m, mm"@
+` Tôi có thể nghe thấy hơi thở nhỏ bé của cô ấy.@
+` Ngôn của cô ấy cảm giác như đang cố nếm tất cả tôi,
+` và những ngón tay mê hoặc của cô ấy tra tấn tôi không ngừng nghỉ.@
+br
+` Tiếng tim đập của tôi và hơi thở của Ciel-senpai vang vọng khắp phòng.
+\
+` Sự khoái cảm này.@
+` Tôi bị tấn công bởi vô số giác quan mà thường thì tôi đã đạt cực khoái từ lâu, nhưng đầu dương vật của tôi vẫn tịnh không phản ứng.@
+` Nó đã ướt trong một thời gian ngắn trước đó, nhưng giờ đây nó chỉ trở lại trạng thái thẳng đứng.
+\
+`"N... m, ha, haa... ah..."@
+` ... Hơi thở của Ciel-senpai trở nên khó khăn hơn.@
+` Có lẽ tôi cảm thấy như thể mình sắp buông thả điều đó lúc đó vì tôi nhìn thấy gương mặt của senpai, không phải vì khoái cảm.
+\
+`"Mệt quá... ừm... ơi... ưm..."@
+`"Em nói thế có muốn nói là...?"@
+` Cô ấy nghe có vẻ đau đớn, tôi nhìn xuống cô ấy.@
+` Cơ thể của Senpai đang run rẩy.@
+` Có lẽ là vì cô ấy đã đứng nguyên chỗ quá lâu, hoặc vì tư thế này khiến cô ấy khó chịu, nhưng cô ấy trông rất bất an.
+\
+`"Senpai, tư thế này có quá khó với em không? Em nhìn có vẻ không thoải mái đấy."@
+`"[line=3]Ồ, tại sao anh lại nói vậy?"@
+`"À, em thở khá gấp... Nếu em thấy khó chịu, chúng ta có nên dừng lại không?"
+\
+`"Ồ... không, tôi không bị thiếu hơi vì nó khó... nhưng cậu đúng, tôi sẽ di chuyển."@
+` "Có vẻ như cậu cũng chẳng cảm nhận được gì cả."@
+` Cô ấy trông có vẻ hơi bất mãn.
+\
+`"... Ồ."@
+br
+` Cô ấy dường như không hiểu rằng tôi đã cảm thấy quá nhiều trước đó.@
+br
+`"Vậy thì hãy lên giường đi. Cậu đã quỳ trên sàn quá lâu, chắc chắn đầu gối cậu đang đau."@
+`"[line=2]Ồ... vâng. Tôi sẽ làm thế. Xin cậu quay mặt đi."@
+`"...?"
+\
+` Tôi không hiểu rõ tại sao, nhưng tôi quay mặt đi.@
+bg #000000,lshutter,400
+bg "bg/bg_18c",lshutter,400
+` Ciel-senpai lên giường và bảo tôi nhìn lên trần nhà một lần nữa.
+\
+`"... Senpai. Tôi nghĩ sẽ dễ chịu hơn nếu tôi có thể nhìn thấy khuôn mặt của cậu... Tôi thực sự phải nhìn lên trần nhà?"@
+`"Ồ, tất nhiên! Nếu tôi để bạn nhìn thấy như vậy, tôi sẽ chết!"@
+`"[line=3]Chết? Tại sao lại thế? Nếu chỉ là châm một u nhọt, thì chẳng sao nếu tôi nhìn bạn cả."@
+`"[line=3]À... đúng là như vậy, nhưng..."@
+` Màu đỏ trên mặt cô ấy sâu hơn và cô ấy bảo tôi chỉ cần nhìn lên trần nhà.
+\
+`"[line=6][lối nói ngập ngừng]"@
+` Khi đang quỳ gối, Ciel-senpai vươn tay về phía vùng thắt lưng tôi.@
+`"...@
+` Tôi lén nhìn cô ấy khi cô ấy làm vậy.@
+` ... Cơ thể cô ấy trông còn nóng bỏng hơn trước.@
+` Tôi không biết tại sao chính xác, nhưng da trên đùi cô ấy có vẻ ửng đỏ và phản chiếu ánh sáng.
+\
+br
+` ...? Phản chiếu... ừm?
+\
+`"[line=5]Ôi."@
+` Trí óc tôi giật mình khi nhận ra điều đó.@
+`"[line=3]Senpai, chờ đã."@
+`"Ờ... ừm, chuyện gì vậy, Tohno-kun?"@
+`"Chỉ cần... nằm xuống thôi."@
+`"[line=4]Ồ kìa!"@
+` Tôi đẩy cô ấy xuống giường.
+\
+bg #000000,lshutter,400
+bg "event/cel_h05a",lshutter,400
+`"[line=5]À..."@
+` Mặt cô ấy cứng lại.@
+`"...Senpai. Tại sao dưới đó lại ướt vậy?"@
+`"Ôi." [line=3]@
+` Ciel-senpai có mặt đỏ bừng.
+\
+`"…… Ừm. Cậu nói đó chẳng là gì, vậy mà sao cậu lại như vậy?"@
+` "Bạn đã thấm ướt quần lót của mình, và thậm chí còn rò rỉ xuống chân."@
+`"[line=2][line=3][line=3]Không, đó chỉ là..."@
+` Ciel đỏ mặt rực rỡ hơn khi cô ấy lắp bắp.
+\
+`"Không?@ Vậy thì điều đó là gì?"@
+` Tôi đặt lòng bàn tay lên đùi cô ấy.@
+`"N[line=3]!"@
+` Toàn bộ cơ thể cô ấy run rẩy.@
+` Khi tôi rút tay ra, một đường dính hình thành giữa bàn tay tôi và đùi cô ấy.
+\
+`"N[line=3]không...! Đừng, xin đừng nhìn, Tohno-kun..."!"@
+` Cô ấy xấu hổ đến mức gần như khóc.@
+` Nhưng phản ứng này quá đáng yêu, khiến tôi muốn trêu chọc cô ấy nhiều hơn.
+\
+`"Được rồi, tôi sẽ không nhìn nếu cậu bảo tôi không làm thế, nhưng ít nhất cậu hãy nói cho tôi biết tại sao cậu lại như vậy trước khi ép tôi phải quay đi."@
+` Tôi sẽ ngước nhìn trần nhà nếu cậu kể cho tôi nghe đủ nhiều."@
+`"[line=3]Tại sao? Làm sao tôi có thể nói điều như vậy?"@
+`"Bạn không thể nói được à? Vậy thì, tôi nghĩ tôi sẽ phải hỏi cơ thể của cậu."@
+` Tôi lại đặt tay lên đùi cô ấy.@
+` Sau đó, theo vết dầu loang lổ, tôi di chuyển ngón tay lên khớp háng của cô ấy.
+\
+`"Không...!"@
+` Hông cô ấy tự động co lại.@
+`"Wow. Bạn thật ẩm ướt."@
+` "Đáng lẽ cậu không nên cảm thấy dễ chịu như vậy khi tôi lo lắng rằng mình không thể đạt cực khoái."@
+` "Tôi hiểu rồi. Cậu đang trêu chọc tôi đấy."@
+`"[line=2][line=3]Không, không! Tôi chỉ muốn giúp cậu bình tĩnh lại thôi, nhưng cậu chẳng phản ứng gì cả, nên..."
+\
+`"Ừm?"@
+` Tôi dùng ngón trỏ đẩy nhẹ.@
+` Tôi xuyên qua đôi quần lót ẩm ướt của cô ấy và đến những nếp gấp ướt sũng.@
+`"Ah...!"@
+` Cô ấy rên lên đầy xấu hổ.@
+` Giọng nói ấy.@
+` Khi nhìn thấy gương mặt và nghe giọng nói ấy, trái tim tôi đập nhanh hơn.
+\
+`"Này, trả lời đi. Tại sao cơ thể cậu lại phản ứng như vậy, Senpai?"@
+`"... Tôi... cảm thấy nóng bừng khi chạm vào cậu[line=3]và ngay cả bản thân tôi cũng thấy điều đó kỳ lạ, nhưng tâm trí tôi đột nhiên trống rỗng, và tôi[line=3]"@
+`"Dùng lưỡi liếm tôi như thể tôi là một que kẹo vậy?"@
+`"[line=6]!"@
+` Mặt cô ấy đỏ bừng đến mức trông giống như đang cháy.
+\
+`"Nhưng... tôi chẳng làm gì cả...! Chỉ chạm vào cậu đã khiến tôi nóng bừng, và[line=3]"@
+`"Đồ lót của cậu thấm đẫm mồ hôi?@
+` "Anh... anh nghĩ em kỳ quặc hơn so với tưởng tượng của mình, Ciel-senpai."@
+`"Đến... Tohno-kun! Anh đang quá khắc nghiệt! Em đã nói rồi, nên hãy ngừng nhìn...!"
+\
+` "Nghe giọng nói của cô ấy khiến tôi tin điều đó."@
+` "Cô ấy đỏ mặt đến mức nào và kích thích đến thế chỉ bằng việc chạm vào tôi. Không ngạc nhiên khi mọi thứ trước đó không thành công."@
+` "Chắc chắn là cô ấy rồi."@
+` "Không phải vì sự nhạy cảm của ngón tay hay lưỡi cô ấy, chỉ đơn giản là nhìn thấy gương mặt cô ấy khiến tôi cảm thấy khoái cảm nhất."@
+` "..., Senpai. Em phải có anh."
+\
+`"Em sẽ có anh."@
+`"[line=3]Ồ, Tohno-kun?"@
+`"Cuối cùng tôi cũng hiểu rồi. Bất kể bạn làm gì, nếu tôi không thể nhìn thấy khuôn mặt của cậu, thì chẳng có ý nghĩa gì."@
+` "Tôi sẽ không cảm nhận được điều đó trừ khi là với cậu."@
+` "Có lẽ tôi sẽ không thể đến trừ khi tôi đang làm điều đó cùng với cậu, Senpai."
+\
+`"[line=3]Ừm... Tôi rất vinh hạnh, nhưng..."@
+`"Đó chẳng liên quan gì đến Roa! Ngay cả nếu anh ta chưa bao giờ tồn tại, tôi vẫn muốn được ở bên bạn. Sự hiện diện của cậu khiến tôi không thể kiềm chế."@
+` "[line=3]Ở một mình với cậu khi bạn trông thật dễ thương như vậy, tôi chỉ có thể buông thả bản thân."
+\
+`"[line=6]"@
+` Ciel-senpai nhìn tôi với vẻ ngạc nhiên.@
+` Sự ngượng ngùng của cô ấy dường như tan biến.
+\
+`"Tohno-kun... cậu nghiêm túc à?"@
+`"Tôi nghĩ cậu không thể đùa về chuyện này? ... Nhưng nếu cậu không muốn, tôi sẽ dừng lại. Tôi không muốn làm gì tổn thương cậu."@
+`"[line=4]À..."@
+` Sau một nụ cười rạng rỡ thoáng qua, cô ấy đột nhiên buồn bã và nhìn xuống, tránh mắt tôi.
+\
+`"Tôi... cũng muốn làm điều này với cậu, Tohno-kun."@
+` ... Nhưng có được không? Tôi luôn kiềm chế bản thân, nhưng với cậu thì khác phải không?@
+` [line=3]Ngay cả cơ thể bạn, nó chỉ là ảnh hưởng của Roa khiến bạn tỉnh táo.@
+`"Ngốc ạ - Tôi mới là người đã kìm nén. Từ lâu rồi, tôi luôn muốn chạm vào bạn, Senpai."
+\
+bg #000000,crossfade,400
+bg "bg/bg_18c",crossfade,400
+`"[line=4]N!"@
+` Trước khi cô ấy kịp trả lời, tôi ấn định môi cô ấy bằng đôi môi mình.@
+` Chúng ta thở dốc, khám phá đôi môi nhau. Lần tiếp xúc đầu tiên ngượng ngùng, sau đó hòa lẫn khát khao.
+\
+`"[line=4]Ha, ahh, aha..."@
+` Hơi thở của Ciel-senpai.@
+` Cơ thể cô ấy đã cháy bỏng vì ham muốn, nên dường như tôi không cần làm gì để chuẩn bị cho cô ấy nữa.
+\
+`"Tohno, cậu."@
+`"... Senpai. Tôi sẽ làm việc này ngay bây giờ."@
+` Tôi cởi áo và quần lót ra khỏi người cô ấy.@
+` Vẻ đẹp thuần khiết của cơ thể trần trụi dưới đáy tôi khiến não tôi tan chảy.
+\
+` Da cô ấy lấp lánh mồ hôi.@
+` Những nhũ hoa căng tròn, hoàn hảo của cô ấy.@
+` Hai bầu vú chắc nịch, lớn của cô ấy run rẩy với mỗi hơi thở nặng nề.@
+` Và... dưới đó.@
+` Móng hồng của cô ấy đã ướt sũng, đầu nhú nhạy cảm phản chiếu ánh sáng.
+\
+`"... Điều này sao?@ Đã kích thích như vậy rồi, Senpai?"@
+` Tôi nhẹ nhàng vuốt ve đầu nhú của cô ấy bằng đầu ngón tay.@
+`"Ahwa......!"@
+` Khi chạm vào phần nhạy cảm nhất trên cơ thể cô ấy, cô ấy nhảy lên đáp lại.
+\
+`"[line=3]N, không, hết rồi!"@
+` Tôi lăn một ngón tay quanh đó, và đẩy một ngón khác vào trong.@
+` Cảm giác ẩm ướt.@
+` Cô ấy hoàn toàn bị ướt.@
+` Nếu cô ấy trong tình trạng này, tôi chẳng gặp trở ngại nào khi xâm nhập vào cô ấy ngay bây giờ.
+\
+`"[line=3]Senpai, tôi sẽ đưa nó vào, được chứ?"@
+`"[line=3]Ừm... Vâng, nhưng Tohno-kun."@
+` Cô ấy nói với giọng run rẩy, do dự.@
+` Ciel-senpai nhìn thẳng vào mắt tôi.@
+`"... Em xin hãy ngừng gọi tôi là Senpai.  Tôi muốn em chỉ gọi tôi là Ciel."@
+` Khi cô ấy nói vậy, đôi mắt cô ấy ngập tràn nước mắt.
+\
+`"[line=3]Được rồi. Sau đó, tôi sẽ đưa nó vào. Nâng chân lên một chút, Ciel."@
+`"[line=3]Ừm."@
+` ... Cô ấy nâng chân khỏi giường.@
+` Tôi dùng tay đỡ và nhẹ nhàng chèn vào Senpai... Ciel.
+\
+bg "event/cel_h06a",crossfade,400
+`"[line=8]Không!"@
+` Âm thanh của thịt chạm vào thịt làm tai tôi đau đớn khi tôi xâm nhập vào cô ấy.@
+` Nâng lên, đẩy xuống.@
+` Cảm giác như tôi đang ép mình giữa hai bức tường dày đặc khi tôi đẩy vào cô ấy.
+\
+` Cảm giác của nó,
+` Sự hòa hợp là điều vô cùng tuyệt vời.@
+` Ngay cả chỉ là chuyển động nhỏ này cũng khiến những làn sóng khoái cảm mạnh mẽ chạy xuyên qua tôi.
+\
+`"Hừ... bên trong, cậu ở trong tôi..."@
+` Khi tôi khám phá tận cùng cô ấy, Ciel thét lên.@
+` Tôi lui lại, rồi một lần nữa đẩy tiến.@
+`"Ồ...! Ôi trời ơi, ừm... ừm..." [line=4]@
+` Những hơi thở ngắn, ngọt ngào của cô ấy.@
+` Tôi chỉ di chuyển nhẹ nhàng, như đang hòa nhịp với hơi thở của cô ấy.@
+` [line=3]Nó giống như tôi đang đánh vào cô ấy bằng một thứ gì đó nặng nề.
+\
+`"[line=3][line=4]N, không, ừm!@ Tohno-kun, tuyệt vời!"@
+` Có lẽ vì dương vật của tôi cứng hơn bình thường, nó cảm thấy như tôi đang ép chặt vào cô ấy thay vì chỉ đơn giản là xâm nhập.@
+` Ciel quá khít.@
+` Cô ấy siết chặt tôi đến mức tôi có cảm giác như mình có thể bị rách nếu cố rút ra.
+\
+` *Hít thở gấp gáp*, *hít thở gấp gáp*[line=4]!@
+br
+` Nhưng tôi vẫn tiếp tục.@
+` Trong nhịp thở hoang dã của cô ấy, tôi xâm nhập vào cô ấy một cách lặp đi lặp lại.
+\
+`"[line=4][line=4]Ahn... haa... ah..."@
+` Cô ấy gần như nghe giống như đang khóc.@
+` Nổi đỏ mặt dữ dội, cô ấy cố chống lại sự xấu hổ lẫn niềm vui đang xung đột.
+\
+`"[line=3][line=2]Ha... ahn... ahah... aah..."@
+` Cơ thể Ciel dao động.@
+` Tôi đặt tay lên ngực run rẩy của cô ấy.@
+` Tôi siết chặt chúng khi tôi đẩy hông vào.@
+` Sự căng thẳng của cô ấy thật tuyệt vời.@
+` Tôi vuốt ve núm vú của cô ấy bằng ngón tay và từ từ đưa lưỡi đến để nếm chúng.
+\
+`"[line=3][line=3]Tohno-kun, như vậy là tốt lắm."@
+` Một phản ứng khác biệt so với trước đây.@
+` Có vẻ như cô ấy rất nhạy cảm ở chỗ đó.@
+` Tôi muốn nghe giọng nói của cô ấy tăng lên như vậy một lần nữa, vì vậy tôi liếm mạnh hơn.@
+`"[line=3][line=3]Ôi trời ơi, Tohno-kun, nhẹ nhàng hơn!"@
+` Tôi gần như không thể nghe thấy cô ấy.@
+` Hơi thở của tôi đạt đến đỉnh điểm nóng bỏng.
+\
+` Tôi chỉ di chuyển.@
+` Đường đi của Ciel quá nóng, tôi cảm thấy như đang tan chảy bên trong cô ấy.@
+` Cơ thể tôi đã ở trên bờ vực. Nó có thể nổ tung ngay bây giờ.
+\
+` "[line=3][line=3]Ôi trời ơi, ôi trời ơi!"@
+br
+` Nhưng tôi vẫn tiếp tục xâm nhập vào cô ấy.@
+` Đây không phải lúc để kiềm chế bản thân.@
+` Không, nhưng nếu tôi có thể... Tôi muốn được gắn kết như vậy với cô ấy mãi mãi.
+\
+`"[line=4]Này, chờ đã, haha, aha!"@
+` Cô ấy siết chặt lấy tôi hơn nữa.@
+` Giọng nói đam mê của Ciel,
+` và đôi mắt gần như khóc của cô ấy,
+` Tôi không muốn buông tay.
+\
+`"[line=3][line=3]Ciel, chỉ cần một chút nữa,"@
+`"[line=3][line=3]Đúng vậy, Tohno-kun, mạnh hơn!"@
+` Tôi gần như không thể hiểu được cô ấy.@
+` Chỉ bằng cách đồng bộ hóa nhịp tim của chúng tôi, tôi đẩy vào cô ấy với tất cả sức mạnh.@
+` Và sau đó,
+` Tôi cuối cùng cũng chạm đến tận tâm trí của cô ấy.
+\
+`"Hwa, ugh, ooh……!"@
+` Nó có đau không? Cô ấy siết chặt lấy tôi từ mọi phía.@
+` Cô ấy vẫn nắm chặt phần nhạy cảm nhất của cơ thể tôi.@
+` Mắt Ciel lấp lánh nước mắt.@
+` Nhưng cô ấy chẳng dường như đang chịu đau.@
+` Tôi chỉ cảm thấy yêu thương đôi mắt ấy lúc này.
+\
+`"Ciel, tôi yêu em, Ciel………!"@
+` [line=3]Tôi thực sự, không hiểu được.@
+` Trí óc tôi hoàn toàn bị tê liệt. Những từ ngữ duy nhất tôi có thể hiểu được là như vậy.@
+`"[line=2][line=4]Có, tôi cũng yêu bạn."@
+` Giọng nói của Ciel xuyên thủng trực tiếp vào não tôi.@
+` Và điều đó trở thành gánh nặng cuối cùng.@
+`"[line=3]Tôi đang đến..."@
+` Từ hông tôi,
+` Từ sâu thẳm tâm hồn tôi, một ngọn lửa đam mê bắt đầu rạo rực lên.
+\
+`"![line=4]!"@
+` Tôi vội vã kéo mình ra khỏi cơ thể của Ciel.@
+bg #ffffff,crossfade,400
+` Một cơn kích thích lan tỏa từ vùng cơ quan sinh dục của tôi.@
+` Và đột ngột, tinh dịch của tôi bùng nổ, gần giống như một chất gel hơn là chất lỏng.
+\
+bg "bg/bg_18c",lshutter,800
+`"[line=5]Ha."@
+` Tôi thở gấp gáp.@
+` Nằm ngửa trên giường, tôi hít vào không khí.@
+`"[line=3]Tôi... mệt quá."@
+` Cảm giác kiệt sức như vừa chạy một cuộc đua marathon.
+\
+` Nhưng hơn cả sự mệt mỏi, tôi cảm thấy một niềm vui sảng khoái từ cơ thể của Ciel.@
+` Chỉ cần nghĩ lại cũng khiến tôi mất tập trung.
+\
+`"Ồ." @ Ciel[line=3]@
+` Tôi nhấc mình lên và nhìn cô ấy.@
+`"... Ủa, hả?"@
+` Điều này khá bất ngờ.@
+` Tôi nghĩ cô ấy cũng đang tận hưởng cảm giác này, nhưng lại trông đầy năng lượng.
+\
+`"Ciel... ừm, cô không mệt sao?"@
+`"Ờ... ừm, cô có mệt không..."?@
+` Cô ấy trông có vẻ ngạc nhiên, khi cô ấy che miệng bằng tay.
+\
+`"[line=3][line=2]Tôi thấy, Ciel, cậu không di chuyển nhiều lắm. Tôi đoán chỉ có tôi mới cảm thấy mệt mỏi."@
+` Tôi thở dài và ngã trở lại giường.@
+`"Nhưng, tôi không gặp vấn đề gì khi giải phóng tất cả. Cảm ơn Ciel, tôi sẽ ngủ ngon giấc từ giờ."@
+`"Đúng... vậy."@
+` ... Cô ấy không nghe có vẻ quá vui vẻ.
+\
+`"…… Có chuyện gì? Có sai gì không? Anh hỏi.@
+`"[line=3]À, ừm... Tôi chỉ nghĩ là cậu bị bẩn ở đó thôi."@
+`"[line=4]Ôi..."@
+` Thôi thì, cô ấy đúng.@
+` Trời ơi, có lẽ tôi hoàn toàn mất cảm giác rồi.
+\
+`"S, xin lỗi. Có thể dùng một miếng khăn không?"@
+`"Ừm, tôi sẽ lau sạch sẽ. Ngồi yên xuống nhé."@
+`"... Vâng, thực sự à? Cảm ơn."@
+` Tôi không biết cô ấy đang nghĩ gì, nhưng tôi ngồi xuống.
+\
+` [line=4]*thở dài*
+` Tôi hít một hơi thật sâu.@
+` Bây giờ khi đã bình tĩnh lại, tôi có thể ngủ ngon lành.@
+`"[line=5]N?"@
+` Tôi run rẩy vì một cảm giác bất ngờ dễ chịu.@
+` Ciel đang lau tôi bằng một miếng khăn giấy.
+\
+`"[line=3]Ah..."@
+` Cảm giác này thật tuyệt.@
+` Tôi thực sự thích cảm giác ngón tay cô ấy trên tờ khăn giấy.@
+` Cô ấy nhẹ nhàng lau tôi.@
+` Nó khá đặc nên chắc chắn là một nhiệm vụ khó khăn.@
+` Cô ấy đang làm sạch tôi cẩn thận và tỉ mỉ.
+\
+`"... Ừm."@
+` ... Nam giới thực sự giống như những con thú hoang dã.@
+` Chỉ cần chạm vào Ciel, tôi lại bắt đầu cứng lại.
+\
+`"[line=5]"@
+` Tôi không thể. Tôi không thể.@
+` Tôi tự nhủ bản thân cần bình tĩnh lại.@
+br
+` [line=4]Và rồi,
+br
+` Một cơn lạnh chạy dọc sống lưng tôi.@
+` Cơ thể tôi mềm nhũn đi, nhưng... không chỉ bởi ngón tay cô ấy, mà... cảm giác lưỡi cô ấy khiến nó phồng lên một lần nữa.@
+` "Này, Senpai..."
+\
+`"Tôi nhìn lên vô thức.@
+` Ở đó...@
+` [line=4]
+` Nhìn cảnh Ciel đang làm, tôi ngạc nhiên đến mức không thể rời mắt.@
+` Cô ấy dùng lưỡi liếm chất tinh dịch vẫn còn dính trên người tôi.
+\
+`"[line=4]Ôi..."@
+` Cảm giác này.@
+` Cảm giác lưỡi cô ấy trượt trên người tôi... và việc cô ấy đang liếm tinh dịch của tôi.@
+br
+` Chỉ từ đó, tôi lại cứng hoàn toàn.
+\
+`"[line=4][line=3]Ôi, Ciel... hãy..."@
+` Dành cả tâm trí để vuốt ve tôi, Ciel chẳng nghe thấy lời tôi nói nào.@
+` Những cử động chân thành của lưỡi cô ấy.@
+` Ngón tay cô ấy vuốt ve tôi lên xuống và tôi đã bắt đầu tiết chất lỏng tinh trùng chỉ sau vài giây.
+\
+`"[line=3]... Ồ, trời ơi! Tôi đã xuất tinh rồi!"@
+` Tôi hơi bối rối trước sự kích thích dễ dàng như vậy.@
+` Nhưng, có thể hiểu được chứ?@
+` Liệu một chàng trai nào đó có thể chống lại những cái ôm nồng nàn và đam mê này không?@
+` [line=3]Nhưng hơn thế nữa, tại sao Ciel lại cố gắng đến vậy để làm tôi vui...?
+\
+bg "bg/bg_18c",crossfade,800
+`"... Ồ..."@
+` Tôi nhận ra điều đó.@
+` Có thể là vậy, nhưng cô ấy phải... [line=3]
+\
+`"Ciel. Ồ, đừng nói với tôi, cô không thể đến...?"@
+`"[line=4]"@
+` Cô ta lùi lại khỏi tôi và, mặt đỏ bừng, gật đầu.
+\
+`"Vậy thì... cô đã kéo tôi dậy một lần nữa để... ừm..."@
+br
+` Có lẽ cô ấy muốn một vòng tiếp theo...@
+br
+`"...Ciel, sao cô không thể đến?"@
+`"…… Số@, Ừm, tôi muốn ở bên cậu một lần nữa, Tohno-kun."@
+` Cô ấy nhìn xuống và mặt đỏ bừng đến đôi tai.
+\
+`"[line=6]"@
+` Điều đó khiến tôi cảm thấy rất khó chịu.@
+` Khi nghe cô ấy nói thế, không, chính xác hơn là khi cô ấy thừa nhận điều đó, tôi hơi ngượng ngùng.
+\
+`"…… Cậu đúng.@ Điều này cũng không đủ cho tôi đâu."@
+` Chúng ta sẽ không thể gặp nhau sau ngày mai, nên tôi nên ở bên cậu nhiều nhất có thể.@
+` Nếu chúng ta làm thế cho đến khi tôi kiệt sức, cơ thể tôi có lẽ sẽ yên bình trong một thời gian dài."@
+`"Đó có thể là sự thật... nhưng Tohno-kun, giọng cậu nghe khá thô lỗ."
+\
+`"Ồ?@ Cậu không phải là người đang tìm kiếm nhiều hơn sao?@ Chúng ta có thể dừng lại nếu cậu không muốn làm điều này."@
+`"[line=2][line=2]Ờm... xin lỗi!"@
+` Cô ấy xấu hổ và xin lỗi với tất cả sức lực.
+\
+`"Xin lỗi, tôi chỉ đùa thôi.@ Khi tràn đầy năng lượng như vậy, tôi cũng muốn cậu làm điều đó.@
+` Nhưng tôi thực sự mệt mỏi, nên có thể cậu nằm trên đây được không?"@
+`"[line=3]Ồ... trên đây? Trên người tôi ư?"@
+`"Đúng vậy.@ Tôi không thể di chuyển nhiều lắm, nên lần này đến lượt cậu."@
+` "Đó là điều họ thường gọi là 'cô gái chăn bò'."@
+`"[line=2]Ồ, như thế này à?"@
+` Cô ấy bò lên bằng bốn chân như một con mèo, rồi đặt mình lên trên tôi.
+\
+`"... Wow, cảnh tượng tuyệt đẹp quá."@
+` Từ góc nhìn này, tôi có thể thấy rõ từng phần của đôi ngực đầy đặn của Ciel.@
+bg #000000,crossfade,400
+bg "event/cel_h07a",lshutter,400
+`"[line=4]N, ừm!"@
+` Ciel quay mặt đi, hạ thân xuống áp vào tôi.@
+` Cảm giác ẩm ướt.@
+` Cô ấy đón nhận tôi mà không hề kháng cự.
+\
+`"[line=3]Đã vào rồi."@
+`"Vâng, đã vào rồi. Nó cũng đã ở đó từ trước, phải không?"@
+` Ngay khi tôi nói vậy, cô ấy càng đỏ mặt hơn.@
+` ... Tôi không biết liệu cô ấy dễ bị xấu hổ hay thực sự cởi mở.
+\
+`"Có thể di chuyển được không? Bạn có thể bắt đầu chậm rãi nếu muốn, sau đó khi quen rồi, cậu có thể tăng tốc."@
+`"[line=3]Ừm, được rồi."@
+` Cô ấy bắt đầu lắc lư do dự.@
+br
+` Nhịp điệu chậm, dịu dàng.@
+` Có phải điều này đủ để làm hài lòng cô ấy? Cô ấy đã thở nặng nhọc rồi.
+\
+`"Ưm... ừm, ah, oh..." [line=4]@
+` Cô ấy bắt đầu di chuyển lớn hơn từng chút một.@
+` Chất lỏng ấm của cô ấy tràn ngập tôi.@
+` Các vùng háng chúng ta đã ngấm đầy chất lỏng dính nha.
+\
+`"N, không... ừm, ah, ahn, ahn..." [line=3]!@
+` Âm thanh của thịt va chạm với thịt và chất lỏng.@
+` Có lẽ vì tôi không di chuyển lần này, chỉ có niềm vui thuần khiết chảy vào não tôi.
+\
+` ... Nhưng chỉ đứng yên như vậy thật chán, nên tôi cũng quyết định di chuyển theo cô ấy.@
+` Hông Ciel nhấc lên và hạ xuống.@
+` Tôi đồng bộ với nhịp của cô ấy, nâng hông mình lên.@
+`"[line=5]Hya!"@
+` Cảm giác trọng lượng của cô ấy đè lên tôi.@
+` Nó cảm thấy như tôi đang đâm sâu vào bụng cô ấy.
+\
+`"Ah, ha... ôi, aaooooh..."@
+` Ciel thét lên một tiếng lớn.@
+` Nhưng cô ấy vẫn không ngừng lắc lư lên xuống, và tôi tiếp tục theo nhịp của cô.
+\
+`"[line=2]Ôi trời ơi... tuyệt vời quá, Tohno-kun, thật đáng kinh ngạc!"@
+` Đuôi cô cong lại vì khoái cảm.@
+` Cô ấy quá cuồng nhiệt đến mức trông như thể mình sắp gập người lại nửa.
+\
+`"... Mm, a... oh, hwa... a... ngg, a..."@
+` Khi chứng kiến cảnh cô ấy kích động như vậy, hơi thở của tôi cũng trở nên hoang dã hơn.@
+` Mặc dù thế, việc nẩy lên ở tư thế này thì mệt hơn.
+\
+`"[line=4]" @
+` Tay tôi không làm gì cả. @
+` Tôi đặt một tay lên chân cô ấy, tay kia lên hông cô ấy. @
+`"[line=2][line=2]Ồn ào, dễ chịu...!" @
+` Cơ thể Ciel rung chuyển như thể cô ấy khao khát những khoái cảm nhiều hơn. @
+` Đôi vú phát triển tốt và mái tóc đen của cô ấy lắc lư theo chuyển động của hông.
+\
+` Cảm nhận hơi thở nóng của cô ấy trên người tôi, tôi di chuyển bàn tay trên hông cô ấy đến mông. @
+` Nhẹ nhàng, tôi nắm lấy má cô ấy mềm mại nhưng chắc nịch.@
+`"Ơ... ừm..." @
+` Biểu cảm của cô ấy thay đổi.@
+` Phản ứng này hơi khác so với trước đây.@
+` Với một bàn tay vẫn đặt trên hông cô ấy, tôi đưa ngón tay xuống mông cô ấy.
+\
+` Giữa những ngọn đồi rộng lớn, ngón tay tôi lướt qua làn da mềm mại.@
+` Nó lăn vào giữa hai má cô ấy, nhẹ nhàng che khuất lỗ mở khác.
+\
+`"[line=3]K, ơi!"@
+` Cô ấy lại cong lưng và khàn tiếng kêu.@
+` Và siết chặt quanh dương vật tôi nhiều hơn trước.
+\
+`"Ciel... em có phải rất nhạy cảm như vậy?"@
+`"[line=3][line=4]Ừm... khi anh chạm vào nó, em thấy hơi kỳ lạ."@
+`"Ồ? ... Nó thật kỳ lạ, Ciel-san?"@
+` Tôi đưa ngón tay vào trong.@
+` Chỉ một chút, vượt qua nửa móng tay.
+\
+`"Hwaaa……!" [line=6]@
+` Nhưng cô ấy phản ứng mạnh hơn với cử chỉ này so với bất kỳ sự âu yếm nào khác của tôi.@
+`"Ah…… ah, Tohno-kun, xin đừng làm thế nữa." [line=3]@
+` Hơi thở của cô ấy nặng đến mức tôi gần như không thể hiểu được.@
+` Má cô ấy đỏ không phải vì nóng bừng, mà có lẽ cô ấy thật sự xấu hổ khi bị sờ vào như vậy.
+\
+`"………"@
+` Tôi cũng cảm thấy phấn khích.@
+` Không suy nghĩ, tôi chỉ muốn trêu chọc cô ấy.
+\
+bg "bg/bg_18b",crossfade,400
+`"Tôi hiểu rồi, cô thích ở đây, phải không? Cô nên nói sớm hơn."@
+`"[line=3]Ồ Tohno-kun...?"@
+`"Chúng ta thay đổi lần này. Tôi sẽ hành động."@
+` Tôi rút lui và đứng dậy.
+\
+`"Ciel, hãy đặt tay và đầu gối lên giường."@
+`"... À... như thế này sao?"@
+` Cô ấy quỳ xuống bằng tất cả bốn chi.@
+` Nước của cô ấy chảy gần như liên tục.
+\
+` Cô ấy đang rò rỉ đến tận mắt cá chân.
+\
+`"[line=3]Hừm... Cậu thực sự không có đáy nào, Ciel. Trước đó cậu đã ngâm mình, nhưng nước vẫn tiếp tục rò rỉ."@
+` Bắt đầu từ mắt cá chân,
+` Tôi hút nước trên cơ thể cô ấy.
+\
+`"Ha... mm, Shiki-ku... xin đừng, làm thế này."@
+`"Tại sao? Cậu đã làm điều đó với tôi, Ciel. Đây chỉ là... sự trả thù."@
+`"N... hah... ah."@
+` Từ mắt cá chân đến đầu gối.@
+` Sau đầu gối, tôi dùng lưỡi vẽ một đường xoắn ốc lên đến đùi sau, rồi từ đùi sau đến nguồn nước hồng giữa hai chân cô ấy.
+\
+`"...!"@
+` Hông cô ấy co lại.@
+` Tôi đuổi theo, đưa miệng ngay giữa hai đùi cô ấy.@
+` Tôi nhét lưỡi vào trong.@
+` Không do dự, tôi di chuyển lưỡi xung quanh bên trong lỗ ấm ẩm của cô ấy.@
+` Nếm những giọt nước bí mật chảy ra.
+\
+`"[line=3]Không, không phải như thế. Đó là... bẩn thỉu."@
+` Giọng của Ciel run rẩy.@
+` Giọng nói của cô pha trộn giữa sự ngượng ngùng và khoái cảm, cho thấy cô thậm chí còn không biết mình đang nói gì.
+\
+`"Không hề bẩn thỉu chút nào. Đây là điều khiến cả chúng ta đều cảm thấy tuyệt vời. Hay cậu chỉ diễn xuất?"@
+` Ngừng nụ hôn, tôi đưa ngón tay lên khe hở của cô ấy.@
+`"[line=4][line=3]Haa... Nó... thật tuyệt."@
+`"Tôi hiểu rồi. Nhưng tôi nghĩ cậu thực sự cảm thấy thoải mái hơn ở đây so với trước kia, Ciel."
+\
+` "Đi lên giữa hai chân của cô ấy."@
+` Sử dụng bàn tay thấm đẫm chất lỏng của cô ấy, tôi mở rộng hai má của cô ấy.@
+` Với chất lỏng của chính cô ấy, tôi hoàn toàn phủ kín khu vực xung quanh hậu môn của cô ấy.
+\
+`"N[line=3]!@ Tohno, đừng nói với tôi, cậu... "@
+`"Đúng vậy. Tôi nghe nói không nên cắn răng, vì thở qua miệng sẽ ít đau hơn."@
+`"[line=4][line=3]Này Tohno-kun, ngốc ơi! Đừng chạm vào đó!"@
+` Khi cô ấy cố gắng thoát ra, tôi ôm chặt lấy cô ấy và chôn mặt giữa hai má cô ấy.@
+` Giữ cô ấy chặt trong vòng tay, tôi liếm lỗ hậu môn đang co giật của cô ấy.@
+` Chỉ chạm khẽ vào bề mặt bên ngoài.
+\
+`"[line=3]Ha, n! Ah, aha, aaooh, oh……!"@
+` Cô ấy ngừng cố thoát ra.@
+`"Em thực sự thích điều này, phải không Ciel?"@
+`"[line=2][line=3]Không, Tohno-kun, xin... đừng... liếm... em ở chỗ đó."
+\
+` Khi nghe vậy, tôi càng muốn làm thế hơn.@
+` Ban đầu tôi chỉ liếm bề ngoài, nhưng lần này tôi đưa lưỡi vào trong.@
+` Làm việc chăm chỉ, tôi làm ướt mông cô ấy bằng nước của chính cô ấy và nước bọt của tôi.
+\
+`"N[line=3]! Haah, ừm... ồ..."@
+` Cô ấy phản ứng mạnh đến mức chỉ chạm nhẹ bằng đầu lưỡi của tôi, khiến tôi hơi lo lắng về những gì sắp xảy ra tiếp theo.@
+` Nhưng tôi đã tiến tới thế này rồi... Tôi không thể dừng lại được nữa.@
+` Và hơn thế nữa, tôi muốn biết cảm giác khi nếm thử nó sẽ như thế nào.
+\
+`"[line=3] Vậy thì đã đến lúc rồi nhỉ."@
+` Tôi đưa cây gậy của mình vào chỗ cô ấy đang mở ra.@
+`"[line=5]!"@
+` Cơ thể Ciel run rẩy.@
+` Tôi ôm cô ấy chặt chẽ, và trượt nó vào trong cô ấy.
+\
+bg #000000,crossfade,400
+bg "event/cel_h08a",crossfade,400
+` Cảm giác hoàn toàn khác biệt.@
+` Cô ấy siết chặt xung quanh tôi, lỗ nhỏ hơn nhiều của cô ấy chống lại sự tiến bộ của tôi.@
+` Tôi từ từ đẩy sâu hơn, ép mình qua.
+\
+`"[line=4]Không, aaaaaaa!"@
+` Ciel gần như hét lên.@
+` Điều đó rất tự nhiên.@ Lỗ này không được thiết kế để nhận một người đàn ông.@
+` Đau đớn và một cảm giác khác có thể đang trộn lẫn bên trong cô ấy.
+\
+`"[$[line=4]Gg.]"@
+` Nhưng nơi này cũng chật hẹp.@
+` Tôi từ từ đẩy vào trong khi cô ấy siết chặt lấy tôi, như thể chống lại vật thể lạ đang trượt vào bên trong cô ấy.@
+br
+` Áp lực xung quanh tôi quá lớn.@
+` Tôi chiến đấu để ngăn chặn những bức tường không nên được mở ra.@
+` [line=2]Đối với tôi, điều đó cũng vậy. Tôi cảm thấy đau đớn nhiều hơn niềm vui.
+\
+`"Ôi trời, hỡi ơi, ôi ơi, ôi ơi." [line=3]@
+` Tiếng cô ấy đột ngột cất lên với sự hoảng loạn.@
+`"[line=3][line=3]Đêm tối... tôi tiến về phía cô ấy."@
+` Không từ bỏ, tôi cố gắng đẩy mạnh hơn.@
+` ... Nhưng có lẽ vì tôi đã bôi trơn cho cô ấy bằng nước bọt và chất lỏng của chính mình trước đó, khi đầu kim chạm vào... nó dễ dàng hơn tôi nghĩ để đẩy phần còn lại vào trong.
+\
+`"[line=3]Ôi trời ơi, không, thứ quá to, không thể... vào được!"@
+` Mồ hôi lấm tấm trên trán cô ấy.@
+` ... Phải là do tôi đang ép mình vào một lỗ nhỏ như vậy.@
+` Cô ấy phải cảm nhận điều đó gấp đôi.
+\
+`"[line=3]Ôi, ừm, ôi trời ơi, ôi!"@
+` Cô ấy siết chặt hơn nữa.@
+` Siết chặt không thể mô tả được điều này.@
+` Áp lực xung quanh tôi tăng lên hàng nghìn lần, như thể để trừng phạt tôi vì xâm nhập vào cô ấy theo cách này.
+\
+`"[line=3][line=3]Ha, ha, hah."@
+` Tôi thở không ra.@
+` [line=4]Nó đau. Đau, nhưng sự siết chặt này cũng là khoái cảm.
+\
+`"Thật tuyệt vời…… Đây là lần đầu tiên[line=4]mông của cậu thật tuyệt, Ciel."@
+` Cảm giác như nó sẽ không lọt vào nếu tôi rút ra quá xa, nên tôi lui lại một chút và đẩy mạnh hơn.@
+` Chỉ một chút thôi. @ Kéo, đẩy. @
+` Và nó khiến tôi chìm sâu hơn một chút, nên tôi kéo lại chỉ một chút, rồi đẩy trở lại.@
+` ... Tôi lặp lại chu kỳ này đi lại.
+\
+`"Ừm, ừm, ừm[line=4], ha......!" @
+` Giọng nói của tôi lẩm bẩm khi tôi đẩy vào.@
+`"Ôi, haa, Tohno... kun, haa, ôi......!" @
+` Ciel cũng vậy.@
+` Khi niềm vui bắt đầu lấn át nỗi đau, cô ấy bắt đầu chấp nhận tôi.
+\
+`"Ừm, ừm, ừm... ừm, ừm, ừm..."@
+` Chỉ một chút thôi.@
+br
+`"[line=3]Àn, nó cảm thấy tốt, Tohno-kun...!"@
+` Chỉ một chút.@
+br
+`"[line=3]Haa... ừm, ừm, sâu hơn nữa, Tohno-kun."@
+` Chỉ một chút thôi.@
+br
+`"[line=4][line=2][line=3]À, ừm, ừm, sâu hơn nữa, Tohno, gần gũi hơn với tôi, Tohno-kun, sâu hơn..."@
+` Tôi cũng vậy.
+\
+`"[line=3]Đi sâu hơn, sâu hơn!"@
+` Tôi đã đạt giới hạn của mình.
+\
+`"[line=3]Ciel, tôi..."@
+`"[line=3]Không, không... Tôi không thể để cậu hoàn thành điều đó! Còn sớm lắm!"@
+br
+` [line=3]"Ồ!@"@
+br
+` Việc rút lui của tôi bị chặn lại.@
+` Cô ấy siết chặt lấy tôi như một cái kẹp sắt.@
+` Tôi không thể thoát ra được.@
+` Tôi chỉ có thể di chuyển một chút.@
+` Tôi đang ở trên bờ vực giải phóng, nhưng cô ấy không cho phép.
+\
+`"Tại sao... bạn...!"@
+` Tôi đẩy mạnh thêm lần nữa.
+\
+` Chỗ đâm của tôi xâm nhập sâu hơn.
+\
+bg "event/cel_h11a",crossfade,400
+`"N, ơi!" [line=5]@
+` Tay của Ciel sụp đổ.@
+` Như thể cô ấy không còn sức lực nào, cô ấy nâng hông lên khi ngã xuống giường.@
+br
+` [line=3]Ngay cả vậy, tôi vẫn không ngừng di chuyển.
+\
+`"[line=3]Ôi, ôi, Tohno-kun, cậu đã nhập vai sâu quá."@
+` Ciel nắm chặt giường như đang chống lại khoái cảm.@
+`"[line=4]Gg"@
+` Tôi cũng cố gắng kìm nén sự nóng rực dâng trào bên trong.@
+` Kìm hãm, tôi đẩy mạnh hơn.
+\
+` Tôi đã đưa mình vào hoàn toàn đến tận gốc.@
+` Tôi có cảm giác như sắp ở trong bụng cô ấy.
+\
+`"[line=5][line=4]Hừm, không thể nào..."@
+br
+` Một lần nữa.@
+br
+`"[line=3][line=4]Tôi, tôi không thể chịu đựng thêm được nữa."@
+br
+` Hai lần nữa.@
+br
+`"[line=3][line=5]Ồ, không, không, không!"@
+br
+` Ba lần nữa.
+\
+` Cơ thể Ciel căng cứng lại.@
+` Đây thực sự là kết thúc.@
+` Tôi cũng có mặt đó.@
+` Tôi phải kéo bản thân ra khỏi cô ấy.
+\
+`"[line=4]Tohno-kun, ở bên trong, làm điều đó bên trong em![line=3]"!"@
+` Giọng nói của cô ấy đầy khẩn cầu.@
+`"[line=3]"@
+` Thay vì rút lui, tôi đẩy sâu hơn vào trong cô ấy.
+\
+`"[line=5]Ngg!"@
+` Cô ấy uốn cong lưng lại.@
+` Tay cô ấy siết chặt tấm chăn, cơ thể căng cứng.@
+` Cơ thể Ciel quấn lấy tôi như không bao giờ muốn buông ra.@
+br
+` Tôi chỉ muốn tất cả cô ấy.
+\
+`"[line=4]Tôi sẽ đến với cậu, Ciel!"@
+`"Vâng...! Đến đi, xin cậu, Tohno-kun!"
+\
+` Tôi đẩy mạnh hơn bao giờ hết.@
+` Đột nhiên! Cảm giác đó ập đến.@
+` Cảm giác phun trào mãnh liệt đến nỗi gần như tôi cảm thấy mình đang giải phóng dòng magma nóng bỏng bên trong cô ấy.
+\
+bg "event/cel_h09a",crossfade,400
+`"[line=3][line=3][line=5]Ôi, ôi, tôi..."@
+br
+` Một tiếng nổ vang lên, lặp đi lặp lại không ngừng nghỉ.@
+` Tôi cứ thế bắn vào cô ấy.@
+` "Ah, ah..."
+\
+`"[line=5]Cơ thể Ciel bắt đầu run rẩy.@
+` Cô ấy siết chặt tấm chăn, nước mắt lăn dài quanh đôi mắt.@
+` "[Không có dòng nào]"
+\
+`"[line=8]...@
+` Ciel nằm ngổn ngang trên giường.@
+`"[line=5]Tsuki (mặt trăng) rực rỡ trong đêm tối."@
+` Ngay cả khi cô ấy đã ngất đi, sự căng thẳng ở hông vẫn không giảm bớt.@
+` Tôi lấy ra dụng cụ của mình với một tiếng nổ lớn, nặng nề.@
+br
+` Ngay khi tôi làm điều đó,
+` một lượng lớn tinh khí của tôi chảy ra từ cô ấy.
+\
+br
+`"[line=4]N[line=4]Shiki[line=5]kun[line=4]"@
+br
+` Cô ấy thốt lên tên tôi.@
+` ... Giống như khi tôi gọi Senpai, "Ciel"@
+` Cuối cùng, cô ấy gọi tôi bằng tên đầu tiên của tôi.
+\
+bg #ffffff,crossfade,800
+playstop
+bg "bg/bg_18b",crossfade,400
+`"[line=4]A, ahhh."@
+` Cuối cùng, sự căng thẳng của cô ấy tan đi.@
+` Tôi lui lại.@
+` Một đường nối dính kết nối chúng tôi.@
+` Đồng thời, thứ gì đó đang chảy ra từ hậu môn của cô ấy.
+\
+` ... Làm thế nào để tôi nói điều này?@
+` [line=3]Thật ra, ngay cả khi đây là lần đầu tiên tôi quan hệ với cô ấy, tôi nhận ra có lẽ tôi đã làm quá nhiều.
+\
+`"[line=4]Ciel, bạn ổn chứ?"@
+`"... Đánh vào hậu môn của tôi đau lắm."@
+`"Tôi-Tôi hiểu rồi... Xin lỗi, em chỉ quá đáng yêu, tôi muốn đùa giỡn với em."@
+`"…… Không số. Tôi không bị lừa đâu."@
+br
+` Nằm xuống, cô ấy nhìn tôi với ánh mắt sắc lạnh.
+\
+`"…… Cô muốn nói gì? Cuối cùng cô cũng thích nó, phải không? Tôi cũng đau đớn đấy."@
+` "Ciel, cô luôn vung vũ khí nặng như thế, nhưng có tập luyện cơ chân không?"@
+`"Chuyện gì vậy, Tohno-kun?!"@
+` Ciel đứng dậy và đánh tôi vào đầu.
+\
+`"Ối! Quá bạo lực!"@
+` Tôi giơ tay lên để phản đối.@
+` Ciel thở dài.@
+`"…… Ồ, cậu không cho tôi tận hưởng khoảnh khắc này sao? Chúng ta sẽ không gặp nhau sau sáng mai, vậy cậu có thể trân trọng bầu không khí này một chút nào đó được không?"@
+`"…… Đúng là như vậy, nhưng chúng ta đã quá cuồng nhiệt. Chúng ta nên tắm và thay ga giường đi."@
+` Ciel tỏ ra như vừa nhận ra điều đó.
+\
+`"Đúng rồi! Vậy thì tôi sẽ đi tắm...!"@
+` Ciel chạy về phòng tắm.
+\
+`"[line=5]Ha, ha."@
+` Tôi bắt đầu cười.@
+` Tôi mang theo một quả bom tên là Roa, nhưng ngay cả lúc này tôi cũng không cảm thấy lo lắng chút nào.@
+br
+` ... Người mà tôi nghĩ đã mất nhiều lần rồi lại ở đây bên tôi giờ đây.@
+` Dành khi cô ấy ở đây, chẳng có gì đáng lo ngại.
+\
+` Tôi ôm cô ấy ở trường.@
+` Nhưng đó là hơn cả nỗi buồn hơn là tình yêu.@
+br
+` Nhưng điều này khác biệt.@
+` Đây chỉ đơn giản là tình yêu.@
+` Tôi yêu cô ấy quá nhiều, tôi gần như muốn cô ấy chỉ ở lại đây mãi.
+\
+bg #000000,lshutter,400
+bg "bg/bg_18b",lshutter,400
+` Chúng tôi cuối cùng cũng nằm bên nhau, nhìn trần nhà mà không thể ngủ.@
+br
+` Nếu tôi nói điều gì đó, tôi chắc chắn sẽ không để cô ấy rời đi.@
+` Vì vậy, không nói gì, tôi chỉ cảm nhận hơi thở và sự ấm áp của cô ấy gần với tôi.@
+` Khi bình minh đến, cô ấy rời khỏi giường.
+\
+bg "bg/bg_18a",lshutter,400
+ld c,"tachi/cel_t01b",crossfade,400
+`"Tôi phải đi.@ Tôi sẽ trở lại sớm nhất có thể, nên xin đừng rời phòng, được không?"@
+br
+` Có vẻ như cô ấy đã mua đủ thức ăn cho hai tuần tới.@
+` Tôi sẽ bỏ qua thực tế rằng phần lớn trong số đó dường như là cà ri.
+\
+`"Xin đừng chạy theo một kẻ lang thang khi tôi vắng mặt.@ Tôi sẽ ghen tị lắm."@
+cl c,lshutter,1500
+` Cô ấy nói một điều đáng sợ với nụ cười sâu thẳm và rời khỏi phòng.@
+br
+` Đã là trước năm giờ sáng.@
+` Đây là cách mà thứ Hai cuối cùng của tháng Mười bắt đầu.@
+bg #000000,crossfade,800
+!w3000

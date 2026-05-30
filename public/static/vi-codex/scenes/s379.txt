@@ -1,0 +1,106 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_53b",notrans,0
+`"[line=12]" Tôi sẽ không bị lừa bởi trò đó.@
+` Tôi tịnh không để mình bị lừa bởi trò đó đâu.@
+` Lắng nghe giọng nói của hắn khiến cơ thể tôi dẫu dã tịnh không thể cử động bình thường.@
+` Nếu thực sự có cách để Akiha trở lại bình thường, tôi sẽ tự mình tìm ra nó.@
+` Không đời nào[line=3]không đời nào SHIKI, kẻ đã đẩy Akiha vào nông nỗi này, lại cất công nói ra.
+\
+`"[line=4]Hử!@ Hóa ra cậu tịnh không hề mắc bẫy nhỉ.@ Được rồi.@ Kể từ giờ trở đi, chúng ta chỉ có cất lực lấy mạng nhau mà thôi.@
+` Để xem ai trong hai ta mới là kẻ sát nhân giỏi hơn."@
+` SHIKI cười lớn, vẫn nằm ngửa trên mặt đất.@
+`"[line=12]"@
+` Tôi tịnh không đáp lời, mà cất bước đi thẳng về phía hắn.@
+` Chỉ còn khoảng mười mét nữa mà thôi.@
+` Chỉ cần vài giây nữa dẫu dã có thể cất lực lao thẳng vào hắn.
+\
+`"…… Hử.@ Đừng nói là cậu nghĩ mình dẫu dã thắng cuộc chỉ vì đã chém đứt một cánh tay của tôi đấy chứ, Shiki."@
+`"[line=8]"@
+br
+` Một mét.
+\
+`"Tôi sẽ dạy cho cậu một điều cuối cùng này.@
+` Cậu biết rằng mỗi người trong gia tộc Tohno đều sở hữu dị năng khác nhau đúng không?@ Dường như Akiha có sở trường cưỡng đoạt nhiệt năng của vạn vật xung quanh.@ Ừ, nó đại loại là thế, tác động lên thế giới thực tại, một loại năng lực can thiệp ngoại giới."@
+`"[line=8]"@
+br
+` Hai mét.
+\
+`"Năng lực can thiệp ngoại giới dường như vô cùng hãn hữu dẫu dã là trong gia tộc Tohno.@ Có thể coi dị năng của Akiha là cực kỳ hiếm có.@ Vì tiềm năng của em ấy quá đỗi khổng lồ, nó tịnh không dễ thức tỉnh.@ Mỗi khi tôi cất công đánh thức nó, cảm giác chỉ như ném đá xuống lòng đại dương bao la.@
+` Cách hữu hiệu nhất để khai phá toàn bộ năng lực ấy chính là để kẻ khác đoạt xá tâm trí rồi thao túng em ấy."@
+`"[line=8]"@
+br
+` Ba mét.
+\
+`"Thôi, hãy tạm gạt chuyện của Akiha sang một bên đã.@ Lúc này, việc bàn về tôi mới quan trọng hơn."@
+`"[line=8]"@
+br
+` Bốn mét.
+\
+`"Shiki, tôi dẫu dã giống như lão già Makihisa; tịnh không có phương thức nào để can thiệp lên ngoại giới.@ Sức mạnh hấp huyết quỷ này tịnh không phải năng lực nguyên bản của tôi.@ Đây dẫu dã chỉ là một đặc ân được ban tặng sau này mà thôi.@ Dị năng chân chính của tôi là 'bất tử'."@
+`"[line=8]"@
+br
+` Năm mét.
+\
+`"Dẫu vậy, sự bất tử của tôi dẫu dã có giới hạn, bởi tôi tịnh không thể tự chữa lành vết thương của chính mình.@ Chẳng phải rất kỳ quặc khi dị năng này lại được gọi là bất tử sao?@"
+` Nhưng đúng là tôi tịnh không dễ chết chút nào.@ Cơ thể tôi sẽ tự biến đổi cấu trúc bên trong sao cho có thể sinh tồn dẫu ở trong bất kỳ trạng thái tồi tệ nào tại thời điểm đó.@
+` Con người sẽ chết khi họ mất đi phần lớn cơ thể, đúng không?@ Đó là vì con người cần có một 'dáng hình nhân loại' hoàn chỉnh cùng mọi bộ phận thiết yếu mới có thể sinh tồn.@ Nếu tịnh không tìm thấy vật thế chỗ cho bộ phận đã mất, họ sẽ vong mạng.@ Hay nói chính xác hơn dẫu dã là họ tịnh không cách nào tiếp tục duy trì sự sống."@
+`"[line=8]"@
+br
+` Sáu mét.
+\
+`"Nhưng trong trường hợp của tôi dẫu dã hoàn toàn ngược lại.@
+` Tôi tịnh không cần bù đắp các bộ phận đã mất.@ Thay vào đó, tôi dẫu dã tiếp tục sống dẫu có đứt lìa một cánh tay hay cạn sạch máu.@ Cơ thể tôi tự tái cấu trúc lục phủ ngũ tạng để có thể sinh tồn mà tịnh không cần phần cơ thể đã mất kia.@
+` Thấy chưa, cậu dẫu dã phải công nhận đây chính là 'bất tử' rồi chứ?@ Tôi dẫu dã sẽ tiếp tục sống ngay cả khi chỉ còn trơ trọi chiếc đầu.@ …… Dù vậy, tịnh không đời nào tôi lại muốn mình thảm hại đến mức đó đâu."
+\
+`"[line=8]"@
+` Bảy mét.@
+` …… Chỉ một bước nữa.@
+` Khi đó, tôi dẫu dã ở ngay trong tầm tay[line=4]
+\
+`"…… Cậu định cất lực kết liễu tôi sao?@
+` Mà thôi, điều tôi muốn nói dẫu dã là thế này.@ Dị năng của tôi tịnh không tác động lên ngoại giới, mà là hướng vào bên trong cơ thể.@
+` Cậu đã hiểu chưa?@ Dẫu cho đối với cậu, đó chỉ là phần máu rơi vãi vô dụng, nhưng đối với tôi[line=6]"@
+`"[line=8]...@
+br
+` Cơ hội đây rồi.@
+` Ngay lúc này, tôi sẽ[line=5]
+\
+rung chuyển 1,200 lần.
+monocro #ff0000
+bg "bg/bg_53b",notrans,0
+br
+br
+br
+br
+br
+` Phập.@
+` Bất thình lình, từ gót chân lên tận đỉnh đầu…
+` Tôi bị đâm xuyên bởi vô số huyết kiếm trồi lên từ nền đất lạnh.
+\
+bg "bg/ima_13",tshutter,400
+`"[line=5]Tôi dẫu dã có thể biến máu rơi vãi thành thứ vũ khí tối thượng như thế đấy.@
+` Cậu dẫu dã nên cẩn trọng hơn mới phải.@ Tịnh không đời nào tôi lại để máu mình đổ tràn lan một cách vô nghĩa như vậy đâu."@
+` …… Tôi… hiểu ra rồi.@
+` Bản thân tôi dẫu dã quá đỗi ngu ngốc.@
+` Đến một nơi mà chỉ có tôi và cái chết tồn tại.
+` để rồi tự mình dẫm đạp lên một núi kim gai sắc nhọn.
+\
+`"Tôi không có khả năng như cậu hoặc Akiha để gây hại trực tiếp cho người khác, nên tôi phải dựa vào những thủ thuật nhỏ như thế này.@"@
+` Nhưng nếu 'kẻ đó' đang cư ngụ trong tâm trí tôi dần hiển lộ rõ ràng hơn, biết đâu tôi dẫu dã có thể khai triển toàn bộ năng lực hấp huyết quỷ của hắn."
+\
+monocro off
+bg #000000,crossfade,800
+`"[line=5]Tôi đoán là cậu không còn giữ được bản thân nữa.@"@
+` Vậy thì kết thúc tại đây thôi.@ Cậu cứ việc nhắm mắt xuôi tay phó mặc phần còn lại cho tôi, rồi cút về nấm mồ của mình đi, Shiki[line=5]"
+\
+br
+` Tôi nghe thấy tiếng cười vang dội.@
+` Nó vang vọng bên tai dẫu cho thần trí tôi đang dần chìm sâu vào bóng tối vô tận[line=5]
+\
+playstop
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

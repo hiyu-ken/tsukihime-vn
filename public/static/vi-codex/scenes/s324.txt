@@ -1,0 +1,958 @@
+wavestop
+play "*3"
+bg "bg/bg_34c",lshutter,800
+` [line=3]Bữa tiệc rượu dẫu vậy vẫn tiếp tục.@`
+br
+` Tôi tịnh không rõ sự thể nổ ra thế nào, nhưng coi bộ "Buổi Tiệc Chào Đón Tohno Shiki" bấy giờ dẫu đã chầm chậm chầm chậm hóa thành một buổi tiệc nhậu thực sự.`
+\
+` Akiha coi bộ dẫu đã rất quen thuộc với việc uống rượu, em ấy cứ ngửa cổ uống cạn ly như thể đang uống nước lã vậy.@`
+` Kohaku-san lẳng lặng nhâm nhi uống cùng Akiha, vừa lẳng lặng chầm chậm rót thêm rượu đong đầy ly cho em ấy.@`
+` Chiêm ngưỡng gương mặt hai người bấy giờ dẫu vậy vẫn bình sinh như thường, tôi thầm đoán họ là kiểu người tuyệt đối tịnh không bao giờ để lộ vẻ say xỉn ra mặt.`
+\
+` …… Bất giác nhìn sang, Hisui bấy giờ đang ngồi co ro trên ghế sofa với gương mặt đờ đẫn chỉ sau độc một nhấp môi.`
+\
+`"…… Akiha thực sự sở hữu tửu lượng đáng kinh ngạc thật đấy."@`
+` Nhìn Akiha và Kohaku-san đang vui vẻ trò chuyện, tôi dũng cảm uống cạn ly nước tự thân.@`
+` Kì thực đó chỉ là nước lọc, bởi tôi chỉ nhấp môi độc một ngụm rượu nhỏ trong màn nâng ly chúc mừng ban nãy.@`
+` Tôi khẽ gắp một miếng cá hồi xông khói trên bàn nhấm nháp.@ Hương vị thực sự vô cùng tinh tế.@ Ở dinh thự Tohno này, ngay cả đồ nhắm dẫu vậy dẫu vậy dẫu cũng đều thuộc hàng thượng hạng.`
+\
+`"……………… Mmm."@`
+` Dẫu cho bấy giờ dẫu dẫu dã dấy lên hàng tá rắc rối đau đầu, nhưng phân cảnh hiện tại dẫu sao dẫu vậy vẫn vô cùng ấm cúng ngọt ngào.@`
+` Đàm đạo một cách thẳng thắn thì, cuộc trò chuyện giữa Akiha và Kohaku-san thực sự tịnh không có gì ngoài những chuyện tẻ nhạt vô vị.@ Tựa hồ như họ chỉ đang bàn luận xem mặt trời mọc ở hướng Đông và lặn ở hướng Tây vậy.@`
+` Dẫu là thế, chiêm ngưỡng họ cười nói vui vẻ trước những chủ đề nhạt nhẽo nhường ấy dẫu vậy lại mang một sức hút ngọt ngào kỳ lạ.`
+\
+ld c,"tachi/his_t11",lshutter,800
+`"... ..."@
+` Trái lại, Hisui bấy giờ dẫu vậy đang khẽ nâng chiếc ly thủy tinh dùng lúc nâng ly ban nãy, ánh mắt lơ đãng hướng nhìn vô định.@`
+` Mỗi khi tôi lãng tránh ánh mắt khỏi Hisui, chiếc ly dẫu vậy dẫu dẫu lại chầm chậm vơi đi đôi chút.@ …… Xem chừng em ấy dẫu sao dẫu cũng đang tự tìm kiếm niềm vui cho riêng mình thì phải.`
+\
+cl c,lshutter,400
+` Tôi lén gắp thêm một miếng đồ ăn nhét vào miệng.@`
+` Bản thân vốn dĩ cực kỳ yếu khoản cồn, nên tôi ưu tiên tập trung xử lý đống đồ ăn nhẹ trên bàn hơn.@`
+` …… Và.@
+`"……?"@
+` Điều gì đã xảy ra?@
+` Akiha bỗng đứng dậy rồi lẳng lặng cất bước tiến về phía tôi.`
+\
+ld c,"tachi/aki_t21b",lshutter,400
+`"Anh Shiki.@ Nãy giờ anh chỉ lo ăn thôi, tịnh không tính uống chút rượu nào sao?"@`
+` Akiha nhìn tôi với vẻ mặt có chút tịnh không hài lòng.`
+\
+`"…… Kìa em, anh tịnh không bận tâm nếu em muốn uống say, nhưng em tịnh không nên ép người khác phải uống theo nhịp độ của tự thân chứ.@ Anh vốn dĩ tịnh không quen uống nhiều rượu, nên nếu em muốn tìm bạn nhậu thì Kohaku-san dẫu sao dẫu vậy[line=5]"`
+` Tôi cố chỉ về phía Kohaku-san, nhưng...
+` Cô ấy không có ở đây. Có vẻ như cô ấy đi lấy thêm rượu từ bếp.
+\
+ld c,"tachi/aki_t11b",crossfade,400
+`"Ôi chao, cho em xin kiếu nhé!@ Em bấy giờ dẫu vậy tịnh không hề say một chút nào cả đâu."@`
+` Khẽ nâng ly rượu bằng một tay, Akiha liền nhoài người về phía trước.@`
+`"…… Ra thế.@ Vì Kohaku-san bấy giờ tịnh không có ở đây nên……"@`
+` Tôi nghĩ cô ấy đang trêu chọc tôi vì cô ấy không có ai để nói chuyện.
+\
+ld c,"tachi/aki_t21b",crossfade,400
+`"Chị Kohaku tịnh không liên quan gì tới chuyện này cả.@ Chúng ta bấy giờ đang đàm đạo về nguyên cớ vì sao anh Shiki tịnh không chịu uống rượu cơ mà."@`
+`"…… Thì, anh vẫn đang uống đấy thôi…."@`
+`"Anh xạo ngôn rồi.@ Em dẫu dẫu dã rót cho anh chén nào đâu cơ chứ.@`
+` Em uống rượu độc nhất là để anh có thể thả lỏng tâm trí tự thân, vậy mà nãy giờ anh dẫu vậy chỉ lo cặm cụi xử lý đống đồ ăn chị Kohaku làm.@ Anh chưa uống cạn nổi một ly nào đúng tịnh không?"@`
+` Akiha nhíu mày.@
+` Có phải chỉ tôi hay bước đi của cô ấy hơi lắc lư?
+\
+`"Akiha này, anh mạo muội hỏi một câu, em thực sự say rồi đúng tịnh không?"@`
+`"Anh chớ có buông lời ngớ ngẩn.@ Em tịnh không hề say chút nào cả.@ Anh dẫu sao dẫu dẫu dẫu sẽ lăn ra say khướt trước em cả vạn năm đấy."@`
+`"…… Em say mèm thật rồi."@`
+ld c,"tachi/aki_t11b",crossfade,400
+`"Mau mau uống cạn ly của anh đi chứ.@ Sau khi anh uống xong, em dẫu sao dẫu dẫu mới chịu lẳng lặng lắng nghe bất cứ điều gì anh muốn giãi bày."@`
+` Cô ta chỉ vào ly của tôi một cách ra lệnh.@
+` Tuy nhiên, ngón tay cô ta run rẩy không ngừng.
+\
+`"…… Akiha này, anh dẫu dẫu dã bảo rồi mà, em say thực sự rồi đấy."@`
+ld c,"tachi/aki_t07b",crossfade,400
+`"Trời đất ơi[line=4]!@ Anh Shiki thực sự vô cùng ngang bướng dai dẳng quá chừng.@ Em dẫu đã bảo là mình tịnh không say cơ mà!"@`
+cl c,lshutter,400
+` Akiha la lên rồi bước đi lảo đảo chệnh choạng.@`
+` Tiếng nói của cô ấy khiến cô ấy choáng váng, vậy phần nào trong đó không phải là say xỉn?
+`"…… Thôi được rồi.@ Em ngồi xuống đây đi, hai anh em mình đàm đạo chút chuyện dẫu vậy dẫu vậy dẫu cũng được."@`
+`"…… Ồ, được rồi. Ngồi xuống đi, chúng ta có thể trò chuyện một chút, tôi nghĩ thế."@
+` Tôi vuốt ve chiếc sofa bên cạnh mình.@
+ld c,"tachi/aki_t13b",lshutter,400
+`"A…… vâng, em sẽ ngồi."@`
+cl c,lshutter,400
+` Akiha khẽ khàng ngồi xuống chiếc ghế sofa bên cạnh tôi.`
+\
+` Chẳng rõ vẻ nghiêm khắc hống hách thường ngày của em dẫu dẫu đã tịch mịch biến đi đâu mất, em bấy giờ dẫu vậy chỉ lẳng lặng ngoan ngoãn ngồi nép bên tôi.@`
+`"………………………………"@
+`"………………………………"@
+` Tôi bỗng dưng cảm thấy không thoải mái vì một lý do nào đó.@
+`"... Ừm."@
+` Tôi đành buông tiếng thở dài nhấc ly rượu lên.@`
+` Khẽ nhấp một ngụm nhỏ.@`
+` Hương vị cay nồng xa lạ của men rượu rực cháy xộc thẳng vào cổ họng buốt nhói; vị của nó thực sự chịu chết tịnh không hề dễ chịu chút nào.@`
+` Tôi cảm giác như mặt đất dưới chân đang chao đảo sụt xuống, hệt như mỗi lần bản thân váng đầu dữ dội vì chứng thiếu máu vậy.`
+\
+`"…………… Check."@`
+` Tuy vậy, tôi chịu chết dẫu vậy tịnh không thể nói rằng cảm giác này là tồi tệ.@`
+` Tôi cũng nên kết thúc nó đi, vậy nên tôi uống hết phần còn lại.
+\
+ld c,"tachi/aki_t18b",lshutter,400
+`"…… Anh làm em bất ngờ đấy.@ Trước đây dẫu có giãi bày thế nào đi nữa, dẫu vậy coi bộ anh dẫu sao lại khá thích rượu bia đấy chứ, anh Shiki."@`
+`"Đâu có đâu.@ Anh tịnh không phải kiểu người đam mê cồn cào gì đâu."@`
+`"Trông tịnh không giống thế chút nào cả.@ Nhìn anh Shiki uống rượu rõ ràng là vô cùng rạng rỡ tươi vui cơ mà."@`
+cl c,lshutter,400
+` Akiha nghiêng người và lấy một chai từ bàn.@
+ld c,"tachi/aki_t04b",lshutter,400
+`"Em sẽ pha loãng nó ra chút nhé, hay anh dẫu dẫu dã có lựa chọn ưa thích nào khác rồi?"@`
+` Akiha thản nhiên rót thêm rượu Whiskey vào ly của tôi tịnh không thèm gặng hỏi.@`
+` Lương tâm tự nhắc nhở bản thân bắt buộc phải ngăn con bé lại.@`
+` Nhưng chiêm ngưỡng gương mặt rạng rỡ của em bấy giờ, tôi liền quăng phăng đống lương tâm rắc rối ấy ra sau đầu.`
+\
+`"…… Làm ơn pha loãng thật nhiều giùm anh nhé.@ Nếu tịnh không, anh chịu chết tịnh không nuốt trôi nổi đâu."@`
+`"Cứ theo ý anh vậy.@ Thế thì, tụi mình cùng bắt đầu chứ?"@`
+` Akiha vui vẻ đổ đầy cốc cho tôi.@
+`"…… Trời đất ơi, ngay cả khi ngồi nhậu cùng Arihiko anh dẫu vậy dẫu vậy dẫu cũng tịnh không bao giờ uống nhiều nhường này đâu."@`
+` Tôi tựa vào ghế sofa. Tôi uống từng ngụm từ cốc với cổ nghiêng lại sau đến mức có thể nhìn thấy trần nhà.@
+` Tôi nhấm nháp thứ mà Akiha rót cho tôi chậm rãi, không rời khỏi miệng khỏi cốc.
+\
+`"#[line=3]Phù.@ Nào, em dẫu dẫu đã thỏa lòng chưa hả, cô công chúa bướng bỉnh?"@`
+` Tôi đặt cốc trống lên bàn.@
+ld c,"tachi/aki_t08b",crossfade,400
+`"Phong thái uống rượu phải thế chứ.@ Dẫu cho em buộc phải trừ điểm vì anh uống hơi chậm, dẫu vậy thế này dẫu sao dẫu vậy dẫu vẫn đạt mức qua môn rồi."@`
+`"Em nghiêm khắc quá chừng.@ Đó dẫu dẫu dã là kỷ lục vô tiền khoáng hậu tự thân của anh rồi đấy nhé.@ Cũng tại em cứ nài nỉ bắt uống nên anh mới phải cắn răng gồng mình gắng gượng nhường này đấy chứ."@`
+`"Thế sao ạ?@ Quả thực vô cùng hiếm hoi khi thấy anh chịu kề cạnh tiếp rượu em nhường này đấy, anh Shiki."@`
+cl c,lshutter,400
+` Cô cười khẽ.@
+` Đổ thêm cốc cho mình, cô uống sạch một hơi.
+\
+` [line=5]Trái tim tôi đập thình thịch khi nhìn thấy vẻ mặt của cô.@
+br
+` Lồng ngực tôi bỗng đập thình thịch dữ dội khi chiêm ngưỡng gương mặt em lúc này.@`
+` Cô ấy nhắm mắt và nghiêng đầu về sau.@
+` Khi nâng ly uống rượu, gương mặt em trông thực sự vô cùng chín chắn và quyến rũ.@`
+` [line=5]Em nhẹ nhàng khép hờ hàng mi mắt rồi khẽ ngửa đầu ra sau.@`
+` Chiêm ngưỡng chiếc cổ trắng ngần mảnh mai của em voluptuously nuốt trôi từng ngụm rượu nóng rực, đầu óc tôi bỗng chốc quên béng mất cả cảm giác say xỉn.`
+` ... Cô ấy thì thầm dưới hơi thở rằng nó rất ngon.
+\
+`"……"@
+ld c,"tachi/aki_t08b",lshutter,400
+`"?@ Có chuyện gì thế anh Shiki.@ Mặt em dính nhọ gì sao?"@`
+`"A[line=4]tịnh không, tịnh không có gì đâu."@`
+` Không cần suy nghĩ, tôi cầm lấy ly của mình.@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Thêm một ly nữa nhé?@ Lần này, tụi mình dẫu sao dẫu sẽ dùng loại mạnh đô hơn chút."@`
+` Akiha vui vẻ đong đầy thêm hai ly rượu nữa.@`
+` …… Bản thân kì thực tịnh không hề muốn uống thêm ly nào nữa, dẫu vậy thiết nghĩ uống thêm chén nữa chắc dẫu sao dẫu dẫu cũng tịnh không hề gì.`
+\
+cl c,lshutter,400
+`"…………………… Mmm."@
+` Cố bắt chước điệu bộ của Akiha, tôi ngửa cổ uống cạn sạch ly rượu chỉ trong một hơi thở.@`
+` Lượng cồn dẫu tịnh không quá nhiều, dẫu vậy lẽ ra tôi tuyệt đối tịnh không được phép nuốt nhanh nhường ấy.@`
+` Đầu óc tôi lập tức quay cuồng điên đảo, cả thể xác đổ gục xuống chiếc ghế sofa.`
+\
+`"Anh Shiki[line=3]?@ Anh, anh có làm sao tịnh không thế này……!?"@`
+`"Anh... anh tịnh không sao đâu.@ Chỉ là hơi váng đầu chóng mặt chút thôi chứ tịnh không hề say đâu nhé.@ Để anh nằm nghỉ ngơi một lát.@ Em cứ tự nhiên vui vẻ tiếp đi."@`
+` Nằm lại trên sofa, em nhìn trần nhà một cách mơ màng.@
+` Mặc dù cảm thấy kiệt sức hoàn toàn, nhưng em lại thấy vô cùng dễ chịu.
+\
+`"…… Em sám hối nhiều lắm.@ Em... dẫu dẫu dã ép anh Shiki uống quá nhiều rồi."@`
+` Giọng nói Akiha bỗng chốc đượm vẻ u uất sám hối khôn nguôi.@`
+`"Không đâu mà, dẫu biết là hơi quá chén thật, dẫu vậy cảm giác này thực sự vô cùng dễ chịu.@ Anh uống độc nhất vì chiêm ngưỡng em uống trông ngon lành quá chừng đấy chứ.@ Hệ quả thế này dẫu sao dẫu vậy dẫu vẫn rất tốt đẹp mà.@`
+` Thế nên em cứ tự nhiên tiếp tục uống đi nhé.@ Chờ anh ổn định thần trí lại chút dẫu sao dẫu sẽ lại nâng ly tiếp chuyện cùng em."@`
+`"#[line=3]Dạ vâng.@ Nếu anh dẫu dã giãi bày như thế, em dẫu sao dẫu sẽ đứng đây lẳng lặng đợi anh bình phục."@`
+` Tôi nghe thấy âm thanh của thứ gì đó đang đổ.@
+` Như mong đợi, cô ấy rót thêm một ly và uống nó.
+\
+`"... Kỳ lạ. Đây không phải là điều gì to tát, nhưng... tôi cảm thấy vô cùng thư giãn ở đây."@
+`"[line=3]…………………………………………………………………………………………………………………… Khỏe khoắn lại rồi!"@`
+\
+`"Hít một hơi sâu, tôi đứng dậy khỏi chiếc sofa.@
+` "Anh trai? Anh có cảm thấy tốt hơn chưa?"
+\
+ld c,"tachi/aki_t01b",lshutter,400
+`"Anh Shiki?@ Anh dẫu cảm thấy khỏe hơn chưa ạ?"@`
+`"Anh khỏe rồi.@ Anh dẫu sao dẫu sẽ tiếp tục kề cạnh tiếp rượu em thêm chút nữa."@`
+` Tôi khẽ đưa ly rượu tự thân về phía em.@`
+` Nụ cười trên môi cô ấy khi đổ cho tôi một ly khác. Lần này, tôi quyết định uống với tốc độ của chính mình.
+\
+cl c,crossfade,400
+` ... Thời gian trôi qua.@
+` Hisui đã ngủ gật trên sofa.@
+` Kohaku-san chưa bao giờ quay lại từ bếp.@
+` Bấy giờ chỉ độc còn tôi và Akiha dẫu vậy vẫn còn tỉnh táo chuyện trò, dẫu vậy bản thân tôi dẫu dẫu dã say bí tỉ lắm rồi, nên chịu chết tịnh không dám tự nhận là mình còn tỉnh táo di chuyển nổi nữa.@`
+` Nhưng dù sao, tôi muốn ở lại bên Akiha cho đến khi Kohaku-san trở lại.
+\
+ld c,"tachi/aki_t26",lshutter,400
+`"…… Anh Shiki.@ Hôm nay anh thực sự vô cùng ôn hòa ngọt ngào đấy."@`
+` Akiha bất chợt thốt lên những lời thỏ thẻ khẽ khàng nhường ấy.@`
+`"[line=5]Đúng vậy. Thông thường, anh rất lạnh lùng. Hành động tử tế như thế này rất hiếm thấy, phải không?"@
+`"Vâng ạ.@ Bình sinh anh Shiki dẫu dẫu dã luôn là một người vô cùng lạnh lùng băng giá rồi.@ Việc anh hành xử dịu dàng ngọt ngào nhường này thực sự cực kỳ hiếm hoi đúng tịnh không ạ?"@`
+`"……………… Thế sao?@ Anh dẫu dẫu cũng tịnh không tự rõ nữa, dẫu vậy chắc anh là kiểu người lạnh lùng thật."`
+\
+`"…… Ôi chao, anh Shiki quả thực chịu chết tịnh không tự thấu hiểu bản ngã tự thân chút nào cả.@ Anh vốn là một người vô cùng ôn hòa ngọt ngào, dẫu vậy đồng thời dẫu dẫu dã luôn cực kỳ lạnh lùng tàn nhẫn.@`
+` …… Bởi lẽ anh tuyệt đối tịnh không hề có sự phân biệt đối xử giữa người với người.@ Anh tịnh không có bất kỳ ai để yêu thương trân quý nhất trong lòng cả, dẫu cho có căm ghét hay yêu mến họ đi chăng nữa.@ Anh Shiki dẫu vậy dẫu vậy chỉ lẳng lặng yêu thương và dung thứ sám hối cho tất thảy mọi sinh linh."`
+\
+`"…… Nhưng sự tình đó lại cực kỳ tàn nhẫn và tàn khốc đối với những tâm hồn luôn khao khát được xích lại kề cạnh bên anh nhất.@ Đối với anh, tất cả mọi người dẫu vậy dẫu vậy dẫu đều hệt như nhau mà thôi.@ Em, chị Kohaku, Hisui… tụi em dẫu sao dẫu dẫu cũng chỉ ngang hàng bình đẳng hệt như nhau trong tim anh.@`
+` Đó tuyệt đối tịnh không phải là sự ôn hòa tốt bụng.@ Hệt như một chú chó già tự thấu thấu triệt thời khắc lìa đời dẫu đã cận kề, anh dẫu vậy chỉ lẳng lặng tịnh không muốn lưu lại bất kỳ luyến tiếc vương vấn nào trên cõi đời này nữa.@`
+` …… Thuở xưa anh dẫu dẫu dã mang phong thái nhường ấy rồi, dẫu vậy bấy giờ, biết dùng từ ngữ thế nào cho phải nhỉ…… anh trông vô cùng nguy hiểm dật dờ, khiến tâm can em luôn dấy lên một cảm giác bất an khôn xiết."@`
+` Rũ rẽ, Akiha tiếp tục nói, gần như thể cô ấy đang suy nghĩ toan tính.@
+` Ly của cô ấy trống rỗng. Cô ấy không đổ đầy nó, và giọng nói yên lặng của cô ấy vang vọng trong không khí.
+\
+`"…… Này anh.@ Em dẫu chỉ lẳng lặng nghĩ rằng anh Shiki bấy giờ có lẽ đang vô cùng cô độc lẻ loi cô tịch… Bản ngã em cứ bận lòng suy tư những sự tình ngớ ngẩn nhường ấy đấy.@`
+` Tuyệt đối tịnh không có bất kỳ một bóng hình trân quý độc nhất nào ngự trị trong sâu thẳm tim anh cả.@ Có lẽ anh dẫu dẫu dã lỡ đánh mất người con gái trân quý ấy từ thuở nào xa xôi rồi.@`
+` Trước đây, tôi nghĩ rằng nếu bạn chỉ thích tôi, điều đó cũng ổn rồi. Ít nhất không có ai bạn thích hơn, nên điều đó cũng đủ tốt.@
+` ... Nhưng giờ đây, [line=4]
+\
+cl c,lshutter,400
+ld c,"tachi/koha_t02b",lshutter,400
+`"Xin lỗi vì dẫu dã bắt mọi người phải chờ đợi lâu ạ!@ Có thêm đồ ăn nóng sốt và danh tửu đây ạ!"@`
+` Với nụ cười, Kohaku-san quay lại.@
+cl c,lshutter,400
+ld c,"tachi/aki_t13b",lshutter,400
+`"À... "@
+` Akiha đột nhiên nuốt lời, và với một hơi thở dài, cô ấy rót thêm rượu cho chính mình.
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"Nào anh Shiki, làm ơn uống thêm chút nữa đi ạ.@ Bấy giờ chỉ độc còn mỗi mình em uống thế này tẻ nhạt lắm."@`
+` Cô ấy cầm chai mà Kohaku-san mang theo và đổ thêm rượu vào cốc của tôi.
+\
+`"Không đâu, anh xin kiếu thôi.@ Anh dẫu dã uống gấp đôi tửu lượng thường ngày rồi, nên làm ơn tha cho anh chén này nhé.@ Nếu cắn răng uống thêm ngụm nữa dẫu vậy chắc chắn thể xác anh dẫu sao dẫu sẽ đổ gục mất dạng luôn đấy."@`
+`"Anh giãi bày chuyện gì thế cơ chứ?@ Anh dẫu dã uống cạn nổi một chai nào đâu.@ Bấy giờ tuyên bố dẫu dã đủ rượu dẫu sao dẫu dẫu dã là quá sớm rồi đấy nhé.@ Chẳng phải anh dẫu dã hứa dẫu dẫu dã sẽ kề cạnh tiếp rượu em hay sao?"@`
+` "Đi thôi," cô ấy nói và đưa ly cho tôi.@
+` "Nhưng, tôi thực sự đã đến giới hạn của mình."
+\
+cl c,lshutter,400
+ld l,"tachi/koha_t02b",lshutter,400
+`"Kìa kìa, Akiha-sama.@ Người làm ơn phải thấu triệt sâu sắc rằng cậu Shiki tuyệt đối tịnh không sở hữu tửu lượng cự phách giống như người đâu ạ, Akiha-sama.@`
+` Cậu Shiki này, cậu dẫu sao dẫu vậy dẫu nên thẳng thừng từ chối đi kẻo gặp họa lớn đấy ạ.@ Akiha-sama vốn dĩ dẫu uống bao nhiêu đi chăng nữa dẫu vậy chịu chết tịnh không biết say là gì đâu, nên nếu cậu cứ nỗ lực kề cạnh tiếp rượu cho tới khi người thỏa lòng, cậu dẫu sao dẫu dẫu sẽ phải nhậu nhẹt tới tận sớm tinh mơ ngày mai đấy ạ."@`
+ld r,"tachi/aki_t07b",lshutter,400
+`"Kìa khoan đã, Kohaku!@ Em nói năng nhường ấy dẫu dẫu dã biến ta thành một kẻ nghiện ngập sâu rượu mất rồi còn gì!"@`
+` Với sự giận dữ, Akiha lại uống thêm một ngụm.
+\
+cl r,lshutter,400
+` Dù uống nhiều, dường như đây là ly đầu tiên của cô ấy.@
+` "...Dù Akiha nói gì, Kohaku-san có vẻ đúng."
+\
+`"…… Anh sám hối nhiều lắm Akiha.@ Lần này anh thực sự buộc phải xin kiếu rượu thôi.@ Em biết rõ bác sĩ tự thân nghiêm lệnh cấm anh tịnh không được đụng vào chất cồn quá nhiều mà đúng tịnh không?"@`
+ld r,"tachi/aki_t13b",lshutter,400
+` Akiha rơi vào sự im lặng đầy hối tiếc.@
+`"…… Đúng vậy……"@
+`"Đừng buồn quá. Tôi vẫn có thể ở bên bạn cho đến khi bạn hết uống. Thế nào cũng được chứ?"@
+`"………………"@
+` Cô gật đầu, nhưng không thực sự hài lòng.
+\
+ld l,"tachi/koha_t03b",crossfade,400
+`"Vậy thì, tôi sẽ rót đồ uống cho bạn, Akiha-sama. Xem này, Shiki-san vẫn ở đây, vậy mọi thứ có ổn không, Akiha-sama?"@
+ld r,"tachi/aki_t16b",crossfade,400
+`"Tôi nghĩ là…… chắc chắn việc anh trai ở bên tôi là điều hiếm hoi lắm. Tôi sẽ tha thứ lần này."@
+cl a,lshutter,400
+` Akiha giơ ly của mình ra cho Kohaku-san.@
+` Nụ cười nhẹ nhàng, Kohaku-san rót thêm thức uống cho Akiha, người bắt đầu nhấp từng ngụm từ từ.
+\
+bg #000000,lshutter,800
+playstop
+!w1000
+bg "bg/bg_34b",lshutter,800
+play "*1"
+` Đã khá muộn rồi.@
+` Hisui cuối cùng cũng tỉnh giấc và chúng tôi trò chuyện về những chuyện vô nghĩa.@
+` Trận nhậu nhẹt say sưa ấy dẫu đã kéo dài tới tận đêm muộn.@`
+` Hisui rốt cuộc dẫu dẫu dã tỉnh giấc và ba đứa tụi tôi lẳng lặng đàm đạo về những sự tình vặt vãnh tịnh không mấy quan trọng.@`
+` Chắc hẳn dẫu dã bị tác động mạnh mẽ của hơi men che mờ lý trí, đầu óc tôi bấy giờ chịu chết tịnh không cách nào nhớ nổi tụi tôi dẫu dã nói những gì nữa.@`
+` Có lẽ đó là lý do.@
+` Mặt khác, tôi nghĩ sẽ tốt nếu điều này tiếp diễn, nhưng mặt khác, tôi cũng muốn có chút thời gian cho riêng mình.
+\
+` Và đột nhiên.@
+ld c,"tachi/aki_t12b",lshutter,400
+`"…… Anh Shiki……?"@`
+` Akiha, với đôi mắt đầy lo lắng, nhìn lên tôi.
+\
+`"Chuyện gì vậy? Akiha, cậu có sao không?"@
+`"Không đâu…… tịnh không phải chuyện đó đâu ạ.@ Chỉ là đột nhiên cõi lòng em dấy lên một nỗi bất an bất chợt mà thôi.@ …… Này, anh Shiki.@ Anh dẫu sao tuyệt đối tịnh không cất bước bỏ đi xa thêm lần nào nữa đúng tịnh không anh?"@`
+`"Không đâu.@ …… Anh chịu chết tịnh không biết kiếp sống tương lai dẫu sao dẫu dẫu sẽ ra sao, dẫu vậy anh dẫu đã quyết định trước mắt dẫu sao dẫu dẫu sẽ mãi ở lại chốn này rồi."@`
+` "... Ít nhất là cho đến khi tôi tốt nghiệp và cho đến khi Akiha có thể tự lo được."@
+br
+ld c,"tachi/aki_t11b",crossfade,400
+` [line=3]Nhưng...@
+` Điều đó có nghĩa là tôi sẽ rời đi vào một lúc nào đó.
+\
+`"Thôi đi, em tịnh không muốn lắng nghe những lời lẽ sám hối xui xẻo ấy đâu.@ Đây vốn dĩ là nhà tự thân của anh, nên dẫu cho có bất kỳ sự sự tình gì nổ ra đi nữa, việc anh sinh sống tại chốn này dẫu sao dẫu vậy dẫu vẫn là điều tốt đẹp nhất đúng tịnh không ạ?"@`
+cl c,crossfade,400
+` Sau khi nói vậy, cô ta hạ cốc xuống.@
+` Một cảnh tượng đáng kinh ngạc.@
+` Hệt như muốn nuốt trọn hết thảy đống bất an u uất ngự trị trong sâu thẳm tâm can, em cắn răng uống cạn sạch ly rượu vang tự thân.@`
+` Rút ra, rút ra.@
+` Má cô ấy hơi ửng đỏ, cho thấy cô ấy đã có chút men.
+\
+ld c,"tachi/aki_t26",crossfade,400
+` Akiha thở dài.@
+`"…… Cớ sao anh dẫu vậy lại cứ lẳng lặng gieo rắc nỗi bất an khôn nguôi nhường ấy cho em thế hả, anh Shiki?"@`
+` Thần trí em bấy giờ chắc hẳn dẫu đã say khướt lắm rồi, đôi mắt đờ đẫn đăm đăm nhìn tôi vô định.@`
+br
+` [line=6]@
+` Khi thấy điều đó, trái tim tôi bỗng dưng đập nhanh hơn mà không có lý do nào.
+` "…… Cậu nghe thấy không? Nếu cậu ở đây, tôi ổn, nhưng cậu luôn, luôn……"
+\
+`"…… Anh có đang lắng nghe em nói tịnh không đấy?@ Chỉ cần anh Shiki chịu lẳng lặng ở lại chốn này dẫu sao dẫu vậy dẫu em dẫu dã thấy vô cùng mãn nguyện rồi, vậy mà anh lúc nào dẫu vậy dẫu dẫu cũng…………"@`
+` Má cô ấy ửng đỏ và đôi mắt như bị sương mờ.@
+` Tất cả điều này dường như rất quyến rũ.@
+` Sự tình này[line=4]chiêm ngưỡng em bấy giờ thực sự vô cùng khêu gợi quyến rũ khôn tả.`
+\
+br
+` Cô ấy là chị gái tôi, vậy mà tại sao……@
+` [line=4][Đoạn văn này mô tả một cảm giác mâu thuẫn và bối rối trước tình cảm bất thường với người chị gái.]
+\
+`"…………………… Aki, ha."@`
+`"…… A…… anh Shiki, em…… cảm thấy người mình... lạ lùng lắm……"@`
+` Cô ấy nói ngơ ngác, như thể mình là người khác.@
+` Nếu tình trạng này tiếp diễn, tôi sẽ [line=4]
+\
+cl c,lshutter,800
+ld c,"tachi/koha_t02b",lshutter,400
+`"Akiha-sama, ly rượu của người dẫu dã cạn sạch rồi ạ.@ Để tôi đi đong đầy rót thêm rượu cho người nhé?"@`
+`"Ah…… vâng, cảm ơn Kohaku."@
+` Kohaku-san rót cho cô ấy một ly khác, và cô ấy uống ngay lập tức.@
+cl c,lshutter,400
+br
+` [line=5]Và sau đó.@
+br
+ld c,"tachi/aki_t01b",lshutter,400
+` Bất ngờ, Akiha có vẻ rất nghiêm túc.@
+`"...Akiha?"@
+`"…… Ôi chao, thật quái đản làm sao…… em dẫu dã say rượu mất rồi."`
+\
+` Cô ấy xoa đầu bằng ngón tay.@
+`"Say? ...Đã say từ lâu rồi sao?"@
+`"Anh đang nói gì vậy? Tôi say, nên dĩ nhiên tôi sẽ không rõ ràng."@
+` Cô đặt cốc xuống bàn nhanh chóng.
+` Em ấy thốt ra những lời tự giễu nhường ấy,`
+` rồi cơ thể khẽ đổ gục chao đảo ngã nhào vào lồng ngực tôi.`
+`"K-Kìa Akiha……!?@ Em bấy giờ bấy giờ đang làm cái trò[line=4]"`
+` "Với điều đó,"
+` Cô ấy ngã về phía tôi.
+\
+`"[line=4]Ồ, Akiha...!? Cái gì vậy?"@
+` Đó là điều khá rõ ràng mà.@
+`"……… Chào."@
+` Không có phản hồi.@
+` Hơi thở của cô ấy cho tôi biết rằng cô ấy đang ngủ say.
+\
+ld c,"tachi/koha_t05b",lshutter,400
+`"Ơ kìa?@ Cảnh tượng này quả thực vô cùng hiếm hoi nha.@ Đã rất nhiều năm rồi tôi mới dẫu dẫu dã được mắt thấy tai nghe Akiha-sama say mèm nhường này đấy."@`
+` Kohaku mỉm cười khẽ.@
+`"...Kohaku, cậu muốn nói gì vậy?"
+\
+ld c,"tachi/koha_t02b",crossfade,400
+`"Dạ, Akiha-sama bình sinh vốn dĩ dẫu uống bao nhiêu đi chăng nữa dẫu vậy chịu chết tịnh không bao giờ say xỉn ạ.@ Tuy nhiên hễ lượng cồn dẫu đã vượt quá giới hạn cực đoan tự thân tự khắc men rượu dẫu sao dẫu vậy dẫu sẽ lập tức đánh gục và khiến người chìm sâu vào giấc ngủ mê mệt.@ Bởi vậy đối với Akiha-sama, việc say rượu dẫu sao dẫu vậy dẫu dẫu cũng đồng nghĩa với việc lẳng lặng đi ngủ mà thôi.@`
+` Tôi chịu chết tịnh không rõ đây dẫu sao là phúc hay họa nữa, dẫu vậy nếu Akiha-sama dẫu dã say rượu mà lại đại náo phá phách hệt như bao kẻ sâu rượu khác ngoài kia dẫu sao dẫu vậy dẫu chẳng phải cực kỳ đáng sợ hay sao?@ Cậu Shiki có thể hình dung ra thảm cảnh một Akiha-sama nổi cơn điên cuồng đại náo biệt phủ trông tàn khốc nhường nào tịnh không ạ?"@`
+cl c,lshutter,400
+br
+` ...Kohaku vẽ nên một hình ảnh tinh thần rất đáng sợ.@
+` Quyết định không trả lời, tôi nhìn mặt ngủ say của Akiha.
+\
+` [line=3]Bóng hình Akiha chầm chậm chìm sâu vào giấc ngủ say vô cùng mãn nguyện ngọt ngào.@`
+br
+` Toàn bộ cơ thể mềm mại của em bấy giờ dẫu vậy đang tựa hẳn vào lồng ngực tự thân của tôi.@`
+` Tôi có thể cảm nhận hơi thở và nhiệt độ cơ thể của cô ấy.@
+` ... Tôi nhớ lại cảm giác kỳ lạ mà tôi đã trải qua trước đó.@
+` Cô ấy chắc chắn đã say rượu, vì cô ấy trông như một người hoàn toàn khác.@
+` Tôi không thể phủ nhận rằng mình bị bối rối đến mức tối tăm.@
+` Khi cô ấy ngủ yên bình bên cạnh tôi, tôi cảm thấy choáng váng.
+\
+` Không nghi ngờ gì nữa, cô ấy rất xinh đẹp.@
+` Tôi không thể tin được rằng cô ấy là em gái tôi khi tôi gặp lại cô ấy sau tám năm.@
+` Nhưng điều đó chẳng có ý nghĩa gì.@
+` Tôi chỉ nghĩ rằng việc nhìn thấy cô ấy ngủ gật trên người tôi là một điều tốt.@
+` Không nghi ngờ gì, cô ấy là chị gái tôi.@
+` [line=4]Một trong những lý do tôi quay lại biệt thự là để bảo vệ Akiha.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Shiki-sama, nếu Akiha-sama ngủ như vậy, tôi nghĩ cô ấy có thể bị cảm."@
+`"[line=3][line=3]Ồ, đúng rồi. Mùa thu rồi, nên chúng ta không được chủ quan."@
+ld c,"tachi/his_t16",crossfade,800
+`"Tôi sẽ đưa Akiha-sama lên phòng của cô ấy."@
+cl c,lshutter,400
+` Hisui nâng Akiha lên vai và rời khỏi phòng.@
+` [line=3]Chỉ còn lại tôi và Kohaku-san.
+\
+ld c,"tachi/koha_t02b",lshutter,400
+`"Dạ, nếu Akiha-sama dẫu dã chìm vào giấc ngủ say nhường này dẫu sao dẫu vậy dẫu tụi mình dẫu dẫu cũng nên kết thúc bữa tiệc rượu tối nay tại đây thôi ạ.@ Việc thu dọn quét tước bãi chiến trường này người cứ lẳng lặng giao phó hết cho tôi lo, nên xin cậu Shiki cứ về phòng riêng nghỉ ngơi đi ạ."@`
+` Tôi gật đầu đồng ý.@
+` Thật ra tôi rất muốn giúp đỡ, nhưng tôi đã uống quá nhiều rồi.@
+` Nếu tôi cố gắng giúp trong tình trạng này, tôi chỉ sẽ trở thành gánh nặng thôi.
+\
+`"N... Xin lỗi, Kohaku-san. Hãy lo liệu nhé."@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Chỉ cần để tôi xử lý, được không? Chúc ngủ ngon, Shiki-san."
+\
+bg #000000,crossfade,800
+playstop
+!w1000
+bg "bg/bg_42c",lcartain,800
+` [line=4]Tôi khẽ cất bước cất bước ra phía khoảng sân rộng lớn của dinh thự để làn gió đêm chầm chậm thổi bay bớt hơi men rực cháy trong đầu.@`
+br
+` Gió mát mẻ thổi qua da nóng bừng của tôi, cảm giác dễ chịu quá.@
+bg #000000,notrans,0
+bg "bg/bg_42c",notrans,0
+`"#[line=3]Tệ thật.@ Lần này bản thân thực sự dẫu đã quá chén thật rồi."@`
+` Uống nhiều khiến tôi đau đầu và bắt đầu thấy choáng váng.@
+` ... Tôi có thể sẽ có những giấc mơ kinh hoàng đêm nay.@
+` Vậy thì đó chỉ là điều tôi phải đối mặt sau khi uống rượu.@
+` Akiha trông rất vui vẻ tối nay.@
+` Một hoặc hai giấc mơ kinh hoàng là giá nhỏ để đổi lấy điều này.
+\
+` Ngồi xuống ghế, tôi hít một hơi sâu.@
+br
+`"[line=7]Ừm."@
+br
+` Gió đêm thổi lên da thịt tôi.@
+` ... Chỉ có sự im lặng.@
+` Tất cả những ngôi nhà khác đều cách xa biệt thự Tohno.@
+` Khi làm điều này, tôi cảm thấy như đang ở trong một biệt thự giữa rừng, và gần như quên rằng tôi là một học sinh bình thường.
+\
+` Không gian trống rỗng, yếu ớt.@
+` Cảnh quan không âm thanh, tĩnh lặng.@
+` Một mảnh ký ức nhỏ về khu vườn.@
+br
+` Không ai có mặt ở đó.@
+` Không có cha để la mắng chúng tôi,
+!w750
+` Không ai để ràng buộc và khóa chúng tôi lại,
+!w750
+` Hay thậm chí là người nguyền rủa Tohno Shiki...
+!w750
+br
+` Từ lâu rồi, tất cả đều tan biến, suy giảm thành thứ vô giá trị.
+\
+`"[line=10]"@
+` Khi tôi mải mê suy nghĩ về những ý tưởng lang thang này, mi mắt tôi càng lúc càng nặng trĩu.@
+br
+bg #000000,crossfade,1500
+play "*8"
+br
+`"Cậu Shiki này, nếu cứ nằm dài ngủ ở chốn này dẫu sao dẫu vậy dẫu cậu dẫu sao dẫu dẫu sẽ bị cảm lạnh mất thôi."@`
+br
+` [line=3]Và...@
+` Tiếng nói ấy làm tôi tỉnh khỏi cơn buồn ngủ.
+\
+bg "bg/bg_42c",crossfade,800
+ld c,"tachi/koha_t12",lshutter,400
+`"…… Em vô cùng sám hối cậu Shiki ạ.@ Thiết nghĩ có lẽ lẽ ra đêm nay tôi tuyệt đối tịnh không nên mời cậu nâng ly chén rượu nào mới phải."@`
+` Kohaku-san nói với nụ cười quen thuộc, nhìn chằm chằm vào tôi.@
+` …… Có vẻ như Kohaku-san đã đoán ra lý do tôi đến đây để giải tỏa.
+\
+`"Tôi dẫu dẫu dã có phần hơi phấn khích quá đà mất rồi.@ Tịnh không hề để tâm tới thể trạng yếu ớt của cậu dẫu vậy dẫu dẫu cũng cắn răng bắt cậu Shiki phải gồng mình gắng gượng theo cùng.@ Sự tình vừa rồi thực sự vô cùng nhọc nhằn nhói lòng đối với cậu đúng tịnh không ạ?"@`
+` Kohaku-san xin lỗi và giữ khoảng cách.@
+` …… Điều này là sao?@ Cô ấy không giống Kohaku-san vui vẻ thường ngày.@
+` Quyết định uống rượu là của tôi, nên cô ấy không cần phải cảm thấy có lỗi về điều đó.
+\
+`"Ôi trời, điều này hoàn toàn không giống với Kohaku-san cả."@
+` Tôi nhìn về phía Kohaku-san, nhưng cô ấy vẫn giữ vẻ mặt ăn năn, nên tôi mệt mỏi nhìn vào rừng.
+\
+cl c,lshutter,400
+`"Không hề có một chút nhọc nhằn đau đớn nào đâu ạ.@ Chiêm ngưỡng Akiha vui vẻ hạnh phúc nhường ấy, cõi lòng em dẫu dẫu dã thấy vô cùng mãn nguyện rồi.@ Kohaku-san tịnh không cần phải bận lòng tự trách lo lắng thái quá nhường ấy đâu ạ."@`
+` Ngắm nghía vào rừng sâu, tôi cố gắng làm giọng mình trở nên dịu dàng nhất có thể.
+\
+` ...@
+` ...@
+` ...@
+` ...@
+br
+` Một sự im lặng ngắn ngủi kéo dài.@
+` Bất ngờ, như một con thỏ ló đầu ra từ bụi cây, Kohaku-san xuất hiện trước mắt.
+\
+bg "event/koha_e01a",crossfade,800
+`"Kohaku-san?"@
+`"À, vậy thì Shiki-san đã tỉnh rồi. Bạn đột nhiên im lặng quá, tôi nghĩ bạn đã ngủ thiếp đi."@
+` Cô ấy nói với giọng trách móc.@
+` Nghe có vẻ như cô ấy muốn nói rằng tôi không nên ngủ ở đây.
+\
+`"... Tôi ổn, Kohaku-san. Tôi đã tỉnh rồi, vậy nên đừng lo lắng. Sau khi tôi bình tĩnh lại, tôi sẽ quay về phòng của mình, vậy bạn có thể vào bên trong."@
+`"Dạ tịnh không chịu đâu ạ.@ Bản thân tôi bấy giờ dẫu dẫu dã dấy lên ý muốn được hóng gió mát đôi chút, nên tôi xin phép được kề cạnh bên cậu cho tới khi cậu Shiki nguôi ngoai hẳn nhé."@`
+` Với nụ cười quen thuộc, Kohaku nhìn ngắm những chiếc lá rụng trong rừng.
+\
+`"…… Vậy thì nếu cậu muốn, cũng không sao cả, Kohaku."@
+` Kohaku không trả lời, và cô ấy bước qua những chiếc lá, chúng rắc rắc dưới chân mỗi bước chân của cô.@
+` …………@
+` …………………...@
+` ………………………...@
+` …………………………………………@
+br
+` Im lặng lại một lần nữa.
+\
+`"…… Cảm ơn bạn, Kohaku-san. Ngày hôm nay thực sự rất vui."@
+`"…… Cảm ơn Kohaku-san nhé.@ Bữa tiệc rượu ngày hôm nay thực sự vô cùng vui vẻ và ngọt ngào."@`
+` Lòng tôi bấy giờ thực sự dấy lên sự cảm kích chân thành khôn tả.@`
+`"…… Có thể là vậy, nhưng nó thực sự rất vui. Thật ra, đó là lần đầu tiên chúng tôi làm một việc như thế này, và tôi cuối cùng cũng cảm thấy mình là một phần của gia đình."@
+br
+` …… Nó không giống như chúng tôi chưa từng làm những việc như vậy khi tôi ở tại Arimas. Chỉ có điều, khi tôi sống ở đó, tôi không bao giờ muốn trở thành phiền toái, và tôi không thể tập trung vào việc vui chơi như hôm nay.
+\
+`"Gia đình sao?"@`
+` Khẽ nghiêng góc đầu sang một bên, giọng nói thỏ thẻ khẽ khàng tự thân của chị vang lên giữa đêm muộn.@`
+` Trong độc một khoảnh khắc chớp mắt ngắn ngủi nhường ấy, tôi tưởng như Kohaku-san dẫu dẫu dã tự tay tháo bỏ chiếc mặt nạ tươi cười bất biến ngự trị trên gương mặt chị, dẫu vậy chỉ một tích tắc sau chị dẫu vậy dẫu đã lập tức chầm chậm chầm chậm chìm sâu trở lại vẻ bình sinh thường nhật của tự thân.`
+\
+`"Nhưng cậu Shiki này, chừng nào cậu dẫu dẫu vẫn còn nấn ná sinh sống tại căn biệt phủ lạnh lẽo này, cậu dẫu sao dẫu vậy dẫu tuyệt đối tịnh không bao giờ tìm thấy mái ấm gia đình ngọt ngào mà mình hằng dệt mộng tưởng tượng đâu ạ.@`
+` Tất thảy họ hàng thân thích dẫu dẫu dã luôn xua đuổi oán oán hận cậu sâu sắc, và đồng minh độc nhất vô nhị của cậu Shiki chốn này độc nhất dẫu dẫu cũng chỉ có mỗi mình Akiha-sama mà thôi.@`
+` Sự tình đó dẫu dẫu dã đồng nghĩa với việc kiếp sống sinh hoạt chốn này của cậu dẫu sao dẫu vậy dẫu chầm chậm chầm chậm chầm chậm chầm chậm chầm chầm chầm chầm chầm chầm sẽ hóa thành một thảm kịch vô cùng nhọc nhằn đớn đau tột cùng đấy ạ."@`
+` "Điều cô ấy nói là đúng."@
+` Tám năm trước, tôi đã trải qua một sự đối xử tồi tệ đến mức khiến tôi phải rời khỏi ngôi nhà này, nên điều tự nhiên là họ vẫn nghĩ xấu về tôi.
+\
+`"…… Này, tôi đã chuẩn bị cho điều đó rồi, nhưng thực ra cũng không quan trọng lắm. @ Akiha đã chịu đựng nó trong tám năm. @ Tôi là anh trai lớn của cô ấy, nên tôi chắc chắn có thể chấp nhận nó dễ dàng thôi."@
+` Những tám năm đó.@
+` Từ nhỏ, Akiha đã phải trải qua một nền giáo dục vô cùng nghiêm khắc.@
+` So với những người khác, việc họ không thích tôi cũng không quá đáng kể.
+\
+`"Tôi hiểu rồi.@ Akiha-sama thực sự may mắn khi có một anh trai trân trọng cô ấy như vậy."@
+`"Tôi không biết.@ Tôi không nghĩ mình là một anh trai tốt cho Akiha."@
+` Cô ấy vẫn mỉm cười, tiếp tục cười khúc khích.@
+` ... Nhìn cô ấy cười nhiều đến vậy khiến tôi cảm thấy hơi ngượng ngùng.
+\
+`"Nhưng dẫu sao dẫu vậy, sự tình đó quả thực vô cùng kỳ quặc.@ Cớ làm sao cậu Shiki lại chỉ lo bận lòng suy tư cho Akiha-sama mà tịnh không chịu nghĩ gì cho số phận của chính bản thân tự thân nhường ấy cơ chứ."@`
+`"[line=6]Ồ?"@
+`"Chính cậu Shiki dẫu dẫu dã phải trải qua một kiếp sống vô cùng bất hạnh đắng cay rồi.@ Bị trục xuất tước đoạt quyền thừa kế rồi tống khứ đi xa chốn heo lánh khuất dạng, chắc chắn anh dẫu dẫu dã phải gánh chịu tịnh không biết bao nhiêu nhọc nhằn tủi nhục khôn nguôi.@`
+` Để rồi khi vừa mới chầm chậm tìm thấy hơi ấm mái gia đình thực sự bên nhà Arima dẫu vậy dẫu dẫu lại phải dứt áo quay trở về chốn này.@`
+` Cậu dẫu vậy dẫu dã phải cắn răng từ bỏ một kiếp sống gia đình bình yên phù hợp nhất với bản ngã tự thân, chỉ độc vì một quyết định tùy tiện quái đản đầy bất công của gia tộc Tohno nhường này."`
+\
+`"……………………@
+` Tôi thậm chí không biết phải trả lời thế nào.@
+` Buổi sáng ba ngày trước. Tôi nhớ khuôn mặt của Keiko-san đứng ở cửa khi chúng tôi chia tay.@
+` Tôi không muốn thấy người luôn vững vàng ấy cười buồn như vậy.@
+` [line=3][line=3]Giống như Kohaku-san nói, tôi để lại một phần lớn bản thân gắn bó với họ khi tôi rời đi.
+\
+`"Cậu thấy chưa cậu Shiki.@ Đừng mở miệng giãi bày với tôi rằng bản thân cậu tuyệt đối tịnh không bao giờ suy tư về nỗi đắng cay tủi nhục nhơ nhuốc nhường ấy nhé?"@`
+`"[line=6]" @
+` "Không, đó là điều tôi không nên nghĩ về." @
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_42c",crossfade,400
+`"…… Kohaku-san…… cớ sao đột nhiên chị lại khơi gợi những sự tình nhói lòng nhường ấy vào lúc này cơ chứ[line=3]"`
+` "Tôi muốn hỏi cô ấy tại sao cô ấy lại đưa ra vấn đề này vào lúc này." @
+` Tôi muốn Kohaku-san, Akiha và Hisui nghĩ rằng tôi quay lại đây vì muốn.
+\
+`"Cậu Shiki."@`
+` Tôi nghe thấy giọng nói của cô ấy.@
+` Tôi không thể bỏ qua giọng nói đó, nên tôi nhìn lên.
+\
+bg "event/koha_e01b",crossfade,800
+`"Bản thân cậu dẫu sao dẫu dẫu dã thấu triệt sâu sắc chuyện đó rồi mà.@ Rằng đáng lẽ ra cậu dẫu sao dẫu dẫu dã có được một kiếp sống hạnh phúc ngọt ngào hơn nhiều nếu như cứ lẳng lặng nấn ná sinh sống bên mái nhà Arima ngày ấy."@`
+br
+` [line=4]Đó.@
+` Nhưng, tại sao cô ấy[line=3]?
+br
+`"Cớ sao chứ?@ Cớ làm sao cậu dẫu dẫu dã quyết định quay trở về chốn biệt phủ lạnh lẽo này, nơi mà độc độc chỉ có kiếp sống bất hạnh u uất ngập tràn đắng cay đang đứng lẳng lặng chờ chực cậu phía trước chứ?"@`
+br
+` [line=3][line=3][line=3]Cớ sao chị ấy dẫu dẫu dã thốt ra những lời buốt nhói dữ dội nhường ấy... bằng một gương mặt đầm đìa nước mắt khóc lóc nhường kia chứ`
+\
+`"... "@
+` Tôi không thể trả lời.@
+` Tôi chỉ nhìn chằm chằm vào Kohaku-san, như thể tôi đang trong một trạng thái ngây ngất nào đó.
+\
+bg "bg/bg_42c",lshutter,1500
+`"... Anh thật tàn nhẫn khi yêu cầu em nói về những chuyện khó khăn như vậy."@
+ld c,"tachi/koha_t03b",lshutter,400
+`"Tôi vô cùng sám hối ạ.@ Chắc hẳn là do bản thân tôi bấy giờ dẫu dẫu cũng dẫu đã say khướt rượu chè mất rồi.@ Tự dưng lại đi thốt ra những lời điên khùng ngớ ngẩn nhường ấy trước mặt cậu Shiki, trí não tôi bấy giờ coi bộ dẫu có vấn đề mất rồi."@`
+` Cô ấy đang mỉm cười.@
+` ... Nụ cười đó khiến nó dường như cô ấy không hề hỏi tôi một điều gì nghiêm túc.
+\
+`"... Kohaku-san. Về chuyện đó trước đây, có tự nhiên không khi tôi quay lại đây, về nhà của mình? Tôi không thể để Akiha một mình và cũng không thể gánh vác Arimas mãi được."@
+`"Vậy đó là lý do cậu quay lại, phải không?"@
+` Kohaku-san dường như hiểu rồi.@
+` [line=3]Nhưng, đó là một lời dối trá. Có một lý do khácmột điều quan trọng hơn Akiha.@
+` "[line=3]Shiki-san? Chuyện gì vậy?"
+\
+`"... Ồ, nó khác biệt, Kohaku-san. Thật ra, có một lý do quan trọng khác."@
+`"…… Kìa tịnh không phải đâu Kohaku-san, thực sự tịnh không phải vậy đâu.@ Kì thực dẫu dẫu dã có một nguyên cớ cực kỳ quan trọng khác."@`
+`"Thật thế sao ạ?@ Liệu sự tình đó dẫu dẫu có phải là một bí mật tịnh không thể bật mí không ạ?"@`
+`"…… Anh chịu chết tịnh không biết nữa.@ Đó tịnh không hẳn là một bí mật đen tối gì đâu, dẫu vậy đó dẫu dã luôn là một ký ức vô cùng thiêng liêng hệ trọng trong sâu thẳm tâm can anh, đến mức bản thân tuyệt đối tịnh không muốn tùy tiện hé môi chia sẻ cùng ai cả.@`
+` Anh dẫu dã mượn của một người một món đồ vô giá thuở cất bước ra đi khỏi biệt phủ năm xưa, nên bấy giờ anh bắt buộc phải quay trở về chốn này để trao trả tận tay cho người ấy mà thôi."@`
+ld c,"tachi/koha_t14",crossfade,400
+`"[line=10]"@
+` …… Nhưng dường như Hisui không nhớ ra điều đó.
+\
+` Tôi đứng dậy khỏi ghế.@
+`"Tôi đã bình tĩnh lại, nên tôi sẽ trở về phòng của mình."@
+` Giơ tay lên, tôi rời sân trong.@
+ld c,"tachi/koha_t13",crossfade,400
+` Kohaku-san chỉ nhìn tôi, ngạc nhiên.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_40c",lcartain,400
+` Tôi ngã xuống giường.@
+` Có lẽ là do rượu, tôi bắt đầu cảm thấy rất buồn ngủ.@
+`"……………………@
+` Có lẽ là vì tôi đã nói những lời đó với Kohaku-san.@
+` Tôi bắt đầu nghĩ về lời hứa mà tôi đã làm tám năm trước.
+\
+` [line=4]Mày tuyệt đối chịu chết tịnh không bao giờ được phép bén mảng quay trở lại căn biệt phủ này thêm một lần nào nữa.@`
+br
+` Thần trí tôi bấy giờ dẫu dẫu dã khắc ghi mồn một thời khắc định mệnh khi cha tự thân buông lời trục xuất cay đắng tàn nhẫn nhường ấy vào tai tôi, cùng tất thảy đống cảm xúc u uất giằng xé khi tôi lặng lẽ dọn đồ bước ra khỏi phòng riêng.@`
+` Khoảnh khắc tàn khốc ấy dẫu dã khiến tôi thấu triệt sâu sắc rằng bản thân từ nay dẫu sao dẫu dẫu sẽ phải lủi thủi lẻ loi đơn độc cô tịch một mình trên cõi đời này, y hệt như những tháng năm tăm tối trước khi gặp gỡ Sensei.`
+` Hành vi chịu chết tịnh không thể thực hiện nổi lời hứa thiêng liêng năm xưa cùng Sensei dẫu dã chầm chậm chầm chậm chầm chầm biến bản ngã tôi trở thành một cái xác rỗng tuếch hoàn toàn cô tịch tịch mịch bên trong.`
+` Vào chính thời khắc tăm tối lạnh lẽo định mệnh ấy, người con gái duy nhất tôi dẫu dẫu dã cất bước đàm đạo độc nhất một lần chốn biệt phủ này.@`
+` …… bóng hình em dẫu dẫu chính là sự cứu rỗi duy nhất xoa dịu tâm hồn tôi bấy giờ.`
+` Tôi không biết loại phép thuật nào ở trong những lời đó.
+\
+`"Nhớ trao trả lại cho em đấy nhé?" …… Chỉ độc mỗi câu thỏ thẻ dịu ngọt nhường ấy vang lên giữa không trung.@`
+br
+` Ấy thế mà đối với tôi thuở ấy, những lời ngọt ngào ấy dẫu vậy dẫu dã mang một ý nghĩa lớn lao khôn tả.`
+` [line=3]Tôi luôn nghĩ rằng những lời ấy rất quan trọng.@
+` …… Vậy mà dường như Hisui đã quên cô ấy từng nói điều đó.
+\
+`"…… Ôi chao, sự sự tình dẫu dã thế dẫu vậy cũng đành chịu vậy.@ Dẫu sao dẫu dẫu dã là lời hứa non trẻ thuở ấu thơ rồi cơ mà."@`
+` Thật đáng tiếc, nhưng cũng không thể thay đổi được.@
+` Tám năm là một khoảng thời gian dài.@
+` Thực ra, nhớ lại một lời hứa từ thuở ấu thơ kỳ lạ hơn là quên đi nó, tôi nghĩ vậy.@
+`"... Vậy thì, tôi nên ngủ đi."@
+` Hít một hơi sâu, tôi nhắm mắt lại.@
+br
+` [line=4]Tôi chìm vào giấc ngủ sâu.
+\
+bg #000000,crossfade,800
+!w4000
+wave se_01
+bg "bg/bg_40d",lshutter,400
+` [line=3]Cảm nhận được cái nóng và cơ thể tôi tỉnh lại.@
+br
+` Thiêu đốt cuồng điên.@ Cổ họng rực cháy nhói buốt.@ Máu tươi chầm chậm bốc hơi dữ dội.@`
+` Những vết thương từ việc nướng chắc chắn đang phủ đầy cơ thể tôi.
+\
+`"[line=5]"@
+` Tôi vẫn tiếp tục nướng.@
+` Tôi không thể suy nghĩ rõ ràng.@
+` Thiêu đốt điên cuồng.@`
+` Đang cháy rực.@
+` Tôi quyết định rời khỏi phòng.
+\
+play "*4"
+bg "bg/bg_33d",notrans,0
+!w1000
+bg "bg/bg_48d",notrans,0
+!w500
+bg "bg/bg_47",notrans,0
+bg "bg/bg_22c",notrans,0
+bg "bg/bg_25b",notrans,0
+br
+` [line=3]Đồng hồ chỉ quá nửa đêm.
+\
+` Chiếc đồng hồ treo tường lẳng lặng điểm quá nửa đêm muộn.`
+` Cơn rực cháy nhói buốt nơi huyết quản dẫu vậy tuyệt đối tịnh không hề nguôi ngoai.@`
+` /Hỗn loạn.`
+` Thịch, Thịch.@ Trái tim tôi bừng bừng nổ tung dữ dội.@`
+` /Dục vọng xác thịt.`
+` Tất thảy vạn vật xung quanh dường như dẫu dã cùng lúc cộng hưởng rung động điên cuồng theo nhịp đập tự thân.@`
+` /Hoang tưởng.`
+` Thiêu cháy dữ dội.@ Đỏ thắm sắc máu.@`
+` /Ống dẫn nhiên liệu.`
+` Bùng nổ cuồng điên.@ Không ngừng nhân bản sinh sôi.@`
+` /Đôi cánh đen của côn trùng.`
+` Cảm giác như thể đôi mi mắt tự thân bấy giờ dẫu vậy đang tự co bóp rung động mãnh liệt theo từng nhịp mạch đập,`
+` /Huyết dịch của dục vọng điên cuồng.`
+` chầm chậm đập thình thịch dữ dội liên hồi.`
+\
+bg #000000,crossfade,400
+bg "bg/bg_30b",crossfade,400
+` Tôi bước vào bóng tối.@
+` Trái tim tôi đang bùng nổ thúc đẩy tôi tiến về phía trước.@
+` Ngày càng nhiều hơn.@
+` Đập mạnh, đập mạnh,
+`      Tiếng đập ấy khiến sự tồn tại của tôi mờ nhạt so với nó.@
+` Tim tôi đập gấp đôi, đốt cháy cơ thể đơn độc của tôi bằng nhịp đập mãnh liệt.@
+` Bây giờ, lúc để thực hiện ước muốn của cô ấy...@
+br
+` Và sau đó,
+\
+bg #9c0120,crossfade,400
+bg #000000,crossfade,400
+!w1500
+bg "bg/ima_13b",notrans,0
+monocro #ff0000
+bg "bg/bg_31b",crossfade,400
+br
+br
+br
+br
+br
+br
+` [line=3]Rồi mọi thứ sẽ trở nên rõ ràng.
+`  Trước mặt tôi là những xác chết của người lạ.
+\
+`"[line=6]Một, hai, ba người..." @
+` Tôi đếm to. @
+` Tôi chỉ vào mỗi người bằng ngón trỏ đỏ của mình. @
+` Không. @
+` Cả hai bàn tay tôi dường như được sơn đỏ. @
+` Tất nhiên, không có sơn nào xung quanh tôi cả. @
+` Điều duy nhất ở đây là những sợi mì spaghetti bóc tách (với nước sốt thịt, tất nhiên) của ba xác chết. @
+` [line=3]Trên mặt đất, tôi nhìn thấy con dao của mình, khắc chữ "Nanatsu Yoru".
+\
+`"... Điều này có nghĩa là..."@
+br
+` Nó không cần suy nghĩ gì.@
+br
+`"... Tôi, đã làm điều này."@
+br
+` Tôi nhặt con dao lên.@
+br
+` ... Tôi không thể tin được, nhưng những việc đã qua thì đã qua.@
+` Bây giờ khi tôi nhận ra điều đó, cơ thể tôi từng cháy bỏng đã nguội đi.@
+` Bây giờ khi tôi hoàn thành xong, tôi nên quay trở lại biệt thự.
+\
+wave se_09
+`"[line=7]Có ai đó sắp đến."@
+` Một người đang bước xuống lối đi.@
+` Tốt thôi.@
+` Nơi này đã quá đông đúc với những sợi mì spaghetti, và giờ tôi phải làm thêm nước sốt thịt nữa.
+\
+` Bước chân ngày càng gần.@
+` Hình bóng tối dần trở nên rõ ràng hơn.@
+`"[line=6]"@
+` Tôi nắm chặt con dao.@
+` Bóng tối ấy len vào ngõ hẻm.
+\
+bg #000000,notrans,0
+monocro off
+bg "bg/ima_14",lcartain,400
+` Kích! Âm thanh kim loại va chạm vang lên.@
+br
+` [line=4]Tôi không thể tin được.@
+br
+` Không có dấu hiệu nào, bóng tối ấy hoàn toàn chặn đứng đòn tấn công của tôi.@
+` Đối thủ cũng dùng dao.@
+` Các đòn tấn công của chúng ta hủy diệt lẫn nhau, ngăn chặn những cú đánh chí mạng vào cổ họng.
+\
+playstop
+bg "bg/bg_31b",lshutter,400
+`"[line=5] Bất ngờ quá!"@
+` Giọng chúng ta hòa lẫn trong bóng tối.@
+` Chúng tôi cùng nhau giơ dao xuống vào cùng một lúc.@
+br
+`"Tôi không ngờ sẽ thấy giống loài của mình ở đây sau khi quay lại. Nó là lần đầu tiên tôi nhìn thấy một kẻ giết người."@
+br
+` Anh ấy cười khi nói điều đó.@
+` Một tiếng cười trong trắng, không có ý xấu. Nó giống như tiếng cười của một võ sĩ cuối cùng đã giảm cân và bước vào vòng đấu để đối mặt với đối thủ đáng sợ nhất trong đời anh ấy.@
+br
+` Có lẽ,
+` Tôi cũng có nụ cười tương tự trên môi.
+\
+`"[line=4]Heh."@
+` Anh ấy nhếch mép cười khi quay người lại.@
+` Chúng tôi bước ra đường chính.@
+br
+bg #000000,lcartain,400
+play "*1"
+bg "bg/bg_52",lcartain,400
+`"Nơi này trông khá tốt.@ Thật kỳ lạ khi hai người đàn ông trưởng thành lại đứng đây, phải không?"@
+` Tôi ngồi xuống vỉa hè.@
+` Như thể anh ta vừa nghĩ ra điều gì đó, anh ta tiếp tục đi... đến máy bán hàng tự động.
+\
+`"Này, cho tôi một ít tiền.@ Tôi không có."@
+` Tôi không thực sự giàu có lúc này, nhưng tôi trao cho anh ta đồng xu lớn nhất mà tôi có.@
+`"Tôi luôn muốn thử điều này."@
+` Anh ấy nói với giọng vui vẻ và mua hai lon cà phê.@
+`"Chụp lại."@
+`"Được rồi."@
+` Tôi nắm lấy sự thay đổi và mở một lon cà phê.@
+` Anh ấy ngồi bên cạnh tôi và uống một ngụm từ lon.@
+br
+` …… Vì lý do nào đó, tôi nghĩ đây là tất cả những gì tôi đã làm suốt cả ngày.
+\
+`"…… Ngán quá. Tôi không nghĩ thuốc lá và cà phê là sự kết hợp tốt lắm. Tôi tự hỏi tại sao người lớn lại uống những thứ này?"@
+`"Đó là cách rèn luyện sức chịu đựng. Việc trở thành người lớn thực sự rất vất vả."@
+`"Ồ, tôi hiểu rồi. Cậu rất thông minh."@
+` Anh ta cười khẩy, vui sướng.@
+` Tôi cũng uống một ngụm.@
+` ... Tôi không thể không đồng ý với anh ấy. Họ chắc chắn rất liều lĩnh, muốn uống thứ gì đó có vị như độc.
+\
+`"Này, dù sao đi nữa, cậu là một thằng thật đáng ghét. Làm sao cậu có thể đột ngột tấn công ai đó vào cổ như vậy?"@
+`"Cậu nói đúng rồi. Cậu cũng từng cố giết tôi."@
+`"Đúng thế ạ? Vậy thì việc đã làm, chúng ta đều còn sống, nên chúng ta cân bằng nhau."@
+br
+` ... Đúng vậy.@
+` Chúng tôi đều cố giết nhau, nên ngay cả khi một trong chúng tôi chết, chúng ta vẫn cân bằng nhau.@
+` Thật thú vị khi xem nó như một cuộc thi.
+\
+` Ngay cả khi anh ấy liên tục nói rằng nó ghê tởm, anh ấy vẫn vui vẻ uống cà phê.@
+`"... Dẫu sao đi nữa, nó cũng không tệ lắm sau khi bạn quen với nó.@ Cảm giác này giống như một buổi tụ họp của những chàng trai xấu bị xã hội ruồng bỏ."@
+` Anh ấy nói vậy, giết chết nụ cười trên môi.@
+`"Thật sao?@ Vậy thì cậu muốn hút thuốc không?"@
+` Chúng ta sẽ trông giống những chàng trai xấu hơn thế.
+\
+`"Ồ, tôi từ chối.@ Chúng làm tê liệt trí não.@ Nếu cậu muốn giữ sự trong trắng, cậu không nên dùng bất kỳ loại độc dược nào."@
+`"... Đó là lời của người đang uống cà phê."@
+`"Anh ở trong tình trạng gì vậy? Anh khá khắt khe cho một kẻ giết người. Con người ăn độc tố mỗi ngày, điều này có đúng là bình thường không? Anh cũng có khả năng chịu đựng một chút, phải không?"@
+` Anh ta cười to.@
+` Tôi cảm thấy giống hệt như vậy, nên tôi nhấp thêm một ngụm.
+\
+bg #000000,lshutter,800
+bg "bg/bg_52",lshutter,800
+` Tôi nói chuyện với anh ấy thêm một giờ.@
+` Chúng tôi rủ nhau nói về những điều vô nghĩa trong khi quan sát xe cộ đi qua.@
+` Có lẽ điều vô nghĩa nhất là sức mạnh đặc biệt của chúng ta.@
+` Đôi mắt tôi có thể nhìn thấy cái chết.@
+` Cơ thể anh ấy khó chết đến mức nào.@
+` Chúng tôi bắt đầu bằng việc thảo luận về các nguyên tắc của họ.@
+`"... Tôi hiểu rồi. Vậy có nghĩa là cậu có thể giết chết năm giác quan không?"@
+` Anh ta nói những điều vô nghĩa như vậy.
+\
+`"Tôi không thể làm điều đó. Tôi không thể giết một thứ mơ hồ đến mức cần một biểu hiện để được hiểu."@
+`"Không, không phải thế. Hãy nhìn này, nếu cậu muốn giết đi thị giác, hãy giết mắt. Thính giác, giết tai. Tôi có thể làm ít nhất là điều đó..."
+` Nhưng cậu khác biệt. Cậu có thể giết những thứ mà không cần nghiền nát chúng. Khi cậu nhìn thấy những đường nét đó, cậu có thể giết ngay lập tức. Không phải đối tượng, mà chính ý nghĩa của nó.@
+` Vì vậy, [line=4]một điều gì đó vượt ra ngoài năm giác quan, như giác quan thứ sáu... linh hồn và cảm xúc, cậu cũng nên có khả năng giết chết những thứ đó."
+\
+`"... Ừm."@
+` "Anh ấy có lý đấy."@
+` "Mắt tôi chính là một dị biến."@
+` "Sử dụng logic để hiểu chúng từ đầu là một sai lầm."@
+br
+` "Vậy thì tôi cũng có thể giết nó được sao?"@
+` Hình bóng mà tôi từng thấy khi còn nhỏ.@
+` Cái linh hồn ám ảnh mang tên Crimson Red Vermillion.
+\
+`"Nhưng, điều đó có vẻ khó khăn. Nếu tôi làm thế, tôi không biết mình có thể giữ được lý trí bao lâu."@
+`"Đúng vậy. Nó giống như cố tính toán bằng cách của một vị thần bằng tâm trí của con người. Chắc chắn bạn sẽ tự làm tổn thương bản thân."@
+` Anh ta nói điều đó khi bước lại gần máy bán hàng.
+\
+`"Này."@
+` Vẫn nhìn chằm chằm vào máy bán hàng, anh ta giơ tay sau lưng về phía tôi.@
+` Tôi ném cho anh một đồng xu, mà anh bắt được một cách khéo léo và dùng nó để mua thêm một lon cà phê.@
+` Sau khi uống thứ này, anh ta lại quay sang tôi.@
+!w750
+br
+`"Đã rất lâu rồi kể từ lần cuối cùng tôi trò chuyện với một người khác."@
+!w750
+br
+` Điều đó thật kỳ lạ.
+\
+`"... Điều đó thật kỳ quặc, liệu anh có bị mắc kẹt trên một hòn đảo nào đó không?"@
+`"Hừm? Tôi vẫn đang mắc kẹt trên hòn đảo này. Có vẻ như tôi đã mất liên lạc với xã hội. Họ nói rằng ai giết người mà không có lý do nào cả chỉ là kẻ điên."@
+` Thực sự thì không có cách nào để một người như tôi, người mất nhịp điệu, có thể trò chuyện với một người giữ nhịp điệu."
+\
+`"... Ừm. Vậy chúng ta đang mất nhịp điệu à?"@
+`"Đúng vậy. Không phải ai đó bị mất nhịp điệu. Những người bị xã hội đánh giá là mất nhịp điệu mới thực sự như vậy."@
+`"Thật sao? Có thể xã hội mới là người lạc điệu thay nhỉ?"@
+`"Chuyện gì vậy?"@
+`"Chính xác như tôi vừa nói. Anh không vừa nói điều đó à?"@
+` "Nó giống như đa số quyết định. Quan điểm của thiểu số không giống với đa số được coi là 'không hữu dụng' và bị từ chối."@
+` "Không quan trọng ai đúng ai sai. Nếu anh không hòa nhập, anh sẽ bị loại ra, dù anh đúng hay sai. Thuật ngữ 'lạc điệu' không tuân theo luật phổ quát."
+\
+`"[line=5]Heh, vậy anh muốn nói những kẻ giết người như chúng tôi không phải là kẻ xấu sao?"@
+`"... Ai biết được? Tôi không biết về điều tốt hay xấu. Nhưng nếu anh suy nghĩ logic, chúng tôi không phải là người lạc điệu."@
+` "... Hãy xem, ví dụ như sử dụng đấm bốc nhé? Không cần phải là đấm bốc, nhưng đó là một ví dụ dễ hiểu."
+\
+`"Đấu sĩ quyền anh, công việc của họ là đánh người. Nhưng không chỉ đơn giản là đánh người. Họ cắt cân một cách đau đớn và tập luyện mỗi ngày để có thể đánh người một cách thành thạo. Để đánh bại đối thủ hiệu quả, để chiến thắng một cách nhanh chóng. Họ miệt mài rèn luyện mỗi ngày, giống như mài sắc lưỡi dao."@
+` "Theo cậu nghĩ sao về điều đó?"@
+`"... Ồ. Có những người như vậy. Và?"
+\
+`"Không, chỉ có thế thôi. Họ chỉ đánh nhau, nhưng không giết đối thủ của mình."@
+` "Dĩ nhiên, một số người có thể chết vì tai nạn, nhưng điều đó không được xem là giết người. Thật đáng kinh ngạc phải không?"@
+br
+`"[line=3]Cậu nói là giết người cũng được à?"@
+br
+`"Không, không phải như vậy. Cậu không được giết người. Nhưng cậu có thể làm điều đó. Không phải là một mâu thuẫn lớn sao? Đó chưa phải là tất cả, vì nắm đấm của đấu sĩ quyền anh được xem là vũ khí, họ không được phép đánh nhau ngoài vòng đấu."
+\
+`"... Điều này thật đáng kinh ngạc. Họ biết rằng nắm đấm của đấu sĩ quyền anh là một vũ khí, vậy tại sao lại có một nghề nghiệp như thế này từ trước đến giờ? Nếu đó là một vũ khí có thể giết người, họ nên cấm nó."@
+` Làm hại người khác là sai, làm hại người khác là sai.@
+` Nhưng thế giới này đầy rẫy những công cụ để giết chóc. Ngay cả luật pháp cũng cho phép điều đó. Họ nói không nên giết người; điều đó chỉ có thể được xem là hỗn loạn. Nếu lý trí thông thường là điều được đa số người xem là tốt, thì chúng ta không lạc lõng.@
+` Nếu có điều gì đó không phù hợp với nhịp điệu, đó chính là thế giới này.
+\
+` ... Dẫu vậy, tôi không nhất thiết ghét võ thuật.@
+` Có rất nhiều nghề nghiệp khác nhau, nhưng không có nghề nào khác nơi bạn có thể bình thản về mục tiêu của mình.@
+` Bạn củng cố bản thân bằng cách cắt đứt mọi cám dỗ.@
+` Con người quan tâm đến sức mạnh mà họ dễ hiểu. Đó là lý do tại sao các cuộc thi đấu sẽ không bao giờ biến mất.@
+` Trong tất cả các cuộc thi đấu này, những cuộc thi đấu mà con người yêu thích nhất là nơi các thí sinh làm tổn thương lẫn nhau.
+\
+` Sự ngưỡng mộ đối với những người mạnh mẽ.@
+` Một tư duy chỉ có thể hướng đến sức mạnh.@
+` Có lẽ đó là một tâm trí rất lành mạnh.@
+` Khi như những chàng trai như anh ấy và tôi chỉ nghĩ về kết quả, màu sắc của chúng ta có thể tương đồng, nhưng hình dạng nên hoàn toàn khác biệt.
+\
+` Một điều mà bạn có thể tập trung vào và quên đi bản thân.@
+` Điều đó không trở thành ý chí tự do của một cá nhân.@
+` Những người thờ phụng giáo dục, những người tự thiêu trong nghệ thuật, những người tiến bộ trong kinh doanh.@
+` Nếu một cá nhân có thể quyết định như vậy, thế giới này sẽ là một câu đố rất thú vị có thể hiểu được.@
+` Nhưng câu đố này đầy những lỗ hổng.@
+` Các mảnh thiếu, và nhiều mảnh không khớp.
+\
+`"Tôi hiểu rồi.@ Cậu thích nói chuyện nhiều, phải không?@ Tôi từng có một người bạn như vậy.@
+` Làm thế nào để tôi nói điều này...  cậu ấy chẳng có gì cả, vì vậy cậu ấy trông giống như không muốn bất cứ điều gì.@
+` Đối với tôi, cậu ấy dường như rất cô lập.@ Cô lập chỉ là một cách khác để gọi sự cô đơn, phải không? Đó là lý do tại sao nó làm tôi bực mình."@
+`" ... Ừm.@ Không muốn bất cứ điều gì?@ Hay là cậu có điều gì đó muốn?"@
+`"... Tôi không biết.@ Tôi nghĩ tôi từng có, nhưng giờ tôi không thể nhớ ra được.@ Còn cậu thì sao?"
+\
+`"Mọi người đều muốn điều gì đó, nhưng tôi chưa tìm thấy điều gì đáng để mơ ước cả."@
+` [line=3]Một ngọn lửa bên trong tôi khiến tôi mất trí vào đêm nay có thể là lần đầu tiên tôi cảm nhận điều đó."@
+`"Hahaha. Đó có nghĩa là cậu cũng là một kẻ giết người."@
+`"... Tôi không biết. Tôi chưa thể chắc chắn. Còn với cậu, giết người có vui không?"@
+`"[line=4]Đừng ngu ngốc. Nếu giết người thật sự thú vị, tôi sẽ làm điều đó liên tục. Không có lý do nào cả. Một khi bắt đầu, bạn chỉ bị cuốn theo thôi."
+\
+` "... Tôi hiểu rồi."@
+` "Tôi nghĩ tôi hiểu một chút."@
+` "Nói cách khác, không phải là vấn đề thích hay không thích giết người. Mà là khi hắn giết ai đó, liệu hắn có thể cống hiến hoàn toàn cho hành động đó hay không."@
+br
+` "Đó có lẽ là sự khác biệt giữa hòa điệu và mất điều."
+\
+`"Này, cậu chưa bao giờ tháo rời một chiếc radio khi còn nhỏ à?"@
+`"Ray Dio...? Tôi chẳng bao giờ giết ai theo cách đó đâu."@
+`"[line=3] Đúng rồi, cảm ơn cậu vì là một kẻ ngốc. Thực ra, đó chỉ là đùa thôi. Vật thể sống và vật thể không sống hoàn toàn khác nhau. Có lẽ những người như chúng ta nên làm bác sĩ thay vì vậy."@
+`"Bác sĩ? Tôi ghét thuốc men. Khi tiêm chủng, cảm giác cơ thể tan chảy có phải là cậu cũng thấy thế sao? Nó giống như đang trở thành một con rối, phải không?"
+\
+` "... Có phải như vậy? Tôi có bác sĩ riêng nên uống thuốc chẳng khác gì không có việc gì."@
+` "À, thật thú vị làm sao."
+\
+`"[line=5] Thật tuyệt vời biết bao."@
+` Anh ta đứng dậy.@
+br
+` [line=4]Với đôi mắt trống rỗng, anh ta nhìn xuống tôi.@
+`"[line=3]Này. Chúng ta không cần hai người trong thị trấn này, phải không? Hai con sư tử trong một cái lồng nhỏ như vậy thậm chí còn không thể đánh dấu lãnh thổ của chính mình."@
+` Anh ta trông như thể đang chuẩn bị lấy con dao của mình.@
+` Mùi bất thường của máu và sự giết chóc.@
+` Anh ta thực sự muốn một cuộc chiến sinh tử.
+\
+`"Anh không nên."@
+` Tôi nói một cách tự nhiên.@
+`"Tại sao?"@
+`"Này, với tư cách một sinh vật sống, cậu mạnh hơn tôi, nhưng..."@
+br
+` [line=4]Nếu đó là một trận chiến đến chết, thì...@
+br
+`"Tôi vượt trội hơn cậu."
+\
+`"[line=6] [line=6]"@
+` Anh ta nghiến răng.@
+` Sau nụ cười run rẩy,
+`"Ha... ha... ha... hahaha..."@
+` Anh ta cười to một cách cực kỳ dữ dội.
+\
+`"Chuyện gì vậy?@ Anh ấy cười đến mức nào vậy?"@
+` "Hee hee hee, heeheehee." Người đàn ông tiếp tục cười.@
+` "... Rồi khi tôi nghĩ rằng tôi phải rời đi, anh ấy ngừng cười và nhìn tôi."@
+br
+`"[line=4]Anh đúng đấy, em biết mà."@
+br
+` Nói rồi, anh ta bắt đầu bước đi.
+\
+`"Tôi đoán đây là một cơ hội tốt.@ Bây giờ khi có ai đó như em ở đây, tôi nên rời khỏi thị trấn này."@
+`"... Em không thực sự định thay thế anh đâu."@
+`"Không, không, vô ích.@ Em đã bị mắc kẹt tối nay rồi, phải không?@ Ngày mai sẽ giống như vậy.@ Em sẽ không thể chịu đựng được, ngay cả trong một ngày."@
+` "Hy vọng chúng ta sẽ không gặp lại nhau nữa."@
+` Nâng tay, anh ấy biến mất.
+\
+`"[line=8]"@
+` Khi nghe tin rằng chúng ta sẽ không gặp lại, tôi cảm thấy một chút buồn.@
+` Dưới chân tôi, có khoảng mười lọ cà phê mà anh ấy đã uống.@
+` Tức là, anh ấy sẽ không bao giờ trả nợ cho tôi những thứ này.
+\
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_22c",lshutter,400
+!w1000
+bg "bg/bg_47",lshutter,400
+!w500
+bg "bg/bg_48d",lshutter,400
+bg "bg/bg_33d",lshutter,400
+bg "bg/bg_40d",lshutter,400
+` [line=4]Tôi trở về phòng của mình.@
+br
+` Đã gần bình minh.@
+` [line=4]Tôi nên chỉ quên đi mọi thứ và đi ngủ.
+\
+bg #000000,crossfade,800
+!w3000

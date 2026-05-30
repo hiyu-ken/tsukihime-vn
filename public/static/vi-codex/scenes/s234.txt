@@ -1,0 +1,388 @@
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]Tôi không thể làm điều nguy hiểm như vậy.@
+br
+` Nếu tôi bước vào con hẻm như thế, chẳng ai có thể đến giúp tôi được.@
+` Chỉ vì nghe thấy tiếng động lạ mà muốn bước vào đó thì đúng là đầu óc tôi có vấn đề rồi.@
+` Trời đã muộn rồi, tôi nên quay về biệt thự thôi.
+\
+bg #000000,lcartain,800
+play "*1"
+bg "bg/bg_48d",lcartain,800
+` Tôi trở về biệt thự mà không gặp bất kỳ ai trên đường.@
+` Hệ thống đèn xung quanh biệt thự đều đã tắt ngóm.@
+` Chẳng hiểu sao, tôi lại không nhận ra mình đã về muộn đến thế.@
+` Akiha[line=2]nhất định Akiha sẽ nổi trận lôi đình với tôi cho mà xem, tôi thầm nghĩ khi đặt tay lên cánh cổng gỗ nặng nề.
+\
+bg #000000,lshutter,400
+bg "bg/bg_33d",lshutter,400
+` …… Không có một bóng người ở sảnh lớn.@
+` Dù sao thì lúc này cũng đã rất muộn rồi.@
+` Có lẽ Akiha, Hisui và chị Kohaku đều đã chìm sâu vào giấc ngủ trong phòng của họ.@
+br
+`"…… Cuối cùng tôi vẫn chẳng thể tìm thấy em, Yumizuka-san."@
+` Nhưng tôi biết chắc chắn em ấy đang ở một nơi nào đó.@
+` Và rồi[line=4]nhất định ngày mai em ấy sẽ đến trường thôi.
+\
+bg #000000,tshutter,800
+bg "bg/bg_40d",bshutter,800
+` Tôi lặng lẽ bước về phòng để tránh làm thức giấc Akiha và mọi người.@
+` Đêm đã khuya rồi.@
+` Để chuẩn bị cho ngày mai, tôi phải nhanh chóng đi ngủ thôi.
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+[hình nền/bg_06g], r, aki, 03b, 3
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,800
+play "*2"
+` …… Tôi có cảm giác như thể đang nghe thấy ai đó gọi tên mình khi thức dậy.@
+br
+`"Ưm…………"@
+` Một chút hơi ấm dần quay trở lại cơ thể tôi.@
+` Tôi nhìn quanh với vẻ ngờ vực và bắt gặp một bóng người quen thuộc đang đứng bên cạnh giường.
+\
+`"Ồ[line=4]Hisui đấy à."@
+ld c,"tachi/his_t16",crossfade,400
+`"Vâng.@ Chào buổi sáng, thưa cậu Shiki."@
+` Hisui khẽ cúi đầu.@
+`"À, ừm[line=4]chào buổi sáng nhé, Hisui."@
+ld c,"tachi/his_t01",crossfade,400
+` Tôi vừa lóng ngóng ngồi dậy vừa đáp lời.@
+` Đây là phòng của tôi, và cũng giống như hôm qua, Hisui lại đến đánh thức tôi dậy.@
+`"Cảm ơn em.@ Tôi sẽ thay quần áo rồi ra phòng khách ngay, nên em cứ đi làm việc của mình trước đi nhé."@
+ld c,"tachi/his_t16",crossfade,800
+`"Vâng.@ Vậy em xin phép ra đợi cậu ở sảnh lớn."@
+cl c,crossfade,400
+` Hisui khẽ cúi đầu chào rồi bước về phía cửa phòng.
+\
+` *Cộc, cộc, cộc.*@
+` Tiếng bước chân của em ấy nghe có vẻ nặng nề hơn bình thường.@
+` Bước đến sát cửa, em ấy đột ngột quay người lại.
+\
+ld c,"tachi/his_t08",crossfade,400
+`"Thưa cậu Shiki, xin thứ lỗi cho em vì đã hỏi câu này.@ Tối qua cậu trở về lúc mấy giờ vậy ạ?"@
+br
+` [line=4]Chuyện ngày hôm qua.@
+` Nếu tôi nhớ không lầm, tôi đã ra ngoài để tìm kiếm Yumizuka-san rồi lủi thủi trở về sau khi không gặp được em ấy[line=4]
+br
+`"…… Tôi xin lỗi nhé.@ Tôi vô tình vướng chút chuyện nên mới về muộn thế…… Ừm, từ giờ tôi sẽ chú ý giờ giấc hơn, nên mong em bỏ qua cho tôi lần này nhé……"
+\
+ld c,"tachi/his_t01",crossfade,400
+`"…… Không đâu ạ, cậu Shiki không cần phải nói lời xin lỗi như thế đâu.@ Việc túc trực phục vụ theo giờ giấc sinh hoạt của chủ nhân vốn là bổn phận của người hầu chúng em rồi.@
+ld c,"tachi/his_t09",crossfade,400
+` Thế nhưng, em khẩn thiết mong cậu ít nhất hãy liên lạc báo trước cho chúng em.@ Dù trong hoàn cảnh nào đi nữa, cậu vẫn nên cho chúng em biết một tiếng chứ ạ."@
+`"[line=4]Em nói đúng rồi.@ Tôi xin lỗi nhé.@ Từ nay tôi sẽ giữ lời hứa."@
+`"Em đã rõ ạ.@ Vậy em xin phép cáo lui trước."
+\
+cl c,lshutter,800
+`"…… Lạ thật đấy.@ Trông Hisui có vẻ khá giận dữ."@
+` Lúc nào em ấy cũng trưng ra bộ mặt vô cảm, thế mà khi thực sự nổi giận thì đáng sợ thật.@
+` …… Cứ như thể tôi vừa mới làm chuyện gì tội lỗi tày trời lắm không bằng.@
+`"[line=4]Được rồi, đến lúc thức dậy thôi."@
+` Trút bỏ bộ đồ ngủ và khoác lên mình bộ đồng phục học sinh, tôi rảo bước về phía phòng khách.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Tôi thấy Akiha và Hisui đã ở sẵn đó.@
+` Chị Kohaku chắc là đang loay hoay chuẩn bị bữa sáng dưới bếp.
+\
+ld c,"tachi/aki_t01a",lshutter,800
+`"Chào buổi sáng, thưa anh."@
+` Đang ngồi trên ghế sofa, Akiha khẽ cất lời chào rồi chăm chú quan sát nét mặt tôi.@
+`"…… À, chào buổi sáng.@ Anh xin lỗi về chuyện tối qua nhé."@
+` Đáp lại lời chào của em ấy, tôi toan bước thẳng về phía phòng ăn.@
+` Quả thực tôi không có nhiều thời gian để nán lại trò chuyện với Akiha[line=2]và chính bản thân tôi lúc này cũng chẳng có tâm trạng nào để tiếp chuyện bất kỳ ai cả.
+\
+`"Thưa anh, em muốn nói chuyện nghiêm túc với anh một chút[line=2]có được không ạ?"@
+`"Nói chuyện với anh ư?@ Cũng được thôi."@
+` Tôi đành ngồi xuống chiếc ghế sofa đối diện với Akiha.@
+ld c,"tachi/aki_t02",crossfade,400
+`"Em xin phép đi thẳng vào vấn đề luôn nhé, tối qua anh đã đi đâu và làm gì thế ạ? Hisui nói với em rằng anh đã trở về nhà vào lúc đêm muộn.@
+` Thưa anh, anh vẫn nhớ rõ quy định giới nghiêm lúc tám giờ tối của gia đình chúng ta chứ ạ?"@
+` Akiha nhìn thẳng vào mắt tôi, nghiêm nghị chất vấn.
+\
+`"Anh xin lỗi vì đã vi phạm giờ giới nghiêm.@ Một người bạn cùng lớp của anh dường như đang gặp rắc rối lớn nên anh mới đi tìm em ấy…… Mà thực ra anh cũng chỉ đi loanh quanh bên ngoài thôi.@ Anh rất tiếc vì đã về trễ, nhưng chuyện cũng không có gì to tát đâu mà."@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Chỉ đi loanh quanh ngoài phố vào ban đêm CŨNG LÀ vấn đề lớn đấy ạ.@ Anh vẫn còn là người chưa thành niên, thế nên xin anh đừng có đi lang thang tùy tiện vào đêm muộn như thế.@ Cho dù không phải vậy đi nữa, tình hình trật tự gần đây cũng đang cực kỳ bất ổn."@
+`"…… Đúng là anh chưa thành niên thật, nhưng anh đâu có làm chuyện gì nguy hiểm đâu.@ Anh cũng chẳng hứng thú gì với rượu bia hay mấy thứ tệ nạn đó cả.@ Nên em cứ yên tâm đi.@
+` Dù gì anh cũng là con trai mà.@ Đi dạo trong thành phố ban đêm thì có gì nguy hiểm đâu chứ."
+\
+ld c,"tachi/aki_t02",crossfade,400
+`"Anh đang nói cái gì thế hả?@ Xin anh hãy nói những lời huênh hoang đó sau khi tự mình trải qua nổi một tuần mà không bị lên cơn thiếu máu đi đã.@
+` Em vốn chẳng muốn phải nhắc lại điều này đâu, nhưng xin anh đừng có mà bắt cơ thể mình phải làm việc quá sức.@ Anh cứ tưởng là mình đang đi lại khỏe mạnh năng nổ lắm, nhưng nhỡ đột ngột lăn đùng ra ngất xỉu thì sao hả?@ Lúc đó anh định tính thế nào đây?"@
+`"À[line=6]dẫu nói thế thì cũng đúng, nhưng mà…"@
+` Akiha có vẻ như đang lo lắng thực sự cho sức khỏe của tôi.@
+` Càng nghĩ theo hướng đó, tôi lại càng cảm thấy hành động tự ý đi đêm hôm qua của mình quả thực có chút ích kỷ[line=4]
+\
+ld c,"tachi/aki_t21",crossfade,400
+`"Thật là đáng trách.@ Nếu anh làm thế thì người ngoài sẽ nghĩ gì về chúng ta đây? Trưởng nam của gia tộc Tohno mà lại đột ngột ngất xỉu giữa đêm trên phố, những lời đồn đại sau đó chắc chắn sẽ khiến em xấu hổ đến mức chẳng còn mặt mũi nào mà đến trường nữa mất."@
+`"Ừm[line=6]dẫu nói thế thì cũng đúng, nhưng mà…"@
+` …… Hóa ra Akiha chỉ đang lo lắng cho thể diện của chính bản thân em ấy mà thôi.@
+` Tôi bắt đầu thấy mình thật ngu ngốc khi ban nãy lại đi ân hận vì hành động ích kỷ tối qua.@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Dù sao đi nữa, xin anh hãy tuân thủ nghiêm ngặt giờ giới nghiêm tối nay.@ Nếu anh còn tái phạm, em sẽ buộc phải đưa ra hình phạt thích đáng đối với anh với tư cách là người đứng đầu gia tộc."@
+cl c,lshutter,800
+` Nói đoạn, Akiha dứt khoát quay người bước nhanh ra khỏi phòng.
+\
+`"…… Hình phạt ư, Akiha?"@
+` Tôi cứ ngỡ em ấy chỉ đang đùa, nhưng giọng điệu đó rõ ràng là cực kỳ nghiêm túc.@
+`"Cậu Shiki ơiii, bữa sáng sẵn sàng rồi ạ!"@
+` Tôi đứng dậy và đi về phía phòng ăn.@
+` Tôi đứng dậy cất bước về phía phòng ăn.
+\
+bg #000000,tshutter,800
+!w1000
+bg "bg/bg_32a",tshutter,800
+ld c,"tachi/his_t01",crossfade,400
+`"Thưa cậu Shiki, hôm nay khoảng mấy giờ thì cậu trở về nhà thế ạ?"@
+`"Ừ, hôm nay là thứ Bảy nên tôi sẽ về sớm thôi.@ Với lại tôi cũng chẳng biết Akiha sẽ làm gì nếu tôi lỡ về muộn đâu."@
+` Đúng thế.@ Nói thật thì, nghĩ đến thôi cũng hơi run đấy.@
+`"Em hiểu rõ rồi ạ.@ Vậy thưa cậu Shiki, chúc cậu một ngày tốt lành và hãy bảo trọng nhé."@
+ld c,"tachi/his_t16",crossfade,400
+` Em ấy khẽ cúi đầu chào theo nghi thức quen thuộc.@
+cl c,crossfade,400
+` Sau khi được Hisui tiễn ra tận cổng, tôi rời khỏi biệt thự.
+\
+bg #000000,lcartain,800
+playstop
+!w1000
+bg "bg/bg_06a",lcartain,800
+play "*3"
+` [line=4]Ngay khi vừa bước vào lớp học, tôi lập tức đưa mắt tìm kiếm Yumizuka-san.@
+` Nhưng em ấy không có mặt trong nhóm nữ sinh đang tụ tập.@
+` Vẫn chưa đến sao?@ Hay là[line=4]
+\
+ld c,"tachi/ari_t01",lshutter,400
+`"Chào buổi sáng nhé, Tohno-kun.@ Đang tìm cái gì thế hả?"@
+` …… Gương mặt quen thuộc của thằng bạn chí cốt bỗng từ bên cạnh ló ra như một con cua.@
+`"Ừ.@ Tao đang bận tìm đồ, nên đừng có cản đường tao, Arihiko."@
+`"Ồooo thế á?@ Nếu mày đang tìm Sacchin thì vô ích thôi.@ Xem ra hôm nay em ấy cũng nghỉ học rồi."@
+` Arihiko khẽ cười ẩn ý…… Cậu ta dường như đã đi guốc trong bụng tôi rồi.
+\
+`"…… Sacchin gì ở đây chứ?"@
+`"Thì Sacchin là Sacchin chứ ai.@ Tối qua nhà Yumizuka bị cảnh sát ghé thăm nên giờ em ấy đang bị quản thúc tại gia rồi.@ Thằng Takada vừa ăn chocolate vừa kể cho tao nghe thế đấy."@
+`"Hả[line=4]Yumizuka-san đã trở về nhà rồi ư?"@
+` Có thứ gì đó nghe có vẻ không đúng lắm.@
+`"Này.@ Không tin tao thì cứ đi hỏi thằng Takada ấy.@ Nhà nó ngay sát cạnh nhà Yumizuka mà."@
+`"[line=9]"@
+` Tôi đưa mắt nhìn quanh tìm kiếm cậu bạn cùng lớp kia.
+\
+` Như mọi khi, Takada-kun vẫn đang vừa nhai chocolate ngon lành vừa đi lại khắp nơi, trông y hệt như phiên bản hóa thân của ông già Noel vậy.@
+` …… Quả là một nhân vật phụ cực kỳ thú vị.
+\
+`"…… Thôi, tao chịu.@ Tính thằng Takada vốn chẳng bao giờ đi rêu rao mấy lời đồn thổi nhảm nhí, nên chắc chắn chuyện đó là thật rồi."@
+`"Đúng thế.@ Sáng nay mấy đứa con gái rủ nhau qua thăm em ấy đông lắm, đến cả thầy Kunifuji cũng vừa ghé qua nhà em ấy sáng nay mà…… Xem ra đợt này Yumizuka sẽ gặp rắc rối to đây."@
+cl c,lshutter,800
+` Arihiko tặc lưỡi lắc đầu rồi quay về chỗ ngồi của mình với vẻ mặt đăm chiêu.@
+br
+wave se_03
+!w500
+` [line=4]Tiếng chuông báo hiệu giờ sinh hoạt lớp vang lên.@
+br
+` Tâm trí vẫn còn mông lung với đống suy nghĩ hỗn độn, tôi lặng lẽ ngồi đợi thầy Kunifuji bước vào.
+\
+playstop
+bg #000000,tshutter,800
+bg "bg/bg_06a",bshutter,800
+` …… Thế nhưng thầy chủ nhiệm Kunifuji lại không đến.@ Tiết học bắt đầu mà không có giờ sinh hoạt, và buổi học ngày thứ Bảy nhanh chóng kết thúc.@
+` Các bạn trong lớp nhanh chóng thu dọn sách vở ra về.@
+` Mấy đứa tham gia câu lạc bộ thì rủ nhau xuống căn-tin, còn lại thì vội vã ra về để tận hưởng nốt ngày thứ Bảy ở nơi khác.
+\
+`"[line=8]Được rồi."@
+` Cũng chẳng có lý do gì để nán lại đây lâu thêm nữa.@
+` Tôi nên quay về biệt thự rồi tính tiếp xem sao.@ Tôi đứng bật dậy khỏi ghế.@
+br
+` [line=4]Ngay đúng lúc đó,
+br
+`"Yêu cầu em Tohno Shiki, học sinh lớp ba năm hai, lập tức lên gặp ban giám hiệu ở phòng hội đồng."@
+` Tiếng loa thông báo của trường đột ngột vang lên.@
+`"…… Gì thế này?@ Mình có làm gì đâu mà lại bị gọi lên phòng hội đồng cơ chứ?"@
+` Khẽ nghiêng đầu thắc mắc, tôi cất bước rời khỏi lớp học.
+\
+bg #000000,tcartain,800
+play "*1"
+` [line=4]Cơ mà nghĩ kỹ lại thì, chuyện này cũng là lẽ tự nhiên.@
+` Việc tôi đi lang thang ngoài phố lúc nửa đêm mà vẫn khoác trên mình bộ đồng phục học sinh thế nào chẳng bị nhà trường phát giác.@
+` Ngôi trường này dù chỉ ở mức trung bình nhưng lại cực kỳ coi trọng tỷ lệ thi đỗ đại học, thế nên có vô vàn quy tắc phiền toái.@
+` …… Sau khi bị giáo viên phụ trách kỷ luật cảnh cáo nghiêm khắc, tôi kết thúc bằng việc phải ngồi viết một bản kiểm điểm dài dằng dặc.
+\
+bg "bg/bg_08b",tshutter,800
+`"……………… Trễ quá rồi đấy, thầy Kunifuji."@
+` Tôi lẩm bẩm một mình trong căn phòng vắng lặng.@
+` Thầy ấy bảo tôi ngồi đợi ở đây rồi sẽ quay lại sau một tiếng đồng hồ.@
+` …… Thế mà giờ đã là sáu giờ rưỡi tối rồi.@
+` Kiểu này về nhà thế nào cũng bị Akiha mắng cho một trận lôi đình nữa mất.@
+`"[line=5]Thôi kệ đi.@ Mình về đây."@
+` Tôi nói vọng ra khoảng không trống rỗng như để tự thuyết phục chính mình rồi đứng dậy.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06c",lcartain,800
+` Tất nhiên, phòng học lúc này đã trống trơn từ lâu.@
+` Tôi bước về phía bàn học của mình, xách chiếc cặp lên tay rồi bước ra phía hành lang.@
+playstop
+br
+`"Chào buổi tối nhé, Tohno-kun."@
+br
+` Đột ngột, có ai đó cất tiếng gọi tên tôi từ phía sau.
+\
+`"[line=9]!?"@
+` Tôi giật mình, tức tốc quay người lại.@
+br
+` [line=4]Trong lớp học tối om không một ánh đèn.@
+` Yumizuka Satsuki đang ngồi đó, bóng lưng em ấy in đậm dưới ánh trăng xanh buốt.@
+`"Ơ[line=4]Yumizuka-san đấy ư?"@
+ld c,"tachi/stk_t10",lshutter,800
+`"Trùng hợp thật đấy.@ Giờ này mà cậu vẫn còn ở đây sao, Tohno-kun? Đừng nói với tớ là cậu vừa bị gọi lên phòng kỷ luật đấy nhé?"@
+`"À[line=4]ừ.@ Vừa vướng chút rắc rối không mấy dễ chịu ở đó[line=4]"@
+`"Ra vậy.@ Cậu biết không, tối qua tớ cũng bị gọi lên đó đấy.@ Tớ đã ngồi ngay ở phòng bên cạnh cậu đấy."
+\
+` Em ấy vừa nói vừa nở một nụ cười dịu dàng.@
+` Nụ cười dịu dàng, vô lo vô nghĩ hệt như ngày trước.@
+`"[line=8]"@
+` Thế nhưng, tại sao thế này?@
+` Chẳng vì lý do gì, một luồng khí lạnh toát bỗng chạy dọc sống lưng tôi.
+\
+`"Tớ biết mà… người ở phòng bên cạnh chính là cậu.@ Hì hì, phòng học ở đây nhỏ thật đấy, thế nên chỉ cần chú ý một chút là có thể biết bên cạnh đang có chuyện gì rồi.@
+` Hơi ấm cơ thể sống động của cậu, rồi cả tiếng thở nữa…… Giá mà tớ có thể tận hưởng nó lâu hơn một chút thì tốt biết mấy."@
+` Ánh mắt chúng tôi giao nhau.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_06c",crossfade,400
+` Chao đảo.@
+` Trải dài.@
+` Cảm giác bất ổn trỗi dậy như thể sàn nhà dưới chân đang uốn cong lại.@
+ld c,"tachi/stk_t10",crossfade,400
+`"Nhưng mà thật đúng lúc.@ Tớ… có một thỉnh cầu muốn dành cho cậu đấy, Tohno-kun.@ Liệu có được không?"@
+`"Ừm[line=4]được chứ, nếu trong khả năng của mình thì tớ sẽ giúp."@
+`"Thật sao?@ Thế thì tớ nói nhé.@ Tohno-kun này, cậu có thể hẹn hò với tớ không?"@
+` [line=4]?@
+` À, nếu chỉ là chuyện đó… thì được thôi.
+\
+`"Được chứ, cậu có cần đi mua món đồ gì không?@ Cơ mà tầm này chắc chẳng còn mấy cửa hàng mở cửa đâu nhỉ."@
+ld c,"tachi/stk_t09",crossfade,400
+`"……………………"@
+` Em ấy ngơ ngác nhìn tôi đầy trống rỗng.@
+` …… Ơ?@ Có vẻ như tôi vừa hiểu sai ý em ấy mất rồi.@
+ld c,"tachi/stk_t03",crossfade,400
+`"Ôi, không phải thế đâu, Tohno-kun.@ Tớ đâu có bảo cậu đưa tớ đi mua sắm đâu.@ Ý tớ là, cậu có thể hẹn hò với tớ giống như một cặp tình nhân thực sự không cơ mà."@
+` Yumizuka-san khẽ khúc khích cười đầy vui vẻ.@
+`"Hả[line=6]"@
+` Nhận lời tỏ tình quá đỗi đột ngột ấy… đầu óc tôi… bỗng chốc trở nên đình trệ… không thể hoạt động bình thường nổi nữa.
+\
+`"Chờ đã nào.@ Yumizuka-san, tớ[line=4]"@
+` Tôi thực sự rất vui, nhưng…
+` Bị tỏ tình đột ngột thế này, tôi[line=4]
+\
+playstop
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_06c",crossfade,400
+play "*4"
+br
+br
+br
+br
+br
+br
+br
+` Mà[line=4]chắc[line=5]cũng không có vấn đề gì[line=4]đúng không?
+\
+`"Ừm…… chắc là, không có vấn đề gì đâu… tớ nghĩ vậy."@
+ld c,"tachi/stk_t03",crossfade,400
+`"Thật sao!?@ Ôi vui quá!@ Thế thì từ giờ tớ sẽ gọi cậu là Shiki-kun nhé!@ Tớ hạnh phúc quá đi mất.@ Cứ lo là cậu sẽ ghét tớ khi nghe tớ nói thế cơ.@
+` …… Đúng thế.@ Có lẽ tớ đã không cần phải dùng đến thầy chủ nhiệm để giữ chân cậu ở lại muộn thế này rồi."@
+` Em ấy lẩm nhẩm một mình.@
+` Tôi không thể nắm bắt rõ những gì em ấy vừa thì thầm.
+\
+ld c,"tachi/stk_t07",crossfade,400
+`"Này Shiki-kun.@ Tớ đã phải lấy hết can đảm mới dám nói ra đấy.@ Cậu có biết lúc đó tớ đã sợ hãi đến nhường nào không, Shiki-kun?"@
+` Em ấy nhìn thẳng vào mắt tôi.@
+` Đôi mắt em ấy.@
+` Tại sao… đôi mắt em ấy lại đỏ rực lên như thế[line=4]và hệt như thể vừa bị ngạt khí, bộ não tôi hoàn toàn ngừng hoạt động.
+\
+`"[line=4]Ừ.@ Cậu đã làm tốt lắm, Yumizuka-san."@
+`"…… Đúng thế.@ Vậy nên, này.@ Liệu tớ có thể nhận một chút phần thưởng từ cậu không, Shiki-kun?@
+` Tớ đã phải chờ đợi lâu lắm rồi[line=4]tớ muốn cậu làm điều đó đi, Shiki-kun."@
+`"Làm điều gì cơ?"@
+ld c,"tachi/stk_t03",crossfade,400
+`"Đơn giản thôi.@ Tớ muốn cậu hôn tớ, Shiki-kun."
+\
+bg #9c0120,crossfade,400
+monocro #0000ff
+bg "bg/bg_06c",crossfade,400
+` [line=4]Chuyện này không ổn chút nào.@
+` Ở một góc sâu thẳm trong tâm trí, có thứ gì đó đang gào thét cảnh báo tôi dữ dội.@
+` Ở một nơi nào đó trong tâm trí tôi, một điều gì đó cảnh báo tôi bằng tiếng gào thét.@
+br
+` [line=4]Nhưng mà dẫu thế thì sao chứ…?@
+br
+` Tôi chẳng còn bận tâm đến điều đó nữa.@
+` Nếu em ấy[line=4]nếu Yumizuka-san đã muốn thế, thì có gì sai trái đâu chứ?@
+` Chúng tôi là người yêu của nhau cơ mà[line=4]chẳng phải chuyện đó là lẽ thường tình sao?
+\
+`"…… Được rồi.@ Đừng cử động nhé, Yumizuka-san."@
+ld c,"tachi/stk_t02",crossfade,400
+cl c,lshutter,800
+` Tôi tiến lại gần phía Yumizuka-san.@
+` Tiếng bước chân khô khốc vang vọng.@
+` Tôi lách qua giữa những chiếc bàn học để tiến sát lại gần cô gái đang đứng bên bậu cửa sổ.@
+` …… Ngay khi vừa bước tới,
+` Tôi phát hiện ra xác của vô số nữ sinh đang nằm ngổn ngang chồng chất giữa các dãy bàn học như thể cố tình bị giấu đi.@
+` Máu tươi vẫn đang không ngừng tuôn chảy từ những vết cắn trên cổ của họ.@
+` Thế nhưng[line=4]tôi chẳng thèm đoái hoài gì đến sự tồn tại của họ nữa.
+\
+` [line=4]Yumizuka-san đứng yên không nhúc nhích.@
+br
+` Giữ chặt lấy hai cánh tay em ấy, tôi áp môi mình lên môi em một cách vô hồn.@
+bg #9c0120,crossfade,400
+bg "bg/bg_06c",crossfade,400
+br
+`"…… Hì hì.@ Vậy là từ giờ trở đi, cậu hoàn toàn là của tớ rồi nhé, Shiki-kun."@
+br
+` Lời thì thầm của em ấy nghe ngọt ngào mà cũng vô cùng tà mị.
+\
+quakey 3,100
+`"A[line=7]hự……!?"@
+` Toàn thân tôi đổ rụp xuống sàn nhà.@
+` Một tiếng bõm nước vang lên.@
+monocro #ff0000
+bg "bg/bg_06c",crossfade,400
+` Ban nãy tôi hoàn toàn không chú ý, thế nhưng sàn nhà lúc này đã ngập ngụa trong vũng máu đỏ lòm.@ Nằm la liệt dưới những gầm bàn học là thi thể của những người bạn cùng lớp tôi.@
+`"Cái[line=6]"@
+` Tôi gắng gượng dùng hai tay chống xuống đất để gượng dậy nhưng lại lập tức ngã quỵ xuống lần nữa.@
+` Toàn bộ sức lực trong cơ thể dường như đã bị rút cạn sạch.@
+` Sức nóng.@ Hơi nóng trong cơ thể đột nhiên nguội lạnh lạnh toát.
+\
+`"Cứ thư giãn đi, Shiki-kun.@ Tớ sẽ không biến cậu thành ra giống như họ đâu.@ Tất cả những gì cậu cần làm bây giờ chỉ là lắng nghe giọng nói của tớ như thế này thôi."@
+br
+` [line=4]Giọng nói lạnh lẽo của em ấy.@
+` Tôi hoàn toàn không thể hiểu nổi em ấy đang làm gì nữa.@
+` Dẫu chẳng thể hiểu được gì, nhưng tôi biết chắc hành động này là một tội lỗi tột cùng ghê tởm khiến tôi lợm giọng.
+\
+`"Gự h[line=8]!"@
+` Tôi cố gồng hết chút sức tàn ở tay và chân để trườn bò trên mặt sàn.@
+` Thế nhưng ngay cả nỗ lực đó cũng bị dập tắt chỉ bằng một câu nói của em ấy.@
+`"Không được đâu.@ Cậu không thể chạy thoát được đâu.@ Tớ tuyệt đối sẽ không để cậu thoát khỏi tay tớ nữa đâu.@
+` …… Nào.@ Trước hết chúng ta phải cùng nhau mở rộng thế giới của tớ ra đã.@ Cậu sẽ giúp tớ chứ?@ Cậu đã nuốt lời hứa sẽ cứu tớ mỗi khi tớ gặp khó khăn rồi, thế nên từ giờ trở đi cậu phải tuyệt đối nghe theo mọi lời tớ nói đấy nhé."@
+` Em ấy khẽ khúc khích cười tà mị.
+\
+bg #9c0120,crossfade,800
+` …… Nhịp tim tôi đang dần trở nên xa xăm.@
+` Mùi máu tanh nồng nặc bao phủ khắp sàn nhà khiến đầu óc tôi quay cuồng xây xẩm.@
+` Và rồi, nhỡ sau này tôi có bao giờ tỉnh lại đi chăng nữa, thì…
+` Tôi nhận ra cơ thể mình sẽ chẳng bao giờ còn có thể cảm nhận được hơi ấm được nữa.@
+br
+!w2000
+` Trong lớp học ngập tràn ánh trăng lạnh lẽo,
+` Yumizuka Satsuki chậm rãi cắm sâu những chiếc răng nanh sắc nhọn vào cổ của Tohno Shiki.
+\
+monocro off
+bg #000000,crossfade,1500
+playstop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

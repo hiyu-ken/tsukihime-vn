@@ -1,0 +1,83 @@
+bg "bg/bg_22b",notrans,0
+playstop
+` …… Chẳng chỉ có Akiha là tôi chưa gặp lại kể từ đó.`@
+` Tôi không nhớ hết chi tiết vì đã tám năm rồi, nhưng có những đứa trẻ khác ở lâu đài cùng tuổi với tôi.`
+\
+` Tôi không nhớ tên của chúng, nhưng có hai cô gái sinh đôi.`@
+` Cha tôi từng nói họ không có người thân nào nên đã đưa họ đến làm người hầu.@
+` … Đúng là kỳ lạ. Chúng ta chơi với nhau rất nhiều khi còn nhỏ, nhưng tôi không nhớ tên họ.@
+` Tôi nhắm mắt lại và cố gắng hồi tưởng.
+\
+bg #000000,crossfade,400
+play "*9"
+bg "event/his_e01",crossfade,800
+` Tôi nên nhớ được chứ.@
+` Cô ấy là một cô gái luôn vui vẻ… vui đến mức chỉ cần nhìn vào cũng khiến bạn cảm thấy vui.@
+` Một cô gái có tính cách hồn nhiên, được mọi người trong biệt thự yêu mến.@
+` Vì cô ấy cùng tuổi với tôi nên chúng tôi chơi rất thân, mỗi ngày dường như đều chạy nhảy khắp vườn bên nhau.@
+` "Cùng chơi với tôi đi, Shiki-chan."@
+` Cô ấy nói vậy và tôi nhớ cô ấy kéo tôi ra khỏi phòng khi tôi tự nhốt mình bên trong.
+\
+` Cô ấy thường cười và nắm tay Akiha e thẹn, cố gắng thuyết phục cô ấy chơi cùng chúng ta.@
+` Có lẽ cô ấy lớn hơn cả tôi và Akiha.@
+` Cô ấy dẫn dắt tôi và Akiha chơi cùng nhau, nhưng một khi chúng ta bắt đầu chơi thì cô ấy chỉ đứng nhìn chúng ta.@
+` Ngay cả người dạy học của Akiha, người quản gia nghiêm khắc cũng nói "Tôi không phiền lòng miễn là ****** ở với các cậu", và cho phép Akiha ra ngoài chơi như thể không có cách nào ngăn cản được.@
+\
+bg #000000,crossfade,400
+` Ngược lại với cô gái đó là cô gái khác.
+\
+bg "event/his_e02",crossfade,800
+` Ở tầng hai.@
+` Trong khi chúng tôi chơi ở vườn, mỗi lần tôi quay lại nhìn biệt thự thì luôn có một cô gái nhìn xuống chúng tôi.@
+\
+` Cô ấy là chị song sinh của cô gái vui vẻ đó, nhưng cô ấy luôn nhìn chúng ta với nét mặt vô cảm.@
+` Cô gái đó sẽ không bao giờ cố gắng rời khỏi nhà.@
+` Tất cả những gì cô ấy làm là nhìn chúng ta bằng đôi mắt lạnh lẽo.@
+\
+br
+br
+br
+br
+br
+` [line=3]Chà, cuối cùng tôi chỉ nói chuyện một chút với cô ấy.
+\
+bg #000000,crossfade,400
+bg "bg/bg_22b",crossfade,400
+` "Tôi tự hỏi những cô gái đó có còn ở biệt thự không…"@
+` Trong khi tôi nghĩ về điều đó, tôi lấy một chiếc băng trắng ra khỏi túi.`@
+` Một chiếc nơ trắng cũ mà các cô gái tặng tôi vào cuối cùng.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_20",crossfade,800
+` [line=3]Bảy năm trước.`@
+` Sau khi tôi gặp tai nạn.`@
+` Ngày tôi được giao phó cho gia đình Arima.`@
+br
+` Trước khi tôi rời khỏi dinh thự, cô bé đã đưa cái này cho tôi vì lý do nào đó.`@
+br
+` ……… Tôi chỉ cho cậu mượn thôi, nên nhớ mang lại nhé.`@
+` Nói một câu như vậy rồi chạy đi.
+\
+` Sau đó, tôi được một người hầu tìm thấy nhanh chóng và đưa đến cửa chính.`@
+` Không ai tiễn biệt tôi, tôi ra khỏi cổng căn nhà khổng lồ ấy trong khi cô gái Arima nắm tay tôi.@
+br
+` Đó là ký ức cuối cùng của tôi khi rời khỏi biệt thự Tohno, tám năm trước.
+\
+bg #000000,crossfade,400
+bg "bg/bg_22b",crossfade,400
+` *DIPSETTING* - (thở dài)@
+` Tôi bỏ chiếc nơ lại vào túi xách.@
+` "Nhưng đã tám năm rồi..."@
+` Tôi thậm chí không nhớ họ là ai nữa, huống hồ là biết họ có còn ở biệt thự hay không.@
+` Để làm cho mọi chuyện tồi tệ hơn, tôi thậm chí còn không nhớ cô gái nào đã tặng tôi chiếc nơ.`
+\
+` “…. Mà cũng chẳng phải là lời hứa quan trọng hay sao đâu.”`@
+` Nhưng tôi muốn giữ lời hứa, miễn là tôi còn nhớ nó.`@
+` Tôi đồng ý trở lại biệt thự vì giờ đây Akiha ở đó một mình.`@
+` Tôi để cô ấy ở đó suốt tám năm, đẩy mọi trách nhiệm lên vai cô ấy trong khi tôi sống một cách ích kỷ và tự do.@
+br
+` Tôi quay lại vì cảm thấy có lỗi về những gì đã làm với cô ấy.@
+` …… Tôi không exatamente lên kế hoạch sử dụng cơ hội này để làm điều đó, nhưng nếu cô bé vẫn ở trong biệt thự, tôi muốn thực hiện lời hứa từ tám năm trước một cách chính đáng.
+\
+bg #000000,lcartain,800
+playstop

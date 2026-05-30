@@ -1,0 +1,61 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_29b",notrans,0
+` Tôi…… cho dù mọi chuyện có ra sao đi nữa[line=4]cũng tuyệt đối không muốn nghĩ đến khả năng Senpai lại là kẻ thù truyền kiếp của mình.@
+br
+`"…… Senpai là một người bạn vô cùng thân thiết của anh.@ Enemy hay Ally, anh thực sự không thể nào dán nhãn phân biệt chị ấy theo cái cách tàn nhẫn như thế được."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Cái gì cơ?@ Vậy thì đối với cậu, tôi thực chất là cái gì hả?"@
+`"[line=3]Em…… em là người mà anh chẳng thể nào nhẫn tâm bỏ mặc một mình được, vả lại ừm……"@
+` Tôi ngượng ngùng gãi gãi má mình.@
+cl a,crossfade,400
+` Một người mà tôi chẳng thể nào bỏ mặc một mình được[line=3]và cái sự quan tâm lo lắng tôi dành cho em ấy hoàn toàn mang một sắc thái khác hẳn so với tình cảm kính trọng dành cho Senpai.
+\
+` Ngay cả đêm nay cũng vậy, tôi đã điên cuồng chạy ngược chạy xuôi khắp thị trấn chỉ để tìm gặp bằng được em ấy, rồi bực dọc bồn chồn khôn tả mỗi khi không thấy bóng dáng em ấy đâu.@
+` Cái cảm xúc lo lắng cuồn cuộn đó…… rõ ràng hệt như nỗi lo âu thầm kín dành cho người con gái mà mình hết lòng thương yêu vậy.
+\
+`"[line=5]Ah."@
+` …… Không, tuyệt đối không đời nào chuyện đó lại là sự thật được!@
+` Đúng là em ấy vô cùng xinh đẹp kiều diễm thật, nhưng tôi[line=3]
+\
+bg #000000,crossfade,400
+bg "event/ark_e06b",crossfade,400
+bg #000000,crossfade,400
+bg "bg/bg_29b",crossfade,400
+`"Thôi mà em, tha cho anh đi!@ Mà tại sao tự dưng em lại đi gặng hỏi anh đống chuyện nhạy cảm đó làm gì chứ hả!?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Làm sao tôi biết được chứ!"@
+` Bị tôi quát một tiếng vô lý, em ấy cũng bực dọc quát lớn ngược lại tôi một cách vô lý đầy dỗi hờn.@
+`"Được rồi!@ Nếu đã thế thì từ giờ tôi thèm vào bận tâm đến cậu nữa, Shiki!"
+\
+cl a,crossfade,400
+`"Này, khoan đã.@ Em định đi đâu thế hả?"@
+`"Chẳng liên quan gì đến cậu cả.@ Đừng có bám đuôi theo tôi!"@
+` Xem ra em ấy thực sự đang nổi giận lôi đình rồi.@ Arcueid dứt khoát rảo bước đi thẳng mà không thèm quay đầu lại nhìn tôi lấy một lần.@
+` Bóng dáng em ấy bấy giờ bỗng chốc nhanh chóng nhạt dần vào màn đêm tĩnh mịch phía xa.@
+`"…………… Ah."@
+` Rốt cuộc là em ấy đang định bỏ đi đâu cơ chứ?@
+`"…… Cái gì thế này, tự dưng lại giận cá chém thớt giận dỗi vô cớ lên đầu mình như thế chứ hả?"@
+` Đúng thế còn gì.@ Chính em ấy mới là người tự ý gửi cái con mộng sứ succubus chọc phá giấc mơ đêm qua của tôi, thế nên đáng lẽ người nổi giận lôi đình ở đây phải là tôi mới đúng chứ.
+\
+`"…… Chẳng lẽ mình đã lỡ lời làm chuyện gì khiến em ấy thực sự tổn thương nổi giận sao……?"@
+` Tôi thực sự không biết nữa.@
+` Xét cho cùng, làm sao một con người bình thường như tôi có thể thấu hiểu nổi mạch suy nghĩ kỳ quặc của giống loài ma ca rồng cơ chứ.@
+`"[line=5]"@
+` …… Arcueid bực dọc giận dỗi bỏ đi một mình, và tôi cũng đã hỏi được những điều mình cần biết từ em ấy rồi, thế nên lý trí tự nhủ tôi nên lập tức quay về biệt thự đi thôi.@
+` …… Thế nhưng, đôi chân tôi bấy giờ lại cứng đờ, chẳng thể nào nhấc nổi dù chỉ một bước đi ngược lại.
+\
+` Lý trí mách bảo con đường đúng đắn tôi phải đi về, nhưng con tim bấy giờ lại nhất quyết không chịu lắng nghe theo lời sai khiến.
+\
+br
+` [line=3]Dẫu cho người đời có lặp đi lặp lại chuyện đó cả vạn lần đi chăng nữa, nhưng.@
+` Cảm xúc yêu ghét mãnh liệt của con người, thực chất hoàn toàn chẳng tuân theo bất kỳ một thứ lý trí logic nào cả.@
+br
+`"[line=5]Mẹ kiếp, thật là bực mình quá đi mất!"@
+` Khốn kiếp thật chứ.@ Tại sao bản thân mình lại chẳng thể nào nhẫn tâm bỏ mặc Arcueid một mình như thế được cơ chứ……!?@
+`"Arcueid!@ Anh bảo em đứng lại chờ chút đã!"@
+` Hét lớn lên một tiếng, tôi điên cuồng chạy đuổi theo bóng dáng Arcueid đang rảo bước phía trước.
+\
+playstop
+bg #000000,crossfade,1500

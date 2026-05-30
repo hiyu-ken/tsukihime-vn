@@ -1,0 +1,112 @@
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` …… Tạm thời bản thân tôi dẫu dã nên tịch mịch cất bước quay trở về gian phòng ngủ của mình chốn chốn ấy dẫu dã ổn rồi.@`
+` Thâm tâm tôi bấy giờ tự thấu tỏ bản thân chịu chết tịnh không cách nào thong thả đối diện diện kiến dung nhan tự thân của Akiha nổi chốn chốn ấy dẫu dã thế dẫu vậy, dẫu sao tôi chịu chết tịnh không hề muốn để lộ vẻ bấn loạn hoài nghi dị thường chốn ấy.@ Tốt đắc lực hơn cả dẫu dã thế dẫu vậy dẫu dã ổn rồi, bản thân cứ lẳng lặng ẩn mình chốn phòng ngủ tự thân chờ đợi cho tới khi Akiha cất bước ra ngoài rời khỏi dinh thự dạt dào dẫu dã thôi.`
+\
+bg #000000,tshutter,800
+bg "bg/bg_40a",tshutter,800
+` ...@
+` ...@
+` ...@
+` ...@
+` ………………………………… Bấy giờ dẫu dã tịch mịch trôi qua khỏi cột mốc bảy giờ ba mươi phút sớm mai rồi chốn ấy.@`
+` Tôi lẳng lặng đăm đăm diện kiến lướt nhìn qua khung cửa sổ kính tự thân dẫu dã thế dẫu vậy, tự mắt diện kiến trông thấy Akiha bấy giờ đang cất bước ra ngoài rời khỏi dinh thự chốn ấy.`
+`"...@
+` Phùuu.@ Tôi lẳng lặng quẳng một hơi thở dài tự thân tịch mịch thườn thượt chốn lồng ngực bấy giờ.@`
+` Bản thân thực sự dẫu dã vô cùng sám hối bận lòng bối rối kề bên Akiha chốn chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi, dẫu vậy trước mắt bản thân tôi dạt dào dột ngột vẫn buộc phải cật lực lo âu băn khoăn cho đống sự sự tình bất ổn hoài nghi tự thân của mình bấy giờ dẫu dã chứ.`
+\
+` Cơn ác mộng cuồng loạn đẫm máu tàn khốc đêm qua dẫu dã thế dẫu vậy.`
+` Cho dù thần trí thấu triệt sâu sắc bản thân dẫu dã chìm sâu vào giấc ngủ li bì dẫu dã thế dẫu vậy dẫu dã ổn rồi, có vẻ tự thân tôi dẫu dã thực sự cất công tản bộ cất bước đi lang thang ra ngoài giữa đêm trường tịch mịch thật sao.`
+` Kề bên đống rắc rối nan giải hoang đường tự thân bấy giờ dột ngột găm ngập sâu chốn lồng ngực dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, tôi chịu chết tịnh không còn tàn lực dồi dào tinh thần để cất lực phô diễn đóng kịch diện mạo "bình thường đĩnh đạc hệt như thường nhật" nổi nữa rồi chốn ấy.`
+`"………… Chết tiệt thật dẫu dã chứ."@`
+` Tôi tịch mịch cất bước bước chân đi ra khỏi phòng ngủ tự thân dột ngột dẫu dã thế dẫu vậy dẫu dã ổn rồi, cõi lòng dạt dào bị đè nghiến bẹp rúm dưới đống gánh nặng tự ghét bỏ tự căm ghét bản thân điên cuồng dữ dội chốn lồng ngực.`
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+play "*2"
+` Chịu chết tịnh không hề có bóng dáng bất cứ ai ngự chốn gian phòng khách chính bề thế tự thân bấy giờ chốn ấy.@`
+` Ngự chốn mặt bàn viết dạt dào độc nhất độc nhất dột ngột chỉ toàn chiếc tách dùng trà tự thân chốn ấy dẫu dã thế.@ Có lẽ dạt dào dột ngột dẫu dã dạt dào chỉ là chiếc tách trà ấm mà Akiha dẫu dã cất công siêng năng sử dụng tịch mịch nhâm nhi cho tới tận chốn ấy thôi.`
+`"[line=12]@
+` Tôi lẳng lặng tịch mịch cất bước bước chân di chuyển vào chốn phòng khách chính chốn dinh thự dạt dào dẫu dã thế dẫu vậy, có lẽ dạt dào dột ngột dẫu dã dạt dào dột ngột cũng dạt dào chỉ là vì cõi lòng tôi bấy giờ dột ngột dấy lên cảm giác tội lỗi ân hận tột độ kề bên Akiha dẫu dã ổn rồi.`
+br
+` [line=12]Và dẫu vậy dẫu dẫu dã thế,`
+br
+ld c,"tachi/koha_t04b",bshutter,400
+`"Cậu Shiki ơi bấy giờ!!"@`
+` Đột ngột dẫu dã thế dẫu vậy, chị Kohaku-san tịch mịch cất bước từ chốn gian bếp bước ra ngoài dẫu dã thế, lớn giọng cất tiếng trách móc cằn nhằn tự thân vô cùng dữ dội chốn ấy.`
+\
+`"A…… sớm mai buổi sáng tốt lành đĩnh đạc nhé chị Kohaku-san."@`
+`"Tịnh không hề có chuyện 'buổi sáng tốt lành' đĩnh đạc nào chốn ấy đâu ạ!@ Cậu có thấu triệt bấy giờ dẫu dã tịch mịch trôi qua tới mấy giờ trễ tràng rồi tịnh không hả cậu Shiki bấy giờ!!"@`
+` Chị Kohaku-san bấy giờ dạt dào thực sự dẫu dã nổi trận lôi đình dữ dội chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi, đôi lông mày tự thân chau chặt lại bộc phát thần thái vô cùng hung dữ đáng sợ hãi chốn này kìa.@`
+`"…… Em vô cùng sám hối bận lòng chốn ấy rồi ạ.@ Tại sớm mai chốn chốn ấy tự ý em chịu chết tịnh không cách nào cất công thức dậy nổi dẫu dã thế dẫu vậy, nên bản thân dẫu dã lẳng lặng nghĩ ngợi sự sự tình có bị trễ tràng muộn học dạt dào dẫu dã dẫu sao tịnh không còn quá chừng tối quan trọng bận lòng nữa rồi chốn ấy."@`
+`"Trời đất ơi, tự ý em chịu chết tịnh không hề mưu cầu mở miệng hỏi han băn khoăn bận lòng kề bên chuyện trường học tự thân của cậu chốn ấy đâu ạ!!@ Chuyện em cất công cất lực gặng hỏi cậu bấy giờ dạt dào chính là cớ làm sao cậu chịu chết tịnh không chịu cất công cất bước xuống sảnh diện kiến mặt và mở miệng thốt lời kính chúc sớm mai đối kề bên tiểu thư Akiha-sama lấy một tiếng hả cậu Shiki!!"@`
+` Kohaku-san nhíu mày.@
+`"Ờ thì…… dạ, tại sớm mai hôm nay tự ý em dột ngột dấy lên cảm giác vô cùng ngượng ngùng khó xử chịu chết tịnh không thể thong thả đối diện kề bên Akiha nổi chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi, nên……[line=5]"`
+\
+`"Dột ngột dấy lên cảm giác ngượng ngùng khó xử sao ạ!?@ Cậu có thấu tỏ tiểu thư Akiha-sama dẫu dã lẳng lặng túc trực đứng ngồi tịnh không yên chốn chốn sảnh phòng cật lực mưu cầu ngóng đợi cậu suốt cả buổi sớm mai nhường ấy tịnh không hả!!@ Thế dẫu vậy dẫu dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi, cậu dạt dào chịu chết tịnh không thèm cất lời cất tiếng mở miệng thốt lấy nửa lời đĩnh đạc kề bên tiểu thư dẫu dã thế dẫu vậy, dạt dào dột ngột dẫu dã cự tuyệt trốn biệt sang phòng rồi tịch mịch đợi chờ cho tới khi tiểu thư cất bước đi học khuất dạng mới cất công cất bước xuống sảnh sao?@ Đống hành vi phản ứng ấy tự thân của cậu dẫu dã thực sự quá mức tồi tệ phũ phàng căm căm chốn lồng ngực rồi đấy ạ!"@`
+`"…… Hự."@`
+` …… Bản thân tôi bấy giờ dẫu dã chịu chết tịnh không cách nào cất lực cất tiếng phản bác phản kháng nổi chốn ấy chốn ấy rồi.@`
+` Vốn dĩ cõi lòng tự thân dạt dào dột ngột dẫu dã luôn ngập tràn đống cảm giác tội lỗi ân hận tột độ khi tự ý tịch mịch cự tuyệt né tránh lẩn trốn Akiha nhường ấy dẫu dã thế.`
+`"…… Em dẫu dã thấu tỏ sâu sắc đống lỗi lầm tự thân chốn chốn chốn phòng dẫu dã ổn rồi ạ dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi.@ Tuy nhiên chịu chết tịnh không phải là do thâm tâm em ôm lòng cự tuyệt căm ghét Akiha chốn chốn phòng dẫu dã chứ dẫu dã ổn rồi.@ Dạt dào dột ngột dẫu dã chỉ là sớm mai hôm nay…… cõi lòng tự thân của em thực sự chịu chết tịnh không cách nào nảy sinh nổi dũng khí để cất lời giãi bày kề bên em ấy dẫu dã thôi."`
+\
+`"Dạ tịnh không đâu ạ, cậu chịu chết tịnh không hề thấu tỏ bất cứ sự sự tình tối quan trọng bận lòng nào chốn này cả đâu ạ!@ Cậu chịu chết tịnh không tài nào thấu triệt rõ ràng được niềm vui sướng hân hoan to lớn tự thân mà tiểu thư Akiha-sama dẫu dã cất công trông ngóng mưu cầu bấy lâu nay trong lúc lẳng lặng đứng đợi chờ cậu dậy mỗi sớm mai cho tới bấy giờ đâu."@`
+`"?@ [line=3]Đợi chờ tôi sao…… ý chị giãi bày dột ngột dẫu dã dạt dào chính là thời điểm sớm mai hôm nay đúng tịnh không?"@`
+`"Dạ tịnh không phải đâu ạ.@ Mặc dù tiểu thư Akiha-sama dẫu dã nghiêm giọng căn dặn cấm đoán em chịu chết tịnh không được phép mở miệng hé răng nửa lời kể lể kề bên cậu dẫu dã thế, dẫu vậy kề bên tình cảnh phũ phàng đáng giận này tự thân của cậu dẫu dã cất công khiến em chịu chết tịnh không cách nào cất lực nhẫn nhịn cam chịu thêm nổi nữa rồi chốn ấy!"@`
+ld c,"tachi/koha_t08",crossfade,400
+`"Cậu hãy chú tâm thấu tai lắng nghe cho đắc lực chốn này nhé, cậu Shiki.@ Hiện thời, dẫu tiểu thư Akiha-sama dẫu dã có thể vô cùng thong thả nhàn nhã dùng điểm tâm sáng sớm kề bên cậu một cách vô cùng tự nhiên thong thả dẫu dã thế dẫu vậy dẫu dã ổn rồi, dẫu vậy cậu có thấu triệt chuyện ấy từng vô cùng vất vả nhọc nhằn dữ dội đến nhường nào trước thời điểm tiểu thư cất công chuyển trường học cất bước tới đây tịnh không ạ?"@`
+`" Cậu Shiki ơi, cậu dẫu dã có thể cất lực ghi nhớ đĩnh đạc chốn đầu chốn chốn thời điểm thuở trước ngôi trường học cũ của Akiha ngự trị chốn nào tịnh không ạ?"`
+\
+cl c,crossfade,400
+` …… Bản thân tôi chầm chậm khôi phục trí nhớ tự thân, hình như ngôi trường học quý tộc cũ tự thân chốn trước mà Akiha từng theo học dẫu dã tịch mịch ngự trị mãi tận chốn địa phận của tỉnh lân bang bên cạnh dẫu dã thế.@`
+br
+`"[line=5]Mãi tận chốn tỉnh lân bang lân cận bên cạnh sao……?"@`
+br
+` Khoan đã nào dẫu dã ổn dẫu dã ổn rồi.@`
+` Khoảng cách cự ly di chuyển chốn ấy dẫu sao dẫu dã buộc phải cất công cật lực đi xe hơi sang trọng ròng rã đằng đẵng mất hơn một tiếng đồng hồ tự thân chốn ấy.`
+\
+ld c,"tachi/koha_t03b",crossfade,400
+`"Cuối cùng dẫu dã chịu cất công thấu triệt sâu sắc rồi đúng tịnh không ạ.@`
+` Để có thể cất công cất bước tới trường học cũ kịp giờ đĩnh đạc chốn ấy dẫu dã thế, lẽ thường tình tiểu thư Akiha-sama dẫu dã buộc phải cất công rời khỏi dinh thự cất bước đi từ lúc sáu giờ sáng tinh mơ rồi dẫu dã chứ.@ Dẫu cho vất vả nhọc nhằn dữ dội nhường ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, tiểu thư vẫn lẳng lặng vui vẻ chấp nhận gạt bỏ gạt qua tất thảy đống khó khăn tự thân ấy, dạt dào dẫu dã dột ngột dẫu dã dạt dào chỉ vì vô cùng khát khao trông ngóng được cất công ngồi ăn bữa điểm tâm sớm mai kề bên cậu Shiki mà thôi."@`
+`"…… Trông ngóng ước ao sao?@ Cớ sao lại có chuyện kỳ quặc quái đản chốn ấy được chứ?@ Hễ mỗi lần diện kiến thấy mặt tôi dẫu vậy dạt dào dẫu dã dẫu sao em ấy dẫu dã chỉ toàn mở miệng cằn nhằn trách cứ oán hờn tơi tả dẫu dã chứ."@`
+`"Đó dẫu dã dạt dào là bởi tiểu thư Akiha-sama bấy giờ vốn dĩ chịu chết tịnh không hề có tính cách thành thật thẳng thắn tự thân chốn ấy đâu ạ.@ Nếu cậu Shiki có thể siêng năng cất công thức dậy sớm sủa kịp giờ đĩnh đạc đắc lực dẫu vậy dẫu dẫu dã dẫu sao dẫu dẫu dã, em tự tin khẳng định tiểu thư tuyệt đối chịu chết tịnh không bao giờ thốt ra nửa lời cằn nhằn oán hờn trách cứ cậu đâu."`
+\
+`"Thế dẫu vậy từ trước tới nay cậu dẫu dã dạt dào dột ngột chỉ biết lẳng lặng chìm đắm trườn mình ngủ nướng say sưa trễ tràng, chịu chết tịnh không thèm cất công xuống sảnh ngồi ăn cơm kề bên tiểu thư lấy một lần nào cả dẫu dã thế.@ Dẫu bị cậu ngó lơ phũ phàng nhường ấy dẫu dã thế dẫu vậy, tiểu thư Akiha-sama vẫn thỏ thẻ kề bên em rằng dạt dào chỉ cần được lẳng lặng diện kiến thấy bóng hình khuôn mặt tự thân của cậu mỗi sớm mai dẫu dã dạt dào dồi dào dẫu dã đủ cho cõi lòng tiểu thư ngập tràn sướng vui hạnh phúc rồi dẫu dã thế dẫu vậy, vả lại tiểu thư chưa từng thốt lời hạ lệnh sai bảo đám gia nhân tụi em cất công cất bước sang phòng gọi cậu dậy bao giờ đâu."@`
+`"[line=8]Cái... cái gì cơ chứ..."@`
+ld c,"tachi/koha_t02b",crossfade,400
+`"Bấy giờ cậu dẫu dã thực sự chịu cất công thấu triệt sâu sắc tâm can tự thân của tiểu thư chưa ạ?@ Nếu dẫu dã thấu tỏ rồi dẫu vậy, cậu có thể làm ơn cất công cất bước sang mở miệng thốt lời xin lỗi chân thành tự thân đối kề bên tiểu thư Akiha-sama vì đống sự sự tình nổ ra lúc sớm mai tịnh không ạ?"@`
+`"[line=12]"`
+` ………… Thực tâm bản thân tôi dẫu dã dạt dào dồi dào dẫu dã có ý định thực hiện sự sự tình cất công xin lỗi em ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, dẫu vậy……`
+` Những đống sự sự tình nan giải bất ổn tự thân bấy giờ dột ngột chịu chết tịnh không cách nào thong thả giúp cõi lòng tôi bình ổn an lòng nổi chốn ấy chốn phòng dẫu dã chứ.`
+\
+`"Thực lòng tôi chịu chết tịnh không cách nào thấu triệt sâu sắc nổi chốn ấy.@ Chị muốn khuyên tôi bấy giờ dẫu dã nên làm gì cho đắc lực đây hả chị Kohaku-san?"@`
+ld c,"tachi/koha_t15",crossfade,400
+`"Dạ tịnh không đâu, xin cậu chịu chết tịnh không cần phải tự ý vắt óc lo nghĩ băn khoăn bối rối thái quá chừng chốn ấy làm gì đâu ạ.@`
+` Cậu chỉ cần tịch mịch hành xử một cách vô cùng tự nhiên thong thả đĩnh đạc hệt như thường lệ tự thân dẫu dã ổn rồi chốn ấy dẫu dã ổn rồi.@ Có điều tiểu thư Akiha-sama bấy giờ vốn dĩ là người chịu chết tịnh không có tính cách bộc trực thẳng thắn tự thân chốn ấy, nên em dạt dào cất công mưu cầu cậu từ nay sẽ siêng năng chú ý quan tâm tinh tế dịu dàng đối kề bên tiểu thư nhiều đắc lực hơn chút chốn này dẫu dã thôi."@`
+`"………………"@`
+` Hành xử một cách tự nhiên thong thả đĩnh đạc sao?@ Bản thân tôi nghĩ ngợi bấy giờ đó dẫu dã dạt dào chính là sự sự tình nhọc nhằn gian truân chịu chết tịnh không thể cất công thực hiện nổi đối kề bên tôi vào lúc này rồi chốn ấy.`
+\
+ld c,"tachi/koha_t03b",crossfade,400
+`"A oái oăm chốn này dẫu dã dạt dào, tất thảy những lời lẽ em vừa thỏ thẻ giãi bày chốn này dẫu dã hoàn toàn là bí mật tuyệt mật tuyệt đối chốn ấy nhé.@ Nếu tiểu thư Akiha-sama lỡ vô tình phát hiện ra sự sự tình em tự ý mở miệng mách lẻo kể lể kề bên cậu nhường này dẫu vậy dẫu dẫu dã, kiểu gì em dẫu dã gặp phải rắc rối lớn dữ dội chốn ấy đấy ạ."@`
+cl c,lshutter,400
+` Khẽ mỉm cười dịu hiền tự thân đắc ý xong, Kohaku-san tịch mịch cất bước quay người bước thẳng vào trong gian sảnh phòng ăn.`
+`"………………"@`
+`"Nào cậu Shiki ơi; nếu cậu chịu chết tịnh không chịu cất công nhanh chân sửa soạn dùng bữa sáng sớm dạt dào dẫu vậy dẫu dẫu dã dẫu sao dẫu dẫu, cậu nhất định dẫu dã bị trễ giờ học cất bước tới trường học mất thôi đấy nha……"@`
+` Thanh âm thỏ thẻ trong trẻo hoạt bát tự thân của Kohaku-san vọng vọng lại từ gian phòng ăn chốn lầu dưới.@`
+` Tôi tịch mịch cất bước đi vào sảnh phòng ăn dùng bữa, tay trần khẽ đưa lên che đi phần diện mạo tự thân bấy giờ đang ngập tràn vẻ ngượng ngùng xấu hổ vô cùng tận.`
+\
+bg #000000,lcartain,800
+bg "bg/bg_01a",lcartain,800
+` [line=5]Rốt cuộc dột ngột dẫu dã cất công cất bước khiến bản thân tôi dấy lên sự sự tình bị trễ tràng muộn học mất rồi chốn ấy.@`
+br
+` Chốn cổng lối vào chốn trường học bấy giờ dạt dào dột ngột tịch mịch trống rỗng tịnh không bóng người chốn ấy.@`
+` Tôi thong thả tịch mịch cất bước băng ngang qua chốn cổng trường học chốn chốn thời điểm tiết học thứ nhất tự thân dẫu dã cất công bắt đầu rồi.`
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06a",tshutter,800
+wave se_03
+!w2000
+` Tiết học thứ hai bấy giờ dẫu dã tịch mịch kết thúc trôi qua.@`
+` …… Nếu bản thân tôi dẫu dã hạ quyết tâm cất công cất bước sang mở miệng thốt lời xin lỗi chân thành đối kề bên Akiha bận lòng về chuyện oái oăm lúc sớm mai dẫu vậy dẫu dẫu dã dẫu sao dẫu dẫu dã dạt dào, khoảng thời khắc nghỉ giữa giờ bấy giờ dẫu dã chính xác dạt dào là thời cơ tối ưu đắc lực rồi dẫu dã ổn rồi.`
+\

@@ -1,0 +1,167 @@
+playstop
+wavestop
+bg "bg/bg_11d",notrans,0
+` [line=3]Trước khi tiếng bước chân kia mờ đi, tôi lao vào hành động.@
+br
+`"[line=9]Ở đây!"@
+br
+` Giọng nói của Akiha là sự pha trộn giữa ác ý và khoái lạc.@
+` Thưởng thức sự căng thẳng trong trận chiến, cô ấy mỉm cười khi nhìn về phía tôi.@
+`"[line=9]"@
+` Sự lơ là đó là cơ hội duy nhất của tôi và lý do thua thiệt duy nhất của cô ấy.
+\
+`"[line=5]Không đủ tốt, anh trai. Không quan trọng anh chạy nhanh đến đâu, càng gần tôi thì anh chỉ càng rõ ràng hơn!"@
+` Giọng nói của cô ấy tràn đầy niềm vui.@
+bg #9c0120,notrans,0
+bg "bg/bg_11d",notrans,0
+` Đôi mắt cô ấy kéo tôi lại gần.@
+` Sau đó, mọi thứ trở nên đơn giản.@
+` Tôi sẽ không thể chạm vào cô ấy, vì cô ấy sẽ tan biến tay chân tôi và sụp đổ xuống sàn.@
+br
+` [line=5]Vậy thì...
+` Chỉ khi cô ấy có thể giữ ánh mắt mình tập trung vào tôi cho đến khi tôi hoàn toàn tan biến.
+\
+bg #000000,lcartain,400
+` Quan điểm của tôi đảo ngược.@
+`"[line=10]Ồ?"@
+` Giọng nói của cô ấy đầy ngạc nhiên.@
+` Trong khoảnh khắc đó, mái tóc đỏ sẽ thiêu cháy tay và chân tôi biến mất.@
+` May mắn là hành lang chỉ là một đường thẳng.@
+` Akiha, người nghĩ rằng tôi chỉ tấn công trực tiếp, không thể nhìn thấy tôi khi tôi trèo lên tường và nhảy lên trần nhà.
+\
+` Đi dọc theo tường như một con nhện, chân tôi chạm vào trần chỉ một lần.@
+` Không phải tôi có thể thực sự trở thành một con nhện đâu.@
+` Khi xoay người, tôi chỉ dùng trần nhà làm điểm tựa.@
+br
+` Khoảng cách này đủ tốt.@
+` Trước khi cơ thể tôi rơi xuống, tôi dùng chân đẩy khỏi trần nhà.
+\
+bg "bg/bg_11d",tshutter,400
+`"[line=6]Ờm... ừm?"@
+` Nhìn của Akiha chuyển lên trên, cảm giác cháy rát trở lại tay và chân tôi.@
+` Cảm giác đó dừng lại ở cánh tay và một chân.@
+` Có lẽ chúng không còn tồn tại nữa.@
+` Nhưng tôi không còn cần chúng nữa.@
+` Cơ thể tôi đã có tốc độ mình cần.@
+` [line=4]Như thế này...
+Lắc lư 3,50
+br
+`"[line=8]Kyaa?!"@
+br
+` Tôi va vào Akiha.
+\
+bg #000000,notrans,0
+`"[line=8]Tại sao, cô lại?"@
+` Akiha nâng đầu lên.@
+` Khi ở gần cô ấy như vậy, cô ấy có thể dễ dàng tìm thấy tôi và hủy diệt cơ thể tôi.@
+bg "bg/ima_14",lshutter,400
+br
+` Vì vậy,
+` Trước khi điều đó xảy ra, tôi cắt nó ra.@
+br
+` Cổ tay mong manh. Tôi cắt ngang qua động mạch đang đập của cô ấy.@
+` Không phân biệt da thịt, cơ bắp, động mạch hay xương của cô ấy, một cú hích tàn nhẫn và vô tình như nhổ một bông hoa, không để lại bất kỳ nỗi đau lộng lẫy nào.
+\
+monocro #ff0000
+bg "bg/bg_11d",lshutter,800
+play "*9"
+br
+br
+br
+br
+br
+br
+br
+` Một tiếng vang.
+\
+` Trên sàn nhà cứng, một vật hình cầu nặng nề rơi xuống.@
+` Mọi thứ đã kết thúc. Đôi mắt cô ấy ngơ ngác nhìn vào bức tường hành lang, có lẽ sẽ như vậy mãi mãi.
+\
+br
+`"Đó là điều cuối cùng em thấy sao?"@
+br
+` Với đôi mắt thấp hơn cả chó hay mèo, cô ấy nhìn về phía bức tường bẩn thỉu.@
+` Mọi thứ đều chìm trong bóng tối. Chết trong khung cảnh này, giống như một trò đùa tệ hại.@
+br
+`"... Người già không dạy em rằng tận hưởng việc giết chóc là nông cạn, Akiha ạ?"@
+br
+` "…… Thật vô dụng. Tohno Makihisa quá nông cạn, nên việc cô ấy mắc lỗi như vậy là không thể tránh khỏi."
+\
+`"…… Thật đáng tiếc. Ngay cả khi cậu có tài năng này, ngọn lửa tạo nên cậu lại quá yếu."@
+br
+` Đó là lý do tôi có thể giết cô ấy một cách dễ dàng.@
+` Làm những việc vô nghĩa như tận hưởng việc giết chóc.@
+` Bạn đã làm điều đó, nên cậu đã chết.@
+` Ở nơi này, một mình.@
+` Mất mát mãi mãi, nhìn vào bức tường không ai để ý, ngay cả khi để lại những cơn đau đớn cuối cùng của cái chết.@
+br
+`"…… …… Ha."@
+br
+` Hmph.@
+` Ngay cả khi cô ấy là chị gái tôi, cô ấy trông thật đáng thương.
+\
+`"[line=11]Ahh."@
+` Nhịp thở của tôi dừng lại và bắt đầu trở lại.@
+` Cơ thể bị cháy xém của tôi cảm thấy sức mạnh đang chảy vào một lần nữa.@
+` ... Vì Kohaku-san đã chết, cơ thể tôi đang mất dần sức mạnh.@
+` Nhưng kể từ khi Akiha qua đời, có vẻ như tôi đang quay trở lại bình thường.@
+` Này, để bắt đầu,
+` Tôi cảm nhận được cơ thể, đầu và trái tim này, ngay cả khi tôi ôm chúng và sống, chẳng có gì thay đổi.[line=7]
+\
+` *(hít thở gấp)[line=3]* *(hít thở gấp)[line=4]* *(hít thở gấp)[line=4]*
+` Nhịp thở của tôi trở lại.
+\
+` Tay và chân tôi vẫn tê cứng, nhưng dường như vẫn giữ được hình dạng.[@]@
+` Trên sàn nhà, máu của Akiha cuối cùng cũng bắt đầu lan ra xung quanh.[@]@
+`"[line=10]Aah... aah..."[@]@
+` Khi bò đến tường, tôi cố đứng dậy bằng một chân.[@]@
+` Tôi mở cửa sổ và làn gió tươi mát tràn vào.[@]@
+` Gió lạnh thổi qua hành lang chập chùng.
+\
+`"[line=7]Ha... Ha ha, hì..."@
+` Gió này thật dễ chịu.@
+` Nó làm dịu cơ thể đang cháy bỏng của tôi và cơn đau đầu cũng ngừng lại.@
+`"[line=4][line=4]Haha... Hì... ah..."@
+`  Tại sao vậy?@
+` Chỉ có suy nghĩ của tôi, như đầu óc tôi đang trở nên trống rỗng. Mọi thứ đều giống nhau và tầm nhìn của tôi vẫn không trở lại bình thường từ thế giới đỏ mà tôi đang ở.
+\
+bg "bg/ima_01",crossfade,400
+` "[line=6]Trên đầu tôi là mặt trăng màu đỏ."@
+br
+` Tôi nhớ về giấc mơ ấy.@
+` Mặt trăng kia đang nhìn xuống kẻ giết người đó.@
+` Ngay cả lúc đó, nó vẫn là một mặt trăng xinh đẹp, vậy tại sao?@
+` Tại sao nó không thể chiếu sáng tôi một cách bình đẳng vào đêm nay?@
+br
+` [line=5]Như một con rắn.@
+br
+` Như một con mắt đỏ sưng húp, nó nhìn chằm chằm vào tôi.@
+` Chằm chằm. Con mắt đỏ kia đang nhìn tôi với sự tập trung mãnh liệt.
+\
+` Đỏ.@ Mắt đỏ, đỏ, đỏ.@
+`"[line=4]... Ha... ha... Tôi hiểu rồi."@
+` Điều đó làm mọi thứ trở nên rõ ràng.@
+` Cái mà Akiha nhìn thấy trong những khoảnh khắc cuối cùng của cô ấy không phải là bức tường.@
+` Cô ấy đang nhìn về Nanaya Shiki khi anh ta tiến lại gần, cắt cổ cô ấy một cách máy móc.@
+`"... Tôi hiểu rồi. Vậy thì... nó sẽ không biến mất, phải không?" [line=4]@
+` Sau đó, mặt trăng sẽ luôn đỏ.@
+` Trong đôi mắt cô ấy, kẻ giết người vẫn đang cháy bỏng.@
+` Điều đó không thể bị xóa nhòa.
+\
+` Đó là lý do dù mọi thứ đã kết thúc, tôi vẫn không biết mình phải đi đâu.@
+` Tôi đã mất Kohaku-san, thậm chí còn giết Akiha.@
+` Thật ra, không có nơi nào tôi có thể đến được.@
+` Tất cả mục đích, ngay cả bản thân tôi, đều biến mất.@
+` Dù vậy, chân tôi vẫn lết dần xuống hành lang.@
+br
+` [line=4]Trời trên đầu vẫn mang theo con mắt khổng lồ đó.@
+br
+` Với Akiha vẫn đang quan sát, Nanaya Shiki cất bước về một nơi nào đó.
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w4000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

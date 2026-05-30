@@ -1,0 +1,116 @@
+playstop
+bg "bg/bg_40c",crossfade,800
+Vòng lặp âm thanh se_11
+` Để mình một mình, tôi nằm trên giường.@
+` Ngôi nhà này từ tám năm trước...
+` Người thân của tôi từ tám năm trước...
+` Nó có vẻ như thuộc về người khác một chút.@
+` *thở dài*@
+`"| "...Tôi tự hỏi mình sẽ ra sao từ đây?"@
+` Tôi than thở với ai đó, hoặc không ai cả, và sau đó ngủ thiếp đi.
+\
+bg #000000,crossfade,1500
+!w3000
+br
+` Một tiếng gầm gừ vang lên.@
+br
+` [line=3]Tôi nghe thấy âm thanh giống như sóng vỗ của một giọng nói.
+\
+br
+` Awooooo.@
+br
+` [line=3]Có thứ gì đó đang gầm gừ. Âm thanh quá sắc nhọn và cao vút, không thể là con chó lang thang.
+\
+br
+` Awooooo.@
+br
+` [line=3]Tiếng gầm gừ ấy vang vọng trong tai tôi. Nó có phải đang gầm lên với mặt trăng?
+\
+br
+` Awooooo.@
+br
+` [line=3]Điều này không đúng. @ Tiếng gầm rú của con quái vật bắt đầu khiến tôi đau đầu.
+\
+br
+` Awooooo.@
+br
+` [line=3]Nó không dừng lại.
+\
+br
+` Awooooo.@
+br
+` Awooooo.@
+br
+` Awooooooooooooooo! [line=3]
+\
+bg "bg/bg_40d",crossfade,400
+`"…… Ồ, im đi đi!"@
+br
+` Tôi thức dậy.@
+` Tôi nghe thấy tiếng chó sủa bên ngoài cửa sổ.@
+` Đồng hồ chỉ vừa qua 11 giờ.@
+` Điều này không chỉ là phiền toái của khu phố.
+\
+`"Chúa ơi, tôi không thể ngủ như thế này!"@
+` Tiếng sủa của con chó vang lên từ gần hàng rào biệt thự.@
+br
+` ... Tôi không nghĩ mình có thể ngủ lại được với tốc độ này.
+\
+playstop
+bg "bg/bg_40c",crossfade,800
+[loop âm thanh se_11]
+` Để lại một mình, tôi nằm trên giường.@
+` Ngôi nhà này từ tám năm trước...
+` Người họ hàng của tôi từ tám năm trước...
+` Nó có vẻ như họ thuộc về người khác một chút.@
+` *thở dài*@
+`"…… Tôi tự hỏi mình sẽ gặp điều gì bây giờ?"@
+` Thầm than vãn với không ai cụ thể, tôi ngủ thiếp đi.
+\
+bg #000000,crossfade,1500
+!w3000
+br
+` Aoooo.`@
+br
+` [line=3]Tôi nghe thấy âm thanh giống như sóng của một giọng nói.
+\
+br
+` Awoooo.`@
+br
+` [line=3]Có thứ gì đó đang gầm gừ.@ Nó quá sắc nhọn và cao vút đến mức không thể là con chó lang thang.
+\
+br
+` Aoooo.`@
+br
+` [line=3]Tiếng gầm ấy vang vọng trong tai tôi.@ Có phải nó đang gầm lên với mặt trăng?
+\
+br
+` Một tiếng gầm rú vang lên.@
+br
+` [line=3]Cảm giác này không đúng. Tiếng gầm gừ dữ tợn bắt đầu khiến tôi đau đầu.
+\
+br
+` Một tiếng gầm rú khác.@
+br
+` [line=3]Nó không ngừng lại.
+\
+br
+` Tiếng gầm rú liên tục.@
+br
+` Tiếng gầm vang vọng.@
+br
+` Awooooooooooooooo... [line=3]
+\
+bg "bg/bg_40d",crossfade,400
+`"... Đừng gầm nữa đi!"@
+br
+` Tôi thức dậy.@
+` Tôi nghe thấy tiếng một con chó sủa bên ngoài cửa sổ.@
+` Đồng hồ chỉ thời gian đã qua 11 giờ.@
+` Điều này không chỉ là phiền toái của khu phố.
+\
+`"Chết tiệt, tôi không thể ngủ như thế này!"@
+` Tiếng sủa của con chó đến từ gần hàng rào của biệt thự.@
+br
+` …… Tôi dường như không thể ngủ lại được với tốc độ này.
+\

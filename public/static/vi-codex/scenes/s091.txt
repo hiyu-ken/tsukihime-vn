@@ -1,0 +1,343 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_19d",notrans,0
+` [line=6]"Được rồi."@
+` Tôi đã quyết định từ đầu rồi.`@
+` Lấy con dao ra khỏi túi, tôi tiến lại gần cánh cửa.`@
+ld c,"tachi/ark_t06",crossfade,400
+` [line=4]"Shiki?"@
+` Tôi đi xem xét một chút. Không rời khỏi phòng này cho đến khi tôi trở lại.`@
+` Tôi bước ra hành lang, rũ bỏ ánh nhìn của Arcueid như cô muốn nói điều gì đó.
+\
+bg #000000,lcartain,800
+bg "bg/bg_20a",lcartain,800
+` Không ai ở hành lang.`@
+` …… Tôi không nghe thấy bên trong, nhưng hành lang thì ồn ào.`@
+` Nó chẳng hẳn là lầu này ồn ào.`@
+` Ngược lại, tiếng động đến từ dưới chân tôi.`@
+` Dưới đây có vẻ như đang ồn ào lắm; tôi nghe thấy rất nhiều người nói chuyện.@
+br
+` … kỳ lạ.@
+` Đã qua bốn giờ sáng.@
+` Thậm chí giả sử có người thức dậy sớm, cũng không bình thường khi nhiều người như thế thức giấc lúc này.
+\
+` ……… Dường như chưa có gì lạ.@
+` Tôi đi xuống hành lang.@
+br
+` Tiếng động từ bên dưới giống tiếng sóng biển.@
+br
+` Âm thanh[line=2] và lại rất cô độc, vô hoạt.
+\
+` [line=6]!@
+` Ngón tay tôi nắm chặt con dao cảm thấy tê m numbness.@
+` Một cơn lạnh chạy dọc sống lưng tôi.@
+` Có thứ gì gần trán tôi.@
+` Đau xuất phát từ sau mắt tôi.@
+br
+` Chịu đựng nó, tôi đi xuống hành lang.
+\
+` [line=6]@
+` Nó… đau.@
+` Mắt tôi… đau.@
+` Đầu tôi nặng trĩu, và tôi cảm thấy một cảm giác lơ mơ như sắp ngã xuống ngay đây.@
+br
+` Ừ, tôi biết điều này là gì. Đây là cảm giác tôi có ngay trước khi tôi ngất vì thiếu máu.
+\
+` Ah[line=4]gu………!@
+br
+` Đau.@
+` Đau.@ Không thể chịu đựng được nữa, tôi tháo kính.
+\
+bg "bg/bg_20b",crossfade,800
+` …… Có hai thang máy.@
+` Một chiếc dừng ở tầng một, chiếc kia ở tầng năm.@
+` ………@
+` Có cảm giác khó chịu trong không khí.@
+` Một cảm giác ngột ngạt, căng thẳng.@
+` Tôi nhấn nút để gọi thang máy.@
+` Tôi chỉ muốn biết chuyện gì đang xảy ra ở tầng dưới bây giờ.
+\
+` Thang máy đi lên.@
+` …… Tầng sáu.@
+!w500
+` …………… Tầng bảy.@
+!w1000
+` ………………………… Tầng tám.@
+!w1500
+` ……………………………………… Tầng chín.
+\
+` [line=2]Curses! Sao lại thế này?@
+` Thang máy thật chậm chạp.@
+` Có một[line=2]cảm giác mơ hồ, giống bóng ma, về điều gì đó không thể đảo ngược[line=2]
+br
+` ………………………… Tầng mười.@
+br
+` Chỉ còn một tầng nữa thang máy sẽ đến đây.
+\
+` [line=6]Nhanh lên.@
+` Hít thở của tôi khựng lại.@
+` Tôi nhận ra tất cả tiếng ồn từ bên dưới giờ đây đã khuất hẳn.`@
+br
+bg #ffffff,crossfade,400
+bg "bg/bg_20b",crossfade,400
+` Với một tiếng "ding" điện tử ngớ ngẩn, thang máy dừng lại.`@
+` Cửa mở.`@
+` Không có ai bên trong.`@
+` Nội thất chiếc hộp thép hẹp này thật bất ngờ là sạch sẽ và gọn gàng.`
+\
+bg "bg/ima_10b",lcartain,800
+` [line=6]" "@
+` Tôi bước vào, nhấn nút cho tầng mười.`@
+` Với một tiếng động nặng nề, thang máy hạ xuống.@
+` Chỉ cần xuống một tầng thôi mà cảm thấy xa lạ ghê.`@
+` Bảng tầng hiện tại chuyển sang hiển thị tầng mười.`@
+` [line=2]Cuối cùng.`@
+br
+` [line=3]Bỗng dưng
+bg #000000,notrans,0
+playstop
+` Cả thế giới chìm trong bóng tối.
+\
+waveloop se_02
+` ………!?`@
+br
+` Đêm đen. Tối tăm pitch black.`@
+` Màn đêm đen như mực, chẳng có ánh sáng nào.`@
+br
+` Trong điều đó,
+` tất cả tôi nhìn thấy chỉ là ánh nhạt mờ của những 'đường' tử thần.
+\
+` [line=2]"Tại sao?"@
+` Hơi thở của tôi đóng băng trong cổ họng.@
+` Tất cả xung quanh, có một loại tiếng động[line=2]một loại tiếng rít gào như tiếng côn trùng bò xung quanh[line=2]có thể nghe thấy.
+\
+br
+br
+` *rì rào*@
+br
+br
+` *rì rào* *rì rào*@
+br
+br
+` *rì rào* *rì rào* *rì rào* *rì rào* ……!
+\
+` [line=5]["……!"]@
+` Tôi sắp hét lên, nhưng tôi kìm nén tiếng gào thét của mình.@
+` …… Trước tiên, tôi phải xem xét tình hình…@
+` Đúng như Sensei đã dạy tôi cách đây lâu lắm rồi.@
+` …… Và sau đó, hãy suy nghĩ kỹ lưỡng…@
+` Hít một hơi thật sâu, tôi cố gắng để bình tĩnh lại.
+\
+` …… Tôi thấy…… Tạm ngắt điện.@
+` …… Nhưng khách sạn như thế này nên có máy phát dự phòng cho những trường hợp như vậy.@
+` Chắc chắn là có vấn đề gì đó với dây cáp, nếu ngay cả điều đó cũng không hoạt động.
+\
+br
+br
+br
+br
+br
+br
+br
+` *rì rào* *rì rào* *rì ràaaaaaaaul*
+\
+` ……!@
+` Gripping the knife, I tense up.@
+` Tiếng động của côn trùng bò đang đến từ khu vực thang máy.@
+` Cũng như…
+` Cảm giác như có hàng trăm con gián khổng lồ bám vào bên ngoài thang máy.
+\
+` [line=2]Không nên ở lại đây.@
+` Màn hình dừng lại khi tầng mười được bật sáng.@
+` Rồi nếu tôi mở cửa, tôi sẽ ở tầng mười chứ?@
+` [line=4]Tôi đoán là mình phải cắt nó đi.@
+` Tôi thì thầm vào chính mình.@
+` Đâm lưỡi dao vào đường 'chỉ' duy nhất tôi có thể nhìn thấy, tôi cắt đứt cánh cửa thang máy.
+\
+monocro #0f00f0
+bg "bg/bg_20b",lshutter,800
+` …… !?@
+` Ngay khi cánh cửa mở[line=2]Tôi bị bao phủ bởi một mùi hôi thối ngột ngạt.@
+` Tầng mười tràn ngập nó.@
+` Nó dày đến nỗi chỉ cần thở cũng đủ để tắc nghẽn đường hô hấp của tôi.
+\
+` [line=5]@
+` Nhưng ngay cả như vậy, nếu tôi bước ra ngoài, tôi sẽ ở trong hành lang tầng mười.@
+` Ở xa xa, có ánh sáng mờ nhạt của đèn báo lối thoát hiểm.@
+` Ngoài ra, thế giới được phủ một màu đen tối.@
+` Tôi bước ra ngoài.@
+` …… Có ai…@
+` Tôi sắp nói 'có', nhưng tôi dừng lại.@
+` Tôi không chắc tại sao, nhưng tôi cảm thấy như thể việc hét lên là một ý tưởng tồi.
+\
+` Tôi bước thêm một bước.@
+` Chậm rãi, tôi đi vào hành lang.@
+` Hẻm đường ngột ngạt mùi hôi thối kinh khủng.@
+` Mùi thô thiển. Mùi của quái thú.@
+` Cùng với tiếng nghiền xương vọng từ đâu đó.
+\
+` ………@
+` Từ lúc nào tôi đã có một cơn đau nhói ở cổ rồi.@
+` Tối đen thật đáng sợ.@
+` Sự im lặng này thật đáng sợ.@
+` …… Phải tìm ra chuyện gì đã xảy ra ở đây mới kinh khủng hơn mọi thứ khác.@
+` Cơn đau từ cổ chạy lên sống lưng ngăn tôi run sợ.@
+` Đau đớn đó,
+` là giá phải trả cho những nỗ lực tuyệt vọng của tôi để kìm nén cơn muốn hét lên và chạy trốn.
+\
+br
+br
+` *rì rào* *rì rào* *rì rào*@
+br
+br
+` *cọ xát* *cọ xát* *cọ xát*@
+br
+br
+` *xước* *xước* *xước*
+\
+` Ha…!@
+` Hít thở của tôi trở nên rối loạn.@
+` Cơ thể tôi mồ hôi nhễ nhại.@
+` …… Bên tay cầm dao, tôi không thể bước đi thêm nữa.@
+` Tôi có cảm giác rằng nếu tôi di chuyển một chút, tôi sẽ nhìn thấy điều kinh khủng vô hình.
+\
+` *thở hổn hển* *thở hổn hển*@
+` Nhưng tôi thật sự sẽ gặp rắc rối nếu không quay trở lại phòng trên.`@
+` …… Ở lại tầng này còn tệ hơn.`@
+br
+` Mỗi giây trôi qua như bào mòn một năm cuộc sống của tôi.@ Cảm giác cái chết đang đến gần với tốc độ kinh khủng.`
+\
+` Cái thở của tôi trở nên nhanh hơn, gấp gáp hơn.`@
+` May mà tôi thấy cầu thang thoát hiểm nhờ cái đèn này.`@
+` Ở cuối hành lang.@
+` Nếu tôi có thể chạm đến đèn báo khẩn cấp màu xanh kia, tôi có thể quay lại lầu trên.@
+br
+` Bắt chặt lưỡi dao, tôi bước xuống hành lang tối.
+\
+br
+br
+br
+br
+br
+br
+` [line=5] *splash*
+\
+` Tôi nghe thấy cái gì đó từ dưới chân tôi.
+\
+` [line=5]" "@
+` Tôi đoán hành lang này ngập nước rồi.`@
+` Dù đi cũng cứ đá phải thứ này thứ kia.`@
+` [line=5]" "@
+` Mặc dù vậy, tôi vẫn im lặng.`@
+` Chịu đựng mùi hôi thối ngạt thở, tôi đi về phía đèn báo khẩn cấp.`@
+` Chỉ còn vài mét nữa thôi.`@
+` Rồi tôi thấy cái gì đó đang rúc rích dưới ánh đèn khẩn cấp.
+\
+` ……… À?`@
+` Tôi im lặng một lát rồi nói.@
+br
+` Âm thanh nát nhở, ấm áp.@
+` Âm thanh khô, rít gào.@
+` Hơi thở hổn hển dữ tợn của những con thú.
+\
+` [line=2]Ha@
+` Dưới ánh đèn xanh lá cây của cầu thang thoát hiểm…
+` Mọi loại động vật đều đang tụ tập quanh một đối tượng hình người.@
+br
+` Tôi không thể biết chính xác những loài động vật nào đang ăn nó.@
+` Hành lang tối đen, đèn khẩn cấp quá yếu.@
+` Vì vậy, tất cả những gì tôi có thể thu thập được chỉ là hình ảnh này.
+\
+` [line=3]Rất nhiều con kiến ​​đang ăn thịt người trong khi phát ra tiếng rít gào cười vang.@
+` Đó là cách duy nhất tôi có thể giải thích cơn ác mộng này.
+\
+` *rì rào*@
+` Có tiếng động đến từ phía thang máy.
+\
+` Ha[line=4]@
+` Tôi quay lại.@
+` Có lẽ vì mắt tôi đã quen với bóng tối?@
+` Hoặc có thể là nhờ ánh sáng từ cầu thang thoát hiểm, nhưng bây giờ tôi nhìn rõ điều kiện của hành lang mà tôi vừa đi qua.
+\
+monocro #ff0000
+bg "bg/bg_20b",crossfade,400
+` Hành lang như một biển đỏ.@
+` Ngủ lăn trong biển đó là cánh tay và chân người.@
+` Hành lang bị ngập nước. Những vật cứng, xù xì mà tôi cảm thấy trên chân mình.@
+` Chắc là tôi đang dẫm lên thứ gì đó.@
+` [line=6]@
+` Tôi trống rỗng.@
+` Chỉ có sàn nhà màu đỏ.@
+` Trên trần và tường bám đầy những thứ đen sì.
+\
+` Không phải vì thiếu ánh sáng mà chúng trông đen như vậy.@
+` Chúng vốn dĩ là màu đen.@
+` Chúng không có hình dạng rõ ràng, bám vào trần và tường như chất lỏng.@
+` Nhưng tôi biết chúng là động vật từ ánh mắt.@
+` Những con mắt lấp lánh của nhiều hình dạng giống thú đều tập trung vào tôi, người duy nhất còn sống[line=5]
+\
+` Hya……@
+` Tôi kìm nén được tiếng gào thét của mình.@
+` Những con quái vật đang nhìn tôi chăm chú.@
+` Chúng giữ hơi thở, chờ đợi tấn công tôi ngay khi tôi hét lên.@
+` Ha[line=3]hhh.@
+` Tôi cố gắng điều chỉnh nhịp thở rối loạn của mình.@
+` Tôi có thể cảm nhận rõ ràng rằng ngay khi tôi kêu lên, chúng sẽ tấn công tôi một lúc.@
+` Không có sinh vật nào trên tường có cùng đôi mắt.@
+` Thật gần như ngớ ngẩn khi nhìn thấy ngay cả những con mắt giống cá mập bám vào tường.
+\
+` …………@
+` Tôi ra lệnh cho đôi chân di chuyển, nhưng chúng không nhúc nhích được một tý.@
+br
+` [line=4]Tôi không thể di chuyển.@
+br
+` Chân tôi sẽ không di chuyển sau khi đã nhìn thấy một thế giới như thế này.
+\
+br
+br
+br
+br
+br
+br
+br
+` *grind* …… *grind* …… *gr* …… *ind* ……
+\
+` Tiếng động từ dưới đèn khẩn cấp ngày càng nhỏ đi.@
+` Những con quái vật đó chắc đang tiêu diệt xác chết.@
+` ………@
+` Hít thở của tôi bị vướng lại.@
+` Tiếng động rì rào tiến lại gần hơn.@
+` Có vẻ[line=2]những sinh vật đã tìm thấy con mồi tiếp theo tên là Tohno Shiki.
+\
+` Ah………@
+` Nhưng chân tôi không thể di chuyển.@
+` Thế giới này quá khác biệt, tâm trí tôi không hoạt động bình thường.@
+br
+` [line=3]Tôi đã phạm sai lầm.@
+` Tôi không nên đến tầng này[line=4]
+\
+monocro off
+bg #000000,notrans,0
+!w2000
+br
+` Thì.[line=3]@
+br
+` Tôi nghe thấy một âm thanh quá quen thuộc.@
+` Âm thanh rất bình thường của những bước chân người.@
+` Một âm thanh hoàn toàn bình thường, hợp lý từ thế giới mà tôi sống cho đến một lúc trước.
+\
+` Aaaaaaah[line=4]!@
+` Minds tê liệt của tôi đổ vào đôi chân bị tê bại.@
+` Tôi chạy.@
+` Đánh bay máu đầm đìa trên hành lang, tôi lao về phía đèn khẩn cấp.@
+` Chạy!@
+` Tôi phải rời khỏi nơi này càng nhanh càng tốt…!
+\
+` Nhưng đó là một sai lầm.@
+` Phản ứng với cú lao của tôi, những thứ đen kịt bám trên tường và trần nhà lao theo sau tôi như sóng nước.@
+` [line=4]!@
+` Tôi lao về phía cầu thang hết tốc lực.@
+` Nhưng làn sóng đen nhanh gấp nhiều lần tôi, và trong một nháy mắt, cơ thể tôi[line=2]
+\
+wavestop

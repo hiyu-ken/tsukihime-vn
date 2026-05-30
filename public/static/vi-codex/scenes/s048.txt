@@ -1,0 +1,74 @@
+playstop
+waveloop se_11
+bg "bg/bg_40d",notrans,0
+` Tiếng gào thét vẫn vang vọng.@
+` Không thể nào tôi ngủ như thế này.`@
+` …… Tôi không ngủ được, nhưng cũng bình thường thôi.`@
+` “…… Tôi buồn ngủ nên thôi.”`@
+` Đeo tấm chăn lên người, tôi duỗi thẳng người ra trên giường.`@
+` Tôi chỉ nghĩ tiếng gào thét kia như tiếng xe chạy trên đường thôi.
+\
+` *DIPSETTING*: (thở dài)@
+` Hôm nay thật dài.`@
+` Tôi mệt về tinh thần sau bữa tối trong ngôi biệt thự xa lạ này và những cuộc trò chuyện với Akiha cùng mọi người. Sau tất cả, tiếng gào thét chỉ là tiếng động nền.@
+` Tôi nhắm mắt lại và ngủ say một cách nhẹ nhàng.
+\
+bg #000000,crossfade,800
+!w3000
+wave se_09
+bg "bg/bg_40d",crossfade,400
+` [line=3]Nng.@
+` Tôi nghĩ tôi vừa nghe thấy cái gì đó.@
+` Nửa tỉnh nửa mê, tôi nhìn đồng hồ. Vừa qua hai giờ.@
+` …… Đã hơn hai tiếng kể từ khi tôi nghe chó sủa.@
+` Tiếng sủa của chó đã ngừng.@
+` Ngôi biệt thự im lặng đến mức tôi có thể nghe thấy tiếng đồng hồ chạy trong sự yên tĩnh.
+\
+wave se_08
+` [line=6]?@
+` Tôi nghe lại.@
+` …… Bên trong biệt thự… từ sảnh chính?@
+` [line=5]Có thể là tên trộm?@
+` Điều đó không phải là không thể.@
+` Nội dung của biệt thự vô cùng quý giá. Bên cạnh đó, bây giờ chỉ có Kohaku-san, Hisui, Akiha và tôi ở đây, nên rất bất an.@
+` ……@
+` Lấy mình ra khỏi giường, tôi nhẹ nhàng rời khỏi phòng.
+\
+bg #000000,lcartain,800
+play "*6"
+bg "bg/bg_46c",lcartain,800
+` Nếu là tên trộm, Akiha và mọi người sẽ bị nguy hiểm, nên tôi không thể để nó qua.@
+` Tôi chỉ nhìn xuống từ tầng hai vào sảnh chính; điều đó nên đủ an toàn.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+` Không có gì sai trái ở đó.@
+wave se_08
+` …… !@
+` Không, có ai đó ở đây.`@
+` [line=3]Cánh cửa mở ra, một bóng người bước vào, lảo đảo qua sảnh.
+br
+ld c,"tachi/aki_t19b",crossfade,800
+cl a,crossfade,800
+` Aki… ha?`@
+` Cô ấy không lên phòng của mình ở tầng hai mà đi xuống tầng một của khu phía tây.@
+` Chỉ có phòng của Kohaku-san và phòng ông già tôi thôi.`
+\
+` “Cô ấy đang làm cái gì lúc này?”`@
+` Mình có thể lẩm bẩm bao nhiêu tùy ý, nhưng cũng chẳng ai trả lời đâu.`@
+` Sau một hồi ngắm nhìn sảnh chờ, tôi quyết định quay trở lại phòng mình.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_40d",lcartain,800
+` Ừm, cô ấy chắc có việc bận hoặc đi gặp Kohaku.`@
+` Tôi thấy mình thật tồi tệ khi lén lút quan sát cô ấy và tôi cũng chẳng muốn hỏi về mọi việc cô ấy làm.@
+` “...... Ngủ đi, ngủ đi. Hôm sau còn phải đi học.”`@
+` Tôi chui vào giường rồi nhắm mắt lại.`@
+br
+bg #000000,crossfade,800
+` [line=3] Khi tôi chìm vào giấc ngủ,
+br
+` Tôi cứ nghĩ mãi về hình bóng hốc mắt của Akiha ở trong sảnh... và cảm giác như có điều gì đó không ổn.`
+\
+!w3000

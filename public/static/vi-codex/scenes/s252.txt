@@ -1,0 +1,38 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` Tôi cảm thấy không muốn quay thẳng về biệt thự ngay lúc này, nên quyết định đi lang thang quanh thành phố một lát.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25a",lcartain,800
+` [line=3]Chẳng hiểu vì sao, chân tôi lại tự dẫn lối đến trước ga tàu.@
+br
+` Kể từ khi được gọi trở lại sống ở biệt thự Tohno, tiền tiêu vặt của tôi bỗng trở nên vô cùng eo hẹp, thế nên tôi thực sự không muốn tiêu pha tiền bạc gì ở nơi đây cả.
+\
+` Hồi còn sống ở nhà Arima, chị Keiko vẫn luôn cho tôi một ít tiền tiêu vặt mỗi khi tôi giúp dọn dẹp nhà cửa hay chăm sóc cây cối trong vườn…… nhưng từ ngày dọn về biệt thự này, tôi biết chắc mình chẳng thể nào hy vọng có được nguồn thu nhập như thế nữa.@
+` Tôi cũng muốn đi làm thêm kiếm thêm thu nhập lắm, nhưng Akiha chắc chắn sẽ không bao giờ đồng ý cho phép chuyện đó đâu.
+\
+` ……………… *thở dài*@
+` Nghĩ về tình cảnh ngập trạng rắc rối bế tắc của bản thân lúc này, tôi chỉ biết khẽ thở dài thườn thượt.
+\
+bg #000000,lshutter,800
+bg "bg/bg_25a",lshutter,800
+` Chẳng làm gì cả, tôi chỉ ngồi bần thần lặng lẽ dõi theo dòng người qua lại trên phố.@
+` Tôi cứ ngồi ngây người giết thời gian suốt một tiếng đồng hồ trôi qua, cho đến khi tự nhận thức được việc làm này của mình thật vô nghĩa làm sao.
+\
+`"…… Rốt cuộc mình đang làm cái quái gì thế này?"@
+` Chính bản thân tôi cũng chẳng thể tự đưa ra câu trả lời rõ ràng nữa.@
+` Phải chăng sâu thẳm trong lòng, tôi đang thầm hy vọng rằng nếu cứ chăm chú nhìn vào dòng người tấp nập kia, mình sẽ vô tình bắt gặp một bóng dáng kiều diễm với mái tóc vàng óng ả lướt qua chăng?
+\
+`"…… Thật là ngớ ngẩn quá đi mất.@ Mày sẽ không bao giờ được gặp lại Arcueid nữa đâu, Shiki à."@
+` Tôi đứng thẳng dậy không dựa lưng vào tường nữa, rồi lững thững bước đi trở về biệt thự.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_32b",lcartain,1500
+` Tôi đi lên con dốc quen thuộc để quay về biệt thự.@
+` Lúc này còn chưa đến sáu giờ tối nữa.@
+` Vẫn còn một tiếng đồng hồ nữa mới tới giờ ăn tối, nên tôi quyết định về phòng mình để giết thời gian vậy[line=3]
+\
+bg #000000,lcartain,800
+!w1000

@@ -1,0 +1,718 @@
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]Tôi không thể nào phớt lờ nổi linh cảm u ám đang trỗi dậy mãnh liệt trong lòng mình lúc này.@
+br
+` Giữa thời điểm kẻ sát nhân hàng loạt đang lẩn khuất ngoài kia săn tìm con mồi, hành động dại dột đi điều tra tiếng động kỳ lạ trong con hẻm tối thế này thực sự vô cùng ngu ngốc.@
+` Thế nhưng... đầu óc tôi bấy giờ vẫn chập chùng hiện lên nụ cười vô cùng rạng rỡ và ấm áp của Yumizuka ngày hôm qua.
+\
+` Vốn dĩ tuyệt đối chẳng có bất kỳ lý do nào để em ấy hiện hữu nơi đây.@ Thế nhưng nếu em ấy thực sự đang ở đó, em ấy bấy giờ chắc chắn đang rất cần sự cứu giúp của tôi.@
+` …… Tôi chắc chắn sẽ vĩnh viễn không bao giờ tha thứ nổi cho chính mình nếu bấy giờ nhẫn tâm quay lưng bỏ đi.
+\
+`"[line=4]Được rồi."@
+` Hít một hơi thật sâu, tôi khẽ trấn tĩnh lại tinh thần.@
+` Vả lại, nếu tình thế diễn biến đến bước đường tồi tệ nhất, tôi vẫn luôn còn sở hữu "đôi mắt" đó của mình.@
+` Sensei dẫu từng dặn dò tôi tuyệt đối không được phép tùy tiện sử dụng đôi mắt này, thế nhưng cô ấy chắc chắn sẽ bao dung thấu hiểu nếu tôi gượng dùng nó để chống lại kẻ sát nhân.@
+`"…… Tiếng động đó... nó phát ra từ nơi này……"@
+` Chấn chỉnh lại tinh thần, tôi lẳng lặng cất bước tiến sâu vào con hẻm tối.
+\
+bg #000000,crossfade,800
+bg "bg/bg_30b",notrans,0
+wave se_01
+br
+` [line=3]*Thịch!*@
+br
+` Trái tim trong lồng ngực tôi bỗng đập liên hồi dữ dội.@
+` Con hẻm tối tăm bấy giờ vô cùng tĩnh lặng.@
+` …… Thanh âm kỳ lạ lúc nãy chắc chắn phát ra từ khu vực trống trải phía cuối hẻm.
+\
+br
+wave se_01
+` [line=3]*Thịch!*@
+br
+` Gáy tôi bỗng đau nhức dữ dội như búa bổ.@
+` Hệt như đang co giật dữ dội dưới áp lực kinh hoàng, cột sống nhói buốt kịch liệt tựa như sắp bị xé toạc ra khỏi thể xác.
+\
+br
+wave se_01
+` [line=3]*Thịch!*@
+br
+` Tại sao... rốt cuộc tại sao lại thế này?@
+` Đầu óc tôi hoàn toàn tê liệt chẳng thể suy nghĩ, thế nhưng toàn bộ bản năng sinh tồn đang điên cuồng hét lên báo động.
+\
+br
+wave se_01
+` [line=3]*Thình... thịch...*@
+br
+` Tuyệt đối đừng bước tới.@
+` Tuyệt đối đừng tiến sâu thêm bước nào nữa.@
+` Nếu dại dột đặt chân tới đó, ngươi sẽ vĩnh viễn không bao giờ có thể quay trở lại được nữa.
+\
+br
+wave se_01
+` [line=3]*Thình... thịch...*@
+br
+` Thế nhưng, tất cả đã quá muộn màng rồi.@
+` Tôi vượt qua con hẻm nhỏ để tiến vào khoảng đất trống phía trước.
+\
+bg "bg/bg_31b",crossfade,800
+monocro #ff0000
+play "*4"
+`"[line=4]C-Cái gì……?"@
+` Một tiếng thốt lên yếu ớt, nghẹn ứ nơi cổ họng là tất cả những gì tôi có thể phát ra.@
+bg "bg/ima_13",crossfade,400
+br
+` [line=3]Toàn bộ khoảng sân sau bấy giờ hệt như bị nhuốm trọn trong một tấm thảm đỏ thẫm kinh hoàng.@
+br
+` Từng mảnh chi thể người nằm la liệt, vương vãi khắp nơi giữa đống rác rưởi và gạch đá đổ nát.@
+` Đó tuyệt đối chẳng phải chi thể của loài vật như chó hay mèo.@
+` Đó rõ ràng là những phần tay chân bị đứt lìa của con người, máu đỏ tươi vẫn đang nhỏ giọt từ phần xương thịt mới cứng.
+\
+bg "bg/bg_31b",crossfade,400
+` Cả mặt đất và tường gạch xung quanh đều bị vấy nhuộm bởi những vệt máu đỏ lòm.@
+` Một mùi tanh nồng nặc sộc thẳng vào mũi tôi.@
+` Đặc quánh.@
+` Hệt như một làn sương đỏ vô hình đang thẩm thấu vào từng tế bào trong cơ thể, mùi máu tanh ngột ngạt đến nghẹt thở.
+\
+` Một khuôn mặt.@ Một khuôn mặt.@ Rồi lại một khuôn mặt nữa.@
+` Một khuôn mặt nằm trên chiếc đầu bị chặt lìa, lăn lóc với biểu cảm đau đớn dữ dội.@
+` Một khuôn mặt khác teo tóp hệt như xác ướp cổ đại, bị chém đôi làm hai nửa.@
+` Một khuôn mặt bị khoét rỗng cả hai hốc mắt, biến dạng thảm hại đến mức tuyệt đối chẳng thể nhận diện nạn nhân từng là nam hay nữ.
+`"[line=5]……"@
+` Hoàn toàn bất lực chẳng thể phát ra dẫu chỉ một thanh âm, tôi chỉ biết câm lặng dõi mắt nhìn vào những xác chết la liệt.@
+` Không, những thứ đó tuyệt đối không còn cách nào gọi là cơ thể con người được nữa.@ Dẫu là một tác phẩm điêu khắc tồi tệ nhất trông vẫn còn đẹp đẽ hơn gấp bội.
+\
+` Tổng cộng có bốn thi thể.@
+` Tất cả nằm lăn lóc hệt như những mẩu thức ăn thừa bị vứt bỏ.
+br
+`"[line=4]A... a... a..."@
+br
+wave se_01
+` Tôi há hốc miệng kinh ngạc trước biển xác chết kinh hoàng.@
+` Gáy tôi bấy giờ đau nhức dữ dội,
+` cổ họng khô khốc, và mỗi nhịp thở ra rát buốt tựa ngọn lửa đang thiêu đốt.@
+` Từng đầu ngón tay không ngừng run rẩy, khóe môi méo xệch đi vì hoảng loạn.
+\
+` Cái[line=3]gì thế này?@
+` Rốt cuộc cái thế giới điên loạn trước mắt tôi lúc này là thứ gì?@
+`"[line=4]Màu đỏ."@
+` Đúng vậy.@
+` [line=3]Trước mắt tôi, toàn bộ thế giới xung quanh đều bị nhuộm trọn bởi cái sắc màu kinh hoàng ấy……
+br
+wave se_01
+` Thế nhưng tôi chỉ biết trơ mắt đứng lặng phăng phắc.@
+` Chắc chắn tôi đang dần mất trí rồi.
+br
+wave se_01
+` *Thịch.*@ *Thịch.*@ *Thịch.*@
+br
+` Đứng giữa một cảnh quan kỳ dị, xa lạ đến rợn người như thế này,
+` trái tim tôi lại điên cuồng gào thét đầy phấn khích.
+\
+bg "bg/bg_31b",tshutter,800
+monocro off
+` Một thi thể đang tựa lưng vào bức tường phía trước khẽ nhúc nhích.@
+` Không, không phải thế.@
+` Đó không phải là xác chết.@
+` Sinh vật đó không giống với những phần tay chân bị đứt lìa lúc nãy.@
+` Đó là một cơ thể sống bằng xương bằng thịt, tay chân vẫn còn nguyên vẹn.
+\
+`"A……?"@
+` Tôi nhận ra điều gì đó vô cùng bất thường.@
+` Đứng giữa cảnh tượng gớm ghiếc này, phản ứng khi chứng kiến một sinh vật còn sống lại là sự kinh ngạc tột độ chứ tuyệt đối chẳng phải vui mừng.@
+br
+` Thế nhưng nếu người đó vẫn còn sống,@
+` thì bằng mọi giá tôi bắt buộc phải cứu giúp họ.
+\
+`"Này[line=3]có ai ở đó không……?"@
+` Với tâm trí tê liệt, tôi gượng bước chậm rãi tiếp cận bóng người sống sót kia.@
+br
+`"[line=3]G-Gih..."@
+br
+` Sinh vật đó cố sức gượng dậy từ giữa vũng máu đỏ thẫm, rồi từ từ ngước khuôn mặt kinh hoàng lên nhìn thẳng vào tôi.@
+` Một khuôn mặt teo tóp hệt như hộp sọ khô vô hồn.
+\
+bg #000000,notrans,0
+`"Á[line=4]!!!"@
+` Theo phản xạ tự nhiên, tôi vội vàng nhảy lùi lại phía sau.@
+` Thế nhưng sinh vật xương xẩu đó di chuyển nhanh hơn tôi gấp bội.@
+` Phát ra những thanh âm thở dốc khè khè "Hyuuu! Hyuuu!", nó điên cuồng lao thẳng về phía tôi.
+br
+` [line=4]"Hyuu! Hyuu!"@
+br
+` Tiếng rên rỉ gớm ghiếc vang vọng ngay sát bên tai tôi.@
+` Nhìn cận cảnh xuống, có một cái lỗ khổng lồ ngay giữa cổ họng của nó[line=3]khiến nó không thể cất lời nói rõ ràng.
+\
+`"[line=4]Á!"@
+` Khuôn mặt khô héo cùng đôi cánh tay khẳng khiu của nó điên cuồng vươn tới chộp lấy tôi.@
+` Sâu bên trong cổ họng của cái xác di động này, dây thanh quản rung động phát ra những âm thanh gầm rú kinh hoàng.@
+`"Uwaaaahhhhh!"@
+` Tôi điên cuồng dùng hết sức bình sinh gồng mình đẩy nó ra.@ Thế nhưng nó chỉ càng nâng cao những thanh âm gầm rú và kiên quyết không chịu buông tha.
+\
+` Với tiếng răng rắc kinh tởm, hàm sọ khô khốc của nó hoác rộng ra kịch liệt.@
+` Khuôn miệng rộng hoác đó đủ sức xé toạc toàn bộ vai tôi chỉ bằng một cú đớp, rồi nó dí sát bộ mặt kinh tởm vào mặt tôi hệt như đang gào rú: "Tôi không muốn chết, có ai cứu tôi với!".@
+`"D-Dừng[line=4]"@
+` Tôi thậm chí không thể cất tiếng hét "dừng lại".@
+` [line=3]Sinh vật chỉ còn da bọc xương đó đang toan đớp vào đầu tôi bỗng nhiên đột ngột ngã quỵ xuống đất.
+\
+playstop
+bg "bg/bg_31b",bshutter,800
+`"Ơ kìa……?"@
+` Toàn bộ sức mạnh khủng khiếp đang áp chế tôi bỗng chốc biến mất.@
+` Cái đống xương tàn dưới hình hài con người kia run rẩy ngã quỵ xuống đất rồi bắt đầu tan rã.@
+` Dần dần,
+` hệt như một giấc mơ tồi tệ, toàn bộ cơ thể nó hóa thành tro bụi rồi bị gió đêm cuốn bay đi mất.
+\
+`"…… Rốt cuộc chuyện quái gì đang diễn ra thế này?"@
+` Cơn đau nhức dữ dội hành hạ bả vai tôi.@
+`"Khực……"@
+` Vai tôi bắt đầu đỏ lên và sưng phồng nơi nó nắm.@
+br
+` Cơn đau đớn này là thực.@ Vậy thì tất cả phải là thực.@
+br
+` Một cơn ác mộng kinh hoàng.@
+` Thế nhưng[line=3]nó không thể là giấc mơ, bởi lẽ tất cả đều vô cùng sống động.
+\
+play "*1"
+`"Tohno-kun.@ Nếu cậu cứ tiếp tục đứng thẫn thờ ở đó thì sẽ vô cùng nguy hiểm đấy."@
+`"[line=4]!"@
+` Tôi vội quay phắt người nhìn về phía sau.@
+` Ngay tại lối vào con hẻm tối mà tôi vừa băng qua, bóng dáng Yumizuka Satsuki đang sừng sững hiện hữu nơi đó.@
+ld c,"tachi/stk_t03",lshutter,400
+`"Yumizuka……san[line=3]?"@
+`"Chào buổi tối nhé.@ Thật bất ngờ khi hai đứa mình lại hội ngộ ở nơi này nhỉ?"@
+` Hệt như thể chúng tôi chỉ tình cờ chạm mặt nhau trong trung tâm mua sắm, Yumizuka cất lời chào hỏi tôi vô cùng nhẹ nhàng.
+\
+`"Yumizuka-san, còn cậu... cậu đang làm gì ở đây vào lúc nửa đêm thế này?"@
+`"Ồ, tớ chỉ đang đi dạo mát thôi.@ Cơ mà Tohno-kun, cậu đang làm gì thế kia?@ Việc ra tay tàn sát nhiều người đến nhường này là xấu xa lắm đấy nhé?"@
+` Yumizuka khẽ nghiêng đầu nói, khóe môi em vẫn nở một nụ cười dịu dàng.
+\
+`"Ra tay tàn sát nhiều người… ư?"@
+` Tôi bàng hoàng dõi mắt nhìn xung quanh.@
+` …… Và rồi tâm trí tôi lại bị kéo trở về với thực tại tàn khốc đang vây hãm lấy mình.@
+` Đứng giữa một biển máu đỏ thẫm kinh hoàng.@
+` Tohno Shiki đang đứng chết lặng trông chẳng khác nào một kẻ sát nhân khát máu vậy.
+\
+`"K-Không phải! Tuyệt đối không phải do tớ!"@
+`"Ơ kìa, rõ ràng mọi người đều đã chết sạch, và Tohno-kun là người duy nhất còn sống đứng đây, nên người xuống tay dĩ nhiên phải là cậu rồi."@
+`"Không thể nào! Chính cái sinh vật quái dị kia vừa tấn công tớ cơ mà……!"@
+` Tôi chỉ thẳng về phía nơi sinh vật kia vừa ngã quỵ lúc nãy.@
+` Thế nhưng, chẳng có gì ở đó cả.@
+` Đến cả tro tàn từ xương cốt của nó cũng đã bị gió đêm thổi bay đi sạch sẽ.
+\
+`"Hự[line=4]"@
+` Tôi bàng hoàng nuốt nghẹn hơi thở.@
+` Yumizuka vẫn đang khẽ mỉm cười thích thú.
+\
+`"Không... tuyệt đối không phải... không phải tớ..."@
+` Đại não tôi hoàn toàn tê liệt, chỉ có thể phát ra những câu từ đứt quãng vô nghĩa.@
+` …… Tôi hiểu rõ.@
+` Tôi có thể suy nghĩ rõ ràng, nhưng hoàn toàn bất lực chẳng thể diễn đạt ý nghĩ thành lời.@
+br
+` Ví dụ, tại sao Yumizuka lại xuất hiện ở nơi hoang vắng này?@
+br
+` Ví dụ, tại sao Yumizuka lại thản nhiên nở nụ cười rạng rỡ trước cảnh tượng tàn sát đẫm máu này?
+\
+`"Yumizuka-san, tớ[line=3]"@
+`"Hihi, tớ biết mà.@ Cậu chỉ là vô tình làm gián đoạn bữa ăn của người khác thôi.@ Xin lỗi vì đã chọc ghẹo cậu quá đáng nhé.@ Bản tính tớ vốn toàn thích hành xử trái ngược với cảm xúc thật, nên mỗi khi đối diện với cậu là tớ lại cư xử bướng bỉnh đáng ghét thế đấy."@
+` Yumizuka vẫn giữ nguyên nụ cười rạng rỡ.@
+` …… Biểu cảm tươi vui đó hoàn toàn lệch lạc so với cảnh tượng đẫm máu xung quanh, khiến sống lưng tôi trào dâng một cơn ớn lạnh.
+\
+playstop
+` Yumizuka vẫn đứng phăng phắc chắn lối vào con hẻm tối.@
+` Hai cánh tay em ấy khẽ giấu ra sau lưng ở tư thế vô cùng bất thường, hệt như đang che giấu thứ gì đó.@
+br
+` [line=3]Dõi mắt nhìn kỹ hơn,
+` tôi nhận ra có những vệt màu đỏ thẫm kỳ lạ đang loang lổ trên tay áo em ấy.
+\
+`"Yumizuka, cậu[line=3]"@
+`"Chuyện gì vậy? Sao mặt cậu trông đáng sợ thế, Tohno-kun?"@
+` Em ấy lại khẽ khúc khích cười.@
+`"[line=6]"@
+` …… Không.@
+` Linh tính mách bảo cô gái trước mặt tôi tuyệt đối không thể là Yumizuka Satsuki ngây thơ ngày nào nữa.@
+`"Yumizuka[line=3]tại sao cậu lại giấu hai bàn tay như thế?"@
+`"A, hóa ra tớ bị cậu phát hiện rồi sao? Quả đúng là Shiki-kun tinh tường lắm, chẳng bỏ qua dẫu chỉ một chi tiết nhỏ nhặt.@
+` Tớ luôn yêu thích cái điểm đó ở cậu, Shiki-kun."@
+` Sau khi nhấn mạnh hai từ "Shiki-kun" đầy ẩn ý,
+` em ấy chậm rãi đưa hai bàn tay ra phía trước.
+\
+ld c,"tachi/stk_t06",crossfade,400
+play "*6"
+` Cả hai bàn tay em ấy bị nhuộm trọn trong một màu đỏ thẫm kinh hoàng của máu tươi.@
+` Dòng máu đỏ tươi chưa kịp khô, đang nhỏ giọt xuống đất thành từng giọt đỏ lòm.@
+` Và đứng sừng sững giữa cảnh tượng đẫm máu đó,
+` Yumizuka Satsuki khẽ nở nụ cười tự hào.
+\
+wave se_01
+`"Yumizuka, đôi bàn tay cậu[line=3]"@
+br
+`"Đúng thế.@ Toàn bộ những người này đều chính tay tớ ra tay tàn sát đấy."@
+br
+`"C-Cái[line=3]"@
+`"Hihi, nhưng cậu hãy yên tâm đi, hoàn toàn không có vấn đề gì lớn đâu.@ Tớ tuyệt đối đâu có tàn sát họ vì lòng căm ghét.@ Chỉ đơn giản là cơ thể tớ đang cần máu tươi của họ để duy trì sự sống thôi, nên tớ bắt buộc phải xuống tay chứ biết sao giờ."@
+` Em ấy thốt ra những lời đó hệt như đang nói về chuyện thường nhật.@
+` Tất nhiên tôi hoàn toàn chẳng thể thấu hiểu nổi.@
+` Thứ duy nhất tôi nhận thức rõ bấy giờ[line=3]chính là dòng máu đang đập mạnh khắp toàn thân.
+\
+` *Thịch.*@ *Thịch.*@ *Thịch.*@
+` *Hah.*@ *Hah.*@ *Hah.*@
+` Hệt như vừa yêu ngay từ cái nhìn đầu tiên với Yumizuka đẫm máu, tôi phấn khích đến mất kiểm soát[line=3]
+\
+`"Cậu… thực sự đã ra tay tàn sát toàn bộ những người này sao Yumizuka?"@
+ld c,"tachi/stk_t03",crossfade,400
+`"Dẫu cho tớ có bảo đó chỉ là lời nói dối thì cậu cũng tuyệt đối chẳng thèm tin đúng không?@ Hay cậu nghĩ một cô bé yếu ớt như tớ không đủ khả năng làm chuyện này?"@
+` Giọng em ấy khẽ cất lên tiếng cười nhẹ nhàng.@
+br
+` [line=3]Tôi không muốn tin.@
+` Tôi không muốn tin, nhưng em ấy chắc chắn không nói dối.@
+` Cảnh tàn sát đẫm máu này.@
+` Tất cả là do chính tay Yumizuka gây nên.@
+`"Tại sao chứ… tại sao lại làm chuyện tàn bạo đến thế này……?"@
+ld c,"tachi/stk_t10",crossfade,400
+`"Không tàn bạo đâu.@ Như tớ nói, tớ không giết họ vì thù hằn.@ Tàn sát sinh vật khác để duy trì sự sống vốn là lẽ tự nhiên, đúng không hả Shiki-kun?"@
+`"Cậu điên rồi…!@ Điều đó vô lý! Sát hại đồng loại là tội ác!"@
+`"Không đâu.@ Nhưng tớ quả thực đã lỡ làm một việc tồi tệ.@ Vì hôm nay là lần đầu tớ uống máu, nên tớ vô tình để một chút máu của bản thân chảy ngược vào thể xác họ.@ Chính vì vậy nên cậu mới bị cái sinh vật đó tấn công, Shiki-kun.
+\
+`"Tớ vô cùng xin lỗi vì đã kéo cậu vào đống rắc rối này.@ Nhưng chúng ta may mắn lắm, nó đã ngã quỵ trước khi kịp hoàn thành quá trình chuyển hóa."@
+`"Rốt cuộc[line=3]cậu đang nói về cái gì thế hả Yumizuka?"@
+`"Cậu chưa thể hiểu thì cũng không sao đâu.@ Chính bản thân tớ lúc này cũng chưa thể nắm bắt rõ ngọn ngành, nên tớ chẳng thể giải thích cặn kẽ hơn được.@
+`"Nhưng… tớ nghĩ chỉ sau vài ngày nữa, tớ chắc chắn sẽ trở nên giống hệt Shiki-kun.@
+` Giống Shiki-kun, trở thành một tồn tại phi thường[line=3]"@
+cl c,lshutter,800
+` Ngay khi thốt ra câu đó, gương mặt em ấy bỗng chốc co rúm lại vì một cơn đau nhức dữ dội.@
+ld c,"tachi/stk_t04",tshutter,800
+`"Ha[line=3]… áu!!!"@
+` Từng thanh âm rên rỉ u uất vang lên từ cổ họng em ấy.@
+` Yumizuka nghẹn ngào nuốt ngược từng ngụm máu đỏ tươi.
+\
+`"Đau[line=3]lắm. Xem ra dẫu có đói cồn cào, tớ cũng không được tùy tiện hút bừa máu.@ Nếu không phải dòng máu thuần khiết, chất lượng, thể xác tớ sẽ phản phệ thế này đây……"@
+` Em ấy bỗng bị cơn ho khan dữ dội ập đến.@
+` Cứ mỗi lần ho là em ấy lại nghẹn ngào nuốt ngược từng ngụm máu đỏ tươi.
+\
+`"N-Không[line=3]á… á!!!"@
+` Toàn thân Yumizuka liên tục co giật dữ dội.@
+` …… Tôi thực sự hoàn toàn chẳng thể thấu hiểu.@
+` Thứ duy nhất tôi nhận thức rõ, chính là Yumizuka đang phải chịu đựng nỗi đau đớn dữ dội thấu xương tủy.@ Chỉ duy nhất chi tiết đó là tôi thấu hiểu rõ ràng.
+`"Cậu ổn chứ, Yumizuka…!?"@
+` Không cần suy nghĩ, tôi vội lao đến hòng nắm lấy tay em ấy.@
+ld c,"tachi/stk_t12",tshutter,400
+`"[line=4]Không! Đừng lại gần tớ nữa, Shiki-kun!"@
+` Thế nhưng thanh âm gào thét của Yumizuka đã khựng bước chân tôi lại.
+\
+ld c,"tachi/stk_t04",crossfade,800
+`"…… Không được đâu.@ Thể xác tớ bấy giờ... thực sự hoàn toàn không ổn, Shiki-kun."@
+` Em ấy nghẹn ngào cất giọng đau đớn, vẫn không ngừng nôn ra máu đỏ tươi.
+\
+`"Yumi… zuka, cậu[line=3]"@
+` Tôi thực sự không hiểu.@
+` Tại sao Yumizuka lại đau đớn, hay tại sao em ấy biến thành dạng này.
+\
+`"Rốt cuộc chuyện gì đang xảy ra vậy?@ Cậu bảo chính mình đã tàn sát họ, nhưng đó là lời dối trá đúng không, Yumizuka…?@ Nếu cậu đau đến thế, cậu phải đi bệnh viện ngay!"@
+` …… Tôi hiểu rõ.@
+` Dẫu đại não đã hoàn toàn thấu hiểu chính Yumizuka là hung thủ, tôi vẫn bướng bỉnh tự lừa dối bản thân.
+`"Này, Yumizuka[line=3]tớ sẽ bước qua đó giúp đỡ cậu nhé?"@
+` Tôi nhẹ nhàng cất giọng xoa dịu em ấy.@
+` Thế nhưng Yumizuka kiên quyết lắc đầu nguầy nguậy từ chối dữ dội.
+\
+`"Tại sao!?[line=3]Nếu cậu đang đau đến thế thì hai đứa mình phải lập tức đi tìm bác sĩ chứ……!"@
+`"Shiki-kun không thể hiểu đâu.@ Cậu từ trước đến nay vốn dĩ có bao giờ thấu hiểu cho tớ đâu chứ……"@
+`"Ngốc nghếch! Tớ đã bảo rồi, tớ là đứa ngu ngốc không thể hiểu nổi……!"@
+`"Hihi… đúng là cậu từng nói thế nhỉ.@ Ấy vậy mà cậu vẫn ở đây……"@
+` Yumizuka bắt đầu chậm rãi lùi bước.
+\
+`"…… Đau lắm, Shiki-kun."@
+` Em ấy thở dốc dồn dập, không ngừng ho ra máu đỏ.@
+`"…… Đau đớn, lạnh lẽo, và tớ thực sự đang vô cùng sợ hãi.@
+` Tớ lúc này vô cùng khao khát sự cứu giúp của cậu, Shiki-kun."@
+br
+` [line=3]"Thế nhưng mọi chuyện vẫn còn quá sớm."@
+br
+` Nói xong,
+` Yumizuka lại kiên cường gồng mình đứng thẳng dậy.
+\
+cl c,lshutter,800
+`"Cậu hãy chờ đợi tớ nhé?@ Tớ nhất định sẽ trở thành một con ma cà rồng hùng mạnh, rồi tớ sẽ quay lại gặp cậu!"@
+`"Chờ[line=3]đứng lại đi Yumizuka!"@
+br
+bg "bg/bg_30b",lshutter,800
+`"[line=6]"@
+` Yumizuka đã biến mất biệt tăm.@
+` Dẫu tôi có lao mình chạy đuổi theo, em ấy đã biến mất từ lâu trước đó rồi.@
+` …… Tốc độ đó tuyệt đối không thể thuộc về loài người, nó hệt như tốc độ của dã thú hoang dại.
+\
+`"[line=3]Yumizuka, cậu[line=3]"@
+` Rốt cuộc chuyện gì đã xảy ra với cậu thế chứ……?@
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_30b",notrans,0
+br
+`"Gah[line=3]!"@
+` Vết thương trên bả vai tôi bỗng nhói buốt đau nhức dữ dội.@
+` Ngoảnh nhìn lại, khoảng đất trống nơi chi thể vương vãi lúc nãy bấy giờ chỉ còn sót lại những vệt máu đỏ lòm loang lổ.@
+` Những khuôn mặt, nội tạng, tay chân đứt lìa.@
+` Tất cả đều đã tan thành tro bụi, hệt như sinh vật xương xẩu lúc nãy.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_30b",notrans,0
+`"[line=6]Á."@
+` *Thịch.*@
+` Tôi cảm thấy buồn nôn đến mức như sắp ho ra máu.@
+wave se_01
+br
+`"Điều này không thể[line=4]"@
+` *Thịch.*@
+` Nỗi phấn khích này mãnh liệt đến mức tôi gần như mất kiểm soát hoàn toàn.@
+wave se_01
+br
+`"Điều này[line=3]"@
+` Trong một khoảnh khắc dài,
+` sắc đỏ thẫm của máu cháy bỏng trong đôi mắt tôi.@
+wave se_01
+br
+`"Điều này không thể là thực[line=4]!"@
+` Thế giới trước mắt tôi xoay cuồng.@
+` Đôi mắt tôi chỉ nhìn thấy một thế giới méo mó, biến dạng.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_48d",crossfade,800
+` [line=3]Khi giật mình bừng tỉnh, tôi phát hiện bản thân đã đứng trước biệt thự tự bao giờ.@
+br
+` Hệt như một con vật bản năng tìm đường về nhà vậy.@
+` Tôi đang trên bờ vực ngất xỉu vì chóng mặt; thực sự không nghĩ mình có thể lết về được đến đây.
+\
+bg #000000,crossfade,800
+bg "bg/bg_33d",crossfade,800
+waveloop se_11
+`"…… Khực."@
+` Buồn nôn.@ Tôi sắp nôn ra mất.@
+`"Á[line=3]ghà, á[line=3]"@
+` Trái tim tôi như muốn nổ tung, gần như không thể thở được.@
+`"…… Phải… nhanh lên… nghỉ ngơi đi……"@
+` Đã nhiều lần ngất xỉu vì thiếu máu nên tôi biết rõ mình sắp bất tỉnh.
+\
+` [line=3]Nếu tôi nghỉ ngơi.@
+` Nếu tôi chỉ cần nằm nghỉ trên giường, cảm giác buồn nôn, trái tim như muốn nổ tung, tất cả sẽ trở lại bình thường.@
+br
+` Tôi[line=3]có thể quên đi tất cả, như không hề có chuyện gì xảy ra, rồi thức dậy với một ngày bình thường.
+\
+ld c,"tachi/koha_t03b",lshutter,800
+`"Shiki-san?@ Cậu chủ đã trở về rồi ạ?"@
+`"À…… Kohaku[line=2]san."@
+` Kohaku-san bước ra từ hành lang phía tây.@
+` …… Đúng rồi, phòng của Kohaku-san nằm ở hành lang phía tây tầng một.
+\
+ld c,"tachi/koha_t02b",crossfade,400
+`"Chào mừng cậu chủ đã trở về ạ.@ Cậu chủ có gặp được bạn không?"@
+`"Ờ[line=3]à, có, tôi đã gặp cô ấy."@
+` Tôi chợt nhớ ra ngay khi vừa cất lời trả lời.@
+` Những mảnh chi thể vung vãi.@
+` Khuôn mặt.@ Khuôn mặt.@ Khuôn mặt.@ Khuôn mặt.@
+` Con hẻm đẫm máu.@
+` Nụ cười của Yumizuka cùng đôi bàn tay nhuốm máu đỏ lòm[line=4]
+\
+`"…… Xin lỗi Kohaku-san.@ Tôi sẽ về phòng nghỉ, Kohaku-san cũng hãy đi nghỉ đi nhé."@
+` Tôi không muốn nói chuyện với bất kỳ ai lúc này.@
+` Bỏ lại Kohaku-san phía sau, tôi lầm lũi bước lên cầu thang.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+` Tôi đổ sụp xuống giường.@
+`"Á[line=4]á."@
+` Lồng ngực tôi phập phồng khi cố hít thở thật sâu.@
+`"[line=7]"@
+` Đầu óc tôi mơ hồ, mờ nhạt.@
+` Cơn chóng mặt dữ dội ập đến xâm chiếm.@
+` Dẫu có phải bất tỉnh, tôi chỉ muốn chìm vào giấc ngủ ngay lúc này.
+\
+!w5000
+` [line=3]Vậy tại sao tôi không thể ngủ?@
+br
+` Tôi chóng mặt dữ dội, nhưng tại sao lại không thể ngất đi như mọi lần?@
+` Khi nhắm mắt, cảnh tượng con hẻm đẫm máu hiện lên ngay dưới mí mắt.@
+` Trái tim đập dữ dội.@
+` Đó không phải nỗi kinh hoàng, mà[line=3]gần giống sự kích thích nhục dục hơn.@
+br
+`"Tại sao[line=4]"@
+` Tôi hoàn toàn không thể hiểu nổi.@
+wavestop
+` Phải chăng ranh giới giữa nỗi sợ hãi và dục vọng mỏng manh đến nhường ấy sao?
+\
+wave se_04
+`"Ơ…………?"@
+` Ai có thể gõ cửa vào giờ này?@
+`"Shiki-sama, người vẫn còn thức chứ ạ……?"@
+` Tiếng thì thầm khe khẽ đó là của Hisui.@
+` *Thịch.*@
+` Chỉ cần hình dung bóng dáng em ấy, trái tim tôi cũng dịu lại đôi chút.
+\
+`"…… Ừ, tôi vẫn thức.@ Xin cứ vào đi."@
+`"[line=3]Em xin phép ạ."@
+ld c,"tachi/his_t23",lshutter,800
+play "*1"
+` …… Gì thế này?@
+` Hisui bước vào phòng mang theo một khay nước và thứ gì đó trông như thuốc bọc trong giấy.
+\
+`"…… Hisui.@ Em đang làm gì vào giờ khuya thế này?"@
+`"Thưa Shiki-sama, em thấy người dường như khó ngủ nên đã mang đến chút thuốc ạ."@
+`"Ơ………?@ Ừ, đúng thật.@ …… Nhưng làm sao em biết hả Hisui?"@
+`"Em nghe chị Kohaku kể ạ.@ Chị ấy dặn rằng cậu chủ hôm nay rất mệt mỏi, nên em cần chăm sóc chu đáo hơn."@
+` …… Tôi hiểu rồi, hóa ra là Kohaku-san.@
+` Chắc hẳn cô ấy đã nhìn thấy vẻ mặt tệ hại của tôi khi gặp nhau ở sảnh lúc nãy.
+\
+`"…… Vậy, thuốc này là?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Đây là thuốc an thần hỗ trợ giấc ngủ ạ.@ Bác sĩ riêng của Shiki-sama đã cho phép sử dụng cho người."@
+`"Cho phép…… vào giờ này ư!?"@
+`"Dạ không, chị Kohaku đã hỏi ý kiến bác sĩ riêng của cậu chủ từ khi biết tin người sẽ dọn về biệt thự sống ạ."@
+`"Chà[line=2]Kohaku-san giỏi thật đấy.@ Cô ấy chu đáo quá."@
+` Dẫu sao, lúc này tôi vô cùng biết ơn.@
+` Nhận ly nước từ tay Hisui, tôi ngoan ngoãn uống thuốc.
+\
+ld c,"tachi/his_t19",crossfade,800
+`"N[line=4]à."@
+` Chẳng bao lâu sau, cơn buồn ngủ dữ dội ập đến xâm chiếm.@
+`"…… Cảm ơn em, Hisui.@ Nhờ em chuyển lời cảm ơn của tôi đến Kohaku-san nhé."@
+ld c,"tachi/his_t01",crossfade,800
+`"Vâng ạ.@ Vậy thì, xin Shiki-sama hãy nghỉ ngơi cho khỏe ạ."@
+cl c,lshutter,800
+` …… Tôi nghe tiếng bước chân nhẹ nhàng của Hisui xa dần.@
+` Toàn bộ sức lực như đang cạn kiệt khỏi cơ thể.@
+`"M[line=3]dễ chịu… quá[line=3]"@
+` Ý thức tôi mờ dần.@
+` Hệt như đang bất tỉnh, tôi nhanh chóng chìm vào giấc ngủ[line=3]
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+waveloop se_02
+monocro #ff0000
+bg "bg/bg_31b",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Đây là giấc mơ sao?
+\
+` Một con hẻm nhuộm đỏ.@
+` Chính con hẻm mà tôi đã ở đó lúc nãy.@
+br
+` Nơi Yumizuka Satsuki đang giết người.@
+` Dụ dỗ những kẻ qua đường thích hợp vào con hẻm đó.@
+br
+` Không nương tay vặn gãy cổ họ từ phía sau như vắt khăn ướt, rồi cắm răng nanh xuyên qua.@
+br
+` Một người.@
+` Hai người.@
+` Ba người.@
+` Bốn người.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`  Sao dám[line=2]làm những chuyện đó mà không có ta!
+\
+textcolor #ffffff
+` Hệt như đang chìm trong giấc mơ, mê đắm trong việc hút máu, Yumizuka xé toạc bốn thi thể rồi tiếp tục liếm láp dòng máu đỏ tươi.@
+br
+` Một thế giới nhuộm đỏ.@
+` Thế nhưng tôi chẳng cảm thấy ghê tởm hay kinh tởm dẫu chỉ một chút.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`   Đáng thương.@ Đáng thương, quá đỗi đáng thương.@
+textcolor #ffffff
+` Một con dao nằm trong tay tôi.@
+` *Hah* *Hah* Hơi thở tôi hoàn toàn mất kiểm soát.@
+` Trái tim tôi đập thình thịch như piston, thúc giục tôi phải hành động.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`    Nếu là ta, ta sẽ làm tốt hơn nhiều.
+\
+textcolor #ffffff
+` *Hah*, *hah*, *hah*.@
+` Tôi thở dốc dữ dội.@
+` Có phải vì tôi đang kìm nén sự thôi thúc muốn làm những điều Yumizuka đang làm?@
+br
+` Tôi đang dần mất kiểm soát.@
+` Bởi vì tôi không[line=3]muốn nhìn thấy cảnh tượng như thế này.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`       Tại sao ngươi lại do dự?
+\
+textcolor #ffffff
+` Không có[line=2]sự do dự nào cả.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`       Tại sao ngươi lại kìm nén bản thân?
+\
+textcolor #ffffff
+` Không có[line=2]gì để kìm nén cả.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`      Chống cự lại cũng vô nghĩa thôi.
+\
+textcolor #ffffff
+` Giọng nói… phiền toái của ai đó.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`  Ta   ta muốn làm   những gì ta muốn.
+\
+textcolor #ffffff
+` Giọng nói đó.@ Chính là, của tôi.@
+br
+` …… Yumizuka đang khóc.@
+` Em ấy khóc vì mình không giỏi giết người?@ Hay bởi vì đang đau đớn?@ Tôi không biết.
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`          Vô giá trị.
+\
+textcolor #ffffff
+` Nghĩ như thế… liệu có đúng không?
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`       Con nữ nhân đó là đồ vô dụng.
+\
+textcolor #ffffff
+` …… Nhưng, hay chính ta mới là kẻ vô dụng?
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`      ĐÁNG CHẾT thì GIẾT cho rồi.
+\
+textcolor #ffffff
+` …… Giết kẻ vô dụng… thế có đúng không?
+\
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`           Giết.
+\
+textcolor #ffffff
+` ………………
+\
+textcolor #0000ff
+br
+br
+br
+br
+br
+br
+br
+textcolor #0000ff
+`       Giết.
+\
+textcolor #ffffff
+` ……………
+\
+textcolor #0000ff
+br
+br
+br
+br
+br
+br
+br
+`   Giết.
+\
+textcolor #ffffff
+` ……
+\
+textcolor #0000ff
+br
+br
+br
+br
+br
+br
+br
+`  Giết.
+\
+` GiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGGiếtGiếtGiếtGiếtGiếtGiếtGiếtGiếtGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾT.@
+bg "bg/ima_13b",crossfade,400
+` GIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾT.@
+textcolor #ffffff
+` GIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾTGIẾT.
+\
+monocro off
+bg #9c0120,crossfade,800
+wavestop
+!w3000
+bg #000000,notrans,0

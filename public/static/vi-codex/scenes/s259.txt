@@ -1,0 +1,688 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_52",lcartain,400
+` Bao trùm bởi màn đêm tịch mịch, Arcueid lặng lẽ sải bước xuống con phố.@
+` Mắt hướng thẳng về phía trước, tà áo trắng tinh khôi cùng mái tóc vàng óng của cô khẽ tung bay trong gió.@
+` Cảnh tượng ấy gợi lại trong tôi một nỗi ám ảnh kinh hoàng, hệt như lần đầu tiên tôi nhìn thấy cô.@
+` Không, hoặc giả là…
+` Có lẽ nó giống như khoảnh khắc cô chuẩn bị giao phong sinh tử với Nrvnqsr.@
+br
+` …… Vì lý do nào đó, một dự cảm chẳng lành bỗng dâng trào trong lòng tôi.
+\
+`"Này, Arcueid!"@
+ld c,"tachi/ark_t22",crossfade,400
+`"[line=6]"@
+` Arcueid vẫn tiếp tục bước đi, tuyệt nhiên không một lần ngoảnh đầu lại nhìn.@
+`"Tôi muốn nói chuyện với cậu.@ Ít nhất cậu cũng phải cho tôi biết cậu định làm gì chứ."@
+`"[line=6]"@
+` Dĩ nhiên, Arcueid vẫn phớt lờ tôi, lặng lẽ đi tới phía trước mà không hề quay đầu.@
+` …… Cứ để mặc cô ấy đi như thế này thì thật là tệ hại.@
+` Tôi quyết định tạm thời im lặng bám theo sau cô ấy.
+\
+bg #000000,lcartain,800
+bg "bg/bg_26a",lcartain,800
+` Tiếng bước chân cô độc vang vọng giữa bầu không khí đêm lạnh ngắt.@
+br
+` [line=3]Và rồi,
+` Arcueid bỗng nhiên dừng bước và quay người lại.@
+ld c,"tachi/ark_t07",crossfade,400
+`"Đừng bám theo tôi nữa.@ Cậu không hiểu rằng việc một người bình thường như cậu cứ lẽo đẽo theo sau chỉ làm phiền toái cho tôi thôi sao?"@
+`"[line=3]Vậy thì hãy nói cho tôi biết cậu định làm gì đi, rồi tôi sẽ quay về."@
+ld c,"tachi/ark_t06",crossfade,400
+`"…… Chuyện đó không liên quan gì đến cậu cả, thế nên hãy để tôi yên."@
+` Arcueid lại quay lưng sải bước đi tiếp.@
+cl c,lshutter,400
+` …… Chết tiệt thật.@
+` Xem ra cuộc rượt đuổi im lặng đầy ngang trái của chúng tôi vẫn sẽ tiếp diễn.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` Khi cả hai tiến gần đến con phố chính đông đúc, Arcueid bỗng đứng sững người lại.@
+ld c,"tachi/ark_t22",lshutter,400
+play "*4"
+`"[line=3]Tìm thấy rồi."@
+`"Hả……… ?"@
+` Giọng nói của cô ấy lạnh ngắt như băng, hệt như một con người hoàn toàn khác vậy.@
+`"[line=4]Hự."@
+` …… Một luồng khí lạnh buốt chạy dọc sống lưng tôi.@
+` Dù chỉ đứng nhìn từ phía sau, tôi vẫn có thể cảm nhận rõ ràng sát khí ngùn ngụt đang toát ra từ cơ thể cô ấy.
+\
+`"Arcueid[line=3]Cậu, cậu định làm cái gì thế[line=2]"@
+` Tôi thậm chí còn chẳng thể hoàn thành câu hỏi.@
+` Dù cô ấy không hé răng nửa lời, ý đồ tàn bạo của cô vẫn hiện rõ mồn một.@
+` Không còn nghi ngờ gì nữa, đó chính là ý định giết chóc thuần khiết, không một chút tạp niệm.
+\
+`"Này[line=3]cậu đang nghĩ cái gì thế hả……!?"@
+`"[line=4]"@
+` Arcueid không hề đáp lời.@
+` Đôi mắt cô ấy khóa chặt vào một người đàn ông trung niên mặc vest công sở đang rảo bước đi ngang qua.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Shiki.@ Tháo kính ra và nhìn gã đàn ông kia đi."@
+`"Gã đó[line=3]ý cậu là người đàn ông công sở kia sao?"@
+`"Nhanh lên.@ Nếu muốn biết tôi đang làm gì, thì để dành câu hỏi đó sau đi."@
+`"[line=4]Được rồi.@ Dù tôi cực kỳ ghét việc phải tháo kính giữa phố xá đông người thế này, nhưng[line=3]"@
+cl c,crossfade,400
+\
+bg "bg/bg_25b",crossfade,800
+monocro #ff00ff
+` Tôi tháo kính ra.@
+`"…… Ự."@
+` Một cơn nhức đầu nhói lên ngay tức khắc.@
+` Đổi lại cơn đau ấy, tôi có thể nhìn thấy những "tử tuyến" chằng chịt chạy dọc khắp các bức tường và mặt đất.
+\
+bg "bg/bg_25b",lshutter,1500
+monocro off
+ld c,"tachi/ark_t01b",crossfade,400
+`"Tôi hỏi cậu một câu khác nhé, Shiki.@ Cậu vốn chỉ nhìn thấy những 'điểm chết' trên cơ thể sinh vật sống thôi đúng không?"@
+`"Ơ[line=3]?@ Ừ, có vẻ đúng là vậy.@ Những thứ vô tri như tòa nhà hay mặt đất thì chỉ có đường chết thôi."@
+` …… Tôi từng nhìn thấy điểm chết của chúng một lần hồi ở khách sạn đó, nhưng cái giá phải trả là một cơn đau đầu kinh hoàng suýt khiến tôi ngất xỉu ngay tại chỗ.@
+`"Phải, bởi vì cậu là một sinh vật sống, nên trí não cậu không thể tự nhiên thấu hiểu được cái chết của những vật vô tri vô giác.@
+` Thế nên, để có thể 'nhìn thấy' cái chết của một vật vô tri, trước tiên cậu buộc phải kết nối tâm thức mình vào cùng một hệ mạch bản chất với chúng.@ Muốn 'nhìn thấy', cậu phải 'thấu hiểu' chúng trước đã.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Giờ thì, một câu hỏi khác.@ Shiki, gã đàn ông kia trông như thế nào trong mắt cậu?"
+\
+cl c,crossfade,400
+`"[line=4]?"@
+` Chắc thì cũng giống như mọi khi thôi chứ có gì khác đâu[line=3]
+ld c,"tachi/man_t03",lshutter,800
+`"[line=4]!?"@
+` Tôi giật mình lùi lại một bước hoàn toàn vô thức.
+\
+` …… Cái quái gì thế kia?@
+` Bình thường, tất cả con người đều có những "tử tuyến" chằng chịt trên cơ thể.@
+` Nhưng chúng chỉ ở một số lượng nhất định có thể đếm được, và phân bố trông như các mô hình hình học.@
+br
+` Thế nhưng[line=3]gã đàn ông kia là thế nào chứ?@
+` Những "tử tuyến" bò lổm ngổm, bao phủ khắp toàn thân gã.@ Những đường chết chằng chịt như mạng lưới mạch máu dày đặc... đến mức tôi thậm chí còn chẳng thể nhận dạng nổi diện mạo của gã nữa.
+\
+`"[line=4]Hộc... hự."@
+` Cảm giác buồn nôn dâng trào lên tận cổ họng.@
+` Những "tử tuyến" đen ngòm kia[line=4]chúng vẽ thành một hình nhân nguệch ngoạc... và khắp nơi trên hình nhân ấy, tôi có thể nhìn thấy những "điểm chết đen ngòm" trông hệt như những dòng máu đen đang tuôn chảy cuồn cuộn[line=3]
+cl c,lshutter,1500
+ld c,"tachi/ark_t06",crossfade,400
+`"Shiki, cậu thấy thế nào rồi?@ Tôi vốn hy vọng rằng trông gã sẽ hoàn toàn bình thường trong mắt cậu cơ."@
+`"[line=6]"@
+` Tôi chẳng thể mở miệng trả lời nổi.@
+` Ngay lúc này[line=3]việc cố kìm nén cơn buồn nôn đang chực trào ra đã vắt kiệt toàn bộ sức lực của tôi rồi.
+\
+`"[line=3]Ra vậy.@ Thật đáng buồn khi cậu thậm chí còn nhìn thấy cả cái chết trên một thứ như thế."@
+`"Ừ…… tuy không bình thường chút nào, nhưng…… tôi vẫn có thể nhìn thấy rõ các đường chết trên người gã……"@
+ld c,"tachi/ark_t07",crossfade,400
+`"Tôi biết ngay mà[line=3]cậu thậm chí còn có thể giết cả Tử Giả.@ Việc chúng vốn dĩ không có sự sống chẳng hề có ý nghĩa gì đối với đôi mắt cậu cả.@ Bất kể là thứ gì đang chuyển động, bất kể là thứ gì có thể đổ vỡ, cậu đều có thể chấm dứt sự tồn tại của chúng hoàn toàn không có ngoại lệ[line=3]Cậu đúng là quái vật hơn cả tôi đấy, Shiki."@
+`"Cái gì cơ...[line=5]"
+\
+ld c,"tachi/ark_t22",crossfade,400
+`"Như cậu đã thấy đấy, gã đàn ông kia không còn được gọi là con người nữa rồi.@ Hắn là một con ma cà rồng đang đánh lừa cái chết bằng cách hút máu của những người vô tội khác."@
+` Arcueid dứt khoát rảo bước nhanh hơn.@
+` Cô ấy đi thẳng về phía gã đàn ông kia.
+\
+`"Này, Arcueid[line=3]"@
+`"Đứng im ở đó đi Shiki!"@
+` Có vẻ gã đàn ông kia đã nhận ra sự hiện diện của Arcueid.@ Hắn lập tức quay đầu tháo chạy thục mạng vào một con hẻm tối khuất.@
+` Arcueid lướt đi lặng lẽ như một bóng ma.@
+` Dưới ánh trăng rạng rỡ, bóng hình cô ấy nhanh chóng biến mất vào con hẻm tối tăm đó.
+\
+cl c,lshutter,400
+bg #000000,lshutter,400
+monocro #ff00ff
+bg "bg/bg_25b",lshutter,1500
+br
+` [line=3]Thịch.@
+br
+` Tiếng tim tôi đập dồn dập vang vọng vô cùng rõ ràng.@
+` Lúc này trời thậm chí còn chưa về khuya.@
+` Dẫu đang đứng ngay giữa một khu phố mua sắm sầm uất, tôi bỗng nhiên chẳng thể cảm nhận được sự hiện diện của bất kỳ ai khác ngoài chính bản thân mình.
+\
+br
+` [line=3]THỊCH THỊCH.@
+br
+` Kính của mình[line=3]mình phải đeo kính vào ngay mới được.@
+` Nếu không đeo kính vào, tôi sẽ nhìn thấy những điều vô cùng khủng khiếp.
+\
+` Tôi sẽ phải chứng kiến một cảnh tượng kinh hoàng đến mức tất thảy những gì tôi từng thấy trước đây đều chẳng là gì so với nó.
+\
+br
+` [line=3]Thịch... Thịch... Thịch.@
+br
+` Thế nhưng cơ thể tôi hoàn toàn tê liệt, không thể cựa quậy nổi.@
+` Đôi mắt nguyền rủa có thể nhìn thấy thế giới chắp vá rách nát này của tôi chỉ biết trân trân dõi theo con hẻm tối kia đầy kinh hãi.
+\
+playstop
+`"[line=6]"@
+waveloop se_02
+` Bỗng nhiên, mọi âm thanh xung quanh hoàn toàn tắt ngấm.@
+!w500
+` Sự hiện diện của dòng người qua lại,
+!w500
+` tiếng gió thổi xào xạc,
+!w500
+` và cả mùi đất ẩm đặc trưng.@
+br
+` Tất thảy mọi thứ đều đông cứng lại trong tích tắc.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]KẸTTT...@
+\
+` Dưới ánh trăng lạnh ngắt như đóng băng.@
+` Một âm thanh quái dị, ghê rợn vang vọng từ phía bên kia bức tường hẻm tối.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=5]ẦM ẦM...@
+\
+br
+br
+` Không đời nào tôi có thể nhìn thấy nó,
+` tôi cũng chẳng thể nghe thấy bất kỳ âm thanh nào khác.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Một âm thanh nhão nhớt ghê người tột độ.@
+\
+br
+br
+br
+br
+` Thế nhưng tôi lại có thể nhìn thấy nó một cách rõ ràng.@
+` Đôi mắt tôi chắc chắn đã nhìn thấu âm thanh của cái chết và sự sụp đổ hủy diệt hoàn toàn.
+\
+monocro #ff0000
+bg "bg/bg_25b",lshutter,800
+`"Hộc...[line=3]"@
+` Tầm nhìn của tôi hoàn toàn nhuốm một màu đỏ ngầu máu.@
+` Tại sao[line=3]tại sao đôi mắt này lại nhìn thấy cả "cái chết" của thứ đáng lẽ ra không thể nhìn thấy?@
+`"[line=4]"@
+` Kính của tôi.@ Tôi phải đeo kính vào ngay lập tức, bằng không tôi sẽ phát điên mất.@
+br
+` Cố nén lại cơn buồn nôn đang dâng tràn trong lồng ngực, tôi dùng bàn tay run rẩy dữ dội của mình để đeo cặp kính trở lại khuôn mặt.
+\
+wavestop
+monocro off
+bg #ffffff,crossfade,400
+bg "bg/bg_25b",crossfade,400
+` Âm thanh và ánh sáng của thế giới thực lập tức ập trở lại.@
+` Khi đã bình tâm trở lại, tôi đảo mắt nhìn quanh và thấy khu phố mua sắm vẫn hoàn toàn bình thường, không có gì khác lạ.@
+` Dòng người tấp nập, nhộn nhịp vẫn hối hả qua lại.@
+` Ánh đèn rực rỡ tỏa ra từ ô kính trưng bày của các cửa tiệm cùng tiếng gầm rú quen thuộc của động cơ xe cộ xé gió.
+\
+` Tôi thở dốc dồn dập đầy mệt mỏi.@
+br
+` Lồng ngực nghẹn ứ, gần như không thể hít thở nổi.@
+` Dù đã đeo kính trở lại, dư âm kinh hoàng từ "cái chết" vừa rồi vẫn lảng vảng trong tâm thức khiến tôi vô cùng buồn nôn.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` Arcueid thản nhiên từ trong con hẻm tối bước ra ngoài.@
+` Sát khí ngùn ngụt lúc nãy đã hoàn toàn tan biến không còn một dấu vết, vẻ mặt cô ấy trông vô cùng vui tươi rạng rỡ.@
+br
+`"Ar[line=3]cueid……?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ơ?@ Ồ, ra vậy.@ Thì ra cậu thực sự vẫn ngoan ngoãn đứng đợi tôi ở đây."@
+`"Đứng đợi cái đầu cậu ấy……"@
+` Chứng kiến cảnh tượng hãi hùng vừa rồi thì làm sao tôi có thể thản nhiên bỏ về nhà được chứ.
+\
+ld c,"tachi/ark_t13",crossfade,400
+`"Ơ kìa, có chuyện gì thế Shiki?@ Trông cậu chẳng có chút sinh khí nào cả."@
+`"[line=3]Đừng bận tâm, chỉ là chứng thiếu máu mãn tính của tôi lại tái phát thôi.@
+` Quan trọng hơn là Arcueid, chuyện vừa rồi rốt cuộc là thế nào?"@
+` Tôi bước lại gần, nắm chặt lấy hai bả vai Arcueid gặng hỏi.
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"Ơ[line=3]Shiki, sao tự dưng cậu lại làm thế hả?@ Nếu cơ thể cậu cảm thấy không khỏe, để tôi đưa cậu về biệt thự nhé."@
+`"Không cần đâu, tôi ổn.@ Thế nên trả lời tôi đi, gã đàn ông lúc nãy rốt cuộc là thứ gì?@ Cậu đã cho tôi chứng kiến đến mức này rồi, nếu giờ cậu dám phủ nhận bảo chuyện này không liên quan đến tôi thì tôi sẽ đấm cậu thật đấy, Arcueid……!"@
+` Tôi áp sát cô ấy, phớt lờ cả việc bản thân đang thở dốc dồn dập đến nghẹt thở.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=7]"@
+` Vẻ mặt Arcueid lập tức đanh lại vô cùng nghiêm nghị.@
+` Thế nhưng, tôi tuyệt đối không hề có ý định nhượng bộ lùi bước.@
+` Sau một hồi trừng mắt đối mặt căng thẳng, cô ấy khẽ thở dài bất lực.@
+ld c,"tachi/ark_t14",crossfade,400
+`"Được rồi, cậu đúng là bướng bỉnh và cứng đầu thật đấy, Shiki."@
+`"………………… Cứ cho là tôi cứng đầu đi, phiền cậu giải thích cho."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Đồ ngốc, tôi đang khen cậu đấy thôi.@
+` [line=2]Vậy thì, chúng ta đi nơi khác nói chuyện nhé?"
+\
+`"Đi nơi khác sao?@ Vì sao chứ?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Cậu muốn nghe tôi giải thích cặn kẽ đúng không?@ Thế nên đừng đứng ở đây nữa, chúng ta quay lại ghế đá công viên đi.@ Shiki, cậu có tự đi nổi không đấy?"@
+`"Ồ…… đ, đừng có mà coi thường tôi.@ Chứng thiếu máu này đối với tôi xảy ra như cơm bữa rồi."@
+cl c,lshutter,800
+`"Thật vậy sao," Arcueid khẽ mỉm cười đầy ẩn ý rồi bắt đầu rảo bước đi trước.@
+` Tôi lững thững bước theo sau cô ấy, cố gồng mình chống chọi lại cơn chóng mặt chực chờ ngất đi.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_28b",lcartain,1500
+play "*2"
+ld c,"tachi/ark_t01a",lshutter,800
+`"Được rồi, như cậu mong muốn đấy Shiki, tôi sẽ kể cho cậu nghe mọi chuyện.@ Nếu muốn hỏi gì thì cậu cứ tự nhiên."@
+`"Vậy tôi hỏi trước, gã đàn ông trung niên lúc nãy rốt cuộc là thứ gì vậy?@ Cậu bảo hắn là ma cà rồng, vậy hắn có phải là mục tiêu cậu đang truy lùng không?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Không, gã đó quả thực nằm trong phạm vi thanh trừng của tôi, nhưng việc đưa lũ Tử Giả về lại nấm mồ vốn không phải là mục tiêu cốt lõi.@ Tôi kết liễu hắn chỉ vì hắn là tay sai đắc lực của 'kẻ thù' mà thôi.@
+` Nếu cứ để mặc gã ở đó, hắn sẽ tiếp tục tàn sát thêm nhiều mạng người để gia tăng sức mạnh ma quỷ của mình."
+\
+`"…… Arcueid.@ Ừm, cậu giải thích sao cho tôi dễ hiểu được không?@ Tôi còn chẳng biết gã lúc nãy có phải là con người hay không nữa."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Ồ.@ Hình như tôi chưa từng giải thích chi tiết cho cậu về ma cà rồng nhỉ.@ Nrvnqsr vốn là một sự tồn tại dị biệt trong loài ma cà rồng, nên lúc đó tôi thấy không cần thiết phải giải thích."@
+`"……?@ Ma cà rồng bình thường là thế nào?"
+\
+`"Ý tôi là những gì loài người các cậu thường nghĩ về ma cà rồng ấy.@ Bất tử, không bao giờ già đi, hút máu người, biến nạn nhân thành đồng loại, và bị tiêu diệt bởi ánh sáng mặt trời, đại loại thế.@
+  `'Kẻ thù' của tôi chính là kiểu ma cà rồng cổ điển đó."@
+`"…… Ừm, ý cậu là 'kẻ thù' của cậu chính là thủ phạm đứng sau những vụ giết người hàng loạt gần đây sao?"@
+ld c,"tachi/ark_t06",crossfade,400
+`"…… Có lẽ vậy.@ Nhưng chuyện sát hại bằng cách hút máu tất cả những người đó nhiều khả năng là do lũ 'Tử Giả' như kẻ cậu vừa thấy làm.@
+  `Shiki, cậu còn nhớ cơ thể Nrvnqsr được cấu thành từ vô số quyến thuộc đúng không?"
+\
+`"[line=3]Ừ, chuyện đó có muốn tôi cũng chẳng thể nào quên được."@
+ld c,"tachi/ark_t02",crossfade,400
+`"Tử Giả cũng tương tự như vậy.@ Khi con người bị ma cà rồng hút máu, họ cũng đồng thời nhận lấy một lượng máu của chúng.@
+  `Họ sẽ chết đi, nhưng vẫn tồn tại ở thế giới này như một tôi tớ của ma cà rồng.@ Họ được gọi là Tử Giả và đóng vai trò như quyến thuộc của ma cà rồng đó.@
+  `À, chắc dùng từ zombie thì cậu sẽ dễ hình dung hơn nhỉ.@ Bản chất của chúng gần với đức tin Voodoo ở Haiti hơn, nơi người ta triệu hồi thần rắn trắng Damballah để hồi sinh và điều khiển tử thi, nhưng cứ tạm hiểu một cái xác biết đi là zombie đi nhé?"@
+br
+`[line=3]Ừm, ví dụ thế thì dễ hình dung hơn thật.
+\
+`"Tôi hiểu rồi, vậy là người đàn ông lúc nãy đã bị ma cà rồng sát hại, rồi biến thành zombie để sai khiến sao?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Đúng thế, đúng thế," Arcueid vui vẻ gật đầu liên lịa.@
+`"[line=3]Nhưng tôi vẫn thấy thắc mắc.@ Tại sao ma cà rồng lại làm vậy chứ?@
+ `[line=3]Giết người…… rồi không cho họ yên nghỉ mà lại điều khiển họ, thật là một sở thích tồi tệ."
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Cậu nói đúng, lũ ma cà rồng đó quả là có sở thích tồi tệ thật.@ Nhưng đó chỉ là việc của lũ Tử Đồ thôi.@ Những kẻ ngay từ đầu đã là ma cà rồng thì tuyệt đối không làm trò đó."@
+br
+`"[line=4]?"@
+`Ngay từ đầu đã là ma cà rồng……?@
+br
+`"[line=3]Tôi nhớ rồi.@ Cậu từng nói có hai loại ma cà rồng, một loại vốn là ma cà rồng từ đầu, và loại còn lại vốn là con người.@
+  `…… Lúc nghe chuyện đó trước đây, tôi cứ suy nghĩ mãi và thấy có chút kỳ lạ.@ Vậy chính xác ý cậu là thế nào khi nói về những kẻ vốn không phải là ma cà rồng?"
+\
+`"Đơn giản thôi, tôi chỉ muốn nói rằng Tử Đồ vốn từng là con người.@ Họ hoặc đạt được bất tử nhờ ma thuật, hoặc trở thành thuộc hạ của các Chân Tổ đã hút máu họ.@
+  `…… Shiki, cậu bảo dùng xác người chết là sở thích tồi tệ, nhưng đó mới chỉ là chuyện nhỏ nhặt thôi.@ Ngoài kia có những ma cà rồng còn nghĩ ra những trò chơi bệnh hoạn hơn nhiều."@
+`"[line=3][line=3]Trò chơi…… là sao chứ?@ Lũ ma cà rồng các cậu giết người chỉ để tiêu khiển, rồi đem tử thi của họ ra làm đồ chơi sao……!?"
+\
+`"…… Tôi không phủ nhận chuyện đó.@
+  `Đối với ma cà rồng, 'tiêu khiển' cũng giống như việc hít thở vậy.@ Với những kẻ từng là con người nhưng lại đạt được sự bất tử không hoàn thiện, kẻ thù lớn nhất của chúng chính là sự chán chường.@
+  `Ngay từ đầu chúng đã không có mục đích rõ ràng khi trở nên bất tử, nên khi đã có được nó rồi, chúng cũng mất đi mọi ham muốn thông thường.@
+  `Bản thân sự bất tử chính là mục tiêu duy nhất của chúng, nên tôi đoán mọi chuyện cứ thế diễn ra thôi."
+\
+`"[line=4]Chán quá nên muốn kiếm trò chơi sao?@ Đừng có đùa.@ Không già đi, không chết đi chưa đủ sao chứ?@ Chúng còn đòi hỏi cái gì nữa?"
+\
+`"Thì tôi nói rồi đó, chúng đã có được tất cả những gì mình muốn.@ Sau đó, sự tồn tại của chúng chẳng còn ý nghĩa gì nữa.@
+ `[line=3]Ngay khi một kẻ nhận ra bản thân không còn giá trị gì…… rằng cuộc đời mình đã dừng lại, thì ý nghĩa tồn tại của chúng cũng biến mất.@
+  `Sự bất tử, suy cho cùng, cũng chỉ là một cái tên khác của cái chết."
+\
+`"Thế là tâm trí chúng bắt đầu mục ruỗng và chúng tự bày ra các trò tiêu khiển, như để tự huyễn hoặc bản thân rằng mình vẫn có thể vui vẻ chừng nào còn sống.@ [line=3]Đó là khởi nguồn của tất cả.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Chúng bắt chước con người, tự biến mình thành những chúa tể lâu đài đang bành trướng lãnh địa trong một trò chơi.@
+  `Cậu có thể gọi đó là một vương quốc của Tử Giả.@ Có vẻ như chúng tìm thấy nhiều niềm vui từ việc đó hơn là chúng tưởng tượng."@
+br
+`…… Cô ấy nói như thể đang kể chuyện của ai khác vậy.@
+`Arcueid lẽ ra cũng thuộc nhóm đó, nhưng cô ấy rõ ràng chẳng có vẻ gì là có cái sở thích kiểu ấy cả.
+\
+`"Thôi, ta đổi chủ đề nhé, tóm lại thì các Tử Đồ vốn dĩ ban đầu là con người.@
+  `Có một vài trường hợp trở thành ma cà rồng nhờ tự nghiên cứu ma thuật, nhưng đa số vẫn là những con người bị hút máu.@
+  `Họ bất tử, nhưng không thể duy trì điều đó mãi mãi.@ Họ chỉ có thể giữ được sự bất tử bằng cách uống máu của kẻ khác.@
+  `Tôi đã nói sự bất tử của họ là không hoàn thiện rồi đúng không?@ Nếu không thể ăn thịt hay hút máu con người, sự bất tử của họ sẽ tiêu tan."
+\
+`"Nhưng nếu chúng công khai hút máu người, sự tồn tại của 'ma cà rồng' sẽ bị bại lộ.@ Kể cả không làm thế, chỉ riêng việc chúng hiện diện ở đó cũng đủ để bóp méo thế giới xung quanh rồi.@ Điều đó sẽ thu hút sự chú ý của các hành giả Giáo Hội, như Ciel chẳng hạn."@
+`"…… Ừm, nghĩa là ma cà rồng không thể thích làm gì thì làm sao?"
+\
+`"Đúng vậy, nếu chúng phá vỡ giao kèo với Giáo Hội mà tự do hành động, chúng sẽ bị phát hiện và tiêu diệt ngay lập tức.@
+  `Thế nên phần lớn các Tử Đồ đều tạo ra các thuộc hạ để mang máu về cho chúng trong lúc chúng ngủ.@
+  `Bằng cách hút máu rồi truyền lại một phần máu của mình vào tử thi, chúng tạo ra các tay sai để làm việc cho mình.@ Chúng tôi đơn giản gọi bọn họ là 'Tử Giả'."
+\
+`"…… Hừm…… Vậy kẻ cậu tiêu diệt lúc nãy giống như một binh lính của Tử Đồ sao?"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Không hẳn là binh lính, nói là con rối thì đúng hơn.@ Các Tử Đồ điều khiển những tử thi đó mà không cần qua quá trình biến đổi thành ma cà rồng thực sự.@ Các Tử Giả hoàn toàn kết nối trực tiếp với ma cà rồng chủ quản của chúng.@
+  `Để sinh tồn, chúng tấn công kẻ khác để ăn thịt, nhưng hơn một nửa nguồn năng lượng thu được sẽ truyền về cho chủ nhân.@
+  `Giống như ong chúa được nuôi dưỡng bởi ong thợ, các Tử Đồ có thể lợi dụng Tử Giả để gia tăng sức mạnh của mình ngay cả trong khi ngủ."
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"…… 'Kẻ thù' của tôi rất khó bị phát hiện vì hắn đang sử dụng một lượng lớn Tử Giả.@
+  `Hắn chỉ tự nhúng tay trực tiếp đúng một lần duy nhất.@ Sau đó, hắn chỉ việc ngủ và điều khiển lũ Tử Giả bành trướng lãnh địa.@
+  `[line=3]Người ta nói tìm thấy rất nhiều thi thể trong các vụ án mạng hàng loạt gần đây, nhưng thực chất đó chỉ là những sản phẩm lỗi mà thôi.@
+  `Thực tế mà nói, số nạn nhân trong thành phố này đã vượt quá một trăm người rồi.@
+  `But only a small amount, the ones discovered, are the victims in the news."
+\
+playstop
+cl a,crossfade,400
+`"Cái[line=4]"@
+br
+`[line=3]Hơn một trăm người rồi sao……?@
+`Đã có ngần ấy người bị hút máu rồi ư?@
+`Và tất cả những người đó lại đi hút máu kẻ khác để biến họ thành những con quái vật giống mình, như cái xác vô hồn vất vưởng lúc nãy……[line=3]
+\
+`"……… Thật là điên rồ."@
+`Ba ngày trước.@
+`Tôi vẫn nhớ toàn bộ những người ở khách sạn đó đã bị sát hại vô cớ như thế nào.@
+`Lúc đó tuy có mặt ở đó nhưng tôi lại không tận mắt chứng kiến, nên chỉ có thể hình dung chứ chẳng thể biết rõ đó là loại bạo lực kinh hoàng gì.@
+`Bây giờ cũng vẫn thế.@
+`Tôi không thể nào thấu hiểu nổi sự tồn tại của lũ ma cà rồng hút máu người chỉ để bành trướng lãnh địa của chúng.
+\
+`[line=3]Nhưng,
+`nếu một ngày nào đó, một người thân cận bên tôi đột nhiên ra đi như vậy, không một lý do, thậm chí còn chưa kịp nhận thức chuyện gì xảy ra, tôi sẽ phải làm sao đây?@
+`Tôi không muốn nghĩ tới nó chút nào, nhưng chỉ trong một khoảnh khắc thoáng qua…@
+`Tôi đã tưởng tượng ra cảnh Akiha bị rút cạn máu và bị vứt bỏ như một món rác thải.@
+br
+`"Kh[line=4]"@
+`[line=3]Điều khiến tôi căm phẫn nhất…… là kịch bản tồi tệ nhất ấy có thể ập đến bất cứ lúc nào tại thị trấn này, vậy mà trước đây tôi lại hoàn toàn mù tịt không hay biết gì.
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"Tôi biết cậu sẽ tức giận mà, Shiki.@
+ `[line=3]…… Tôi từng không muốn kể chuyện này, vì đối với con mồi…… tức là loài người các cậu, đây là một tội ác không thể dung thứ.@
+  `Đây chắc chắn không phải là những lời cậu muốn nghe đúng không?"@
+`"…… Đúng thế.@ Nghe xong chuyện này, tôi thực sự chẳng biết phải làm sao nữa."@
+`…… Phải rồi.@
+`Tôi không tài nào tiếp tục sống bình yên như trước đây được nữa, khi biết rằng một người quen của mình rất có thể sẽ trở thành nạn nhân vào ngày mai.@
+`Một khi đã biết rõ sự tình,
+`tôi buộc phải chiến đấu chống lại tên ma cà rồng này, giống như cách tôi đã làm với Nrvnqsr.
+\
+bg #000000,crossfade,400
+bg "event/nero_e04",crossfade,800
+`"…………… Chế[line=2]"@
+br
+`Lại một trận chiến như thế.@
+`Tôi lại phải lao vào cuộc chiến điên cuồng suýt chút nữa đã khiến tôi phát điên đó sao?
+\
+bg #000000,crossfade,400
+bg "bg/bg_28b",crossfade,400
+ld c,"tachi/ark_t01a",crossfade,400
+play "*9"
+`"Ồ, Shiki, cậu lại bày ra vẻ mặt đó rồi.@
+  `Cậu có thể yên tâm.@ Dù những kẻ thù không đội trời chung của ma cà rồng không có mặt ở đất nước này, nhưng vẫn còn có tôi ở đây mà.@
+  `Chẳng phải lúc nãy tôi đã nói mục tiêu của tôi là hành quyết ma cà rồng sao?"@
+`Bầu không khí nặng nề lúc nãy bỗng chốc tan biến sạch trơn khi Arcueid ngay lập tức lấy lại vẻ vui tươi hớn hở.
+\
+`"Ừ, tôi nhớ rồi.@ …… Nhưng cậu cũng là ma cà rồng mà, đúng chứ?@ Tại sao cậu lại đứng về phía con người chúng tôi?"@
+`"Tôi không hẳn là đứng về phía loài người các cậu đâu, tôi làm vậy chỉ vì không có việc gì khác để làm thôi."@
+`"[line=4]?"@
+`Không có việc gì khác để làm sao?@ Tôi thực sự vẫn không thể nào hiểu nổi cô ấy.@
+`"Mà, làm vậy quả thực sẽ khiến các Tử Đồ đuổi theo tôi, nhưng Shiki đã hạ gục Nrvnqsr kẻ săn đuổi tôi rồi còn gì?"
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Thế nên bây giờ tôi có thể quay lại kế hoạch ban đầu và tiêu diệt 'kẻ thù' của mình rồi.@
+  `Từ giờ cậu có thể quay lại cuộc sống bình thường của mình, và không cần phải dính dáng gì đến tôi nữa đâu."@
+`Cô ấy nở nụ cười, trông có vẻ vô cùng đắc ý vì điều gì đó.
+\
+`"……………"
+ld c,"tachi/ark_t03",crossfade,400
+`"Shiki?@ Sao cậu lại bày ra vẻ mặt khó xử đó nữa rồi?"@
+`"Thì bởi vì tôi đang thấy khó xử chứ sao.@ Chuyện này liên quan trực tiếp đến thành phố tôi đang sống mà."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Tôi bảo cậu đừng lo rồi mà.@ Chỉ hai ba ngày nữa là mọi chuyện sẽ kết thúc thôi, nên sẽ không có thêm nạn nhân nào nữa đâu."@
+br
+`Đúng vậy, thành thực mà nói, tôi chẳng muốn dính dáng vào chút nào.@
+`[line=3]Thế nhưng, câu nói đó…
+`Chẳng phải tôi, người thực sự sinh sống ở thành phố này, mới là người nên nói câu đó thay vì Arcueid sao?
+\
+`"…… Arcueid.@ Ừm, tôi hỏi một câu nhé?@ 'Kẻ thù' mà cậu nhắc tới đó, hắn có mạnh không?"@
+`"À, chắc chắn hắn phải vượt trội gấp nhiều lần tên Tử Giả lúc nãy rồi.@ Lần này tôi vẫn chưa chạm trán hắn, nhưng hắn đã ẩn mình suốt tám năm qua nên có lẽ giờ đã đạt đến Cấp Năm rồi."@
+`"…… Cấp Năm?@ Tôi không hiểu lắm, nhưng thế nghĩa là hắn mạnh hơn Nrvnqsr sao?"@
+`"Không có cửa đâu.@ Nrvnqsr là trường hợp đặc biệt rồi.@ Ông ta là một ma cà rồng thuần khiết, tối cao mà ngay cả khi ở trạng thái mạnh nhất tôi cũng trầy trật mới thắng nổi.@ So với ông ta, tên kẻ thù này yếu xìu hà."
+\
+`"[line=4][line=3]Ra vậy.@ Thế thì…… cậu sẽ không thể nào bại trận được rồi."@
+` Tôi thở phào nhẹ nhõm.@
+ld c,"tachi/ark_t03",crossfade,400
+`"Hửm, ai biết được chứ?@ Nếu là vài ngày trước thì hắn chẳng là cái đinh gì, nhưng hiện giờ tôi đang trong giai đoạn hồi phục.@ Khả năng cao là hắn còn mạnh hơn tôi lúc này đấy."@
+`"…… Hồi phục?@ Cậu bị bệnh hay sao thế, Arcueid?"@
+`"Ừ, tôi vẫn còn chịu ảnh hưởng từ lần bị cậu sát hại, chắc phải mất ít nhất vài ngày nữa tôi mới trở lại bình thường được."@
+`"[line=4]A..."@
+`[line=2]Đúng vậy…… lý do khiến Arcueid suy yếu như thế này, chẳng phải lỗi của ai khác ngoài chính tôi.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Nhưng không sao đâu.@ Dù có phải liều mạng tôi cũng sẽ tiêu diệt hắn cho bằng được, nên cậu không cần lo lắng cho thành phố này đâu."@
+`"…… Đồ ngốc, người tôi đang lo lắng chính là cậu đấy."@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hả?@ Sao cậu lại lo lắng cho tôi chứ, Shiki?"@
+`Đôi mắt cô ấy hiện rõ vẻ bối rối thực sự.
+\
+`…… Ờ thì, tất nhiên là tôi phải lo rồi.@
+`Tôi đã thở phào khi nghe tin tên kẻ thù này yếu hơn Nrvnqsr, chỉ vì tôi nghĩ rằng Arcueid sẽ không thể nào bị đánh bại.@
+`Arcueid...
+`Tôi thậm chí còn không dám tưởng tượng ra cảnh cô ấy bị thương.
+\
+`"………………"@
+`Quả thật kỳ lạ thật.@
+`[line=3]Tại sao…… tại sao tôi lại không thể bỏ mặc cô ấy được chứ?@
+`Đúng là tôi phải chịu trách nhiệm vì đã giết cô ấy.@ Tôi cũng cảm thấy tội lỗi khi cô ấy suy yếu như thế này cũng từ lý do đó.@
+`Thế nhưng, ngay cả khi không có những lý do đó, tôi vẫn không thể nào làm ngơ bỏ mặc cô ấy được.
+\
+`[line=3]Trước đây tôi cũng từng nghĩ về chuyện này rồi, nhưng……
+`đúng như dự đoán, việc này có lẽ chẳng tuân theo logic nào cả.@
+`…… Hơn cả nỗi sợ hãi rằng bản thân có thể sẽ mất mạng…
+`ham muốn được trợ giúp Arcueid trong tôi mạnh mẽ hơn nhiều.
+\
+`"Về chuyện lúc nãy chúng ta đã nói ấy, Arcueid."@
+`"Chuyện gì cơ?"@
+`"Thì chuyện tôi đứng về phe Senpai hay phe cậu ấy."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Chờ đã, nghe tôi nói hết đã.@
+ `[line=3]Cậu thấy đấy, ừm…… cậu rõ ràng là chẳng có chút thường thức nào, lại còn ích kỷ và cực kỳ khó chiều nữa."@
+ld c,"tachi/ark_t05b",crossfade,400
+`Arcueid lập tức lườm tôi với vẻ mặt cau có.@
+`Phớt lờ phản ứng đó, tôi giãi bày lòng mình.
+\
+cl a,crossfade,400
+`"…… Nhưng mà, ở bên cậu thực sự không chán chút nào.@ Tôi thích cậu.@
+  `Nên là, tôi có thể đi cùng cậu cho đến khi cậu tiêu diệt được tên kẻ thù này không…… Ý tôi muốn nói là, tôi sẽ không đứng về phía Senpai, mà sẽ là đồng minh của cậu…"@
+`Tôi hé mắt liếc nhìn biểu cảm trên khuôn mặt Arcueid.@
+ld c,"tachi/ark_t12",crossfade,400
+`"[line=6]Thật sao?"@
+`Trông cô ấy vô cùng ngạc nhiên, rụt rè hướng ánh mắt nhìn thẳng về phía tôi.
+\
+`"…… Thì, ừ chứ sao.@ Ngay cả tôi cũng thấy đầu óc mình có vấn đề rồi, nhưng tôi đã lỡ dính vào chuyện này mất rồi.@ Với cả, tôi không thể làm ngơ trước những hiểm họa đang rập rình ngay tại thành phố mình sống được."@
+`"Vậy ý cậu là……"[line=3]@
+`"Phải.@ Nếu cậu vẫn còn yếu, và nếu cậu bảo cậu cần đến sức mạnh của tôi, tôi sẽ sát cánh cùng cậu.@
+  `…… Ừm, có khi tôi chỉ làm vướng chân cậu thôi, nhưng mà…"
+\
+ld c,"tachi/ark_t09",crossfade,400
+`"[line=3][line=3]Đúng thế……!@ Nếu có cậu giúp sức, chúng ta sẽ vô địch thiên hạ luôn……!"@
+`…… Gương mặt cô ấy bừng sáng rạng rỡ, vẻ hạnh phúc tràn ngập không thể che giấu.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Nhưng thế có ổn không?@ Shiki, cậu có thể sẽ phải đối mặt với cái chết một lần nữa đấy."@
+`"Tôi chuẩn bị tinh thần rồi.@ Vả lại, tôi nghĩ đó chính là lý do tôi sở hữu đôi mắt này từ thuở sơ khai.@[line=4]Hồi tôi còn nhỏ, có người từng nói với tôi thế này.@
+  `Rằng nếu tôi có thứ năng lực mà người khác không có, tôi nên làm những việc mà người khác không thể.@ Tôi nghĩ việc này chính là loại chuyện như thế."
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Ồ?@ …… Tôi không rõ hoàn cảnh của cậu cho lắm."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Nhưng nghe hay ho đấy."@
+`…… Cảm xúc của Arcueid đang thăng hoa tột độ.@
+`Và được ở bên cô ấy cũng khiến tâm trạng tôi phấn chấn lây.
+\
+playstop
+`"Nhưng giờ chúng ta phải làm gì đây?@ Cậu có muốn tiếp tục truy lùng lũ Tử Giả giống như lúc nãy không?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Phải, tôi nghĩ hiện tại chúng ta chỉ có thể làm thế thôi.@ Tên lúc nãy đã là kẻ thứ mười hai rồi, nên tôi đoán không còn lại nhiều đâu.@ Một khi toàn bộ tay chân bị tiêu diệt, tên ma cà rồng chủ mưu buộc phải lộ diện, nên trước mắt ta cứ phải săn lùng những kẻ còn sót lại đã.@
+  `Như vậy có ổn không?", cô ấy hỏi.
+\
+`"Sao cũng được hết, tôi đi cùng cậu mà.@ Cậu dẫn đường đi đâu tôi theo đó.@ [line=2]Thế nào, chúng ta bắt đầu lại chứ?"@
+`"À không, đêm nay thế là đủ rồi.@ Chúng thường di chuyển theo lộ trình cố định, và lũ Tử Giả khác có lẽ sẽ không xuất hiện trong đêm nay nữa đâu.@
+  `Vì số lượng của chúng có hạn, tôi nghĩ hắn sẽ không dại gì tung hết ra cùng một lúc đâu."@
+`"[line=3]Thật vậy sao?@ Nhưng như thế chẳng phải tên 'kẻ thù' kia sẽ cố tình giấu lũ Tử Giả đi để tránh mặt cậu sao, Arcueid?"
+\
+`"Về cơ bản là thế.@ Nhưng vì tên 'kẻ thù' này là ma cà rồng, hắn buộc phải chiếm đoạt máu và năng lượng từ người khác để duy trì tồn tại.@
+  `Do đó, dẫu biết thừa tôi đang lùng sục khắp nơi, hắn vẫn bắt buộc phải phái lũ Tử Giả ra ngoài để thu thập lượng máu tối thiểu mà hắn cần."@
+br
+`[line=3]*Thở dài*@
+`Vậy ra, lượng Tử Giả tối thiểu mà hắn phái đi chính là người đàn ông lúc nãy hả.
+\
+`"Thế nên tôi nghĩ đêm nay có tìm tiếp cũng vô ích thôi."@
+`"…… Ừm, tôi thì sao cũng được.@ Cơ mà việc này cũng tẻ nhạt thật."@
+`"Đúng vậy, săn ma cà rồng là công việc vô cùng tẻ nhạt mà.@ Chúng ta phải tìm ra chiếc quan tài của tên 'kẻ thù' này ẩn giấu đâu đó trong thành phố, chuyện đó chắc chắn chẳng dễ dàng gì."@
+cl c,lshutter,800
+`Arcueid buông tay tôi ra rồi khẽ nhảy lùi lại phía sau một cách nhẹ nhàng.
+\
+`"Arcueid……?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Đêm nay tạm biệt ở đây nhé.@ Ngày mai chúng ta lại hẹn gặp nhau.@
+  `Với những bước chân uyển chuyển như đang khiêu vũ, cô ấy vừa lùi xa dần vừa chăm chú dõi theo tôi.@
+`"[line=3]Ngày mai…… chờ đã, chúng ta gặp nhau ở đâu đây……!?"@
+ld c,"tachi/ark_t08",crossfade,400
+`"[line=3]Ở đây luôn đi.@ Còn thời gian…… ừm, khoảng mười giờ đêm là đẹp đấy."@
+`Cô ấy nở nụ cười tươi tắn, gửi lại lời ước hẹn.
+\
+`"Chúc ngủ ngon nhé, Shiki.@ Ngày mai hẹn gặp cậu ở đây!"@
+`Và rồi,
+`khẽ vẫy chào tôi, bóng hình Arcueid hoàn toàn biến mất.
+\
+cl c,lshutter,800
+bg #000000,crossfade,1500
+bg "bg/bg_32d",lcartain,1500
+`[line=3]Tôi trở về biệt thự.@
+`Lúc này đã là khoảng một giờ rưỡi sáng.@
+`Toàn bộ khu biệt thự chìm trong màn đêm tĩnh mịch, không một ánh đèn.@
+br
+`"……… Thế này thì hỏng rồi."@
+`Tôi đặt tay lên cánh cổng sắt biệt thự.@
+`Cạch cạch.@
+`Một sợi dây xích kiên cố đang khóa chặt cánh cổng.@
+br
+`"[line=3]Chết tiệt.@ Mình không nên cắt đứt sợi xích này."@
+`Tôi trầm ngâm suy nghĩ một chút.@
+`Rồi tôi quyết định leo qua cổng để vào trong.
+\
+bg "bg/bg_48d",lcartain,800
+`…… Tôi kiệt sức rồi.@
+`Sau khi lén lút trèo qua tường như một tên trộm, tôi lặng lẽ tiến về phía cửa chính.@
+`Cổng ngoài thì khóa, nhưng cửa chính lại không gài chốt.@
+`"…… Chắc chắn là Hisui đã chừa cửa cho mình rồi."@
+`Tôi thầm thở phào gửi lời cảm ơn cô ấy.@
+br
+`Để không làm thức giấc Akiha, Kohaku-san hay Hisui, tôi nhẹ nhàng rón rén bước đi trong hành lang biệt thự.
+\
+bg #000000,lcartain,800
+bg "bg/bg_40d",lcartain,800
+`"[line=6]Phùuu."@
+`Thở phào nhẹ nhõm, tôi thả mình nằm vật xuống giường.@
+`"………………"
+`Lời hứa với Arcueid.@
+`Có lẽ là do định mệnh, nhưng mày lại tự rước thêm rắc rối vào người rồi, Tohno Shiki ạ.@
+br
+`"[line=4]Nhưng biết làm sao được chứ?@ Mình không thể bỏ mặc cô ấy một mình."@
+`Hay là chính bản thân tôi không hề muốn rời xa cô ấy?@
+`"Ừm…… mình thực sự thích Arcueid."@
+`But is that love?@
+`Ngay cả cảm xúc của chính mình tôi cũng chẳng thể rõ ràng nữa.
+\
+`Dẫu sao thì, có vẻ như bắt đầu từ ngày mai tôi sẽ lại giúp đỡ Arcueid thêm một lần nữa.@
+`Nên hiện tại, tốt nhất mình không nên suy nghĩ lung tung mà hãy đánh một giấc thật ngon đã……[line=4]
+\
+bg #000000,crossfade,1500
+!w2000
+bg "bg/bg_40d",lshutter,800
+br
+`[line=3]Tôi không thể nào chợp mắt nổi.@
+`Cứ nhắm mắt lại là vô vàn suy nghĩ lại ùa về trong tâm trí.@
+`Về Arcueid.@
+`Về tên ma cà rồng đang lẩn khuất ngoài phố xá kia.@
+`…… Và về người chị mặc phục trang màu đen kia.
+\
+`"[line=4]"@
+`…… Trằn trọc mãi chẳng thể ngủ được.@
+`Những lúc thế này, đọc sách là giải pháp tốt nhất.@
+`Tôi biết có một cuốn sách mình đang đọc dở dạo trước……[line=4]
+\
+bg #000000,crossfade,1500
+bg "bg/cmo_15",crossfade,1500
+waveloop se_11
+br
+br
+br
+br
+br
+br
+br
+`   Cảm xúc đầu tiên hiện lên trong tôi, đúng hơn chính là sự thương hại.@
+!w1000
+\
+br
+`Không phải giận dữ, cũng chẳng phải tuyệt vọng.@
+`Chỉ là, tôi thấy tất thảy mọi thứ diễn ra trước mắt mình đều thật đáng thương.@ (Và dĩ nhiên, kẻ đáng thương hại nhất chính là bản thân tôi.)
+\
+`Sự sống tự phân hủy không ngừng.@
+`Đời sống thường nhật lụi tàn không giới hạn.@
+`Thời gian trôi vào quên lãng không bến bờ.@
+br
+`Ai ai rồi cũng chỉ biết sa ngã.@
+`Ấy thế mà mọi sinh linh vẫn ra sức vẫy vùng tuyệt vọng để duy trì sự tồn tại, và khi nhận thức được điều đó là bất khả thi, chúng lại tiếp tục sinh sôi nảy nở.@
+`Không ngừng sinh sôi nảy nở.@
+`Đến cuối cùng, ngay cả kết quả của việc ấy cũng sẽ chết đi, và chẳng có lấy một sự đền đáp nào cả.
+\
+`Lẽ dĩ nhiên, kẻ không được đền đáp chẳng phải là những kẻ đã khuất.@
+`Ngay từ đầu chúng ta vốn đã không có hy vọng rồi.@
+`Thứ không được đền đáp chính là những nỗ lực.@
+`Nguyện ước cao đẹp, sự khát khao vĩnh cửu mà ai ai cũng mỏi mòn trông ngóng nhưng vĩnh viễn chẳng thể chạm tay tới.@
+br
+`Tôi tuyệt đối không có chút hứng thú nào với những thứ sớm muộn rồi cũng sẽ vỡ vụn.@
+`Nếu tôi có thể nhìn thấy cái chết và thấu hiểu được nó, họa may tôi sẽ lưu tâm đôi chút.
+\
+br
+`Một sự lặp lại vô tận gần như không thể đo lường nổi, vậy mà nguyện ước ấy vẫn cứ tiếp diễn tuần hoàn.@
+`Tôi đã nghĩ đến việc thay thế cái vòng lặp nguyện ước nực cười ấy bằng một thực thể thuần khiết duy nhất.@
+br
+`Phương pháp thực hiện thì không cần thiết phải giãi bày làm gì.@
+`Bởi lẽ ước nguyện một khi được toại nguyện sẽ lập tức biến thành kết quả.@
+br
+`Tôi đã sống chỉ vì lẽ sống duy nhất đó.@
+`Chuyện này không thể gọi đơn thuần là "niềm tin".@
+`Chỉ là, từ đầu tiên tôi được học trong đời vô tình lại là từ "vĩnh cửu".
+\
+bg #000000,crossfade,1500
+bg "bg/cmo_10",crossfade,1500
+`…… Ồ?@ Vậy ra ngươi định đoạt lấy sự vĩnh cửu ở ngay gần bên mình nhất sao?
+\
+`Dĩ nhiên là không rồi.@ Chúng chỉ là một giống loài già đi chậm hơn và khó chết hơn mà thôi.@ Ta chấp nhận biến mình thành một kẻ giống chúng chỉ vì cơ thể này đã đạt tới giới hạn.@ Nếu muốn tiến xa hơn nữa, ta cần thêm thời gian trong hình hài này.
+\
+`Thật trớ trêu khi một kẻ theo đuổi sự vĩnh cửu như ngươi lại luôn vội vã như vậy.@
+`Vậy là ngươi định rời khỏi đây vào ngày mai sao?
+\
+`Ta giao lại Cơ quan Chôn cất cho ngươi đấy.@ Ngay từ đầu, giáo hội cũng chỉ có một vị trí giáo sĩ trống mà thôi.@ Ta đã tiêu sạch đống gia sản thừa kế của cha mình để bước được đến bước này rồi, thế nên cũng đến lúc ta nên rút lui thôi.
+\
+`…… Chà, thế cũng tốt thôi.@ Vậy là ngươi chuẩn bị hoàn thiện học thuyết ma thuật của mình rồi nhỉ.@ Ta không có ý định rời khỏi đây, và ta cũng chẳng thể chung sống với ngươi được.@ Thật may mắn là ta là phụ nữ.@ Ta sẽ sớm sinh con đẻ cái và kể cho nó nghe mọi chuyện về ngươi.
+\
+` Ồ?@ Ngươi sẽ kể cho đứa trẻ nghe những gì đây, Narbarek?
+\
+`Để xem nào.@ Ta sẽ kể kiểu đại loại thế này[line=2]Rằng khoảng một trăm năm nữa, một Tân binh Tử Đồ mới sẽ xuất hiện.@ Để mắt đến hắn chỉ phí thời gian mà thôi, cứ ngơ hắn đi là được.
+\
+`Không, ngươi không cần phải đợi tới một trăm năm đâu.@ Cũng giống như tại đây, ta sẽ nhanh chóng leo lên đỉnh cao thôi.@ Cơ thể này sẽ sớm biến thành ma cà rồng tối cao nhất, nên chỉ cần mười năm là quá đủ rồi.
+\
+`Thật là ngu xuẩn.@ Kể cả có là ngươi đi chăng nữa, ngươi cũng cần ít nhất một trăm năm nếu phải bắt đầu lại từ một Tử Giả.@ Mức độ khốc liệt ở thế giới của chúng không hề dễ thở như ở chỗ chúng ta đâu.
+\
+`Nếu dùng những phương thức thông thường, thì ngươi quả thực đã đúng.@
+`But if I become the strongest ma cà rồng from the very beginning, their world's rules will not apply to me.
+\
+`…… Ý ngươi là thế nào chứ?
+\
+`Đơn giản thôi.@
+`Là giáo sĩ của Giáo Hội, ngươi chắc chắn thừa biết rằng sức mạnh của một Tử Đồ bị ảnh hưởng trực tiếp bởi Chân Tổ đã hút máu họ.@
+`Bởi vậy……[line=3]giải pháp thực ra vô cùng đơn giản.@
+br
+br
+`Nếu ta muốn trở thành Tử Đồ mạnh mẽ nhất,
+`dòng máu nóng này của ta,
+`buộc phải được hút bởi kẻ mạnh nhất trong số các Chân Tổ……[line=3]
+\
+wavestop
+bg #000000,crossfade,1500
+!w3000

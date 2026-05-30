@@ -1,0 +1,786 @@
+monocro off
+playstop
+wavestop
+bg #000000,notrans,0
+` Nếu ai đó đến phòng tôi, họ hoặc là Kohaku-san, Hisui hay Akiha.@
+` Hisui và Kohaku-san có lẽ sẽ gõ cửa, vậy nên chỉ còn lại Akiha...@
+`"Akiha?"@
+` Tôi ngồi dậy trên giường và gọi to.@
+` Ánh trăng chỉ chiếu sáng phòng một cách mờ nhạt, nên tôi không nhìn rõ gì.@
+` Tôi nhìn xung quanh nhưng không thấy bóng dáng ai.
+\
+`"...Chắc là tưởng tượng của tôi thôi..."@
+` Trí óc tôi có lẽ hơi buồn ngủ vì thiếu ngủ.@
+` Tôi thở ra và lăn sang bên cạnh mình.@
+bg "bg/bg_40c",notrans,0
+` Ánh sáng trên bàn bên giường bật lên.@
+wave se_01
+`"[line=6]Ồ?"@
+` Tim tôi đập nhanh hơn một nhịp.@
+`"... Điều này thật kỳ lạ. Tôi không nhớ đã bật nó..."@
+bg "bg/bg_40d",crossfade,400
+` Tôi tắt đèn.@
+` Tôi phải đi học ngày mai, nên cần phải ngủ thôi.
+\
+`"Không được đâu, anh trai. Chúng ta cần để ánh sáng bật cho việc này."@
+` Bất ngờ,
+` từ phía sau tôi, một giọng nói bình tĩnh gọi to.@
+`"[line=5]"@
+` Tôi quay lại.@
+` [line=4]Ở đó, tôi thấy
+ld c,"tachi/aki_t04b",lshutter,400
+` Akiha,
+cl c,crossfade,400
+ld c,"tachi/koha_t03b",lshutter,400
+` và Kohaku-san.
+\
+cl c,crossfade,400
+play "*1"
+`"Akiha……? Tại sao bạn ở đây vào giờ này? Và tại sao Kohaku-san lại đi cùng bạn? Có chuyện gì xảy ra không?"@
+` Tôi lăn ra khỏi giường khi vừa nói xong.@
+` Sau khi trao đổi ánh nhìn, họ cười.@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Chà Shiki-san, cậu quá mơ hồ rồi. Akiha-sama và tôi đến đây vì có một việc."@
+` Kohaku-san cười khanh khách.@
+cl c,crossfade,400
+`"...?"@
+` Tôi không hiểu điều gì khiến họ cười.
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Kohaku, cười như vậy là thiếu tôn trọng với Nii-san. Tôi hiểu cảm xúc của cậu, nhưng cậu không nên làm anh ấy bất ngờ quá nhiều. Chúng ta nên giữ những trò vui cho sau này, phải không?"@
+ld c,"tachi/koha_t12",crossfade,400
+`"Ôi, xin lỗi Akiha-sama. Anh ấy chỉ quá dễ thương khi không hiểu những điều đơn giản như vậy, nên tôi không kìm được."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"... Đúng vậy. Chắc chắn Nii-san hơi ngốc nghếch. Tôi có nghĩa là, ngay cả không nhận ra tại sao hai chúng tôi lại đến đây vào ban đêm muộn như thế này, ngay cả không biết vị trí của chính mình."@
+` "Vâng, anh ấy chỉ giống một chú chó con vô tội. Đáng yêu nhưng ngây thơ."@
+cl c,crossfade,400
+` Với nụ cười lạnh lùng, Akiha nhìn về phía tôi.
+\
+`"Aki, ha…………?"@
+` Nhìn thấy đôi mắt của cô ấy cuối cùng khiến tôi hiểu rằng có điều gì đó không ổn trong cách họ đang cư xử.@
+` "... Làm sao tôi nói được. Tôi không cảm nhận được sự thù địch nào, nhưng nó giống như họ đang lên kế hoạch làm điều gì đó."
+\
+`"Akiha, nếu cô có điều gì muốn nói, tôi sẽ lắng nghe, nên cứ nói thẳng ra. Chúng ta có trường học ngày mai, vì vậy chúng ta nên đi ngủ sớm."@
+` Tôi nói với cô ấy một cách bình tĩnh nhất có thể.@
+ld c,"tachi/aki_t18b",crossfade,400
+`"………………`@
+` Cô ấy nhìn chằm chằm vào tôi mà không nói một lời; có vẻ như cô ấy không hài lòng với điều gì đó.@
+` Không, hơn thế nữa...
+` Akiha thán thở.@
+`"…… Tôi nghĩ anh trai sẽ bối rối hơn một chút, nhưng tôi khá bất ngờ khi anh ấy không hứng thú."@
+` Cô ấy nói như thể tôi chẳng có mặt ở đây vậy.
+\
+`"[line=4]['line=4] Ồ, Akiha. Tôi vẫn chưa hiểu cậu muốn nói gì, nhưng..."@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Chà, anh trai. Chỉ mới lớn lên trong gia đình Arima thôi mà. "@
+` Nhìn kìa, có một người giới tính đối lập trong phòng của cậu vào ban đêm. Một chàng trai ở tuổi của cậu nên đã kích động chỉ bởi điều đó, nhưng cậu lại cư xử bình thường. Đối với một người phụ nữ như tôi, điều đó chỉ tự nhiên mà cảm thấy sốc."@
+` Cô ta liếc nhìn tôi.
+\
+`"... Chờ một chút, Akiha. Tôi sẽ để ý nếu có cô gái nào vào phòng của tôi, nhưng các cậu khác biệt. Chúng tôi là anh em chị em, nên điều này không đáng kể, và Kohaku-san đến kiểm tra xung quanh mỗi đêm."@
+` Vâng, đó chính là lý do tại sao điều này không khiến tôi ngạc nhiên.@
+` Akiha là em gái tôi, và Kohaku-san là người hầu.@
+` [line=4]Đối với họ, việc đến đây vào ban ngày hay ban đêm đều không đáng kể, nên tôi thực sự không...
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Nói cách khác, Nii-san, cậu xem chúng tôi nhiều hơn như gia đình hơn là phụ nữ?@
+` ... ... Tôi hiểu rồi. Có lẽ điều đó tốt cho cậu nếu điều đó thực sự đúng."@
+` Cô ấy lại nhìn tôi một lần nữa với nụ cười kỳ lạ đó.@
+` Cái nhìn yên lặng như thể cô ấy đang nhìn thấu tâm trí tôi.@
+`"[line=8]"@
+` Đột nhiên. Nhịp tim tôi bắt đầu nhanh lên.@
+` ... Có điều gì đó, kỳ lạ.@
+` Khi được Akiha nhìn như vậy, tôi càng cảm thấy bất an hơn.
+\
+` ... Ví dụ như,
+br
+` Tôi vẫn chưa thể chấp nhận Akiha là chị gái mình kể từ khi cô ấy thay đổi rất nhiều so với lần cuối tôi gặp cô ấy.@
+br
+` Tôi nhận ra mình bắt đầu có cảm xúc với Hisui và Kohaku-san nhiều hơn so với một người hầu bình thường.@
+br
+` Cảm giác như cô ấy đang nhìn thấu tâm tư giấu kín của tôi, khiến tôi thấy tội lỗi.
+\
+`"Ồ? Có chuyện gì vậy, anh trai? Sao anh lại ngước mặt nhìn đi như thế? Anh trông giống như đang che giấu điều gì đó."@
+`"[line=4](Ngạc nhiên)@
+` Tôi nhận ra má tôi đang ửng đỏ.@
+`"Đương nhiên không...! Chỉ nói cho tôi biết cô muốn gì thôi. Nếu chúng ta không ngủ sớm, ngày mai sẽ rất khó khăn."@
+` Không chịu thua, tôi đối mặt với ánh nhìn của cô ấy.@
+br
+` Và sau đó,
+` Akiha bất ngờ thở dài nhàm chán.
+\
+ld c,"tachi/aki_t18b",crossfade,400
+`"Thật thất vọng. Tôi mong chờ được thấy biểu cảm bối rối của cậu, anh trai. Nhưng điều này thật nhàm chán."@
+` "Vậy thì tốt thôi. Chúng ta sẽ xem cậu tiếp tục xấu hổ, nên có lẽ cũng ổn."@
+`"[line=6]Huh?"@
+` Tôi ngồi dậy khỏi giường.@
+` Chờ một chút.@
+` [line=5]Tôi nghĩ cô ấy vừa nói điều gì đó khủng khiếp.
+\
+`"[line=3]Akiha, cậu định làm gì vậy?"@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Ồ? Có được không khi cậu đứng dậy với cơ thể mình? Cậu có bệnh thiếu máu, nên cậu cần giữ bình tĩnh vào ban đêm."@
+` "Cậu dường như vẫn chưa ngủ đủ ngay cả bây giờ, và cậu đã mệt mỏi trong vài ngày qua, phải không? Làm ơn chú ý nhiều hơn đến sức khỏe của mình, anh trai. Cơ thể cậu rất yếu."@
+` "Vậy nên, cậu có muốn ngất đi nếu tiếp tục ép bản thân như vậy?"@
+` "Hả?"@
+`"[line=6](Không có dòng văn bản)@
+br
+wave se_01
+` [line=5]Một tiếng đập mạnh.@
+`  Lời của cô ấy dường như tác động đến tôi.
+\
+`"[line=3][line=3]Cậu nói gì? Tôi ổn."@
+`"Ồ? Hài hước à? Cậu trông có vẻ căng thẳng đấy."@
+` "Như thể... có, hơi thở của cậu sẽ trở nên dữ dội hơn, máu trong người sẽ cảm thấy chậm chạp, và nhìn kìa, tay chân cậu bắt đầu lạnh đi."@
+br
+wave se_01
+` [line=5]Đánh nhịp.@
+br
+`"[line=4][line=5]Này, dừng lại đi! Nếu cậu nói điều đó thì..."@
+` [line=3]Tôi thực sự... sẽ cảm thấy... choáng váng.
+\
+playstop
+Vòng lặp âm thanh se_02
+ld c,"tachi/aki_t18b",crossfade,400
+`"Không, đó không chỉ là tưởng tượng của cậu. Cơ thể cậu đã lạ thường từ khi chúng ta bước vào, nhưng cậu đơn giản chưa bao giờ nhận ra điều đó, anh trai ạ."@
+` Nhìn xem? Kohaku cười trước vì cậu thậm chí còn không hay biết điều đó.@
+` Cậu quá yếu đến mức có thể ngất bất cứ lúc nào, nhưng cậu lại chẳng bao giờ suy nghĩ về tình trạng của mình, anh trai ạ."
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Cậu giống như một con người giả tạo, là người duy nhất không nhận ra điều đó.@
+` Mặc quần áo cũ, dùng tre làm tay chân. Từ xa nhìn thì giống người... nhưng khi nhìn gần, chỉ là thứ được chế tạo để có hình dạng của con người."@
+br
+`"[line=5]Hả..."@
+` [line=5]Tại sao cô ấy lại đột nhiên bắt đầu nói về tất cả những điều vô nghĩa này?
+\
+ld c,"tachi/aki_t18b",crossfade,400
+`"Thật sự, cậu vẫn chưa hiểu à?@
+` Mặt cậu nhợt nhạt và tâm trí cậu tê dại.@
+` Cậu thực sự giống một con diều hâu, đến mức cậu không muốn thừa nhận nó. Đừng nghĩ cũng giống Kohaku sao? Anh trai ấy giống như một đồ trang trí có thể vỡ tan bất cứ lúc nào."@
+`"Stu…… Điều đó, không thể[line=4] đúng được."@
+br
+` Không thể, nhưng…
+` Tại sao[line=4] tại sao tôi lại cảm thấy choáng váng[line=4] thế này?
+\
+ld c,"tachi/aki_t11b",crossfade,400
+`"Xem này, cậu đã đến giới hạn của mình rồi."@
+` Dừng lại và nằm xuống đi.@
+` Nhưng cậu vẫn sẽ tỉnh táo.@
+` Cậu không thể di chuyển tay chân, nhưng ý thức vẫn còn.@
+`"[line=3][line=4]Ngừng... di chuyển"@
+br
+` Cơ thể tôi đang sụp đổ.@
+` [line=3]Tôi rơi về phía giường, giống như Akiha nói.
+`"[line=4]"@
+` Không. Cơ thể tôi không có gì bất thường.@
+` [line=3]Vì tôi không có bất kỳ triệu chứng thiếu máu nào trước đó.
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Tôi đã nói với cậu, điều đó không quan trọng. Cơ thể cậu luôn bị ràng buộc."@
+` "Vì vậy, cậu cũng không có quyền kiểm soát tối nay."@
+` [line=4]Bởi vì...@
+br
+` "Cậu luôn là con rối của tôi, anh trai."@
+br
+`"[line=5]CÁI GÌ?"@
+bg #000000,crossfade,400
+` Tôi ngã xuống giường.@
+` "... Cuối cùng, Akiha đã đúng."@
+` [line=3]Khi tôi bị ngất đi vì thiếu máu, tôi thường mất ý thức.
+\
+wavestop
+bg #ffffff,crossfade,800
+bg "bg/bg_40c",crossfade,800
+play "*5"
+`"[line=4]Ồ?"@
+` ... Không, lần này khác biệt.@
+` Toàn bộ cơ thể tôi tê bì, nhưng tôi vẫn tỉnh táo.@
+` Tôi không thể tập trung lắm, nhưng mình vẫn tỉnh.@
+`"Khác biệt so với tình trạng thiếu máu thông thường của tôi...@
+` Tôi nhìn chằm chằm lên trần nhà.
+\
+`"Akiha-sama? À, chúng ta đã làm quá nhiều rồi phải không? Anh ấy trông giống như bị thiếu máu nghiêm trọng..."@
+` Tiếng của Kohaku-san vang lên.@
+`"Anh nói gì vậy, Kohaku? Anh là người đã cho thuốc vào bữa tối của cậu ấy, nên cậu ấy sẽ có chút lơ mơ."@
+` Tôi chỉ muốn cậu ấy ngủ một chút. Tôi có thể làm điều đó một mình.@
+` Akiha nghe có vẻ không hài lòng.@
+`"Này, hai người."@
+` Tôi gọi họ trong khi vẫn nằm xuống.@
+` Tay và chân tôi không cử động được, nhưng tôi xoay cổ và nhìn cả hai.
+\
+`"Shiki-san rất thuần khiết, nên có lẽ lời gợi ý dễ dàng tác động lên cậu ấy. Tôi nghĩ đó cũng là một điểm tốt ở anh ta."@
+br
+` Họ dường như đang bỏ qua tôi.@
+br
+`"Đúng vậy, nhưng Kohaku, khi họ quá trong trắng... có phải không khiến cậu muốn chiếm hữu họ?"@
+br
+` Cô ấy liếc nhìn tôi.
+\
+bg "event/aki_h14",lshutter,400
+`"[line=5]"@
+` Ngay khi đôi mắt chúng ta gặp nhau, tôi cảm thấy một cơn lạnh chạy dọc sống lưng.@
+` Sự lạnh lẽo thấm vào da thịt tôi, xâm nhập dưới da và đến tận cốt lõi của tôi.@
+` Tôi cảm thấy não bộ mình đang tê cứng.@
+` Cơ thể tôi bị trói buộc khi cô ấy nhìn tôi bằng đôi mắt đó, như nếu thời gian đã ngừng lại và toàn bộ khu vực đã đóng băng.
+\
+wave se_01
+`"[line=4]Aki, sao vậy?"@
+`"………………`@
+` Cô ấy không nói một từ nào.@
+` …… Tiếng đập mạnh. Trái tim tôi đập vang.@
+` Mặt cô ấy hoàn toàn không có biểu cảm, nhưng đôi mắt [line=3]đôi mắt cô ấy lấp lánh như một kẻ săn mồi rình rập con mồi. [line=5]
+\
+`"Sự thống trị, phải không? Tôi thích nhìn thấy khuôn mặt lo lắng cũng như nụ cười của anh ấy, nên tôi hiểu ý cô, Akiha-sama."@
+` Bên cạnh Akiha, Kohaku nghiêng đầu.@
+` Akiha không nhìn Kohaku-san, nhưng cô ấy gật đầu nhỏ.
+\
+`"Hãy xem, nó giống như một bức tranh vậy."@
+` "Kohaku, giả sử có một bức tranh được vẽ rất tốt nhưng không phải là tuyệt tác. Vì nó được vẽ tốt nên bạn không có phàn nàn nào, nhưng bạn lại không thể thích nó vì chỉ đơn giản là được vẽ tốt mà thôi, không có gì thú vị."@
+` "Trong trường hợp này, cậu biết làm thế nào để khiến nó trở nên đặc biệt với cậu, Kohaku?"@
+`"Ờm... Ừm... Tôi không biết, Akiha-sama."
+\
+`"Đó là điều đơn giản. Cậu chỉ cần vẽ lên bức tranh và làm cho nó trở nên vô giá trị."@
+` "Kết quả là, bức tranh tốt đẹp sẽ biến thành rác. Nhưng quá trình phá vỡ cái 'tốt' theo cách của cậu, có tuyệt không?"
+\
+`"[line=3]Không phải rất đẹp khi nghĩ về nó sao?"@
+` "Tôi cảm thấy yêu thương và nuối tiếc cho bức tranh đó."@
+` Sự đau đớn khi bức tranh bị phá hủy, sự giận dữ với chính mình vì đã làm hỏng nó, sự thất vọng vì nó không thể sửa chữa, và hơn hết, thực tế rằng chỉ có tôi mới có thể phá vỡ nó là tuyệt đối.@
+` Tôi nghĩ đó là niềm hạnh phúc của việc sở hữu nó. Vì nó là duy nhất, và vì những vết thương trên nó được tôi đặt lên đó, bạn cảm thấy gắn bó với nó nhiều hơn.@
+` Bởi càng để lại nhiều dấu vết trên nó, nó càng trở nên thuộc về bạn nhiều hơn."@
+br
+` [line=4]Không có bất kỳ chuyển động nào.@
+` Như một cỗ máy, Akiha cười.
+\
+`"Này, Kohaku. Không muốn phá vỡ nó à?@
+` Tôi nghĩ nó sẽ rất... thú vị."@
+br
+bg "bg/bg_40c",lshutter,800
+`"[line=4]Ồi... Akiha...!"@
+` Tôi hét lên.@
+` Nhưng Akiha không đáp lại, và Kohaku-san với nụ cười của cô ấy,
+br
+`"Đúng rồi. Tôi hiểu, Akiha-sama,"@
+br
+` Cô ấy trả lời như vậy.
+\
+`"Ối trời!"@
+` Tôi tập trung hết sức mạnh trong cơ thể mình.@
+` Tôi cố gắng hết sức, ra lệnh cho những chi thân vô lực của mình đứng dậy.@
+`"Tss, n~~~~~~~………!!!!!"@
+` Tôi cảm thấy căng thẳng.@
+` [line=3]Cảm giác khả năng di chuyển tay chân bắt đầu trở lại dần.
+\
+ld c,"tachi/koha_t02b",lshutter,800
+`"Đủ rồi, Shiki-san, đừng làm thế. Cậu thiếu máu, nên không nên quá sức với cơ thể."@
+` Với nụ cười quen thuộc, Kohaku-san cúi xuống bên giường.@
+cl c,crossfade,400
+`"[line=4]Kohaku-san, cô định làm gì?"@
+`"Chuyện này à? Tôi trói cậu lại để ngăn cậu vùng vẫy. Không sao đâu, tôi chỉ trói tay và chân nên không đau lắm."@
+`"[line=4]Trói? Cậu đang nghĩ gì vậy!..." Tôi siết chặt hàm răng trước cơn đau đột ngột.@
+` Kohaku-san khéo léo trói tay và chân tôi vào giường như đã từng luyện tập nhiều lần.
+\
+wave se_01
+`"Tss………"@
+` Tôi cảm thấy một cảm giác nhẹ nhàng ở phía sau đầu.@
+` Tôi không biết hai người kia đang nghĩ gì.@
+` Nhưng khi bị trói chặt trên giường, chỉ tưởng tượng về vẻ mặt mình cũng khiến tôi mất trí.@
+` Khi họ nhìn thấy tôi như vậy, tôi xấu hổ đến mức muốn chết. [line=4]
+\
+`"Kohaku-san……!@ Dừng lại đùa giỡn đi!"@
+ld c,"tachi/koha_t15",crossfade,400
+`"Ôi, Shiki-san, má cậu đỏ bừng.@ La hét nhiều thế, chắc là lần đầu tiên bị trói lại."@
+`"……!@ Đương nhiên là như vậy rồi!@ Này, hãy tháo dây trói tôi đi!"@
+ld c,"tachi/koha_t02b",crossfade,400
+`"Akiha-sama, Shiki đang nói tất cả những điều này. Anh ấy dường như không nhận ra vị trí của mình, nên có phải chúng ta nên đối xử với anh ấy thô bạo hơn?"
+\
+cl c,crossfade,400
+`"[line=5]Ồ, Kohaku?"@
+` Vẫn mỉm cười, cô ấy nhìn xuống tôi bị trói lại.@
+` Nhìn của cô ấy đáng sợ hơn nhiều so với ánh mắt sắc bén của Akiha.@
+` Có giống như sự tàn nhẫn của trẻ con? Kohaku dường như thích thú với điều này hơn Akiha.
+\
+`"... Tôi nghĩ là vậy. Anh trai muốn em, nên em sẽ để cho Kohaku quyết định cách yêu thương, nhé."@
+` Nhưng đừng làm quá tay. Ngay cả khi anh ấy giống một con búp bê, anh trai không thể sửa chữa nếu đã bị vỡ.@
+`"Đúng vậy. Tôi sẽ cố gắng nhẹ nhàng hơn."@
+` Sau khi nói vậy,
+` Kohaku-san bắt đầu cởi quần áo của tôi.
+\
+Tôi bỏ qua những giọt nước mắt.
+` Cô ấy ngồi lên tôi khi bắt đầu công việc của mình.@
+` Trong tư thế đó, cô ấy từ từ bấm nút áo sơ mi của tôi, một cái một cái.@
+` Khi nhiệm vụ hoàn thành, ngón tay cô ấy di chuyển xuống quần tôi.@
+`"Ôi trời ơi, ôi trời ơi, ôi trời ơi!"@
+` Tôi cố gắng quấy rối mình, nhưng không có ích gì.@
+` Tôi nghe thấy một âm thanh khô khốc, kim loại.@
+` Kohaku-san từ từ kéo xuống khóa quần tôi.
+\
+`"[line=6]Ồ, cái gì vậy? Cô định làm gì…!"@
+` Tôi gần như không thể nói được gì.@
+` Tôi không hiểu làm thế nào hay tại sao tất cả điều này lại xảy ra.
+\
+` Tôi không thể nắm bắt được mình đã bị trói vào giường như thế nào hoặc tại sao Kohaku-san lại đang tháo quần áo tôi.
+\
+`"Shiki-san? Tôi chưa làm gì cả… cảm giác này thật tốt đến mức nào…"@
+` Với những lời nói táo bạo, Kohaku-san đặt tay lên trước quần lót của tôi một cách nhẹ nhàng.@
+`"[line=3]Th… không phải thế, nhưng, Kohaku-san!"@
+`"Ồ, thực sự sao? Vậy thì tôi có thể nhìn thấy tất cả các cậu, Shiki-san, có phiền gì đâu?"@
+`"Tssss!"@
+` Cô ta kéo quần lót của tôi xuống.@
+`"[line=10]"@
+` Tâm trí tôi hoàn toàn trống rỗng.@
+` Cô ta đã phơi bày cơ thể dưới của tôi.@
+` Thành viên yếu ớt của tôi bị lộ ra trước mặt mọi người.
+\
+`"Ôi trời! Shiki-san, em thật nhỏ bé và đáng yêu quá!"@
+` Kohaku-san vui vẻ nói chuyện từ đâu đó gần vùng eo của tôi.@
+` Bị trói chặt và nhìn chằm chằm bởi ánh mắt lạnh lùng của Akiha khiến tôi co rụt lại càng nhiều hơn.@
+`"[line=8]"@
+` Dây thừng phát ra âm thanh giòn giã khi tôi cố gắng chống đỡ.@
+` Tôi cảm thấy xấu hổ, muốn che thân mình bằng cả hai bàn tay.@
+` Nhưng vì bị trói, tôi chẳng thể làm được điều đó.@
+`"... ..."@
+` Akiha vẫn nhìn tôi mà không nói gì.@
+` Máu bỗng dưng dâng lên đầu tôi.
+\
+`"[line=5]Akh."@
+` Tôi gầm ghè răng.@
+`"Đừng lo, Shiki-san. Em sẽ giúp cậu tỉnh táo lại, nên cứ yên tâm..."@
+` Không quan tâm đến mong muốn của tôi, ngón tay Kohaku chạm vào tôi.@
+`"[line=7]Này!"@
+` Tôi cong lưng đáp lại.@
+` Những ngón tay của cô ấy bò lên đùi tôi như một con nhện không vội vã, điểm đến cuối cùng quá rõ ràng.
+\
+` Một cách từ từ, chúng tiếp tục tiến về phía trước với sự chậm chạp đáng ngờ.@
+` Rất chậm. Cảm giác bị ai đó chạm vào. ... Và cảm giác rằng nó đang xâm nhập vào không gian cá nhân của tôi, khiến não tôi rơi vào tình trạng hỗn loạn.
+\
+`"Ừm ...... Shiki-san là một chàng trai xấu xa. Đã kích động như vậy từ sớm?"@
+` Nhấn nhá.@
+` Như đang chơi đàn piano, Kohaku-san sờ soạng dọc theo đùi trong của tôi.@
+`"[line=5], h…………!"@
+` Tôi cố gắng kìm hơi thở.@
+` Tôi nhắm mắt để không nhìn thấy gương mặt cô ấy, nhưng tôi vẫn có thể cảm nhận được ánh nhìn sắc lạnh xuyên thấu vào tôi.@
+` ... Điều đó là hiển nhiên.@
+` Đó là ánh nhìn của Akiha.@
+` Cho đến khi nó tồn tại[line=3], tôi không thể nói ra điều gì.
+\
+` ... Kohaku-san tiếp tục.@
+` Những ngón tay mảnh mai di chuyển lên đùi tôi[line=3]vào cuối cùng cũng tới đích.@
+`"[line=4], [line=5]!"@
+` Một cơn giật chạy qua cơ thể tôi.@
+` Chỉ bằng ngón tay của mình, cô ấy chạm vào tôi một cách nhẹ nhàng đến mức gần như không cảm nhận được, Kohaku chơi đùa... toàn bộ... phần nhạy cảm của tôi.
+\
+`"A[line=4], gg[line=3]"@
+br
+` [line=3]"Tôi... không hiểu."@
+br
+` Liệu nó có cảm giác dễ chịu khi bị ai đó khác chạm vào, hay ngón tay của cô ấy đặc biệt?@
+` Máu tôi bắt đầu dồn lên khi bàn tay của cô ấy ôm lấy tôi trong một cái nắm nhẹ nhàng.@
+` "Thấp... Thấp..."@
+` Bất chấp lương tâm, tôi thấy mình bắt đầu cứng lại.
+\
+`"Mm...... Shiki-san, bạn phải nói to hơn[line=4]"@
+bg #ffffff,notrans,0
+bg "bg/bg_40c",notrans,0
+`"[line=5][line=4], có gì đó không?!"@
+` Giường vừa rên một tiếng.@
+` [line=3]Chỉ vừa rồi, tôi cảm thấy thứ gì đó trơn trượt di chuyển dọc theo vùng kín của tôi.@
+`"[line=4][line=3]Này Kohaku... san!"@
+` Tôi nâng đầu lên và nhìn xuống cô ấy.@
+br
+bg #000000,crossfade,400
+`"[line=5]Cô ấy nói gì?"@
+` Ngay cả khi tôi đã dự đoán điều này,
+` nhìn cảnh tượng này khiến não bộ của tôi vốn đã bối rối càng trở nên choáng ngợp hơn.
+\
+bg "event/koha_h10",lshutter,800
+`"[line=3][line=3]Kohaku-san, làm sao vậy? Cô đang làm gì thế?"@
+`"Tôi đang phục vụ cô, tất nhiên là như vậy."@
+` Cô ấy trả lời như thể những hành động của mình hoàn toàn bình thường.@
+` [line=3][line=3]Nhưng việc [làm] đó... liếm tôi ở chỗ đó...
+`"Anh không thể...! Đừng nghĩ rằng việc làm bẩn như vậy là bình thường...!"@
+`"Không, tôi không nghĩ thế. Vì đây là lệnh của Akiha-sama, tôi không có quyền suy nghĩ."@
+` "Lệnh của Akiha? Điều đó thật ngớ ngẩn."
+\
+`"Akiha...!!!!"@
+`"Chuyện gì vậy, anh trai? Tôi ở đây mà. Không cần phải hét lên."@
+`"Dừng lại đi...! Anh đang nghĩ gì vậy? Điều này sai lầm...! Tại sao anh lại khiến Kohaku-san làm điều này...?!"@
+bg "event/aki_h14",bshutter,400
+`"Ồ, chỉ vì tôi muốn thấy thôi."@
+br
+` [line=3]Đơn giản.@
+` Cô ấy nói như thể tôi là một kẻ ngốc đang làm lớn chuyện về điều vô nghĩa này.
+\
+`"…… Ồ, ơi. @ Akiha, cậu muốn xem nó à?" @
+`"Có phải đó là vấn đề? @ Tôi là người đứng đầu gia tộc Tohno. @ Khi cậu trở về đây, cậu thuộc về tôi. @ Cậu chắc chắn đã biết điều đó khi quay lại." @
+`"Hả[line=5]" @
+` Cô ấy đang đùa à? @
+` …… Tất nhiên, tôi biết từ lúc cô ấy là người thừa kế gia tộc Tohno, tôi chỉ là một kẻ phụ thuộc, nhưng [line=3]
+\
+`"Cậu hiểu chứ? @ Tohno Shiki chỉ có thể sống trong gia tộc Tohno. @ Cậu không có nơi nào khác để đi, và không thể tách rời khỏi tôi. @
+` Tohno Shiki thuộc về gia tộc Tohno, và tôi là người đứng đầu gia tộc đó, nên cậu không thể chống lại tôi." @
+br
+` [line=3]"Tại sao lại thế?"@
+` [line=3]Lời của Akiha... chỉ cần nghe chúng cũng khiến tôi tin rằng đó là sự thật.
+\
+`"Xem này? Anh là tài sản của tôi, nên tôi có thể làm bất cứ điều gì với anh, anh trai."@
+` Tôi chỉ muốn nhìn thấy cơ thể bẩn thỉu, thiếu trang trọng của anh. Tôi không quan tâm đến thứ gì khác và tôi cũng không muốn nghe những gì anh phải nói.@
+` Giọng nói của Akiha nghe vô cùng thờ ơ.@
+` [line=5]Cô ấy... cô ấy khiến Kohaku làm điều bẩn thỉu như vậy, nhưng dường như cô ấy đang cảm thấy thất vọng.
+\
+`"Đáng khốn! Thật sự, anh đang nghĩ gì vậy, Akiha......!? Nếu anh không dừng lại ngay bây giờ, tôi thực sự sẽ rất tức giận!"@
+`"Thật sao? Hài hước, cơ thể của anh dường như thích điều đó."@
+`"[line=6]Tôi cảm thấy cơ thể mình nóng bừng."@
+` Như cô ấy nói, dương vật tôi cứng lại vì những lời trêu chọc của Kohaku-san.@
+` Dù tôi cố phủ nhận bằng lời nói, cơ thể tôi dường như có ý chí riêng.@
+` "Bây giờ anh có hiểu chưa? Đây là điều mà anh mong muốn từ đầu, Nii-san. Không thể chối bỏ nó."
+\
+`"Không... không đúng."@
+`"[line=6](Shiki lắc đầu, đầy nghi ngờ)@
+` Khi tôi cố phủ nhận, Kohaku-san chạm vào dương vật tôi bằng ngón tay.@
+` Tôi... tôi không thể trốn tránh sự thật này.@
+` Một miếng thịt hoàn toàn căng phồng.@
+` Kohaku-sa... nhẹ nhàng... dùng những ngón tay mềm mại quấn quanh nó.
+\
+`"[line=6]A, gg…………!"@
+` Không chỉ là sự chạm vào của cô ấy, ngay cả sự hiện diện của những ngón tay Kohaku cũng khiến tâm trí tôi trắng xóa.@
+bg #000000,notrans,0
+`"[line=7]Đáng khinh!"@
+` Tôi nhắm mắt và gầm ghè răng, cố gắng tuyệt vọng để xua tan những suy nghĩ lệch lạc này.@
+br
+` [line=4]Nhưng đó chỉ là sự lãng phí sức lực.@
+br
+` Ngón tay của Kohaku.@
+` Nụ chạm nhẹ nhàng của cô ấy khiến tôi càng trở nên phấn khích hơn.
+\
+`"Ha... tuyệt vời lắm, Shiki-san. Cậu rất sống động. Thật đáng kinh ngạc."@
+` Giọng nói của cô ấy đang dần nóng lên.@
+`"[line=2]Nhưng vẫn còn một chặng đường dài phía trước. Hãy nhìn Akiha-sama đang quan sát, cậu nên cố gắng làm to hơn một chút."@
+` Bất ngờ,
+` ngón tay cô ấy bắt đầu di chuyển.@
+` Chuyển động quyến rũ từ trên xuống dưới dọc theo cơ thể tôi.@
+bg "event/koha_h10b",lshutter,400
+`"[line=4]Ts... ah...!”@
+` Tôi thở dốc ra một tiếng.@
+` Không chuẩn bị cho cuộc tấn công bất ngờ này, lưng tôi cong lại vì ngạc nhiên.
+\
+`"Hừm... Anh thật sự phấn khích. Tôi không thể tin được anh đang lớn lên."@
+` Kohaku như thể thực sự ấn tượng, dùng ba ngón tay vuốt ve tôi như đang chơi với một đồ chơi mới.@
+`"Ồ [line=4], Kohaku, s... nhỏ [line=3]"@
+` Nó gần như cảm thấy cô ấy siết chặt tôi thay vì vuốt ve.@
+` Cô ấy cười như thể thực sự thích thú.
+\
+`"Ha, ah[line=4],……………!"@
+` Một tiếng rên khẽ lách cách khỏi môi tôi, dù tôi cố gắng kìm nén nó.@
+`"Ôi chà. Bạn không thể giữ nó lại được, đúng không, Shiki-san? Nó thực sự cảm thấy tốt như thế sao? Ngay cả khi tôi làm điều này với bạn chống lại ý muốn của bạn, và Akiha-sama đang quan sát, nó thực sự cảm thấy rất tốt đến mức bạn không thể kìm nén."@
+`"[line=6]Tsukihime"@
+` Giọng trêu chọc của Kohaku.@
+` Điều đó khiến tôi nhớ lại.@
+` [line=4]Akiha. Cô ấy ở ngay trước mặt tôi, và đang nhìn tôi.
+\
+` Trong lúc tôi bối rối và phẫn nộ lẫn lộn, những cảm giác này ép buộc mình xuyên qua.@
+` Tôi bắt đầu phồng lên dưới những ngón tay tinh tế của Kohaku.@
+`"[line=3]Chà!"@
+` Tiếng nhỏ của Kohaku vang lên.@
+bg #000000,crossfade,400
+bg "event/aki_h14",crossfade,400
+`"[line=9]"@
+` Tôi có thể cảm nhận được ánh nhìn của Akiha xuyên qua da thịt tôi.
+\
+`"[line=4]Hừm. Anh trai, anh cuối cùng cũng quyết định trung thực với chính mình, nhỉ?"@
+` Akiha trông bình tĩnh và tự tin... hoàn toàn trái ngược với trạng thái của tôi lúc này.@
+`"Được rồi, Kohaku. Hãy bắt đầu đi."@
+` Giọng nói của cô ấy như băng giá.@
+` Kohaku gật đầu nhanh chóng... và một tia chớp bất ngờ chạy qua tôi.
+\
+bg #ffffff,crossfade,400
+` Tôi cảm thấy điều gì đó... ướt.@
+` [line=5]Cơ thể nóng bỏng của tôi đột nhiên tiếp xúc với thứ gì đó rất ướt.
+`"[line=4][line=4]Ôi trời ơi!"@
+bg "event/koha_h11",crossfade,400
+` Tôi vặn đầu lên, và trong khoảnh khắc ấy, tôi mất hết lý trí còn lại.@
+` Lưỡi của Kohaku đang liếm tôi.
+\
+`"Mmm... Shiki-san, nó nóng quá..."@
+`"Tss... tss..."@
+` Hơi thở ngọt ngào của Kohaku quấn quanh tôi, khiến tôi mất trí.@
+` Tôi cảm thấy toàn bộ linh hồn mình tập trung vào điểm đó.@
+`"... À... ừm... ừm, à..."@
+` Bàn tay cô ấy ôm lấy tôi, và khi tôi cương cứng, cô ấy dùng lưỡi hồng nhạt tinh tế liếm tôi.@
+`"[line=4][line=3]Àm... Shiki-san."@
+` Những cử chỉ của cô ấy rất cẩn thận và đầy nhiệt tình.
+\
+` Phần sau của lưỡi cô ấy.@
+` Đầu lưỡi di chuyển quanh tôi.@
+` Lời nói ngọt ngào bao quanh đầu tôi.@
+` Cô ấy liếm tôi như thể muốn nếm thử mọi thứ vậy.@
+` Ngón tay nhỏ bé của cô ấy cẩn thận liếm đầu tôi.@
+` Cảm giác này.@
+` Nó tốt hơn nhiều so với chỉ những ngón tay cô ấy thôi.@
+` Tại sao[line=4]chỉ bằng lưỡi của cô ấy, cô ấy lại khiến trái tim tôi đập mạnh như vậy?
+\
+`"Shiki-san…… ơi, Shiki-san, có... thoải mái không...?"@
+` Cô ấy nhìn tôi với đôi mắt lấp lánh, ngước lên.@
+` Cô ấy vẫn không ngừng vuốt ve tôi.@
+`"[line=4][line=4]Ôi, trời ơi...!"@
+` Tôi cố kìm nén cảm giác nóng rực bên trong, siết chặt tấm chăn.
+\
+` Những ngón tay thon thả, mềm mại của cô ấy vẫn tiếp tục ôm lấy tôi.@
+` Tiếng rít nhai thô lỗ.@
+` Từ bộ phận nhạy cảm đến đầu dương vật, những ngón tay của cô ấy vuốt ve tôi với âm thanh ầm ầm như đang nhai nước.@
+br
+`"[line=5][line=4]Ôi trời!"@
+br
+` [line=4]Cảm giác khoái cảm gần như khiến tôi mất trí.@
+` [line=4]Akiha như đang nghiên cứu tất cả, cô ấy quan sát hai người chúng tôi.
+\
+`"Ưm... Shiki-san, thì thầm to hơn."@
+` Lần này, cô ấy nhắm vào đầu dương vật của tôi bằng lưỡi.@
+` [line=3]Cảm giác này thậm chí còn tốt hơn trước.
+br
+`"[line=6][line=4][Lời thì thầm khàn khàn], H[lần nữa]"@
+br
+` Tôi quấn chăn lại khi cố chống lại những cảm giác này.@
+` Ngôn ngữ nóng bỏng của cô ấy dường như hút tôi chỉ bằng việc chạm vào.@
+` Cô ấy có vẻ đang hút hết sinh lực từ tôi.
+\
+`"Ồ... ừm, ừ... ồ, ừm."@
+` Ngón lưỡi ẩm ướt, dính của cô ấy.@
+` Từ gốc dương vật tôi, quanh vùng trứng, tôi bắt đầu cảm thấy một cơn đau nhẹ.@
+` Chất dịch đặc nhầy bắt đầu chảy ra.
+\
+`"Ồ, Shiki-san, thật là thô tục."@
+` Tôi muốn quay mặt đi.@
+br
+` [line=5]Nhưng...@
+` Nếu tôi làm thế, tôi sẽ phải nhìn vào Akiha.@
+br
+bg "event/aki_h14",crossfade,400
+`"……………………"@
+` Akiha không nói gì cả.@
+` Cô ấy chỉ im lặng quan sát cuộc trao đổi giữa chúng tôi.@
+` Ngay cả khi đôi mắt chúng tôi gặp nhau, cô ấy cũng chỉ chải tóc ra khỏi mắt và giả vờ như thể không quan tâm. [line=5]
+\
+`"Ga……"@
+` Trái tim tôi đập nhanh hơn nữa.@
+` Akiha đang nhìn tôi.@
+` Chị gái tôi đang nhìn tôi, và tôi không thể ngăn chặn điều đó.@
+` [line=5]Tôi cảm thấy ham muốn như một con thú, và tôi không thể chống lại sự vuốt ve của Kohaku.
+\
+bg "event/koha_h10b",crossfade,400
+`"Này, Shiki-san, đừng quay mặt đi."@
+`"[line=7](Lời thì thầm nhẹ nhàng)@
+` Kohaku kéo tôi trở lại hiện thực.@
+` ... Những ngón tay của cô ấy giờ đây phủ đầy chất lỏng dính dính.@
+` Không chỉ là nước bọt của cô ấy.@
+` Nhưng còn từ tôi nữa.
+\
+` ... Liệu nó... có bẩn không?@
+` Kohaku liếm bộ phận của tôi đang ẩm ướt và bắt đầu vuốt ve nó bằng ngón tay.@
+` Những âm thanh ẩm ướt lấp đầy không khí.@
+` Hành động của cô ấy dữ dội hơn bao giờ hết, những cử chỉ khiến tiếng ồn lớn hơn.
+\
+`"[line=5], gah! [line=5]"@
+` Nó bắt đầu lấp đầy ở phần sau của bộ phận.@
+` Ngón lưỡi của cô ấy đủ để khiến tôi nổ tung, nhưng những ngón tay ẩm ướt của cô ấy làm tăng cảm giác đó.@
+`"[line=5][line=4]Ko... haku, điều đó... đủ rồi, dừng lại."@
+` Tôi cố gắng kìm nén sự thở dốc khi cuối cùng cũng nói được.@
+` Kohaku chỉ cười khúc khích và nhìn lại tôi.@
+`"Không, tôi không thể làm điều đó, Shiki-san. Akiha-sama muốn thấy bạn hoàn thành. Vậy nên còn rất nhiều việc phải làm."
+\
+`"[line=3]Điều gì... thấy tôi hoàn thành... điều gì... bạn muốn..."@
+`"Đáng lẽ ra điều đó rõ ràng rồi? Cô ấy muốn thấy bạn tiến lên."@
+` "Lặp đi lặp lại, cho đến khi bạn vỡ mộng và hoàn toàn quên đi những gì đã xảy ra ở đây tối nay."@
+` Khi cô ấy nói vậy,
+` Đôi môi cô ấy khép lại quanh đầu tôi.
+\
+bg "event/koha_h11",tshutter,400
+`"[line=7]Ồ!"@
+` Một cảm giác tê bì lan từ lưng lên đầu tôi.@
+` Tất cả những gì tôi cảm nhận đến giờ chỉ là sự liếm nếm của cô ấy, nên việc này xảy ra đột ngột hơn nhiều, giống như đau đớn hơn là khoái cảm.
+\
+`"N... mm, mmh..."@
+` Cô ấy nhẹ nhàng cuộn tôi trong miệng mình.@
+` Nó rất nóng. Tôi đã bị đốt cháy từ trước, nhưng độ ẩm ngọt ngào bên trong miệng cô ấy giống như dòng lava.@
+`"[line=10]"@
+` Cô ấy lại tấn công đầu dương vật của tôi.@
+` Cô ấy hút, đẩy, liếm bằng lưỡi. Kohaku tiếp tục trêu chọc tôi.@
+`"[line=4]Ồ."@
+` Nhưng, tôi đã đến giới hạn của mình.@
+` Sức nóng bên trong tôi đe dọa sẽ nổ tung.
+\
+`"[line=4]Ôi trời ơi...!!!"@
+` Tôi sẽ xuất hiện.@
+` Tôi không thể kìm nén được.@
+` [line=3]Trong miệng Kohaku, tôi...
+br
+bg "event/aki_h14",tshutter,400
+` [line=4]Tôi không thể nào...@
+br
+` Akiha đang quan sát.@
+` Cô ấy tràn đầy sự tò mò.@
+` Không, cô ấy không có chút quan tâm nào đến tôi.@
+` Cô ấy thấy vui sướng trong tình huống này.@
+` Không, như thể coi thường tôi bằng cách nhìn tôi như thế này.
+\
+`"[line=5]Gahh………!"@
+` Tôi siết chặt răng khi cố chống lại.@
+` …… Tôi không thể.@
+` Tôi không thể buông tay trước mặt cô ấy.@
+` Đó sẽ là giọt nước cuối cùng.@
+` [line=4]Nếu điều đó xảy ra, tôi thực sự sẽ sụp đổ.
+\
+`"Ồ, Shiki-san, bạn thực sự rất kiên trì."@
+` Kohaku-san nghe có vẻ vui vẻ.@
+`"Nhưng chống lại cũng vô ích. Tôi đã bắt đầu thích Shiki-san rồi, nên tôi sẽ chơi đùa với cậu thêm một chút nữa."@
+` Giọng nói của cô... dường như rất xa xôi.@
+` Hiện tại[line=3], ánh nhìn của Akiha đau đớn gấp nhiều lần.
+\
+`"Heehee, Akiha-sama đã cho phép, nên tôi sẽ nghiêm túc hơn từ bây giờ."@
+` Hãy chuẩn bị tinh thần, Shiki-san. Tôi thực sự khá thô bạo khi muốn như vậy.@
+` Cô ấy vẫn giữ khoảng cách.@
+` Và sau đó, một cảm giác mới bất ngờ ập đến.
+\
+bg "event/koha_h11",crossfade,400
+`"[line=7]Ôi trời ơi!!!!"@
+` Cảm giác này thật sốc đến mức khiến hông tôi bắn lên.@
+` [line=3]Đôi môi chỉ chạm vào đầu dương vật tôi giờ đây bao trùm toàn bộ nó.
+`"[line=4]M, mm, mmph..."@
+` Đôi môi cô ấy trượt xuống tận gốc dương vật tôi.
+\
+`"[line=3]Kohaku... ku...!"@
+` Không thể chống cự được.@
+` Đuôi tôi cong lên, hông tôi lơ lửng, giống như một con chó đang nóng bỏng.@
+`"[line=3]Ừm... ừm... Arcueid-san, đừng quá... cuồng nhiệt."@
+` Cô ấy nắm chặt tôi.@
+` Lại một lần nữa, cô ấy gần như nuốt chửng tôi.@
+` Đôi môi nóng bỏng của cô ấy. Ngón tay cô lướt qua miệng với sự sống riêng của nó.
+\
+` Cô ấy hút tôi vào.@
+` Ngón tay cô di chuyển ra vào khi cô giữ tôi trong miệng.@
+`"N... n... nnnn..."@
+` Cổ họng cô ấy chuyển động, và khi cô làm thế[line=3], tôi cảm thấy như thể tôi sắp bị rách toạc.@
+`"[line=4][line=4]Kho... Kohaku... dừng lại... này"@
+`"Ồm... Cậu không nên, Shiki-san. Đừng hỏi về những điều sẽ không xảy ra."@
+` Cô ấy mỉm cười tinh nghịch.@
+` Dần dần, cô ấy cắn nhẹ bằng đầu lưỡi.
+\
+`"[line=7]Chuyện gì vậy?"@
+` Điều này khiến tôi bay cao hơn bao giờ hết.@
+`"[line=6]Ôi trời ơi!"@
+` Tôi cố gắng cử động tay chân, nhưng dây trói cào vào da thịt tôi.@
+` Đau đớn ấy giúp tôi kiềm chế.
+\
+`"Hả?@ Điều đó thật kỳ lạ... Tôi nghĩ cậu sẽ đến vào lúc đó."@
+`"Kohaku... tại sao... lại như vậy!"@
+`"Đừng lo.@ Tôi đã nói với cậu trước, tất cả đều theo lệnh của Akiha-sama."@
+` Kohaku-san... hoàn toàn không có vẻ tội lỗi.@
+` Cô ấy tận hưởng những mệnh lệnh này.@
+`"[line=4]Akiha, cậu nói gì vậy?"@
+` Tôi nhìn về phía nơi Akiha đang ngồi.@
+bg "event/aki_h14",tshutter,400
+` Cô ấy im lặng.@
+` Ngay cả khi tôi nhìn chằm chằm vào cô ấy, cô ấy chẳng nhúc nhích chút nào.@
+` Cô ấy chỉ nhìn chằm chằm như thể bị điều gì đó chiếm hữu vậy.
+\
+` [line=4]Hừ…… như thể bị chiếm hữu à?@
+br
+` Có phải do tưởng tượng của tôi không?@
+` [line=3]Cô ấy trông chẳng khác biệt gì, nhưng…… sao lại dường như đang háo hức quan sát chúng tôi?
+\
+bg "event/koha_h10b",crossfade,400
+`"Vậy thì tôi sẽ chơi đùa ở đây một chút.@
+`"Ồ, chờ đã[line=3]Đừng! Tôi nói dừng lại!"@
+`"[line=4]Ôi, Shiki-san thật dễ thương."@
+`"[line=4]Không, không phải ở đó,"@
+` Tôi để cơ thể rơi xuống giường.@
+` Một cảm giác khác biệt chạy dọc sống lưng và xâm nhập vào não tôi.
+\
+` Một cảm giác hút kéo.@
+` Kohaku-san không hút dương vật tôi... mà là trứng của tôi.@
+` Cô ấy liếm dọc theo bìu.@
+` Khi ngón tay cô ấy vuốt ve dương vật tôi, cô ấy dùng ngón trỏ và ngón giữa để vuốt ve tôi ở chỗ nhạy cảm.@
+br
+` [line=3]Không thậm chí mạnh bằng khi cô ấy liếm tôi.@
+` Nhưng tôi đã đến giới hạn của mình, việc chạm vào tôi nhẹ nhàng như vậy càng khiến nó tồi tệ hơn.
+\
+`"Ồ… ừm…!"@
+` Tôi kìm nén một tiếng khóc.@
+` Có lẽ nếu tôi kêu lên, tôi có thể chống lại khoái cảm này.@
+br
+` Nhưng tôi không muốn làm điều đó.@
+` Akiha vẫn đang nhìn.@
+` Ngay cả hơi thở thô của tôi, giọng nói bị kìm nén.@
+` Tôi siết chặt những tấm chăn, dương vật tôi dựng đứng, cô ấy đang quan sát mọi thứ.
+\
+`"[line=6]………………"@
+` …… Tôi bắt đầu mất kiểm soát với những gì đang xảy ra.@
+` Liệu tôi sắp nổ tung vì chạm vào của Kohaku?
+\
+` Hay điều đó không liên quan gì và tôi đang trở nên điên rồ vì ánh nhìn của Akiha?
+\
+`"A…… Aki…… ha…………"@
+` Đột ngột.@
+` Các ngón tay của Kohaku tiếp tục di chuyển xuống thấp hơn.@
+` Có đây, cái mông tôi ướt sũng với nước bọt của cô ấy.@
+`"Ư... ha... haa... ưm..."@
+` Ngay cả khi tôi biết điều gì sắp xảy ra, tôi cũng không thể làm gì được.@
+` Bởi vì ngay cả khi tôi cố chống lại, tôi không thể ngăn cô ấy, và hơn thế nữa[line=4]tôi bị thu hút bởi đôi mắt của Akiha và tôi chẳng quan tâm đến Kohaku.
+\
+`"Shiki-san, ngươi phải nâng cao hông lên. Ngươi phải cho Akiha-sama thấy khi ngươi thả lỏng."@
+` Tôi cảm thấy một cảm giác trượt.@
+` Trong cái lỗ đó.@
+` Nơi không gì cả nên xâm nhập, Kohaku chèn ngón tay gầy guộc của mình vào đó.
+\
+`"[line=6]!!!"@
+` Chỉ có đau đớn.@
+` Hông tôi giật lên đáp lại.@
+` Cơ bắp co lại như cố đẩy ra vật thể lạ.@
+`"[line=3]Ối! Shiki-san, cô đang làm gì vậy?!"@
+` Lợi dụng tư thế của tôi, cô ấy thêm một ngón tay khác.@
+` Cô ấy bắt đầu lắc chúng xung quanh bên trong tôi.
+\
+`"[line=5]Gà!!! "@
+` Cảm giác chỉ là nỗi đau.@
+` Cơ thể tôi phản kháng trong sự đau đớn.@
+` Những ngón tay của Kohaku.@
+` Chỉ với những thứ nhỏ bé ấy, cơ thể tôi kêu rên trong đau đớn.
+\
+`"[line=4][line=5]Aii!"@
+` Dù vậy, dương vật tôi giờ đứng cứng và cao hơn trước đây.@
+` Có phải nỗi đau này đã trở thành khoái cảm?@
+` Cơ thể tôi run rẩy, dương vật phồng lên, đập mạnh với máu.
+\
+`"[line=3]Ừm... Có vẻ đây là nó rồi. Nhưng Akiha-sama, cậu không nghĩ là có chút khó xử với anh ta khi cậu đến vì... vì..."@
+`"[line=8]Anh ta bị xâm phạm?"@
+` Tôi đỏ mặt giận dữ.@
+` Akiha vẫn im lặng.@
+` [line=4]Cô chỉ nhìn tôi như vậy và...
+\
+`"[line=6]Haa... ừm, haa... ồ..."@
+` Tôi không thể... thở được.@
+` Ngón tay Kohaku xâm nhập vào tôi từ bên trong.@
+` Tôi biết mình không thể chống lại.@
+` Nhưng tôi cảm thấy có điều gì đó không đúng.@
+` Tôi chắc chắn đang bị Kohaku vuốt ve.@
+` [line=4]Nhưng hơn thế, tôi cảm thấy như ánh nhìn của Akiha đang xâm phạm tôi và bò sâu vào da thịt tôi.
+\
+`"Đó là tất cả. Bây giờ bạn có thể đến rồi, Shiki-san."@
+` Nói vậy, Kohaku chèn vào ngón tay thứ ba.@
+` Đó thực sự là tất cả.@
+br
+bg #ffffff,crossfade,400
+`"[line=7]A, a!!!!"@
+` Tiếng đập mạnh của máu trong tai tôi.@
+` Dây của tôi, đã chống đỡ lâu dài, cuối cùng bắt đầu trở nên hoang dã.@
+`"[line=3][line=4]Akiha, hãy!"@
+` Tôi buông thả trong cơn thịnh nộ của nhiệt độ và chất lỏng.
+\
+` Không chỉ là tôi không thể chống lại những gì Kohaku đang làm.@
+` Tôi gần như nổ tung với sức mạnh của sự giải phóng.@
+` Những cảm xúc bị kìm nén phun khắp giường, bẩn thỉu gối chăn.@
+`"[line=4][line=5]Hah, ah!"@
+` Trái tim tôi đang dần bình tĩnh lại.@
+` [line=4]Với điều đó, mọi thứ mà tôi đã cố gắng chống lại rất nhiều và người anh trai của Akiha... tan biến đi.
+\
+bg #000000,crossfade,800
+!w3000
+playstop

@@ -1,0 +1,231 @@
+playstop
+wavestop
+bg "bg/bg_40d",notrans,0
+` Tôi quyết định cất bước dạo quanh thị trấn tịch mịch bóng tối đêm nay để truy lùng gã sát nhân hàng loạt ấy.@
+br
+` Như vậy, tôi dẫu dã có thể tự tay chứng thực rằng những giấc chiêm bao kinh hoàng kia hoàn toàn chỉ là giấc mơ mơ hồ.@
+` Bởi chỉ dẫu dã cần tôi tìm ra tung tích gã sát nhân thật sự…
+` …… Thì rõ ràng tất thảy những vụ thảm án kinh hoàng kia dẫu dã là do chính tay gã đồ tể ấy cất công thực hiện chứ tịnh không liên quan gì đến tôi.@
+br
+`"...Được rồi."@
+` Để đảm bảo an toàn, tôi bỏ dao vào túi và bắt đầu cuộc điều tra.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_25b",lcartain,800
+play "*6"
+` [line=5]Tôi bước ra ngoài vào thành phố bị che khuất bởi bóng đêm.@
+br
+` Không có cách nào cụ thể để tìm kẻ giết người hàng loạt.@
+` [line=3]Việc tôi có thể làm duy nhất là lang thang trên đường phố và tìm kiếm điều gì đó đáng ngờ, hoặc dùng chính bản thân mình làm mồi nhử để lôi kéo kẻ giết người ra mặt.@
+br
+`"... ..."@
+` Sau sự việc với Yumizuka, có lẽ tôi đã trở nên vô cảm với nguy hiểm.@
+` Vì kẻ giết người hàng loạt chỉ là một con người bình thường, tôi có thể lang thang trên đường phố mà không lo lắng gì cả.
+\
+bg #000000,crossfade,400
+bg "bg/bg_27b",lcartain,400
+` Tôi lang thang vô định.@
+` Thời gian đã gần 11 giờ đêm.
+\
+bg #000000,crossfade,400
+bg "bg/bg_26a",lcartain,400
+br
+br
+` ... Tôi không thấy điều gì đáng ngờ.@
+` Đồng hồ đã vượt quá nửa đêm.
+\
+bg #000000,crossfade,400
+bg "bg/bg_12b",lcartain,400
+br
+br
+br
+br
+` ... Không có ý nghĩa nào khi đến đây cả.
+\
+bg #000000,crossfade,400
+bg "bg/bg_24c",lcartain,400
+br
+br
+br
+br
+br
+` ... Đáng khóc! Tôi không nhìn thấy ai giống như kẻ giết người.
+\
+bg #000000,crossfade,400
+bg "bg/bg_25b",lcartain,400
+` *(hít thở gấp)* ... *(hít thở gấp)* ... *(hít thở gấp)* ... *(hít thở gấp)*
+\
+br
+br
+br
+br
+br
+br
+` [line=6]Tôi bắt đầu cảm thấy vô cùng bực bội.@
+br
+` Tại sao tôi không tìm thấy ai như vậy?
+\
+` Đó không phải là người đó.@
+` Tôi không thể chịu đựng được, tôi bỏ tay vào túi và nắm chặt con dao.@
+` "Đó không phải là người ta."@
+` "Đó không phải là người ta."
+\
+` (Lặp lại)@
+` (Lặp lại)@
+` (Lặp lại)@
+` (Lặp lại)@
+` Đó không phải là người đó.@
+` Đó không phải là người đó.@
+` Đó không phải là người đó [line=8]
+`"Ồ?" [line=5]@
+` Tôi nhìn thấy khuôn mặt một người đàn ông có đôi mắt đỏ ngầu trong khoảnh khắc ngắn ngủi.@
+` ... Không, không có gì cả.@
+` Đó chỉ là hình ảnh phản chiếu của tôi trên cửa sổ hiển thị.@
+`"[line=8]"@
+` [line=5]Thật ngu ngốc.@
+` Tôi nắm chặt con dao.@
+` Hít thở mất kiểm soát.@
+` Vô thức, tôi hành động giống hệt kẻ giết người trong giấc mơ của mình.
+\
+`"[line=6]Không!"@
+` Tôi không muốn làm những việc này.@
+`"Chết tiệt…… Tôi đang làm gì đây…………!?"@
+` …… Thật ra, tôi đang làm gì vậy?@
+` Nếu tôi không nhận ra gương mặt mình như thế, tôi sẽ [line=3]thực sự, bắt ai đó và…
+br
+` Nói với bản thân rằng đó là kẻ giết người và sẽ giết bất kỳ ai.@
+bg #000000,lcartain,400
+`"[line=9]Tsk"@
+` Tôi bắt đầu chạy.@
+` Tôi không thể ở lại đây.@
+` Tôi sẽ không tìm ra điều gì theo cách này.@
+` [line=3][line=3]Có điều gì đó sai với tôi.
+\
+playstop
+bg "bg/bg_40d",lshutter,800
+` Tôi thở nặng nhọc.@
+br
+` Tôi đến phòng mình như đang chạy trốn, và ngã xuống giường.@
+`"Đau……!"@
+` Cuối cùng, tôi chẳng giải quyết được gì cả.@
+` …… Tôi bắt đầu thấy buồn ngủ.@
+` Tôi chỉ có thể cố gắng ngủ thật sâu để không mơ chút nào.
+\
+bg #000000,crossfade,800
+!w3000
+Chơi âm thanh se_11
+bg "bg/bg_26a",notrans,0
+` *Hít thở nặng nhọc* [line=3] *Hít thở sâu* [line=4] *Hít thở dìu dịu*
+\
+` Tôi có cảm giác như đang bị theo dõi.@
+` Tôi...@
+` Với đôi mắt đỏ ngót, tôi nhìn những người đi lại trên đường phố.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Có lẽ là do thời gian?@
+`   So với đêm qua, gần như không ai ở xung quanh.
+\
+` Có ai đó đang theo dõi tôi.@
+` Tôi không tìm thấy thứ mình đang tìm kiếm.@
+` Lại nữa. Đêm nay, tôi không thể tìm thấy người mà tôi đang tìm kiếm.@
+br
+br
+br
+br
+(Màu đỏ)
+`      Tôi bắt đầu cảm thấy khó chịu.
+\
+(Màu trắng)
+` Tôi thở dốc.
+\
+` Tôi nên đổi vị trí.@
+` Tôi sẽ ngừng tìm kiếm trong thị trấn.
+\
+bg "bg/bg_24c",crossfade,400
+` Tôi di chuyển từ mái nhà này sang mái nhà khác và cuối cùng lại đứng ở một nơi đông người.@
+` ... Nhìn từ mái nhà cao nhất, tôi quét qua các con phố.
+\
+br
+br
+br
+br
+br
+br
+br
+(Màu đỏ)
+`             "Đừng nhìn!"
+\
+(Màu trắng)
+`"[line=4]Đó rồi."@
+` Tôi thấy một người đang đi bộ một mình.@
+` Một người phụ nữ.@
+` Lần này, không thể có sai lầm nào...
+` Thật tuyệt nếu đó là Akiha.
+\
+(màu đỏ)
+br
+br
+br
+br
+br
+br
+br
+`        Đừng nhìn tôi.
+\
+(màu trắng)
+` Không, điều đó thực sự không quan trọng.@
+` Một lần nữa.@
+` [line=4]Một lần nữa, tôi muốn nếm trải cảm giác tuyệt vời đó.
+\
+bg #000000,notrans,0
+wave se_13
+bg "bg/ima_12b",lshutter,400
+` Tôi giết cô ấy từ phía sau, cẩn thận không làm tổn thương cơ thể cô ấy.@
+` Giữ chặt mái tóc dài của cô ấy, tôi kéo thân thể Akiha.@
+bg "bg/bg_22c",lshutter,800
+` [line=4][line=4]*(hít thở gấp gáp)*
+` Nắn nót cổ Akiha, tôi hút máu của cô ấy.@
+br
+` [line=3]@ Điêu.@
+` Điều này chẳng kích thích chút nào so với đêm qua.@
+` Nếu mái tóc của cô ấy ngắn đến vậy, thì cô ấy không phải là Akiha nữa.
+\
+`"...Chán vặt..."@
+` Tôi bắt đầu cảm thấy tức giận.
+\
+` Ngay cả khi tôi cắt cơ thể thành từng mảnh, tôi vẫn cảm thấy phẫn nộ.@
+` Người giả mạo.@
+` Kẻ giả mạo này khiến tôi bực mình.
+\
+(Màu đỏ)
+br
+br
+br
+br
+br
+br
+br
+`         Đừng nhìn tôi!
+\
+(Màu trắng)
+` [line=4] *hít sâu* [line=4] *hít sâu* [line=4] *hít sâu*
+br
+` Tôi đã tiêu hao năng lượng dự trữ.@
+` Sớm, bình minh sẽ đến.@
+` Khi bình minh đến, Shiki sẽ thức giấc.@
+br
+`"Tôi mệt mỏi đêm nay. Tôi sẽ bắt đầu lại vào ngày mai."@
+` "Ừm, được rồi. Đó là điều tôi sẽ làm."
+\
+` Vậy là thế rồi.@
+` Trước khi bình minh lên, trước khi ai đó nhận ra, tôi phải quay trở lại trường học. [line=4]
+\
+bg #000000,crossfade,800
+wavestop
+!w3000

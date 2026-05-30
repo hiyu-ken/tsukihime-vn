@@ -1,0 +1,29 @@
+wavestop
+bg "bg/bg_06b",notrans,0
+play "*3"
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Bạn đã đạt được Kết thúc tốt đẹp của Hisui.@ Chúc mừng!@
+br
+` Mỗi nữ chính (ngoại trừ một người) có hai loại kết thúc khác nhau.@
+` Một Kết thúc thật và một Kết thúc tốt đẹp.@
+` Vì cậu không thể đạt được Kết thúc tốt đẹp của Hisui mà không xem Kết thúc thật, nên cậu đã hoàn thành tuyến đường của Hisui một cách đầy đủ!
+\
+` Vậy thì, cảm ơn bạn rất nhiều vì đã chơi đến phần này.@
+` Hãy gặp lại nhau ở đâu đó trong Tsukihime.@
+br
+`"Ciel ơi. Tôi cũng có điều gì đó cần nói."@
+br
+` "Hừ, Giáo sư Roa? Đây thực sự là một điều hiếm thấy khi ngài đến một nơi như thế này."
+\
+ld l,"tachi/roa_t05a",lshutter,400
+`"Tình huống này rất đặc biệt. Tôi sẽ nói thẳng vấn đề ngay. Bây giờ khi cậu đã hoàn thành tuyến đường của Hisui-san, chắc chắn sẽ có một lựa chọn khác cho cậu vào ngày đầu tiên."@
+` Đây là việc mở khóa tuyến cuối cùng trong Tsukihime.@
+` "…… Thôi thì ngay cả khi tôi không nói cho cậu biết, điều đó cũng rất rõ ràng nếu bạn chuyển sang chế độ đồ họa."@
+br
+` Đúng vậy.@
+` Vậy thì, hãy tiếp tục và thưởng thức Tsukihime!
+\
+bg #000000,crossfade,800
+playstop

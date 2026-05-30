@@ -1,0 +1,41 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Xin chào!@
+` Góc này dành cho Tohno-kun không may mắn, người lại một lần nữa dễ dàng rơi vào ngõ cụt.@
+` Đã đến lúc "Hãy dạy tôi, Ciel-sensei!"@
+br
+` Bây giờ, chúng ta sẽ bắt đầu khoảng thời gian thứ hai.@
+` Lần này, chúng ta sẽ giới thiệu "Vương quốc Động vật Rùng rợn" đầu tiên trong loạt truyện quan sát chi tiết về động vật hoang dã.
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Thầy ơi, tôi có một câu hỏi trước.@ Tên đó nghe thật ngớ ngẩn.@ Trong tiếng Nhật, cậu có thể đọc tên mình là Ciel."@
+br
+` Câu hỏi bị từ chối.@
+cl l,lshutter,400
+` [line=4]"Này, Tohno. Tôi nghĩ cẩn trọng là điều tốt, nhưng lần này dường như đã phản tác dụng."@
+` "Về cơ bản, cậu là một anh hùng, nên một chút bất cẩn sẽ được tha thứ."@
+` "Nhưng với trường hợp con vật kỳ quặc như cá mập, tôi đoán cậu không thể làm nhiều gì."@
+` "Cậu chỉ có thể từ bỏ Arcueid lần này thôi."@
+` "Này! Tôi không muốn nghe điều đó từ Ciel!"
+\
+ld l,"tachi/ark_t31a",lshutter,400
+ld l,"tachi/ark_t31b",lshutter,400
+`"Từ bỏ cô ấy! Không được bạo lực!"@
+br
+` "[line=3] Đừng để ý đến cô ấy!"@
+cl l,lshutter,400
+br
+`"Ôi trời ơi! Không được đánh nhau!"@
+br
+` Dù sao, hãy chuẩn bị để khám phá khách sạn một mình nhé.@
+` Bên trong, bạn sẽ tìm thấy cả một vương quốc động vật.@
+` Là đại diện của loài linh trưởng, chúng ta hãy cho những con thú này thấy điều mà chúng ta có.
+\
+bg #000000,crossfade,800
+playstop

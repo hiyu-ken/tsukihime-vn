@@ -1,0 +1,91 @@
+monocro off
+play "*3"
+wavestop
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+play "*3"
+` Chúng tôi dạo bước đi vào trung tâm thị trấn.@
+` Cứ thế, chỉ cần rẽ khỏi con đường chính nhộn nhịp kia để đi vào một con hẻm hoang vắng tối tăm...[line=4]
+\
+ld c,"tachi/ark_t01a",lshutter,800
+`"Ủa?@ Sao thế, Shiki?"@
+`"Không có gì.@ Chỉ là cảm giác đi bên cạnh cậu thế này làm tôi hơi ngượng ngùng thôi."@
+`"?"@
+cl c,crossfade,800
+` Arcueid khẽ nghiêng đầu nhìn tôi với vẻ mặt đầy ngơ ngác đầy đáng yêu.@
+` ... Có vẻ cô ấy hoàn toàn không hề tự ý thức được sức hút của mình.
+\
+` Tôi có thể cảm nhận rõ ràng sức nặng từ những ánh nhìn ái ngại xung quanh.@
+` Chỉ việc rảo bước bên cạnh cô ấy trên phố thôi cũng đủ khiến mọi người qua đường không ngừng ngoái đầu liếc nhìn hai chúng tôi.@
+` ... Chẳng cần nói ra thì ai cũng hiểu, lý do đơn giản là vì Arcueid thực sự quá nổi bật giữa đám đông.
+\
+` Bản thân tôi phần nào tự ý thức được điều đó, nhưng phản ứng ngoái nhìn của dòng người qua đường càng làm tôi ngượng ngùng hơn, đầu óc có chút bối rối.@
+` Arcueid vẫn cư xử tự nhiên như thường lệ. Nhưng vì bản thân không thể ngừng bị cuốn hút bởi nét nữ tính đầy mê hoặc của cô ấy, tôi đâm ra lúng túng, chẳng thể mở lời bắt đầu một cuộc trò chuyện tự nhiên nào cả.
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Này, cậu có nghe tôi hỏi không đấy?@ Tôi hỏi chúng ta đang đi đâu cơ mà."@
+`"Sắp đến nơi rồi, cậu cứ kiên nhẫn chút đi.@ Chúng ta sẽ đến một nơi cực kỳ yên tĩnh để cậu có thể thoải mái thư giãn."
+\
+bg #000000,lcartain,1500
+bg "bg/bg_31a",lcartain,1500
+br
+` [line=4]Và rồi chúng tôi rẽ vào một con hẻm hoang vắng tối tăm.
+\
+`"[line=4]Đến nơi rồi.@ Ở đây khuất nẻo không có người qua lại đâu, cậu cứ tự nhiên thư giãn đi nhé."@
+ld c,"tachi/ark_t06",crossfade,400
+`"…………"@
+`"[line=4]Hả...?@"@
+` Ánh mắt cô ấy đột nhiên đanh lại, lạnh toát và tràn đầy sát khí đáng sợ.
+\
+`"Arcueid……? Đừng nói là cậu không hài lòng với địa điểm này đấy nhé……?"@
+`"…………"@
+` ... Cô ấy im lặng đứng trơ ra, vẻ mặt tức giận đến mức không thèm hé răng nói nửa lời.
+\
+`"[line=4]Kỳ lạ thật đấy…… Vì cậu là ma cà rồng, nên tôi cứ đinh ninh cậu sẽ thích những góc tối hoang vắng thế này hơn là những nơi phố xá đông đúc nhộn nhịp chứ."@
+ld c,"tachi/ark_t07",crossfade,400
+`"! [line=10]"@
+` Ánh sáng đỏ ngầu vằn tia máu trong đôi mắt cô ấy bỗng lóe lên sắc lẹm.@
+` ... Thôi chết rồi.@ Đây chắc chắn là lần đầu tiên tôi thấy cô ấy nổi giận dữ dội đến mức này.@
+cl c,crossfade,800
+\
+` Khẽ thở hắt ra một hơi thở dài dằn lòng, Arcueid ngẩng đầu nhìn thẳng vào tôi.@
+ld c,"tachi/ark_t09",crossfade,400
+`"Này, Shiki. Cái trò đùa cợt vô duyên này là sao hả?"@
+`"[line=4]Ơ, tôi..."@
+` Đáng sợ quá đi mất. Nụ cười gượng gạo lạnh toát của cô ấy làm tôi rùng mình lạnh sống lưng.
+\
+`"Không... tôi thành thật xin lỗi cậu. Là do tôi ngu ngốc tự ý quyết định thôi."@
+` Tôi cúi đầu thành khẩn cầu xin sự tha thứ.@
+` Nhưng cô ấy vẫn đứng đó mỉm cười đầy đe dọa.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Phải rồi, ở cái xó tối tăm này thì làm ăn được cái gì chứ. Hay là chúng ta cứ quay lại thời điểm hai đứa lần đầu chạm mặt nhau đi nhỉ?"@
+br
+` [line=4]Quay lại thời điểm lần đầu chạm mặt nhau! Chuyện đó có nghĩa là... cô ấy đang đe dọa sẽ băm vằm tôi thành trăm mảnh hệt như lần trước sao hả Shiki?
+br
+` Cô ấy áp sát lại gần, nở một nụ cười cực kỳ nguy hiểm.
+\
+br
+br
+` [line=4]... Đây rõ ràng là một lời đe dọa lấy mạng mà.@
+` "Tôi biết lỗi rồi, tôi thành thật xin lỗi cậu mà! Tôi sẽ đền bù sòng phẳng cho cậu sau, nên làm ơn xin cậu đừng cười một cách đáng sợ như thế nữa. Tôi hứa sẽ đưa cậu đến một nơi tuyệt vời hơn nhiều."
+\
+`"Thật chứ? Thế thì tôi cũng đang háo hức mong chờ lắm đây."@
+ld c,"tachi/ark_t11",crossfade,400
+` Cô ấy khẽ thở dài tỏ vẻ thất vọng đầy ngộ nghĩnh.@
+` ... Tôi thực sự phải nghiêm túc suy ngẫm sâu sắc về hành vi ngu ngốc của mình lần này mới được.
+\
+` ...@
+` Dẫu biết Arcueid là ma cà rồng, nhưng việc tôi đưa một cô gái đi hẹn hò ở một con hẻm tối tăm bẩn thỉu thế này quả thực là ngu ngốc không tả nổi mà...
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_25a",lcartain,800
+` Suốt bốn tiếng đồng hồ sau đó...
+` Để chiều lòng tính tò mò ham khám phá vốn có của Arcueid, tôi đành đưa cô ấy đến trung tâm mua sắm sầm uất trước ga tàu.
+\
+` Arcueid ban đầu lôi tôi đi khắp nơi chỉ để hành hạ bắt đền tôi cho bõ tức, nhưng dọc đường đi, có vẻ cô ấy bắt đầu thấy hứng thú và lại trở nên vui vẻ hoạt bát như thường ngày. Tuy đi bộ mệt rã rời cả chân, nhưng tôi nghĩ hai chúng tôi đã có một khoảng thời gian vô cùng vui vẻ bên nhau.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

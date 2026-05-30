@@ -1,0 +1,200 @@
+if (%flgE>=1) skip 3
+[Bối cảnh] "bg/bg_06g", loại: l, nhân vật: arcueid, khung hình: 06a, thời gian: 6
+Nhảy qua 2 dòng
+[Bối cảnh] "bg/bg_27b", loại: l, nhân vật: ciel, khung hình: 06a, thời gian: 6
+bg #ffffff,crossfade,1500
+bg "bg/bg_40a",lcartain,400
+play "*2"
+`"Chờ... chờ đã!"@
+` Một tiếng xé toang! Tôi bật dậy khỏi giường một cách mạnh mẽ.@
+br
+` *Hít thở gấp gáp* [line=4] *Hít thở gấp gáp* [line=4]@
+br
+` Hơi thở của tôi mất kiểm soát và tâm trí vẫn còn tê dại vì cảm giác khi ở bên Arcueid.@
+` ... Không, chờ đã Shiki. Cố gắng bình tĩnh, nó không thể gây hại.
+\
+` [line=4]Đầu tiên, đây là phòng của tôi.@
+` Đã kiểm tra. Rất tốt.@
+br
+` [line=4]Tôi đang nằm trên giường.@
+` Kiểm tra. Dường như vậy.@
+br
+` [line=4]Và giờ đã sáng, tôi vừa mới quan hệ với Arcueid cho đến bây giờ.@
+` [line=4]Kiểm tra. Điều đó tốt... hoặc không! Không bao giờ, ngay cả một chút nào, không có chút nào...!
+\
+` Tiếng thở của tôi vang vọng trong không khí.@
+` Tôi cố gắng lấy lại hơi thở.@
+` Tay tôi nắm chặt chăn, ướt đẫm mồ hôi. Có một cảm giác ấm áp còn sót lại, như thể tôi thực sự đã ngủ với Arcueid cho đến vừa nay.@
+br
+` ...Nhưng chắc chắn đó chỉ là giấc mơ.@
+` Tôi không biết liệu điều đó có phải là thứ khiến tôi vui mừng hay thất vọng.
+\
+`"[line=4][line=4]Tại sao?"@
+` Liệu tôi có thấy một giấc mơ như thế này?@
+` Có nghĩa là tôi quan tâm đến cô ấy đến mức nhìn thấy cô ấy trong giấc mơ của mình?@
+` [line=2]Có nghĩa là tôi muốn cô ấy quá nhiều đến nỗi làm những việc đó với cô ấy trong giấc mơ?
+\
+`"[line=6]Uu"@
+` Khi nhớ lại, cảm giác da thịt của cô ấy ép vào não tôi.@
+` Tôi vươn tay để chắc chắn rằng điều này là thực.@
+` "…… Đúng rồi.@
+` Da cô ấy hoàn toàn khác với da nam giới…… mềm mại và ấm áp.
+\
+`"Đúng…… Rất nóng đến mức tôi muốn điên lên."@
+` Chỉ nghĩ về điều đó thôi cũng khiến hơi thở tôi rối loạn.@
+` …… Dù sao đi nữa, thật ra nó rất dễ chịu.@
+` Tôi nên cảm thấy có chút tội lỗi khi mơ về việc làm điều đó với Arcueid, nhưng khi nhớ lại giấc mơ, tôi chỉ ngồi đó và suy nghĩ về nó.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Shiki-sama."@
+`"Ôi trời ơi!"@
+Tôi giật mình khỏi giường như đang cố trốn thoát.
+` Không, thực ra tôi chỉ cố trốn thoát, nhưng kết quả là tôi rơi xuống sàn với những tấm chăn quấn quanh người.@
+` "[line=2]Này, Hihi, Hisui...?! H, cậu đã ở đó từ bao giờ vậy?"
+\
+`"Từ trước khi cậu thức dậy, Shiki-sama."@
+`"Cô ấy nói với vẻ mặt vô cảm như thường lệ.@
+` Vẫn còn nằm trên sàn, rối bời trong những tấm chăn và không thể đứng dậy, tôi nhìn lên khuôn mặt của Hisui.@
+` "...Trước khi tôi... thức dậy..."
+\
+`"..."@
+br
+` [line=2]Khi đó, điều đó có nghĩa là...
+br
+` Hisui nhìn thấy biểu cảm mặt tôi khi tôi đang mơ?@
+` Mặt tôi đỏ bừng.@
+` Hisui chỉ đứng đó, như thường lệ, không hề cố gắng nói gì.
+\
+`"Ừm... Tôi trông... kỳ lạ...?"@
+ld c,"tachi/his_t01b",crossfade,400
+`"Tôi không muốn mô tả nó."@
+`"[line=2]Àh..."@
+` ... Tôi biết rồi. Tôi chắc chắn trông rất kỳ quặc.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Nhưng, nếu ngài nhất quyết, Ngài Shiki, tôi có thể mô tả một cách chính xác nhất."@
+`"... Không, ngài không cần làm điều đó..."@
+` Mặt tôi vẫn đỏ bừng, giọng nói yếu ớt.@
+`"Ừm, Hisui-san?"@
+` Tôi khạc nhẹ để phá vỡ sự im lặng.@
+` ... Thêm "san" vào tên cô ấy là dấu hiệu rõ ràng về sự yếu thế của tôi.
+\
+`"Chuyện gì vậy, Ngài Shiki?"@
+`"Ừm... Tôi sẽ thay đổi, nên có thể ngài chờ bên ngoài được không?"@
+br
+` [line=2]Tôi thực sự xấu hổ đến mức chỉ muốn cô ấy rời đi.@
+` Nhưng Hisui lại không vâng lời hôm nay, một ngày như thế này.
+\
+`"Khi tôi xác nhận được rằng bạn đã tỉnh giấc, tôi sẽ rời phòng, Shiki-sama."@
+`"...!"@
+` Hả? Cô ấy... có phải đang đùa sao?@
+` Tại sao cô ấy lại nghĩ tôi che giấu mình dưới những tấm chăn này?@
+` Đó là để che giấu một thứ vẫn còn đứng đó!
+\
+`"Tôi, tôi ổn, vậy nên xin hãy rời đi. Tôi có thể ngồi dậy và sẽ không ngủ lại. Tôi sẽ thay quần áo và đến phòng khách ngay khi cô ấy ra đi."@
+`"Thưa ngài Shiki, [line=2]bạn có bị thương và không thể đứng được...?" @
+cl c,crossfade,800
+` Hisui đến gần tôi với vẻ lo lắng.
+\
+`"Không, không phải như vậy. [line=4]Tôi đang đứng vững, nên đừng lo." @
+` Tôi bò ra khỏi giường, kéo chăn như một con ốc sên, và tạo khoảng cách với cô ấy.@
+` Sử dụng giường làm rào cản, tôi di chuyển đủ xa.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"... Vậy thì xin lỗi. Tôi sẽ chuẩn bị bữa sáng cho bạn, nên hãy đến sau khi thay đồ nhé." @
+cl c,lshutter,800
+` Cô ấy chắc chắn nghi ngờ, nhưng vẫn cúi đầu và rời phòng.
+\
+` *Thở dài* @
+` Tôi thực sự bất ngờ.@
+` Nội dung trong giấc mơ của tôi đã gây ngạc nhiên, nhưng biết rằng Hisui đã nhìn thấy tôi khi tôi đang mơ thật khiến tôi lo lắng.@
+` ... Mọi thứ đều là lỗi của Arcueid vì cô ấy đã làm điều đó.@
+`"Ngay cả bây giờ cô ấy vẫn phiền phức thật đấy." [line=4]
+\
+` Vậy thực sự[line=4] có chuyện gì vậy?@
+` Tôi không thể kết thúc.@
+`"... ..." @
+` Tôi muốn nói điều gì lúc nãy?@
+` Ngay cả khi tôi không thể xác nhận cảm xúc của chính mình, tôi vẫn quyết định thay đổi và bước vào phòng khách với một cảm giác mơ hồ ở ngực.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Sau khi bình tĩnh lại, tôi đi vào phòng khách.@
+` Như thường lệ, Akiha ngồi trên sofa, thanh lịch nhấp một ngụm trà.@
+br
+ld c,"tachi/aki_t04a",crossfade,400
+`"Chào buổi sáng, anh trai.@ Anh chắc chắn thức dậy sớm hôm nay."@
+` Cô ấy hẳn là vui vì tôi tỉnh giấc, nên cô ấy chào đón tôi với nụ cười.@
+cl c,crossfade,400
+`"Ừ, chào buổi sáng.@ Sáng nay có... nhiều chuyện xảy ra."@
+` Ngay khi tôi nói vậy[line=2], bỗng dưng tôi nhớ lại ký ức về làn da của Arcueid.
+\
+`"[line=2]@ Ồ..."@
+` Điều này không tốt. Tôi có thể thấy mặt tôi đỏ bừng mất kiểm soát.@
+`"[line=2]Anh trai?"@
+` Một tiếng ồn ngắn ngủi.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Có chuyện gì vậy? Mặt cậu đỏ, có phải bị sốt không?"@
+`"[line=5]!"@
+` Cô ấy chạy đến gần tôi, nhìn lên từ dưới.@
+` [line=2][line=4]Nhưng... khi cô ấy làm thế, từ góc nhìn này... ừm...
+\
+ld c,"tachi/aki_t12a",crossfade,400
+` Akiha thở dài.@
+`"Bạn có vẻ bị sốt rồi. Kohaku, đến nhanh lên. Anh trai tôi trông không được tốt lắm."@
+` Akiha gọi từ phòng ăn.@
+` Kohaku-san chắc chắn đang chuẩn bị bữa sáng cho tôi trong bếp.
+\
+`"[line=2]Tôi ổn đấy! Chỉ là cảm lạnh nhẹ thôi, nên đừng lo lắng!"@
+ld c,"tachi/aki_t21",crossfade,400
+`"Nếu chỉ là cảm lạnh thì tôi không thể để nó qua đi được. Đối với bạn, một bệnh nhỏ cũng là vấn đề lớn. Hệ miễn dịch của bạn thấp hơn nhiều so với người bình thường."@
+cl c,crossfade,400
+\
+` Akiha dường như đã nản chí và đặt tay lên trán tôi.@
+br
+` [line=2]Cảm giác bàn tay cô ấy mát lạnh và tinh tế.
+br
+`"!!!!!!!"@
+` Điều này không tốt.@
+` Điều này hoàn toàn không tốt, nên tôi thoát ra và chạy ra sảnh.
+\
+bg "bg/bg_33a",lcartain,800
+br
+` Tiếng chân vang lên khi tôi vội vã chạy đi.@
+br
+bg "bg/bg_40a",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Thưa Shiki-sama? Bạn đã ăn sáng xong chưa?"@
+`"[line=2]Không, không phải thế, nhưng... Ở đâu rồi túi của tôi?"@
+`"Tôi có túi của bạn đây. Bạn chuẩn bị đi học rồi à?"@
+` Gật đầu, tôi giật lấy túi từ tay Hisui.@
+`"Tôi sẽ đi. Đừng lo lắng về việc tiễn tôi!"
+\
+bg "bg/bg_33a",lcartain,800
+ld c,"tachi/aki_t02",crossfade,400
+`"Anh trai, em có vẻ kỳ lạ đấy. Anh đang làm gì với sốt như thế này?"@
+`"Ồ, em nói là không có gì à? Vì không có gì, em sẽ đi học! Em sẽ ăn sáng sau, nên để em yên!"@
+`"[line=2]Để em yên, anh trai ơi!"@
+br
+` Tiếng chân em chạy trốn là câu trả lời duy nhất của em.
+\
+bg "bg/bg_32a",lcartain,800
+`"[line=4]Ư hừ."@
+` Ngay cả khi đó là Akiha, cô ấy cũng không thể đuổi theo em đến mức này.
+\
+` Bây giờ chúng ta đã không còn nhỏ nữa, cô ấy sẽ không ngăn cản em đi học.
+\
+`"[line=4]Ừm..."@
+`  Tôi hít một hơi sâu và cuối cùng cũng có thể bình tĩnh lại.@
+`"... Tôi đang chạy trốn vì điều gì? "@
+` Khi tôi bình tĩnh lại, tôi có thể suy nghĩ rõ ràng.@
+` Tôi không làm gì sai, nên không cần phải chạy trốn như vậy.
+\
+`"[line=2] Tôi không tin nó. Tôi trông như một kẻ ngốc hoàn toàn."@
+` Nhưng quay lại biệt thự để ăn sáng nghe thậm chí còn ngốc nghếch hơn.@
+`"[line=2] Đi học à?"@
+` Thở dài, tôi đi xuống con phố dân cư.
+\
+playstop
+bg #000000,lcartain,800
+!w1000

@@ -1,0 +1,316 @@
+play "*4"
+wavestop
+monocro off
+bg "bg/bg_14d",crossfade,400
+` …… Đây chỉ là một giấc mơ xấu.@
+` Nhưng bằng cách nào đó, mùi máu tanh này lại thật kinh khủng.
+\
+` …… Wro… ng…@
+` Có.@
+` Sai sai sai sai.@
+` Sai sai sai sai.@
+` Nhưng.@
+` Tôi đã giết cô ấy.@ Điều đó sai không?
+\
+` Tôi chưa giết cô ấy.@ Điều đó sai không?
+\
+br
+` Vâng, tôi[line=3]
+br
+` Tohno Shiki    muốn giết    cô bé đó.@
+br
+` Đó là điều tôi muốn làm lúc bấy giờ.@
+` Chỉ đơn giản là, mọi thứ trong đầu tôi thật hỗn loạn, tôi không thể diễn đạt nó thành lời.
+\
+` [line=4]"Sai!"@
+br
+` Tôi cảm thấy sắp ói mửa vì mùi máu.@
+br
+` "Âh[line=3]gh!"@
+br
+` Nội dung trong dạ dày tôi trào lên cổ họng.@
+br
+monocro #ff0000
+` "Âh[line=3]ah!"@
+br
+` Màu đỏ thẫm đang thấm vào mắt tôi.@
+br
+` Tôi cảm thấy choáng váng.@
+` Tôi ngã xuống gối trong biển máu đỏ rực.
+\
+` "Âh[line=3]Guh……!"@
+` dịch vị của tôi trào lên.@
+` Tôi nôn hết mọi thứ ra.@
+` Thức ăn, dịch vị, tất cả, trong khi tôi khóc.@
+` Bây giờ dạ dày tôi trống rỗng.@
+` Nhưng cơ thể tôi vẫn cứ ép buộc tôi nôn mửa như đang cố gắng đảo ngược mọi chuyện và đưa tôi trở lại cuộc sống bình thường.@
+br
+` [line=4]Ghê tởm!@
+br
+` Đau.@
+` Buồn bã, như thể ruột gan đang bị đốt cháy.
+\
+` Mắt tôi không ngừng chảy nước mắt, cơ thể tôi sụp đổ xuống sàn nhà như một đống rác.@
+` Knees tôi chìm vào vũng máu đỏ trải khắp sàn nhà.@
+` Máu bắt đầu nhuộm lên cơ thể tôi.@
+` Quá đau đớn và đỏ rực, như thể tôi đang mơ.
+\
+` "Ah[line=5]Aaah……!"@
+` Tôi cứ khóc.@
+` Sự thật là tôi đã giết người khiến tôi buồn lòng.@
+` …… Không. Đó không phải là sự thật.@
+` Tôi buồn vì tôi đã giết cô ấy một cách vô lý, giống như đang phá vỡ một con búp bê.@
+br
+` [line=3]Tôi không hiểu.@
+br
+` Tại sao tôi lại cảm thấy như vậy,
+` Tại sao tôi lại giết cô ấy một cách vô lý.@
+` Tôi không thể tìm ra lý do.
+\
+br
+br
+br
+br
+br
+br
+br
+` " [line=8] Đó là một sự lừa dối."@
+` Điều này không có thật.@
+` Vậy thì đây chỉ là một giấc mơ tôi thường có khi bất tỉnh.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Đó là một lời nói dối.@
+` Bên cạnh đó, làm sao ai có thể cắt đứt người khác như vậy chỉ với một con dao?@
+` Tôi đọc nó trong một cuốn sách một lần.@
+` Cần một ngày lao động vất vả để chặt xác một người, ngay cả khi dùng máy cưa.@
+` Vì vậy, không thể nào tôi có thể làm điều đó chỉ với một con dao.@
+` [line=2]Những 'vết cắt' này chưa bao giờ tồn tại. Tất cả chỉ là ảo tưởng mà tôi đã rơi vào
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Đó là một lời nói dối.
+\
+bg #000000,crossfade,400
+playstop
+bg "bg/bg_14d",crossfade,400
+` Ugh[line=3]ffpt.@
+br
+` Nước axit dạ dày chảy xuống môi tôi.@
+` Tuôn ra khỏi miệng tôi, chảy xuống hàm.@
+` Trộn lẫn với dịch là thứ đỏ.@
+` Họng tôi chắc chắn đang chảy máu vì dạ dày cứ muốn nôn mửa ngay cả khi không còn gì trong đó.@
+br
+` O…… u[line=4]@
+br
+` Đau.@
+` Vì vậy điều này…
+` Điều này không phải là một giấc mơ, và tôi đang tự lừa dối bản thân.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Mọi thứ đều là những lời nói dối.@
+` Vâng, thực ra tôi hiểu mọi chuyện.@
+` Tôi đã thèm muốn cô ấy. Chỉ cần nhìn vào cô ấy cũng khiến tôi kích thích.@
+` Khi tôi cắt cô ấy ra, nó thật tuyệt đến mức tôi gần như bắn xuất tinh.
+\
+` Mắt tôi, cũng vậy.@
+` Nếu tôi biết những "vết cắt" này có thể chia cắt mọi thứ như giấy bị xé…
+` Tôi nên hiểu rằng ngay cả một con người cũng dễ dàng bị chia cắt giống như tôi vừa làm với cô ấy.@
+` Tôi đã sống một cuộc sống bình thường mà không hề nghĩ đến điều gì như vậy.@
+br
+` [line=3]Nếu tôi thực sự là loại người nguy hiểm có thể dễ dàng giết bất cứ thứ gì…
+` Thì tôi nên đã che mắt hoặc sống một cuộc đời không nhìn thấy ai.
+\
+` …… Tôi xin lỗi, Sensei.@
+br
+` [line=3]Tôi rất xin lỗi.@
+br
+` Ngay cả một lời hứa đơn giản như vậy cũng không được.@
+` Tôi có thể giữ[line=4]
+\
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_14d",crossfade,800
+` "Tôi đã[line=4]điên rồi?@
+br
+` Tôi không biết.@
+` Đã không còn dấu vết nào của xung động đó nữa.@
+` Tôi chưa bao giờ nghĩ đến việc kiềm chế.@
+` Tôi thậm chí không hề cố gắng ngăn mình lại.@
+` "Giết cô bé này.@
+` Điều đó dường như là điều hiển nhiên nên tôi đã làm vậy.
+\
+` Vậy thì câu trả lời rất đơn giản.@
+` Tôi chắc chắn là kẻ điên.@
+br
+` Tôi có lẽ đã phát điên từ tám năm trước, khi tôi kỳ diệu sống sót sau một tai nạn chết người[line=7]
+bg #000000,crossfade,1500
+bg "bg/bg_12a",crossfade,1500
+bg #000000,crossfade,1500
+bg "bg/bg_25a",crossfade,1500
+bg #000000,crossfade,1500
+bg "bg/bg_24b",crossfade,1500
+bg #000000,crossfade,1500
+bg "bg/bg_22b",crossfade,1500
+bg #000000,crossfade,1500
+bg "bg/bg_33b",crossfade,1500
+bg #000000,crossfade,1500
+!w4000
+` ……… Tôi nghe thấy tiếng mưa rơi từ đâu đó.`@
+br
+` Mưa đang rơi.
+\
+br
+` [line=5]" "@
+` Tôi mơ màng.`@
+` Họng tôi đau mỗi khi hít thở.`@
+` "Â... a."`@
+` Tôi có thể nói.`@
+br
+` [line=4]"Shiki-sama?"@
+` Rồi tôi cảm nhận được ai đó đang ở gần đây[line=2]
+bg "bg/bg_40c",crossfade,400
+` "Phòng[line=3]tôi".@
+` Đôi khi tôi cảm thấy mình đang ở trong phòng của chính mình.`@
+ld c,"tachi/his_t01",crossfade,400
+` "Chào buổi sáng, Shiki."@
+` Hisui…?`@
+` "Vâng. Cậu có khỏe không?"@
+` ……" ?`@
+` Hisui hỏi tôi một câu kỳ lạ.`@
+` [line=3]Cơ thể tôi hoàn toàn bình thường.`
+bg #ffffff,crossfade,400
+bg "event/ark_e01",crossfade,400
+bg "bg/bg_40c",crossfade,400
+\
+` [line=3]"Tại sao?"@
+` Vâng, tại sao?@
+` [line=2]Tại sao tôi lại ngủ ở nơi này?
+` [line=3][line=2]Mặc dù tôi giết...`@
+` Tôi định nói “đã giết người”, nhưng lại dừng lại.`@
+` Não tôi bảo tôi không nên nói những lời đó.
+\
+` [line=3]Tôi đang làm gì ở đây, Hisui?`@
+ld c,"tachi/his_t01",crossfade,400
+` “…… Cậu không nhớ à?@ Trường điện thoại bảo cậu đi sớm.@ Nhưng cậu cũng không về sau hoàng hôn, nên khi chị gái tôi đi tìm, thì thấy cậu đang nằm nghỉ ở công viên.”`
+\
+` "[line=3][line=3]Bạn có muốn nói đến công viên gần đây không?"`@
+` "Vâng, khi cô ấy tìm thấy cậu, cậu đang nằm nghỉ trên ghế đá công viên.  Sau đó, cậu trở về dinh thự bằng đôi chân của mình."@
+` “...... Cậu chắc đang đùa chứ? Tôi chẳng nhớ gì cả.”`@
+` “Tôi không nghĩ việc trí nhớ của cậu bất thường lắm, Shiki-sama.  Cũng khó để tôi nói ra điều này, nhưng khi chị gái tôi đưa cậu về, cậu đang trong trạng thái bàng hoàng.”`@
+` ………`@
+` …… Tôi không nhớ điều này.`@
+` Nhưng tôi không có lý do nghi ngờ lời nói của Hisui.
+\
+` ……"Ừm, đã mười giờ rồi... Tôi chẳng nhớ gì cả."`@
+` "Vâng.`Khi cậu trở về dinh thự, cậu nói rằng 'muốn ngủ'.`Chị gái tôi đề nghị gọi bác sĩ, nhưng cậu nói 'cái này thường xuyên xảy ra'."
+\
+` "[line=3][line=3]Tôi thấy đấy. Tôi đoán tôi thường xuyên kiệt sức vì thiếu máu, nhưng"`@
+br
+` …… Lần này khác.`@
+` Bởi vì tôi đã giết ai đó[line=3]ừ?[@
+br
+` "Mình trông như thế nào, Hisui?"@
+` [line=3]"Ê?"@
+` “Trang phục của tôi, tức là… đồng phục của tôi… à, có dính máu[line=3]”`@
+` Nó bị nhuộm máu.
+\
+` "Bộ đồng phục của cậu bẩn nên tôi đang giặt nó."@
+` "Giặt[line=2]nghĩa là những bộ quần áo dính máu…!??"@
+ld c,"tachi/his_t08",crossfade,400
+` "…… Trên đó có bùn thật đấy, nhưng không giống như máu đâu."@
+` "Ê…? Nhưng nó[line=3]"@
+` Mặc dù tôi đang quỳ gối trong một biển máu, cả hai tay và chân đều bị ngập tràn màu đỏ…?
+\
+ld c,"tachi/his_t01",crossfade,400
+` "Cậu có ác mộng gì không, Shiki-sama? Cậu trông như đang mơ thấy giấc mơ xấu cho đến giờ, và bây giờ cậu không được khỏe đâu."@
+` Hisui nhìn tôi.@
+cl c,crossfade,400
+` "Mơ?[line=4]Ấy, một giấc mơ?@
+` Có phải là một giấc mơ không?@
+` Cảm giác đó.@
+` Mùi máu đó.@
+` Cô gái trắng đẹp kinh khủng.
+\
+` "Không[line=3]có lẽ cậu đúng. Đó chỉ là một giấc mơ xấu thôi."@
+br
+` A…@
+br
+` [line=4]Đúng vậy.@
+` Chắc chắn là một giấc mơ xấu.@
+` Không thể nào tôi đã phá vỡ lời hứa thuở thơ ấu với Sensei một cách vô lý và không có lý do.
+\
+` "Ah[line=3]Tôi cuối cùng cũng tỉnh rồi."@
+ld c,"tachi/his_t01",crossfade,400
+` "Vâng. Nếu cậu cảm thấy tốt hơn, tôi sẽ chuẩn bị bữa tối bây giờ."@
+` Ăn tối à?@
+` Tôi biết đó chỉ là một giấc mơ, nhưng màu sắc và mùi máu vẫn còn đọng lại trong tâm trí tôi.
+\
+` [line=3]Không sao đâu. Tôi chỉ định ngủ như thế này tối nay. Quan trọng hơn là Hisui…@
+` Vâng, có chuyện gì, Shiki-sama?@
+` Ừm… cũng vậy. Dường như tôi đã trở về sau hoàng hôn, Akiha có nói gì không?@
+` Akiha-sama chưa về lúc đó. Cô ấy về khoảng hai giờ trước và được chị gái tôi báo về tình trạng của bạn.@
+` Hisui dường như im lặng hỏi 'Vậy sao?'
+\
+` Ồ, không có gì đâu. Tôi chỉ tự hỏi xem cô ấy có ghét tôi vì đã gây phiền toái cho cô ấy vào ngày thứ hai sau khi tôi trở về không.@
+` …… Dường như Akiha-sama rất lo lắng, nhưng tôi không nói rằng cô ấy ghét bạn.@
+` Nói vậy, Hisui lùi lại một bước khỏi tôi.
+\
+` Tốt rồi, tôi sẽ về bây giờ. Nếu cần gì, hãy gọi tôi.@
+` Ừ, cảm ơn. [line=2]À, một điều nữa tôi quên hỏi.@
+` Vâng, có chuyện gì, Shiki-sama?@
+` Ngoài đang mưa. Mưa bắt đầu từ lúc nào?@
+` Trước khi bạn trở về, Shiki-sama.@ Khi chị gái tôi tìm thấy bạn, bạn đã bị ướt sũng.
+\
+` …………@
+` Tôi hiểu rồi. Tôi thậm chí không nhớ điều đó. Dường như đó là một trường hợp thiếu máu nghiêm trọng.@
+` …… Nếu vậy, tôi không nên ép mình và nên chỉ nghỉ ngơi ở trường.@
+` Chúc ngủ ngon. Tôi rất xin lỗi vì hôm nay. Xin hãy gửi lời cảm ơn của tôi đến Kohaku-san nữa.@
+` Tôi hiểu. [line=2]Chúc ngủ ngon.@
+cl c,crossfade,800
+\
+` [line=4]Một giấc mơ, à.@
+` Cảm giác của tôi như thể tôi thậm chí không biết mình đã cảm thấy gì cả.@
+` Nhưng nếu tôi không hiểu được chuyện gì đã xảy ra hay tôi cảm thấy thế nào về nó,
+` thì làm sao tôi biết đó là một giấc mơ?@
+br
+` Tôi nghe thấy tiếng mưa bên ngoài.@
+` Trí óc tôi vẫn còn nặng nề một chút.@
+` Tôi liếc nhìn xuống ngực mình.@
+` …… Sẹo cũ từ tám năm trước vẫn còn rõ ràng như vậy, giống như vết bỏng.@
+br
+` Ah[line=3]@
+` Trên bàn của tôi là con dao mà cha tôi để lại cho tôi.@
+` Con dao cũ đã cắt cô gái trắng thành mười bảy mảnh.
+\
+` [line=4]@
+` …… Đó là một giấc mơ.@
+` Không có gì hơn thế nữa.@
+` Tôi lặp đi lặp lại điều này nhiều lần, cố gắng an ủi bản thân cho đến khi ngủ.
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+br
+` …… Nhưng khi tôi còn nhỏ,
+` Tôi nghĩ có người đã từng nói với tôi: 'Đừng nói những lời dối trá mà thậm chí bản thân cũng không thể lừa được.'
+\
+!w3000

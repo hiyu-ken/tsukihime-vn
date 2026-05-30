@@ -1,0 +1,51 @@
+monocro off
+wavestop
+playstop
+bg "bg/bg_06b",crossfade,800
+` Như dự đoán, cuộc tranh luận về việc tổ chức lễ hội văn hóa đầy bão tố.@
+` Vì mọi người có quan điểm khác nhau nên quyết định đã bị trì hoãn đến tuần sau.@
+` Đến khi kết thúc, đã là buổi chiều muộn. Mọi người mệt mỏi đứng dậy khỏi ghế và rời khỏi lớp học.@
+br
+`"[line=4]Vậy thì."@
+` Không có gì để làm trong lớp học.@
+` [line=3]Tôi nên chuẩn bị cho buổi tối và trở về biệt thự.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_32b",lcartain,1500
+play "*1"
+` Tôi không ghé đâu khác nữa và trực tiếp trở về biệt thự.@
+` Mặt trời chưa lặn hoàn toàn nên Akiha có lẽ vẫn chưa về.
+\
+`"Akiha như thế này. Tôi tự hỏi cô ấy có còn giận như sáng nay không..."@
+br
+` ...Nhưng cũng không thể làm gì được.@
+` Tôi không thể nói sự thật với cô ấy, vì vậy tôi đoán tôi sẽ tiếp tục bị ghét như một anh trai tệ hại.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33b",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Chào mừng trở lại, Ngài Shiki."@
+` Hisui cúi đầu khi tôi bước vào biệt thự.@
+`"... Vâng, tôi đã quay lại. Cảm ơn vì đã chào đón tôi, Hisui."@
+` [line=3]Đã một tuần kể từ khi tôi trở về, nhưng tôi vẫn chưa quen với điều này.
+\
+`"Ồ, Akiha chưa về à?"@
+`"Không. Cô ấy bảo tôi nói với anh rằng cô ấy sẽ về đặc biệt muộn tối nay nên xin hãy ăn tối một mình, Ngài Shiki."@
+cl c,crossfade,400
+` ... Tôi biết cô ấy vẫn còn giận từ buổi sáng nay.
+\
+`"[line=4]... Thở dài."@
+` Tôi gập vai và bắt đầu đi về phòng của mình.@
+` [line=3]Và sau đó,
+br
+ld c,"tachi/his_t01",crossfade,400
+`"Thưa Shiki."@
+` Hisui nhìn xung quanh sảnh trước khi nói tiếp.
+\
+`"Xin lỗi vì hỏi một câu hỏi hơi ngốc nghếch, nhưng Thưa Shiki có dự định rời đi vào đêm nay nữa không?"@
+`"[line=4]Ồ?"@
+` Cô ấy tập trung ánh mắt vô cảm vào tôi.@
+` Tôi nghĩ cô ấy chỉ muốn biết tôi sẽ trở về lúc nào vì cô ấy là một người hầu tận tâm, nhưng việc nói cho cô ấy biết có nghĩa là Akiha cũng sẽ biết.@
+` Tôi nên... [line=3]
+br
+cl c,crossfade,400

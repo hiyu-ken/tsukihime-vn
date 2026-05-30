@@ -1,0 +1,80 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_19b",notrans,0
+` [line=6]@
+br
+` Tôi vẫn muốn tiếp tục sống trong thế giới bình thường, đáng kính.@
+` …… Tôi cảm thấy mình có trách nhiệm về việc giết Arcueid.@
+` Nhưng tôi nghĩ việc bị ép buộc phải làm điều mình không thể làm là có vấn đề.@
+` …… Nhưng một lần nữa, Arcueid đang ngủ.
+\
+` Cô ấy tin tưởng tôi, người đã giết cô ấy một lần rồi, và ngủ say bình yên.@
+` ……… Curses………!@
+` Nhưng dù sao… Tôi cũng không thể làm được.@
+` Tôi lặng lẽ bắt đầu đi.@
+` …… Quay lưng lại với Arcueid, đang ngủ với niềm tin tuyệt đối vào tôi, tôi rời khỏi phòng khách sạn.
+\
+bg #000000,lcartain,800
+bg "bg/bg_20a",lcartain,800
+` …… Hẻm đường im lặng.@
+` Chúng tôi ở tầng mười một, tầng cao nhất trong khách sạn.@ Vì cô ấy đã thuê cả tầng, nên không có khách khác ở đây.
+\
+br
+` [line=7]@
+` Tôi vẫn còn cảm thấy một chút do dự.@
+` Nhưng tôi lắc đầu và nhấn nút thang máy.
+\
+bg #000000,lcartain,800
+!w3000
+play "*1"
+bg "bg/bg_25a",crossfade,800
+` Đi tàu từ khách sạn, tôi trở về thị trấn.@
+br
+` …… Giờ đã hơn trưa.@
+` Học đường sắp kết thúc, nên tôi nghĩ là có thể quay lại biệt thự.@
+` …………@
+` Dù sao, tôi cũng không muốn trở về biệt thự.@
+br
+` Tôi quyết định đến công viên để thư giãn một chút.
+\
+bg #000000,lcartain,800
+bg "bg/bg_28a",lcartain,800
+` *thở dài*@
+` Ngồi xuống ghế đá, tôi nhìn lên trời mà không nghĩ ngợi gì.@
+` Bầu trời vẫn còn mây mù, giống như khung cảnh bên trong trái tim tôi.
+\
+bg "bg/ima_06",crossfade,800
+` …… Tôi tự hỏi liệu cô ấy có còn đang ngủ, tin tưởng vào tôi?@
+` Tôi đã giết cô ấy một lần, nhưng cô ấy lại nói rằng sẽ tha thứ cho tôi.@
+` Cô ấy đã tha thứ cho tôi[line=3]và thế thì… tôi đang làm gì ở đây?
+\
+` Đêm qua.@
+` Sau khi giết Arcueid, tôi thề với bản thân mình sẽ chuộc tội cho bất cứ điều gì.@
+` Có phải đó là lời thề tôi có thể phá vỡ khi mạng sống của tôi bị đe dọa? Đó chỉ là tất cả?@
+` ……… Kuh!@
+` Nhưng tôi vẫn muốn sống.@
+` Đó là một vấn đề mà tôi không thể bỏ qua miễn là tôi còn sống.@ Và nó không phải là điều gì đó tôi có thể dễ dàng coi nhẹ như một phút say đắm và quên đi.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Sức mạnh ấy thuộc về bạn.@
+` Nhưng chính điều đó là lý do tại sao bạn phải nhớ mãi không thôi.
+\
+` [line=3]@
+` Tôi nhớ những lời quý giá từ rất lâu rồi.@
+` Cô ấy… Sensei… cô ấy đã nói gì với tôi?@
+` ………@
+` Vẫn còn thời gian.@
+` Mặt trời vẫn chưa lặn.@
+` Nếu tôi có thể quay trở lại khách sạn trước khi mặt trời lặn, tôi có lẽ vẫn kịp thời.
+\
+`"Chết tiệt."@
+` Tôi không thể bỏ qua những nghi ngờ của mình.@
+` Cuối cùng, tôi[line=4]
+\
+playstop

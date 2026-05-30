@@ -1,0 +1,101 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+br
+` [line=3]Không, tôi buộc phải gặp Senpai để tìm ra sự thật.@
+` Sáng nay tôi không còn tâm trí nào để ăn uống nữa rồi.
+br
+ld c,"tachi/his_t01",lshutter,400
+`"[line=3]Cậu chủ Shiki?"@
+` Hisui từ phòng khách bước ra.@
+` Có vẻ thấy tôi mãi không xuống nhà nên em ấy đã bước ra đây để kiểm tra thử xem sao.
+\
+`"…… Xin lỗi em.@ Tôi đi học đây, nhờ em gửi lời xin lỗi của tôi tới Akiha nhé."@
+ld c,"tachi/his_t07",crossfade,400
+`"…… Xin cậu chủ Shiki chờ một chút ạ.@ Sắc mặt cậu trông kém quá.@ Cậu chắc chắn là bản thân vẫn ổn chứ ạ……?"@
+`"[line=3]Tôi không sao đâu, chỉ hơi đau đầu chút thôi.@ Thôi, tôi đi đây…… Xin lỗi em nhé, tôi lại ích kỷ tự ý làm theo ý mình rồi."@
+cl a,lshutter,400
+` …… Nói ra những lời ích kỷ như vậy, tôi lập tức vội vã mở cửa chính bước ra ngoài trước khi em ấy kịp lên tiếng phản hồi.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_01a",crossfade,1500
+` Tôi đã chạy đến trước cổng trường.@
+` Lúc này mới là khoảng bảy giờ rưỡi sáng.@
+br
+`"…………"@
+` Tôi đứng tựa vào bờ tường bên cổng để chờ đợi Senpai.@
+` Hình ảnh một nam sinh đứng lóng ngóng chờ đợi thế này trông có vẻ hơi kỳ quặc trong mắt những học sinh khác đang đi ngang qua, nhưng tôi cũng chẳng buồn bận tâm.
+\
+!w5000
+`"……………"@
+` Nhưng tuyệt nhiên bóng dáng Senpai vẫn chưa xuất hiện.@
+` Vẫn chưa thấy bóng dáng Senpai đâu.
+\
+!w5000
+` Mười phút nữa lại trôi qua.@
+` Cổng trường bắt đầu ngập tràn trong dòng học sinh hối hả bước vào lớp.
+\
+!w5000
+` Chỉ còn chưa đầy năm phút nữa là cổng trường sẽ đóng chặt.@
+` Thế mà bóng hình Senpai vẫn hoàn toàn bặt vô âm tín.
+\
+`"………"@
+` Chị ấy[line=3]có lẽ hôm nay sẽ không đến trường nữa rồi.@
+` Những sự việc khủng khiếp tối qua tôi đã tận mắt chứng kiến hết cả, thế nên rất có thể chị ấy sẽ không bao giờ đến đây nữa, hôm nay, ngày mai hay bất cứ ngày nào sau đó nữa[line=3]
+br
+` [line=3]Thịch.@
+br
+`"……… Hộc."@
+` Vừa nghĩ đến viễn cảnh u ám ấy, đầu óc tôi bỗng nhiên chao đảo dữ dội.@
+` Tôi vội vàng lắc mạnh đầu để xua đi những suy nghĩ tồi tệ đó ra khỏi tâm trí.
+\
+` …… Ngay lúc ấy,
+` có ai đó nhẹ nhàng vỗ vai tôi từ phía sau.@
+br
+ld c,"tachi/cel_t07a",lshutter,400
+`"Tohno-kun, em đứng ngơ ngẩn làm gì ở đây thế?"@
+`"Se, Senpai……!?"@
+`"Là chị đây."@
+` Senpai khẽ mỉm cười gật đầu.
+\
+`"T, thực sự là chị sao……!?@ Nhưng chuyện tối qua, rõ ràng chị đã[line=3]"@
+`"Ưm.@
+` Chưa kịp để tôi dứt câu, Senpai đã vội vàng áp tay che chặt miệng tôi lại.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun, đừng nói chuyện ở đây.@ Đi theo chị ra sau nhà thể chất nào."@
+` Senpai vẫn nở nụ cười hiền hậu dịu dàng như thường lệ, vừa giữ chặt tay trên môi tôi vừa nắm lấy cánh tay tôi kéo đi.@
+cl a,lshutter,400
+`"Ư, ư...!"@
+` Tôi cố ú ớ bảo chị ấy dừng lại, nhưng chẳng thể phát ra âm thanh nào ra hồn.@
+` Chị ấy lôi tuột tôi đi với một sức mạnh đáng kinh ngạc.
+\
+bg #000000,lcartain,400
+bg "bg/bg_05a",lcartain,400
+play "*3"
+wave se_03
+` [line=4]Tiếng chuông trường vang vọng phía trên đầu.@
+!w5000
+` …… Giờ tự học sáng đã bắt đầu rồi.@
+` Hơn thế nữa, xung quanh tuyệt đối không có bóng dáng một ai qua lại cả.
+br
+ld c,"tachi/cel_t07a",lshutter,400
+`"Được rồi, ở đây chắc chắn sẽ không có ai nghe thấy chúng ta nói chuyện đâu."@
+` Senpai cuối cùng cũng chịu buông tôi ra.@
+` Nhảy lùi lại một bước phòng thủ, tôi đứng thẳng đối diện nhìn trực diện chị ấy.
+\
+`"Em muốn hỏi chị về chuyện đêm qua đúng không?@ Nếu có gì muốn chất vấn, em cứ tự nhiên nói ra đi, Tohno-kun."@
+` Senpai thản nhiên cất lời bằng chất giọng vô cùng bình tĩnh.@
+` Cứ như thể tấn bi kịch đẫm máu xảy ra tối qua chỉ là một chuyện vặt vãnh không đáng bận tâm vậy.@
+`"……………!"@
+` Thế nhưng với tôi, chuyện đó lại cực kỳ hệ trọng.@
+` Thái độ dửng dưng thờ ơ lúc này của chị ấy thực sự khiến lồng ngực tôi dâng trào ngọn lửa giận dữ.
+\
+`"Vậy ra người đêm qua... thực sự chính là chị sao……!?"@
+`"Phải.@ Lúc ấy chính miệng chị cũng đã gọi tên em rồi mà, nên giờ có muốn giấu giếm thêm cũng vô ích thôi."@
+cl c,crossfade,400
+`"…………!"@
+` Tôi cắn chặt răng.@
+` …… Dẫu tôi chẳng hề hy vọng nhận được một lời xin lỗi hay gì từ chị ấy, thế nhưng thế này thì[line=3]
+\

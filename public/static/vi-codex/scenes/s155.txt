@@ -1,0 +1,26 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_33b",notrans,0
+` [line=3]Tôi thấy rất có lỗi với Hisui, nhưng tôi không thể cho cậu ấy biết được.@
+` Tôi phải giữ bí mật tuyệt đối về sự hiện diện của Arcueid, và cũng không thể để Hisui, chị Kohaku hay Akiha biết chuyện tôi đang đi săn lùng kẻ sát nhân hàng loạt được.
+\
+`"Không, tôi không có lý do gì để ra ngoài đâu.@ Hôm nay tôi vừa bị Akiha mắng một trận xong, nên chắc tôi sẽ ngoan ngoãn ở trong phòng một thời gian vậy."@
+ld c,"tachi/his_t01",crossfade,400
+`"Dạ, em hiểu rồi.@ Vậy em xin phép khóa cổng chính vào giờ như thường lệ ạ."@
+` Cô ấy đáp lời một cách bình thản, gương mặt không chút biểu cảm.@
+` Cuộc trò chuyện kết thúc, tôi rảo bước trở lên phòng mình.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_40c",lcartain,800
+playstop
+` Sau bữa tối, tôi trở về phòng của mình.@
+` Lúc này trời đã gần mười giờ tối.@
+` Để không bị ai phát hiện, tôi cần phải lén lút trốn ra ngoài một cách khẽ khàng nhất có thể.@
+br
+`"Now then[line=3]shall I go?"@
+` Cho chiếc dao găm vào túi áo, tôi khẽ khàng rời khỏi phòng một cách nhẹ nhàng nhất có thể.
+\
+bg #000000,lcartain,800
+!w2000

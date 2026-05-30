@@ -1,0 +1,774 @@
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+ld c,"tachi/stk_t04",crossfade,400
+`"[line=3]À..."@
+` Cơ thể Yumizuka run rẩy.@
+` Khi thở đau đớn, cô ấy quỳ xuống.
+\
+cl a,crossfade,400
+play "*6"
+` Một âm thanh nghẹn ngào.@
+` Ngồi xổm trên mặt đất, Yumizuka ho sặc sụa, và cô ấy nhổ ra một cục máu.@
+`"[line=3]Yumizuka!?"@`
+` Lần này, tôi vội vã đến gần cô ấy.@
+`"Yumizuka, cậu có sao không?@ Yumizuka…!"@`
+` Tôi đặt tay lên vai cô ấy đang run rẩy.@
+`"Ah[line=3]"@
+` Tôi cảm thấy một cơn lạnh.@
+` Ngay cả qua lớp quần áo, tôi vẫn có thể cảm nhận được sự lạnh lẽo của cơ thể cô ấy.
+\
+`"Ngốc nghếch, bạn đang đông lạnh! Bạn làm gì ra ngoài trời vào đêm như thế này?"@
+`"[line=3]Shiki-kun…"@`
+` Giọng nói của cô ấy trống rỗng khi gọi tên tôi.@
+` Yumizuka ngã vào tôi.@
+br
+` Khi cô ấy thở dốc, hơi ấm từ hơi thở của cô ấy chạm vào da tôi.
+\
+`"Yumi… zuka?"@
+`"Không sao đâu dẫu cho cậu tịnh không thích mình, Shiki-kun.@ Bởi lẽ cho tới tận lúc này, bản thân mình cũng tịnh không thể thấu hiểu hết về cậu đâu."@`
+` Yumizuka nói trong khi ho.
+\
+`"Được rồi, xin cậu đừng nói nữa…!@ Tớ sẽ đưa cậu đến bệnh viện ngay lập tức…!"@`
+`"Nhưng bây giờ, mình đã hoàn toàn thấu hiểu rồi.@ Cậu là ai, và cậu khao khát điều gì.@ Thực sự mình đã hiểu rõ rồi.@`
+` Vì[line=3]@
+`"Ồ[line=3]?"@
+`"Bởi vì, mình đã trở nên giống hệt như cậu rồi, Shiki-kun[line=3]!"@`
+` Nói xong, Yumizuka cắn vào cổ tôi.
+\
+bg #9c0120,crossfade,800
+`"[line=4]Ah..."@
+` Ý thức của tôi đang mờ dần.@
+` Nanh của Yumizuka cắm sâu vào cổ tôi.@
+`"[line=7]"@
+` Tôi đang bị hút cạn sức lực.@
+` Như thể tất cả sự sống trong cơ thể tôi đang tan chảy và bị hút ra.@
+` Không có sức mạnh, không có suy nghĩ.@
+` Vì vậy, ý thức của tôi không hề mờ dần.@
+` Nó chỉ đơn giản là bị phá hủy.
+\
+`"[line=7]Ôi."@
+` Không có suy nghĩ nào cả.@
+` Tôi biết mình sẽ chết nếu ở lại như thế này, nhưng tôi không thể làm gì [line=4].@
+br
+wave se_01
+bg #ffffff,notrans,0
+bg #9c0120,notrans,0
+` Dù sao đi nữa.@
+` Từ một nơi nào đó ngoài ý thức của tôi, máu bắt đầu sôi sục trong người.@
+`"Yumizuka!" [line=4]@
+` Hai cánh tay tôi đẩy cô ấy ra sau bằng một phản xạ thuần khiết.
+\
+bg "event/stk_e02",lshutter,800
+` Cô ấy ngã thẳng xuống mông.@
+`"[line=4]Chuyện gì vậy?"@
+` Tôi đứng dậy.@
+` Nhưng, tôi không thể.@
+` Tôi quá mệt mỏi đến mức thậm chí còn không thể nâng cánh tay lên.@
+` Yumizuka ngồi đó, như thể đang say rượu.
+\
+`"[line=4]Ồ..."@
+` Tôi không thể nhìn rõ mặt cô ấy.@
+` Mọi thứ mờ dần khi ý thức của tôi tan biến.@
+` Tôi cũng không thể kiểm soát được cơ thể mình nữa.@
+` Chỉ còn lại nỗi đau ở cổ tôi.@
+` Máu chảy ra từ nơi đó.@
+` Nét nhăn răng của Yumizuka vẫn còn in trên cổ tôi.@
+` [line=3]Và qua hai vết rách sâu đó, một thứ đen tối đang được đổ vào cơ thể tôi.
+\
+` Trong tĩnh mạch của tôi.@
+` Ở đâu đó ngoài tầm với của tôi, thứ đen tối đó đang xâm phạm toàn bộ cơ thể tôi.@
+` Khi một mảnh nhỏ của thứ đen kia chảy qua tĩnh mạch của tôi, cơ thể tôi cháy rực bên trong.
+\
+wave se_01
+`"[line=3]Ahhhh!"@
+` Một cơn đau, như thể cột sống tôi sắp bị xé toạc.@
+wave se_01
+`"[line=3]Haaarrgghhh!"@
+` Trong cơn đau, tôi gào thét và cào vào mặt đất.@
+` Nhưng không có sự nhẹ nhõm nào.@
+` Tôi không thể di chuyển vì Yumizuka đã hút cạn mọi thứ khỏi tôi, và nỗi đau tuôn vào tôi như một con rắn đen.@
+` Tôi không thể di chuyển, nên thứ đen kia trườn và quằn quại bên trong theo ý muốn của nó.
+\
+`"[line=3][line=3]Hả... hả..."@
+` Tôi nắm chặt mặt đất.@
+` Với đôi mắt ngơ ngác, Yumizuka... nhìn về phía... tôi.@
+`"Yumi... đi thôi... bạn đã làm gì vậy!"@
+`"Đừng lo, chỉ đau một lúc thôi. Đầu tiên nó đau, nhưng khi máu trộn lẫn, cảm giác đó sẽ giảm dần."
+\
+`"Đừng lo lắng, tôi sẽ không giết cậu. Tôi đã đổ máu của mình một cách đúng đắn, nên cậu sẽ không sụp đổ và tan vỡ như những kẻ thất bại đêm qua. Từ bây giờ, cậu chỉ cần nhìn chằm chằm vào tôi."@
+` Yumizuka thì thầm với nụ cười vui vẻ.@
+`"[line=3][line=3]Anh đang nói gì vậy... Yumizu... sao?"@
+`"Tôi nói rằng tôi đang khiến chúng ta trở nên giống nhau, Shiki-kun. Uống máu người thay vì ăn thức ăn bình thường, sống về đêm, không thể đi dưới ánh mặt trời. Anh sẽ trở thành một sinh vật khác biệt."@
+br
+` ... Cái gì vậy?@
+` Điên rồ, giống như... [line=2]
+\
+`"Vâng, giống như ma cà rồng. Tôi cũng không thực sự hiểu làm thế nào tôi lại trở nên như vậy.@
+` Hai đêm trước, tôi ra ngoài để kiểm tra tin đồn rằng anh lang thang quanh khu mua sắm mỗi đêm, và khi tỉnh lại, tôi đang nằm vắt vẻo trong ngõ hẻm đó.@
+` Lúc đó, tôi nghĩ chỉ là lạnh, tối và đau đớn."
+\
+`"Nhưng kỳ lạ, sau một thời gian, sau khi cơ thể tôi thay đổi hoàn toàn, tôi hiểu được nhiều điều.@
+` Cơ thể tôi đau vì đang bị phá hủy rất nhanh, và ánh nắng mặt trời giống như một chất xúc tác cho quá trình đó. Và nếu tôi muốn dừng sự phá hủy này, tôi cần thông tin di truyền của sinh vật cùng loại với tôi."
+\
+`"Vâng, tôi không hiểu logic của nó lắm, nhưng tôi biết rõ phải làm gì.@
+` Tôi lạnh và cô đơn một mình.@ Tôi không muốn biến mất, nên tôi chỉ bắt một người ngẫu nhiên và hút máu anh ta.@
+` Và bạn biết không?@ Nó thực sự ngon miệng!@ Cảm giác đau đớn tan biến và tôi nghĩ mình có thể làm bất cứ điều gì."
+\
+`"Nhưng, nó quá tuyệt vời đến nỗi khi nhận ra, mọi thứ đã biến mất.@
+` Người đàn ông đã teo lại, giống như một xác ướp, và tôi cảm thấy rất tội lỗi.@ Tôi tự nhủ rằng mình đang trở thành một quái vật, cả về tâm trí lẫn cơ thể.@
+` [line=3]Nhưng, tôi phải làm thế để sống.@
+` Như tôi đã nói, tôi không giết họ vì ghét họ.@ Tôi hút máu theo cùng cách mọi người ăn thịt động vật.@ Vì vậy tôi quyết định không suy nghĩ về nó quá nhiều."
+\
+`"[line=3]Ồ..."@
+` Điều này... là gì?@
+` Có phải giết người để sống là điều chấp nhận được không?@
+` ...Tôi...
+\
+`"Nhưng, có vẻ như tôi đã trở thành một con ma cà rồng đích thực rồi.@
+` Bữa tối tối qua rất thú vị. Cho đến lúc này, tôi hút máu từ khi còn lạnh và đau đớn, nhưng giờ đây khi tôi bắt đầu làm quen với việc hút máu, nó trở nên hấp dẫn hơn nhiều.@
+` Cậu hiểu mà, Shiki-kun? Cậu là một kẻ giết người giỏi hơn tôi rất nhiều.@
+`"[line=3]Ồ trời!@
+` Điều gì vậy...
+` "Anh đang nói về điều gì vậy, Yumizuka?
+\
+`"Tôi luôn quan sát anh. Vì vậy, tôi biết mặt dễ thương và mặt đáng sợ của anh.@
+` Tôi không bao giờ nói chuyện với anh vì tôi không hiểu mặt đáng sợ của anh."
+\
+`"Nhưng giờ tôi hiểu rồi. Anh giống tôi mà.@
+` Không quan trọng anh yêu hay ghét con người. Anh có thể giết bất kỳ ai, phải không?"@
+`"[line=2]Đừng điên rồ."@
+` Tôi chưa bao giờ nghĩ như vậy một lần nào.@
+`"Tôi không đang điên rồ! Tôi chưa bao giờ hiểu được bầu không khí mong manh xung quanh anh, nhưng giờ cơ thể tôi đã thay đổi, và tôi có thể hiểu rồi."@
+` Shiki-kun, chỉ bằng sự hiện diện của cậu là khiêu khích cái chết.@
+` Trên thế giới này có những kẻ giết người sinh ra từ cõi tự nhiên, nhưng ngay cả giữa họ, cậu vẫn là số một.
+\
+`"Hôm qua tôi thực sự rất vui. Nó là lần đầu tiên tôi cảm thấy hạnh phúc sau khi trở thành như vậy."@
+` Vì tôi cuối cùng cũng hiểu được cậu, Shiki-kun. Tôi chưa bao giờ thực sự biết cậu trước đây.@
+` Shiki-kun, cậu vẫn không thay đổi gì cả, phải không? Cậu nhìn ai đó và vô lý mà trái tim cậu đập mạnh, cổ họng cậu khô khốc.
+\
+`"Đó là[line=2]một lời nói dối, cảm giác[line=4]đó tôi chưa bao giờ có."@
+bg #000000,crossfade,400
+ld c,"tachi/ark_t22",crossfade,400
+`"[line=5]"@
+` Tôi không thể nói... Tôi chưa từng có nó.@
+`"Xem này? Một xung động giết người thuần túy, không bị ảnh hưởng bởi cảm xúc. Phía yếu đuối của bạn, điều mà tôi luôn muốn hiểu."
+\
+bg "bg/bg_29b",crossfade,400
+ld c,"tachi/stk_t10",crossfade,400
+`"Tôi quên nói một điều nữa. Một ma cà rồng là người có máu bị hút bởi một ma cà rồng, đúng không?@
+` Đúng vậy, bạn biết đấy.@
+` Để chính xác hơn, người vừa mất máu sẽ chết. Ma cà rồng đổ máu của chính họ vào nạn nhân khi uống để biến họ thành giống mình."@
+` "Đó là máu của tôi từ trước đến nay."@
+` Khi đứng dậy, Yumizuka nói với vẻ hài lòng.
+\
+`"... Vậy đây là... máu của cậu... phải không?"@
+` Vật đen kia vẫn ô uế lấy cơ thể tôi.@
+` Nó thậm chí còn chưa đủ một ngụm, nhưng vẫn gây ra nỗi đau không tưởng, đủ để đẩy tôi đến bờ vực điên loạn.
+\
+`"Tốt lắm, có lẽ đã đủ rồi. Đứng dậy, Shiki-kun."@
+` Tôi nghe theo lệnh của Yumizuka.@
+` Nỗi đau dần tan biến.@
+` Cảm giác đang trở lại các chi của tôi, và cuối cùng tôi có thể đứng dậy.
+\
+ld c,"tachi/stk_t07",crossfade,400
+`"[line=3]Tốt. Từ bây giờ, chúng ta sẽ luôn ở bên nhau, Shiki-kun."@
+`"...@
+`"Bây giờ, đến đây. Đến bên tôi, nắm lấy tay tôi và làm tôi cảm thấy tốt hơn."@
+` Cô ấy dui tay ra.@
+br
+wave se_01
+` [line=4]Đập.@
+br
+` Tim tôi đập mạnh, và chân tôi bắt đầu di chuyển.@
+` Nhưng chúng không tiến về phía trước. Chúng lùi lại.
+\
+ld c,"tachi/stk_t08",crossfade,400
+`"Shiki... à?"@
+` Tiếng của Yumizuka đầy ngạc nhiên.@
+br
+wave se_01
+` [line=4]Một tiếng động mạnh.@
+br
+` Trái tim tôi đập thình thịch.@
+` Cổ họng tôi khô khốc.@
+` Mỗi sợi thần kinh trong cơ thể tôi nhận ra người trước mặt là kẻ thù.
+\
+` Tôi bắt đầu thở gấp hơn.@
+` Cảm giác này...@
+` Tôi tuyệt vọng chịu đựng độc tố trong máu Yumizuka và sự thôi thúc sôi sục đang dâng lên trong cơ thể tôi.
+\
+ld c,"tachi/stk_t09",crossfade,400
+`"Tại sao...? Hey, tại sao cậu không làm theo lời tôi bảo..."?@
+br
+wave se_01
+` Tiếng đập. Trái tim tôi đập.@
+` Liệu điều này có phải là thôi thúc mà Yumizuka nói cách đây một lúc?@
+` Đập mạnh, đập mạnh. Trái tim tôi đập to,
+` như thể nó đang ra lệnh cho tôi giết... giết người.@
+br
+`"Shiki-kun, cậu..."[line=3]@
+`"Hãy suy nghĩ rõ ràng, Yumizuka."@
+` Yumizuka nhìn tôi với ánh mắt đầy lo lắng khi tôi thở đau đớn.
+\
+ld c,"tachi/stk_t11",crossfade,400
+`"[line=3]Tại sao? Tại sao máu của cô ấy không hoạt động...?"@
+`"... Tôi không biết, nhưng cảm giác như có thứ gì đó bẩn thỉu đang trôi trong cơ thể tôi."@
+` Đó là máu ma cà rồng của Yumizuka.@
+` Nếu một ngụm nhỏ máu ấy khiến tôi cảm thấy khó chịu như vậy,
+` Thì tôi không thể tưởng tượng được nỗi đau mà Yumizuka đang trải qua, người mà cơ thể cô ấy đầy ắp nó.@
+br
+` "... Nó đau, cô ấy nói."@
+` Cuối cùng, tôi hiểu ý cô ấy muốn truyền đạt điều gì.
+\
+`"…… Hãy dừng lại, Yumizuka-san. Nó không giúp gì cho em cả. Em bị bệnh rồi. Chúng ta phải đưa em đến bệnh viện và khôi phục cơ thể em trở lại."@
+` "Tôi không muốn cô gái chăm sóc tôi tiếp tục đau khổ nữa."@
+` Nhưng cô ấy nhìn tôi với đôi mắt đầy căm ghét.
+\
+`"[line=3]Đáu chắc máu tôi lẫn với máu em! Vì vậy em nên đã trở thành một phần của cơ thể tôi...! Có thể có ai đó khác đang kiểm soát em...!"@
+`"Như tôi đã nói, tôi không hiểu, Yumizuka.@
+` [line=3]Tất cả những gì tôi hiểu là em nói rằng nó tối, lạnh và cô đơn."@
+` Tất cả những gì tôi nhớ là nụ cười của em hai ngày trước, khi em bảo tôi giúp đỡ em mỗi khi gặp khó khăn.
+\
+cl c,crossfade,400
+` "Thật ra, tôi không biết quái vật nào là một ma cà rồng."@
+` Nhưng bạn phải giết và hút máu để sống, và nếu vẫn còn đau đớn, thì tôi phải cố gắng đưa bạn trở lại như trước.
+\
+`"Yumizuka... Bạn nói nó đau."@
+ld c,"tachi/stk_t09",crossfade,400
+`"Đúng vậy. Nó vẫn còn đau ngay cả bây giờ. Hệ thống mạch máu của tôi vẫn giống như khi tôi là con người, nên chỉ có dòng máu chảy là đau đớn. Nhạy cảm và yếu ớt, vì chúng dễ vỡ."@
+` Nhưng nếu tôi uống nhiều máu con người hơn nữa, hệ thống mạch máu của tôi sẽ hoàn toàn ổn."
+\
+`"Bạn nói, nó khó chịu."@
+`"Đúng vậy. Tim tôi đau đớn. Tôi phải hút máu người để sống. Tôi không cảm thấy điều đó là tội lỗi nhưng nó đau đớn. Tôi sợ hãi một cách đau đớn rằng bản thân tôi trước đây sẽ biến mất. Nhưng tôi sẽ không quá sợ hãi nếu không cô đơn."
+\
+`"Bạn nói, nó lạnh."@
+`"Đúng vậy. Tôi quá lạnh, cảm thấy như ngón tay của tôi sẽ bị đông cứng. Nhưng tôi không nghĩ điều đó là xấu. Tôi chỉ không còn cảm nhận được sự ấm áp nữa."
+\
+`"Bạn cầu cứu một cách tuyệt vọng."@
+ld c,"tachi/stk_t03",crossfade,800
+`"Tôi muốn được giúp đỡ, nhưng đã quá muộn rồi. Tôi không thể quay lại thành người mà tôi từng là."@
+` Yumizuka nói, mỉm cười giống như ngày xưa.@
+`"[line=3]Tại sao... tại sao bạn lại trở nên như vậy?"@
+ld c,"tachi/stk_t10",crossfade,400
+`"Tại sao? Đó là điều tôi muốn biết. Khi tôi tỉnh lại, tôi có cái thân thể này và một khát khao máu người mà tôi cần phải thỏa mãn. Thật dễ dàng hơn nhiều nếu tôi chỉ chết đi."
+\
+`"Nhưng, có lẽ không thể thay đổi được. Giống như con người ăn thịt động vật để sống, tôi cũng phải ăn người."@
+`"[line=3][line=3]Chuyện gì vậy...! Chuyện gì bạn đang nói...! Tại sao lại nói những điều này, Yumizuka?"@
+` Không thể chấp nhận sự thật, tôi chỉ hét lên.@
+`"[line=3]"@
+` Yumizuka im lặng và chỉ lắc đầu.
+\
+`"Tại sao...! Không thể nào! Cậu nói cậu không thể cười, đi lại và nói chuyện bình thường như trước nữa sao? Nó chỉ mới cách đây hai ngày thôi mà!"@
+ld c,"tachi/stk_t13",crossfade,400
+`"[line=3]…… Đúng vậy. Chỉ hai ngày trước, tôi là một sinh vật ở bên bạn. Nó giống như một giấc mơ. Bây giờ tôi mới hiểu rằng tôi đã mất nó. Vâng, thực sự giống như một giấc mơ. Tôi sẵn sàng làm bất cứ điều gì để quay lại."@
+`"Sau đó"[line=3]@
+`"Nhưng điều đó là không thể. Tôi không thể quay lại. Tôi phải sống như vậy. Lạnh lẽo, đau đớn, một mình."@
+playstop
+cl a,tshutter,800
+` Yumizuka nhìn xuống.@
+` Cơ thể cô ấy run rẩy vì lạnh.
+\
+ld c,"tachi/stk_t04",crossfade,400
+`"[line=3]Hãy giúp tôi, Shiki-kun."@
+` Một giọng nói yếu ớt thoát ra từ cổ họng cô ấy.
+\
+`"Tôi sợ. Nó lạnh quá, và tôi cảm thấy cô đơn dù đi đâu. Nên xin hãy giúp tôi."@
+` ... Tôi hiểu rồi.@
+` Tôi nhớ lại lời hứa vô nghĩa mà tôi đã nói trên đường về nhà từ trường hai ngày trước.@
+br
+`"[line=3]Đúng vậy. Tôi sẽ làm mọi thứ có thể."@
+br
+` ... Thật sao?@
+` Để đưa bạn trở lại thành Yumizuka Satsuki cũ, tôi sẵn sàng làm bất cứ điều gì.@
+` Nhưng...
+` Trả lời của cô ấy hoàn toàn khác với tôi.
+\
+ld c,"tachi/stk_t03",crossfade,800
+`"... Ha ha ha. @ Ôi, Shiki-kun, cậu vẫn đang nghĩ về việc đưa ta trở lại sao? @
+` ... Thật lòng, cậu rất tử tế. @ Đối với một người thích giết chóc, lại thể hiện sự dịu dàng với mọi thứ khác là một mâu thuẫn tuyệt vời." @
+` Yumizuka cười vui vẻ.
+\
+`"Tôi đã nói với cậu rồi, điều đó là không thể. @ Cậu không thể giúp tôi như thế, Shiki-kun." @
+`"[line=3]Vậy thì tôi phải làm gì...! @ Không có gì khác tôi có thể làm. @ Tôi muốn giúp cậu, nhưng không có gì tôi có thể làm...!" @
+`"Đó không phải là sự thật. @ Có điều gì đó cậu có thể làm để giúp tôi, Shiki-kun." @
+cl c,lshutter,800
+` Yumizuka bước tới, giọng nói đầy tự tin.@
+br
+wave se_01
+` [line=3]Một tiếng động mạnh vang lên, khiến tôi cảm nhận được sự nguy hiểm.@
+` Một cơn lạnh chạy dọc sống lưng khi tôi nhận thức được mối đe dọa.
+\
+`"[line=2]Làm sao tôi có thể giúp bạn, Yumizuka?"@
+br
+(Âm thanh lặp lại)
+`"Chỉ cần trở thành bạn của tôi là đủ..."@
+ld c,"tachi/stk_t02",tshutter,400
+`"[line=3]Chờ đã!"@
+` Đôi mắt đỏ rực, sắc lạnh nhìn chằm chằm vào tôi, khiến tôi không thể thở được.@
+br
+` [line=3]Điều này rất tệ.@
+` Tôi nhận ra điều đó, nhưng chân tôi không thể di chuyển.
+\
+`"[line=3]Bạn bè ơi, điều gì vậy?"@
+`"Sau đó tôi sẽ không còn cô đơn, và tôi cũng sẽ không còn lạnh lẽo hay sợ hãi nữa."@
+` "Không, nếu cậu thuộc về tôi, tôi sẽ hạnh phúc hơn bao giờ hết so với cuộc đời trước đây của một người bình thường." [line=3]
+\
+bg #9c0120,lshutter,400
+br
+` [line=3]Một tiếng đập mạnh.@
+br
+` Tim tôi đập nhanh hơn nữa.@
+` Yumizuka duỗi tay thẳng về cổ tôi.@
+` Tốc độ của cô ấy giống như một viên đạn.@
+` Nhưng theo cách nào đó, tôi nhìn thấy nó hoàn hảo [line=3] hoặc cảm thấy như tôi đã nhìn thấy nó hoàn hảo và tôi ngã xuống đất.
+\
+Rung chuyển 2,50
+`"[line=3]Guh…!"@
+` Tôi vặn đầu một cách tuyệt vọng, và ném mình xuống đất.@
+` Với một tiếng rít,
+` Tay Yumizuka vượt qua đầu tôi.@
+bg "bg/bg_29b",rshutter,400
+br
+`"[line=4]Haa...ah."@
+`"[line=3]Không thể."@
+` Đối tượng và kẻ tấn công.@
+` Chúng tôi nhìn nhau với sự ngạc nhiên.
+\
+`"[line=3]Yumizuka, cậu..."@
+ld c,"tachi/stk_t09",crossfade,400
+`"[line=5]Shiki?"@
+` Yumizuka nhìn xuống mình, kinh hoàng.@
+` [line=3]Tôi biết rằng tôi phải chạy trốn, nhưng cơ thể tôi vẫn còn tê liệt.@
+br
+` Một tiếng đập mạnh.@
+br
+` Trái tim tôi vang lên như tiếng chuông.@
+` Tay tôi nắm lấy thứ trong túi, bất chấp tâm trí tê liệt của mình.
+\
+` Yumizuka không di chuyển.@
+` Chỉ có đôi mắt cô thay đổi, từ ngạc nhiên sang vui sướng.
+\
+ld c,"tachi/stk_t08",crossfade,400
+`"[line=3]... Tôi hiểu rồi. Tôi nghĩ sẽ đơn giản để đưa em vào tay tôi, nhưng..."@
+br
+` Một tiếng đập mạnh.@
+br
+ld c,"tachi/stk_t02",crossfade,400
+`"Đêm nay sẽ rất thú vị, Tohno-kun?"@
+` Đôi mắt đỏ rực, sắc bén của cô thèm khát máu.@
+` Tay cô ấy vươn ra thô bạo và vô tình.
+\
+cl a,lshutter,400
+` Mỗi sợi tóc trên cơ thể tôi dựng đứng.@
+` Trước khi bị xé nát,
+` Tôi lấy con dao từ túi.@
+br
+` *Thùng.*@
+br
+bg "bg/ima_14",lshutter,400
+wave se_06
+`"[line=5]Ồ?"@
+` Động tác của cánh tay tôi nhanh hơn cả giọng nói.@
+` Với một chuyển động vung, con dao cắt qua đùi Yumizuka.
+\
+bg "bg/bg_29b",rshutter,400
+`"Kyaaaa!" - Yumizuka thét lên đầy kinh hoàng.@
+` Tôi nhìn với sự sốc vào cánh tay mình.@
+br
+` [line=3]Có con dao máu lấm tấm cắt xuyên chân cô ấy.@
+br
+` "... Ah..."@
+`"Cảm giác của tôi trở lại.@
+` Cơ thể tôi di chuyển.@
+` Trước khi tôi kịp nhận ra,@
+br
+` [line=3]tôi đã vươn tay ra để đỡ cô ấy.
+` Tôi đang bỏ chạy khỏi Yumizuka, tay chân run rẩy.
+\
+bg #000000,lshutter,400
+play "*4"
+bg "bg/bg_28b",lshutter,400
+` Tôi hít thở hỗn loạn.@
+` Tôi chỉ biết chạy.@
+`"[line=3][line=3]Tại sao? Tại sao tôi lại?"@
+` Tôi không biết.@
+` Tôi không hiểu tại sao hay làm thế nào mà tôi lại đâm cô ấy.@
+` Đột nhiên. Trái tim tôi như vang lên.@
+` Và trước khi tôi kịp nhận ra, lưỡi dao của tôi đã cắt vào chân cô ấy.
+\
+` [line=3]*Hít một hơi dài, Shiki nhìn xuống vết thương trên tay mình, những âm thanh khẽ khàn từ cổ họng.*@
+` Máu Yumizuka chảy trên lưỡi dao, cảm giác xé thịt vẫn còn đọng lại ở cánh tay anh.@
+` "Tại sao?"@
+`"[line=3]Thật ra, tại sao tôi lại làm điều này?@
+` Tôi chỉ... tôi chỉ muốn giúp Yumizuka Satsuki.@
+` "[line=3]Guh..."
+\
+wave se_01
+`"[line=3]Nhớ lại gương mặt cô ấy, tim anh đập mạnh hơn.@
+` Bằng một cách nào đó, ký ức về cô ấy khiến trái tim Shiki loạn nhịp.@
+` Nỗi sợ và sự phấn khích.@
+` Yumizuka đang cố giết tôi.@
+` Tim tôi đập mạnh trước mối nguy hiểm.@
+` Tôi, Tohno Shiki, không thể cạnh tranh với sinh vật đó.@
+` Nó giống như táo và con người. Làm sao những kẻ bị ăn có thể chống lại kẻ ăn chúng?
+\
+` Đã như vậy rồi.@
+` Giống như Tohno Shiki ăn một quả cà chua mà không gặp trở ngại... đối với Yumizuka Satsuki, tôi chẳng khác gì một quả cà chua.@
+` Nếu cô ấy tìm thấy tôi...@
+` Nếu cô ấy bắt được tôi, cô ấy sẽ giết tôi.@
+br
+` Vì vậy, tôi đang bỏ chạy.@
+` Tôi chạy, và cảm thấy mình vẫn còn sống.
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+` Tôi chạy xuyên qua đêm.@
+` Hiện tại, tôi chỉ đơn giản là chạy trốn.@
+br
+` [line=6]Tại sao?@
+br
+` Điều đó rất rõ ràng.@
+` Vì nếu không, tôi sẽ bị bắt.@
+` Tôi cảm nhận được sự hiện diện của Yumizuka Satsuki phía sau tôi.@
+` Sự hiện diện ấy, từng khiến tôi cảm thấy như kim chích, giờ đây ngày càng lớn và rình rập đằng sau tôi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` *Hít thở gấp gáp* *Hít thở gấp gáp* *Hít thở gấp gáp* [line=4]!@
+` Tôi chạy đi để thoát khỏi nó.@
+` Nhưng tôi đang trốn khỏi ai?
+\
+bg #000000,crossfade,800
+bg "event/stk_e03",crossfade,800
+br
+` ... Đó là nụ cười đẹp.@
+` Nụ cười của Yumizuka Satsuki khi nhớ lại những ngày trung học thực sự dịu dàng.@
+br
+`"Sh... nó...!"@
+br
+` Một điều như vậy, làm sao một điều như vậy có thể xảy ra...!?@
+` Yumizuka trở thành một quái vật giết người, và uống máu họ[line=4]
+\
+wave se_10
+rung chuyển 1,50
+bg "bg/bg_25b",tcartain,400
+`"!"[line=4]?@
+` Bỗng nhiên có thứ gì đó đánh vào lưng tôi, và tôi bị ngã xuống đất.@
+`"[line=3][line=4]Ồi...!"@
+` Vì tôi ngã khi đang chạy, cơ thể tôi đầy những vết trầy xước.@
+` Nhưng giờ đây, lưng tôi đau nhiều hơn cả.@
+` Với cú đánh mạnh vào lưng từ một vũ khí, tôi không thể thở được.
+\
+`"[line=3]Chuyện gì vậy?"@
+` Tôi bắt đầu nói, nhưng lời nói tan biến.@
+br
+` Một thứ gì đó rơi xuống gần tôi.@
+` Chuyện vừa đập vào tôi đang lăn đi.@
+br
+`"Người... cá nhân..."@
+` Đó là một gã đàn ông, tay chân bị vẹo cong.
+\
+`"[line=6]Ồ."@
+` Máu chảy từ cơ thể người đó.@
+` Máu đỏ chảy trên mặt đường nhựa, nhuộm đỏ cơ thể tôi.@
+` Nó...
+` là một xác chết không đầu.
+\
+`"Ôi, tôi không có ý đánh bạn. Reflex của tôi đã tốt hơn, nhưng có lẽ đó là vấn đề nếu mục tiêu của tôi quá chính xác."@
+` Một giọng nói vui vẻ vang lên từ phía sau tôi.@
+`"[line=3]À"@
+` Còn tôi vẫn nằm trên mặt đất, tôi nhìn lại phía sau.@
+` Cái mà tôi thấy ở đó,
+` là Yumizuka Satsuki đang đi, với một cái đầu người trong tay.
+\
+ld c,"tachi/stk_t02",lshutter,800
+`"Xin lỗi, Shiki-kun; nó đau phải không? Tôi chỉ cố gắng bất ngờ bạn bằng cách ném nó trước mặt bạn."@
+` Khi cô ấy xin lỗi, Yumizuka ném cái đầu bị cắt ra xa.
+\
+`"Yumi, vừa rồi là gì?" [line=3]@
+`"Hừm? Ồ, cái này à? Tôi gặp anh ấy khi đang đuổi theo cậu."@
+` Anh ta hơi ồn ào nên tôi đã giật lấy miệng anh ta. Tôi nếm một chút máu của anh ta, nhưng máu của những kẻ say xỉn thật ghê tởm. "Shiki-kun, cậu cũng chỉ nên chọn những cơ thể trẻ trung và khỏe mạnh thôi."
+\
+cl a,lshutter,1500
+` Với nụ cười thân thiện, cô ấy tiến lại gần.@
+` Đó không phải là nụ cười như ngày xưa.
+\
+` "Tạm biệt," cô ấy nói.@
+` Không có điểm chung nào với người vừa vẫy tay và rời đi hồi đó.
+\
+`"[line=3]Anh thực sự không thấy vấn đề gì khi giết người, Yumizuka?"@
+ld c,"tachi/stk_t02",lshutter,800
+`"Tôi không nghĩ vậy ban đầu.@ Ngay cả khi cậu phân biệt giữa bạn bè và những người phải bị giết, đúng không Tohno-kun?"
+\
+`"Tôi cũng ghét bản thân mình vào đêm qua.@
+` Nhưng tôi phải uống máu để xoa dịu nỗi đau.@ Vì thế tôi đã giết rất nhiều người.@ Mỗi khi tôi giết ai đó, cơ thể tôi ngừng đau và trái tim tôi càng đau hơn."@
+` Cô ấy dừng lại một lát.@
+` Trong chốc lát, Yumizuka Satsuki nhìn xuống với vẻ buồn bã.
+\
+`"Nhưng tôi đã hiểu rồi.@ Ngay cả khi bây giờ vẫn còn chút đau đớn, nhưng nó sẽ dần mờ nhạt.@ Bởi vì [line=4]dù có tội lỗi giết người, cảm giác tuyệt vời khi tước đi sinh mạng họ còn mạnh mẽ hơn nhiều lần."@
+ld c,"tachi/stk_t08",crossfade,400
+` "Tôi đã nói với cậu rồi mà, Shiki-kun.@ Tôi sẽ trở thành giống như cậu, đừng lo lắng.@ Tôi sẽ trở thành một con ma cà rồng lộng lẫy thích giết chóc, giống như cậu vậy."@
+` Yumizuka tiến lại gần với nụ cười trên môi.
+\
+cl a,lshutter,800
+`"[line=5]Đó là một lời dối trá."@
+` Tôi nói vậy, chỉ để nhận ra rằng ngay cả điều đó cũng là một lời dối trá.@
+` "Đó là một lời nói dối quá tệ đến mức ngay cả tôi cũng không thể bị lừa."@
+br
+` [line=4]"Đã không còn hy vọng."@
+`    Cô ấy vô vọng.@
+br
+` Satsuki Yumizuka không thể cứu được.@
+` Cho dù cả lý trí còn lại của tôi cũng bị mất trong kết luận duy nhất đó.
+\
+`"[line=8]"@
+` Tôi đứng dậy, nắm chặt con dao.@
+` Cô ấy sẽ hút máu tôi như thế nào đi nữa. Tôi không định mất mạng và trở thành một trong những ma cà rồng đó.@
+` Vậy là...@
+` Chỉ có một điều cần làm từ đầu.
+\
+`"[line=3] Yumizuka, tôi... không thể cứu cô."@
+ld c,"tachi/stk_t02",crossfade,400
+`"Đó không phải sự thật. Nếu cô hợp tác, chúng ta sẽ hạnh phúc bên nhau."@
+br
+`"[line=3]"@
+` Không. Đó là một niềm vui méo mó, Yumizuka.@
+br
+`"Nhưng.@ Tôi đã hứa.@ [line=3]Vì vậy tôi phải giúp bạn theo cách khác."@
+` Nói như vậy, tôi cởi kính ra.
+\
+playstop
+monocro #0000ff
+bg "bg/bg_25b",crossfade,400
+Vòng lặp âm thanh `se_02`
+` Một cơn đau ập đến đầu tôi.@
+!w300
+!w300
+!w300
+!w300
+!w300
+` Lần đầu tiên,
+` Tôi chấp nhận tầm nhìn này để giết ai đó.
+\
+`"[line=3]Tôi hiểu rồi.@ Vậy thì tôi rất vui vì bạn đã quyết tâm, Shiki-kun.@ Nhưng đã muộn rồi.@ Cuộc đua này đã kết thúc."@
+Lắc địa chấn 2,50
+monocro off
+bg #000000,crossfade,400
+`"[line=5]Làm sao thế này?"
+\
+wave se_15
+`"[line=3]Ôi trời ơi!"@
+` [line=3]"Chuyện gì vừa xảy ra...?"@
+` [line=3]Trong khoảnh khắc, Yumizuka biến mất, tôi thấy khuôn mặt cô ấy bên cạnh mình và vào lúc đó, một cái gì đó đập mạnh vào bên hông tôi.
+\
+`"[line=3]Ha... đau quá!"@
+` Lưng tôi đau nhức.@
+` Một đòn tấn công đơn giản như vậy mà tôi lại bị đập vào tường của một tòa nhà?@
+`"[line=3]Ôi trời ơi!"@
+` Tôi siết chặt con dao, tôi có thể đứng vững.@
+`"Ôi, cậu vẫn có thể di chuyển? Cậu khá mạnh phải không, Shiki-kun? Vì cậu luôn bị vấn đề về thiếu máu, tôi nghĩ cậu yếu."@
+` Tiếng Yumizuka ngày càng gần hơn.
+\
+` *Hít vào* [line=3] *Hít vào*, *Hít vào*.
+` Tôi thở dốc [line=3] hơi thở của tôi thô ráp.@
+` Điều này là gì?@
+` Tôi đã mắc phải một sai lầm nghiêm trọng.
+\
+`"Không có ích khi mong đợi điều gì từ con dao đó. Đối với tôi, cậu trông như đã ngừng lại. Ngay cả nếu cậu có súng, nó cũng vô dụng."@
+br
+` Tiếng cười của cô ấy tràn ngập niềm vui.@
+br
+`"[line=3][line=3]Ghaa... Ghê gớm..."@
+` Đó là sai lầm.@
+` Tôi có thể nhìn thấy những đường đứt gãy, nhưng tôi chỉ là con người và biết điều đó.@
+` Nếu đối thủ nhanh hơn tôi nhiều lần, như Yumizuka, tôi không thể chạm vào những đường ấy.
+\
+`"[line=3]Kuh..."@
+` Nói cách khác,
+` Đối đầu với cô ấy, ngay cả khi tôi có thể nhìn thấy những đường này, cũng vô ích.@
+ld c,"tachi/stk_t02",crossfade,400
+`"[line=3]Ôi. Vậy thì cũng không sao. Tôi sẽ hơi thô lỗ một chút. Đừng lo lắng, nếu đầu và trái tim của bạn vẫn nguyên vẹn, tôi có thể làm được điều gì đó."
+\
+cl a,lshutter,400
+wave se_15
+Lắc lư 4,50
+Vòng lặp âm thanh se_02
+bg #000000,lshutter,400
+`"[line=4]Kuh...@
+` Khi một tiếng động lớn vang lên, mọi thứ trở nên đen tối.@
+` Tay Yumizuka nắm lấy cánh tay tôi.@
+` Và ném tôi như thế...@
+` Giống như một quả bóng đá, tôi bị ném và rơi xuống đất ngửa mặt."
+\
+`"[line=4][line=4]Ồ!"@
+br
+` [line=4]Tôi không thể nhìn thấy gì cả.@
+` Cơ thể tôi đau nhức quá, tôi chẳng thể nhìn thấy gì.@
+br
+`"Này, cậu không nên ngủ ở đó, Shiki-kun..."!@
+`"[line=4][cười nhẹ]"@
+` Tôi lăn sang bên cạnh nhanh chóng.@
+wave se_05
+` Chính nơi tôi vừa nằm, tay Yumizuka đập mạnh xuống mặt đất.@
+waveloop se_02
+` Tiếng lóc cốc của nhựa đường nứt vỡ vang đến tai tôi.
+\
+`"Hắc...!" [line=4]@
+` Tôi cố gắng di chuyển cơ thể tê cứng.@
+` Thị lực của tôi vẫn hoàn toàn đen tối.@
+` Tất cả những gì tôi có thể cảm nhận là sự hiện diện của Yumizuka.@
+`"... Em...!"@
+` Khi đứng dậy và đối mặt với sự hiện diện ấy, tôi giơ dao lên.@
+`"Tôi đã nói nó vô dụng. Tại sao em không thể bình tĩnh chấp nhận nó, Shiki-kun?!"
+\
+bg #ffffff,notrans,0
+bg #000000,notrans,0
+` Sự hiện diện của cô ấy gần kề.@
+` Tiếng đập mạnh của trái tim tôi.@
+` Có lẽ là vì tôi không nhìn thấy gì, lần này tôi dễ dàng thoát khỏi sự nắm bắt của cô ấy.@
+br
+`"[line=6]Không thể nào."@
+br
+` Giọng Yumizuka ngạc nhiên.@
+` Tôi biết lưng cô ấy đang quay lại với tôi.@
+` Nhưng kể từ khi tôi không nhìn thấy cô ấy, tôi không thể làm gì.@
+` Từ đó [line=4]một sự hiện diện thù địch, sát nhân ngày càng mạnh mẽ.
+\
+`"[line=4]Tại sao cậu lại nói, đừng di chuyển!!!"@
+` Giọng nói của cô ấy. Sự chết sắp xảy ra.@
+` Tôi vung dao một cách mù quáng để đối đầu với chúng.@
+wave se_12
+bg "bg/ima_14",rshutter,400
+`"[line=4]Kyaa!"@
+` Tiếng thịt bị rách.@
+` Tôi vừa cắt đứt cánh tay cô ấy.
+\
+`"[line=4]Crayumizuka, cậu có ổn không……!?"@
+` Nói vậy, tôi ghét bản thân mình thật ngốc nghếch.@
+` [line=4]Tại sao tôi lại lo lắng về ai đó cố giết tôi?@
+br
+wave se_15
+bg #9c0120,notrans,0
+bg #000000,notrans,0
+Lắc đầu, 1500 lần.
+Chơi lại âm thanh se_02.
+`"[line=6]Ồ."@
+` Cơ thể tôi... nổi lên.@
+` Tôi bị tấn công từ phía trước và bay qua không trung.
+\
+bg "bg/bg_31b",bshutter,400
+`"[line=6]Ồ."@
+` Thị lực của tôi trở lại.@
+` Có phải vì cú tấn công của cô ấy quá mạnh?@
+`"... Ngõ hẻm sau."@
+` Tôi dường như đã bay thẳng vào tường ngõ hẻm sau.@
+` Tôi cảm thấy bức tường cứng nhắc áp vào lưng tôi.@
+bg #000000,crossfade,800
+bg "bg/bg_31b",crossfade,800
+`"[line=4] Ôi."@
+` Ý thức của tôi bắt đầu mờ đi.@
+` Tuy nhiên, Yumizuka vẫn không nương tay tiến về phía trước.
+\
+`"[line=4]Lừa dối!"@
+` Tiếng cô ấy đầy căm phẫn, cô ta vung tay về phía tôi.@
+`"... ..."@
+` Tôi không thể di chuyển.@
+` Vì tôi không thể di chuyển, điều duy nhất tôi có thể làm là bị giết.
+\
+wave se_10
+`"... Eh?"@
+` Tường bắt đầu rung chuyển.@
+` Tay Yumizuka chỉ đập vào bức tường bên cạnh tôi.
+\
+play "*8"
+ld c,"tachi/stk_t12",lshutter,400
+`"[line=4]Lừa dối! Anh nói sẽ giúp tôi khi tôi gặp khó khăn!"@
+wave se_10
+` Lại một lần nữa, cô ấy bắt đầu tách rời những mảnh đất khỏi tôi.
+\
+`"Tại sao? Tôi không đủ tốt vì tôi trở nên như thế này à? Nhưng tôi không thể ngăn mình...! Tôi không trở nên như vậy vì tôi muốn..."@
+` *Đánh vang*. *Đánh vang*.@
+` Giống như một đứa trẻ quấy khóc, cô ấy cứ hét lên.
+\
+`"[line=2]... Nó đau quá, nó khó chịu quá, nhưng tại sao cậu không giúp tôi, Shiki-kun! Cậu hứa sẽ giúp tôi, vậy thì tại sao lại không?"@
+br
+wave se_10
+` *Đánh vang*. *Đánh vang*.@
+` Giọng nói tuyệt vọng, đầy đau khổ của cô ấy.@
+` Trong tình huống này, nơi cô ấy có thể giết tôi bất cứ lúc nào...
+` Vì một lý do nào đó, nỗi sợ về cái chết sắp tới bắt đầu tan biến.
+\
+`"[line=4]Shiki-kun, nếu cậu có thể ở bên cạnh tôi, tôi có thể chịu đựng được nỗi đau này. Tại sao, tại sao cậu không chấp nhận tôi……!?"@
+wave se_10
+cl c,crossfade,400
+br
+` ... Làm thế nào, ngốc nghếch.@
+` Những lời của cô ấy không phải là sự căm ghét dành cho tôi.@
+` [line=4]Yumizuka Satsuki chỉ khóc suốt thời gian này vì cô ấy không thể ngăn mình lại.
+\
+!w2000
+br
+` [line=4]Giọng nói của cô ấy dần yếu đi.@
+br
+` Chỉ có thể di chuyển ngón tay, tôi nhìn cô ấy.@
+` ... Làm sao thế?@
+` Yumizuka nhìn cơ thể tôi không nhúc nhích như thể cô ấy ngạc nhiên.@
+` ... như thể,
+` cô ấy vừa tỉnh giấc từ một cơn ác mộng và hối hận những gì mình đã làm.
+\
+`"[line=4][line=4]Shiki-kun, tôi... chưa bao giờ, định làm thế."@
+br
+` Tiếng nói của cô ấy run rẩy.@
+` ... Tôi nghĩ cô ấy đã bình tĩnh lại, nhưng giọng nói vẫn nghe như thể cô ấy sắp khóc.
+\
+`"... Đáng lẽ... ổn thôi."@
+br
+` [line=4]Không cần tự trách mình như vậy.@
+` Ngay cả khi tâm trí và cơ thể bạn trở thành ma cà rồng.@
+` Cuối cùng, bạn vẫn chỉ là một nạn nhân đáng thương.@
+` Bất kể thế nào, tôi không thể di chuyển.@
+` Yumizuka, nếu bạn nói rằng bạn cô đơn đến thế, đau khổ đến thế, và lạnh lùng đến thế,
+` Rồi chỉ còn một điều tôi có thể làm.
+\
+`"... Đừng lo lắng, Yumizuka-san."@
+`"Shiki... cậu à?"@
+`"Nếu muốn, cậu có thể hút máu tôi."@
+` Nó là lời hứa... Tôi sẽ ở bên cậu, được chứ?"@
+` Tôi nghĩ giọng nói của tôi dịu dàng hơn bao giờ hết.@
+` Sau một chút do dự, cô ấy nhẹ nhàng quỳ xuống bên cạnh tôi và ôm lấy tôi.
+\
+`"[line=4]Có phải, thật ổn không?"@
+` Giọng nói của cô ấy pha lẫn sự do dự và hạnh phúc.@
+`"... Cái gì? Cậu đến theo tôi vì muốn làm điều đó, phải không? Tại sao giờ cậu lại do dự, Yumizuka-san?"@
+`"[line=6][line=4]Nhưng... Tôi thực sự muốn, nhưng..."@
+br
+` [line=4][line=4]Nếu tôi làm thế, tôi thật sự sẽ vô vọng.
+br
+` Câu nói cuối cùng ào lên từ môi cô ấy.
+\
+`"... ..."@
+` ... Thật là nghịch lý.@
+` Chắc chắn rồi, cô ấy đã trở thành một ma cà rồng. Nhưng trong phần quan trọng nhất, trái tim con người vẫn còn tồn tại.@
+` Vì trái tim cô ấy vẫn còn, Yumizuka Satsuki vẫn cảm thấy đau đớn vì bản chất là một ma cà rồng.@
+` Được là con người.@
+` Dành cả khi phần con người trong cô ấy tồn tại, cô ấy sẽ luôn đau khổ.
+\
+`"[line=4]Đau nhức, phải không? Vậy thì ổn rồi. Tôi không thể giúp được. Vậy chúng ta chỉ nên làm theo cách của cậu thôi?"@
+`"...Shiki...kun."@
+` Cô gật đầu.@
+` Rồi, cô ấy đưa môi mình đến cổ tôi.
+\
+bg #000000,lshutter,800
+playstop
+bg "event/stk_e01a",rshutter,800
+`"[line=6]Ah..."@
+` Biến mất.@
+` Nhiệt còn lại trong cơ thể tôi nhanh chóng tan biến.@
+br
+` Yên tĩnh.@
+` Một cái chết yên bình như vậy.@
+br
+` Tôi không có sức mạnh nào để thoát ra.@
+` Những "dòng" trong tầm nhìn của tôi cũng sẽ sớm biến mất.
+\

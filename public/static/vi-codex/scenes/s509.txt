@@ -1,0 +1,214 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_45e",crossfade,400
+` …… Tôi không thể làm được.@
+` Không có cách nào tôi có thể làm điều đó.@
+` Akiha không làm gì sai.
+\
+` Cô ấy không làm gì sai, vậy mà tại sao[line=5]cô ấy lại kết thúc như thế này?
+\
+play "*9"
+`"………………"@
+` Tiếng kim loại rơi vang lên.@
+` Tay tôi yếu đi mà tôi không hay biết.@
+` Con dao trượt khỏi tay và đâm xuống sàn tatami.@
+` Phòng ngập tràn máu.@
+` Đây là căn phòng mà tôi từng sống khi còn là Nanaya Shiki, nhiều năm về trước.@
+` ... Đây là căn phòng cô ấy đến gặp tôi rất nhiều lần, khi cha tôi không để ý.
+\
+`"[line=6]@
+` Chỉ hôm qua thôi.@
+bg "event/aki_h01",crossfade,800
+bg #000000,crossfade,800
+` Chúng tôi cảm nhận mọi thứ về nhau ở đây.@
+` Có phải Akiha đã chấp nhận kết quả này từ trước?@
+` Tôi chỉ có thể từ chối.@
+` Mặc dù Akiha kể cho tôi nghe mọi chuyện, tôi vẫn cố đẩy nó ra xa.@
+` Tôi không muốn chấp nhận những sự thật đó và một cách mơ hồ, tôi mong ước điều đó sẽ không xảy ra.@
+br
+` [line=4]Đó là lỗi của tôi.@
+` Tôi đã nói với Akiha rằng tôi yêu cô ấy, nhưng tôi không thể bảo vệ cô ấy.
+\
+bg "bg/ima_02",crossfade,800
+`"[line=5]Akiha."@
+` Tôi phải chuộc lại tội lỗi mà tôi đã phạm phải.@
+` Từ giờ trở đi, tôi chỉ có thể bảo vệ Akiha, bất kể điều gì xảy ra.@
+` Ngay cả khi Akiha trở thành một sinh vật chỉ biết giết người, và ngay cả khi cô ấy chỉ nhận ra tôi là một sinh vật khác.@
+` Từ bây giờ, cho đến khi tôi chết, tôi sẽ...
+` Sống vì Akiha và trói buộc cô ấy với thế giới này.@
+` ... Đó là cách kết thúc vở kịch của Tohno Shiki, người không thể cứu được điều gì.
+\
+bg #000000,crossfade,1500
+playstop
+!w4000
+Giai đoạn #000000,l,aki,13b,epi
+bg #ffffff,crossfade,1500
+monocro off
+bg "bg/ima_03",crossfade,800
+play "*2"
+` Tôi mở mắt ra.@
+` Màu xanh vô tận thấm vào tâm trí đang mơ màng của tôi.@
+` Một chút ánh nắng ấm áp và một làn gió mát nhẹ.@
+` Thế giới chỉ còn mùi cỏ và tiếng lá xào xạc.@
+` Có thể khu rừng xung quanh lâu đài này đang ở mùa khác. Mùa đông sắp đến, nhưng nơi đây vẫn còn giữ vẻ thu.
+\
+`"[line=9]"@
+` Tôi ngước nhìn bầu trời xanh khi nằm trên mặt đất. Mặt trời đã cao lên rất nhiều.@
+` ... Có lẽ tôi đã ngủ thiếp đi.@
+` Có lẽ là lỗi của tôi khi nằm xuống đây trên cỏ sau bữa sáng.@
+` Tôi chẳng có việc gì để làm mà.@
+` Tôi chỉ làm điều này ở đây.@
+` Ngủ thiếp đi, thậm chí quên cả tên mình, cũng không tệ lắm.
+\
+` [line=5]Màu xanh vô tận.@
+br
+` Bầu trời trong vắt cách xa.@
+` Nghĩ như một đứa trẻ, tôi cứ ngước nhìn bầu trời.@
+` Một bầu trời xa xôi như trong mơ.@
+` Cảnh tượng quá đẹp, tôi chẳng thể thốt lên một tiếng thở dài kinh ngạc.
+\
+`"Thưa Shiki..."@ - "cậu Shiki..."@
+` Tôi nghe thấy giọng nói của Hisui từ sân trong.@
+`"...@
+` Đã đến lúc đó rồi.@
+` Có lẽ tôi lại ngủ thiếp đi.@
+` Nếu như tôi quên mất thời gian khi ngắm bầu trời xanh này, thì cũng không quan trọng là tôi có đang ngủ hay không.
+\
+bg #000000,lshutter,400
+bg "bg/bg_54a",lshutter,400
+` Hisui xuất hiện, vẫn bình tĩnh như thường.@
+ld c,"tachi/his_t01",lshutter,400
+`"cậu Shiki, tiểu thư Akiha đang gọi bạn."@
+`"Đáng ra tôi không nên ngủ thiếp đi như vậy. Xin lỗi vì đã gây phiền toái cho ngươi, Hisui."@
+ld c,"tachi/his_t17",crossfade,400
+`"Không có gì đâu, chẳng là chuyện nhỏ..."@
+` Hisui nhìn xuống, như thể muốn nói điều gì đó.@
+` Tôi biết Hisui muốn nói gì, nhưng ngay cả khi cô ấy thực sự nói ra, tôi cũng không chắc mình sẽ trả lời thế nào.
+\
+`"Tôi phải đi rồi. Ngươi có thể nói với Kohaku-san sau khoảng một tiếng nữa được không?"@
+`"[line=5]Ừm..."@
+` Tôi quay lưng lại Hisui và bước về phía tòa nhà tách biệt nơi Akiha đang chờ đợi.
+\
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_45b",crossfade,800
+play "*7"
+` Trong căn phòng ấy sống một cô gái.@
+` Không, từ "sống" không chính xác.@
+` Cô bé không thể di chuyển theo ý muốn. Cô chỉ di chuyển khi ăn và ngồi im như tượng khi không.@
+br
+` Vì vậy thay vì "sống",
+` "Có mặt" là thuật ngữ phù hợp hơn, bởi cô giống như một con búp bê.
+\
+`"Tôi xin lỗi Akiha. Tôi ngủ thiếp đi và đến muộn."@
+` Tôi bước vào phòng và đóng cửa shouji.@
+` Akiha ngồi đó và không nhúc nhích.@
+`"Ôi trời, mái tóc của cô lộn xộn quá. Có vẻ như cô chưa thay đồ đâu. Kohaku-san có ghé qua buổi sáng hôm nay chứ?"@
+` Akiha không nói gì cả.@
+` Cô ấy nhìn về phía tôi với ánh mắt trống rỗng.@
+` ... Không,
+` Nó chỉ trông giống như cô ấy đang nhìn thôi.
+\
+`"Được rồi, ít nhất chúng ta hãy làm cho mái tóc của cậu ấy trông đẹp hơn nhé."@
+` Tôi sờ vào mái tóc của Akiha.@
+` Cô ấy không có động thái chống lại.@
+` Yên lặng, nhẹ nhàng nhất có thể, tôi để tay mình chạy qua mái tóc của cô ấy.@
+` Tóc dài của cô ấy chảy trong lòng bàn tay tôi.@
+` Akiha không nói gì.@
+` Sau một khoảng thời gian như vậy,
+br
+` Akiha đột nhiên di chuyển cánh tay của mình.
+\
+`"[line=3]Akiha?"@
+` Không có câu trả lời.@
+` Cô ấy chỉ nắm lấy tay tôi và đưa nó đến miệng mình.@
+` Sau một cảm giác căng thẳng,
+` Akiha cắn vào cánh tay tôi và bắt đầu hút máu tôi vô cảm.
+\
+` Cổ trắng của cô ấy nuốt chửng máu tôi.
+\
+` Máu chảy ra từ miệng cô ấy rơi xuống cổ họng và nhuộm đỏ kimono của cô ấy.
+\
+`"[line=4]Ghuu..."@
+` Tôi gầm ghè răng và giữ vững cho đến khi Akiha no đủ.@
+` ... Không có lượng thích hợp nào cho Akiha.@
+` Cô ấy ngừng lại chỉ khi no đủ, và tôi không thể đoán được lúc đó là khi nào.@
+` Vì vậy, tất cả những gì tôi có thể làm là chờ như thế này cho đến khi cô ấy no đủ.@
+`"... Ồ."@
+` Tôi thấy chóng mặt.@
+` Nhưng tôi không rút lại.
+\
+` ... Hisui phản đối điều này cho đến phút cuối cùng.@
+` Tôi quyết định hiến máu cho Akiha từ khi cô ấy chỉ có thể hấp thụ máu người.@
+` Điều đó không phải là trách nhiệm.@
+` [line=3]Nếu Akiha chỉ có thể sống bằng cách hút máu, tôi muốn hạn chế số lượng nạn nhân, và quan trọng nhất là
+` [line=2]tôi không muốn Akiha uống máu của bất kỳ ai ngoài tôi.@
+br
+` Có lẽ Akiha thực sự thích máu của tôi. Cô ấy chưa từng ra khỏi nhà kể từ đó.@
+` Nhưng điều đó rất nguy hiểm cho cơ thể tôi.
+\
+` Tôi không có nhiều máu để bắt đầu, và tôi không đủ khỏe mạnh để tiếp tục cho Akiha ăn máu.@
+` Tôi thường ngất đi khi đến đây một lần mỗi ngày để cho cô ấy ăn.@
+` Mặc dù tôi nhận được máu từ truyền máu, cơ thể tôi vẫn cần thời gian để thích nghi với máu của người khác.
+\
+` ... Cơ thể tôi ngày càng yếu đi.@
+` Tôi nghĩ lý do Hisui cố nói điều gì đó mỗi khi thấy mặt tôi là để nhắc nhở tôi nên quan tâm nhiều hơn đến bản thân.@
+br
+` Nhưng điều như vậy...
+` Dễ dàng hơn rất nhiều kể từ khi tôi có thể cảm nhận được nỗi đau, trái ngược với Akiha.
+\
+bg #000000,tshutter,800
+bg "bg/bg_45b",bshutter,800
+` [line=4]Akiha hạ thấp cánh tay.@
+` Tôi nghĩ cô ấy giờ đây hạnh phúc, khi buông tay tôi ra.
+\
+` Sau đó, cô ấy lại trở về một con búp bê nữa.@
+` Tôi lau sạch máu đang chảy trên mặt cô ấy và thay cho cô ấy bộ kimono bẩn thỉu.@
+` Akiha không chống lại. Cô ấy chỉ chấp nhận mọi hành động của tôi.@
+` [line=3]Ở đây,
+` vẻ kiêu hãnh vốn có của Akiha hoàn toàn biến mất.
+\
+`"[line=8]"@
+` Tôi sẽ nói dối nếu cho rằng điều này không khiến tôi đau lòng.@
+` [line=3]Nhưng cảm giác hạnh phúc của tôi vẫn lớn hơn.@
+` Akiha đang sống.@
+` Cô ấy vẫn sống và hiện tại cô ấy ở đây.@
+` Có thể một ngày nào đó, Akiha sẽ trở lại thành Akiha mà cô từng là.
+\
+bg #000000,lshutter,800
+bg "bg/ima_03",lshutter,800
+`"Được rồi. Tạm biệt, Akiha. Tôi sẽ quay lại ngày mai nên hãy nghe Kohaku-san vào ban đêm."@
+` Tôi nói câu giống như hôm qua, không, giống như luôn luôn, khi tôi nắm tay Akiha.
+\
+` Ngón tay thon dài, bàn tay nhỏ bé.@
+` Tôi che chúng bằng bàn tay của mình.@
+` Sự ấm áp.@
+` Sự thật rằng cô ấy vẫn sống.@
+` Điều này gần như khiến tôi bật khóc.
+\
+`"…………………!"@
+` Tôi kìm nén cảm giác đó và mỉm cười.@
+` Tôi muốn cười đến mức không còn chỗ cho bất kỳ nỗi buồn nào.@
+` Dễ dàng thấy buồn về tình huống hiện tại của tôi.@
+` Ngay cả khi Akiha không hiểu, tôi vẫn phải tiếp tục mỉm cười trước mặt cô ấy.
+\
+` Một ngày nọ, nếu Akiha tìm lại chính mình, tôi không muốn cô ấy nhớ đến lúc tôi buồn.@
+` Tôi muốn cô ấy nghĩ rằng điều này [line=3]là chẳng có gì[/line]— đây cũng là một trong những khoảnh khắc hạnh phúc.@
+` Tôi phải tiếp tục mỉm cười.@
+` Ngay cả khi Akiha không hiểu vào lúc này, để cô ấy không hối tiếc về quá khứ khi tìm lại chính mình.
+\
+` [line=3]Tôi vẫn chờ đợi, nắm lấy tay cô ấy.@
+br
+` Ngay cả khi đôi mắt Akiha không nhìn chằm chằm vào bất cứ điều gì, tôi sẽ tiếp tục mỉm cười cho đến cuối thế giới.@
+br
+` Để một ngày nào đó, khi Akiha thức dậy,
+` Tôi có thể chào đón cô ấy như thể đó là một ngày bình thường khác và nói "Xin chào".
+\
+bg #ffffff,crossfade,1500
+playstop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000
+gosub *ending

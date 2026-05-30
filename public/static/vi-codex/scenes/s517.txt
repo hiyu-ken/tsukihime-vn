@@ -1,0 +1,35 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Chào. Tôi là giáo viên lớp này, Ciel.@
+` Trong buổi học thứ sáu, chúng ta hãy xem xét cơ bản về việc tìm người.@
+br
+` Thật ra, Tohno không biết cách tìm người.@
+` Hãy cân nhắc lý do cô ấy bỏ chạy; tại sao, ở đâu và làm gì. Nếu bạn ghép những điều này lại với nhau, bạn sẽ tìm thấy câu trả lời.@
+br
+` Nói cách khác, cô ấy đói, nên đã vào hẻm để hút (ăn trộm).
+\
+ld l,"tachi/ark_t31a",lshutter,400
+ld l,"tachi/ark_t31b",lshutter,400
+`"Đồ ngốc! Ciel bạo lực! Kính! Ấn Độ!"@
+br
+` ...@
+` Buổi học này kết thúc.@
+` Hãy tiếp tục thưởng thức cốt truyện chính.
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lshutter,400
+`"Ồ?@ Cái gì vậy, Ciel?@ Sao cậu lại lôi ra thứ như súng bắn đạn, súng máy, và pháo Vulcan thế?"@
+br
+wave se_07
+` "Arc!@ Ấn Độ chẳng liên quan gì đến chuyện này.@ Không có gì cả!"@
+br
+`"Ôi trời, đôi mắt kính nổi giận rồi đấy!@ (Âm thanh hiệu ứng) Whoosh"
+\
+cl c,bscroll,800
+playstop

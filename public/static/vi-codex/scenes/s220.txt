@@ -1,0 +1,84 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_33a",notrans,0
+` Thôi, bằng cách nào đó mình phải lòng vòng qua mặt em ấy thôi.@
+` Akiha chắc chắn sẽ không thể nào thấu hiểu về những tồn tại phi nhân loại kiểu như Arcueid hay Nrvnqsr, nên tôi đành phải nói dối ở mức tối thiểu mà không để lộ sự thật.@
+br
+`"[line=2]Được rồi, đi thôi."@
+` Hít một hơi thật sâu, tôi đặt tay lên nắm cửa phòng khách rồi mở ra.
+\
+bg "bg/bg_34a",lcartain,800
+` Trong phòng khách, Akiha đang ngồi trên chiếc sofa, còn Hisui thì đứng yên lặng sát bên tường.@
+ld c,"tachi/aki_t03a",lshutter,800
+`"[line=2]Chào buổi sáng, anh."@
+` Ánh mắt em ấy đang gào thét rằng "Em đang rất tức giận đấy."@
+`"Ờ, à…… Chào buổi sáng, Akiha."@
+`"Miễn lời chào hỏi đi.@ Mời anh ngồi xuống đó.@ Em muốn nói chuyện nghiêm túc với anh."@
+`"[line=6]"@
+` Giọng em ấy dứt khoát đến mức tôi chẳng thể nào từ chối được.@
+` Tôi nghiêm túc ngồi xuống chiếc sofa đối diện Akiha.
+\
+`"Anh.@ Chuyện này rất đột ngột, nhưng em có thể hỏi về hai ngày vừa qua không?"@
+`"[line=4]Guh."@
+` Dẫu giọng nói vẫn nhã nhặn lịch sự, thế nhưng từng lời của Akiha rõ ràng mang đầy ẩn ý đe dọa.@
+` Nhưng, anh trai của cô ấy tuyệt đối không thể nào kể ra câu chuyện đó.
+\
+`"Về chuyện đó, Akiha."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Dạ, chuyện gì ạ?"@
+`"Thật ra, anh vô tình gặp lại một người quen cũ, và người đó nhờ anh dẫn đi dạo quanh thành phố."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"Ồ?@ Người quen cũ ư?"@
+`"Ừ, anh mới quen người đó gần đây thôi, và chúng anh gặp nhau ngoài khu vực trường.@ Người ta nhờ anh đi cùng đến hết Chủ Nhật, nên[line=2]"
+\
+`"Vậy là anh bỏ học và ở ngoài không về nhà mà thậm chí chẳng thèm báo hay xin phép em lấy một tiếng."@
+br
+` …… Ánh mắt của Akiha bấy giờ lạnh đến mức đóng băng.@
+` Em ấy có vẻ sốc nhiều hơn là giận dữ.
+\
+`"…………………"@
+`"…………………"@
+` Tôi im bặt khi Akiha nhìn chằm chằm vào tôi trong lặng câm.@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Thế, là ai?"@
+`"Hả?"@
+ld c,"tachi/aki_t02",crossfade,400
+`"Em đang hỏi người quen đó của anh là ai."@
+` Em ấy nhìn thẳng vào mắt tôi.@
+` Tôi có thể cảm nhận rõ suy nghĩ "Em tuyệt đối không để bị lừa dối" đang hiện rõ trong đôi mắt ấy.
+\
+`"[line=2]Thì, anh[line=2]"@
+`"Nếu anh không thể nói ra, tức là anh đang cảm thấy có lỗi về chuyện đó đấy, anh."@
+` Ánh mắt em ấy xuyên thấu tôi.@
+` Tôi có cảm giác nếu mình dám rời mắt đi, em ấy sẽ truy đuổi quyết liệt hơn nữa, nên tôi đành nhìn thẳng lại.
+\
+` …… À, hoàn toàn ngẫu nhiên, nhưng…
+` Em ấy chẳng còn gợi nhớ đến cô bé Akiha ngày xưa nữa.@
+` Dáng lưng thẳng tắp, tư thế hoàn hảo không chê vào đâu, đôi mắt kiên định không chút dao động.@
+` Có lẽ hơi thiếu lễ phép, nhưng tôi thành thật nghĩ rằng em ấy đã trở nên rất xinh đẹp.
+\
+`"Này, Akiha."@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Gì ạ?"@
+`"Chân mày em dày ra rồi đấy."@
+ld c,"tachi/aki_t15a",crossfade,400
+`"[line=6]!?"@
+` *Rầm!*@ Đầu gối Akiha đập mạnh vào mặt bàn khi em ấy bật dậy.@
+`"………… À."@
+` Phải nói sao nhỉ[line=2]em ấy bất ngờ đến mức… hơi ngạc nhiên quá?@
+`"…… Em hoàn toàn không hiểu nổi anh.@ Đó có gì đáng phải giật mình đâu chứ."@
+`"[line=9]"@
+` Thở dài một tiếng, Akiha buông thõng đôi vai xuống.
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"Anh, xem ra anh hoàn toàn không có ý định trả lời em một cách nghiêm túc nhỉ."@
+`"…… Không phải thế đâu.@ Thật lòng, anh sẽ không nói dối em.@ Chỉ là có rất nhiều điều anh không thể nào nói ra được thôi."@
+ld c,"tachi/aki_t21",crossfade,400
+`"Trời ơi.@ Thật sự, từ hồi nhỏ đến giờ em chẳng bao giờ phân biệt được anh là người thành thật hay xảo trá, anh ạ."
+\
+`"…… Thật sao?@ Anh không nhớ rõ hồi nhỏ mình như thế nào nữa."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"Anh không cần phải nhớ đâu.@ Nhưng, em cũng chẳng thay đổi gì cả.@ Cứ truy hỏi anh như thế này dẫu biết rõ kết quả sẽ ra sao… có lẽ em chẳng trưởng thành chút nào nhỉ."
+\
+cl c,crossfade,400

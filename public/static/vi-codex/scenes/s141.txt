@@ -1,0 +1,82 @@
+monocro off
+wavestop
+bg "bg/bg_29b",notrans,0
+play "*3"
+ld c,"tachi/ark_t08",crossfade,400
+br
+` [line=3]Tôi sẽ không bao giờ nói điều đó.@
+br
+`"Arcueid, chuyện này không liên quan đến cậu, nên để tôi yên."@
+` Tôi quay mặt đi và từ chối.@
+` Nhưng Arcueid cứ lặp đi lặp lại, "Đến đây, đến đây" mãi không ngừng.
+\
+`"Đến đây, nói cho tôi biết. Cậu ít nhất cũng có thể kể cho tôi biết cậu đã mơ về ai."@
+` Cô ấy hỏi như một đứa trẻ tò mò.@
+` Mỗi khi tôi quay mặt đi, cô ấy lại nhảy trước mặt tôi, lặp đi lặp lại "Đến đây, đến đây".
+\
+cl c,lshutter,800
+`"... Xin cậu, hãy để nó qua đi. Có điều gì đó sai trái trong giấc mơ đó. ... Ngay cả bây giờ, [line=3]"@
+` Tôi không biết tại sao tôi lại thấy giấc mơ đó.@
+` Arcueid nói đó là mong muốn lớn nhất của cô ấy, nhưng tôi không muốn nghĩ điều đó là sự thật.
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Ồ, có thể nó đã trở thành một cơn ác mộng? Cô ấy thường viết lại câu chuyện theo ý mình khi thích đối tượng. Là một người mới bắt đầu, có lẽ điều đó không thể tránh khỏi."@
+` Arcueid thì thầm với chính mình.
+\
+`"...? Viết lại câu chuyện theo ý mình? Ý cô ấy là gì?"@
+`"Tôi muốn nói rằng cô ấy diễn giải mong muốn của bạn theo cách riêng. Giấc mơ quen thuộc mà tôi gửi cho bạn chỉ là một đứa trẻ, nên cô ấy thích đùa giỡn."@
+`"[line=4]Tôi hiểu rồi."@
+` ... Đó là một sự nhẹ nhõm.@
+` Đúng vậy, giấc mơ đó[line=3]Không thể nào là điều tôi mong muốn.
+\
+` Tôi thở phào nhẹ nhõm.@
+` [line=3]Bằng điều này, sự trong trắng của tôi đã được chứng minh nhưng...
+`"Arcueid. Tại sao cô lại gửi cho tôi thứ gì đó như vậy? Quá nhiều ngay cả đối với việc quấy rối."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Hmph. Tôi không bao giờ quấy rối cô.@
+` Tôi gửi cho cô giấc mơ quen thuộc để cảm ơn cô vì đã đánh bại Nrvnqsr. Tôi thực sự biết ơn cô, nên tôi nghĩ sẽ rất tuyệt nếu nó làm cô hạnh phúc."
+\
+`"[line=3]Cảm ơn tôi? Ồ, tôi vui khi cô biết ơn, nhưng..."@
+` Dù sao thế nào, tôi cũng sẽ từ chối loại cảm ơn này.@
+ld c,"tachi/ark_t04",crossfade,400
+`"Ồ, vậy cô đang nói rằng cô không thể chấp nhận thiện chí của một người khác ư?"@
+`"…… Cậu không phải là con người, cậu là một ma cà rồng, Arcueid."@
+ld c,"tachi/ark_t14",crossfade,400
+`"…… Đúng vậy nhưng."@
+` Arcueid gục vai xuống.@
+` …… Cách nói này… Arcueid rất thẳng thắn khi thể hiện cảm xúc của mình.
+\
+` Khi vui mừng, khi tức giận, cô ấy thay đổi biểu cảm nhanh như chớp[line=3]Thật đáng yêu một cách kỳ lạ.@
+br
+` …… Tôi nói cậu là ma cà rồng, nhưng,
+` cậu thực sự trông giống con người, đến mức khiến tôi quên mất sự thật đó.
+\
+`"…… Đầu tiên, tại sao cậu lại gửi cho tôi thứ đồ mơ hồ đó? Cậu còn giận tôi vì đã giết cậu à?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Đó không phải là điều như thế đâu. Tôi gửi nó như một lời cảm ơn vì đã đánh bại Nrvnqsr. Tôi thực sự biết ơn bạn, tôi nghĩ bạn sẽ vô cùng hạnh phúc."@
+`"Là lời cảm ơn? [line=3]Tôi sẽ từ chối loại lời cảm ơn này. Có gu thẩm mỹ kém như vậy, những người ma cà rồng đang suy nghĩ gì vậy?"@
+` Tôi gập vai lại.@
+` Tôi không biết cô ấy giận về chuyện gì, nhưng cô ấy nhìn tôi với biểu hiện không hài lòng.@
+ld c,"tachi/ark_t06",crossfade,400
+`"Chuyện gì thế, kẻ độc ác? Tôi biết mình không phải là con người."@
+cl c,lshutter,400
+` Cô ấy quay lưng lại rồi bắt đầu bước đi.
+\
+playstop
+`"Này, chờ đã. Cô đang đi đâu?"@
+`"Không liên quan đến cô. Đừng theo tôi!"@
+` Cô ấy thực sự tức giận đến vậy sao? Arcueid bước đi mà không thậm chí quay lại nhìn một lần.
+\
+`"...@
+` Cô ấy định đi đâu thế nào nhỉ?@
+`"...@
+` Có lẽ tôi đã nói quá nhiều.@
+` Bất kể kết quả hay phương pháp được sử dụng, cô ấy thực sự cảm ơn tôi với ý định tốt. Tôi bắt đầu cảm thấy hối hận sâu sắc và nghĩ rằng có lẽ tôi nên chấp nhận món quà của cô ấy một cách vui vẻ hơn.
+\
+`"[line=5]@
+` Đáng khóc quá. Tại sao tôi lại không thể để Arcueid yên...!?@
+br
+`"[line=3]Đợi đã!"
+\
+bg #000000,lcartain,800

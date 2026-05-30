@@ -1,0 +1,44 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+` Ngay cả khi tôi tấn công Nrvnqsr một cách ngông cuồng, những con quái vật này vẫn sẽ cản trở.@
+` Hiện tại tôi phải chịu đựng chúng và chờ đợi cơ hội mở ra.@
+` [line=4]
+\
+bg "bg/ima_12b",notrans,0
+wave se_10
+bg #000000,notrans,0
+`"[line=6]Gah!"@
+` Tôi bị đánh từ phía sau.@
+` Có phải một trong những con chó đen vừa đâm tôi bằng đầu?@
+` [line=4]Dù sao, sống lưng tôi bị căng cứng và... tôi không thể thở được.
+\
+bg "bg/ima_12b",notrans,0
+wave se_10
+bg #000000,notrans,0
+`"[line=6]Ah..."@
+` Hai đùi tôi bị răng chó cắn xuyên qua.@
+`"[line=4]Hahhh……!"@
+` Tôi đâm dao vào trán chúng một cách rõ ràng.@
+` Hai con chó tan biến như bùn, chỉ để lại nỗi đau cháy rực trong chân tôi.@
+br
+` [line=4]Những sinh vật này không mất kiểm soát.
+\
+` Ngay cả khi chúng có thể xé xác tôi trong một khoảnh khắc nếu muốn, chúng vẫn bao quanh tôi và đến "thức ăn" một cách chậm rãi.@
+br
+` Ở đó,
+` không hề có khoảng trống nào.
+\
+bg "bg/ima_13b",notrans,0
+bg #000000,notrans,0
+`"A… h…"@
+` Cơ thể tôi sụp đổ.@
+` Tôi thậm chí còn không thể thở bình thường, cũng không thể đứng vững vì đau nhức ở chân.
+` Tôi ngã sấp mặt xuống đất.
+\
+`"Tôi là người rất cầu toàn. Đừng lo lắng, không một tế bào nào của cậu sẽ còn lại."@
+br
+` Tôi nghe thấy một giọng nói.@
+` Đồng thời, một quả cầu đen bao trùm lấy tôi.
+\

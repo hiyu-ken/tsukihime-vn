@@ -1,0 +1,489 @@
+phase "bg/bg_20a",r,ark,03a,3
+bg #ffffff,crossfade,1500
+play "*2"
+bg "bg/bg_18a",crossfade,1500
+` [line=6]Nn.@
+` Ánh nắng xuyên qua cửa sổ đánh thức tôi.@
+` …… Có lẽ mưa đã ngừng; tôi không còn nghe thấy nó nữa.@
+` Dường như trời bên ngoài đang mây mù. Ánh nắng không phải là điều bạn có thể gọi là rực rỡ.@
+br
+` …… Ê?@
+br
+` Tôi nhìn xung quanh.@
+` …… Đây rõ ràng không phải là phòng của tôi.
+\
+ld c,"tachi/cel_t01a",lshutter,400
+` “Ah, chào buổi sáng. Bạn có ngủ ngon đêm qua không, Tohno-kun?”@
+` “Ah[line=8]!”@
+br
+` Tôi nhớ ra rồi.@
+` Đây là phòng của Senpai.@ Tôi đã mượn giường của cô ấy qua đêm[line=4]
+br
+` “Ah[line=3]vâng, chào buổi sáng, Senpai.”@
+` Trở nên cực kỳ xấu hổ, tôi nhảy khỏi giường.
+\
+` “Uh… xin lỗi về ngày hôm qua. Tôi đã gây ra rất nhiều phiền toái cho bạn và[line=3]”@
+ld c,"tachi/cel_t03",crossfade,400
+` “Vâng, bạn nợ tôi một món.”@
+` Senpai trả lời với một nụ cười.@
+` …… Làm thế nào để diễn tả… Cô ấy dường như rất trưởng thành.
+\
+` “A- bất cứ điều gì, cảm ơn. Tôi sẽ về nhà bây giờ.”@
+ld c,"tachi/cel_t12",crossfade,400
+` “Ồ, thật vậy? Chỉ mới hơn sáu giờ sáng, Tohno-kun.”@
+` “Vâng, nhưng tôi không được phép ở lại nhà qua đêm hôm qua, vì vậy nếu tôi không vội vàng trở về lâu đài, thì không ai biết Akiha sẽ nói gì.”@
+ld c,"tachi/cel_t01a",crossfade,400
+` Ah, em gái bé của cậu. Chắc là ổn rồi, tôi đã gọi cho cô ấy.@
+` Senpai đưa ra tuyên bố gây chấn động với vẻ ngoài bình thường.@
+` Sao[line=3] cậu lại gọi đến nhà tôi, Senpai?
+\
+ld c,"tachi/cel_t02",crossfade,400
+` Vâng. Tôi nghĩ không đúng nếu tôi không liên lạc với họ về việc cậu ở lại đây. Có phải là vấn đề gì không?@
+` Sao[line=6]!@
+` Tôi thật sự không biết nói gì.@
+` Ciel-senpai gọi đến nhà tôi có nghĩa là một cô gái đã gọi đến nhà tôi và nói rằng: 'Tohno-kun đang ở lại nhà tôi'.@
+` Điều đó… là[line=3]
+\
+` [line=3]Vâng, đây là một vấn đề. Một vấn đề lớn.@
+` Nếu Akiha là người nghe điện thoại, cô ấy sẽ nghĩ tôi là một kẻ đào hoa.@
+` Theo tính nghiêm khắc của gia đình Tohno, tôi thậm chí không muốn tưởng tượng điều gì sẽ xảy ra nếu cô ấy phát hiện ra chuyện đó.@
+ld c,"tachi/cel_t09",crossfade,400
+` …… Tohno-kun… cậu có thật sự ghét ở lại nhà tôi đến vậy không?@
+` Ah, không phải như vậy. Chỉ là… nhà tôi rất nghiêm khắc. Chắc chắn không phải vì tôi không thích cậu, Senpai[line=3]@
+` Tôi bối rối và cố gắng giải thích sự hiểu lầm.
+\
+cl a,crossfade,400
+` Senpai nhắm mắt buồn bã.@
+` …… Có phải vì tôi đã gây phiền phức cho cô ấy tối qua không? Tôi cảm thấy rất tồi tệ khi nhìn thấy cô ấy có biểu hiện như vậy.@
+` Tôi đang nói với cậu, đó không phải là lý do.@ Tôi thực sự biết ơn cậu, Senpai.@ Tôi cảm thấy tốt hơn nhiều bây giờ, và nếu cậu không ở đây với tôi tối qua, tôi không biết chuyện gì sẽ xảy ra…!
+\
+ld c,"tachi/cel_t04",crossfade,400
+` [line=3]Vâng, đúng rồi. Cậu trông như đã bình thường trở lại. Tôi không biết chuyện gì đã xảy ra tối qua, nhưng tôi rất vui vì cậu đang cảm thấy tốt hơn.@
+br
+` Bất ngờ, Senpai nở nụ cười lớn nhất mà ai có thể nghĩ tới.
+\
+` [line=4]Eh?@
+ld c,"tachi/cel_t01a",crossfade,400
+` Tôi chỉ đùa thôi. Ngay cả tôi cũng không trực tiếp gọi đến nhà cậu. Tôi bảo Inui-kun gọi điện cho nhà cậu và nói rằng cậu ở cùng anh ấy tối qua. Không có vấn đề gì với điều đó, phải không?@
+` …… Vâng, như vậy chắc không sao… nhưng đó là một trò đùa khá ác ý, Senpai. Tôi tưởng tim mình sắp dừng.@
+ld c,"tachi/cel_t03",crossfade,400
+` Vâng, tôi thực sự rất độc ác. Trêu chọc những người mình thích, phải không?@
+` …… Ê?@
+` [line=3]Những người cậu thích?@ Thế là có nghĩa[line=3]
+\
+ld c,"tachi/cel_t01a",crossfade,400
+` Nhưng thật ra cậu nên về nhà sớm. Xin chờ một chút.@
+cl a,crossfade,400
+` Senpai lục lọi trong các ngăn kéo của mình để tìm thứ gì đó.@
+ld c,"tachi/cel_t04",crossfade,400
+` Đây này, Tohno-kun. Đây là một món quà nhỏ dành cho cậu.@
+` Nói vậy, Senpai đưa tôi một chiếc nhẫn trông rất cũ.@
+` …… Một món quà nhỏ… là gì, Senpai?@
+ld c,"tachi/cel_t01a",crossfade,400
+` Đây là bùa hộ mệnh. Cậu dường như thường xuyên bị mất tập trung một cách nguy hiểm, vì vậy hãy giữ nó.@
+` Ah… vâng[line=3]Tôi sẽ nhận bất cứ thứ gì được tặng cho mình, nhưng… tốt rồi. Tôi sẽ cất giữ nó kỹ lưỡng.@
+` Nhận chiếc nhẫn, tôi bỏ vào túi của mình.
+\
+ld c,"tachi/cel_t04",crossfade,400
+` Được rồi.@ Tôi sẽ gặp cậu ở trường.
+\
+bg #000000,lcartain,800
+playstop
+br
+` [line=3]Senpai tiễn tôi đi với một nụ cười.@
+br
+` Nhưng đó là một nụ cười mà tôi có thể không bao giờ nhìn thấy nữa.@
+` Người phụ nữ tôi đã giết có thể đã bị tìm thấy rồi, và cảnh sát có thể đã đến lâu đài rồi.@
+` …… Nhưng tôi không thể chạy trốn khỏi nó.@
+` Tất cả những gì tôi có thể làm là cảm ơn Senpai và trở lại lâu đài Tohno.
+\
+bg "bg/bg_33a",lcartain,1500
+br
+br
+br
+br
+br
+br
+br
+` Để nói kết quả đầu tiên, lâu đài vẫn như cũ.@
+!w500
+\
+ld c,"tachi/koha_t02",lshutter,400
+play "*2"
+` À, về nhà rồi, Shiki-san.@
+` Khi tôi bước vào sảnh, Kohaku-san chào tôi với nụ cười.
+\
+` À… vâng, tôi về rồi. Ừm, Kohaku-san?@
+` À, cậu muốn ăn sáng? Tôi sẽ chuẩn bị xong sớm, nên đợi ở phòng khách nhé. Akiha-sama vừa mới dọn xong.@
+cl a,lshutter,400
+` Kohaku-san bước nhanh về phòng khách.@
+` …… Quá yên bình.@
+` Chắc họ chưa tìm thấy xác đâu.@
+` …………@
+` Bây giờ, tôi đi về phòng mình để thay đồ.
+\
+bg "bg/bg_40a",lcartain,800
+` Hisui đang trong phòng khi tôi trở lại.@
+ld c,"tachi/his_t01",lshutter,400
+` [line=3]Chào buổi sáng, Shiki-sama. Dường như cậu đã về.@
+` Vâng, vừa rồi. …… Nghe này, Hisui, tôi có bộ đồng phục dự phòng không? Bộ tôi đang mặc bây giờ bị ướt từ cơn mưa hôm qua.@
+` …… Tôi hiểu. Tôi sẽ chuẩn bị ngay lập tức.@
+cl a,lshutter,400
+` Hisui cúi đầu và lặng lẽ rời khỏi phòng.@
+` Sau khi thay bộ đồng phục Hisui mang cho tôi, tôi đi về phòng khách.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34a",lcartain,800
+` Akiha đang ngồi trên ghế sofa trong phòng khách với vẻ thất vọng.@
+ld c,"tachi/aki_t01a",lshutter,400
+` [line=3]Ôi, chào buổi sáng, Nii-san. Dường như cậu đã về.@
+` Ngữ điệu Akiha chứa đầy những mũi gai đầy trách móc.@
+` …… Vâng, chào buổi sáng.@ Cậu trông hơi cáu kỉnh sáng nay, Akiha.
+\
+ld c,"tachi/aki_t18a",crossfade,400
+` Vâng, tôi không ngờ cậu thường xuyên ngủ qua đêm ở nơi khác. Tôi ngạc nhiên hơn là tức giận.@
+` Akiha nhìn tôi với ánh mắt đầy hờn trách.@
+` …… Uh…@
+` Thật là, tôi đã ở đâu đó qua đêm nên không thể tranh cãi được.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+` "Chắc chắn rồi, nếu cậu không khỏe thì chẳng có cách nào khác. Người tên Inui-san là bạn của cậu từ hồi cấp hai phải không?@
+` "Ừ… Tôi hiểu, vậy người đó đã gọi cho cậu.@
+` …… Bỗng nhiên tôi cảm thấy khó chịu.@
+` Cậu ta nói gì khi gọi đến nhà tôi……?
+\
+ld c,"tachi/aki_t21",crossfade,400
+` "Ngoài ra, ngay cả khi cậu phải nghỉ học sớm, cậu có thể gọi cho tôi và tôi sẽ gửi xe đến đón cậu.@
+` Tôi không biết tại sao cậu lại giữ mình như vậy, nhưng cậu là con trai trưởng của gia đình Tohno, Nii-san. Hãy sử dụng mọi thứ mà cậu có… Bên cạnh đó, cơ thể cậu yếu hơn người bình thường.@
+` [line=4]Ah.@
+` À, đúng rồi, tôi nghỉ học sớm hôm qua.
+\
+` "Ngã bệnh vì thiếu máu chỉ cần bị mưa ướt… Cậu không khỏe chứ Nii-san? Tôi có nên nhờ bác sĩ gia đình khám cho cậu và đưa đón cậu bằng xe từ nay về sau?@
+` ……….@
+` Tôi hiểu. Vậy là lý do tôi được cho là ở nhà Arihiko.@
+` "Không có gì để lo lắng đâu, Akiha. Tôi đi bệnh viện một tháng một lần như quy định. Cho đưa đến trường bằng xe chỉ làm cho cơ thể tôi yếu thêm. Không cần phải quá quan tâm đến thân thể của tôi, mặc dù tôi vui vì cậu lo lắng về tôi.@
+ld c,"tachi/aki_t16a",crossfade,400
+` …… Cái đó không đúng. Tôi không hề lo lắng về cậu chút nào, Nii-san.@
+` Akiha né tránh ánh mắt nhìn tôi một cách tinh tế.
+\
+` "Shiki-san, đã sẵn sàng!@
+` Tôi nghe thấy giọng nói của Kohaku-san từ phòng ăn.@
+` "Vâng, tôi sẽ đi kiếm thức ăn.@
+ld c,"tachi/aki_t21",crossfade,400
+` Ôi, anh trai! Xin đừng nói chuyện như vậy nữa!@
+` Akiha liếc tôi một cái nhìn sắc bén.@
+` …… À, cậu lại bình thường rồi đấy. Cậu nên thế này, Akiha. Cậu không cần phải lo lắng về tôi đâu, cứ thoải mái đi.@
+ld c,"tachi/aki_t05a",crossfade,400
+` [line=3]Cậu thật kiên trì! Tôi không lo lắng về cậu, anh trai!@
+` Akiha nhanh chóng nhìn đi chỗ khác.@
+` Nhìn cô ta với một nụ cười mờ nhạt, tôi vào phòng ăn.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_48a",lcartain,800
+ld c,"tachi/his_t01",lshutter,400
+` Cậu hãy cẩn thận.@
+` Nói câu ấy như thường lệ, cô ta vẫn nhìn tôi.@
+` Shiki-sama, chuyện gì đã xảy ra với cậu tối qua?@
+` …… Không có gì đặc biệt. Tôi ngất xỉu vì thiếu máu khi trời bắt đầu mưa. Từ giờ tôi sẽ cẩn thận hơn.@
+` Tôi không trách cậu, Shiki-sama, nhưng cậu trông như đang ép mình quá mức vào sáng nay. Hãy cẩn thận trên đường đi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32a",lcartain,800
+` Hisui cúi đầu sâu và tiễn tôi đi.@
+br
+` …… Ôi trời.@
+` Tôi đã cố gắng hành động bình thường nhất có thể, và mặc dù tôi không để lộ ra cho Akiha và Kohaku-san, nhưng dường như nó không hiệu quả với Hisui.@
+` …… Tôi tự hỏi liệu Hisui có lo lắng về tôi không?@
+` Khó để biết khi cô ta luôn tỏ ra thờ ơ như vậy.@
+` Ngày hôm nay có thể là ngày cuối cùng của tôi đến trường.@
+` Tôi sẽ cố gắng dành nó như thường lệ, để không có gì phải hối tiếc[line=4]
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_24a",lcartain,1500
+` Dù cảm thấy thế nào đi nữa, buổi sáng vẫn luôn giống nhau.@
+` Khi tôi đến gần trường, tôi bắt đầu nhìn thấy nhiều sinh viên mặc đồng phục hơn.@
+` Hôm nay là thứ bảy, đúng ngày trước kỳ nghỉ.@
+` Tôi ngập ngừng bước chân khi nghĩ rằng đây có thể là ngày cuối cùng tôi đến trường.@
+br
+` Nhưng dù sao, với sự bình tĩnh nhất có thể, tôi đi trên con đường đã quá quen thuộc với tôi trong hai năm qua.@
+` Chỉ còn một đoạn ngắn nữa là đến trường sau khi vượt qua ngã tư này.
+\
+` Đèn đỏ bật sáng, tôi dừng lại trước vạch kẻ ngang.@
+br
+` Bức tường rào của trường nằm ở bên kia nó.@
+` Vì đây là con đường đến trường, lối đi bộ được bảo vệ bởi lan can. Ngay cả bây giờ, những học sinh trước tôi vẫn đang tiến về cổng trường.@
+` Chỉ có học sinh từ trường chúng tôi ở bên kia vào lúc này của ngày.@
+` …… Chỉ nên có học sinh thôi.@
+` Nhưng giữa dòng xe rộn ràng, tôi cảm thấy như mình thoáng nhìn thấy ai đó mặc áo trắng.
+\
+bg "event/ark_e02",lshutter,800
+` [line=5]Ê……"@
+br
+` Cô ấy ở đây.@
+br
+` Mặc áo trắng, tóc vàng dài đến vai.@
+` Đôi lông mày dài và thon thả cùng đôi mắt đỏ.@
+` Tôi chỉ từng nhìn thấy cô ấy một lần trước đây, nhưng không thể nhầm lẫn cô ấy với ai khác.@
+` [line=6] "@
+` Nhưng điều đó là không thể.@
+` Tôi đã giết cô ấy vào ngày hôm qua, cắt xác cô ấy ra từng mảnh nhỏ.
+\
+` Đèn xanh bật sáng.@
+` Những học sinh xung quanh tôi đi sang bên kia.@
+` Tôi là người duy nhất trong số họ vẫn đứng đó, ngây người.
+\
+` Cô ngồi trên lan can, chân dang đưa lên xuống.@
+` Như thể cô đang chờ ai đó.@
+` Tôi không biết cô đã chờ bao lâu, nhưng biểu cảm của cô không hề u ám.@
+br
+` [line=3]Cô ấy đang chờ ai?@
+br
+` Cô ta rụt rè, như thể đang chờ người yêu mình.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Tôi có cảm giác không lành về chuyện này.
+\
+` "Ah[line=5]"@
+` Cô gái mặc trắng nhìn sang hướng tôi.@
+` Có lẽ chỉ là trùng hợp thôi.@
+br
+` Chỉ là người lạ trông giống cô ấy. Cô ta chắc chắn đang chờ ai khác.@
+` Nếu không, thì khoảnh khắc này chắc chắn là một giấc mơ xấu.@
+` Sau tất cả, tôi đã giết cô ấy bằng chính tay mình[line=4]
+\
+` Nhưng cô ta đang nhìn về phía tôi và mỉm cười.@
+` Nhìn rất mãn nguyện khi tìm thấy người đã giết cô, nụ cười của cô như thể nói: "Bạn cuối cùng đã đến[line=4]"
+\
+bg "bg/bg_24a",lshutter,800
+` Gợi ý một cái vẫy tay quen thuộc và một nụ cười, cô nhảy xuống lan can.@
+` Phất mái tóc, cô tiến về phía tôi.@
+` "Don't come.[line=7]"@
+` Đây… là một giấc mơ xấu.@
+` Ánh đèn chuyển sang màu đỏ.
+\
+` [line=7]"Đừng đến gần tôi."@
+` Cô ấy chẳng vẻ như bận tâm gì cả, đi thẳng qua đường giữa lúc xe cộ rộn ràng.@
+br
+` Chỉ còn vài mét giữa chúng ta.`
+\
+` “...... Tôi bảo cậu đừng đến[line=4]!!!”`@
+` Thực tại trước mắt tôi vẫn như cũ, ngay cả khi tôi hét lên.`@
+` Tôi chạy trốn cô gái áo trắng, hét lên theo một giọng tôi thậm chí không hiểu.`
+\
+bg "bg/bg_23a",lcartain,800
+waveloop se_02
+` Tôi chạy.`@
+` Tôi chạy hết tốc lực.`@
+` Không ngần ngại chút nào, tôi lao qua đám người đang đi lại, chạy hết tốc lực trên đường bê tông.@
+bg #ffffff,crossfade,400
+br
+` *hít hà* *hít hà* *hít hà* *hít hà*@
+br
+` Hít thở rối loạn, tim đập thình thịch.`@
+` Nhưng tôi vẫn chạy.`@
+` Tôi cảm thấy mình sắp phát điên nếu không làm.`
+\
+` Tôi nhìn lại.`@
+` Cô gái áo trắng đang đi về phía tôi.`@
+` Cô ấy chắc chắn đang theo dõi tôi.`@
+` Cô gái tôi đã giết đang đuổi theo tôi.`@
+` Đó là lý do quá đủ để tôi chạy đi.
+\
+bg "bg/bg_25a",lcartain,800
+` *hít hà* *hít hà* *hít hà* *hít hà*@
+br
+` Tim tôi như sắp vỡ ra, nhưng tôi vẫn bỏ qua và tiếp tục chạy.@
+` Khi tôi quay lại, cô bé vẫn còn đó.@
+` Với những bước chân nhẹ nhàng, cô ấy theo sau tôi khi tôi chạy trốn.@
+br
+` *thở hổn hển* *thở hổn hển* *thở hổn hển* *thở hổn hển*@
+br
+` Tôi cúi đầu xuống.@
+` Tay tôi cảm thấy nặng nề.@
+` Chân tôi như sắp bị tách ra.@
+` Nhưng bất chấp điều đó,
+` Tôi chạy hết sức mình, nhưng vẫn không thể thoát khỏi người đang đi sau tôi[line=2]!
+\
+bg #000000,lcartain,800
+bg "bg/bg_30a",lcartain,800
+` *thở hổn hển* *thở hổn hển* *thở hổn hển* *thở hổn hển*@
+br
+` Hít thở của tôi không kiểm soát được.@
+` Tôi nghĩ mình đã chạy vài cây số rồi.@
+` Nhưng dù sao, khi tôi quay lại, cô ấy vẫn luôn ở đó, đang đi về phía tôi.
+\
+` Tự nhiên, như thể đang dạo chơi, cô ấy theo sau tôi ngay.@
+` *thở hổn hển* "…… Haha, hahaha!"@
+br
+` Không phải là chuyện hài hước, nhưng tôi bắt đầu cười.@
+br
+` "Haha, hahaha, ahahahahahaha!"@
+br
+` Tôi không thể ngừng cười.@
+` Nhưng dù sao, tôi vẫn chạy. Cơ thể tôi than phiền rằng nếu tôi chạy thêm nữa sẽ chết, nhưng tôi vẫn tiếp tục chạy.@
+` Lí do rất đơn giản.@
+` Nếu cô ta bắt được tôi, chắc chắn sẽ giết chết tôi.@
+` Tôi tự hỏi mình dựa vào điều gì, cố gắng gạt bỏ nó như là chỉ tưởng tượng. Nhưng ngay cả khi cố trấn an bản thân, tôi chính là người biết rõ nhất điều đó là sự thật.@
+br
+` Không có lý do, không có cơ sở, không có bằng chứng.@
+` Tôi đã biết nếu cô ta đuổi kịp tôi, tôi sẽ bị giết[line=5]
+\
+bg "bg/bg_31a",lcartain,800
+wave se_05
+quakey 3,100
+` Ah![line=3]@
+` Một cách bi thảm, tôi ngã xuống đất.@
+` Tôi ngã về phía trước, không phải vì tôi té ngã, mà là bởi vì tôi đơn giản không thể di chuyển cơ thể thêm một bước nữa.@
+` Guh[line=3]ha, aah.@
+` Nằm đó, gục ngã, tôi somehow xoay sở bò đến tường.
+\
+` [line=4]@
+` Tôi cố gắng kéo mình lên chống vào tường, nhưng không được.@
+` Đùi tôi yếu đi khi tôi cố gắng đứng dậy, và tôi lại ngã xuống.@
+` Cơ thể tôi không thể di chuyển nữa.@
+br
+` *hít thở* *hít thở* *hít thở*@
+br
+` Tôi nhìn lên khi hít thở.
+\
+` [line=4]Đau.@
+` Tôi không có đủ oxy.@
+` Tôi không thể suy nghĩ rõ ràng vì nó.@
+` Tôi thậm chí không thể biết mình đang làm gì nữa.@
+` Tôi không biết tại sao tôi lại làm điều này.
+\
+` Tại sao? Tại sao? Tôi thậm chí không biết tại sao cô gái mà tôi đã giết lại còn sống.@
+` Không thể phủ nhận, tôi đã giết cô ta một cách triệt để và hoàn toàn, theo cách cuối cùng có thể tưởng tượng được.@
+` Vậy tại sao?@
+` Làm thế nào cô ta lại đợi tôi ở trước trường, với nụ cười[line=3]?
+\
+` …… Tôi chắc chắn mình đã giết cô ta.@
+br
+` [line=3]Đúng vậy.@
+` Tôi chắc chắn mình đã giết cô ta.@
+!w500
+` Tôi chắc chắn mình đã giết cô ta.@
+!w500
+` Tôi chắc chắn mình đã giết cô ta.@
+!w500
+` TÔI CHẮC CHẮN ĐÃ GIẾT MÀ, NÊN
+!w500
+br
+` Tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao tại sao[line=6]!?
+\
+ld c,"tachi/ark_t03",lshutter,400
+wavestop
+` "Ồ? Cuộc đuổi bắt đã kết thúc rồi à?@
+` Với những bước chân nhẹ nhàng, cô tiến vào con hẻm, vỗ vai mình với vẻ thất vọng.
+\
+` "Xin chào. Ngươi đã gây ra khá nhiều phiền toái cho tôi hôm qua.@
+ld c,"tachi/ark_t01a",crossfade,400
+play "*9"
+` Với nụ cười ấm áp, cô bước vào con hẻm.@
+` [line=4]Tôi phải chạy đi.@
+br
+` Nghĩ như vậy, tôi lui về, chỉ để đập đầu vào bức tường bê tông.@
+br
+` "Cuộc đuổi bắt đã kết thúc rồi phải không? Đây là con đường chết, sau cùng. Không có lý do gì phải lo lắng ai đó đến hoặc can thiệp.@
+` Cô cười, trông rất vui vẻ.
+\
+cl c,crossfade,400
+` Hoảng loạn, tôi nhìn xung quanh.@
+` Một con hẻm hoang vắng. Tôi ghê tởm bản thân mình thật ngu ngốc.@
+` Trốn đi ở đây giống như đang bảo cô ta giết tôi.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` "Đã lâu rồi. Mười tám giờ kể từ đó, tôi cuối cùng cũng tìm thấy cậu."@
+` Cô bước thêm một bước vào con hẻm.@
+br
+` "N-ngươi[line=4]!"@
+` "Gì?"@
+` "Tôi chắc chắn[line=4]"@
+` "Vâng. Tôi là cô gái mà cậu đã giết hôm qua. Tôi vui vì cậu nhớ."@
+` "Th[line=3]"@
+` Chắc chắn đó là một lời nói dối.@ Không thể có chuyện như vậy…!
+\
+` "Đừng ngu ngốc! Người chết không thể sống lại!"@
+` "Đó là sự thật, nhưng cậu không cần phải ngạc nhiên như vậy. Tôi chỉ hồi sinh thôi, đơn giản thế mà."@
+` Với câu trả lời ngắn gọn đó, cô bước thêm một bước nữa, tiếng động của nó vang đến tai tôi.@
+br
+` Khoảng cách giữa chúng ta đang dần thu hẹp.
+\
+` …… Phục… sinh?"@
+` Ngây người, tôi lặp lại câu nói của cô ấy.@
+` Phục sinh… có nghĩa là một bác sĩ đã cứu cô ấy bằng phẫu thuật…?@
+` [line=3]Đừng ngu ngốc!@ Không thể có ai sống lại sau khi bị cắt ra như vậy[line=3]!"
+\
+` "Vâng. Nhưng rồi, tôi không phải là người."@
+` [line=5]"Ê?"@
+` Lời cô nói đơn giản đến mức tôi chẳng thể hiểu sai được.`@
+br
+` Tôi không phải là người.`@
+br
+` "Đó là điều cô gái đứng trước tôi nói."
+\
+` “…… Cậu không phải là người…?”`@
+ld c,"tachi/ark_t02",crossfade,400
+` Geez, chẳng phải rõ ràng sao? Cậu nghĩ có người nào sống lại được sau khi bị cắt ra từng mảnh chứ?"@
+cl c,crossfade,400
+` [line=7]" "@
+` Không thể có người như thế.`@
+` Cái loại như vậy chỉ là quái vật giả dạng người.`@
+br
+` Điều gì có thể hồi sinh ngay cả khi bị giết.`@
+` Điều gì cái chết chẳng quan tâm đến.`@
+` Đấy là thứ nhanh chóng trở lại bình thường, ngay cả khi bị cắt nát cũng vẫn hoạt động, chẳng phải con người đâu.`
+\
+` "Không... thể nào."@
+` Chẳng lẽ cô bé đó chính là người đang đứng ngay trước mắt tôi?@
+` Tôi cố gắng cười, nhưng cổ họng khô đến mức không thể.`
+\
+` “Cái quỷ gì thế?”`@
+` Không phải câu chuyện hài hước lắm đâu.`@
+` Ngoài ra, câu chuyện này có quá nhiều thứ không buồn cười.`@
+` Chắc chắn...
+` Nếu cô ấy không phải là người, thì nó giải thích tại sao cô ấy vẫn sống sau khi tôi giết cô.@
+br
+` [line=3]Tôi bắt đầu bình tĩnh lại.@
+br
+` Đây là tình huống mà tôi phải quan sát mọi thứ và suy nghĩ kỹ lưỡng.
+\
+` …… Cậu nói cậu không phải người. Vậy cậu là gì?@
+` Tôi? Tôi là một ma cà rồng. Để đơn giản, tôi là quái vật sống bằng máu người.@
+ld c,"tachi/ark_t01a",crossfade,400
+` …… Cũng tốt đấy.@
+` Ma cà rồng' ít nhất là cái gì tôi có thể hiểu được dễ dàng.
+\
+` Tôi hiểu. Cậu là ma cà rồng[line=3]@
+` Cô ta mỉm cười với sự hài lòng để chỉ ra sự đồng ý của mình.@
+` …… Trả lời thật điên rồ.@
+` Tôi nghe nói ma cà rồng không thể đi lại vào ban ngày, nhưng tôi đoán đó là chuyện nhỏ nhặt lúc này.@
+` …… Vậy quái vật này muốn gì từ tôi?@
+` Lý do nào đó, cô ta rút lui như thể ngạc nhiên.@
+ld c,"tachi/ark_t12",crossfade,400
+` Sau một lúc, cô ta đặt tay lên hông và nhìn tôi với vẻ khó chịu.
+\
+ld c,"tachi/ark_t16",crossfade,400
+` Cậu có quên những gì đã làm cho tôi hôm qua không? Mặc dù cậu không biết tôi, nhưng ngay khi gặp mặt, cậu đã cắt tôi ra. Cậu phải quen với điều này lắm mới dám hỏi tôi muốn gì từ cậu bây giờ.@
+` Cô ta trông ghê tởm hơn là tức giận.@
+` Nhưng ngay lúc này, đó cũng chính là cảm giác của tôi.@
+` Bởi vì người mà tôi đã giết đang phàn nàn với tôi về việc tôi giết cô ấy.
+\
+ld c,"tachi/ark_t04",crossfade,400
+` Hé! Cậu có nghe không, kẻ sát nhân?@
+` …… Vâng, tôi nghe. Xin lỗi, cậu có thể im lặng một chút được không? Tôi đang suy nghĩ về điều này thật đen tối, thậm chí là với tôi.@
+cl c,crossfade,400
+br
+` [line=3]Chết tiệt. Tôi thật sự may mắn đến mức đáng sợ.@
+` Có một cô gái tôi muốn giết chỉ vì lý do vô nghĩa, và tôi đã giết cô ấy theo trực giác.@
+br
+` Tôi đau khổ ngập ngừng... và dù tôi đã quyết tâm sám hối tội lỗi, người mà tôi giết bỗng xuất hiện và nói rằng cô ấy thậm chí không phải là con người.`
+\

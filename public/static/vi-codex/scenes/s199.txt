@@ -1,0 +1,1697 @@
+phase "bg/ima_01",l,ark,12a,11
+bg "bg/bg_32c",lcartain,800
+waveloop se_02
+` Bế xốc cơ thể tôi trong tay, Senpai điên cuồng lao thẳng về phía biệt thự gia tộc Tohno.@
+` ... Tôi không biết chị ấy đang toan tính điều gì, nhưng tình thế lúc này thực sự vô cùng tồi tệ.@
+` Lưỡi dao vẫn đang cắm chặt ngay giữa lồng ngực tôi, cái chết chắc chắn đã cận kề sát sườn rồi.@
+` Nếu Akiha nhìn thấy tôi trong bộ dạng thảm hại đầy máu me thế này, em ấy sẽ không chỉ đơn giản là lo lắng lo sợ đâu [line=6]
+\
+`"[line=6]"@
+` ... Khốn kiếp thật, tôi hoàn toàn bất lực chẳng thể cất lên nổi dẫu một lời nói.@
+` Tôi muốn hét lên bảo chị ấy hãy dừng lại, nhưng tất cả những gì tôi làm được chỉ là cố gắng hít lấy từng ngụm khí ngắn khó nhọc.
+\
+`"Làm ơn hãy giữ im lặng đi, Tohno-kun. ... Đừng lo lắng, tôi biết chắc chắn chỉ có em gái cậu mới cứu sống được cậu lúc này thôi."@
+`"[line=6]"@
+` "…… Cứu tôi sao? Chuyện đó là bất khả thi, Senpai à."@
+` "Tôi đã bị đâm ngập dao vào ngực, đến cả việc cựa quậy ngón tay cũng không thể nổi."@
+` "…… Trên thế gian này, làm gì có ai có thể cứu sống được một kẻ đã cận kề cái chết thế này chứ."
+\
+`"Không, chuyện đó hoàn toàn có thể! Nếu không, mọi bi kịch trước đây đã chẳng có ý nghĩa gì cả……! Cậu hãy nghĩ kỹ lại xem, nếu em gái cậu không ra tay cứu mạng, cậu đã phải bỏ mạng từ tám năm trước rồi."@
+` "Thế nên [line=4]tôi tin chắc chắn lần này chúng ta cũng sẽ thành công……!"@
+br
+` Lời nói của chị ấy dồn dập, chứa đựng quá nhiều ẩn ý khiến tôi bấy giờ hoàn toàn mơ hồ chẳng thể hiểu nổi.
+\
+`"[line=6]"@
+br
+` "[line=4]Senpai... xin chị... hãy dừng lại đi..."
+br
+`"Thực sự đấy, làm ơn hãy giữ im lặng đi! Nếu cậu cứ cố cất lời nói thêm nữa, chúng tôi sẽ hoàn toàn bất lực không thể cứu nổi cậu đâu!"@
+` Giọng điệu của chị ấy trở nên vô cùng nghiêm nghị và giận dữ.@
+` Thể xác kiệt quệ đến cực hạn, tôi chỉ biết bất lực khép hờ đôi mi lại.
+\
+br
+` ... Và rồi, cứ thế.@
+` ... Ý thức của tôi dần chìm vào khoảng không mờ mịt.@
+` Tôi cố ép bản thân không được chìm sâu vào giấc ngủ.@
+` Đêm đen dài đằng đẵng như kéo dài vô tận.@
+` Ký ức về một đứa trẻ luôn đứng bên lề của gia đình bỗng chốc ập về.
+\
+wavestop
+bg #ffffff,crossfade,800
+play "*9"
+!w3000
+bg "bg/cmo_05",crossfade,800
+br
+` [line=4]Kể từ khi còn là một đứa trẻ thơ bé, tôi đã luôn có suy nghĩ đó.@
+br
+` Kể từ cái ngày tôi bị trục xuất khỏi gia tộc Tohno để gửi sang làm con nuôi cho gia đình Arima.@
+` Không, thực ra, ngay cả trước cái ngày định mệnh đó, tôi vốn dĩ đã luôn là kẻ đứng bên lề của gia đình mình rồi.@
+` Tôi chưa từng mảy may thắc mắc nguyên do tại sao.
+\
+` Trước khi kịp nhận thức được mọi chuyện, tôi đã luôn phải sống trong sự cô độc tủi hờn.@
+` Xung quanh luôn có những người hành xử dịu dàng hệt như cha mẹ ruột, thế nên tôi cũng cố gượng đóng vai một đứa con ngoan ngoãn của họ.
+\
+` Tôi vẫn luôn ngỡ rằng ngôi nhà gỗ cũ kỹ với những tấm chiếu tatami sờn rách kia chính là tổ ấm đầu tiên của đời mình.@
+` Thế rồi, sau một biến cố kinh hoàng nào đó, tôi đột ngột được đưa trở lại căn biệt thự kiểu phương Tây nguy nga tráng lệ.@
+` ... Ở đó có một người anh trai và một người em gái trạc tuổi tôi, ba đứa chúng tôi đã từng là những người bạn vô cùng thân thiết bên nhau, tôi vẫn luôn nghĩ như vậy.
+\
+` Thế nhưng, luôn tồn tại một bức tường vô hình lạnh lẽo ngăn cách giữa người cha nghiêm nghị của họ và tôi.@
+br
+` ... Dẫu vậy, ba đứa chúng tôi vẫn luôn cố gắng yêu thương, đùm bọc nhau hệt như một gia đình thực sự.@
+` Dẫu cho huyết quản không hề chảy chung một dòng máu, chúng tôi vẫn kiên định tin tưởng rằng mình chính là máu thịt của nhau.
+\
+` Thế nhưng mọi hạnh phúc ngắn ngủi đó bỗng chốc đổ vỡ tan tành.@
+` Sau một tai nạn kinh hoàng đẫm máu, tôi tỉnh giấc giữa phòng bệnh cô tịch.@
+` Tuyệt đối không một ai đến thăm nom, và đôi mắt tôi bấy giờ bỗng chốc biến đổi trở nên vô cùng bất thường.@
+` Trước tai nạn đó tôi cô độc, và sau tai nạn đó tôi vẫn vĩnh viễn đơn độc một mình.@
+` Nhiều lúc tôi tự nghĩ, có lẽ bản thân mình cứ thế biến mất khỏi cõi đời này thì tốt biết mấy.@
+br
+` Cho đến cái ngày định mệnh... tôi gặp được người phụ nữ sở hữu vẻ đẹp thuần khiết, lộng lẫy như bầu trời xanh trong kia.
+\
+bg #ffffff,crossfade,800
+playstop
+bg "bg/bg_40c",crossfade,800
+play "*8"
+` ...
+` ...
+` Một giấc chiêm bao ngập tràn nỗi hoài niệm xưa cũ.
+\
+`"[line=4]Tôi... vẫn còn... sống sao?"@
+` Tôi mệt mỏi thốt lên những thanh âm vô nghĩa.@
+` Thể xác hoàn toàn tê liệt không thể dịch chuyển nổi dẫu chỉ một ngón tay, nhưng ít nhất tôi vẫn có thể cất lời nói chuyện rõ ràng.@
+` Đầu óc tôi dần tỉnh táo trở lại, đủ để nhận ra lúc này mình đang nằm ngay trên chiếc giường quen thuộc trong phòng biệt thự.
+\
+ld c,"tachi/aki_t17b",lshutter,800
+`"... Anh Shiki? Anh tỉnh rồi sao?"@
+`"[line=3]Akiha... em ở đó sao?"@
+` Akiha đang đứng túc trực ngay bên mép giường, dường như em ấy đã luôn thức trắng đêm để chăm sóc cho tôi.@
+`"[line=3]Akiha, rốt cuộc... đã xảy ra chuyện gì thế?"@
+` Tôi ngơ ngác nhìn Akiha dẫu đầu óc vẫn chưa thể xâu chuỗi được mọi chuyện.@
+` Em ấy ngập ngừng, ái ngại né tránh ánh mắt của tôi.
+\
+cl c,crossfade,400
+`"... Vết thương hiểm nghèo này... lồng ngực của tôi..."@
+` [line=3]Tôi tuyệt đối không thể hé môi nói với em ấy rằng chính SHIKI là kẻ đã ra tay sát hại tôi.@
+` Nhưng trước hết, làm sao em ấy có thể bình thản đối diện với tôi khi tôi quay về với vết thương đâm ngập dao thế này?@
+` Theo lẽ thường tình, bất kỳ ai thấy người nhà bị đâm ngập dao vào ngực đều sẽ lập tức đưa đi bệnh viện cấp cứu chứ...
+\
+`"[line=4]Akiha, chuyện này..."@
+ld c,"tachi/aki_t12b",crossfade,400
+`"... Anh không cần lo lắng đâu. Em đã nghe được phần lớn ngọn ngành câu chuyện từ chính người đó rồi."@
+`"... Người đó... lẽ nào là Senpai sao?"@
+` Vẫn cúi gầm mặt ái ngại, Akiha khẽ gật đầu gật nhẹ.@
+`"………"@
+` Lòng tôi lại càng thêm bối rối.@
+` Lẽ nào Senpai thực sự đã đứng ra giải thích toàn bộ "hoàn cảnh đặc biệt" cho Akiha nghe rồi sao……?
+\
+`"Hộc."@
+` Tình thế này thực sự vô cùng bất lợi.@ Không biết rốt cuộc Senpai đã nói những gì với em ấy, tôi tuyệt đối không được phép hỏi han lung tung kẻo lộ sơ hở.@
+`"Ừm…… Akiha này, Senpai bấy giờ đang ở đâu rồi?"
+\
+`"Nếu anh muốn hỏi về người đó, cô ấy hiện đang nghỉ ngơi dưới phòng khách.@ …… Theo lệ thường, em tuyệt đối không bao giờ cho phép một kẻ mờ ám như vậy bước chân vào biệt thự gia tộc Tohno, thế nhưng cô ấy đã có ơn cứu mạng anh.@ Vì vậy em không thể đối xử tệ bạc với cô ấy được."@
+br
+` [line=3]Cất lời lạnh lùng xong xuôi,
+` biểu cảm trên gương mặt em ấy bỗng chốc trở nên vô cùng nghiêm nghị và sắc bén.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"Anh Shiki. Vết thương đâm ngập ngực anh lúc này... là do chính tay SHIKI gây ra đúng không?"@
+` Không vòng vo kiêng dè dẫu chỉ một lời,
+` Akiha trực tiếp vạch trần thẳng vào trọng tâm vấn đề.
+\
+`"[line=3]Akiha... hóa ra em..."@
+` Lời nói trong cổ họng tôi bỗng chốc nghẹn ứ lại.@
+` [line=4]Hóa ra Akiha đã sớm biết rõ về sự tồn tại của SHIKI ngay từ đầu.@
+`"Akiha... em đã biết rõ về SHIKI từ khi nào thế?"
+[line=3]\
+`"[line=3]... Vâng, em biết chứ. Ngay từ giây phút đầu tiên, em đã nhận thức được toàn bộ sự thật và chủ động gửi thư triệu tập anh quay trở lại biệt thự này."@
+\
+`"... Chờ đã... Em bảo em đã nhận thức được toàn bộ mọi chuyện từ đầu sao? Anh... anh thực sự hoàn toàn không hiểu nổi chuyện gì đang diễn ra nữa."@
+`"Rõ ràng ngày thơ bé ở biệt thự này còn có một đứa trẻ thứ ba cùng chúng ta chơi đùa, thế nhưng mỗi khi anh hỏi em "@
+`br
+` "[line=4]Em đều kiên quyết khẳng định rằng biệt thự này tuyệt đối không hề có đứa trẻ thứ ba nào cả."
+br
+ld c,"tachi/aki_t12b",crossfade,400
+\
+ld c,"tachi/aki_t12b",crossfade,400
+\
+cl c,crossfade,400
+\
+cl c,crossfade,400
+` Akiha thỉnh thoảng vẫn lén lút trốn cha cô ấy để chạy ra khoảng sân trước biệt thự chơi đùa cùng hai chúng tôi.@
+` Nhưng tại sao tôi lại quên sạch mọi chuyện?@
+` Cả lý do tại sao cậu ấy lại đột ngột biến mất khỏi cõi đời này.@
+` Hay thậm chí là cái tên SHIKI của cậu ấy, phát âm trùng khớp hoàn toàn với tên tôi.@
+`br
+` Đúng vậy, mọi ký ức cốt lõi ấy tôi đã hoàn toàn quên sạch không còn một mảnh.
+br
+`"[line=3]... Anh thực sự không nhớ gì cả.@ Ký ức duy nhất còn đọng lại chỉ là "@
+\
+` [line=4]Cảnh tượng kinh hoàng đẫm máu mà tôi nhìn thấy ở khoảng sân trống.@
+br
+` Akiha đứng đó, tôi cũng đứng đó.@
+` Và ngay trước mặt tôi chính là xác chết của một cậu bé khác, máu tươi tuôn chảy loang lổ khắp người.
+\
+`""@
+\
+` [line=6]Phải rồi, chính miệng SHIKI đã cất lời ngạo nghễ như thế ban nãy.@
+br
+` Hóa ra, ý nghĩa thực sự của câu nói đó chính là...
+\
+`"[line=4]Cơn ác mộng đẫm máu ấy... Anh... anh thực sự đã..."@
+\
+` [line=4][line=2]Đã tự tay kết liễu mạng sống của hắn sao?@
+br
+\
+`"Akiha, anh..."@
+\
+`"[line=4]Không, anh nhầm rồi! Anh tuyệt đối không hề sát hại bất kỳ ai cả! Tohno Makihisa... người cha quá cố của chúng ta đã dùng thuật ám thị ép anh phải suy nghĩ như vậy."@
+ld c,"tachi/aki_t01b",crossfade,400
+` Tôi càng nghe lại càng thêm hoang mang bế tắc.@
+` Tại sao cha tôi lại bắt buộc phải dùng thuật ám thị tàn bạo đó lên tôi chứ?
+\
+`"... Akiha. Em bảo em đã biết rõ toàn bộ sự thật khi gọi anh quay lại đây đúng không?"@
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"[line=4]... Vâng. Em tuyệt đối không muốn anh nhớ lại bất kỳ ký ức nào về SHIKI cả, anh Shiki. Nếu có thể, em chỉ ước anh sẽ vĩnh viễn quên sạch chuyện đó cho đến cuối đời."@
+ld c,"tachi/aki_t12b",crossfade,400
+` "Ngay từ đầu bí mật tà ác đó vốn dĩ đã là điều bất khả thi để có thể che giấu mãi mãi."@
+` Nói lời tủi hờn, em ấy khẽ nở một nụ cười đượm buồn đầy xót xa.@
+` [line=4]Em ấy dõi mắt nhìn thẳng vào mắt tôi rồi tiếp tục cất lời giãi bày sự thật.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+\
+ld c,"tachi/aki_t01b",crossfade,400
+` "... Biến cố định mệnh đó xảy ra vào cái ngày anh bị chính tay SHIKI sát hại dã man cách đây tám năm."@
+cl c,crossfade,400
+\
+cl c,crossfade,400
+\
+` "... Nhưng chuyện này thực sự quá đỗi kỳ lạ và phi lý."@
+` "Mọi sự thật đều hoàn toàn trái ngược lại cơ mà."@
+` "Kẻ nằm gục giữa vũng máu tươi lúc đó rõ ràng là SHIKI... thế thì làm sao hắn có thể cất lời đòi nợ mạng với tôi được chứ...!? "
+\
+ld c,"tachi/aki_t12b",crossfade,400
+\
+ld c,"tachi/aki_t12b",crossfade,400
+` "Một khi huyết mạch tà ác trỗi dậy áp đảo hoàn toàn nhân tính, lý trí của con người sẽ bị nuốt chửng hoàn toàn, biến kẻ đó trở thành một con quái thú điên cuồng khát máu."
+\
+` "Nếu coi phần con người là lý trí dẫn đường, thì bản năng hoang dại của dòng máu phi nhân chính là xiềng xích nuốt chửng lý trí đó."
+\
+`"…………… Akiha, chuyện đó……"@
+\
+`br
+` Không,
+br
+` [line=4]Lúc này đây, dẫu cho thể xác có đang rệu rã đớn đau, tôi vẫn chỉ muốn lập tức vùng dậy lao ra khỏi căn phòng này để đi tìm kiếm hình bóng của cô ấy.
+\
+ld c,"tachi/aki_t01b",crossfade,400
+\
+ld c,"tachi/aki_t01b",crossfade,400
+` Nồng độ dị huyết chảy trong huyết quản của mỗi thành viên gia tộc Tohno là hoàn toàn khác biệt."@
+` "Có những người mang diện mạo và nhân tính không hề thay đổi, và ngược lại có những kẻ bị biến đổi sinh học hoàn toàn trở thành quỷ dữ."@
+` "Và SHIKI chính là minh chứng điển hình tàn bạo nhất của nhóm thứ hai."
+\
+`"[line=4]Nhóm thứ hai... diện mạo của hắn bị biến đổi hoàn toàn sao...?"@
+\
+` Nhưng cơn điên loạn ập đến đột ngột không một lời cảnh báo. Ngay khi bản năng ma quỷ trỗi dậy chiếm giữ đại não, anh ấy đã điên cuồng lao vào tấn công em, anh Shiki ạ."@
+`"SHIKI... đã điên cuồng tấn công em sao...?"@
+`br
+` Đau đớn kịch liệt.@
+br
+\
+`"Biến cố đẫm máu đó xảy ra ngay tại khoảng sân trống của biệt thự. @ Anh đã dũng cảm lao ra chắn trước người em, bị SHIKI đâm ngập dao vào ngực và cận kề cái chết ngay trước khi cha kịp thời xuất hiện để áp chế SHIKI.@"@
+\
+` "Đó chính là sứ mệnh tàn bạo, là bổn phận tối thượng của người đứng đầu gia tộc Tohno phải tự tay thanh trừng những người máu mủ ruột thịt đã hóa quỷ của mình.@"@
+` "Chính vì thế thân xác đẫm máu của SHIKI nằm gục giữa sân mà anh nhìn thấy lúc đó, thực chất chính là kết quả sau khi cha ra tay thanh trừng anh ấy."
+\
+`"[line=4] "@
+\
+[line=8]\
+` Chắc chắn còn có một sự thật khác. @ Trực giác mách bảo tôi rằng còn có một chi tiết vô cùng quan trọng mà tôi vẫn chưa thể hồi tưởng lại được.
+\
+ld c,"tachi/aki_t12b",crossfade,400
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"" Hóa ra lý do tôi đột nhiên được chỉ định trở thành người thừa kế duy nhất của gia tộc Tohno, dẫu bản thân chỉ là con thứ hai, chính là vì biến cố tàn bạo đó.@
+\
+` [line=4]Tôi hiểu rõ rồi.
+\
+` Hóa ra đó là lý do Akiha bắt buộc phải gánh vác toàn bộ trách nhiệm nặng nề của người thừa kế... Khoan đã?@
+\
+\
+`"Vậy còn tôi... tôi vốn không phải là con ruột sao?@
+\
+ld c,"tachi/aki_t13b",crossfade,400
+`"[line=4]Em... thực sự vô cùng bất ngờ đấy."@
+ld c,"tachi/aki_t13b",crossfade,400
+` "Nhưng chuyện này thực sự quá nghiêm trọng! Anh hỏi thật lòng đấy Akiha, chi tiết này có gì đó vô cùng sai lệch đúng không."
+[line=4]\
+ld c,"tachi/aki_t12b",crossfade,400
+\
+ld c,"tachi/aki_t12b",crossfade,400
+` "Anh xin lỗi, nhưng việc tìm hiểu ngọn ngành về thân phận của SHIKI bấy giờ là điều tối quan trọng đối với anh. Hắn chính là kẻ thù chung của anh và Arcueid, anh tuyệt đối không thể làm ngơ trước sự tồn tại của hắn được."@
+` "[line=4]Vì thế, anh bắt buộc phải biết rõ toàn bộ sự thật. Anh không muốn đầu óc mình tồn tại dẫu chỉ một vết gợn nghi ngờ."@
+` "Tại sao hắn vẫn có thể sống sờ sờ ngoài kia nếu cha đã ra tay kết liễu hắn? Và tại sao anh lại có thể quên sạch ký ức về một chuyện hệ trọng đến nhường này?"@
+` "[line=4]Làm ơn đi Akiha. Hãy nói cho anh biết sự thật đi."
+[line=4]\
+`"…… Chuyện đó vô cùng đơn giản thôi.@ Bởi vì anh vốn dĩ ngay từ đầu đã không mang tư cách kế vị gia tộc Tohno rồi.@"@
+\
+\
+`"…… Akiha……?"@
+ld c,"tachi/aki_t01b",crossfade,400
+\
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`br
+\
+br
+br
+` "[line=12]Anh đã từng là người bạn vô cùng thân thiết kề vai sát cánh bên SHIKI, thân thiết đến mức khiến trái tim trẻ con của em lúc đó cũng phải thầm ghen tị."@
+\
+` "SHIKI tuy bị nghịch đảo huyết mạch hóa quỷ nhưng vẫn được cha âm thầm cứu chữa và giam giữ bí mật, bởi con trai cả mang dòng máu thuần khiết của gia tộc Tohno tuyệt đối không được phép chết.@"@
+` "Gia tộc Tohno sở hữu vị thế vô cùng quan trọng và quyền lực trong xã hội đúng không? Vì thế... cha tuyệt đối không thể công bố ra ngoài rằng người kế vị duy nhất của gia tộc đột ngột biến mất không rõ lý do được."
+\
+`"Thế nên cha đã nảy ra một ý tưởng điên rồ."@
+` "Để che giấu sự thật về con trai cả SHIKI đang bị giam cầm chữa trị, cha đã quyết định đổi chỗ danh tính của hai người. Nhận nuôi anh dưới danh nghĩa con nuôi gặp tai nạn qua đời, và đưa anh lên thay thế vị trí Tohno Shiki, chung sống bình thường bên cạnh em gái Akiha."@
+\
+` "Kẻ đáng lẽ phải chết thì vẫn sống dưới danh nghĩa cậu chủ Tohno Shiki, còn kẻ ra tay sát hại thì lại bị ngụy tạo là đã chết. Đó chính là mối quan hệ tàn bạo giữa anh và SHIKI."
+\
+`[line=4]br
+`br
+\
+br
+br
+br
+br
+` [line=12]Và dĩ nhiên, tôi cũng chẳng phải là thành viên của gia đình Arima tốt bụng kia.
+\
+`[line=4]br
+`br
+\
+br
+br
+br
+br
+br
+`"[line=4]…… Em xin lỗi…… Lúc này đây tuyệt đối không một ai có thể trả lời cho anh câu hỏi đó cả.@"@
+\
+ld c,"tachi/aki_t23b",crossfade,400
+` "Không phải chết về mặt thể xác sinh học, mà là chết về mặt danh tính tồn tại xã hội. Tên tuổi, quá khứ, gia đình, thậm chí cả ký ức; chẳng còn sót lại bất kỳ dấu vết nào chứng thực sự tồn tại của anh trên đời này cả.@"@
+` "[line=4]Anh đã hoàn toàn đổi chỗ danh phận với Tohno SHIKI cách đây tám năm…… Cha đã dùng quyền lực để xóa sạch mọi dấu vết."
+\
+`br
+`br
+\
+br
+br
+br
+br
+br
+br
+`"[line=11]Đó là lý do tại sao... anh lại được gửi sang cho gia đình Arima nuôi dưỡng.@"@
+\
+ld c,"tachi/aki_t12b",crossfade,400
+` "Lấy lý do thể chất anh bị suy nhược trầm trọng sau tai nạn giao thông nghiêm trọng, cha đã gửi anh sang cho gia đình Arima dưới danh nghĩa con nuôi mồ côi. ... Và cha đã nghiêm lệnh cấm em không được phép liên lạc hay cho anh bước chân lại gần biệt thự này nữa."@
+` ... Giọng nói của Akiha bấy giờ đã run rẩy kịch liệt, đẫm nước mắt.@
+cl c,crossfade,400
+` Em ấy cúi gầm mặt xuống, như đang cố gắng kìm nén tiếng khóc nấc nghẹn ngào.@
+` ... Tôi biết rõ, sâu trong thâm tâm, em ấy chắc chắn đang phải gánh chịu một nỗi dằn vặt tội lỗi vô bờ bến.
+cl c,crossfade,400
+`br
+` "Anh tuyệt đối không hề có ý định đổ lỗi cho em đâu."@
+\
+br
+[line=4]\
+br
+[line=4]ld c,"tachi/aki_t17b",crossfade,400
+\
+\
+ld c,"tachi/aki_t17b",crossfade,400
+` [line=4]Anh đã hiểu rõ mình hoàn toàn không mang dòng máu gia tộc Tohno. Thế nhưng điều đó lại dẫn tới một mâu thuẫn lớn khác.@"@
+\
+` "Senpai khẳng định năng lực kỳ dị đó trỗi dậy là vì anh mang dòng máu gia tộc Tohno, nên anh đã tin sái cổ. Nhưng sự thật anh vốn không phải người nhà Tohno đúng không?@"@
+` "Vậy thì thứ dị năng tàn bạo chảy trong người anh lúc này... rốt cuộc mang ý nghĩa gì đây?"
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"... Chuyện đó em thực sự không rõ. Nhưng có một điều chắc chắn, cha em tuyệt đối không phải là kiểu người dễ dàng nhận con nuôi chỉ vì một quyết định bốc đồng thoáng qua đâu. Chắc chắn phải có một lý do vô cùng đặc biệt nào đó khiến ông quyết định nhận nuôi anh, anh Shiki ạ."@
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`[line=4]br
+` "Đúng vậy. Vấn đề cốt lõi tiếp theo chính là..."
+\
+br
+` "[line=4]Dõi mắt nhìn em ấy... tôi vô tình để lộ ra một ánh nhìn sắc bén đầy thù địch."@
+\
+\
+ld c,"tachi/aki_t23b",crossfade,400
+`"... Anh Shiki... chuyện đó...", Akiha thì thầm đầy đau đớn.@
+\
+ld c,"tachi/aki_t23b",crossfade,400
+` "Nếu đã như thế hắn tuyệt đối không thể nào còn sống sót nổi nữa chứ", Shiki tự nhủ.@
+`"Ưm..."
+\
+`"[line=4]Chỉ có duy nhất một khả năng khả dĩ. Giống hệt như cách anh phục hồi kỳ diệu sau tai nạn, hắn chắc chắn cũng đã hồi sinh thành công bằng một cách tương tự đúng không?"@
+` "[line=6][line=4]... Nhưng cũng có thể cha đã không nỡ ra tay kết liễu hắn. ", Shiki hoài nghi.@
+\
+`br
+` Akiha lẳng lặng im lặng không đáp lời.@
+` ... Biểu cảm của em ấy chứng thực những suy đoán của tôi hoàn toàn chính xác.
+br
+`"... Anh hiểu rồi."@ Người cha quá cố chắc hẳn đã toan tính sẽ triệu tập hắn quay trở lại biệt thự này ngay khi hắn lấy lại được lý trí tỉnh táo đúng không."@
+`"Chuyện đó... chuyện đó thực sự không phải như..."@
+\
+` Em ấy chỉ biết cúi gầm mặt xuống trong im lặng tủi hờn.@
+[line=4]cl c,crossfade,400
+\
+`"... Em đừng bận lòng nữa.@ Chuyện này tuyệt đối không phải lỗi của em, cũng chẳng phải lỗi của cha.@ Và đương nhiên, cũng không thể hoàn toàn trách SHIKI được."@
+cl c,crossfade,400
+\
+`br
+` Akiha vẫn lặng im không đáp lời.
+\
+br
+` Tôi bỗng cảm thấy mệt mỏi rã rời.@
+\
+br
+` [line=4]Vượt lên trên tất cả, tôi phải lập tức lên đường đi tìm kiếm Arcueid ngay bây giờ.
+br
+`"... Akiha. Anh cảm thấy hơi mệt mỏi rồi. Anh muốn đi ngủ một lát, nên em có thể ra ngoài cho anh nghỉ ngơi được không?"@
+` ld c,"tachi/aki_t12b",crossfade,400
+\
+` Akiha khẽ cúi đầu rồi lẳng lặng bước về phía cửa phòng.@
+ld c,"tachi/aki_t12b",crossfade,400
+`br
+`"Akiha."@
+cl c,lshutter,800
+br
+[line=4]ld c,"tachi/aki_t01b",crossfade,400
+`"Có chuyện gì thế, anh Shiki?"@
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"... Xin anh đừng bao giờ thốt ra những lời ngốc nghếch như thế nữa."@
+` Anh chính là người anh trai duy nhất của em.@
+ld c,"tachi/aki_t23b",crossfade,400
+cl c,lshutter,800
+`br
+` [line=4]Tiếng khép cửa phòng khè khẽ vang lên khi Akiha lặng lẽ bước ra ngoài.
+cl c,lshutter,800
+br
+bg "bg/bg_40c",lshutter,800
+\
+bg #000000,lshutter,800
+bg "bg/bg_40c",lshutter,800
+` Lúc này đã trôi qua mười giờ đêm rồi.@
+` Đã hơn ba tiếng đồng hồ kể từ khi SHIKIkhông, chính xác là tên ác quỷ Roa ra tay sát hại tôi ngay tại dãy hành lang trường học.
+br
+` Thể xác tôi bấy giờ vẫn hoàn toàn tê liệt không thể dịch chuyển nổi dẫu chỉ một milimet.@
+` [line=4]Cảm giác hệt như cơ thể mình chỉ là một con robot điều khiển từ xa bị mất kết nối vậy.@
+\
+\
+` *Thở dài*@
+` Tôi hít một hơi thật sâu để ép bản thân phải giữ bình tĩnh.@
+\
+` Thay vào đó, tôi bắt buộc phải bắt đầu từ những cử động nhỏ nhặt nhất.@
+` Chẳng hạn như ngón tay út bên bàn tay phải. Tôi tập trung toàn bộ ý chí vào việc cựa quậy ngón tay út đó.
+\
+`"Hự... ư..."@
+` Tôi dồn toàn bộ sức mạnh tinh thần trong cơ thể vào đầu ngón tay út.@
+\
+` [line=8]Sau vài phút kiên trì chịu đựng, ngón tay út của tôi cuối cùng cũng khẽ cựa quậy nhẹ được một chút.
+\
+` Chỉ là một cử động vô cùng nhỏ bé của ngón tay út, nhưng nó lại khơi dậy một ngọn lửa động lực vô hạn trong lòng.@
+` Hệt như đang dùng sức mạnh ý chí cưỡng ép hệ thần kinh phải hồi tưởng lại cảm giác chuyển động cơ học, tôi tiếp tục tập trung dịch chuyển từ ngón áp út, lòng bàn tay, khuỷu tay, cánh tay và cuối cùng là khớp vai cho đến khi mở rộng phạm vi kiểm soát cơ thể thành công.@
+\
+` Nhịp thở của tôi trở nên vô cùng dồn dập, hổn hển.@
+`br
+br
+` Hóa ra lý do tôi không cảm nhận thấy chút đớn đau nào lúc nãy chỉ là vì toàn bộ hệ thần kinh bấy giờ đang bị tê liệt hoàn toàn mà thôi.@
+br
+\
+`"[line=4]Hự…… a……!"@
+` Những giọt mồ hôi lạnh liên tục lăn dài trên trán tôi.@
+\
+` Thế nhưng dẫu có đau đớn đến phát điên đi chăng nữa, nếu tôi không thể tự mình đứng dậy di chuyển, tôi sẽ vĩnh viễn bị giam cầm trong căn phòng biệt thự lạnh lẽo này.@
+`br
+` Trốn chạy khỏi biệt thự, lao vào trung tâm thành phố, đột nhập trường học.@
+` Bằng không tôi sẽ vĩnh viễn không bao giờ có thể tìm thấy Arcueid được nữa.
+br
+`"Hực...!" @
+` Ép bản thân kìm nén cơn buồn nôn khó chịu dâng trào nơi cổ họng, tôi gồng mình gượng nhấc nửa thân trên ngồi dậy.@
+\
+` [line=4]Trước hết, việc tôi có thể giữ được mạng sống sau khi bị Roa đâm ngập dao vào ngực đã là một phép màu vô cùng kinh ngạc rồi. Nếu còn tiếp tục ích kỷ mong cầu sự may mắn của số phận, thần linh chắc chắn sẽ trừng phạt tôi mất.@
+`br
+` Tôi khẽ dõi mắt nhìn xuống vết thương đâm sâu hoắm ngay trước lồng ngực mình.@
+` Và,
+br
+\
+`"[line=4]... Cái gì cơ?"@
+` Tôi ngơ ngác giữ bình tĩnh trở lại đôi chút.@
+\
+` Đến cả cơ thể bất tử huyền thoại của con quái vật Nrvnqsr Chaos hôm trước còn tuyệt đối không thể thoát khỏi lưỡi hái tử thần của con dao này cơ mà.@
+` Thế nên, tuyệt đối không có lý nào một kẻ phàm trần yếu ớt như tôi lại có thể sống sót kỳ diệu thế này được.@
+`[line=4]br
+`"Lẽ nào... thứ mà hắn nhìn thấy trên người tôi... hoàn toàn khác biệt với thứ tôi nhìn thấy sao?"@
+` Giữa lúc tôi đang mải mê chìm sâu trong những suy ngẫm hoang mang đó,
+br
+[line=4]\
+ld c,"tachi/cel_t10b",lshutter,400
+`"Ơ... cậu chủ Tohno-kun!? Cậu đã được nghiêm lệnh phải nằm yên nghỉ ngơi tĩnh dưỡng cơ mà, sao tự dưng lại bướng bỉnh thức dậy thế này...!"@
+\
+ld c,"tachi/cel_t10b",lshutter,400
+`"[line=4]… ……"`@
+cl c,lshutter,400
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"…… Có chuyện gì thế, Tohno-kun?@ Có thứ gì kỳ lạ dính trên mặt tôi sao?"@
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Đúng vậy nhỉ, thật đáng tiếc quá. Chiếc kính cận của cậu và của tôi vốn dĩ kết hợp vô cùng ăn ý bên nhau cơ mà."@
+` ... Nhìn nụ cười dịu dàng, quen thuộc của chị ấy bấy giờ, lòng tôi bỗng dịu lại và thầm nghĩ Senpai vẫn luôn là người chị Senpai tốt bụng mà tôi hằng quen thuộc ở trường học.@
+ld c,"tachi/cel_t01b",crossfade,400
+\
+`"Em xin cảm ơn chị..." Chị ấy quả thực đã ra tay cứu mạng tôi thêm một lần nữa.@
+`"Phải rồi đấy, đây đã là lần thứ ba tôi cứu mạng cậu rồi đấy nhé. Tôi tuyệt đối không tiếp tục làm bảo mẫu đi cứu cậu mãi được đâu, nên lần sau hãy hành sự cẩn thận hơn đấy."@
+\
+` Nghe tôi dứt khoát cất lời, Senpai dõi mắt nhìn thẳng vào tôi đầy nghiêm nghị.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Tohno-kun... cậu vẫn chưa rút ra được bài học đắt giá nào sau biến cố hiểm nghèo vừa rồi sao?"@
+\
+ld c,"tachi/cel_t07b",crossfade,400
+\
+`"... "@
+` Tôi im lặng không đáp lời.@
+\
+` Nhưng có một điều tôi biết vô cùng rõ ràng: tôi tuyệt đối không thể tiếp tục ngồi yên chịu trận làm kẻ vô dụng trong căn phòng này lúc này được nữa.
+\
+`"Senpai, em có một câu hỏi thắc mắc muốn hỏi chị nếu được."@
+`"[line=4]... Chắc chắn là không được rồi. Nhưng dẫu tôi có kiên quyết từ chối đi nữa, cậu vẫn sẽ bướng bỉnh không chịu dừng lại đúng không nào."@
+\
+`"[line=4]Thôi được rồi. Nếu điều đó giúp cậu bình tâm lại và chịu ngoan ngoãn nghỉ ngơi, thì cái giá đó hoàn toàn xứng đáng để trả. Chúng ta cùng trò chuyện một lát nhé?"@
+` Senpai nhẹ nhàng ngồi xuống chiếc ghế tựa mà Akiha vừa rời khỏi lúc nãy.@
+ld c,"tachi/cel_t01b",crossfade,400
+\
+`"Vậy em xin phép hỏi trước nhé. Kẻ lạ mặt đâm trọng thương em lúc nãy... chính là Roa đúng không chị?"@
+ld c,"tachi/cel_t07b",crossfade,400
+\
+`"Vâng, em vừa nghe em ấy kể xong. ... Lẽ nào chị là người quen của em ấy sao Senpai? Akiha dường như vô cùng ghét chị đấy."
+ld c,"tachi/cel_t07b",crossfade,400
+ld c,"tachi/cel_t01b",crossfade,400
+`"Đúng vậy đấy, tôi vốn dĩ bị ghét bỏ mà. Em ấy khinh thường công việc thanh trừng dị giáo đầy máu và bóng tối của tôi, và dường như cũng không hề thích sự hiện diện của tôi dẫu chỉ một chút. À, đó dường như là một sự ghét bỏ vô cùng đặc biệt và sâu sắc đấy."@
+\
+ld c,"tachi/cel_t01b",crossfade,400
+`"À... chuyện đó tạm thời gác lại đã. ...@
+` "Về tên ác quỷ Roa đó, hang ổ ẩn náu của hắn bấy giờ chính là trường học của chúng ta đúng không chị?"@
+\
+[line=4]\
+`"………………"@
+` Ý nghĩa thực sự chính là Arcueid bấy giờ vẫn chưa thể tìm ra tung tích của hắn.@
+\
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"[line=4]Tohno-kun?"@
+\
+ld c,"tachi/cel_t07b",crossfade,400
+\
+[line=3]ld c,"tachi/cel_t01b",crossfade,400
+`"Chuyện đó vô cùng đơn giản thôi, bởi vì nền tảng cấu tạo nên tính cách của hắn bấy giờ chính là bản ngã của SHIKI. Thế nên, dĩ nhiên hắn sẽ không hành động theo bản năng sinh học của một ma cà rồng thường ngày rồi."@
+\
+ld c,"tachi/cel_t01b",crossfade,400
+ld c,"tachi/cel_t07b",crossfade,400
+`"…… Không, hoàn toàn không phải như vậy đâu.@
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Vậy có nghĩa là kẻ đâm em lúc nãy thực chất chính là SHIKI, và hoàn toàn không tồn tại nhân cách của Roa sao chị?"
+\
+`"…… Đúng vậy đấy. Xét trên một khía cạnh nào đó, thực thể mang tên Michael Roa Valdamjong thực sự đã không còn tồn tại trên cõi đời này từ lâu rồi. Thứ đang hiện hữu bấy giờ chỉ là 'khái niệm hóa khao khát bất tử' của Roa mà thôi.@"@
+` "Vấn đề cốt lõi chính là sự tích lũy liên tục của ý chí tà ác, lịch sử chuyển sinh, kiến thức ma thuật cổ xưa tất cả hợp nhất tạo nên một khái niệm hóa độc ác tối thượng.@"@
+\
+\
+`"Roa ra sức bành trướng thế lực tạo ra lũ Tử Giả khát máu, thực chất chỉ là do bản năng sinh học của giống loài để 'sinh sản' duy trì thuộc tính mà thôi. Sự khao khát thật sự của bản ngã SHIKI và mục tiêu nghiên cứu tối thượng của Roa là hai khái niệm hoàn toàn khác biệt."
+\
+\
+`"Đúng vậy. Có lẽ lúc này, nỗi khao khát được tự tay sát hại cậu để đòi nợ mạng trong lòng hắn còn lớn lao hơn cả mối thâm thù huyết hải sinh tử với Arcueid nữa đấy."@
+\
+` Tôi hoàn toàn không thể hiểu nổi những gì chị ấy đang cố gắng truyền đạt.
+\
+`"[line=6]Tại sao hắn lại căm hận muốn giết em đến thế chứ?"@
+`"…… Hơi khó để chấp nhận sự thật này, nhưng trong tâm thức của SHIKI bấy giờ, hắn luôn tin chắc chắn rằng chính anh mới là kẻ đã nhẫn tâm sát hại hắn năm xưa."@
+\
+\
+`"Thế nhưng kết quả nhãn tiền là cậu vẫn sống sờ sờ dưới danh nghĩa cậu chủ Tohno Shiki, còn SHIKI thì lại bị tước đoạt danh phận và ngụy tạo là đã chết.@"@
+` "Sau khi phải nhận phán quyết thanh trừng tàn bạo từ gia tộc Tohno, hắn cũng đã hồi sinh một cách vô cùng kỳ diệu hệt như cách cậu sống sót vậy.@"@
+\
+` "Bởi vì vị trí Tohno Shiki bấy giờ đang được cậu chiếm giữ hoàn hảo, chung sống êm ấm bên cạnh người em gái Akiha-san."
+\
+`"Xét trên một góc độ khác, chính cậu đã gián tiếp sát hại sự tồn tại của Tohno SHIKI rồi đấy."@
+` Cậu đã cướp đoạt sạch sẽ mái ấm duy nhất mà hắn có thể dung thân.@
+\
+`"[line=4]... Đối với SHIKI, em thực chất chỉ là một kẻ giả mạo hèn nhát đang chiếm đoạt tên tuổi và cuộc sống của hắn sao?"@
+`"Đúng vậy đấy, đó chính là nguyên nhân cốt lõi khiến SHIKI căm ghét cậu hơn bất kỳ thực thể nào khác trên đời, Tohno-kun."
+\
+cl c,crossfade,400
+`br
+\
+cl c,crossfade,400
+br
+` [line=4]Đối với hắn, tôi chính là kẻ giả mạo đáng ghét đã cướp đi mọi thứ vốn thuộc về hắn.@
+br
+` Không hề thuyên giảm dẫu chỉ một chút, lòng căm phẫn và thù hận tột cùng đó đã không ngừng sôi sục, thiêu đốt tâm trí hắn suốt tám năm qua.@
+` …… Thế nên, dĩ nhiên hắn chỉ muốn tự tay xé xác kết liễu mạng sống của tôi để đòi lại tất cả.
+\
+`"Thế nhưng, em vẫn vĩnh viễn là người bị hại đâm chết đêm đó cơ mà, Senpai."@
+ld c,"tachi/cel_t07b",crossfade,400
+\
+`[line=2]br
+ld c,"tachi/cel_t07b",crossfade,400
+` "Biến cố kinh hoàng xảy ra khi em mới chỉ là một đứa trẻ chín tuổi đầu."@
+br
+\
+` "Anh thực chất hoàn toàn không thể nhớ nổi quá khứ của mình ra sao."@
+` "Anh không hề có khao khát đi tìm kiếm cha mẹ ruột thực sự, thế nhưng lồng ngực này cũng không thể hồi tưởng lại nổi bất kỳ ký ức ấm áp nào mà mình từng có lúc nhỏ cả."@
+\
+` "Dẫu cho đứa trẻ Shiki đó thực chất có là ai đi chăng nữa, thì cậu bé ấy cũng đã hoàn toàn biến tan vào hư không rồi."
+`br
+br
+` "[line=4]…… Nhận thấy ngọn lửa căm phẫn đang nhen nhóm trong lời nói của tôi, Senpai khẽ lên tiếng cảnh báo đầy nghiêm nghị."@
+br
+\
+`"Lý do em quyết chí đi chiến đấu tuyệt đối không phải vì thù hận đâu Senpai. @ Em có một lý do vô cùng quan trọng khác bắt buộc phải tự mình đối mặt với Roa."@
+`"Cậu không hề... căm ghét hắn sao...?"@
+\
+` "Chính vì thế em bắt buộc phải lao đến giúp đỡ cô ấy. @ Em đã thề là sẽ sát cánh hỗ trợ cô ấy cho đến tận giây phút cuối cùng cơ mà."@
+`br
+` Đúng vậy.@
+` Thế nên tôi tuyệt đối không thể tiếp tục nằm đây an nhàn tĩnh dưỡng dẫu chỉ một khắc.@
+br
+[line=4]\
+`"…… Tôi thực sự không thể nào hiểu nổi cậu đấy. Tại sao cậu lại sẵn sàng liều mạng vì cô ấy đến nhường đó chứ? Arcueid bản chất là một ma cà rồng nguy hiểm cơ mà? Cô ấy hoàn toàn khác biệt với một con người bình thường như cậu."@
+`"[line=4]Em hoàn toàn chẳng thèm quan tâm đến sự khác biệt chủng tộc đó đâu Senpai. Điều duy nhất em biết bấy giờ chính là em đã yêu cô ấy mất rồi. Chỉ riêng lý do đó thôi cũng đã quá đủ để em sẵn lòng bảo vệ cô ấy rồi."@
+\
+cl c,crossfade,400
+` [line=4]Nghe lời confession thẳng thắn của tôi, Senpai bỗng giật mình đưa tay lên che miệng đầy bối rối, đôi gò má khẽ ửng hồng lên vì một lý do nào đó.
+\
+cl c,crossfade,400
+`"Tôi hiểu rồi... Cậu kiên quyết muốn bảo vệ cô ấy cho đến tận giây phút cuối cùng sao, Tohno-kun?"@
+\
+ld c,"tachi/cel_t07b",crossfade,400
+` [line=4]Mà trong tình cảnh kiệt quệ bấy giờ, sự an toàn tính mạng của cô ấy hoàn toàn không được đảm bảo.@
+`[line=4]br
+` Chính vì thế em bắt buộc phải lao đến giúp đỡ cô ấy.@
+` Em dẫu biết mình chẳng thể giúp ích được nhiều dẫu chỉ một chút sức lực mọn, nhưng ít nhất vẫn tốt hơn để Arcueid phải đơn độc chiến đấu một mình.
+br
+`"Việc đó hoàn toàn vô vọng thôi. @ Dẫu cho thể xác cậu có ở trạng thái khỏe mạnh nhất đi chăng nữa, cô ấy lúc này cũng tuyệt đối không có cửa chiến thắng trước Roa đâu."@
+`"Không thể so sánh nổi sao…… Làm sao chị có thể khẳng định chắc chắn như thế được chứ, Senpai?"@
+\
+` "[line=4]Cô ấy lúc này đang phải tiêu tốn phần lớn năng lượng khổng lồ của mình để không ngừng đàn áp cơn khát máu điên cuồng đang trỗi dậy bên trong. Điều này khiến sức mạnh chiến đấu của cô ấy bị giảm sút nghiêm trọng, thậm chí không thể địch nổi một nửa sức mạnh của Roa bấy giờ.@"@
+` "Sức mạnh tích lũy của hai người cộng lại còn chưa bằng một nửa của Roa, thế nên dẫu có sát cánh chiến đấu đi chăng nữa, kết cục vẫn chỉ là thất bại thảm hại mà thôi."
+\
+`"…… Trước hết, cô ấy bấy giờ thực sự đã cận kề cái chết lắm rồi. @ Nguồn sinh lực kiệt quệ đến cực hạn, lại phải liên tục dùng chút năng lượng tàn tạ đó để phong ấn bản năng khát máu.@"@
+` "Tình cảnh của cô ấy lúc này không khác nào một người bắt buộc phải chạy marathon sau khi lá phổi đã bị nghiền nát hoàn toàn vậy.@"@
+\
+` "Cận kề cái chết... tại sao chứ...?"@
+` "Rõ ràng cô ấy đang phải chịu đựng đau đớn, thế nhưng làm sao có chuyện sắp chết được cơ chứ......!"@
+` "[line=6]Dĩ nhiên rồi, đó chính là cái giá cực kỳ đắt đỏ mà cô ấy phải trả để đàn áp bản năng hút máu người. Chỉ cần cô ấy chịu đầu hàng uống dẫu một giọt máu, mọi đớn đau dày vò sẽ lập tức tan biến sạch sẽ."
+\
+`"Nhưng tôi biết chắc chắn cô ấy tuyệt đối không bao giờ làm điều đó, thế nên việc cô ấy quyết chí đi săn lùng Roa trong tình trạng kiệt quệ thế này chẳng khác nào đang lao đầu vào chỗ chết cả."@
+` "Chuyện đó...... chuyện đó thực sự quá phi lý và tàn bạo......!"@
+\
+cl c,crossfade,400
+`br
+` Căm phẫn tột cùng, tôi gồng mình ngồi bật dậy khỏi giường.
+cl c,crossfade,400
+br
+bg "bg/bg_40c",crossfade,400
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40c",crossfade,400
+quakey 2,100
+`"Khốn kiếp thật...!"@
+` "Tại sao... tại sao thể xác này lại yếu ớt và vô dụng đến nhường này chứ."@
+\
+[line=4]\
+[line=4]ld c,"tachi/cel_t07b",crossfade,400
+`"[line=4]Xin cậu đừng cố gượng ép bản thân nữa, Tohno-kun.@"@
+\
+ld c,"tachi/cel_t07b",crossfade,400
+` "Vết đâm từ con dao tà ác đó đã cướp đi và rút cạn một phần 'sự sống' chảy trong người cậu mất rồi."@
+`"... Rút cạn sự sống chảy trong người em sao...?"
+\
+`"Cậu cứ hình dung nó hệt như nguồn năng lượng sinh học giúp duy trì hoạt động tồn tại của cơ thể vậy. Bản chất của nguồn sinh lực đó là vô hạn, thế nhưng lượng lưu trữ lâm thời lại có hạn.@"@
+` "Năng lượng sinh học liên tục được cơ thể sản sinh ra khi còn sống, thế nhưng dung tích chứa đựng của mỗi người lại hoàn toàn khác nhau.@"@
+\
+` "Thông thường, trước khi tiêu thụ hết lượng sinh lực tích lũy lâm thời, cơ thể sẽ tự động hấp thu thêm năng lượng từ nguồn vô hạn kia để bù đắp. Thế nhưng, nếu bị cướp đoạt sạch sẽ toàn bộ sinh lực tích lũy chỉ trong một khoảnh khắc duy nhất, cơ thể sẽ lập tức rơi vào trạng thái chết lâm sàng, không còn đủ năng lượng tối thiểu để kích hoạt phản xạ hấp thu thêm sinh lực từ nguồn vô hạn kia nữa, và mọi hoạt động sinh học duy trì sự sống sẽ lập tức ngừng hoạt động hoàn toàn."
+\
+cl c,crossfade,400
+`br
+`br
+\
+cl c,crossfade,400
+br
+br
+ld c,"tachi/cel_t01b",crossfade,400
+`"Đúng vậy đấy, xét trên khía cạnh kỹ thuật thì không thể gọi đây là cái chết sinh học ngay lập tức được. Nó hệt như một chiếc xe hơi đã hoàn toàn cạn kiệt xăng vậy; dẫu động cơ không hỏng hóc nhưng nó tuyệt đối không thể lăn bánh được nữa."@
+\
+\
+ld c,"tachi/cel_t01b",crossfade,400
+`"Cậu cự nự cái gì chứ khi ngay cả việc tự mình đứng vững còn không thể làm nổi? Nếu cậu kiên quyết không muốn nằm, thì ít nhất hãy giữ nguyên tư thế ngồi yên vị thế này đi."@
+` Dưới sức ép dịu dàng nhưng kiên quyết của chị ấy, tôi bắt buộc phải ngồi yên vị ngay ngắn trên giường.
+\
+`"... Hà... hộc..."@
+` Chỉ riêng việc gồng mình giữ tư thế ngồi thẳng thế này đã khiến lồng ngực tôi thở dốc dồn dập dường như không thể hít thở nổi.@
+`"Chết tiệt thật."@
+\
+` Ngay cả khi có thể gặp lại Arcueid đi chăng nữa, tôi bấy giờ cũng chỉ biến thành một gánh nặng cản trở cô ấy chiến đấu mà thôi...!
+\
+[line=2][line=4]ld c,"tachi/cel_t01b",crossfade,400
+`"Cậu tuyệt đối không cần phải dấn thân vào trận chiến đẫm máu này nữa đâu, Tohno-kun. Mọi chuyện sẽ được kết thúc ổn thỏa trong vòng vài ngày tới thôi mà."@
+`"Ơ? Kết thúc... ý chị là sao...?"@
+\
+ld c,"tachi/cel_t01b",crossfade,400
+` "Trong vòng tối đa bảy ngày nữa, các đặc vụ tối thượng thuộc Táng Nghi Xã, trực tiếp dưới quyền chỉ đạo của Đức Giáo Hoàng, sẽ lập tức có mặt tại đây và kết liễu hoàn toàn sự tồn tại của Roa.@"@
+` "[line=4]Dẫu cho bi kịch này chỉ là một vòng lặp chuyển sinh tiếp theo của hắn đi chăng nữa, thì kiếp này của Roa tại thành phố này chắc chắn sẽ bị thanh trừng triệt để."
+ld c,"tachi/cel_t07b",crossfade,400
+cl c,crossfade,400
+` ... Bảy ngày sao?@
+` Tận bảy ngày nữa ư?!@
+\
+cl c,crossfade,400
+` "Nếu cứ ngồi chờ bảy ngày trôi qua thì mọi nỗ lực bảo vệ cô ấy bấy giờ chẳng phải đều trở nên vô nghĩa sao...!?"@
+` Tôi gồng mình, ép bản thân dồn toàn bộ chút sức lực tàn tạ còn sót lại vào đôi chân.@
+br
+\
+`"[line=4]... Senpai. @ Con dao của em bấy giờ đang ở đâu rồi?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Tôi đang giữ nó đây, thế nhưng liệu cậu thực sự có ý định đòi lại nó từ tôi sao, Tohno-kun?"@
+\
+` Thấy tôi khẳng định lý lẽ thuyết phục, Senpai khẽ thở dài, lục tìm trong túi áo choàng rồi lấy con dao của tôi ra đặt vào tay tôi.
+ld c,"tachi/cel_t07b",crossfade,400
+`"[line=4]Vì con dao này vốn thuộc về cậu, tôi xin phép được trả lại nó. @ Thế nhưng cậu thực sự vẫn quyết chí muốn quay trở lại trường học trong bộ dạng thảm hại này sao, Tohno-kun?"@
+`"Vâng ạ. @ Trước khi Arcueid tìm thấy Roa, em bắt buộc phải..."@
+`br
+\
+` Nếu mục tiêu tối thượng của SHIKI bấy giờ chính là lôi kéo và sát hại tôi, tôi tuyệt đối không thể tiếp tục lẩn trốn cuộc chiến sinh tử này được nữa.@
+` [line=4][line=4]Chính vì thế, để bảo vệ tính mạng cho Arcueid, tôi quyết định sẽ tự mình đi tiêu diệt Roa.
+br
+`"Trong tình cảnh rệu rã thế này của cậu sao?@"@
+` "Tôi thực sự không thể nào hiểu nổi đấy. Xin cậu hãy nói cho tôi nghe lý do tại sao cậu lại dành tình cảm sâu đậm cho cô ấy đến nhường đó đi.@"@
+` "[line=4]Chỉ cần cậu chịu cởi mở giãi bày thật lòng cho tôi nghe, tôi thề sẽ tuyệt đối không ngăn cản bước chân cậu nữa.@"@
+\
+` Biểu cảm trên gương mặt của chị ấy bấy giờ vô cùng bình thản và chân thành.@
+` Chị ấy thực sự vô cùng khát khao muốn được lắng nghe câu trả lời thật lòng từ tôi.
+\
+`"Bởi vì em thực lòng muốn mang lại hạnh phúc cho cô ấy."@
+` Tại sao lòng tôi lại khao khát được thực hiện điều đó đến thế?@
+` Có phải chỉ đơn giản là vì tôi đã yêu cô ấy sâu sắc?@
+\
+` [line=4][line=4]... Vâng, những lý do đó thực sự vô cùng quan trọng.@
+`br
+` Thế nhưng, sâu thẳm trong thâm tâm tôi, nỗi khát khao đó còn lớn lao hơn thế nhiều.@
+` Có một lời thề kiên định sâu trong linh hồn mà tôi tuyệt đối không bao giờ cho phép bản thân buông bỏ.
+\
+br
+ld c,"tachi/cel_t06b",crossfade,400
+`"Đó hoàn toàn là lời nói dối gượng gạo! Cậu làm sao có thể sẵn sàng đánh cược cả mạng sống quý giá của mình chỉ vì một lý do mơ hồ như thế chứ. Xin cậu hãy nghiêm túc cất lời trả lời thật lòng đi, Tohno-kun. ... Bản thân tôi thực sự không thể nào hiểu nổi kiểu lý do ngớ ngẩn này."@
+\
+` "Lúc nào cũng vậy, cô ấy luôn tự cách ly bản thân một cách ngớ ngẩn trong lâu đài cổ lạnh lẽo. Sống một cuộc đời như thế chẳng phải quá đỗi cô đơn và bi thảm sao? Em tuyệt đối không cho phép một cuộc sống vô nghĩa, bi kịch như thế được tiếp diễn thêm nữa. Chính vì thế "@
+ld c,"tachi/cel_t06b",crossfade,400
+` "[line=4]Sống một cuộc đời tẻ nhạt chỉ chuyên dùng cho chém giết như thế chẳng phải quá đỗi buồn chán sao? Em quyết chí không để cuộc sống bi kịch của cô ấy tiếp diễn như vậy nữa. Thế nên..."
+\
+` "Thế nên em chỉ... muốn cho cô ấy được tự mình trải nghiệm sâu sắc. Rằng cõi trần thế này còn vô vàn điều lộng lẫy đáng để khám phá, dẫu cho có những chuyện vô cùng kỳ quặc đi chăng nữa, thì việc cùng nhau trải nghiệm chính là điều thiêng liêng nhất.@"@
+` "Đến cả một đứa trẻ thơ ngây còn biết rõ điều đó cơ mà. "@
+` "[line=4]Kiếp sống này của cô ấy... đáng được trân trọng và hạnh phúc hơn thế nhiều."
+\
+`"…… Em chỉ muốn tự miệng nói với cô ấy điều đó thôi.@"@
+` "Ngay cả khi cô ấy nở nụ cười rạng rỡ hệt như đang được tận hưởng một điều gì đó vô cùng tuyệt vời bên cạnh em, em vẫn muốn cho cô ấy thấy rằng bất kỳ ai cũng..."
+[line=4]\
+\
+`br
+` Để cô ấy có thể nở nụ cười rạng rỡ suốt đời.@
+` [line=4]Bởi vì tôi thực sự yêu nụ cười hồn nhiên của Arcueid hơn bất kỳ thứ gì trên đời.
+[line=4]\
+br
+` Dẫu cho suốt hàng trăm năm qua cô ấy chưa từng được cứu rỗi, em vẫn muốn bù đắp và mang lại cho cô ấy thật nhiều hạnh phúc ngọt ngào, nhiều lần và nhiều lần hơn nữa.@"@
+` "Ít nhất em cũng phải tự tay cân bằng lại cán cân bất công của số phận đối với cô ấy. Trước hết, việc kết thúc sự cô độc lạnh lẽo của cô ấy thực sự vô cùng đơn giản mà.@"@
+\
+` "... Vâng, thực sự rất đơn giản thôi. Chỉ cần có một người bên cạnh trò chuyện vui vẻ và tự do làm những điều mình mong muốn."@
+` "Chỉ cần chia sẻ nỗi lòng cùng một ai đó và cùng nhau thực hiện những ước ao của bản thân."
+\
+br
+` Đúng vậy, nhìn vào tình trạng thể xác rệu rã thảm hại bấy giờ của tôi, quả thực tôi chẳng cần phải cố gượng hành động một cách tuyệt vọng đến nhường này.@
+` "Bất kỳ một ai khác ngoài kia cũng đều có thể giúp cô ấy thoát khỏi nỗi cô đơn lạnh lẽo đó."@
+\
+` …… Tôi biết rõ chứ.@
+` [line=4]Biết là vậy, thế nhưng tình cảm đôi lứa tuyệt đối không phải là thứ có thể dùng lý trí để phân định rạch ròi.
+\
+br
+` Tôi tuyệt đối không thể bỏ mặc chuyện này cho bất kỳ ai khác gánh vác, càng không thể trơ mắt nhìn cô ấy rời xa thế giới của tôi như thế.@
+` …… Đối với tôi lúc này, ngoài cô ấy ra, tuyệt đối không còn một ai khác quan trọng trên đời nữa.@
+\
+` [line=4]Bởi vì,
+` Arcueid chính là sinh linh duy nhất và duy nhất trên thế gian này mà tôi khát khao được tự tay mang lại hạnh phúc trọn đời.
+\
+br
+` Anh yêu cô ấy hệt như một người đàn ông yêu một người phụ nữ, yêu say đắm toàn bộ mọi nét đẹp thuộc về con người cô.@
+`br
+\
+` Để đạt được ước nguyện thiêng liêng đó, dẫu có phải đánh đổi bằng cả mạng sống rẻ rách này anh cũng cam lòng. Anh tuyệt đối không chấp nhận nhìn cô ấy phải chịu cái chết lạnh lẽo như thế.@
+` "Lúc này đây, đó là tất cả những gì em nhìn thấy, Senpai à."@
+br
+` ... Vâng, cuộc đời tôi chỉ còn duy nhất một mục tiêu đó thôi.@
+` Cô ấy bấy giờ còn quý giá hơn cả mạng sống của chính bản thân tôi nữa rồi.
+[line=4]\
+br
+`"…… Đừng có thốt ra những lời điên cuồng ngốc nghếch như thế nữa. @ Tuyệt đối không một ai khác trên cõi đời này ngoài cậu dám cất lời nói ra những điều điên rồ như thế đâu. @
+` [line=4]Cảm giác hệt như cậu chính là thực thể duy nhất và duy nhất trên thế giới này có đủ tư cách để thốt lên lời thề thiêng liêng đó vậy."@
+\
+ld c,"tachi/cel_t07b",crossfade,400
+ld c,"tachi/cel_t01b",crossfade,400
+`"…… Chuyện này thực sự khiến tôi thấy hơi bực mình đấy nhé. @ Cô gái ấy rõ ràng đã nhận được quá đủ hạnh phúc từ cậu rồi cơ mà."@
+` Hệt như đang chịu đầu hàng từ bỏ trước sự bướng bỉnh của tôi,
+` [line=4]Senpai cất giọng thì thầm nhẹ nhàng đầy vẻ bất lực.
+ld c,"tachi/cel_t01b",crossfade,400
+`br
+`br
+` Và rồi ngay sau đó,
+\
+br
+br
+`"[line=4]...!?"@
+`"Ôi dào, chẳng có gì phải ngạc nhiên đâu, cô ấy thực chất chỉ vừa mới rời đi thôi mà. Lúc nãy tôi đã cảm thấy có luồng khí tức dao động kỳ lạ bên ngoài cửa sổ, quả nhiên là cô ấy bám theo thật."@
+\
+playstop
+`"Không phải là cô ấy ưu tiên cậu hơn việc tiêu diệt Roa đâu nhé. Này, nếu cô ấy thực sự chọn đi săn Roa ngay sau khi lắng nghe những lời thổ lộ gan ruột vừa rồi của cậu, thì cô ấy quả thực xứng đáng phải nhận một hình phạt nghiêm khắc từ thần linh đấy."@
+`"... Ơ? Sao cơ ạ?"@
+` Vậy có nghĩa là...
+\
+[line=4]\
+`"Tại sao Arcueid lại đến phòng em thế Senpai……!?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Cô ấy lo lắng cho tình trạng thương tích của cậu sau khi bị Roa tấn công nên mới vội vã chạy đến đây kiểm tra đấy. Chắc chắn cô ấy đã nghe thấy toàn bộ cuộc đối thoại vừa rồi của hai chúng ta, rồi lặng lẽ rời đi để tìm Roa quyết chiến một mình rồi."@
+\
+` [line=4]Ý nghĩa thực sự của hành động đó chính là,
+ld c,"tachi/cel_t07b",crossfade,400
+\
+br
+`"[line=4]Dĩ nhiên rồi. Lắng nghe những lời thổ lộ ấm áp đầy chân thành kia, dẫu có là tôi đi chăng nữa thì tôi cũng sẽ đưa ra quyết định tương tự mà thôi. …… Vâng, lòng tôi thực sự vô cùng ghen tị đấy, nhưng đồng thời cũng cảm thấy xót thương cho số phận của cô ấy vô cùng."@
+`"Nhưng... tại sao lại như thế chứ?@"@
+\
+`"Cậu thì khát khao được lao ra ngoài bảo vệ cô ấy, thế nhưng cô ấy lại tuyệt đối không muốn cậu bị cuốn vào vòng xoáy đẫm máu tàn bạo này. @ [line=4]Chẳng phải chỉ tồn tại duy nhất một câu trả lời đúng cho nghịch lý này thôi sao?"@
+` Chị ấy cất giọng thản nhiên, vô cùng bình tĩnh hệt như đã sớm đoán trước được toàn bộ kịch bản bi kịch này sẽ xảy ra vậy.
+[line=4][line=4]\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Chị đừng nói những lời vô tình đó nữa...!"@
+[line=4]cl c,lshutter,400
+` Tôi giận dữ vung cánh tay run rẩy, nắm chặt lấy cổ áo choàng của chị ấy.@
+\
+\
+`"[line=4]Hóa ra chị đã sớm biết rõ bi kịch này sẽ xảy ra đúng không Senpai?"@
+cl c,lshutter,400
+`"... Không đâu, tôi thực sự chưa từng nghĩ cậu lại dành tình cảm sâu nặng đến nhường ấy cho cô gái ma cà rồng đó. ... Quả thực đây hoàn toàn là sai lầm trong việc tính toán của tôi."@
+` Nụ cười dịu dàng nhàn nhạt trên môi chị ấy vẫn không hề thay đổi.@
+\
+[line=4]\
+ld c,"tachi/cel_t07b",crossfade,400
+` ... Việc nổi giận thế này thực chất chẳng giải quyết được bất kỳ vấn đề gì cả.@
+` Arcueid bấy giờ đã thực sự biến mất vào màn đêm lạnh lẽo rồi.@
+` Việc tôi cần làm lúc này tuyệt đối không phải là đứng đây trút giận lên đầu Senpai.
+\
+`"[line=10]Em nhất định phải đi tìm cô ấy. Xin chị hãy dẫn đường đưa em đến đó đi."@
+`"Cậu nghĩ một Hành Pháp Giả lạnh lùng như tôi lại chịu nghe lời thỉnh cầu của một kẻ tàn tạ trong tình trạng thế này sao?"@
+` "Dĩ nhiên em biết chị sẽ không dễ dàng đồng ý rồi. "@
+`"Nếu cậu cứng đầu không chịu nghe lời khuyên ngăn của tôi, tôi thề sẽ ra tay cưỡng chế cậu nằm yên tại chỗ ngay tại đây đấy nhé."@
+\
+`"[line=4]"@
+` Nụ cười dịu dàng trên mặt chị ấy bấy giờ hoàn toàn tan biến sạch sẽ.@
+` Chị ấy ném về phía tôi một ánh nhìn vô cùng sắc bén và sâu thẳm, hệt như đang muốn nhìn thấu tận đáy linh hồn tôi.@
+` Thế nhưng vào lúc này, tôi tuyệt đối không cho phép bản thân lùi bước dẫu chỉ một phân.
+ld c,"tachi/cel_t06b",crossfade,400
+`"[line=4]"@
+cl c,crossfade,400
+` Và rồi sau đó,
+` Senpai lại khẽ thở dài một hơi bất lực thêm lần nữa.
+\
+[line=10]ld c,"tachi/cel_t01b",crossfade,400
+cl c,crossfade,400
+` Chị ấy nhẹ nhàng đưa tay gỡ bàn tay đang nắm chặt cổ áo ra rồi bước tránh sang một bên.@
+`"Tôi sẽ chịu trách nhiệm dẫn đường đưa cậu đến đó, thế nên làm ơn hãy giữ im lặng suốt hành trình đi nhé."@
+\
+ld c,"tachi/cel_t01b",crossfade,400
+` Tôi hoàn toàn không có lấy một giây để kinh ngạc.@
+` Chỉ bằng một cử động vô cùng nhẹ nhàng, chị ấy đã nhấc bổng cơ thể rệu rã của tôi ôm chặt vào lòng.
+\
+`"[line=4]Nếu để Akiha-san bắt gặp hai chúng ta bấy giờ, em ấy chắc chắn sẽ dùng mọi cách để ngăn cản, thế nên chúng ta bắt buộc phải sử dụng phương pháp thô bạo hệt như cô gái kia đã làm thôi đúng không?"@
+cl c,lshutter,400
+` Khẽ cất bước nhẹ nhàng không một tiếng động,
+` chị ấy ôm chặt lấy tôi rồi dứt khoát nhảy vọt ra ngoài khung cửa sổ phòng khách.
+\
+bg #000000,lcartain,800
+[line=4]!w2000
+bg "bg/bg_01c",lcartain,800
+` ... Hai chúng tôi đã tới được khuôn viên trường học.@
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_01c",lcartain,800
+`"Đúng vậy. Thế thì kể từ khoảnh khắc này trở đi, cậu bắt buộc phải tự mình lê bước chân đi thôi."@
+` Dứt lời, Senpai khẽ đặt thân hình tôi đứng vững xuống nền đất lạnh.
+\
+`""@
+` [line=4]Toàn bộ khuôn viên trường học bấy giờ bao trùm một sự im lặng đến đáng sợ, rợn người.@
+` Một khi hai chúng tôi đặt chân bước vào trong, thứ duy nhất chờ đợi phía trước chính là một cuộc chiến sinh tử một mất một còn.@
+` Hít một hơi thật sâu để nén lòng, tôi vội vã tháo chiếc kính cận ra.@
+\
+`[line=6]br
+` Cơn đau đầu búa bổ bấy giờ lại bắt đầu nhói buốt kịch liệt.@
+` Bên cạnh việc thể xác hoàn toàn tê liệt không thể di chuyển tự do, lồng ngực tôi bấy giờ trào dâng một cảm giác buồn nôn khó chịu vô cùng.
+\
+bg "bg/bg_01d",crossfade,1500
+br
+` Senpai dõi mắt nhìn lên bầu trời đêm cao rộng với biểu cảm vô cùng nghiêm nghị và lo âu.@
+bg "bg/ima_02",crossfade,800
+\
+ld c,"tachi/cel_t07b",crossfade,400
+\
+bg "bg/bg_01d",crossfade,400
+bg "bg/ima_02",crossfade,800
+ld c,"tachi/cel_t07b",crossfade,400
+`"... Vâng, theo truyền thuyết cổ xưa thì hoàng tộc Chân Tổ vốn dĩ có nguồn gốc xuất thân từ mặt trăng, thế nên họ có khả năng hấp thụ và cường hóa sức mạnh vô hạn từ ánh trăng tròn.@"@
+\
+bg "bg/bg_01d",crossfade,400
+` Chị ấy khẽ nghiến chặt răng đầy căm phẫn.
+ld c,"tachi/cel_t07b",crossfade,400
+` "Hừ, bất tử về mặt lý thuyết sao?@
+` Thế nhưng thứ sức mạnh thần thoại đó tuyệt đối chẳng mang lại dẫu chỉ một chút ý nghĩa đối với tôi.@
+` Miễn là tôi có thể tiếp cận sát bên người hắn. Dẫu cho ngay vào khoảnh khắc tiếp theo lồng ngực này có bị đâm ngập dao thêm một lần nữa đi chăng nữa, chỉ cần tôi tiếp cận sát bên tôi thề sẽ tự tay đâm xuyên qua toàn bộ khái niệm 'cái chết' chảy trên người hắn.
+\
+\
+` "[line=4]…… Bình thường tôi vốn dĩ vô cùng yêu thích những đêm trăng sáng thế này, thế nhưng đêm nay quả thực là một ngoại lệ tồi tệ."@
+` Vị cố vấn tốt bụng của tôi khẽ thở dài bất lực.@
+`[line=4]br
+\
+` [line=4]Dưới tầm mắt trần không đeo kính, tôi thậm chí đã bắt đầu nhìn thấy vô vàn những đường tử tuyến chằng chịt đang không ngừng hình thành rõ rệt trong không trung.@
+`br
+`"Thật sao chị? Còn em thì ngay từ đầu đã vô cùng oán ghét những đêm trăng sáng thế này rồi."@
+br
+cl c,crossfade,400
+\
+br
+`br
+`br
+cl c,crossfade,400
+\
+br
+br
+br
+br
+br
+br
+`br
+`br
+\
+`br
+\
+br
+br
+br
+br
+br
+br
+`br
+` Thế nhưng với trạng thái điên loạn tột cùng này,
+\
+[line=4]\
+bg "bg/bg_01c",crossfade,800
+br
+` [line=4]Tay nắm chặt lấy chuôi dao, tôi kiên định sải bước chân đi thẳng về phía tòa nhà trường học.
+\
+\
+bg "bg/bg_01c",crossfade,800
+` Lúc này đây, ngay cả việc lê bước đi bộ bình thường cũng tiêu tốn sạch sẽ toàn bộ chút sức lực tàn tạ của tôi.@
+` Khoảng cách ngắn ngủi từ cổng vào đến tòa nhà học bấy giờ dường như kéo dài vô tận hệt như một thiên niên kỷ.
+\
+bg "bg/bg_03c",lcartain,800
+`"Tohno-kun, hai chúng ta bắt buộc phải tạm thời chia đường tại đây thôi."@
+` "Senpai bỗng đột ngột cất lời đề nghị."@
+`"Kể từ giây phút này trở đi, cậu hãy tự mình tiến lên phía trước nhé. Bản thân tôi phải đi thực hiện một nhiệm vụ khác."@
+\
+ld c,"tachi/cel_t01b",crossfade,400
+`ld c,"tachi/cel_t07b",crossfade,400
+` "Đợi đến khi cậu và Arcueid bị Roa dồn vào chân tường hiểm nghèo, tôi sẽ chực chờ cơ hội đó để tung đòn kết liễu loại bỏ hắn."@
+` Chị ấy cất giọng thản nhiên kể về kế hoạch tàn bạo đó với gương mặt vô cùng nghiêm nghị.
+[line=4]\
+`"... Chị... chị thực sự nghiêm túc đấy chứ, Senpai?"@
+ld c,"tachi/cel_t07b",crossfade,400
+` "Cậu đang chiến đấu vì bảo vệ cô ấy đúng không, Tohno-kun?@ Tương tự như thế, bản thân tôi cũng có lý do và sứ mệnh bắt buộc phải hoàn thành. Trận chiến từ bây giờ tôi tuyệt đối không thể dang tay giúp đỡ cậu được nữa đâu."
+\
+\
+` "Bởi vì biết đâu đây sẽ là lần cuối cùng hai chúng ta có cơ hội trò chuyện thế này, cho phép em được nói lời cảm ơn và em thực sự rất quý mến chị đấy, Senpai. @ Những chuỗi ngày ngắn ngủi được cùng chị và Arihiko tán gẫu về những chuyện ngớ ngẩn ở trường thực sự vô cùng vui vẻ."@
+ld c,"tachi/cel_t01b",crossfade,400
+`"[line=4]Vâng, những chuỗi ngày bình yên đó đối với tôi... cũng đẹp đẽ hệt như một giấc mơ ngọt ngào vậy."@
+\
+\
+` Dứt lời, Senpai khẽ nhún người, biến mất hoàn toàn vào bóng tối của tòa nhà hệt như một bóng đen lướt qua.@
+ld c,"tachi/cel_t01b",crossfade,400
+` [line=4]Tôi ép bản thân phớt lờ nỗi đau nhức buốt dội lên theo từng bước chân di chuyển, điên cuồng lao thẳng vào trong tòa nhà trường học.
+cl c,lshutter,800
+\
+bg "bg/bg_10c",lcartain,1500
+[line=6]play "*6"
+waveloop se_02
+\
+bg #000000,lcartain,1500
+bg "bg/bg_10c",lcartain,1500
+play "*6"
+waveloop se_02
+` Tôi căm phẫn hét lớn khi điên cuồng chạy thục mạng lên các bậc cầu thang.
+\
+bg #000000,lcartain,800
+br
+` Tôi cố gắng hít thở gấp gáp.@
+` Cuối cùng tôi cũng đã lên tới được tầng bốn.@
+\
+bg #000000,lcartain,800
+bg "bg/bg_11c",lcartain,800
+\
+bg #000000,lcartain,800
+` [line=4]Tôi băng qua dãy hành lang tối tăm và tiếp cận sát giao điểm của lối đi kết nối.@
+`[line=6]br
+` Và ở ngay điểm cuối cùng.@
+\
+bg #000000,lcartain,800
+bg "bg/bg_49",lcartain,800
+br
+` [line=4]hai bóng người bấy giờ đang đứng trừng trừng nhìn nhau đầy sát khí từ một khoảng cách ngắn.@
+br
+\
+bg "bg/bg_49",lcartain,800
+` Và ở ngay chính giữa hành lang, Arcueid đang quỳ quỵ gối trên nền đất, lồng ngực thở dốc dồn dập đầy khó nhọc.
+\
+br
+` Tôi hét lớn gọi tên cô ấy rồi định lao nhanh về phía cô,
+br
+[line=4]ld c,"tachi/ark_t23",lshutter,400
+\
+[line=4]cl c,crossfade,400
+bg #9c0120,crossfade,400
+bg "bg/bg_49",crossfade,400
+ld c,"tachi/ark_t23",lshutter,400
+`"...!?"@
+cl c,crossfade,400
+bg #9c0120,crossfade,400
+bg "bg/bg_49",crossfade,400
+\
+` "Hahaha... ha."@
+` "Cất giọng chế giễu ngạo nghễ, SHIKI không, linh hồn ác quỷ Roa cười khẩy khinh bỉ."@
+[line=4]cl c,crossfade,400
+ld c,"tachi/roa_t01a",lshutter,400
+`"[line=4]Ma Nhãn sao... Tại sao chứ?"@
+` "Tại sao Arcueid lại nhẫn tâm dùng thứ năng lực đó lên người tôi vào lúc này cơ chứ?"@
+` "[line=4]Đã đến tận giây phút định mệnh này rồi cơ mà.@"@
+cl c,crossfade,400
+\
+` "[line=4]Tại sao cậu lại làm thế hả Arcueid...!!"@
+`br
+` Arcueid lẳng lặng ngoảnh mặt đi chỗ khác, hướng ánh nhìn sắc lạnh về phía Roa.
+[line=4]\
+` [line=4]... Cô ấy tuyệt đối không cất lên dẫu chỉ một lời hồi đáp.@
+` Cô ấy hoàn toàn không mảy may nói với tôi một câu nào.@
+br
+\
+\
+` Tôi hoàn toàn nghẹn giọng không thể hét lên nổi.@
+` Tuyệt đối không phải vì sức mạnh Ma Nhãn hóa đá của cô ấy áp chế,
+` mà bởi vì sự thật tàn bạo nhãn tiền bấy giờ đang hoàn toàn bóp nghẹt lấy lồng ngực tôi. Tôi căm phẫn nguyền rủa sự bất lực và yếu ớt của bản thân, thể xác vốn đã gượng ép vận động suốt thời gian qua bấy giờ bắt đầu lạnh ngắt dần mất đi nhiệt lượng.
+\
+` [line=4][line=4]Roa ngửa cổ cười lớn đầy thỏa mãn khi dõi mắt quan sát tình cảnh đáng thương của hai chúng tôi bấy giờ.
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"Ta hiểu rồi. Cuối cùng cô cũng đã chuẩn bị sẵn sàng tâm lý chịu chết rồi đúng không, Công chúa Chân Tổ?"@
+br
+` Arcueid dẫu vậy vẫn quỳ gối im lìm trên sàn, tuyệt đối không hề nhúc nhích.
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"[line=4]Mọi chuyện thực sự vô cùng thú vị, tên nhóc Shiki giả mạo kia quả thực mang lại cho ta quá nhiều bất ngờ đấy. @ Ả Công chúa kiêu ngạo này bấy giờ lại tình nguyện liều mạng quyết chiến sinh tử với ta chỉ để bảo vệ mạng sống rẻ rách của ngươi.@"@
+` "Nếu là Ả Công chúa ở trạng thái đỉnh cao sức mạnh năm xưa, ta chắc chắn phải khiếp sợ lùi bước, thế nhưng lúc này cô ta chỉ còn là một kẻ khuyết tật chẳng khác gì một ma cà rồng thường nhật yếu ớt cả. @ Cô ta thậm chí bấy giờ còn chẳng sở hữu nổi một phần mười sức mạnh nguyên thủy của Chân Tổ nữa cơ mà.@"@
+` "Thật nực cười làm sao, cô ta đáng lẽ ra nên chịu đầu hàng chấp nhận bản năng thèm máu của mình từ sớm mới phải."@
+\
+ld c,"tachi/roa_t02a",crossfade,400
+\
+` Chuyện gì đang xảy ra thế kia?@
+` Nếu đầu óc tôi bấy giờ không gặp phải ảo giác [line=4]thì toàn bộ cấu trúc không gian xung quanh thân hình Arcueid bấy giờ đang bắt đầu chao đảo, mờ nhạt đi một cách dị thường.
+\
+ld c,"tachi/roa_t05a",crossfade,400
+\
+` "[line=4]Không Tưởng Cụ Hiện sao? Trong tình cảnh kiệt quệ rệu rã thế này mà cô vẫn có đủ năng lượng để kích hoạt dị năng huyền bí đó sao? Quả nhiên không hổ danh là đứa con cưng tối thượng của hoàng tộc Chân Tổ."@
+`"[line=4]Roa khẽ nhíu mày, dè chừng nhảy lùi lại phía sau một khoảng cách an toàn.@"@
+\
+ld c,"tachi/roa_t05a",crossfade,400
+`"[line=4]..."@
+`"Arcueid khẽ nín thở định thần.@"@
+` [line=4]Chao đảo chập chùng, cô ấy tạm dừng mọi chuyển động để tập trung toàn bộ chút năng lượng tàn tạ cuối cùng chảy trong người.@
+`"..."
+\
+ld c,"tachi/roa_t04c",crossfade,400
+`"[line=6]Cô tự biết rõ câu trả lời đúng không? Đúng vậy, thứ vũ khí đó chính là 'trải nghiệm thực tế về cái chết'.@"@
+` "Bản thân ta biết rõ cái chết là gì, thế nhưng một sinh vật bất tử bẩm sinh như cô thì vĩnh viễn không thể hiểu nổi. Đó chính là khoảng cách đẳng cấp bất khả xâm phạm giữa hai chúng ta.@"@
+` "…… Phải, miễn là một thực thể vẫn đang sống, nó tuyệt đối không bao giờ có thể tự mình trải nghiệm được cái chết là gì. Kẻ duy nhất trên thế gian này thấu hiểu rõ chân lý đó chỉ có thể là kẻ tái sinh vô hạn như ta mà thôi."@
+\
+ld c,"tachi/roa_t04c",crossfade,400
+\
+`"Bản chất của nhân loại là luôn luôn khiếp sợ trước những điều chưa biết. @ Quy luật đó vĩnh viễn không bao giờ thay đổi dẫu cho đó có là chủng tộc siêu việt như hoàng tộc Chân Tổ đi chăng nữa. @ Dẫu cho cô có dày công nghiên cứu học thuật bói toán bao nhiêu đi nữa, dẫu cho tuổi thọ có kéo dài vô tận thế nào đi nữa, cô cũng tuyệt đối chưa từng được nếm trải cái chết là gì.@"@
+` "Các người đạt được quyền năng tối thượng bằng cách không ngừng chống chọi lại cái chết, thế nhưng đồng thời chính sự thiếu hụt trải nghiệm đó lại là điểm tử huyệt chí mạng của các người.@"@
+br
+\
+\
+`"Lúc này đây, ta đang tồn tại và chung sống bình thường dưới danh nghĩa con người của thời đại này. Một bóng ma cổ xưa không thuộc về thời đại này như cô hoàn toàn không có tư cách để phán xét ta đâu."@
+`br
+` *Rắc! Rắc!*@
+\
+ld c,"tachi/roa_t02a",crossfade,400
+`"Ta biết vô cùng rõ chứ. Cả khái niệm về cái chết, về bóng tối vĩnh hằng, về khoảng không trống rỗng mà ta đã từng đi qua tới mười bảy lần!@"@
+br
+` "Thế nên dẫu cho cô có ra tay xé xác tiêu diệt thể xác này ngay tại đây đi nữa, ý niệm tồn tại của ta vẫn vĩnh viễn trường tồn cùng thế giới này. Tại sao cô vẫn cố chấp không chịu hiểu rằng mọi sự kháng cự đối với ta bấy giờ đều chỉ là vô nghĩa?"@
+` Roa ngạo nghễ vươn đôi tay lên cao hơn.@
+\
+[line=4][line=4]\
+ld c,"tachi/roa_t01a",crossfade,400
+`"Thôi được rồi. Nếu cô vẫn kiên quyết dùng chút sức tàn để thách thức quyền năng của ta, ta tuyệt đối không nương tay nữa. Sự kháng cự ngu xuẩn của cô bấy giờ sẽ được đền đáp bằng cái chết thảm khốc nhất."@
+cl c,crossfade,400
+` Roa hạ thấp đôi tay xuống, khom người thủ thế.@
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"[line=3]Có điều gì đó dị thường..."@
+cl c,crossfade,400
+` Tình thế này thực sự vô cùng tồi tệ.@
+` Toàn bộ tế bào trong đại não tôi đang điên cuồng gào thét cảnh báo. Tôi tuyệt đối không được phép để bi kịch này xảy ra. @
+\
+` [line=6]Tôi hoàn toàn không có lấy một bằng chứng cụ thể nào để chứng thực cho linh cảm đó.@
+` Thế nhưng, là một kẻ đã quá quen thuộc với việc chứng kiến cái chết của vạn vật suốt thời gian qua, tôi có thể khẳng định chắc chắn điều này. @
+` Giữa Roa và Arcueid... @ Trong hai thực thể đó, ai mới thực sự là kẻ đang đứng cận kề vực sâu của cái chết hơn?
+\
+br
+` Tôi... tôi hoàn toàn nghẹn giọng, không thể thốt lên lời ngăn cản.
+\
+br
+\
+[line=4]br
+` Một tiếng động kinh hoàng xé toạc bầu không khí ngay trước mắt.@
+\
+br
+[line=4]playstop
+br
+bg "bg/bg_49",lshutter,400
+` Toàn bộ dãy hành lang bấy giờ chấn động kịch liệt.@
+\
+playstop
+monocro #00ffff
+bg "bg/bg_49",lshutter,400
+`"Hự... a!"@
+cl c,bshutter,400
+` Chỉ trong một tích tắc ngắn ngủi, toàn bộ thể xác của Roa đã bị xé toạc tan biến sạch sẽ.@
+\
+ld c,"tachi/roa_t03a",lshutter,400
+[line=6]\
+cl c,bshutter,400
+bg "bg/bg_49",lshutter,400
+` Sự rung chuyển chấn động của dãy hành lang bấy giờ đột ngột dừng lại.@
+` Biến cố kinh hoàng đó thực chất chỉ diễn ra trong vòng chưa đầy một giây ngắn ngủi.@
+\
+monocro off
+bg "bg/bg_49",lshutter,400
+!w1000
+br
+br
+br
+\
+!w1000
+br
+br
+br
+br
+br
+br
+br
+` Hai mắt cá chân trơ trọi đó bỗng chốc cử động.@
+\
+wavestop
+` [line=6]Ngay trong tích tắc di chuyển đó,
+br
+\
+ld c,"tachi/ark_t18",crossfade,400
+br
+` Arcueid dẫu vậy vẫn bất lực quỳ gối trên sàn, không thể cựa quậy.@
+` Ngay trước mắt cô ấy,
+\
+ld c,"tachi/ark_t18",crossfade,400
+`"[line=6]Arc..."@
+` Tôi hoàn toàn không thể cất lời cảnh báo cô ấy kịp thời.@
+` Thể xác vừa tái tạo hoàn hảo của Roa lập tức vung móng vuốt chém xuyên qua phần bụng của cô ấy.@
+` Vết chém sắc ngọt đi qua hệt như cắt xuyên qua một đường vẽ thẳng tắp, tuyệt đối không hề có lấy một vết rách da thịt hay dẫu chỉ một giọt máu tươi nào tuôn chảy cả.
+\
+[line=6]cl c,crossfade,800
+ld c,"tachi/roa_t04a",crossfade,800
+`"Một đòn phản công vô cùng hoàn hảo đúng không nào. Quả thực quyết định hành sự vào đêm trăng tròn đêm nay là vô cùng sáng suốt. Chỉ cần mặt trăng khuyết đi dẫu chỉ một chút thôi, ta tuyệt đối không bao giờ có thể hồi sinh kỳ diệu từ duy nhất hai mắt cá chân thế này được."@
+`"" @
+\
+cl c,crossfade,800
+ld c,"tachi/roa_t04a",crossfade,800
+` [line=4]Thân hình mảnh mai của Arcueid đổ sụp xuống sàn nhà lạnh lẽo.
+[line=8]\
+ld c,"tachi/roa_t02a",crossfade,800
+br
+cl c,crossfade,400
+` Roa ngạo nghễ cất giọng chế giễu rồi thẳng chân đá mạnh vào thân hình bất động của Arcueid. @
+\
+ld c,"tachi/roa_t02a",crossfade,800
+`"[line=4]Arcueid...!"@
+` Sức mạnh khóa chặt hóa đá trên người tôi bấy giờ bỗng chốc tan biến, tôi đã có thể cử động lại được.@
+cl c,crossfade,400
+` Nguyên nhân duy nhất chính là vì luồng sinh lực duy trì đôi mắt huyền bí của cô ấy bấy giờ đã hoàn toàn lụi tàn rồi.
+\
+\
+` ... Điều đó chứng thực sức mạnh sinh học duy trì sự sống của cô ấy đã không còn hoạt động được nữa rồi.
+\
+br
+` [line=4]Tôi điên cuồng hét lên để xua đi nỗi lo sợ tột cùng đang bóp nghẹt lồng ngực, vội vã dang tay ôm chặt lấy thân hình mảnh mai của cô ấy vào lòng.
+\
+br
+bg #000000,crossfade,1500
+\
+` [line=4]Cơ thể cô ấy bấy giờ lạnh ngắt hệt như một tảng băng trôi.@
+` Chút nhiệt lượng cuối cùng còn sót lại chảy trong huyết quản cô ấy bấy giờ mỏng manh hệt như ngọn nến trước gió lớn sắp sửa tắt lịm.@
+\
+!w500
+bg #000000,crossfade,1500
+[line=4]\
+bg "event/ark_e07",crossfade,800
+play "*7"
+`"Arcueid!"@
+` Tôi căm phẫn gọi lớn tên cô ấy.@
+` [line=4]Đôi mi khép chặt của cô ấy khẽ mệt mỏi mở ra, ánh nhìn mơ màng hệt như vừa tỉnh giấc sau một giấc mộng dài.@
+\
+bg "event/ark_e07",crossfade,800
+play "*7"
+[line=4]\
+`"Em... em đang thốt ra những lời điên rồ gì thế hả em yêu? Tại sao mọi chuyện lại đi đến bước đường này chứ?"@
+` ... Lồng ngực nghẹn ngào khiến tôi hoàn toàn không thể cất lời nói chuyện rõ ràng được.@
+` [line=4]Tôi muốn thốt lên những câu nói ấm áp hơn, ngọt ngào hơn để an ủi cô ấy, thế nhưng đại não tôi bấy giờ hoàn toàn tê liệt chẳng thể suy nghĩ được gì thêm nữa.
+\
+` Tôi hoàn toàn mất đi sự bình tĩnh bấy giờ.@
+\
+` [line=4][line=4]Nếu tôi dũng cảm tháo chiếc kính cận ra... tôi biết chắc chắn bản thân sẽ phải nhìn thấy một cảnh tượng tàn bạo còn tồi tệ hơn gấp bội.@
+`br
+` Thế nên, vượt lên trên tất cả,
+\
+\
+`"Tại sao chứ... tại sao em lại làm vậy..."@
+` [line=4]Đó là tất cả những gì tôi có thể thốt lên trong nghẹn ngào.@
+br
+` [line=4]tôi chỉ biết siết chặt vòng tay ôm lấy cô ấy thật chặt.@
+`br
+\
+` [line=4][line=4]Thể xác cô ấy bấy giờ đã hoàn toàn mất sạch toàn bộ sức lực rồi.@
+` Dẫu vậy, cô ấy vẫn mỉm cười vô cùng ấm áp và hạnh phúc nhìn tôi.
+\
+`"Không thể thế được!"@
+br
+\
+`"Tại sao chứ? Tại sao em lại dại dột tự mình gánh chịu mọi thứ đơn độc một mình như vậy chứ...! Hai chúng ta rõ ràng là đồng minh sát cánh bên nhau cơ mà, đã hứa là nhất định sẽ đồng hành cùng nhau đến tận giây phút cuối cùng cơ mà..."!@
+`"... Ưm... đúng vậy nhỉ... em... dường như đã lỡ quên mất lời hẹn ước mất rồi."@
+\
+[line=6]\
+`"... Không đâu anh, chuyện đó hoàn toàn không phải là sự thật đâu Shiki à. Anh thực chất đã sát cánh giúp đỡ em nhiều hơn mức cần thiết rồi. ... Thế nên... đối với em... chừng đó thôi... thực sự đã quá đủ... rồi."@
+\
+` [line=4][line=4][line=4][line=4]*Hộc... hộc...*@
+` Cô ấy khẽ ho ra một ngụm máu tươi nóng hổi rồi gượng nở một nụ cười đau đớn kịch liệt.
+[line=2][line=4]\
+\
+`""@
+br
+` ... Đôi mắt đỏ của Arcueid bấy giờ đã hoàn toàn mờ đục, chẳng còn nhìn thấy bất kỳ hình ảnh nào nữa rồi.@
+` Cô ấy không hề nhận thức được vết thương hiểm nghèo của mình, càng không biết được sự thật tà ác rằng Roa bấy giờ vẫn đang sống sờ sờ đứng trước mặt.@
+\
+` ... Thời gian sống của cô ấy.@
+` [line=6]Kể từ cái tích tắc cô ấy tung ra đòn Không Tưởng Cụ Hiện tấn công lúc nãy, sinh lực duy trì sự sống của cô ấy thực chất đã hoàn toàn cạn kiệt ngay tại khoảnh khắc đó rồi.
+\
+`"Ừm... Anh xin lỗi. Anh xin chân thành cảm ơn em..."@
+` Tôi hoàn toàn không thể làm nổi.@
+br
+`br
+` ... Làn sáng trăng huyền ảo phản chiếu trong đôi mắt cô ấy bấy giờ đang mờ dần, tắt lịm.@
+\
+[line=4]\
+`br
+`br
+br
+`br
+`br
+\
+br
+br
+br
+br
+br
+br
+` [line=4]... Hoàn toàn không kịp suy nghĩ dẫu chỉ một giây, tôi căm phẫn hét lớn lên như một kẻ điên loạn.@
+`"... "@
+\
+` Thế nhưng một cách vô cùng nhẹ nhàng và yếu ớt,
+`[line=4]br
+` cô ấy khẽ lắc mái đầu vàng óng mượt để phủ nhận thỉnh cầu của tôi.
+\
+`"Tại sao chứ!?! Đừng nói với anh là em bấy giờ vẫn còn sợ hãi việc hút máu người nhé? Em hãy nhìn kỹ lại đi, chính miệng em đã từng nói với anh câu đó lúc ở cửa hàng ăn nhanh cơ mà! Em đã bảo nếu một chú chim hay một chú cá có cùng đẳng cấp trí tuệ như con người thì em vẫn sẽ sẵn lòng ăn thịt chúng đúng không? Em bảo em sẽ làm thế cơ mà!@"@
+` "Nếu việc tước đoạt sinh mệnh của kẻ khác giúp bản thân em có thể sinh tồn, em nhất định sẽ làm cơ mà!@"@
+` "Chẳng phải việc cướp đoạt sinh mệnh của thực thể khác để duy trì sự sống của bản thân vốn dĩ là quy luật sinh học tự nhiên vô cùng hợp lý của thế giới này cơ mà...!"
+br
+` "Chính miệng cô ấy đã từng cất lời khẳng định như thế vào lúc đó cơ mà."@
+\
+[line=4]\
+!w1000
+`"Tại sao cô ấy bấy giờ lại chỉ lắc đầu từ chối với đôi mắt đượm buồn đầy đáng thương như thế chứ?"@
+` "Một sự khước từ đầy kiên định."@
+\
+` Cô ấy khẽ thì thầm nhẹ nhàng...
+` "Bởi vì em thực sự vô cùng yêu thích trò chơi giả định 'Nếu như' của anh, nó mang lại cho em một chút hy vọng ngọt ngào."
+\
+!w1000
+` Dẫu biết rõ đó chỉ là những lời ngụy tạo để làm đẹp thêm cho sự thật tàn bạo bấy giờ. Nhưng ít nhất anh vẫn cảm nhận được... có một chút hy vọng mỏng manh hiện hữu..."@
+` Em có cảm nhận được thế không? Thế nhưng tôi hoàn toàn không thể cất lời nói trọn vẹn câu nói của mình nữa.@
+` [line=4]Lồng ngực tôi thắt lại, cổ họng nghẹn ứ dữ dội.@
+` Tôi hoàn toàn... không thể cất giọng nói trôi chảy nổi nữa rồi.
+\
+\
+` [line=3]Cất giọng thì thầm run rẩy, tôi khẽ đưa tai sát lại gần lắng nghe thỉnh cầu cuối cùng của cô ấy.@
+`"[line=2]Vâng... Em khao khát... được anh hôn em... Shiki..."@
+`br
+` "Chuyện đó..."@
+` "Một thỉnh cầu vô cùng đơn giản và thiêng liêng đúng không? Anh dĩ nhiên sẽ thực hiện nó cho em rồi."
+\
+` Tôi nhẹ nhàng áp chặt bờ môi mình lên làn môi mềm mại của cô ấy.@
+` Nụ hôn này hoàn toàn không mang vị ngọt ngào và cuồng si như những nụ hôn trước đây của hai chúng tôi, cũng chẳng có chút ấm nồng dịu nhẹ dẫu chỉ một chút.@
+` Chỉ đơn thuần là,
+br
+[line=4]\
+`br
+\
+` "…… Em vẫn luôn… khao khát… được anh trao cho… nụ hôn ngọt ngào giống như thế này."@
+\
+`"…… Ơ?@ Em quả thực chỉ toàn thích những điều kỳ quặc thôi Arcueid à."@
+`"…… Vâng, nhưng em thực sự vô cùng hạnh phúc. @ Đơn giản là… cảm giác được yêu thương thực sự rất tuyệt vời. @ Em đã phải sống cuộc đời dài đằng đẵng suốt hàng trăm năm qua… nhưng chưa bao giờ em cảm thấy hạnh phúc và mãn nguyện như giây phút này cả."@
+br
+`br
+` "Em tự nhủ với lòng mình… có lẽ… được tan biến vào hư không trong vòng tay ấm áp của anh thế này… chính là cái kết đẹp đẽ nhất của đời em rồi."
+\
+`br
+` Sau khi thì thầm những lời biệt ly ấm áp cuối cùng đó,
+\
+br
+` [line=4]Toàn bộ luồng sinh lực tàn tạ bấy giờ đã hoàn toàn rời khỏi thể xác lạnh lẽo của cô ấy.
+!w1000
+br
+bg "bg/bg_49",crossfade,1500
+\
+` Tuyệt đối không hề có bất kỳ lời hồi đáp nào vang lên nữa.@
+` Dẫu cho thân xác ngọc ngà của cô ấy bấy giờ vẫn đang nằm im lìm trong vòng tay tôi...@
+\
+playstop
+bg "bg/bg_49",crossfade,1500
+` Thế nhưng, vĩnh viễn không bao giờ nữa.@
+` Tất cả những khoảnh khắc hạnh phúc ngọt ngào đó sẽ tuyệt đối không bao giờ có thể xảy ra thêm một lần nào nữa trên đời.
+\
+`"Một lời hẹn ước..."@
+` Rốt cuộc tôi đã làm cái quái gì thế này chứ?@
+br
+` [line=4]Tôi đã từng muốn chỉ dạy cho cô ấy biết bao nhiêu điều bình dị, thú vị của thế giới con người cơ mà.@
+` Tôi đã từng ước ao được dắt tay cô ấy đi dạo chơi ở khắp mọi ngả đường góc phố cơ mà.@
+\
+` [line=10]Tôi đã từng khao khát được mãi mãi ở bên cạnh yêu thương bảo vệ cô ấy suốt đời cơ mà.@
+` Thế nhưng, tất cả những ước ao đó bấy giờ đã vĩnh viễn tan thành mây khói rồi.
+\
+!w750
+`""@
+br
+` Dẫu cho tôi có gào thét căm phẫn đến nhường nào đi nữa, sự thật tàn bạo bấy giờ cũng không bao giờ có thể thay đổi được nữa rồi.@
+` Đột ngột không một lời báo trước, ngay trước khi tôi kịp cất lời hứa hẹn sẽ mang lại hạnh phúc thực sự, cô ấy đã lặng lẽ rời bỏ tôi để ra đi đơn độc một mình giữa đêm trăng lạnh lẽo.@
+\
+!w750
+` [line=10]Cái chết tàn bạo cướp đi cô ấy...@
+` Sự tĩnh lặng điên loạn bao trùm lấy không gian bấy giờ...@
+` Tôi thề sẽ khắc sâu nó tận đáy linh hồn và quyết không bao giờ quên đi dẫu chỉ một giây khắc.
+\
+`[line=6]br
+\
+`br
+` "Shiki này, cậu đã biệt ly xong xuôi với cô ta chưa thế?"@
+`"Đã xong rồi."@
+\
+br
+` hắn bắt đầu sải bước chân rảo bước lại gần.@
+br
+\
+bg #000000,crossfade,800
+bg "bg/bg_49",crossfade,800
+br
+` [line=4]Hai chúng tôi đứng trừng trừng nhìn nhau giữa dãy hành lang ngập tràn ánh trăng tròn xanh xao.@
+` Roa vẫn ung dung đứng im tại đúng vị trí mà Arcueid vừa nằm gục lúc nãy.@
+\
+bg #000000,crossfade,800
+bg "bg/bg_49",crossfade,800
+play "*9"
+` Roa cất giọng thản nhiên nói lời chào hỏi như thể chưa từng có bất kỳ chuyện gì xảy ra bấy giờ.@
+`br
+` Tôi chậm rãi tháo chiếc kính cận ra, tay nắm chặt lấy chuôi dao sắc bén thủ thế.
+\
+ld c,"tachi/roa_t01a",crossfade,400
+` "Thế nhưng đối với một kẻ phàm trần rệu rã bấy giờ, mọi nỗ lực chống cự của cậu đều chỉ là vô nghĩa mà thôi."@
+`"... Cậu câm miệng lại đi. Cả tôi và cậu, hai chúng ta thực chất đều đã từng bước chân qua cõi chết một lần rồi."@
+br
+[line=4]\
+\
+` "Giọng nói của hắn vang lên vô cùng khó chịu, mang sắc điệu trang trọng nhưng đầy giả tạo tà ác."@
+`[line=4]br
+` Chỉ riêng việc phải lắng nghe những lời lẽ lảm nhảm của hắn bấy giờ cũng đủ khiến đại não tôi đau buốt dữ dội.@
+` "... Tôi có hai câu hỏi bắt buộc phải làm rõ với cậu lúc này, và một lời khẳng định cuối cùng muốn gửi tới cậu."
+\
+`"Được thôi," Roa thản nhiên đáp lời.@
+` [line=4]Tôi cất lời nói từng câu khó nhọc trong khi đại não bấy giờ đang phải gánh chịu cơn đau đầu búa bổ dữ dội.@
+br
+`"[line=4]Ồ? Thú vị đấy chứ, cậu cứ tự nhiên nói tiếp đi xem nào."@
+` Có lẽ bởi vì quá tự tin vào vị thế thống trị tuyệt đối của mình, Roa đáp lời tôi bằng một thái độ vô cùng cợt nhả và hài hước.@
+\
+\
+`"Tôi muốn hỏi: Tại sao cậu lại nhẫn tâm sát hại Arcueid?"@
+ld c,"tachi/roa_t04c",crossfade,400
+`"[line=4]Ồ... Nhưng thực lòng mà nói, thực thể yếu ớt thảm hại mà ta giáp mặt đêm nay tuyệt đối không phải là nàng Công chúa Chân Tổ đỉnh cao mà ta hằng khát khao khao khát bấy lâu nay đâu."@
+ld c,"tachi/roa_t01a",crossfade,400
+` Chính vì thế...@
+\
+` "Vì vậy ta nghĩ cô ta đã không còn dẫu một chút giá trị sử dụng nào nữa, nên quyết định nhanh gọn kết liễu loại bỏ cô ta cho rảnh tay. Ngay cả bản thân ta cũng vô cùng thất vọng trước cái kết quả tẻ nhạt này đấy."@
+` "[line=4]Hahaha... ha."@
+` Khóe môi hắn khẽ nhếch lên nở một nụ cười căm phẫn, kẻ thù cười nhạo báng dữ dội.
+ld c,"tachi/roa_t01a",crossfade,400
+` [line=4]Đại não tôi... đau nhức buốt dữ dội.@
+` Nhanh lên! Tôi bắt buộc phải tự tay kết liễu tên khốn này càng nhanh càng tốt.@
+` Tôi tuyệt đối không thể cam lòng chịu đựng nhìn thấy hắn tồn tại hít thở khí trời thêm dẫu chỉ một giây một phút nào nữa.
+\
+`"Vậy thì, cậu định sẽ làm gì tiếp theo đây hả Shiki? Đừng có bảo là cậu thực sự nghĩ bản thân có đủ khả năng chống cự lại quyền năng của ta trong tình trạng tàn tạ thế này đấy nhé? Mọi sự kháng cự bấy giờ đều chỉ là vô nghĩa và ngu xuẩn thôi, Shiki à."@
+\
+` [line=4]Chân lý đó dĩ nhiên tôi chính là người thấu hiểu rõ ràng hơn ai hết bấy giờ.@
+` [line=4]Cơn choáng váng kịch liệt dội lên đầu óc khiến đôi chân tôi run rẩy, khuỵu xuống nền đất lạnh lẽo.@
+` Thế nhưng dẫu cho thể xác có đang kiệt quệ đến mức không thể tự mình đứng vững đi chăng nữa, tôi vẫn kiên định trừng trừng khóa chặt ánh nhìn sắc lạnh về phía hắn.
+\
+bg "bg/bg_49b",crossfade,1500
+br
+ld c,"tachi/roa_t05a",crossfade,400
+`"Đủ rồi đấy, trò chơi vớ vẩn này nên kết thúc tại đây thôi. Dẫu cho đôi mắt cậu có nhìn thấu được cái chết chảy trên người ta đi nữa, nhưng nếu thể xác rệu rã kia tuyệt đối không thể chạm được vào người ta thì mọi thứ đều trở nên vô nghĩa mà thôi.@"@
+` "[line=4]Cậu biết không Shiki. Thực lòng ta đánh giá vô cùng cao tiềm năng đôi mắt dị thường của cậu đấy.@"@
+\
+bg "bg/bg_49b",crossfade,1500
+!w750
+ld c,"tachi/roa_t05a",crossfade,400
+` Roa lững thững tiến lại gần thêm một bước nữa.
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"Cậu có cảm thấy thứ quyền năng di truyền trong huyết quản này vô cùng vĩ đại và lộng lẫy không hả Shiki?@
+\
+br
+\
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"Không, tuyệt đối không phải là một lời thỉnh cầu thương lượng đâu, mà đây chính là ban phát đặc ân của ta dành cho cậu đấy. Ta hoàn toàn không thèm quan tâm đến tâm nguyện cá nhân của cậu làm gì cho rắc rối. Việc đó chỉ khiến mọi chuyện trở nên phức tạp vô nghĩa mà thôi.@"@
+` "Sau khi ta tự tay uống cạn dòng máu của cậu và tiến hành đoạt xá đồng hóa trọn vẹn linh hồn cậu, ta sẽ biến cậu trở thành một tồn tại đầy tà ác, sẵn lòng dùng thứ dị năng Đôi Mắt Thần Thánh đó để phục vụ cho luận văn bất tử của ta."
+\
+\
+`br
+ld c,"tachi/roa_t04c",crossfade,400
+`br
+`[line=4]br
+\
+br
+br
+br
+br
+br
+br
+`"[line=4]... Hử? Chuyện đó là hiển nhiên rồi còn gì. Những vật vô tri vô giác làm gì có cuộc sống chảy bên trong mà tồn tại cái chết chứ. Chỉ có duy nhất những sinh thể sống mới có 'vị trí' đánh dấu nguồn gốc sinh học của sự sống thôi chứ."@
+bg #9c0120,crossfade,400
+bg "bg/bg_49b",crossfade,400
+\
+` Cơn đau đầu búa bổ bấy giờ đã hoàn toàn chiếm giữ kiểm soát toàn bộ đại não tôi, và trước mắt tôi lúc này chỉ còn hiện hữu duy nhất một mục tiêu thiêng liêng duy nhất.
+\
+ld c,"tachi/roa_t04a",crossfade,400
+`"[line=4]... Lời lẽ của cậu bấy giờ thật sự vô cùng mơ hồ khó hiểu, và những câu nói biệt ly đó thực sự hoàn toàn không phù hợp chút nào cả... nhưng thôi, chúng ta đã nói chuyện quá đủ rồi. Ta bấy giờ còn phải nhanh chóng đi giải quyết nốt ả đàn bà phiền phức của Giáo Hội đang ẩn mình ngoài kia nữa.@"@
+br
+cl c,lshutter,800
+`br
+\
+ld c,"tachi/roa_t04a",crossfade,400
+\
+`"[line=4]Thứ mà ngươi và ta nhìn thấy bấy giờ... thực chất là hai thế giới hoàn toàn khác biệt nhau đấy, SHIKI."@
+cl c,lshutter,800
+br
+` có một công tắc giới hạn đột ngột được bật lên.
+\
+\
+`[line=2]br
+br
+`br
+`"Cái... cái gì cơ chứ?"
+\
+`"Nếu đôi mắt của ngươi thực sự có khả năng nhìn thấu được cái chết thực sự của vạn vật giống như ta, ngươi tuyệt đối không bao giờ có thể duy trì nổi sự tỉnh táo của thần trí đâu. Ngươi thực chất chỉ nhận thức được phần vỏ duy trì luồng sinh lực bên ngoài mà thôi.@"@
+br
+\
+br
+`[line=4]br
+\
+`br
+`[line=4]br
+\
+br
+br
+br
+br
+br
+`"[line=4]... Việc sở hữu đôi mắt nhìn thấu 'cái chết' của vạn vật đồng nghĩa với việc cậu bắt buộc phải liên tục chứng kiến sự bất định, mong manh và dễ vỡ của cấu trúc toàn bộ thế giới xung quanh cậu đấy.@"@
+` Mặt đất dưới chân cậu bấy giờ giống như hoàn toàn không tồn tại dẫu một điểm tựa vững chắc, và bầu trời cao rộng kia dường như sẵn sàng đổ sụp đè nén xuống bất cứ lúc nào.@
+`"Tên khốn này... hắn bấy giờ đang lảm nhảm cái điên rồ gì thế chứ?"
+\
+\
+` [line=4]... Chuyện đó là hiển nhiên rồi còn gì.@
+` Bởi vì một kẻ ngu xuẩn như hắn tuyệt đối không thể nào hiểu nổi dẫu chỉ một phần triệu thế giới điên loạn tột cùng mà tôi đang phải gánh chịu bấy giờ.@
+`br
+` [line=4]Nói cách khác, đôi mắt của hắn và của tôi dẫu phát âm trùng khớp, dẫu thuộc tính giống nhau, nhưng chúng là hai thực thể ở đẳng cấp hoàn toàn khác biệt.
+\
+`"Dừng lại ngay cho ta! Đôi mắt đó... đừng có dùng đôi mắt điên loạn đó trừng trừng nhìn ta như thế."@
+`br
+` Sự sợ hãi tột cùng bấy giờ đã bắt đầu trộn lẫn kịch liệt trong giọng nói run rẩy của Roa.@
+br
+` [line=4]Con người vốn dĩ luôn luôn khiếp sợ trước những điều vượt ngoài tầm hiểu biết của họ.
+\
+`"[line=4][line=4]... Ngươi có thấu hiểu nổi nỗi kinh hoàng tột độ khi biết chắc chắn toàn bộ thế giới xung quanh cậu có thể lập tức diệt vong tan biến sạch sẽ chỉ trong một tích tắc ngắn ngủi không?"@
+br
+` "Sở hữu đôi mắt và thứ quyền năng tàn bạo này, ngươi tuyệt đối không có tư cách đứng trước mặt ta khoe khoang huênh hoang hệt như cách ngươi làm lúc nãy đâu."
+\
+`br
+\
+`br
+`[line=4]br
+`br
+\
+br
+br
+br
+br
+br
+` Thế nhưng, tốc độ bấy giờ của tôi đã nhanh hơn hắn gấp trăm ngàn lần rồi.
+[line=4]\
+\
+`br
+`br
+`[line=4]br
+`br
+`br
+\
+br
+br
+br
+br
+br
+br
+[line=4]monocro #ff0000
+bg "bg/bg_49b",crossfade,400
+!w1000
+\
+`"Hự... cái... gì thế này!"@
+` Ngay cả tiếng gào thét căm phẫn cuối cùng của Roa bấy giờ cũng bị chôn vùi hoàn toàn dưới đống đổ nát của tòa nhà đang điên cuồng sụp đổ.
+\
+monocro #ff0000
+bg "bg/bg_49b",crossfade,400
+` [line=4]Toàn bộ lối đi hành lang kết nối bấy giờ đã bị xóa sổ hoàn toàn không còn dẫu một dấu vết.@
+br
+`[line=6]br
+` Đối với Roa bấy giờ, đây chắc chắn là một đòn tấn công hủy diệt vượt ngoài tầm tưởng tượng của hắn.@
+\
+monocro off
+bg #000000,crossfade,400
+`"... ..."@
+` Ngay trước mắt tôi bấy giờ, lối đi hành lang kết nối đã hoàn toàn tan biến sạch sẽ.@
+br
+`br
+br
+` Chậm rãi đi qua nơi thân xác lạnh lẽo của Arcueid vừa tan biến, tôi vội vã đi xuống phía khoảnh sân trong của trường học.
+\
+bg "bg/ima_02",lcartain,800
+` ... Dưới ánh trăng rạng rỡ.@
+` Khoảnh sân trong nằm ngay phía dưới lối đi hành lang kết nối bấy giờ đã biến thành một đống đổ nát hỗn độn bê tông cốt thép khổng lồ.@
+br
+`"...@
+` Tên khốn đó quả thực vô cùng nhạy bén và khôn ngoan trong việc né tránh cái chết sinh học.@
+\
+bg "bg/ima_02",lcartain,800
+playstop
+` ... Sức sống của hắn quả thực vô cùng dị thường, vượt ngoài tầm hiểu biết của con người.@
+` Toàn bộ phần thân dưới của Roa bấy giờ thực chất đã bị nghiền nát tan biến sạch sẽ không còn dẫu một mảnh dưới đống đổ nát bê tông rồi.@
+` Thế nhưng phớt lờ sự thật tàn bạo đó, phần thân trên của hắn bấy giờ vẫn đang khẽ cử động giãy giụa đầy kinh hoàng.@
+` Nguồn sinh lực tích lũy khổng lồ này quả thực đáng được ghi nhận là một kỳ tích huyền bí của ma cà rồng.
+\
+`"Chuyện này... rốt cuộc là thế nào chứ?"@
+\
+bg #000000,lcartain,1500
+\
+`"SHIKI khom người nhấc đầu trừng trừng nhìn thẳng vào người tôi.@"@
+` Đôi mắt đỏ ngầu vằn tia máu của hắn bấy giờ ngập tràn một nỗi căm phẫn và thù hận tột cùng hệt như sắp sửa bùng nổ kịch liệt.@
+` "Ngươi... ngươi mới chính là con quỷ dữ thực sự..."
+\
+`"[line=4]Giọng nói của hắn bấy giờ rít qua kẽ răng đầy căm thù và giận dữ.@"@
+` "Ai cơ?"@
+`"Tôi lạnh lùng cất lời đáp lại và đứng sừng sững trước mặt hắn.@"@
+\
+[line=4]\
+` "Roa."@
+` Tôi khẽ đưa tay, nhẹ nhàng đẩy lưỡi dao sắc lạnh về phía trước.@
+\
+`[line=4]br
+` Hộc...
+`br
+` Roa khẽ thốt lên một tiếng kêu nhỏ buốt lạnh đầy đau đớn.@
+\
+` ... Hắn là kẻ đã từng bước chân qua cõi chết tới mười bảy lần cơ mà. Hắn chắc chắn phải thấu hiểu vô cùng rõ rệt cảm giác lạnh buốt giá này chứ.@"@
+`"... Cậu tuyệt đối không cần phải khiếp sợ đâu đúng không? Con đường đi tới thế giới bên kia này cậu đã quá đỗi quen thuộc suốt hàng trăm năm qua rồi cơ mà. Thế nhưng nếu có một chi tiết khác biệt duy nhất của lần này..."@
+`!w1000
+br
+`br
+br
+`br
+!w500
+`br
+`br
+!w1000
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Nhịp thở của tôi trở nên vô cùng yếu ớt, đứt quãng.@
+!w1000
+\
+bg "bg/ima_02",crossfade,1500
+` cô ấy bảo tôi tuyệt đối không được phép ép buộc đôi mắt dị thường này nhìn thấu cái chết của những vật vô tri vô giác. Nếu tôi ngoan cố làm điều đó quá nhiều, toàn bộ hệ thống mạch máu trong đại não tôi sẽ lập tức bị thiêu rụi hoàn toàn mất.
+\
+`"……"@
+br
+` Thực chất thì chuyện đó thế nào cũng chẳng sao cả.@"@
+` Dẫu cho đại não có bị thiêu cháy hoàn toàn biến thành một gã thực vật ngốc nghếch đi nữa, thì việc ngăn chặn triệt để tên ác quỷ Roa này sớm hơn một giây cũng đã là điều vô cùng xứng đáng rồi.@
+`br
+` Bởi vì như vậy, em... sẽ không cần phải gánh chịu đau khổ thêm...
+\
+\
+bg "bg/bg_02b",crossfade,800
+[line=4]quake 3,100
+play "*4"
+`"...?!?"@
+br
+` [line=4]Đôi chân tê dại đau nhức kịch liệt.@
+\
+bg #000000,crossfade,800
+bg "bg/bg_02b",crossfade,800
+quakey 3,100
+play "*4"
+\
+`"Ta... ta tuyệt đối không thể tan biến dễ dàng thế này được... Bản thân ta... chính là thực thể... hoàn toàn khác biệt cơ mà.@"@
+` "Hai cánh tay rách rưới đẫm máu của hắn điên cuồng quấn chặt lấy cổ tôi siết mạnh. 'Tại sao... tại sao ta bắt buộc phải tan biến chứ? Làm thế nào... ngươi lại có thể... kết liễu được ta... ta... ta sợ hãi cái chết... ta không muốn chết...'"@
+` [line=4]Khóe môi nứt toác ngoác rộng hệt như một lưỡi dao sắc bén, hắn điên cuồng ghé sát hàm răng nhọn hoắt định cắn đứt cuống họng tôi.
+\
+\
+`[line=6]br
+` Hàm răng nhọn hoắt tàn bạo của hắn bấy giờ
+\
+[line=4]\
+[line=4][line=4]bg "bg/ima_12b",lshutter,400
+wave se_07
+\
+`"A..." @
+br
+` [line=4]Toàn bộ thân xác rách rưới của Roa bấy giờ bỗng chốc tan rã, rã rời thành trăm mảnh bụi mịn chỉ trong vòng một tích tắc ngắn ngủi.@
+`!w1000
+\
+bg "bg/ima_12b",lshutter,400
+wave se_07
+playstop
+` "[line=6]Senpai cất tiếng nói nhàn nhạt, đôi tay khẽ thu thanh kiếm Hành Pháp Giả lại, lồng ngực thở dốc thở nhẹ đầy vẻ mãn nguyện.@"@
+`"... Ơ... cái gì cơ ạ?"@
+` Đầu óc chao đảo khiến tôi hoàn toàn không thể hiểu nổi lời chị ấy bấy giờ.
+!w1000
+\
+bg "bg/bg_02b",crossfade,400
+ld c,"tachi/cel_t01b",lshutter,400
+[line=4]\
+`"[line=4]…… Senpai à. Đó thực chất chỉ là một lời dối trá nhẹ nhàng để an ủi em đúng không."@
+`"Có thể là như vậy đấy. Thế nhưng đó chẳng phải là một lời nói dối vô cùng ngọt ngào sao, có sao đâu cơ chứ? Dẫu cho nó có là một sự ngụy tạo giả tạo đi chăng nữa, thì ít nhất nó vẫn để lại cho tâm hồn cậu một chút hy vọng sống đúng không nào?"@
+`""@
+\
+` Những lời chỉ dạy ngọt ngào ấy của chị... thực sự vô cùng quen thuộc.@
+` Cái ngày ở công viên khi tôi bảo cô ấy đừng nói về những chuyện giả định "Nếu như" xui xẻo, cô ấy cũng đã từng cất lời đối đáp tương tự hệt như vậy.
+\
+\
+`br
+` hạnh phúc bấy giờ sẽ đong đầy đến nhường nào đây?
+[line=6]\
+br
+`"Thôi được rồi, chuyện nhỏ nhặt đó bấy giờ thực sự không còn quan trọng nữa rồi đúng không? Tohno-kun, cậu bấy giờ có ổn không đấy? Cậu có bị hắn cắn trúng cổ không thế?"@
+` Senpai hớt hải chạy vội vã lại gần để chăm sóc kiểm tra thương tích cho tôi.@
+\
+`"[line=4]"@
+br
+` Ý thức của tôi bấy giờ bắt đầu chìm sâu vào bóng tối.@
+\
+cl c,crossfade,1500
+bg "bg/ima_01",crossfade,800
+`"…… kun…… Shiki………… tỉnh lại đi em…!"@
+br
+[line=6]\
+br
+` ngắm nhìn vầng trăng tròn xanh xao trong suốt trên bầu trời đêm,@
+` đó cũng chính là giây phút ý thức của tôi hoàn toàn tan biến sạch sẽ chìm sâu vào bóng tối vĩnh hằng.
+\
+bg "bg/ima_01",crossfade,800
+`br
+`br
+\
+`br
+` Vài giây sau đó,
+` tôi chợt nhận ra cảm giác ngắt lịm này... thực chất vô cùng quen thuộc, hệt như khi ai đó lạnh lùng tắt phụt một chiếc tivi vậy.
+\
+br
+br
+br
+br
+br
+` Vài giây sau,
+` Tôi tự hỏi cảm giác này giống như khi tắt một chiếc tivi vậy.
+\
+bg #000000,notrans,0
+!w3000

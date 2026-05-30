@@ -1,0 +1,805 @@
+playstop
+wavestop
+bg "bg/bg_33b",notrans,0
+` Cô ấy dường như rất am hiểu về những thứ đó vào buổi sáng nay.@
+` Tôi không nghĩ Akiha muốn cất tiếng đối thoại về nó, và tìm kiếm trong phòng của bố tôi sẽ mất thời gian. Tôi có lẽ sẽ may mắn nhất với cô Kohaku.@
+` "Cô ấy chắc chắn đang dọn dẹp ở phía sau."
+\
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+play "*1"
+`"Tôi bước vào sân trong.@
+` "Huh...?"@
+`"(Một tiếng thốt bất ngờ)@
+` Tôi không nhìn thấy cô ấy ở đâu cả.@
+` Tôi liếc quanh.@
+br
+` [line=3]Và sau đó...@
+br
+` Trong một khoảnh khắc, tôi nhìn thấy màu sắc của kimono cô ấy trong rừng.
+\
+`"...? Có thứ gì cần dọn dẹp ở đó không?@
+` Không có gì cả.@
+` Tôi thường chơi đùa trong khu rừng này khi còn nhỏ, nên tôi nhớ rõ.@
+` [line=3]Tôi thường chơi nhiều ở hướng đó, vì vậy nơi đây...
+\
+bg "bg/bg_44a",notrans,0
+bg "bg/bg_42b",notrans,0
+`"[line=5]Hừm?"@
+` ... Chuyện gì vậy?@
+` Không có gì ở đó cả.@
+` Nhưng có điều gì đó kỳ lạ.@
+` Nếu không có gì, tại sao lại thế?@
+` Có phải khu vực giống vườn này có ý nghĩa đặc biệt với tôi không?@
+`"... Ồ, ch... ..."@
+` Tôi bị đau đầu nhẹ.@
+` Sau một chút do dự với chính mình, tôi theo sau Kohaku-san.
+\
+bg #000000,crossfade,800
+bg "bg/bg_54b",crossfade,400
+bg "bg/bg_44a",crossfade,400
+`"[line=9]"@
+` Trong sâu thẳm của khu rừng, có một căn biệt thự khác.@
+` ... Tôi đoán nó khá tách biệt.@
+` Nằm sâu giữa những tán cây, nó dường như bị che giấu khỏi tầm nhìn so với tòa nhà chính của căn biệt thự.
+\
+wave se_01
+`"[line=7]Không thể nào."@
+` Trái tim tôi co thắt.@
+` [line=3]Đây là lần đầu tiên tôi thấy nó, nhưng nó lại vô cùng quen thuộc đến mức khiến tôi choáng váng.@
+`"...……………"@
+` ... Kohaku-san đi vào bên trong.@
+` Tôi không nhớ tòa nhà tách rời này là gì.@
+` Tôi chỉ có cảm giác bất an về mọi thứ và tôi không muốn bước vào.@
+` Nhưng, sẽ thật ngốc nghếch nếu tôi đến đây chỉ để quay lại, vì vậy tôi ép bản thân tiếp tục.
+\
+bg #000000,lcartain,800
+` ... Tôi đi dạo xung quanh bên trong.@
+` Nơi này hơi xuống cấp ở một số chỗ, có lẽ vì đã không được sử dụng trong nhiều năm.@
+` Nhưng dường như có ai đó vẫn đang bảo trì nó nên nó không bị bẩn.@
+` "…… Kohaku-san có lẽ đang ở trong phòng kiểu Nhật ở phía sau."@
+` Tôi vô tình nói to suy nghĩ của mình và tự động bước về phía phòng đó.
+\
+bg "bg/bg_45b",lcartain,800
+br
+br
+br
+br
+br
+br
+` [line=3]Cả chuyện này thật quen thuộc.@
+`   Hương thơm của thảm tatami tràn ngập căn phòng nhỏ.
+\
+ld c,"tachi/koha_t02b",lshutter,400
+`"Hừ? Shiki-san? Tại sao cô lại đến đây?"@
+` Kohaku-san lắc đầu ngạc nhiên.@
+` Tôi[line=3]
+`"Tôi muốn hỏi cô một chuyện gì đó, nên tôi theo cô đến đây."@
+` [line=3]Lạ lùng thay, tôi vẫn bình tĩnh.
+\
+ld c,"tachi/koha_t03b",crossfade,400
+`"Một cuộc trò chuyện, với tôi?"@
+`"Vâng. Tôi muốn nói thêm về buổi sáng nay. ... Nếu đây không phải là nơi thích hợp, chúng ta nên đến sân trong?"@
+` Tôi nhìn lên trần nhà.@
+` Mặt trời sắp lặn, nên sẽ tối sớm.@
+` Ánh sáng trong phòng này có lẽ không hoạt động, vì vậy chúng ta nên đi đâu đó khác.
+\
+ld c,"tachi/koha_t12",crossfade,400
+`"Shiki-san, nếu cậu muốn nói về điều đó thì đây có lẽ là nơi tốt hơn. Nếu chúng ta quay lại biệt thự, chúng ta có thể gặp tiểu thư Akiha và sẽ không thể cất tiếng đối thoại về Makihisa-sama."@
+`"[line=3]Ừm, đúng vậy. Cô ấy có thể sẽ nhìn thấy chúng ta. ... Nhưng Kohaku-san, tôi không thích giữ bí mật với Akiha."@
+`"Ừm, chuyện này hơi khó. @ tiểu thư Akiha không thích nói về Makihisa-sama. @ Vậy nên nếu cậu muốn tiếp tục cuộc trò chuyện từ sáng nay, chúng ta phải tìm một nơi mà tiểu thư Akiha không thể nghe thấy."@
+` "…… Có nghĩa là, chúng ta phải giữ bí mật với Akiha?"
+\
+`"Đúng vậy. @ Một bí mật giữa tôi và bạn, Shiki-san. @ Chúng ta không thể để tiểu thư Akiha hay Hisui-chan biết về nó."@
+ld c,"tachi/koha_t15",crossfade,400
+`"Kohaku-san mỉm cười như thể cô ấy rất vui vẻ.@
+` "... Vâng."@
+` "Có một bí mật chỉ giữa hai chúng ta quả thực khá thú vị, nhưng..."@
+` "Nhưng Kohaku-san, mặt trời sắp lặn rồi. @ Chúng ta không thể cất tiếng đối thoại ở đây, phải không?"
+\
+`"Tôi hiểu rồi."@
+ld c,"tachi/koha_t03b",crossfade,400
+`"Không hề. Đây là tòa nhà vẫn được bảo dưỡng ở mức độ cho phép con người sinh sống, nên đã có futon chuẩn bị sẵn và điện."@
+`"Thật sao? Nhưng nơi này đã không được sử dụng trong một thời gian dài, phải không? Tại sao nó lại được bảo dưỡng như vậy?"
+\
+`"Ừm, có lẽ tiểu thư Akiha chỉ thích nơi này. Ngày xưa, đây là nơi con nuôi của Makihisa-sama từng sống."@
+br
+` [line=4]"Hả?@
+` "Makihisa... bố tôi, đã nhận con nuôi, từ rất lâu rồi à?"@
+br
+`"... Chờ đã, Kohaku-san. Bố tôi có nhận con nuôi không?"
+\
+ld c,"tachi/koha_t02b",crossfade,400
+`"Ôi, cậu không nhớ à? Khoảng mười năm trước, ông ấy đã đưa một đứa trẻ đến đây. Cha mẹ của đứa trẻ đều qua đời trong một tai nạn, nên ông ấy đã nhận nó làm con nuôi."@
+`"[line=3]Thật sao?"@
+`"Có. Nhưng hai năm sau, đứa trẻ qua đời. Đó chỉ là một tai nạn nhỏ, nhưng nhiều người hầu bắt đầu nói rằng gia tộc Tohno bị nguyền rủa."
+\
+playstop
+bg #000000,crossfade,400
+bg "bg/bg_45b",crossfade,400
+Chờ một chút.
+` [line=5]Đợi đã.@
+` Có điều gì đó đáng sợ trong lời cô ấy nói.@
+` Chỉ nghe thấy chúng, tầm nhìn của tôi bắt đầu biến dạng.@
+` Nó giống như căn phòng này được làm hoàn toàn từ đường tan chảy.@
+br
+`"Ko, Kohaku, san."@
+` Một đứa trẻ được nhận nuôi cách đây mười năm. Hai năm sau, đứa trẻ qua đời.@
+` Trong những lời khác đi,
+` tám năm trước[line=4]đó là lúc tôi gặp tai nạn và được đưa đến bệnh viện.
+\
+bg "bg/cmo_06",crossfade,800
+` [line=3]Tai nạn.@
+br
+` Loại tai nạn nào vậy?@
+` Một tai nạn khiến tôi bị thương nặng.@
+` Một tai nạn mà đứa con nuôi, đã bị giết?@
+br
+` Một ngày hè nóng bức.@
+br
+` [line=3]Tôi không thể nhớ được.@
+` [line=4]Tất cả những gì tôi biết là vào thời điểm đó, cánh tay tôi dường như ngâm trong máu.
+\
+bg "bg/bg_45b",crossfade,400
+play "*4"
+`"Kohaku, cậu nói 'nguyền rủa' sao?"@
+ld c,"tachi/koha_t12",crossfade,400
+`"Không, nó không quan trọng. Chỉ có nhiều thành viên trong gia tộc Tohno đã qua đời ở tuổi trẻ."@
+` Ví dụ như tai nạn, tự tử, hay bệnh tật; một lời nguyền không cho phép họ được chết một cái chết tự nhiên. Này, đó chỉ là tin đồn thôi."@
+`"[line=4]Tự tử... điều gì vậy?"@
+`"[line=3]Một số thành viên trong gia tộc Tohno như Makihisa-sama, mang theo những bệnh tâm thần và tự tử khi trưởng thành."@
+` Đây chỉ là tin đồn, nhưng họ nói một số người trong họ từng là sát nhân trước chiến tranh.
+\
+bg #000000,crossfade,400
+bg "bg/bg_45b",crossfade,400
+` Bệnh tâm thần?@
+` "Những kẻ giết người?@"@
+` "Như là, nhìn thấy những giấc mơ về việc giết người?@"@
+` "Như là, ký ức của tôi cực kỳ mờ nhạt?"
+\
+`"Kohaku-san, điều đó có nghĩa là [line=3]@"@
+ld c,"tachi/koha_t12",crossfade,400
+`"Ôi, tôi xin lỗi.@ Đó chỉ là những tin đồn đen tối về gia tộc Tohno."@
+`"…… Không sao đâu, điều đó ổn cả.@ Đó chính là điều tôi muốn hỏi.@ …… Nếu không phiền, cậu có thể tiếp tục được không?"@"@
+ld c,"tachi/koha_t08",crossfade,400
+`"Về Makihisa-sama? [line=3]"@
+` "Giọng điệu của cô ấy hạ thấp."@
+`"…… Vâng."@
+` Tôi gật đầu.@
+` Kohaku hạ thấp đôi mắt, rồi nhìn thẳng vào tôi.
+\
+ld c,"tachi/koha_t03b",crossfade,400
+`"Shiki-san. Chúng ta đã nói về điều này vào buổi sáng nay, nhưng tôi đã xử lý tình trạng của Makihisa-sama hai năm trước khi anh ấy qua đời."@
+` …… Khi bạn sống cùng gia đình Arima, Makihisa-sama đôi lúc trở nên trầm cảm và tôi phải chuẩn bị thuốc cho anh ấy.
+\
+`"…… Chờ đã. Bạn cũng nói như vậy vào buổi sáng nay, nhưng anh ấy có tồi tệ đến mức phải uống thuốc à?"@
+`"[line=3]Vâng. Không hiếm khi anh ấy đi ra vườn vào ban đêm và giết những con chó, mèo nuôi, hoặc tự làm tổn thương bản thân.@
+` Và khi đêm qua đi, anh ấy không nhớ gì cả, chỉ nghĩ rằng có điều kỳ lạ khi tay mình bị nhuộm máu."
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_45b",crossfade,400
+` "[line=4][line=3]Điều này là gì?"
+` (Shiki lắc đầu, nhìn chằm chằm vào không trung)@
+` "Điên rồ lắm. "@
+` "Tương tự như những giấc mơ của tôi vậy."@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_45b",crossfade,400
+` "... Không, điều đó trái ngược hoàn toàn."@
+` "Tôi có phải là kẻ điên giống như cha tôi không?"
+\
+bg #000000,crossfade,400
+!w1000
+bg "bg/bg_45b",crossfade,400
+playstop
+wave se_05
+(Ciel cảm thấy một cơn run rẩy lan tỏa khắp cơ thể)
+ld c,"tachi/koha_t10",crossfade,400
+`"Shiki-san...?! "@
+` Tôi nghe thấy giọng của Kohaku-san.@
+` [line=3]Tôi không biết khi nào điều này xảy ra, nhưng tôi đang quỳ trên mặt sàn tatami.
+\
+`"Shiki-san, trông cậu rất tệ.@ Nếu cậu cảm thấy không khỏe, hãy nghỉ ngơi trong phòng……!"@
+` Kohaku-san nói như vậy và nắm lấy vai tôi.@
+` Với sự giúp đỡ của cô ấy, tôi có thể đứng dậy.@
+`"... Vâng... Tôi ổn, nên[line=3]"@
+` Tôi có thể tập trung lại một cách nào đó.@
+` Nhưng tôi vẫn còn choáng váng.
+\
+wave se_01
+bg #000000,crossfade,400
+` Làn gió đỏ đen xoay vòng.@
+` Thị lực của tôi nhấp nháy giữa máu và bóng tối.@
+br
+wave se_01
+bg #9c0120,crossfade,400
+` Bóng tối do bệnh thiếu máu của tôi giờ chỉ còn là một tờ giấy đỏ.@
+` Màu đỏ gợi nhớ đến máu.@
+` Sự dễ dàng mà tôi cắn cổ cơ thể chết trong giấc mơ đêm qua.@
+br
+` [line=3]Nó tuôn xuống cổ họng tôi.@
+`   Vị ngọt của máu ấm.
+\
+bg "bg/bg_45b",crossfade,400
+Lắc lư 2,300
+`"[line=10]Ồ."@
+` Một tiếng đập mạnh.@
+` Tôi chợt nhận ra đó là âm thanh của cơ thể mình va vào sàn nhà.@
+`"[line=4]Shiki-san, có sao không?!"@
+` Kohaku tiến lại gần tôi.@
+`"Shiki, cậu có đau không? Shiki...!"@
+` ... Không. Không đau đâu. Tôi muốn nói với cô ấy, nhưng ý thức của tôi đang dần mờ đi.
+\
+`"... ..."@
+` Tôi không thể nói được gì.@
+` Thậm chí tôi cũng không thể di chuyển ngón tay nào.@
+` Có vẻ như nếu tôi cố gắng dù chỉ một chút, tôi sẽ hoàn toàn mất ý thức.@
+` Ngã xuống sàn, tôi cất lực cố gắng để chống lại bóng tối đang đến gần.
+\
+`"[line=3]Đừng cố gắng quá nhiều, hãy nằm xuống nhé." - Kohaku nói với tôi.@
+` Cô ấy nhẹ nhàng đẩy tôi sang một bên.@
+` Tay cô ấy cầm lấy đầu tôi, Kohaku đẩy một chiếc gối dưới người tôi.@
+` "Làm dịu cơ thể đi nhé." - Cô ấy thì thầm, "Điều này sẽ giúp lưu thông máu, đúng không?"
+\
+`"Tôi chỉ đáp lại bằng một tiếng "nn".@
+`"Giọng nói của cô ấy gần như bên tai tôi.@
+` Tôi nhận ra tình huống hiện tại của mình.@
+` Mọi thứ dần trở nên rõ ràng.@
+` Tôi dường như đang nghỉ ngơi trên đùi cô ấy.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_45c",crossfade,800
+play "*8"
+` ... Thời gian trôi qua yên lặng.@
+` Chúng tôi không ai nói gì cả.@
+` Lúc này, sự im lặng này làm tim tôi thư thái.
+\
+`"... Rất yên tĩnh. Vì lý do nào đó... Cảm giác này thật quen thuộc."@
+` Nằm nghiêng, tôi nhìn sàn tatami.@
+` Sau khi gật đầu, Kohaku-san kiểm tra mạch đập của tôi.
+\
+`"Ồ, không tốt lắm. Shiki-san, nhiệt độ cơ thể cậu đã giảm. Tôi nên quay lại lấy thuốc cho cậu."@
+`"Không, tôi ổn. Tôi đã quen với điều này rồi, nên sẽ sớm ổn thôi. Ngày hôm nay khó khăn hơn một chút so với trước, nhưng tôi sẽ vượt qua. ... Vậy chúng ta có thể ở như thế này thêm một lúc nữa không? Tôi cảm thấy thư giãn hơn khi như vậy."@
+` Tôi nói với cô ấy, muốn ở lại như thế này lâu hơn một chút.@
+` "Trong trường hợp đó," Kohaku-san nói và vẫn giữ nguyên tư thế.
+\
+br
+` [line=10]Sau đó.@
+br
+`"Shiki-san, cô không sợ à?"@
+br
+` Kohaku-san hỏi tôi.
+\
+`"... À? Về điều gì?"@
+`"Về sức khỏe của cậu. Khoảng hai ngày trước khi bạn trở về đây, tôi đã nhận được tất cả thông tin y tế từ bác sĩ. Tôi không ngạc nhiên, nhưng có cảm giác như ông ta đang lừa gạt tôi vậy."@
+`"Liệu tôi có lừa dối cậu không? Tại sao lại như vậy?"@
+`"Vì cậu đang rất gần với việc chao đảo giữa sự sống và cái chết, nhưng bạn vẫn có thể sống một cuộc đời bình thường. Thông thường, với một tình trạng như của cậu, bạn sẽ bị giam cầm trên giường."@
+` Giọng nói đó không chỉ đầy lo lắng, mà còn... đầy giận dữ, gần như vậy.
+\
+`"Shiki-san, bạn khác xa so với hầu hết mọi người, những người có thể yên tâm ngủ vào ban đêm với sự chắc chắn rằng họ sẽ thức dậy vào sáng hôm sau. Nhưng bạn vẫn sống bình thường và không sợ hãi."@
+` "... Tôi không thể hiểu được điều đó."@
+` "Xin hãy trả lời tôi. Tại sao cậu không sợ?"
+\
+`"... ..."@
+` Tôi không tìm ra câu trả lời hợp lý nào.@
+` Cơ thể yếu ớt của tôi.@
+` Cái chết luôn ở gần kề.@
+` ... Mắt tôi có thể nhìn thấy cái chết.@
+` Có lẽ đó là lý do tôi chỉ cảm thấy vô cảm trước nó.
+\
+`"Ai biết được? Có lẽ tôi chỉ không cảm nhận được sự thực của nó."@
+`"... Tôi không hiểu. Bạn không cảm thấy sự gần gũi của cái chết sao?@
+` Hay là vì cơ thể cậu có thể chết bất cứ lúc nào nên việc sống không còn quan trọng?"@
+`"... Khó nói rõ. Có lẽ tôi đã quá quen với cái chết.@
+` "Được nhạy cảm và nhìn thấy điều đó mỗi ngày gần như trở nên bình thường."
+\
+`"... Nhưng tôi vẫn có thể nói điều này, Kohaku-san."@
+` "Vì tôi luôn ở gần cái chết, tôi có thể cảm nhận cuộc sống mạnh mẽ hơn. Tôi biết rằng chính việc sống là hạnh phúc."@
+` "Như cậu đã nói, cơ thể tôi không thực sự tự do. ... Nhưng với một thân xác giống như rối, tôi muốn tin rằng ngay cả khi cất tiếng đối thoại lúc này cũng là điều tuyệt vời."@
+` "... Đúng vậy."@
+` "Không phải suy nghĩ về cơ thể mình, tôi muốn trân trọng hiện tại."@
+` "Nếu tôi có thời gian lo lắng về cái chết, tôi nên tận hưởng hiện tại nhiều hơn."
+\
+`"... Tôi hiểu rồi. Trái tim bạn tự do, phải không?"`@
+` Kohaku-san thì thầm như thể cô ấy đang hát với chính mình.@
+` Những ngón tay của cô ấy nhẹ nhàng chạy qua mái tóc tôi.@
+playstop
+`"[line=5]Kohaku-san?"@
+` Tôi ngước nhìn lên.@
+` [line=3]Tôi thấy cô ấy mỉm cười rất bình yên.
+br
+bg "event/koha_e03",crossfade,800
+play "*7"
+` [line=3]Nụ cười mà tôi đã quá quen thuộc.
+\
+` Nhưng nó lại cảm thấy như lần đầu tiên,@
+` Khi nụ cười ấy hiện ra trên gương mặt cô ấy.
+` Đây là lần đầu tiên tôi từng thấy cô ấy mỉm cười.
+\
+`"... ..."@
+` ... Thời gian cứ trôi qua.@
+` Cô ấy nhẹ nhàng chải ngón tay qua mái tóc tôi.@
+` Tôi cảm nhận được sự ấm áp của cơ thể cô ấy từ đôi chân.@
+` Mùi hương hoài niệm của thảm tatami.@
+` Tất cả đều thật an ủi, mi mắt tôi bắt đầu khép lại chậm rãi.@
+` ... Trên mặt cô ấy có vẻ bình yên như vậy.@
+` [line=3]Nếu tôi có thể ngủ như vậy, nó sẽ là...
+\
+`"[line=3]Thật hài hước..."@
+br
+!w750
+` Thật thế.@
+!w750
+br
+`"Tôi cảm thấy như đây là lần đầu tiên, tôi thấy em mỉm cười, Kohaku-san."@
+br
+!w750
+` Tôi cảm thấy mình đang ngủ thiếp đi.@
+br
+`"Đúng vậy sao? Shiki-san, chắc hẳn em rất mệt mỏi."
+\
+`"[line=3]Được rồi. Nếu em hạnh phúc, thì..."@
+` Nếu điều này khiến em mỉm cười, tôi muốn làm điều này mãi mãi.@
+` Trong căn phòng tối này...@
+` Tôi muốn cảm nhận cô ấy gần tôi hơn và tôi vươn tay ra.
+\
+`"...Shiki-san...?"@
+` Ngón tay tôi chạm vào cô ấy.@
+` Chúng tôi theo dõi những đường nét trên gương mặt cô ấy.@
+` [line=3]Chúng tôi vuốt ve làn da mịn màng của cô ấy, rồi đến mái tóc dài của cô ấy, và...
+playstop
+br
+`"[line=3]Kohaku, cậu đến đây trước tôi à?"@
+br
+` Anh ấy mạnh mẽ mở cửa và bước vào phòng.
+\
+bg "bg/bg_45c",lshutter,400
+ld c,"tachi/aki_t15b",lshutter,400
+`"Điều gì vậy?" [line=8]@
+` Kohaku-san đột nhiên ngừng di chuyển ngón tay.
+\
+ld c,"tachi/aki_t11b",crossfade,400
+`"[line=4]Bạn hai đang làm gì vậy?"@
+` Akiha nói với giọng không một chút cảm xúc.@
+`"A, Akiha...!? Đây không phải là điều cậu nghĩ..."@
+` Tôi đứng dậy vội vàng. Tôi sẽ chỉ nói với cô ấy là bình tĩnh lại.@
+` Không có gì sai lệch hay đáng ngờ.@
+` Chúng tôi chẳng làm gì cả, và tất cả những gì Kohaku-san làm là chăm sóc tôi sau khi tôi ngất đi.
+\
+`"Chờ đã, Akiha. Tôi vừa ngất đi, nên Kohaku-san đến[line=3]"@
+` Đã kết thúc trước khi tôi kịp nhận ra.@
+ld c,"tachi/aki_t10b",crossfade,400
+` Akiha nhìn chằm chằm vào Kohaku-san và bước vào.@
+cl c,lshutter,400
+br
+` Chỉ một khoảnh khắc sau đó.@
+` "Thảp!" Tiếng khô khốc vang vọng khắp phòng.
+\
+`"...Hả?"@
+` Không có thời gian để ngăn chặn.@
+` Akiha vừa bước vào và đánh cô ấy.@
+` Kohaku-san lùi lại vài bước. Phải nói là khá khó khăn.
+\
+`"[line=4]Akiha, bạn..."@
+ld c,"tachi/aki_t11b",lshutter,400
+`"...anh trai, nơi này cấm vào. Nếu cảm thấy tốt hơn, hãy quay về biệt thự nhé."@
+`"...! Tôi không quan tâm đến điều đó! Tại sao cậu lại đánh cô ấy?!"@
+`"Tại sao không? Nơi này cũ kỹ và đổ nát. Cô ấy làm gì mà để cậu nghỉ ngơi ở đây?"
+\
+`"Chỉ có thế thôi ư? Cô ấy chỉ đang chăm sóc tôi!"@
+`"...[line=3] Chỉ có vậy à? Ý bạn là gì, anh trai?@
+` Không lạ nếu nơi này đổ sập. Một trận động đất có thể khiến trần nhà sụp đổ. Chăm sóc người con trai lớn của gia tộc Tohno ở một nơi như thế, cô ấy không có sự khôn ngoan cần thiết của một người hầu."
+\
+`"Akiha...! Có những điều mà cậu không nên nói. Kohaku-san chẳng làm gì sai cả."@
+` "Tôi là người đã mời cô ấy đến đây mà!"@
+ld c,"tachi/aki_t10b",crossfade,400
+`"[line=3]Ồ? Cậu đi đến mức này để bảo vệ Kohaku, anh trai ạ?"@
+` Nhìn cô ta trở nên sắc bén hơn.@
+`"[line=9]"@
+` Cô ta trông giống hệt trong giấc mơ kia.@
+` Một ánh nhìn gần như đầy ác ý và căm ghét.@
+` [line=3]Trước mặt tôi, trong hiện thực, có một Akiha đáng sợ.
+\
+wave se_01
+monocro #ff0000
+bg "bg/bg_45c",notrans,0
+`"[line=8]Ồ?"@
+` Nhịp tim tôi đập mạnh hơn.@
+` [line=3]Liệu tôi có ảo giác? Trong khoảnh khắc, xung quanh Akiha, tôi nghĩ mình nhìn thấy điều gì đó khủng khiếp.
+\
+monocro off
+bg "bg/bg_45c",notrans,0
+ld c,"tachi/aki_t11b",crossfade,400
+`"[line=4]Tôi hiểu. Nếu cậu nói vậy, tôi sẽ không nói thêm gì nữa."@
+` Nhưng, anh trai. Từ giờ trở đi, xin đừng đến đây nữa. Nếu ngay cả việc đó cũng không thể, thì tôi cũng có một vài ý tưởng.@
+br
+` [line=3]Chắc chắn là ảo giác. Không có điều gì lạ xung quanh cô ấy.@
+` Nhưng tại sao? Cảm giác nguy hiểm từ cô ấy khiến tôi lo lắng.
+\
+`"Chúng ta quay lại, Kohaku. Anh trai, hãy quay về phòng của anh."@
+cl c,lshutter,400
+` Akiha cất bước.@
+`"Kohaku-san."@
+` Tôi gọi tên Kohaku-san, người vẫn đang nhìn xuống.
+\
+`"Kohaku-san……?  Bạn có ổn không......?"@
+ld c,"tachi/koha_t03b",lshutter,400
+`"Ừm?  Về điều gì vậy?"@
+` Cô ấy nói với vẻ thoải mái.@
+` Với nụ cười thường thấy, cô ấy ngước nhìn lên.@
+` Nhưng đó không phải là nụ cười giả tạo hời hợt.@
+` Cô ấy thực sự đang mỉm cười.@
+` Như thể Akiha chưa từng chạm vào cô ấy.
+\
+`"... À, ừm, như thế này[line=3]"@
+`"Vậy thì, Shiki-san. Hãy quay lại đi. tiểu thư Akiha đã biết rồi, nên cậu không nên quay lại đây nữa."@
+` "tiểu thư Akiha chắc chắn sẽ trừng phạt bạn."@
+cl c,lshutter,800
+` "Ha ha," cười khẩy vào trò đùa của chính mình, cô ấy rời phòng.
+\
+`"[line=9]"@
+` Có lẽ cả hai đều đang cư xử kỳ lạ.@
+` Tôi không thể quay lại ngay lập tức.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_40c",lcartain,800
+play "*1"
+` Tôi ăn tối một mình và trở về phòng.@
+` Có lẽ Akiha vẫn chưa hồi phục hoàn toàn vì cô ấy không có mặt.@
+` ... Kohaku-san đã nấu bữa tối cho tôi với tâm trạng vui vẻ như thường lệ và sau đó đi chăm sóc Akiha.
+\
+`"... Tôi tự hỏi Kohaku-san có cảm thấy lo lắng không."@
+` Có vẻ như Kohaku-san chẳng hề oán trách Akiha chút nào.@
+` Có vẻ Hisui đã vượt qua sự việc sáng nay và đang chăm sóc tôi.@
+` ... Hisui mất nửa ngày để bình tĩnh lại, nên có lẽ Kohaku-san mạnh mẽ hơn nhiều.
+\
+`"[line=8]"@
+` Tôi nằm trên giường, thở dài.@
+` ... Tôi chắc chắn là mệt mỏi.@
+` Gần đây, ngay khi đêm xuống, tôi lại chìm vào giấc ngủ.@
+` Mặc dù có rất nhiều chuyện cần suy nghĩ, nhưng tôi cảm thấy chẳng có gì khiến tôi bận tâm và cố gắng ngủ đi.
+\
+`"... Kỳ lạ.@ Tôi không thể tập trung." [line=4]@
+` Tôi nhìn lên trần nhà.@
+br
+` Mắt tôi bắt đầu khép lại.@
+` Lại nữa, tôi không nghĩ về bất cứ điều gì và rơi vào giấc ngủ sâu.[line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w4000
+bg "bg/bg_24c",crossfade,400
+bg #000000,crossfade,800
+Chơi âm thanh se_02
+br
+br
+!w1000
+` [line=4]Rực cháy.
+\
+br
+br
+br
+!w1000
+` [line=4]Rực cháy.
+\
+br
+br
+br
+br
+!w750
+` [line=4]Rực cháy.
+\
+br
+br
+br
+br
+br
+!w500
+` [line=4]Da tôi đang cháy.
+\
+br
+br
+br
+br
+br
+br
+!w500
+` [line=4]Tôi không thể ngủ như vậy.@
+`    Tôi phải thức dậy và uống chút nước.
+\
+wavestop
+bg "bg/bg_25b",crossfade,800
+play "*4"
+` Thành phố vào ban đêm.@
+` Tôi lặp lại hơi thở nóng của mình và quan sát những người đi qua.@
+` Chỉ có hai hoặc ba người vào đêm nay.@
+` Nếu có thể, tôi muốn tìm một cô gái đơn độc, khoảng tuổi tôi.
+\
+br
+br
+br
+` [line=3]Nóng.
+\
+` Tôi thấy hình ảnh phản chiếu của mình trong gương.@
+` Hơi thở hoang dã, nó giống như tôi đang chạy sốt cao.
+\
+br
+br
+br
+br
+br
+br
+` [line=3][line=2]Nóng Tôi không thể chịu được cảm giác cháy rát này.
+\
+` Ở đó...@
+` Tôi không cần phải tiến gần hơn nữa.@
+` Tôi nắm lấy cô ấy từ phía sau và khiến cô ấy ngất đi.@
+br
+bg #000000,crossfade,400
+bg "bg/bg_31b",crossfade,400
+` Tôi nâng cô ấy lên và mang cô ấy theo mình.@
+` [line=3]Tôi bắt đầu mỉm cười.@
+` Tôi đã chịu đựng nó trong một thời gian dài, và giờ mọi thứ đã kết thúc.
+\
+bg #000000,crossfade,400
+bg "bg/bg_01c",crossfade,400
+` ... Tôi quyết định làm điều này ở đây, cuối cùng.@
+` Lý do rất đơn giản.@
+` Vì đây là hang ổ của kẻ giết người.
+\
+bg #000000,crossfade,400
+bg "bg/bg_10c",crossfade,400
+br
+br
+br
+` [line=3]Lửa cháy.
+\
+` Hơi thở của tôi lấp đầy không khí.@
+` Sớm thôi.@
+` Tôi sắp nếm được hương vị của cô ấy.
+\
+bg #000000,crossfade,400
+bg "bg/bg_06c",crossfade,400
+` Sau đó, tôi bắt đầu bữa ăn của mình.@
+` Nén chặt lấy cổ họng cô ấy, tôi hút máu.
+\
+br
+br
+br
+br
+br
+` [line=3]Nó ngọt ngào đến không thể tin được.
+\
+` Cảm giác này thực sự đáng sợ.@
+` Nếu nó ngọt và dễ chịu như vậy,
+` Tôi có thể sẽ trở thành tù nhân của cảm giác này, thay vì kẻ giết người.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Đêm rất sâu. Trên đầu tôi là con mắt bạc chứng kiến tội lỗi của tôi.
+\
+` Với đôi môi nhuốm máu, tôi ngước nhìn bầu trời đêm bằng đôi mắt đầy sự hiếu kỳ.@
+` Tóc bay phất phới.@
+` Trên cao là bầu trời xoắn ốc.@
+` Ôi, mặt trăng bạc đẹp quá!
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Giống như một con rắn. Quan sát ma quỷ hút máu.
+\
+wavestop
+bg #000000,crossfade,800
+playstop
+!w4000
+| Bối cảnh "bg/ima_09", loại koha, phiên bản 07a, khung hình 7
+bg #ffffff,notrans,0
+!w2000
+bg "bg/bg_40a",crossfade,800
+Vòng lặp âm thanh se_11
+`"! "[line=6]@
+` Tôi nhảy dậy khỏi giường, không thể chịu đựng thêm được nữa.@
+`"[line=3][line=4]Ôi chà, ôi."@
+` "Tôi kìm nén cơn muốn nôn mửa, thở như một loài động vật."
+\
+`"Điều gì vậy?" [line=6]@
+` "Đó là gì vừa rồi?"@
+` Một giấc mơ. Nhưng... điều đó là gì vậy?@
+` Nó khác so với điều tôi đã thấy hai ngày trước.@
+` Cảm giác đi dạo trên đường phố vào ban đêm.@
+` Mùi máu còn vất vưởng trong mũi tôi.@
+` Tiếng kéo cô gái gần tuổi tôi.@
+br
+` [line=3]Tất cả vẫn còn tươi mới trong ký ức của tôi.
+\
+`"[line=7]Ha, ah"@
+` Có phải đó là điều mà bạn gọi là khoái cảm?@
+` Đó chỉ là sự phấn khích thuần khiết, ngưng tụ lại như một viên đạn, bắn thẳng vào đầu tôi.
+\
+`"[line=3]G"@
+` Hít thở của tôi ngừng lại chỉ khi nghĩ về nó.@
+` Sau đó... có lẽ tác động đó có thể là thứ được gọi là "hạnh phúc".
+\
+`"Tại sao tôi... giấc mơ kiểu đó..." @
+` Tôi nhìn xuống bàn tay mình. @
+` Dĩ nhiên, chúng hoàn toàn trắng muốt, không có dấu vết máu đỏ nào trên đó. @
+wavestop
+` Nhưng, trong một khoảnh khắc,
+` Tôi thấy cả hai bàn tay mình bị phủ đầy màu đỏ.
+\
+`waveloop se_02`
+` [line=3]Thật sao? Ngay cả bạn cũng vậy à?` @
+br
+` "Hừm...?"@
+br
+` "[line=3] Đây là lần đầu tiên tôi thấy một kẻ giết người khác ngoài bản thân mình."@
+br
+` "Đúng vậy." Tôi đã có cuộc trò chuyện đó.@
+br
+` "[line=3] Một thành phố không cần hai kẻ giết người."@
+`   "Tôi sẽ trao cho cậu nơi này."@
+br
+` "Nhưng, khi nào thì điều đó xảy ra?"
+\
+wavestop
+`"[line=4] 'Tại sao... tôi lại không thể nhớ nổi?'"@
+` "Chắc chắn rồi, tôi cảm thấy như đã có cuộc trò chuyện đó với ai đó."@
+` Tôi chỉ không thể nhớ lại được.@
+` Có phải là thực tại hay chỉ là một giấc mơ trống rỗng?@
+` Tôi chỉ nhớ kẻ giết người nói rằng tôi giống y như hắn.
+\
+`"[line=3]Thật kỳ lạ. ... Tại sao nó ... lẫn lộn trong đầu tôi vậy?"[line=4]"@
+` Tôi cất lực cố gắng để nhớ lại giấc mơ đêm qua.@
+wave se_05
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+`"[line=4]Ga?!?"@
+` Đầu tôi đau như búa bổ.@
+`"[line=3]Agh... agh......!"@
+` Tôi không thể nhớ lại.@
+` Khi tôi cố gắng nhớ về ngày hôm qua, tôi cảm thấy một cơn buồn nôn ập đến.
+\
+` Tôi sợ.@
+` Tôi sợ điều mà tôi không thể nhớ.@
+` Nó giống như...
+` Một Shiki Tohno mà tôi không biết đang giết người, và để che giấu nó, cô ta lừa dối bản thân Shiki Tohno của tôi.@
+br
+` [line=4]Và.@
+` Tôi cảm nhận có ai đó ở hành lang.@
+br
+`"[line=4]Ai đó ở đó?" tôi thốt lên.@
+` Tôi gọi to.
+\
+wave se_04
+` Gõ cửa. @ Gõ cửa. @
+ld c,"tachi/his_t16",lshutter,800
+play "*2"
+` "Xin lỗi nhé," Hisui nói khi cô ấy bước vào phòng.@
+` Đó chỉ là một cảnh bình thường trong buổi sáng.@
+`"[line=9]Ồ"@
+` Có phải vì cô ấy đang cư xử rất tự nhiên?@
+` Tim tôi đập mạnh bỗng chốc dịu lại.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Chào buổi sáng, Ngài Shiki."@
+`"... Hừm, cảm thấy thế nào, Shiki?"@
+ld c,"tachi/his_t04",crossfade,400
+`"Vâng, đã đến lúc rồi, nên tôi đã chuẩn bị sẵn quần áo mới cho Ngài." ... Ừm, Ngài Shiki? Ngài không khỏe à?@
+`"Không, không phải như vậy. Tôi cảm thấy tốt. Không có gì sai cả."@
+` Tôi ngồi dậy khỏi giường, như muốn chứng minh những lời nói của mình.
+\
+`"Chào buổi sáng, Hisui. Sau khi tôi thay quần áo, tôi sẽ đến phòng khách, nên xin hãy đi trước tôi."@
+ld c,"tachi/his_t16",crossfade,400
+`"Vâng." ... Vậy thì, xin lỗi nhé.@
+cl c,lshutter,400
+` Hisui lặng lẽ đóng cửa và rời đi.@
+` Sau khi nhìn cô ấy đi, tôi hít một hơi sâu.
+\
+`"Tại sao tôi lại có cảm giác buồn như vậy?"@
+` Có lẽ là vì tôi biết được về căn bệnh của bố mình hôm qua.@
+` Chỉ vì triệu chứng của tôi giống với anh ta, có thể tôi đang quá lo lắng.@
+`"... Vâng. Từ khi quay lại, tôi cứ mệt mỏi. Tôi không nên nghĩ về giấc mơ đó."@
+br
+` [line=3]Tốt rồi.@
+` Đang gần bảy giờ.@
+` Giống như hôm qua, tôi có thể tận hưởng buổi sáng.
+\
+bg #000000,crossfade,400
+bg "bg/bg_34a",lcartain,400
+` [line=4]Và sau đó...
+` Không suy nghĩ, tôi bước vào phòng khách và nhận ra mình đã quên một điều rất quan trọng.@
+`"[line=5]Ôi trời ơi!"@
+` Tôi nuốt lời.
+\
+` Akiha, Hisui và Kohaku đang ở trong phòng khách.@
+` Mọi thứ dường như bình thường, nhưng sau những gì xảy ra hôm qua, tôi chắc chắn sẽ rất ngượng ngùng.@
+` Akiha và Kohaku dường như đã hiểu nhau, nhưng tôi chưa từng cất tiếng đối thoại với Akiha.@
+` Khi nghĩ về hành động của Akiha hôm qua, tôi chắc chắn cô ấy vẫn giận tôi.
+\
+ld c,"tachi/aki_t09",lshutter,400
+`"Chào buổi sáng, anh trai. Anh có ngủ ngon không?"@
+`"[line=8] Hừ?"@
+` Và...@
+` Akiha chào đón tôi với nụ cười rộng lớn.
+\
+cl c,lshutter,400
+`"Ừm...?"@
+` Tâm trí tôi đóng băng trước sự kiện bất ngờ này.@
+` Akiha vẫn mỉm cười tươi tắn khi tôi chỉ đứng đó.@
+` Akiha quá vui vẻ, khiến tôi nghĩ cô ấy đang lên kế hoạch gì đó.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Thưa cậu Shiki, có muốn ngồi xuống không?"@
+`"Ừ... nếu cậu muốn tôi ngồi, tôi sẽ làm."@
+` Tôi nhìn sợ sệt về phía Akiha khi ngồi xuống đối diện cô ấy.@
+cl c,lshutter,400
+`"Chào buổi sáng, Akiha.@ Cô trông thật vui vẻ ngày hôm nay."@
+ld c,"tachi/aki_t08a",lshutter,400
+`"Thật sao?@ Chắc chắn tôi cảm thấy tốt hơn nhiều, nên có lẽ tôi trông ít nhợt hơn trước đây."@
+` "... Không, nó vượt xa việc không trông nhợt nhạt."
+\
+ld c,"tachi/aki_t09",crossfade,400
+`"Dù sao, trước tiên tôi phải cảm ơn cô.@ Tôi thực sự muốn cảm ơn cô ngày hôm qua, nhưng tôi đang cảm thấy khá ốm yếu và không có cơ hội."@
+` Akiha nhìn thẳng vào tôi.@
+` Không còn dấu vết của sự lạnh lùng ngày hôm qua.@
+` ... Có vẻ như bầu không khí nguy hiểm cũng đã tan biến.
+\
+`"Cảm ơn tôi? Tôi chẳng làm gì đáng được cảm ơn cả."@
+`"Đó không phải là sự thật. Bạn đã chăm sóc tôi khi tôi ốm, đúng không?"@
+` Vì bạn ôm lấy tôi, tôi quyết tâm. Tôi vô cùng hạnh phúc vào đêm đó.@
+`"[line=7]!"@
+` Cô ấy nói điều gì đó khiến tôi hoàn toàn bất ngờ.@
+cl c,lshutter,400
+br
+` [line=4]Và sau đó.@
+` Tôi cảm thấy một áp lực vô cùng nặng nề đè lên lưng mình.
+\
+` Tôi liếc nhìn lại sau lưng.@
+ld r,"tachi/koha_t03",lshutter,400
+ld l,"tachi/his_t01",lshutter,400
+` ... Ở đó, Hisui và Kohaku-san nhìn tôi với cách thức khác xa so với thường lệ.
+\
+cl a,lshutter,400
+`"[line=3]Akiha. Đừng nói những điều có thể khiến người khác hiểu lầm. Anh đang đau, tôi chỉ hỗ trợ anh thôi."@
+ld c,"tachi/aki_t08a",lshutter,400
+`"Ồ? Vậy ôm lấy tôi là cách hỗ trợ sao?"@
+` Akiha cười khẽ.@
+` Họ đang nhìn chằm chằm.@
+` Những cái nhìn từ hai người phía sau càng trở nên nặng nề hơn.
+\
+`"[line=3]Hãy nhìn đi. Cậu đang cư xử kỳ lạ đấy. Cậu thích trêu chọc tôi à?"@
+`"Ừm, rất nhiều. Nhìn thấy mặt cậu đầy lo lắng cũng thú vị."@
+`"... ..."@
+` "Điều này quá kỳ quặc. Đây có phải là tính cách thật của Akiha không?
+\
+`"Cậu có sở thích lạ kì. Quấy rầy tôi vào buổi sáng và giảng giải cho tôi vào đêm qua.@
+` ... Tôi ban đầu nghĩ thế, nhưng chắc chắn cậu có điều gì đó chống lại tôi."@
+` "Tôi thở dài.@
+cl c,lshutter,400
+` Akiha đột nhiên quay mặt đi.
+\
+ld c,"tachi/aki_t13a",lshutter,400
+`"[line=3]…… Tôi rất xin lỗi. Những gì tôi đã làm hôm qua thật ngốc nghếch. Có điều gì đó sai với tôi, và tôi đã xin lỗi Kohaku rồi."@
+`"Cô ấy đã xin lỗi Kohaku-san ư?"@
+` "Tôi thốt lên đầy ngạc nhiên. Không chỉ cô ấy xin lỗi, mà còn là xin lỗi Kohaku-san."@
+ld c,"tachi/aki_t21",crossfade,400
+`"[line=3]Này, anh trai. Anh nghĩ em là loại người như thế nào vậy? Em phạm sai lầm nên tự nhiên phải xin lỗi Kohaku, đúng không?"@
+` …… Khi cô ấy nói vậy, tôi chợt có một hình ảnh mơ hồ về việc cô ấy hành xử như một vị thê tử nghiêm khắc.
+\
+ld c,"tachi/aki_t02",crossfade,400
+`"Anh trai. Anh đang nghĩ điều gì đó xấu xa, phải không?"@
+` …… Cô ấy rất sắc sảo. Dù vui vẻ như thế nào đi chăng nữa, nó cũng chẳng làm mờ mắt cô ấy.
+\
+cl c,lshutter,400

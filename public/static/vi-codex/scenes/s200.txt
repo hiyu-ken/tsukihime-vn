@@ -1,0 +1,107 @@
+phase "bg/ima_09",r,cel,05a,5
+bg #ffffff,crossfade,1500
+` Tôi lờ mờ cảm nhận được những tia nắng ban mai dịu nhẹ gõ cửa tâm hồn.@
+` Đôi mi trĩu nặng vẫn cố khép chặt hòng tìm kiếm thêm chút hơi ấm từ giấc nồng, thế nhưng những vệt nắng ấm áp cứ kiên quyết len lỏi vỗ về, thôi thúc tôi thức giấc.@
+br
+` [line=3]Và cứ thế, tôi chậm rãi tỉnh giấc giữa bầu không khí ban mai tĩnh lặng.
+\
+br
+bg "bg/ima_05",crossfade,400
+` Một không gian vô cùng yên bình.@
+` Từng làn gió heo may se lạnh thổi qua một cách dễ chịu, hòa quyện cùng ánh nắng ấm áp rọi xuống khiến lòng tôi cảm thấy thư thái đến lạ.@
+` Hôm nay chắc chắn sẽ là một ngày thời tiết vô cùng đẹp trời.
+\
+br
+` [line=3]Bấy giờ, tôi nghĩ đã đến lúc mình phải sửa soạn quần áo chỉnh tề để đến trường rồi.@
+br
+` Đúng vậy, tôi vẫn là một học sinh mà.@
+` Chuỗi biến cố kinh hoàng điên rồ suốt những ngày qua đã hoàn toàn đảo lộn cuộc sống thường nhật, đến mức khiến tôi suýt chút nữa quên bẵng đi danh phận học sinh của mình.
+\
+bg "bg/bg_40a",crossfade,1500
+play "*2"
+`"... ... ... "@
+` Tôi giật mình tỉnh dậy.@
+` Tôi đang nằm ngay trên chiếc giường quen thuộc trong phòng biệt thự, và chiếc kính cận của tôi bấy giờ đang nằm im lìm trên chiếc bàn gỗ cạnh giường.@
+` Tiện tay với lấy đeo kính lên mắt, tôi chậm rãi dõi mắt quan sát xung quanh căn phòng.@
+` Ánh nắng ban mai rực rỡ rọi thẳng qua khung cửa kính lớn, cảm giác chói chang dội vào mắt hệt như một luồng thác ánh sáng đang điên cuồng tuôn tràn vào trong vậy.@
+`"[line=4]@
+` Tôi khẽ hít một hơi thật sâu, cảm giác vô cùng sảng khoái.@
+` Lấp đầy lồng ngực bằng luồng không khí ban mai trong lành, tôi cảm nhận thấy mọi mệt mỏi, u sầu trong lồng ngực mình bấy giờ hệt như vừa được thanh tẩy hoàn toàn vậy.
+\
+` Tiếng kim đồng hồ treo tường vẫn tích tắc đều đặn vang lên.@
+` Lắng tai nghe, tôi khẽ nhận ra thanh âm líu lo của những chú chim nhỏ đang chuyền cành trong khu rừng rậm bên ngoài biệt thự.@
+` Nằm lười trên chiếc giường ấm áp, tôi thong thả cảm nhận nhịp trôi vô cùng chậm rãi và yên ả của dòng thời gian.@
+br
+` [line=5]Hôm nay chắc chắn vẫn sẽ là một ngày vô cùng bình yên và tĩnh lặng trôi qua, đương nhiên là vậy rồi.@
+br
+`"... ... ... @
+` Thế nhưng, sâu trong thâm tâm, tôi lại cảm thấy có chút trống trải, hụt hẫng khó tả.
+\
+` [line=3]Dẫu cho bản thân đã thực sự quay trở lại với nhịp sống bình yên ban mai này, tôi vẫn mơ hồ cảm nhận thấy dường như có một chi tiết nào đó vô cùng lệch lạc, sai sót đang hiện hữu đâu đây.
+\
+` [line=3]Dẫu cho con quái vật ma cà rồng mặc áo choàng đen tàn bạo kia đã bị tiêu diệt hoàn toàn và mọi thứ đã quay trở lại quỹ đạo bình thường, tôi vẫn kiên định cảm nhận thấy bản thân mình bấy giờ đang thiếu thốn một điều gì đó vô cùng cốt lõi.@
+`"... Thật là ngớ ngẩn quá đi mất."@
+` Tôi khẽ lắc đầu tự cười nhạo chính mình, nỗ lực xua đi những suy nghĩ hoang đường vô nghĩa đó ra khỏi đại não.@
+br
+` [line=3]Và rồi, ngay sau đó...@
+br
+ld c,"tachi/his_t01",lshutter,400
+`"Chào buổi sáng, cậu chủ Shiki."
+\
+`"Ối...!"@
+` Tôi giật nảy mình vội vã bật dậy khỏi giường.@
+` Nhìn kỹ lại, Hisui bấy giờ đã đứng sừng sững ngay bên mép giường từ lúc nào tựa như một bức tượng sống động vậy.@
+`"[line=3]Hi-Hi-Hisui sao! Em ở đó tự bao giờ thế?"@
+`"... Em vô cùng xin lỗi cậu chủ Shiki. Vì thấy cậu chủ đang mải mê chìm sâu trong dòng suy nghĩ nên em đã tự ý cất lời chào trước ạ."@
+`"[line=3]À... hóa ra là thế... Tôi cũng xin lỗi vì đã thất lễ nhé."@
+` Hisui khẽ cúi đầu chào tôi một cách vô cùng cung kính và lịch thiệp.@
+br
+` [line=3]Em ấy thực sự đã khiến trái tim tôi suýt chút nữa nhảy ra khỏi lồng ngực rồi.@
+` Nhịp tim tôi bấy giờ vẫn đang không ngừng đập thình thịch dữ dội.
+\
+`"[line=3]Ơ kìa? Nhưng Hisui này, lúc này vẫn chưa đến bảy giờ sáng cơ mà đúng không?"@
+`"Dạ đúng vậy thưa cậu chủ. Lúc này quả thực vẫn còn hơi sớm hơn một chút so với giờ thức dậy thường lệ của cậu chủ Shiki ạ."@
+`"[line=3]Vậy thì tại sao em lại đột ngột xuất hiện ở phòng tôi vào giờ này thế Hisui?"@
+`"Dạ, em đến để triệu tập cậu chủ thức dậy ạ. Tiểu thư Akiha bấy giờ đang vô cùng thắc mắc về hành tung bí ẩn của cậu chủ suốt hai ngày cuối tuần qua, thế nên em ấy đã nghiêm lệnh cho em bắt buộc phải đưa cậu chủ xuống phòng khách gặp mặt bằng mọi giá ạ."@
+`"[line=5]Hực..."
+\
+` Tôi... tôi thực sự đã hoàn toàn quên sạch bẵng đi mất chuyện này rồi.@
+` Nghĩ lại thì, tôi đã bướng bỉnh trốn học hoàn toàn vào ngày thứ Bảy tuần trước để đi hẹn hò cùng Arcueid suốt cả ngày Chủ Nhật ròng rã.@
+` Đã vậy, đêm qua tôi lại còn quay trở về nhà vào lúc quá nửa đêm, lén lút lẻn vào phòng hệt như một tên trộm rồi lăn ra ngủ ngon lành.
+\
+`"... Này Hisui, em đừng nói với tôi là Akiha bấy giờ đang vô cùng giận dữ đấy nhé?"@
+`"Dạ chuyện đó em thực sự không rõ ạ. Xin cậu chủ hãy tự mình xuống dưới sảnh để xác nhận thái độ của tiểu thư ạ."@
+br
+` [line=3]Giọng điệu cất lời của Hisui bấy giờ lạnh buốt hệt như băng giá lạnh vậy.
+br
+`"... Hisui này, em đã biết chuyện tôi lẻn về nhà tối qua từ lúc nào thế?"@
+`"Dạ đúng vậy ạ. Em đã lập tức nhận thấy sự hiện diện của cậu chủ ngay khi cậu chủ trở về biệt thự vào khoảng hai giờ sáng nay rồi ạ. Thậm chí Nee-san và em đã tận mắt nhìn thấy cậu chủ trèo rào qua camera an ninh của biệt thự cơ đấy thưa cậu chủ Shiki."
+\
+`"[line=3]Hả...! Vậy... vậy Akiha có biết chuyện này không em?"@
+`"Dạ không ạ. Bí mật này bấy giờ thực chất chỉ có Nee-san và em biết rõ thôi ạ."@
+`"[line=3]May mắn quá, cứu mạng tôi rồi..."@
+` ... Phù, dẫu sao thì tôi nghĩ bản thân cũng đã may mắn né tránh được kịch bản tồi tệ nhất rồi.@
+` Thế nhưng tình hình hiện tại thực sự vẫn đang vô cùng tồi tệ và hiểm nghèo.@
+` Việc tự ý bỏ học biệt tăm suốt hai ngày cuối tuần rồi lại còn lẻn về nhà giữa đêm không lời giải thích... chuyện này dẫu có bào chữa thế nào cũng tuyệt đối không thể chấp nhận được.
+\
+`"[line=3]Thôi được rồi. Tôi sẽ sửa soạn đồ đạc rồi xuống dưới sảnh ngay lập tức. À... Hisui này, nếu có thể, em có thể giúp tôi cất lời nói đỡ đôi chút để làm dịu cơn giận của em ấy được không?"@
+`"Tiểu thư Akiha bấy giờ thực chất đã lấy lại được sự bình tĩnh hoàn hảo rồi ạ. Em nghĩ dẫu bản thân có cất lời khuyên ngăn thêm đi chăng nữa cũng tuyệt đối không thể giúp ích gì thêm được đâu ạ thưa cậu chủ."@
+`"[line=3]"@
+` Ôi trời đất ơi, lại thêm một rắc rối đau đầu ập đến nữa sao?@
+` Tôi vừa mới chật vật giải quyết xong mối nguy hiểm Nrvnqsr Chaos hôm trước cơ mà, thế thì tại sao số phận lại nhẫn tâm ép tôi bắt đầu một cuộc chiến sinh tử cân não mới mà không cho phép dẫu chỉ một giây nghỉ ngơi thế này chứ.
+\
+` Dẫu có than vãn thế nào đi nữa, đã đến lúc tôi bắt buộc phải đứng dậy đối mặt với sự thật rồi.@
+` Việc cứ nằm lười rúc đầu trên giường bấy giờ tuyệt đối chẳng giải quyết được bất kỳ chuyện gì cả.@
+`"Tôi sẽ thay quần áo rồi xuống dưới ngay, thế nên em hãy đi xuống sảnh trước đi nhé Hisui. ... Yên tâm đi, tôi thề quyết không trốn chạy đâu."@
+`"[line=3]Dạ, vậy thì em xin phép đi xuống dưới sảnh chờ cậu chủ trước ạ."@
+cl a,lshutter,800
+br
+` ... *Thở dài bất lực*@
+` Thôi được rồi, tôi bắt buộc phải nhanh chóng thay bộ đồng phục này vào để kịp thời xuống dưới nhận sự phán xét tàn bạo của Nữ chủ nhân Akiha thôi.
+\
+bg "bg/bg_33a",lcartain,800
+` [line=3]"Được rồi... Tôi tới đây..."@
+` Lúc này đây, chỉ còn duy nhất một cánh cửa gỗ ngăn cách tôi với phòng khách nguy nga, nơi Akiha đang kiên nhẫn chực chờ.@
+` Dù cho có viện cớ thế nào đi chăng nữa, việc tự ý bỏ học biệt tăm không một lời xin phép suốt hai ngày ròng rã dứt khoát là một tội lỗi vô phương cứu chữa.@
+` Bây giờ. [line=3]
+\

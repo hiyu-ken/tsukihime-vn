@@ -1,0 +1,26 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"A.@ Chào buổi sáng, Akiha."@`
+ld l,"tachi/aki_t01a",crossfade,400
+`"[line=3]Chào buổi sáng, anh trai."@`
+ld r,"tachi/koha_t02",crossfade,400
+`"Chào buổi sáng, cậu Shiki.@ Bữa sáng đã được chuẩn bị sẵn sàng trong phòng ăn rồi ạ.@ Mời cậu dùng bữa."@`
+` Trái ngược hẳn với vẻ lạnh lùng của Akiha, chị Kohaku đon đả chào đón tôi bằng một nụ cười vô cùng rạng rỡ.`
+\
+`"À, cảm ơn chị rất nhiều… Có vẻ em đang dùng trà sau bữa ăn nhỉ.@ Em đã ăn sáng xong xuôi rồi hả, Akiha?"@`
+ld l,"tachi/aki_t03a",crossfade,400
+`"Tất nhiên rồi ạ.@ Em chẳng bận tâm việc anh thích thức dậy lúc nào đâu, anh trai, nhưng làm ơn ít nhất hãy dành chút thời gian đàng hoàng cho bữa sáng.@ Dùng bữa sáng sau bảy giờ thực sự là một biểu hiện của sự buông thả vô kỷ luật đấy ạ."@`
+`"…… Anh nghĩ dùng bữa sáng lúc bảy giờ là hoàn toàn bình thường mà.@ Thế em thức dậy lúc mấy giờ vậy, Akiha?"@`
+ld l,"tachi/aki_t18a",crossfade,400
+`"Em thức dậy từ lúc năm giờ sáng.@ Có chuyện gì sao ạ?"@`
+`"………"@`
+` …… Chà.@ Tôi chịu chết không hiểu nổi vì sao em ấy lại có thể dậy sớm đến nhường ấy, nhưng đó quả thực là một giờ giấc sinh hoạt quá đỗi chuẩn mực đến mức tôi hoàn toàn câm nín không cách nào phản bác nổi.`
+\
+ld l,"tachi/aki_t03a",crossfade,400
+`"Vả lại, trường học của anh chỉ cách đây có ba mươi phút đi bộ thôi đúng không ạ?@ Làm ơn đừng có đi học muộn ở một ngôi trường gần sát bên như thế.@ Chuyện đó thực sự là một sự xấu hổ đấy ạ."@`
+`"…… Ự."@`
+cl a,crossfade,400
+` Những lời giáo huấn của Akiha bấy giờ tràn ngập những chiếc gai nhọn hoắt găm thẳng vào lòng tôi.@`
+` Nhưng vì em ấy nói hoàn toàn là sự thật, tôi chịu chết không tìm ra được bất kỳ kẽ hở nào để có thể đưa ra một lời phản biện.`
+\

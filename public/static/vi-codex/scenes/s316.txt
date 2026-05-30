@@ -1,0 +1,328 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w3000
+bg "bg/bg_33d",crossfade,800
+waveloop se_11
+` Cánh cửa mở với âm thanh rắc rắc.@
+` Với cơ thể nặng trĩu và tâm trí mờ nhạt, tôi trở lại biệt thự.@
+` Bước chân tôi chậm lại phía sau.@
+` Ánh trăng chiếu rọi lên hình bóng tôi, khiến tôi trông giống như một hồn ma mệt mỏi.
+\
+`"[line=11]"@
+` ... Tay trái tôi đau ở chỗ Yumizuka đâm vào.@
+` Máu đã ngừng chảy, và sự giảm dần của cơn đau cho biết vết thương không quá sâu.
+\
+`"[line=11]"@
+` Tôi đến chân cầu thang.@
+` Tôi thậm chí còn chẳng bận tâm đến việc băng bó vết thương.@
+` [line=4]Hiện tại, tôi chỉ muốn lững lờ quay về phòng và ngủ như một tảng đá.
+\
+br
+`"Ơ………?@ Anh[line=2] Shiki…………?"@`
+br
+` [line=2]Và sau đó.@
+` Từ giữa cầu thang, tôi nghe thấy giọng của Akiha.
+\
+`"...Akiha?"@
+` Tôi nhấc đầu lên.@
+` Trước mặt tôi[line=3], tôi thấy Akiha vừa xuống đến cuối cầu thang.@
+ld c,"tachi/aki_t23b",lshutter,400
+`"Ồ...@"@
+` Akiha im lặng.@
+` Có điều gì đó kỳ lạ trong vẻ ngoài của cô ấy, nhưng tôi chẳng để ý và tiếp tục lắc lư lên từng bậc thang.@
+` Tôi nên đi về phòng ngay bây giờ.@
+` Vì vậy, tôi phải tiếp tục leo lên những bậc cầu thang này.@
+` Tôi lang thang qua hình bóng tĩnh lặng của Akiha. Tôi cần lên tầng trên[line=3].
+\
+ld c,"tachi/aki_t17b",crossfade,400
+`"K…… Kìa, làm ơn chờ em chút đã, anh Shiki!@ Đêm hôm tăm tối thế này anh dốc sức đi ra ngoài chốn nào vậy chứ?"@`
+`"[line=7]"@
+` Ai biết được? Ngoài ra, Akiha đang làm gì ở đây vào lúc này nhỉ?@
+` Cô ấy cố gắng xuống cầu thang thật yên lặng, dường như cô ấy sắp ra ngoài lúc này.
+\
+`"…… Sự tình tịnh không liên quan gì tới em đâu, Akiha.@ Anh đang muốn về phòng nghỉ ngơi, nên xin em đừng bận tâm quấy rầy."@`
+`"[line=3]Làm phiền, tôi..."@
+` Akiha hít một hơi và ngắt lời giữa câu.@
+ld c,"tachi/aki_t11b",crossfade,400
+`"Anh Shiki, bộ dạng anh bấy giờ[line=3]"`
+` Đôi mắt trước đây sốc của cô ấy trở nên bình tĩnh.
+\
+`"Tay trái của anh bị thương rồi, phải không? Quần áo của anh cũng bẩn khá nhiều."@
+`"... Đừng lo lắng về điều đó. Nó chẳng còn đau nữa đâu."@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Tịnh không đau sao?@ Sự tình ấy chịu chết chịu chết làm sao có thể là thực được cơ chứ.@ Trông anh bấy giờ hệt như sắp sửa đổ rạp bất tỉnh nhân sự bất cứ lúc nào vậy, vết máu tươi dẫu dẫu dẫu dẫu đã đông cứng loang lổ khắp cẳng tay trái của anh rồi kìa.@ Trời ạ, anh rốt cuộc đã làm cái gì bên ngoài thế hả, anh Shiki?"@`
+`"...@
+` Tôi không thể trả lời và chỉ lánh mắt.@
+cl c,lshutter,400
+` Tôi không thể giải thích mọi chuyện đã xảy ra tối nay, và hơn thế nữa[line=3]tôi không bao giờ muốn nói về Yumizuka với bất kỳ ai.
+\
+`"... Không có gì nhiều. Tôi chỉ đang đi dạo và bị cuốn vào một cuộc ẩu đả say rượu nhỏ."@
+` Trả lời đơn giản, tôi vượt qua cô ấy.@
+` Nhưng khi kéo,
+` Akiha đặt tay lên vai tôi.@
+ld c,"tachi/aki_t12b",lshutter,400
+`"Anh trai, tôi sẽ tức giận." @
+` Với giọng nói yếu ớt, Akiha nhìn thẳng vào tôi. @
+`"... ..." @
+` Với vẻ mặt như vậy, tôi càng không thể kể cho cô ấy biết chuyện gì đã thực sự xảy ra.
+\
+`"[line=5]" @
+`"... ..." @
+` Như thế, thời gian trôi qua mà không ai trong chúng tôi nói chuyện. @
+` ... Sau vài phút trôi qua, Akiha thở dài và buông lỏng vai như một sự chấp nhận. @
+ld c,"tachi/aki_t03b",crossfade,400
+`"Được rồi. Tôi sẽ để nó qua."@
+` Akiha nắm lấy cánh tay phải không bị thương của tôi và đi về phòng khách.
+\
+`"... Này, Akiha. Tôi muốn quay lại phòng và ngủ."@
+`"Không. Tôi sẽ không hỏi thêm bạn điều gì nữa về nó, nên bạn phải cho phép tôi chăm sóc vết thương của bạn, được chứ? Vậy hãy theo tôi. Tôi không thể không lo lắng nếu bạn đi ngủ với vẻ mặt như vậy."@
+cl c,lshutter,400
+` Cô ấy vẫn nắm chặt tay tôi và kéo tôi theo đến sảnh.@
+`"... ..."@
+` Ờ thì thế cũng bình thường.@
+` Tôi chấp nhận làm theo lời Akiha.
+\
+wavestop
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_34b",lcartain,800
+play "*1"
+` [line=3]Điều trị khá đơn giản.@
+br
+` Tôi nghĩ ban đầu nó không tệ lắm. Sau khi thoa một số chất khử trùng và quấn vết thương bằng băng gạc, việc điều trị của tôi đã kết thúc.@
+` Sau khi hoàn thành những bước chăm sóc đơn giản đó, Akiha lấy một chiếc khăn ngâm trong nước ấm và lau mặt tôi.
+\
+ld c,"tachi/aki_t04b",lshutter,400
+`"Hoàn tất rồi. Bộ đồng phục này đã xong, nên ngày mai chúng ta sẽ phải chuẩn bị một bộ mới."@
+`"... ..."@
+` ... Tâm trí tôi vẫn còn tê dại.@
+` Akiha thực sự không hỏi tôi điều gì về chuyện xảy ra và chỉ đơn giản chăm sóc vết thương của tôi.@
+` Tôi hơi ngạc nhiên. Tôi nghĩ cô ấy sẽ để Kohaku-san hoặc Hisui chăm sóc, nhưng Akiha đã làm tất cả với nụ cười trên môi.@
+` Sự dịu dàng của cô ấy hoàn toàn khác biệt so với những ngày qua và tôi nhớ lại Akiha từ rất lâu trước đây.
+\
+ld c,"tachi/aki_t21b",crossfade,400
+`"Anh trai?@ Này, mọi thứ đã kết thúc rồi, nên hãy quay về phòng đi.@ Anh không nói là anh muốn ngủ hơn là ở bên tôi sao?"@
+` Có thể cô ấy vẫn còn giận những lời tôi nói trước đó vì giọng điệu của cô ấy nghe rất không hài lòng.@
+`"...@"@
+` Có lẽ não tôi vẫn chưa ổn hoàn toàn, nhưng tôi hiểu được mức độ lo lắng của Akiha dành cho tôi.@
+`"..."@
+` Có phải do tôi vẫn còn lâng lâng?@ Tôi đã để cảm xúc thật của mình lộ ra.
+\
+ld c,"tachi/aki_t24",crossfade,400
+`"Ừm..."[line=2]@
+` Mặt Akiha đỏ bừng và cô ấy lẩn tránh xa tôi.@
+ld c,"tachi/aki_t16b",crossfade,400
+`"[line=4]Ôi? Tôi không nghĩ có điều gì để cảm ơn đâu. Nếu em bị thương, anh sẽ giúp em, phải không Nii-san?"@
+`"Có thể là như vậy, nhưng điều đó khiến tôi hạnh phúc."@
+` Lúng túng, cuối cùng tôi nhận ra. Tôi hiện tại khá thờ ơ về cảm xúc, nhưng thật sự tôi rất vui vì [nhưng không phải Kohaku-san hay Hisui, Akiha là người đã chăm sóc vết thương của tôi].@
+` "[line=3]Đừng nói những điều ngốc nghếch như vậy, hãy nhanh chóng quay lại phòng của em nhé. Hay em bị thương ở đâu đó khác?"
+\
+ld c,"tachi/aki_t24",crossfade,400
+`"[line=3]Akiha nói và chuyển ánh nhìn.@
+` "Nii-san, vai anh... có máu."@
+cl c,lshutter,800
+`"[line=4]?"
+\
+` Akiha đặt tay lên vai tôi.@
+` Cô ấy kéo áo tôi ra sau.@
+` Vai và cổ tôi trơ trụi ra.@
+` Những vết cắn của Yumizuka và máu khô vẫn còn đó.
+\
+`"[line=8]Anh trai, đây..."@
+` Trong khoảnh khắc ấy,
+` Không khí như đóng băng.
+\
+`"...im lặng."@
+` Những vết cắn hình lưỡi liềm trên cổ tôi.@
+` Tôi không biết phải bắt đầu giải thích điều đó như thế nào và chìm vào sự im lặng.@
+`"[line=7]"@
+` Akiha từ từ nghiêng người về phía tôi.@
+`"... Anh trai... vẫn còn... máu chảy ở đây..."@
+` Giọng cô căng thẳng đến mức đáng sợ.@
+` Làn tay cô nắm chặt vai tôi ngày càng mạnh hơn.@
+` Thân thể cô dừng lại ở một tư thế nào đó giữa việc chạm vào tôi và không.
+\
+`"…… Tôi phải làm gì đây…… Chúng ta cần dừng máu chảy, đúng không?" [line=4]@
+` Giọng cô ấy nghe như đang lú lẫn.@
+`"[line=4] Akiha?"@
+` Tôi gọi tên cô ấy trong khi bị một nỗi bất an không thể diễn tả tấn công.@
+`"Nnn" [line=6]@
+` Không có hồi đáp.@
+` Nhưng thay vào đó,
+` Tôi cảm nhận được một cảm giác ấm áp dọc theo cổ tôi.
+\
+`"Tôi... không thể nói gì nữa..."@
+` Giọng nói của tôi dần biến mất.@
+` Mặt Akiha ở ngay gần mặt tôi.@
+br
+` ...Cảm giác ma sát này...@
+` Một sự tiếp xúc. Trong một môi trường ẩm ướt.@
+br
+`"Aki...? Cô ấy nói gì vậy?"@
+` Cảm giác lý trí của tôi bị tê liệt, không thể hiểu được chuyện đang xảy ra.@
+` Ngón tay run rẩy chạm vào.@
+` Ngón đỏ run rẩy quấn lấy cổ tôi.@
+` Tôi run rẩy. Những ngón tay run rẩy ôm lấy tôi, sự ấm áp từ cơ thể Akiha.
+\
+`"Aaaa..." [line=8]@
+` Akiha đang liếm máu chảy xuống cổ tôi.@
+` Nhưng, đó thực sự không phải là điều gì đáng lo ngại.@
+` Nó chỉ giống như những gì bạn sẽ làm khi còn nhỏ để ngăn máu chảy.@
+` Nhưng nó cảm thấy rất ngọt ngào, tôi không thể nói được gì.@
+` Akiha chắc chắn cũng nghĩ vậy, vì cô ấy vô cớ[line=3]chải răng vào vết thương của tôi.
+\
+!w3000
+` [line=4]Bất ngờ.@
+br
+br
+br
+br
+br
+` Một âm thanh vang lên từ sảnh.
+\
+ld c,"tachi/aki_t24",lshutter,400
+`"[line=6]!"@
+` Akiha rút lại.@
+`"[line=4][line=4]Tôi rất xin lỗi, anh trai!"@
+cl c,lshutter,400
+` Mặt cô ấy đỏ bừng, Akiha chạy đi.
+\
+`"[line=6]Chuyện gì vậy?"@
+` Để lại một mình trong phòng khách, tôi vươn tay lên cổ mình.@
+` Sự ấm áp của cô ấy vẫn còn lơ lửng ở đó, rất mờ nhạt.@
+`"... Cô ấy không cần phải chạy trốn."@
+` Tôi thì thầm với bản thân và lắc đầu.@
+` Nôn mửa vết thương như vậy, tôi đã làm điều đó nhiều lần khi còn nhỏ. Tôi đã làm điều đó với Akiha và Kohaku-san khi họ bị thương.@
+` ... Nhưng đó chỉ là hành động từ sự trong trắng ngây thơ như trẻ con, chỉ được thực hiện khi còn nhỏ.@
+` Chúng ta, cả hai người đã lớn lên và trở thành giới tính trái ngược. Chúng ta không thể sử dụng phương pháp đó nữa.
+\
+`"... Cô ấy đang làm gì vậy? ... Cô ấy có vẻ rất kỳ lạ."@
+` ... Vậy là, tôi cũng có lẽ cũng kỳ lạ lúc này.@
+` Giống như trong một giấc mơ, tôi không thể nhớ rõ chuyện gì đã xảy ra.@
+` Ngay cả những gì tôi và Akiha vừa làm, tôi cảm thấy nó sẽ chỉ là một giấc mơ vào sáng mai.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",lcartain,800
+` ... Và tôi đến phòng của mình.@
+` Tôi lao tới giường và gục xuống.@
+`"[line=6]Nnn." - Tôi cảm thấy mệt mỏi bao trùm lấy não bộ.@
+` Mệt mỏi của tôi chủ yếu đến từ cơ thể hơn là tâm trí.@
+` Cơ thể tôi dường như đang cố gắng ngăn chặn mọi thứ để nhanh chóng hồi phục sau những nỗ lực trước đó.@
+` Trước khi ngủ, tôi hít một hơi sâu và lại vuốt ve cổ mình lần nữa.@
+` "... Ah..."
+\
+`"Tôi bất ngờ một chút.@
+` Hai vết cắn sắc nhọn. Máu thực sự đã bị chặn lại bởi đôi môi của Akiha.@
+` [line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w3000
+Tôi thức dậy từ một giấc ngủ dài.
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,400
+play "*2"
+` Ánh nắng mặt trời chiếu vào cửa sổ gần như là giữa trưa hơn là buổi sáng.@
+` Có lẽ vì tôi đã về muộn đêm qua.@
+` Tôi dường như đã ngủ quá lâu.@
+` "... ..."
+\
+`"Tôi ngồi dậy, nhìn xuống bàn tay mình.@
+` Cảm giác khi tôi đâm Yumizuka vẫn còn đó.@
+` [line=4]Những ký ức về hành động của tôi vẫn ám ảnh.@
+` Hai đêm trước.@
+` Khi tôi gặp Yumizuka và thấy giấc mơ kinh hoàng đó.@
+`"... Nếu ngày hôm qua... chỉ là một giấc mơ."@
+` Nhưng hy vọng không thể biến điều đó thành hiện thực.@
+` Tôi không biết tại sao hay làm thế nào mà Yumizuka trở thành ma cà rồng, và tôi không thể làm gì để giúp cô ấy.
+\
+` [line=3]Không.@
+` Khi Yumizuka đã như vậy, có lẽ không ai có thể cứu cô ấy được.@
+` Cô ấy đã chết rồi.@
+` Tôi chỉ có thể đưa xác đó trở lại trạng thái chết bằng cách khiến nó di chuyển như một sinh vật sống. Đó là cách duy nhất tôi có thể hình dung ra.@
+br
+` [line=3]Nhưng, vẫn...
+br
+wave se_04
+`"Xin lỗi Shiki-sama."@
+` Với giọng nói quen thuộc của mình, Hisui bước vào phòng.
+\
+ld c,"tachi/his_t01",lcartain,800
+`"Chào buổi sáng, Shiki-sama. Anh cảm thấy thế nào hôm nay?"@
+`"Ừm...  Ah, tôi ngủ ngon nên không có cảm giác gì cả."@
+`"Thật sao? Nghe điều đó khiến tôi rất nhẹ nhõm."@
+` Mặc dù cô ấy nói vậy, nhưng tôi không thấy cô ấy thư giãn vai hay cho thấy bất kỳ dấu hiệu nào khác về sự thoải mái.
+\
+`"………"@
+` Nhưng tôi cũng cảm thấy nhẹ nhõm.@
+` Vì những gì đã xảy ra đêm qua, đêm dài đã kết thúc. Bởi vì tôi không còn phải bước vào thế giới bất tự nhiên đó nữa, trái tim tôi có thể thư giãn.@
+`"…… Cảm ơn, Hisui. Anh luôn đến kiểm tra tôi từ rất sớm, đúng không? Sự quan tâm của anh đối với tôi rất nhiều ý nghĩa."@
+ld c,"tachi/his_t03",crossfade,400
+`"[line=4] Không có gì cả. Đó là nhiệm vụ của tôi để lo lắng cho sự an toàn của cậu."@
+` Có một nụ cười hạnh phúc trên gương mặt Hisui.
+\
+` …… Hơn nữa, tôi cảm thấy như mình đã được giải cứu một phần.@
+` Trong lúc tôi ngủ say trên giường này, Hisui lại đến như mọi khi để đánh thức tôi.@
+` Chỉ với điều nhỏ nhặt này, tôi thực sự cảm thấy như đã trở lại cuộc sống bình thường của mình.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"Ừm... Shiki-sama, chuyện này hơi khó nói cho tôi, nhưng... tôi có thể?"@
+`"..."?@ Khó nói?@ Nếu là về việc tôi ngủ đến trưa, tôi thực sự không biết phải làm gì ngoài việc xin lỗi."@
+ld c,"tachi/his_t23",crossfade,400
+`"Không, tôi không có ý đó, nhưng có lẽ nó liên quan đến lúc bạn đi ngủ."@
+` Hisui luồn ngón tay qua nhau, cố gắng tìm từ ngữ thích hợp.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"..." Ừm, tôi không nói gì, nhưng Akiha-sama đã biết về chuyện tối qua."@
+`"Ồ... về tối qua... cái gì?"@
+`"Tôi muốn nói khi bạn rời đi rất muộn tối qua, Shiki-sama."@
+`"[line=4]"@
+` Tôi vô thức quay mắt đi khỏi cô ấy.@
+` Tôi nghĩ mình đã trốn thoát mà không bị phát hiện, nhưng tôi nên biết rằng Hisui vẫn sẽ tìm ra.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Thưa Ngài Shiki, việc Ngài quay lại muộn vào ban đêm đã thu hút sự chú ý của Ngài Akiha, vì vậy tôi nghĩ Ngài sẽ phải giải thích sớm muộn."@
+` "Cô ấy đang ở trong phòng khách và có thể đã tức giận, nên hãy chuẩn bị sẵn sàng."@
+`"……… Tôi hiểu rồi. Tôi đã nắm bắt được; tôi sẽ chuẩn bị sẵn sàng."@
+` "Nhưng nếu chuyện này liên quan đến đêm qua, thì Akiha chắc chắn đã biết từ trước rồi."@
+` Sau đó, chính Akiha là người chăm sóc tôi khi tôi rơi vào trạng thái ngốc nghếch hoàn toàn.
+\
+`"Về chuyện này, nó có xảy ra lại không? Tôi không thể ngăn cản bạn, nhưng nếu bạn tiếp tục làm những việc như vậy, tôi phải nói với Akiha-sama."@
+`"[line=4]Không, những chuyện giống đêm qua sẽ không bao giờ lặp lại. Mọi thứ... đã kết thúc vào đêm qua... Không còn cuộc gọi nào nữa."
+\
+` [line=3]"Đúng vậy."@
+` "Với những lời này, nó thực sự là kết thúc."@
+` "Yumizuka Satsuki không còn nữa."@
+` "Con ma cà rồng lẩn trốn trên đường phố đã biến mất. Tôi, bằng chính tay mình, đã đẩy đi một người bạn cùng lớp nói rằng cô ấy thích tôi, mãi mãi."
+\
+ld c,"tachi/his_t07",crossfade,400
+`"... ..."@
+` "Hisui nhìn tôi với biểu cảm đau đớn trên mặt."@
+` "Chà, nếu Hisui có biểu cảm như vậy, chắc tôi trông khủng khiếp lắm lúc này."@
+`"[line=3] Này, tôi phải dậy sớm muộn gì thì cũng phải dậy. Hisui, Akiha còn ở đây không? Cô ấy quá bận rộn nên có lẽ cô ấy cũng có kế hoạch vào ngày nghỉ của mình?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Vâng, cô ấy thực sự có kế hoạch trong ngày nghỉ nhưng hôm nay cô ấy vẫn ở trong biệt thự."@
+`"………"@
+` "Cô ấy có kế hoạch nhưng vẫn ở đây……?"
+\
+`"Tôi không hiểu lắm nhưng…… tốt, tôi sẽ đi thay đồ, vậy bạn hãy đến phòng khách trước tôi."@
+`"Vâng. Này, xin lỗi nhé."@
+cl c,lshutter,800
+` "Như thường lệ, Hisui rời đi mà chẳng nói một lời."@
+br
+` [line=3]"Nhưng tôi đã quên một điều rất quan trọng."@
+br
+`"Hisui."
+\
+ld c,"tachi/his_t01",lshutter,800
+`"Ừm?@ Chuyện gì vậy, Shiki-sama?"@
+`"Vâng, tôi đã quên nói điều gì đó.@ Cảm ơn bạn đã đến đánh thức tôi.@ Có chút muộn nhưng chúc buổi sáng tốt lành, Hisui."@
+ld c,"tachi/his_t03",crossfade,400
+`"[line=3]Ừm... Hãy có một ngày tốt lành, Shiki-sama."@
+cl c,lshutter,800
+` Rồi thì...@
+` Tôi nên vội vàng thay quần áo và đến phòng khách.
+\
+bg #000000,lcartain,800
+!w1000

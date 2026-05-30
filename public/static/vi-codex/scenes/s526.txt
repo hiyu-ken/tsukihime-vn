@@ -1,0 +1,61 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Merci!@`
+` Xin nhiệt liệt chúc mừng!@ Đây chính là Good Ending viên mãn của Ciel-san rồi đấy!@`
+br
+` ... Ồ?@
+` ... Ừm?@
+` ... Ừm? Ừm ư?@
+` Kìa kìa, xin hãy chờ một chút!@`
+` Sự tình gì thế này?@`
+` Cái kết cục quái đản gì thế này hả trời!?`
+\
+ld l,"tachi/ark_t30",crossfade,800
+`"……………………………… Lén lút, rón rén."@`
+br
+` Này ả kia!@ Đứng lại mau, đồ mèo ăn trộm kia[line=4]!@`
+bg #ffffff,notrans,0
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+!w1000
+ld l,"tachi/ark_t31a",crossfade,800
+br
+`"Ối giời ơiii!@ Chớ có cất lực bạo lực nhường ấy chứ!@ Ciel-sensei, cô tịnh không nên tùy tiện dùng hình phạt thể xác như thế đâu nhé!"`
+\
+bg #ffffff,notrans,0
+bg "bg/bg_06a",notrans,0
+wave se_10
+quakey 1,50
+ld r,"tachi/cel_t20",lshutter,400
+` [line=4]Chuyên mục giải tán tại đây.@`
+` …… Ôi dào, được rồi dẫu vậy!@`
+` Mỗi nữ chính dẫu dẫu đã có hai kết cục hoàn toàn khác biệt.@`
+` Đây dẫu dẫu đã là Good End của Ciel-san rồi.@`
+` Xin cậu hãy cất công quay trở lại lựa chọn trước đó để cất bước sang một ngả rẽ mới nhé!@`
+` Đó mới thực sự là True End đích thực của câu chuyện!`
+\
+` À, còn một điều nữa.@
+` Nhánh kịch bản của Ciel-san và Arcueid được gọi là Near Side of the Moon (Nửa gần Mặt Trăng).@ Nhưng dẫu dẫu đã có một câu chuyện tịch mịch hoàn toàn khác biệt đang chờ đợi cậu: Far Side of the Moon (Nửa xa Mặt Trăng).@`
+` Đó chính là các nhánh kịch bản xoay quanh "Gia tộc Tohno", liên quan mật thiết tới tiểu thư Akiha.@`
+` Có vẻ khó để biết yêu cầu cần thiết để có thể chọn con đường này, nên tôi sẽ cho cậu một chút gợi ý.
+\
+` Vào ngày đầu tiên, cậu không nên đi gặp Ciel-san.@
+br
+` Có lẽ tốt hơn là nên ở lại trong lớp học trong giờ ăn trưa.@
+br
+` Và điều quan trọng nhất là...@
+` Tôi nghĩ rằng nếu cậu không gặp ma cà rồng Nrvnqsr, cốt truyện hiện tại sẽ không bao giờ diễn ra.@
+` Vậy bấy giờ, làm thế nào để cất bước khởi động một nhánh kịch bản hoàn toàn mới?@`
+` Trong khoảng thời gian đó, nếu cậu không cố gắng thực hiện hành động ấy, một sự kiện hoàn toàn khác đang chờ đợi bạn.@
+br
+` Hẹn gặp lại cậu thêm một lần nữa trong cốt truyện chính tịch mịch nhé!`
+\
+bg #000000,crossfade,800
+playstop

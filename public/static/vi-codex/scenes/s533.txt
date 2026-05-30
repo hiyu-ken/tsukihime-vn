@@ -1,0 +1,25 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` "Chào buổi sáng!"@
+` "Giờ đây, góc gợi ý cho Tohno-kun người đã gặp phải một Dead End khác,
+` "Đã đến lúc 'Hãy dạy tôi, Ciel-sensei'!"
+\
+` "Bài học thứ hai của ngày thứ ba sẽ nói về tình yêu thương giữa các thành viên trong gia đình.@
+` "Lý do bạn chết lần này rất đơn giản, Tohno-kun. Không có đủ động lực trong bạn để kéo Yumizuka-san ra khỏi người ngay khi cô ấy cắn bạn.
+\
+` "Mối quan hệ gia đình rất quan trọng."@
+` Bạn bè cùng lớp cũng quan trọng.@
+` Bạn cần đảm bảo mình là một anh trai tốt và phải tìm cách đáp lại tình cảm của cậu bè cùng lớp. Vâng, cậu có nghĩa vụ với cả hai.
+\
+` Vì vậy, đây là lời khuyên nhỏ.@
+` Tohno, có lẽ tốt nhất là bạn nên quay lại và thể hiện sự chân thành với Yumizuka-san.@
+br
+` Vậy thì, chúng ta gặp lại nhau trong buổi học tiếp theo nhé mọi người.
+\
+bg #000000,crossfade,800
+playstop

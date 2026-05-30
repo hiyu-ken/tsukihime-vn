@@ -1,0 +1,304 @@
+playstop
+wavestop
+bg "bg/bg_04",notrans,0
+` "Không, chẳng có lý do gì cả."@
+` "Nếu tôi nói với cô ấy về những giấc mơ của mình, Ciel-senpai sẽ làm gì?"@
+` Đó là giấc mơ.@
+` Nếu tôi là người mơ về việc giết người, thì chỉ có tôi mới có thể giải quyết vấn đề này.@
+ld c,"tachi/ari_t03",crossfade,400
+`"Này Tohno, chúng ta không còn nhiều thời gian."@
+`"[line=6] Tôi biết rồi, chúng ta sẽ không kịp nếu không chạy nhanh lên, phải không?"@
+` Nói vậy, tôi bắt đầu chạy về phía lớp học của chúng tôi.
+\
+bg #000000,lcartain,800
+!w2000
+play "*1"
+bg "bg/bg_06b",tshutter,800
+` [line=10]Giờ thì giờ học đã kết thúc.@
+br
+` Tôi bối rối về bản thân và Akiha, nhưng ngày hôm nay sắp kết thúc.@
+`"[line=6] Tôi có nên quay lại không?"@
+` Tôi nên đi lấy Akiha và quay lại biệt thự của chúng tôi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_24b",lcartain,800
+` Tôi đi về nhà cùng với Akiha.@
+` ... Giống như giờ ăn trưa, chúng tôi trở nên yên tĩnh khi chỉ còn hai người.@
+br
+` [line=3]Tôi muốn nói chuyện với Akiha, nhưng cũng cảm thấy ngượng ngùng khi nhìn vào cô ấy.@
+br
+`"Ồ... Không phải là tôi là học sinh trung học đâu."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"...? Anh có nói gì không, anh trai?"@
+`"[line=3]À không, chẳng có gì cả, chỉ là tự nói chuyện với bản thân thôi."@
+cl c,crossfade,400
+` ... *thở dài*@
+` Thật ra, tôi đang làm gì vậy?
+\
+bg "bg/bg_22b",lcartain,800
+` Chúng ta đã đến chân ngọn đồi dài.@
+` Khi chúng ta leo lên nó, căn biệt thự sẽ ở ngay phía trước.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Anh trai ơi. Em muốn hỏi anh một điều trước khi về nhà."@
+` Chân Akiha ngừng lại và cô ấy nhìn thẳng vào tôi.@
+`"[line=5]"@
+` Loại im lặng từng tồn tại trước đó đã biến mất.@
+` Akiha nhìn tôi với vẻ nghiêm túc.
+\
+`"Đi đi, cậu muốn hỏi gì về chuyện này?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"[line=5]Nếu cậu không muốn trả lời, cũng không sao nhưng... có điều gì đó cậu đang giấu tôi, anh trai ạ?"@
+`"[line=7]Huh?"@
+` Câu hỏi đột ngột đến vậy, tôi dừng lại giữa đường.
+\
+`"Ừm... Cô đang nói về điều gì vậy?"@
+` Tôi quyết định giả vờ như mình không biết cô ấy đang nói gì.@
+ld c,"tachi/aki_t02",crossfade,400
+`"Điều gì? Đó chính là điều tôi đang hỏi. Những ngày qua, cô cư xử rất kỳ lạ. Tôi có thể dễ dàng nhận ra điều đó vì chúng ta sống chung."@
+` Akiha nhìn tôi như thể cô ấy có thể đọc được suy nghĩ của tôi vậy.@
+`"[line=8]Ừm."@
+` ... Không, không cách nào tôi có thể nói dối cô ấy mà không bị phát hiện.
+\
+`"... Vậy là cô đang giấu điều gì đó.@
+` Có phải đó là lý do gần đây cô không thấy khỏe, như buổi sáng nay? Tôi không biết điều gì đang làm phiền cô nhưng nó tồi tệ đến mức cô phải giấu giếm sao?"@
+`"[line=8]"@
+` "Tôi... ngạc nhiên."@
+` Akiha biết rằng tôi đang lo lắng về vấn đề này một mình.@
+`"Akiha... cậu đã để ý à?"@
+ld c,"tachi/aki_t21",crossfade,400
+`"Dĩ nhiên rồi. Chúng ta là anh em chị em. Tôi có thể nhận ra khi cậu buồn bã, anh trai. Nhưng cậu vẫn giữ vấn đề trong lòng và thậm chí không nhờ chúng tôi giúp đỡ."
+\
+`"[line=7][line=5]!!@ Tôi không thể xin bạn giúp đỡ."@
+` Tôi không bao giờ có thể làm điều đó.@
+br
+` Mỗi đêm, tôi mơ thấy việc giết người.@
+` Và tôi không thể phân biệt liệu điều này có thực hay chỉ là một giấc mơ, và những nạn nhân trong cuộc sống thực giống như những người trong giấc mơ của tôi.@
+` Tôi không thể nói với cô ấy rằng tôi, Tohno Shiki, có thể là một kẻ giết người, nên hãy cẩn thận vào ban đêm.
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"Anh trai. Chúng ta là anh em, phải không? Vậy thì xin hãy tin tưởng em một chút. Không chỉ em, mà cả Kohaku và Hisui cũng lo lắng về anh."@
+` Nếu đó là một vấn đề mà anh không thể giải quyết một mình, chúng tôi sẽ vui lòng giúp đỡ anh, nên xin hãy nói với chúng tôi về nó.@
+`"Akiha[line=10]"@
+cl c,crossfade,400
+` Akiha chỉ nhìn chằm chằm vào tôi.@
+` …… Đôi mắt cô ấy chỉ lấp đầy lo lắng.@
+` Akiha không phàn nàn với tôi vì tôi giấu giếm điều gì đó khỏi cô ấy, mà cô ấy đang cố gắng giúp tôi giải quyết vấn đề của mình.
+\
+`"……… D-"@
+br
+` Đó là lý do tôi không thể nói với cô ấy.@
+` "[line=3][line=3]Anh trai của Tohno Akiha có thể là một kẻ giết người. Tôi sẽ không bao giờ nói điều đó."@
+br
+`"Đừng nói những điều ngốc nghếch. Tôi không che giấu gì và cũng không có vấn đề nào."@
+` [line=5]Gần đây tôi không cảm thấy tốt vì chưa quen với cuộc sống ở lâu đài.@
+ld c,"tachi/aki_t03a",crossfade,400
+`"………."@
+` Akiha nhìn tôi với ánh mắt đầy giận dữ.
+\
+`"A[line=4]Akiha?"@
+`"Tôi hiểu rồi.@ Anh sẽ không nghe em dù em có nói gì đi nữa.@ Nếu anh không thể tin em, Kohaku hay Hisui, thì em cũng chẳng còn gì để nói nữa."@
+ld c,"tachi/aki_t05a",crossfade,400
+` Akiha thở ra và nhìn đi nơi khác.
+\
+`"[line=5]Không, đó là sai lầm, Akiha. Nó không phải là tôi không tin các cậu, nhưng..."@
+ld c,"tachi/aki_t07",crossfade,400
+`"Tôi không muốn nghe những lời bào chữa của cậu! Nếu cậu thích giữ bí mật đến vậy, thì cứ làm theo ý mình!"@
+cl c,lshutter,400
+` Akiha hét vào mặt tôi và chạy lên đồi.
+\
+` [line=6]Tôi không thể đuổi theo cô ấy.@
+br
+` Dù tôi đuổi theo cô ấy, tôi cũng không thể nói gì với cô ấy được.@
+` "Vậy thì có nghĩa là..."
+` Không quan trọng những gì xảy ra; tôi không tin họ đủ mức.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40c",tshutter,800
+` Bữa tối kết thúc và giờ là lúc đi ngủ.@
+` Akiha đã phớt lờ tôi trong bữa tối và cả buổi trà sau đó. Cô ấy chắc vẫn còn giận về cuộc trò chuyện chúng tôi từng có trên đồi.@
+` ... Lần này, dường như cơn giận của cô ấy sẽ không tan trong vòng vài ngày.@
+br
+`"Không, điều đó tốt hơn cho tôi."@
+` [line=6]Vâng, tôi không thể sợ những giấc mơ của chính mình nữa.@
+` Tôi không nhờ Ciel-senpai giúp đỡ và từ chối lời đề nghị giúp đỡ của Akiha, vì tôi đã quyết định sẽ tự giải quyết vấn đề này.
+\
+`"[line=5]Để chứng minh rằng tôi, Tohno Shiki, không phải là kẻ giết người."@
+` Tôi chỉ có một cách để làm điều đó.
+\
+playstop
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+` Tôi tắt đèn trong phòng và bỏ dao vào túi.@
+`"... Đi thôi."@
+` Tôi rời khỏi phòng, cố gắng không gây ra tiếng động nào.@
+br
+bg #000000,crossfade,800
+` Để chứng minh xem tôi có phải là kẻ giết người hay không.@
+` ... Thật ra tôi chẳng cần suy nghĩ nhiều.@
+` [line=6]Tôi chỉ cần đi quanh thị trấn vào ban đêm và tìm kiếm kẻ giết người, nhưng không phải là tôi.
+\
+!w2000
+wave se_01
+bg "bg/bg_25b",crossfade,800
+` Tôi thở dài thoải mái.@
+br
+` [line=10]Tôi lang thang qua thị trấn bị bao phủ trong bóng đêm.
+\
+br
+` Tôi đặt tay vào túi, cảm nhận con dao lạnh lẽo trên đầu ngón tay khi tôi đi qua những con phố.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_26a",crossfade,800
+play "*6"
+` [line=5]*Hít một hơi sâu*
+br
+` [line=7]Tôi hít thở nhẹ nhàng khi tôi đi bộ xung quanh.@
+` Cố gắng không thu hút sự chú ý.@
+` Tôi quan sát những người qua lại trong khi tôi che giấu sự hiện diện của mình.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_27b",crossfade,800
+br
+` [line=6]*Hít một hơi sâu* *Hít một hơi sâu*@
+br
+` [line=8]Tôi đang tìm kiếm kẻ giết người.@
+` Có người sẽ bị tấn công đêm nay. Anh ấy đang tìm một nạn nhân mới.@
+` Này, một cô gái tóc đen dài.@
+` Một cô gái khoảng tuổi tôi sẽ phù hợp nhất.@
+` Không cần nói đến vẻ đẹp của đôi tay và chân cô ấy, nhưng vẻ đẹp của cổ cô ấy thì nên cân nhắc.@
+` Cuối cùng, mọi thứ đều phụ thuộc vào điểm đó.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_30b",crossfade,800
+` [hít thở gấp] *p-pant*, *pant*, *pant*.@
+br
+` [line=8]Tôi tìm kiếm kẻ giết người.@
+br
+` …… Tôi biết tôi sẽ không dễ dàng tìm thấy anh ấy.@
+` Tôi biết từ những giấc mơ rằng con mồi hoàn hảo khó có thể tìm thấy.
+\
+wave se_01
+` *Hít thở gấp gáp... Hít thở gấp gáp...*
+br
+` *Buồn bã...*
+` Tối nay, thị trấn này khiến tôi chán nản.@
+` Tôi không tìm thấy con mồi của mình.@
+` Tôi đang tức giận. Mục tiêu của tôi là tìm ai đó, hoặc giết ai đó, hay một điều gì đó tương tự.
+\
+`"[line=12]Ha..."@
+br
+` Tôi sẽ nhịn thở.@
+` Tôi sẽ giữ dao của mình.@
+` Tôi cần tập trung, như vậy tôi có thể trả lại cái chết bất cứ lúc nào.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_31b",crossfade,800
+` Tôi thở ngày càng nhiều hơn.@
+br
+` [line=3]Tôi tìm kiếm KILLER.@
+br
+wave se_01
+` Nhưng tôi không thể tìm thấy anh ấy.@
+` Chỉ thời gian trôi qua.@
+` *Thở*, *thở*.@
+wave se_01
+` [line=7]Nó tràn ngập, sắc bén hóa, được sử dụng, tiêu hao, và theo thời gian đứng dậy, thay đổi hình dạng và
+\
+wave se_01
+bg #ffffff,crossfade,400
+monocro #ff0000
+bg "bg/bg_31b",crossfade,400
+Âm thanh lặp lại se_02
+` Trước mặt tôi là con mồi đêm nay.@
+br
+` Hơi thở của tôi ngạt ngào không khí xung quanh.@
+br
+` Đó là xác một người phụ nữ đã chết.@
+` Tôi cầm một con dao trong tay. Máu đỏ từ con dao rơi xuống đất.@
+br
+` [line=8]Tại sao?@
+` Tôi đang tìm kẻ giết người, nhưng đột nhiên, tôi nhìn thấy xác một người phụ nữ trước mặt mình.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_31b",crossfade,400
+` *Thở gấp*, *thở gấp*, *thở gấp*, *thở gấp*.@
+` Hơi thở của tôi mất kiểm soát.@
+` Trước mặt tôi là một xác chết.@
+` Trong tay tôi là con dao máu me.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=14]Tôi không hiểu.
+\
+` Khi, vào lúc nào, tôi đã làm gì?@
+` Có điều gì đó sai với tâm trí tôi không?@
+` Vâng, giống như...
+` Nó tràn ngập, sắc bén hơn, được sử dụng, tiêu hao, và theo thời gian đứng vững, thay đổi hình dạng, thay đổi ý nghĩa, trở nên tự do, nổ tung, và nhẹ nhàng hơn.@
+` Trên con đường đó.@
+` Lý thuyết về sự tiến hóa của nhận thức và ý nghĩa.@
+` Nhưng một con đường quan trọng đang bị thiếu mất.
+\
+br
+br
+` Từ khi nào?@
+br
+br
+` Tôi đã làm.@
+br
+br
+` "Chuyển hóa."@
+br
+br
+` "Người khác của 'tôi'?"
+\
+` [line=9]"Được rồi."@
+` Không cần tôi phải đẩy cậu, Shiki.
+\
+` Từ phía sau lưng tôi,
+` Có một giọng nói vang lên.@
+br
+` Hơi thở nặng nề.@
+br
+` Tôi quay lại.@
+` Ở đó.@
+ld c,"tachi/hal_t01",crossfade,400
+cl c,crossfade,400
+br
+` Một người mà tôi chưa từng thấy trước đây, nhưng trông giống hệt tôi, đang đứng đó.
+\
+` [line=6]Nếu cậu đã bị tổn thương rồi thì cũng không thể tránh được.@
+`  Tạm biệt, Shiki. Tôi muốn chơi đùa với cậu thêm một lúc nữa.
+\
+wave se_06
+bg "bg/ima_12b",crossfade,400
+` Cắt. Tôi bị dao đâm.@
+br
+` Đau quá.@
+` Nhưng kỳ lạ, lại thấy vui.@
+` Điều này sâu sắc.@
+` Tuyệt vời!
+\
+`"[line=6]Haha, haha..." [trên dòng 6]@
+` Tôi bắt đầu ngất đi.@
+` Như vậy, trong trạng thái mơ hồ đó, tôi đã bị giết.@
+` ... Tôi cảm thấy hạnh phúc theo một cách nào đó.@
+` Tohno Shiki đã bị kẻ giết người giết chết.@
+` Đó là bằng chứng cho thấy tôi không phải là kẻ giết người.
+\
+playstop
+bg #000000,crossfade,800
+monocro off
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

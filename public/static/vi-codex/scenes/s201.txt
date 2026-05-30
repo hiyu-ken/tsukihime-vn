@@ -1,0 +1,37 @@
+playstop
+bg #000000,lcartain,800
+bg "bg/bg_22b",lcartain,800
+play "*1"
+` Tôi rẽ vào một con đường khác với lối đi thường ngày.@
+` Dõi mắt nhìn những dãy phố xa lạ lướt qua, tôi chậm rãi tiến lại gần biệt thự gia tộc Tohno.@
+` Khung cảnh xung quanh thực chất hoàn toàn không hề xa lạ với tôi chút nào.@
+` [line=3]Dẫu sao thì, tôi đã từng sinh sống ở nơi đây cho đến tận năm chín tuổi mới rời đi cách đây tám năm. Thế nên đây tuyệt đối không phải là lần đầu tiên tôi bước đi trên con đường dẫn về căn biệt thự này.
+\
+` Lòng tôi bấy giờ trào dâng những cảm xúc vô cùng phức tạp.@
+` Lối đi dẫn về nhà mang một nỗi hoài niệm pha lẫn với cảm giác mới mẻ khó tả.@
+` Suốt thời gian qua, tôi chưa từng mảy may mong đợi ngày mình được quay trở lại gia tộc Tohno. Thế nhưng lúc này đây, cảm giác đó dường như cũng không đến nỗi quá tệ.
+\
+bg #ffffff,crossfade,800
+bg "bg/ima_17",crossfade,800
+` ... Căn nhà nơi tôi đã từng sinh sống cho đến tận năm chín tuổi.@
+` Giờ đây, em gái tôi - Akiha - đang đơn độc sống trong căn biệt thự kiểu phương Tây nguy nga tráng lệ hoàn toàn tách biệt với phong cách Nhật Bản truyền thống.@
+` [line=3]Người cha quá cố - cựu gia chủ của gia tộc Tohno, người vốn luôn lạnh lùng ghét bỏ tôi - đã trút hơi thở cuối cùng cách đây vài ngày.
+\
+` Mẹ tôi đã không may qua đời vì bệnh tật hiểm nghèo ngay sau khi Akiha vừa chào đời, thế nên gia tộc Tohno bấy giờ chỉ còn lại hai anh em chúng tôi nương tựa vào nhau.@
+` Với tư cách là con trai cả, theo lẽ thường tình tôi sẽ là người thừa kế hợp pháp toàn bộ sản nghiệp khổng lồ của gia tộc Tohno, thế nhưng bản thân tôi lại chẳng hề được hưởng bất kỳ đặc quyền nào như thế cả.
+\
+` Được sinh ra mang danh nghĩa người kế vị của gia tộc Tohno đồng nghĩa với việc phải chấp nhận một chế độ giáo dục vô cùng khắc nghiệt và tàn nhẫn.@
+` Tôi thậm chí chẳng thể nhớ nổi đã bao nhiêu lần bị cha nghiêm khắc quát mắng chỉ vì bản tính bướng bỉnh, không chịu khuất phục trước những luật lệ ràng buộc của gia đình.@
+` Và rồi, biến cố tai nạn kinh hoàng đó ập đến khiến thể xác tôi trở nên suy nhược trầm trọng... Cha tôi dường như đã coi đó là một cái cớ vô cùng hoàn hảo để trục xuất tôi khỏi gia đình.@
+` Lời tuyên bố lạnh lùng của ông ấy năm xưa đại loại là: "Một kẻ mang thể xác yếu ớt có thể trút hơi thở cuối cùng bất cứ lúc nào như nó thì tuyệt đối không có tư cách gánh vác vị trí kế vị, dẫu cho nó có là con trai cả đi chăng nữa."@
+` Thật trớ trêu thay cho những toan tính của cha, tôi đã đi ngược lại mọi kỳ vọng lạnh lùng đó bằng việc hồi sinh thần kỳ sau tai nạn. Thế nhưng lúc bấy giờ, em gái tôi, Akiha, đã được chính thức chỉ định trở thành người thừa kế duy nhất của gia tộc Tohno rồi.
+\
+` Tôi nghe bảo kể từ thời khắc đó, Akiha - người vốn đang phải chịu đựng chế độ huấn luyện khắc khe để trở thành một tiểu thư quyền quý nhà Tohno - lại càng phải gánh chịu những bài học rèn luyện tàn nhẫn gấp bội.@
+` Đó đã là chuyện của một quá khứ vô cùng xa xôi rồi... [line=3]Tôi từng cùng Akiha hồn nhiên chơi đùa khắp khoảng sân biệt thự trước khi biến cố tai nạn định mệnh xảy ra. Để rồi kể từ ngày đó, tôi hoàn toàn không còn cơ hội gặp lại em ấy nữa.
+\
+bg #ffffff,crossfade,800
+bg "bg/bg_22b",lcartain,800
+` ... Cuộc sống nhung lụa nơi căn biệt thự mà tôi đã bỏ lại phía sau suốt tám năm ròng rã.@
+` Tám năm đằng đẵng trôi qua quả thực là một quãng thời gian quá dài, đủ để xóa nhòa gần như toàn bộ những ký ức xưa cũ của tôi thuở ấy.@
+` Thế nhưng dẫu cho mọi thứ có phai nhạt đi chăng nữa, vẫn luôn tồn tại duy nhất một hình bóng khắc sâu, rực cháy dữ dội trong thâm tâm tôi cho đến tận bây giờ, đó là... [line=5]
+\

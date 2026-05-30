@@ -1,0 +1,279 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06f",crossfade,800
+` Khi giờ học kết thúc, lớp học trống rỗng, nhưng tôi sẽ không rời đi cho đến khi mặt trời hoàn toàn lặn.@
+br
+` Lớp học màu đỏ.@
+` Ánh hoàng hôn cháy bỏng lan rộng bên ngoài cửa sổ.@
+` Mặt trời nhuộm đỏ khi nó lặn sâu xuống bầu trời.@
+`"[line=6]"@
+` Tôi sẽ luôn chờ đợi ở đây.@
+` Tôi sẽ nhớ lời hứa không thể quên; tôi sẽ tiếp tục chờ đợi ở đây mãi mãi.
+\
+bg "bg/ima_07",crossfade,400
+br
+` Còn một lời hứa mà tôi chưa thể thực hiện được.@
+br
+`"Khi tất cả điều này kết thúc[line=4]khi chúng ta đã đánh bại con ma cà rồng này... Trước khi chia tay, liệu chúng ta có thể làm điều gì đó như thế một lần nữa không?"@
+br
+` Ngày ấy, cô ấy nghiêng đầu sang bên, bối rối.
+\
+`"Vì vậy[line=4]tôi thực sự đang thắc mắc, sẽ ra sao nếu chúng ta gặp lại nhau mà không còn bất kỳ trách nhiệm nào... nếu chúng ta chỉ gặp nhau vì một lý do vô tình."@
+br
+` ... Khi tôi nói những lời đó,
+` Tôi chỉ đang nghĩ về cô ấy.
+\
+`"[line=4]Nếu bạn quá bận rộn, thì cũng không sao. Tôi mới chỉ nghĩ đến điều này lúc nãy, dù sao."@
+br
+` ... Chỉ...
+` Không như hai người hợp tác,
+` mà là hai người bạn hòa thuận, không làm gì cụ thể cả.@
+` Nếu chúng ta có thể tạo ra những kỷ niệm bình thường như vậy,
+\
+br
+` tôi biết cô ấy sẽ hạnh phúc.
+\
+br
+br
+br
+br
+` Được rồi! [line=4] Khi mọi thứ kết thúc, hãy đến đây lại nhé, Shiki!@
+` [line=3]Nó chẳng có ý nghĩa gì, nhưng chắc chắn sẽ rất, rất vui!
+!w2000
+br
+` Sau khi đôi mắt cô ấy mở to vì ngạc nhiên, cô gật đầu.@
+` Trong lớp học ngập tràn ánh hoàng hôn,
+` Arcueid mỉm cười và hứa hẹn cùng tôi.
+\
+bg #ffffff,crossfade,400
+` [line=3]Tôi vẫn nhớ lời hứa đó.@
+` [line=3]Tôi vẫn nhớ nụ cười đó.@
+br
+` [line=3]Tôi vẫn nhớ mọi thứ.@
+br
+` Tôi không thể nào quên được.@
+` Tôi sẽ không bao giờ quên.@
+` Tôi sẽ luôn, luôn ghi nhớ lời hứa mà chúng ta đã trao nhau trong căn phòng rực lửa hoàng hôn, hẹn gặp lại ở đây[line=4]
+\
+bg "bg/bg_06f",crossfade,800
+`"... ..."@
+` Mặt trời dần lặn hơn.@
+` Những giờ phút này cho đến khi màu đỏ thắm phai hẳn,
+` Thời gian yên lặng cho đến khi bầu trời hồng nhạt.@
+br
+` Khoảnh khắc vĩnh cửu nhưng mong manh của thế giới ngừng lại.@
+br
+` Có lẽ tôi đã mất trí rồi.@
+` Ngay cả khi tôi đang chờ đợi ai đó sẽ không bao giờ đến, trái tim tôi lại vô cùng bình tĩnh.
+\
+!w5000
+br
+` [line=3]Tiếng va chạm.@
+br
+` Âm thanh của thứ gì đó chạm vào bàn.@
+` Tôi nhìn.@
+` Một cửa sổ mở ra.@
+` Tôi nhận ra rằng,
+` được vẽ bằng ánh nắng đỏ, cô ấy đang đứng bên cạnh cửa sổ.
+\
+bg "event/ark_f01",crossfade,400
+play "*7"
+` Cô ấy không hề di chuyển, nhưng vẫn ở đó.@
+` Cô ấy đứng ngay trước mặt tôi;
+` Không, cô ấy không phải là ảo ảnh.@
+` [line=6]Nhưng, tôi cảm thấy như có một khoảng cách không thể vượt qua giữa chúng tôi.@
+` Tôi không nói được gì.@
+` Nhưng giờ đây, tôi lại cảm thấy bình tĩnh đến đáng sợ.
+\
+`"... Ồ trời ơi. Tôi thực sự định biến mất, Shiki, nhưng cậu sẽ chờ đợi mãi mãi. Tôi không thể để cậu một mình như vậy, nên tôi đã đến đây."@
+` Cô ấy mỉm cười ngượng ngùng.@
+`"... À, cậu biết đấy. Tôi đã hứa với cậu là sẽ không bao giờ phá vỡ lời hứa nữa."@
+`"Đúng vậy. Cảm ơn bạn đã giữ lời hứa đó."
+\
+`"Nhưng, tôi xin lỗi. Có vẻ như lần này tôi là người không thể giữ lời."@
+`"... Tại sao?"@
+` ... Tôi cũng bất ngờ đấy.@
+` Tôi hỏi cô ấy bằng giọng nhẹ nhàng nhất, không có chút giận dữ nào cả.
+\
+`"... Vâng, tôi chưa bao giờ nói với bạn lý do tại sao tôi lại theo đuổi Roa."@
+` Trên thực tế, từ lâu rồi, tôi từng uống máu người. Lúc đó, con người đó đã đánh cắp một phần sức mạnh của tôi và trở thành một Tử Đồ vô cùng mạnh mẽ.@
+` Cuối cùng, hắn đã giết hết các Chân Tổ khác ngoài tôi."@
+br
+` [line=3]Sau đó, điều đó có nghĩa là...
+br
+`"... cậu nói đến Roa?"
+\
+`"Đúng vậy. Cho đến lúc đó, tôi không hề biết về sự khao khát máu của loài ma cà rồng. Thậm chí các Chân Tổ khác cũng tin rằng tôi không sở hữu nó."@
+` [line=4]Nhưng, đã quá muộn. Cho đến khi ấy, tôi thậm chí còn không hay biết mình là một ma cà rồng.@
+` [line=4]Vì vậy... Tôi không hề biết điều đó là sai trái.@
+` "... Tôi hiểu rồi."@
+` Không bao giờ được dạy thêm điều gì, cô ấy thậm chí cũng không biết rằng bản thân giống như những người mà cô ấy đã giết.
+\
+`"Vì một sai lầm, tôi đã hủy diệt mọi người. ... Vì vậy, tôi sẽ không uống máu người nữa."@
+` "Nhưng một Chân Tổ đã uống máu một lần không thể giữ được sự tỉnh táo nếu không làm lại."@
+`"[line=4]"@
+`"... Tôi chỉ có thể ở đây vì cậu hoàn toàn 'giết' Roa."@
+` "Dù tôi đã tiêu diệt hắn nhiều lần, nhưng chỉ là xác thịt, không phải linh hồn."@
+` "Nhưng cậu đã xóa sổ sự tồn tại của hắn, Shiki. Vì vậy [line=4]sức mạnh mà hắn trộm cắp đã trở lại tôi và tôi có cách nào đó hồi sinh."
+\
+`"[line=3]Đó[line=4]không..."@
+br
+`"Nhưng đó là tất cả những gì tôi có thể làm. Tôi không còn sức chống lại bản năng ma cà rồng bên trong tôi nữa." [line=4]@
+br
+`"[line=3][line=3]Đókhông, quan trọng."@
+br
+`"…… Shiki, tôi không thể thấy cậu một lần nữa.@ Xin lỗi vì đã phá vỡ lời hứa của chúng ta."@
+br
+` …… Điều đó không quan trọng với tôi.@
+` [line=3]Tôi chỉ muốn cậu ở bên cạnh tôi, đó là tất cả.
+\
+`"…… Cậu có thể giữ lời hứa."@
+`"Shiki……?"@
+`"[line=2]Uống máu tôi đi.@ Nếu cậu làm thế, cậu sẽ giữ được lời hứa."
+\
+!w3000
+` Thời gian trôi qua.@
+` Chúng ta không ai nói gì cả.@
+` Sau một sự im lặng thực sự khiến người ta điên cuồng...
+\
+`"[line=4]Tôi hiểu rồi. Nhưng, tôi không thể. Tôi không cần máu của cậu, Shiki."@
+`"Tại sao? Máu của tôi có vấn đề à? Cậu có lý do gì để không uống nó?"@
+` Cô ấy gật đầu.@
+bg "event/ark_f02",crossfade,400
+`"Tôi thích cậu, nên tôi sẽ không."@
+` Cô ấy mỉm cười như một bông hoa nở rộ chiến thắng.
+\
+`"... ..."@
+` Tôi hít một hơi thật sâu,
+` và chỉ cố gắng kìm nén cảm giác này.@
+br
+` Tôi muốn ngăn cô ấy.@
+` Tôi muốn ngăn cô ấy.@
+` Tôi muốn ngăn cô ấy.@
+` Tôi muốn ngăn cô ấy.@
+br
+` [line=4]Dù phải giết cô ấy, tôi vẫn muốn ngăn cô ấy.@
+br
+` Nhưng nụ cười của cô ấy thực sự quá tuyệt đẹp.@
+` Tôi không thể ích kỷ đến mức phá hủy nó.
+\
+`"[line=2]Tạm biệt. Tôi thực sự biết ơn mọi thứ, Shiki."@
+`"………………`@
+` "Cổ tôi run rẩy, nhưng không ra tiếng nào."@
+br
+` [line=4]Dù vậy, tôi vẫn phải nói lời tạm biệt.@
+br
+`"…… Tôi là một kẻ nói dối."@
+`"Tại sao? Cậu đã giữ lời hứa, Shiki."@
+`"[line=4] Chỉ là một kẻ nói dối vô dụng. Tôi..." đã nói rằng tôi sẽ làm cậu hạnh phúc."@
+` Vâng, tôi đã thề như vậy.@
+` "... Không, hoàn toàn không. Từ bây giờ, tôi sẽ ngủ, nhưng tôi luôn mơ về cậu." Tôi rất thích thời gian chúng ta bên nhau, tôi luôn mơ về nó.
+\
+bg "event/ark_f01",crossfade,400
+`"……"@
+` "Tôi sẽ luôn mơ về khoảnh khắc này."@
+`"[line=6]"@
+`"Nó chẳng có ý nghĩa gì, nhưng tôi chắc nó sẽ rất, rất vui."@
+` "Vì vậy, Shiki, tôi thực sự hạnh phúc. Cậu thực sự khiến tôi hạnh phúc."
+\
+`"Chúa ơi..."@
+` "Cổ họng tôi nghẹn lại."@
+` "[line=4]Tôi không muốn điều này...
+\
+`"... Cậu thật tử tế, Shiki. Vâng, tôi biết việc đến đây nói lời tạm biệt là một điều tốt.@
+` "Tôi yêu cậu, Shiki. Sự trung thực của cậu, cách cậu luôn mơ màng, cách cậu chỉ hét lên với tôi, cách cậu luôn hướng về tương lai... Tôi yêu tất cả những điều đó.@
+` "Vậy nên, xin hãy tiếp tục sống như vậy, được không?"@
+` Chỉ trong một khoảnh khắc ngắn ngủi,
+` Cô ấy mỉm cười buồn bã.@
+br
+` Cô ấy vẫy tay, và giống như tan biến vào chính hoàng hôn, cô ấy biến mất ngay trước mắt tôi.
+\
+bg "bg/bg_06f",crossfade,1500
+`"… ……"`@
+br
+` Tôi cắn chặt răng, cố gắng kìm nén nó lại.@
+` Cô ấy mỉm cười cho đến giây cuối cùng, nên ít nhất tôi không muốn khóc.@
+br
+` [line=3]Phòng học trống rỗng.@
+br
+`"……… Tôi hiểu rồi. Cậu thực sự đã giữ lời hứa."@
+br
+` Trong lớp học này.@
+` Chúng tôi đã hứa sẽ gặp lại nhau trong lớp học khi mặt trời lặn. Cô ấy chắc chắn đã giữ lời.
+\
+` ... Có một số điều tôi đã mất, nhưng giờ đây đã kết thúc.@
+` Màn rèm đã rơi xuống sạch sẽ trên khoảng thời gian tôi biết cô ấy, khoảng thời gian tôi chạy cùng cô ấy.@
+br
+` Khi nghĩ lại, một lời tạm biệt luôn hiện hữu.@
+` Trong trường hợp của chúng tôi, lời tạm biệt chỉ đến sớm hơn.@
+` Nhìn vào nó theo cách này, đây là một lời tạm biệt thực sự thỏa mãn.@
+` Cô ấy vẫn còn sống, và cô ấy đã nói... với tôi... rằng... cô ấy... vẫn... hạnh phúc...
+\
+`"[line=4]…… Không……! Không thể như vậy, đây không phải là điều tôi mong muốn……!"@
+br
+` [line=3]Đúng rồi.@
+br
+` Hơn nữa... [line=3]
+` Tôi muốn ở bên cô ấy nhiều hơn.
+\
+` Tôi muốn nói chuyện với cô ấy nhiều hơn.@
+` Tôi muốn cảm nhận thêm sự ấm áp của cơ thể cô ấy.@
+` [line=4]Tôi muốn thấy nụ cười của cô ấy nhiều hơn.
+\
+` Luôn luôn.@
+` [line=4]Không như thế này, nhưng luôn luôn tôi muốn làm cô ấy hạnh phúc.@
+` Nhưng, cô ấy...
+` Nụ cười đến cuối cùng, cô ấy để lại tôi, nói với tôi sống.
+\
+bg #000000,crossfade,800
+`"...Đồ ngốc..."@
+br
+` Đó là ước nguyện cuối cùng của cô ấy.@
+` [line=4]Với nụ cười, cô ấy nói cho tôi biết dù khó đến đâu, ngay cả khi tôi phải lừa dối bản thân lúc này, cho đến khi tôi có thể nhìn thấy tất cả chỉ là ký ức đơn giản, tiếp tục hy vọng về tương lai và sống.@
+`"Tch...!"@
+` Không thể nào tôi làm được điều đó.@
+` Tôi [line=3] hoàn toàn không có sự tự tin để sống như vậy.
+\
+`"[line=6]"@
+` Vẫn vậy, để cô ấy có thể thấy một giấc mơ hạnh phúc,`
+` Tôi phải ít nhất là đáp ứng mong muốn của cô ấy.
+\
+!w3000
+bg "bg/bg_06g",crossfade,800
+br
+`"……… Ừm."@
+br
+` Tôi nhận ra mặt trời đã lặn từ lâu.@
+` Bầu trời màu đỏ được phủ bởi một màu xanh đậm.@
+br
+` Đêm đen tối.@
+` Những quấn mây xoắn ốc và mặt trăng trắng sáng.@
+br
+` [line=3]Chúng là tất cả những gì còn lại.@
+` Nhưng, một ký ức vô cùng đẹp đẽ.
+\
+`"[line=8]"@
+br
+` *thở dài*@
+` Tôi thở ra chậm rãi, như đang cầu nguyện.@
+` Cô ấy có thể không còn ở đây nữa,
+` nhưng tôi phải nói những gì tôi đã quên nói trước đó.@
+br
+`"Tạm biệt. ... Tôi cũng đã rất vui."@
+br
+` Những lời tạm biệt muộn màng vang vọng trong lớp học.
+\
+bg "bg/ima_01",crossfade,800
+` Chỉ có mặt trăng trong suốt treo lơ lửng trên bầu trời đêm.@
+` Mặt trăng xanh ở xa như thể sẽ vỡ tan nếu ai đó chạm vào nó.@
+br
+` Trong một thời gian dài[line=3]cho đến bình minh, tôi cứ ngước nhìn nó.
+\
+bg #000000,crossfade,1500
+playstop
+wait 5000
+cl a,notrans,0
+bg "word/fin",crossfade,1500
+wait 3000
+gosub *ending

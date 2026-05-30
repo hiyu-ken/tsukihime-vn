@@ -1,0 +1,192 @@
+playstop
+wavestop
+bg "bg/bg_40c",notrans,0
+`"[line=4]Tôi không thể."@
+` Tôi không thể đi.@
+` Những việc còn lại mà tôi chắc chắn được biết...@
+` Cuộc sống học đường của tôi, Ciel làm người cố vấn... Tôi không thể mất chúng.@
+`"[line=8]"@
+` Tôi biết điều này không thể kéo dài mãi mãi.@
+` [line=4]Nhưng tôi vẫn không muốn đánh mất cuộc sống yên bình còn lại của mình.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_40d",crossfade,800
+` [line=4]Đêm đến rồi.@
+br
+` Thời gian mà tôi hứa sẽ gặp Senpai đã trôi qua, và tôi sẽ theo đuổi giấc mơ đó một lần nữa tối nay.@
+`"...@
+` Không, điều đó không đúng.@
+` Tôi sẽ không dựa vào sự giúp đỡ của Senpai. Đây là vấn đề của tôi, vì vậy tôi sẽ tự giải quyết nó.@
+` [line=4]Để tiếp tục sống theo cách tôi đã làm cho đến nay, tôi phải giải quyết vấn đề với kẻ "kẻ giết người" này một mình.
+\
+bg #000000,lcartain,800
+br
+` Để chứng minh rằng tôi là kẻ giết người hay không.@
+` ... Tôi thậm chí không cần phải suy nghĩ về điều đó.@
+` [line=6]Tôi chỉ cần đi lang thang trong thị trấn vào ban đêm và tìm ra kẻ giết người, người không phải là tôi.
+\
+!w2000
+wave se_01
+bg "bg/bg_25b",crossfade,800
+` Tôi thở dài.@
+br
+` [line=6]Tôi dạo bước qua thị trấn bị màn đêm bao phủ.
+\
+br
+` Tôi đặt tay vào túi quần, cảm nhận con dao trên đầu ngón tay khi tôi đi bộ quanh thị trấn.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_26a",crossfade,800
+play "*6"
+` [line=5]*Hít vào sâu* *Hít ra chậm*
+br
+` [line=7]Tôi thở nhẹ nhàng khi đi lại.@
+` Cố gắng không thu hút sự chú ý.@
+` Tôi quan sát những người qua đường khi đứng đó, che giấu sự hiện diện của mình khỏi mọi người.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_27b",crossfade,800
+br
+` [line=6]*Hít vào, thở ra*... *Hít vào, thở ra*.@
+br
+` [line=8]Tôi đang tìm kẻ giết người.@
+` Có ai đó sẽ bị tấn công đêm nay. Anh ta đang tìm một nạn nhân mới.@
+` Này, một cô gái tóc đen dài.@
+` Một cô gái khoảng tuổi tôi sẽ tốt nhất.@
+` Không cần phải đề cập đến vẻ đẹp của bàn tay và chân cô ấy, nhưng vẻ đẹp của cổ họng cô ấy thì nên được xem xét.@
+` Cuối cùng, mọi thứ đều phụ thuộc vào điểm đó.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_30b",crossfade,800
+` *Hít thở gấp*, *hít thở gấp*, *hít thở gấp*.@
+br
+` [line=8]Tôi đang tìm kẻ giết người.@
+br
+` …… Tôi biết tôi sẽ không dễ dàng tìm thấy anh ta.@
+` Từ những giấc mơ của tôi, tôi biết rằng con mồi hoàn hảo rất khó tìm.
+\
+wave se_01
+` *Hít thở gấp*…… *hít thở gấp*…… *hít thở gấp*
+br
+` B… u… t
+` Đêm nay, thị trấn này khiến tôi chán nản.@
+` Tôi không thể tìm thấy con mồi của mình.@
+` Tôi đang tức giận. Mục tiêu của tôi là tìm ai đó, hoặc giết ai đó, hoặc điều gì đó tương tự.
+\
+`"[line=12]Ha."@
+br
+` Tôi sẽ giữ hơi thở của mình.@
+` Tôi sẽ nắm chặt con dao.@
+` Tôi cần tập trung, để có thể trả lại cái chết bất cứ lúc nào.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_31b",crossfade,800
+` Tôi ngày càng thở gấp gáp.@
+br
+` [line=3]Tôi tìm kiếm KILLER.@
+br
+wave se_01
+` Nhưng tôi không thể tìm thấy hắn.@
+` Chỉ có thời gian trôi qua.@
+` *Hít vào, thở ra...*@
+wave se_01
+` [line=7]Nó tràn ngập, sắc bén hóa, được sử dụng, tiêu hao, và theo thời gian đứng vững, thay đổi hình dạng và
+\
+wave se_01
+bg #ffffff,crossfade,400
+monocro #ff0000
+bg "bg/bg_31b",crossfade,400
+[âm thanh] se_02
+` Trước mặt tôi là con mồi đêm nay.@
+br
+` Tiếng thở của tôi lấp đầy không khí.@
+br
+` Đây là xác của một người phụ nữ đã chết.@
+` Tôi cầm một con dao trong tay. Máu đỏ từ con dao rơi xuống mặt đất.@
+br
+` [line=8]Tại sao?@
+` Tôi đang tìm kẻ giết người, nhưng đột nhiên, tôi nhìn thấy xác của một người phụ nữ ngay trước mặt mình.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_31b",crossfade,400
+` *Hít thở gấp gáp*, *hít thở gấp gáp*, *hít thở gấp gáp*.@
+` Nhịp thở của tôi mất kiểm soát.@
+` Một xác chết ngay trước mặt tôi.@
+` Một con dao đẫm máu trong tay tôi.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=14]Tôi không hiểu.
+\
+` Khi nào, vào thời điểm nào, tôi đã làm gì?@
+` Có phải tâm trí tôi đã bị điều gì đó ảnh hưởng?@
+` Vâng, giống như... nó tràn ngập, sắc nét hóa, được sử dụng, tiêu hao, và theo thời gian đứng vững, thay đổi hình dạng, thay đổi ý nghĩa, trở nên tự do, bùng nổ, và nhẹ nhàng hơn.
+` Trên con đường đó.@
+` Lý thuyết về sự tiến hóa của nhận thức và ý nghĩa.@
+` Nhưng một con đường quan trọng đang bị thiếu vắng.@
+` (Một bí ẩn chưa được giải đáp.)
+\
+br
+br
+` Từ khi nào vậy?@
+br
+br
+` Tôi có trở thành... "mình" khác không?@
+br
+br
+` Tôi thấy rồi.@
+br
+br
+` Không cần phải đẩy mình, Shiki à.
+\
+` [line=9]Từ phía sau mình,@
+` Giọng nói ấy vang lên.
+\
+` Phía sau mình...
+` (Giọng nói)@
+br
+` Hơi thở nặng nề.@
+br
+` Tôi quay lại.@
+` Ở đó.@
+ld c,"tachi/hal_t01",crossfade,400
+cl c,crossfade,400
+br
+` Có ai đó mà tôi chưa từng thấy, nhưng người đó lại giống tôi, đang đứng đó.
+\
+` [line=6]Không thể tránh được nếu bạn đã bị tổn thương.@
+`  Tạm biệt, Shiki. Tôi muốn chơi đùa với cậu thêm một lúc nữa.
+\
+wave se_06
+bg "bg/ima_12b",crossfade,400
+` Chém. Tôi bị cắt bằng con dao.@
+br
+` Đau quá.@
+` Đáng cười.@
+` Đâu đó sâu thẳm.@
+` Thật tuyệt vời!
+\
+`"[line=6]Haha, haha, ha."@
+` Tôi bắt đầu ngất đi.@
+` Giống như vậy, trong trạng thái mơ hồ ấy, tôi đã chết.@
+` ... Tôi hạnh phúc, theo một cách nào đó.@
+` Tohno Shiki bị giết bởi kẻ sát nhân.@
+` Đó là bằng chứng cho thấy tôi không phải là kẻ giết người.
+\
+playstop
+bg #000000,crossfade,800
+monocro off
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

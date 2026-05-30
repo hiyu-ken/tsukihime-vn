@@ -1,0 +1,49 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01a",lcartain,800
+` [line=4]Tôi đến sớm hơn bình thường ba mươi phút.@
+` Hình ảnh của các học sinh quanh cổng trường thưa thớt. Có vẻ chỉ có tôi là người đến vào thời điểm kỳ lạ này.
+\
+bg "bg/bg_03a",lcartain,800
+` Trên sân trường, các câu lạc bộ thể thao đang tập luyện.@
+` Tôi không tham gia câu lạc bộ nào vào lúc này, nhưng thực sự, tôi thích di chuyển nhiều.@
+` Tôi biết mình có một số khả năng thể thao, ít nhất là đủ để tự hào.@
+br
+` Nhưng, tôi không thể tham gia bất kỳ câu lạc bộ nào.@
+` Cơ thể tôi luôn bị thiếu máu tái phát nên tôi chỉ sẽ trở thành gánh nặng[line=4]và bác sĩ đã khuyên tôi không nên tập luyện nhiều.
+\
+` Từ trung học, tôi đã được mời tham gia câu lạc bộ hơn một vài lần.@
+` Nhưng tôi luôn phải nói "không phải là sở thích của tôi" và từ chối.@
+` Mỗi khi tôi từ chối[line=4]tôi cảm thấy một sự xa cách.@
+` Có thể điều đó...
+` Tôi có một bức tường vô thức nói với tôi rằng tôi sẽ không bao giờ hòa nhập được với những người ở bên kia.
+\
+`"………"@
+` À, đủ rồi. Điều này thực sự không phải là sở thích của tôi. Tôi sẽ ngừng nghĩ những suy nghĩ như vậy và vội đến lớp học.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+play "*3"
+`"[line=4]Huh?"@
+` Tôi nghĩ mình là người đầu tiên đến, nhưng dường như một số bạn cùng lớp đã ở đây trước.
+\
+`"Này Tohno, cậu đến sớm quá."@
+`"Chào buổi sáng. Lớp học này có vẻ đông người có thời gian rảnh."@
+`"Không đâu. Tập luyện của chúng ta vừa kết thúc thôi. Những người đến đây sớm mà không thuộc câu lạc bộ thường chỉ là những người có công việc hàng ngày."@
+br
+` Tôi hiểu rồi. Đó thực sự là một ý tưởng hợp lý khi anh ấy nhắc đến nó.@
+` Tôi chào những người xung quanh và ngồi xuống.@
+` Đã nửa giờ trước giờ vào lớp.@
+` Không tệ chút nào khi chỉ quan sát các bạn cùng lớp đến lớp.
+\
+bg #000000,lshutter,800
+bg "bg/bg_06a",lshutter,800
+` Phòng học bắt đầu đông đúc khoảng bảy rưỡi.@
+`"Huh?" [line=4]@
+` Tôi nghĩ tôi đã nhìn thấy Senpai ở hành lang.
+\
+`"Cô ấy lại ở hành lang năm nhất nữa rồi[line=4]cô ấy đang làm gì vậy?"@
+` Có thể cô ấy đến gặp tôi?@
+` [line=4]Vậy thì...
+\

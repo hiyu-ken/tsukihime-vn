@@ -1,0 +1,279 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` …… Không, tôi chẳng muốn làm thế chút nào.@
+` Tôi biết Kohaku-san chỉ muốn tôi cảm thấy tốt hơn, nhưng hiện tại tôi không thể quên Yumizuka.@
+br
+bg "bg/ima_13",crossfade,400
+` Những ngày qua.@
+` Sau khi chứng kiến nhiều cảnh máu me của người khác, tôi không thể được họ chào đón.
+\
+bg "bg/bg_34a",crossfade,400
+playstop
+`"[line=4]Xin lỗi. Tôi rất vui khi bạn hỏi, nhưng tôi thực sự không muốn làm điều đó lúc này."@
+br
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_34a",crossfade,400
+` [line=3][lời nói ngắn ngủi]@
+br
+`"[line=4]Ồ?!"@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_34a",crossfade,400
+br
+` [line=6]"Đầu tôi đau nhức."@
+` Bất ngờ.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_34a",crossfade,400
+br
+` [line=3][lời nói ngắn ngủi]@
+br
+` Tôi cảm thấy choáng váng.
+\
+bg #000000,crossfade,400
+bg "bg/bg_34a",crossfade,400
+bg #000000,crossfade,800
+`"[line=3]cậu Shiki?!"@
+` Hisui do dự gọi tên tôi.@
+` ... Hisui dường như đã nhận ra sự ngây ngất đột ngột của tôi, điều mà cả Akiha và Kohaku-san đều không hay biết, thậm chí tôi cũng chỉ mới nhận thức được một phần.@
+` Nhưng điều đó không ngăn nó trở nên tồi tệ hơn.@
+br
+` Đột nhiên một tiếng động vang lên.@
+` Tôi như một con rối không dây nào đó, sụp đổ xuống sàn.
+\
+`"cậu Shiki, hãy giữ bình tĩnh, cậu Shiki……!"@
+` Giọng Hisui ngày càng xa xôi.@
+` …… Ồ, tôi thật sự rất đáng thương.@
+` [line=4]Chỉ nghĩ đến Yumizuka và chuyện đã xảy ra, tôi bất tỉnh như vậy.
+\
+!w2500
+bg "bg/bg_40c",crossfade,800
+play "*1"
+`"[line=5]Ồ…"@
+` Khi tỉnh lại, tôi đang nằm trong phòng của mình.@
+` Trong lúc ngủ, có lẽ Akiha đã quan sát tôi vì cô ấy đang đứng trước mặt tôi.@
+br
+`"Aki, sao?"@
+ld c,"tachi/aki_t01b",crossfade,800
+`"Anh trai, cuối cùng anh cũng thức dậy rồi."@
+` Akiha thả lỏng rõ rệt.@
+`"Tôi... đúng vậy, tôi lại ngất vì thiếu máu lần nữa."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Đúng rồi. Anh trai ngủ khoảng bảy giờ đồng hồ."@
+`"[line=3]Thật sao? Gần đây em cũng không ngủ đủ giấc, có thể đó là lý do. Xin lỗi, em lại gây rắc rối cho anh một lần nữa."
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"Anh nói gì vậy? Tình trạng của anh không phải lỗi của anh, đúng không? Tự nhiên tôi phải chăm sóc anh trai mình, anh trai ạ. Việc anh nói rằng anh là gánh nặng với tôi còn khó chịu hơn cả việc tôi quan tâm đến anh."@
+`"... Tôi hiểu rồi. Vậy thì tôi không thể nói cảm ơn đâu. Đó là điều tự nhiên giữa anh em ruột thịt mà."@
+`"Này, nếu cậu có thể nói tất cả những điều đó, thì tôi đoán cậu đang ổn."@
+` Nói vậy, cô ấy đo nhiệt độ của tôi.@
+` Nhiệt độ cơ thể là 37 độ C. Chỉ cao hơn một độ so với bình thường.
+\
+ld c,"tachi/aki_t16b",crossfade,400
+`"... Tôi vẫn cảm thấy hơi bất an, nhưng cậu trông ổn nên tôi nghĩ mình có thể để cậu một mình. Tôi sẽ lên phòng."@
+`"...? Cậu nói gì vậy, Akiha?"@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Hãy cảm ơn Hisui. Cô ấy là người chăm sóc cậu suốt thời gian này."@
+cl c,lshutter,800
+` Sau khi chúc tôi sức khỏe, cô ấy rời phòng.
+\
+`"... Hisui... là người chăm sóc tôi?"@
+` Khi nghĩ lại, tôi nghe thấy giọng cô ấy trước khi tôi ngất đi.@
+` Mặc dù chắc chắn Akiha và Kohaku-san đã nói điều gì đó, nhưng chỉ có giọng Hisui là tôi nghe thấy đến gần tôi.@
+br
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` Tôi bắt đầu thấy choáng váng.@
+`"……… Tôi đoán tôi chưa hồi phục hoàn toàn."@
+` Tôi hít một hơi sâu.@
+` Ngày nghỉ của tôi kết thúc trước khi tôi nhận ra.@
+` …… Này, nếu Hisui theo dõi tôi suốt cả ngày, thì có lẽ cũng không tệ lắm[line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg #ffffff,crossfade,1500
+bg "bg/bg_45c",crossfade,800
+play "*7"
+br
+br
+br
+br
+` [line=3]Có điều gì đó... rất quen thuộc.
+\
+` Một căn phòng theo phong cách Nhật cổ.@
+` Một căn phòng tối tăm.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Ý là,
+` đó là một ký ức rất cũ.
+\
+` Khi tôi còn nhỏ, tôi không quen với những người mới đưa tôi vào đây, nên tôi đã khép mình trong phòng.@
+br
+` Tôi chẳng quan tâm đến điều gì; tôi không muốn cất tiếng đối thoại với ai.@
+` Luôn luôn, luôn cô đơn, và tôi muốn được ôm ấp trong nôi của những ký ức hạnh phúc.
+\
+` Ngay cả khi tôi biết rằng sẽ không bao giờ có điều gì tương tự nữa cho tôi, tôi vẫn muốn làm thế.
+\
+` Tiếng gõ cửa vang lên.@
+`"... Ai đó?"@
+`"Tôi đây."@
+` Ôi, cô ấy lại đến rồi.@
+` Cô bé cùng tuổi với tôi đang gõ cửa lần nữa.@
+`"SHIKI-chan, chúng ta chơi đi. Bạn sẽ bị ủ rỉ nếu cứ ở trong chỗ này."@
+`"Tôi không muốn. Tôi không thích ra ngoài."@
+` Tôi cúi người ôm lấy đầu gối, co ro ở một góc phòng tối.
+\
+bg "bg/ima_06",crossfade,400
+` Cô gái ấy đến mỗi ngày.@
+` Cô ấy luôn gõ cửa, không bao giờ chán nản.@
+` Cô ấy không bao giờ ép tôi ra ngoài, nên cô ấy không mở cửa, nhưng chỉ tiếp tục gọi tên tôi.
+\
+`"Tại sao cậu không ra ngoài?"@
+br
+` "Vì không có ai mà tôi biết ở bên ngoài. Mọi người ghét tôi ở bên ngoài."@
+br
+`"Đó không phải là sự thật. Mọi người đều muốn thích cậu, SHIKI-kun."@
+br
+` [line=3]Vâng. Tôi biết điều đó, nhưng tôi không thể tin được. Vì cha tôi đã ra ngoài, và
+\
+br
+br
+br
+br
+br
+` ...@
+` Anh ấy đã bị xé nát.
+\
+`"... Tôi hiểu rồi. Không ngạc nhiên khi cậu không thể tin ai cả."@
+br
+` Vâng, vì vậy tôi sẽ luôn ở đây. Tôi không muốn những chuyện đáng sợ khác xảy ra nữa.@
+br
+`"Nhưng, cậu sẽ chỉ cô đơn suốt thời gian. Ở một mình chẳng vui chút nào."@
+br
+` Ngay cả khi nó không vui, vẫn tốt hơn là bị sợ hãi.
+\
+`"Đó... đó tịnh không phải là điều thú vị. Vậy thì, SHIKI-chan, cậu có thể tin tưởng vào tôi."@
+br
+` ... Cậu nói tôi có thể tin tưởng và ra ngoài. Đó là một chút ngạc nhiên. Không phải người ta thường nói, "Tôi tin cậu"?@
+br
+`"Đừng lo! SHIKI-chan, hãy tin tưởng và xuất hiện đi! Tôi sẽ ở đây chờ cậu!"@
+br
+` Rồi… nhưng, tin điều gì?
+\
+`"Đơn giản thôi. Ngay cả khi mọi người ghét em, tôi vẫn sẽ thích em, SHIKI-chan. Vì tôi yêu em, nên tôi luôn đến và mời em chơi."@
+br
+` Chơi ngoài trời có vui không?@
+br
+`"[line=5]Có! Nó nhiều vui hơn rất nhiều so với việc ở một mình!"
+\
+bg #ffffff,crossfade,1500
+playstop
+!w3000
+[Hình nền/hình nền_30a], l, his, 05a, 5
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,800
+play "*2"
+` [line=3]Một ánh sáng chói lóa tràn ngập ý thức của tôi.@
+` Khi mở mắt ra, ánh sáng buổi sáng xuyên qua cửa sổ.@
+`"Nn..."@
+` Tôi thức dậy từ giấc mơ của mình.@
+` ... Tôi không nhớ rõ lắm, nhưng tôi nhớ mình đã nhìn thấy một giấc mơ mờ nhạt.@
+` Nó rất hoài niệm.@
+` Mùi hương của thảm cỏ[line=3]đó có phải là điều tôi đang tìm kiếm?
+\
+`"cậu Shiki, cậu có tỉnh không?"@
+` Gõ cửa. Tôi nghe thấy giọng nói của Hisui.@
+`"Đúng rồi, tôi đã thức, nên cậu có thể vào."@
+ld c,"tachi/his_t16",lshutter,800
+`"Vâng. Xin lỗi vì làm phiền."@
+` Hisui bước vào phòng với một cú cúi đầu.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Thưa cậu Shiki, cảm giác của cậu thế nào? Nếu cậu không khỏe, xin đừng ngần ngại nói với tôi."@
+` Cô ấy nhìn chằm chằm vào tôi khi tôi nằm trên giường.@
+` ... Có vẻ như cô ấy vẫn lo lắng nhiều về việc tôi đột nhiên gục ngã hôm qua.
+\
+`"Tôi ổn, chẳng có gì sai cả. Tôi gục ngã hôm qua vì gần đây tôi quá sức, nhưng điều đó sẽ không xảy ra nữa."@
+` [line=3]Yumizuka, con ma cà rồng, không còn tồn tại nữa.@
+` Vì vậy, tôi sẽ không còn phải đi dạo trên đường vào ban đêm nữa, như những ngày vừa qua.@
+ld c,"tachi/his_t07",crossfade,400
+`"[line=3]Nếu cậu nói vậy, thì..."@
+` Tôi không biết cô ấy lo lắng về điều gì nữa, nhưng cô ấy nhìn tôi với vẻ khó chịu.@
+`"[line=4]Cảm ơn vì đã quan tâm đến tôi."@
+` Tôi nhảy ra khỏi giường.
+\
+`"Như cậu có thể thấy, tôi chỉ bị thương nhẹ. Tôi sẽ thay quần áo thật nhanh, nên hãy đi trước vào phòng khách nhé."@
+` Hisui vẫn nhìn tôi với biểu cảm như muốn nói thêm điều gì đó.@
+` Nhưng ánh nhìn ấy nhanh chóng biến mất.@
+ld c,"tachi/his_t04",crossfade,400
+`"Theo ý bạn thì thế cũng được. Vậy thì xin lỗi."@
+cl c,lshutter,800
+` Hisui đặt quần áo sạch sẽ của tôi xuống và rời khỏi phòng.
+\
+`"…… Đó là chuyện gì vậy?@ Tôi có nhìn quá nhợt nhạt không?"@
+` Hình ảnh phản chiếu của tôi trên kính cửa sổ trông bình thường với tôi.@
+` Dù sao, tôi nên vội vàng thay quần áo và đến phòng khách.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Khi tôi đến phòng khách, tôi thấy Hisui đứng đó.@
+` Akiha đã ăn sáng và đang uống trà. Kohaku-san dường như ở trong bếp.
+\
+ld c,"tachi/aki_t04a",lshutter,800
+`"Chào buổi sáng, anh trai.@ Em nghĩ anh đã hồi phục rồi."@
+` So với tôi, cô ấy trông rất bình tĩnh và tập trung.@
+`"Ừm, chào buổi sáng Akiha.@ Xin lỗi vì trở thành gánh nặng tối qua."@
+`"…… Anh trai, đừng buộc tôi phải lặp lại điều đó. Tôi không xem đó là gánh nặng, và nếu anh muốn cảm ơn ai đó, hãy cảm ơn Hisui."@
+` Cô ấy nhắm mắt thể hiện sự không hài lòng.
+\
+cl c,crossfade,400
+`"[line=4]Tôi hiểu rồi."@
+` Những lời này nhắc nhở tôi rằng tôi chưa từng cảm ơn Hisui.@
+`"…… Hisui. Đây có lẽ hơi muộn, nhưng cảm ơn anh vì những gì anh đã làm hôm qua. Vì cơ thể tôi như vậy, xin lỗi đã gây ra nhiều phiền toái cho anh."@
+ld c,"tachi/his_t04",crossfade,400
+`"Không, tôi mới là người nên xin lỗi. Tôi không chú ý đến tình trạng của anh."@
+` Hisui cúi đầu.@
+`"Không, đó hoàn toàn là lỗi của tôi. Anh không cần phải xin lỗi."
+\
+ld c,"tachi/his_t17",crossfade,400
+`"Nhưng bảo vệ sức khỏe của cậu là nhiệm vụ của tôi. Đó là lỗi của tôi khi đề xuất những điều mà không suy nghĩ đến sức khỏe của cậu."@
+`"... Ừm."@
+` Đề xuất đó, chắc chắn cô ấy đang nói về buổi tiệc chào đón tối qua.@
+` Thực ra, đó là ý tưởng của Kohaku-san, và Hisui chỉ đồng ý với nó.
+\
+`"Đó không liên quan gì đến vấn đề, nên[line=3]"@
+ld c,"tachi/aki_t04a",crossfade,400
+`"Anh trai, chuyện này bắt đầu trở nên vô nghĩa một chút. Nếu Hisui nói rằng như vậy, thì hãy để nó vậy."@
+` Akiha đứng dậy từ chiếc sofa.@
+`"Vậy là giờ đã đến lúc, nên tôi xin phép rút lui. Anh trai, anh có thể vội đến phòng ăn và ăn sáng không?"@
+`"Wh... Dĩ nhiên là tôi sẽ ăn sáng."@
+`"Bữa sáng đã được chuẩn bị sẵn.@ Đã gần bảy rưỡi, nên bạn nên vội lên hoặc sẽ trễ giờ."@
+cl c,lshutter,800
+` Akiha bước ra khỏi phòng khách một cách thanh lịch.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"@ cậu Shiki, xin hãy dùng bữa.@ Như tiểu thư Akiha nói, cậu không còn nhiều thời gian."@
+`"... Đúng vậy.@ Tôi sẽ đến phòng ăn."
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_48a",lshutter,800
+` Tôi ăn sáng và đi đến cửa chính của biệt thự.@
+` Hisui đã đi lấy túi của tôi và mang theo khi tôi đến đó.@
+`"Tôi sẽ trở về ngay sau giờ học, nên tôi dự kiến sẽ về nhà vào khoảng bốn giờ.@ À, và cậu không cần chờ tôi ở đây."@
+ld c,"tachi/his_t04",crossfade,400
+`"Tôi hiểu rồi.  cậu Shiki, hãy cẩn thận trên đường đi."@
+`"Cảm ơn. Tôi sẽ rời đi, Hisui."@
+ld c,"tachi/his_t16",crossfade,400
+` Vẫy tay chào Hisui đang cúi đầu, tôi lao xuống con phố.
+\
+bg #000000,lcartain,800
+playstop

@@ -1,0 +1,54 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Merci!@`
+` Cuối cùng chúng ta dẫu dẫu đã cất bước sang đến tiết học thứ tư rồi nhỉ.@`
+` Góc gợi ý dành cho cậu Tohno-kun tội nghiệp dẫu dẫu đã vô tình lạc bước vào Dead End bất công tịch mịch này,@`
+` Đã đến giờ cho chuyên mục "Hãy dạy em đi, Ciel-sensei!" cất tiếng rồi!@`
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Tớ ghen tị với cậu phát điên lên được, Ciel à.@ Cậu được cất lực xuất hiện nhiều nhường ấy cơ mà.@ Dẫu cho tớ dẫu dẫu đã là nữ chính đích thực dẫu vậy họ vẫn đối xử tịch mịch với tớ hệt như một bức vẽ nguệch ngoạc thế này."@`
+br
+` "Này, đừng nói những thứ kỳ quặc."@
+` "Đúng vậy. Ít nhất cậu có phẩm giá hơn tôi, nhân vật làm mọi thứ."@
+br
+` Cậu tịnh không thể làm gì một kẻ tịnh không có mặt ở đây, và thật tịch mịch buồn bã làm sao khi chỉ cất lực phàn nàn về việc chị Kohaku tịnh không chịu dọn dẹp sạch sẽ đồ đạc.@`
+ld l,"tachi/ark_t31a",lshutter,400
+`"Tịnh không phục!!@ Thế dẫu dẫu đã là tịnh không thỏa đáng rồi!@ Tớ dẫu dẫu đã muốn được mặc trang phục đáng yêu như cậu và được cất tiếng khen thông minh cơ!!"@`
+\
+` "... ..."@
+br
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+` Tịch mịch biến mất!@ Tịch mịch biến mất!@ Tịch mịch biến mất!@`
+ld l,"tachi/ark_t31b",notrans,0
+ld l,"tachi/ark_t31a",notrans,0
+`"Tịch mịch biến mất!@ Cút xéo đi!@ Ciel bốn mắt đeo kính!@ Đồ Ciel mê cà ri Ấn Độ!@ Ả nghiện súng ống!@ Đồ Pháp lai giả cầy!"@`
+ld l,"tachi/ark_t31b",notrans,0
+ld l,"tachi/ark_t31a",notrans,0
+ld l,"tachi/ark_t31b",notrans,0
+ld l,"tachi/ark_t31a",notrans,0
+ld l,"tachi/ark_t31b",notrans,0
+ld l,"tachi/ark_t31a",notrans,0
+br
+` ... (Sự giận dữ)
+\
+bg #ffffff,notrans,0
+bg "bg/bg_06a",notrans,0
+wave se_10
+`"Kyuuuuuuuuu………………"@
+br
+ld r,"tachi/cel_t20",lshutter,400
+` [line=4]Nào bấy giờ, hãy cất bước bắt đầu bài giảng.@`
+br
+` Nguyên nhân cái chết rõ ràng lần này.@
+` Sự nhiệt tình của cậu trong việc cố gắng giải quyết vụ án này một mình thật tuyệt vời, nhưng đây là điều mà cậu không thể tự mình giải quyết.@
+` Sinh tử hữu mệnh, được cái này dẫu dẫu đã phải mất đi cái khác dẫu dẫu đã là quy luật xoay vần của tạo hóa.@`
+` Sự tình dẫu dẫu đã là nỗi tịch mịch buồn bã của cả bản thân tôi, dẫu vậy cậu nên cất bước tạm biệt Ciel-san chỉ một lần duy nhất này thôi.`
+\
+bg #000000,crossfade,800
+playstop

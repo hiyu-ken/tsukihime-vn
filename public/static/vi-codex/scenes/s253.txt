@@ -1,0 +1,609 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+!w1000
+bg "bg/bg_34b",crossfade,1500
+play "*3"
+` [line=3]Bữa tối kết thúc, màn đêm buông xuống biệt thự.@
+` Thật là một dịp hiếm hoi khi Akiha, chị Kohaku và Hisui đều đang tụ tập ở phòng khách, thế nên tôi cũng quyết định tham gia cùng họ để nhâm nhi chén trà sau bữa tối.
+\
+ld l,"tachi/koha_t03",lshutter,400
+`"Thế ạ? Em lại thích loại thứ hai hơn loại đầu tiên đấy ạ.@ Em thấy hương vị của nó thanh tao tinh tế hơn nhiều."@
+ld r,"tachi/aki_t04b",lshutter,400
+`"Đúng là một lựa chọn khó khăn nhỉ.@ Hương vị của hai loại quả thực rất khác biệt, cơ mà tùy vào sở thích của mỗi người mà cách cảm nhận đậm nhạt cũng khác nhau nữa.@ Nhưng mà chị Kohaku này, chị thích trà Nhật hơn đúng không ạ?@ Em thì nghĩ Hisui có vẻ thích trà Anh hơn đấy."
+\
+ld l,"tachi/koha_t01a",crossfade,400
+`"Hisui-chan thì không quá kén chọn đạm nhạt đâu ạ.@ Con bé trông thì có vẻ mong manh nhạy cảm thế thôi, chứ thực ra Hisui-chan rất[line=3]"@
+cl r,crossfade,400
+ld r,"tachi/his_t01",lshutter,400
+`"Chị hai."@
+ld l,"tachi/koha_t02",crossfade,400
+`"[line=3]nhạy cảm đúng như vẻ bề ngoài của mình vậy.@ Cậu thấy đấy, chẳng có việc gì là cô bé không làm được cả, từ dọn dẹp cho đến khâu vá, thưa cậu Shiki."@
+` Chị Kohaku đột ngột kéo tôi vào cuộc trò chuyện.@
+ld r,"tachi/his_t08",crossfade,400
+` Ánh nhìn của Hisui lúc đó…… cũng có chút gì đó đáng sợ.
+\
+cl r,crossfade,400
+`"…… Sao tự dưng chị lại kể với tôi chuyện đó thế, chị Kohaku?"@
+ld l,"tachi/koha_t05",crossfade,400
+`"Bởi vì Hisui-chan là hầu cận riêng của cậu mà.@ Cậu hẳn là phải hiểu rõ sự nhạy cảm của cô bé chứ ạ?"@
+`"À, ừm[line=3]"@
+` Tôi khẽ liếc mắt nhìn sang phía Hisui.@
+ld r,"tachi/his_t08",crossfade,400
+`"……………………"@
+` …… Hisui đứng lặng lẽ ở đó, tỏa ra một luồng khí lạnh toát như thể sắp ra tay bóp cổ tôi vậy.
+\
+`"[line=3]Không đâu, em nghĩ cô ấy không nhạy cảm đến thế đâu ạ.@ Hisui giải quyết mọi chuyện cực kỳ nhanh gọn ngay cả khi em lỡ tay làm hỏng việc, vả lại em ấy cũng không nổi giận lôi đình như ai kia mỗi khi em về nhà muộn."@
+ld r,"tachi/his_t04",crossfade,400
+cl l,crossfade,400
+ld l,"tachi/aki_t18b",crossfade,400
+`"Anh trai, anh không biết rằng việc một kẻ vi phạm giờ giới nghiêm bị khiển trách là điều hoàn toàn hiển nhiên sao?"@
+`"…… Anh biết chứ, nhưng tám giờ tối chẳng phải là hơi quá sớm sao?@ Anh đâu còn là trẻ con nữa, thế nên từ giờ trở đi cứ đổi thành mười giờ tối đi em."@
+ld l,"tachi/aki_t02b",crossfade,400
+`"Em từ chối.@ Dẫu sao thì anh cũng chẳng có lý do chính đáng nào để ở ngoài đường muộn đến thế cả.@ Anh đâu có đi học thêm hay tham gia câu lạc bộ nào đâu."
+\
+cl a,crossfade,400
+`"……………… Hừm."@
+` Tôi chẳng thể nào bẻ gãy được lý lẽ đó của em ấy khi bị đem chuyện đó ra nói.@
+` Một kẻ rảnh rỗi nông nhàn như tôi mà về muộn thì chỉ có thể là đi chơi bời lêu lổng ngoài đường mà thôi.@
+ld c,"tachi/koha_t02",crossfade,400
+`"Shiki-san, đúng như tiểu thư Akiha nói đấy ạ.@ Gần đây bên ngoài nguy hiểm lắm, nên cậu đừng tự tiện đi ra ngoài vào ban đêm nhé?"@
+`"[line=3]Nguy hiểm ý chị là chuỗi vụ án mạng giết người hàng loạt gần đây sao?"@
+`"Vâng ạ," chị Kohaku khẽ gật đầu.@
+` …… Chuyện đó làm tôi suýt chút nữa thì bật cười.@
+` Bởi kẻ đứng sau chuỗi vụ án đó, Nrvnqsr, bấy giờ đã không còn tồn tại trên đời này nữa rồi.@
+` Nhưng người biết được sự thật đó chỉ có tôi và Arcueid, còn những người khác thì vẫn đang nơm nớp lo sợ trước bóng ma của gã sát nhân đã chết kia.
+\
+`"Sáng nay họ lại tìm thấy thêm một nạn nhân nữa ở khu phố mua sắm đấy ạ.@ Đó đã là nạn nhân thứ mười một rồi đấy cậu biết không, thứ mười một rồi đấy."@
+`"…… Hả, mười một á? Nhiều thật đấy, số lượng đủ để lập cả một đội bóng chà[line=4]"@
+br
+` [line=5]Khoan đã.@
+br
+`"Chị Kohaku!"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Dạ?"@
+`"Những gì chị vừa nói… có thật sự là đúng không!?"
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Vâng, là thật đấy ạ.@ Bản tin thời sự sáng nay có đưa tin mà.@ Vụ việc có vẻ xảy ra vào đêm qua, và cũng giống như tất cả các nạn nhân trước, toàn bộ máu trong cơ thể họ đều bị hút cạn sạch không còn một giọt."@
+cl a,crossfade,400
+br
+`"Cái……[line=6]"@
+br
+` Chuyện này… thật là kỳ quái.@
+` Bởi vì Nrvnqsr đã chết rồi mà.@
+` Làm sao một kẻ đã bị tiêu diệt hoàn toàn từ hai ngày trước lại có thể tiếp tục sát hại người khác vào đêm qua được chứ?
+\
+`"Không thể nào……[line=3]"@
+` Chẳng lẽ hắn vẫn chưa chết sao?@ …… Không, chắc chắn không phải thế.@ Hắn ta đã hoàn toàn tan biến rồi.@
+` Vậy thì tại sao[line=3]
+bg "event/ark_e01",crossfade,800
+bg "bg/bg_34b",crossfade,800
+`"[line=5]"@
+` Hay là……@
+` Nếu như kẻ ma ca rồng tàn sát người dân trên phố đã biến mất, mà những vụ án mạng kinh hoàng này vẫn tiếp diễn……@
+` Thì kẻ ma ca rồng duy nhất còn sót lại trong thành phố này lúc này chỉ có thể là em ấy[line=3]
+\
+playstop
+bg #000000,crossfade,1500
+bg "bg/bg_40c",crossfade,1500
+ld c,"tachi/his_t01",lshutter,400
+`"Chúc cậu chủ ngủ ngon ạ."@
+`"…… Ừ, ngủ ngon nhé, Hisui."@
+cl a,lshutter,400
+` Tiếng cửa khép lại nhẹ nhàng, để lại một mình tôi cô độc trong căn phòng vắng vẻ.
+\
+`"………………"@
+` Lại có thêm một nạn nhân khác xuất hiện.@
+` Thêm một người nữa bị sát hại dã man bởi ma ca rồng.@
+`"Không thể nào…… Arcueid sao?"@
+` Em ấy đã quả quyết là mình không hề hút máu người, vả lại[line=3]tôi không thể tin một người tràn đầy nhân tính và cảm xúc như em ấy lại có thể làm ra chuyện kinh thiên động địa như thế được.@
+` Tôi tuy mới chỉ ở bên cạnh em ấy vẻn vẹn có hai ngày, nhưng tôi hoàn toàn không tin em ấy là một kẻ xấu xa độc ác.@
+` Với vẻ đẹp kiều diễm thuần khiết và nụ cười rạng rỡ như ánh mai kia, em ấy làm sao có thể nhẫn tâm hút máu người ta rồi vứt xác chơ vơ ngoài đường phố được chứ.
+\
+`"[line=6]Nhưng mà…"@
+` Thế nhưng, sự thật rành rành là một thi thể nữa đã được tìm thấy.@
+bg "event/ark_e01",crossfade,800
+bg "bg/bg_40c",crossfade,800
+`"…… Mình phải gặp em ấy một lần nữa để hỏi cho ra nhẽ chuyện này mới được."
+\
+bg #000000,crossfade,1500
+` Nói lời dứt khoát, tôi lập tức bắt tay vào hành động.@
+` Tôi lấy con dao gấp đã từng dùng để chiến đấu sinh tử với Nrvnqsr, rồi lặng lẽ lẻn ra ngoài biệt thự để tránh làm kinh động đến mọi người.@
+` Băng ra ngoài đường phố vắng vẻ, tôi bắt đầu dáo dác tìm kiếm bóng dáng Arcueid.
+\
+!w1000
+bg "bg/bg_27b",lcartain,800
+` My lungs feel like they're going to burst.@
+` Tôi đứng khựng lại, cố gắng hít thở sâu để lấy lại dưỡng khí.@
+` Cơ thể rã rời vì chạy không ngừng nghỉ nãy giờ đang thở hổn hển nhọc nhằn, cố hít lấy hít để từng luồng không khí lạnh giá vào lồng ngực.@
+` Tiếng thở dốc nặng nề của tôi vang vọng trong màn đêm tĩnh mịch.@
+` …… Hỏng bét rồi, tôi hoàn toàn không thể tìm thấy em ấy.
+\
+` Tôi đã chạy dọc khắp các con phố tiến về phía căn hộ của em ấy, nhưng tuyệt nhiên vẫn chẳng thấy bóng dáng Arcueid đâu cả.
+\
+`"…… Cái đồ Arcueid đáng ghét kia…… Bình thường khi mình không cần thì cứ bám lấy lảng vảng xung quanh, thế mà lúc cần tìm thì lại lặn mất tăm mất tích thế này……!"@
+` Tôi tức giận thốt ra những lời trách móc đầy ích kỷ.@
+` Đã bốn tiếng đồng hồ trôi qua rồi.@ Trời đã gần về đêm muộn rạng sáng, nhưng tôi vẫn chẳng bắt gặp bóng dáng Arcueid ở bất cứ đâu.@
+br
+` …… Chẳng hiểu vì sao nữa.@
+` Chẳng hiểu sao lúc đầu tôi lại tràn đầy lạc quan, cứ nghĩ rằng chỉ cần mình chịu đi tìm là sẽ dễ dàng bắt gặp em ấy ngay lập tức.@
+` Tôi thực sự rất muốn được gặp em ấy, và khi chúng tôi chia tay lần trước, em ấy cũng đã mỉm cười bảo "Hẹn sớm gặp lại cậu" cơ mà.
+\
+`"Khốn kiếp…… Rốt cuộc em đã đi đâu rồi hả, Arcueid……!"@
+` Chẳng hiểu sao, trong lòng tôi bấy giờ bỗng dấy lên một cảm giác vô cùng bực bội và hụt hẫng.@
+` Tôi cứ liên tục tự nhủ rằng mình sẽ sớm gặp lại em ấy thôi, vậy mà thực tế lại chẳng thấy đâu.@ Cảm giác mong mỏi chờ đợi này thật là tra tấn người ta quá đi mất.
+\
+`"…… Mình…… cứ ngỡ…… chúng ta chắc chắn sẽ gặp lại nhau chứ………"@
+` [line=3]?@
+` Ủa mà, thế này là sao?@
+` Cái cảm giác nhớ nhung cồn cào này…… hệt như thể tôi đã phải lòng em ấy mất rồi.
+\
+`"[line=3]Nhưng chuyện đó[line=3]"@
+bg "event/ark_e06b",crossfade,400
+bg "bg/bg_27b",crossfade,400
+`"[line=3]Thật là điên rồ mà."@
+` Cố nặn ra một nụ cười tự giễu cợt bản thân, tôi lắc đầu thật mạnh để xua tan cái suy nghĩ điên rồ đó ra khỏi đầu.@
+`"…… Nốt công viên nữa thôi, nếu đến đó mà vẫn không tìm thấy em ấy, mình sẽ lập tức đi thẳng về biệt thự."@
+` Hít một hơi thật sâu để lấy lại bình tĩnh, tôi rảo bước tiến về phía công viên.@
+br
+` Đêm định mệnh của hai ngày trước.@
+` Ngôi công viên nhỏ nơi đã xảy ra biết bao nhiêu biến cố kinh hoàng, và cũng chính là nơi tôi đã nói lời chia tay với Arcueid.
+\
+bg #000000,crossfade,1500
+monocro #0000ff
+bg "bg/bg_28b",crossfade,1500
+play "*6"
+`"[line=3]Hửm?"@
+` Ngôi công viên đêm nay trông có vẻ gì đó cực kỳ khác lạ.@
+`"……… Toàn bộ đèn đường đều tắt ngóm rồi."@
+` Tất cả các ngọn đèn chiếu sáng trên khắp lối đi trong công viên đều đã bị tắt sạch.@
+` Không gian công viên bấy giờ chỉ được chiếu rọi bởi ánh trăng bàng bạc, trông u ám và cô quạnh hơn hẳn mọi khi.@
+`"Ừm…… có phải là do mất điện không nhỉ?"@
+` Tôi dáo dác ngó nghiêng xung quanh mình.@
+` …… Nhưng bên ngoài khuôn viên công viên, hệ thống đèn đường của khu phố vẫn sáng rực bình thường.@
+` Những ngọn đèn bị tắt ngóm duy nhất chỉ nằm gói gọn ở ngay trong chính ngôi công viên này mà thôi.
+\
+br
+br
+wave se_12
+`     [line=5]Kengggg[line=5]
+br
+br
+`"Hả[line=4]Âm thanh gì vừa phát ra thế nhỉ?"@
+` Tôi có thể nghe thấy những tiếng động lạ phát ra.@
+` Tiếng kim loại va chạm chan chát vang lên dồn dập đầy căng thẳng, nghe hệt như có một trận chiến sinh tử đang diễn ra ở phía trước.
+\
+!w2000
+`"[line=5]"@
+` Lòng tôi bấy giờ dấy lên một nỗi tò mò khôn nguôi.@
+` Tuy hoàn toàn chẳng có bất cứ cơ sở thực tế nào, nhưng vào cái giờ đêm muộn hoang vắng thế này, nếu thực sự có một cuộc chiến nổ ra ở đây, tôi linh cảm chắc chắn nó phải liên quan đến em ấy.
+\
+`"……… Được rồi."@
+` Cố gắng nhón chân bước đi nhẹ nhàng nhất có thể để tránh tạo ra tiếng động, tôi từ từ tiến sâu về phía phát ra âm thanh.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+`"[line=4]!"@
+` Trước mắt tôi hiện ra hai bóng người đang đối đầu trực diện đầy gay gắt.@
+` Một bóng người được bao phủ bởi trang phục màu đen tuyền hắc ám, khiến tôi không tài nào nhận diện nổi danh tính.@ Nhưng bóng người còn lại thì tôi có thể dễ dàng nhận ra ngay lập tức.@
+` Chiếc áo khoác trắng và mái tóc vàng óng ả rực rỡ, nổi bần bật ngay cả dưới ánh trăng mờ ảo.
+\
+`"…… Arcueid……!"@
+` Arcueid bấy giờ đang bị cái bóng đen mang hình dáng con người kia điên cuồng tấn công.
+\
+br
+` Cái bóng đen đó đang lăm lăm trong tay một vũ khí sắc bén trông hệt như một thanh kiếm dài, và nhịp độ chiến đấu bấy giờ hoàn toàn không phải là một cuộc xô xát cãi vã thông thường.@
+br
+` Lướt thanh kiếm sắc lạnh trong tay, cái bóng đen đó lao vút về phía Arcueid với tốc độ kinh hoàng.@
+` Arcueid điềm nhiên dùng bàn tay không của mình để gạt phăng lưỡi kiếm đang đâm thẳng vào ngực mình, rồi nhẹ nhàng vỗ một chưởng vào lồng ngực của cái bóng đen đó.@
+br
+` Và rồi ngay trong khoảnh khắc tiếp theo,
+` cái bóng đen cầm kiếm đó bỗng bay vút ngược ra sau qua không trung, hệt như một quả bóng đá bị sút mạnh.
+\
+br
+` *Bịch**lăn**lăn**lăn*@
+br
+` Rơi uỵch xuống con đường lát gạch của công viên, cái bóng đó liên tục lăn nhiều vòng trên đất để giảm bớt lực chấn động của cú ngã.@
+` Không, nói một cách chính xác hơn thì,
+` nó đang lăn thẳng về phía bụi rậm nơi tôi đang ẩn nấp.
+\
+`"……?"@
+` Trời tối đen như mực nên tôi không nhìn rõ, nhưng ngay trước mặt tôi, cái bóng đó đã dừng lăn và lập tức bật dậy đứng thẳng trên đôi chân của mình.@
+`"Ku[line=5]!"@
+` Một tiếng rên rỉ sắc nhọn thốt ra rồi lập tức bị nuốt ngược vào trong.@
+`"Hộc…… hộc."@
+` Bị cuốn hút hoàn toàn bởi màn giao tranh ngoạn mục vừa rồi, tôi vô thức khẽ thở dốc một tiếng đầy thán phục.
+\
+` Đột ngột,
+` cái bóng đen cầm kiếm bỗng dừng hẳn mọi cử động lại.@
+`"Có kẻ đang nhìn lén[line=4]!?"@
+` Cái bóng đó có vẻ như cuối cùng cũng đã phát giác ra sự hiện diện lẩn khuất của tôi ở đây.@
+` Và then[line=3]it leaps towards me with sword in hand.
+\
+`"[line=4]Hả?"@
+` Lưỡi kiếm sắc lạnh chém một đường vòng cung chết chóc, lao thẳng vào yết hầu tôi với tốc độ xé gió.@
+` Tốc độ này.@ Cái tốc độ phóng đi và sự chuẩn xác tuyệt đối này, thậm chí còn vượt xa những con thú săn mồi hung tợn của Nrvnqsr.@
+` Chuyển động của cái bóng đen đó nhanh kinh hoàng, hệt như tốc độ của Arcueid khi em ấy xé xác lũ quái thú của Nrvnqsr vậy.
+br
+` Mũi kiếm lạnh toát khẽ chạm nhẹ vào da cổ tôi.
+\
+bg #9c0120,crossfade,400
+br
+br
+` [line=4]*Thình thịch.*@
+br
+` Trái tim tôi bỗng chập đập liên hồi dữ dội, nóng rực lên như thiêu như đốt.@
+` Tôi thậm chí còn chẳng kịp có thời gian để ý thức được mối hiểm họa hay né tránh nữa; toàn bộ tâm trí tôi bấy giờ chỉ tràn ngập một nỗi ám ảnh kinh hoàng về cái chết.
+br
+` Thế nhưng, lưỡi kiếm sắc bén kia đã đột ngột dừng khựng lại ngay sát da cổ tôi chứ không đâm xuyên qua yết hầu.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_29b",crossfade,1500
+ld c,"tachi/cel_t07b",crossfade,800
+`"Tohno…… kun[line=3]?"@
+`"[line=6]Sen… pai."@
+` Giọng nói của hai chúng tôi bỗng chốc vang lên cùng một lúc.@
+` Cả hai giọng nói đều chứa đựng sự bàng hoàng kinh ngạc tột độ[line=3]Ciel-senpai và tôi chỉ biết trố mắt nhìn nhau trong sự kinh hoàng và sững sờ khôn xiết.
+\
+`"Shiki, mau tránh xa cô ta ra!"@
+` Giọng nói đầy lo lắng của Arcueid từ đằng xa vọng lại.@
+ld c,"tachi/cel_t06b",crossfade,400
+`"[line=7]"@
+` Arcueid đang điên cuồng lao nhanh về phía hai chúng tôi.@
+` Senpai chăm chú nhìn thẳng vào mắt tôi với một ánh nhìn vô cùng lạnh lùng xa lạ, y như của một con người hoàn toàn khác vậy[line=3]
+cl a,crossfade,1500
+playstop
+br
+` [line=3]Chỉ trong nháy mắt, chị ấy dứt khoát quay lưng rồi phóng vụt đi mất dạng.
+\
+`"Tại…… tại sao chứ?"@
+` Bóng dáng Senpai đã hoàn toàn biến mất vào màn đêm tăm tối.@
+` Cái bóng đen đó, Senpai khoác trên mình bộ trang phục hắc ám chiến đấu kia. …… Đúng là người đã ra tay cứu mạng tôi khỏi đám quạ khát máu của Nrvnqsr hai ngày trước rồi.@
+` Nhưng mà[line=3]rõ ràng sáng nay Senpai đã chối phăng bảo đó không phải là chị ấy cơ mà, thế thì tại sao lúc này lại[line=3]
+br
+ld c,"tachi/ark_t06",crossfade,800
+`"Shiki[line=3]!"@
+` …… Tôi giật mình nhận ra Arcueid đã đứng chắn ngay trước mặt tôi từ bao giờ.
+\
+`"[line=2][line=2]A… Ar… cueid……"@
+ld c,"tachi/ark_t07",crossfade,400
+`"Cậu có sao không hả!?@ Cô ta có làm gì cậu không?"@
+` Giống hệt như vẻ mặt của Senpai lúc nãy, em ấy cũng đang nhìn tôi với ánh mắt vô cùng lo lắng căng thẳng.@
+` Nhưng chuyện đó bấy giờ chẳng còn quan trọng nữa rồi.
+br
+`"Chị ấy có làm gì tôi không ư……?"@
+` Tôi đưa tay lên khẽ sờ vào vùng cổ, nơi vừa bị mũi kiếm sắc lạnh kề sát ban nãy.@
+` Một cơn đau nhói sắc lẹm truyền đến.@
+` Đầu ngón tay tôi khi rút ra đã khẽ nhuốm một màu đỏ tươi ẩm ướt.@
+` Thanh kiếm của Senpai quả thực đã khứa một vết rách sâu vài milimet trên da cổ tôi.
+\
+`"…… Rốt cuộc là có chuyện gì đang xảy ra thế này?@ Tại sao… tại sao Senpai lại muốn tấn công tôi chứ?"@
+` Tại sao[line=3]tại sao chị ấy lại nhìn tôi bằng ánh mắt lạnh lùng thù địch đến đáng sợ như thế chứ?@
+ld c,"tachi/ark_t06",crossfade,400
+`"Chẳng phải đã quá rõ ràng rồi sao?@ Cậu đã chứng kiến cảnh tụi tôi đang định lấy mạng nhau còn gì.@ Cô ta là kẻ thuộc về thế giới ngầm hoạt động trong bóng tối tuyệt đối, thế nên cực kỳ căm ghét việc một người bình thường như cậu vô tình nhìn thấy những chuyện này."@
+` Arcueid điềm nhiên thốt ra cái lời giải thích đầy chấn động đó.@
+`"[line=3]Không thể nào…… tại sao chứ?@
+` Làm sao có thể như thế được[line=3]tại sao em và Senpai lại phải đâm chém nhau sinh tử như thế chứ?"@
+` Đầu óc trống rỗng vì cú sốc quá lớn, tôi chỉ có thể lắp bắp thốt ra những lời hoang mang tột độ đó.
+\
+cl a,crossfade,400
+` Mà ngay từ đầu, mục đích tôi chạy ngược chạy xuôi đi tìm em ấy đâu phải là để hỏi chuyện này.@ Tôi vốn dĩ chỉ muốn gặp em ấy[line=3]muốn hỏi Arcueid một chuyện vô cùng quan trọng khác mà thôi.
+\
+`"…… Anh vốn chỉ muốn đi tìm để gặp em thôi mà, vậy tại sao[line=3]tại sao em và Senpai lại đang định giết nhau chứ?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ơ? Shiki, cậu đi tìm gặp tôi đấy à?"@
+`"[line=3]Phải.@ Anh có chuyện vô cùng quan trọng muốn hỏi em, nên mới chạy đi tìm em nãy giờ[line=3]thế mà tại sao mọi chuyện lại thành ra nông nỗi này cơ chứ?@
+` …… Anh thực sự không biết nữa.@ Đầu anh bấy giờ cứ quay cuồng hết cả lên.@ Làm ơn đi[line=3]em giải thích cho anh hiểu rốt cuộc là có chuyện gì đang xảy ra được không, Arcueid?"
+\
+`"Ờ thì, tôi chỉ đang xử lý trận chiến thường lệ với kẻ đến từ Giáo Hội kia mà thôi.@ Chuyện đó chẳng liên quan gì đến cậu đâu, nên Shiki cứ quên sạch nó đi cho lành."@
+`"[line=4]Sao lại không liên quan chứ, cực kỳ liên quan là đằng khác.@ Nhưng trước hết, ý em 'Giáo Hội' là cái gì cơ? Em giải thích rõ ràng cho anh hiểu xem nào."@
+cl a,crossfade,400
+` Arcueid khẽ im lặng một lát.@
+` Em ấy nghiêng đầu đăm chiêu suy nghĩ một hồi rồi gật gật đầu.@ "Được thôi, đằng nào thì kể cho cậu nghe cũng chẳng sao."
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Nếu cậu đã lo lắng đến mức đó thì tôi sẽ kể cho nghe.@ Nhưng thực sự chuyện này chẳng liên quan gì đến cậu đâu đấy, cậu có chắc là mình muốn nghe không?"@
+`"Anh chắc chắn.@ Bất kể sự thật có đáng sợ đến đâu, anh cũng sẵn sàng đón nhận."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ồ? Trông cậu có vẻ quyết tâm ghê nhỉ.@ Cơ mà thực ra tôi cũng đang tò mò không biết cậu lùng sục đi tìm tôi là có chuyện gì muốn nói đấy."@
+`"…… Nào, làm ơn kể nhanh đi em.@ Anh thực sự muốn nghe chuyện về Senpai trước."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Hừm," Arcueid bĩu môi, trông có vẻ hơi dỗi nhẹ.@
+` Bấy giờ tôi chẳng còn chút tâm trí nào để bận tâm suy nghĩ xem tại sao em ấy lại đột ngột tỏ vẻ dỗi hờn như thế nữa.
+\
+br
+` …… Vết thương ở cổ tôi vẫn còn đau nhói âm ỉ.@
+` Senpai[line=3]chị Ciel-senpai thực sự đã kề mũi kiếm sắc lạnh muốn lấy mạng tôi.
+` Trong đầu tôi lúc này chỉ ngập tràn câu hỏi tại sao Ciel-senpai lại có thể hành động tàn nhẫn như thế đối với tôi.
+\
+ld c,"tachi/ark_t02",crossfade,400
+play "*1"
+`"…… Được rồi, vậy tôi sẽ giảng giải cho cậu nghe nhé.@
+` Lũ Tử Đồ vốn là những sinh vật ma ca rồng luôn cố gắng che giấu sự tồn tại của mình trước nhân loại ở mức tối đa.@
+` Để duy trì sự sống, chúng buộc phải hút máu con người, thế nên chỉ cần chúng còn tồn tại thì chắc chắn sẽ có nạn nhân bị hại.@ Nhưng trên thực tế thì ngoài đời đâu có nhiều câu chuyện hay tin tức về việc người ta bị ma ca rồng sát hại đúng không?@
+` Cậu có biết lý do tại sao lại thế không?"@
+`"…… Arcueid này.@ Anh đâu có hỏi về ma ca rồng đâu chứ."
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Trời ạ, tôi đang giải thích cặn kẽ theo đúng trình tự cho cậu hiểu đây Shiki, nên cậu làm ơn trả lời đi xem nào?@
+` Nghe này, ngay cả khi lũ ma ca rồng tàn sát con người, chúng vẫn cố hết sức để che giấu sự thật đó khỏi xã hội loài người[line=2]nơi mà những người bình thường như cậu đang sinh sống.@ Chúng tìm cách ẩn mình, sử dụng ma thuật hay các thủ đoạn khác để ngụy trang cho các nạn nhân bị hại, khiến cái chết của họ trông tự nhiên nhất có thể.@
+` Cậu có biết tại sao chúng phải tốn công làm thế không?"
+\
+`"…… Ờ thì, đó là vì con người chúng tôi đâu có ngốc.@ Nếu phát hiện ra có những con quái vật đáng sợ như thế đang lẩn khuất ngay trong khu vực mình sống, họ chắc chắn sẽ hợp lực tiêu diệt chúng ngay lập tức.@
+` Dù bản thân con người có yếu ớt đi chăng nữa, họ vẫn có những lực lượng bảo vệ như cảnh sát.@ Nếu sự tồn tại của ma ca rồng bị lộ tẩy, chắc chắn xã hội loài người sẽ dồn toàn lực để truy lùng và tiêu diệt chúng để bảo vệ người dân. …… Khi đó mọi người sẽ cảnh giác và không ai dám đi chơi đêm lăng nhăng ngoài đường nữa.@ Thế nên anh nghĩ lũ ma ca rồng phải ẩn mình là vì nếu bị lộ ra thì sẽ cực kỳ bất tiện cho chúng mà thôi."@
+ld c,"tachi/ark_t02",crossfade,400
+`"[line=3]Ừm, cậu nghĩ thế cũng có phần đúng, cơ mà lực lượng cảnh sát thực chất chỉ là một tổ chức thực thi pháp luật đối với loài người với nhau mà thôi.@ Lũ ma ca rồng bọn tôi hoàn toàn chẳng thèm để mắt hay bận tâm đến họ đâu.@
+` Nhưng mà, nhận định lũ ma ca rồng phải che giấu hành tung của mình để tự bảo toàn mạng sống thì hoàn toàn chính xác đấy."
+\
+`"Shiki này, thực chất tồn tại một thế lực được coi là thiên địch của loài ma ca rồng.@ Đó là một tổ chức gồm những gã sát thủ chuyên nghiệp tàn nhẫn, bấy giờ cán cân quyền lực đang hoàn toàn nghiêng về phía họ.@
+` …… Điều này cũng đúng đối với các loài siêu việt khác, nhưng riêng đối với loài ma ca rồng, việc để lộ danh tính thực sự là một điều tối kỵ có thể dẫn tới cái chết cận kề.@
+` Ngay cả khi một con ma ca rồng có xây dựng một vương quốc bí mật ở tận sâu trong thung lũng hẻo lánh tách biệt hoàn toàn khỏi nền văn minh nhân loại, thì thiên địch của chúng vẫn sẽ lập tức đánh hơi thấy ngay nếu số lượng nạn nhân bị hại cứ tiếp tục gia tăng."
+\
+`"Lũ ma ca rồng chỉ dám săn lùng và hút máu con người trong bóng tối tuyệt đối, chẳng vì lý do gì khác ngoài việc để tự bảo toàn tính mạng.@ Chúng phải cất giấu thi thể của các nạn nhân, hoàn toàn không phải vì lo sợ xã hội loài người phát giác, mà là vì vô cùng sợ hãi việc bị các thiên địch đáng sợ kia tìm ra hành tung đấy."
+\
+`"…… Thiên địch…… của lũ ma ca rồng sao?"@
+` Ý em ấy là một thế lực chuyên đi săn lùng tiêu diệt ma ca rồng.@
+` …… Hệt như Senpai, người vừa lạnh lùng vung thanh kiếm sắc bén định lấy mạng Arcueid lúc nãy.
+\
+`"…… Vậy ra, những kẻ thiên địch đó cũng không phải là con người sao?"@
+ld c,"tachi/ark_t04",crossfade,400
+`"Cậu nói cái gì thế hả? Thiên địch của lũ ma ca rồng bọn tôi, không nghi ngờ gì nữa, chính là giống loài con người các cậu đấy."@
+`"[line=5]? Thiên địch… chính là con người sao?"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Phải.@ Kể từ thời xa xưa, con người đã biết sử dụng đủ các loại ma thuật, thuật huyền bí và các nghi lễ tế thần để lập ra một tổ chức, bắt đầu tiến hành thanh trừng triệt để tất cả các loài linh trưởng dị biệt ngoại trừ loài người.@
+` Thế lực hùng mạnh nhất trong số đó chính là Kitô giáo[line=3]niềm kiêu hãnh của tòa thánh Vatican, những Bậc Thầy Trừ Tà.@ Giáo Hội Công giáo luôn coi tất cả những thực thể "phi nhân" là những thứ tạp chất dơ bẩn cần phải thanh tẩy, và trong số đó, loài ma ca rồng bị coi là sinh vật tà ác và nguy hiểm bậc nhất."
+\
+`"Trên thế giới có vô vàn các tổ chức tôn giáo khác nhau, nhưng riêng Giáo Hội Công giáo thì lại căm thù ma ca rồng đến tận xương tủy, vượt trội hơn hẳn tất cả các giáo phái còn lại.@
+` Nếu nói thẳng ra thì chuyện đó đối với họ gần như đã trở thành một nỗi ám ảnh điên cuồng rồi.@ Đám người đó cực kỳ cuồng tín và điên rồ, đến mức ngay cả tôi cũng chẳng bao giờ muốn dây dưa hay đụng chạm vào họ làm gì cho mệt."@
+` Nói đoạn, Arcueid khẽ thở dài một tiếng ngán ngẩm.@
+ld c,"tachi/ark_t06",crossfade,400
+`"Đến đây thì chắc cậu cũng đã lờ mờ đoán ra được ý tôi muốn nói là gì rồi chứ.@
+` Kẻ vừa lạnh lùng ra tay định lấy mạng cậu lúc nãy chính là thành viên của một tổ chức tinh nhuệ chuyên đi săn lùng dị giáo.
+\
+`"Tổ chức đó được gọi là Cục Mai Táng, là một bộ phận trực thuộc Giáo Hội.@ Đám người đó sử dụng sức mạnh bạo lực tàn bạo của chính mình thay vì luật pháp thông thường để giải quyết những thực thể mâu thuẫn trái với giáo lý Kitô giáo.@ Những giáo sĩ trừ tà ẩn mình trong bóng tối này, thực chất hành xử hệt như những gã sát thủ chuyên nghiệp tàn nhẫn bậc nhất.@
+` Bởi vì nhiệm vụ của chúng là nghiền nát những mâu thuẫn dị giáo, nên sự tồn tại của chúng là một bóng ma tuyệt đối, không bao giờ được phép lộ diện trước ánh sáng.@ Chúng là một bộ phận đáng lẽ ra không được phép tồn tại trong lòng tổ chức Kitô giáo, thế nên chúng sẵn sàng ra tay sát hại không gớm tay bất kỳ ai vô tình phát hiện ra sự tồn tại của mình để bịt đầu mối."
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Người phụ nữ đó[line=3]có vẻ như hiện tại đang dùng cái tên giả là Ciel, chắc chắn đặt chân đến thành phố này là để săn lùng tiêu diệt kẻ ma ca rồng lẩn khuất nơi đây.@ Khả năng đánh hơi thấy 'kẻ thù' của cô ta quả thực nhạy bén hơn tôi rất nhiều."@
+` Em ấy bực dọc thốt lên những lời đầy khó chịu.
+\
+cl a,crossfade,400
+`"………"@
+` Tôi đứng đờ người ra, hoàn toàn không biết phải nói gì trước những sự thật chấn động đó.@
+` Senpai[line=3]chị Senpai hiền dịu của tôi lại là một giáo sĩ trừ tà tàn bạo chuyên đi săn lùng ma ca rồng sao[line=3]chuyện điên rồ này tôi thực sự không tài nào tin nổi.
+\
+bg #000000,crossfade,400
+monocro off
+bg "event/cel_e01",crossfade,1500
+br
+` Bởi vì Senpai mà tôi biết vốn dĩ luôn có một tấm lòng vô cùng dịu dàng, nhân hậu tốt bụng như thế cơ mà,
+br
+bg #000000,crossfade,400
+bg "event/cel_e02a",crossfade,1500
+` chị ấy làm sao có thể nhẫn tâm sát hại sinh mạng người khác được[line=3]chị ấy tuyệt đối không phải là loại người có thể nhúng tay vào đống chuyện đẫm máu tàn bạo như tôi được.
+\
+bg #000000,crossfade,1500
+monocro #0000ff
+bg "bg/bg_29b",crossfade,400
+`"[line=3]Đó là lời dối trá.! Em đang bị đặt điều dối trá rồi đúng không, Arcueid.! Bởi vì Senpai vốn là đàn chị khóa trên học cùng trường với anh cơ mà.@ Thế nên làm sao em lại có thể quả quyết chị ấy là thành viên của Giáo Hội tàn bạo nào đó được chứ……!?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Kìa cậu.@ Shiki này, cậu quen biết cô ta sao?"@
+` Arcueid bỗng bước tới sát gần tôi, gương mặt đanh lại đầy vẻ dò hỏi như thể không cho phép tôi có mối liên hệ nào với kẻ đó vậy.@
+cl c,lshutter,800
+`"Tất nhiên rồi.! Chị ấy là học sinh năm ba ở trường anh, anh đã quen biết chị ấy kể từ hồi anh còn là học sinh năm nhất cơ[line=2]"@
+br
+` [line=4]Từ hồi anh còn là học sinh năm nhất ư?
+\
+bg #000000,crossfade,400
+`"[line=3]Ủa[line=2]hả?"@
+` …… Có điều gì đó… cực kỳ sai sót ở đây.@
+` Nghĩ lại thì, rốt cuộc tôi đã quen biết chị ấy được bao lâu rồi nhỉ?@
+` Tôi thậm chí còn chẳng biết chị ấy học lớp mấy nữa cơ mà.@
+` Tôi cố gắng vắt óc nhớ lại[line=3]nhưng tuyệt nhiên tôi không hề có chút ký ức nào về chị ấy trước cái ngày định mệnh tôi bắt gặp chị ấy đang cặm cụi tự mình sửa đống hàng rào gỗ ngoài sân trường cả.
+\
+monocro #ffff00
+bg "event/cel_e01",crossfade,1500
+br
+` [line=3]Cảm ơn cậu nhiều nhé, Tohno-kun.@
+br
+` Bởi vì chị ấy đã nở một nụ cười vô cùng ấm áp dịu dàng khi nói lời đó với tôi.@
+` Thế nên chẳng hiểu sao lúc đó, tôi lại có một cảm giác thân thuộc kỳ lạ, hệt như thể hai chúng tôi đã quen biết nhau từ lâu lắm rồi vậy.
+`"[line=3]Chuyện này…… không thể nào[line=4]là thật được."
+\
+bg #000000,crossfade,400
+` Và trên hết, điều kỳ lạ hoang đường nhất chính là……@
+` Chị ấy được mọi người gọi bằng cái tên "Ciel" một cách vô cùng tự nhiên, nhưng tuyệt nhiên chẳng có ai gọi chị ấy bằng một cái tên khác bao giờ cả.
+` Chị ấy chỉ duy nhất được gọi là Ciel,
+` vậy mà tại sao từ trước đến nay, lại chẳng có một ai mảy my nghi ngờ về cái tên ngoại quốc xa lạ đó ở ngôi trường này chứ[line=3]?
+\
+monocro #0000ff
+bg "bg/bg_29b",crossfade,400
+`"Arcueid này[line=3]về Senpai…… rốt cuộc người đó… thực sự là ai vậy chứ……"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Tôi đã bảo với cậu rồi còn gì? Cô ta là thành viên cốt cán của Cục Mai Táng.@ Tuy mới chỉ gia nhập tổ chức cách đây vẻn vẹn tám năm, nhưng năng lực chiến đấu thực sự vô cùng khủng khiếp đấy.@ Cô ta bấy giờ là một đặc vụ cộm cán đã chính thức giành được chiếc ghế danh giá mang mã số hoàn hảo, số Bảy."@
+cl a,crossfade,400
+`"[line=4]"@
+` Tôi thực sự không hiểu rõ những khái niệm đao to búa lớn mà Arcueid vừa nói.@
+br
+` Nhưng mà, con số bảy quả thực là một số hiệu hoàn hảo.
+\
+bg "bg/cmo_09",crossfade,1500
+monocro #00ffff
+` Một con số bị cô lập hoàn toàn khỏi những con số còn lại.@
+` Trong sự đơn độc tuyệt đối của mình, nó chẳng có bất kỳ nơi nào để đi về.@
+` Cô độc, cô độc khôn cùng.@ Bởi vì nó mang tính chất hoàn hảo tuyệt đối, thế nên những ngụy thư (Apocrypha) mang số hiệu đó từ chối sự luân hồi tái sinh hoàn toàn.@
+br
+` …… Bản thân tôi chẳng thể hiểu nổi tại sao,
+` nhưng chẳng hiểu sao những từ ngữ kỳ quặc đó cứ liên tục lặp đi lặp lại vang vọng trong đầu tôi.
+\
+bg "bg/bg_29b",crossfade,800
+monocro #0000ff
+ld c,"tachi/ark_t06",crossfade,400
+`"…… Phải rồi, đặc vụ của Cục Mai Táng đều là những bậc thầy sử dụng ám thị ma thuật cực kỳ lão luyện, thế nên đối với chúng, việc gieo rắc ám thị lên đầu những người thường không có chút sức đề kháng kháng cự nào là việc dễ như trở bàn tay.@
+` Người phụ nữ đó chắc chắn đã gieo ám thị để đánh lừa nhận thức của tất cả mọi người trong trường, mục đích là để dễ dàng ẩn mình hoạt động tại ngôi trường cấp ba của cậu mà thôi."@
+`"…… Ám thị ma thuật sao…… đại loại giống như thuật thôi miên à em?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Phải, đó không cần phải là một mệnh lệnh quá phức tạp đâu.@ Cô ta chắc chỉ dùng một ám thị cực kỳ đơn giản kiểu như 'Không được mảy may nghi ngờ về sự tồn tại của Ciel' lên đầu mọi người thôi."
+\
+` …… Đúng rồi, hóa ra là như thế.@
+` Ngay từ ban đầu tôi đã luôn mơ hồ cảm thấy có điều gì đó không ổn, nhưng hễ cứ mỗi lần gặp mặt chị ấy trực tiếp, mọi nỗi hoài nghi trong lòng tôi bỗng chốc lại bay biến sạch không còn một chút dấu vết nào.@
+` Cái cảm giác vô thức mặc định rằng sự hiện diện của chị ấy ở ngôi trường này là điều hiển nhiên và tự nhiên nhất trần đời đó,
+` chẳng phải chính là một đặc trưng kỳ lạ mỗi khi tôi ở bên cạnh Senpai sao?
+\
+`"…… Anh hiểu rồi, nhưng vẫn còn một chuyện nữa.@
+` Em bảo Senpai là đặc vụ của Cục Mai Táng chuyên đi trừ tà, vậy tại sao chị ấy lại phải đâm chém quyết tử với em chứ? Họ chỉ tiêu diệt những con ma ca rồng xấu xa hại người thôi đúng không? Thế thì[line=3]giữa em và Senpai đâu có lý do gì để phải chiến đấu sinh tử với nhau đâu đúng không?"@
+br
+` [line=3]Họ chỉ chiến đấu… tiêu diệt… những ma ca rồng xấu xa…@
+br
+` Chẳng hạn như, những kẻ chuyên đi săn lùng hút cạn máu con người rồi vứt xác chơ vơ ngoài đường phố.
+\
+`"…… Arcueid này, chẳng lẽ em[line=3]"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hửm? Gì cơ, tôi đã làm chuyện gì sao?"@
+` Arcueid chớp chớp mắt nhìn thẳng vào mặt tôi.@
+` …… Không, tôi không muốn nghĩ đến khả năng đó.
+` Tôi tuyệt đối không muốn tin rằng con người tràn đầy hồn nhiên và trong sáng trước mặt mình đây, lại là kẻ đi sát hại và hút máu đồng bào nhân loại của tôi.@
+` Nhưng mà sự thật phơi bày trước mắt là, chuỗi án mạng kinh hoàng đó vẫn đang tiếp tục diễn ra.@
+` Và hơn thế nữa, đàn chị Senpai thân thiết của tôi, một giáo sĩ trừ tà của Giáo Hội, lại đang ráo riết dùng mọi cách để tiêu diệt Arcueid bằng được.
+\
+`"[line=3]Arcueid.@
+` Em nói thật cho anh biết đi, vụ án mạng đẫm máu đêm qua…… thực sự là do một tay em làm đúng không? Đó là lý do em và Senpai phải huyết chiến với nhau ở công viên đúng không……[line=3]"@
+` Tôi bặm chặt môi, tự cắn răng mình chịu đựng.@
+` Tôi khó nhọc thốt ra những lời chất vấn nặng nề, đau đớn đến xé lòng đó, cảm giác hệt như thể đang phải đi thú nhận một lời tỏ tình tuyệt vọng với cô gái mà mình vô cùng thầm thương trộm nhớ vậy.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Shiki này, cậu đang nghiêm túc nói chuyện đó đấy à?"@
+`"Chính anh cũng không muốn tin vào khả năng đó chút nào cả.! Nhưng nếu không phải em thì là ai làm chứ? Nrvnqsr bấy giờ đã bị tiêu diệt hoàn toàn rồi mà.@
+` So…… đó có nghĩa là trong thành phố này bấy giờ, ngoại trừ em ra…… thì chỉ còn lại…… mỗi mình em mà thôi đúng không?"@
+cl a,crossfade,400
+` …… Ngay sau khi thốt ra những lời chất vấn tuyệt tình đó, trong lòng tôi bỗng chập dâng trào một nỗi hối hận tột cùng.@
+` Bản thân tôi thực sự vẫn rất thích em ấy.@
+` Em ấy đã từng ra tay cứu mạng tôi, và khoảng thời gian ngắn ngủi hai ngày ở bên cạnh em ấy thực sự là những chuỗi ngày vô cùng vui vẻ và hạnh phúc.@
+` Thế nên[line=3]tôi thực sự không muốn hai đứa phải chia tay nhau theo cái cách tàn nhẫn và đau lòng như thế này chút nào.@
+` Nhưng mà, nếu em ấy thực sự là gã sát nhân ma ca rồng tàn độc đã sát hại bao người dân vô tội ngoài kia, thì tôi[line=4]
+\
+br
+br
+br
+br
+br
+br
+` [line=6]Và rồi,
+` *Cốc!*@
+br
+` Tôi bỗng bị ăn một cú đấm cốc đầu đau điếng từ Arcueid.
+\
+ld c,"tachi/ark_t09",crossfade,400
+`"Shiki, đồ ngốc nghếch nhà cậu."@
+`"Ơ…… Arcueid……?"@
+`"Bình thường bị nghi oan thế này là tôi không dễ dàng bỏ qua cho cậu đâu nhé, cơ mà thấy bộ dạng cậu trông thảm hại và đáng thương quá, nên đấm thế là đủ để huề cả làng rồi nhé."@
+` Mỉm cười rạng rỡ đầy tinh nghịch, Arcueid nhún người nhảy lùi lại phía sau vài bước.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Shiki này, cậu thực sự là một người tốt bụng vô cùng đấy."@
+`"Cái gì cơ[line=4]"@
+` Bị em ấy đột ngột khen một câu như thế khiến hai bên má tôi bỗng chốc nóng bừng lên vì ngượng.@
+ld c,"tachi/ark_t08",crossfade,400
+`"Với lại, cậu cũng cực kỳ thật thà thẳng thắn nữa.@ Tôi thực sự rất thích những đức tính đó ở cậu đấy."@
+` Arcueid mỉm cười hạnh phúc đầy ngọt ngào.@
+` Nhìn thấy nụ cười trong sáng thuần khiết rạng ngời như thế của em ấy[line=3]tôi hoàn toàn không thể nào mường tượng nổi cảnh em ấy nhẫn tâm đè đầu cưỡi cổ hút máu người khác được.
+\
+`"Arcueid này, vậy hóa ra là[line=3]"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Phải rồi.@ Tôi hoàn toàn không phải là kẻ sát nhân hàng loạt đó đâu.@ Chuỗi án mạng kinh hoàng đó là do một con ma ca rồng khác gây ra chứ chẳng liên quan gì đến tôi cả."@
+`"[line=8]"@
+` Mọi nỗi u uất và nút thắt đè nặng trong lồng ngực tôi bấy lâu nay bỗng chốc tan biến sạch sẽ không còn một dấu vết.@
+` Hóa ra là vậy[line=3]tôi biết ngay mà, Arcueid làm sao có thể làm ra đống chuyện tàn ác hại người đó được chứ.@
+br
+`"Ra thế[line=3]chuỗi án mạng đó là do một con ma ca rồng khác gây ra sao.@
+br
+` Thật là nhẹ cả người…… Ơ cơ mà khoan đã, chuyện này nghe có vẻ hơi kỳ quái thì phải.
+\
+`"Chờ chút đã Arcueid.@ Em bảo là do một con ma ca rồng khác, nhưng chẳng phải là quá kỳ lạ sao khi ma ca rồng cứ liên tiếp xuất hiện hết con này đến con khác trong cái thành phố nhỏ này thế?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Cậu nói cái gì thế hả? Làm gì có con ma ca rồng mới nào đặt chân đến đây nữa đâu."@
+`"[line=3]Cái… Nhưng Nrvnqsr đã bị tiêu diệt hoàn toàn rồi còn gì.@ Ngoài hắn ra thì làm gì còn ai có thể làm ra chuỗi án mạng tàn bạo đó được chứ?"@
+`"…… Ồ, ra là thế.@ Shiki này, cậu thực sự đã mắc phải một sai lầm vô cùng ngớ ngẩn rồi đấy."@
+` Arcueid khẽ lắc đầu thở dài một tiếng đầy ngán ngẩm.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Cậu thấy chưa? Chuỗi vụ án mạng giết người hàng loạt mà cậu đang nói tới đó, ngay từ lúc bắt đầu cho đến tận bây giờ, luôn luôn chỉ do một con ma ca rồng duy nhất thực hiện mà thôi.@
+` Thế nên làm gì có chuyện có ma ca rồng mới xuất hiện thêm nữa, xét cho cùng thì Nrvnqsr vốn dĩ hoàn toàn không liên quan gì đến chuỗi thảm án giết người hút máu đó cả."@
+br
+` [line=4]Hả?@
+` Nrvnqsr hoàn toàn không liên quan gì sao……?@
+br
+`"[line=3]Thế…… thế ý em là sao hả?"@
+`"Thì đúng như những gì tôi vừa nói đấy.@ …… Bình thường trông cậu cũng nhanh nhạy sắc sảo lắm cơ mà, sao tự dưng hôm nay đầu óc lại chập mạch lẫn lộn hết cả thế hả.@
+` Cậu thử suy nghĩ kỹ lại xem nào Shiki.@ Nrvnqsr quả thực là một ma ca rồng hùng mạnh, nhưng hắn ta từ trước đến nay có bao giờ đi 'hút máu' con người đâu chứ?"
+\
+`"Hút máu ư? Hắn ta là ăn thịt người sống nuốt chửng cả xương lẫn thịt[line=3]ah."
+\
+` Tôi sực nhận ra ngay lập tức.@
+` Tại sao bấy lâu nay, chính bản thân tôi lại không hề mảy may nhận ra một kẽ hở sai sót vô cùng đơn giản như thế cơ chứ?@
+` Các nạn nhân của chuỗi vụ án mạng hàng loạt được tìm thấy trong tình trạng thi thể bị hút cạn sạch máu không còn một giọt.@
+` Nhưng thủ đoạn tàn sát của Nrvnqsr thì hoàn toàn khác biệt.@
+` Hắn ta chưa bao giờ để lại bất kỳ thi thể nào của nạn nhân bị hại cả.@ Hắn không chỉ đơn thuần là uống máu, mà là nuốt chửng toàn bộ da thịt, xương cốt của họ vào bụng, xóa sạch mọi dấu vết không còn một chút gì.@
+` Bằng chứng rõ ràng nhất chính là những vị khách xấu số bị hắn ăn thịt ở khách sạn hôm nọ đều được phía cảnh sát xử lý theo diện người mất tích bí ẩn, chứ không hề được ghi nhận là vụ án giết người sát hại.@
+` Thế nên[line=3]chuỗi thảm án giết người hút máu kia và sự tàn sát của Nrvnqsr hoàn toàn là hai việc độc lập, chẳng liên quan gì đến nhau cả.
+\
+`"Khoan đã.@ Thế thì chuỗi án mạng kinh hoàng đang tiếp tục diễn ra ngoài kia rốt cuộc là sao chứ?@ Kẻ thủ ác thực sự đứng sau chuyện này rốt cuộc là ai hả em?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Đó chính là con ma ca rồng khác hẳn với Nrvnqsr đấy.@ Nói một cách chính xác hơn, con ma ca rồng đó chính là mục tiêu ban đầu khiến tôi phải lặn lội đặt chân đến thành phố này, còn Nrvnqsr chỉ là kẻ bám đuôi theo tôi đến đây mà thôi.@ Mối quan hệ giữa hai sự việc thực chất là như thế đấy."@
+`"[line=3]Cái gì… Vậy hóa ra ngay từ đầu, mục tiêu mà em ráo riết săn lùng tiêu diệt vốn dĩ không phải là Nrvnqsr sao……!?"
+\
+`"Phải rồi, tôi có bao giờ bảo hắn ta là mục tiêu ban đầu của mình đâu chứ.@ Tôi mới là mục tiêu đi săn của hắn, chứ hắn chưa bao giờ nằm trong danh sách con mồi của tôi cả; mục tiêu duy nhất của tôi bấy lâu nay chính là gã sát nhân hàng loạt đang lẩn khuất trong thành phố này."@
+`"Cái gì cơ……[line=5]"@
+` Tôi đứng đờ người ra vì quá đỗi sững sờ.@
+` Nhưng mà[line=3]những lời em ấy nói quả thực hoàn toàn hợp lý và chính xác.
+` Nghe em ấy bảo mục tiêu của mình là đi tiêu diệt ma ca rồng, thế là tôi cứ tự ý mặc định mặc định rằng kẻ em ấy nhắm tới chính là gã Nrvnqsr kia mà thôi[line=4]
+\
+`"…… Thế nghĩa là sao chứ? Trận huyết chiến quyết tử để tiêu diệt Nrvnqsr đêm hôm đó của chúng ta…… hóa ra lại là vô nghĩa sao………!?"@
+`"Làm sao lại vô nghĩa được chứ, cậu đã dũng cảm chiến đấu bảo vệ tôi cơ mà.@ Ờ thì, ngay từ đầu nếu cậu không nhẫn tâm ra tay sát hại dã man tôi ở hành lang chung cư hôm đó, thì chắc là chúng ta cũng chẳng cần phải tốn công đi huyết chiến với gã làm gì rồi."@
+`"[line=6]"@
+` Tôi bỗng cảm nhận thấy đầu óc khẽ choáng váng quay cuồng.
+\
+`"…… Nói tóm lại, chuỗi án mạng ma ca rồng hút máu người kia hoàn toàn không liên quan gì đến Nrvnqsr, mà là do một con ma ca rồng khác gây ra đúng không em……?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Phải, đúng thế đấy.@ Nhưng mà chuyện đó là nhiệm vụ của riêng tôi, nên cậu không cần phải bận tâm lo lắng làm gì đâu.@ Mà bỏ qua chuyện đó đi, này cậu kia."
+\
+ld c,"tachi/ark_t08",crossfade,400
+playstop
+` Nở một nụ cười rạng rỡ đầy hạnh phúc ngọt ngào, Arcueid khẽ ngước nhìn lên khuôn mặt vẫn đang đờ đẫn sững sờ của tôi.
+\
+play "*3"
+`"Đêm hôm qua thế nào hả?@ Có ai ghé thăm cậu không?"
+\
+`"Hả?"@
+` Đêm qua ư? Em ấy đang muốn nhắc đến chuyện gì thế nhỉ?@
+` Tôi thực sự chẳng thể nào hiểu nổi ẩn ý trong câu hỏi của em ấy cả.@
+` Suy cho cùng thì tôi chính là gã khờ ngốc nghếch đã hiểu lầm hoàn toàn ý tứ của Arcueid dẫn tới đống sai sót hoang đường vừa rồi, thế nên dĩ nhiên tôi không thể hiểu nổi lời em ấy nói, cơ mà[line=3]hả?@
+br
+` Arcueid vừa mới gặng hỏi tôi xem có ai ghé thăm tôi vào đêm hôm qua đúng không nhỉ[line=3]?
+\
+`"…… Arcueid này.@ Ý em 'đêm hôm qua' rốt cuộc là có chuyện gì cơ chứ?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hửm? Kỳ lạ thật đấy, rõ ràng tôi đã gửi cho cậu một mộng sứ (familiar) cơ mà."@
+`"Khoan đã, cái mộng sứ gì cơ chứ hả?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ờ thì, đó là một loại sứ giả tâm linh cho phép cậu trải nghiệm một giấc mơ chân thực về thứ mà bản thân cậu khao khát có được nhất đấy.@ Cậu là nam giới đúng không, thế nên tôi đã chu đáo gửi hẳn một succubus (nữ quỷ hút tinh khí) đến phục vụ cậu luôn.@ Giấc mơ đêm qua chắc chắn là ngọt ngào và tuyệt vời lắm đúng không?"@
+br
+`"Anh……[line=5]"@
+br
+` Giấc mơ ngọt ngào ư? Cái giấc mộng xuân đê mê hoang lạc đó……
+\
+` Sực nhớ lại những xúc cảm da thịt chân thực đến rùng mình trong giấc mơ hoang đường đêm qua, khuôn mặt tôi bỗng chốc đỏ bừng lên như quả cà chua chín.@
+br
+`"Em… hóa ra toàn bộ chuyện đầu óc đó đều là do một tay em bày ra sao[line=3]!"@
+ld c,"tachi/ark_t09",crossfade,400
+` Gương mặt Arcueid bấy giờ càng cười toe toét tinh nghịch hơn nữa.@
+` [line=3]Chết dở rồi.@
+` Nếu bấy giờ tôi cứ giả vờ lạnh lùng im lặng thì có lẽ câu chuyện đã êm xuôi kết thúc rồi, đằng này do tôi phản ứng thái quá dồn dập thế kia[line=3]
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Ah ha! Hóa ra là cậu thực sự đã mơ thấy giấc mộng ngọt ngào đó rồi nhé.@ Thế rốt cuộc là cậu đã mơ thấy cái gì thế hả?@ Mộng sứ vốn dĩ sẽ hóa thân thành thứ mà cậu thầm khao khát ham muốn nhất trần đời, thế nên cảm giác chắc chắn là sướng phát điên lên được đúng không hả?"@
+cl c,crossfade,400
+`"Mơ thấy cái gì ư? Chuyện đó làm sao mà[line=3]"
+\

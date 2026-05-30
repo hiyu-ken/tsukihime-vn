@@ -1,0 +1,281 @@
+bg "bg/bg_06a",lcartain,800
+play "*3"
+` Tôi bước vào lớp học sớm hơn thường lệ.@
+` "Phù." Tôi đi về phía bàn học của mình cạnh cửa sổ.
+br
+`"Chào buổi sáng, Tohno-kun."@
+` Một giọng nói lạ lẫm cất tiếng chào tôi.@
+`"[line=3]Ơ kìa?"@
+` Tôi ngơ ngác quay người lại.
+ld c,"tachi/stk_t01",lshutter,400
+`"Tohno-kun, lúc nãy thầy giáo đang tìm cậu đấy.@ Thầy bảo muốn nói chuyện với cậu một chút về việc gia đình cậu."
+\
+`"Hửm… Gia đình tớ á?@ Chắc là về chuyện tớ sắp chuyển đi rồi."@
+` …… Lẽ ra mình đã hoàn tất mọi thủ tục từ hôm qua rồi chứ nhỉ.@ Hay là mình có bỏ sót giấy tờ gì không.@
+`"[line=5]"@
+` Cô bạn ấy vẫn đứng yên đó, lặng lẽ chăm chú nhìn tôi.
+\
+`"À… Chào buổi sáng, Yumizuka."@
+br
+br
+\
+\
+ld c,"tachi/stk_t03",crossfade,400
+ld c,"tachi/stk_t03",crossfade,400
+`"Ừm.@ Thực ra tớ có hơi run khi nói chuyện với cậu đấy."@
+` Yumizuka lại mỉm cười thêm lần nữa.@
+cl c,crossfade,400
+cl c,crossfade,400
+`"……"@
+` Yumizuka vẫn tiếp tục nhìn tôi chăm chú, như thể đang muốn nói thêm điều gì.@
+\
+\
+` Thế nhưng Yumizuka Satsuki lại chính là tâm điểm của sự chú ý.@
+br
+br
+` Lẽ tự nhiên, xung quanh cô ấy lúc nào cũng có một nhóm bạn vây quanh.@ Cô ấy hoàn toàn trái ngược với một kẻ lầm lì cô độc như tôi.@
+\
+ld c,"tachi/stk_t01",crossfade,400
+ld c,"tachi/stk_t01",crossfade,400
+`"Tohno-kun này.@ Ừm… Tớ hỏi cậu cái này được không?"@
+`"Nếu tớ biết thì cậu cứ tự nhiên hỏi bao nhiêu câu cũng được mà."@
+`"Ừm… ừm… Xin lỗi nếu câu này hơi riêng tư nhé, nhưng mà… cậu bảo cậu sắp chuyển đi… Cậu định chuyển đi đâu đó xa lắm hả?"@
+` Giọng cô bạn khẽ nhỏ dần, có vẻ ngượng ngùng và khó mở lời.@
+\
+\
+`"Dù biết là hơi đột ngột… nhưng cậu định chuyển trường đi nơi khác sao?"@
+`"À không, không đâu.@ Tớ chỉ chuyển chỗ ở thôi chứ không chuyển trường đâu.@ Nhà mới của tớ vẫn ở trong thị trấn này mà, nên không có gì to tát đâu."@
+`"Ôi… may quá."@
+` Yumizuka khẽ thở phào nhẹ nhõm.@
+`"…?"@
+\
+\
+`"Nhưng mà… cậu sẽ dời khỏi nhà Arima sao?"@
+br
+br
+` …… Hửm?@
+\
+\
+`"Yô, Tohno!"@
+` Một giọng nói oang oang đầy cợt nhả vang lên từ phía cửa lớp.@
+cl c,crossfade,400
+ld c,"tachi/ari_t01",lshutter,400
+ld c,"tachi/ari_t01",lshutter,400
+`"Ơ, ai như Yumizuka kìa!@ Hiếm thấy cậu đứng buôn chuyện với tên Tohno này nha."@
+`"…… Chào buổi sáng, Inui-kun." Yumizuka quay mặt đi, đáp lại bằng một giọng hờ hững.@
+\
+\
+`"Tohno hôm nay bày đặt tán gái nữa cơ à?@ Chuyện gì đang xảy ra thế này?@ Tôi tưởng cậu là tên vô tính không hứng thú với nữ sắc chứ?"@
+` Arihiko oang oang đùa cợt vô cùng lớn tiếng.@
+ld c,"tachi/ari_t02",crossfade,400
+ld c,"tachi/ari_t02",crossfade,400
+`"Thế cơ à?@ Chúc mừng đồng chí nhé!@ Nhưng mà thời buổi này, con gái lại thấy thú vị hơn nếu cậu có gu tình dục quái dị cơ.@ Mà thực ra họ chỉ thấy buồn cười chứ cũng chẳng đi đến đâu đâu!"@
+\
+\
+` Tôi lại buông thêm một tiếng thở dài ngao ngán.@
+br
+br
+` Mái tóc nhuộm cam rực, đôi tai bấm khuyên ngổ ngáo.@
+` Ánh mắt sắc lẹm sẵn sàng lao vào tẩn nhau với bất kỳ ai, bất kỳ lúc nào, cùng bộ đồ nổi loạn phá cách.@
+\
+\
+`"Mới sáng sớm ra cậu có cần phải oang oang thế không hả?@ Hôm nay tôi đang có cả đống chuyện đau đầu đây, nên tránh xa tôi ra một chút đi nhé?"@
+ld c,"tachi/ari_t04",crossfade,400
+ld c,"tachi/ari_t04",crossfade,400
+`"Đau đầu á?@ Chuyện gì thế người anh em?@ Bộ tới 'ngày ấy' của tháng rồi hả?"@
+cl c,crossfade,400
+cl c,crossfade,400
+` Bỏ mặc Arihiko đang lảm nhảm, tôi đi thẳng về phía bàn học của mình.@
+\
+ld c,"tachi/ari_t01",crossfade,400
+ld c,"tachi/ari_t01",crossfade,400
+`"Này, sao cậu lại nỡ phớt lờ người ta phũ phàng thế hả Tohno.@ Thái độ thờ ơ đó của cậu dễ làm tổn thương người khác lắm đấy nha."@
+ld c,"tachi/ari_t03",crossfade,400
+ld c,"tachi/ari_t03",crossfade,400
+`"…… Phũ phàng quá đi mất.@ Sáng nay cậu có vẻ độc mồm độc miệng hơn bình thường đấy nhỉ?"@
+\
+\
+` Arihiko thở dài thườn thượt.@
+`"…… Tại sao cậu chỉ lạnh lùng độc ác với mỗi mình tôi thế hả Tohno?@ Cậu đối xử với mọi người khác hiền lành như thánh sống ấy.@ Thật không công bằng chút nào."@
+`"Gì cơ, giờ cậu mới nhận ra à?@ Thế giới này vốn dĩ làm gì có công bằng."@
+br
+br
+` Arihiko lại buông một tiếng thở dài thườn thượt đầy kịch tính.@
+\
+\
+ld c,"tachi/ari_t02",crossfade,400
+ld c,"tachi/ari_t02",crossfade,400
+`"Hơ hơ… Tôi cũng thấy thế thật.@ Xem ra việc đến trường đúng giờ không chỉ xảy ra mỗi khi tôi vô tình thức dậy sớm đâu nhỉ."@
+ld c,"tachi/ari_t01",crossfade,400
+ld c,"tachi/ari_t01",crossfade,400
+`"Tại sao tôi thức dậy sớm á?@ Ừm… Thì bởi vì dạo này tôi đâu dám đi chơi khuya từ khi vụ rùm beng đó xảy ra, thành ra tối đến là phải ngoan ngoãn đi ngủ sớm luôn.@
+\
+\
+`"…… À ra vậy.@ Nghĩ lại thì đúng là tôi cũng có nghe loáng thoáng về chuyện đó."@
+` Trong lòng dấy lên một chút tự trách khi phải để tên Arihiko này nhắc nhở.@
+\
+\
+ld c,"tachi/ari_t04",crossfade,400
+ld c,"tachi/ari_t04",crossfade,400
+cl c,crossfade,400
+cl c,crossfade,400
+` Arihiko nghiêng đầu ra chiều đăm chiêu suy nghĩ.@
+`"……"@
+\
+ld l,"tachi/ari_t01",crossfade,400
+ld l,"tachi/ari_t01",crossfade,400
+ld r,"tachi/stk_t01",crossfade,400
+ld r,"tachi/stk_t01",crossfade,400
+`"…… Không phải đâu, Inui-kun.@ Tất cả những người bị hại đều bị mất một lượng máu cực kỳ lớn."@
+`"Ờ đúng rồi, chính là nó.@ Nghe đồn đó là do ma cà rồng thời hiện đại làm hay gì đó."@
+`"Hửm.@ Cậu biết nhiều thông tin ghê nhỉ, Yumizuka-san."@
+`"Cũng không hẳn đâu.@ Vụ án xảy ra ngay tại thị trấn này nên đài báo đưa tin suốt mà.@ Dù không muốn nghe thì cậu cũng tự khắc nhớ thôi."@
+` …… I see.@
+\
+\
+`"Thế nên dạo này mới có chuyện như vậy đấy.@ Có một tên sát nhân điên loạn đang lởn vởn ngoài kia thì ngay cả tôi cũng chẳng dám bén mảng ra đường vào ban đêm đâu.@ Đó là lý do dạo này tôi toàn thức dậy lúc bảy giờ sáng đấy."@
+ld l,"tachi/ari_t04",crossfade,400
+ld l,"tachi/ari_t04",crossfade,400
+`"Trời ơi, phũ phàng quá.@ Sao thế, sáng nay cậu lại bị tụt huyết áp vì thiếu máu nữa hả?"@
+`"Tôi ổn, cảm ơn đã hỏi thăm.@ Nếu tôi bị thiếu máu suốt hai mươi tư giờ mỗi ngày thì tôi đã xanh cỏ từ lâu rồi."@
+\
+wave se_03
+!w1000
+[line=3]!w1000
+br
+br
+br
+br
+`"Kìa, giờ học sắp bắt đầu rồi đấy.@ Mau về chỗ ngồi đi hai cậu."@
+cl l,lshutter,800
+cl l,lshutter,800
+`"Lát nữa gặp lại nhé, Tohno-kun."@
+cl r,lshutter,800
+cl r,lshutter,800
+\
+bg #000000,lshutter,800
+playstop
+bg "bg/bg_06a",lshutter,800
+bg "bg/bg_06a",lshutter,800
+` Tiết học thứ hai vừa kết thúc.@
+` Thầy giáo chủ nhiệm, người kiêm luôn giáo viên dạy Toán, khẽ gọi giật tôi lại khi thầy chuẩn bị rời lớp.@
+`"Tohno này, hồ sơ chuyển đi của em vẫn còn thiếu một vài thông tin.@ Tranh thủ xuống văn phòng hoàn tất nốt nhé."@
+` Chắc cũng không mất nhiều thời gian đâu, tôi sẽ xuống văn phòng một lát trước khi tiết ba bắt đầu.@
+` Văn phòng nằm ở tầng một.@
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+[line=5]bg "bg/bg_11a",lcartain,800
+\
+bg #000000,lcartain,800
+bg "bg/bg_07a",lcartain,800
+[line=5]bg "bg/bg_07a",lcartain,800
+\
+bg #000000,lcartain,800
+bg "bg/bg_10a",lcartain,800
+[line=5]bg "bg/bg_10a",lcartain,800
+wave se_10
+wave se_10
+bg #000000,notrans,0
+bg #000000,notrans,0
+` …!?@
+\
+\
+`"Ui da… Đau quá quá đi mất…"@
+` Tôi nghe thấy một giọng nói khẽ rên lên ở ngay bên cạnh.@ Đó là giọng của một người phụ nữ mà tôi chưa từng nghe thấy bao giờ.@
+` Có vẻ như tôi đã vô ý tông sầm vào ai đó mất rồi.@
+\
+\
+`"Ừm, chị không sao đâu… Còn em thì thế nào?@ Có bị đau ở đâu không?"@
+` Giọng nói dịu dàng ấy tuyệt nhiên chẳng mang một chút ý vị trách móc nào.@
+` Dù chưa biết chị ấy là ai, nhưng có vẻ như chị ấy đang vô cùng lo lắng cho tôi.@
+`"Dạ… Cháu cũng không sao ạ."@
+` Tôi khẽ lắc lắc đầu cho tỉnh táo rồi lồm cồm bò dậy.@
+\
+bg "bg/bg_10a",crossfade,800
+play "*2"
+ld c,"tachi/cel_t01a",crossfade,400
+ld c,"tachi/cel_t01a",crossfade,400
+`"Em thực sự không sao chứ?@ Trán em đang sưng vù lên một cục to tướng kìa."@
+`"Ơ kìa…?"@
+` Tôi khẽ đưa tay lên chạm thử thì lập tức cảm nhận được một cơn đau nhói buốt lạnh.
+\
+ld c,"tachi/cel_t09",crossfade,400
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"Chị vô cùng xin lỗi em nhé.@ Chị cứ mải đi mà chẳng chịu chú ý nhìn đường gì cả.@ Trán em chắc là đau lắm đúng không?" Cô bạn nữ sinh nhìn tôi với ánh mắt đầy hối lỗi.@
+` Nghe cách nói chuyện vô cùng lịch thiệp của chị ấy, lúc đầu tôi cứ ngỡ chị ấy là học sinh năm nhất, nhưng nhìn màu dây nơ trên đồng phục thì rõ ràng chị ấy là học sinh năm ba… nói cách khác, chị ấy chính là đàn chị khóa trên của tôi.@
+\
+ld c,"tachi/cel_t12",crossfade,400
+\
+ld c,"tachi/cel_t12",crossfade,400
+ld c,"tachi/cel_t03",crossfade,400
+`"Dạ vâng, từ giờ em sẽ cẩn thận hơn… Mà Senpai thực sự không bị thương ở đâu chứ ạ?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Ừm, chị chỉ bị ngã nhẹ thôi.@ Sử dĩ em bị sưng trán là vì lúc cố tránh chị, em đã tông thẳng đầu vào bức tường bên cạnh đấy Tohno-kun."@
+\
+` Chạy với tốc độ bắn tốc hành như thế mà đâm sầm đầu vào tường chỉ bị sưng một cục thì quả thực là tôi vẫn còn may mắn chán.
+ld c,"tachi/cel_t01a",crossfade,400
+`"Em xin lỗi vì đã chạy ẩu nhé, nhưng mà đi đứng thẩn thờ giữa hành lang thế cũng nguy hiểm lắm đấy Senpai."@
+ld c,"tachi/cel_t01a",crossfade,400
+br
+` Senpai mỉm cười gật đầu đầy dịu dàng.@
+br
+\
+` Đó là một nụ cười vô cùng chân thành và ấm áp.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+` Khẽ phủi bụi đất bám trên quần, tôi tiếp tục cất bước đi về phía văn phòng.@
+ld c,"tachi/cel_t07a",crossfade,400
+` Thế nhưng người đàn chị khóa trên vẫn cứ đứng đó, lặng lẽ dõi mắt nhìn theo tôi qua cặp kính mắt.@
+`"……"@
+` Kìa, chị ấy là ai thế nhỉ?@
+\
+` Một người có ngoại hình nổi bật thế này đáng lý ra phải được đám con trai trong trường bàn tán xôn xao là "Nữ thần kính cận năm ba" rồi chứ nhỉ.
+\
+`"Dạ… em đi đây ạ.@ Senpai cũng mau quay trở về lớp học đi nhé.@
+` A, nếu chị có bị đau hay khó chịu ở đâu thì cứ đến tìm em nhé.@ Em là Tohno học lớp hai ba ạ.@ Em sẽ chịu trách nhiệm bồi thường ạ."@
+\
+ld c,"tachi/cel_t01a",crossfade,400
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Chị biết rồi.@ Nếu có chuyện gì, giờ nghỉ trưa chị sẽ đến tận lớp tìm em nhé.@ Nhớ lấy lời chị dặn đấy Shiki-kun, tuyệt đối không được chạy nhảy trong hành lang nữa đâu nha."@
+\
+br
+br
+br
+[line=4]br
+br
+` Khoan đã nào.
+br
+\
+` Nghĩ lại thì… hình như lúc nãy chị ấy cũng gọi thẳng tên mình ra thì phải…?
+\
+`"…… Ơ kìa?@ Em đã từng gặp Senpai ở đâu trước đây chưa ạ?"@
+ld c,"tachi/cel_t10a",crossfade,400
+` Senpai thốt lên một tiếng ngạc nhiên đầy dễ thương, rồi giả vờ xị mặt xuống vẻ tủi thân.@
+[line=4]ld c,"tachi/cel_t10a",crossfade,400
+`"Em thật là phũ phàng quá đi mất Tohno-kun!@ Em dám quên sạch sẽ người ta rồi sao?"@
+\
+` Quên ư?@ Không, tôi không nghĩ thế.@ Nếu tôi từng gặp gỡ một người con gái xinh đẹp nhường này thì đời nào tôi lại có thể quên sạch sẽ được cơ chứ…
+\
+`"…… Hừm…"@
+bg #ffffff,crossfade,400
+bg "bg/bg_10a",notrans,0
+bg #ffffff,crossfade,400
+\
+` …… À, nghĩ kỹ lại thì, hình như chúng tôi đã từng chạm mặt gật đầu chào hỏi nhau một hai lần gì đó trước đây rồi… thì phải nhỉ?
+\
+ld c,"tachi/cel_t04",crossfade,400
+` Tôi ngập ngừng hỏi thử tên chị ấy.
+ld c,"tachi/cel_t04",crossfade,400
+`"Đúng thế đấy, chị rất vui vì em rốt cuộc cũng chịu nhớ ra đấy.@ Nhìn em cứ có vẻ là kiểu người hay thẩn thờ rồi hay quên lắm cơ Tohno-kun."@
+` …… Tôi không nghĩ mình là kẻ thẩn thờ hay quên đâu, nhưng quả thực việc lỡ quên mất tên chị ấy làm tôi chẳng biết trốn đi đâu cho đỡ ngượng.
+\
+bg #000000,lcartain,1500
+playstop
+!w2000
+bg "bg/bg_06a",lshutter,800
+!w2000
+bg "bg/bg_06a",lshutter,800
+\

@@ -1,0 +1,102 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Nhưng tôi không thể đơn giản bỏ lớp giữa giờ được.@
+br
+`"... Xin hãy."@
+` Tôi nắm tay lại và cầu nguyện thầm rằng cô ấy sẽ không bắt đầu bất kỳ rắc rối "thú vị" nào trong hai mươi phút tới.
+\
+bg #000000,crossfade,800
+!w1000
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` Giờ học kết thúc.@
+` Tôi vội vã rời khỏi lớp học giữa sự ồn ào của giờ ăn trưa.
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+` Tôi lao nhanh qua hành lang.@
+` ...Arcueid đang ở phía sau.@
+` Vì giờ ăn trưa nên có thể một hoặc hai học sinh khác cũng đến đó.@
+` Trước khi họ tới, tôi phải đưa cô ấy ra khỏi trường...!
+\
+bg #000000,lcartain,800
+bg "bg/bg_04",lcartain,800
+` Tôi thở dốc vì gắng sức.@
+` Tôi rời hành lang và bước ra sân trường.@
+` May mắn là không ai khác đã ra ngoài.@
+` Chỉ còn việc bắt Arcueid, nhưng...
+bg "bg/bg_05a",lcartain,800
+br
+`"…… Thật tệ."@
+` Khi bước vào phía sau trường học, tôi vô tình thốt ra những suy nghĩ của mình.
+\
+` Ở phía sau,
+ld l,"tachi/ark_t07",lshutter,800
+` Tôi nhìn thấy một Arcueid đầy thù hận và...
+ld r,"tachi/cel_t07a",lshutter,800
+` Theo một sự trùng hợp tồi tệ nhất, Ciel-senpai cũng có mặt.@
+br
+` Giống như đang đối mặt với một kẻ xâm lược, senpai đang nhìn chằm chằm vào Arcueid.
+\
+`"Arcueid......!"@
+` Cả hai đều quay lại.@
+ld l,"tachi/ark_t06",crossfade,400
+`"Shiki."@
+ld r,"tachi/cel_t06a",crossfade,400
+`"[line=7]"@
+cl a,crossfade,800
+\
+` "... Thật may mắn. Sự thù địch của Arcueid dường như tan biến."@
+` Sau khi nhìn lại Arcueid, người hướng dẫn rời đi theo hướng khác.@
+`"À... Người hướng dẫn ạ."@
+` Cô ấy chắc chắn bị xúc phạm bởi cái nhìn lạnh lùng của Arcueid.@
+` Việc người hướng dẫn biến mất như vậy mà không nói gì phải có ý nghĩa gì đó.
+\
+`"Arcueid, bạn...!"@
+` Tôi chạy đến bên cô ấy.@
+ld c,"tachi/ark_t16",crossfade,400
+`"Shiki, bạn thật chậm chạp!"@
+` Cô ấy la vào tôi khi tôi đến gần.
+\
+`"Ồ... chậm à? Đừng lo."@
+`"Nhưng cậu không sao chứ? Tôi biết cậu đã thấy tôi, nhưng cậu chẳng bao giờ xuống đây. Nếu cậu đến sớm hơn, tôi chẳng bị người đó nhìn thấy đâu!"@
+` "... 'Người đó' chắc chắn là Senpai."
+\
+`"Không thể nào tránh được, tôi có hoàn cảnh của mình. Tôi khác xa với cậu, tôi chỉ là một học sinh bình thường. Trước hết, tại sao cậu lại đến đây?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Tôi chỉ cảm thấy điều gì đó từ khu vực này. Sau đó, tôi bắt được mùi của cậu và nhận ra đó là trường học của cậu."@
+`"... Vậy cậu không suy nghĩ và chỉ đến vô cớ à?"@
+` Tôi nhíu mày. Cậu ta có phải chó không vậy?
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Ồ, xin lỗi! Tôi đến đây có lý do đấy. Nếu không có dấu vết nào của Tử Đồ ở đây, thì nơi này chẳng quan trọng gì, phải không? Không ai ở trường vào ban đêm, nên nếu Tử Đồ muốn săn mồi, họ sẽ đi xuống trung tâm thành phố, chứ không phải đến một trường học."@
+`"Thật sao? Nhưng nếu không có dấu vết nào của Tử Đồ ở đây, thì nơi này chẳng đáng để chú ý gì, phải không? Nếu vậy, tại sao cậu lại đến đây?"
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"…… Đúng là có lý đấy."
+\
+`"Không có gì lạ ở đây. Tôi không thực sự cảm nhận được Tử Giả, nhưng vì đôi mắt tôi thấy cái chết, nên tôi có thể nói mà không cần tháo kính ra."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Ừm. Nếu Shiki nói vậy, thì nơi này chắc chắn chẳng có gì kỳ lạ, phải không?"@
+`"Không chỉ có thể, mà là chắc chắn."@
+` Arcueid dường như không tin tôi.
+\
+`"Dù sao, nếu chúng ta ở lại đây lâu hơn nữa, mọi người sẽ nhìn thấy chúng ta.@
+` Tôi sẽ giữ lời hứa chắc chắn, nên hãy về nhà nghỉ ngơi đi. Có thể tối nay chúng ta sẽ gặp 'kẻ thù'."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ồ? Cậu muốn tôi rời khỏi đây à, Shiki?"@
+` Cô ấy lại bắt đầu trông có vẻ giận dữ.
+\
+`"À, đó chỉ là tưởng tượng của cậu thôi, nên hãy nhanh chóng quay lại đi. Nếu không, mọi chuyện có thể sẽ trở nên rắc rối."@
+` Đi đi. Tôi đẩy cô ấy từ phía sau.@
+`"... "@
+cl c,lshutter,800
+` Mặc dù đôi mắt cô ấy cho thấy cô ấy muốn nói điều gì đó, nhưng cô ấy chỉ lặng lẽ rời đi.
+\
+`"Ôi trời ơi. Nếu tôi gặp Senpai, tôi phải xin lỗi cô ấy về Arcueid."@
+` Tôi tự nhủ và quay lại.
+\
+bg #000000,lcartain,800
+!w1000

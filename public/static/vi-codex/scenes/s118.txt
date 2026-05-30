@@ -1,0 +1,371 @@
+monocro off
+playstop
+wavestop
+bg #000000,notrans,0
+`"Này[line=3]Shiki, dậy đi."@
+br
+` Tôi nghe thấy một giọng nói bên tai.@
+` [line=3]Đêm qua, tiếng nói mà tôi nghe cho đến ngay trước khi ngủ... một tiếng nói mà tôi không thể nào quên.
+\
+play "*5"
+bg "bg/bg_40d",crossfade,400
+`"[line=3]Ar... cueid?"@
+` Tôi ngồi dậy trên giường và nhìn quanh căn phòng chưa được thắp sáng.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Chào buổi tối. Tôi vui vì cậu dường như khỏe."@
+` Arcueid chào tôi với nụ cười rạng rỡ.
+\
+`"[line=3]Er, chào buổi tối,"@
+br
+` [line=3]Tại sao cậu lại đến đây?@
+br
+`"Có kỳ lạ gì không khi tôi ở đây?"@
+`"[line=3]Lạ sao? Tất nhiên rồi."@
+br
+` [line=3]Thật ra, có lẽ không...
+` Khi nghĩ lại, đêm là thời gian của cô ấy, nên có lẽ không lạ khi thấy cô ấy ở đâu đó.
+\
+`"Không phải cậu mới là người hành xử kỳ quặc, Shiki? Tôi đã đi một chặng đường dài để gặp cậu, và cậu chỉ nằm đó."@
+`"[line=4][line=4] Vâng, chờ đã."@
+br
+` Tôi ngồi dậy và đứng lên.@
+br
+bg #ffffff,crossfade,400
+bg "bg/bg_40d",crossfade,400
+1200 rung chuyển.
+ld c,"tachi/ark_t01a",crossfade,400
+` [line=4]Nhưng...
+` Cơ thể tôi bắt đầu nghiêng và tôi ngã trở lại trên giường.
+\
+`"[line=4]Hừ?"@
+` Có điều gì đó kỳ lạ.@
+` Máu tụ lại phía sau đầu tôi và tầm nhìn của tôi mờ đi.@
+` [line=4]Có chuyện gì đó không ổn.
+\
+`"Thật tốt khi thấy cậu, Shiki."@
+` Arcueid tiến lại gần hơn.@
+cl c,lshutter,800
+` Cô ấy đứng trước mặt tôi, và đôi mắt đỏ của cô ấy...
+\
+`"Bạn không thể làm điều gì như vậy được, phải không? Hãy đứng dậy và chạm vào tôi đi. Tôi muốn cảm nhận ngón tay bạn trên cơ thể tôi."@
+br
+` ... Tôi có thể nghe thấy giọng nói của cô ấy ngay bên tai mình.
+\
+` [line=4]Làm sao chuyện này lại xảy ra với tôi vậy?@
+br
+` Cô ấy đứng ngay trước mặt tôi, nhưng tôi không thể nhìn thẳng vào mặt cô ấy.
+\
+` Có điều gì đó sai lầm.@
+` Dù tôi cố gắng nhìn vào mặt cô ấy, đôi mắt tôi vẫn không chịu di chuyển.
+\
+` Đôi ngực cô ấy đẹp hình và mềm mại.@
+` Hông cô ấy cong nhẹ nhàng, mời gọi được ôm ấp.@
+` Đôi môi đỏ mọng của cô ấy.@
+` Tất cả khiến tôi cảm nhận được bản chất nữ tính của cô ấy, và với tư cách là một người đàn ông, tôi bị mê hoặc.
+\
+`"Chào" [line=4]@
+` Tôi thấy choáng váng.@
+` Có điều gì đó [line=4]lạ.@
+` Tôi khó có thể thở; tâm trí tôi trống rỗng.@
+` Nó cảm giác như trái tim tôi đã ngừng đập.@
+br
+`"[line=4]Tôi hiểu rồi. Bạn không thể tự di chuyển được, phải không?"@
+br
+` Tôi có thể nghe thấy giọng nói của cô ấy trong tai mình.@
+` Một cách thoải mái,
+` Arcueid quấn hai cánh tay quanh tôi khi tôi ngồi bất động trên giường.
+\
+`"[line=4]Thump."@
+` Tiếng đập.@
+` Mặc dù trái tim tôi như đã ngừng đập, một nhịp điệu vẫn vang vọng sâu trong lồng ngực tôi.
+\
+(Bỏ qua dòng 47)
+`"Trái tim cậu đang đập mạnh như sắp vỡ ra, Shiki."@
+` Tiếng cô ấy kéo căng màng nhĩ của tôi.@
+` Không, thực ra[line=4] đôi môi quyến rũ của cô ấy đang cắn vào tai tôi.@
+`"A...h..."@
+` Cô ấy chỉ đang cắn nhẹ vào tai tôi.@
+` Nhưng đó là tất cả những gì cô ấy làm,
+` một sóng xung kích chạy qua cơ thể tôi.
+\
+`"Ar... Cu...eid..."@
+` Tôi cố gắng di chuyển cánh tay để đẩy cô ấy ra xa.@
+` …… nhưng tôi thậm chí còn không thể nâng lên ngón tay nào.
+\
+`"[line=4]Ồ……"@
+` Cơ thể tôi không chịu di chuyển.@
+` Ngay khi nhận ra điều này, nhịp thở của tôi tăng nhanh.@
+` Tôi không hiểu tại sao cơ thể lại bất động như vậy.@
+` [line=4]Chỉ đơn giản là sự bất động của cơ thể trong tình huống này dường như quá vô liêm, nó làm suy yếu lý trí và đốt cháy nó.
+\
+`"[line=4]Ồ? Tôi hiểu rồi. Shiki, cậu muốn tôi à?"@
+` Arcueid cười khúc khích.@
+` Tiếng nói di chuyển từ tai tôi đến bên cổ.@
+` Hơi thở nhẹ nhàng của cô ấy lướt qua cổ họng tôi.@
+` Với âm thanh khàn khàn nhỏ, cô ấy liếm lấy cổ tôi.@
+br
+` [line=4]Như thể nếm thử tôi vậy.
+\
+`"Ồh……!"@
+` Đột nhiên một tiếng đập.@
+` Tim tôi đang tan vỡ.@
+` Dòng máu đập mạnh và tâm trí trống rỗng của tôi.@
+` Nỗi lạnh của bàn tay Arcueid trên lưng tôi.@
+` Áp lực nhẹ nhàng của ngực cô ấy ép vào ngực tôi.@
+` Ngón tay cô ấy băng qua đường nét cổ tôi.@
+br
+` Tất cả điều đó phá hủy lý trí còn lại của tôi.
+\
+`"[line=4]... Đừng... ngốc nghếch... tại sao tôi lại bị kích thích bởi cậu?"@
+`"Mmm... kẻ nói dối. Cậu rất phấn khích."@
+br
+` Hơi thở cô ấy di chuyển từ cổ tôi xuống ngực tôi.@
+br
+` [line=4]Hơi thở của tôi trở nên nặng nề.@
+` Tôi muốn trốn thoát.@
+` Nhưng hơn cả, tôi muốn chiếm lấy cô ấy.
+\
+` Tóc vàng. Mắt đỏ. Da trắng. Ngón tay thon. Bàn tay mềm mại.@
+` [line=4]Một cơ thể đầy cám dỗ.@
+` Tâm trí tôi la hét rằng tôi muốn nếm trải cô ấy từ đỉnh đầu đến ngón chân.@
+br
+`"G………"@
+` Điều này là gì?@
+` [line=3][line=4]Tôi vẫn có thể suy nghĩ hợp lý, nhưng tâm trí tôi bị tấn công bởi sự phấn khích bản năng.
+\
+`"Hả... ừm..."@
+` Tôi tập trung hết sức lực để nâng cánh tay.@
+` Nhưng nó không di chuyển được.@
+` Cơ thể tôi phản ứng theo nhịp thở của cô ấy, và tôi không thể kiểm soát nó.@
+br
+` "[line=4]Tôi không thể tin được điều này."@
+br
+` Hơn là bị ràng buộc bởi thứ gì đó tôi có thể nhìn thấy,@
+` Chỉ đơn giản là sự thật rằng hơi thở của cô ấy đang ràng buộc tôi khiến tôi kích động đến mức gần như muốn nổ tung.
+\
+`"[line=4]Dừng lại... nếu cậu tiếp tục thế này... sẽ rất nguy hiểm[line=4]"@
+`"Đó là điều thú vị, Shiki. Cơ thể cậu không đồng ý với những gì môi cậu đang nói."@
+` "[line=4]Cậu đã cứng lại ở dưới này rồi, chúng ta nên làm điều gì đó về nó."
+\
+` Tay cô ấy rời khỏi lưng tôi.@
+` Rồi,
+` ngón tay trắng xinh đẹp của cô ấy di chuyển xuống dưới thắt lưng tôi.@
+` Tìm thấy dương vật tôi đã dựng đứng.
+\
+`"Đừng[line=4]"@
+`"Cậu đang đau, phải không? Đừng ngại, cậu không cần kìm nén. Tôi sẽ làm dịu nó lại[line=4]."@
+` Nơi hơi thở của cô ấy chạm vào thân thể tôi, cứng đờ.@
+br
+` Những ngón tay thon dài của cô ấy quấn lấy tôi.@
+bg #000000,lshutter,800
+`"[line=4]Ga!"@
+` Chỉ điều đó thôi khiến cơ thể tôi giật mình.@
+` Đuôi lưng tôi cong lại và tôi ngã ngược lên giường.
+\
+`"Ngốc! Cậu đang nghĩ gì vậy?!?"@
+` Tôi cố hét lên khi nằm ngửa trên giường.@
+`"[line=10]"@
+` Arcueid nhìn xuống mình mà không nói gì cả.@
+` ... Và sau đó, cô ấy lặng lẽ cởi bỏ miếng quần áo cuối cùng.@
+` Cô ta nhìn mình bằng đôi mắt đỏ mờ nhạt, một giọng nói nhẹ nhàng,
+!w500
+br
+`"Shiki, cậu trông ngon miệng,"@
+!w500
+br
+` thoát ra từ môi cô ấy.
+\
+`"[line=6]!"@
+` Mình cố gắng hết sức để ngồi dậy khỏi giường. Nhưng vẫn không thể di chuyển ngón tay nào.@
+` Cô ta trèo lên giường và cơ thể đầy đặn, trần trụi của cô ấy chậm rãi áp vào mình.
+\
+` Tiếng đập. Máu tôi chảy nhanh hơn.@
+br
+` Giống như khi tôi chóng mặt, tôi không thể suy nghĩ rõ ràng.@
+` Nhưng lần này,
+` Tôi không ngất đi.
+\
+bg "event/ark_h01",lshutter,800
+`"[line=4]Thật đáng kinh ngạc. Tôi không biết bạn có thể căng cứng đến thế."@
+` ... Ngón tay cô ấy vuốt ve tôi một cách tinh nghịch.@
+` [line=3]Nó giống như chạm vào hơn là siết chặt, cho đến khi những cảm giác trở nên mạnh mẽ hơn, thúc giục tôi vội vã, vội vã, vội vã!
+\
+`"[line=4]Bạn có thể cảm nhận được nó không? Bạn đang đổ mồ hôi nhiều quá đây, Shiki, gần như bạn đang khóc vậy."@
+` "Đẹp quá," cô ấy mỉm cười.@
+` Đôi môi cô ấy di chuyển xuống, đặt một nụ hôn ấm áp, dịu dàng lên đầu tôi.
+\
+`"[line=4]!"@
+` Tôi vội vã kìm nén tiếng kêu đe dọa thoát ra từ miệng mình.@
+` Arcueid nhìn lên tôi, đôi mắt lấp lánh niềm vui không kiềm chế được.@
+`"Tại sao không trung thực?@ Nếu cậu sẽ như vậy, Shiki, tôi sẽ phải trêu chọc cậu nhiều hơn một chút."@
+`"[line=4][line=4]Chuyện gì đang xảy ra......!"
+\
+` Tôi lại khống chế giọng nói của mình lần nữa.@
+` Chỉ cần chạm vào những ngón tay của cô ấy, các giác quan của tôi đã quá tải.@
+` Sau đó... cảm giác ẩm ướt từ lưỡi cô ấy.@
+` Cô ấy di chuyển dọc theo cơ thể tôi.@
+` Như thể để làm ngập những ngọn nguồn khô cằn của tôi, một dòng nước bọt chảy từ miệng cô ấy.
+\
+` Tóc vàng của cô ấy lay động, che giấu một phần khuôn mặt.@
+` Tôi chỉ cảm thấy tội lỗi và sự do dự... và khoái cảm bắt đầu lấn át nó.
+\
+`"[line=4]K!"@
+` Tôi bắt đầu bay cao hơn nữa.@
+` Sức mạnh quái dị của tôi đã cứng lại thành một trụ đáng sợ, lấp lánh.@
+br
+` Những ngón tay trắng của cô ấy nắm lấy nó.@
+` Nắm lấy nó.@
+` Nó trượt lên xuống ồn ào, khiến tôi mất trí.
+\
+`"Ha, ah………!"@
+`"Hehe…… giọng nói của cậu rất nóng."@
+` Tôi luôn nghĩ phần cơ thể này của cậu trông rất ngon miệng."@
+` Với lời đó, cô ấy kéo môi ra.@
+` …… Những ngón tay trắng bồng bềnh của cô ấy, những tác phẩm nghệ thuật đẹp đẽ, trườn lên dương vật tôi.
+\
+`"Nn[line=4]!"@
+` Cô ấy siết chặt từ dưới như đang cố vắt khô sinh lực của tôi.@
+` Khi cô ấy di chuyển ngón tay[line=4]một thứ gì đó phóng lên từ gốc cơ thể tôi.@
+` Tôi chỉ có thể cố gắng chống lại cảm giác này một cách tuyệt vọng.
+\
+` Trong khi bốn ngón tay thon dài của cô di chuyển lên phần cứng của tôi như những sinh vật sống tách biệt,
+` [line=4]ngón trỏ của cô mạnh mẽ chà xát đầu tôi từ bên này sang bên kia, lên xuống, qua lại không ngừng.
+\
+`"Thật kinh ngạc…… Rơi nhiều thế và còn nhiều hơn nữa?@ Cô thực sự phấn khích phải không, Shiki?"@
+`"[line=4][line=4]Đúng... hoàn toàn không."@
+`"Này, tôi đang làm điều cô muốn.@ Cô chỉ cần thành thật thôi!"
+\
+bg #ffffff,notrans,0
+bg "event/ark_h01",notrans,0
+`"[line=4]Ồ..."@
+` Ngón trỏ của cô mở rộng khe trên đỉnh dương vật của tôi.@
+` Từ phần dưới cơ thể tôi, nỗi đau và khoái cảm trộn lẫn như một cú sốc điện.
+\
+`"[line=4][line=4][line=4]Ha, ha... ha!"@
+br
+` Tôi chỉ có thể... thở... theo những mảnh vỡ.@
+` "Nhấn nhá."@
+` Nhịp tim, nhịp thở của tôi, tất cả đều đồng bộ hoàn hảo với chuyển động của những ngón tay thon dài của cô ấy.
+\
+`"[line=4]Hừm, chắc chắn cậu sắp sẵn sàng rồi."@
+br
+` Tôi buông lỏng cơ quan sưng phồng, cô ấy nhìn lên mặt tôi.@
+br
+`"Nó thế nào? Nó thấy dễ chịu phải không, Shiki?"@
+`"……………………"@
+` Tôi không thể nói gì cả.@
+` Tâm trí tôi la hét phủ nhận, nhưng cơ thể đã khuất phục trước giọng nói của Arcueid.
+\
+` Tâm trí vẫn là của tôi[line=4], nhưng cơ thể đang chờ đợi Arcueid tiếp tục.
+\
+`"[line=3][line=5]Arcueid… đừng... dừng lại."@
+` Với sức mạnh cuối cùng, tôi cố gắng hình thành những từ đó.@
+` Arcueid chỉ cười khẩy.@
+br
+!w500
+`"Bây giờ Shiki[line=4], tôi nghĩ tôi sẽ nghiêm túc."@
+!w500
+\
+` Những ngón tay trắng của cô ấy siết chặt lấy tôi.@
+` Thành viên của tôi, bị kìm hãm, phồng lên như cố gắng thoát khỏi sự nắm chặt khít khao của cô ấy.@
+` Tôi gần như nổ tung.@
+` Từ bên cạnh, giống như chơi một bản nhạc du dương, Arcueid đưa tôi vào miệng mình.
+\
+bg "event/ark_h02",lshutter,800
+`"[line=5]Gh!"@
+` Sức sống của tôi cảm thấy như có thể gãy đôi bất cứ lúc nào.@
+` Ngón lưỡi của Arcueid di chuyển trên phần cơ thể giờ đây nhạy cảm nhất của tôi.
+\
+` [line=2]Cảm giác trần trụi này, cảm giác tấn công của khoái lạc thuần khiết đang nuốt chửng tôi.@
+` Chỉ việc này thôi cũng khiến tâm trí tôi như bay lên, nhưng lưỡi cô ấy vẫn không ngừng.
+\
+` Lời nói của cô ấy quấn lấy tôi, và dần di chuyển cao hơn.@
+` Nó bao trùm đầu tôi.@
+` Cô ấy nuốt chửng nó như chất lỏng chảy ra từ cuối cùng.
+\
+`"...!"@
+` Cảm giác này.@
+` Tôi không thể tin được cảm giác tuyệt vời bên trong miệng cô ấy.@
+` Một cảm giác ấm áp nhạt nhòa.@ Sự trơn trượt của nước bọt.@
+` [line=4]Trong miệng cô ấy hẹp hoi, dương vật tôi run rẩy và cử động của lưỡi Arcueid cố kìm tôi lại.
+\
+`"Mmm... Shiki, thật dễ thương."@
+` Khi nói vậy, ngón tay cô ấy lại di chuyển xuống thấp hơn.@
+` [line=3]Đẩy vào nơi mà dương vật tôi nhô ra từ cơ thể, chỉ có lưỡi cô ấy lên xuống, liếm từ dưới lên trên.
+\
+`"Huh... n...”@
+` Hơi thở nóng rực của cô ấy đầy thỏa mãn.@
+` Miếng thịt mềm mại của lưỡi cô ấy đẩy mạnh dọc theo toàn bộ dương vật tôi.
+\
+`"[line=4]N... n, mm... ah, mm..."@
+` Hơi thở của cô ấy chảy vào thần kinh tôi như một khoái cảm chất lỏng.@
+` Chuyển động ẩm ướt, dính của lưỡi cô ấy.@
+` Sự hòa quyện giữa lưỡi mềm mại, mạnh mẽ của cô ấy liếm lên thân cứng của tôi.
+\
+`"[line=4]Nha, ah……, mm……!"@
+` Hơi thở nặng nề.@
+` [line=4]Khi hơi thở ngắt quãng của cô ấy thổi vào sự cứng rắn của tôi, một cảm giác khác trỗi dậy bên trong.
+\
+`"[line=4][line=4]Ar, cuei, d"@
+` Tôi vội nuốt lời mình muốn nói.@
+` Tôi biết nếu tôi nói ra, tâm trí tôi sẽ hoàn toàn bị cuốn theo khoái cảm này.@
+` [line=4]Tôi biết điều đó, nhưng...
+`"Mm... Shiki, thật nóng..."!@
+`"[line=6]...!"@
+` [line=4][line=4]Nụ cười của cô ấy nhấn mạnh vào thanh gậy trần trụi của tôi và tôi... không quan tâm đến bất cứ điều gì.
+\
+`"Ha... kk... ah..."@
+` Nước bọt ấm áp thấm từ góc miệng cô ấy.@
+` Chỉ nghĩ về khoảnh khắc đó, từ sâu thẳm bên trong... một quả cầu nhiệt bắt đầu dâng lên.
+\
+`"Haa... haa... ha... aah..."@
+` Tôi cố gắng hết sức để kìm nén nó.@
+` [line=4]Ở đây, tôi không thể làm điều đó, dù chỉ một lần.@
+` [line=4][line=4]Nếu tôi làm vậy, có lẽ... với Arcueid.
+br
+` "Chết tiệt!"@
+br
+` Chất dịch từ miệng cô ấy và của tôi trộn lẫn ồn ào.@
+` [line=4]Lãng mạn bẩn thỉu, sai lầm, nguyên thủy.
+\
+`"[line=4]Hah..."@
+` Tôi kìm nén bằng cách cắn chặt lưỡi.@
+` Nhưng điều đó chẳng có ý nghĩa gì.@
+` Những ngón tay cô ấy siết chặt lấy tôi. Không phải là sự chạm nhẹ nhàng của một người yêu đùa giỡn, như trước đây.@
+` Cô ấy chỉ trượt nhanh lên xuống, đẩy tôi đến bờ vực.@
+br
+` Tôi đã vượt quá giới hạn của mình.
+\
+bg #ffffff,crossfade,400
+`"Ồ!"[line=6]@
+br
+` Đánh vang.@
+br
+` Lửa nóng lan tỏa dọc theo thân tôi.@
+br
+` Một tiếng đập mạnh vang lên.@
+br
+` Nó bùng nổ trong miệng cô ấy.@
+br
+`"[line=4]Ha!"@
+` [line=4]Khoái cảm không thể cưỡng lại lan đến não tôi, đánh bại tâm trí tôi.
+\
+` ... Những cử chỉ âu yếm của Arcueid dừng lại.@
+` Cô ấy chấp nhận mọi thứ tôi đưa ra và nuốt chửng mà không do dự.
+\
+`"[line=6]Ah."@
+` Cổ họng trắng muốt, giống như sứ của cô ấy di chuyển lên xuống khi cô ấy nuốt.@
+` Nụ môi xinh đẹp của cô ấy lánh đi khỏi thành viên quái dị của tôi.@
+` Giữa hai người, một đường nứt mỏng manh nước bọt treo như tơ nhện tục tĩu.@
+br
+` Cô ấy mang một biểu hiện gần như ngây ngất.@
+` Tóc vàng của cô ấy lấp lánh khi một làn ửng đỏ lan lên gò má và cô ấy nhìn lên vào mắt tôi.
+\
+`"[line=6]Ah"@
+br
+` Bất cứ thứ gì giống lý trí hay kiềm chế đã lâu không còn trong đầu tôi.@
+` Cơ thể tôi đã có thể di chuyển.@
+` [line=4]Hít thở hoang dã, như một con vật, tôi đẩy Arcueid xuống giường.
+\
+playstop
+!w3000

@@ -1,0 +1,135 @@
+[Hình nền/cmo_14], l, arc, 11a, 11
+bg "bg/bg_40a",crossfade,1500
+` Tôi thức giấc bởi tiếng gọi dịu dàng của Hisui.@
+` [line=4]Đêm qua, sau khi lầm lũi quay trở về biệt thự, tôi dường như đã tự động tìm về phòng mình rồi đổ sụp xuống giường ngủ thiếp đi.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Thưa cậu chủ Shiki, trong người cậu không được khỏe sao ạ?"@
+`"[line=4]Không đâu, tôi vẫn ổn."@
+` Khẽ thở dài đáp lại cô ấy, tôi mệt mỏi ngồi dậy trên giường.@
+br
+` …… Tôi cũng tự kinh ngạc trước bản thân mình.@
+` Tâm trí tôi rã rời chẳng muốn mở miệng nói một lời, thế nhưng cơ thể vẫn tự hoạt động như một cỗ máy để bắt đầu ngày mới như thường lệ.
+\
+`"Bữa sáng hả? Tôi sẽ xuống phòng khách ngay đây."@
+ld c,"tachi/his_t04",crossfade,400
+`"…… Vâng. Em xin phép đứng đợi cậu ở đây."@
+` Thoáng nhìn qua gương mặt hệt như vẫn còn điều gì muốn nói của Hisui, cô ấy khẽ lặng lẽ bước ra ngoài đóng cửa lại.@
+` Tôi nhanh chóng thay y phục rồi bước xuống phòng khách.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_34a",lcartain,1500
+` Cả Akiha và Kohaku đều đã túc trực ở đó từ trước.@
+`"Chào buổi sáng mọi người."@
+` Cất lời chào hỏi theo phản xạ vô điều kiện, tôi điềm nhiên bước vào phòng ăn.@
+` Tôi lẳng lặng dùng xong bữa sáng rồi quay trở ra phòng khách.@
+` Khẽ tựa người lên chiếc sofa êm ái, tôi vô hồn ngước nhìn lên chiếc đồng hồ treo tường.
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"... Anh Shiki? Hôm nay anh vẫn phải đến trường đúng không ạ?"@
+`"[line=4]Ừ... Phải rồi. Chắc anh nên đến trường thôi."@
+` Suýt nữa thì tôi đã quên bén mất.@
+` Lúc này tôi hoàn toàn chẳng có tâm trí muốn làm bất cứ việc gì cả, chỉ nghĩ bản thân cứ tiếp tục sống vô hồn hệt như một cái xác rỗng tuếch thế này thôi.
+\
+`"... Nhưng dẫu sao, tôi vẫn còn cuộc sống thường nhật của Tohno Shiki cần duy trì. Nếu cứ ngồi không bất động ở biệt thự thế này, thà đến trường học có lẽ còn tốt hơn."@
+`"Anh Shiki..."@
+` Akiha dõi mắt nhìn tôi đầy vẻ lo lắng khôn nguôi.@
+cl c,crossfade,400
+` ... Việc cố cất lời trò chuyện bấy giờ chỉ làm cho đầu óc tôi thêm nhói buốt.@
+br
+` Thế nên, không nói thêm lời nào, tôi lẳng lặng rời biệt thự để đi đến trường.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_06a",lcartain,1500
+` Thời gian trôi qua một cách bình lặng, vô vị.@
+` Tôi ngồi bất động trong lớp học, tâm trí hoàn toàn trống rỗng.@
+` Tiếng phấn viết kèn kẹt trên bảng đen vang vọng bên tai.@
+` Tôi vô hồn ghi chép lại những gì thầy giáo viết trên bảng vào cuốn vở vẽ của mình.@
+br
+` Tôi lơ đãng phóng tầm mắt nhìn ra ngoài cửa sổ, hướng về phía khoảnh sân sau trường.@
+` Nhưng tất nhiên, chẳng có một bóng người nào ở đó cả.
+\
+`"[line=6]"@
+` [line=4]Rốt cuộc... mình đang làm cái quái gì ở đây thế này?@
+` Cứ điềm nhiên tham gia vào các tiết học một cách bình thản như chưa từng có chuyện gì xảy ra.@
+` Tôi hoàn toàn không đi tìm kiếm cô ấy, mà chỉ biết hèn nhát bám víu vào cuộc sống thường nhật vô vị này sao.
+\
+`"[line=6]"@
+` Nhưng thực chất dẫu có muốn, tôi cũng chẳng có bất kỳ manh mối nào để đi tìm Arcueid cả.@
+` Kể từ khi cô ấy kiên quyết ra đi đơn độc, có lẽ mọi hy vọng tìm thấy cô ấy bấy giờ đã hoàn toàn vụt tắt.@
+br
+` Chính vì thế...
+` [line=3]Tôi thực sự... đã vĩnh viễn đánh mất Arcueid rồi.
+\
+br
+` *Tách!*@
+br
+`"... "@
+` Một tiếng động nhỏ vang lên từ phía mặt bàn của tôi.@
+` ... À, hóa ra không có chuyện gì lớn cả.@
+` Chỉ là do tôi đã vô ý siết chặt chiếc bút chì kim trong tay đến mức bóp gãy thêm một ngòi chì khác mà thôi.
+\
+bg #000000,lshutter,800
+bg "bg/bg_06a",lshutter,800
+wave se_03
+` Tiết học cuối cùng bấy giờ cũng đã kết thúc.@
+` Giữa bầu không khí xôn xao, ồn ã lúc tan trường, tôi vẫn ngồi thẫn thờ im lặng tại chỗ.@
+br
+`"Tohno, em có thể lên đây tôi bảo một lát được không?"@
+` Thầy giáo dạy Toán đứng trên bục giảng cất tiếng gọi tôi.@
+`"[line=4]Dạ thưa thầy, có chuyện gì vậy ạ?"@
+` Tôi khẽ đáp lời rồi bước nhanh lên phía bục giảng.
+\
+`"Tohno này, gần đây em có hoạt động quá khích hay tham gia chuyện gì mờ ám bên ngoài không? Có người phản ánh là nhìn thấy em đi lang thang ngoài phố vào lúc nửa đêm đấy. Việc này em có lời giải thích nào không?"@
+`"... Dạ vâng. Mấy đêm gần đây em thực sự có chút việc riêng cần giải quyết ngoài phố ạ."@
+`"[line=4]Tôi hiểu rồi."@
+` [line=4][line=4]Thầy giáo dạy Toán của tôi hay nói chính xác hơn chính là thầy chủ nhiệm lớp nhìn tôi với vẻ mặt đầy lo lắng, xen chút ái ngại.
+\
+`"Tôi biết em vốn không phải là kiểu học sinh ham chơi hay quậy phá ban đêm, nhưng chuyện này đã xôn xao đến tai ban giám hiệu rồi. Nghe nói cả Hội trưởng Hội học sinh cũng muốn gặp riêng để nói chuyện với em đấy.@
+` Thế nên, sau giờ học em hãy chủ động ghé qua văn phòng Hội học sinh một chuyến nhé. Cứ coi như đây là một vận hạn xui xẻo cần giải quyết nhanh gọn đi vậy."@
+` Dặn dò xong xuôi, thầy vỗ vai tôi rồi cất bước rời khỏi lớp.
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_08a",lcartain,1500
+` Sau giờ học tan trường.@
+` Tôi chủ động đi tới văn phòng Hội học sinh, nhưng bên trong hoàn toàn vắng vẻ không có ai cả.@
+` ... Giờ ngẫm lại mới nhớ, thầy giáo khi nãy còn kiêm luôn cả vai trò cố vấn cho câu lạc bộ thể thao nữa.@
+` Có lẽ thầy sẽ bận rộn không ghé qua đây cho đến khi buổi tập luyện của câu lạc bộ kết thúc.
+\
+`"[line=6]"@
+` Tôi lẳng lặng kéo ghế ngồi xuống, kiên nhẫn chờ đợi thầy giáo.@
+`"……… Ư..."@
+` Tôi khẽ cắn chặt bờ môi đau nhói của mình.@
+` Tôi biết rõ bản thân không nên ngồi lãng phí thời gian ở một nơi như thế này.@
+` Biết là vậy, thế nhưng dẫu có rời khỏi đây thì tôi cũng chẳng biết mình phải làm gì hay đi đâu nữa.
+\
+` Bên ngoài khung cửa sổ, ánh hoàng hôn rực rỡ đang tô nhuộm bầu trời bằng một sắc cam đỏ lộng lẫy.@
+` Tôi mơ hồ nghe thấy tiếng hô vang tập luyện của các thành viên câu lạc bộ vang vọng từ phía sân trường, cùng tiếng cười nói rôm rả của những học sinh đang rảo bước trên đường về nhà.@
+` Giữa nhịp sống hối hả ngoài kia, văn phòng Hội học sinh lúc này lại chính là ốc đảo yên bình và tĩnh lặng duy nhất.
+\
+` ... Nhưng chính sự bình yên này lại làm cho lòng tôi dâng trào một cơn bực bội dữ dội.@
+` Tại sao rốt cuộc tôi lại đang ngồi thẫn thờ ở một nơi thế này cơ chứ?@
+` Tôi hoàn toàn bất lực, chẳng thể làm được bất cứ điều gì để giúp cô ấy cả.@
+` Lồng ngực tôi thắt lại, vô cùng căm phẫn trước sự yếu ớt và vô dụng của chính bản thân mình.@
+` Thế nhưng dẫu có căm phẫn đến đâu, tôi cũng chẳng có cách nào tự mình giải quyết được bi kịch này. Rốt cuộc, việc duy nhất tôi làm được chỉ là chấp nhận mọi thứ ập đến with mình một cách trống rỗng, vô hồn như một con rối.
+\
+`"... Rốt cuộc mình đang làm gì thế này chứ?"@
+` Không hề có bất kỳ lời hồi đáp nào vang lên.@
+` Tôi chỉ biết đơn độc ngồi lặng lẽ trong căn phòng trống trải, lắng nghe những âm thanh nhộn nhịp hối hả vọng lại từ thế giới bên ngoài.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_08b",crossfade,800
+` Tiếng tích tắc của kim đồng hồ treo tường vẫn đều đặn vang vọng.@
+` Chiếc kim phút lẳng lặng dịch chuyển, báo hiệu lúc này đã trôi qua bảy giờ tối tự lúc nào.@
+` Tuyệt đối không có lấy một bóng người nào ghé qua đây cả.@
+` Trường học vốn dĩ đã đóng cửa từ lúc sáu giờ, và hầu hết các giáo viên cũng đã ra về từ sáu rưỡi, nên lúc này toàn bộ khuôn viên trường học đã trở nên vắng lặng như tờ.
+\
+`"... Xem ra mình đã bị thầy giáo bỏ quên ở đây mất rồi."@
+` Khẽ thở dài, tôi chậm rãi đứng dậy khỏi chiếc ghế tựa.@
+` Nhưng sau suốt những giờ ngồi tĩnh lặng suy ngẫm thấu đáo, đầu óc tôi bấy giờ bỗng chốc trở nên vô cùng thông suốt và tỉnh táo.
+\
+` Tôi đã liên tục suy ngẫm trong suốt thời gian qua.@
+` Về việc bản thân rốt cuộc nên làm gì, và đâu mới là mục tiêu ưu tiên cốt lõi của mình lúc này.@
+` [line=4]Chính vì thế... kể từ khoảnh khắc này trở đi, tôi quyết định sẽ lên đường tìm kiếm bằng được Arcueid.
+\

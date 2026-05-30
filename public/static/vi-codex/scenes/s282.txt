@@ -1,0 +1,170 @@
+play "*4"
+wavestop
+monocro #ff0000
+bg "bg/bg_09b",notrans,0
+`"Ư, ưaaaa…………!"@
+` Thân thể tôi đổ ụp xuống sàn gỗ với một tiếng rầm lớn.@
+`"A, a, a…………!"@
+` Toàn thân tôi bắt đầu co giật liên hồi.@
+` Đau, đau quá.@
+` Lồng ngực tôi, lồng ngực tôi như đang bốc hỏa, cháy rát,,,,,,!
+\
+bg #9c0120,crossfade,800
+monocro off
+`"[line=4],[line=3],aaaah………!"@
+` Ý thức của tôi bắt đầu mờ mịt đi.@
+` Những ngón tay tôi cào cấu trong vô vọng xuống tấm chiếu tatami trong cơn đau đớn.@
+` Tôi bấu chặt, như muốn xé toạc từng thớ cói.@
+` Nhưng dẫu có cào cấu thế nào, cơn đau buốt rát vẫn chẳng hề thuyên giảm.
+\
+`"Hự, ặc, ơaaaaa……!"@
+` Đau đớn.@
+br
+` Đau đớn.@
+br
+` Đau đớn.@
+` Cơn đau tột cùng thế này thực sự quá đỗi kinh hoàng.
+\
+`"Ư, ư hự, áaaa………!"@
+` Tôi không thể chịu đựng thêm được nữa.@
+` Nếu nỗi thống khổ này kéo dài thêm dù chỉ một giây nữa thôi,
+` thì thà rằng, tôi chết đi ngay lúc này còn hơn[line=4]!
+\
+br
+br
+br
+br
+br
+br
+`"Được thôi.@ Ta sẽ toại nguyện cho ngươi, Shiki."
+\
+`"[line=4]Hử?"@
+` Tôi gắng gượng nhấc đầu lên khỏi mặt sàn.@
+` Thế nhưng, ngay trước khoảnh khắc đó.@
+bg #000000,notrans,0
+playstop
+!w6000
+\
+bg "bg/bg_09c",crossfade,1500
+` Ngay trước khoảnh khắc đó.@
+` Cơn đau đớn đột ngột tan biến sạch sẽ.@
+` Tôi không còn cảm nhận thấy bất kỳ sự đau đớn nào ở bất cứ đâu trên cơ thể nữa.
+\
+` Cả cảm giác nặng nề cũng không còn.@
+` Tôi thậm chí còn chẳng cảm thấy… mình đang sống nữa.
+\
+`"[line=4]"@
+` Tôi muốn cất tiếng nói điều gì đó, nhưng cuống họng chẳng thể cử động.@
+!w750
+` Hoàn toàn hư vô.@
+!w750
+` Không đau đớn,
+!w750
+` không cảm giác,
+!w750
+` và cũng chẳng có lấy, sự tự do.
+\
+`"[line=5]!"@
+` Chẳng hiểu chuyện gì đang xảy ra, tôi cố gắng gượng dậy.@
+br
+` Nhưng thân xác tôi dẫu chỉ một ngón tay cũng chẳng thể động đậy.@
+` Không phải là tôi đang bị trói chặt, cũng chẳng phải do toàn thân tê dại.@
+br
+` Nếu phải dùng một hình ảnh để so sánh,
+` thì tựa như thể thể xác này đã chết từ lâu rồi, nhưng tâm trí tôi vẫn đang ngộ nhận mà lưu luyến vương vấn bên trong vậy.
+\
+`"[line=6]"@
+` Trong năm giác quan, giờ đây chỉ còn duy nhất thị giác là còn hoạt động.@
+` …… Căn phòng chìm trong bóng tối.@
+` Ngoài trời lúc này đã đêm muộn.@
+`"[line=3]"@
+` Đầu không thể ngoảnh lại, tôi đành cố liếc đôi mắt của mình.
+\
+`"[line=3]Ồ?@ Ta cứ tưởng linh hồn ngươi đã tiêu biến sạch sẽ rồi chứ, hóa ra ngươi cũng dai dẳng thật đấy, Shiki."
+\
+` Một giọng nói vang lên mà lẽ ra tôi không thể nghe thấy được.@
+`"[line=4]!"@
+` Tôi cố hết sức liếc mắt nhìn quanh khoảng không tối tăm.@
+` Tại góc phòng đó,
+` tôi nhìn thấy một kẻ mà tôi hoàn toàn không hề quen biết.
+\
+ld c,"tachi/roa_t04a",crossfade,400
+`"[line=4]"@
+` Hắn ta là ai thế kia?@
+` Tôi chưa từng nhìn thấy hắn bao giờ.@ Chưa từng nhìn thấy[line=3]nhưng sâu thẳm trong thâm tâm lại dâng trào một cảm giác, như thể tôi đã quen biết hắn từ rất, rất lâu về trước.
+\
+waveloop se_02
+`"Cái gì đây?@ Ngươi thật là tệ bạc quá đấy, Shiki.@
+` Cất công tìm kiếm ta ráo riết suốt bấy lâu nay, thế mà khi ta chủ động xuất hiện, ngươi lại chẳng nhớ nổi ta là ai sao?"@
+` Hắn cất tiếng cười đầy khoái trá, chằm chằm nhìn tôi bằng đôi mắt đỏ ngầu vằn tia máu.
+\
+`"[line=5]"@
+` Tâm trí tôi, thứ duy nhất còn sót lại của sự sống, bỗng chốc đông cứng.@
+` Tuy hắn vẫn chưa tự mình nói ra,
+` Nhưng[line=3]tôi biết rõ hắn chính là một ma cà rồng.@
+` Hắn chính là con "Rắn" mà Senpai và Arcueid đang cất công truy lùng ráo riết.
+\
+ld c,"tachi/roa_t05a",crossfade,400
+`"…… Không, sai rồi.@ Đúng là ta chính là con ma cà rồng được biết đến dưới danh xưng Con Rắn của Akasha.@
+` Nhưng đối với ngươi, ta không phải là Rắn, mà là SHIKI mới phải chứ hả?@
+ld c,"tachi/roa_t04a",crossfade,400
+` [line=3]Chao ôi, thật lạnh lùng làm sao.@ Ngươi khiến ta trông thật ngu ngốc khi cứ mãi nghĩ về ngươi suốt tám năm qua đấy."
+\
+` [line=5]?@
+` SHIKI?@
+` Tám năm ư?@
+` Những thứ đó nghĩa là thế nào[line=4]?
+\
+`"[line=3]Ngươi thực sự quên sạch rồi sao, Shiki?@
+` …… Do thuật thôi miên của lão già kia quá lợi hại,[line=3]hay do ngươi đã bị mất trí nhớ sau khi chết đi một lần rồi?@
+` Chết tiệt thật, dẫu là lý do nào đi nữa thì cũng thật uổng phí quá đi!@
+` Ngươi có hiểu không hả!?@ Tám năm ròng rã, ta đã kiên nhẫn chờ đợi suốt tám năm trời!@ Chờ đợi thời khắc này để cướp đoạt lại mọi thứ từ tay ngươi, kẻ đã hạ sát ta năm xưa!@ Thế mà giờ đây ngươi lại quên sạch thì còn có ý nghĩa gì nữa chứ!?"
+\
+`"[line=5]"@
+` Hắn ta đang lảm nhảm cái gì thế chứ?@
+` Tôi……[line=3]đã giết hắn sao?
+\
+`"Phải đấy!@ Nếu đã quên thì cố mà nhớ lại đi.@ Ba chúng ta vốn dĩ từng luôn bên nhau cơ mà, đúng chứ?@
+` Trong căn biệt thự Tohno đó.@ Akiha, ngươi, và ta từng cùng nhau nô đùa ngoài khoảng sân rộng kia.@ Trước khi ta bị biến thành bộ dạng thế này vào cái ngày định mệnh tám năm về trước!"
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_06",notrans,0
+bg "bg/bg_09c",notrans,0
+` [line=3]Tôi…… không thể nhớ nổi.@
+` Nhưng quả thực[line=3]hình như ký ức ngày nhỏ của tôi từng có sự xuất hiện của một đứa trẻ khác nữa.
+\
+ld c,"tachi/roa_t04a",crossfade,400
+`"…… Ngươi thực sự không nhớ nổi sao?@ Chúng ta từng là những người bạn thân thiết đến thế cơ mà."@
+` Hắn nghiến răng kèn kẹt.@
+` Toàn thân hắn run lên bần bật trong nỗi uất hận dồn nén tột cùng.
+\
+`"[line=3]Phiền thật đấy.@ Hóa ra chỉ có một mình ta là phải chịu đựng nỗi đau đớn này thôi sao?@
+` Bất công quá đấy, Shiki.@ Ta thì luôn bị lão già khọm kia giam cầm trong căn buồng đá tối tăm, thế nhưng ta vẫn luôn có thể cảm nhận được sự hiện diện của ngươi.@
+` Ha ha.@ Bởi vì ta vẫn luôn bòn rút nguồn 'sinh mệnh' từ ngươi mà.@ Dẫu chúng ta không cùng chung huyết thống, nhưng linh hồn ta và ngươi đã hòa làm một mất rồi."
+\
+`"[line=3]Chính vì thế…… ta muốn ban cho ngươi một cái chết thảm khốc và đau đớn tột cùng."@
+` Thật là đáng tiếc làm sao, hắn tặc lưỡi nói.
+\
+`"Điều cuối cùng ta muốn nói với ngươi là thế này, Shiki.@ Ta chính là anh trai của ngươi.@ Thế mà cả ngươi lẫn Akiha lại nhẫn tâm quên sạch điều đó mất rồi."@
+`"[line=5]"@
+` Anh trai…… của Tohno Shiki tôi……… ư?
+\
+bg #000000,crossfade,1500
+`"[line=3]Nếu ngươi đã quên sạch thì chẳng còn chuyện gì để nói nữa rồi.@
+` Kết liễu ngươi trong sự đau đớn tột cùng chính là mục tiêu duy nhất của thể xác này…… của Tohno SHIKI.@
+` Ta đã kéo dài trò chơi này quá lâu rồi, giờ là lúc hạ màn kịch được rồi.@
+` Ngay cả đối với ta[line=3]việc duy trì hai cơ thể chỉ bằng một sinh mệnh độc nhất thực sự quá kém hiệu quả."
+\
+` Giọng nói của hắn càng lúc càng tiến lại gần hơn.@
+` Cứ đà này tôi sẽ bị hắn giết chết mất thôi.@
+` …… Không, dẫu tôi nói là mình sẽ chết, nhưng thực chất có lẽ tôi đã qua đời rồi cũng nên.@
+` Tay chân tôi hoàn toàn bất động.@
+` Cả mắt, tai, mũi cũng đều đã mất đi cảm giác.@
+br
+` Chính vì thế dẫu có bị giết, tôi cũng chẳng còn thấy đau đớn nữa.@
+` Cái chết ập đến một cách mơ màng, lặng lẽ đến mức bản thân tôi còn chẳng hề hay biết.
+\
+wavestop
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

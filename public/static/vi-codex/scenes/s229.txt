@@ -1,0 +1,19 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01b",lcartain,800
+` Chúng tôi cùng nhau bước ra khỏi cổng trường.@
+` Từ đây, chúng tôi phải chia tay nhau và rẽ hai lối khác.@
+br
+ld c,"tachi/cel_t03",crossfade,800
+`"Vậy thì tạm biệt ở đây nhé.@ Chúng ta đi nhanh thật đấy."@
+` …… Tôi cũng có cảm giác như thế.@ Thực lòng tôi cứ ước giá mà trường học rộng hơn một chút thì tốt biết mấy.
+\
+`"Thế thì, Senpai, hẹn gặp lại chị ngày mai nhé."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Ừm, ngày mai tụi mình lại gặp nhau ở trường nha."@
+cl c,lshutter,800
+` Nở nụ cười tươi khi trả lời, Senpai khuất dần về hướng ngược lại.@
+` Đứng nhìn theo bóng lưng chị ấy đi xa, tôi mới quay đầu rảo bước về nhà.
+\
+bg #000000,lcartain,1500

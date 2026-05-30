@@ -1,0 +1,28 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_05a",notrans,0
+`"…… Vì sao chứ?@ Vì sao chị lại làm những việc đáng sợ như vậy?@
+`"Vì sao ư?@ Vì đó là công việc của chị thôi mà."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Quan trọng hơn hết, Tohno-kun này, em đã nói dối chị chuyện em hứa sẽ không ra ngoài vào ban đêm nữa, đúng không?"@
+` Chị ấy nở một nụ cười rạng rỡ đầy ẩn ý khi nói ra điều đó.@
+`"Oh……"@
+` Đúng là tôi từng hứa với chị ấy chuyện đó thật, nhưng[line=2]
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Em có giữ lời hứa giữa hai chúng ta đâu.@ Em từng bảo với chị là sẽ không tự ý ra ngoài vào ban đêm nữa mà."@
+`"……… Ự."@
+` Chị ấy trừng trừng nhìn tôi.@
+` Bỗng dưng tôi thấy mình hệt như một kẻ tội lỗi tồi tệ, lòng trào dâng một cảm giác tội lỗi ngập tràn.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"Chị bắt em hứa là để ngăn chặn những chuyện nguy hiểm thế này xảy ra.@ Hóa ra lời hứa với chị đối với em lại rẻ rúng đến thế sao, Tohno-kun?@ Chị buồn lắm đấy."@
+`"A[line=3]không, không phải thế đâu Senpai.@
+` Chỉ là chuyện đêm qua, em đã nghi ngờ Arcueid chính là kẻ đứng sau những vụ sát nhân hàng loạt kia, nhưng nghĩ lại thì thấy không thể nào, thế nên em mới đi tìm cô ấy để hỏi cho ra nhẽ[line=3]"@
+cl c,crossfade,400
+\
+` Tôi thành thật kể lại toàn bộ những gì đã diễn ra đêm qua cho chị ấy nghe.@
+` Senpai im lặng lắng nghe tất thảy mà không ngắt lời tôi một câu nào.@
+` Từ việc tôi tình cờ chạm mặt cô ấy ra sao, cô ấy giải thích cho tôi về cấu trúc ma cà rồng trong thành phố này thế nào, rồi cả việc tôi sát cánh cùng cô ấy để bảo vệ nơi này, mọi chuyện từ trước đến nay tôi đều bộc bạch hết.
+\

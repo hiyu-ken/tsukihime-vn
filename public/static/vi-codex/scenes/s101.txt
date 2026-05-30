@@ -1,0 +1,641 @@
+monocro off
+playstop
+waveloop se_02
+bg #000000,lshutter,400
+` Nrvnqsr chỉ nhìn Arcueid.@
+` Cơ hội của tôi chỉ tồn tại trong khoảnh khắc này.@
+` Tôi nắm chặt con dao, cúi người xuống.@
+` Với tất cả sức lực, tôi chạy về phía Nrvnqsr.
+\
+bg "bg/bg_29c",rcartain,400
+wavestop
+` Tất cả giác quan của hắn đều hướng về Arcueid.@
+` Ngay cả tôi, người không tham gia cuộc trò chuyện này, cũng biết rằng Nrvnqsr chỉ nhìn về tương lai.@
+` Đằng sau lưng hắn trông vô phòng, không hay biết rằng tôi sẽ tháo gỡ nó trong vài giây tới.@
+br
+` [line=4]Tôi có thể làm được.@
+br
+` Tôi cảm nhận được điều đó.@
+` Không nghi ngờ gì, tôi có thể giết anh ta.
+\
+`"[line=4]"@
+` Tôi chạy.@
+` Chỉ còn vài bước nữa là tôi có thể đâm dao vào lưng anh ấy.@
+` Lưng anh ấy.@
+` Lưng không vũ khí của anh ấy.@
+` Không có sai lầm; anh ta không cảm nhận được sự hiện diện của tôi.
+\
+`"[line=4]"@
+` Một bước nữa.@
+` Rồi mọi thứ kết thúc.@
+bg #9c0120,notrans,0
+bg "bg/bg_29c",notrans,0
+`"[line=6]Ồ?"@
+` Tôi dừng lại.@
+` Chuyện gì vậy?@
+` [line=6]Cơ thể của hắn... là sao thế này?!
+\
+bg #000000,notrans,0
+`"[line=4]Không thể nào.@
+` Đâu có nơi nào.@
+` Không đâu cả, không có nơi nào...!@
+` Không một "dòng" nào tồn tại!@
+` Bất khả thi, không có "cuộc sống" nào như thế có thể xảy ra.[line=4]
+\
+bg #9c0120,notrans,0
+bg #000000,notrans,0
+` [line=4]Thro, đau nhức.@
+br
+` Đau đầu.@
+` Các ngón tay tôi siết chặt dao run rẩy.@
+` Sau một cơn đau đột ngột ở não bộ,
+` Tôi nhìn thấy một điểm đen đơn độc trên lưng Nrvnqsr.@
+bg "bg/cmo_17",crossfade,400
+\
+`"[line=6]!"@
+br
+` [line=4]"Đó đây."@
+` "Đó phải là nơi điểm yếu chết người của hắn."@
+` "... Có điều gì đó không ổn với việc nó là một điểm thay vì một đường, nhưng dù sao[line=4]tôi sẽ đâm hắn ở đó!"
+\
+` "Tôi tiến về phía trước bằng một bước nhảy."@
+` "Con dao trong tay phải tôi lao về phía 'điểm' của hắn."@
+br
+`"[line=6]Ồ?"@
+br
+` "Ngay trước khi cú đánh của tôi kết nối,
+` Những điểm dọc theo lưng cậu ấy tăng lên nhanh chóng.@
+bg "bg/cmo_18",crossfade,400
+` [line=6]Một, Hai, Ba, Tư, Năm, Tám, Chín, Mười, Hai mươi.
+!w500
+bg "bg/cmo_19",crossfade,400
+` [line=6]Tám mươi, Một trăm, Hai trăm, Ba trăm, Bốn trăm!
+\
+`"[line=6]?"@
+` ... Điều này... không đúng.@
+` Điều này không giống như cái chết của cậu ấy.@
+` Chúng giống như sự kết hợp bất đồng hơn.@
+` [line=4][line=4]Cơ thể cậu ấy... cái quái gì vậy?@
+br
+`"[line=4]Shiki!" - giọng Arcueid vang lên.@
+br
+` Không, tôi không có thời gian để suy nghĩ lúc này.@
+` Đằng sau anh ấy ở ngay đây. Ngay bây giờ, tôi chỉ cần nhắm vào một trong những "điểm yếu" của anh ấy và mọi thứ sẽ kết thúc.@
+` "Đó!" - Tôi hét lên và vung con dao xuống.
+\
+`"[line=4]Nhưng trước khi tôi kịp làm điều đó,@
+br
+` Nrvnqsr bỗng dưng đứng dậy như một cái bóng bay.@
+br
+` Cơ thể anh ấy căng phồng, tỏa ra một sức mạnh kỳ lạ.
+` Một nụ cười lạnh lùng xuất hiện trên khuôn mặt trắng ngần của anh ấy.@
+` "Sự xuất hiện."@
+` Một con chó đen xuất hiện từ phía sau lưng anh ta, như thể nó vừa nổi lên từ một biển đen.
+\
+bg "bg/ima_14",crossfade,400
+`"[line=4]Chà?!"@
+` Con chó đen phóng ra như một tên lửa.@
+`"[line=4][! Dòng 4!]"@
+` Tôi cắt đứt "hình dạng" của nó bằng con dao của tôi.@
+` Nhưng đó chỉ là một "dòng" thôi.
+\
+` Chỉ có chân của con chó bị cắt.@
+` Đường đi của nó không dừng lại.@
+`"[line=4]Ôi trời!"@
+` Một tiếng động mạnh!@
+` Chó đen đập đầu vào bụng tôi.@
+Tôi bị đẩy lùi vài mét và rơi xuống đất.
+\
+`"[line=5]Ồi!"@
+` Lực mạnh quá!@
+` Tôi bay ngược lại vài mét và gục xuống.@
+` Chó đen sau đó cố cắn vào cổ tôi.@
+br
+`"Ha... á[line=4]!@
+` Tôi đâm bụng phải của con chó bằng con dao.@
+` Con dao của tôi xuyên qua cơ thể con chó đen như thể nó là không khí.@
+br
+` Động tác của con chó ngừng lại.@
+` Trong khoảnh khắc ấy[line=4], cơ thể nó tan thành chất lỏng đen và đổ ập lên tôi.
+\
+bg "bg/ima_13b",crossfade,400
+`"[line=4]!?"@
+` Đổ đầy trong chất lỏng đen, tôi không thể đứng dậy.@
+`"[line=4]Tại sao lại thế này?"@
+` Tôi không thể thoát khỏi cảm giác này.@
+` Như thể bị khâu chặt vào mặt đất, tôi không thể di chuyển.@
+br
+`"[line=4]Hmph. Có vẻ như một sự việc đã xảy ra sau lưng tôi."@
+` Tôi nghe thấy giọng nói của Nrvnqsr.@
+` Nằm duỗi trên mặt đất, tôi nhìn về phía Nrvnqsr và Arcueid.
+\
+bg "bg/bg_29c",crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Người bạn đồng hành của cô? Nhưng, thật đáng tiếc. Những ai bước vào lãnh địa của tôi sẽ bị nhận diện và tấn công bởi một trong chúng tôi ngay cả khi tôi không để ý. Không thể có bất kỳ cuộc tấn công bất ngờ nào chống lại tôi."@
+cl c,crossfade,400
+ld c,"tachi/ark_t05c",crossfade,400
+`"... Có vẻ như vậy. Cô thậm chí không nhìn gì khác ngoài tôi, nhưng vẫn phản ứng với mối nguy hiểm phía sau. Đó là sức mạnh của một tập thể, phải không, Nrvnqsr Chaos?"@
+cl c,lshutter,800
+` Arcueid khép mắt một chút và bước lại gần Nrvnqsr.
+\
+ld c,"tachi/nero_t01b",crossfade,400
+`"[line=4]Thật thú vị. Anh quá yếu, thậm chí không thể sử dụng Không Tưởng Cụ Hiện (Không Tưởng Hiện Thực Hóa) của mình, vậy mà anh vẫn thách đấu tôi?"@
+`"Không cần đâu. Không có lý do gì để hòa làm một với thế giới chỉ để chiến đấu với một Tử Đồ."@
+` [line=4]Đối với một kẻ như anh, những móng vuốt này sẽ đủ, Nrvnqsr Chaos.@
+br
+` Tôi nghe thấy tiếng cười ngắn gọn.@
+ld c,"tachi/nero_t02c",crossfade,400
+`"[line=4][line=4]Ngốc ạ. Hãy nhận ra sai lầm của mình, Arcueid Brunestud!"
+\
+bg #000000,lshutter,400
+` Nrvnqsr giơ một tay lên.@
+` Áo khoác của anh phồng lên như một chiếc áo choàng và vô số sinh vật bay ra.@
+ld c,"tachi/kemo_t04",crossfade,400
+br
+` Grrrrrrrrr.@
+br
+` Với một tiếng gầm vang dội, ba sinh vật lao về phía Arcueid như những viên đạn.
+\
+` Không giống những con chó đen.
+` Nhưng ba con báo khổng lồ lớn hơn cả Nrvnqsr, giống như những bóng ma quỷ dữ to lớn.
+\
+`"[line=6]"@
+` Arcueid không thể di chuyển.@
+` Ba con báo chạy, làm nứt vỡ những viên gạch dưới chân chúng chỉ bằng tốc độ chạy của mình.@
+` Chúng nhanh hơn Arcueid rất nhiều, cô ấy đang cố chạy trốn.@
+br
+` [line=4]Ba con thú lao tới hướng Arcueid.@
+!w2000
+br
+` Nó kết thúc nhanh chóng.
+\
+bg "bg/ima_12b",notrans,0
+bg "event/ark_e03",notrans,0
+` Trong khoảnh khắc,
+` ba thân thể sư tử bị cắt làm hai và rơi xuống đất.@
+br
+`"[line=4]Tại sao?"@
+` Tiếng gầm của Nrvnqsr vang vọng.@
+` Arcueid im lặng.@
+` Từ đó, cô ấy chuyển sang tấn công hắn.
+\
+`"![line=4]!"@
+` Những sinh vật trồi lên từ cơ thể của Nrvnqsr.@
+br
+` Ngay khi nó xuất hiện, đầu sư tử bị nắm lấy và xé nát khỏi cơ thể.@
+br
+` Con báo bị giết ngay lập tức khi tấn công Arcueid bằng cú đấm xuyên qua đầu nó.@
+br
+` Con hổ bị xé nát như đất sét.@
+` Tất cả những sinh vật theo sau chúng đều gặp số phận tương tự.
+\
+` Giống như con đại bàng bay và con gấu khổng lồ.@
+` Ngay cả con cá mập bơi dưới lòng đất cũng không thoát khỏi số phận đó.@
+` Giống như con voi khổng lồ vô lý.@
+br
+` Cuối cùng, họ thậm chí không thể ngăn cản cô ấy, và quay lại thành chất lỏng đen dính.
+\
+`"[line=4]Hả…"@
+` Nrvnqsr cố gắng trốn thoát.@
+` Arcueid vung móng vuốt của mình.@
+br
+` [line=4]Sau âm thanh của thịt bị xé toạc,
+`    cơ thể Nrvnqsr bị chia làm hai từ cổ xuống.
+\
+bg "bg/ima_13b",crossfade,400
+bg "event/ark_e03",crossfade,400
+`"Gaaaaaaaaaaaahhhhh!!"@
+br
+` Nrvnqsr gầm lên đau đớn và nhảy xa ra khỏi Arcueid.@
+` Cơ thể nó bị đứt từ cổ đến eo, mất đi hơn một nửa cơ thể.@
+br
+` Một tiếng "bụp".@
+` Phần còn lại của cơ thể rơi xuống chân Arcueid.
+\
+`"[line=8]"@
+` Đây không phải là một trận chiến.@
+` ... Vậy thì Arcueid nói rằng cô ấy chỉ có thể di chuyển như thế nào?@
+` Những con quái vật mà Nrvnqsr triệu hồi không yếu đuối.@
+` Những con sư tử và hổ, chỉ một trong số chúng cũng có thể xé nát một chiếc xe thành những mảnh vụn.@
+` Và con gấu nâu có thể đã xé nát một xe tăng bằng sự bạo lực không kiểm soát của nó.@
+` Nhưng những loài thú này đã bị Arcueid tiêu diệt, và chính Nrvnqsr cũng chỉ còn nửa sống.
+\
+`"[line=8]Ha..."@
+` Nó gần như giống như một trò đùa.@
+` [line=4]Nếu việc này quá dễ dàng, có lẽ tốt hơn là tôi không nên xuất hiện từ đầu.
+bg "bg/bg_29c",crossfade,800
+`"GA…… AH, aaaaa……!"@
+` Nrvnqsr tiếp tục lui lại như thể đang cố trốn chạy.@
+ld c,"tachi/ark_t18",lshutter,1500
+` Cô ấy có thể mệt mỏi... Arcueid chậm rãi tiến về phía Nrvnqsr.
+\
+` Khó thở.@
+br
+` Tôi nghe thấy hơi thở nặng nề.@
+` ... Đây là hơi thở của Arcueid.@
+br
+` Hơi thở đau đớn, rách rưới.@
+` Tại sao lại như vậy?@
+` Hơi thở của Arcueid nghe đau đớn hơn Nrvnqsr, người đang bị xé nát làm hai nửa.@
+cl c,crossfade,800
+\
+play "*6"
+ld c,"tachi/nero_t02d",crossfade,400
+`"[line=2]Thật khó tin.@ Mặc dù yếu ớt như vậy, bạn vẫn có sức mạnh như thế này.@ Như mong đợi từ một Executioner được chuẩn bị bởi Chân Tổ."@
+` ... Đừng đối mặt với công chúa ma cà rồng trắng[line=4]Có vẻ những lời cảnh báo của người khác là đúng."@
+cl c,crossfade,800
+` Giọng nói của Nrvnqsr không hề yếu đi.@
+br
+` [line=4]Tôi cảm thấy,
+`   một cảm giác tuyệt vọng khủng khiếp.@
+br
+` Arcueid cố gắng lấy lại hơi thở khi từ từ tiến gần đến Nrvnqsr.
+\
+ld c,"tachi/nero_t02d",crossfade,400
+`"Nhưng, tôi chẳng bao giờ nghĩ rằng mình sẽ đánh bại bạn chỉ bằng mười hay hai mươi phần thân thể của chính mình ngay từ đầu."@
+cl c,crossfade,400
+ld c,"tachi/ark_t15",crossfade,400
+`"[line=4]Đủ nói suông rồi.@ Bạn không thể giết tôi bằng bất kỳ số lượng nào những linh thú như vậy, và tôi đã cắt đứt nửa cơ thể bạn.@ Dù thế nào đi nữa, bạn chẳng có cơ hội thắng đâu."@
+cl c,crossfade,400
+ld c,"tachi/nero_t02d",crossfade,400
+`"Hah[line=4]Những linh thú của tôi đều bị tiêu diệt rồi, nhưng dường như bạn nhầm lẫn."@
+`"[line=4]?@
+`"Tôi không mang theo linh thú, cũng không sử dụng chúng.@ Tất cả những thứ mà bạn chiến đấu đều là chính tôi.@
+` …… Thật khó chịu khi được xem giống như những con vật khác bắt giữ sinh vật sống để sửa chữa thịt bị tổn thương."
+\
+ld c,"tachi/nero_t02b",crossfade,400
+`"Bạn nên có thể nhận ra bằng một cái nhìn nếu bạn không bị suy yếu.@ Dùng đôi mắt huyền bí vàng của bạn và nhìn.@ Có thấy không?@ Sự hỗn loạn của 666 'con thú' bên trong cơ thể tôi[line=3]"@
+cl c,crossfade,400
+br
+` Một làn sóng gì đó di chuyển nhanh chóng ở rìa tầm nhìn của tôi.@
+` "Một điều gì đó" (Akiha) nói, chỉ về phía trước.@
+br
+`"Ở đó!" [line=4]@
+` Sau Arcueid.@
+` Bán thân của Nrvnqsr bị Arcueid cắt đứt đang run rẩy.@
+` [line=4]Nó vươn lên thành một cục máu đông lớn và lao về phía Arcueid.
+\
+`"Arcueid, ở sau lưng bạn!" [line=4]@
+ld c,"tachi/ark_t18",notrans,0
+`"Có phải Shiki?" [line=4]@
+` Arcueid quay lại.@
+` Nhưng, cô ấy không thể làm được gì.@
+` Một nửa cơ thể Nrvnqsr nằm trên mặt đất biến thành vô số con rắn khổng lồ tấn công Arcueid từ phía sau.
+\
+cl c,crossfade,400
+`"[line=4][câu chéo]@
+` Những con rắn khổng lồ quấn quanh Arcueid và trở lại thành một chất lỏng đen.@
+` Arcueid bị mắc kẹt trên mặt đất, giống như tôi, nhưng áp lực còn tệ hơn hàng trăm lần.
+\
+`"[line=4]Làm sao... không thể...?"@
+` Khi bị đẩy xuống, Arcueid cố gắng trốn thoát.@
+ld c,"tachi/nero_t02b",crossfade,400
+`"Đó là điều vô ích. Bạn nên hiểu được điều đó, Công chúa của những Người Tổ tiên Chân chính."@
+`"...!"@
+` Mặt Arcueid sáng lên vì đau đớn và ngạc nhiên.@
+` Phần còn lại của Nrvnqsr nâng giọng gần như đang gầm gừ.
+\
+`"[line=4]Hãy để kẻ có trí tuệ đếm số của con thú: bởi nó là số của một người, và số của hắn là 666[line=3]Haha, bạn hài lòng với sự hỗn loạn trong cơ thể tôi, Arcueid Brunestud?"@
+`"[line=4]Bạn có tỉnh táo không...!? Một cơ thể người... có hơn ba trăm yếu tố nén vào một hình dạng nhỏ hẹp như hình dạng con người, điều này chỉ giống như..."@
+`"Thật ra, chẳng khác gì Biển Nguyên thủy.@
+` Tôi không tạo nên cơ thể bằng các loài động vật khác. Tôi chỉ sử dụng những yếu tố được gọi là 'động vật' làm cơ thể mình, trộn chúng như đất sét."
+\
+`"Tôi không có những thứ gọi là linh vật. Những gì tồn tại là 666 con thú[line=4]và những sinh mạng bằng số đó.@
+` Cắt đôi cơ thể tôi hay nghiền nát đầu tôi đều vô nghĩa. Tôi là một và 666. Nếu bạn muốn hủy diệt tôi, bạn cần hủy diệt 666 sinh mạng cùng một lúc."@
+`"... Điều này không thể... đây chính là ý nghĩa của hỗn loạn...?!"
+\
+ld c,"tachi/nero_t02d",crossfade,400
+`"Dĩ nhiên rồi. [line=4]Vì những bản thể khác của tôi không có sự tồn tại cụ thể.@
+` Khi được giải phóng khỏi cơ thể này, vốn là lãnh địa của tôi, chúng sẽ lần đầu tiên hình thành nên một dạng 'loài' nào đó.@
+` Chúng không có hình dạng riêng từ đầu. Bạn có thể tiêu diệt chúng bên ngoài tôi, nhưng khi chúng quay trở lại, chúng sẽ tái sinh như một phần của hỗn loạn của tôi.@
+` "... Mặc dù, ngay cả tôi cũng không thể dự đoán được chúng sẽ trở thành gì khi xuất hiện." Hiểu và kiểm soát cây phân nhánh hỗn loạn này là luận đề vĩnh cửu của tôi."@
+br
+` Con ma cà rồng với nửa cơ thể cười khẩy, giọng đầy tự hào.
+\
+`"[line=4]Điều đó là không thể!... Nếu bạn bao hàm những tồn tại khái niệm chưa màu sắc, chính bản thân bạn sẽ biến mất...!"@
+`"Đúng vậy. Tại đây không chỉ một người đơn lẻ. Tính cách của Nrvnqsr đã không còn. Chúng ta không phải là một cơ thể duy nhất, mà gần giống một tập thể vô hạn."@
+` "... Chắc chắn, không có ý nghĩa tồn tại nào trong cuộc sống như thế này. Đã có những dạng sống ở đáy đại dương, có thể gọi là hệ thống vĩnh cửu. Cơ thể này sẽ mất trí tuệ và trở thành 'hạt nhân' giống như chúng một ngày nào đó."
+\
+`"Nhưng cậu không thấy điều đó vĩ đại sao?"@
+` "Có những thứ xoay vòng bên trong tôi, và cậu không biết hình dạng chúng sẽ lấy. Thế giới nhỏ bé này giống thế giới của chúng ta ở giai đoạn nguyên thủy."@
+` "Một không gian hỗn loạn nơi những gì sẽ được sinh ra là không thể đoán trước."@
+` "Bóng tối của sự hỗn loạn giống như cây phân nhánh của hành tinh, nhưng vẫn có khả năng thay đổi kịch tính."@
+` "Tôi muốn biết điều gì nằm ở đỉnh điểm trước khi tôi biến mất."
+\
+`"Đó là lý do Giáo Hội đặt tên cho tôi như vậy."@
+` [line=4]Nrvnqsr - Sự hỗn loạn.@
+` Được trang bị với 666 sinh vật, không còn là ma cà rồng mà trở thành một không gian đã trở thành sự hỗn loạn, một kẻ dị giáo đã phá vỡ luật cấm.@
+br
+`"[line=6]!"@
+` Tiếng nói của Arcueid bị kìm nén.@
+` Chất lỏng đen quằn quại xung quanh cô ấy.@
+` [line=4]Ngay cả gương mặt của Arcueid cũng đã nửa phần bị che khuất.
+\
+ld c,"tachi/nero_t02b",crossfade,400
+`"... Đó là tất cả. Trong một nhà tù như thế này, ngay cả bạn cũng không thể trốn thoát. Đây là sự kết hợp của năm trăm phần của tôi, 'Đất Tạo Thành'."@
+` [line=4]Ngay cả khi bạn ở đỉnh cao sức mạnh, bạn cũng không thể hy vọng tiêu diệt nó. Nó tương đương với việc phá hủy một lục địa hoàn toàn.@
+br
+` Phần còn lại của Nrvnqsr từ từ tiến đến gần Arcueid.
+\
+`"Nhiều đồng đội của chúng ta đã bị bạn giết chết. Nhiều người khác đã tìm cách tiêu diệt bạn, nhưng cuối cùng họ cũng bị phá hủy.@
+` [line=4]Nhưng giờ đây, mọi thứ đã kết thúc.@
+` Tôi, Nrvnqsr Chaos, sẽ thực hiện một thành tựu vĩ đại mà không ai có thể làm được cho đến bây giờ.
+\
+`"[line=2]Nrvnqsr.@ Thực thể này trong Không Tưởng Cụ Hiện (Không Tưởng Hiện Thực Hóa), người[line=3]...@
+`"Dễ dàng nhận ra thôi. Kẻ thù của bạn, 'Con Rắn', đã đến với tôi để dạy tôi, nhưng không phải là kẻ hiện tại thuộc thế hệ này. Trước khi bạn giết hắn, hắn đã truyền lại cho tôi phương pháp tạo ra cái 'ngôi nhà' này.@
+`"[line=6]...@
+` Tôi không còn nghe thấy giọng của Arcueid nữa.@
+` Nhìn lại, miệng cô ấy bị che khuất bởi chất lỏng đen.
+\
+`"Nhưng 'Con Rắn' cũng là một bi kịch.@ Một linh mục từng phục vụ Giáo Hội không thể sống sót chỉ vì một Nữ thần Chết như cô đang truy đuổi hắn."@
+` Nếu anh ấy còn sống, có lẽ anh ấy đã tìm ra cách kiểm soát sự hỗn loạn trong cơ thể tôi. ... Có lẽ rất đáng tiếc khi không thể tận dụng trọn vẹn một dị giáo rõ ràng trước khi bị tiêu diệt."
+\
+ld c,"tachi/nero_t02d",crossfade,400
+`"Tôi từng là người bạn trung thành của 'Con Rắn'.@ Tại sao cô lại kiên trì truy đuổi hắn mà không hề mệt mỏi, tôi rất tò mò[line=4]nhưng, dường như cô đã không còn thể nói được nữa."@
+br
+` Chất lỏng đen bắt đầu quấn chặt cơ thể Arcueid.@
+` Đến lúc này, hình ảnh sụp đổ của một người phụ nữ Arcueid không còn, chỉ còn một khối bùn vô định.
+\
+`"[line=4]Tôi sẽ khiến cô trở thành một phần của tôi, Arcueid Brunestud.@
+` Hấp thụ lượng ý chí của cậu có thể cần rất nhiều nỗ lực, nhưng điều đó sẽ khiến tôi trở thành bậc ma cà rồng cao nhất. Một chút đau đớn giống như một lễ kỷ niệm cho sự sáng tạo mới.@
+` [line=4]Khi điều đó xảy ra, ngay cả những kẻ giết người chuyên nghiệp của Táng Nghi Xã đáng khinh cũng không còn là điều đáng sợ. Tôi sẽ tiêu diệt tất cả các thành viên của giáo phái thối rữa đó.
+\
+cl c,crossfade,400
+br
+` Mặt Arcueid hoàn toàn chìm xuống với một âm thanh hút chóp.@
+br
+` Ngay cả những đường nét trên cơ thể cô mà trước đây tôi chỉ có thể thấy mờ nhạt cũng đã biến mất.
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Với tốc độ này, nếu tôi để Arcueid một mình, cô ấy sẽ bị hấp thụ vào chất lỏng đen.
+` "[line=4]Tại sao... cậu...!"
+\
+`"[line=4]Tôi nhìn vào chất lỏng đen bao phủ mình.@
+` Tôi "nhìn" vào chất lỏng đen bao trùm cơ thể tôi.@
+` Những đường đen của cái chết chắc chắn tồn tại.@
+`"[line=5]Gaahh!"@
+` Tôi chống lại cơn đau nhức ở đầu, và trượt con dao dọc theo những đường đó.@
+wave se_12
+` Chất lỏng đen trở nên giống như nước bình thường khi tôi cắt qua những đường này.
+\
+waveloop se_02
+`"Được rồi..."@
+` Tôi thở nặng nề khi đứng dậy.@
+br
+` [line=4]Tôi phải cứu cô ấy.@
+`   Tôi phải cứu Arcueid khỏi con quái vật đó.@
+br
+` Nhưng, làm thế nào?@
+` Tôi thậm chí còn không thể đến gần Nrvnqsr.@
+` [line=4]Ngay cả Arcueid, người vô cùng mạnh mẽ, cũng không thể đánh bại hắn.
+\
+` Vậy nếu tôi đứng dậy và đối mặt với hắn, liệu tôi có thể sống sót được bao lâu?@
+` Tôi chỉ mới giết được một con chó; tôi sẽ không trụ nổi trước những con thú khác như sư tử hay báo đen.
+\
+` Hơn nữa,
+` Tôi nhìn thấy hàng trăm "điểm" trên lưng hắn.@
+` Tôi không thể hiểu rõ cuộc trò chuyện giữa Nrvnqsr và Arcueid, nhưng dường như mỗi con quái vật đó đều là hắn.@
+br
+` Sau đó,
+` [line=4]Nếu tôi muốn đánh bại ma cà rồng Nrvnqsr, tôi phải giết hết những con quái vật có "điểm" đó.
+\
+`"[line=4]Ồi!"@
+` Tôi không thể tiến lên được.@
+` [line=4]Bất kể thế nào, một con người không thể tiến gần một quái vật như vậy.@
+br
+`"[line=4]Đáng ghét!"@
+` Cuối cùng,
+` [line=4]Một lần nữa, tôi cố gắng cứu mạng mình và không làm gì khi ai đó bị giết.
+\
+ld c,"tachi/nero_t02b",crossfade,400
+`"[line=4]Ồ?"@
+` Tôi nghe thấy một giọng nói.@
+` Giọng của Nrvnqsr đầy sự vui vẻ kiềm chế.@
+cl c,crossfade,400
+br
+` Không.@
+` Đó không phải là giọng của anh ấy.@
+` Tôi có thể nghe thấy âm thanh giống như tiếng bước chân.
+\
+`"[line=4]Điều này... không thể."@
+` Tiếng âm thanh cách xa.@
+` Nhưng chắc chắn không nghi ngờ gì, âm thanh của ánh sáng, những bước chân nhảy nhót đang tiến gần hơn.@
+br
+` [line=4]Arcueid đã nói trước đó.@
+` [line=4]Công viên vào ban đêm trống rỗng người, và nếu có ai đi qua, thì họ chỉ đơn giản là không may mắn.@
+br
+` Xa xôi, tôi thấy một hình dáng con người nhỏ bé.@
+` Một cô gái mà tôi không biết về tuổi của mình.
+\
+`"[line=4]"@
+` [line=4]Điều này không tốt.@ Để cô ấy đến đây, nó có nghĩa là
+br
+`"Chạy đi~~~~~!"@
+br
+` Tôi thét lên.@
+` Tôi thét, quên đi rằng Nrvnqsr thậm chí không để ý đến tôi hay có thể anh ta sẽ tấn công tôi.
+\
+` Nhưng người qua đường vẫn không dừng lại.@
+` Không biết gì cả, cô ấy thoải mái tiến về phía đây.@
+br
+` Một nửa con ma cà rồng trong chiếc áo đen thở ra một cách thỏa mãn.@
+ld c,"tachi/nero_t02d",crossfade,400
+`"... Cơ thể tôi vừa bị xé nát. Tôi cần nhiều thức ăn hơn."@
+` Chiếc áo của anh ta quằn quại như một sinh vật sống.
+\
+`"May mắn thay, dường như thức ăn đã đến."@
+bg #000000,crossfade,400
+ld c,"tachi/kemo_t03",crossfade,400
+` Một sinh vật đen bay khỏi cơ thể của Nrvnqsr.@
+br
+`"[line=6]Chờ đã!"@
+` Giọng nói của tôi không thể chạm tới cô ấy.@
+` Sinh vật đó chạy như một cơn gió đen về phía hình bóng cách xa.
+\
+bg #000000,notrans,0
+playstop
+bg "bg/ima_12b",notrans,0
+` Mọi thứ kết thúc trong chớp mắt.@
+` Một tiếng thét ngắn, âm thanh của một cơ thể va vào mặt đất.@
+` Khói máu phả vào không khí.@
+br
+` Con hổ đen nuốt chửng con người trong miệng nó.@
+br
+` ... khuôn mặt của cô gái đã... không còn nữa.@
+` Có lẽ là bị xé toạc bởi móng vuốt của nó.
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Quá... tàn nhẫn.@
+` Một hành động bạo lực một chiều ghê tởm.
+\
+wave se_01
+bg #ffffff,notrans,0
+bg "bg/ima_12b",notrans,0
+`"[line=4]Gah!"@
+` Đầu tôi đau.@
+` Cổ họng tôi bắt đầu khô khát.@
+` [line=4]Tâm trí tôi bắt đầu nén lại, và tôi chỉ nhìn thấy kẻ thù trước mặt mình.
+\
+monocro #ff0000
+bg "bg/ima_13b",crossfade,400
+` Con hổ trườn như một con rắn vào cơ thể Nrvnqsr.@
+` Điều này thật kỳ lạ.@
+` Thân thể của cô gái trong miệng con hổ biến mất.@
+br
+` Nhưng...
+\
+br
+br
+` [line=6]Nhai.@ Giã.@ Nuốt.
+\
+br
+br
+br
+wave se_01
+` Cô ấy không còn ở đó, nhưng tôi vẫn nghe thấy âm thanh đó.
+\
+br
+br
+br
+br
+` [line=6]Rách.@ Nứt.@ Nuốt chửng.
+\
+br
+br
+br
+br
+br
+wave se_01
+` Tiếng âm thanh phát ra từ bên trong người đàn ông được gọi là Nrvnqsr.@
+` [line=4]Âm thanh của thịt tan chảy, xương vỡ vụn, và sự nhai chậm rãi của một cơ thể người.
+\
+monocro off
+bg #000000,crossfade,400
+ld c,"tachi/nero_t02d",crossfade,400
+wave se_01
+`"[line=6]Không có sai lầm nào."@
+` Bên trong cơ thể anh ấy, anh ấy đang tiêu hóa người đó.@
+` Môi Nrvnqsr khẽ cong lên trong nụ cười.@
+ld c,"tachi/nero_t02b",crossfade,400
+` Sau đó,@
+br
+` [line=4]một công tắc bật tắt trong não tôi.
+br
+` Một sự chuyển đổi xảy ra trong tâm trí tôi.
+\
+`"[line=6]Anh khốn kiếp!"@
+` Tôi không thể suy nghĩ được.@
+` Tôi chỉ chạy về phía Nrvnqsr.
+\
+monocro #ff0000
+bg "bg/bg_29c",lshutter,400
+` [line=4]Thị lực tôi ngập tràn màu đỏ.@
+br
+`"[line=4][Feed]"@
+` Một con báo đen bay lượn khỏi cơ thể Nrvnqsr.@
+` Tốc độ và sự hung dữ của nó so với những con chó đen kia có bao nhiêu lần lớn hơn?@
+`"[line=6][lời nói không rõ nguồn gốc]"@
+` Nhưng tôi không quan tâm đến điều đó.@
+` Nó là một sinh vật sống.@
+` Nếu nó còn sống, thì chẳng có gì sai trái với tôi.
+\
+bg "bg/ima_14",crossfade,400
+`"Anh đang cản đường tôi."@
+` Tôi dừng lại và nói với xác chết dưới chân mình.@
+` Con báo đen đang nằm ngổn ngang thành bốn mảnh.@
+monocro off
+bg "bg/bg_29c",crossfade,400
+ld c,"tachi/nero_t02b",crossfade,400
+`"[line=4]Tôi hiểu rồi. Anh là kẻ đã tấn công tôi từ sau lưng trước đó."@
+` Có vẻ như anh ta cuối cùng cũng nhận ra tôi ở đây.@
+br
+` Đôi mắt vô cảm đang nhìn về phía tôi.@
+` [line=4]Vâng, giống như Arcueid nói.@
+` Nếu tôi không cho phép bản thân lạc lối, việc bị anh ta nhìn chằm chằm chẳng thay đổi gì cả.
+\
+`"... Để Arcueid đi, con quái vật."@
+`"[line=6]"@
+`"Tôi nói, để cô ấy đi. Tôi là đối thủ của cậu. Với thân thể nửa người như vậy, cậu chẳng là gì."@
+`"[line=6]"@
+` Không một lời nào.@
+` Không một lời, ma cà rồng mặc áo choàng đen nhìn cả Arcueid và tôi.
+\
+`"Cô nói cô có thể là đối thủ của tôi?"@
+`"Vâng. Vì vậy tôi đang yêu cầu cậu thả cô ấy ra và sau đó nhanh chóng lấy lại hình dạng bình thường của cơ thể."@
+`"[line=6], [line=4], [line=6]"@
+` Cổ anh ta di chuyển lên xuống.@
+` Nó dường như... giống như... anh ấy đang cười.
+\
+ld c,"tachi/nero_t02d",crossfade,400
+`"Anh đã lấy đi niềm vui. Nhận hình phạt của mình, người phàm."@
+` Nrvnqsr không thay đổi.@
+` Anh ta trông như sẽ để lại Arcueid với nửa cơ thể và vẫn giữ nguyên dạng.
+\
+`"Tôi hứa với anh. Tôi sẽ từ từ xé nát anh còn sống."@
+` Vẫy.@
+` Tay còn lại của anh ta được nâng lên.@
+`"[line=4]Một mạch điện não thấp kém." @ Giá của sự kiêu ngạo khi nghĩ rằng bạn có thể đối đầu với tôi sẽ là cái chết chắc chắn của bạn."@
+br
+` Một luồng gió ấm áp thổi qua.@
+br
+` Hàng tá sinh vật trồi lên từ nửa thân của Nrvnqsr.@
+` Vô số mãnh thú trồi ra từ nửa thân của Nrvnqsr.
+\
+bg #000000,crossfade,400
+`"[line=4]Số lượng sinh vật trồi lên không chỉ là mười hay hai mươi.@
+` Ngay cả khi mỗi con không phải là một sinh vật mạnh mẽ, có gần trăm chúng tấn công một người như tôi, và chúng tụ tập như kiến vây quanh một khối đường.@
+` "Hả"
+\
+`"[line=4]Không thể nào!"@
+` Tôi đâm con chó đen trước mặt bằng con dao của mình.@
+wave se_06
+` Con chó đen chết khi 'cái chết' của nó bị cắt đứt.@
+br
+` Ngay lập tức, tiếng cánh chim vang lên từ trên đầu.@
+wave se_10
+` Một âm thanh rắc rắc, thịt trán tôi bị kéo đến xương.
+\
+`"[line=4]Ach!"@
+` Tôi không có thời gian để cảm thấy đau đớn.@
+` Đồng thời, nhiều con chó đen cắn vào tay và ngực tôi từ hai bên.@
+bg "bg/ima_13",lshutter,400
+`"[line=4]Các người, rác rưởi!"@
+wave se_07
+` Tôi đâm xuyên qua "cái chết" của hai con chó trong tầm nhìn của mình.@
+` Nhưng, điều đó vẫn chưa đủ.@
+` Vì mỗi sinh vật mà tôi tiêu diệt, mười con khác sẽ thay thế để xé xác tôi.@
+` "Ôi..."
+\
+bg #000000,crossfade,800
+wave se_01
+`"[line=4]Tôi không thể nhìn thấy gì cả.@
+` Tôi không thể nhìn thấy bất cứ thứ gì.@
+` Mọi thứ đều đen tối như mực.@
+` (Tất cả)@
+` Không có gì sai với đôi mắt tôi.@
+` [line=4]Tất cả xung quanh tôi, những sinh vật đen tối bao trùm lấy tôi trong bóng tối.
+\
+`"[line=6]!!!!!!"@
+` Tình hình không thể tiếp tục như vậy được.@
+` Tôi sẽ chết. Tôi không thể chịu đựng thêm năm giây nữa.@
+` Chân tôi bị cắn. Máu chảy. Cơ thể tôi cảm thấy như sắp sụp đổ. Nếu tôi ngất đi, mọi thứ sẽ kết thúc.@
+` Chúng sẽ ăn thịt tôi một cách hung hãn nếu tôi rơi xuống đất.@
+br
+`"[line=4]Không!"@
+` Đó là điều đáng sợ hơn là đau đớn.@
+` Mọi thứ đều đen tối tăm tối.
+\
+` [line=3]Tôi không thể nhìn thấy gì. Tôi không thể làm gì cả.@
+` Nhưng, đó là lý do tôi phải suy nghĩ.@
+` …… Tôi sẽ chịu đựng cho đến lúc này……!
+\

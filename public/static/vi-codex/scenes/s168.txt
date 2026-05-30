@@ -1,0 +1,13 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+`"Shiki, nguy hiểm!"@
+ld c,"tachi/ark_t03",crossfade,400
+\
+cl c,crossfade,400
+wave se_06
+\
+` [line=2]Một cái bóng thây ma Tử Giả lao thẳng vào ôm chặt lấy tôi, hàm răng nanh nhọn hoắt của nó găm chặt đâm sâu vào cổ tôi.@
+` [line=2]Cảm giác lạnh buốt và đau đớn tột cùng bủa vây lấy toàn thân.@
+\

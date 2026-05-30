@@ -1,0 +1,96 @@
+play "*3"
+wavestop
+bg "bg/bg_06b",notrans,0
+` ... Những sự kiện xảy ra trong giờ nghỉ trưa vẫn còn ám ảnh tôi.@
+` Tôi tin cô ấy có thể về nhà một mình, nhưng tôi cảm thấy cần phải đi kiểm tra xem Akiha có ổn không.
+\
+bg "bg/bg_11b",lshutter,800
+` Tôi lẳng lặng cất bước men theo dãy hành lang tràn ngập ánh hoàng hôn chầm chậm buông xuống.@`
+` Thần trí tôi lẩm bẩm nhớ lại lớp của Akiha là lớp một khối mười thì phải.@`
+br
+bg #000000,lshutter,400
+bg "bg/bg_06b",lshutter,400
+` Phòng học bấy giờ hoàn toàn im ắng cô tịch.@`
+` Người con gái đứng lủi thủi đơn độc một mình giữa lớp học nhuộm thắm sắc hoàng hôn rực đỏ.`
+\
+playstop
+monocro #ff0000
+ld c,"tachi/aki_t01a",crossfade,400
+`"... "@
+` …… Đầu óc tôi khẽ dấy lên... một cảm giác váng đầu chóng mặt dữ dội.@`
+` Căn phòng học bấy giờ dẫu đã chầm chậm nhuộm thắm hoàn toàn bởi ánh tà dương rực đỏ.@`
+` Lủi thủi lẻ loi một mình, bóng hình người con gái với mái tóc dài mang sắc đỏ nhè nhẹ tịch mịch bấy giờ đang sửa soạn ra về.@`
+br
+` Bất kể tôi nhìn cô ấy theo cách nào, cô ấy vẫn là Akiha.@
+` Thế nhưng cớ sao chứ?@ Vì cớ gì lồng ngực tôi bấy giờ dẫu vậy lại trào dâng cảm giác như thể mình đang diện kiến một người hoàn toàn xa lạ lần đầu gặp gỡ?`
+\
+bg "bg/bg_06b",crossfade,800
+monocro off
+play "*3"
+ld c,"tachi/aki_t01a",crossfade,400
+`"Anh trai?"@
+`"[line=6]"@
+` Khi cô ấy gọi tên tôi, cơn chóng mặt dần tan biến.@
+`"Em dẫu dã là[line=3]Akiha đúng tịnh không em?"@`
+ld c,"tachi/aki_t04a",crossfade,400
+`"…?@ Anh Shiki, thể xác anh bấy giờ dẫu vậy dẫu dẫu lại cảm thấy tịnh không khỏe sao ạ?"@`
+` Akiha nói với giọng điệu thường ngày của mình.@
+` …… Đăm đăm chiêm ngưỡng mái tóc đen tuyền quen thuộc tự thân của em, cõi lòng tôi bấy giờ dẫu dã thấu triệt sâu sắc tịnh không nghi ngờ gì nữa, người con gái trước mắt này dẫu sao dẫu dẫu chính là đứa em gái ruột thịt duy nhất của tôi, Tohno Akiha.`
+\
+`"Không, chẳng có gì cả."@ Đi thôi, Akiha, giờ chúng ta phải quay lại rồi.@ Nếu em không có việc gì, có muốn đi về cùng nhau không?"@
+ld c,"tachi/aki_t09",crossfade,400
+`"Dạ vâng… nếu anh Shiki dẫu dã ngỏ lời ngọt ngào nhường ấy, hai anh em mình cùng lẳng lặng cất bước đi về chung nhé."@`
+` Tịnh không rõ vì nguyên cớ gì, Akiha bỗng chốc nở một nụ cười vô cùng ôn hòa ấm áp.@`
+` Tim tôi đập mạnh.@
+` Có lẽ là do chóng mặt trước đó, hoặc có lẽ là sự kỳ lạ khi nhìn thấy Akiha trong trường học của mình.@
+` Chắc hẳn dẫu dã bị ảnh hưởng bởi cơn váng vất ban nãy, hoặc dẫu sao là sự kỳ quặc lạ lùng khi bất chợt diện kiến bóng hình Akiha xuất hiện ngay tại ngôi trường học tự thân này.`
+\
+bg #000000,lcartain,800
+bg "bg/bg_01b",lcartain,800
+` Tôi rời tòa nhà trường cùng Akiha.@
+` Khi chúng tôi đến cổng trường, tôi nhìn thấy Senpai vẫy tay với tôi.@
+ld c,"tachi/cel_t03",lshutter,800
+`"A, cuối cùng dẫu dã chịu cất bước tới rồi sao, Tohno-kun."@`
+`"Ơ, thưa Senpai?@ Chị đang làm trò gì mà đứng lủi thủi cô tịch ở cổng trường nhường này thế ạ?"@`
+ld c,"tachi/cel_t08",crossfade,400
+`"Trời đất ơi, chị đâu có đứng chơi bời cô tịch đâu cơ chứ, chị đang lẳng lặng đứng đợi Tohno-kun cất bước tới đấy, dẫu vậy dẫu dẫu[line=3]"`
+cl a,crossfade,400
+` Senpai lướt mắt nhìn Akiha bên cạnh tôi.@
+` Dường như, chỉ một cái nhìn thoáng qua, cô ấy nhận ra Akiha và tôi đang cùng nhau về nhà.
+\
+ld l,"tachi/cel_t03",crossfade,400
+`"Tohno-kun này, người con gái kề bên cậu đây dẫu dã là em gái ruột tự thân của cậu sao?"@`
+` Senpai ném một cái nhìn lướt qua Akiha.@
+ld r,"tachi/aki_t01a",crossfade,400
+`"... ..."@
+` Akiha không nói gì.@
+` Không ai nói gì, nhưng cả Senpai và Akiha đều truyền đạt bằng ánh mắt rằng họ muốn tôi giới thiệu họ với người này.@
+br
+` [line=4]"Ôi."@
+` Có vẻ như công việc này sẽ rất mệt mỏi.
+\
+`"Senpai, đây là em gái tôi, Akiha. Em ấy vừa chuyển đến trường chúng ta hôm nay."@
+` Akiha cúi đầu trước Senpai.@
+ld l,"tachi/cel_t01a",crossfade,400
+`"Chị chào em.@ Chị tên là Ciel, chị dẫu dã luôn là bạn học kề cạnh thân thiết của Tohno-kun đấy."@`
+ld l,"tachi/cel_t07a",crossfade,400
+ld r,"tachi/aki_t11a",crossfade,400
+` "Chuyện gì vậy?"@
+` Shiki và Akiha chỉ nhìn nhau, im lặng.
+\
+cl a,crossfade,400
+`"Senpai, giọng bạn như thể đang chờ đợi tôi... Từng chuyện gì đang xảy ra?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"[line=3]À, thực ra tôi chỉ muốn dành chút thời gian với bạn, nhưng
+ld c,"tachi/cel_t01a",crossfade,400
+` [line=3]vì hôm nay đã muộn, tôi sẽ để lại cho lần sau.@ Tạm biệt, Tohno-kun.@ Hẹn gặp lại bạn ngày mai nữa, Akiha-san."@
+`"Tạm biệt" - Senpai nói và rời đi khỏi chúng tôi.
+\
+cl a,lshutter,400
+`"[line=4]Ừm."@
+` Shiki để Senpai ra đi mà không cho cô ấy cơ hội ngăn cản.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Hãy về nhà, anh trai. Đêm sắp xuống rồi."@
+` Akiha nói như thể chẳng có gì xảy ra cả.
+\
+bg #000000,lcartain,800

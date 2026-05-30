@@ -1,0 +1,206 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_40f",notrans,0
+` …… Cánh cửa phòng chầm chậm mở ra.@
+` Đã quá muộn rồi.@ Ngay cả khi tôi có toan tiếng đuổi chị ấy đi, thì chị ấy cũng đã đặt chân bước hẳn vào bên trong phòng mất rồi.@
+br
+` [line=4]Thế nhưng dẫu vậy.@
+` bản thân tôi lúc này tuyệt đối không thể nào dung nạp nổi thức ăn bên ngoài.@
+` Việc dung nạp dinh dưỡng lúc này chắc chắn sẽ kích thích hệ thần kinh tôi quá đỗi dữ dội, và sẽ lập tức đập vỡ vụn phần nhân cách "Tohno Shiki" ít ỏi còn sót lại bên trong tôi thành trăm mảnh.
+\
+` …… *Hộc...*…… *hộc...*…… *hộc...*……
+br
+` Tôi thở dốc nặng nề dồn dập.@
+` Bằng mọi giá.@
+` Tôi bắt buộc phải kiên cường kháng cự lại thứ xung năng hung tàn ấy.
+\
+ld c,"tachi/koha_t02b",lshutter,800
+`"Cậu Shiki ơi, em vào đây ạ…… Ủ, Ủa, có chuyện gì xảy ra thế này?"@
+` Trên môi vẫn đọng lại nụ cười rạng rỡ thường ngày, chị ấy bàng hoàng nhìn xoáy vào đống đổ nát, hỗn độn xung quanh căn phòng.
+\
+` …… *Hộc...*…… *hộc...*…… *hộc...*……
+br
+` Gương mặt thanh tú dễ thương của chị ấy tuyệt nhiên không hề đọng lại chút vẻ khiếp nhược nào.@
+` Dáng hình hoàn toàn lơ là mất cảnh giác, không một chút phòng bị của chị ấy hiện diện trước mắt tôi.@ Làn tóc đỏ óng ả ấy[line=4]và cả làn da trắng ngần trông vô cùng quyến rũ kia nữa.
+\
+`"Cậu Shiki……?@ Lạ quá đi, sao đồ đạc lại đổ vỡ lung tung thế này ạ?"@
+` Vẫn nở nụ cười dịu dàng trên môi, chị ấy chậm rãi tiến lại gần chiếc giường nơi tôi đang nằm co rúm run rẩy.@
+cl c,lshutter,800
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` [line=17]Mau lên đi.@
+wave se_01
+` Không.@
+` [line=14]Nhanh lên đi.@
+wave se_01
+`    Không.@
+` [line=11]Mau lên.@
+wave se_01
+`       Dừng lại đi.@
+` [line=8]Nhanh lên.@
+wave se_01
+`         Câm miệng đi.@
+` [line=6]Nhanh lên nào.@
+wave se_01
+`            Tôi tuyệt đối không muốn làm thế.@
+` [line=2]Mau lên.@
+wave se_01
+`               Tôi.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=3]Chạy…… trốn mau đi."@
+` Using the very last vestiges of my will, I manage to let those words out.
+\
+ld c,"tachi/koha_t02b",crossfade,400
+`"Dạ?@ Xin lỗi cậu Shiki, em nghe không rõ lắm, cậu có thể vui lòng nói lại được không ạ?"@
+` Thế nhưng hành động lo lắng ấy bộc phát lại càng dồn tôi vào bước đường cùng phản tác dụng.@
+` Ôm lòng lo lắng sốt sắng, chị ấy lại nhích lại sát kề chiếc giường của tôi hơn.@
+` Hướng về phía/HƯỚNG VỀ PHÍA,
+!w1000
+` thân xác tôi/THỂ XÁC TÔI,
+!w1000
+` gương mặt cậu ấy/DÁNG HÌNH CẬU ẤY,
+!w1000
+` sát kề ghé lại/DẪN DỤ TÔI
+!w1000
+` tiến sát vào.
+\
+waveloop se_02
+` Đôi ngón tay trắng ngần thanh mảnh của chị ấy khẽ chạm nhẹ vào vai tôi.@
+` Những đầu ngón tay mềm mại đang không ngừng đập rộn nhịp đập của mạch máu.@
+` Luồng hơi ấm dịu dàng phả ra từ cơ thể chị ấy.@
+` Từng chùm pháo hoa nhỏ bỗng chốc phát nổ kinh hoàng ngay sau gáy tôi, cướp đoạt trọn vẹn lý trí.
+\
+bg #000000,lshutter,800
+`"Á[line=4]!"@
+` Tôi nghe thấy một tiếng thét thất thanh chói tai.@
+` Bàn tay tàn bạo của tôi đã bóp chặt khóa ngang cổ họng chị ấy từ thuở nào.
+\
+`"[line=3][line=4]Hộc…… hộc, hộc, hộc"@
+` Nhịp thở dồn dập của tôi đã hoàn toàn mất đi sự kiểm soát.@
+` Bản thân.@ tôi.@ đang định.@ làm cái gì thế này?
+\
+`"Cậu…… Shiki, sa[line=3]"@
+` Giọng nói của chị ấy đột ngột nghẹn ứ cắt đứt.@
+` Bất chấp tất cả vứt bỏ lý trí, bàn tay tôi lại càng dùng lực siết chặt hơn nữa.@
+` Siết chặt.@
+` Phần xương cổ mảnh khảnh của chị ấy bắt đầu phát ra những tiếng răng rắc khô khốc chịu lực dữ dội.
+\
+`"Dừ, ng[line=3]!"@
+` Một tiếng vải rách sột soạt nhỏ vang lên.@
+` Đôi ngón tay của chị ấy điên cuồng cào cấu bấu chặt lấy cánh tay tôi.@
+bg "bg/ima_13",crossfade,800
+` Đứng trước ranh giới mỏng manh giữa sự sống và cái chết chí mạng, chị ấy chắc chắn đã lâm vào trạng thái hoảng loạn tột độ.@
+` Đôi móng tay của chị ấy đâm xuyên qua lớp vải áo, cắm ngập thọc sâu vào da thịt bắp tay tôi để cố giãy giụa.
+\
+`"Á[line=4]ực."@
+` Cơn đau nhức dội lên.@
+` Thế nhưng dẫu vậy, nỗi đau nhức buốt ấy làm sao có thể so sánh nổi với cơn đau đớn tột cùng mà chị Kohaku đang phải hứng chịu lúc này.@
+` Dòng máu tươi tuôn trào.@
+` Dòng máu đỏ chảy dọc từ bắp tay tôi, loang lổ ướt đẫm cả bàn tay đang điên cuồng siết chặt lấy cổ họng chị Kohaku.
+\
+`"Ha[line=4]ha."@
+` Nhuộm một sắc đỏ thẫm rợn người.@
+` Vùng cổ trắng ngần bất lực không thể kháng cự của chị ấy giờ đây đầm đìa những vệt máu tươi tuôn xối xả.@
+` Bản thân tôi lúc này gần như không còn cảm nhận rõ nét về sự hiện diện của chị ấy nữa.@
+` Độc nhất ý niệm tàn bạo rằng chỉ vài tích tắc nữa thôi chị ấy sẽ phải bỏ mạng tàn khốc,
+\
+`"Haha[line=5]ha."@
+` lại mang đến cho tôi một thứ khoái cảm điên rồ nực cười đến độ tôi bất giác bật cười thành tiếng man dại.@ Thực chất còn chưa đầy một phút trôi qua kể từ khi tôi thẳng tay bóp chặt lấy cổ họng chị ấy.@
+` Chị ấy tuyệt đối sẽ không chết vì ngạt thở đơn thuần.@
+` Mà chính là bỏ mạng dưới tay tôi, bởi phần xương cổ bị nghiền nát dữ dội.
+\
+`"Ha, haa, ha."@
+` Chẳng vì một cớ gì cả, đột ngột bộc phát.
+\
+`"Hahaha, ha[line=3]ha, ha, ha."@
+` Hệt như chuyển động vô tri của một cỗ máy tự động cơ học đơn thuần.
+\
+`"Ahahahahahahahahahahahaha!"@
+` Chị ấy chắc chắn sẽ phải lìa đời khi toàn bộ xương cổ bị bóp gãy lìa hoàn toàn.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40c",crossfade,800
+wavestop
+` Chỉ trong một cái chớp mắt định mệnh,
+` hệt như vừa được giải thoát khỏi sự trói buộc tàn độc của quỷ dữ, luồng nhiệt độ cuồng bạo nóng ran bỗng chốc tan biến sạch sẽ.@
+br
+` Hiện diện sờ sờ ngay trước mắt tôi bấy giờ chính là thân ảnh đầm đìa máu tươi của chị Kohaku.@
+` Bàn tay tàn bạo của tôi vẫn đang bóp chặt lấy cổ chị ấy và chỉ vài tích tắc nữa thôi[line=4]
+br
+`"[line=6]!"@
+` Tôi hoảng loạn giật mình buông lỏng tay ra ngay lập tức.
+\
+` Tuyệt đối im lìm không một tiếng động xé gió,
+br
+` thân thể chị Kohaku đổ ập xuống sàn nhà lạnh lẽo hệt như một con búp bê đứt dây.
+\
+`"Ư... hự[line=4]"@
+` Chị Kohaku nhắm chặt hai mắt, hơi thở đứt quãng đau đớn.@ "Chị Kohaku[line=4]"@
+` …… Chị ấy vẫn còn sống.@
+` Chỉ một chút nữa thôi.@ Nếu vừa nãy tôi còn tiếp tục thêm một chút nữa, thì tôi đã[line=4]
+\
+eroskip 3
+`"Ư... ư, ư...………"@
+` …… Chị ấy đang khóc.@
+` Nằm rệu rã trên sàn nhà lạnh lẽo, hoàn toàn bất động không thể nhúc nhích, chị ấy vẫn đang không ngừng khóc nấc lên.@
+` Tôi cúi đầu nhìn xuống.@
+` Tấm áo kimono của chị ấy giờ đây đã bị nhuốm bẩn bởi một lớp chất dịch màu trắng sữa.@
+br
+` Thứ đó... chính là tinh dịch của tôi.@
+` Bằng cách làm ra thứ hành vi đồi bại nhơ nhuốc ấy, tôi[line=4]đã phần nào được giải thoát khỏi thứ xung năng cuồng bạo quái ác đang ngùn ngụt ngự trị bên trong mình chăng?
+\
+`"[line=5]Ha."@
+` Tôi tuyệt đối không cách nào dung thứ nổi cho bản thân.@
+` Trong khi một bàn tay đang tàn nhẫn siết chặt lấy cổ họng chị Kohaku, thì bàn tay còn lại của tôi[line=4]lại đang say sưa đắm chìm trong khoái cảm nhục dục điên cuồng đi kèm với ý niệm sát hại một mạng người hay sao?@
+br
+` [line=4]*Thình thịch*.@
+br
+` Nhưng chuyện này vẫn chưa hề kết thúc.
+\
+` Nơi hạ bộ của tôi vẫn đang cương cứng kịch liệt, và hơn thế nữa, bản thân tôi hoàn toàn không hề cảm nhận thấy bất kỳ sự thỏa mãn chân thật nào.
+\
+` Cổ họng tôi... thèm khát cháy bỏng đến điên người.@
+` Dẫu cho tôi[line=3]vừa mới nhẫn tâm gây ra thứ tội ác man rợ tột cùng này với chị Kohaku, thế nhưng sự việc dường như vẫn chưa chịu dừng lại ở đó.@
+` Sự thật tàn khốc là, ngay cả khi đang trố mắt nhìn vào vết siết đỏ tấy trên cổ chị Kohaku, niềm hối hận ít ỏi vừa mới nhen nhóm trong lòng tôi lại đang chầm chậm tiêu biến đi mất.@
+br
+` Chiếc cổ trắng ngần quyến rũ ấy.@
+` Cắm ngập răng vào nơi yết hầu ấy và.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=5]Tôi thực sự muốn... được ngấu nghiến hút cạn dòng máu của chị ấy.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=4]Haha."@
+` Bản ngã của tôi... đã vỡ vụn mất rồi.@
+br
+`"Aha, ahaha."@
+` Tôi thực sự đã sụp đổ hoàn toàn rồi.@
+br
+` Chấm hết thật rồi.@
+` Tôi tuyệt đối không còn[line=3]một chút tự tin hay bản lĩnh nào để có thể tiếp tục giữ vững nổi lý trí của mình nữa.
+\
+`"Ahaha, hahaha, ha."@
+` Phải chạy thoát ra ngoài thôi.@
+` Tôi bắt buộc phải chạy ngay ra khỏi căn phòng này.@
+` Nếu còn tiếp tục nán lại đây thêm một giây nào nữa, tôi chắc chắn sẽ tự tay tước đoạt mạng sống của chị Kohaku mất.@
+` Nếu cứ ở lại trong tòa gia trang này,@ tôi sẽ tàn sát cả Akiha lẫn Hisui mà không cách nào tự kiểm soát nổi.@
+` Thế nên, trước khi thứ ham muốn khát máu hung tàn ấy trỗi dậy thiêu rụi lý trí thêm lần nữa, tôi bắt buộc phải lập tức biến mất.
+\
+`"Ahahahahahaha!"@
+br
+` Phải đến một nơi không một bóng người.@
+` Tôi phải điên cuồng lẩn trốn đến một nơi hoang vắng tuyệt đối, bằng không bản thân chắc chắn sẽ lại lâm vào cảnh điên cuồng khát máu tàn độc[line=4]
+\
+bg #000000,crossfade,1500
+!w1000

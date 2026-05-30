@@ -1,0 +1,104 @@
+Giai đoạn "bg/bg_47", l, Ark, 07a, 7
+bg "bg/cmo_05",crossfade,800
+` Trước kia, toàn bộ căn biệt thự giống như một sân chơi khổng lồ.@
+br
+` Vườn tược sâu thẳm như rừng rậm.@
+` Nhà cửa cao chọc trời, tựa như lâu đài.@
+br
+` Chúng tôi vui đùa trong thế giới nhỏ bé của mình, nơi có thể mất nhiều ngày để khám phá.
+\
+` Mỗi ngày đều vui vẻ.@
+` Không ai nghĩ về việc trưởng thành,
+` và chúng tôi tin rằng ngày đêm sẽ luôn như vậy mãi.@
+br
+` Nó chỉ là một thời thơ ấu dành cho những trò chơi như những chú chó con.@
+` Chúng tôi hòa hợp tuyệt vời và là những người bạn chơi tốt nhất.
+\
+` Mỗi khi tôi quay lại, Akiha sẽ ở đó, vẫy tay và rụt rè giấu mặt.@
+` Vâng, luôn như vậy.
+\
+` Vào thời điểm đó, lâu đài là một sân chơi khổng lồ.@
+br
+` Vườn, một khu rừng sâu thẳm.@
+` Nhà, một lâu đài cao chọc trời.@
+br
+` Chúng tôi chơi trong thế giới nhỏ bé của mình, nơi có thể mất nhiều ngày để khám phá.
+\
+bg #ffffff,crossfade,800
+` Tôi từ từ thức giấc và mở mắt.@
+` Ánh sáng buổi sáng bao trùm lấy tôi, và cảm giác buồn ngủ bắt đầu tan biến.@
+br
+` Khi những dấu vết cuối cùng biến mất,
+` Tôi nhận ra mình vừa có một giấc mơ rất hoài niệm.@
+bg "bg/bg_40e",crossfade,800
+`"[line=7]"@
+` Ngay khi mở mắt, tôi lại nhìn thấy những hình ảnh đáng sợ nhảy vào tầm nhìn của tôi.@
+` Đầu tôi như bị đâm đau.@
+`"Gg[line=4]"@
+` Tôi vội vã tìm cặp kính bên gối và đeo chúng lên.
+\
+bg "bg/bg_40a",lshutter,800
+play "*2"
+` Tôi hít một hơi khí trong lành.@
+` Sau vài lần thở sâu, tôi cuối cùng cũng bình tĩnh lại.@
+`"[line=4]Tại sao tôi lại thức sớm như vậy..."@
+` "Có thể nhìn rõ những đường nét như thế này vào buổi sáng sớm?"@
+` Khó có thể nhìn thấy những đường nét của cái chết trên các tòa nhà.@
+` Thông thường, việc quan sát chúng cũng khó khăn, và việc nhìn thấy chúng rõ ràng như vừa rồi là điều hiếm gặp.@
+`"... "@
+` Thêm vào đó, tôi thậm chí còn nhìn thấy những "điểm" đó.@
+` Tôi nghĩ cơn đau đầu của tôi cũng đang trở nên tồi tệ hơn.
+\
+` Thầy nói rằng đôi mắt này sẽ thu hút những thứ không tốt.@
+` Tôi nghĩ Arcueid và những kẻ ma cà rồng này chắc chắn không tốt.@
+` Vậy nên, có lẽ tất cả đều ảnh hưởng đến đôi mắt tôi và khiến chúng mạnh mẽ hơn.@
+br
+`"[line=4]Không thể."@
+` Có lẽ tôi chỉ mệt mỏi thôi.
+\
+`"Huh[line=4]?"@
+` Shiki nghĩ thầm, Hisui không có mặt.@
+` Đã qua bảy giờ rồi.@
+` Theo thường lệ, cô ấy đã đến và đánh thức tôi từ lâu.@
+br
+`"... Có lẽ Hisui ngủ quên."@
+` Nhưng tôi nhìn thấy bộ đồng phục mới của mình trên bàn.@
+`"Làm gì thế này? Có lẽ cô ấy có nhiệm vụ khác."@
+` Tôi tò mò một chút, nhưng có lẽ điều đó không liên quan đến tôi.@
+` Sáng nay tôi không có nhiều thời gian, nên tôi phải vội vàng thay đồ và đến phòng khách.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+playstop
+`"[line=6]Ôi."@
+` Khi tôi đi từ sảnh vào phòng khách, tôi nhận ra mình đã quên một điều vô cùng quan trọng.@
+` Tôi mở cửa và đứng đó, không tiến lên bước nào.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+` Akiha đang ở trong phòng khách.@
+` Kohaku-san gần đó, hai người họ đang uống trà thầm lặng.@
+cl c,crossfade,400
+br
+` Thông thường cô ấy sẽ nói:
+`"Chào buổi sáng, anh trai,"@
+` dù có giận dỗi đến đâu, nhưng hôm nay cô ấy thậm chí còn không nhìn tôi.@
+`"Ừm...... ừ."@
+` Điều đó là hiển nhiên.@
+` Đến thăm đêm qua, Arcueid để lại những hậu quả lâu dài.
+\
+` Sự khó chịu của Akiha lan tỏa khắp không khí. Bạn có thể cắt căng thẳng bằng dao.@
+br
+play "*2"
+ld c,"tachi/koha_t01a",lshutter,400
+`"Chào buổi sáng, Shiki-san."@
+` Vậy là, cô ấy dường như vẫn chưa bị ảnh hưởng, ít nhất là cho đến lúc này.@
+`"Ừm... vâng, chào buổi sáng Kohaku-san."@
+` Nâng tay lên Kohaku-san, tôi bước vào phòng khách.@
+cl c,crossfade,400
+\
+ld c,"tachi/aki_t03a",crossfade,400
+` Akiha nhìn tôi với ánh mắt sắc lạnh khi tôi bước vào phòng khách.@
+br
+` [line=3]Trời ơi, tôi không thể khuất phục áp lực im lặng này!@
+br
+cl c,crossfade,400

@@ -1,0 +1,25 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25a",lcartain,800
+ld c,"tachi/ark_t03",crossfade,400
+` …… Ừm?@
+` Khi chúng tôi bước ra khỏi con hẻm nhỏ, cô[line=2]Arcueid[line=2] nhíu mày và nhìn tôi với ánh mắt nghi ngờ.@
+ld c,"tachi/ark_t06",crossfade,400
+` Này, Shiki. Bạn có phải là Kitô hữu không?@
+br
+` Tôi không biết cô ấy đang nói về điều gì.@
+` "Chris-chan…?@ Tại sao lại hỏi như vậy đột ngột?@ Tôi không biết ai tên là Chris đâu."
+\
+ld c,"tachi/ark_t03",crossfade,400
+` "Tôi hiểu rồi. Như vậy tôi chắc đã hiểu sai.@
+` Sau khi dường như đã đưa ra quyết định, cô quay về phía khu vực văn phòng.@
+ld c,"tachi/ark_t01a",crossfade,400
+` "Được rồi, chúng ta đi. Chúng ta phải tìm một nơi an toàn bây giờ."@
+` Arcueid bắt đầu đi.@
+` [line=4] Được.@
+br
+` Tôi không thể rút lui được nữa.@
+` Thở dài, tôi theo sau cô ấy.
+\
+bg #000000,lcartain,800

@@ -1,0 +1,39 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_19d",notrans,0
+` Arcueid đâu có vẻ chịu thua đâu.`@
+` “...... Được rồi. Trả lại cho tôi khi đã xem xong.”`@
+bg "bg/bg_19d",crossfade,400
+monocro #ff00ff
+` Tôi đưa cô ấy cặp kính của tôi.`@
+` Arcueid nhìn chằm chằm vào chiếc kính rồi liếc tôi với ánh mắt đáng sợ.
+\
+ld c,"tachi/ark_t07",crossfade,400
+` Shiki, người làm cái kính này ở thành phố này bây giờ là ai?`@
+` Tôi nghĩ cô ấy không ở đây.` `Bảy tám năm rồi mà, dường như chỉ mới một tuần thôi.`@
+` [line=2]"Tôi thấy đấy. Ừm, tốt vậy. Tôi không phải đối mặt với thêm... thật ra, có lẽ an toàn hơn là không nên chạm vào chuyện của Blue từ đầu."`@
+` Arcueid trầm tư.
+\
+` "Arcueid, cậu biết thầy giáo,[line=2]tức là người làm cái kính này?"@
+` “…… Tôi biết cô ấy. Một phù thủy, cô là một trong bốn người duy nhất như vậy. Kính của cô thật sự là kiệt tác. Ngay cả tôi cũng không thể phá được.”`@
+` Mặt Arcueid trở nên nghiêm túc hơn.`
+\
+` “………… Chờ một chút[line=2] cậu định đập chúng?”@
+ld c,"tachi/ark_t12",crossfade,400
+` [line=4]"A? Tôi... tôi có nói phần đó ra to à?"@
+` “...... Tôi biết rồi. Cậu sẽ phá chúng sau cùng.”`@
+` Tôi lấy lại kính của Arcueid.@
+monocro off
+bg "bg/bg_19d",crossfade,400
+\
+` "Ờ, cậu nói tôi không thể bình thường mà thiếu kính. Hay là muốn tôi điên lên?"@
+ld c,"tachi/ark_t11",crossfade,400
+` Không phải là ý tôi muốn nói. Tôi chỉ không thích cách bạn trân trọng chúng quá nhiều.@
+` [line=2]Ê, nghe này, cậu…@
+cl c,crossfade,800
+br
+` …… Chết tiệt. Ai đó, hãy giải thích cho tôi làm thế nào một tâm trí như vậy hoạt động.@
+br
+` Đúng là những kỷ niệm về Sensei rất quý giá với tôi.@ Nhưng quan trọng hơn, tôi không thể sống thiếu chúng.@ Nếu tôi phải nhìn thấy những đường kẻ đó suốt 24 giờ một ngày, tôi nghĩ tôi sẽ chết vì đau đầu trước khi điên cuồng.
+\

@@ -1,0 +1,37 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",lcartain,800
+play "*1"
+` Lòng tôi bấy giờ vẫn trĩu nặng một cảm giác u sầu khó tả ngay cả khi giờ nghỉ trưa đã cận kề.@
+` Mặc dù tin tức giật gân về việc Yumizuka Satsuki đột ngột bỏ nhà ra đi gây xôn xao lớp học, thế nhưng có vẻ như chủ đề đó cũng chẳng thể duy trì sức nóng được lâu hơn.@
+` Không khí trong lớp học bấy giờ lại nhanh chóng trở lại nhịp sống ồn ào thường nhật, và tôi chợt nhận ra dường như chỉ có duy nhất bản thân mình là đang lo lắng đến phát điên vì sự vắng mặt của cô bạn học.
+\
+ld c,"tachi/ari_t01",lshutter,400
+`"Tohno này, đi ăn trưa cùng tôi đi cậu chủ."@
+`"Thôi, không cần đâu.@ Tôi thực sự không có hứng ăn lắm."@
+`"Hừm... Đành chịu vậy chứ biết sao giờ. @ Thôi thì cậu chớ có quá bận lòng suy nghĩ về chuyện cá nhân riêng tư của người khác làm gì cho mệt thân nhé."@
+cl a,lshutter,400
+`"……"@
+` "Chuyện riêng tư của người khác sao...?"@
+` Lời khuyên hờ hững của Arihiko bấy giờ quả thực quá gần với thực tế tàn nhẫn bấy giờ.
+\
+ld c,"tachi/cel_t01a",lshutter,400
+`"Ủa lạ chưa kìa? Tohno-kun hôm nay lại không đi ăn trưa cùng Inui-kun sao em?"@
+`"…… Senpai? Tại sao chị lại đột ngột xuất hiện ở phòng học của bọn em thế này?"@
+ld c,"tachi/cel_t09",crossfade,400
+`"À, tôi định ghé qua để rủ các cậu cùng đi dùng bữa trưa ấy mà... Ủa Tohno-kun, sao em lại ngồi thẫn thờ không chịu ăn uống gì thế kia?"@
+` Senpai khẽ kéo ghế ngồi xuống chiếc bàn học bên cạnh, dõi mắt nhìn tôi với vẻ mặt vô cùng lo lắng và ân cần.
+\
+`"Dạ không có gì đâu ạ, chỉ là hôm nay em thực sự hoàn toàn không có cảm giác thèm ăn chút nào cả chị ạ."@
+`"Ơ kìa... Thể xác em bấy giờ đang không khỏe ở đâu sao?"@
+`"... Chắc là vậy đấy chị ạ. Chị tuyệt đối chớ lo lắng bận lòng vì em nhé, hãy mau tranh thủ đi ăn trưa đi ạ. Arihiko chắc bấy giờ đã đi xuống nhà ăn từ lâu rồi đấy chị."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Trời đất ơi, trông em lúc này thực sự chẳng có chút sinh khí nào cả! Tôi chịu chẳng biết có chuyện gì tồi tệ vừa xảy ra với em, thế nhưng nếu em cứ bướng bỉnh không chịu nạp chút thức ăn nào vào người thì tình trạng sức khỏe suy nhược của em sẽ lại càng trở nên tồi tệ hơn gấp bội cho xem!"@
+`"Dạ em biết rõ điều đó chứ... Thế nhưng..."@
+` Vì dạ dày hoàn toàn không hề cảm nhận thấy dẫu chỉ một chút cảm giác đói bụng, tôi bấy giờ thực sự cũng chẳng biết phải làm thế nào.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Được rồi nhé! Quyết định thế đi, bấy giờ tôi sẽ dẫn em đến một địa điểm ăn trưa vô cùng đặc quyền và bí mật.@ Nơi đó thực chất là căn phòng cấm của tôi đấy, thế nhưng vì em là Tohno-kun vô cùng đặc biệt nên tôi mới phá lệ cho phép em bước chân vào đấy nhé."@
+cl a,lcartain,800
+` Với lời nói đó, cô ấy nắm lấy cánh tay tôi và kéo tôi ra khỏi chiếc ghế.
+\

@@ -1,0 +1,125 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` …… Đúng vậy, em ấy thực sự đã luôn tận tình lo lắng chăm sóc cho sức khỏe của tôi suốt từ ngày hôm qua đến giờ rồi. Thế nên dẫu bấy giờ bản thân có thời gian rảnh rỗi lười nhác đi chăng nữa, tôi thiết nghĩ mình nên ra ngoài đi tìm để giúp đỡ Kohaku-san một tay.@
+`"Tôi đoán bấy giờ Kohaku-san chắc hẳn đang bận rộn quét lá rụng ngoài sân vườn rộng lớn phía sau biệt thự thì phải."@
+` Nếu chỉ đơn giản là công việc quét lá rụng dọn dẹp sân vườn thông thường thì dứt khoát một kẻ tay chân vụng về như tôi vẫn hoàn toàn có thể giúp ích được đôi chút.@
+` Tôi khẽ chấn chỉnh lại tinh thần đầy sảng khoái rồi sải bước nhanh chân đi về phía khu vườn sau.
+\
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+play "*3"
+ld c,"tachi/koha_t06",lshutter,800
+`"Ơ kìa! Chào mừng cậu chủ Shiki đã trở về nhà ạ!"@
+` Kohaku-san ngoảnh mặt nhìn tôi rồi rạng rỡ nở một nụ cười vô cùng dịu dàng, ấm áp thường ngày.@
+`"Chào em nhé Kohaku-san. Em đang tự mình một mình dọn dẹp đống lá rụng ngoài khu vườn khổng lồ này sao?"@
+`"Dạ đúng thế thưa cậu chủ. Bác làm vườn bấy giờ phải xin nghỉ phép vắng mặt trong vòng ba ngày tới cơ ạ, thế nên em nghĩ bản thân nên tranh thủ quét dọn đống lá khô rụng đầy sân vườn này cho sạch đẹp ạ."@
+` Kohaku-san đôi tay khẽ ôm chặt chiếc chổi tre lớn bằng cả hai tay, gương mặt rạng rỡ của em ấy bấy giờ trông thực sự vô cùng hào hứng hệt như đang được tận hưởng một trò chơi vô cùng thú vị vậy.@
+` Việc một mình đơn độc gồng sức dọn dẹp toàn bộ khoảng sân vườn khổng lồ rộng lớn này dứt khoát tuyệt đối chẳng phải là một công việc nhẹ nhàng, dễ chịu chút nào cả.
+\
+`"Kohaku-san thực sự quả là một cô bé kiên cường và mạnh mẽ đấy nhé. Nếu bắt tôi phải một mình quét dọn toàn bộ khoảng sân vườn khổng lồ này thì dứt khoát tôi sẽ lập tức cất lời than thở mỏi mệt ngay cho mà xem."@
+`"Dạ hoàn toàn không phải thế đâu ạ thưa cậu chủ Shiki. Đây vốn dĩ là bổn phận, là sứ mệnh của em mà, thế nên em bắt buộc phải chăm chỉ làm lụng cật lực thì mới có cơm ăn áo mặc để sinh tồn chứ ạ. Chính vì thế nên lúc này em mới đang phải nén chặt những giọt nước mắt u sầu để cật lực quét dọn đống lá khô này đây cơ đấy thưa cậu chủ. Hihi!"@
+` Dứt lời xong xuôi, Kohaku-san khẽ khúc khích cười lớn vô cùng thoải mái và rạng rỡ.@
+` Em ấy dứt khoát quả thực lúc nào cũng tràn ngập sự tươi vui, hoạt bát hệt như một đứa trẻ nhỏ vậy.
+\
+`"À dạ ngoài ra, bình thường em vẫn tự tay trồng trọt và chăm sóc một vài luống hoa xinh xắn ở phía sân sau biệt thự, thế nên những lúc rảnh rỗi em thường tranh thủ ghé qua đây để kiểm tra, chăm sóc khu vườn luôn ạ."@
+`"Ồ...? Em tự tay trồng hoa sao? Đó là những loại hoa xinh xắn như thế nào thế em?"@
+`"Dạ, để xem nào... Ngay từ thuở thơ bé em đã vốn dĩ vô cùng đam mê trồng trọt các loài hoa cỏ rồi ạ. Suốt thời gian qua em đã tự ý thu thập quá nhiều loại hoa cỏ theo sở thích cá nhân, đến mức biến khu vườn sau bấy giờ trông thực sự giống hệt như một cánh rừng rậm hoang dã hơn là một luống hoa thường nhật mất rồi ạ."
+\
+cl c,crossfade,400
+` Kohaku-san lại khẽ nở một nụ cười rạng rỡ đầy tươi tắn.@
+` ... Chi tiết thú vị này tôi quả thực hoàn toàn chưa từng được nghe qua bao giờ cả. Vì bản thân hiếm khi đặt chân tới khu vực này nên tôi hoàn toàn không hề hay biết, thế nhưng ký ức mập mờ mách bảo hình như tôi từng nhìn thấy một vườn hoa sặc sỡ sắc màu rực rỡ từ cửa sổ tầng hai thì phải.
+\
+`"Tôi hiểu rõ rồi. Hóa ra Kohaku-san là một cô bé vô cùng yêu thích trồng hoa cỏ nhỉ? Vậy loài hoa chủ đạo em trồng ngoài đó bấy giờ là hoa gì thế em?"@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Dạ, em trồng rất nhiều loài hoa khác nhau ạ. Thế nhưng phần lớn diện tích luống hoa bấy giờ đều được gieo trồng loài hoa cà độc dược hoàng hôn đấy ạ thưa cậu chủ."@
+`"Ồ, hoa cà độc dược hoàng hôn sao? Một lựa chọn loài hoa vô cùng thanh lịch và có gu đấy chứ em."@
+`"Dạ thật vậy sao ạ thưa cậu chủ? Em bấy giờ thực chất vẫn luôn thầm nghĩ sắc màu ma mị của loài hoa đó hoàn toàn không mấy phù hợp với bầu không khí u ám, cổ kính của căn biệt thự này chút nào..."@
+`"Hoàn toàn không phải thế đâu em. Ý tôi muốn nói ở đây chính là sắc màu của loài hoa đó thực sự vô cùng phù hợp và tôn lên khí chất của em đấy, Kohaku-san. Loài hoa cà độc dược hoàng hôn đó thực chất sở hữu một vẻ đẹp vô cùng lộng lẫy và quyến rũ nằm ngay chính trong sự mộc mạc, giản dị của nó."
+\
+ld c,"tachi/koha_t18",crossfade,400
+`"Dạ thưa cậu chủ Shiki, em nghĩ cậu chủ bấy giờ đang có một sự hiểu lầm vô cùng tai hại về loài hoa đó rồi ạ. Loài hoa cà độc dược hoàng hôn em trồng ngoài vườn sau thực chất chính là giống cà độc dược Hàn Quốc cổ xưa cơ ạ. Chúng thực sự là một loài hoa vô cùng nguy hiểm đấy ạ."@
+` Kohaku-san khẽ khúc khích cười lớn hệt như vừa được diện kiến một câu chuyện vô cùng hài hước và ngộ nghĩnh vậy.@
+`"Ủa thật thế sao em? Nhưng cà độc dược Hàn Quốc thì xét cho cùng vẫn là hoa cà độc dược mà em?"
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Dạ đúng vậy ạ. Loài hoa đó trong dân gian còn được biết đến rộng rãi với cái tên cà tím điên loạn đấy thưa cậu chủ. Toàn bộ các bộ phận của loài hoa này đều chứa nồng độ độc tố cực mạnh có khả năng điều chế thành chất gây mê cực kỳ nguy hiểm. Phương thuốc gây mê toàn phần đầu tiên trên thế giới mang tên Tsuusensan cổ xưa thực chất chính là do người Nhật Bản phát minh ra bằng cách chiết xuất hoạt chất độc tố từ chính loài hoa cà độc dược Hàn Quốc này đấy ạ. Nếu vô tình uống phải dẫu chỉ một lượng cực nhỏ, nó sẽ lập tức tàn phá đại não gây ra những cơn ảo giác vô cùng điên loạn và nguy hiểm tính mạng, thế nên cậu chủ Shiki làm ơn hãy tuyệt đối cẩn thận chớ có táy máy nhé."@
+br
+` "... Ừm, tôi tự hứa với lòng dứt khoát tuyệt đối không bao giờ ngu ngốc đi \'vô tình uống nhầm\' độc dược từ loài hoa đó đâu em, Kohaku-san ạ."
+\
+`"Dạ em vốn dĩ cũng vô cùng khao khát được gieo trồng thêm một vài loài cây xương rồng gai góc cùng những loài hoa cỏ nhỏ nhắn đáng yêu khác ngoài vườn sau nữa cơ, thế nhưng tiểu thư Akiha bấy giờ lại kiên quyết phản đối kịch liệt nên em bắt buộc phải từ bỏ ý định đó đấy ạ. Thật đáng tiếc quá đi mất, em trót cất lời buôn chuyện kể lể dông dài nãy giờ với cậu chủ thế mà lại hoàn toàn bất lực không thể dẫn cậu chủ đi ngắm nhìn vườn hoa đó bấy giờ được rồi ạ."@
+cl c,crossfade,400
+` Nói lời ái ngại xong xuôi, Kohaku-san lại tiếp tục vui vẻ vung chổi tre quét dọn lá khô.@
+`"... Tôi hiểu rồi. Hóa ra việc em quét dọn sân vườn bấy giờ phần lớn là vì niềm đam mê yêu thích hoa cỏ ngoài sân sau đúng không em?"@
+ld c,"tachi/koha_t06",crossfade,400
+`"Dạ hoàn toàn không phải vì lý do lãng mạn đó đâu thưa cậu chủ. Thực chất sự thật là bản thân em vô cùng vụng về nên cực kỳ tệ hại trong công việc dọn dẹp vệ sinh bên trong căn biệt thự kiểu phương Tây này đấy ạ. Em chịu chẳng biết tại sao nữa, nhưng mỗi khi em cầm đồ dọn dẹp bước vào phòng ngủ là kiểu gì em cũng vô tình làm đổ vỡ hoặc rách nát món đồ cổ đắt tiền và quý giá nhất trong căn phòng đó cho bằng được mới chịu thôi cơ ạ."
+\
+`"Hả!? Sao cơ em?"@
+`"Dạ đúng thế đấy ạ. Em dứt khoát toàn vô ý làm đổ vỡ hoặc rách nát món đồ quý giá nhất phòng thôi thưa cậu chủ. Thế nhưng em thề quyết đó hoàn toàn chỉ là những tai nạn ngoài ý muốn chứ em tuyệt đối đâu có cố tình làm thế đâu cơ chứ, đúng không ạ? Ấy vậy mà Hisui-chan lại nhẫn tâm bảo em rằng: \'Chị Kohaku à, tốt nhất kể từ bây giờ chị làm ơn chỉ cần tập trung toàn bộ tâm trí vào việc nấu nướng món ăn và quản lý sổ sách chi tiêu tài chính gia đình thôi là em đã biết ơn chị lắm rồi ạ\'. Em ấy thực sự hành xử quá mức tàn nhẫn với người chị ruột này rồi cơ chứ lị!"@
+` Kohaku-san khẽ chu đôi môi nhỏ nhắn phàn nặn đầy dỗi hờn, thế nhưng gương mặt em ấy bấy giờ vẫn ngập tràn một nụ cười rạng rỡ tươi tắn.@
+` [line=4]Thế nhưng những lời thú nhận thật thà đầy ngộ nghĩnh này thực sự hoàn toàn trái ngược lại với ấn tượng đoan trang, dịu dàng ban đầu của tôi về em ấy.
+\
+`"... Tôi chịu chẳng biết phải nói sao nữa... Nhưng Kohaku-san này, em đừng nói với tôi em thực chất là một cô bé vô cùng hậu đậu và vụng về đấy nhé?"@
+` Lời cất lên của tôi bấy giờ trông giống hệt như một câu lẩm bẩm buột miệng hơn là một câu hỏi thăm trực diện.@
+` Kohaku-san khẽ thở dài thườn thượt tỏ vẻ vô cùng thất vọng u sầu.@
+`"Ơ kìa, ngay cả cậu chủ Shiki cũng nhẫn tâm cất lời chọc ghẹo em hệt như họ sao ạ? Hisui-chan thì lúc nào cũng lạnh lùng mắng mỏ em là: \'Chị Kohaku lúc nào cũng chậm chạp và lúng túng phát ghét đi được ấy\', còn tiểu thư Akiha thì lại không ngừng trêu chọc em kiểu: \'Em hành sự thực sự hoàn toàn chưa đủ độ cẩn thận tỉ mỉ đâu đấy nhé\'."@
+` "Nhưng em dứt khoát đâu có cố tình muốn làm đổ vỡ đồ đạc đâu cơ chứ! Họ thực sự quả là những con người vô cùng độc ác và nhẫn tâm với em!"@
+`"... Đúng thế thật. Trên cõi đời này làm gì có ai lại dại dột đi cố tình phạm lỗi bao giờ đâu em."@
+` Bản thân tôi bấy giờ thực sự chịu chẳng biết phải cất lời an ủi em ấy thế nào cho phải phép, thế nên đành lựa chọn giữ một thái độ trung lập để trò chuyện.
+\
+`"Cậu chủ thấy đúng như vậy cơ mà! Thế nên theo cảm quan của em thì ý định chân thành ban đầu mới là thứ tối quan trọng nhất, vì thế dẫu cho em có vô ý phạm lỗi mười lần hay hai mươi lần đi chăng nữa thì họ dứt khoát cũng nên vui vẻ bao dung bỏ qua cho em mới là hợp tình hợp lý chứ lị!"@
+cl c,crossfade,400
+` Nói lời bướng bỉnh đầy đáng yêu xong xuôi, Kohaku-san lại nhanh nhảu vung chổi tre tiếp tục công việc quét dọn đống lá khô của mình.@
+` [line=3]Thôi được rồi, tôi ghé qua đây dứt khoát tuyệt đối không phải là vì muốn đứng làm kỳ đà cản mũi cản trở công việc dọn dẹp của em ấy.
+\
+`"Kohaku-san này, trong nhà kho bấy giờ có còn chiếc chổi tre nào khác không em?"@
+ld c,"tachi/koha_t06",crossfade,400
+`"Dạ trong nhà kho của biệt thự vẫn còn rất nhiều chổi tre dự phòng đấy ạ. Thế nhưng cậu chủ Shiki bấy giờ đột ngột hỏi thăm món đồ đó để làm chuyện gì thế ạ?"@
+`"À không có gì đâu em, tôi chỉ nghĩ bản thân bấy giờ đang rảnh rỗi nên muốn cùng em quét dọn đống lá rụng này cho nhanh thôi mà."@
+` Cánh tay vung chổi tre của Kohaku-san bỗng chốc khựng lại phăng phắc.@
+ld c,"tachi/koha_t03",crossfade,400
+`"[line=4]Dạ cậu chủ Shiki tuyệt đối chớ làm điều đó ạ! Nếu cậu chủ thực sự tự tay quét dọn sân vườn thế này thì em bấy giờ dứt khoát sẽ gặp phải rắc rối vô cùng lớn đấy ạ thưa cậu chủ."@
+`"[line=4]Gặp rắc rối sao em? Rốt cuộc là ai có quyền hành sấm sét bắt lỗi khiến em gặp rắc rối thế chứ? Tôi đoán trên cõi đời này chắc chỉ có duy nhất một người có quyền năng tàn bạo đó thôi đúng không nào."@
+`"Dạ vâng, chính xác là như vậy đấy ạ."@
+` Kohaku-san khẽ gật đầu gật nhẹ xác nhận đầy vẻ sợ hãi ái ngại.
+\
+`"Thế thì em hãy cứ yên tâm kê cao gối mà ngủ đi nhé, đừng có lo lắng bận lòng quá nhiều làm gì. Việc tôi giúp em dọn dẹp hoàn toàn là do ý nguyện tự nguyện cá nhân của tôi cơ mà. Thế nên dẫu cho Akiha bấy giờ có không hài lòng đi chăng nữa thì em ấy dứt khoát cũng tuyệt đối không có quyền trách phạt em được. Nếu em ấy thực sự có lời phàn nàn gì thì cứ việc hướng thẳng vào đầu tôi mà trách mắng chứ trách phạt gì em đâu cơ chứ."@
+`"Ồ, cậu chủ cất lời bảo vệ em thật lòng như thế sao ạ?"@
+`"Đúng thế thật cơ mà! Vậy nên em hãy cứ yên tâm thả lỏng đi nhé. Vả lại dọn dẹp cùng nhau thế này chẳng phải sẽ vui vẻ và hiệu quả hơn gấp bội so với việc em phải lủi thủi làm một mình sao."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"... Dạ vâng. Thế nhưng cậu chủ Shiki bấy giờ dường như vẫn chưa thấu hiểu rõ tính cách của tiểu thư Akiha rồi ạ. Nếu cậu chủ thực sự giúp em dọn dẹp sân vườn thế này, tiểu thư chắc chắn sẽ nổi giận đùng đùng vì một lý do hoàn toàn khác biệt đấy ạ, em tin chắc là vậy luôn."@
+`"…… Tôi chịu chẳng hiểu nổi nữa, thế nhưng dường như dẫu cho tôi có làm bất kỳ chuyện gì đi nữa thì em ấy kiểu gì cũng tìm được lý do để nổi giận đùng đùng với tôi cho bằng được ấy nhỉ."
+\
+ld c,"tachi/koha_t18",crossfade,400
+`"Hihi, quả đúng là như vậy đấy ạ thưa cậu chủ.@ Thế nên xin cậu chủ làm ơn hãy vui lòng đừng bận lòng lo lắng về việc dọn dẹp này nữa nhé."@
+` Kohaku-san bấy giờ vẫn giữ nụ cười rạng rỡ thường trực trên môi, thản nhiên cất lời khuyên ngăn tôi.
+`"…… Ồ, ra là thế sao.@ Dẫu cho có chuyện gì xảy ra đi nữa thì Akiha dứt khoát vẫn sẽ trút giận lên đầu tôi thôi đúng không nào.@ Nếu đã như thế thì tôi dứt khoát tuyệt đối không muốn bản thân trở thành nguyên nhân gây ra rắc rối mệt mỏi cho em đâu.@ Xin lỗi em nhiều nhé, xem ra hành động bốc đồng của tôi lúc nãy thực sự có hơi vô tâm quá rồi."@
+`"Dạ hoàn toàn không phải thế đâu ạ thưa cậu chủ! Cậu chủ tuyệt đối chớ có nghĩ bản thân vô tâm nhé.@ Sâu trong lòng em thực sự vô cùng hạnh phúc và biết ơn khi thấy cậu chủ chân thành muốn dang tay giúp đỡ em đến nhường này đấy ạ."@
+` Dẫu cho em ấy có cất lời an ủi tôi bằng một nụ cười rạng rỡ, ấm áp đến nhường ấy đi chăng nữa, sâu trong thâm tâm tôi bấy giờ vẫn trào dâng một cảm giác vô cùng áy náy dằn vặt khi bản thân thực lòng muốn giúp đỡ em ấy dọn dẹp.
+br
+` Tôi bất lực buông xuôi một tiếng thở dài thườn thượt.@
+` Kohaku-san ngẩng cao đầu dõi mắt nhìn thẳng vào gương mặt ái ngại của tôi đầy tươi vui.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+`"Cậu chủ Shiki bấy giờ thực sự quả thực vô cùng muốn giúp đỡ em dọn dẹp sân vườn đến thế sao ạ?"@
+`"Đúng thế thật cơ mà, miễn là hành động giúp đỡ của tôi không vô tình mang lại phiền phức hay rắc rối lớn cho em..."@
+`"Dạ vậy thì hai chúng ta lén lút di chuyển sang địa điểm khác dọn dẹp đi ạ! Nếu quét dọn ở khoảng sân trước này thì tiểu thư Akiha dứt khoát kiểu gì cũng sẽ phát hiện ra ngay thôi, thế nên em nghĩ phương án tối ưu nhất chính là hai chúng ta cùng nhau lén ra dọn dẹp ở khu vực sân sau biệt thự đấy ạ thưa cậu chủ Shiki!"@
+`"Hả... di chuyển ra khu vực sân sau biệt thự sao em?"@
+`"Dạ đúng thế đấy ạ! Tiểu thư Akiha dứt khoát tuyệt đối không bao giờ thèm bước chân ra khu vực sân sau đó đâu, thế nên hai chúng ta có thể tự do quét dọn thoải mái mà không sợ bị bắt quả tang đâu ạ."@
+` "Quyết định thế đi nhé cậu chủ!" Nói rồi, Kohaku-san nhanh nhảu trao thẳng chiếc chổi tre em ấy đang cầm trên tay vào tay tôi.
+\
+`"Bấy giờ em xin phép chạy ra nhà kho để lấy thêm một chiếc chổi tre dự phòng khác nhé cậu chủ Shiki. Trong lúc em đi vắng, cậu chủ làm ơn hãy mau chóng lén lút di chuyển ra phía sau biệt thự trước đi ạ, tuyệt đối chớ có để cho Hisui-chan hay tiểu thư Akiha nhìn thấy bóng dáng cậu đi nhé."@
+cl c,lshutter,800
+` Dứt lời xong xuôi dẫu cho tôi chưa kịp cất lời đáp, Kohaku-san đã nhanh nhẹn rảo bước chạy đi thục mạng thục mạng với những bước chân vô cùng thanh thoát và nhẹ nhàng tựa như một chú chim nhỏ vậy.
+br
+` [line=3]Nhìn bóng lưng nhanh nhảu chạy đi của em ấy bấy giờ, tôi khẽ nghĩ trông em ấy thực sự giống hệt như một đứa trẻ nhỏ đang chuẩn bị bày đầu một trò nghịch ngợm đáng yêu vậy.
+br
+` Và rồi từ lúc nào không hay, một nụ cười rạng rỡ, ấm áp tự nhiên bỗng chốc xuất hiện trên khóe môi tôi bấy giờ.@
+` Akiha và Hisui vốn dĩ là những người mang tính cách vô cùng nghiêm nghị, kiệm lời và tuyệt đối không bao giờ chịu đùa cợt, thế nên sự tươi vui hoạt bát, rạng rỡ này của Kohaku-san thực sự mang một sức hút vô cùng quyến rũ và dễ thương biết mấy.
+\
+`"[line=4]Được rồi nhé, chúng ta cùng bắt đầu hành sự thôi nào!"@
+` Tôi phấn khởi nắm chặt lấy cây chổi tre mà Kohaku-san vừa trao lại lúc nãy, rồi lặng lẽ lén lút sải bước chân rảo về phía khoảng sân sau của căn biệt thự.
+\
+bg #000000,lcartain,800
+playstop
+!w2000

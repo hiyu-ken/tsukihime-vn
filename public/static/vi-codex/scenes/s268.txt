@@ -1,0 +1,31 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_27b",notrans,0
+` Có lẽ tôi nên trực tiếp bảo chị ấy đi về nhà thì hơn.
+\
+`"Senpai, chị không việc gì phải lo lắng cho em đâu, thế nên xin chị hãy về đi.@ Curfew sẽ tồi tệ nếu chúng ta cứ thế này."@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Hử?@ Tồi tệ sao?@ Ý em là thế nào hả?"@
+` …… Xem ra chị ấy chẳng thèm lọt tai lời tôi nói một chút nào cả.
+\
+`"[line=3]Này, sao chị không chịu nghe lời em nói thế?@ Senpai, chẳng phải chính chị bảo em cứ làm theo ý mình sao?@ Vậy thì cớ sao chị cứ bám theo cản đường em làm gì chứ!?"@
+`"Chị đã bảo rồi mà, cứ tự nhiên làm theo ý em đi.@ Chị cũng chỉ đang tự do làm theo ý mình mà thôi."@
+cl c,lshutter,800
+` Vẫn nở nụ cười trên môi, Senpai thản nhiên sải bước vượt lên trước mặt tôi.
+\
+`"Này[line=3]Senpai!"@
+ld c,"tachi/cel_t07b",lshutter,400
+`"Hử?@ Có chuyện gì sao, Tohno-kun?"@
+`"Có chuyện gì sao á!?@ Trêu đùa em như thế này làm chị thấy vui thú lắm hả!?"@
+ld c,"tachi/cel_t01b",crossfade,400
+` Chị ấy lại nở một nụ cười ẩn ý.@
+` …… Xem chừng chị ấy thực sự vô cùng phấn khích vì điều đó.
+\
+`"…… Em hiểu rồi.@ Em biết thừa chị là một người vô cùng xấu tính mà, nhưng xin chị hãy buông tha cho em ngày hôm nay đi.@ Nếu chị cứ tiếp tục bám theo em, không chỉ em gặp nguy hiểm mà bản thân chị cũng không yên ổn được đâu."@
+`"Thế sao?@ Nhưng chị đâu có bám đuôi em hay gì đâu chứ."
+\
+`"Hả[line=3]?"@
+`"Chị chỉ là có chút việc cần giải quyết ở công viên thôi.@ Chị cũng không biết em định đi đâu đâu, Tohno-kun, nhưng nếu em không tới công viên thì chúng ta tạm biệt nhau ở đây nhé."
+\
+cl c,crossfade,400

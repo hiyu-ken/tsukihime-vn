@@ -1,0 +1,21 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_08b",notrans,0
+` [line=4]Tôi quyết định sẽ lên đường truy lùng tên ma cà rồng tà ác Roa.@
+br
+` Arcueid chắc chắn sẽ tránh mặt không chịu gặp tôi, và việc tìm kiếm cô ấy lúc này gần như là điều bất khả thi.@
+` Chính vì thế, tôi sẽ chọn cách tiếp cận ngược lại.@
+` Arcueid đã thề là sẽ tự tay tiêu diệt Roa bằng mọi giá. Nếu mục tiêu tối thượng của cô ấy là hắn, thì tôi chỉ việc đi săn lùng hắn ta mà thôi.
+\
+` Cô ấy nhất định sẽ xuất hiện nơi Roa ẩn náu. Thế nên, nếu tôi có thể tìm thấy hắn trước cô ấy, thì mọi chuyện sẽ vô cùng thuận lợi.@
+br
+` Và với quyết định kiên định này,
+` Tôi nhất định sẽ có thể dang tay giúp đỡ và bảo vệ Arcueid vào khoảnh khắc định mệnh cuối cùng.
+\
+`"[line=4]Phải, nhất định thế."@
+` Ý chí trong tôi bấy giờ đã vô cùng kiên định.@
+` Thế nên, tôi tuyệt đối không thể tiếp tục lãng phí thời gian ở nơi này nữa.@
+` [line=4]Tôi phải lập tức lên đường đi vào trung tâm thành phố ngay lúc này. Dẫu cho việc truy lùng hắn có khác nào mò kim đáy bể đi chăng nữa, tôi vẫn quyết chí phải lôi bằng được tên ma cà rồng chuyển sinh đó ra ngoài ánh sáng.
+\
+bg #000000,lcartain,800

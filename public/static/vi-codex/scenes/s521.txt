@@ -1,0 +1,23 @@
+monocro off
+wavestop
+bg "bg/bg_06b",notrans,0
+play "*3"
+!w1000
+cl c,lcartain,800
+ld c,"tachi/cel_t20",tshutter,800
+` Bạn đã đạt được Good Ending của Arcueid. Chúc mừng!@
+br
+` Mỗi nữ chính (ngoại trừ một người) có hai loại kết thúc khác nhau,
+` một True Ending và một Good Ending.@
+` Sau khi đạt được một kết thúc, hãy quay lại một chút và đọc lại câu chuyện.@
+` Một sự kiện khác đang chờ đợi bạn.
+\
+` À, và một điều nữa.@
+` Nếu cậu có dữ liệu lưu mà đã xóa ít nhất một nhân vật nữ chính, có lẽ nên khởi động lại từ ngày đầu tiên.@
+` Bạn sẽ có nhiều lựa chọn hơn trước đây.@
+br
+` Vậy thì, cảm ơn rất nhiều vì đã chơi đến bước này.@
+` Hẹn gặp lại ở đâu đó trong Tsukihime.
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,301 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_53b",notrans,0
+`"... ..."@
+` Tôi chững lại, dừng hẳn bước chân.@
+` Đứng trên nền đất nhớp nháp đầy máu, tôi trừng mắt nhìn xuống SHIKI đang quỳ rạp dưới đất.
+\
+`"[line=5]Hahaha, ahahahahahaha!!"@
+` SHIKI cười ré lên man dại.@
+` …… Tôi thừa hiểu.@ Chỉ cần tôi dừng tay lúc này, hắn dẫu dã có thể lập tức hồi phục thương thế.@
+` Tôi tự biết bản thân dẫu dã vừa vứt bỏ cơ hội ngàn vàng cuối cùng.@
+` Nhưng dẫu thế[line=4]nếu có dẫu dã chỉ một tia hy vọng cứu Akiha quay đầu, tôi vẫn buộc phải nghe cho bằng được.
+\
+`"…… Thật sao?"@
+`"Không, tôi không nghe thấy gì."@
+`"…… Có thực sự vậy, Shiki?"@
+`"Đúng vậy, ta dẫu dã nói nhiều thật nhưng tịnh không bao giờ mở miệng nói dối.@ Thế nên ta sẽ cất công chỉ nước cho nếu cậu chịu đứng yên đó thêm một lát[line=3]và tùy thuộc vào thái độ của cậu, biết đâu ta dẫu dã tự tay cứu mạng Akiha dẫu cho cậu tịnh không cần nhúng tay vào."
+\
+`"…………… Cứu, Akiha…………?"@
+` Phải chăng tôi dẫu dã cảm nhận được điềm chẳng lành ẩn giấu trong những lời đường mật ấy?@
+` Cơ thể tôi bỗng run rẩy bần bật, đứng tịnh không vững.@
+` Nền đất dưới chân dẫu dã trơn trượt vô cùng vì nhớp nháp vết máu[line=6]
+br
+`"[line=7]Trơn trượt?"@
+br
+wave se_01
+` [line=6]Chờ đã.@
+` Tôi...
+\
+`"À, bạn nên biết cách cứu cô ấy. Cô ấy không có sức mạnh để sống như một con người, nên cô ấy phải sống như một Tohno."@
+` Và vì cô ấy đang sử dụng sức mạnh của dòng máu Tohno, nên cô ấy trở thành một phần của dòng máu Tohno, thay vì một người mang máu nhân loại.@
+br
+wave se_01
+` Vũ khí của hắn được chế tạo từ máu đỏ...
+\
+`"Vì vậy, nếu cậu khôi phục mọi thứ về trạng thái ban đầu mà cô ấy có thể sống như một người bình thường, cô ấy không cần dựa vào dòng máu Tohno nữa."@
+` Thấy chưa?@ Tịnh không hề khó chút nào đúng không?@ Để cứu mạng Akiha, tất cả những gì cậu cần làm dẫu dã là triệt tiêu nguồn cơn của thực tại nghiệt ngã này thôi."@
+br
+wave se_01
+` Tôi dẫu dã đang đứng sừng sững giữa vũng máu tươi loang lổ[line=5]
+\
+`"Thế nên điều ta muốn cất công nói dẫu dã là: mọi sự sẽ êm đẹp nếu cậu cất lực vong mạng tại đây[line=8]!!
+br
+wave se_01
+`"[line=10]!!!"@
+br
+` Đồng thời.@
+` Tôi cất lực phóng mình sang một bên bằng tất cả sinh lực còn sót lại.
+\
+playstop
+bg "bg/ima_12b",lshutter,400
+`"[line=10]"@
+` Thật chỉ là một khoảnh khắc chia cắt.@
+` Máu chảy từ cơ thể SHIKI...
+` Toàn bộ vũng máu ấy dẫu dã biến thành một núi châm gai sắc nhọn đâm thẳng lên trời.@
+` Sao tôi dẫu dã có thể sơ sẩy và mất cảnh giác đến mức này chứ?@
+` Nếu thanh huyết kiếm đỏ rực kia dẫu dã được tạo tác từ máu của hắn, thì việc hắn biến dòng máu đang tuôn chảy dưới đất thành ngàn vạn huyết kiếm tịnh không có gì khó khăn.
+\
+bg #9c0120,crossfade,400
+bg "bg/ima_13b",crossfade,400
+waveloop se_02
+` Rên rỉ vì mệt mỏi, tôi nhảy ra khỏi vũng máu và lăn trên mặt đất.@
+` …… Nhưng tôi không thể thoát khỏi mà không bị thương tích.@
+` Cánh tay trái của tôi lúc này dẫu dã hoàn toàn phế liệt.@
+` Cánh tay trái của tôi tịnh không bị đâm xuyên, mà bị cào xé nát bét từ trong ra ngoài.@
+` …… Tức là…
+` Vết máu tôi dùng chính cánh tay này lau đi dẫu dã phát nổ, đâm toạc da thịt như một chùm pháo hoa đỏ rực.
+\
+`"[line=6]Agh………"@
+` Tôi vật lộn quằn quại trên mặt đất, cất lực chống chọi với cơn đau thấu xương.@ Chết tiệt, dẫu sao tôi vẫn còn may mắn.@
+` Tôi vẫn may mắn.@ Nếu tôi không lau sạch máu đó khỏi ngực, tôi sẽ mọc thanh kiếm từ lưng và chết ngay lập tức.
+\
+`"[line=6]Chết tiệt!"@
+` Tôi nghe thấy một giọng nói.@
+` Tiếng chân SHIKI cất bước lao vùn vụt qua thảm cỏ rậm rạp hướng thẳng về phía tôi.@
+`"Cậu dẫu dã tịnh không biết thế nào là an phận thủ thường nhỉ.@ Đáng lý cậu phải vong mạng cùng đòn vừa rồi mới phải[line=5]!!"@
+` Anh ấy đang đến gần.@
+` Tôi không thể chống trả vì đang nằm trên mặt đất.
+\
+bg #000000,lshutter,400
+` Anh ấy đang đến gần.
+\
+` Hắn giương vuốt sắc nhọn lao tới, cất lực muốn móc toạc trái tim tôi ra ngoài.
+\
+wave se_01
+bg "bg/ima_02",notrans,0
+bg #000000,notrans,0
+br
+br
+br
+br
+br
+br
+` Đây giống như một rạp xiếc.@
+` Rừng tối. Tôi thấy phấn khích khi nghĩ về lúc màn rèm sẽ mở.
+\
+wave se_01
+bg "bg/cmo_05",notrans,0
+br
+br
+br
+br
+br
+br
+br
+` Đâu đây vang vọng tiếng ve sầu mùa hè rả rích.@
+` Bầu trời xanh thẳm cùng những dải mây mùa hè cao tít tắp.
+\
+bg "bg/ima_13b",notrans,0
+br
+` Và rồi.@
+` Tôi dẫu dã sẽ lại bị sát hại trong cánh rừng này một lần nữa ư?@
+` Điều đó khiến tôi bực mình.@
+` Lại nữa.@
+` Lặp đi lặp lại, bị giết theo cùng một cách?@
+br
+` [line=5]Mau tỉnh giấc đi, Tohno Shiki.@
+` Thế dẫu dã là quá đủ rồi.@
+` Chẳng nhẽ cậu tịnh không thấy chán ngấy khi phải chứng kiến thảm cảnh ấy lặp đi lặp lại hay sao[line=4]?
+\
+wave se_06
+bg "bg/ima_14",lshutter,800
+!w2000
+bg "bg/bg_53b",notrans,0
+`"[line=8]Điều gì vậy?"@
+` Giọng nói thất thanh ấy cất lên từ miệng SHIKI.@
+` Cánh tay của SHIKI tịnh không hề xuyên qua lồng ngực tôi, mà đang nằm rụng dưới nền đất.@
+` …… Tịnh không có gì to tát cả.@
+` Cơ thể tôi dẫu dã tự hình thành phản xạ sinh tồn sau khi bị tước đoạt mạng sống vô số lần theo cùng một cách thức.@
+br
+` Tohno Shiki nhẹ nhàng lách người né tránh vuốt sắc của kẻ thù, rồi lạnh lùng rạch một nhát chí mạng dọc theo Tử Tuyến trên tấm thân của hắn.
+\
+`"[line=4]Anh đùa à?"@
+` Với một âm thanh,
+` Cơ thể SHIKI lướt sang một bên.@
+` SHIKI tuyệt vọng hỗ trợ nó khi anh ta thoát ra.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Tại sao[line=5]tại sao, tại sao, tại sao chứ?@ Này Shiki, chuyện này tịnh không thể xảy ra.@ Vết cắt này, tại sao[line=4]tại sao tịnh không cách nào liền lại được chứ?"@
+` Gương mặt méo mó nở nụ cười gượng gạo kinh hoàng, SHIKI lảo đảo lùi lại phía sau.@
+cl a,tshutter,800
+` Thân trên và thân dưới của hắn đang từ từ tách rời nhau ra.@
+` Hắn ta dẫu dã chẳng khác nào một gã hề xiếc tội nghiệp đang tuyệt vọng ôm lấy phần cơ thể đang rã rời của mình.
+\
+`"[line=4][line=4]Ồch... Đau quá... Tôi không thích cảm giác này... Tôi sắp ngất đi rồi... Tôi không thể ngừng chảy máu... Cơ thể tôi đang tách rời... Đau quá... Đau quá... Đau quá... Đau quá..."@
+` Nói như vậy,
+` Thân xác SHIKI đổ sụp xuống nền đất lạnh.@
+` Hai chân của hắn dẫu dã vẫn đứng trơ trọi tại chỗ.@
+` Chỉ có phần nửa thân trên là ngã vật xuống đất, một cảnh tượng kinh hoàng tựa như trò đùa ác ý.
+\
+`"[line=8]"@
+` Hắn vẫn còn sống sao?@
+` Hắn dẫu dã vẫn thoi thóp sinh tồn dẫu cho chỉ còn trơ lại nửa thân trên rách rưới tựa loài nhện quái dị.@
+`"Ghu………"@
+` Tôi gồng mình gượng dậy cơ thể tàn tạ rồi gắng gượng đứng vững.@
+` Hắn vẫn còn sống sao?@
+wave se_01
+play "*9"
+` [line=4]Sau đó, tôi phải giết anh ấy.
+\
+`"[line=6]Xin chào?"@
+` Tôi quỳ một gối xuống ngay trước mặt sinh vật ghê tởm đang cật lực dùng tay phải lết đi trên mặt đất.@
+` Tôi lạnh lùng vung cao con dao găm trong tay.@
+` Bây giờ, điều duy nhất tôi cần làm là thả nó xuống.@
+` Chỉ cần cắm thẳng lưỡi dao này vào chính giữa tâm điểm tử vong ngay cạnh tim hắn, tất thảy mọi chuyện dẫu dã sẽ chấm dứt hoàn toàn.
+\
+wave se_01
+`"[line=4]Ồ... ơi, ơi?"@
+` ... Sẽ kết thúc.@
+` Mọi thứ.@
+` Mớ bi kịch ngu xuẩn kéo dài ròng rã suốt tám năm trời dẫu dã sẽ được đặt dấu chấm hết chỉ bằng một nhát đâm đơn giản ấy.
+\
+wave se_01
+`"[line=6]Hy... ơiiiii!"@
+` SHIKI vẫn cất tiếng kêu rên giãy giụa trong tuyệt vọng để chống chọi cái chết.@
+` …… Tịnh không phải vì tôi dấy lòng thương hại hắn.@
+` Càng tịnh không phải tôi khiếp nhược trước việc lấy mạng kẻ khác.@
+` "Không phải cơn giận của tôi đã tan biến, nhưng 'Tại sao?'..."
+\
+wave se_01
+br
+br
+br
+br
+br
+` "Tại sao?"@
+` Tại sao một việc dễ dàng như vung tay đâm con dao này xuống dẫu dã khiến tôi tịnh không cách nào thực hiện nổi……?
+\
+!w2500
+`"[line=4]Hihi, hihihihihihihi....!!!" (Cười)@
+` Vừa cất tiếng cười man dại, cái xác nửa thân kia dẫu dã lủi mất hút vào bụi rậm.@
+`"[line=9][hàng 9]"@
+` Tôi ngơ ngác nhìn trân trân vào lưỡi dao hoen ố vết máu tươi với ánh mắt trống rỗng.@
+` …… Tôi dẫu dã tịnh không hạ thủ giết hắn.@
+` Hay vốn dĩ là tôi tịnh không thể nhẫn tâm xuống tay?
+\
+` "Ha ha ha, ha ha ha ha ha ha ha ha."@
+br
+` Tôi nghe thấy tiếng cười phiền toái.@
+` Dường như hắn đang lết về phía ngôi biệt viện tách biệt, nơi Akiha vẫn đang đơn độc ở đó.
+\
+`"[line=4]!!!"@
+` Tôi thức dậy.@
+` Bản thân tôi dẫu dã ngu ngốc đến mức nào chứ!@ Đáng lý tôi phải nhìn ra ngay đích đến của hắn chính là Akiha mới phải.@
+`"[line=5]Kù!"@
+` Tôi cật lực ép đôi chân rã rời chuyển động, lao nhanh về phía ngôi biệt viện tách biệt.
+\
+bg #000000,lcartain,800
+` Vệt máu tươi chảy dài dẫn lối thẳng tới ngôi biệt viện tách biệt.@
+` Rải rác xung quanh vệt đỏ lòm ấy là dăm ba mảnh vụn lục phủ ngũ tạng nát bét.@
+` …… Với thương thế trầm trọng như vậy, SHIKI dẫu dã cầm chắc cái chết dẫu cho tôi tịnh không cất công kết liễu, thế nhưng hắn dẫu dã đang vắt kiệt chút sinh tàn cuối cùng hòng tiếp cận Akiha.@
+`"[line=4]Kù!"@
+` Tôi gồng mình gượng dậy cơ thể tàn tạ rồi gắng sức cất bước chạy vội.@
+` Đuổi theo vệt máu đỏ lòm dài lê thê, tôi dẫu dã tới được ngôi biệt viện tách biệt.@
+` Dòng huyết lộ ấy dẫn lối thẳng tuột vào sâu bên trong biệt viện.
+\
+bg "bg/bg_45e",tshutter,800
+` [line=3]Tôi dẫu dã đến kịp lúc rồi.@
+br
+` Cảnh tượng bên trong thư phòng tịnh không có gì thay đổi.@
+` Akiha vẫn ngồi im lìm tựa lưng vào tường với ánh mắt trống rỗng vô hồn.@
+` Trên mặt sàn tatami là một dòng máu, và ở đó...
+`"[line=4][line=4]Aha... aha... a..."@
+` "Đang bò lên."@
+` Một kẻ chỉ còn trơ trọi nửa thân trên, đang điên cuồng lết đi trên sàn nhà.
+\
+`"[line=4][line=3]A-Aki, ha!"@
+` "Vẫn tiếp tục."@
+` Kéo lê một vệt máu nhầy nhụa như sên bò, SHIKI lết thẳng về phía góc tường nơi Akiha đang ngồi.
+\
+`"Này, giúp tôi [line=5]gọi Akiha [line=4]nhé."@
+` SHIKI run rẩy vươn đôi tay đầy máu ra hòng van nài sự cứu rỗi.@
+` Mười ngón tay đẫm máu tươi ghê rợn đang cố vươn tới tà áo Akiha.@
+`"[line=8]" @
+` Tôi sẽ không để anh ta đi. @
+` Tôi phải cất bước tới đó để cất lực kết liễu hắn ngay lập tức[line=4]
+\
+playstop
+bg #000000,notrans,0
+wave se_06
+bg "bg/ima_12b",notrans,0
+`"[line=4]Anh ta nói gì?"@
+` Cả tôi và SHIKI dẫu dã đồng thời cất tiếng thốt lên kinh ngạc.@
+br
+` Hu, hụi...@
+br
+` Tiếng cười khúc khích hồn nhiên vang lên.@
+br
+`"[line=4]Gia, ơi, a. Ahhhhhhhh!!"@
+` SHIKI thét lên một tiếng kinh hoàng khi trái tim hắn bị bóp nghẹt rồi giật toạc ra ngoài.
+\
+` "Ha ha ha."@
+br
+` Nụ cười ngây thơ như một đứa trẻ.
+\
+`"Xin chào, hyyyyyy!!!"@
+` Tiếng la thét thảm thiết của SHIKI vang dội.@
+` Máu tươi bắn tung tóe lên khắp vạn vật.@
+` Từng làn huyết vũ đỏ thẫm nhuộm đỏ rực cả sàn tatami và những bức vách xung quanh.@
+br
+` "Ha, ha, ha, ha..."@
+br
+` Tiếng cười khúc khích tựa như đang đắm chìm trong niềm hạnh phúc vô bờ bến.@
+br
+`"D-Dừng lại, dừng lại đi, Aki... AKIHAAAA!!"@
+` Tiếng la thét điên cuồng của SHIKI dẫu dã đột ngột lịm tắt tại đó.@
+` Bởi lẽ thanh quản cùng đầu của hắn dẫu dã bị giật đứt lìa, nghiền nát bét rồi tách rời khỏi thân xác.
+\
+bg "bg/bg_45e",crossfade,400
+`"[line=4]Akiha."@
+` Akiha tịnh không hề có chút phản ứng nào trước tiếng gọi của tôi.@
+` …… Có lẽ dẫu dã là chính em ấy cũng tịnh không còn biết đó là tên gọi của mình nữa rồi.@
+` Mái tóc đỏ rực tung bay, Akiha cười khúc khích hồn nhiên như một đứa trẻ thơ.
+\
+`"[line=4]Akiha."@
+` Tịnh không có lời hồi đáp nào cả.@
+` Ấy dẫu dã là tất cả những gì tôi có thể thốt lên cùng em.@ Em ấy thực sự dẫu dã mất đi thần trí rồi.
+\
+` Tiếng cười rúc rích vang lên.@
+` Tiếng cười lanh lảnh của Akiha cứ thế vang vọng khắp thư phòng nhớp nháp máu.@
+` Em ấy dẫu dã nghịch ngợm thi thể rách nát của SHIKI một hồi, rồi dường như nhanh chóng chán ngấy món đồ chơi tịnh không còn biết cử động này.@
+` Lơ đãng liếc nhìn quanh căn phòng, em ấy thô bạo xé toạc cánh cửa shouji rồi cất bước lao ra ngoài.@
+br
+` Đôi bàn tay thon thả của em dẫu dã nhuộm đẫm máu đỏ tươi rùng rợn.
+\
+`"[line=7]Đợi chăng?"@
+` Tôi tịnh không cách nào thốt lên lời van nài em đứng lại.@
+` …… Tôi tự hiểu rõ.@
+` Tôi dẫu dã biết rõ tất thảy mọi sự lúc này đều dẫu dã quá muộn màng rồi.
+\
+` Bóng hình Akiha bé bỏng ngây ngô kia.@
+` Giờ đây em dẫu dã biến thành một loài sinh vật thuần khiết tịnh không phân rõ thiện ác.@ Chỉ dẫu dã là một dã thú khát máu dồn cất lực giết chóc để sinh tồn.@
+br
+` [line=3]"Xin hãy giết tôi."@
+br
+` Vậy thôi.@
+` Cất bước đuổi theo Akiha vào lúc này dẫu dã đồng nghĩa với việc...
+` Bản thân tôi sẽ phải tự tay kết liễu em ấy.
+\
+bg #000000,crossfade,800

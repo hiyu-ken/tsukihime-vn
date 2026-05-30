@@ -1,0 +1,226 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+ld c,"tachi/aki_t13a",crossfade,400
+`"...@
+` Akiha nhìn chằm chằm vào tôi với ánh mắt sâu thẳm.@
+` [line=3]"Và sau đó..."@
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… Giờ là giờ ăn trưa, anh trai ạ?"@
+` Cô ấy nói điều gì đó hoàn toàn bình thường.@
+`"Đúng vậy, giờ là giờ ăn trưa. Sẽ không tốt nếu không ăn gì vào giờ này."@
+` Tôi lấy ổ bánh mì tôi mua ra khỏi túi nhựa.@
+`"Đây là cùng loại bánh mì như hôm qua; có được không?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Vâng, cảm ơn."
+\
+cl a,crossfade,400
+` Tôi đưa cho Akiha một chiếc bánh sandwich và bắt đầu nhai chiếc bánh của mình.@
+`"……"@
+` Tôi thầm lẩm bẩm, mọi động tác của Akiha đều thu hút sự chú ý của tôi, và cơ thể tôi dường như không phản ứng đúng cách.
+\
+ld l,"tachi/ari_t05",crossfade,400
+`"Ôi, hôm nay bạn sống trong sự xa hoa, Senpai! Có chuyện gì vui vẻ vậy?"@
+ld r,"tachi/cel_t12",crossfade,400
+`"Không, chẳng có gì đặc biệt. Vì mọi thứ đang tiến đến đỉnh điểm, tôi phải ăn nhiều hơn và nạp nhiều năng lượng."@
+`"À, tôi hiểu rồi, ăn mùa thu. Tôi đoán trong trường hợp của bạn, thức ăn trực tiếp chuyển hóa thành mỡ ở ngực, phải không?"@
+cl a,crossfade,400
+br
+` …… So với bữa ăn khó chịu cùng Akiha, Arihiko và Senpai dường như đang tận hưởng một bữa tiệc vui vẻ.
+\
+`"…………"@
+` Nhai.@
+` Tiếng nhai nhẹ.@
+` Tiếng nhai liên tục, nhịp nhàng.
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"Ờ... Anh trai?"@
+`"À? Chuyện gì vậy, Akiha?"@
+`"À... Hôm nay không có đồ uống à? Tôi hơi khát..."@
+`"[line=5]Ừm."@
+cl a,crossfade,400
+br
+` Tôi đã quên mất.@
+` Ly sữa dâu tây tôi mua vẫn còn nằm trong túi nhựa.
+\
+`"Xin lỗi, tôi quên mất. Đây rồi..."@
+` Tôi đưa cho cô ấy ly sữa.@
+` Akiha nhận lấy nó.@
+ld c,"tachi/aki_t19",crossfade,400
+`"[line=4]Ồ."@
+` Vì hộp sữa quá nhỏ, ngón tay chúng ta chạm vào nhau.
+\
+` [line=3]Đập một tiếng.@
+br
+` Chỉ thế thôi.@
+` Nó chỉ là thế, nhưng đầu ngón tay tôi trở nên nóng bừng.@
+` Ngay cả khi tôi nên rút tay ngay lập tức, nó vẫn còn đó.@
+` Khi nhìn Akiha, cô ấy cũng dường như bị tê liệt.
+\
+cl a,crossfade,400
+ld l,"tachi/ari_t01",crossfade,400
+ld r,"tachi/cel_t01a",crossfade,400
+`"Hừ? Tohno-kun, cậu đang làm gì vậy?"@
+`"[line=5]"@
+` Tôi nhanh chóng rút tay ra khỏi tay Akiha.@
+`"À, không, tôi chỉ đang đưa nước cho Akiha thôi."@
+ld r,"tachi/cel_t12",crossfade,400
+`"Thật sao? Vì cả hai đều ngừng di chuyển, nên tôi nghĩ họ đang tranh giành ly nước."@
+`"Ồ, cậu cũng nghĩ vậy, Senpai? Tôi thấy Tohno đang chiến đấu đến cùng để không phải trao quả nước cho ai đó.@
+` Vì Akiha-chan khát nước, tốt hơn là tôi nên cho cô ấy uống, và tôi nghĩ anh ta đang cư xử thô lỗ.@
+` ... Vậy mà, có lẽ nó trông giống như vậy.
+\
+cl a,crossfade,400
+`"Không, không phải thế đâu.@ Tôi chỉ lơ đễnh một lúc, đúng không Akiha?"@
+ld c,"tachi/aki_t16a",crossfade,400
+`"...@
+` Akiha dường như trống rỗng.@
+` Nụ cười này quá khác biệt so với Akiha mà tôi biết, khiến tôi ngỡ ngàng trong giây lát.
+\
+cl a,crossfade,400
+ld c,"tachi/ari_t01",crossfade,400
+`"Ừm...  ài, Tohno, tôi đã suy nghĩ về điều này từ lâu, nhưng... cậu và Akiha-chan..."@
+`"[line=3]Có chuyện gì vậy?@ Tôi sẽ giận nếu cậu nói điều ngu ngốc."@
+`"Không, cậu chỉ không giống nhau lắm mà thôi."@
+`"... Đó là điều tự nhiên, phải không? Chúng ta có thể là anh em ruột, nhưng là nam và nữ nên chúng ta cũng không thể quá giống nhau."@
+`"Ồ, tôi không nói như vậy. Làm sao để nói... cậu trông giống những kiểu người khác nhau."
+\
+cl a,crossfade,400
+ld l,"tachi/ari_t01",crossfade,400
+ld r,"tachi/cel_t01a",crossfade,400
+`"Đúng vậy. Akiha-san rất khó gần, Tohno-kun lại hoàn toàn trái ngược. Nói cách khác, Tohno-kun là nước còn Akiha-san là dầu, phải không?"@
+`"... Vâng, chắc chắn Akiha rất khó nắm bắt. Tôi sẽ không phàn nàn nếu cô ấy dễ thương hơn."@
+ld l,"tachi/ari_t03",crossfade,400
+`"Điều gì? Akiha-chan rất tốt bụng, đúng không?"@
+`"[line=3]Ồ, trên bề mặt cô ấy tốt bụng. Nhưng bên dưới lại là một người hoàn toàn khác, lạnh lùng đến mức nào. Cậu nên thấy cách cô ấy la mắng tôi khi tôi mắc lỗi trong bữa tối."
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t03a",crossfade,400
+!w1000
+`"[line=3] Đủ rồi. Hãy nói về điều gì đó thú vị hơn, Arihiko."@
+ld c,"tachi/aki_t18a",crossfade,400
+`"Ồ, cậu dừng lại giữa câu nói của mình à? Tôi muốn biết chính xác suy nghĩ của cậu về tôi, anh trai."@
+`"Ơ... ..."@
+` Nhìn của Akiha đầy đau đớn.@
+` ... Người Akiha vừa nãy phải là một ảo ảnh thôi.
+\
+cl a,crossfade,400
+ld l,"tachi/ari_t01",crossfade,400
+`"Một thứ gì đó thú vị hơn, hả? Khi nghĩ lại, Tohno, cậu có thấy tin tức về nơi ở của mình vào sáng nay không?"@
+`"Ờ... [line=3]? Tin tức buổi sáng à?"@
+ld r,"tachi/cel_t12",crossfade,400
+`"Đúng vậy, nạn nhân mới nhất của kẻ giết người hàng loạt được tìm thấy gần nhà của Tohno-kun, phải không? Tường trống rỗng như nhà tù đó là tường của biệt thự Akiha-san, đúng không?"@
+playstop
+cl l,crossfade,400
+waveloop se_02
+ld l,"tachi/aki_t01a",crossfade,400
+`"[line=2]Tôi thực sự không biết. Tôi không xem tin tức vào buổi sáng nay, nên tôi không thể nói."@
+` Akiha lơ nhẹ những việc này như chúng chẳng liên quan đến cô ấy.@
+` Nhưng tôi không thể làm như vậy như Akiha.
+\
+cl a,crossfade,400
+` Vì không nên có thêm bất kỳ vụ giết người nào nữa.@
+` Yumizuka không còn uống máu con người để sống nữa.@
+` Vậy nên, không nên có thêm nạn nhân nào nữa.@
+` ...@
+` Nếu giấc mơ của tôi chỉ là một giấc mơ...
+\
+wavestop
+play "*1"
+`"[line=3]Senpai. Đây có phải là sự thật? Có phải giống những vụ giết người bằng ma cà rồng trước đây không?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Đúng vậy. Họ nói rằng nạn nhân đêm qua là nạn nhân thứ mười. Tất nhiên, máu đã được hút sạch khỏi cơ thể, nhưng lần này còn thiếu cả các bộ phận cơ thể."@
+` Senpai giải thích với giọng điệu quen thuộc của mình.@
+` Nhưng...@
+` Tôi bị một cơn choáng váng dữ dội như thể cả thế giới chỉ nghiêng sang một bên.
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Các chi của nạn nhân đã bị mất, nhưng họ nói chúng bị cắn đứt bằng miệng người. Nhưng điều đó có vẻ lạ phải không?"@
+cl a,crossfade,400
+ld l,"tachi/cel_t12",crossfade,400
+ld r,"tachi/aki_t01a",crossfade,400
+`"Không thể nào cắn đứt các bộ phận cơ thể người được. Cấu trúc hàm của con người không đủ mạnh để cắn đứt tay hoặc chân ai đó, và răng cũng sẽ không chịu nổi."@
+` "... Bạn chỉ có thể nghiền nát sụn bằng răng, điều đó là tất cả."
+\
+ld l,"tachi/cel_t04",crossfade,400
+`"Đúng vậy. Nhưng những dấu vết trên cơ thể chỉ có thể thuộc về một con người, nên có lẽ là một thứ vô hình nhưng lại có hình dạng giống con người. Rất giống một ma cà rồng, phải không?"@
+br
+` [line=4]Tôi cảm thấy mình muốn nôn mửa.@
+` "[line=3]Cậu chủ, vì cô ấy không biết, nên cô ấy có thể nói tất cả những điều này với nụ cười."
+\
+ld r,"tachi/aki_t04a",crossfade,400
+`"Haha."@
+ld l,"tachi/cel_t12",crossfade,400
+`"Akiha-san. Tôi có nói gì buồn cười không?"@
+ld r,"tachi/aki_t08a",crossfade,400
+`"Đúng vậy. Vì nó quá buồn cười, tôi đã tự nhiên cười dù bản thân không muốn."@
+ld l,"tachi/cel_t10a",crossfade,400
+`"Ôi trời, đây không phải là chuyện để đùa! Nạn nhân đêm qua được tìm thấy gần nhà cậu!"@
+ld r,"tachi/aki_t04a",crossfade,400
+`"Tôi xin lỗi nếu tôi thiếu lịch sự, cậu chủ. Nhưng tôi không nghĩ rằng cậu là người dễ bị những ảo tưởng như vậy chi phối."@
+` "Này, Senpai, có thể bạn chia sẻ suy nghĩ của mình về loài ma cà rồng không?"
+\
+ld l,"tachi/cel_t08",crossfade,400
+`"Ồ, bạn nói đến ma cà rồng trong truyền thuyết à?"@
+ld r,"tachi/aki_t08a",crossfade,400
+`"Không, tôi muốn nói về hình ảnh của bạn về ma cà rồng là kẻ giết người hàng loạt."@
+cl a,crossfade,400
+br
+` "Ciel-senpai đang mải mê suy nghĩ."@
+` "[line=3]Mặc dù tôi không thực sự muốn nghe câu trả lời của bạn, nhưng tôi lại vô cùng tò mò, dù bản thân có chút do dự."
+\
+ld l,"tachi/cel_t01a",crossfade,400
+`"Thật ra, thủ phạm chỉ là một con người. Tôi cho rằng anh ta chỉ có những phẩm chất và giá trị khác biệt so với chúng ta."@
+` "Tôi nghĩ chúng ta lấy những đặc điểm không thể phân biệt bằng lý trí thông thường và cố gắng hiểu chúng bằng cách gắn nhãn 'ma cà rồng'."@
+ld r,"tachi/aki_t11a",crossfade,400
+`"... Tức là, Senpai tin rằng một 'ma cà rồng' là người mắc chứng rối loạn tâm thần, một ảo giác khiến họ không phân biệt được đúng sai?"
+\
+ld l,"tachi/cel_t07a",crossfade,400
+`"Có. Cậu không cần dùng từ 'ma cà rồng', nhưng bất kỳ ai ngoài vòng lệ của xã hội đều bị những người trong xã hội ruồng bỏ, vì xã hội không thể hiểu được tính cách của họ."@
+` "Đó là chức năng phòng thủ của lý trí thông thường, phải không, Akiha-san?"@
+ld r,"tachi/aki_t04a",crossfade,400
+`"Cậu đã suy nghĩ về điều này rất nhiều, Senpai. Nhưng nó thật khó khăn, phải không? Theo suy nghĩ của cậu, 'ma cà rồng' không thể bị coi là phạm tội."@
+` "Sau cùng, 'ma cà rồng' chẳng hề lăn tăn về hành vi của chính mình, đúng không? Nếu không có tội phạm nào, thì làm sao họ có thể bị trừng phạt?"
+\
+ld l,"tachi/cel_t04",crossfade,400
+`"Đúng vậy. Vì vậy, việc đòi hỏi sự trừng phạt từ những người trong xã hội là không phù hợp."@
+` "Để trừng phạt một tội phạm không được công nhận là tội phạm, hình phạt phải dựa trên nguyên tắc của toàn bộ loài, chứ không phải đạo đức của cá nhân."@
+ld r,"tachi/aki_t01a",crossfade,400
+`"... Nguyên tắc của toàn bộ loài...?"
+\
+ld l,"tachi/cel_t03",crossfade,400
+`"Có. Nguyên tắc đầu tiên là tốt cho giống loài của chính mình hơn là cho người khác. Đối với một loài, điều gì cản trở nguyên tắc này thì tự nó đã là tội phạm."@
+` Ngay cả khi Ma cà rồng-san không xem giết người là tội phạm, đối với loài người, tội phạm không phải là hành động giết người mà là sự tồn tại của chính những kẻ ma cà rồng.
+\
+cl a,crossfade,400
+br
+br
+br
+br
+br
+br
+` [line=6]Sự tồn tại vốn dĩ là một tội ác.
+\
+` …… Điều này là gì?@
+` Akiha hỏi những câu hỏi kỳ lạ, và Senpai đưa ra những câu trả lời.@
+` Và,
+` Vì một lý do nào đó, họ dường như chỉ nói về tôi.
+\
+playstop
+wave se_03
+` Tiếng chuông báo hiệu kết thúc giờ ăn trưa vang lên.@
+ld l,"tachi/aki_t01a",crossfade,400
+`"[line=2]Tôi xin lỗi vì đã nói về những điều không thú vị như vậy."@
+ld r,"tachi/ari_t01",crossfade,400
+`"À, không sao, không sao. Tôi vui khi được nghe giọng của Akiha."@
+cl l,crossfade,400
+ld l,"tachi/cel_t01a",crossfade,400
+`"Vậy thì chúng ta đi thôi? Các bạn sẽ trễ nếu không vội."@
+cl a,crossfade,400
+` Cô chủ nhiệm hướng tới nhà ăn.@
+` Đi qua đó nhanh hơn cho cô ấy để đến lớp học.
+\
+` [line=4]Shiki quan sát, "Thầy ơi đang đi rồi."@
+br
+` Liệu điều đó là vì cô ấy biết nhiều về những vụ giết người hàng loạt hay là tôi bị cuốn vào cuộc trò chuyện?
+\

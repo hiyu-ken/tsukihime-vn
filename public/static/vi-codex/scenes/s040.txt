@@ -1,0 +1,384 @@
+play "*1"
+bg "bg/bg_22b",lcartain,800
+` Theo như tôi biết, Akiha đã cố gắng đến thăm tôi vài lần khi tôi mới được giao phó cho gia đình Arima.@
+` Thật không may, chúng tôi chưa bao giờ có cơ hội gặp nhau vì tôi phải vào bệnh viện mỗi ngày. Chúng tôi hoàn toàn mất liên lạc sau khi Akiha đến trường nội trú.@
+` Không giống như Akiha, tôi bị cô lập khỏi gia đình chính.@
+` Đó là lý do tại sao tôi có thể sống tự do như vậy. Trường trung học của tôi chỉ là một trường trung học bình thường và khả năng chúng ta gặp nhau là gần như bằng không.
+\
+` Ông tôi qua đời và tôi nhận được tin nhắn bảo tôi quay về.@
+` Để nói thẳng ra, tôi hoàn toàn không có ý định trở lại biệt thự Tohno.@
+` Nhưng Akiha ở trong căn nhà đó.
+\
+bg #ffffff,crossfade,800
+bg "event/aki_e01",crossfade,800
+` Khi chúng ta còn nhỏ…
+` Akiha là một đứa trẻ ngoan ngoãn, luôn tỏ ra sợ hãi, như thể cô ấy đang phải chịu đựng điều gì đó liên tục. Cô ấy luôn đi sát bên tôi, những bước chân của cô ấy rộn ràng sau lưng tôi.@
+` Cô bé rất yếu ớt, mái tóc đen dài và bộ quần áo phương Tây sang trọng khiến cô ấy giống như một búp bê Pháp.
+\
+` [line=4]Tôi lo lắng cho cô ấy sống một mình trong biệt thự to lớn đó, khi ông đã qua đời. Nhưng hơn hết, tôi cảm thấy có lỗi vì đã gánh vác tất cả trách nhiệm gia đình Tohno lên vai cô ấy và ích kỷ sống một cuộc sống tự do.
+\
+` Có lẽ sự chấp nhận của tôi để trở lại biệt thự là lời xin lỗi của tôi dành cho Akiha.@
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_32b",crossfade,800
+` Biệt thự Tohno quá lớn.@
+` Bị bao quanh bởi hàng rào sắt, có thể nói rằng toàn bộ khu đất này vô cùng rộng lớn, rộng đến nỗi cả một trường tiểu học cũng có thể chứa được bên trong.
+\
+` Vườn cây, bị bao quanh bởi những tán cây, giống như một khu rừng. Biệt thự nằm ở trung tâm của khu rừng đó, và có vài tòa nhà khác tách biệt ra.@
+` Tôi không nghĩ gì nhiều khi còn nhỏ, nhưng bây giờ sau tám năm sống trong một gia đình bình thường, kích thước quá khổ gần như là phạm tội.
+\
+` Cổng không bị khóa.@
+` Tôi đẩy chúng ra và đi về phía cửa biệt thự.
+\
+bg #000000,lcartain,800
+bg "bg/bg_48b",lcartain,800
+` Chúng ta vươn lên một cách áp bức, dồn ép bất kỳ ai đến thăm.@
+` Bên cạnh cánh cửa đôi bằng sắt là chuông cửa không khớp.
+\
+` …… Được rồi.@
+` Lắc bỏ sự lo lắng của tôi, tôi nhấn vào nó.@
+br
+` Không có tiếng chuông 'Ding-dong' trìu mến nào từ chuông cửa.@
+br
+` Sự im lặng áp bức tiếp tục trong vài giây.@
+` Sau đó, tiếng bước chân rộn ràng sau cánh cửa cho thấy có ai đó hiện diện.
+\
+play "*3"
+` 'Chúng tôi đã chờ đợi bạn.'@
+` Cánh cửa mở ra với một tiếng kêu creak.@
+` Bên trong là sảnh mà tôi nhớ và một cô bé mặc tạp dề.
+\
+bg "bg/bg_33b",lcartain,800
+ld c,"tachi/koha_t03",lshutter,800
+` 'Vui mừng quá. Bạn trễ giờ đến thế, tôi bắt đầu lo lắng rằng bạn đã lạc đường. Tôi định ra đón bạn nếu bạn không đến trước khi mặt trời lặn.'@
+` Cô bé mặc tạp dề thời thượng mỉm cười nồng nhiệt.
+\
+` 'À, không[line=2]đó… uh…'@
+` Tôi bị choáng ngợp bởi phong cách thời trang lỗi thời của cô đến nỗi tôi thậm chí không thể thành lập một câu chuyện chính xác.@
+` Có lẽ gán sự do dự của tôi vào sự thiếu tin tưởng, cô bé nghiêng đầu một chút.
+\
+` 'Bạn là Shiki-sama, phải không?'@
+` 'Eh[line=2]Vâng, nhưng bạn không cần gọi tôi là '-sama'.@
+` 'Bạn đúng chứ? Ồ, xin đừng làm tôi sợ như vậy! Tôi bắt đầu nghĩ rằng mình đã phạm sai lầm khác ở đó.'@
+` Cách ứng xử của cô bé giống như một người mẹ trách mắng con cái.@
+` Nhưng bất chấp điều đó, trên khuôn mặt cô có nụ cười và nó không phá vỡ cảm giác ấm áp về cô ấy.
+\
+` Cô ấy mặc tạp áo trên một bộ kimono.
+` Cô ấy bước ra để chào đón khách và gọi ai đó như tôi bằng '-sama'.@
+` Điều này chắc chắn có nghĩa là cô ấy...
+\
+` "Ừm, uh… anh/em có phải là một người hầu trong nhà này không?@
+` Cô bé trả lời câu hỏi của tôi bằng chỉ một nụ cười.@
+` Hãy đến đây; chắc chắn bạn mệt rồi. Xin vui lòng vào đây. Akiha-sama đang chờ anh/em trong phòng khách.@
+cl c,lshutter,400
+` Cô bé nhanh chóng băng qua sảnh và tiến về phòng khách.@
+` quay lại như thể cô vừa nhớ ra điều gì đó, cô cúi đầu, khuôn mặt nở nụ cười rạng rỡ.
+\
+ld c,"tachi/koha_t02",crossfade,400
+` "Chào mừng về nhà, Shiki-sama."@
+` Lời chào của cô ấy đi kèm với nụ cười như hoa.@
+` Tôi không thể nghĩ ra câu trả lời nào, vì vậy tôi chỉ theo cô ấy một cách do dự.
+\
+bg #000000,lcartain,800
+playstop
+!w1000
+bg "bg/bg_34c",lcartain,800
+play "*1"
+` Dưới sự dẫn dắt của cô bé, tôi đến phòng khách.@
+br
+` [line=3]Cũng như thể tôi đang nhìn nó lần đầu tiên.@
+br
+` Tôi không biết liệu tôi có quên nó trong tám năm qua hay họ đã sửa chữa nó kể từ đó.@
+` Dù sao đi nữa, cảm giác như đây là nhà của người khác, và điều đó thật khó chịu.@
+` Trong khi tôi đang ngắm nhìn phòng khách, cô hầu gái mặc tạp áo cúi đầu một cách nhanh chóng.
+\
+` "Tôi đã đưa Shiki-sama đến đây."@
+` "Làm tốt. Bạn có thể quay trở lại nhà bếp, Kohaku."@
+` "Cảm ơn."@
+` Có vẻ như tên của cô hầu gái là Kohaku.@
+` Kohaku-san cúi chào nhỏ như đang nói lời tạm biệt rồi rời khỏi phòng khách.@
+` Điều đó để lại tôi và[line=2]hai cô gái tôi không quen biết.
+\
+ld l,"tachi/aki_t01a",lshutter,400
+ld r,"tachi/his_t01",lshutter,400
+!w1000
+cl a,crossfade,400
+ld c,"tachi/aki_t01a",crossfade,400
+` "Đã lâu lắm rồi, anh trai,"@
+` cô gái có mái tóc đen dài và đôi mắt sắc bén nói.
+\
+` …… Tất cả suy nghĩ của tôi đều dừng lại một lúc.@
+` Tôi quên sạch mọi thứ và không thể nghĩ ra bất kỳ lời chào nào. Tôi chỉ có thể gật đầu với một "Ừ".@
+br
+` …… Tôi nghĩ là không thể tránh được.@
+` Akiha này mà tôi chưa gặp trong tám năm không phải Akiha mà tôi nhớ đến.@ Cô ấy đã hoàn toàn thay đổi thành một quý cô đúng mực của gia đình quý tộc.
+\
+` "Anh trai?"@
+` Cô gái tóc đen nghiêng đầu nhẹ.@
+` "Â… àm."@
+` Thật đáng tiếc là tất cả những gì tôi có thể nói đều là những điều ngu ngốc.@
+` Tôi đang bối rối khi cố gắng nhận ra cô gái trước mặt là Akiha, nhưng dường như Akiha đã nhận ra tôi là em trai của mình.
+\
+` "Anh không khỏe lắm. Anh có muốn nghỉ ngơi một lát trước khi chúng ta nói chuyện?"@
+` Akiha liếc nhìn tôi một cái sắc bén.@
+` …… Có phải chỉ là tưởng tượng của tôi hay cô ấy trông như đang trong tâm trạng không vui?@
+\
+` "…… Không, tôi ổn. Tôi chỉ ngạc nhiên vì anh đã thay đổi nhiều, Akiha."@
+` "Người ta thay đổi theo thời gian tám năm, anh trai. Chúng ta đang ở độ tuổi thay đổi[line=2]hay anh nghĩ chúng ta sẽ mãi như vậy?"@
+br
+` …… Điều này là gì?@ …… Tôi cảm thấy những gai nhọn trong lời nói của Akiha.
+\
+` "Không, anh chắc chắn đã thay đổi, Akiha. Anh đã trở nên xinh đẹp hơn trước."@
+` Đó không phải là lời khen ngợi. Đó là cảm nghĩ thật của tôi.@
+br
+` [line=3]Và.@
+` "Thật vậy. Nhưng cậu, ngược lại, chẳng thay đổi gì nhiều đâu."@
+` Akiha trả lời lạnh lùng, mắt nhắm.
+\
+` ……@
+` …… Tốt rồi, tôi đã chuẩn bị cho điều này.@
+` Đúng như tôi nghĩ.@ Báo hiệu Akiha không coi trọng tôi.
+\
+` "Nếu anh khỏe mạnh, chúng ta nên kết thúc cuộc trò chuyện này. Anh vẫn chưa nghe hết những chi tiết về lý do tại sao được gọi trở lại đây, Nii-san?@
+` "Tôi chỉ nghe thấy một 'Trở về dinh' đột ngột, mặc dù tôi biết ông đã qua đời từ tờ báo."
+\
+` …… Nếu người đứng đầu một công ty lớn qua đời, chắc chắn sẽ được đăng trên các tờ báo tài chính.@
+` Tin về cái chết của Tohno Makihisa đã đến với con trai anh ta, Tohno Shiki, thông qua tờ báo sau tang lễ.@
+` Ngay cả khi người thân không nói cho anh biết, đứa con trai bị ruồng bỏ này có thể tìm hiểu tin tức về cái chết của cha mình chỉ bằng cách mua một tờ báo giá một trăm yên.@
+` Có lẽ tôi đang bi quan, nhưng thế giới quả thật đã trở nên tiện lợi.
+\
+ld c,"tachi/aki_t12a",crossfade,400
+` "…… Tôi xin lỗi. Là lỗi của tôi mà anh không nhận được tin về cha."@
+` Akiha im lặng cúi đầu.@
+` "Không sao đâu. Bất kể cách nào, cũng chẳng có gì thay đổi nếu anh đi. Không phải là điều nên lo lắng."@
+` "…… Tôi xin lỗi.@ Nghe cậu nói như vậy thật nhẹ lòng."
+\
+` Mặt Akiha nghiêm túc, nhưng tôi không quan tâm lắm đến chủ đề này.@
+` Một đám tang là nghi lễ dành cho những người không thể buông bỏ tình cảm với người đã khuất để đạt được sựDetached. Với một người như tôi, đã cắt đứt những cảm xúc đó từ lâu, thì không cần thiết.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+` "Việc gọi cậu trở lại đây là ý tưởng của tôi. Thật kỳ lạ nếu con trai cả nhà Tohno mãi mãi được giao phó cho Arima.@
+ld c,"tachi/aki_t04a",crossfade,400
+` Bây giờ cha đã qua đời rồi, chỉ còn hai anh em Tohno là chúng ta, Nii-san. Tôi không biết cha nghĩ gì khi giao phó anh cho Arimas, nhưng bây giờ ông ấy đã ra đi rồi, nên anh không cần phải sống chung với họ nữa. Đó là lý do tôi đưa anh về đây.`
+\
+` “…… Vậy là tốt rồi nhưng tôi khá ngạc nhiên khi cậu có thể thuyết phục được họ đồng ý. @ Chẳng phải họ chính là người nghĩ ra việc để tôi ở lại với bọn Arima sao?”`
+\
+` "Có thể thế, nhưng giờ đây tôi là người đứng đầu gia tộc Tohno. Tôi từ chối tất cả những lời cầu hôn từ họ hàng."@
+ld c,"tachi/aki_t01a",crossfade,400
+` Tôi muốn cậu tiếp tục sống ở đây, anh trai, nhưng nơi này có những quy tắc. Cậu sẽ tránh xa lối sống quá thoải mái như trước đây.`
+\
+` "Ahahaha. Tôi sợ là chuyện đó không thể xảy ra được, Akiha. Không có cách nào tôi có thể trở lại như một quý ông lịch sự nữa. Mà cũng chẳng muốn đâu."@
+ld c,"tachi/aki_t02",crossfade,400
+` Tôi sẽ không hỏi thêm nữa nhưng hãy cố gắng. [line=2]Hay là cậu đang nói rằng mình không thể làm những gì tôi đã yêu cầu?`@
+` Akiha nhìn tôi bằng ánh mắt lạnh lùng.`@
+` Dường như cô ấy đang đánh vào tôi với nỗi ấm ức vì tôi bỏ rơi cô ấy suốt tám năm qua.`
+\
+` “…… Được rồi. Tôi sẽ cố gắng hết sức.”`@
+` Akiha chỉ nhìn tôi, như thể cô ấy không tin vào lời tôi lắm.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+` "Không cần cố gắng, miễn là đạt được kết quả."@
+` Cái dáng vẻ của cô thật uy nghiêm, lời nói thì lạnh lùng vô tình.`
+\
+` “Chúng ta quay lại chủ đề đi.  Cả cậu và tôi hiện tại là những người duy nhất sống ở đây.  Tôi không thích có quá nhiều người xung quanh nên đã đuổi hết mọi người.”`@
+` “Ê? Chờ tí, Akiha. Cậu… đã đuổi hết mọi người đi?”`@
+` “Anh không muốn gặp một người thân trong biệt thự này đâu nhỉ, Nii-san?@ Tôi đã cho hầu hết các người hầu nghỉ, nhưng vẫn đủ để anh và tôi, nên không có vấn đề gì.”`
+\
+` “Chờ đã, ‘không vấn đề’? Cậu sẽ bị tấn công tại buổi họp gia đình nếu làm như vậy!”`@
+ld c,"tachi/aki_t02",crossfade,400
+` "Ôi, xin đừng nói nữa.`Thay vì để toàn nhà tràn ngập người, cậu có thấy thoải mái hơn khi chỉ có hai chúng ta thôi không?"`@
+` Ừm...`@
+` Ừm, đúng là tôi sẽ cảm thấy thoải mái, nhưng...`
+\
+` Nhưng mà cậu mới chỉ vừa trở thành đứng đầu gia tộc thôi, Akiha. Nếu cứ đi lạm dụng quyền lực như một kẻ độc tài thì họ hàng chúng ta sẽ không im lặng đâu. Ngay cả ông già cũng chẳng dám trái ý họ.`@
+ld c,"tachi/aki_t01a",crossfade,400
+` Thật vậy. Đó là lý do cha giao phó cậu cho gia tộc Arima. Ngược lại, tôi đã ghét bỏ họ từ khi còn bé. Tôi sẽ không chịu đựng sự than phiền của họ nữa.@
+` 'Không chịu đựng'… nhìn này, Akiha[line=3]
+\
+ld c,"tachi/aki_t21",crossfade,400
+` Âh, thôi rồi! Chỉ nghe đi! Cậu không cần phải lo lắng về tôi! Vui lòng, chỉ lo cho cuộc sống của chính mình từ bây giờ trở đi, anh trai. Tôi có thể thấy nó sẽ rất khó khăn đối với cậu theo nhiều cách.@
+` Akiha nói vẻ buồn bã, nhìn sang một bên.
+\
+` Bây giờ, nếu có điều gì không hiểu, hãy hỏi cô ấy[line=2]Hisui.@
+cl c,crossfade,400
+ld r,"tachi/his_t01",lshutter,800
+` Cô ta nhìn người con gái đứng cạnh mình.@
+` Người con gái tên là Hisui cúi đầu biểu hiện lạnh lùng.@
+ld l,"tachi/aki_t04a",crossfade,400
+` Đây là Hisui. Từ nay cô ấy sẽ là người hầu riêng của cậu. Có được không?@
+br
+` [line=8]"Ồ?!"@
+br
+` Chờ một chút… người hầu riêng? Cậu có nghĩa là…?@
+` Nói cách khác, cô ấy là người hầu của cậu.@
+` Akiha tuyên bố, như thể điều đó hiển nhiên vậy.
+\
+` …… Tôi không thể tin nổi.@
+` Phù hợp với phong cách phương Tây của ngôi nhà, cô gái mặc bộ đồ hầu hạ đứng đó, như thể điều đó là tự nhiên vậy.@
+` [line=2]Chờ một chút. Tôi không phải là đứa trẻ đâu, cậu biết đấy. Tôi không cần người hầu. Tôi có thể tự chăm sóc bản thân.@
+` Cả việc nấu ăn và giặt giũ nữa?@
+` Ugh.@
+` Akiha rất sắc sảo khi chỉ ra những điều này.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+` Bất kể sao, bây giờ khi cậu đã trở lại ngôi nhà này, cậu sẽ tuân theo những chỉ dẫn của tôi. Tôi không biết cậu sống như thế nào ở nhà Arima, nhưng bây giờ cậu đang sống ở nhà Tohno. Xin hãy chấp nhận mọi thứ được trao cho cậu.@
+` Ugh…@
+` Tôi không thể nói gì, và tôi nhìn về phía Hisui.@
+` Như dự, cô chỉ nhìn lại tôi với vẻ mặt vô cảm như một búp bê.
+\
+` "Vậy thì, Hisui. Xin hãy dẫn anh trai tôi vào phòng của anh.@
+cl a,crossfade,400
+` "Có, ngài chúa.@
+` Hisui tiến lại gần tôi với sự vắng mặt như bóng ma.
+\
+` "Tôi sẽ dẫn anh đến phòng của anh, Shiki-sama.@
+` Hisui đi về phía sảnh.@
+` DIPSETTING tôi thở dài và đi theo Hisui về phía sảnh.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33c",lcartain,800
+` Chúng tôi bước vào sảnh.@
+` Ngôi biệt thự này được chia thành hai phần: cánh đông và cánh tây, với sảnh ở giữa.@
+` Sảnh giống như thân thể của một con chim, với những cánh tay là các hành lang kéo dài chéo về phía đông và tây. Mỗi cánh có kích thước bằng một bệnh viện nhỏ.@
+` Tôi nhớ ngôi nhà được xây dựng theo hình đối xứng, vì vậy cả hai cánh đông và tây đều có cùng bản đồ tầng.
+\
+` "Phòng của anh ở đây, Shiki-sama.@
+` Hisui leo lên một bậc thang.@
+` Dường như phòng của tôi nằm ở tầng hai.@
+br
+` …… Nghĩ lại, phòng của các người hầu nên ở tầng một của cánh tây, vì vậy đó có lẽ là nơi ở của Hisui và Kohaku-san.
+\
+bg "bg/bg_46c",lcartain,800
+` Bên ngoài, mặt trời đã lặn.@
+` Cô gái mặc đồng phục hầu gái đi xuống hành lang dài và mờ tối mà không nói một lời.@
+` "…… Nó có vẻ như một thế giới thần tiên.@
+` Tôi vô tình để ý nghĩ của mình tuôn ra.@
+ld c,"tachi/his_t01",crossfade,400
+` Cậu có nói gì không, Shiki?@
+` Hisui dừng lại và nhìn ngược lại tôi.
+\
+` Không, tôi chỉ đang tự nói chuyện thôi. Đừng lo lắng.@
+` ………@
+` Sau khi nhìn tôi chốc lát, Hisui cúi đầu và tiếp tục đi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_40c",lcartain,800
+` ……@
+` Tôi đoán đây là cái gọi là 'mất lời'.@
+` Phòng mà Hisui dẫn tôi đến không phải là phòng của một học sinh trung học bình thường.
+\
+` …… Đây là phòng của tôi sao?@
+ld c,"tachi/his_t01",crossfade,400
+` Có. Nếu cậu không hài lòng với nó, tôi có thể sắp xếp một phòng khác cho cậu.@
+` Không, tôi tuyệt đối không thể phiền lòng về điều này. Nó[line=2] là@
+br
+` Chỉ là hơi[line=2]không, thực sự quá sang trọng cho tôi.@
+br
+` Shiki-sama?@
+` [line=3]Được rồi.@ Tôi sẽ vui lòng sử dụng phòng này.
+\
+` Có. Phòng này chưa được ai động vào kể từ tám năm trước, vì vậy tôi không nghĩ cậu sẽ tìm thấy bất cứ điều gì không hài lòng với nó.@
+` [line=2]?@
+br
+` Có điều hơi kỳ lạ về cách Hisui nói như thế.@
+` Như thể cô ấy đang ám chỉ đây từng là phòng của tôi.@
+` …… Chà. Đây có phải là phòng cũ của tôi không?@
+ld c,"tachi/his_t08",crossfade,400
+` Đó là những gì tôi đã được nghe. Tôi có nhầm lẫn không?@
+` Hisui nghiêng đầu về một bên nhẹ.@
+cl c,crossfade,400
+` …… Tôi cảm thấy nhẹ nhõm.@
+` Dường như cô bé này có thể bày tỏ cảm xúc sau cùng.
+\
+` …… À, có lẽ vậy, khi bạn nhắc đến nó. Tôi nhớ văng vẳng, nên chắc chắn là vậy.@
+br
+` Tôi không cảm thấy quen thuộc với nơi này chút nào, nhưng tôi đoán đó là cách mọi chuyện diễn ra sau khi rời khỏi một nơi trong tám năm.@
+br
+` Tôi không thể ổn định ở đây đâu. Tôi sống trong phòng rộng sáu mét rưỡi cho đến sáng nay. Cũng như đang ở khách sạn hạng sang vậy.@
+ld c,"tachi/his_t01",crossfade,400
+` Tôi hiểu cảm giác của bạn, nhưng hãy cố gắng quen với nó.@ Từ hôm nay trở đi, bạn là con trai trưởng gia tộc Tohno, Shiki-sama.
+\
+` Bạn đúng. Tôi phải cố gắng hết sức để ít nhất trông như vậy bên ngoài.@
+` Tôi đánh rơi chiếc túi xuống bàn và duỗi lưng.@
+br
+` [line=3]Tôi cảm thấy hơi căng thẳng với mọi chuyện xảy ra cho đến nay, nhưng tôi đoán mình không có lựa chọn nào khác ngoài việc thích nghi từ hôm nay trở đi.
+\
+` Shiki-sama, tất cả hành lý của bạn đã được mang đến đây. Có gì khác bạn cần?@
+` [line=3]Không, không có gì nhiều. Tại sao bạn hỏi vậy?@
+` …… Chỉ có rất ít hàng hóa được giao.@ Nếu bạn cần bất cứ thứ gì, tôi có thể chuẩn bị cho bạn, vì vậy xin đừng ngần ngại yêu cầu.
+\
+` …… Tôi hiểu. Không, hiện tại tôi không cần gì thêm. Tôi ban đầu không mang nhiều hành lý lắm. Hành lý của tôi chỉ là chiếc túi này, kính áp tròng và…@
+br
+` Sách giáo khoa trong túi của tôi, và dải ruy băng trắng với chủ sở hữu chưa xác định.@ Đó là tất cả[line=4]
+\
+` Bất cứ điều gì, bạn không cần phải lo lắng về hành lý. Phòng sang trọng này đã quá đủ cho tôi.@
+` …… Tôi hiểu. Vậy thì, tôi sẽ đến gọi bạn sau một giờ.@
+` Một tiếng? Bạn có nghĩa là bữa tối?@
+` Vâng. Hãy thư giãn cho đến lúc đó.@
+br
+` Như dự, Hisui nói mọi chuyện với khuôn mặt không biểu cảm.@
+` …… Mà ngay cả khi cô bảo tôi thư giãn, tôi có thể làm thế nào ở đây?
+\
+` Giờ là sáu giờ rồi.@
+` Thường thì lúc này tôi sẽ xem tivi trong phòng khách, nhưng tôi nghi ngờ liệu có cái gì như vậy trong biệt thự này không.
+\
+` "Hisui. Tôi biết đây là một câu hỏi nhỏ nhặt, nhưng ở đây có tivi không?@
+` "Tivi…?@
+` Mắt Hisui híp lại một chút.@
+` …… Tôi là người hỏi, nhưng thật sự là một câu hỏi ngu ngốc.@
+` Tôi cảm thấy có điều gì đó sai khi hỏi về việc có tivi trong một biệt thự xa hoa như thế này.
+\
+` Hisui lộ ra một biểu cảm khó chịu hiếm gặp và nhìn ra xa.@
+ld c,"tachi/his_t08",crossfade,400
+` "…… Không có tivi trong phòng khách.@ Một số vị khách đã sử dụng nó, nhưng khi họ rời đi, họ đã đóng gói nó cùng hành lý của mình và mang theo. Tôi không nghĩ rằng còn lại cái nào.
+\
+` "Chờ chút. Khách? Ai? Bao lâu?@
+ld c,"tachi/his_t01",crossfade,400
+` "Người thân. Con trai cả của Kugamine-sama từ một nhánh gia đình, con gái thứ ba của Touzaki-sama và người đính hôn của cô ấy, và con trai cả của Kishima-sama đã đến ở gần ba năm.@
+` "…… Ba năm, à? Hisui, đó là những gì bạn gọi là kẻ ăn bám, chứ không phải là khách mời.@
+` Hisui im lặng.@
+` Dù bất kỳ ai những người ăn bám này là, dường như các người hầu không thể nói điều gì xấu về họ.
+\
+` Tóm lại, có vẻ như những người thân đã mang theo và mang trở lại hành lý của riêng mình.@
+` Ông tôi ghét sản phẩm văn hóa hiện đại, cho rằng chúng đều tục tĩu.@ Không thể nào ông ấy sẽ xem tivi.@ Akiha, người được giáo dục bởi ông trong tám năm qua, có lẽ cũng vậy.
+\
+` [line=2]“Chả sao cả, tôi không chết vì thiếu nó.”@
+` Hisui im lặng.@
+` …… Như một ví dụ hoàn hảo cho người hầu, Hisui không nói gì trừ khi được hỏi trực tiếp.@
+` Điều này, đương nhiên là khá buồn cho tôi.@
+` Tôi muốn khiến khuôn mặt vô cảm ấy nở nụ cười bằng cách nào đó, nhưng với một nỗ lực hời hợt như thế thì dường như là bất khả thi.
+\
+` "Ồ, tầng trệt của sảnh phía tây có thư viện, phải không? Có lẽ tôi sẽ tìm cuốn sách để đọc khi có thời gian rảnh.@
+` Hisui im lặng.@
+` Cô chỉ đứng ở cửa. Tôi thậm chí không thể biết cô đang nhìn về đâu.
+\
+` [line=3]Hisui?@
+` Hisui im lặng.@
+` Bỗng nhiên, cô nhìn thẳng vào tôi.@
+br
+` "Tôi tin rằng có một cái trong phòng của Nee-san.@
+br
+` "Huh?@
+` Tôi không biết cô đang nói về điều gì.@
+` …… Uh… có một cái gì đó?@
+` "Một chiếc tivi. Tôi nhớ đã nhìn thấy một cái trong phòng của Nee-san.@
+` Hisui nói như thể đang nhớ lại điều gì từ nhiều năm trước.
+\
+` "Chờ chút. Nee-san? Đừng bảo rằng cô đang nói về Kohaku-san?@
+` "Vâng. Hiện tại, những người duy nhất làm việc trong biệt thự này là Nee-san và tôi.@
+` Bây giờ khi cô nói ra thì thật ra chúng trông giống nhau. Tôi chỉ không thể kết nối họ như chị em gái vì Kohaku-san luôn tươi cười ấm áp, còn Hisui thì luôn lạnh lùng.@
+` "Tôi hiểu. Kohaku-san có vẻ là người thích xem những chương trình tạp kỹ.@
+` Nhưng tôi lại không muốn đến phòng của Kohaku-san để nói với cô ấy: 'Cho phép tôi xem tivi của bạn'.
+\
+` "Xin lỗi, hãy quên như chưa từng hỏi. Sau tất cả, tôi sẽ sống ở đây từ bây giờ, vì vậy tôi phải tuân theo quy tắc của biệt thự.@
+` Chắc chắn Akiha sẽ có một bình luận cay nghiệt nào đó nếu tôi bắt đầu xem tivi.@
+` Chắc là từ giờ tôi sẽ sống như một học sinh nghiên cứu đúng kiểu nhà Tohno đây.`
+\
+` "Được rồi. Tôi sẽ ở trong phòng cho đến bữa tối, nên cứ gọi tôi khi đã đến giờ. Cậu còn việc khác phải làm chứ, Hisui?"@
+` Hisui gật đầu đồng ý rồi quay người.@
+cl c,lshutter,800
+` Cô im lặng đẩy cửa ra và rời khỏi phòng.`
+\
+bg #000000,crossfade,800
+playstop
+!w1000

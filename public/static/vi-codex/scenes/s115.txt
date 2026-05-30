@@ -1,0 +1,9 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06b",notrans,0
+` …… Ừm. Tôi sẽ cảm thấy tội lỗi nếu tiếp tục gây phiền toái cho Hisui và Kohaku-san.@
+` Vì không thể về nhà trong vài ngày qua, tôi ít nhất cũng nên về nhà hôm nay.
+\
+bg #000000,lcartain,1500
+!w2000

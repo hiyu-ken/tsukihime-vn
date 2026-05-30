@@ -1,0 +1,17 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_27b",notrans,0
+"[line=3]Khoan đã chị ơi.@ Senpai, chẳng phải lúc nãy chị bảo em cứ làm theo ý mình sao……?"@
+ld c,"tachi/cel_t01b",crossfade,400
+"Ừ, em cứ tự nhiên làm những gì mình muốn đi, Tohno-kun."@
+   Senpai khẽ gật đầu mỉm cười.
+\
+"…… Vậy tốt quá, em cứ tưởng mình tưởng tượng ra.@ Vậy thì, chúng ta tạm biệt ở đây nhé.@ Chị không nên đi theo em nữa đâu."@
+ld c,"tachi/cel_t07b",crossfade,400
+"Hử?@ Chị đâu có bám theo em hay gì đâu chứ."@
+"[line=3]Dạ ừm, Senpai?"@
+ld c,"tachi/cel_t01b",crossfade,400
+"Chị chỉ là có chút việc cần giải quyết ở công viên thôi.@ Chị cũng không biết em định đi đâu đâu, Tohno-kun, nhưng nếu em không tới công viên thì chúng ta tạm biệt nhau ở đây nhé."
+\
+cl c,crossfade,400

@@ -1,0 +1,82 @@
+monocro off
+playstop
+wavestop
+bg "bg/ima_01",crossfade,800
+play "*7"
+` [line=4]Và sau đó,
+` Tôi tiến tới, ôm chầm lấy cơ thể Akiha từ phía trước.
+\
+` [line=3]Không có cách nào tôi có thể giết cô ấy.@
+br
+`"…… Anh muốn em được sống."@
+` Akiha khẽ nghiêng đầu ngơ ngác đầy vẻ thắc mắc.@
+`"Dẫu cho em có hóa thành bất kỳ thứ gì đi chăng nữa[line=3]anh vẫn cất lực muốn em được tiếp tục sống, Akiha."@
+br
+` Nước mắt tôi không ngừng chảy.@
+` [line=3]Akiha ôm lấy tôi vui sướng và cắn vào cổ tôi.
+\
+`"[line=5]!!!"@
+` Đau quá.@
+` Nhưng đó không phải là hành động hút máu tôi.@
+` Nó chỉ là một hành động nguyên thủy để cắn tôi.
+\
+`"A-Akiha."@
+` Akiha chỉ cuồng nhiệt cắn vào cổ tôi.@
+` Cô ấy xé thịt và xương tôi đang bị nứt vỡ.@
+` Akiha không có trí tuệ.@
+` Cô ấy không biết ai đang giữ cô ấy, hay ý nghĩa của một cái ôm.@
+br
+` Akiha không khác gì một con thú biến thành hình người.@
+` [line=4]Nhưng vẫn...
+\
+`"[line=3]Vẫn... Tôi muốn cậu sống."@
+` ...Có điều gì sai khi mong như vậy?@
+` Có phải là tội lỗi khi tôi mong cô ấy ở lại và không chết dù cô ấy đang giết người?@
+` Ngay cả khi Akiha nói rằng cô ấy không thể chịu đựng điều đó, tôi vẫn muốn cô ấy vượt qua nó.
+\
+br
+` [line=4]Ngay cả khi...@
+` Nghĩ rằng tội lỗi sẽ đổ lên tôi là suy nghĩ ích kỷ.
+\
+`"...Tôi sẽ cứu cậu."@
+` Khó khăn.@
+` Với tất cả sức mạnh của mình, tôi ôm lấy Akiha.@
+`"Ồ, ừm... ừm!"@
+` Tôi ôm lấy Akiha đang cuồng nộ.@
+` Crunch.@
+` Cô ấy cắn xuyên qua xương vai tôi, làm gãy nó.
+\
+`"[line=6]Akiha[line=7]"@
+` Dù một trong những xương vai của tôi bị gãy, tôi vẫn ôm Akiha bằng một cánh tay.@
+`"Ối trời ơi!! Ôi..."@
+` Akiha giận dữ, cử động mạnh mẽ.@
+` Tôi ôm cô ấy trong một thời gian dài.@
+` ... Có phải đây là cái ôm cuối cùng của chúng ta?@
+` Tôi chưa từng ôm ai chặt chẽ đến thế, cố gắng ghi nhớ mọi thứ... nhịp tim họ, sự ấm áp của họ...
+\
+`"Ừm..."@
+` ... Có lẽ vì cô ấy biết tôi không định làm gì, Akiha ngừng kháng cự.@
+br
+` Tôi không biết chúng tôi đã ở như vậy bao lâu giữa những chiếc lá thu rơi.@
+` Akiha đã ngủ thiếp đi trong vòng tay tôi.
+\
+bg "bg/bg_54a",crossfade,800
+`"..."@
+` Tôi đặt nhẹ nhàng cơ thể Akiha xuống mặt đất.@
+` Tóc của cô ấy vẫn còn màu đỏ.@
+` Nếu lời Shiki nói là sự thật, thì...
+` Không có cách nào để trả lại màu đen cho nó ngoài phương pháp đó.
+\
+`"..."@
+` Tôi đã thề sẽ cứu cô ấy, bất kể điều gì xảy ra.@
+` Nó rất dễ để cứu cô ấy.@
+` Lý do Akiha sống như một thành viên trong gia tộc Tohno là vì...@
+` Nếu người mà cô ấy đang chung sống biến mất, cô ấy có thể quay lại với bản dạng ban đầu của "Tohno Akiha".@
+` Nhưng điều đó đồng nghĩa[line=3]với cái chết của Tohno Shiki.
+\
+` Tôi không biết điều gì dẫn đến hạnh phúc hay điều gì có thể cứu chúng tôi.@
+` Tôi cũng không biết cái chết có phải là cách để cứu cô ấy hay không.@
+` Nhưng lúc này, tôi không thể xác định được điều đúng đắn cần làm.@
+br
+` [line=6]...
+\

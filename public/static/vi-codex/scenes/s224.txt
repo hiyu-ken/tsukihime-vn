@@ -1,0 +1,42 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_03a",notrans,0
+` [line=3]Tôi dồn hết can đảm để hỏi cô ấy về chuyện đêm qua.@
+br
+`"…… À[line=2]Senpai.@ Đêm qua, Senpai có ở trong công viên không?@ Tôi hình như thấy Senpai mặc một chiếc áo choàng đen, váy bay phất phới trong gió ấy."@
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Cái gì thế?"@
+`"Ờ……!@ à[line=2]ừ, đôi giày boot cổ cao rất hợp với Senpai.@ Tôi hơi bị mê luôn ấy, Senpai trông… thực sự rất ngầu."
+\
+ld c,"tachi/cel_t08",crossfade,400
+` ……"Hả?" Senpai nghiêng đầu ngạc nhiên.@
+` Tôi cũng ngạc nhiên vì chính bản thân mình.@
+` Rốt cuộc mình vừa nói cái gì thế này?
+`"Ờm, tôi không hiểu rõ lắm, nhưng cô đang nói rằng hai đêm trước, tôi đứng gần nhà cô với bộ dạng như vậy sao?"@
+`"Đúng rồi. Anh... có phải là em đúng không?"@
+`"Ah[line=3]không, xin lỗi, quên câu vừa rồi đi ạ.@ Đêm qua, Senpai có ở trong công viên gần khu trường không ạ?"@
+`"Công viên à?@ Không, tôi chẳng ở đó đâu."@
+` [line=3]Thầy giáo thực sự tức giận.@
+` Senpai trả lời bình thản.@
+` …… Có vẻ cô ấy không nói dối.@
+` [line=4][line=3]Thực ra mà nói, tôi cũng chẳng nhìn rõ mặt người đó.@
+` Trong bóng tối dày đặc, mình chỉ nhìn thấy đường viền bóng dáng mờ ảo thôi.@
+` Nếu nghĩ lại, cô gái đó không nhất thiết phải là Senpai.
+`"Tohno-kun, đó không phải là tôi. Tôi chẳng có sở thích như vậy đâu."@
+`"[line=3]À... Vâng, tôi biết. Tôi chỉ muốn hỏi thôi."
+`"Vâng, xin lỗi vì hỏi chuyện kỳ lạ."@
+`"Không sao đâu, chuyện vặt mà.@ …… Nhưng, chuyện gì đã xảy ra đêm qua vậy?@ Cậu hỏi có phải là tôi không, nghĩa là cậu đã gặp ai đó trông giống tôi ở công viên sao?"@
+` Ciel-senpai và người đó vào đêm nay hoàn toàn không có liên quan.@
+` [line=3]Senpai bỗng tỏ ra quan tâm.@
+` …… Hừm, có vẻ Senpai vẫn không biết gì về chuyện đêm qua.@
+` Thôi, chắc đó chỉ là nhầm lẫn của mình thôi.
+`"... Xin lỗi, xin hãy quên đi. Tôi nghĩ đó chỉ là người khác."@
+ld c,"tachi/cel_t09",crossfade,400
+`"Không, có lẽ tôi nhầm.@ Chắc là nhìn ai đó giống Senpai thôi."@
+`"Ồ, vậy sao."@
+` Senpai gật đầu, có vẻ đã chấp nhận lời giải thích.@
+` …… Giỏi lắm Shiki.@
+` Phiền phức nhất là phải giải thích tại sao mình lại ở công viên vào đêm hôm đó, nhưng may là cô ấy không hỏi tiếp.
+` Tôi chéo tay và suy nghĩ.
+\

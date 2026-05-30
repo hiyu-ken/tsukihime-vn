@@ -1,0 +1,531 @@
+monocro off
+wavestop
+bg "bg/bg_19b",notrans,0
+play "*1"
+` …… Tôi đã hứa mà.@
+` Cho dù đó là điều gì tôi đã hứa, tôi không thể phá vỡ nó.@
+br
+` …… Arcueid đang ngủ.@
+` Khuôn mặt cô trắng nhợt như người bệnh.
+\
+` Arcueid đã nói rằng cô yếu.@
+` Cô ấy nói rằng cô đã đến giới hạn chỉ một lúc trước, vì vậy tôi không nghĩ cô đã tính đến điều gì tôi có thể làm sau khi cô ngủ.@
+br
+` Phòng rất yên tĩnh.@
+` Chúng ta đang ở tầng mười một, tầng cao nhất.@ Vì cô ấy đã thuê cả tầng nên không có khách khác ở đây.
+\
+` Chỉ có tiếng thở của Arcueid.@
+` Khi nhìn thấy cô như thế này[line=3]cô thực sự trông kinh khủng mà đẹp trai.
+\
+` Da trắng, mịn màng và mái tóc vàng nhạt mượt mà,
+` Những đường nét mềm mại của cơ thể cô ấy và những mi dài như những nét cọ nhanh nhẹn.@
+` Một thân hình hoàn hảo[line=2]ngay cả đến những chi tiết nhỏ[line=2]tôi chưa từng thấy trước đây.@
+br
+` Không, để chính xác hơn…
+` …… Loại mà tôi chưa bao giờ nhìn thấy trong cả cuộc đời.
+\
+` “[line=5]”@
+` Ma cà rồng hay không, Arcueid vẫn là một cô gái.@
+` Tôi phải chịu trách nhiệm về thực tế rằng cô ấy yếu đến nỗi ngủ thiếp đi ngay lập tức như lúc này.@
+br
+` “…… Bạn phải chịu trách nhiệm cho những việc mình làm.”@
+` …… Một phần giáo dục thời thơ ấu của tôi xuất hiện trong đầu.
+\
+` Thậm chí Sensei cũng đã nói với tôi.@
+` Mắt tôi lạ thường, vì vậy chúng sẽ thu hút những thứ kỳ quái.@
+` Vậy thì tôi nên chuẩn bị để chịu trách nhiệm.@
+` Ít nhất, tôi nên giữ lời hứa và bảo vệ cô ấy cho đến tối nay[line=4]
+\
+bg #ffffff,crossfade,1500
+playstop
+!w2000
+br
+br
+br
+br
+br
+br
+` [line=3]Trắng.@
+` Loại mà bạn thấy khi thức dậy.@
+` Màu sắc đó gợi lên những ký ức hoài niệm.
+\
+!w3000
+bg "bg/cmo_05",crossfade,1500
+` Một ngày hè oi bức.`@
+br
+` Một bầu trời xanh thẳm và những đám mây mùa hè to lớn.`@
+` Cảnh vật chậm rãi lay động trong cái nóng oi bức.`@
+` Tiếng kêu của ve.`@
+br
+` Tiếng kêu của ve sầu.
+\
+` Còi kêu. Còi kêu.@
+` Còi còi.   Còi còi.@
+` Những vỏ cicada nằm rải rác trên bãi đất trống.`@
+br
+` Mặt trời như đang ở bên cạnh tôi,
+` Cánh đồng rực lửa.`
+\
+` Một ngày hè oi bức.@
+br
+` Như thể cả thế giới biến thành chảo rán.`@
+` a, ừ, aaaa.`@
+` à, ừ, à...`@
+` ừm, à, ư...@
+` Akiha đang khóc.
+\
+br
+` Akiha, luôn răm rắp theo sau tôi, giờ đây nước mắt tràn đầy trên má.
+\
+monocro #ff0000
+bg "bg/cmo_06",crossfade,400
+` Một đứa trẻ nằm bất động trước chân cô.`@
+` Ngập trong máu. Chết. Thi thể một đứa trẻ, tầm tuổi tôi.`@
+br
+` Một vỏ trấu của con chuồn chuồn đã rụng.`@
+br
+` Hai bàn tay của tôi
+!w500
+` Đã đỏ
+!w500
+` Bị nhuộm máu đứa trẻ đã ngã xuống.
+\
+` "SHIKI[line=5]!"@
+br
+` Người lớn đang đến.@
+` Trẻ con đã ngã vẫn còn chết.@
+br
+` Người lớn đang hét lên.@
+br
+` Bạn đã giết anh ta[line=4]!?
+\
+monocro off
+bg #ffffff,crossfade,1500
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Mơ đó.@
+` Một giấc mơ mà tôi đã quên ngay cả trong những giấc mơ của mình.@
+br
+` Tôi cảm thấy… như thể tôi nhớ.
+\
+bg #000000,crossfade,800
+` "Shiki. Hé, thức dậy. Mặt trời đã lặn rồi."@
+` Có người đang lay tôi.@
+` …… Một giọng nói hơi xa lạ và cảm giác bàn tay lạnh trên vai tôi.@
+` [line=4]Nn.@
+bg "bg/bg_19d",crossfade,800
+play "*3"
+ld c,"tachi/ark_t06",crossfade,400
+` [line=2]Huh?@
+` Arcueid đang đứng ngay trước mặt tôi.@
+` Cô đã thức dậy rồi, và bên ngoài tối đen. Tôi liếc nhìn đồng hồ, nó chỉ tám giờ.
+\
+` [line=4]Eh?@
+ld c,"tachi/ark_t04",crossfade,400
+` "Không phải 'Eh?' Tôi bảo cậu thức dậy khi mặt trời lặn, mà cậu lại ngủ thiếp đi!@
+` …… Crap. Xin lỗi, tôi đang không tỉnh táo lắm.@
+br
+` …… Tôi không nhớ khi nào mình đã ngủ, nhưng chắc chắn là lúc nhìn mặt Arcueid đang ngủ.
+\
+` Ê. Nếu như thế thì bạn sẽ mất tư cách làm vệ sĩ đấy. Nếu kẻ thù tấn công khi chúng ta đều đang ngủ, chúng ta có thể cả hai đều chết, bạn biết chứ.@
+` [line=3]Tôi đã xin lỗi rồi. Bên cạnh đó, cô nói là ban ngày an toàn.@
+` Tôi không chắc chắn điều đó.@ Những sinh vật như chúng ta nhìn thấy sáng nay có thể đến với chúng ta.
+\
+` Arcueid đang tức giận.@
+` …… Chắc là cô ấy có lý do để tức giận.@ Tôi, người làm vệ sĩ, đã ngủ quên khi cô ấy đang ngủ.
+\
+ld c,"tachi/ark_t11",crossfade,400
+` Và ngoài ra, tôi là ma cà rồng, bạn biết chứ. Sao bạn lại có thể ngủ ở đây mà không cảm thấy nguy hiểm gì?@
+` Tôi không muốn bạn sợ hãi vô lý, nhưng ít nhất cũng nên căng thẳng một chút để không ngủ.@
+` [line=4]@
+` Tôi xin lỗi.@
+` Arcueid dường như không quan tâm đến việc tôi đã không làm tốt nhiệm vụ vệ sĩ của mình. Cô ấy chỉ không thích việc tôi ngủ.@
+` Tôi có thể cử động cơ thể một chút và thức dậy, chỉ để thấy cô ấy đang ngủ ngon lành. Mặt cô ấy trông thật dễ thương, tôi thực sự bắt đầu lo lắng rằng mình không xứng đáng với danh tiếng của một ma cà rồng.@
+` ………@
+br
+` Chắc là cô ấy không có nhiều uy tín lắm.
+\
+` Bạn cũng rất dễ bị tổn thương. Tôi đã giết bạn một lần trước đây, nhớ chưa? Bạn không thể chắc chắn rằng tôi sẽ không làm lại lần nữa, phải không?@
+ld c,"tachi/ark_t13",crossfade,400
+` Ah[line=4]@
+` Arcueid có vẻ ngạc nhiên, như thể cô ấy mới chỉ bây giờ nhận ra điều đó.
+\
+ld c,"tachi/ark_t03",crossfade,400
+` Bây giờ khi bạn nhắc đến nó, thì đúng. [line=3]Tôi tự hỏi tại sao tôi lại làm vậy? Tôi đoán là tôi hoàn toàn tin tưởng vào bạn kể từ khi chúng ta nói chuyện ở hẻm.@
+` ………@
+` Ừm... Nói vậy cũng chẳng làm tôi thấy tội cho cô ấy đâu...`
+` "Được rồi.  Cậu tin tưởng tôi nhiều như vậy à? Tôi sẽ cố gắng hết sức. Từ giờ, tôi nên canh chừng sao?"@
+ld c,"tachi/ark_t01a",crossfade,400
+` Vâng, cho đến khi mặt trời mọc ngày mai. Tôi không thể rời khỏi phòng này, nên hãy cảnh giác nếu có ai lên tầng này.`@
+` …… Cẩn thận đi, ừ.@ Cẩn thận cũng chẳng giúp ích gì nếu những con chó đen sáng nay lại đến tìm chúng ta.`
+\
+playstop
+` *thở dài*@
+` Tôi thở dài. Theo như tôi đoán, vai trò này quá nặng nề đối với tôi.`@
+` “…… Cho tôi hỏi điều gì đó. Con chó đen tấn công chúng ta sáng nay có phải là kẻ thù của bạn sai khiến không?”`@
+` "Tôi không nghĩ vậy, nó có lẽ là để giám sát. @ Con đường tuần tra của nó trùng với nơi chúng ta đang nói chuyện, và dường như sự hiện diện của tôi đã bị lộ ra."
+\
+` "Bị phơi bày rồi sao? Đối với kẻ thù của bạn?"@
+` "Đúng vậy. Nếu tôi ở trong trạng thái hoàn hảo, nó sẽ thậm chí tiết kiệm thời gian cho tôi. Nhưng bây giờ thì ngược lại. Nếu bị tấn công lúc này, tôi sẽ là người bị tiêu diệt. Đó là lý do tại sao tôi phải ẩn náu như thế này cho đến khi sức mạnh của tôi hồi phục."`
+\
+` …… Kẻ thù của Arcueid.  Nói cách khác, kẻ sát nhân hàng loạt đang gây náo loạn ở thị trấn này [line=3] là một ma cà rồng.`@
+br
+` “…… Arcueid. Tôi muốn hỏi cậu một điều. Cậu có trả lời tôi không?”`@
+` "Tôi không phiền đâu.`Nhưng sao cậu lại bất ngờ lịch sự thế này?"`@
+` [line=3]"Ừ, tôi chưa hỏi cậu điều quan trọng nhất... Vậy mục tiêu cuối cùng của cậu ở đây là gì?"
+\
+play "*1"
+ld c,"tachi/ark_t03",crossfade,400
+` Tôi? Tôi đến đây để săn bắt ma cà rồng. Sát trừ ma cà rồng là bổn phận của tôi.`@
+` "Ừ, tôi nhớ cậu từng nói vậy trước đó.`Nhưng mà cậu là ma cà rồng chứ?"`@
+ld c,"tachi/ark_t06",crossfade,400
+` "Sao vậy? Cậu vẫn không tin tôi chứ?"@
+` "À, đừng lo lắng, tôi tin cậu nhiều đến mức đau lòng. Tôi hỏi tại sao cậu, một ma cà rồng, lại tự xưng mình đang giết những ma cà rồng khác?"@
+` “À? Cậu không thích ý tưởng những sinh vật cùng loài giết lẫn nhau?”`@
+ld c,"tachi/ark_t01a",crossfade,400
+` ,  …… Việc giết người chẳng phải là điều tôi thích lắm, nhưng cô ấy đúng.@ Tôi không ưa ý tưởng những con ma cà rồng giết lẫn nhau.`
+\
+br
+` “Không, chỉ là tôi không thể hình dung chuyện đó xảy ra được.  Ma cà rồng hút máu người, phải không?  Thế nên chúng nên giết người, chứ không phải giết lẫn nhau.”`@
+` "Uống máu và giết người là hai chuyện khác nhau."@
+ld c,"tachi/ark_t02",crossfade,400
+` , Ừm... Dù sao tôi cũng hiểu ý cậu.  Cậu nghĩ những sinh vật cùng loài nên giúp đỡ nhau phải không?@
+` Nhưng ma cà rồng có thể thuộc cùng một loài nhưng vẫn là những sinh thể khác nhau. @ Đó là lý do tại sao họ không thực sự có cái gọi là 'bạn bè' như con người các bạn.`
+\
+` “……? Vậy ngươi đang nói điều gì khiến ngươi khác biệt với ma cà rồng mà ngươi săn đuổi?”`@
+ld c,"tachi/ark_t01a",crossfade,400
+` "Đúng thế đấy.`Người tôi tìm là một ma cà rồng người như những câu chuyện ma cà rồng truyền miệng của các bạn ấy.`@
+` [line=3]Anh ta giết người bằng cách hút máu họ, biến họ thành những Tử Linh rồi sử dụng chúng để tăng sức mạnh và ảnh hưởng của mình. Đó là loại ma cà rồng tôi săn đuổi.`@
+` "Kẻ ẩn náu ở thị trấn này là loại ma cà rồng cổ điển."@
+br
+` [line=3]"Loại" ma cà rồng như thế à? @ Có vẻ như có nhiều loại khác nhau."`
+\
+` “...... Cậu muốn tôi là tấm khiên cho cậu để đánh nhau với hắn à?”@
+ld c,"tachi/ark_t03",crossfade,400
+` [line=3]"Ừ, ý định ban đầu của tôi là vậy đấy. Nhưng sau khi nói chuyện với cậu, tôi đã thay đổi suy nghĩ. "@
+ld c,"tachi/ark_t01a",crossfade,400
+` Mới đầu, tôi nghĩ cậu là người của Giáo Hội.`@
+` Vậy tôi nghĩ cậu có thể biết thông tin về vị trí kẻ thù, nhưng hóa ra cậu chỉ là một người bình thường.`@
+` Anh thậm chí chẳng biết về ma cà rồng, huống hồ là vị trí quan tài của kẻ thù.`
+\
+ld c,"tachi/ark_t03",crossfade,400
+` “……Ừm, nghĩ lại thì cũng đúng, họ đâu có thể cử một thầy trừ tà đến một đất nước thế tục xa xôi như này.[line=2]Tôi thật sự chưa suy nghĩ kỹ lắm.”`@
+` Arcueid nghĩ thầm.`@
+` Tôi cảm thấy mình bị bỏ lại một bên.
+\
+` Tôi không hiểu cậu đâu, Arcueid.`@
+` “À, đợi một chút… để xem… Tôi nên diễn đạt thế nào…”`@
+` Với điều đó, ánh nhìn của Arcueid bắt đầu lơ đãng.`@
+` Cô ấy dường như chưa quen với việc trò chuyện.`
+\
+` "Đừng lo lắng và chỉ cần giải thích mọi chuyện về tình hình hiện tại.`Tôi không hiểu bất cứ điều gì, nhưng tôi có thể nhìn ra được khái quát của nó."`@
+ld c,"tachi/ark_t01a",crossfade,400
+` "Thật vậy? Cảm ơn, Shiki."@
+` "Không cần cảm ơn tôi đâu.`Chỉ cần tiếp tục nói chuyện thôi.`@
+` Arcueid gật đầu ngoan ngoãn.
+\
+` “Về cơ bản, ma cà rồng hiện nay ở thị trấn này là một loại ma cà rồng cổ điển. Anh ta tự xưng là chúa tể và phóng thích những Tử Linh mà anh ta tạo ra vào thành phố. Bằng cách đó, anh ta tăng dần sức mạnh của mình.`@
+` Anh ta là một ma cà rồng điển hình, hút máu người và biến họ thành ma cà rồng nữa.
+\
+` Anh ta không mạnh lắm lúc này vì chưa có nhiều Tử Linh phục vụ, nhưng khi số nạn nhân tăng lên thì sức mạnh của anh ta cũng tăng theo.@
+` Thật tốt nếu ta tiêu diệt được thân thể chính trước khi hắn thức tỉnh. Nhưng tôi vẫn chưa tìm ra nơi hắn ngủ.`@
+` Anh ấy giấu mình quá kỹ, tôi thậm chí không cảm nhận được sự hiện diện của anh ta.
+\
+ld c,"tachi/ark_t02",crossfade,400
+` “Dù sao đi nữa, việc này cũng dễ dàng nếu tôi tìm được nó.  Nhưng tôi chẳng có manh mối gì cả, nên đành phải lang thang khắp thị trấn suốt ngày để điều tra.`@
+` Nhưng rồi tôi bỗng bị một kẻ sát nhân đi ngang tấn công, giờ đây tôi yếu hơn ma cà rồng địch.`@
+br
+` Arcueid liếc nhìn tôi lạnh lùng.`Tôi đoán cô muốn nói điều gì đó với kẻ “chết người qua đường”`.
+\
+` “...... Tôi hiểu rồi. Tôi có cảm giác mình hiểu tình hình hơn một chút. Nghĩa là, những con quái vật xấu xa đang ẩn náu ở thị trấn này, và cậu đến đây để tiêu diệt chúng.`@
+` Vì không biết họ ở đâu nên cậu đi tìm kiếm và đó là lúc tôi...uh[line=3] giết chết cậu. Bây giờ cậu yếu ớt và trốn tránh để hồi phục... Đúng không?"@
+ld c,"tachi/ark_t01a",crossfade,400
+` Tôi nghĩ vậy.`
+\
+` [line=3]Vậy, tiếp theo là chủ đề chính.`@
+` Mày tự xưng là ma cà rồng chơi thế, mà tao vẫn chưa hiểu lắm.`@
+` ……… Rõ ràng cậu không phải là người, tôi có thể thấy điều đó. Nhưng tôi lại không cảm nhận được sự hiện diện của một ma cà rồng.`
+\
+ld c,"tachi/ark_t03",crossfade,400
+` "Đúng vậy.`Tôi hơi khác với loại ma cà rồng mà cậu biết."`@
+` Thật vậy. Tôi chưa bao giờ nghĩ rằng những con ma cà rồng tồn tại, huống chi là một con như cậu.@
+` Vậy điều gì khiến cô khác biệt?@
+` Arcueid đang suy nghĩ.@
+` "Có… Tôi đoán việc dạy cậu một chút về chúng ta có thể là hữu ích."
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` "Được rồi. Vậy bài học đầu tiên sẽ là 'Ma cà rồng 101'."@
+` "…… Được, nhưng… Cái gì là 'Ma cà rồng 101'?@
+` "Cậu mới bắt đầu nên chúng ta phải từ những điều cơ bản, phải không? Đó là lý do tại sao tôi sẽ bắt đầu dạy từ đầu."@
+` [line=3]Được rồi, tùy.@ Chỉ cần ngắn gọn.
+\
+ld c,"tachi/ark_t14",crossfade,400
+` "Tốt… Tôi sẽ cố gắng hết sức."@
+br
+` …… Cậu ta thật sự không quen với việc nói chuyện.@
+` Chà, chúng ta có rất nhiều thời gian, vì vậy bây giờ tôi đoán tôi sẽ lắng nghe Arcueid mà không phàn nàn.
+\
+bg #000000,lshutter,400
+playstop
+bg "bg/bg_19d",lshutter,400
+play "*9"
+ld c,"tachi/ark_t02",crossfade,400
+` "Mặc dù thường được gọi đơn giản là 'ma cà rồng', nhưng chúng ta được chia thành hai loại chính.@
+` Những người vốn là ma cà rồng từ đầu và những người trở thành ma cà rồng.@
+` Loại trước được gọi là True Chân Tổ, còn loại sau được gọi là Tử Đồ.@
+` Những người mà cậu gọi là ma cà rồng là những Tử Đồ. Chúng hút máu con người và biến họ thành nô lệ của mình. Chúng yếu đuối dưới ánh nắng mặt trời, và cậu có thể tiêu diệt chúng bằng nghi thức rửa tội."@
+` Kẻ thù của chúng ta là một trong những Tử Đồ này.
+\
+cl c,crossfade,400
+` Từ 'kẻ thù của tôi' đã chuyển thành 'kẻ thù của chúng ta'.@
+` …… Chà, tôi không phiền. Cô ấy không sai, xét cho cùng tình hình hiện tại của tôi.@
+br
+` "…… Hmmm.@ Vậy cô đang nói những Tử Đồ này không phải là ma cà rồng từ đầu?@ Cậu có nghĩa là gì?
+\
+ld c,"tachi/ark_t02",crossfade,400
+` "Tử Đồ từng là con người. Chúng đạt được trường sinh thông qua phép thuật, hoặc máu của chúng bị một True Chân Tổ hút."@
+` Dù bằng cách nào đi nữa, những kẻ trở thành ma cà rồng cũng sẽ bất tử, mặc dù đó là sự bất tử không hoàn hảo.@
+` ……@
+cl c,crossfade,400
+br
+` Những kẻ vốn là ma cà rồng từ đầu và những con người biến thành ma cà rồng.@
+` …… Đây là gì?@
+` Tôi cảm thấy có một sự mâu thuẫn lớn với tất cả điều này. Cảm giác như một nguyên tắc cơ bản quan trọng nào đó đang thiếu ở đâu đó trong lý thuyết này.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` Ê[line=2]Shiki. Bạn biết bao nhiêu về truyền thuyết ma cà rồng?@
+` Để xem… Chỉ những chuyện bình thường thôi. Chúng hút máu của trinh nữ, chúng có thể trói buộc người bằng cách chỉ nhìn vào họ, chúng có thể biến thành sương mù và sói… chỉ những điều bình thường mà mọi người nghe về.
+\
+` Ừm, đó gần như là tất cả sự thật.@
+` Chúng hút máu của trinh nữ bởi vì tế bào máu của một người càng tinh khiết trước khi họ trao đổi chất cơ thể với người khác. Điều đó làm cho những trinh nữ trở nên phù hợp nhất để sửa chữa gen đang thoái hóa của ma cà rồng.
+\
+ld c,"tachi/ark_t02",crossfade,400
+` Những Ma Cà Rồng Tử[line=3]những kẻ trở thành ma cà rồng có sự bất tử không hoàn hảo.@
+` Bởi vì họ đã bất tử, họ sẽ không chết vì già. Tuy nhiên, họ cần phải bổ sung năng lượng thường xuyên, hoặc họ sẽ biến mất. Tất cả sinh vật đều cần chất dinh dưỡng để có thể di chuyển, đúng không? Cũng giống như vậy.@
+` Chỉ là ma cà rồng không chết vì tuổi tác miễn là chúng hấp thụ được chất dinh dưỡng.
+\
+` Những Ma Cà Rồng Tử hút máu bởi vì họ cần nó để sống.@
+` Sự bất tử là một gánh nặng đối với cơ thể của họ ban đầu là người.@
+` Gen cấu thành nên cơ thể của họ khác nhau… khi trở thành ma cà rồng, chúng bắt đầu thoái hóa ở tốc độ kinh khủng.@
+` Để bù đắp điều đó, họ phải hút máu người khác để hấp thụ thông tin di truyền và ổn định cơ thể của chính mình. Đối với một ma cà rồng, uống máu không giống như ăn, nhưng đó là điều tối thiểu cần thiết cho chúng tồn tại.
+\
+` ………@
+` Điều này nghe phức tạp. Và dài.@
+` Tôi không thể theo dõi luận điểm, nhưng Arcueid vẫn tiếp tục nói.
+\
+` Vậy, tiếp tục.@
+` Có thể trói buộc người bằng ánh nhìn là một loại Ma Nhãn.  Mắt và lời nói đều là loại Mạch Ma Thuật phổ biến, vì vậy có nhiều ma cà rồng sở hữu Ma Nhãn.@
+` Chúng ta thường sở hữu Mắt Huyền Bí của Lôi Dục.`@
+` Chúng ta không mê hoặc người khác bằng cách nhìn vào họ, mà là những người nhìn vào mắt chúng ta.@ Một con ma cà rồng mạnh mẽ sử dụng Ma Nhãn có thể áp đặt ý muốn của mình vào não bộ của người khác và hoàn toàn thống trị suy nghĩ của họ, nhưng Ma Nhãn của một Tử Đồ thì không có nhiều sức mạnh như vậy.`
+\
+ld c,"tachi/ark_t03",crossfade,400
+` “Gì mà gọi là ‘trở thành sương mù’ cơ chứ? Thực ra chỉ là tạo ra một xác ướp dự phòng và điều khiển nó bằng ý chí thôi.@ Khi phần đó đã hoàn thành nhiệm vụ, bạn cắt dòng năng lượng ma thuật đến với chi nhánh và tự nhiên, nó sẽ trở về tro bụi.”`
+\
+` [line=2][line=2]Những con sói và những biến đổi hình dạng động vật khác là một sản phẩm phụ của việc ma cà rồng sửa chữa cơ thể bị hư hại từ những kẻ hầu hạ của nó.@
+` Đối với một ma cà rồng sống lâu đời, ổn định cơ thể bằng cuộc sống bình thường là chưa đủ.@
+` Con người không phải là loài động vật mạnh mẽ từ gốc rễ, vì thế việc sửa chữa cơ thể bằng cách hấp thụ quái thú hiệu quả hơn, bởi chúng vượt trội con người ở khía cạnh này.@
+` "Những con ma cà rồng có thể sửa chữa cơ thể mình bằng cách sử dụng quái vật. Khi cần, chúng có thể đưa những quái vật đó trở về hình dạng ban đầu và sử dụng chúng như thú cưỡi."
+\
+` "Ừm... Theo tôi nghe đồn, có cả một con ma cà rồng sống được ngàn năm cơ thể toàn là những thú cưng.  Họ nói hắn chứa 666 quái vật bên trong cơ thể, hay như thế nào đó..."@
+cl c,crossfade,400
+` [line=5]""@
+` Tôi nghĩ Arcueid đang lún sâu vào lời nói của chính mình quá rồi.`@
+` Nói thật là ra, tôi thấy thế giới này khó hiểu lắm.`
+\
+ld c,"tachi/ark_t03",crossfade,400
+` Vâng, xấp xỉ như vậy.` Cái này chỉ là giải thích về những điều cơ bản thôi mà, giờ cậu đã biết là ma cà rồng là gì chứ?`@
+` “Ừ… Tôi đoán vậy.”`@
+` Sự thật rằng Arcueid là một ma cà rồng bắt đầu khó chấp nhận hơn.`
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` "Bây giờ đến lượt tôi rồi.`Vâng, thực ra còn một điều quan trọng tôi quên hỏi cậu nữa."`@
+` "Cái gì? Cậu không học được gì từ tôi đâu. Tôi chẳng phải ma cà rồng hay thứ gì đó như thế, chỉ là một sinh viên bình thường thôi."@
+ld c,"tachi/ark_t02",crossfade,400
+` "Ừm. Vậy để tôi hỏi cậu một câu, Shiki. Cậu đã giết tôi như thế nào? "`@
+` "Ê?"`
+\
+` "Tôi muốn biết phương pháp mà cậu dùng. @ Tôi kháng lại những thứ như Runes và Kabbalah, nên chúng không có tác dụng với tôi.@ Những thứ duy nhất tôi không kháng lại là phép thuật mà tôi chưa từng trải nghiệm, khả năng cao chỉ giới hạn ở Shinto cổ của đất nước này và báu vật ở Nam Mỹ."`
+\
+ld c,"tachi/ark_t07",crossfade,400
+` "Không, thậm chí chúng cũng không thể 'chết' tôi đến thế này."@
+` Trả lời tôi đi, Shiki.` Loại bùa chú gì mà có thể khiến tôi như vậy?@
+` "Bùa hộ mệnh...? Cái đó là gì?"@
+ld c,"tachi/ark_t16",crossfade,400
+` "Một chất xúc tác lưu trữ ý tưởng và lịch sử! Chà,[line=2]Quốc gia này cũng có bảo vật thiêng liêng à? Thường là những thứ như gậy, kiếm, ngọc trai và mặt nạ; Vũ khí Khái niệm có thể chống lại chính thiên nhiên[line=2]C'mon, Shiki!  Bạn chắc chắn không phải người trong một trong những lĩnh vực đó?"`@
+` “Môn nào cơ? Tôi bảo rồi mà, tôi chỉ là học sinh. Không biết gì cả.”`@
+` "Thà là nói dối! Không thể nào một con người không phải là phù thủy có thể làm hại tôi được. …….  Cậu đang giấu gì đó từ tôi, Shiki?"@
+` [line=4]Arcueid nhìn tôi như một con mèo đang tức giận.@ ……. Nhưng dù cô ấy nhìn tôi như thế, tôi cũng không giấu gì đâu… oh, khoan.
+\
+` "Thực ra, có một chuyện... Tôi không chắc liệu có liên quan hay không nhưng..."@
+` Arcueid vẫn nhìn tôi.@
+` ……. Tôi không thể im lặng được nữa.`
+\
+` "Được rồi, tôi sẽ nói cho cậu nghe, nhưng... làm sao để diễn tả đây? Tôi... có thể nhìn thấy những đường ranh giới có thể dùng để cắt thứ gì đó."@
+ld c,"tachi/ark_t13",crossfade,400
+` "Ê?"@
+` Ồ. Cô ấy ngây người.`@
+` Cô ấy nên ở đây.@ Bình thường, tôi nghĩ chẳng ai tin chuyện như thế này cả.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` “……. Cậu có nghĩa là gì?”`@
+` Arcueid hỏi giọng nghiêm túc.`@
+` Cô ấy chẳng bình thường chút nào... Tôi nên biết cô ấy sẽ vượt qua kỳ vọng của tôi theo cách tốt đẹp.
+\
+` “Tôi thấy những đường ranh giới nơi mọi thứ có thể bị cắt.”`@
+` Những sinh vật, mặt đất, bất cứ thứ gì có thể chạm tới.`@
+` "Cũng như một đường đen, và tôi có thể cắt mọi thứ thật sạch khi cho bất cứ thứ gì sắc bén xuyên qua nó... Có nghĩa gì với cậu?"@
+` Thật tiện lợi khi có thể cắt thép bằng dao, nhưng không phải lúc nào tôi cũng muốn cắt ở bất cứ đâu.@
+` Tôi chỉ có thể cắt những thứ mà tôi nhìn thấy đường nét, và khi tôi cắt bạn[line=2]thì, bạn có thể cắt da một cô gái bằng dao thôi chứ?
+\
+ld c,"tachi/ark_t05b",crossfade,400
+` [line=6]@
+` Mắt Arcueid nhìn tôi thật nghiêm túc[line=3]những đôi mắt hoang dã mà tôi chỉ từng thấy một lần trước.@
+` Một ánh nhìn có thể khiến tôi ngừng thở.
+\
+` [line=4]Tôi hiểu. Tôi tưởng rằng Trực Tử Ma Nhãn chỉ tồn tại trong truyện cổ tích. Nhưng, tôi đoán là có người sử dụng chúng, một quái vật biến dị như bạn.@
+` "W[line=2]what!? Tôi không nghĩ một ma cà rồng nào có thể gọi tôi là quái vật!@
+` "Một quái vật vẫn là một quái vật. Không ai, ngay cả trong số chúng ta, có Ma Nhãn có thể 'thấy cái chết của mọi thứ'.@
+` "…? Thấy cái chết của mọi thứ…?@
+` Arcueid gật đầu để xác nhận với một ánh nhìn thù địch.
+\
+` "Một mạch phải đã mở ra trong mắt bạn, Shiki. Bạn có sinh ra với đôi mắt như vậy không?@
+` "Không. Chúng trở nên như thế này cách đây rất lâu, nhưng tôi không sinh ra với chúng.@
+` "…… Ừm. Vậy thì bạn chắc chắn đã trải qua ít nhất một lần gần chết vào lúc nào đó, phải không?@
+` "Hả[line=4]@
+` Đó là sự thật.@ Bảy năm trước, tôi gặp tai nạn và suýt chết.
+\
+` "Cũng như tôi đã ngờ. Bạn có khả năng tiềm ẩn, nhưng đó chắc chắn là kích hoạt… Trực Tử Ma Nhãn, huh. Vâng, với những thứ đó, bạn chắc chắn có thể giết cả tôi.@
+cl c,crossfade,400
+` Với một tiếng thở dài nhỏ, ánh mắt của Arcueid trở lại bình thường.
+\
+` "Arcueid… Bạn có biết điều gì về những đường nét này không?@
+ld c,"tachi/ark_t06",crossfade,400
+` "Không đến mức bạn hiểu. Nhưng tôi có một số thông tin. Những gì bạn nhìn thấy là kết thúc của tất cả mọi thứ, điểm mà mọi thứ dễ dàng chết đi. Nói đơn giản, thời điểm tử vong của mọi thứ trong vũ trụ… đó chính là cái chết.@
+` [line=4]
+\
+` … Tôi nhớ rồi.`@
+` Lúc ấy.`@
+` Khi cô giáo cho tôi cặp kính này, cô ấy đã nói với tôi điều tương tự như Arcueid.@
+` Nhưng lời Sensei nói có chút khác biệt so với lời Arcueid.@
+` Tôi chỉ thấy những đường nét, chứ chẳng phải thứ gì kinh khủng như cái chết.
+\
+` “Cậu đang nói cái gì chứ? Tôi chỉ thấy những đường ranh giới nơi có thể cắt đứt.”`@
+` “Tôi bảo cậu rồi, những đường nét đó là cái ‘chết’ của vật thể.”`@
+` , Nghe này, Shiki. Mọi thứ đều có kết thúc. Có thể khác nhau về thời điểm, nhưng cuối cùng vẫn là kết thúc.@
+` Cái chết không 'đến'. Nó đã nằm ẩn bên trong mọi vật từ khi được tạo ra, và nó sẽ xảy ra vào một ngày nào đó.`@
+` Đây là nguyên tắc nhân quả đấy.@ Cậu đã nghe qua chưa?`
+\
+` Mọi thứ có nguồn gốc đều phải có kết thúc. Khi nào nó kết thúc được xác định từ lúc bắt đầu. Đó là cái gọi là 'thời điểm tử vong'.`@
+` , Vậy nên, vì nó đã tồn tại từ đầu rồi, cũng chẳng phải là không thể nhìn thấy bằng mắt nếu người ta có thể hiểu được khái niệm về 'thời điểm tử vong' và có mạch hạch phù hợp trong não và mắt.`
+\
+` Đó là sự thật ẩn sau những "vạch" mà cậu thấy.`@
+` Đây chỉ là khái niệm chung thôi, nhưng nếu tôi suy đoán thì chúng có thể là những phần yếu nhất ở các khớp nối giữa các phân tử trong một vật gì đó, hoặc có lẽ là công tắc được thiết lập sẵn trong cấu trúc di truyền kích hoạt cái chết của vật đó.`@
+ld c,"tachi/ark_t07",crossfade,400
+` "À, nhưng như vậy không hợp lý lắm.@ …… Ừm.@ Tôi không nhìn thấy chúng, nên không thể chắc chắn được, nhưng những đường kẻ không phải là tất cả những gì bạn có thể nhìn thấy, phải không?@ Tôi nghĩ rằng sẽ có nhiều hơn 'điểm' so với 'đường kẻ'."`
+\
+` [line=3]"À."@
+` Đúng thế.`@
+` Khi tôi lần đầu tiên nhìn thấy Arcueid.`@
+` Khi tôi không còn là chính mình.`@
+` [line=3]Khi tôi tháo kính ra, tôi thấy những nét vẽ thường ngày và những chấm đen, nơi những nét vẽ dường như chảy từ đó.
+\
+` …… Có những thứ đó. Chỉ xảy ra một lần thôi, nhưng[line=3]chắc chắn. Tôi đã nhìn thấy những điểm đen. Có nhiều điểm trên cơ thể cậu, và những đường đen chảy giữa chúng, nối chúng lại với nhau.@
+` Nếu tôi phải so sánh, tôi sẽ nói rằng chúng giống như hệ thống mạch máu.@
+ld c,"tachi/ark_t01b",crossfade,400
+` …… Tôi hiểu. 'Những đường mà mọi thứ dễ dàng chết' và 'sự chết' à? Tôi ngạc nhiên cậu vẫn sống đến bây giờ như thế này. Cậu chắc chắn phải có trái tim rất bình yên, Shiki.@
+` Arcueid nói điều đó một cách triết lý.@
+` Theo cách riêng của tôi, tôi hiểu những gì cô ấy đang nói, nhưng tôi không muốn tin vào bất cứ điều gì.
+\
+` [line=3]Gì? Không thể có chuyện đó, huống hồ là tôi lại nhìn thấy nó…!@
+` Chà, cậu đang nhìn thấy nó.@
+` Thông thường, khi cắt cổ một sinh vật sống, chúng chết. Điều này có nghĩa là nó dừng lại vì cậu đã cắt nó.@
+` Ngược lại, cậu có thể nói rằng nếu không thể cắt cổ thứ gì đó, thì nó sẽ không chết.@ À, đây về tôi, nên hãy coi như là một ngoại lệ.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` Nhưng trong trường hợp của cậu, cậu có thể bỏ qua nguyên nhân. Ngay cả đối với những thứ miễn dịch với tất cả các tác động bên ngoài, cậu cũng giết trước. Những gì bị giết sau đó trở thành 'chết'.@
+` Không phải là nó dừng lại vì cậu đã cắt nó, mà trong trường hợp của cậu, cậu ngăn chặn đối tượng, và như một kết quả, nó bị cắt.
+\
+ld c,"tachi/ark_t02",crossfade,400
+` Thấy chưa? Tôi có thể gọi cậu bằng cái tên gì khác ngoài quái vật?@
+` Cậu có thể chỉ đơn giản gọi chúng là những đường mà mọi thứ có thể bị cắt, nhưng đôi mắt đó đặc biệt hơn bất kỳ người nào sử dụng sức mạnh siêu nhiên trong lịch sử.@
+` Cậu, Shiki, có đôi mắt có thể giết bất cứ thứ gì, giống như cái chết vậy.@
+cl c,crossfade,400
+\
+` [line=7]@
+` Tôi… không biết phải nói gì.@
+` Nếu điều đó thực sự là những gì tôi nhìn thấy, giống như Arcueid đang nói…
+` Những đường đen đó thực sự là 'thời điểm chết' cho tất cả mọi thứ.
+\
+br
+` …… Vậy thì mọi thứ xung quanh tôi…
+` …… đầy rẫy cái chết.@
+` … Vậy sao? Nếu như mọi chuyện đúng như cậu nói, tôi có thể giết cả cậu.@
+ld c,"tachi/ark_t01a",crossfade,400
+` … Thật vậy? Thế thì chúng ta thử đi.@
+` Arcueid kéo rèm lên.
+\
+bg "bg/ima_18",crossfade,400
+` Ánh đèn tắt.@
+` Chỉ có ánh trăng mờ nhạt chiếu vào qua cửa sổ.
+\
+` Cố lên, không sao đâu. Cố thử đi, thật lòng mà. À, khoan, liệu cậu có nhìn thấy chúng với cái kính này?@
+` [line=7]Chắc chắn chứ?@
+` Tôi cởi kính ra. Chỉ để nhìn thấy những đường kẻ, tất nhiên.@
+` Cùng lúc đó, căn phòng bắt đầu co quắp với những đường kẻ đen.
+\
+monocro #0000ff
+` Ngoài cửa sổ, trăng trắng.@
+` Ngày thường chúng khó nhìn thấy vì ánh nắng mặt trời quá mạnh, nhưng dưới ánh trăng mờ nhạt này, tôi thậm chí có thể nhìn thấy ánh sáng phát ra từ những 'đường kẻ'.@
+br
+` Giữa chúng,
+` những đường kẻ trên cơ thể Arcueid rất mỏng.@ Nếu tôi không tập trung, tôi sẽ hoàn toàn mất hút.
+\
+` Ah[line=3]@
+` … Nếu như tôi không bị cậu giết, tôi nghĩ rằng cậu sẽ không thể nhìn thấy bất cứ thứ gì cả, nhưng bây giờ thì có lẽ cậu có thể nhìn thấy.@
+` Thế này, mặc dù tôi không có 'thời điểm chết' vào ban đêm, nhưng một số xuất hiện vào ban ngày.@
+` Cậu có thể giết tôi vì lúc đó là ban ngày, nhưng bây giờ cậu có thể nhìn thấy 'thời điểm chết' của tôi vào ban đêm bởi vì tôi đã tiêu tốn rất nhiều năng lượng để hồi phục bản thân.@
+` [line=3]Nói cách khác, tôi đã mất đi sự bất tử của mình.@ Vậy nên, cậu có thể cắt những đường kẻ trên cơ thể tôi, Shiki?
+\
+` [line=5]@
+` … Hãy xem đi.@
+` Tôi nghĩ tôi có thể làm được, bởi vì đường nét vẫn còn đó, nhưng tôi không nghĩ mình có thể làm nhanh và tự tin như lần trước.`
+\
+` …… Tôi nghĩ nó sẽ khó đấy.  Những đường nét cứ mờ nhạt và hiện ra liên tục, nên tôi khả năng cao không thể làm được trừ khi cậu đang ngủ.`@
+` "Cậu không thể làm được, phải không? Đó là điểm yếu lớn nhất của cậu. Dù cậu có nhìn thấy bao nhiêu 'cái chết', cậu vẫn cần phải vẽ đường ra bằng chính tay mình. "@
+` Dù tôi yếu thế hiện tại nhưng khả năng thể chất của tôi đâu có thấp đến nỗi bị cậu bắt được.`
+\
+` ……. Tôi thấy.`@
+` Nghĩ lại thì tôi cũng chẳng thể bắt được những con vật nhanh nhẹn.`@
+` Nghĩa là tôi không thể chạm vào cơ thể họ.`@
+` Nói cách khác, ngay cả khi tôi có thể nhìn thấy đường nét của nó, tôi cũng không thể giết bất cứ thứ gì di chuyển.`
+\
+` [line=3]"Ôi!"@
+` Tôi cảm thấy một cơn đau đâm vào đầu.@
+` Nhìn những đường nét này đau đầu quá, giống như hồi còn bé.`@
+` Tôi đeo kính lên, thế giới trở lại bình thường.
+\
+bg "bg/bg_19d",crossfade,800
+monocro off
+ld c,"tachi/ark_t03",crossfade,400
+` ………`@
+` Arcueid nhìn tôi chăm chú.`@
+` “...... Gì chứ?"@
+` “Không, không phải vậy đâu. Nếu đeo kính lên thì cậu sẽ không nhìn thấy đường kẻ được?”`@
+` "Ừ. Tôi lấy chúng từ ai đó cách đây lâu lắm rồi, lúc mắt tôi mới như thế này. Bây giờ tôi chỉ dùng kính thôi, nhưng nhờ chúng mà tôi có thể sống bình thường."
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` “Vâng, tôi hiểu. Không phải cứ có trí tuệ mạnh mẽ thì khi đối mặt với cái chết liên miên bạn lại có nhiều lựa chọn đâu. Chỉ có hai cách: nhắm mắt hoặc điên loạn.”`@
+` Nói vậy, Arcueid tiến lại gần.`
+\
+` "Ờ, cho tôi xem thử được không?"@
+` [line=2]"Không. Những thứ này quan trọng với tôi. Tôi sẽ không giao chúng cho cậu."@
+` "Cứ thế đi, tôi đâu có định phá chúng. Chỉ muốn nhìn thôi mà."@
+cl c,crossfade,800
+` Arcueid bò lại gần.`Tôi cảm thấy cô ấy chẳng ngại lấy chúng bằng bạo lực.`@
+` [line=4]Tôi
+\

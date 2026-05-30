@@ -1,0 +1,192 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_50",notrans,0
+`"…… Thế này thì không ổn chút nào.@ Senpai, này chị ơi!"@
+` Tôi vội vã chạy đuổi theo chị ấy.@
+bg #000000,lcartain,400
+bg "bg/bg_05a",lcartain,400
+play "*2"
+ld c,"tachi/cel_t12",lshutter,800
+`"Ủa?@ Tohno-kun, tiết năm sắp bắt đầu rồi đấy.@ Em nên mau chóng quay lại lớp học đi."@
+`"Ngốc thật, chị thì khác gì em chứ.@ Sao chị lại ở ngoài sân trường thế này[line=3]"@
+` …… Tôi hiểu rồi.@
+` Chị ấy chỉ đang giả vờ làm một học sinh bình thường thôi, nên thực chất đâu cần phải lên lớp làm gì.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Hì hì, đúng thế nhỉ.@ Tôi cũng sắp muộn tiết năm rồi này.@ Đang tính là sẽ trốn nốt các tiết còn lại đây, nhưng có lẽ tôi nên nghiêm túc lên lớp học hành tử tế thôi."@
+` Senpai mỉm cười đầy vui vẻ.@
+`"…… Senpai?@ Đừng nói là từ trước đến nay chị vẫn đều đặn lên lớp nghe giảng đấy nhé……?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Tất nhiên là có rồi!@ Không đi học thì tôi mặc bộ đồng phục này làm gì chứ!"@
+` …… Trông chị ấy có vẻ khá là bực mình.
+\
+`"[line=4]*Ha, haha*."@
+`"Này, có cái gì buồn cười thế hả Tohno-kun!?"@
+`"Không, chỉ là[line=3]vừa vui vẻ xong lại lập tức giận dỗi thế này, em biết ngay chị thực sự chính là Ciel-senpai mà."@
+` Tôi thực sự cảm thấy vô cùng hạnh phúc.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"…… Hử?@ Tôi vẫn luôn là tôi mà, nhưng sao chuyện đó lại khiến em bật cười thế Tohno-kun?"@
+`"À, dạ không có gì đâu.@
+` Quan trọng hơn là, Senpai.@ Về chuyện, ừm.@ Arcueid ấy[line=3]"@
+ld c,"tachi/cel_t07a",crossfade,400
+\
+`"[line=3]Ư."@
+` Trong nháy mắt, Senpai ngước nhìn tôi bằng đôi mắt lạnh tanh, hoàn toàn trống rỗng không chút cảm xúc.@
+` …… Thật khó mở lời.@ Dẫu biết khó nói, nhưng đây chính là lý do tôi cất công đuổi theo chị ấy.
+\
+`"…… Xin chị hãy lắng nghe em nói mà đừng nổi giận.@ Chị bảo em hãy dừng lại đi, nhưng em thực sự không thể bỏ mặc chuyện ma cà rồng này được."@
+ld c,"tachi/cel_t06a",crossfade,400
+` …… Ôi hỏng rồi.@ Ánh mắt vô hồn của chị ấy hình như đang dần nhuốm màu giận dữ.
+\
+`"…… Dù thế nào thì, em cũng không thể làm ngơ trước con ma cà rồng này.@ Nhưng vì chuyện ngày hôm qua nên em với Arcueid coi như đã đường ai nấy đi rồi, một mình em thì không thể làm được gì nếu thiếu đi sự trợ giúp.@
+` Thế nên[line=3]nếu chị cũng đang lùng sục con ma cà rồng này, liệu em có thể giúp chị một tay được không?"@
+br
+` …… Senpai im lặng.@
+` Chị ấy hít một hơi thật sâu.@
+ld c,"tachi/cel_t04",crossfade,800
+`"Tôi từ chối."@
+` Chị ấy vừa mỉm cười vừa dứt khoát buông lời từ chối.
+\
+`"Từ chối ạ?@ Tại sao cơ chứ!?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Tất nhiên là tôi phải từ chối rồi!@ Tohno-kun, em không nhớ là mình đã suýt chút nữa bị cô ta giết chết rồi sao!?@
+` Đi săn ma cà rồng đồng nghĩa với việc em luôn phải đối mặt với hiểm họa cận tử.@ Tôi tuyệt đối sẽ không để em bị cuốn vào những chuyện nguy hiểm như thế đâu, Tohno-kun!"@
+`"[line=3]Em biết chứ, nhưng em đang muốn nói là mình đã chuẩn bị sẵn tinh thần cho chuyện đó rồi!@ Trông em thế này thôi chứ em cũng đã từng nhiều lần trải qua lằn ranh sinh tử rồi.@ Ít nhất thì em cũng có khả năng tự bảo vệ bản thân chứ!"
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"…… Hửm, Tohno-kun.@ Sao em lại tự tin nói ra điều đó chứ?@
+` Tôi thừa nhận rằng khả năng vận động của em cực kỳ xuất sắc.@ Dẫu thể trạng có phần ốm yếu, nhưng cấu trúc cơ thể của em lại vô cùng hoàn hảo."@
+` Buông thõng bờ vai thở dài, Senpai bất ngờ buông ra một nhận xét khiến tôi vô cùng kinh ngạc.@
+`"…… Th, thật thế ạ?"@
+` Bầu không khí căng thẳng bỗng chốc tan biến, tôi thốt lên đầy ngơ ngác.
+\
+`"Đúng vậy.@ Tohno-kun, em cởi hết đồ ra khi ngủ lại nhà tôi mà.@ Lúc đó tôi đã nhìn thấy hết rồi.@ Cơ thể em chẳng có chút mỡ thừa nào cả, các cơ bắp đều rất săn chắc.@
+` Tuy chỉ đứng nhìn từ xa thôi, nhưng tôi thấy vóc dáng của em thực sự rất cân đối."@
+`"…… Cởi hết đồ[line=5]Nhưng mà em làm gì có cởi hết đâu cơ chứ."@
+`"Em quên rồi sao?@ Tohno-kun, lúc chuẩn bị đi tắm, không phải em đã cởi đồ ra để thay sao?"@
+` À, ra là vậy.@
+` Quả thực là khi đó tôi đã cởi quần áo ra rồi nhờ chị ấy mang đi giặt hộ[line=3]
+\
+`"Senpai này, em không ngờ chị lại là người có sở thích lén nhìn trộm người khác đang thay đồ đấy nhé."@
+ld c,"tachi/cel_t11",crossfade,400
+`"[line=3]Ơ, không, chuyện đó, chỉ là tình cờ thôi mà, tôi, ừm, vô tình nhìn thấy thôi, rồi thấy hơi tò mò chút nên nghĩ chắc cũng chẳng sao đâu mà……"@
+` Gương mặt chị ấy đỏ ửng lên như quả cà chua chín khi lắp bắp tìm lời bào chữa.@
+` …… Xem ra chị ấy đang hồi tưởng lại hình ảnh đã nhìn thấy vào lúc đó rồi.
+\
+ld c,"tachi/cel_t08b",crossfade,400
+`"Thật là, nghe này!@ Dù cơ thể em có săn chắc đến đâu đi nữa Tohno-kun, người thường cũng tuyệt đối không thể nào đối đầu nổi với ma cà rồng đâu."@
+` Ồ, hóa ra đó là lý do chị ấy không muốn tôi tham chiến.@
+cl c,crossfade,400
+\
+`"Em hiểu rồi.@ Vậy thì, chuyện đó không thành vấn đề."@
+` Tôi giơ tay tháo chiếc kính cận ra.@
+br
+bg "bg/bg_05b",crossfade,800
+br
+` Tôi lấy thanh dao găm ra.@
+bg #9c0120,crossfade,400
+bg "bg/bg_05b",crossfade,400
+br
+` Cơn đau đầu dữ dội lại bắt đầu ập đến thiêu đốt não bộ.@
+` Nghiến chặt răng chịu đựng, tôi vung dao chém ngọt một nhát đứt lìa dọc theo một "tử tuyến" trên thân cây gần đó.
+\
+bg "bg/bg_05a",crossfade,400
+ld c,"tachi/cel_t09",crossfade,400
+`"Tohno-kun, cái đó là[line=3]"@
+`"…… Đúng như những gì chị thấy đấy.@ Xin lỗi nhé, nhưng đôi mắt của em không phải là mắt của người bình thường đâu.@
+` Arcueid nói rằng em có thể nhìn thấy 'cái chết' của vạn vật, và người ta gọi nó bằng cái tên như là Trực Tử Chi Ma Nhãn."@
+` Đôi mắt chị ấy mở to hết cỡ khi chứng kiến toàn bộ sự việc.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=2]Hóa ra là thế.@ Vậy là không phải thanh dao găm kia có gì đặc biệt, mà chính em mới là người đặc biệt, Tohno-kun."@
+`"…… Không phải đặc biệt đâu ạ.@ Nó chỉ là một tác dụng phụ để lại từ một tai nạn ngày nhỏ của em thôi."@
+`"[line=3]Hóa ra đó là lý do vì sao cô ta lại hứng thú với em đến thế.@ Đôi mắt ấy mang sức mạnh quá lớn so với giới hạn của một cá nhân bình thường."@
+` Trông chị ấy bỗng chốc như thể bị trút sạch hết sức lực.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Đúng thật là, với một sức mạnh đáng sợ như thế, việc để em đơn độc một mình sẽ còn nguy hiểm hơn nhiều, Tohno-kun.@
+` Với lại dù tôi có từ chối đi nữa, kiểu gì em cũng sẽ tự mình đi săn lùng con ma cà rồng đó thôi, và hắn[line=3]chắc chắn cũng không thể làm ngơ trước em được."@
+`"Senpai……?@ Ý chị là[line=3]"
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Đúng thế.@ Bản thân tôi thực sự không muốn em bị liên lụy chút nào, nhưng giờ thì đã quá muộn rồi.@ Tôi không thể phủ nhận việc em đã có sợi dây liên kết mật thiết với chuyện này nữa."@
+`"Vậy nghĩa là, từ giờ em có thể cùng chị đi lùng sục con ma cà rồng đó rồi phải không?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Phải rồi.@ Tôi cũng đã chuẩn bị sẵn tâm lý cho việc đó."@
+` Senpai chủ động đưa một bàn tay ra.@
+` Nhưng tôi có thể cảm nhận được cái bắt tay này mang sắc thái hoàn toàn khác so với lúc ở nhà ăn học sinh.
+\
+`"[line=5]"@
+` Tất nhiên, tôi đưa tay nắm chặt lấy bàn tay chị ấy.@
+` Hai bàn tay chạm nhau chớp nhoáng rồi lập tức buông ra.@
+br
+ld c,"tachi/cel_t03",crossfade,400
+`"Từ bây giờ chúng ta chính thức là đồng đội của nhau.@ Trông cậy vào em nhé Tohno-kun, và cũng xin em hãy tin tưởng vào tôi.@
+` Kể từ giờ phút này, hai chúng ta sẽ cùng nhau tiêu diệt con ma cà rồng ẩn náu trong thành phố này."@
+` Chị ấy nói với một nụ cười dịu dàng trên môi.@
+` Trong lúc tôi khẽ gật đầu không nói nên lời, tiếng chuông báo hiệu kết thúc giờ nghỉ trưa vang lên rộn rã.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Sau giờ học, em hãy đến phòng trà đạo nhé.@ Lúc đó chúng ta sẽ bàn bạc kỹ hơn."@
+cl c,lshutter,400
+` Senpai rảo bước nhanh chạy về phía tòa nhà học đường.@
+` Bản thân tôi cũng sắp muộn rồi nên vội vàng chạy theo sau.
+\
+bg #000000,lcartain,800
+playstop
+!w1000
+bg "bg/bg_06b",crossfade,1500
+` Tiết sinh hoạt cuối ngày cuối cùng cũng kết thúc.@
+` Các bạn học xung quanh rôm rả trò chuyện rồi đứng dậy ra về.@
+` Thường ngày tôi vẫn hay ngồi nán lại đợi cả lớp về hết cho bớt ồn ào, nhưng hôm nay tôi lập tức đứng dậy cùng mọi người.
+\
+bg #000000,lcartain,400
+bg "bg/bg_11b",lcartain,400
+` Tôi nhanh chóng bước chân ra khỏi lớp học.@
+` Tôi hướng thẳng về phía phòng trà đạo.@
+` Rất nhiều biến cố đã xảy ra giữa Senpai và tôi, nhưng cuối cùng mọi chuyện lại tiến triển vô cùng tốt đẹp.@
+` Tôi rất vui vì từ giờ đã có thể giúp ích cho chị ấy, và bản thân cũng cảm thấy an tâm hơn nhiều so với việc phải chiến đấu đơn độc một mình.@
+br
+` Nhưng hơn cả thế[line=3]lồng ngực tôi vẫn dâng trào cảm giác háo hức khôn tả chỉ vì có cơ hội được ở bên Senpai một lần nữa.
+\
+br
+` Hơi thở tôi bắt đầu trở nên dồn dập[line=4]
+br
+` Tôi chạy thục mạng hướng về phía phòng trà đạo.
+\
+bg #000000,lcartain,800
+bg "bg/bg_09b",lcartain,800
+` Không một bóng người ở bên trong cả.@
+` Có vẻ như chị ấy vẫn chưa tới đây.@
+br
+` …… *hộc*…… *hộc*.@
+br
+` …… Hình như mình đã quá phấn khích rồi thì phải.@
+` Ngồi thụp xuống tấm chiếu tatami, tôi cố gắng điều hòa lại nhịp thở của mình.
+\
+br
+` …… *hộc*…… *hộc*…… *hộc*.@
+br
+` Cơ thể đang nóng bừng lên của tôi không dễ gì hạ nhiệt ngay được.@
+` Tôi cảm thấy cuống họng đau đớn khi cố hít lấy từng ngụm khí.@
+` Toàn thân mồ hôi nhễ nhại, tôi bắt đầu cảm thấy vô cùng khó chịu.
+\
+br
+` Tiếng thở dốc khò khè vang vọng khắp căn phòng tĩnh mịch.@
+br
+` [line=3]Có điều gì đó…… rất kỳ lạ.@
+` Tôi rõ ràng đã ngồi nghỉ một lúc rồi, thế nhưng nhịp thở lại càng lúc càng trở nên nặng nề hơn.@
+` Ngay từ đầu, tại sao cơ thể tôi lại kiệt quệ rệu rã thế này chỉ sau khi chạy một quãng ngắn như vậy chứ……?
+\
+monocro #ff0000
+bg "bg/bg_09b",crossfade,400
+play "*4"
+quakey 2,100
+br
+`"[line=3]Hự!?"@
+br
+` Đột ngột,
+` một cơn đau buốt nhói như ngàn mũi kim đâm ập đến xé rách lồng ngực tôi.
+\

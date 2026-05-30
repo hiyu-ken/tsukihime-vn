@@ -1,0 +1,92 @@
+bg "bg/bg_06a",notrans,0
+play "*3"
+` Tôi vẫn nán lại trong lớp học.@
+` Bữa trưa của tôi luôn thay đổi mỗi ngày, tùy thuộc vào tâm trạng của tôi.@
+` Có những hôm tôi tự chuẩn bị phần ăn mang theo. Cũng có những hôm tôi bỗng thèm ăn mì Udon thế là lại chạy xuống nhà ăn của trường. Còn khi thấy việc ăn uống quá phiền phức, tôi chỉ lướt qua cửa hàng tiện lợi mua hộp sữa với ổ bánh mì là xong bữa.@
+` Hôm nay tôi không đặt phần cơm hộp của trường. Phần vì tối nay tôi phải dọn khỏi nhà Arima rồi, nên buổi sáng tôi đã từ chối lời đề nghị chuẩn bị cơm của mẹ nuôi.@
+` Do đó, nếu cứ tiếp tục nán lại trong phòng học thì tôi sẽ chẳng có gì bỏ bụng cả.@
+` Dù chẳng mấy hứng thú nhưng tôi vẫn bắt buộc phải đi xuống nhà ăn thôi.@
+`"Thôi, đi ăn thôi nào."@
+` Tôi rời khỏi lớp học với một chút uể oải.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Nhà ăn của trường lúc nào cũng đông đúc như thường lệ. Một hàng dài học sinh đang đứng xếp hàng chờ gọi món đã hình thành tự bao giờ.@
+` Tôi bước vào xếp hàng và gọi cho mình một bát Chikara Udon.@
+` Liếc mắt nhìn quanh tìm chỗ ngồi, tôi chợt nhận ra một gương mặt vô cùng quen thuộc ở phía bàn trong góc.@
+ld c,"tachi/ari_t05",crossfade,400
+`"Này, Tohno! Bên này, bên này!"@
+` Arihiko vẫy vẫy tay oang oang vô cùng nhiệt tình.@
+cl c,crossfade,400
+br
+`"……"@
+` Đầu tôi tự dưng lại đau nhức rồi đấy.@
+` Thế nhưng xung quanh cũng chẳng còn bàn nào trống cả, tôi đành bất đắc dĩ bước về phía chiếc bàn mà tên bạn chí cốt đang ngồi.
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+ld c,"tachi/ari_t01",lshutter,400
+`"Chào đồng chí! Cậu đến muộn quá đấy Tohno! Đã bảo hôm nay có khách mời đặc biệt mà chẳng chịu tranh thủ đến sớm gì cả."@
+` Mặc dù oang oang nói thế, nhưng trên bàn ăn của Arihiko lúc này cũng chỉ có mỗi mình hắn mà thôi.@
+`"Thế cái vị khách đặc biệt cậu khoe ban sáng đâu rồi hả Arihiko?"@
+ld c,"tachi/ari_t02",crossfade,400
+`"À… Bị leo cây rồi. Chị ấy bảo hôm nay bận việc đột xuất rồi, hẹn lần sau gặp."@
+`"Hửm… bị leo cây à? Hóa ra vị khách đặc biệt đó là con gái cơ đấy?"@
+ld c,"tachi/ari_t01",crossfade,400
+`"Ừm, một đàn chị khóa trên mà tôi đang tìm cách tiếp cận lâu nay đấy.@ Mà chị ấy vốn dĩ là người bận rộn nổi tiếng trong trường nên chuyện này cũng là khó tránh khỏi thôi."@
+` Tiêu sái nhấp nháp bát Udon cà ri của mình, Arihiko ra vẻ vô cùng thấu hiểu sự đời.
+\
+` Cái tên này dường như là kiểu người vô cùng kiên trì, nhưng đồng thời lại cũng rất dễ từ bỏ.@ Đó có lẽ chính là một trong những điểm đáng quý hiếm hoi của hắn ta.
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_50",lshutter,800
+`"Thế rốt cuộc, lý do thực sự là gì?"@
+ld c,"tachi/ari_t04",notrans,0
+`"Hả?@ Ý cậu là sao cơ?"@
+`"Lý do cậu đi học sớm sáng nay ấy.@ Cậu đâu phải kiểu người chịu dậy sớm đến trường chỉ vì vô tình thức giấc sớm đâu hả Arihiko-kun."@
+` Tôi ngồi xuống bên cạnh Arihiko, vừa gắp mì Chikara Udon ăn vừa đưa mắt dò xét hắn.@
+`"Hừm."@
+` Arihiko chỉ mải húp nước súp sột soạt, cố tình tránh ánh mắt của tôi.
+\
+`"Này Tohno, hôm nay cậu chính thức dọn về nhà thật của mình đúng không?"@
+`"Ừm, chắc là vậy... Mà khoan đã, tôi đã kể cho cậu nghe chuyện đó bao giờ chưa nhỉ?"@
+`"Chưa.@ Tôi chỉ nghe loáng thoáng từ giáo viên chủ nhiệm thôi."@
+` Arihiko tiếp tục gắp miếng bánh khoai tây chiên croquette trong bát Udon ăn nhanh nhảu mà không thèm quay đầu lại.@
+`"Tôi tự nhủ: 'Chắc là tên Tohno dạo này đang rầu rĩ lắm đây!', thế nên mới quyết định đi học sớm xem tình hình cậu thế nào đấy."@
+`"... Ra vậy.@ Thế kết luận của đồng chí là gì?"@
+`"Thất vọng tràn trề.@ Biết thế tôi chẳng thèm dậy sớm làm gì cho mệt."@
+cl c,crossfade,400
+`"Đúng là rảnh rỗi sinh nông nổi mà Arihiko," tôi lẩm bẩm tự nhủ khi cắn miếng bánh giầy mochi dẻo quẹo trong bát Chikara Udon của mình.
+\
+` ... Mà đó vốn dĩ chính là con người thật của Arihiko vậy.@
+` Ngày hôm nay chính là ngày tôi phải rời bỏ gia đình cha mẹ nuôi đã gắn bó suốt tám năm qua để quay trở về biệt thự của gia tộc ruột thịt.@
+` Arihiko chắc chắn đã nghe ngóng được chuyện này ở đâu đó, dẫu miệng mồm bỗ bã nhưng trong lòng lại vô cùng lo lắng cho tôi nên mới lật đật thức dậy sớm đến trường để kiểm tra xem tôi có ổn không.
+\
+`"... Arihiko này, tôi thấy vẻ bề ngoài ngổ ngáo của cậu thực sự làm cậu chịu nhiều hiểu lầm đấy.@ Tận sâu bên dưới, cậu rõ ràng là một tên vô cùng ấm áp và tình cảm."@
+ld c,"tachi/ari_t02",notrans,0
+`"Ha ha… Nếu lời đó được thốt ra từ một tên lúc nào cũng trưng bộ mặt ủ rũ như cậu thì tôi xin nhận nhé."@
+` Arihiko cười lớn rồi tiếp tục cắm cúi xì xụp húp nốt bát mì của mình đầy ồn ào.@
+ld c,"tachi/ari_t01",crossfade,400
+`"Mà này cậu chủ nhỏ, rốt cuộc là có chuyện gì đang xảy ra thế hả?"@
+`"Ý cậu là sao?"@
+`"Cậu đã sống cùng gia đình Arima từ hồi tiểu học rồi đúng không? Thấm thoát cũng đã tám năm trời.@ Bố cậu cơ bản là đã trục xuất cậu ra khỏi gia tộc rồi còn gì. Tại sao tự dưng bây giờ ông ấy lại đột ngột gọi cậu quay về biệt thự thế?"
+\
+`"Ông ấy không có 'trục xuất' tôi.@ Chỉ là gửi tôi đi làm con nuôi thôi mà."@
+`"Tohno-kun này, nếu có một gia tộc nào đó đuổi con ruột của mình đi làm con nuôi 'kiểu đó' thì chuyện đó không phải là bi kịch đâu, mà là chuyện cười đấy.@ Nhưng mà chuyện cười này tẻ nhạt quá, ngay cả tôi cũng chẳng buồn cười nổi nữa là."@
+` Arihiko vươn vai rồi khẽ lắc đầu nguầy nguậy.@
+` Việc tuyệt đối không bao giờ chịu giữ thái độ nghiêm túc chính là một trong những đặc điểm dễ nhận biết nhất của tên Arihiko này.@
+`"... Vâng, có lẽ cậu nói đúng.@ Nếu bị đuổi đi làm con nuôi như thế thì tự cười trừ là điều duy nhất tôi có thể làm rồi."
+\
+`"Rồi ông già nhà cậu có phán một câu kinh điển kiểu như: 'Đừng bao giờ vác mặt về ngôi nhà này nữa!' hay đại loại thế không?@ Đó chính là định nghĩa của việc bị trục xuất rồi còn gì.@ Mà thực ra, tôi chưa từng nghe cậu kể lý do tại sao cậu lại bị bố mình đuổi đi như thế đấy."@
+`"……"@
+` …… Không chỉ riêng cậu đâu.@
+` Chính bản thân tôi cũng muốn biết câu trả lời cho câu hỏi đó đây.
+`"Thôi, nếu cậu không muốn nói thì cũng không cần phải kể đâu."@
+cl c,crossfade,400
+` Bưng bát mì bằng cả hai tay, Arihiko ngửa cổ uống cạn sạch phần nước súp cà ri nóng hổi còn sót lại.@
+` Giờ nghỉ trưa vốn dĩ vô cùng ngắn ngủi.@
+` Lần theo nhịp điệu của Arihiko, tôi cũng quyết định nhanh chóng xử lý nốt phần Chikara Udon còn lại của mình.
+\
+bg #000000,crossfade,800
+playstop

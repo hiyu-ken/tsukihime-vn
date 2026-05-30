@@ -1,0 +1,110 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",crossfade,800
+`"[line=3]Tôi mệt... quá..."@
+` Tôi sụp xuống mặt đất.@
+` Tôi ngã xuống lưng và cố giữ cơ thể bằng tay.
+\
+`"[line=3]Lạnh."@
+` Tôi lạnh.@
+` Đau đớn đã bị tê liệt; nó gần như thoải mái.@
+` Cơ thể tôi đầy những vết cắn của chó và chim.@
+br
+` [line=4]Vậy thì, không có sai lầm nào khi tôi sẽ chết như thế này.
+\
+`"[line=5]@
+` Tôi thở sâu ra.@
+` Nâng cao cằm, tôi nhìn lên bầu trời.@
+br
+`"[line=5] Mặt trăng.@
+` Chỉ có mặt trăng xinh đẹp trong bầu trời đêm.@
+` ... Điều gì vậy?@
+` Cảm giác này quá quen thuộc... như thể tôi đã mơ thấy điều tương tự trước đây.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+play "*8"
+`"Shiki, cậu có sao không?"@
+` Arcueid tiến lại gần tôi như thể chẳng có chuyện gì vừa xảy ra.@
+`"... Em... kẻ ngốc nghếch này... Nếu em ổn... thì em chẳng còn là con người nữa."@
+` Tôi nói và thở khò khè.@
+` Ngay cả việc nói chuyện cũng đau đớn, vì vậy có lẽ tôi không nên trả lời.@
+`"Kk... [line=6]"
+\
+bg #000000,crossfade,1500
+` Ý thức của tôi bắt đầu mờ dần.@
+` Và sau đó,
+một trận động đất mạnh 2,100
+bg "bg/bg_29b",notrans,0
+` Đột nhiên! Arcueid đánh tôi vào đầu và buộc tôi tỉnh lại.
+\
+`"…… Tại sao vậy?@"@
+ld c,"tachi/ark_t11",lshutter,400
+`"Không được như vậy.@ Nếu bạn ngủ với những vết thương này, bạn chắc chắn sẽ chết.@ Chúng ta không thể để bạn ngủ cho đến khi chúng được đóng lại."@
+br
+` [line=3]Lời lẽ của cô ấy hoàn toàn hợp lý.@
+` Nó quá hợp lý, khiến tôi tức giận.@
+br
+`"…… Arcueid.@ Tôi có thể nói điều tôi luôn nghĩ từ trước?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hừm, gì vậy?"@
+`"[line=4]Đừng nói những điều vô lý như thế, ngốc ạ."@
+` Tôi ngã xuống đất.
+\
+bg #000000,crossfade,400
+bg "bg/ima_18",crossfade,400
+` [line=3]Ý thức của tôi bắt đầu mờ đi.@
+br
+` Arcueid đang la hét to, nhưng tôi không còn sức để giữ cho đôi mắt mở nữa.@
+` [line=4]Rất lạnh.@
+br
+`"Này, Shiki.@ Cậu thực sự sẽ chết……!"@
+br
+` "... Tôi đã nói rồi, tôi buồn ngủ."@
+` Tôi sẽ ngủ trước khi chết, nên tôi sẽ thức dậy vào buổi sáng.
+\
+`"[line=4]Shiki, cậu không được ngủ! Chúng ta phải ít nhất đóng vết thương và dừng chảy máu, nếu không cậu sẽ không thức dậy……!"@
+br
+` [line=3]Thật náo nhiệt.@
+` Tôi sắp ngủ, nên cứ làm gì cũng được.@
+br
+`"Ồ, có được nếu tôi chữa lành cho cậu không? Tại sao cậu không nói sớm hơn?"@
+br
+` Sau khi cô ấy nói vui vẻ như vậy,
+` Tôi cảm thấy những ngón tay lạnh lẽo, còn lạnh hơn cả cơ thể tôi, chạm vào da thịt tôi như một sự đồng cảm.
+\
+`"Này, tôi không thực sự hạnh phúc khi sử dụng linh hồn của người khác, nhưng trong hoàn cảnh này, cũng không còn cách nào khác."@
+` Tôi có cảm giác như có thứ gì đó đang bám vào tôi.@
+` Tôi không biết tại sao,
+` [line=2]nhưng cảm giác này thật dễ chịu.
+br
+`"Là điều tự nhiên với loài ma cà rồng được gọi là Đại Dương Nguyên Thủy. Ngay cả sau khi nguồn gốc, Nrvnqsr, những linh hồn vẫn có khả năng tái tạo..." - "Hừm, trong trường hợp này, tôi chỉ cần giúp đỡ một chút thôi."@
+` [line=4][line=4]Đầu tiên, để nó bám vào tôi. Khi nó trở lại bình thường, tôi sẽ đưa nó trở lại cho bạn, Shiki.@
+br
+` Những ngón tay đang rút đi.
+\
+`"Tôi nghĩ thế cũng được. Cảm giác như thế nào? Nó là một dạng sống không cực, nên nó có thể dễ dàng thích nghi với cơ thể bạn, phải không?"@
+` [line=4]Này, Shiki có ngủ chưa?@
+br
+` [line=3]"Vâng, tôi đang ngủ."@
+br
+`"Ồ, thế thôi. Nhà cậu là biệt thự trên đồi, phải không, Shiki? Tôi sẽ đảm bảo đưa cậu về nhà."@
+br
+` [line=3]Khi ngủ, tôi chỉ nhìn lên mặt trăng trắng.
+\
+`"... Cậu đã làm rất tốt, Shiki. Cảm ơn cậu. Đêm nay cậu thực sự đã cứu tôi."@
+br
+` ... Cô ấy cảm ơn tôi mà không có chút nặng nề nào trong lời nói.
+\
+br
+br
+br
+br
+br
+br
+` ... Tôi không còn nghe thấy giọng nói của cô ấy nữa.@
+` Tôi rơi vào giấc ngủ sâu mà không bị ai đánh thức lần này.
+\
+bg #ffffff,crossfade,1500
+playstop
+!w3000

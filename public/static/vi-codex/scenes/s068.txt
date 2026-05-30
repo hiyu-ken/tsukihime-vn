@@ -1,0 +1,708 @@
+play "*4"
+wavestop
+monocro #ff0000
+bg "bg/bg_14d",crossfade,400
+` Nhưng điều gì sai ở đây?@
+br
+` Sai sai sai sai.@
+` Sai sai sai sai.@
+` Tôi đã giết cô ấy. Điều đó có sai không?@
+` Tôi không giết cô ấy. Điều đó có sai không?@
+br
+` Không, tất cả đều hoàn toàn sai[line=3]!
+\
+` Sai, sai, sai, sai,
+` Sai, sai, sai, sai sai,
+` Sai, sai, sai, sai sai sai,
+` Sai, sai, sai, sai sai sai sai,
+` Sai sai sai, sai sai wrongwrong, sai sai wrongwrongwrong, sai sai wrongwrongwrongwrong, sai sai wrongwrongwrongwrongwrong, sai sai wrongwrongwrongwrongwrongwrong, sai sai wrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrongwrong[line=5]
+\
+` …… Sai… ong.@
+br
+` Không, không, thế là sai.@
+br
+` "Tôi đang nói[line=3]nó sai."@
+br
+` Không thể được. Chỉ đơn giản là không thể.@
+br
+` "Sai!@ [line=3]Sai, sai, sai, sai sai…!@ Tôi không biết cô ấy!@ Cô ấy chỉ là một người lạ tôi thấy đang đi trên đường……!@ Xem này!@ Điều đó có phải là lạ với cậu, Shiki…!?@ Cô ấy là một người hoàn toàn xa lạ!@ Tại sao tôi lại phải giết cô ấy…!?"
+\
+` Không ai trả lời được những tiếng hét của tôi.@
+` Bên cạnh đó, lý do rất rõ ràng.@
+br
+` Từ khi nhìn thấy cô ấy, tôi chỉ nghĩ đến một điều.@
+` "Tôi[line=6]"@
+br
+` Vâng, tôi[line=4]
+\
+br
+br
+br
+br
+br
+br
+br
+br
+` Tohno Shiki muốn giết cô bé đó.
+\
+` Đó là điều tôi muốn làm lúc bấy giờ.@
+` Chỉ đơn giản là mọi thứ trong đầu tôi quá mơ hồ, tôi không thể diễn đạt thành lời.
+\
+` "Wro[line=5]ng!"@
+br
+` Tôi cảm thấy sắp nôn mửa.@
+br
+` Ừm, uhh, ừ.@
+br
+` Nội dung trong dạ dày tôi trào lên.@
+br
+` Âh, aaah, ah!@
+br
+` Màu đỏ tươi đang thấm vào mắt tôi.@
+br
+` Aaaaaaaaah[line=4]!@
+` Tôi lao ra ngoài.@
+br
+` Tôi không nghĩ đến việc mình có thể bị nhìn thấy hay che giấu xác.@
+br
+` Tôi chỉ muốn trốn thoát khỏi nơi này.@
+` Cuồng loạn, tôi chạy trốn khỏi căn hộ xa lạ[line=2]
+\
+bg #000000,crossfade,1500
+monocro off
+playstop
+bg "bg/bg_28a",crossfade,1500
+` Guuh[line=3]burgh!@
+` Axit dạ dày tôi trào lên cổ họng.@
+` Tôi nôn hết mọi thứ ra.@
+` Thức ăn, dịch vị của tôi, tất cả, trong khi tôi khóc.
+\
+` *hít*, *hít*, *hít*, *hít*…!@
+br
+` Trong dạ dày tôi không còn gì.@
+` Nhưng cơ thể tôi vẫn tiếp tục ép tôi nôn ra, như thể đang cố gắng hủy bỏ những gì đã xảy ra và đưa tôi trở lại cuộc sống bình thường của mình.@
+br
+` …… *hít*… *hít*… *hít*… *hít*…@
+br
+` Đau.@
+` Buồn bã, như thể ruột gan tôi đang bị đốt cháy.@
+` Mắt nước không ngừng chảy và cơ thể tôi sụp xuống sàn nhà như một đống rác.
+\
+` À, uhh[line=4]uh, uhm, ugh!@
+br
+` Tôi cứ khóc.@
+br
+` …… Tôi đã giết ai đó.@
+` Tôi đã giết cô ấy một cách vô lý, vô tình.@ Giống như đập vỡ một con búp bê.
+\
+br
+` [line=3]Cái gì đã xảy ra vậy?@
+br
+` Tại sao tôi lại cảm thấy như vậy,
+` Tại sao tôi lại giết cô ấy,
+` Ngay cả bây giờ, tôi cũng không tìm ra lý do.@
+br
+` [line=4]Đó là một sự lừa dối.@
+br
+` Không[line=3]nó quá kỳ lạ để có thể là sự thật.@
+` Điều vừa xảy ra có thể không phải là thật.@ Vì vậy đây chỉ là một trong những giấc mơ tôi có khi bị ngất đi[line=3]
+\
+` [line=4]Đó là một sự lừa dối.@
+br
+` Bên cạnh đó, làm thế nào mà ai có thể cắt đứt người khác như vậy chỉ với một con dao?@
+` Tôi đã đọc nó trong một cuốn sách một lần.@
+` Nó mất cả ngày lao động vất vả để cắt một người ra, ngay cả khi sử dụng một chiếc cưa.@
+` Đó là lý do tại sao tôi không thể có khả năng làm điều đó chỉ với một con dao.@
+` Những đường này[line=4]chẳng bao giờ tồn tại từ đầu.@ Mọi thứ chỉ là ảo tưởng mà tôi đã rơi vào
+` [line=4]Đó là một sự lừa dối.
+\
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_28a",crossfade,400
+br
+` Guh[line=3]ffpt.@
+br
+` Nước dịch dạ dày chảy ròng ròng trên môi tôi.@
+` Thải ra từ miệng tôi, chảy xuống cằm.@
+` Trộn lẫn với dịch là thứ đỏ.@
+` Họng tôi chắc chắn đang chảy máu vì dạ dày cứ muốn nôn mửa mặc dù không còn gì trong đó.@
+br
+` O…… u[line=4]@
+br
+` Đau.@
+` Vậy nên điều này…
+` Điều này không phải là giấc mơ, và tôi chỉ đang tự lừa dối bản thân.
+\
+br
+` Có, thực ra tôi hiểu mọi thứ.@
+br
+` Tôi thèm muốn cô ấy. Chỉ cần nhìn vào cô ấy cũng khiến tôi kích thích.@
+` Khi tôi cắt cô ấy ra, nó thật sự thú vị đến mức tôi gần như bắn tinh.@
+` Cũng như đôi mắt này.@
+` Nếu tôi biết những "đường" này có thể cắt thứ gì như giấy bị xé…
+` Tôi nên hiểu rằng ngay cả một người cũng dễ dàng bị cắt ra như tôi vừa làm với cô ấy.@
+` Tôi đã sống cuộc sống bình thường mà không hề nghĩ đến điều gì như vậy.@
+` [line=3]Nếu tôi thực sự là người nguy hiểm có thể dễ dàng giết bất cứ thứ gì…
+br
+` Thì tôi nên đã che giấu đôi mắt này hoặc sống cuộc đời không nhìn thấy ai.@
+` …… Tôi xin lỗi, Sensei.@
+` [line=3]Tôi rất xin lỗi.@
+br
+` Ngay cả lời hứa đơn giản như vậy,
+br
+` tôi cũng không thể thực hiện[line=4]
+\
+` [line=6]`@
+` Nhưng tôi không quan tâm đến bản thân mình.@
+` Tôi đã giết người đó.@
+` Cuộc đời của người đó cho đến nay.@
+` Những người xung quanh người đó,
+` tương lai mà người đó mơ ước,
+` mọi thứ[line=3] bị một kẻ xa lạ phá hủy.@
+br
+` Ngay cả khi tôi hối tiếc, tôi cũng không thể được tha thứ.@
+` Ngay cả khi tôi xin lỗi, tôi cũng không thể được tha thứ.@
+br
+` "Tôi[line=4]có điên không?"
+\
+` Tôi không biết.@
+` Ngay cả một dấu vết của xung động đó cũng không còn nữa.@
+` Nhưng nếu[line=3]xung động đó quay lại, thì sẽ xảy ra điều gì với tôi?@
+` Tôi chưa bao giờ nghĩ đến việc kiềm chế.@
+` Tôi thậm chí không hề nghĩ đến việc ngăn mình lại.@
+` "Giết cô bé này."@
+` Nếu nó có vẻ như là điều hiển nhiên phải làm, và tôi đã thực hiện nó, thì không còn gì có thể làm được nữa.
+\
+` Vậy câu trả lời rất đơn giản.@
+` Tôi chắc chắn là điên.@
+br
+` [line=4]Tôi có lẽ đã điên từ tám năm trước, khi tôi kỳ diệu sống sót sau một tai nạn chết người.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_28b",crossfade,800
+br
+br
+br
+br
+br
+br
+` [line=7]Tôi… lạnh@
+` Mặt trời đã lặn mà tôi không nhận ra@
+br
+` [line=7]Giờ này là mấy giờ rồi?@
+` Tôi không biết@
+` Tai tôi ù như tivi bị nhiễu.
+\
+br
+br
+br
+br
+` Âm thanh… Âm thanh… Âm thanh.
+\
+` Tiếng ồn không ngừng… Cực kỳ lạnh@
+br
+` [line=4]Nếu tôi cứ ngồi đây mãi như thế này, tôi nghĩ mình sẽ chết @
+\
+br
+br
+br
+br
+br
+br
+br
+br
+` Âm thanh… Âm thanh… Âm thanh
+\
+` Tôi không cảm thấy gì@
+` Tôi không quan tâm đến tiếng ồn lặp đi lặp lại hay cái lạnh tê tái.
+\
+` Cơ thể tôi run lên@
+` Có lẽ là do lạnh, hoặc sự lo lắng, hoặc nỗi sợ hãi, hoặc hối tiếc@
+` Tôi không biết@
+` Tôi đã giết một người, và tôi không thể giải thích tại sao mình lại làm điều đó mà không có lý do@
+br
+` [line=3]Thật buồn cười@
+` Không có lý do, vì vậy tôi không thể giải thích nó.
+\
+` Tôi giết cô ấy chỉ đơn giản là vì tôi muốn giết cô ấy@
+` Lý do như thế là điên rồ @
+\
+` …… Vâng, nếu tôi thật sự điên thì mọi chuyện sẽ dễ dàng hơn@
+` Nhưng trái tim tôi vẫn còn tỉnh táo.@
+` Chỉ vì tôi vẫn còn tỉnh táo mà tôi mới cảm nhận được sự tê liệt này.
+\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` Im lặng… Im lặng… Im lặng…
+\
+` Con dao vẫn còn trong tay tôi.@
+` Giải quyết bằng cách tự sát, thật dễ dàng.@
+` Nhưng tôi không thể làm được.@
+` Tôi vẫn còn tỉnh táo, nên tôi không thể làm được.@
+` Trái tim tôi sợ cái chết,
+` Và ở đâu đó trong trái tim tôi, tôi biết rằng việc làm như vậy sẽ không giải quyết được chuyện này[line=3]hoặc chuộc tội cho nó.@
+br
+` Tiếng ồn vẫn tiếp diễn.@
+` Nhiệt độ cơ thể tôi tiếp tục giảm xuống.
+\
+br
+br
+br
+br
+br
+` [line=3]Tôi không thể tự sát.@
+` Nhưng nếu để mọi chuyện như vậy, tôi sẽ biến mất.@
+br
+` …… Có lẽ đó là điều tốt nhất.@
+` Thậm chí một kẻ sát nhân như tôi sống sót…
+\
+bg #000000,crossfade,1500
+!w1000
+br
+br
+br
+` Nếu tôi
+\
+!w2000
+br
+br
+br
+br
+br
+` chỉ nhanh chóng
+\
+!w2000
+br
+br
+br
+br
+br
+br
+br
+` chết
+\
+!w2000
+br
+br
+br
+br
+br
+br
+br
+br
+` như thế này…
+\
+!w2000
+` "Tohno… kun?"@
+` Đột nhiên, tên tôi được gọi.
+\
+` [line=9]`@
+` Tôi ngước đầu lên.@
+` Có là Senpai[line=4]dường như đã bao năm rồi kể từ lần cuối tôi nhìn thấy cô ấy.
+\
+bg "bg/bg_28b",crossfade,1500
+play "*1"
+ld c,"tachi/cel_t13",crossfade,800
+` "Cậu đang làm gì mà ngồi ra ngoài trời mưa vậy?"@
+` "…… Mưa…"@
+` …… À, tôi hiểu rồi.@
+` Tiếng ồn tĩnh điện cho đến lúc này là tiếng mưa.@
+br
+` Không trách gì nó lại lạnh như vậy.@
+` Tôi có thể thấy rõ ràng rằng mình đã bị ướt sũng và rét run lên.@
+br
+` "Ôi, cậu thậm chí không có ô dù.@ Cậu sẽ bị cảm lạnh như vậy đấy, Tohno-kun."
+\
+` …… Giọng nói của Senpai thật đau đớn.@
+` Chỉ mới vài giờ trước tôi mới nghe thấy nó, nhưng bây giờ[line=3]nó lại nghe xa lạ đến vậy.@
+` "Tohno-kun? Cậu có nghe thấy tôi… không?"@
+` "Nn[line=3]ah, vâng. Bị cảm lạnh cũng chẳng sao đâu."@
+` Tôi chỉ trả lời mà không suy nghĩ.@
+` "Không được như vậy! Cậu sẽ bị nhiễm bệnh nặng hơn cả cảm lạnh với cơn mưa này, ngay cả khi là tháng Mười[line=3]"@
+` Câu nói của cô ấy bị cắt ngang khi cô chạm vào tôi.
+\
+` "Cậu đã như vậy bao lâu rồi, Tohno-kun…!? Cậu thật lạnh bủn!@
+cl a,crossfade,400
+` Senpai kéo tay tôi và ép tôi đứng dậy khỏi ghế băng.
+\
+` “Tôi cho cậu mượn cái ô này, mau về nhà và làm gì đó để giữ ấm cơ thể đi. Nếu không nhanh chóng sưởi ấm thì thật sự là chuyện sống còn đấy.”`@
+` “……. À, vâng. Nhưng tôi không thể về nhà. Tôi không thể đi đâu nữa.”`@
+br
+` ……. Tôi không thể về nhà sau khi đã làm điều đó.`@
+br
+` Tôi nghĩ tôi không còn chỗ nào có thể nghỉ ngơi nữa.`
+\
+ld c,"tachi/cel_t13",crossfade,400
+` [line=7]" "@
+` Anh nhìn tôi.@
+` [line=3]Tôi thấy rồi. Vậy chúng ta quay về phòng của tôi nhé. Phòng tôi gần hơn nhà cậu nên tiện lắm."`@
+` Anh kéo tôi bằng cánh tay.`@
+cl a,crossfade,800
+` ………`@
+` Tôi không thể rũ bỏ cô ta đi.`@
+` Tôi chẳng nghĩ ra được điều gì lúc này, và[line=3]chỉ có hơi ấm của Senpai mới là duy nhất thật sự trong thế giới này nơi mọi thứ đều tê liệt.`
+\
+bg #000000,crossfade,1500
+bg "bg/bg_16a",crossfade,1500
+bg #000000,crossfade,1500
+bg "bg/bg_18c",crossfade,1500
+` Phòng của anh trai là căn hộ chung cư một phòng ngủ ở tầng hai.`@
+` Chỉ là một căn phòng nhỏ xíu, chật chội như sáu tấm tatami và một gian bếp.@
+` Như dự đoán với Shiki, căn phòng thật sạch sẽ.@ Điều đó làm dịu bớt căng thẳng của tôi một chút.`
+\
+ld c,"tachi/cel_t07a",crossfade,400
+` "Cái này, lau cho mình nhé"@
+` Cô đưa cho tôi một cái khăn tắm.`@
+` "Xin lỗi, tôi không có bộ quần áo nào vừa với cậu. Hãy chịu đựng một chút nhé. Tôi sẽ đi pha cho cậu một thứ gì đó ấm áp ngay bây giờ."@
+cl a,crossfade,400
+br
+` …… Anh trai đi vào bếp.`@
+` Tôi ở một mình trong căn phòng gọn gàng.
+\
+` "`[line=7]"`@
+` Tôi chưa bao giờ tưởng tượng mình bước vào phòng của một cô gái như thế này.@
+` Phòng của một cô gái.@
+` …… Phòng của một cô gái.@
+` Phòng của một cô gái mà tôi đã xông vào và giết chết cô ấy.@
+` [line=7]!@
+` Tôi cảm thấy sắp ói mửa.@
+` [line=3]Tôi đang làm gì ở đây?@
+` Ở một nơi như thế này.@
+` Tôi hoàn toàn không có quyền nhận sự tiếp đãi của Senpai ở đây.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+` [line=3]"Cảm ơn đã chờ đợi. Đây là bạn, Tohno-kun!"@
+ld c,"tachi/cel_t08",crossfade,400
+` "Bạn phải lau sạch mình nhanh lên!"@
+` Senpai trách tôi khi bắt đầu chà xát đầu tôi bằng khăn tắm.@
+ld c,"tachi/cel_t10a",crossfade,400
+` "Xem này, áo của bạn đã bị thấm nước. Bạn phải cởi nó đi. Nếu như thế này, bạn có thể bị viêm phổi!"@
+` Một Senpai trông rất dữ dằn đang tháo nút áo tôi.
+\
+` Bỗng nhiên, ngón tay cô dừng lại.@
+ld c,"tachi/cel_t08",crossfade,400
+` "…… Ừm… à…"@
+` Senpai nhìn kỹ lưỡng vào ngực tôi.@
+` "…… Đây là vết thương đã lành rồi, phải không?"@
+` …… À, cô ấy chắc chắn ngạc nhiên khi thấy vết thương cũ trên ngực tôi.@
+` Những vết sẹo giống như bỏng nằm ngay chính giữa ngực. Cô ấy có thể ngạc nhiên vì chưa biết đến chúng.@
+` …… Vâng. Chúng ổn. Đã tám năm rồi.@
+ld c,"tachi/cel_t03",crossfade,400
+` Tôi hiểu. …… Cảm ơn trời. Nếu vết thương này là nguyên nhân khiến cậu hành xử kỳ quặc, tôi sẽ phải đưa cậu đi bệnh viện ngay lập tức.@
+` Senpai mỉm cười nhẹ nhàng.@
+` …… Đau một chút.@
+` Khi nhìn thấy nụ cười của cô ấy, tim tôi đau.
+\
+` …… Không sao đâu. Tôi có thể tự mình làm được, nên để tôi yên.@
+` Được rồi. Tôi sẽ mang cho cậu một ấm trà. À, nếu cậu cởi áo, vui lòng dùng tấm màn đó và giữ ấm bản thân nhé.@
+cl a,crossfade,400
+` …………@
+` Tôi lau quần mình bằng khăn tắm.@
+` Nhưng dù sao, quần tôi vẫn còn ướt. Nếu tôi dùng tấm màn che lên mình thì nó sẽ bị thấm nước.@
+` Tôi cởi áo và quấn nửa trên cơ thể bằng khăn tắm.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+` À, cậu đã dọn xong chưa? Vậy thì chúng ta hãy uống trà nhé.@
+` Senpai ngồi xuống, cầm một bộ ấm chén.@
+ld c,"tachi/cel_t03",crossfade,400
+` Hãy ngồi xuống cùng tôi, Tohno-kun. Tôi không thể bình tĩnh khi cậu đứng vậy.@
+` …………@
+` Tôi làm theo lời dặn và ngồi xuống.@
+` Senpai rót một tách trà Anh quốc và đưa cho tôi.@
+cl a,crossfade,400
+` [line=8]`@
+` …………@
+` Cả hai chúng tôi đều im lặng.@
+` Anh trai uống trà Anh như thể không để ý đến sự hiện diện của tôi.@
+` Theo gương anh trai, tôi cũng uống một ít.
+\
+br
+` [line=4]Nó thật nóng.@
+br
+` Nóng đến nỗi đau lưỡi. Cảm giác ấm áp lan tỏa khắp người tôi.@
+` Cảm giác như trái tim, não bộ và tất cả các cơ quan khác của tôi đã ngừng hoạt động lại bắt đầu nhịp một chút.
+\
+` Anh trai im lặng.@
+` Chẳng bao lâu sau, tách trà đã cạn.@
+` Anh trai tự nhiên rót thêm trà vào.
+\
+` ……… Ah.@
+` Tôi cảm thấy mình phải nói điều gì đó.@
+ld c,"tachi/cel_t12",crossfade,400
+` Tohno-kun.@
+` [line=6]!@
+` Tôi giật mình.@
+` "Tôi sẽ ra ngoài một chút. Bạn có thể trông coi nhà không?@
+` "Ah… v-vâng. Được rồi.@
+ld c,"tachi/cel_t04",crossfade,400
+` "Được rồi, vậy tôi giao cho bạn nhé. Tôi sẽ quay lại ngay, đừng làm điều gì dại dột.@
+cl a,lshutter,400
+` Tôi tự hỏi cô ấy nghiêm túc đến mức nào.@ Nụ cười trên môi, anh trai ra đi.
+\
+` [line=5].@
+` Tôi lại một mình.@
+` Cảm giác ấm áp mà tôi cảm nhận được chỉ mới đây đã nhanh chóng nguội đi.
+\
+` …… Anh trai không hỏi tôi bất cứ điều gì.@
+` Cô ấy đưa một người như tôi vào phòng của cô ấy và chăm sóc tôi như thể đó là điều tự nhiên.@
+` …… Mặc dù tôi không để ý.@
+` Nhiệt độ của trà, sự ngăn nắp của căn phòng.@
+` Điều gì nhiều hơn rất nhiều lần so với những thứ đó,
+` là có một người bên cạnh tôi.
+\
+` "Kuh……!"@
+` Lòng ngực tôi đau.@
+` Một lúc trước, tôi thích ở một mình, không cảm nhận gì.@
+` Nhưng bây giờ, tôi lo lắng chỉ vì sự vắng mặt của cô ấy.@
+` Tôi muốn hét lên như thể tôi đã điên.@
+br
+` …… Quá tự phụ.@
+` Tôi là một kẻ giết người, sau cùng.@
+` Tôi không có quyền nào để nhận sự tốt bụng của anh trai.@
+` Nhưng tôi ích kỷ muốn anh trai mau chóng, mau chóng về nhà[line=5]
+!w5000
+ld c,"tachi/cel_t01a",lshutter,400
+` "Tôi về rồi, Tohno-kun. Cảm ơn vì đã trông coi nơi này."@
+` " [line=3]Sen… pai."@
+` Có vẻ anh trai đã mua tất cả mọi thứ.@
+` Có nhiều túi nilon treo trên tay cô ấy.
+\
+` "Hãy xem… xin mặc cái này trước đi. Nó rẻ tiền, nhưng tốt hơn là quần áo ướt. Nhân tiện, tắm nên đã gần xong rồi. Bạn nên cảm thấy đỡ hơn sau khi thư giãn trong đó một lúc."@
+cl a,crossfade,400
+` ……… À?`@
+` Anh trai dọn dẹp mọi thứ một cách gọn gàng.`@
+` Bộ quần áo mới, một buổi tắm...
+` …… Người này là.`@
+` Mặc dù chẳng cần thiết, nhưng với một người như tôi...
+\
+` “...... Được thôi, Shiki. Tôi về nhà. Tôi không thể gây phiền toái cho cậu nữa.”`@
+ld c,"tachi/cel_t12",crossfade,400
+` “Cậu đang nói cái gì, Shiki? Cậu bảo không về nhà được, phải không? Tôi đã mua đồ ăn cho hai người rồi, nên cậu hãy chịu trách nhiệm!”`@
+` Trách nhiệm[line=3]?@ Anh trai?@`
+` “Hãy hâm nóng cơ thể mình lên, ăn tối rồi mới về nhà nhé. Nếu về nhà với cái mặt như vậy, tôi sẽ lo quá không ngủ được.”`@
+` [line=8]" "@
+` Lồng ngực tôi đau.`@
+` Vui mừng quá.@ Tôi vui đến sắp khóc, nhưng mặt khác, tôi sợ lòng tốt của cô ấy.`
+\
+` “Tại sao?”`@
+ld c,"tachi/cel_t03",crossfade,400
+` "Vâng? Cậu muốn gì, Shiki?"@
+` [line=3]“...... Sao cậu lại đối xử tốt với tôi như thế, Shiki-kun? Tôi không có quyền được như vậy đâu.”`@
+` [line=3]Tôi đã giết người.`@
+br
+` Tôi không thể để ai chăm sóc tôi.`@
+br
+` …… Mình thật sự vô vọng.@ Mình vừa phạm một sai lầm to lớn mà bỏ chạy không chịu trách nhiệm.@ Ngay cả chuyện tự tử cũng đang lóe lên trong đầu mình.[line=3]`
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Tôi cố níu giữ anh.
+\
+` Tội lỗi ấy.`@
+` Tôi đã lấy đi mạng sống bằng chính tay mình.@
+` Tôi đang cố gắng biến nó thành điều chưa từng xảy ra trong suy nghĩ của mình.@
+` …… Sai lầm tôi mắc là không thể tha thứ… không, tôi nghĩ nó không nên được tha thứ. Đó là lý do tại sao tôi tuyệt vọng. Tôi không có quyền được đối xử tốt bởi bạn ở đây, Senpai.
+\
+ld c,"tachi/cel_t12",crossfade,400
+` Senpai thở dài.@
+` …… Dường như bạn đã tự tin rằng mình là một người xấu, Tohno-kun,@
+` Senpai nắm bắt được sự thật ẩn sâu bên trong tôi.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+` Nhưng điều đó chỉ cho thấy bạn không có niềm tin vào hành động của chính mình.@
+` Bạn biết rằng mình đã phạm sai lầm, nhưng bạn không hiểu nó tốt hay xấu. Đó là lý do tại sao bạn không có lựa chọn nào khác ngoài việc đẩy bản thân vào ngõ cụt cho đến khi mọi thứ trở nên rõ ràng.@
+` [line=4]Không, đó không phải là[line=4]@
+cl a,crossfade,400
+\
+` …… Tôi không biết.@
+` Nhưng vâng, tôi đang chấp nhận thực tế rằng mình đã làm điều đó, nhưng tôi vẫn chưa hiểu tại sao.@
+` Tôi đã giết người, và điều đó khiến tôi trở thành một kẻ xấu.@
+` Có lẽ tôi chỉ đang ép mình vào vai trò của một kẻ ác khi cố gắng xác định tội lỗi của mình[line=3]
+\
+ld c,"tachi/cel_t12",crossfade,400
+` Tôi không biết sai lầm của bạn là gì, và để nói thẳng ra, tôi không quan tâm.@
+` Bạn nói rằng bạn không có quyền được lòng tốt, nhưng đó chỉ là quan điểm của bạn.@
+` Tôi không làm tốt với bạn vì lợi ích của bạn, vì vậy xin đừng lo lắng về nó.
+\
+ld c,"tachi/cel_t08",crossfade,400
+` …… Thực ra, tôi đang làm điều này vì tôi muốn.@
+` Điều đó không liên quan gì đến hoàn cảnh của bạn. Có thể nó là một phiền toái cho bạn, nhưng xin hãy nghĩ rằng mình đã bị một người anh chị tốt bụng bắt và từ bỏ.@
+ld c,"tachi/cel_t04",crossfade,800
+` Nói như vậy, Senpai mỉm cười.@
+` Một nụ cười mềm mại, bảo vệ, mờ nhạt.
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_18b",crossfade,1500
+play "*9"
+br
+` Tôi nghe thấy tiếng mưa.@
+br
+` Cuối cùng, tôi vẫn không thể rũ bỏ lòng tốt của anh trai@
+` Cô cho tôi dùng tắm và chuẩn bị áo ngủ cho tôi.`@
+` Cô mời tôi ăn tối, rồi cho tôi ngủ ở đây vì trời mưa, và tôi sắp đi ngủ như thế này.
+\
+` [line=7]" "@
+` Cổ tôi như bị nghẹn.@
+` Anh ấy đã chăm sóc tôi quá nhiều đến nỗi cảm giác của tôi tê liệt.`@
+` Trong bữa tối, cô nói vui vẻ như thường lệ.`@
+` Cô hỏi những chuyện bình thường như trường học, các cửa hàng ở khu thương mại...
+\
+` , … Và mặc dù tôi không thể đưa cho cô ấy bất kỳ câu trả lời chính xác nào, mỗi lần tôi đáp lại, tôi cảm thấy một phần của bản thân mình đang trở lại.@
+` Bây giờ tôi đang ngủ trên giường của anh trai, và cứ nghĩ về anh trai đang ngủ trên sàn nhà.`
+\
+br
+br
+` [line=3]Thật bất ngờ.`@
+` Tôi vừa giết người cách đây chưa đầy vài giờ mà giờ lại hồi hộp như một học sinh bình thường.`@
+` Cảm giác của tôi thật sự tê liệt.`@
+` Tôi chưa từng nghĩ mình lại được bao phủ bởi hạnh phúc như thế này nữa đâu.`
+\
+` "…………"`@
+` Tôi không ngủ được, nên chỉ nhìn xung quanh.@
+` Tôi không biết mình nên làm gì tiếp theo.`@
+br
+` Tôi nghe thấy tiếng mưa tầm tả bên ngoài.`@
+br
+` "Nếu cậu không vội ngủ thì ngày mai sẽ trễ giờ đấy, Tohno-kun."@
+` [line=3]"Anh trai, anh tỉnh rồi?"@
+` “Vâng, tôi không thể ngủ cho đến khi cậu ngủ.@ Tôi là một cô gái mà sau cùng.”`
+\
+` “...... Tôi xin lỗi. Tôi sẽ ngủ ở bếp vậy.”`@
+` “Ôi, tớ phải nói bao nhiêu lần nữa đây? Cậu bị cảm mà không thể ngủ ở nơi như bếp đâu. Không sao cả, nên xin cậu mau chóng quên đi những suy nghĩ phiền muộn để đi ngủ.”`@
+` [line=5]"Nghĩ ngần."@
+` ……”Không thể nào.”@
+` [line=3]Đó là điều tôi không thể quên, đó là điều tôi không nên quên.@
+` Dù lý do là gì, tôi đã giết người.`@
+` Để quên người tôi đã giết là tội lỗi vượt quá tưởng tượng.`
+\
+` “…… Không. Tôi không thể đơn giản bỏ qua tội lỗi của mình, Shiki-senpai. Tôi không thể quên chúng, và tôi sẽ không cố gắng quên đi đâu.”`@
+` …… Nhưng cảm ơn. Cậu đã giúp tôi rất nhiều chuyện hôm nay. Nếu tôi ở vậy thì có lẽ đã chết rồi."@
+` Đó là chạy trốn.`@
+` Nếu tôi thật sự nghĩ mình đã sai, thì không nên phủ nhận nó.`
+\
+` "Phạm tội, phải không? Dường như sai lầm của cậu là điều tôi không thể tưởng tượng được."@
+` Anh trai nói với giọng vui vẻ, như đang kể chuyện cười.
+\
+` “Nhưng chẳng có con người nào mà không phạm tội đâu.”`@
+` Thế giới đâu có chia ra thành người tội lỗi và người vô tội đâu.`@
+` Mãi sống thì lỗi lầm là điều tất yếu.`@
+` Thật buồn, nhưng không thể tránh khỏi. Sống là bị bào mòn đi.@
+` “Chúng ta chỉ là những sinh vật ảnh hưởng đến người khác trong khi chính mình dần phai nhạt.”
+\
+` “…… Cái gì? Thế là chúng ta đã vượt quá sự cứu rỗi? Tôi không thích câu chuyện rằng mọi người đều phạm sai lầm.”`@
+` “......Vâng, tôi đoán chúng ta sẽ chẳng thể cứu được nếu như thế này.”`@
+` Nhưng cậu có thể chuộc lỗi của mình. Chỉ có người này và người kia mới có thể chuộc lỗi.`@
+` Tôi nghĩ những người không thể cứu vớt là những người không thể chuộc tội cho những lỗi lầm của họ.@
+br
+` …… Lời anh… nghe buồn lắm.`
+\
+` Nhưng cậu có thể chuộc tội cho những lỗi lầm của mình, Tohno-kun. Tôi không biết cậu đã phạm sai sót gì, nhưng cậu là người có thể chuộc tội.`@
+` Nếu lo lắng quá mà không ngủ được thì hãy nghĩ xem mình sẽ sống như thế nào và chuộc lỗi từ nay về sau.`@
+` "Nghĩ ra điều đó thật khó, nên não của cậu chắc chắn sẽ mệt và ngủ ngay thôi."@
+` Tôi không biết cô ấy nghiêm túc đến mức nào, vì vẻ như cô ấy đang xen lẫn những câu đùa vào.`
+\
+` “...... Tôi có thể chuộc tội cho những lỗi lầm của mình à? Nhưng anh trai, sai lầm của tôi chắc chắn là điều không thể chuộc được. Đó là điều tôi có thể khẳng định.”`@
+` "Ahahaha, đúng thế đấy. Bất kể hình dạng nào, tội lỗi cũng không thể tha thứ được. "@
+` Nếu làm ai đó bị thương, tội lỗi vẫn còn đó ngay cả khi bạn chữa lành vết thương, phải không?@
+` Dù cố gắng thế nào, cũng không thể xóa bỏ những sai lầm đã phạm.`
+\
+` Tôi nghĩ việc sám hối không phải là về kết quả, mà về quá trình.`@
+` Đó là ý tôi muốn nói về những người chuộc lỗi và những người không. @ Chính vì thế, cậu là người có thể chuộc tội.`
+\
+` “...... Tôi không hiểu. Tôi là người tồi tệ. Tôi không phải là người vĩ đại như cậu nghĩ.”`@
+` Tôi có thể dễ dàng nhìn thấy điều đó. Tôi thật sự xúc động lúc vừa rồi. Cậu bị thương rất nặng ở ngực phải không?"@
+` "Ê… ? Vâng, nhưng sao vậy ?"@
+` "Cậu chắc hẳn gặp tai nạn nghiêm trọng mới để lại vết sẹo như vậy... Sẹo thường làm biến dạng tâm trí. @ Một vết thương lớn như thế mà không mờ đi là hơi bất thường."
+\
+` Nhưng cậu là người rất tự nhiên đấy. Ai có vết thương như vậy mà vẫn sống bình thường thì nên tự hào về sức mạnh của mình. Cậu chắc chắn đã có một tuổi thơ thật tốt đẹp.`@
+` Thỏa mãn, Senpai kết thúc những suy nghĩ của mình và im lặng.@
+` Tôi có thể nghe thấy cả hơi thở của cô ấy nếu tôi tập trung lắng nghe.
+\
+` …… Cậu đang ngủ, Senpai à?@
+` Không có hồi đáp.@
+` Tôi chỉ nghe thấy tiếng mưa bên ngoài.@
+` …… Hả, chuộc tội cho những tội lỗi của tôi à?@
+` Một hình phạt xứng đáng với tội lỗi mà tôi đã phạm.@
+` Tôi đoán họ sẽ tìm thấy xác cô gái mà tôi đã giết vào ngày mai, và có một câu chuyện mới về kẻ sát nhân hàng loạt trên tin tức.@
+` Tôi thậm chí không thể đếm những thứ tôi sẽ mất khi điều đó xảy ra.@
+` Chắc chắn là Akiha sẽ gặp rắc rối, và tôi sẽ không bao giờ có thể nói chuyện với Senpai như thế này nữa.@
+` …………
+\
+` Nhưng nếu điều đó có thể chuộc tội cho tội lỗi của tôi, thì tôi không có lựa chọn nào khác ngoài việc chấp nhận nó.@
+` Nếu tôi có thể chuộc tội với[line=3]thì có lẽ sẽ có sự cứu rỗi ở đâu đó.@
+` Haa[line=4]aahhhh.@
+` Tôi cảm thấy buồn ngủ hơn một chút.@
+` Tôi không biết về ngày mai.@
+` Tôi không biết, nhưng nếu tôi có thể được tha thứ…
+` Cho đến khi tội lỗi của tôi bị phát hiện, cho đến khi tôi đối mặt với tội lỗi của tôi…
+` Tôi ước gì mình có thể tiếp tục sống cuộc sống như thế này.
+\
+playstop
+bg #000000,crossfade,1500
+!w1000
+` …… Fwoomp.@
+` …… Im lặng đi.@
+br
+` …… Mm.@
+br
+` …… Có tiếng động ở gần đây.@
+` Tôi không muốn thức dậy chút nào, nhưng do tiếng động mà tôi lười biếng mở mắt.
+\
+bg "event/cel_e03a",crossfade,1500
+` [line=5]Anh trai đang thay đồ.@
+br
+` Vẫn là giữa đêm. Không có ánh sáng từ cửa sổ chiếu vào.@
+` Có lẽ mưa đã ngừng; bây giờ rất im lặng.@
+br
+` Anh trai đang cởi quần áo.
+\
+` ………@
+` Thật đáng tiếc.@
+` Nếu tôi không rơi vào trạng thái ân hận sâu sắc về vụ giết người mà tôi đã phạm, hoặc đang nửa ngủ, tôi có thể thưởng thức được vẻ đẹp của anh trai. Nhưng bây giờ, đầu óc tôi dường như không hoạt động bình thường.
+\
+` Mắt anh trai nhìn vô hồn.@
+` Quan trọng hơn, có điều gì đó kỳ lạ.@
+br
+` [line=4]Điều gì[line=4]là?@
+bg "event/cel_e03b",crossfade,400
+br
+` …………@
+` Trên cánh tay có những vết bầm tím kỳ lạ.@
+` …… Không, đó không phải là vết bầm tím, mà giống như hình xăm.
+\
+br
+br
+br
+br
+br
+br
+br
+` …… Có… điều gì đó… không đúng… về chuyện này.
+\
+bg #9c0120,crossfade,400
+bg "event/cel_e03b",crossfade,400
+` ………@
+br
+` Tôi lại cảm thấy buồn ngủ.@
+` Tôi nghĩ… nhiều thứ xung quanh chân anh ấy thật rối tung.`@
+br
+` Nhưng thôi vậy.`@
+` Tôi chìm vào giấc ngủ sâu.
+\
+bg #000000,crossfade,1500
+!w3000

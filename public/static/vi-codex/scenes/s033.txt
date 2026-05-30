@@ -1,0 +1,66 @@
+bg #000000,lcartain,800
+play "*3"
+bg "bg/bg_11b",lcartain,400
+` Ngay khi tôi bước ra hành lang, tôi liền gặp một khuôn mặt quen thuộc.@
+` "Ê? Cậu có chuyện gì sao, Senpai? Có việc gì ở lớp học năm hai không?"@
+ld c,"tachi/cel_t01a",lshutter,400
+` "Vâng. Việc với một học sinh năm hai, để chính xác hơn là vậy."@
+` Ciel-senpai tiến lại gần với nụ cười.@
+` "Nghe này, tôi có một số đồ ăn nhẹ ngon đây, nhưng không ai để nói chuyện.@ Thật lãng phí nếu tôi phải ăn hết chúng một mình, vì vậy tôi đến đây để tìm một người trông lười biếng để trò chuyện."
+\
+` "Ừm… Ai để nói chuyện? Nhưng lớp học này không còn ai nữa. Cũng như tất cả các lớp khác, quá. Ngay từ đầu cậu cũng không thường xuyên đến lớp năm hai phải không? Cậu ở tầng dưới chứ?"@
+` Và nếu cô ấy muốn có người để nói chuyện, thì sao cô ấy không hỏi những bạn cùng lớp năm ba? Cô ấy thực sự không cần phải lên đây.@
+` "Cậu không nên nghĩ đến việc hỏi các bạn cùng lớp năm ba của mình à?@ Chắc chắn cuộc trò chuyện sẽ tốt hơn."
+\
+ld c,"tachi/cel_t02",crossfade,400
+` "Vâng, nhưng hôm nay, tôi muốn nói chuyện với những người đàn ông trẻ tuổi. Xin đừng hỏi lý do, chỉ là một cái benteuer."@
+` "…… Tốt, tôi sẽ không hỏi."@
+` Tôi có lẽ sẽ không hiểu được ngay cả khi cô ấy nói với tôi.@
+` Nụ cười của Senpai biến mất khi cô ấy nhìn vào khuôn mặt tôi.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+` "Cậu rảnh lúc này không, Tohno-kun?"@
+` "Chà[line=3] Nếu như việc không có gì để làm là được coi là rảnh thì tôi chắc chắn là rảnh."@
+br
+` Senpai nắm lấy tay áo của tôi.@
+br
+ld c,"tachi/cel_t03",crossfade,400
+` "Vậy thì cậu đã bị bắt rồi. Hãy đi uống trà với tôi."@
+` Senpai mời tôi với nụ cười.@
+` Không có lý do gì để tôi từ chối lời đề nghị, và ngoài ra, chuyện trò chuyện với Senpai cũng nên thú vị.
+\
+` "Được rồi, tôi sẽ đi cùng cậu nếu được."@
+` Vậy là đã quyết định. Được rồi, chúng ta đi!@
+` Cầm lấy tay áo tôi, cô bước xuống hành lang với cái bước nhẹ nhàng.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_09b",lcartain,1500
+` Wow. Trường chúng ta có phòng như thế này à? Có lẽ là dành cho câu lạc bộ Nghi thức trà?@
+ld c,"tachi/cel_t03",crossfade,400
+` Vâng, đây là phòng của câu lạc bộ Nghi thức trà hiện tại. Dường như nó chưa được sử dụng cho đến khi tôi đến.@
+cl c,lshutter,400
+` Senpai bước lên tấm tatami và bắt đầu chuẩn bị với tiếng động rắc rách.@
+` Một phòng câu lạc bộ, ư? Nếu vậy, các thành viên câu lạc bộ khác sẽ đến chứ? Sẽ không tốt cho một người như tôi, người ngoài, ở đây phải không, Senpai?@
+` Không sao đâu. Có thể là câu lạc bộ Nghi thức trà, nhưng không có thành viên nào khác ngoại trừ tôi. Nhờ vậy, tôi có thể sử dụng nó tự do trong giờ giải lao và sau giờ học…… đây chúng ta đi.@
+` Cười tươi, Senpai bắt đầu trải những chiếc đệm.@
+` Trà là trà, nhưng dường như lần này sẽ thực sự là một nghi thức trà nghiêm túc.@
+` Để thật thà, tôi hơi bị áp đảo.
+\
+` Uh, Senpai…… Tôi không hề biết làm gì cả.@
+` Cậu đang nói cái gì? Tôi chỉ biết cách rót trà thôi.@
+` Với câu trả lời thẳng thừng đó, Senpai đặt ấm trà, một số tách và một số bánh trà lên đĩa.@
+ld c,"tachi/cel_t03",lshutter,400
+` Chúng ta chỉ đang trò chuyện một cách bình thường thôi, nên không cần phải quá trang trọng. Như vậy thì chẳng vui chút nào, phải không?@
+` Cười nhẹ nhàng, Senpai rót trà vào tách của mình.
+\
+cl c,lshutter,400
+` …… Ừm. Tôi thật sự không hiểu cậu, Senpai.@
+` Lẩm bẩm, tôi rót trà cho mình.@
+` Tôi uống một ngụm.@
+` Nhặt bánh trà và đưa vào miệng, tôi lại uống thêm một ngụm trà.@
+` Tôi chưa bao giờ tham gia vào nó, nhưng gia đình Arima là một gia đình nổi tiếng về nghi thức trà.@
+` Được lớn lên trong một gia đình như vậy, tôi quen với việc uống trà và không làm gì.@
+` Senpai nhìn tôi với vẻ mặt hơi bối rối.
+\
+` "Có chuyện gì đâu, Senpai?@ Bạn có vẻ buồn một chút."
+\

@@ -1,0 +1,285 @@
+[line=9]
+bg #000000,notrans,0
+bg "bg/ima_01",crossfade,800
+play "*9"
+` Trong giấc mơ của tôi, tôi đang nhìn chằm chằm vào mặt trăng.
+\
+` Tôi không thể nhớ mình ở đâu hay tại sao mình lại nhìn nó lên trên.@
+` Có lẽ tôi đã ngước nhìn bầu trời đêm không muốn thấy điều gì, và mặt trăng chỉ tình cờ xuất hiện.
+\
+` Lưng tôi rắc rắc.@
+` Một hình ảnh lạnh lẽo chảy trong tĩnh mạch của tôi.@
+` Một bóng tối cô độc khiến tôi choáng váng.@
+` Mặt trăng rực rỡ làm tim tôi đau đớn.
+\
+` ... Lạ thật.@
+` Sự lạnh giá áp đảo giống như một cảm giác hoài niệm hơn.
+\
+playstop
+bg #ffffff,crossfade,800
+`"[line=3] Shiki-sama."@
+` ... Tôi nghe thấy giọng nói của Hisui hòa lẫn với ánh sáng bình minh.@
+br
+`"[line=3] Shiki-sama, đã đến lúc rồi. Hãy thức dậy đi."@
+` Giọng nói không một chút cảm xúc của cô ấy đánh thức tôi.
+\
+bg "bg/bg_40e",crossfade,800
+`"[line=6]"@
+br
+` Ngay khi tôi tỉnh lại, những hình ảnh khủng khiếp xuất hiện trước mắt.@
+` Tôi bị đau đầu như thể vừa bị bắn vào đầu.@
+`"Ah[line=4]"@
+` Tôi gần như mất đi sự nhận thức vừa mới tỉnh dậy. Trước khi hoàn toàn biến mất, tôi nhanh chóng cầm lấy cặp kính của mình.
+\
+bg "bg/bg_40a",crossfade,800
+play "*2"
+ld c,"tachi/his_t01",crossfade,800
+`"Shiki-sama……? Cô không cảm thấy tốt à?"@
+`"…… Không, tôi chỉ hơi mệt mỏi sau ngày hôm qua. Tôi sẽ ổn, nên đừng lo lắng."@
+` Tôi nhẹ nhàng lắc đầu, xua tan hình ảnh vừa thấy khỏi tâm trí.@
+` ... Đêm qua, tôi ép bản thân giữ lời hứa với Arcueid, nên cơ thể vẫn chưa trở lại bình thường.
+\
+`"Chào buổi sáng, Hisui. Cảm ơn em đã đến đánh thức tôi như mọi khi."@
+` Tôi ngồi dậy trên giường, cố gắng mỉm cười tự nhiên nhất có thể.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"Không, đây là bổn phận của tôi. Em không cần phải cảm ơn tôi, Shiki-sama."@
+`"Thật ra thì em rất tốt. Em tốt hơn đồng hồ báo thức biết bao nhiêu."@
+br
+` Tôi đứng dậy.@
+` Chưa đến bảy giờ[line=3], sớm hơn khoảng mười phút so với thời gian tôi thường thức dậy.
+\
+`"…… Ừm, bữa sáng? Tôi sẽ đến ngay, vậy hãy tiến lên trước nhé."@
+`"Vâng, tôi sẽ chờ bạn trong phòng khách."@
+cl c,lshutter,800
+` Sau khi cúi đầu, Hisui rời khỏi phòng.
+\
+` [line=4]Vậy thì.@
+` Tôi vẫn còn hơi mệt một chút, nhưng không quá tệ đến mức phải bỏ học. Tôi chắc chắn sau khi ăn bữa sáng mà Kohaku-san chuẩn bị, tôi sẽ cảm thấy tốt hơn nhiều.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Như thường lệ, Akiha ngồi trên sofa, và Hisui đang chờ ở tường.@
+br
+ld c,"tachi/aki_t04a",lshutter,800
+`"Chào buổi sáng, anh trai. Ngủ ngon tối qua không?"@
+` Akiha chào tôi một cách bình tĩnh khi tôi bước vào phòng.@
+` Cô ấy không biết rằng tôi đã rời đi vào đêm qua. ... Vì cô ấy quá lo lắng, tôi cảm thấy có lỗi khi lén ra ngoài.
+\
+`" ... Vâng, chào buổi sáng, Akiha. Cậu thức dậy sớm hôm nay đấy."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Không, tôi như mọi khi ... Anh trai?"@
+` Như thể đọc được suy nghĩ của tôi, cô ấy nhìn thẳng vào mắt tôi.@
+`"[line=4]Có gì trên mặt tôi, Akiha?"
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"[line=4]Không, không phải... Anh trai ơi, anh có khỏe không? Anh vẫn trông không tốt, nên nếu anh còn ốm, có lẽ anh nên nghỉ ngơi hôm nay."@
+br
+` [line=4]"Ừm, vậy thôi."@
+` Tôi thư giãn, nhận ra cô ấy không phát hiện ra chuyện đêm qua.
+\
+`"Không, tôi thực sự ổn. Tôi sẽ sớm khỏe hơn, nên đừng lo lắng quá nhiều."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"... Được rồi. Nếu anh nói vậy, anh trai, thì tôi sẽ không nói gì nữa."@
+cl c,crossfade,800
+` Cô ấy im lặng, vẫn trông lo lắng.
+\
+`"Hừm, hiếm khi thấy cậu thuyết phục nhanh như vậy. Không giống với cậu thường làm."@
+ld l,"tachi/aki_t21",crossfade,400
+`"Này, tôi luôn tỉnh táo. Tôi chỉ nhắc nhở bạn vì bạn là người có vấn đề. Vậy nên đừng đổ lỗi cho tôi về những khiếm khuyết của bạn."@
+` Cô ấy nhìn tôi với ánh mắt đầy giận dữ.@
+`"Ồ, tốt hơn rồi. Này, Hisui, buổi sáng mới thực sự đến nếu Akiha nghiêm khắc phải không?"@
+ld r,"tachi/his_t01",crossfade,400
+`"...@
+` Có phải vì tôi đột nhiên gọi cô ấy hay vì cô ấy không biết phải nói gì? Hisui không xác nhận cũng không phủ nhận lời tôi.
+\
+`"Xem này? Nghe này, Akiha, Hisui cũng nghĩ vậy."@
+`"Đừng ngốc nghếch. Hisui im lặng vì cô ấy bất ngờ."@
+` Với nét mặt nhăn nhó đầy tức giận, Akiha lại nhìn chằm chằm vào tôi.@
+ld l,"tachi/aki_t03a",crossfade,400
+`"Cũng vậy, tôi luôn muốn nói điều này, nhưng cậu quá phụ thuộc vào Hisui. Cậu đã ngủ từ hôm qua, nên nếu cậu thức dậy sớm hơn thì chẳng có vấn đề gì. Nhưng cậu luôn thức muộn. Liệu cậu đang lười biếng vì Hisui không nói gì?"
+\
+`"[line=4]Cậu làm cho nó nghe như tôi là người gây rắc rối cho cô ấy vậy!"@
+ld l,"tachi/aki_t18a",crossfade,400
+`"Không phải 'như', cậu đang gây rắc rối cho cô ấy. Này, Hisui, cậu có nghĩ như vậy không?"@
+`"...@
+` Hisui vẫn im lặng và đứng đó.
+\
+ld l,"tachi/aki_t03a",crossfade,400
+`"Xem này, Hisui nói rằng cô ấy cũng nghĩ vậy."@
+`"Không thể nào! Cô ấy chẳng nói gì cả!"@
+ld r,"tachi/his_t04",crossfade,400
+`"...@
+` Hisui im lặng.@
+` Nhưng sự im lặng của cô ấy lại giống như cô ấy đồng tình nhiều hơn với Akiha.
+\
+`"... Ôi."@
+` Tôi cảm thấy giờ đây chúng tôi là hai người chống lại một mình.
+\
+`"Shiki-san, bữa sáng đã sẵn sàng~"@
+` Với thời điểm hoàn hảo, giọng nói của Kohaku-san vang vọng khắp phòng.@
+`"Ờm, tôi sẽ đi ăn."@
+` Tôi nhanh chóng hướng tới phòng ăn.
+\
+ld l,"tachi/aki_t02",crossfade,400
+ld r,"tachi/his_t08",crossfade,400
+`"………………`@
+` Tôi cảm nhận được áp lực im lặng từ hai người phía sau lưng đang xuyên qua lưng tôi.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_34a",lcartain,800
+` Sau bữa sáng, tôi trở lại phòng khách.@
+` Akiha không có mặt, và Hisui là người duy nhất đứng đó.
+\
+`"Ồ? @Akiha đã đi học rồi à?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Vâng. Nó cũng là lúc cậu đi học, thưa Shiki."@
+`"Ôi, đã là 20 phút rồi sao? Tôi nghĩ tôi nên bắt đầu di chuyển sớm thôi."@
+` "Để nói thật, tôi vẫn chưa cảm thấy tốt lắm, nhưng tôi chắc chắn sẽ sớm trở lại bình thường."
+\
+`"Xin lỗi, Hisui, nhưng cậu có thể lấy túi của tôi từ phòng không? Tôi sẽ rửa mặt."@
+`"Như ý cậu vậy."@
+cl c,lshutter,800
+bg #000000,lcartain,800
+bg "bg/bg_48a",lcartain,800
+` Sau khi hoàn tất mọi chuẩn bị, tôi rời khỏi biệt thự.@
+` Với túi trên tay, Hisui tiễn tôi ở cửa ra vào.
+\
+`"Tôi sẽ đi. Tôi không chắc khi nào sẽ trở lại, nhưng có lẽ vào bữa tối."@
+ld c,"tachi/his_t05",crossfade,400
+`"Đúng vậy, tôi sẽ chờ."@
+` Cô ấy cúi đầu im lặng.@
+` ... Có một chút căng thẳng trên gương mặt cô ấy.
+\
+`"Hisui, cậu có thấy không khỏe không?"@
+`"[line=4]Không, đó không phải là vấn đề của tôi, nhưng cậu trông không tốt lắm. Tôi không chắc liệu để cậu đi là một ý tưởng hay."@
+` Cô ấy nói với giọng do dự.
+\
+`"Tôi ổn. Tôi không cảm thấy tuyệt lắm, nhưng chỉ hơi mệt mỏi. Thật ra, cả cậu và Akiha đều hay lo lắng quá."@
+`"... Vậy à? Nếu chỉ có chúng ta thì sẽ ổn, nhưng..."
+\
+`"... Ồ. Tôi sẽ về sớm hôm nay và nghỉ ngơi, vậy là tốt rồi phải không? Tôi sẽ không làm quá sức, nên đừng có vẻ mặt như vậy."@
+`"... Vâng. Xin lỗi, Shiki-sama."@
+` Cô ấy vẫn trông rất lo lắng.
+\
+`"Tôi sẽ ra ngoài. Tôi sẽ khỏe hơn khi trở lại, nên hãy thư giãn nhé."@
+ld c,"tachi/his_t07",crossfade,400
+`"[line=4][line=4]À... Shiki-sama"
+\
+bg "bg/ima_03",lcartain,800
+` Tôi bỏ qua cô ấy và rời khỏi biệt thự.@
+` Hình ảnh Hisui quan sát tôi với vẻ lo lắng vẫn còn ám ảnh trong đầu tôi.
+\
+playstop
+bg "bg/bg_22a",lcartain,800
+play "*3"
+` Tôi hướng tới trường học.@
+` Chân tôi nặng trĩu và tôi cảm thấy như đang ở trong cơ thể của một người khác khi đi xuống đồi.@
+` ... Có lẽ chỉ là sự mệt mỏi từ đêm qua. Ngay cả khi tôi nghĩ mình sẽ nhanh chóng hồi phục, sự chậm chạp ấy vẫn không tan biến.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01a",lcartain,800
+` Còn mười phút nữa là tám giờ.@
+` Cổng trường ngập tràn học sinh đến lớp.@
+`"[line=3] Ôi."@
+` Bên cổng, tôi nhìn thấy một hình bóng quen thuộc.
+\
+`"... Ciel... Senpai."@
+` Đó là một khung cảnh bình thường trong buổi sáng.@
+` Nhưng điều tôi chứng kiến lúc đó[line=4]
+bg #000000,lshutter,400
+monocro #ffff00
+bg "event/cel_e04",crossfade,400
+monocro off
+bg "bg/bg_01a",lshutter,400
+` Nếu không có nó, thì ngày hôm nay sẽ chỉ là một buổi sáng bình thường.@
+`"[line=6]"@
+` Ngay cả khi tôi không biết mình định làm gì, tôi vẫn đuổi theo Senpai.
+\
+bg "bg/bg_03a",lcartain,800
+`"Senpai!"@
+` Tôi gọi theo sau.@
+ld c,"tachi/cel_t01a",lshutter,800
+`"Ôi, buổi sáng tốt lành, Tohno-kun. Đáng ngạc nhiên khi gặp cậu ở đây."@
+`"... Vâng, tôi thấy hình bóng của cậu từ phía sau nên đã chạy theo, Senpai. À... có một điều tôi muốn hỏi."@
+` Tôi lén nhìn mặt cô ấy.
+\
+`"Có chứ, chuyện gì?"@
+` Cô ấy đối mặt với tôi bằng nụ cười nhẹ nhàng quen thuộc.
+\
+`"... Ồ, Senpai. Hai đêm trước, cậu có ở gần nhà tôi không? Cậu mặc áo khoác đen và váy dài bay trong gió."@
+ld c,"tachi/cel_t12",crossfade,400
+`"...? Cậu nói gì vậy?"@
+`"[line=2]Ừm... Vâng, đôi giày cao gót đó rất hợp với cậu. Tôi thấy cậu thật ấn tượng, trông thật ngầu."
+\
+ld c,"tachi/cel_t05",crossfade,400
+` "... Hừ?" Senpai nghiêng đầu.@
+` Cô ấy nhíu mày như thể không hiểu hoàn toàn những lời tôi nói và sau đó phủ nhận.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Ừm, tôi không hiểu lắm, nhưng cậu đang nói rằng hai đêm trước tôi ở gần nhà cậu với vẻ ngoài như vậy sao?"@
+`"Đúng rồi. Senpai, chính là cậu phải không?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Không thể nào. Tohno-kun, cậu đang nói rằng tôi có vẻ rảnh rỗi đến mức này sao?"@
+br
+` [line=3]Thầy giáo thực sự tức giận.@
+` Cô ấy không thể giả vờ ngốc nghếch hay nói dối.
+\
+`"[line=4][line=3]À, không, không phải thế, nhưng... tối qua tôi thấy ai đó trông giống cậu trong công viên, nên..."@
+` Thầy giáo thở dài.@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun, đó không phải là tôi. Tôi chẳng có sở thích kiểu đó."@
+`"[line=3]À, ừm, tôi biết mà. Tôi chỉ muốn hỏi thôi."
+\
+` ... Sau khi nghe cô ấy nói vậy, có lẽ cô ấy nói đúng.@
+` Ciel-senpai và người đó vào đêm đó hoàn toàn không liên quan đến nhau.@
+` Trong đầu tiên, Senpai chỉ là một người bình thường, và nếu cô thực sự có mặt[line=3]thì cô phải đã chứng kiến tôi chiến đấu với người đàn ông bị băng bó bằng con dao của mình.@
+` Nếu cô ấy nhìn thấy cảnh tượng kinh hoàng như vậy, không thể nào cô ấy có thể nói chuyện với tôi một cách bình thường như thế này.
+\
+`"... Xin lỗi, xin hãy quên đi.@ Có lẽ đó chỉ là một người khác."@
+ld c,"tachi/cel_t09",crossfade,400
+`"Đáng lẽ ra được, nhưng... liệu người đó có thực sự giống tôi?@ Người kỳ lạ đó?"@
+`"À, tôi không chắc lắm.@ Đêm tối, và ở xa... huh?"@
+` Vâng, nó quá xa và tôi không thể nhận ra gương mặt của cô ấy.@
+` Vì sao tôi lại nghĩ nó giống Senpai...?
+\
+`"... Ừm... Có lẽ có điều gì đó sai với tôi."@
+` Tôi chéo tay và suy nghĩ.
+\
+br
+wave se_03
+` Sau đó, chuông mười phút reo lên.@
+`"[line=3] Ôi không, chúng tôi sẽ trễ giờ. Tạm biệt, Senpai, gặp lại sau!"
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+` Tôi vội vã chạy vào lớp học.@
+` Vẫn còn năm phút trước giờ học, nên bên trong rất ồn ào.@
+`"Arihiko không có mặt."@
+` Anh ấy thường đến khoảng giữa buổi học thứ hai.
+\
+bg #000000,crossfade,1500
+playstop
+!w1000
+bg "bg/bg_06a",crossfade,800
+wave se_03
+` Giờ ăn trưa.@
+` Arihiko có vẻ như không đến rồi.@
+` ... Inui Arihiko và Yumizuka Satsuki là hai người vắng mặt hôm nay. @ Satsuki bị cảm lạnh hoặc gì đó, nên cô ấy sẽ nghỉ một thời gian.
+\
+`"...... Thầy không đến dường như cả, nên tôi nghĩ mình sẽ ăn một mình."@
+` Tôi nói thế, nhưng tôi chẳng có hứng thức ăn gì.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_06a",crossfade,400
+` ... Cái gì vậy?@
+` Ban đầu tôi không thấy tốt lắm, nhưng sau khi đến trường, tôi cảm thấy tồi tệ hơn nhiều.@
+` Không chỉ cơ thể tôi nặng nề. @ Nốt sẹo trên ngực tôi gây khó chịu; đó là một cảm giác phiền toái.
+\
+`"... Có lẽ tôi không nên đến trường."@
+` Trong một khoảnh khắc ngắn ngủi, tôi thấy những gương mặt lo lắng của Hisui và Akiha trong tâm trí mình.@
+` Có lẽ là do tôi đã phớt lờ lời khuyên của Akiha về việc cần nghỉ ngơi vào đêm qua và thay vào đó lại đến gặp Arcueid.@
+` Chỉ đơn giản là ngồi đó, tôi bắt đầu cảm thấy một sự bất an kỳ lạ.
+\
+bg #000000,crossfade,800

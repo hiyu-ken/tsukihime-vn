@@ -1,0 +1,123 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` …… Căn dặn dứt khoát rành rọt khi xưa tự thân của Akiha quả thực dẫu dã luôn lẩn khuất trong tâm trí tôi chịu chết tịnh không yên chút nào.@`
+` Em ấy dặn dò tuyệt đối chịu chết tịnh không được phép cất bước bén mảng vào căn nhà biệt lập kia dưới bất kỳ hoàn cảnh nào.@`
+` Mà cái điệu bộ giấu giếm nghiêm nghị nhường ấy dẫu vậy dẫu vậy dẫu lại càng khiến trí tò mò tự thân của tôi trỗi dậy mạnh mẽ hơn bao giờ hết.@ Vả lại[line=5]nếu như căn phòng kiểu Nhật truyền thống duy nhất trong dinh thự nằm ở chốn đó, tôi thực lòng dẫu dã vô cùng khao khát được cất bước tới xem thử một lần cho thấu triệt.@`
+br
+`"…… Hừm, chỉ cần mình lẳng lặng cất bước hành động cẩn mật để tịnh không bị ai phát hiện ra dẫu sao dẫu dẫu dã ổn rồi."@`
+` Tôi lẳng lặng thầm thốt lời sám hối tạ lỗi với Akiha trong lòng, rồi quyết định khẽ khàng rón rén cất bước lách ra phía cửa ngoài.`
+\
+playstop
+waveloop se_11
+bg #000000,lcartain,400
+bg "bg/bg_33b",lcartain,400
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+bg #000000,lcartain,800
+` [line=6]Bầu trời hoàng hôn dẫu dã tịch mịch tắt lịm, chừa lại không gian bên ngoài bao trùm bởi màn đêm tối tăm đen kịt như mực.@`
+` Tôi rảo bước băng qua khu rừng rậm rạp hoang vu nằm ngay trong khuôn viên dinh thự.@`
+` …… Trí nhớ tự thân của tôi vốn dĩ chịu chết tịnh không còn lẩm bẩm nhớ rõ phương hướng hay vị trí cụ thể của chốn đó nữa, dẫu vậy ngay khi vừa cất bước tiến sâu vào khu rừng, hai bàn chân tôi dường như dẫu dã tự động cất bước thẳng hướng về phía căn nhà biệt lập kia hệt như có ma lực dẫn đường.@`
+` Dẫu cho đầu óc tôi dẫu dã lỡ quên sạch lối cất bước đi chăng nữa, dẫu vậy có vẻ như từng tế bào trên thể xác tự thân vẫn luôn lẩm bẩm ghi khắc rõ mồn một lộ trình chốn này.@`
+` Dù thế nào đi nữa, cuối cùng tôi dẫu dã cất bước thành công tới trước căn nhà biệt lập mà chịu chết tịnh không hề bị lạc đường nửa bước.`
+\
+bg "bg/bg_44b",lcartain,800
+`"[line=7]"@`
+` Nơi chốn này chắc hẳn dẫu dã bị bỏ hoang tịch mịch cô tịch suốt hàng năm trời đằng đẵng rồi, thế nên hàng tá cấu trúc gỗ xung quanh dẫu dã chầm chậm mục nát hao mòn theo dòng chảy tàn khốc của thời gian.@`
+br
+` Khi khẽ đặt bàn tay tự thân lên cánh cửa ra vào sửa soạn dùng lực đẩy, tôi bàng hoàng phát hiện ra nó dẫu vậy tịnh không hề bị khóa từ bên trong.@`
+br
+bg #000000,lcartain,800
+` Quả thực đúng như dự đoán từ đầu dẫu vậy, bầu không khí bên trong tối tăm cô tịch lạnh lẽo vô cùng.@`
+` Hít hà bầu không khí thoang thoảng hương thơm nồng nàn đặc trưng của những tấm chiếu Tatami và những cánh cửa trượt Shoji bằng giấy, tịnh không hiểu sao cõi lòng tôi bấy giờ dẫu vậy lại trào dâng một cảm giác vô cùng thân thuộc thoải mái dẫu cho trước mắt là màn đêm đen kịt chịu chết tịnh không trông thấy nổi bất cứ vật gì.`
+\
+bg "bg/bg_45c",lcartain,800
+`"[line=5]A."@`
+` Ngay khoảnh khắc vừa cất bước bước chân đặt chân vào gian phòng kiểu Nhật này, một luồng khí lạnh buốt bỗng chốc chạy dọc sống lưng tôi dữ dội.`
+\
+`"[line=10]Mình dẫu dã thấu triệt sâu sắc chốn này."@`
+` Có lẽ thuở ấu thơ nghịch ngợm dẫu dã có đôi lần tôi tò mò cất bước tìm tới chốn này chơi đùa vì cảm thấy cấu trúc gian phòng Nhật Bản truyền thống này vô cùng thú vị.@`
+`"[line=12]"@`
+` Thế nhưng, sự sự tình này quả thực vô cùng kỳ quặc quái đản.`
+` Trong sâu thẳm tâm hồn tôi lại dấy lên một cảm giác vô cùng lạc lõng bất an hệt như cái cảm giác trống trải kỳ lạ khi lần đầu tiên được Hisui dẫn cất bước giới thiệu căn phòng ngủ tự thân kề bên gian nhà chính sau khi cất bước quay trở về tòa dinh thự này vậy.`
+`"…… Chắc dẫu dã là vì ngôi nhà của nhà Arima dẫu dẫu cũng được thiết kế theo phong cách Nhật Bản truyền thống chăng?"@`
+` Cảm giác nhường này... cứ như thể bản thân tôi dẫu dã luôn luôn sinh sống lưu trú ngay chốn này suốt cả cuộc đời đằng đẵng vậy.@`
+br
+` Hoặc giả là[line=5]`
+\
+bg #000000,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+` Nếu mình chịu khó lẩm bẩm nhớ lại chuyện ngày xưa…`
+\
+bg #000000,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+` Cái ngày ấy khi lũ trẻ tụi tôi đang thỏa sức nô đùa ngoài khoảng sân vườn rộng lớn…`
+\
+bg #000000,crossfade,400
+bg "bg/cmo_06",notrans,0
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` Lẽ nào... chốn ấy tịnh không chỉ dẫu dã có mỗi bản thân tôi và Akiha chơi đùa thôi sao.`
+\
+bg #9c0120,notrans,0
+bg "bg/bg_45c",notrans,0
+wave se_01
+`"A[line=6]"@`
+` Bất thình lình, một cơn đau buốt nhói dữ dội bỗng chốc ập đến nhắm thẳng vào vùng gáy tự thân của tôi.@`
+` Chắc dẫu dã là do chứng thiếu máu bẩm sinh lại tái phát hoành hành rồi, dẫu vậy cả cơ thể tôi bấy giờ trĩu nặng hệt như bị đổ chì vậy.@`
+`"…… Tồi tệ thật rồi…… Mình phải lập tức cất bước quay trở lại phòng ngủ tự thân ngay tức khắc thôi."@`
+` Tôi ra sức lắc đầu nhè nhẹ để cố giữ lấy chút thần trí tỉnh táo cuối cùng, rồi lập tức quyết định quay đầu cất bước trở về phòng trước khi thể xác tự thân thực sự đổ rầm xuống ngất xỉu chốn này.`
+play "*1"
+ld c,"tachi/koha_t02b",lshutter,400
+`"A, kính chào cậu Shiki.@ Cớ sao tự dưng cậu lại cất công ghé qua một nơi bỏ hoang cô tịch nhường này thế ạ?"@`
+` Kohaku-san đột ngột từ ngoài cất bước bước vào phòng, giọng điệu em ấy vẫn vô cùng ôn hòa thanh thoát.`
+\
+`"[line=10]!!!"@`
+` Tôi bàng hoàng hốt hoảng đảo mắt nhìn dáo dác xung quanh mong tìm kiếm đối sách thoát thân.@`
+` …… Nhưng chịu chết tịnh không có bất kỳ góc kẹt nào để ẩn nấp ẩn náu cả.@ Hơn nữa, em ấy bấy giờ dẫu dã tận mắt diện kiến rõ mồn một bóng dáng tôi chốn này rồi.@`
+ld c,"tachi/koha_t04b",crossfade,400
+`"Kìa cậu Shiki ơi dẫu sao dẫu dẫu, cậu tịnh không được phép tự tiện cất bước vào chốn này đâu nhé.@ Tuyệt đối tiểu thư Akiha dẫu dã dặn dò nghiêm ngặt đám gia nhân tụi em chịu chết tịnh không được để cậu bén mảng tới chốn này đâu dẫu vậy."@`
+`"…… Ừ dẫu vậy, hôm nay em ấy dẫu dã cất công cảnh cáo dặn dò anh chuyện đó rồi.@ Em ấy dẫu dã dặn dứt khoát nhường ấy, thế nhưng dẫu vậy dẫu vậy dẫu[line=5]"@`
+ld c,"tachi/koha_t15",crossfade,400
+`"Cậu Shiki trỗi dậy lòng hiếu kỳ tò mò quá chừng đúng tịnh không ạ?@ Em dẫu dã thấu triệt sâu sắc rồi.@ Lần này em dẫu dã nhắm mắt làm ngơ cho qua chuyện để cậu an tâm ra về, dẫu vậy lần sau cầu xin cậu chớ cất bước ghé lại nơi chốn này nữa nhé.@ Cấu trúc gian nhà này dẫu dã cũ kỹ mục nát quá chừng rồi dẫu vậy nên vô cùng nguy hiểm đấy ạ."`
+\
+` …… Gian nhà này dẫu dã cũ kỹ mục nát quá chừng dẫu vậy nên vô cùng nguy hiểm sao.@`
+` Tuy là một nguyên cớ lý giải có phần hơi khiên cưỡng khó hiểu, dẫu vậy xem ra nghe qua vẫn dẫu dã có vẻ vô cùng thuyết phục hợp lý chán.@`
+`"…… Anh sám hối nhé Kohaku-san.@ Thế nhưng dẫu vậy, rốt cuộc khi xưa gian nhà này dẫu dã từng được trưng dụng vào mục đích gì thế?@ Em bảo bấy giờ bỏ hoang cô tịch, vậy dẫu dã có ai từng sinh sống sinh hoạt chốn này trước đây tịnh không?"@`
+ld c,"tachi/koha_t03b",crossfade,400
+`"Dạ vâng, nơi chốn này vốn dĩ dẫu dã luôn là khu gia xá cư xá dành riêng cho đám người hầu gia nhân trong dinh thự ở tạm.@ Kỷ niệm thuở trước khi cậu Shiki cất bước sang lưu trú bên nhà Arima, tòa dinh thự nguy nga này dẫu dã từng có rất đông gia nhân gia thế quét dọn phục dịch.@`
+` Do gian nhà chính chịu chết tịnh không đủ chỗ lưu trú cho đông đảo con người nhường ấy, nên lão gia Makihisa dẫu dã cất công xây dựng riêng căn nhà biệt lập này."@`
+`"Thì ra là thế, nơi chốn này từng là khu cư xá của người hầu trong dinh thự."`
+\
+` Nghe em ấy giải thích tỉ mỉ nhường ấy dẫu vậy, mọi nghi hoặc băn khoăn trong tôi dường như dẫu dã thấu triệt rõ ràng rồi.@`
+` Quả thực, nếu sở hữu một tòa dinh thự nguy nga tráng lệ nhường này, việc xây dựng một khu cư xá riêng biệt cho gia nhân là sự sự tình đương nhiên dẫu dã phải có.@`
+` Thế nhưng, vì lẽ gì chứ?@`
+` Tại sảo Akiha lại ngang ngạnh bướng bỉnh muốn đẩy tôi tránh xa tuyệt đối chốn này bằng được[line=6]?`
+\
+`"Cậu Shiki ơi dẫu sao dẫu dẫu, tụi mình nên mau chóng cất bước quay trở lại biệt thự đi thôi, kẻo tiểu thư Akiha mà bắt quả tang dẫu dã nguy to đấy ạ."@`
+`"À dẫu vậy[line=5]anh sám hối nhé."@`
+` Tôi ra sức gạt bỏ mớ nghi hoặc băn khoăn mơ hồ vừa nhen nhóm trong lòng, rồi lập tức lẳng lặng cất bước cùng Kohaku-san quay trở về tòa dinh thự chính.`
+\
+bg #000000,lcartain,800
+playstop
+!w1000

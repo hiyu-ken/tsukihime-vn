@@ -1,0 +1,145 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` [line=3]Đúng vậy.@
+` Những tai nạn có thể ngăn chặn phải được dừng lại trước khi xảy ra.@
+` Trước khi cô ấy bắt đầu gây ra những rắc rối "thú vị", tôi phải đưa cô ấy ra khỏi khuôn viên trường.@
+bg "bg/bg_06a",lshutter,800
+br
+`"Thầy ơi, tôi cảm thấy triệu chứng thiếu máu của mình sắp xuất hiện, nên tôi cần phải rời khỏi đây!"@
+br
+` Tôi giơ tay lên, và sau khi nhận được sự cho phép từ thầy cô, tôi bay ra khỏi lớp học.
+\
+bg #000000,lcartain,800
+bg "bg/bg_04",lcartain,800
+ld c,"tachi/ark_t08",lshutter,400
+`"Ồ, cậu ở đây à.@ Chạy nhanh như vậy thật tuyệt!@ Cậu trông rất tràn đầy năng lượng vào buổi sáng này, Shiki."@
+`"[line=5]"@
+` ... Miệng tôi há hốc ra.@
+` Khi tôi chạy vun vút vào sân trường, Arcueid chào đón tôi với ánh hào quang quen thuộc của cô ấy.
+\
+`"Nó nhỏ hơn so với tôi mong đợi.@ Tôi nghĩ một 'trường học' sẽ lớn hơn thế này [line=4]kyaa!"@
+` Tôi nắm lấy cánh tay Arcueid.@
+`"[line=4]Hãy theo tôi."@
+` Tôi kéo Arcueid sau lưng và chạy đến một nơi mà người khác không thể nhìn thấy chúng tôi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_05a",lcartain,800
+ld c,"tachi/ark_t04",crossfade,400
+`"Này! Sao lại đưa tôi đến đây đột ngột thế? Nơi này chẳng thú vị chút nào."@
+` Arcueid dường như thất vọng với nơi này, nhưng trường học vốn dĩ không phải là một địa điểm thú vị để bắt đầu.@
+br
+`"[line=3]'Sao anh làm thế?' Đó là câu của tôi, Arcueid."@
+` Tôi buông tay cô ấy và chỉ vào mặt cô bằng ngón trỏ.
+\
+ld c,"tachi/ark_t12",crossfade,400
+`"Ồ? Anh nói gì vậy?"@
+`"Tôi hỏi tại sao cô lại đi dạo ban ngày và đến trường của tôi. Cô vẫn chưa hồi phục hoàn toàn, vậy sao cô không ngồi yên và nghỉ ngơi..."@
+ld c,"tachi/ark_t14",crossfade,400
+`"[line=3]Nhưng, vì cậu nói sẽ giúp tôi, nên tôi nghĩ mình sẽ tìm manh mối trong ngày.@ Tôi không muốn... khiến cậu phải làm thêm công việc nào khác."
+\
+`"Đừng lo lắng về điều đó!@ Vì tôi đã nói là sẽ giúp, thì bất kỳ công việc nào chúng ta cũng sẽ làm cùng nhau, vậy nên hãy quên nó đi."@
+` "... Trời ơi.@ Cậu yếu nhất vào giữa ngày mà vẫn ra ngoài.@ Cậu thích khiến tôi lo lắng à?"@
+`"[line=3]À... xin lỗi."@
+`"[line=3]Không, miễn là cậu hiểu rồi, thì được rồi... ừm, Arcueid?"
+\
+ld c,"tachi/ark_t17",crossfade,400
+`"Tôi xin lỗi, vì đã khiến cậu lo lắng."@
+`"Không... thực ra, cảm ơn."@
+br
+` "Tôi nghĩ trái tim tôi đang đập rất to."@
+` [line=2][line=2]Arcueid xin lỗi như vậy là hơi bất thường, hoặc tôi nghĩ, vô cùng dễ thương.
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Nhưng cậu cũng có lỗi, Shiki. Tôi đã chờ đợi rất lâu từ sân trong, nhưng cậu chẳng hề để ý đến tôi."@
+` Tôi không biết phải vào như thế nào, nên tôi đang nghĩ sẽ chạy thẳng tới nơi cậu đang ở.@
+`"Chạy thẳng? Cậu muốn nói đến lớp học của tôi ở tầng ba à?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Đúng vậy, bước chân trên hiên nhà không khó, và nhảy lên đó cũng rất dễ dàng."@
+`"[line=6](lặng lẽ)@
+cl c,crossfade,400
+` Tôi rút lại những lời đó.@
+` Như thường lệ, cô ấy hoàn toàn thiếu suy nghĩ.
+\
+`"... Tốt.@ Nếu cô ấy làm thế, sẽ không đẹp chút nào."@
+` Tôi thở phào nhẹ nhõm.@
+` Tôi không nghĩ nhiều người để ý đến cô ấy.@
+` Trước tiên, chỉ có vài bàn có thể nhìn ra sân trong.
+\
+`"[line=3]Vậy sao?@ Tại sao cô lại đến trường tôi?@ Cô nói là đang tìm manh mối."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Tôi chỉ cảm thấy điều gì đó từ đây.@ Sau đó tôi ngửi thấy mùi của cô và nhận ra đó là trường của cô."@
+`"... Vậy là cô không suy nghĩ và đến đây vô cớ?"@
+` Tôi nhíu mày.@ Cô ấy có phải là con chó không?
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Ồ, xin lỗi! Tôi đến đây có lý do riêng. Ở đây hầu như không có dấu vết của Tử Đồ, nên tôi muốn xem bằng mắt mình."@
+`"Thật sao? Nhưng nếu không có dấu vết Tử Đồ ở đây, thì nơi này chẳng quan trọng gì sao? Không ai ở trường vào ban đêm, nên nếu Tử Đồ tìm con mồi, họ sẽ đi xuống trung tâm thành phố, chứ không đến một trường học."@
+ld c,"tachi/ark_t10",crossfade,400
+`"... Vậy thì cũng hợp lý."
+\
+`"Không có chuyện lạ nào ở đây. Tôi không thực sự cảm nhận được Tử Đồ, nhưng vì đôi mắt tôi nhìn thấy cái chết, nên tôi có thể nói mà không cần tháo kính ra."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Tôi hiểu rồi. Nếu cô nói vậy, Shiki, thì nơi này cũng chẳng có gì kỳ lạ, có lẽ."@
+`"Không 'có lẽ', chắc chắn là như thế."@
+` Arcueid dường như không tin tôi.
+\
+wave se_03
+` [line=4]Và sau đó,
+` Tiếng chuông reo báo hiệu kết thúc giờ học.@
+br
+`"[line=3]Ôi không, đã đến giờ ăn trưa rồi sao?"@
+` Ngay cả khi hầu hết mọi người không ở lại khu rừng này, vì giờ là giờ ăn trưa, sẽ có rất nhiều người đi qua.
+\
+`"Dù sao, nếu chúng ta ở lại đây lâu hơn nữa, mọi người sẽ thấy chúng ta."@
+` Tôi chắc chắn sẽ giữ lời hứa, nên hãy về nhà nghỉ ngơi. Chúng ta có thể gặp kẻ thù tối nay.@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ồ? Cậu muốn tôi rời khỏi đây à, Shiki?"@
+` Cô ấy lại bắt đầu trông có vẻ giận dữ.
+\
+`"À, đó chỉ là tưởng tượng của cậu thôi, nên nhanh lên trở về. Nếu không, tình hình có thể sẽ trở nên rắc rối."@
+` Đi đi. Tôi đẩy cô ấy từ phía sau.@
+`"... ..."@
+cl c,crossfade,800
+` Mặc dù đôi mắt cô ấy cho thấy cô ấy muốn nói điều gì đó, nhưng cô ấy chỉ lặng lẽ rời đi.
+\
+bg "bg/bg_04",lcartain,800
+` Sau khi nhìn Arcueid rời đi, tôi trở lại sân trong.@
+`"[line=4] Hừm?"@
+br
+` Điều gì vậy?@
+` Có ai đang nhìn về phía này.@
+br
+ld c,"tachi/cel_t06a",crossfade,800
+`"Sen... pai?"@
+` Không sai, đó là Ciel-senpai.@
+` [line=3]Nhưng tại sao cô ấy lại có biểu cảm như vậy?@
+` Cô ấy có một vẻ mặt đáng sợ đến nỗi tôi gần như nghi ngờ đó thực sự là cô ấy.@
+cl c,crossfade,800
+\
+`"[line=3]Senpai!"@
+` Tôi gọi tên cô ấy khi tôi chạy tới.@
+` Senpai chỉ đứng đó, nhìn tôi.@
+`"Cô đang làm gì ở đây?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Cũng giống như anh, Tohno-kun. Anh đến đây làm gì? Bữa trưa vừa bắt đầu, nên nếu anh quay lại đây thì chắc hẳn anh đã bỏ lỡ buổi học thứ tư."@
+`"Dĩ nhiên là không. Tôi chỉ bay ra khỏi lớp học thôi mà."@
+` "Ồ," Senpai trả lời một cách thờ ơ.@
+` Nụ cười của cô ấy bình thường, nhưng có vẻ như cô ấy đang nhìn chằm chằm vào tôi.
+\
+`"Không chỉ thế, bạn đã ăn trưa chưa? Nếu chưa, có muốn ăn cùng tôi không?"@
+` Tôi cố gắng lướt qua mọi thứ một cách thoải mái.@
+ld c,"tachi/cel_t03",crossfade,400
+`"Tôi xin lỗi, tôi đã có người khác rồi. Xin hãy hỏi tôi vào lúc khác."@
+cl c,crossfade,400
+` Trong khoảnh khắc, cô ấy trông vô cùng buồn bã khi nói như vậy.
+\
+`"…… Senpai? Có chuyện gì không? Bạn trông không khỏe lắm."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Không, không phải thế. Nó chỉ là... điều đó đúng là những chuyện vui vẻ kết thúc khá nhanh, Tohno-kun."@
+cl c,lshutter,800
+` Cô ấy mỉm cười rạng rỡ trái ngược với trước đây.@
+` Sau đó, cô ấy bước vào trong một mình.
+\
+bg #000000,crossfade,1500

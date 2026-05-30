@@ -1,0 +1,139 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",crossfade,800
+wave se_03
+` Trong giờ nghỉ trưa, chàng trai ấy xuất hiện, thậm chí chưa từng vắng mặt một tiết học nào.@
+ld c,"tachi/ari_t05",lshutter,400
+`"Yo Tohno!@ Đi ăn đi!"@
+` Anh ấy vui mừng về điều gì đó, còn năng động hơn bình thường.
+\
+`"Dĩ nhiên, thức ăn. Nhưng cậu dường như rất vui vẻ. Có chuyện gì xảy ra với cậu, Arihiko?"@
+`"Ừm. Tôi vừa hỏi cô chủ nhiệm nếu cô ấy muốn ăn trưa cùng tôi, và cô ấy từ chối."@
+`"... "@
+` "Đó là điều kỳ lạ.@
+` "Cô chủ nhiệm" chắc chắn là Ciel-cô chủ nhiệm, nhưng cậu ta dường như vui mừng khi bị từ chối.
+\
+`"Này, Arihiko, có phải cậu có loại sở thích này?"@
+ld c,"tachi/ari_t02",crossfade,400
+`"Không, không, tôi chưa kết thúc. Vì vậy tôi hỏi cô ấy lý do tại sao, và cô ấy nói 'Nếu Tohno-kun ở đó, thì tôi không muốn đến'!! Uwahahahahahahaha! Không tuyệt vời lắm sao, Tohno?"@
+`"... "@
+` Điều đó thật kỳ lạ.@
+` Tại sao tôi lại là bạn của thằng này từ thời trung học?
+\
+`"Ôi trời, cô ấy ghét anh Tohno! Một đối thủ bị mất là lợi ích cho tôi, nên hôm nay tôi sẽ mời anh ăn trưa!"@
+` Arihiko vui vẻ đánh vào lưng tôi.@
+`"…… Tôi hiểu rồi.@ Senpai vẫn tức giận với tôi về chuyện sáng nay."@
+` Tôi không biết tại sao cô ấy lại tức giận với tôi, nhưng chắc chắn là cô ấy đang giận.@
+ld c,"tachi/ari_t01",crossfade,400
+`"Này, Tohno, chúng ta đi thôi.@ Chỉ có chỗ cho nửa số người trong quán ăn."@
+` Arihiko nắm lấy tay tôi và kéo tôi đi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Tôi ngồi cạnh Arihiko và ăn trưa.@
+` Nhà hàng của trường tôi có tivi, và dù tốt hay xấu cho việc học tập, họ phát lại bản ghi hình tin tức buổi sáng.@
+br
+` Nào thì cách nào, tin tức họ đang phát là nói về một khách hàng say rượu đâm chết nhân viên cửa hàng tiện lợi, điều khiến tôi không muốn đến cửa hàng tiện lợi ít nhất vài ngày tới.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Thật là thế giới nguy hiểm mà chúng ta đang sống.@ Những kẻ giết người hàng loạt vô phân biệt, những người say rượu đâm người.@ Thậm chí một người đàn ông cũng không còn cảm thấy an toàn khi vui chơi vào ban đêm nữa."@
+` Arihiko dường như đang xem tin tức rất tập trung.
+\
+`"... Vâng, chắc chắn nó rất nguy hiểm. Nhưng ít nhất những vụ giết người hàng loạt sẽ không xảy ra nữa, nên mọi thứ sẽ trở lại bình thường."@
+`"Ồ, thật sao? Bắt được kẻ giết người hàng loạt rồi à?"@
+`"Không, họ vẫn chưa bắt được..."@
+br
+` [line=3]Nhưng Nrvnqsr đã không còn ở thế giới này nữa.@
+` Vì vậy, tiêu đề ngớ ngẩn về những vụ giết người của ma cà rồng hiện đại sẽ không còn xuất hiện trên tin tức và sẽ không có thêm những vụ giết người vô nghĩa nào nữa.
+\
+`"Tất nhiên, những sự cố khủng khiếp sẽ không xảy ra nữa. Không có nạn nhân nào nữa, và đường phố sẽ trở lại bình yên."@
+ld c,"tachi/ari_t04",crossfade,400
+`"[line=4]Không... Tôi nghĩ sẽ có một nạn nhân khác, Tohno."@
+`"[line=4]Anh nói thế làm sao được, Arihiko?"@
+`"Hãy tự mình xem đi. Tin tức nói rằng họ đã tìm thấy thi thể nạn nhân thứ mười."@
+br
+` [line=5]"Ồ?!"@
+br
+`"Thật à... chỉ cách đây vài bước chân so với rạp chiếu phim mà tôi thường lui tới."
+\
+`"[line=4]Này, này, chờ đã."@
+` Tôi đẩy Arihiko và nhìn vào tivi.@
+` Cái tôi thấy không thể nào nghi ngờ được,
+` là tin tức về việc nạn nhân thứ mười của kẻ giết người hàng loạt bị phát hiện vào đêm qua.@
+playstop
+`"[line=4]Đó không thể nào."@
+` Nrvnqsr đã chết.@
+` [line=4]Vậy tại sao lại có một thi thể khác với phần lớn máu bị hút cạn?
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Ừm, thằng ma cà rồng thời hiện đại này. Tôi không biết gì về người đó, nhưng nếu là một cô gái xinh đẹp, tôi có lẽ sẽ không phiền nếu để nó hút máu mình."@
+`"[line=6][lời nói không rõ]"@
+br
+` Nếu như là một cô gái xinh đẹp, nó có lẽ cũng sẽ không ngại để ai đó hút máu mình?@
+br
+` [line=4]Nói ngốc nghếch của hắn có thể đúng.@
+br
+`"[line=4][lời phủ nhận dứt khoát]"@
+` Tôi không muốn nghĩ về điều đó, nhưng...
+` [line=4]Ngay cả khi Nrvnqsr đã mất, vẫn còn một con ma cà rồng khác, Shiki.
+\
+bg #000000,crossfade,800
+bg "bg/bg_06a",crossfade,800
+` Kết thúc lớp học và trường học đã kết thúc.@
+` Thực ra, nó giống như ở một thời điểm nào đó, trường học đã kết thúc.@
+` Ngập trong những suy nghĩ xấu, tôi nhìn lên và đột nhiên nhận ra mình đang cô đơn.
+\
+`"[line=4]Các vụ giết người hàng loạt vẫn đang xảy ra."@
+` Tôi không biết điều đó có nghĩa là gì.@
+` Có lẽ chỉ có Arcueid mới biết câu trả lời.@
+br
+` Tôi không biết.@
+` Tôi không còn liên quan đến bất kỳ sự kiện nào trong số đó nữa.@
+` Sau khi giải quyết chuyện với Nrvnqsr, tôi quay trở lại thế giới bình thường.@
+` Rồi [line=4]tôi chỉ có thể điên rồ khi muốn quay lại thế giới bất thường ấy một lần nữa.
+\
+`"Tôi không nên [line=4]liên quan."@
+br
+` Tôi hiểu ngay cả khi tôi không nói ra.@
+` Đó có lẽ là lựa chọn đúng thứ hai của tôi.@
+` Nhưng từ rất, rất lâu trước đó, ai đó đã dạy cho tôi lựa chọn đúng nhất.
+\
+br
+br
+br
+br
+br
+` [line=4]Nghe này, Shiki. Mỗi cuộc đời đều đầy rẫy những chướng ngại vật.@
+` [line=4]Cậu có nhiều sức mạnh hơn hầu hết mọi người để thay đổi điều đó, nên cậu phải tập trung lại.
+!w750
+\
+`"[line=4]Tôi không thể giả vờ như thể tôi không thấy điều này."@
+` Vụ việc này chưa kết thúc.@
+` Khi tôi đã tham gia vào vụ việc này, tôi cảm thấy mình phải theo dõi nó đến cùng.@
+` [line=2]Tôi sẽ bỏ học.
+\
+bg #000000,lcartain,800
+bg "bg/bg_24a",lcartain,800
+` Đầu tiên, chúng ta hãy đến nhà Arcueid.@
+` (Tôi)@
+br
+bg "bg/bg_23a",lcartain,800
+bg "bg/bg_12a",lcartain,800
+bg "bg/bg_13a",lcartain,800
+bg "bg/bg_14a",crossfade,800
+bg "bg/bg_15c",crossfade,800
+bg "bg/bg_12a",lcartain,800
+` Phòng của cô ấy vẫn như cũ, nhưng Arcueid không có ở đó.@
+` ... Tôi không nghĩ mình sẽ tìm thấy cô ấy dễ dàng như vậy. Có vẻ tôi phải đi ra thành phố và tìm kiếm cô ấy.
+\
+bg #000000,crossfade,800
+!w3000
+bg "bg/bg_25b",lcartain,800
+` Mặt trời lặn và thành phố bắt đầu tối dần.@
+` Tôi đã xem xét những địa điểm chính trong thành phố, nhưng thậm chí cũng không bắt gặp bóng dáng cô ấy.
+\
+`"[line=4]Đáng ghét!@ Cô ấy xuất hiện khi không quan trọng, vậy mà tôi lại không thể tìm thấy cô ấy khi tôi thực sự cần!"@
+` ... Tôi phải làm gì đây?@
+` Đêm mới chỉ bắt đầu, nên[line=3]
+\

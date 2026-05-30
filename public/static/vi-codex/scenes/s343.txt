@@ -1,0 +1,74 @@
+Dòng hình nền `bg/bg_47` với màu chủ đề là **màu xanh lá số 06A (6)**
+bg #ffffff,notrans,0
+!w500
+bg "bg/bg_40a",crossfade,800
+"Chơi lặp sóng se_02"
+`"…!"@`
+` Chịu chết tịnh không thể khống chế nổi bản thân thêm nữa, tôi điên cuồng bật người bật dậy khỏi giường.@`
+` Lồng ngực tôi phập phồng thở dốc vô cùng dữ dội.@`
+` Tôi vội vã lấy bàn tay trần tự thân bịt chặt lấy khóe miệng để cất lực kìm nén cơn buồn nôn đang dâng trào mạnh mẽ.@`
+`"[line=5]Cá..."@`
+` Cái sự sự tình quái đản kinh hoàng gì vừa nổ ra chốn ấy vậy?@`
+` Một giấc mộng ảo ảnh chăng.@ Quả thực dẫu dã chỉ là một giấc mộng.@ Dẫu vậy, chuyện kinh hoàng vừa rồi rốt cuộc dẫu sao chính là cái gì chứ?@`
+` Tại sao bản thân tôi bấy giờ lại ôm giấc mộng tàn khốc ác độc đến nhường ấy, cất lực tước đoạt sinh mạng người vô tội rồi tự ý nốc ngấu nghiến dòng máu tự thân ấm nóng của họ chứ?`
+\
+` Tôi cất công ráng sức hít thở sâu để ổn định lại nhịp thở đứt quãng tự thân.@`
+` Cơn khát rát bỏng hoại diệt hoành hành nơi cuống họng.@`
+` Cảm giác da thịt thớ thịt bị hàm răng găm ngập xé toạc rách loang lổ.@`
+` Thứ khoái cảm cực độ nóng bỏng thiêu đốt trí não bấy giờ dẫu dã bùng lên dữ dội trong khoảnh khắc tước đoạt sinh mạng kia.@`
+` …… Hàng tá sự sự tình tàn độc kinh hoàng ấy dẫu vậy, tại sao dẫu dã có thể chân thực hiển hiện sinh động đến mức nhường này chứ?@`
+` Đến cả xúc cảm thê lương tự thân và thanh âm rạn nứt rôm rốp của một lồng ngực khi bị bàn tay trần tự thân cắm sâu giật phăng trái tim đỏ hỏn ra ngoài dẫu dã lẩm bẩm khắc sâu mồn một trong tâm trí tôi.`
+\
+` Tôi vẫn tịnh không ngừng hổn hển há miệng cất lực đớp lấy từng ngụm khí trời.@`
+` Bản thân chịu chết tịnh không dám chắc liệu thứ cảm giác điên dại chốn ấy dẫu dã thực sự là "khoái cảm" đúng nghĩa tịnh không.@`
+` Nó hệt như một khối hưng phấn tột đỉnh dẫu dã được nén chặt thành một viên đạn, ghim thẳng bấy giờ vào sâu trong trí não tôi.@`
+`"Hực……"@`
+` Nhịp thở tự thân bỗng chốc khựng lại tắt nghẹn ngay khi đầu óc lẩm bẩm nhớ về chuyện ấy.@`
+` Giờ đây ngẫm lại[line=3]có lẽ cái xúc cảm chấn động hoại diệt dữ dội ấy dẫu dã chính là thứ được người đời gọi là "khoái cảm" chăng.`
+\
+`"Tại sao tự thân mình... lại ôm giấc mộng ác độc nhường ấy chứ..."@`
+` Tôi lẳng lặng cúi đầu đăm đăm hướng mắt nhìn xuống đôi bàn tay trần tự thân.@`
+` Lẽ dĩ nhiên dẫu dã thế, chúng vẫn mang một sắc trắng thuần khiết tự nhiên, tịnh không mảy may vương một giọt máu rực đỏ nào chốn ấy.@`
+` Bản thân tôi bấy giờ vẫn nằm lẳng lặng trên giường ngủ tự thân, và ánh nắng sớm ban mai thanh mát đang dịu dàng cất bước chiếu rọi qua khung cửa sổ sổ kính kề cạnh.@`
+br
+` …… Khoảnh khắc ấy.@ Buổi sơ ngộ đầy kinh hoàng với ma quỷ Yumizuka nơi góc hẻm tối tăm cô tịch thuở trước... lẽ nào dẫu dã luôn lẳng lặng bận lòng in hằn sâu đậm trong tâm trí tôi sao?@`
+` Có lẽ dẫu dã chính vì sự sự tình ám ảnh ghê gớm ấy dẫu vậy nên tôi mới ôm giấc mộng thê lương tàn khốc đến nhường này.`
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+`"Đau quá...[line=4]"@`
+` Nơi phần da cổ kề bên vết cắn tự thân của Yumizuka bỗng chốc nhói lên đớn đau buốt giá.@`
+br
+` [line=3]Kẻ dẫu dã bị ma cà rồng cắm răng hút máu dẫu dã rồi dẫu sao dẫu dẫu cũng tự khắc hóa thành ma cà rồng kề bên.@`
+` Chịu chết tịnh không ngờ nổi, câu giãi bày truyền miệng dân gian quen thuộc ấy dẫu vậy bấy giờ lại đột ngột vụt lên trong trí não tôi.@`
+`"…… Chịu chết tịnh không thể có chuyện quái đản ấy được.@ Chắc chắn dẫu dã là do bản thân tự ý lo nghĩ bận lòng thái quá chừng dẫu dã thôi."`
+\
+wave se_04
+` Khẽ cúi mình giãi bày xin phép lịch sự xong, Hisui tịch mịch cất bước bước chân vào phòng ngủ tự thân của tôi.@`
+` Vẫn dáng hình thong thả ấy, vẫn thanh âm êm dịu dịu dàng quen thuộc ấy tự thân của em kề bên.@`
+play "*2"
+ld c,"tachi/his_t01",lshutter,800
+`"Kính chúc cậu Shiki một buổi sáng tốt lành."@`
+` Hisui khẽ mở miệng giãi bày vô cùng trang trọng chuẩn mực.@`
+` Kể từ thời khắc tôi cất bước chuyển tới dinh thự này cư ngụ dẫu vậy, Hisui vẫn luôn túc trực kề cạnh cất công mang lại bầu không khí an lành dịu mát cho tôi mỗi sớm mai.@`
+` Ngay khi cõi lòng khẽ lẩm nhẩm nghĩ ngợi như thế, đống bấn loạn hỗn độn của ác mộng cuồng loạn bấy giờ tự nhiên dẫu dã bay biến biến tan tịnh không còn tăm hơi nơi trí não.`
+\
+ld c,"tachi/his_t07",crossfade,400
+`"…… Cậu Shiki?@ Liệu dẫu dã có sự sự tình gì tồi tệ nổ ra làm phiền lòng cậu sao ạ?"@`
+`"[line=3]À tịnh không, tịnh không có gì đâu.@ Anh dẫu dã lỡ ngẩn người ngắm nhìn em trong chốc lát dẫu dã thôi.@ …… Buổi sáng tốt lành nhé, Hisui.@ Sớm mai ngày hôm nay dẫu dẫu cũng tịch mịch yên ả hệt như mọi ngày nhỉ."@`
+ld c,"tachi/his_t05",crossfade,400
+`"Dạ vâng...[line=3] đúng thế ạ.@ Em sám hối vì tịnh không thể cất công chuẩn bị tươm tất đĩnh đạc hơn mức bình thường cho cậu."@`
+`"Anh tịnh không có ý oán trách chê bai gì đâu.@ Chỉ là anh thấu triệt sâu sắc rằng, chính vì Hisui lúc nào dẫu dẫu cũng thong thả bình lặng như thế này, nên sớm mai mới tịch mịch yên ả yên bình đúng nghĩa dẫu dã ổn rồi."@`
+` Tuyệt vời!@ Vô cùng phấn chấn hăng hái, tôi liền lập tức cất bước bật dậy rời khỏi chiếc giường tự thân.`
+\
+`"Anh sửa soạn thay quần áo tự thân rồi cất bước xuống phòng khách dẫu dã ổn thôi.@ Hisui cứ cất bước đi xuống làm việc trước dẫu dã ổn rồi nhé."@`
+ld c,"tachi/his_t16",crossfade,400
+`"Dạ vâng.@ Em xin phép lịch sự cất bước lui ra trước ạ."@`
+cl a,lshutter,800
+` Hisui thong thả cất bước đi ra ngoài rồi lẳng lặng đóng cửa phòng ngủ tự thân một cách vô cùng bình lặng nhẹ nhàng.@`
+`"Được rồi...[line=3] dẹp mấy cái suy nghĩ bẩn lòng vớ vẩn đi thôi, mình dẫu dã đến lúc phải cất bước tới trường rồi..."@`
+` Lẳng lặng sốc lại tinh thần tự thân, tôi cất lực hít một hơi thật sâu lồng ngực.@`
+` Bấy giờ dẫu dã là bảy giờ kém mười phút sớm mai.@`
+` Hệt như ngày hôm qua dẫu vậy dẫu vậy dẫu, sớm mai hôm nay tịnh không có gì phải quýnh quáng hối hả cả, vậy nên mình sẽ[line=3]`
+\

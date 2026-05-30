@@ -1,0 +1,229 @@
+play "*1"
+wavestop
+bg "bg/bg_40c",notrans,0
+br
+` [line=4]Tôi… thực sự không thể bỏ mặc em ấy được.@
+br
+` Tôi thừa biết việc đi tìm Yumizuka lúc này là cực kỳ nguy hiểm.@
+` Bất kể lý do là gì đi chăng nữa, em ấy quả thực đã sát hại nhiều người.@
+` Thế nhưng tôi vẫn không thể làm ngơ.@
+` Con đường đưa nhau về nhà dưới buổi chiều tà hôm đó.@
+` Tôi chẳng thể nào quên được những lời cuối cùng em ấy nói.
+\
+`"…… Mình phải đi thôi.@ Cứ ngồi đăm chiêu mãi thế này cũng chẳng giải quyết được gì."@
+` Tôi thay quần áo khác, rồi lặng lẽ đút con dao gấp vào túi quần.@
+` Tôi nhón chân khẽ khàng lẻn ra khỏi biệt thự để tránh làm kinh động đến Akiha hay mọi người.@
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+br
+` …… Đèn ở sảnh lớn đều đã tắt ngóm.@
+` Không gian tối tăm vắng lặng; cực kỳ hoàn hảo cho một chuyến lẻn đi bí mật thế này.
+\
+` *Két, két.*@
+` Tôi rón rén bước xuống những bậc cầu thang vốn chỉ thích kêu cọt kẹt vào những lúc không nên kêu nhất, rồi lặng lẽ tiến về phía cửa chính.@
+br
+` [line=2]Và rồi…
+br
+ld c,"tachi/aki_t01b",crossfade,400
+`"Anh trai?@ Giờ này rồi mà anh còn định ra ngoài sao ạ?"@
+` Akiha đã đứng đợi sẵn ở sảnh lớn từ bao giờ, em ấy khẽ cất lời hỏi han.
+\
+`"Akiha[line=2]hóa ra em vừa về nhà rồi à?"@
+`"Vâng, em cũng vừa mới về tới nơi cách đây một lát thôi ạ.@
+ld c,"tachi/aki_t12b",crossfade,400
+` Nhưng mà thưa anh[line=2]anh đang làm cái gì thế hả? Anh đã thay đồ chỉnh tề thế này, xem ra là đang định lẻn ra ngoài đúng không ạ?"@
+` Akiha chăm chú nhìn thẳng vào mắt tôi chất vấn.
+\
+` Ánh mắt đó hoàn toàn không mang vẻ trách móc.@
+` Mà ngược lại, em ấy chỉ đang nhìn tôi với vẻ mặt đầy bất an lo lắng.
+\
+`"Có phải anh lại định ra ngoài rồi chuốc lấy thương tích đầy mình giống như đêm hôm qua nữa không ạ?@ Đúng thế không thưa anh?"@
+`"…… Anh xin lỗi.@ Một người bạn của anh đang gặp rắc rối lớn.@ Anh thực sự không thể bỏ mặc em ấy được."@
+ld c,"tachi/aki_t23b",crossfade,400
+`"…… Em hiểu rồi.@ Em biết là dẫu có ngăn cản đi chăng nữa thì anh vẫn sẽ kiên quyết đi đúng không thưa anh."@
+`"Ừ, nhưng anh sẽ không làm chuyện gì nguy hiểm đâu.@ Anh chỉ đi kiểm tra tình hình một lát thôi mà.@ …… Anh xin lỗi vì lại gây thêm rắc rối cho em, dù bản thân chỉ vừa mới được trở về nhà."@
+` Nói đoạn, tôi dứt khoát bước ra phía cửa.
+\
+cl a,crossfade,400
+`"Khoản đã[line=2]"@
+` Một giọng nói khẽ khàng, yếu ớt bỗng cất lên từ phía sau lưng tôi.@
+`"Anh ơi……"@
+` Giọng nói nhỏ nhẹ và run rẩy, hoàn toàn khác hẳn với vẻ uy nghiêm và sắc sảo thường ngày của Akiha.@
+` …… Nó hệt như giọng nói của em ấy từ tám năm về trước[line=2]chứa đựng sự lo âu và sợ hãi khôn nguôi.
+\
+`"Akiha……?"@
+ld c,"tachi/aki_t17b",crossfade,800
+`"Nhất định…… anh phải trở về đấy nhé?"@
+`"[line=4]"@
+` Gương mặt Akiha lúc này trông thật yếu đuối và dễ bị tổn thương.@
+` Nó không còn vẻ lạnh lùng sắc sảo hằng ngày nữa, mà y như gương mặt thuở nhỏ của Akiha mỗi khi em ấy sắp chực trào nước mắt.
+\
+`"…… Em nói gì thế chứ?@ Anh chỉ đi ra ngoài một lát thôi mà.@ Đừng có làm vẻ mặt đáng sợ như thế chứ."@
+`"Em… em biết chứ, nhưng mà…"@
+`"Không sao đâu.@ Anh sẽ về ngay thôi.@ Anh xin lỗi nhé, Akiha; anh luôn là người khiến em phải lo lắng trăm bề."@
+`"Ơ[line=2]anh trai!"@
+bg #000000,lcartain,400
+` Phớt lờ tiếng gọi níu kéo của Akiha phía sau lưng, tôi nhanh chân bước ra khỏi biệt thự.
+\
+` …… Bên ngoài trời, một đêm trăng sáng rực rõ.@
+` Chắc là do vừa mới nhìn thấy vẻ mặt bất an lo sợ của Akiha.@
+` Chẳng hiểu vì sao, trong lòng tôi bỗng dấy lên một linh cảm kỳ lạ rằng mình sẽ chẳng bao giờ còn có thể quay lại nơi đây được nữa.
+\
+playstop
+!w1000
+bg "bg/bg_26a",rcartain,800
+` Tôi nhanh chân tìm đến khu phố mua sắm.@
+` Nếu Yumizuka đang ở ngoài kia, em ấy chắc chắn sẽ trốn ở quanh khu vực này.@
+` Bởi tất cả các thi thể nạn nhân của chuỗi vụ án giết người gần đây đều được tìm thấy ở quanh khu phố mua sắm này.@
+br
+`"…… Khốn kiếp, mình đang nghĩ cái quái gì thế này……!"@
+` Tôi tự nguyền rủa cái suy luận đầy máu me của chính mình.@
+` …… Nhưng, ít ra thì khả năng tìm thấy em ấy ở đây vẫn cao hơn bất kỳ nơi nào khác.@
+` Gạt bỏ mọi suy nghĩ hỗn độn sang một bên, tôi bắt đầu dáo dác tìm kiếm bóng dáng Yumizuka.
+\
+bg #000000,lshutter,800
+!w2000
+play "*6"
+!w1000
+bg "bg/bg_26a",rcartain,800
+` …… Đã bao lâu trôi qua rồi nhỉ?@
+` Tuyệt nhiên không có chút dấu vết nào của Yumizuka; dù là ở những con hẻm tối tăm hay giữa dòng người qua lại.@
+br
+` *Hộc*[line=3]*hộc*[line=4]*hộc*@
+br
+` Tôi dừng chân tựa vào tường để nghỉ ngơi, lồng ngực nóng rực lên vì chạy liên tục.@
+` Lúc này đã gần nửa đêm rồi.@
+` …… Cứ tiếp tục đi tìm kiếm mù quáng thế này xem ra cũng vô ích thôi.
+\
+`"Em đã đi đâu rồi chứ……?"@
+` Tôi lại gượng sức tiếp tục cất bước đi.@
+` Vẫn còn một nơi duy nhất mà tôi chưa tìm tới.@
+` Tôi sẽ chỉ bỏ cuộc sau khi cơ thể này thực sự đã rã rời không thể di chuyển nổi nữa mà thôi[line=2]
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,400
+` …… Bỏ lại con phố chính rực rỡ ánh đèn phía sau lưng, tôi rảo bước tiến vào công viên.@
+` Do vụ giết người hàng loạt kinh hoàng những ngày qua, giờ này chẳng có lấy một bóng người nào lảng vảng ở đây cả.@
+`"…………"@
+` Dẫu bản thân cũng chẳng dám tin là Yumizuka sẽ ở đây, nhưng đây quả thực là địa điểm cuối cùng còn sót lại để tìm kiếm rồi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_28b",lcartain,800
+`"[line=5]"@
+` Công viên về đêm hoàn toàn vắng lặng.@
+` Dưới ánh trăng bàng bạc chiếu rọi, không gian yên ắng đến không một tiếng động.@
+` Chẳng biết vì sao, một luồng khí lạnh toát bỗng chạy dọc sống lưng tôi.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_28b",crossfade,400
+br
+`"[line=2]Sst."@
+` Phía sau gáy tôi bỗng chốc tê dại.@
+` Một cảm giác ớn lạnh rùng mình ập đến, như thể toàn bộ cơ thể tôi đang dần đông cứng lại cho đến tận đầu ngón tay.@
+wave se_01
+` Tôi cố gắng hít thở sâu để lấy lại bình tĩnh.@
+` Trái ngược hoàn toàn với cơ thể đang lạnh toát, cổ họng tôi bấy giờ lại nóng rực lên như thiêu đốt.@
+` Nó khô khốc vì khát.@
+` Tôi thọc tay sâu vào túi quần.@
+` Lúc này[line=3]tôi chỉ muốn được nắm chặt lấy chuôi dao trong tay để tìm kiếm chút cảm giác an toàn.
+\
+`"Tại sao chứ……?"@
+` Chỉ là……@
+` Một cơn đau đầu âm ỉ bỗng dấy lên.@
+` Thân nhiệt cơ thể giảm xuống thấp.@
+` Tâm trí tôi bỗng chốc trở nên lạnh tanh như băng đá.@
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_28b",crossfade,400
+` Có điều gì đó cực kỳ kỳ lạ.@
+` Tại công viên này, tôi có thể cảm nhận rõ rệt một luồng tà khí hắc ám đang lẩn khuất đâu đây.@
+`"…… Đi thêm một chút nữa là sẽ tới khu trung tâm công viên rồi."@
+` Tôi cố xua đi cơn đau đầu đang hành hạ, rồi tiếp tục bước sâu vào trong.
+\
+bg #000000,lcartain,800
+bg "bg/bg_29b",lcartain,800
+` Xung quanh hoàn toàn không có một bóng người.@
+` Một nơi u ám và cô quạnh đến phát sợ để hẹn gặp ai đó.@
+` Ở phía đằng kia[line=2]có bóng ai đó đang ngồi thụp xuống.@
+` Hơi thở người đó nghe vô cùng rệu rã dồn dập.@
+` Gương mặt trắng bệch không một giọt máu, em ấy đang tự dùng tay cào cấu vào cổ họng mình đầy đau đớn.@
+br
+` Chắc chắn không thể sai đi đâu được, đó chính là Yumizuka Satsuki.
+\
+bg #000000,lshutter,400
+bg "bg/bg_29b",lshutter,400
+play "*9"
+`"Yumizuka[line=2]!?"@
+` Cảm giác vui mừng khôn xiết dâng trào trong lòng khi cuối cùng cũng tìm thấy em ấy.@
+` Quẳng hết mọi nỗi sợ hãi và nghi ngờ từ đêm hôm qua ra sau đầu, tôi tức tốc chạy bổ về phía em ấy.@
+ld c,"tachi/stk_t04",tshutter,400
+`"Đứng lại đó……!"@
+` Yumizuka đột ngột thốt lên một lời ngăn tôi lại.
+\
+`"…… Đứng lại đó đi, Shiki-kun.@ Tớ rất vui vì cậu đã đến, nhưng lúc này tớ không muốn cậu tiến lại gần tớ đâu.@ Làm ơn, đừng đến gần tớ thêm nữa."@
+` Hơi thở của em ấy nghe vô cùng nhọc nhằn đau đớn.@
+` Toàn thân em ấy run rẩy co giật dữ dội theo từng lời nói, hệt như thể sắp đổ gục xuống đất bất cứ lúc nào.
+\
+`"Đừng có ngốc thế chứ!@ Nhìn em đang đau đớn khổ sở như thế này, làm sao anh có thể bỏ mặc em một mình được chứ……!"@
+ld c,"tachi/stk_t03",crossfade,800
+`"Không sao đâu, tớ ổn mà… Cậu đã đến đây rồi, nên giờ tớ thấy khỏe hơn nhiều rồi."@
+` Cố gượng sức ngồi dậy, Yumizuka nhìn tôi nở một nụ cười gượng gạo.@
+` Rõ ràng em ấy chỉ đang cố tỏ ra mạnh mẽ mà thôi.@
+` …… Nhưng tôi quả thực không thể tiến lại gần em ấy được.@
+` Ít nhất, tôi cũng hiểu rõ rằng Yumizuka thực sự không muốn tôi lại gần em ấy lúc này.
+\
+`"…… Chuyện gì đã xảy ra thế hả, Yumizuka?@ Tại sao em lại không về nhà?@ Cả chuyện ngày hôm qua nữa, rốt cuộc là sao chứ?@ Tại sao, chuyện đó lại[line=4]"@
+`"Hửm?@ Chuyện đó là chuyện gì cơ?"@
+`"…… Mẹ kiếp, anh không biết nữa!@ Thực sự anh chẳng thể nào hiểu nổi bất cứ chuyện gì đang xảy ra cả, Yumizuka……!"@
+ld c,"tachi/stk_t10",crossfade,400
+`"Thật thế sao?@ Cậu cũng đã chứng kiến mọi chuyện ngày hôm qua rồi còn gì.@ Tớ đã tự miệng nói với cậu là 'Tớ đã giết những người đó' rồi mà, đúng không?"@
+` Em ấy thẳng thắn trả lời.@
+` …… Thái độ điềm nhiên đó hệt như thể em ấy đang cười nhạo cái nỗ lực trốn tránh sự thật của tôi vậy.
+\
+`"Vậy thì… chuỗi vụ án mạng hút máu người gần đây trong thành phố… thực sự đều là do một tay em làm sao, Yumizuka……!"@
+`"Tớ chẳng muốn thừa nhận chút nào đâu, nhưng mà… sự thật đúng là như thế đấy, ừ."@
+`"Ý em là sao hả, 'sự thật đúng là như thế' cơ chứ……!?"@
+`"Thì sự thật vốn thế mà.@ Tớ đã giết những người đó, và từ giờ trở đi tớ vẫn sẽ tiếp tục làm chuyện đó thôi.@ Tớ đâu thể nói dối cậu về chuyện này được đúng không?"
+\
+`"Yumi… zuka, em[line=2]"@
+`"Làm ơn đi.@ Đừng gọi tớ bằng cái tên cự cự đó nữa.@ Tớ đã gọi cậu là Shiki-kun rồi, nên cậu cũng phải gọi tớ bằng tên thật mới công bằng chứ."@
+`"Cái……"@
+` Tôi hít một hơi thật sâu.@
+` Yumizuka trước mặt tôi trông vẫn giống hệt như ngày trước.@
+` Cho dù em ấy vẫn cư xử dịu dàng hệt như mọi khi[line=4]nhưng những lời thốt ra từ miệng em ấy lại đáng sợ đến lạnh gáy.
+\
+`"Nghĩ lại thì, hồi đó trông tớ thật là ngốc nghếch.@ Suốt những năm học cấp hai, tớ chỉ dám đứng từ xa lặng lẽ dõi theo cậu mà chẳng bao giờ đủ can đảm để đến bắt chuyện thế này cả."@
+`"Yumi… zuka?"@
+`"Tớ đã luôn dõi theo cậu đấy, Shiki-kun.@ Ngay cả từ trước khi được cậu cứu ở cái nhà kho đó, tớ vẫn luôn luôn nhìn về phía cậu.@
+` Tớ… thực sự là một đứa nhút nhát.@ Lúc nào tớ cũng chỉ biết hùa theo ý kiến của mọi người xung quanh, rồi gượng nở nụ cười hùa theo khi thấy hợp lý.@ Để rồi trước khi kịp nhận ra, ai nấy đều coi tớ giống như một thần tượng vậy."
+\
+`"Thế nên đối với tớ, trường học chẳng có gì vui vẻ cả.@ Nhưng mọi thứ đã hoàn toàn thay đổi, kể từ sau khi cậu chủ động bắt chuyện với tớ vào năm học lớp tám, Shiki-kun."@
+`"Hả[line=2]thế sao?"@
+`"Đúng thế.@ Đó chắc chắn không phải là chuyện mà cậu nhớ nổi đâu.@ Nói sao nhỉ… Lúc nào cậu trông cũng thật tự nhiên, chẳng bao giờ thích làm màu hay khoe khoang cả.@ Chắc chính cậu khi đó cũng chẳng mảy may bận tâm đến những gì mình đã nói với tớ đâu."
+\
+`"[line=6]"@
+` Tôi biết phải nói gì đây.@
+` Đúng như những gì Yumizuka vừa chia sẻ, tôi hoàn toàn chẳng có chút ký ức nào về chuyện đó cả.@
+` Tôi chẳng biết mình đã nói những gì với em ấy, thậm chí còn không nhớ nổi liệu hồi đó mình có từng bắt chuyện với em ấy lần nào hay chưa nữa.
+\
+ld c,"tachi/stk_t03",crossfade,400
+`"Không sao đâu mà.@ Đừng có làm vẻ mặt hối lỗi như thế chứ.@ Hồi đó cậu chỉ suốt ngày đi chơi với Inui-kun thôi, nên việc cậu ngó lơ các bạn khác cùng lớp cũng là lẽ thường tình mà."@
+ld c,"tachi/stk_t10",crossfade,400
+`"Nhưng đối với tớ thế là đủ rồi.@ Tớ đã thấy cực kỳ hạnh phúc khi được học chung lớp với cậu rồi đấy, Shiki-kun.@
+` Mục tiêu ban đầu của tớ chỉ đơn giản là được trò chuyện với cậu và nghe cậu gọi tớ một tiếng Yumizuka-san thôi.@ Giờ nghĩ lại mới thấy, ước muốn thuở đó thật là bé nhỏ làm sao."@
+br
+` Em ấy bồi hồi nhớ lại chuyện xưa đầy hoài niệm.@
+` Những ngày tháng tươi đẹp thuở xa xưa ấy.@
+` …… Bộ dạng em ấy trông cứ như thể đang hồi tưởng lại những ký ức từ kiếp trước vậy.
+\
+`"Tớ… đã luôn lặng lẽ dõi theo cậu.@
+` Dù biết chắc chắn cậu sẽ chẳng bao giờ thèm đoái hoài gì đến sự tồn tại của tớ, nhưng tớ vẫn cứ thích nhìn về phía cậu như thế đấy."@
+`"[line=4]"@
+` Ờ thì[line=2]thành thật mà nói, nghe những lời thú nhận đó tôi thấy rất hạnh phúc, nhưng…
+` [line=2]Thật ra, tôi rất vui, nhưng...
+br
+`"Cậu có thích tớ không, Shiki-kun?"@
+cl a,crossfade,400
+` Vào đúng khoảnh khắc này, làm sao tôi có thể trả lời câu hỏi đó của em ấy đây[line=3]?
+\
+playstop

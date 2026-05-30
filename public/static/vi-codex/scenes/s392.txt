@@ -1,0 +1,78 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` Tôi quyết định rằng thà cất công hé răng hỏi dẫu dã còn tốt hơn giữ kín trong lòng.@
+` Bởi lẽ nếu cứ khư khư giấu kín bí mật ghê rợn này cho riêng mình, tôi tịnh không cách nào ngăn bản thân suy diễn tới kịch bản tồi tệ nhất.
+\
+`"…… Ừm, thế thì cho anh hỏi thử một câu nhé.@ Nếu một người tự dưng cất lực làm những việc vốn dĩ họ biết rõ tịnh không được phép làm, thì liệu chuyện đó dẫu dã có phải do ảnh hưởng của áp lực căng thẳng tâm lý gây ra không em?"@
+ld c,"tachi/aki_t01a",lshutter,400
+`"Làm những chuyện vốn biết rõ tịnh không được phép làm sao ạ?@ Liệu đó là một hành vi lặp đi lặp lại thường xuyên hay dẫu dã chỉ là một tai nạn nhất thời thôi ạ?"@
+`"…… À thì, thiên về hướng tai nạn vô ý nhiều hơn.@ Có vẻ như tại thời điểm ấy, người đó hoàn toàn tịnh không hề có ý thức tỉnh táo để nhận biết hành vi."
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"Ý anh dẫu dã là bọn họ hành động hoàn toàn trong trạng thái mất đi thần trí, dẫn tới tịnh không cách nào kiểm soát nổi bản thân mình sao ạ?"@
+`Chính xác dẫu dã là vậy, họ tịnh không cách nào dừng tay.@ Dẫu dã là ngay cả ý niệm muốn dừng lại cũng tịnh không hề xuất hiện trong đầu họ."@
+ld c,"tachi/aki_t11a",crossfade,400
+`"Nếu quả thực như thế, nghe chừng dẫu dã rất giống hiện tượng 'đảo ngược nhân cách' đấy ạ."@
+`"…… Đảo ngược nhân cách…… ý em dẫu dã là toàn bộ tính cách của người đó bị đảo ngược hoàn toàn sao?"@
+`"Dạ vâng ạ.@ Tịnh không rõ vì nguyên nhân gì, dẫu chỉ cần một tác nhân nhỏ kích hoạt dẫu dã khiến toàn bộ chuẩn mực đạo đức cùng thái độ sống của người đó bị đảo lộn nghịch chuyển 180 độ.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Có thể gọi đó là bệnh tâm thần."@
+` Nii-san tịnh không nhớ sao?@ Bình thường cha dẫu dã là một người vô cùng nhân từ, thế nhưng đôi lúc ông ấy đột nhiên trở nên lạnh lùng như băng tuyết vậy."@
+`"Lão già Makihisa dẫu dã từng như vậy sao[line=3]?"@
+cl c,lshutter,400
+br
+` …… Ngẫm kỹ lại…… Tohno Makihisa quả thực dẫu dã có những hôm vô cùng từ ái hiền hòa, song ngay hôm sau lại đột ngột biến thành một bạo chúa nghiêm khắc đến đáng sợ.
+\
+`"…… Ký ức của anh tịnh không được rõ nét lắm.@ Em có nhớ chút gì về chuyện đó không, Hisui?"@
+` Tôi nhìn Hisui, người đang đứng gần tường, như thể cô ấy đang cố kìm nén bản thân và không nghe thấy giọng tôi.@
+br
+` [line=3]Và...@
+ld l,"tachi/his_t17",lshutter,400
+` Dường như Hisui đang ra sức kìm nén cảm xúc bồn chồn hỗn loạn bên trong, đến độ tịnh không nghe thấy tiếng tôi gọi.
+\
+cl l,lshutter,400
+ld l,"tachi/koha_t02",lshutter,400
+`"Akiha-sama, xin ngài vui lòng đừng nhắc lại những chuyện xưa cũ ấy nữa ạ.@ Bản thân Makihisa-sama chỉ là có chút khí chất thất thường mà thôi ạ."@
+` Kohaku-san vừa cất lời vừa bê khay bạc lịch sự tiến lại gần, bên trên đặt một chiếc ly thủy tinh mát lạnh.
+\
+`"Chúng ta tịnh không nên nói những lời thiếu kính trọng về người đã khuất bóng ạ.@ Vả lại, dẫu sao Makihisa-sama cũng dẫu dã là đấng thân sinh của hai người mà."
+ld r,"tachi/aki_t06",lshutter,400
+`"E-Em tự biết rõ rồi……!@ Tịnh không cần chị phải cất công nhắc nhở em điều đó đâu……!"@
+cl r,lshutter,400
+` Akiha im lặng cùng Hisui.
+\
+ld l,"tachi/koha_t03",crossfade,400
+`"Nước chanh Lemon Squash của Shiki-san đây ạ.@ Đã cất công để cậu phải đợi lâu."@
+` Kohaku-san nhẹ nhàng đặt ly nước chanh ga mát lạnh lấp lánh bọt sủi xuống mặt bàn.@
+`"Cảm ơn."@
+` Ngậm lấy ống hút, tôi khẽ hớp một hơi để dòng nước mát lạnh sảng khoái lan tỏa khắp cơ thể tàn tạ.@
+cl l,lshutter,800
+` …… Suốt khoảng thời gian còn lại của bữa sáng, cả Akiha lẫn Hisui đều câm lặng tuyệt đối, tịnh không hé răng nửa lời.@
+` Người duy nhất giữ được nét mặt rạng rỡ tươi vui trong phòng khách dẫu dã chỉ có mình Kohaku-san mà thôi.@
+` …… Tôi tịnh không thể thông suốt vì lẽ gì bầu không khí lại đột ngột chìm vào u uất như thế, song nguồn cơn chắc chắn dẫu dã có liên hệ mật thiết tới lão già Makihisa quá cố.
+\
+bg #000000,crossfade,800
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/his_t01",lshutter,800
+`"Chúc ngài cất bước thượng lộ bình an, Shiki-sama."@
+`"À, anh đi học đây…… kìa Hisui?"@
+`"…… Dạ vâng, có chuyện gì hệ trọng sao thưa Shiki-sama?"@
+`"Khi mọi người chuyện trò trong bữa sáng lúc nãy về lão già Makihisa.@ Tôi thấy sắc mặt em tái nhợt và im lặng đến lạ kỳ.@ Tịnh không riêng gì em, mà cả Akiha dẫu dã phản ứng hệt như vậy nữa."@
+ld c,"tachi/his_t17",crossfade,400
+`"Liệu có biến cố kinh hoàng nào dẫu dã xảy đến với lão già đó trong suốt tám năm ròng tôi rời khỏi đây sao?@ Rõ ràng thái độ của em lẫn Akiha lúc nãy vô cùng kỳ quặc."@
+`"……………………"@
+` Hisui không trả lời.
+\
+`"…… Tôi hiểu rồi.@ Thôi được, tôi dẫu dã tịnh không cất lực ép em phải mở lời.@ Khi nào em thấy sẵn sàng chia sẻ, hai đứa mình có thể chuyện trò sau vậy."@
+ld c,"tachi/his_t08",crossfade,400
+`"[line=3]Không.@ Điều này không liên quan đến bạn, Shiki-sama."@
+ld c,"tachi/his_t09",crossfade,400
+`"Shiki-sama, nếu ngài vẫn muốn tiếp tục sinh sống tại căn biệt thự này, xin ngài tuyệt đối đừng bao giờ mở miệng nhắc tới cái tên Makihisa-sama thêm một lần nào nữa."@
+cl c,lshutter,400
+` Sau khi ánh mắt Hisui đanh thép lóe lên tia sáng lạnh buốt trong tích tắc, em ấy lạnh lùng xoay người cất bước trở vào trong biệt thự.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

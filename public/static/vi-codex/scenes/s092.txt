@@ -1,0 +1,22 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+br
+` [line=4] bị nuốt chửng.@
+br
+` Với tiếng sột soạt, tôi bị nhấn chìm trong làn sóng cuộn lên, xô đẩy.
+\
+` Một cuộc xâm lược áp bức.@
+` Nó vi phạm, tấn công và tan rã.
+\
+` [line=8]@
+` Thịt, linh hồn, tâm hồn… tất cả biến mất.@
+` Tôi không bị giết.@
+` Cần phải nói chính xác hơn là tôi đã bị tan chảy và hấp thụ như một phần của làn sóng đen này.
+\
+` Tôi quan sát bản thân tôi đang biến mất trong làn sóng đen[line=4]
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

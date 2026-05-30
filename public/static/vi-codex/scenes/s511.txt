@@ -1,0 +1,36 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Xin chào!@
+` Nơi này dành cho Tohno-kun xấu xa, người đã dễ dàng rơi vào ngõ cụt.@
+` Đã đến lúc "Hãy dạy tôi, Ciel-sensei!"@
+` Chúng ta sẽ gặp nhau nhiều lần từ giờ trở đi, nên hãy gửi lời chào tốt nhất tới tôi.@
+br
+` À, học sinh của tôi là những Tohno-kun khắp nơi trên cả nước, và...
+ld l,"tachi/ark_t30",lshutter,400
+br
+`"Chuyện gì vậy? Tại sao lại có sự khác biệt trong cách đối xử của chúng ta?"@
+br
+cl l,lshutter,400
+` Nhân vật chính của Tsukihime, Arcueid-san.@
+` Bây giờ, chúng ta sẽ bắt đầu buổi học đầu tiên!
+\
+` Ôi trời, điều này tịnh không được đâu, Tohno-kun.@
+` Ngã đường chết này quá nhiều, phải không?@
+` Tôi hiểu cảm giác của cậu khi không muốn kết bạn với con ma cà rồng đáng ngờ đó, nhưng bạn chỉ có thể cố gắng chịu đựng ở đây thôi.@
+` Để sống, một người cần có sự kiên trì, và họ nói rằng nếu không thể đánh bại họ, thì hãy gia nhập họ. Hãy thử thể hiện chất lượng Nhật Bản không biết từ chối nhé.@
+br
+` À, và vì cậu đã trở thành thức ăn cho chó mà không có cơ hội nào, bạn sẽ phải quay lại điểm trước đó và làm lại.@
+` Bạn có tự do chọn phản ứng trong ngõ hẻm này, nhưng tôi nghĩ chạy trốn không phải là ý tưởng hay.
+\
+` Vậy là hết phần đầu tiên.@
+` Phần tiếp theo sẽ là một bài giảng về động vật hoang dã.@
+` Nó sẽ được gọi là "Động Vật Đất Rừng Lắc Lư".@
+` Vậy thì, tạm biệt mọi người.
+\
+bg #000000,crossfade,800

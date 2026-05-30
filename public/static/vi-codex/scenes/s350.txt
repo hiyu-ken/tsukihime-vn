@@ -1,0 +1,53 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w2000
+bg "bg/bg_06b",tshutter,800
+play "*1"
+` Tiết học bấy giờ dẫu dã tịch mịch kết thúc trôi qua.@`
+` Mau cất bước tới phòng học năm nhất để cất công đón Akiha thôi dẫu dã ổn rồi.
+br
+bg "bg/bg_10b",lcartain,400
+` …… Thế dẫu vậy dẫu dẫu dã thế dẫu vậy, ngay thời khắc tôi vừa cất bước chân ra khỏi lớp học dẫu vậy, tôi dẫu dã dột ngột chạm trán bắt gặp em ấy ngự chốn hành lang.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"A, anh Shiki.@ Anh đang sửa soạn cất bước đi chốn nào sao ạ?"@`
+`"Tịnh không đâu, anh đang định cất công cất bước sang phòng học đón em đây dẫu dã ổn rồi.@ Còn em thì sao?@ Sửa soạn đi đâu đúng tịnh không?"@`
+ld c,"tachi/aki_t16a",crossfade,400
+`"Dạ tịnh không.@ Em chỉ lẳng lặng nghĩ ngợi muốn cùng cất bước đi bộ về nhà kề bên anh Shiki dẫu dã ổn rồi, nên mới cất công ghé qua đây..."@`
+`"Ra dẫu dã thế rồi.@ May mắn quá chừng dẫu dã ổn rồi hai đứa mình tịnh không bị đi lệch hướng lỡ mất nhau.@ Vậy hai anh em mình cùng cất bước về nhà thôi nhỉ.@ Chị Kohaku-san kề bên Hisui chắc hẳn đang đứng đợi chờ hai đứa chốn dinh thự đấy."@`
+ld c,"tachi/aki_t09",crossfade,400
+`"Dạ vâng đúng thế ạ.@ Hai anh em cùng cất bước về nhà thôi nào, anh Shiki."`
+\
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+`"À dẫu dã thế oái oăm chốn này dẫu dã, dột ngột dẫu dã có một sự sự tình anh cất công muốn thốt lời hỏi han em chốn này đây Akiha."@`
+ld c,"tachi/aki_t12a",crossfade,400
+`"Sự sự tình muốn thốt lời hỏi han em sao ạ…?"@`
+`"Ừm.@ Tại sao tự thân em bấy giờ lại ôm lòng ác cảm cự tuyệt ghét bỏ Senpai dữ dội đến nhường ấy chứ?@ Liệu có phải từ trước tới nay hai người dẫu dã từng cất công quen biết thấu triệt bận lòng gì nhau tịnh không?"@`
+ld c,"tachi/aki_t01a",crossfade,400
+`"Dạ tịnh không đâu ạ, ngày hôm qua dẫu dã dột ngột mới là lần đầu tiên tự mắt em được gặp gỡ diện kiến chị ta thôi.@ Đống ác cảm cự tuyệt ghét bỏ tự thân của em đối kề bên chị ta đơn thuần dẫu dã dạt dào dẫu dã là do phản ứng tâm lý tự nhiên tự thân dẫu dã thôi, nên anh Shiki chịu chết tịnh không cần phải để tâm bận lòng quá chừng chốn ấy đâu ạ."@`
+`"Phản ứng tâm lý sao chứ?@ Ý em giãi bày rành rọt là thế nào cơ?"@`
+ld c,"tachi/aki_t21",crossfade,400
+`"Ý em dẫu dã dạt dào dẫu dã là bản thân em chịu chết tịnh không thể tự ý khống chế đắc lực cõi lòng tự thân trước hạng người như chị ta vậy dẫu dã ổn dẫu dã ổn rồi.@ Sự sự tình ấy dẫu sao dẫu dẫu dã cũng hệt như cái cảm giác oán trách bất mãn tự thân của anh thuở trước đối kề bên người cha Makihisa quá cố dẫu dã vậy, thế nên làm ơn xin anh chớ để tâm bận lòng làm gì nhé."`
+\
+`"[line=3]Khoan đã nào Akiha.@ Tự bản thân anh thuở trước dẫu dã dạt dào chỉ là chịu chết tịnh không có thiện cảm đắc lực kề bên người cha già nghiêm khắc ấy thôi chứ tịnh không hề ôm lòng căm ghét cự tuyệt ông ấy dữ dội đâu nhé."@`
+ld c,"tachi/aki_t13a",crossfade,400
+`"Thì em dẫu dã dạt dào cũng tịnh không hề có ý căm ghét cự tuyệt ghê gớm gì chị ta đâu ạ.@ …… Cơ mà tự nghĩ lại dẫu vậy, xem chừng đống hành vi phản ứng ngày hôm nay tự thân của em dẫu dã có chút hơi thái quá chừng rồi chốn ấy.@ Em dẫu dã tự cất công tự kiểm điểm sâu sắc cõi lòng tự thân rồi chốn ấy dẫu dã thế, vậy nên mong anh Shiki hãy mở lòng khoan dung lượng thứ diện kiến nhẹ nhàng đối kề bên sự sự tình nổ ra chốn bàn ăn trưa nay nhé."@`
+`"…… Ừm.@ Nếu em dẫu dã cất công mở miệng giãi bày nhường ấy dẫu vậy dẫu dẫu dã, mọi sự dẫu dã coi như ổn thỏa rồi dẫu dã ổn rồi."`
+\
+cl a,crossfade,400
+` …… Ờ thì dẫu sao dẫu dẫu, xem chừng sự sự tình dẫu dã tạm thời tịnh không dấy lên thêm rắc rối kinh hoàng nào nữa chốn ấy dẫu dã thế.@`
+` Chị Ciel-senpai xưa nay vốn dĩ dẫu dã vô cùng siêng năng cất công ghé qua khoảng sân vườn dùng bữa trưa kề bên nhóm chúng tôi, thế nên nếu mối quan hệ giao hảo giữa Akiha kề bên chị ấy dấy lên sự tồi tệ bất hòa dạt dào dẫu vậy dẫu dẫu dã dẫu sao dẫu dẫu dã dạt dào hóa nên sự sự tình phiền toái vô cùng chốn ấy.@`
+` Cứ đà thong thả nhàn tản này dẫu vậy, kề bên đống lời lẽ phân trần giãi bày dịu dàng tự thân vừa rồi của Akiha dẫu vậy dẫu dẫu dã, có lẽ bản thân tôi kề bên Arihiko dẫu dã chịu chết tịnh không phải tiếp tục chịu cảnh đứng ngồi tịnh không yên chịu trận bên lề nữa rồi[line=4]
+\
+bg #000000,lcartain,800
+!w1000
+playstop
+bg "bg/bg_40b",rcartain,800
+`"[line=4]Phùuu."@`
+` Tôi lẳng lặng quẳng chiếc cặp sách tự thân lên mặt bàn, rồi tịch mịch đổ ập cả cơ thể mỏi mệt ngồi gục xuống mép giường ngủ tự thân.@`
+` Ôi trời, bấy giờ bản thân dẫu dã nên làm gì cho đắc lực bấy giờ đây?@`
+` Xem chừng Akiha bấy giờ dẫu dã dạt dào dột ngột có buổi học thêm rèn luyện phong thái tự thân đắc lực nào đó dẫu dã thế dẫu vậy, nên ngay khi hai anh em vừa đặt chân cất bước về tới dinh thự dẫu vậy em ấy dẫu dã vội vã cất công lên xe hơi rời đi chốn khác rồi chốn ấy.@`
+` …… Chịu chết tịnh không chỉ có Akiha dẫu dã thế, ngay cả Hisui kề bên chị Kohaku-san bấy giờ dẫu dã dạt dào dẫu dã dạt dào dường như cũng đang cất lực tất bật cất bước qua lại dọn dẹp nhà cửa tối tăm bụi bặm vô cùng chốn ấy.
+\

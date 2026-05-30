@@ -1,0 +1,61 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_06a",crossfade,800
+play "*3"
+` Tiết học thứ tư nói về xã hội hiện đại.@
+` Không khí trong lớp học nhẹ nhàng hơn so với bình thường trước giờ ăn trưa.@
+br
+` Hôm nay là thứ Tư, nên có một tiết học ít hơn so với thông thường.@
+` Sau giờ ăn trưa, sẽ có buổi họp lớp và một tiếng đồng hồ để quyết định hoạt động cho lễ hội văn hóa.@
+` Hơn nữa, ngày mai là ngày nghỉ học, nên sau khi kết thúc tiết học thứ tư này, gần như đã bắt đầu kỳ nghỉ rồi.@
+` Mọi người đều đang chờ đợi tiếng chuông kết thúc lớp vang lên là điều tự nhiên.
+\
+`"[line=4]Tôi cảm thấy buồn ngủ."@
+` Tôi nhai một cái yawn lớn.@
+` Lớp học vẫn không thay đổi gì, cả ngày trôi qua mà chẳng có sự kiện đặc biệt nào.@
+br
+` Thật ra, tôi đã trải qua nhiều trải nghiệm kỳ lạ đến mức ngồi trong lớp học cũng khiến tôi cảm thấy khác thường.@
+` Sau khi lớp học kết thúc và đêm xuống, tôi lại phải đi cùng Arcueid một lần nữa.@
+` Khi nghĩ về điều đó, tôi thực sự không có thời gian để đùa giỡn ở đây.
+\
+` Tôi nhìn vào gương mặt mình phản chiếu trên kính cửa sổ.@
+` Mặt Tohno Shiki dường như vui vẻ vì một lý do nào đó.@
+`"[line=4] Grr."@
+` Tôi căng thẳng biểu cảm của mình.@
+` Không phải việc lang thang trên đường phố với Arcueid là vui vẻ, vậy tại sao tôi lại cư xử như thế này?@
+bg #000000,crossfade,800
+bg "event/ark_e09",crossfade,800
+bg "bg/bg_06a",crossfade,800
+br
+`"... Arcueid..."@
+` Có thực sự điều gì đó không ổn.@
+` Nhìn ra cửa sổ và sân sau, tôi thấy một ảo ảnh của cô ấy vẫy tay với tôi và nói "Chào".
+\
+br
+br
+br
+br
+br
+br
+br
+` "[line=4] Chờ đã...!"
+\
+bg "event/ark_e09",tshutter,800
+`"[line=4]Ôi trời ơi, ôi trời ơi!"@
+` Tôi đẩy người mình vào khung cửa sổ và nhìn xuống dưới.@
+` Chỉ có thể thấy rìa sau của sân trường,
+` nhưng chắc chắn rồi,
+` Arcueid, với cách cư xử quen thuộc, đang ở trong trường học của tôi.
+\
+`"!!!!!"@
+` Tôi liếc nhìn xung quanh lớp học.@
+br
+` [line=4]Thật may mắn, không ai để ý đến người nước ngoài kỳ lạ đang vẫy tay với tôi.
+\
+`"Cô ấy đang nghĩ gì vậy...!?"@
+` Tôi thì thầm với chính mình khi gãi đầu.@
+` Nhưng phàn nàn chẳng giúp được gì.@
+` ... Có khoảng hai mươi phút nữa là đến giờ ăn trưa.@
+` Shiki, cậu sẽ làm gì? Nếu để cô ấy một mình, ai biết được cô ấy sẽ làm gì...!?!
+\

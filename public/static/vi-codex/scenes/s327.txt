@@ -1,0 +1,35 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+`"[line=4]Cậu ta á?@ Hừm... Arihiko dẫu sao cũng chỉ là bạn học cùng lớp của anh thôi.@ Ngoài ra em nghĩ cậu ta trông giống cái gì khác được nữa à?"@`
+ld c,"tachi/aki_t03a",crossfade,400
+`"Ồ, ra là anh chỉ gọi người bạn 'chỉ là bạn' tự thân của mình bằng tên cúng cơm thôi sao, anh Shiki?"@`
+` Akiha nhìn tôi với vẻ mặt vô cùng không vui.@`
+`"Này em, việc anh gọi cậu ta bằng họ hay tên riêng dẫu vậy dẫu vậy dẫu có gì quan trọng đến thế sao?@ Cớ làm sao tự dưng em lại đi bận lòng chấp nhặt chuyện vặt vãnh ấy chứ?"`
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Ôi chao, anh Shiki thực sự vô cùng thiếu nhạy bén khôn ngoan quá chừng.@ Đối với con gái tụi em thì không nói, chứ việc hai thằng con trai cứ réo tên riêng của nhau nhường ấy dẫu vậy tịnh không bình thường chút nào đâu nhé.@ Trừ phi hai người là anh em ruột thịt hoặc họ hàng thân thích chứ..."@`
+`"Ơ[line=4]thế à, chắc em nói có lý thật."@`
+` …… Ngay cả bản thân tôi dẫu vậy dẫu dẫu cũng khẽ nghiêng đầu băn khoăn suy tư về chuyện đó.@`
+` Nhưng từ đầu, em luôn gọi anh ấy là "Arihiko".@ Hơn nữa, chúng ta đã quen biết nhau lâu đến mức điều đó không quá kỳ lạ.
+\
+`"Vả lại dẫu sao dẫu dẫu cũng còn một khả năng nữa.@ Đừng mở miệng giãi bày với em là hai người dẫu có mối quan hệ mờ ám kiểu đó đấy nhé, anh Shiki?"@`
+`"……?@ Mối quan hệ kiểu đó?@ Ý em là sao cơ?"@`
+cl c,crossfade,400
+` Tôi nghiêm nghị hồi đáp lại vì chịu chết tịnh không thấu triệt, dẫu vậy Akiha liền lẳng lặng ngoảnh mặt lánh đi.@`
+ld c,"tachi/aki_t13a",crossfade,400
+`"…… Tịnh không có gì đâu ạ.@ Em chỉ đang cố ý châm chọc mỉa mai một chút thôi, dẫu vậy coi bộ đầu óc anh chịu chết tịnh không thể tiếp thu nổi rồi."@`
+` Akiha bất lực buông thõng hai bả vai tự thân xuống.@`
+` ... Tôi càng lúc càng bối rối.
+\
+`"[line=4]Akiha này.@ Anh dẫu dã chơi thân với cậu ta từ thuở cấp hai và cậu ta dẫu dã luôn ra tay trợ giúp anh rất nhiều.@ …… Dẫu cho diện mạo ngoài đời trông tịnh không được đĩnh đạc cho lắm, dẫu vậy cậu ta dẫu sao dẫu dẫu vẫn là một người vô cùng tốt bụng.@ Anh tịnh không rõ em ghét bỏ điểm gì ở cậu ta, nhưng làm ơn chớ ôm lòng nghĩ xấu cho cậu ta nhé."@`
+ld c,"tachi/aki_t21",crossfade,400
+`"...@
+` Liệu có điều gì khiến em ấy tịnh không vừa lòng sao?@ Akiha liền bắt đầu lẳng lặng xị mặt giận dỗi.`
+\
+`"Akiha, em có đang lắng nghe anh nói tịnh không đấy?"@`
+`"Có chứ, em dẫu dã nghe rõ mồn một rồi đây!@ Đây quả thực là lần đầu tiên em được mắt thấy tai nghe anh ra sức mở miệng che chở biện hộ cho một người nhường này đấy.@ Cậu ta chắc hẳn dẫu dã phải chiếm một vị trí vô cùng đặc biệt trong tim anh rồi nhỉ, người bạn học chí cốt ấy!"@`
+cl c,crossfade,400
+` Cô ta phồng ngực và quay mặt đi.@
+` "Chà trời ơi. Tôi không biết tại sao cô ấy lại quyết định chuyển trường đột ngột như vậy. Bây giờ tôi thậm chí còn không hiểu cô ấy đang nghĩ gì."
+\

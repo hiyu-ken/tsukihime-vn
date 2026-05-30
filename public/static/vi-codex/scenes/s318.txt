@@ -1,0 +1,149 @@
+playstop
+wavestop
+bg "bg/bg_34a",notrans,0
+` Thật ra, Kohaku-san có nhiệm vụ nặng nề nhất vì chị ấy phải lẳng lặng một mình chuẩn bị bữa tiệc cho cả bốn chúng tôi.@`
+` Bản ngã tôi tự biết mình tịnh không có chút khiếu bếp núc nào để giúp ích nhiều, dẫu vậy tôi vẫn muốn cất bước tới xem Kohaku-san một chút.@`
+br
+bg #000000,lshutter,400
+bg "bg/bg_35",lshutter,400
+` Gian bếp bấy giờ dẫu vậy đã trở thành một bãi chiến trường thực sự.@`
+` Trên mỗi bàn bếp là những núi nguyên liệu chất cao như núi, khiến tôi vừa đặt chân vào đã lập tức dấy lên ý nghĩ muốn quay đầu bỏ chạy.`
+\
+ld c,"tachi/koha_t02",lshutter,400
+`"Shiki-san, có việc gì cần tôi giúp không ạ?"@`
+` Kohaku-san ló đầu ra hỏi.@`
+`"[line=4]…… Không có gì đâu ạ. Em chỉ nghĩ là có thể giúp chị được việc gì đó thôi."@`
+` Nhưng coi bộ tôi đã vô tình bước chân vào một thế giới mà một kẻ ngoại đạo như tôi tuyệt đối tịnh không nên bén mảng tới thì phải.@`
+ld c,"tachi/koha_t01a",crossfade,400
+`"Ôi, thế thì tốt quá ạ! Thực ra tôi cũng đang định đi tìm để nhờ Shiki-san giúp một tay đây."@`
+`"Th-thật thế sao ạ?@ Nhưng em vốn vụng về khoản bếp núc, nên tịnh không biết có giúp ích được gì cho Kohaku-san không nữa."`
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"Không sao đâu ạ, việc này bất cứ ai cũng có thể làm được mà.@ Nào, Shiki-san giúp tôi một tay nhé."@`
+cl c,lshutter,800
+` Kohaku-san liền nắm lấy tay tôi rồi nhẹ nhàng kéo tuột tôi đi.@`
+`"...”@
+` Dẫu vẫn chưa thực sự hiểu chuyện gì đang diễn ra, tôi rốt cuộc vẫn lẵng nhẵng xắn tay vào giúp Kohaku-san.`
+\
+bg #000000,rshutter,400
+bg "bg/bg_35",rshutter,400
+` …… Sau khi lấy lại bình tĩnh, tôi mới nhận ra gian bếp này thực sự hơi nhỏ so với quy mô của một dinh thự bề thế nhường này.@`
+` Có lẽ vào thời thịnh trị khi còn đông người sinh sống, gia tộc Tohno đã sử dụng một gian bếp lớn hơn nhiều, nhưng giờ đây khi chỉ còn bốn người gồm Akiha, Hisui, Kohaku-san và tôi, gian bếp nhỏ này đã được sửa soạn để tiện sinh hoạt.`
+br
+ld c,"tachi/koha_t02",crossfade,400
+`"Đây ạ, Shiki-san hãy rửa sạch tay rồi mặc chiếc tạp dề này vào nhé."@`
+` Tôi tịnh không rõ đây là sở thích quái đản của ai, nhưng chiếc tạp dề chị ấy trao cho tôi lại in chình ình dòng chữ "Kẻ Lầm Lì Lập Dị" trên ngực.`
+\
+`"Tôi sẽ giao cho Shiki-san một công việc cực kỳ đơn giản trước nhé.@ Sau khi xong xuôi, tôi mới giao nhiệm vụ đặc biệt chỉ dành riêng cho cậu đấy."@`
+cl c,lshutter,400
+` Kohaku-san trông có vẻ vô cùng vui vẻ.@`
+` [line=4]Trước hết, tôi phải bóc vỏ cho bằng sạch đống tôm chất cao như núi này đã.`
+\
+` Cạch, cạch, cạch.@`
+` Tiếng lưỡi dao thái đều đặn gõ nhẹ lên mặt thớt gỗ.@`
+` La la la~.@`
+` Tiếng ngân nga vui tươi của Kohaku-san tràn ngập khắp gian bếp.`
+\
+` ……@`
+` ......@
+` ……………… @
+` Chị ấy dường như đang dồn hết tâm trí vào việc bếp núc nên tịnh không hé môi nói thêm lời nào.@`
+` Về phần mình, tôi thực sự tìm thấy niềm vui trong việc lột vỏ tôm nên cứ lẳng lặng tiếp tục công việc đầy kiên nhẫn ấy.@`
+bg #000000,crossfade,400
+bg "event/his_e01",crossfade,400
+`"[line=6]"@
+` "…… Nghĩ lại thì, khung cảnh này thực sự gợi lại cho tôi rất nhiều hoài niệm."@`
+` "Trước khi thảm kịch xảy ra và trước khi tôi bị trục xuất khỏi dinh thự này, tôi đã từng nhiều lần chơi đùa vui vẻ như thế này cùng Kohaku-san và Akiha."`
+\
+` "Khi ấy chúng tôi hãy còn là những đứa trẻ ngây ngô, tịnh không hề mảy may bận tâm về sự khác biệt giới tính."`
+\
+` "Chúng tôi chỉ sống trong thế giới của riêng mình tại dinh thự rộng lớn này, và mọi ngày trôi qua dẫu vậy chỉ toàn là những chuỗi ngày vui chơi bất tận."@`
+` "Chúng tôi mải miết nô đùa đến mức có thể quên sạch mọi nỗi phiền muộn âu lo đeo bám tự thân trước kia."@`
+` "Hoặc có lẽ là..."@`
+` "Để trốn chạy khỏi quá khứ u tối phiền muộn kia, chúng tôi dẫu vậy đã cố gắng lấp đầy mỗi ngày trôi qua bằng thật nhiều niềm vui hết mức có thể."`
+\
+bg #000000,crossfade,400
+bg "bg/bg_35",crossfade,400
+ld c,"tachi/koha_t01a",crossfade,400
+`"Shiki-san thực sự rất thích lột vỏ tôm nhỉ?"@`
+`"Ơ?@ Đâu có đâu ạ, sao Kohaku-san lại hỏi thế?"@`
+ld c,"tachi/koha_t05",crossfade,400
+`"Bởi vì nhìn Shiki-san trông có vẻ vô cùng say sưa và vui thú đấy ạ.@ Chứ như Hisui-chan ấy mà, mỗi lần làm xong là lông mày của con bé lại nhíu chặt hết cả lại."@`
+`"Thật thế sao ạ?@ Bất ngờ thật đấy. Em cứ nghĩ Hisui là kiểu người sẽ lẳng lặng làm cho xong việc mà tịnh không một lời than vãn chứ."@`
+ld c,"tachi/koha_t18",crossfade,400
+`"Đúng là vậy ạ, tịnh không hiểu sao Hisui-chan lại rất vụng khoản bếp núc.@ Bù lại thì em ấy lại cực kỳ xuất sắc trong việc quét dọn và bài trí đồ đạc."@`
+`"Thế ạ?@ Từ trước đến giờ em dẫu vậy vẫn luôn nghĩ cả Kohaku-san lẫn Hisui đều là những người đa tài đa nghệ, việc gì cũng có thể hoàn thành xuất sắc cả."`
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Nếu được như thế thì tôi hạnh phúc biết bao.@ Nhưng cả tôi lẫn Hisui-chan dẫu sao cũng chỉ là những cô gái bình thường mà thôi, nên tất nhiên ai cũng có những điểm yếu tự thân cả."@`
+` "Vị giác của Hisui-chan hơi lạ lùng một chút ạ.@ Thế nên ngay cả khi con bé dồn hết tâm huyết nấu ra món ăn mà tự thân thấy ngon, thì đối với Akiha-sama hay tôi, hương vị của nó dẫu vậy vẫn rất đỗi kỳ quặc."@`
+` "Ra là vậy, đó là lý do vì sao Hisui lại tịnh không bao giờ vào bếp."@`
+` Vị giác của Hisui có phần quái đản; còn Kohaku-san... tôi tự hỏi khuyết điểm của chị ấy là gì nhỉ?`
+\
+`"…… Nhưng nghĩ lại thì, từ xưa Kohaku-san và Hisui dẫu vậy đã mang hai nét tính cách hoàn toàn đối lập rồi.@`
+` Chị lúc nào cũng rạng rỡ tươi vui, còn Hisui lúc bấy giờ dẫu vậy dẫu vậy chỉ luôn khép mình lẳng lặng lẩn khuất trong biệt phủ."@`
+`"Ồ, tôi trông rạng rỡ đến thế sao ạ?@ Tôi dẫu vậy vẫn luôn nghĩ rằng mình chỉ đang lẳng lặng quan sát mọi người từ phía sau mà thôi."@`
+`"Đúng thế mà, em dẫu vậy vẫn nhớ rõ.@ Chị lúc nào cũng chạy nhảy nô đùa cùng tụi em, nhưng hễ thấy tụi em định bày trò nguy hiểm là chị lại nghiêm giọng can ngăn rồi dang tay ra bảo bọc."`
+\
+play "*9"
+` …… A, đầu óc tôi bấy giờ thực sự hiển hiện rõ mồn một.@`
+` Những buổi chơi đuổi bắt náo nhiệt nơi khoảng sân rộng lớn của biệt thự.`
+\
+` Cố gắng hết sức để bắt trộm bằng được mấy con cá chép cưng của ông già dưới ao nước.`
+\
+`"Này Kohaku-san, chị còn nhớ lần đó chúng ta trốn khỏi biệt phủ qua chiếc cổng lớn không?@`
+` Mấy đứa mù tịt đường sá tịnh không biết lối về, rốt cuộc chị phải gọi điện cho gia nhân trong dinh thự tới đón rước tụi mình về."@`
+ld c,"tachi/koha_t03",crossfade,400
+`"Vâng, và sau đó Makihisa-sama đã nổi trận lôi đình la mắng cậu Shiki một trận tơi bời khói lửa.@ Dẫu cho tất cả tụi em dẫu sao đều cùng chơi đùa nghịch ngợm, dẫu vậy tịnh không hiểu sao cuối cùng chỉ có mỗi cậu Shiki là đứng ra chịu trận.@ Chúng ta bày ra đủ thứ trò quậy phá, nhưng rốt cuộc cậu luôn là người lẳng lặng gánh hết tội để bảo vệ Akiha-sama và tôi."@`
+br
+` Chị ấy vừa hồi tưởng lại những năm tháng xưa cũ vừa khúc khích cười một cách trìu mến.`
+\
+`"…… Ôi chao, chuyện là thế nào nhỉ?@ Được đàm đạo về những ký ức ngày xưa cũ thế này, tự dưng tôi có cảm giác như thể mình thực sự được trở về năm tháng ấy vậy."@`
+` Đúng vậy.@
+` Bản thân tôi tịnh không có quá nhiều ký ức tốt đẹp tại tòa dinh thự này, nhưng những lời hoài niệm chân tình vừa rồi thực sự khiến lồng ngực tôi dấy lên một cảm giác ấm áp khó tả.@`
+` Tuy nhiên, những ký ức xưa cũ dẫu vậy tịnh không chỉ mang độc một màu sắc tươi vui hạnh phúc.`
+\
+`"…… Nhưng, hồi đó tôi dẫu vậy đã đối xử thật tệ với Hisui."@`
+` …… Hình bóng người con gái ấy dẫu vậy vẫn luôn khép mình lẳng lặng nơi góc sâu thẳm nhất trong tim tôi.@`
+` Đến tận phút cuối cùng trước khi ra đi, tôi dẫu sao vẫn chưa một lần được đàm đạo chân tình với người con gái lẳng lặng bên khung cửa sổ ngày ấy.`
+`"…… Người con gái ấy dẫu vậy luôn hướng ánh mắt dõi theo chúng tôi từ khung cửa sổ trên cao.@ Mãi mãi hình ảnh ấy in đậm vào tâm khảm tôi.@ Gương mặt đượm vẻ cô tịch lẻ loi ấy cúi xuống nhìn, khiến tôi dẫu vậy luôn khao khát giá như em ấy có thể mở lòng chạy ra chơi đùa cùng mọi người biết bao."@`
+` Nhưng dù sao, trước khi tôi rời khỏi biệt thự, cô ấy đã tặng tôi món quà chia tay đó.
+\
+`"Đúng là vậy ạ.@ Từ thuở ấy con bé dẫu vậy đã luôn khép kín và nhút nhát như thế, nên ngay cả tôi dẫu sao cũng tịnh không thể thấu hiểu hết tâm tư của em ấy.@ Nhưng tôi dẫu vậy luôn tự nhủ, chỉ cần Hisui-chan được hạnh phúc trọn vẹn, thì dẫu cho bản thân tôi có ra nông nỗi nào đi chăng nữa dẫu vậy cũng tuyệt đối tịnh không hề gì."@`
+`"Ồ?@ Kohaku-san quả thực là một người chị gái vô cùng tuyệt vời đấy ạ."@`
+` Tròng lòng dấy lên niềm cảm kích ngọt ngào, tôi mỉm cười hồi đáp lại chị ấy như thế.`
+br
+`"À."@
+br
+` Bất ngờ,
+` với một âm thanh ngắn, Kohaku-san giơ tay lên.@
+` Tôi bàng hoàng nhận ra lưỡi dao sắc lẹm đã cào rách sâu vào ngón tay mảnh mai của Kohaku-san.`
+\
+playstop
+`"K-Kohaku-san, ngón tay của chị bị cứa trúng rồi kìa...!"@`
+`"Ồ?"@
+` Phải đợi tới khi tôi hốt hoảng la lên, chị ấy mới dường như giật mình nhận thức được ngón tay mình đang rỉ máu.@`
+ld c,"tachi/koha_t07",crossfade,400
+`"Ơ, đúng thế thật này."@`
+`"'Ơ, đúng thế thật' cái gì chứ?@ Này, Kohaku-san!?"@`
+` Tôi không thể tin được điều này.@
+` Ngay cả một kẻ ngoại đạo như tôi dẫu vậy cũng thừa sức nhìn ra vết cắt ấy rách sâu hoắm đến nhường nào, thế mà phản ứng của Kohaku-san vẫn chậm rãi và thản nhiên đến quái đản.`
+\
+`"Thật xấu hổ quá đi mất.@ Đường đường là một đầu bếp cự phách thế này mà lại bất cẩn quá chừng.@ A ha ha!"@`
+` Kohaku mỉm cười và bật lên tiếng cười bình thường của cô ấy.@
+`"Đây tịnh không phải chuyện để đùa đâu chị!@ Phải lập tức cầm máu băng bó vết thương ngay đi chứ...!"@`
+`"Tịnh không sao đâu mà cậu Shiki.@ Vết thương này dẫu sao đâu có đe dọa gì tới tính mạng được chứ."@`
+`"Nhưng chị tịnh không thấy đau đớn gì sao?@ Vết cứa rách sâu như thế cơ mà!"`
+\
+`"Không đâu ạ, tịnh không có cảm giác đau đớn gì đâu.@ Nếu bản thân nghĩ rằng nó không đau, tự khắc cơn đau dẫu vậy sẽ tịnh không hiện hữu.@ Nếu ta tự nhủ rằng đây chẳng phải là ngón tay tự thân của mình, mà chỉ là ngón tay của một con búp bê vô tri vô giác nào đó, thì làm sao có thể cảm thấy đớn đau được nữa, đúng không Shiki-san?"@`
+`"Cái... [line=4]"`
+` Nở một nụ cười rạng rỡ bất biến trên môi, Kohaku-san thản nhiên buông ra những lời vô cùng kỳ quái và rợn người nhường ấy.@`
+` Dẫu biết rằng nếu tự thôi miên bản ngã theo cách đó thì nỗi đau thể xác có thể dịu đi phần nào, dẫu vậy làm sao một con người bằng xương bằng thịt lại có thể triệt tiêu hoàn toàn cảm giác đớn đau cho được cơ chứ.`
+\
+`"Thôi xin chị đấy, mau đi băng bó vết thương giùm em đi!@ Em vốn dĩ cực kỳ sợ nhìn thấy máu, nên nếu em đột nhiên lăn đùng ra ngất xỉu tại chỗ này, tất cả dẫu sao là tại lỗi của Kohaku-san đấy nhé...!"@`
+`"Tôi thấu triệt rồi ạ, vậy tôi xin phép đi xử lý vết thương ngay đây.@ Thế thì Shiki-san, tôi xin lỗi phải cáo từ một lát nhé."@`
+cl c,lshutter,800
+` Suốt từ đầu tới cuối, nụ cười rạng rỡ trên gương mặt chị ấy tịnh không hề xuất hiện lấy một vết rạn nứt nhỏ nhoi, lẳng lặng cúi đầu chào tôi một cách cung kính rồi nhẹ nhàng bước ra khỏi phòng bếp.`
+\
+bg #000000,tcartain,800
+!w2000

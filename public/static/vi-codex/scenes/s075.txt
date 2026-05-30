@@ -1,0 +1,334 @@
+monocro off
+play "*9"
+wavestop
+bg "bg/bg_31a",notrans,0
+` [line=6]"A… ahaha…"@
+` Tôi không thể nhịn được mà cười.`@
+` …… Nhưng cũng chẳng hẳn là tồi@
+` Nếu người tôi giết đã quay lại sống thì có nghĩa là tôi chưa thực sự giết ai, phải không?@
+` Chắc chắn là tôi đã... giết ai đó, nhưng người ta vẫn sống.`@
+br
+` [line=3][line=3]Và đó là điều tôi thật sự nên vui mừng.`
+\
+` Vâng. Như vậy tôi nên có thể quay trở lại cuộc sống bình thường của mình.`@
+` Một cuộc sống học đường bình thường, giống như tôi vẫn đang làm cho đến bây giờ.`@
+` , Ờ, đổi lại thì tôi dường như bị người lạ này vây bắt, nhưng cậu có thể nói rằng nó tốt hơn nhiều so với việc trở thành sát nhân.`
+\
+` “...... Ừm, tôi đã bình tĩnh rồi. Nếu cậu có điều gì muốn nói, tôi sẽ lắng nghe: những lời phàn nàn, những mối thù, bất cứ điều gì. Hãy nói thoải mái.”`@
+` “Ừ, tôi có rất nhiều điều muốn nói với cậu… nhưng cậu thật kỳ lạ.”`@
+ld c,"tachi/ark_t11",crossfade,400
+` “Tôi chỉ đang thu thập mọi thông tin hiện tại.` Cậu có thể nói tôi đã tạo ra sự kháng cự với những thứ kỳ quái như thế này.”`@
+` Tôi nghĩ như vậy chẳng mấy hữu ích đâu.
+\
+ld c,"tachi/ark_t03",crossfade,400
+` "Hừm……"`@
+` Cô nhìn tôi.`@
+` Không phải ác ý.`@
+br
+` …… Thật kỳ lạ. Tôi tưởng rằng để mang ai đó trở lại khi họ đã rời xa là một trong những quy luật phổ biến của thế giới.`@
+` Nếu cô ấy muốn giết tôi thì nên ra tay rồi chứ.[line=3]`
+\
+` "[line=2]Cậu đang nhìn cái gì thế? Mục đích cậu đến đây là trả thù, phải không? Thế thì[line=2]"`@
+ld c,"tachi/ark_t01a",crossfade,400
+` “Ừ, tôi đoán là theo lý thuyết thì tôi nên giết cậu trả thù.  Tôi sẽ giết cậu nếu cậu thật sự muốn, nhưng nếu không thì tôi sẽ thôi cho đến lúc khác.  Như vậy thì không hiệu quả lắm.”`@
+` Cô nhìn tôi thẳng vào mắt.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` "Vậy! Tôi xin lỗi."@
+` [line=4]"A?"@
+` Tôi ngây người một lúc.@
+` Những điều cô nói thật sự... kỳ quái.`
+\
+` “Cậu có hối tiếc vì đã giết tôi không?”`@
+` Tôi đang nghĩ xem có tha thứ cho cậu nếu cậu là... như thế này đấy.`@
+` Bên cạnh đó, tôi cảm thấy cậu là một kẻ nói dối rất tệ cho một con người.`@
+` Xin lỗi[line=3] ừm?`@
+` "Ừ thì. Nếu cậu xin lỗi tôi, tôi cũng được."
+\
+br
+` [line=3]Thật không thể tin nổi.`@
+br
+` Có cái gì bất khả thi đâu?@
+` Cô ấy không tha thứ cho tôi đâu, nhưng... giọng nói của cô thật dịu dàng.
+\
+ld c,"tachi/ark_t16",crossfade,400
+` “Ê! Cậu phải trả lời khi người ta hỏi nghiêm túc mà, biết không? Đừng chậm trễ nữa, nhanh lên trả lời đi. Chúng ta không thể làm gì được cho đến khi rõ ràng là cậu có hối lỗi hay không.”`@
+` Cô ấy tức giận.`
+\
+cl c,crossfade,400
+` [line=3]Tôi hối tiếc sao?@
+` [line=3]Rõ ràng rồi.`
+\
+br
+` …… Vâng, tôi hối tiếc. Không quan trọng lý do là gì, tôi đã giết người.`@
+br
+` Không thương tiếc hay lý do. Tôi giết chỉ vì bản thân tôi.@
+br
+` "…… Tôi hối hận về việc đã giết người.@ Nhưng quan trọng hơn, người tôi giết là bạn, và vì thế[line=3]"
+\
+` …… Là một lời nói dối rằng mọi chuyện ổn nếu cô ấy còn sống.@
+` Đó là sự thật tôi đã giết cô ấy.@
+` Đây là sự vi phạm tối thượng; bạo lực lớn nhất có thể.@
+br
+` "Vì vậy[line=3]bạn có thể trả thù tôi[line=2]Tôi nghĩ điều đó là tự nhiên bạn sẽ đến đây để trả thù."@
+br
+` …… Tôi cúi đầu, lẩm bẩm như đang thú nhận với ai đó.
+\
+ld c,"tachi/ark_t09",crossfade,400
+` " [line=3]Tôi hiểu. Ừm. Bạn không phải là người xấu."@
+` Cô ấy cười.@
+` Mặc dù tự xưng mình là ma cà rồng, nhưng cô ấy có khuôn mặt rất thật thà.@
+br
+ld c,"tachi/ark_t01a",crossfade,400
+` "Tôi đã quyết định. Tôi sẽ khiến bạn giúp tôi."@
+` "Eh[line=5]?@
+` Giúp cô ấy?@ Cô ấy đang nói về điều gì?@
+\
+` "…… Ê. Bạn có nghĩa là giúp tôi như thế nào?@
+` "Rất đơn giản. Tôi sẽ khiến bạn giúp tôi giải quyết vấn đề với ma cà rồng đã bén rễ ở thị trấn này."@
+br
+` [line=4]?@
+` …… Chờ một chút, tôi ngày càng bối rối hơn.@
+br
+` "Giải quyết ma cà rồng? Nhưng bạn là một[line=3]"@
+` "Oh, không, không. Tôi là ma cà rồng, nhưng ma cà rồng ở thị trấn này là một loại khác hoàn toàn.@
+` Bạn sống ở đây, phải không? Vậy bạn nên biết về những vụ giết người đã xảy ra gần đây, đúng không?@
+` "Ừm, có khá nhiều người đã chết rồi... ơ, khoan tí."`
+\
+` ……… Tôi nhớ ra rồi.`@
+` "Nghĩ lại thì tất cả nạn nhân của kẻ giết người đều bị hút máu chứ?"@
+br
+` [line=4]"Đừng nói với tôi như vậy.`@
+` “Đúng rồi.  Ngay cả tin tức cũng nói là 'công việc của ma cà rồng', phải không? Thật buồn cười; họ rõ ràng biết loại quái vật nào đang làm điều đó, nhưng chẳng ai đi tiêu diệt nó. Đó là lý do tôi buộc phải làm thay họ.”`@
+` “Chờ chút, nhưng…[line=3]ma cà rồng là không tồn tại.”`
+\
+ld c,"tachi/ark_t04",crossfade,400
+` "Tsk!"@
+` Cô cau mày vì khó chịu.`@
+` Ừm, đúng rồi.`@
+` Một người lạ mặt đang đứng trước mặt tôi, tự xưng là ma cà rồng.`
+\
+` [line=3]"Tôi không hiểu lắm, nhưng ý của cậu là đến đây để tiêu diệt ma cà rồng, phải không...?"`@
+ld c,"tachi/ark_t01a",crossfade,400
+` Đúng thế, nhưng trước khi tôi kịp làm gì, một kẻ giết người nào đó đã tấn công và sát hại tôi.`@
+` Ừ, nó thật sự khiến tôi bất ngờ. Đó là một cuộc tấn công bất ngờ hoàn hảo và tôi bị cắt thành mười bảy mảnh mà không có cơ hội phản kháng gì cả."@
+` [line=4]Ugh`@
+` Tôi thấy rồi.`Cô ấy chắc chắn đang nói đến tôi.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` “Đúng vậy. Cho đến khi tôi hồi phục hoàn toàn như thế này, tôi thực sự định giết cậu đấy, biết không? Đó là lần đầu tiên ai khiến tôi xấu hổ như vậy. Và, nó tốn khoảng 80% sức mạnh của tôi để hồi phục.”`@
+ld c,"tachi/ark_t07",crossfade,400
+` Nhưng quan trọng hơn cả, nó thật sự rất đau.`@
+` Đau đớn đến mức tôi nghĩ mình sắp phát điên.  Nhưng cơn đau quá khủng khiếp, nó lại khiến tôi tỉnh táo trở lại.@
+` "Cậu có biết cảm giác bị như thế lặp đi lặp lại suốt một đêm dài không?"@
+br
+` ………….`@
+` Tôi không biết.@
+` Thực ra, tôi không muốn biết.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` "Vậy là đầy hận thù, tôi đi tìm bạn. Tôi tức giận đến nỗi không còn quan tâm đến ma cà rồng, chính lý do khiến tôi ở đây. Tôi biết bạn là sinh viên nên tôi đã đợi bạn ở đó."@
+` "…… Tôi không hiểu.@ Nếu bạn ghét tôi nhiều như vậy, tại sao lại tha thứ cho tôi?
+\
+` [line=3]Để xem… nói đơn giản, sau một lúc tôi đã bình tĩnh lại.@
+ld c,"tachi/ark_t01a",crossfade,400
+` Tôi đã tiêu tốn rất nhiều năng lượng, và tôi nghĩ rằng việc sử dụng bạn như khiên sẽ hiệu quả hơn là giết chết bạn.@
+` "…… Chờ một chút. Bạn vừa nói điều thật tồi tệ với tôi."@
+` "Eh? Tôi có nói như vậy không?@
+` Bạn nói rằng bạn sẽ sử dụng tôi như khiên.
+\
+ld c,"tachi/ark_t04",crossfade,400
+` "Tất nhiên. Tôi đã tha thứ cho bạn, nhưng đó chỉ là cảm xúc cá nhân của tôi. Bạn phải chuộc tội cho hành động giết người của mình bằng hành động, chứ không phải chỉ bằng cảm xúc, phải không?@
+` [line=3]Ừm, ngay cả khi bạn hỏi tôi…
+\
+ld c,"tachi/ark_t16",crossfade,400
+` "Bạn là ai? Tôi không thể biết được khi nào bạn thật lòng và khi nào bạn nói dối. Cho tôi lặp lại một lần nữa: bạn đã giết tôi. Bạn có lẽ không thể tưởng tượng được, nhưng việc hồi sinh sau khi bị giết tốn rất nhiều năng lượng.@
+` Thật ra, nếu bạn chỉ đơn giản là giết tôi thì chẳng sao cả, nhưng cách bạn giết tôi là điều tôi chưa từng thấy.@ Tôi không thể chữa lành vết thương nên tôi không có lựa chọn nào khác ngoài việc tạo lại các bộ phận cơ thể của mình.@ Đó là lý do tại sao việc hồi sinh tốn nhiều năng lượng đến vậy[line=3]
+\
+` Cô ấy trông tức giận.@
+` …… Dường như cô ấy đang nhớ lại cơn giận dữ đã bị lãng quên của mình khi nói chuyện.
+\
+` "Bất kể sao, tôi yếu đuối ngay bây giờ! Tôi nghĩ rằng tôi sẽ có thể hồi phục sau hai đêm, nhưng nếu kẻ thù tấn công trước đó, tôi sẽ rơi vào nguy hiểm.@
+` Vì vậy, bây giờ, tôi muốn bạn trở thành khiên của tôi.@
+` "Bạn muốn tôi làm thế[line=3]? Bạn đang làm gì, tự quyết định mọi thứ một mình?@
+` "Gì? Đây là lỗi của bạn từ đầu, vậy nên có phải điều này là chuyện hiển nhiên không?@
+ld c,"tachi/ark_t06",crossfade,400
+` "Hay là bạn vẫn chưa hối hận?@
+cl c,crossfade,400
+` Cô nhìn tôi thẳng với đôi mắt thật thà.
+\
+` ……… Uh.@
+` Không công bằng.@
+` Xin lỗi hay không xin lỗi, việc sử dụng đôi mắt đó là bất công.@
+` …… Bất công thay cô có đôi mắt trong veo như vậy khi cô lại tự xưng mình là ma cà rồng[line=3]
+br
+` Tôi… um[line=3]@
+` Bị mắc kẹt không biết trả lời, tôi đưa ánh nhìn lên.
+\
+playstop
+` …… Huh?@
+br
+` …… Cái gì?@
+` Có điều kỳ quặc ở khoảng trống giữa những tòa nhà.@
+br
+` Chờ một chút. Cái đó là gì?@
+` Tôi đứng dậy và đi.@
+` Tôi đi đến giữa con hẻm, và cuối cùng tôi nhận ra nó là gì.
+\
+play "*6"
+` Một con chim màu xanh lam.@
+` Một con quạ, để chính xác hơn.@
+br
+` …… Một con quạ… màu xanh lam.@
+` Điều bất lợi tôi đã nhìn thấy hai đêm trước[line=3]
+\
+ld c,"tachi/ark_t07",crossfade,400
+` [line=3]Ôi trời…@
+` Cô gái thì thầm.@
+br
+` Con quạ chỉ nhìn chúng ta.@
+br
+` "Chậc, nhờ cậu chậm chạp nên hắn đã tìm đến chúng ta."@
+` Cô bé nhìn vào lối vào hẻm.@
+` “Đã tìm thấy chúng ta?” Ai?”`@
+cl c,notrans,0
+` Tôi liếc nhìn lối vào hẻm.@
+br
+` [line=5]Rồi.
+\
+` [line=5]" !"@
+` Tôi lùi lại một bước vì ngạc nhiên.`@
+` Trước khi tôi nhận ra, một con chó đã xuất hiện trên lối nhỏ dẫn vào hẻm.@
+bg #000000,crossfade,800
+ld c,"tachi/kemo_t01",crossfade,400
+` Nó có bốn chân cứng cáp và cổ căng như khung thép.`@
+` Hình dạng đó, xa rời hình dáng của con người, chỉ được tạo ra để săn mồi.`
+\
+` …… Không cần phải dùng lời nói để uy hiếp.`@
+` Hầu hết con người sẽ lo lắng chỉ bằng việc nhìn thấy loại quái vật “ săn mồi” ấy.@
+` Như một sinh vật sống khác, nó khiến người ta kinh ngạc bởi khả năng thể thao vượt trội đến đáng sợ.`
+\
+bg "bg/bg_31a",crossfade,800
+` “…… Một con chó đen?”`@
+br
+` [line=3]Tôi bắt đầu run bần bật.`@
+br
+` ……Con chó đen nhìn chúng ta không nhỏ như một con chó rải rác.`@
+` Nó to như một chó săn Đức hay một chó Doberman, chỉ đứng đó, uy hiếp chúng ta.`
+\
+ld c,"tachi/ark_t05c",crossfade,400
+` ………`@
+` Cô bé im lặng, nhưng nhìn chú chó với ánh mắt thờ ơ.`@
+cl c,notrans,0
+\
+` Rồi...
+` Bỗng nhiên, con chó đen nhảy lên.@
+` Không, nó đang chạy, nhưng với tốc độ như thể nó đang nhảy.@
+br
+` [line=6]Ê?@
+br
+` Tôi không làm gì được.@
+` Con chó đen lao thẳng vào cổ tôi.
+\
+` Tôi nhìn thấy nó.@
+` Tôi nhìn thấy cơ thể đen của nó chuyển động về phía tôi, nhưng tôi thậm chí không có thời gian để nghĩ đến việc né tránh nó.
+\
+bg #000000,notrans,0
+[line=4] Sự rung chuyển mạnh độ 4.1 trên thang đo Richter.
+` Đùng!@
+br
+` Tôi cảm thấy một cú sốc vào cơ thể.@
+` Guh[line=5]!@
+` Tôi bị đánh mạnh từ bên cạnh.@
+` Không phải con chó đen.@
+br
+` Dường như cô gái đã đẩy tôi trước khi nó có thể nghiền nát cổ họng của tôi.@
+` Với một động tác dễ dàng, giống như ai đó đang ném một quả bóng, cô ta ném tôi vào tường chỉ bằng một tay.
+\
+wave se_05
+` [line=5]!@
+` Với tiếng 'bịch' kinh khủng, tôi ngã xuống sau lưng.@
+bg "bg/bg_31a",notrans,0
+` Tại sao… cô! Cô đang làm cái gì!?@
+` Đừng để ý đến chuyện đó, giữ mắt nhìn về phía trước!@
+` Cô gái hét lên.@
+` Tôi nhìn thấy[line=3]Mất tầm nhìn tôi, mục tiêu của nó, con chó đen nhảy về phía tường.@
+` Như một con tắc kè bám vào tường, nó nhảy lên lần nữa.@
+` Nó bật từ tường về phía tôi.@
+` Con đường của con chó giống như sét đen.
+\
+ld c,"tachi/kemo_t02",notrans,0
+` [line=3]!@
+` Quá nhanh; tôi không thể phản ứng.@
+` Con chó đen mở miệng, đầy răng và nước bọt.[line=4] Lần này, nó cắn vào cổ họng của tôi
+\
+` Kuh……!@
+bg #000000,notrans,0
+` Tôi nhắm mắt lại.@
+` Răng con chó chìm vào cổ họng tôi.@
+` Nhưng trong khoảnh khắc đó,
+` con chó la lên và buông tôi ra.
+\
+bg "bg/bg_31a",notrans,0
+` Eh[line=3]?@
+br
+` [line=3]Điều đó… không thể.@
+br
+` Con chó đen la lên và nhảy thẳng lên.@
+` Không có gì ở đó, nhưng bất chấp nó bay cao vào bầu trời một mình.@
+` [line=3]Chỉ như vậycon chó đen, sau khi đi vài mét lên trời, la lên và rơi xuống bê tông.@
+br
+` Không, có lẽ chính xác hơn là nó bị đập vào bê tông.
+\
+playstop
+` [line=4]Đó là gì?@
+ld c,"tachi/ark_t07",crossfade,400
+` Geez, bạn vừa khiến tôi lãng phí thêm năng lượng của mình.@
+cl c,crossfade,400
+` Cô bé tiến lại gần con chó đen một cách lặng lẽ.@
+` Nó bị dẹt bẹp trên bê tông như bông hoa bị ép nát.
+\
+` [line=3]"Chà, đây là một giống chó lạ thật đấy. …… Tôi đoán nó là một loại trinh sát."@
+` Con chó đen hóa thành thứ gì đó như chất nhựa đường và bị hấp thụ vào bê tông.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` …… Nó tan chảy… không, có lẽ nó chỉ đang tan ra. [line=4]Không thể chứ? Không thể nào Chaos lại ở một nơi như thế này được.@
+` Thở dài một hơi thật dài, cô tiến lại gần tôi.
+\
+play "*1"
+ld c,"tachi/ark_t03",crossfade,400
+` "Ồ? Bạn không bị thương, vậy nên không có vấn đề gì đâu."@
+` …… Cô đang mumbling điều gì đó.@
+` Cổ họng[line=3]Tôi vẫn cảm thấy chiếc răng của con chó chìm vào nó.
+\
+` "Ê[line=3]đó là thứ gì?"@
+` "Con vật nuôi của một ma cà rồng thù địch. Chúng ta bị phát hiện vì bạn không rõ ràng."@
+` "Phát hiện[line=3]nghĩa là… bởi ma cà rồng thù địch mà bạn đã đề cập?"@
+ld c,"tachi/ark_t01a",crossfade,400
+` "Ừ, đây không tốt. Có vẻ như tôi thực sự sẽ cần bạn như một tấm khiên bây giờ."@
+` Cô nói nó một cách vô tư và với nụ cười.
+\
+` "S[line=3]dừng nói những điều điên rồ như vậy, kẻ ngốc! Bạn đã nhìn thấy tôi! Bạn nghĩ tôi có thể làm gì!? Bạn tốt hơn hết là ở một mình…!"@
+` "Không thực sự. Với sức mạnh mà tôi vừa sử dụng để bảo vệ bạn, tôi thực sự trống rỗng bây giờ."@
+` "Hả[line=3]!?"@
+` Điều gì thế?@
+` Tôi biết ơn cô đã giúp tôi ngay lúc đó, nhưng vẫn[line=3]
+` "…… Tôi không thể làm được.@ Tôi không thể.@ Tôi không có sức mạnh để đuổi đi thứ như thế.@ Xin lỗi, nhưng tôi thậm chí không thể là một tấm khiên."
+\
+ld c,"tachi/ark_t02",crossfade,400
+` [line=4]Ngụy biện. Bạn đã giết tôi. Tại sao lại nói dối sau khi làm điều như vậy?@
+` Đó là[line=3]@
+br
+` Điều đó là thứ mà ngay cả bản thân tôi cũng không hiểu.@
+br
+` [line=3]Không. Hãy nhìn đây, tôi không thể làm được. Tôi chỉ là một con người bình thường. Tôi không thể giúp bạn.@
+ld c,"tachi/ark_t04",crossfade,400
+` …… Không phải vậy.@ Tất cả những gì bạn cần làm là canh giữ khi tôi ngủ, đó là tất cả.@ Bạn có thể làm được điều đó mà không gặp bất kỳ vấn đề nào, đúng không?
+\
+` Đó là[line=3]@
+cl c,notrans,0
+br
+` Cô ấy nhìn thẳng vào tôi.@
+` …… Bỗng dưng đôi mắt đó khiến tôi yếu đi.@
+` Tôi[line=3]
+\

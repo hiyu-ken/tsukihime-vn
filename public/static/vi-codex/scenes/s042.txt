@@ -1,0 +1,18 @@
+bg #000000,notrans,0
+playstop
+` Bữa tối diễn ra với tôi và Akiha đối diện nhau.@
+` Tôi đoán đây là điều tự nhiên ở đây, vì Hisui và Kohaku-san không ăn cùng chúng ta, đứng sau lưng chúng ta để phục vụ chúng ta.@
+` …… Tôi nghĩ rằng tất cả chúng ta nên ăn cùng nhau thì sẽ tự nhiên hơn, vì vậy có thể nói tôi bị bất ngờ bởi bữa tối kỳ lạ này.
+\
+` Tôi nên đề cập ở đây rằng tôi đã hoàn toàn quên mọi thứ liên quan đến phép lịch sự khi dùng bữa.@
+` Ừm, tôi nhớ một vài mảnh vụn nhỏ thôi, nên không phải là người mới hoàn toàn, nhưng con người thường gom những ký ức không sử dụng vào góc khuất của tâm trí.
+\
+` Cảm giác căng thẳng thực sự khá thú vị, mỗi cử động của tôi đều khiến Akiha cau mày.@
+br
+` …… Khi nghĩ về việc mình phải trải qua điều này mỗi ngày, thì thật sự rất buồn.
+\
+bg "bg/bg_40c",crossfade,800
+` Hoàn thành bữa tối, tôi trở lại phòng của mình.@
+` Mới chỉ vừa qua tám giờ tối thôi.@
+` Còn sớm để ngủ nên tôi nên làm gì?
+\

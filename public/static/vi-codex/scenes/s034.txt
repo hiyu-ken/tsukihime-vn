@@ -1,0 +1,90 @@
+play "*3"
+bg "bg/bg_09b",notrans,0
+ld c,"tachi/cel_t08",crossfade,400
+` "Eh? À, ừm, tôi chỉ hơi ngạc nhiên về sự bình tĩnh của bạn đối với tất cả những điều này, Tohno-kun."@
+` "Thật vậy? Chà, gia đình tôi rất nghiêm khắc, vì vậy tôi quen với những chuyện như thế này. Quan trọng hơn, Senpai, anh có muốn nói chuyện gì với tôi không?"@
+` "Tôi có. Tiếp tục cuộc trò chuyện của chúng ta vào bữa trưa."@
+` "…… Chúng ta đang nói về bữa trưa… anh có muốn nói về gia đình tôi không?"@
+` Senpai gật đầu để xác nhận.
+\
+ld c,"tachi/cel_t02",crossfade,400
+` "Nếu bạn không phiền, tôi muốn nghe thêm. Tôi tò mò về nó kể từ khi chúng ta dừng lại giữa chừng."@
+` "…… Không phải là tôi phiền đâu, nhưng việc nghe về gia đình tôi không mấy thú vị. Nó sẽ là một sự lãng phí thời gian."@
+ld c,"tachi/cel_t03",crossfade,400
+` "Tôi không phiền nếu nó không thú vị, tôi chỉ muốn nghe về nó."@
+` "…… Ừm, bạn thật kỳ quặc, Senpai."@
+` "Có lẽ vậy," Senpai cười.
+\
+playstop
+ld c,"tachi/cel_t01a",crossfade,400
+play "*2"
+` "Được rồi, vậy. Hãy tiếp tục từ trước. Anh nói rằng anh đã chuyển đến nhà của mình. Anh có nghĩa là gì?"@
+` Senpai hỏi, tràn đầy tò mò.@
+` …… Chắc chắn cuộc trò chuyện chiều nay phải khá rời rạc đối với Senpai, vì cô ấy không biết bất kỳ hoàn cảnh nào.
+\
+` [line=3] Hãy xem. Cơ bản, tôi là một người đàn ông đã bị ruồng bỏ.@
+` Tôi bị thương nặng sau khi dính vào tai nạn giao thông khi mới chín tuổi.@
+` Những vết thương tự nó dường như lành lại, nhưng sau đó, tôi dễ dàng kiệt sức vì thiếu máu và nôn ra thức ăn của mình. Đó là lý do tại sao tôi được giao phó cho họ hàng của mình, gia đình Arima, trong khi đang hồi phục."@
+ld c,"tachi/cel_t07a",crossfade,400
+` "À, nghĩa là gia đình Arima đã là cha mẹ nuôi bạn từ năm chín tuổi, đúng không?"
+\
+` Đúng thế. Tôi biết cha tôi ghét tôi vì một lý do nào đó và khi tôi được giao cho gia đình Arima, tôi sẽ không bao giờ trở về nhà…… Trở về dinh Tohno, đó là. Vì vậy, tôi nghĩ rằng mình sẽ cứ sống như con trai của gia đình Arima mãi mãi.@
+` Tôi nghĩ thế, nhưng cha tôi đã chết gần đây. Đó là lúc họ bảo tôi quay trở lại dinh thự, bây giờ cha tôi đã không còn nữa, và cuối cùng tôi cũng đồng ý.@
+br
+` [line=3]Và đó, cơ bản là hoàn cảnh gia đình của tôi.@
+br
+` Tôi kết thúc câu chuyện như vậy.@
+` Ciel-senpai gật nhẹ im lặng.
+\
+` …… Tôi có thể hỏi một điều không?@
+` Mm? Chắc chắn rồi, nếu tôi có thể trả lời. Hãy nói đi.@
+` …… Được rồi, tôi sẽ hỏi. Bạn có ghét gia đình cũ của mình không?@
+br
+` Gia đình cũ của tôi[line=3] Gia đình Arima đã nuôi tôi như cha mẹ?@
+` Mẹ và bố tôi không phải là người thật sự của tôi,
+` và ngôi nhà xa lạ mà chắc chắn là nơi ở của những người xa lạ.@
+` Nhưng bất kể điều đó[line=3]
+\
+` “Không, tôi thích họ.@ Họ là những người không quan tâm đến việc tôi không có quan hệ máu mủ với họ.@ Họ đối xử với tôi rất tốt đến nỗi tôi cảm thấy xấu hổ vì tự mình buồn bã.@ Và để họ yêu thương tôi bất kể điều gì…… Tôi nghĩ đó không phải là điều tồi tệ.”
+\
+` [line=3]Tôi được những người này yêu thương.@
+br
+` Vì vậy, sớm thôi, ngay cả một ngày sớm hơn,
+` tôi phải thực sự trở thành gia đình của họ[line=3]
+\
+` Tôi đã tự nhủ những lời đó từ khi còn nhỏ.@
+` …… Từ rất, rất lâu trước đây.@
+` Lặp đi lặp lại, tôi thề, cho đến khi tôi gần như kiệt sức.
+\
+` …… Tương tự như Arihiko nói, tôi không có một lời phàn nàn nào về gia đình Arima.@
+` Họ đối xử tốt với tôi, và tôi nghĩ tôi cũng đáp lại tình cảm của họ.`@
+` Giữa chúng ta, dù tôi biết chúng ta chỉ đang giả vờ như gia đình, dù tất cả chỉ là một màn diễn, tôi vẫn không cảm thấy đau.`@
+` Không, tôi vui thay.@
+` Một cách nào đó, tôi đã coi gia đình của bố mẹ Arima và tôi là một gia đình hạt nhân lý tưởng.`
+\
+` [line=3]"Nhưng nó chẳng ích lợi gì đâu nhỉ?"@
+` ……"Vâng.  Mặc dù mọi thứ, vẫn có một ranh giới tôi không vượt qua được. "Đây không phải là gia đình thật của cậu……" Dù làm gì đi nữa, tôi cũng không thể nào đẩy những lời đó ra khỏi đầu.`@
+` Tôi biết mình nên phớt lờ nó, nhưng tôi lại không thể làm được.@
+` Tôi không biết liệu có nên gọi đó là trải nghiệm thời thơ ấu hay không, nhưng nó đã trở nên giống như một lời nguyền với tôi. Bất cứ nơi đâu tôi đến, tôi đều cảm thấy mình là người xa lạ với gia đình.`@
+ld c,"tachi/cel_t09",crossfade,400
+` Anh trai im lặng.`@
+` Tránh nhìn tôi, cô nép vai lại một cách đầy ăn năn.
+\
+` Vậy đó chứ?  Thật nhàm chán phải không? Tôi đã nói trước rồi mà, nó lãng phí thời gian đấy.`@
+ld c,"tachi/cel_t03",crossfade,400
+` “Không, điều đó không đúng. Đó là một câu chuyện rất có ý nghĩa.”`@
+` Anh cố mỉm cười để dẹp chuyện đi.@
+ld c,"tachi/cel_t02",crossfade,400
+` Nhưng nó hơi bất ngờ, bởi tôi nghĩ cậu là người dễ tính.`
+\
+` "Ừm…… nói chung tôi là người khá dễ tính. Tôi sống theo quan điểm tận hưởng hiện tại càng nhiều càng tốt. Người ta hạnh phúc hơn khi tận hưởng những gì sắp tới thay vì lo lắng về quá khứ, phải không?"`@
+` Thực ra, đó là ý kiến tôi thừa hưởng từ Arihiko.`@
+ld c,"tachi/cel_t04",crossfade,400
+` "Thích cái sắp tới à? Nghe hay đấy."@
+` Anh trai nâng tách trà lên với nụ cười rất nhẹ nhàng.`@
+cl a,lshutter,400
+` Tôi noi gương anh trai và đặt môi lên chén.`@
+` Với một cái gụm, ly trà đắng trôi xuống cổ họng tôi, mang theo chút ngọt ngào.
+\
+bg #000000,lcartain,800
+playstop

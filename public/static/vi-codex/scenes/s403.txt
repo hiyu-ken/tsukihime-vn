@@ -1,0 +1,36 @@
+playstop
+wavestop
+bg "bg/bg_40a",notrans,0
+`"………`@
+` Tôi không biết phải nói gì.@
+` Dù tôi chỉ tốt hơn một chút so với ngày hôm qua, nhưng ít nhất giờ đây tôi cảm thấy mình đang sống.@
+` Nhưng sau khi khiến Hisui làm điều đó, [line=3]khi buộc cô ấy uống hết, có lẽ tốt hơn là tôi nên ở lại như vậy.
+\
+ld c,"tachi/his_t21",crossfade,400
+`"[line=6]"@
+` Hisui chỉnh lại trang phục và rời khỏi giường.@
+`"... Hisui... Tôi..."@
+`"Thưa Ngài Shiki. Xin đừng nói với ai về chuyện này. ... Tôi không muốn ngài kể cho chính bản thân mình nghe điều này nữa."@
+`"[line=3]"@
+` ... Dĩ nhiên, Hisui nhất định ghét những gì cô ấy vừa làm đến mức không muốn bị nhắc nhở về nó.@
+`"Thưa Ngài Shiki, đây là việc tôi tự mình làm. Xin ngài hãy nghĩ rằng chẳng có chuyện gì xảy ra. Nếu không, tôi sẽ không thể phục vụ ngài được nữa."
+\
+`"[line=7]"@
+` Tôi không biết phải phản ứng thế nào.@
+` Tôi không có lời để xin lỗi cô ấy, và cũng không có lời để cảm ơn cô ấy.@
+`"Vậy thì, xin ngài hãy tha thứ cho tôi."@
+cl c,lshutter,800
+`"A..." @
+` Hisui rời đi. @
+` Tất cả những gì tôi có thể làm là nhìn cô ấy ra đi.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40a",crossfade,800
+` ... Đã hai giờ rồi. @
+` Mặc dù đã đến giờ kiểm tra, Hisui có lẽ sẽ không đến. @
+` "... *thở dài*" @
+` Tôi chỉ có thể thở dài. @
+` Làm thế nào mọi chuyện lại diễn ra như vậy? @
+` Ngay cả khi Hisui là người bắt đầu tất cả chuyện này, tôi đang làm gì bằng cách giữ chặt đầu cô ấy và... như vậy?
+\

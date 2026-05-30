@@ -1,0 +1,81 @@
+playstop
+wavestop
+monocro #ff0000
+bg "bg/bg_54d",notrans,0
+`"[line=9]... hộc..."@
+` Tôi thở hắt ra một hơi dài.@
+br
+wavestop
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_54d",crossfade,400
+` Sau khi tự trấn tĩnh lại,
+` cuối cùng tôi dẫu dã kiểm soát được nhịp thở.@
+` Tầm nhìn nhuốm đỏ dần trở lại bình thường.@
+` Thêm một nhịp thở sâu đầy nhẹ nhõm.@
+` Tôi tịnh không tin những lời SHIKI nói.@
+` Tôi sẽ tịnh không bao giờ sát hại Akiha, và cũng tịnh không thể giết một ai đó chỉ vì họ mang trong mình dòng máu dị chủng.
+\
+bg #000000,crossfade,400
+monocro #ff0000
+bg "event/aki_e03",crossfade,400
+monocro off
+bg "bg/bg_54d",crossfade,400
+`"... ..."@
+` Mọi chuyện đã khác rồi.@
+` Thời khắc này dẫu dã hoàn toàn khác so với quá khứ.@
+` Tôi tịnh không giống như SHIKI.@
+` Tôi có thể tự làm chủ hành động bằng chính lý trí và ý chí của mình.@
+` Mùi máu tanh nồng nặc sực lên.@
+` Nó gợi lại những ký ức kinh hoàng năm xưa, khiến tôi không khỏi run sợ.
+\
+`"[line=6]Thật đáng sợ..."@
+` Tay phải tôi vẫn nắm chặt con dao găm.@
+` Tôi dùng bàn tay trái trần trụi lau sạch vết máu loang lổ trên ngực.@
+br
+` [line=3]Sau đó, mùi máu tanh dần dần tiêu tán.@
+br
+`"[line=5]SHIKI...!"@
+` Dưới màn đêm tăm tối, vệt máu đỏ tươi tựa như đang soi tỏ lối đi.@
+` Tôi hít một hơi thật sâu và bám theo vết máu của SHIKI.
+\
+bg #000000,lshutter,800
+bg "bg/bg_53b",lshutter,800
+play "*6"
+` Đây dẫu dã là điểm dừng chân cuối cùng.
+\
+`"[line=8]... hộc..."@
+` ...Liệu đây chỉ là sự trùng hợp hay dẫu dã là ý trời sắp đặt?@
+` Nơi của tám năm về trước.@
+` Chúng tôi lại một lần nữa tử chiến tại chính nơi SHIKI đã suýt cướp đi mạng sống của tôi năm nào.
+\
+`"…… Hừ, rốt cuộc cậu dẫu dã chịu mò tới đây rồi sao."@
+` SHIKI đang ngồi tựa bên bìa rừng nhỏ, cơ thể rã rời gần như không chạm đất.@
+` Ngay cả lúc này, cảm giác rợn ngợp vẫn giống hệt như năm xưa.@
+`"……"@
+` Tôi nắm chặt dao găm, từng bước áp sát hắn.@
+` Dưới chân tôi là một bãi dịch trơn trượt.@
+` Máu của SHIKI vẫn không ngừng tuôn rơi; bãi dịch dưới chân hoàn toàn là máu của hắn.@
+` Tiếng bước chân đạp nước bì bõm vang lên.@
+` Mỗi bước chân tôi tiến lại gần, tiếng máu bắn tung tóe lại vang vọng u uất.@
+` Thật đáng kinh ngạc khi hắn dẫu dã có thể sống sót sau khi mất lượng máu khổng lồ đến vậy.@
+` Mặt đất tựa như biến thành một hồ máu khổng lồ.
+\
+wave se_01
+`"Gư... ư……"@
+` Thế nhưng, bản thân tôi dẫu dã chạm tới giới hạn chịu đựng.@
+` Nếu còn chần chừ thêm nữa, tôi chắc chắn sẽ rơi vào thế bất lợi.@
+` Đây là cơ hội duy nhất để kết liễu hắn, khi hắn đang trọng thương đầy mình.@
+`"[line=8]Khốn kiếp……!"@
+` Tôi lao vút về phía trước.@
+`"[line=5]Chờ đã! Ta vẫn còn một chuyện chưa kể cho cậu đấy. Cậu tịnh không thể đợi ở đó một chút sao, Shiki?"@
+`"[line=11]……"
+\
+`"Đừng nhìn ta bằng ánh mắt đó. Chuyện này dẫu dã có lợi cho cậu đấy chứ. Bởi vì nó liên quan trực tiếp đến Akiha. Có một cách để cứu cô ấy thoát khỏi nghịch cảnh đấy."@
+`"[line=7]Cái... cái gì cơ……?"
+\
+` Tại khoảnh khắc đó,
+` lý trí còn lại của tôi ngăn chân tôi lại.@
+` Nhưng, cơ thể tôi đang thúc giục tôi tiến lên và giết hắn ngay bây giờ.@
+` [line=6]Tôi... 
+\

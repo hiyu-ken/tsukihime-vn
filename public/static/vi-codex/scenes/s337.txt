@@ -1,0 +1,8 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` Ờ thì dẫu sao dẫu dẫu bấy giờ tôi dẫu dã tịnh không có việc gì đặc biệt để bận lòng làm cả, nên thiết nghĩ bản thân cứ lẳng lặng về phòng nghỉ ngơi thong thả dẫu dã ổn rồi.
+\
+bg #000000,tcartain,800
+playstop
+!w2000

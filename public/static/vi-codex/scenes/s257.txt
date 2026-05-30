@@ -1,0 +1,75 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_29b",notrans,0
+` [line=3]Tôi thực sự cảm thấy thế nào ư?@
+` Đúng là Senpai bấy lâu nay vẫn luôn là một người vô cùng quan trọng đối với tôi.@ Cho dù thân phận thực sự của chị ấy có là ai đi chăng nữa, thì khoảng thời gian hai chị em cùng trải qua dưới mái trường vẫn luôn là những ký ức vô cùng quý giá mà tôi trân quý.@
+br
+` Nhưng mà, cho dù có thế đi chăng nữa[line=6]đối với tôi, Senpai vẫn mãi là người chị Senpai đáng kính bấy lâu nay.@
+` Bất kể là bạn hay thù, là nam hay nữ, gạt bỏ tất cả đống thân phận phức tạp đó sang một bên, sâu thẳm lòng tôi vẫn luôn mặc định chị ấy là một người đàn chị vô cùng đáng tin cậy.
+\
+`"………………"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Kìa cậu!@ Đừng có dùng sự im lặng để trốn tránh câu hỏi của tôi chứ hả."@
+` Arcueid vẫn tiếp tục trừng mắt nhìn tôi đầy giận dữ.@
+` …… Mà nghĩ lại thì, bất kể Senpai có là đặc vụ trừ tà đáng sợ thế nào đi chăng nữa, thì cái người trước mặt tôi lúc này đây còn đáng sợ hơn gấp trăm vạn lần.@
+` Mải vui đùa bên em ấy suốt hai ngày qua khiến tôi vô tình quên mất một sự thật đáng sợ rằng em ấy là ma ca rồng chân chính, một thực thể siêu nhiên hoàn toàn không có khái niệm đạo đức nhân loại thông thường.
+\
+` [line=4]Thế nhưng, trái tim tôi bấy giờ thực sự vẫn bị cuốn hút mạnh mẽ bởi em ấy.@
+br
+` Ngay cả đêm nay cũng vậy, tôi đã điên cuồng chạy ngược chạy xuôi khắp thị trấn chỉ để tìm gặp bằng được em ấy, rồi bực dọc bồn chồn khôn tả mỗi khi không thấy bóng dáng em ấy đâu.@
+` Cái cảm xúc lo lắng cuồn cuộn đó…… rõ ràng hệt như nỗi lo âu thầm kín dành cho người con gái mà mình hết lòng thương yêu vậy.
+\
+`"Shiki, tôi gặng hỏi cậu một lần cuối cùng đấy.@ Rốt cuộc cậu đứng về phía phe nào hả, tôi hay là người phụ nữ đó đây?"@
+` Arcueid bực dọc nheo mắt nhìn tôi đầy sát khí.
+\
+`"…… Này em, chuyện đó chẳng phải đã quá rõ ràng rồi sao?@ Anh bấy giờ vẫn đang đứng yên ở đây bên cạnh em cơ mà.@ Nếu anh đứng về phía Senpai, thì anh đã lập tức đuể theo để bảo vệ chị ấy rồi."@
+ld c,"tachi/ark_t03",crossfade,400
+`"[line=3]Ưm, ý cậu bảo thế nghĩa là…… cậu muốn nói cái gì cơ?"@
+` Arcueid khẽ nghiêng đầu thắc mắc nhìn tôi đầy vẻ dò hỏi.
+\
+`"Ý anh muốn nói cái gì ư?"@
+br
+` [line=3]Tại sao em ấy lại không thể thấu hiểu nổi một câu nói ẩn ý đơn giản như thế cơ chứ?@
+` Cứ cái đà này, xem ra nếu tôi không trực tiếp mở miệng nói thẳng tuột ra, em ấy sẽ chẳng bao giờ chịu hiểu nổi đâu.
+\
+`"Em quả thực là ngốc nghếch quá đi mất.@ Anh bảo anh vẫn quyết định đứng yên ở đây bên cạnh em bấy giờ nghĩa là[line=4]"@
+br
+` Nghĩa là cái gì cơ?@
+` Việc trái tim tôi bấy giờ đã hoàn toàn bị em ấy hút hồn là một sự thật trần trụi không thể nào chối cãi.@
+` Nhưng tôi thừa biết rõ đó là thứ tuyệt đối mình không được phép mở miệng nói ra thành lời.@
+` Cho dù em ấy có đáng yêu và kiều diễm đến nhường nào đi chăng nữa, thì điều đó vẫn không thể thay đổi một sự thật đáng sợ rằng em ấy chính là ma ca rồng.
+\
+ld c,"tachi/ark_t04",crossfade,400
+`"Cậu lại bỗng nhiên im lặng nữa rồi, rốt cuộc cậu đang định nói cái gì thế hả?@ Nếu cậu kiên quyết muốn đứng về phe Ciel, thì cứ việc nói thẳng ra đi!"@
+`"Anh, anh đã bảo là không phải như thế rồi cơ mà!@ Anh đã ra sức giải thích thế rồi, tại sao em lại cứng đầu không chịu hiểu thế hả……!?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Làm sao tôi biết được chứ!"@
+` Bị tôi quát một tiếng vô lý, em ấy cũng bực dọc quát lớn ngược lại tôi một cách vô lý đầy dỗi hờn.
+\
+`"Được rồi!@ Vậy thì từ giờ tôi thèm vào bận tâm đến cậu nữa, Shiki!"@
+cl c,lshutter,400
+`"Này, khoan đã.@ Em định đi đâu thế hả?"@
+`"Chẳng liên quan gì đến cậu cả.@ Đừng có bám đuôi theo tôi!"@
+` Xem ra em ấy thực sự đang nổi giận lôi đình rồi.@ Arcueid dứt khoát rảo bước đi thẳng mà không thèm quay đầu lại nhìn tôi lấy một lần.
+\
+`"Cái gì cơ……[line=5]"@
+` Tôi đứng thẫn thờ đờ đẫn một mình giữa ngôi công viên hoang vắng vì quá đỗi ngỡ ngàng.@
+` …… Arcueid bực dọc giận dỗi bỏ đi một mình, và tôi cũng đã hỏi được những điều mình cần biết từ em ấy rồi, thế nên lý trí tự nhủ tôi nên lập tức quay về biệt thự đi thôi.@
+br
+` …… Thế nhưng, đôi chân tôi bấy giờ lại cứng đờ, chẳng thể nào nhấc nổi dù chỉ một bước đi ngược lại.
+\
+` Lý trí mách bảo con đường đúng đắn tôi phải đi về, nhưng con tim bấy giờ lại nhất quyết không chịu lắng nghe theo lời sai khiến.
+\
+` [line=3]Dẫu cho người đời có lặp đi lặp lại chuyện đó cả vạn lần đi chăng nữa, nhưng.@
+` Cảm xúc yêu ghét mãnh liệt của con người, thực chất hoàn toàn chẳng tuân theo bất kỳ một thứ lý trí logic nào cả.
+\
+`"[line=5]Mẹ kiếp, thật là bực mình quá đi mất!"@
+br
+` Khốn kiếp thật chứ.@ Tại sao bản thân mình lại chẳng thể nào nhẫn tâm bỏ mặc Arcueid một mình như thế được cơ chứ……!?@
+br
+`"Arcueid!@ Anh bảo em đứng lại chờ chút đã!"@
+` Hét lớn lên một tiếng, tôi điên cuồng chạy đuổi theo bóng dáng Arcueid đang rảo bước phía trước.
+\
+playstop
+bg #000000,lcartain,800

@@ -1,0 +1,248 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+!w2000
+bg "bg/bg_23a",lcartain,800
+` Tôi bắt đầu đi bộ từ căn biệt thự trên đồi xuống trường học.@
+` Như một ngày bình thường khác, buổi sáng yên bình bao trùm.@
+br
+` Mùa thu sắp kết thúc, mùa đông đang đến gần.@
+` Có lẽ khi mùa chuyển giữa cái nóng của mùa hè và cái lạnh của mùa đông,
+` có lẽ cảm giác trong suốt này cũng sẽ thay đổi.
+\
+bg "bg/bg_24a",lcartain,800
+` Tôi nhìn thấy nhiều học sinh mặc đồng phục càng đến gần trường.@
+` Hôm nay là thứ Bảy nên hầu hết họ đều mỉm cười khi đi trên con đường này.@
+` Sau khi qua ngã tư này, tôi sẽ đến cổng trường.@
+` Đã một tháng kể từ khi tôi trở về biệt thự Tohno.@
+` Tôi đã nhanh chóng làm quen với con đường này rồi.@
+br
+` đèn giao thông chuyển sang đỏ, tôi đứng trước vạch dừng.@
+br
+`"...@
+` Mỗi lần dừng lại ở đây, tôi lại nhớ lại.
+\
+` Lần đó.@
+` Tại ngã tư này, Arcueid đang chờ Tohno Shiki ngày xưa, cô ấy ngồi trên lan can, giống như bây giờ vậy.@
+br
+`"[line=5]Ồ?"@
+br
+` Tôi nói mà không cần suy nghĩ.@
+` Giữa dòng xe cộ lao vun vút, một cảnh tượng mở ra giống như trước đây.
+\
+bg #000000,lshutter,800
+bg "event/ark_e02",lshutter,800
+`"[line=5]Chuyện này...?"@
+` Cô ấy xuất hiện.
+\
+` Mặc trang phục trắng, mái tóc vàng buông xuống vai.@
+` Mày dài, mắt đỏ đậm.@
+` [line=3]Hình dạng của cô ấy tôi không thể nhầm lẫn với ai khác dù thế nào. Hình ảnh mà đã biến mất từ lâu rồi.
+\
+`"[line=8]"@
+` Đèn chuyển sang màu xanh lá cây.@
+` Các học sinh xung quanh tôi bắt đầu di chuyển.@
+` Trong giữa nó.@
+` Tôi là người duy nhất đứng yên và cô ấy là người duy nhất nhận ra tôi ở đây.
+\
+bg "bg/bg_24a",lshutter,800
+play "*3"
+` Cô ấy mỉm cười như thường lệ khi băng qua ngã tư.@
+`"[line=6]"@
+` Tôi không thể nói được.@
+` Tôi quá xúc động đến mức không biết phải làm gì.@
+br
+` [line=3]Ngay cả khi, đây chỉ là một ảo ảnh xấu,
+` tôi vẫn vô cùng hạnh phúc khi được nhìn thấy cô ấy một lần nữa, đến mức muốn khóc.
+\
+ld c,"tachi/ark_t01a",lshutter,800
+`"Chào. Bạn đang đi học, phải không, Học sinh-san?"@
+` ... Tôi không thể tin được điều này.@
+` Ảo ảnh thậm chí còn tái hiện chính xác giọng nói của cô ấy.@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Shiki? Này, sao bạn im lặng thế? Đừng nói là bạn đã quên tôi nhé?"@
+` Đôi mắt đỏ nhìn lên tôi...
+` ... Không thể nào tôi có thể quên được.@
+` Nhưng, đồng thời, không có cách nào để cô ấy có thể ở đây, còn sống.
+\
+`"[line=6]"@
+` Tôi không thể nói gì.@
+` Cô ấy nhăn mặt lại và nhìn tôi với ánh mắt giận dữ như một con mèo.@
+ld c,"tachi/ark_t16",crossfade,400
+`"Chúa ơi, chuyện gì đang xảy ra vậy? Tôi đã chịu đựng việc không được gặp cậu và chờ đợi ở đây suốt thời gian này. …… Cậu đừng nói là cậu tức giận, Shiki?"@
+`"[line=6]"@
+` …… Tôi chỉ không thể tin được điều này.@
+` Điều này không phải là ảo ảnh trước mặt tôi. Nó thực sự là [line=5]
+\
+`"…… Arcueid……?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"[line=6]Vâng, chính là tôi. Tôi thật sự vui mừng. Tôi lo lắng lắm khi nghĩ rằng cậu đã trở thành một người bất động sau khi chiến đấu với Roa. Tôi biết cậu sẽ ổn mà."@
+`"[line=4]"@
+br
+` [line=2]Chờ một phút.@
+br
+` "[line=4]Tôi quá bối rối, phải nói gì đây?@ Tôi nên vui mừng về điều gì?@ Có chuyện gì đó tôi cần làm không?"@
+` [line=4]Tôi thực sự chỉ quá bối rối đến mức không biết phải làm gì.
+\
+ld c,"tachi/ark_t11",crossfade,400
+`"Shiki...? Chờ đã, cậu đang làm gì vậy? Miệng cậu mở to như thế, và đôi mắt cũng vậy."@
+` "Vâng, nó khá thú vị với tôi nên tôi sẽ tiếp tục theo dõi."@
+`"[line=4]Arcueid."@
+`"Đó chính là ý tôi muốn nói. Ồ, cậu cứ lặp lại tên tôi như vậy. Chúng ta đã cuối cùng cũng gặp lại nhau, vậy sao cậu không tìm được câu nói phù hợp hơn?"
+\
+br
+` [line=4]"Không nhầm đâu, chỉ có một người duy nhất có thể nói những điều ngớ ngẩn như vậy."@
+` "…… Tại sao?"
+\
+`"Ừm? Tôi không nghe thấy, hãy nói to hơn một chút."@
+`"Cô ấy bảo tôi: "Đến rồi, đến rồi," và đưa tai gần hơn về phía tôi.@
+` "Tại sao cậu vẫn còn sống?!?"@
+`"[line=4]Sao lại thế này!?"@
+` Tôi hét lên và thể hiện cảm xúc của mình bằng giọng nói lớn nhất có thể.
+\
+ld c,"tachi/ark_t12",lshutter,400
+`"[line=4]Đừng hét to thế, Shiki."@
+`"Anh không được nói 'không quá to'! Tại sao anh vẫn sống...!"
+\
+`"[line=4][line=6]Tôi nghĩ rằng anh đã mất rồi, rằng tôi sẽ không bao giờ thấy anh, rằng tôi sẽ luôn..."@
+` hối tiếc. Nhưng tại sao?@
+` Nụ cười vui vẻ, như thể chúng ta chỉ nói lời tạm biệt hôm qua, làm sao cô ấy có thể chào tôi một cách đơn giản như vậy...!?
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"À, tôi hiểu rồi. Tôi chưa bao giờ nói với anh, Shiki."@
+` Arcueid gõ mạnh nắm tay còn lại vào bàn tay khác trong sự nhận thức.@
+`"…… Vâng, tôi chưa bao giờ nói với cậu lý do tại sao tôi lại theo đuổi Roa. Cậu ta đã đánh cắp một phần sức mạnh của tôi."@
+` "Để lấy lại nó, tôi đã truy đuổi cậu ấy nhưng cậu hoàn toàn tiêu diệt cậu ta, phải không? Và sức mạnh được giải phóng từ Roa đã quay trở lại tôi và tôi đã có thể sống lại."@
+`"[line=4]Anh chưa bao giờ kể cho tôi nghe điều đó đâu!"@
+`"Không, tôi không làm. Nó thực sự không liên quan đến bạn."@
+`"Ở [line=4]"@
+` [line=4]Bạn, tại sao lại thế?
+\
+`"Dù sao, tôi đã hồi sinh, nhưng tôi chỉ có thể chống lại một cách yếu ớt bản năng ma cà rồng bên trong mình."@
+` Tôi có lẽ sẽ làm điều khủng khiếp nếu đến gặp cậu, nên tôi ngủ cho đến khi lấy lại sức mạnh.@
+` "Vì thế nên tôi có thể trở lại bình thường, nhưng đã mất bảy ngày để kiềm chế bản năng của mình."
+\
+`"[line=4]Ừm... Vậy thì giờ cậu thực sự ổn rồi, Arcueid...?"@
+ld c,"tachi/ark_t09",crossfade,400
+`"Tất nhiên! Nếu không, tôi sẽ không ở đây đâu."@
+` Cô ấy mỉm cười đầy đủ với tôi.@
+` Arcueid nắm lấy tay tôi.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Biết không, Shiki. Trong khi tôi ngủ, tôi rất mong được gặp lại cậu như thế này.@
+` Nếu như vậy, chúng ta có thể cùng nhau đi khắp nơi và làm nhiều điều lắm."@
+` Tôi nghĩ rằng sẽ thật tuyệt nếu tôi hồi phục nhanh hơn, dù chỉ một chút thôi."@
+` Arcueid mỉm cười với tôi bằng nụ cười thuần khiết, không pha trộn.
+\
+`"[line=6]"@
+` Tôi không biết nói gì.@
+` [line=4]Không phải theo cách xấu; tôi chỉ... rất vui mừng.@
+` Được nhìn thấy nụ cười của cô ấy một lần nữa, tất cả những điều chúng ta có thể làm từ bây giờ,
+` và cách tôi đã nói với Senpai rằng ước muốn của tôi không bao giờ là để rời xa Arcueid một mình...
+` Không một người nào[line=4]không có ai trong số họ bị mất.
+\
+`"[line=6]"@
+` Có rất nhiều điều tôi muốn nói và kể cho cô ấy ngay bây giờ.@
+` Nhưng, lúc này tôi sẽ chỉ nói thật lòng từ trái tim mình.@
+br
+`"[line=4]Chào mừng trở lại.@ Tôi đã... chờ đợi rất lâu."@
+` Tôi nắm lấy tay cô ấy và nói với cô ấy điều đó một cách ngắn gọn.@
+` Cô ấy ban đầu có vẻ bối rối.@
+ld c,"tachi/ark_t14",crossfade,400
+`"... Vâng."@
+` Nói vậy, cô ấy nhìn đi nơi khác trong sự ngượng ngùng.
+\
+`"…… Arcueid?"@
+` Tôi gọi tên cô ấy.@
+` Sau một khoảnh khắc ngần ngại, cô ấy quay lại với nụ cười rạng rỡ.@
+ld c,"tachi/ark_t09",crossfade,400
+`"Vâng, tôi đã trở lại." Cô ấy nói, "Tôi vui vì em vẫn là chính mình, Shiki."@
+`"[line=6]"@
+` Lòng tôi bỗng chột vắt.@
+` Nếu không phải trên đường đến trường, tôi sẽ ôm và hôn cô ấy. Nụ cười của cô ấy quá đáng yêu.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Được rồi, đi thôi, Shiki. Em sẽ đưa tôi đến nhiều nơi, đúng không?"@
+cl c,lshutter,800
+` Arcueid buông tay tôi ra và nhảy nhót như một con thỏ.@
+` Cô ấy quá rạng rỡ đến mức tôi gần như không thể nhìn thẳng vào mắt cô.
+\
+`"Nhưng, ừm[line=4]nơi nào vậy?"@
+ld c,"tachi/ark_t08",crossfade,400
+`"Bất cứ nơi nào. Nơi cậu nghĩ là vui vẻ, Shiki."@
+` Nụ cười nhẹ nhàng, Arcueid trả lời như thể đó là điều bình thường.@
+` Nhưng điều đó lại khiến tôi hơi lo lắng.@
+`"À... ừm, tôi cũng có trường học mà."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Này. Cậu không thể dành ít nhất một ngày với tôi hôm nay được à?"@
+` Arcueid nhìn có vẻ không hài lòng.
+\
+`"…… Ừm."@
+` …… Rõ ràng, tôi rất yếu trước nụ cười của cô ấy.@
+` …… Này, ngay cả khi tôi đến trường với bộ dạng này, tôi cũng không thể tập trung ở đó, và hơn hết[line=4]tôi muốn ở bên Arcueid.
+\
+`"…… Ừm, đúng là như vậy."@ Ai quan tâm đến danh tiếng nhàm chán ấy?@
+` Được rồi, Arcueid.@ Tôi sẽ chiều theo tham vọng của cô hôm nay, hoàng tử nhỏ của tôi.@
+`"Vui quá!"@
+cl c,lshutter,800
+` Va chạm.@
+` Cô ấy đột nhiên áp thân vào người tôi.
+\
+bg #000000,lshutter,400
+bg "event/ark_f03",lshutter,400
+`"Này Shiki, tối đó, những gì cậu nói với Ciel, cảm xúc của cậu vẫn không thay đổi sao?"@
+` Cô ấy nhìn lên, đầy khẩn cầu khi hỏi.@
+`"[line=4]... Cảm xúc vào đêm đó - ý cậu là sao?"@
+`"Khi cậu nói rằng cậu yêu tôi."@
+`"[line=6]! ... "@
+` Tôi bắt đầu lúng túng.@
+` Quá xấu hổ, cô ấy mới gần gũi như vậy lại hỏi tôi câu này.
+\
+`"... À, tôi quên mất. Cậu không nên nghe lén, Arcueid."@
+`"Tôi không thể ngăn mình nghe lén được.@ Dù sao thì, đến đây, trả lời tôi đi.@ Những lời của cậu ấy đêm đó, chúng vẫn không thay đổi?"@
+br
+` [line=4]"Ngốc à."@
+` "Tôi thậm chí chẳng cần phải nói điều đó."@
+br
+`"... Vâng, chúng vẫn không thay đổi.@ Tôi không thể đảm bảo gì, nhưng có lẽ chúng sẽ không bao giờ thay đổi."@
+` "Tôi quá xấu hổ đến mức ngước nhìn bầu trời và trả lời."
+\
+` "Arcueid ôm lấy tay tôi."@
+`"Ồ.@ Rồi cậu nên chuẩn bị sẵn sàng, Shiki."@
+`"Chuẩn bị?@ Chuẩn bị cho điều gì?"@
+` Tôi không thể ngăn được một chút bất an lẩn vào giọng nói của mình.@
+` Cô ấy nắm chặt tay tôi và nói với nụ cười.
+\
+br
+br
+br
+br
+br
+`"Vì cô đã hứa sẽ ở bên tôi mãi mãi."@
+` Tôi có nói vậy khi chúng ta lần đầu gặp nhau?@
+` "Tôi sẽ để cô chịu trách nhiệm cho tôi."
+\
+` Rồi cô bắt đầu đi, vẫn nắm chặt tay tôi.
+\
+` Cô ấy tràn đầy năng lượng như một đứa trẻ nhỏ thúc giục tôi nhanh lên để đến khu vui chơi.@
+br
+`"[line=3]Ồ... Tôi hiểu rồi. Chắc chắn tôi sẽ phải chuẩn bị."@
+` Nói với ai đó không rõ ràng, tôi bắt đầu đi cùng cô ấy.
+\
+` Tôi tiến về một nơi ngẫu nhiên, ngược lại dòng học sinh đi học.@
+` Đến đâu?@
+` Nơi nào cũng có thể đến được mà.@
+` Ánh nắng mặt trời thực sự phù hợp với công chúa mặt trăng đi cùng tôi.
+\
+` [line=3]Thời tiết hoàn hảo là bầu trời xanh thẳm.@
+br
+` Tay trong tay, chúng ta bước tới một khởi đầu mới cho hai người.
+\
+playstop
+bg #ffffff,crossfade,800
+wait 4000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000
+gosub *ending

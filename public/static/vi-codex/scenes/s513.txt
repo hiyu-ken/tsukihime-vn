@@ -1,0 +1,29 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ... *thở dài*@
+` Tohno-kun, anh đã làm gì vậy?@
+` Tôi không nghĩ rằng anh sẽ đến lớp học kỳ lạ thứ ba, buổi "Động vật Đất Động" thứ hai.@
+br
+` [line=4]Vậy thì, Tohno-kun.@
+` Thật không may, tôi sẽ phải yêu cầu anh làm lại bài.@
+` Có vẻ như cậu chỉ lướt qua mỗi ngày mà không để ý đến Arcueid, Ciel-san, hay Akiha-san.
+\
+` Để nói thật, đây là phần quan trọng nhất của tuyến truyện Ciel-san.@
+` Nhưng việc cậu vẫn chết đi cho thấy cậu chưa nhận được một phép thuật từ một người nào đó.@
+` Bài học trong câu chuyện này là cậu nên chú ý nhiều hơn đến người thầy của mình ở trường!@
+br
+` Đầu tiên, đến phòng nghi thức trà sau giờ học.@
+` Thứ hai, cậu nên thành thật nhận ra những sai lầm mình đã mắc phải.@
+br
+` Nếu giữ những điều trên trong tâm trí, cậu sẽ không gặp vấn đề gì với kỳ thi.@
+` Đó là tất cả cho buổi học thứ ba.@
+` Hãy cố gắng nhiều hơn để không phải quay lại nơi này lần nữa nhé.
+\
+bg #000000,crossfade,800
+playstop

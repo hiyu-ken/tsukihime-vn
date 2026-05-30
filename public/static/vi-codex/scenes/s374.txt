@@ -1,0 +1,1669 @@
+[hình nền/hình nền_45c], l, aki, 11a, 11
+bg "bg/bg_33c",lcartain,800
+play "*1"
+` Nhường phần chăm sóc Akiha lại cho Kohaku-san, tôi bước xuống tầng một.@
+` Bản thân tôi dẫu dã tịnh không thể chữa trị cho vết thương của Akiha.@
+` Vì vậy, tôi chỉ muốn ra sức giúp đỡ em ấy theo một cách khác.
+\
+bg #000000,lshutter,400
+bg "bg/bg_41",lshutter,400
+` Nếu tôi lục tìm căn phòng của lão già Makihisa, biết đâu dẫu dã có thể tìm thấy thứ gì đó giúp ích cho em ấy.@
+` Lão ta dẫu dã là gia chủ của gia tộc Tohno kia mà.@
+` Lão ta hẳn phải ghi chép lại cách thức để kiềm chế phản ứng nghịch chủng của dòng máu Tohno.
+\
+bg #000000,tshutter,800
+!w1000
+bg "bg/bg_41",tshutter,800
+`"Đáng lẽ tôi không tìm thấy nó dễ dàng như vậy." [line=7]@
+` Tôi ngồi thụp xuống ghế, thở dài một tiếng.@
+` Thư phòng của lão già khốn kiếp thực sự quá lớn, tốn cơ man thời gian dẫu dã tịnh không cách nào lục lọi hết từng cuốn sách.@
+` Hơn nữa, hầu hết trong số chúng chỉ là các báo cáo gia huấn, dường như tịnh không có ghi chép nào về bí mật gia tộc Tohno ở đây.@
+` Thứ duy nhất tôi tìm thấy dẫu dã là cuốn nhật ký thủ bút của lão già đó.
+\
+`"………… Tôi hiểu rồi. Đây dường như là bản ghi về thời gian sau khi tôi được đưa vào gia đình Arima."@
+` Tôi khẽ lật qua từng trang giấy.@
+br
+` [line=7]Và sau đó,
+` Tôi chợt bắt gặp cái tên Akiha liền lập tức giở ngược lại.
+\
+`"Hãy xem…… Báo cáo về những co giật của Akiha[line=4]đó là gì?"@
+` Tôi bắt đầu chăm chú đọc thật kỹ.
+\
+` …… Lão già ghi chép như sau: Ngay sau khi tôi rời khỏi biệt thự, dòng máu dị chủng Tohno trong huyết quản Akiha bắt đầu trỗi dậy mạnh mẽ.@
+` Để duy trì sự sống, Akiha cần hấp thụ một lượng nhiệt năng khổng lồ hơn hẳn người bình thường.@
+` Nếu giả định lượng nhiệt năng Akiha cần là mười, thì thức ăn dẫu dã chỉ cung cấp được sáu hoặc bảy, lượng nhiệt năng thiếu hụt còn lại chính là nguyên nhân đè nặng lên cơ thể em ấy.
+\
+` Nhưng vấn đề dẫu dã là: tại sao ngay từ đầu em ấy lại cần nhiều nhiệt năng đến vậy để duy trì sự sống?@
+` …… Có vẻ như lão già dẫu dã phải mất rất nhiều năm mới có thể giải mã được điều này.@
+` Trải qua mấy năm trời ghi chép đầy trang giấy, câu trả lời cuối cùng dẫu dã hiện ra trước mắt.
+\
+`"Một nửa cuộc đời của cô ấy...?"@
+br
+` Tôi tịnh không thể hiểu nổi ý lão ta muốn nói gì.@
+` Ghi chép nói rằng trong toàn bộ sinh lực sở hữu, em ấy dẫu dã chỉ sử dụng được một nửa cho chính mình.@
+` Để diễn giải một cách dễ hiểu, nó chẳng khác nào việc cô ấy vẫn di chuyển bình thường dẫu dã chỉ sử dụng một nửa cơ thể vậy.
+\
+` Nhưng tất nhiên, trên đời tịnh không thể có chuyện vô lý như vậy.@
+` Vì lẽ đó, cơ thể Akiha buộc phải cưỡng đoạt nhiệt lượng từ các sinh thể khác để bù đắp vào phần thiếu hụt.@
+` Song tịnh không một con người bình thường nào làm được điều đó; ấy là quyền năng phi nhân.@ Càng cưỡng đoạt nhiều nhiệt lượng từ vạn vật xung quanh, huyết quản Tohno dị chủng càng thức tỉnh mãnh liệt, khiến em ấy ngày một rời xa nhân tính.
+\
+`"... ..."@
+` Những ghi chép tiếp theo dẫu dã là hồ sơ theo dõi quá trình lớn lên của Akiha.@
+` Tôi lật tiếp, nhưng những thông tin phía sau tịnh không có gì giúp ích cho tôi lúc này.@
+` Tôi bực bội ném cuốn nhật ký xuống mặt bàn.@
+`"[line=3] Ôi trời, ngay cả khi bạn biết nguyên nhân, nếu không ghi lại cách khắc phục thì cũng vô dụng. Người già ngu ngốc này."@
+` …… Hay dẫu dã là chính lão già đó cũng tịnh không tìm ra cách nào để cứu em ấy?@
+`"…… Nhưng chỉ một nửa năng lượng của cô ấy? Tôi tự hỏi cô ấy đang làm gì với nửa còn lại..."@
+` Nguyên lý dẫu dã rất đơn giản. Nếu Akiha có thể sử dụng trọn vẹn sinh lực cho bản thân, em ấy sẽ tịnh không cần phải cưỡng đoạt nhiệt năng của kẻ khác nữa.
+\
+`"[line=7]"@
+` Tôi đoán dẫu dã tịnh không còn manh mối nào khác ở đây nữa.@
+` [line=4]Tôi nên ra ngoài và thư giãn một chút.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_44b",lcartain,800
+` ... Tôi lo lắng về Akiha. Khi nhìn lên, tôi nhận ra mình đang ở tòa nhà tách biệt.@
+` Tôi không muốn quay lại phòng, nên tự nhiên đến đây thay vì đi về phía lâu đài.
+\
+bg #000000,lshutter,800
+bg "bg/bg_45c",lshutter,800
+` Tôi bước vào.@
+` Tôi ngồi xuống trên thảm và ngắm trần nhà.@
+br
+` [line=10]*Thở dài*@
+` Tôi thở sâu ra.@
+` Tôi cảm thấy thư thái ở đây.@
+` Đây là phòng của tôi khi còn nhỏ.
+\
+`"... Đây là phòng mà Akiha đến khi tôi ốm."@
+` Tôi bắt đầu nhớ lại từng chút một.@
+` Khi tôi được nhận nuôi cách đây mười năm.@
+` Khi tôi sống trong căn phòng này, và những ngày tôi chơi đùa với Akiha và Shiki.
+\
+`"... Anh ấy nói 'Nanaya'."@
+` Nanaya. Được viết là "bảy đêm" trong tiếng Nhật?@
+` Tôi đoán đó là họ thật của tôi, nhưng giờ nó không còn quan trọng nữa.@
+` Một đứa trẻ tên Nanaya Shiki đã bị loại bỏ cách đây tám năm. Họ của cậu ấy, tên thật của cậu ấy, thậm chí cả ký ức của cậu ấy.@
+br
+` Tôi chẳng thể nhớ nổi mặt cha mẹ mình là sao.@
+` Tôi cũng không muốn nhớ những chuyện đó nữa.
+\
+`"... Tôi hiểu rồi, con dao này không phải của ông già mà thực sự thuộc về tôi[line=4]"@
+` Tôi lấy con dao ra khỏi túi.@
+` "Nanaya" được khắc trên tay cầm.@
+` Về mặt đó, nó thực sự thuộc về cha thật của tôi.
+\
+` Tohno Makihisa cuối cùng cũng có một chút cảm xúc con người.@
+` Anh ấy nên đã loại bỏ mọi thứ dẫn tôi đến Nanaya Shiki, nhưng anh ấy vẫn để lại con dao này cho tôi.@
+br
+` [line=3]Và sau đó...@
+` Một thứ gì đó rơi xuống tay tôi.
+\
+`"[line=4]Chuyện gì vậy?"@
+` Tôi sờ vào má mình.@
+` ... Tại sao? Tôi không vui cũng không buồn, nhưng...
+`"[line=3]Đó là kỳ lạ, tại sao tôi lại khóc?"@
+` Không có lý do gì cả.@
+` Nhưng tôi không thể ngừng khóc.
+\
+bg #000000,bshutter,800
+playstop
+!w2000
+bg "bg/bg_45c",rshutter,800
+` ... Tôi tự hỏi đã qua bao lâu rồi.@
+` Đêm nên đã trôi qua... chắc chắn gần bình minh rồi.@
+`"... Hôm nay là chủ nhật, phải không?"@
+` Này, ngay cả nếu đó là ngày thường, tôi cũng sẽ bỏ học và ở lại với Akiha. Vì hôm nay là chủ nhật, nên điều này thuận tiện hơn.@
+`"Kohaku-san nói cô ấy nên ở trên giường."@
+` ... Thật u ám.@
+` Tôi không biết cần bao nhiêu tuần để Akiha hồi phục.
+\
+`"[line=3]Tôi phải làm gì cho đến khi cô ấy khỏi bệnh[line=3]"@
+` Thật thậm chí tôi cũng không cần phải suy nghĩ về điều đó.@
+` Tôi phải tìm và giết hắn, một lần và mãi mãi.@
+` Hắn không còn là con người nữa.@ …… Không, ngay cả khi hắn vẫn là, ngay cả khi mọi người nói với tôi rằng tôi là kẻ giết người, tôi không thể để SHIKI sống sót.
+\
+wave se_09
+`"[ngạc nhiên]?"@
+` Có ai đó bước vào tòa nhà.@
+` Liệu có phải là Kohaku-san?@
+` Tôi nghe thấy những bước chân nhỏ nhẹ dần lại gần, cho đến khi cuối cùng, cánh cửa trượt mở ra.
+\
+ld c,"tachi/aki_t01c",lshutter,800
+play "*8"
+` [line=5]Tôi không thể tin được.@
+` Đó là Akiha.
+\
+`"Akiha, cậu... có ổn không?"@
+`"... Vâng, vết thương của tôi giờ đã lành."@
+` Lành...?@
+` Không thể nào. Wound đó chẳng lành trong một đêm được. Hơn nữa, Kohaku-san nói sẽ mất vài tuần để nó lành lại.@
+` [line=3]Khỏi phải nói, lành nhanh như vậy là không bình thường.
+`"[line=5]Ah."@
+` Rồi tôi cuối cùng cũng nhận ra điều đó.@
+` ... Không, tôi ước gì mình không biết.@
+` Tóc của Akiha vẫn còn màu đỏ.
+\
+ld c,"tachi/aki_t12c",crossfade,400
+`"[line=2]... Nó chính xác là điều bạn nghĩ nó là, anh trai. Wound của tôi đã lành [lẻn] - một vết thương sẽ không lành nhanh như vậy với một người bình thường."@
+` Tóc của Akiha rực rỡ màu đỏ dưới ánh nắng mặt trời buổi sáng.@
+` [line=3]Nhưng tôi chẳng quan tâm đến điều đó.
+\
+`"[line=2]Anh nói gì vậy, Akiha? Nếu vết thương của cậu đã lành, thì đó là đủ tốt rồi."@
+` "[line=2]Tôi ghét dòng máu Tohno, nhưng nếu nó giúp ích như thế này, thì đó là một điều tốt."@
+`"... Anh không cần phải ép bản thân. Tôi không đến đây để làm phiền anh. Tôi đến đây để nói với anh vài điều trong khi tôi vẫn còn tỉnh táo."@
+br
+`"[line=4]Điều gì?"@
+` [line=6]Cô ấy nói khi cô ấy vẫn còn tỉnh táo.
+\
+`"[line=4]Nghe tôi nói này, anh trai. Tôi đã nói dối anh suốt thời gian dài rồi. Không có cách nào để tôi chuộc lỗi, nhưng tôi phải ít nhất nói với anh sự thật. Tôi không thể biến mất như thế này."@
+br
+` Mắt Akiha lấp lánh như thể cô ấy sắp khóc.@
+` "... Nếu cô ấy nhìn tôi như vậy, không có cách nào tôi có thể ngăn cô ấy."
+\
+`"…… Được rồi. Tôi sẽ lắng nghe."@
+` "Nhưng, Akiha, tôi sẽ ở bên Tohno Shiki bất kể bạn nói gì với tôi. ... Có lẽ bạn không cần phải nói với tôi cả."@
+` "[line=4]Dù sao đi nữa, bạn vẫn muốn kể cho tôi nghe điều đó à?"@
+`"Anh trai, anh... biết chứ?"@
+`"... SHIKI thích nói nhiều, và anh ấy đã kể cho tôi hầu hết mọi thứ trong khi bạn đang bất tỉnh.@
+` Nhưng nếu bạn muốn kể cho tôi nghe, tôi sẽ lắng nghe."@
+` "Nếu bạn tự kể cho tôi, tôi nghĩ điều đó sẽ giúp tôi hiểu hơn."
+\
+` Akiha nhìn có vẻ sốc trong giây lát, rồi cô ấy cắn môi và nhìn về phía tôi.@
+ld c,"tachi/aki_t01c",crossfade,400
+`"Anh trai. Bạn đã được nhận nuôi từ gia đình Nanaya cách đây mười năm."@
+` "Tôi không biết tại sao cha nhận nuôi cậu, nhưng ông ấy giới thiệu cậu với chúng tôi như một thành viên mới trong gia đình."@
+` Akiha nhíu mày như thể đang chịu đau và tiếp tục nói.
+\
+`"Tôi nghe nói gia tộc Nanaya hoàn toàn trái ngược với giống loài của chúng ta."@
+` "... Có những gia tộc như nhà Tohno có dòng máu pha trộn, và rồi còn những người chống lại họ."@
+`"Anh trai, cậu sẽ không thích nếu có sư tử và hổ trong trường học, phải không? Chúng ta, loài người, thường loại bỏ những người khác biệt với chúng ta hoặc bất kỳ ai vượt trội hơn chúng ta.@
+` "... Điều đó khá dễ hiểu khi suy nghĩ về nó. Không phải họ tiêu diệt 'những người khác biệt' vì ghét họ. Thay vào đó, nếu những 'người khác biệt' này tồn tại trong xã hội của chúng ta, nó sẽ đe dọa đến tính mạng của những người bình thường. Vì vậy, luôn có những kẻ loại bỏ những sinh vật phi nhân."
+\
+`"[line=3] Gia tộc Nanaya là đặc biệt giữa những người chống lại những sinh vật phi nhân. Họ không sử dụng ma thuật, mà thay vào đó hoàn toàn dựa vào khả năng của chính họ.@
+` "... Gia tộc Tohno trở nên đặc biệt bằng cách đưa máu phi nhân vào dòng máu của họ. Gia tộc Nanaya trở nên đặc biệt nhờ ý chí và quyết tâm. Mặc dù nhà Tohno và Nanaya là kẻ thù, nhưng chúng tôi lại gần gũi với nhau theo một cách nào đó, chỉ đơn giản là do bản chất của chúng tôi."
+\
+`"Nếu bạn có bất kỳ sức mạnh đặc biệt nào, đó không phải từ dòng máu của Tohno mà từ Nanaya.@ Nó được viết trong dòng máu của bạn để tiêu diệt mọi thứ phi nhân tính.@"@
+` "... Anh trai, có lần anh bỏ chạy khỏi em, nhớ không?@ Tôi nhận ra điều đó lúc đó.@ Dòng máu Nanaya trong anh vẫn còn hoạt động, và nó phản ứng với tôi."
+\
+` "[line=4] Cô ấy đang nói về đêm đó.@"@
+` "Cô ấy đúng.@ Tôi thực sự cảm thấy một xung động giết người khi nhìn thấy mái tóc đỏ của Akiha.@"@
+` "[line=4]Tôi nghĩ mình là kẻ giết người vì lý do đó, nhưng điều đó có nghĩa là..."
+\
+ld c,"tachi/aki_t12c",crossfade,400
+`"Đúng vậy, bạn chỉ cảm thấy như vậy với những người bất thường giống tôi và SHIKI.@"@
+` "Nhưng, đó là lý do tại sao bạn như một cái chết đối với chúng tôi.@"@
+` "... Ngay cả khi người dân Nanaya đã ngừng công việc của họ, tôi nghĩ nó vẫn là một mối đe dọa chỉ bằng cách có dòng máu của họ xung quanh."
+\
+`"……………………"@
+` Tại sao?@
+` Bất ngờ, trái tim tôi đập rất mạnh.@
+` Tôi có một cảm giác rất xấu về điều này.@
+` Tôi không thể để Akiha tiếp tục.@
+` …… Không, thực ra là tôi không muốn nghe cô ấy nói.
+\
+`"Đừng lo. …… Bạn không cần phải tiếp tục. Đã kết thúc rồi, nên chẳng có ý nghĩa gì. Nó không liên quan đến tôi hay bạn."@
+`"Nhưng anh trai [line=3]"@
+`"Tôi không quan tâm đến gia tộc Nanaya. Tôi không biết họ. Nếu cậu là người đứng đầu gia tộc Tohno, cậu chỉ nên lo cho gia tộc của mình."@
+`"[line=8]"@
+` Akiha cúi đầu và gật đầu ngần ngại.
+\
+ld c,"tachi/aki_t01c",crossfade,400
+`"... Rồi chúng ta hãy nói về mối quan hệ giữa chúng ta.@
+` Anh trai tôi, SHIKI và tôi, chúng tôi lớn lên như những người anh em ruột thật sự.@
+` Cậu và SHIKI rất hợp nhau khiến tôi có chút ghen tị với hai cậu.@
+` Nhưng mọi thứ trở nên sai lầm khi 'chuyện' xảy ra với SHIKI.@
+`"... Tám năm trước, dòng máu Tohno trong SHIKI thức tỉnh... và cậu ấy đã giết tôi."
+\
+`"…… Vâng.@
+` Nhưng cuộc đời của cậu được cứu.@
+` Tuy nhiên, mọi chuyện không kết thúc dễ dàng như vậy.
+\
+` Chúng tôi chăm sóc SHIKI, nhưng không thể giết anh cả nhà Tohno.@
+` Chúng tôi là một gia đình khá có thế lực về mặt xã hội, nên chúng tôi không thể nói với mọi người rằng con trai lớn duy nhất của chúng tôi, người kế vị, đã chết.
+\
+`"Vì vậy, cha đã nghĩ ra điều này.@
+` Để anh trai (Nii-san) trở thành Tohno Shiki, và SHIKI là con nuôi đã chết trong một tai nạn."@
+` Akiha nói những lời này như thể cậu hy vọng chúng sẽ đày tội Tohno Makihisa.
+\
+` [line=3]Đó là sự thật.@
+br
+` Shiki và tôi đã đổi vai trò.@
+` Người bị giết vẫn sống tiếp, còn kẻ đã giết thì chết đi.@
+` Đó là mối quan hệ giữa Shiki và tôi.
+\
+ld c,"tachi/aki_t12c",crossfade,400
+`"[line=3]... Tôi xin lỗi. Anh trai ơi, cậu bé tên Shiki không còn tồn tại nữa.@
+` Cậu ấy đã qua đời cách đây tám năm.@
+` Không chỉ là kết thúc của cuộc đời cậu ấy, mà còn là sự chấm dứt của sự tồn tại. Tên tuổi, quá khứ, gia tộc, và thậm chí cả ký ức của cậu ấy. Không còn gì sót lại đâu.@
+` Cách đây tám năm, khi cậu thay thế Tohno Shiki, cha tôi đã xóa sạch mọi thứ."
+\
+`"Đó là lý do tại sao cậu được đưa đến Arimas.@
+` Đối với thế giới bên ngoài, con trai cả của Tohno phải còn sống, nhưng vì không có dòng máu Tohno trong cậu, cậu không thể trở thành người kế vị.@
+` Cha giải thích rằng cơ thể cậu bị suy yếu bởi tai nạn, nên ông gửi cậu đến Arimas.
+\
+`"... Tôi không đồng ý. Thậm chí tôi còn oán trách cha vì để cậu đi vì lý do ngốc nghếch như vậy.@
+` Có lẽ là vì tôi đã nhiều lần nói với cha rằng tôi muốn cậu quay trở lại, nhưng cuối cùng cha cũng tiết lộ với tôi rằng cậu được nhận nuôi.@
+` Và ông bảo tôi không bao giờ để cậu đến gần nhà chúng tôi.@
+` "... Cha không tính đến những điều tàn nhẫn mà ông đang làm với cậu, và ông nói dối tôi một cách trắng trợn cho đến ngày ông qua đời."
+\
+` Câu chuyện của Akiha kết thúc ở đó.@
+` Có thể là vì cô ấy đã giấu những sự thật này khỏi tôi trong một thời gian dài, nhưng câu chuyện của Akiha nghe giống như một lời thú nhận.
+\
+ld c,"tachi/aki_t01c",crossfade,400
+`"... Đó là toàn bộ câu chuyện. @ Bây giờ bạn biết rồi. @ Bạn biết rằng bạn không thực sự là anh trai tôi. @
+` Bạn không [line=3]là một phần trong gia đình xấu xa này." @
+` "Đang muốn khóc. @
+` Giọng nói của Akiha nghe như cô ấy sắp khóc.
+\
+`"... Tôi xin lỗi, Akiha. @ Tôi không phải là anh trai thật của bạn, nhưng tôi vẫn hành xử như vậy và gây rắc rối cho bạn." @
+`"Làm sao... Nii-san..." @
+`"Nhưng tôi đã trở thành một phần trong gia đình này. @ Mặc dù tôi không phải là anh trai của bạn, nhưng tôi có thể ở lại đây không? @ Tôi không muốn rời xa bạn lần nào nữa." @
+`"A[line=12]"@ — Akiha đặt tay lên miệng và kìm nén những lời sắp thoát ra.@
+ld c,"tachi/aki_t24c",crossfade,400
+` Sau một khoảng im lặng dài,@
+br
+cl a,crossfade,400
+` Akiha lắc đầu buồn bã.
+` "... Tôi hiểu rồi, cậu đúng.@ Tôi đã sai khi hỏi như vậy.@ Tôi vốn là một anh trai tồi."@
+\
+`"NKhông...!@ Điều đó không đúng..."@
+ld c,"tachi/aki_t30",crossfade,400
+`"[line=3]Tôi... không thể... tin được."@
+br
+` [line=3]Tôi không thể chấp nhận điều này.@
+` [line=3]Akiha đang khóc.
+\
+`"Anh trai[line=3]em là anh trai duy nhất của em……!@ Em đã theo dõi anh từ khi em còn chỉ là một cô bé nhỏ……!"@
+`"…… Thật dễ thương khi anh nói như vậy, nhưng đó là vì anh không biết.@ Anh không biết rằng em không phải là chị gái ruột của anh."@
+`"Em biết điều đó từ đầu……!@ Em biết rằng em được nhận nuôi, rằng em không thực sự là anh trai của anh.@ Em biết tất cả những điều đó……!@ Nhưng em không quan tâm.@ Từ khi anh gọi tên em lần đầu tiên, em[line=3]"@
+cl a,crossfade,400
+` "Nhấn mạnh một tiếng."@
+` Akiha vẫn khóc, cô ấy dựa vào tôi.@
+`"[line=4]Akiha."@
+` Tôi đặt tay lên vai gầy của cô ấy.@
+` Liệu đó có phải là nhịp tim của cô ấy vang vọng trong tai tôi, hay của tôi?@
+` Cô ấy quá gần.@
+` [line=3]Cơ thể Akiha quá gần với tôi đến mức tôi có thể ôm cô ấy nếu muốn.
+\
+`"…… Cậu biết à?"@
+` Từ khi cô ấy còn nhỏ.@
+` Trong suốt thời gian này, cô ấy biết rằng tôi không phải là anh trai thật của mình.@
+`"... Tại sao cậu không nói cho tôi biết, Akiha? Tôi không phải là anh trai của cậu cuối cùng."@
+br
+` ... Một sự im lặng nhỏ.@
+` Akiha ngước nhìn lên.@
+br
+!w1000
+`"... Vì tôi muốn ở bên cậu."
+\
+`"Nếu tôi không nói cho cậu biết... nếu chúng ta vẫn là anh em... chúng ta có thể ở bên nhau. Vì tôi không phải người, vì tôi quá khác biệt với cậu, chúng ta không thể ở bên nhau..."?!@
+br
+` Akiha siết chặt đôi mắt và đánh tôi vào ngực.@
+`"[line=3]Nhưng... nếu chúng ta là anh em, tôi nghĩ chúng ta vẫn có thể ở bên nhau. Dù cậu ghét tôi đến mức nào, dù cậu bỏ qua tôi đến mức nào, nó cũng sẽ ổn nếu chúng ta chỉ có thể ở bên nhau..."!@
+br
+` Tiếng đập mạnh vào ngực tôi một lần nữa.@
+` "Không lạ lùng sao...? Tôi sinh ra trong một gia đình quyền lực như vậy nhưng không được phép đòi hỏi điều gì."
+\
+`"Vì khác biệt, vì tôi không giống ai khác, tôi sẽ bị mắc kẹt trong lâu đài này và sống mà không biết đến bất kỳ ai bên ngoài. Đó là điều tôi chuẩn bị đón nhận, nhưng bạn đã phá hủy mọi thứ."@
+` Như thể cố gắng xua tan mọi thứ cô ấy gìn giữ trong những năm qua, Akiha tiếp tục đánh vào ngực tôi liên tục.@
+` "Nếu anh trai không xuất hiện... Tôi có thể sống như vậy suốt đời...!"
+\
+`"[line=3]Nhưng tôi trở nên yếu đuối và... và trở thành một kẻ nói dối.@
+` Tôi đã nói dối bạn và nói dối chính bản thân mình.@
+` Tôi là một kẻ nói dối.@
+` [line=3][line=3]Tôi nghĩ nếu tôi tiếp tục nói dối về việc chúng tôi là anh em, thì tôi chẳng muốn điều gì khác nữa.@
+br
+` [line=4]Nghe điều này khiến trái tim tôi đau đớn.@
+br
+` [line=2]Một lời nói dối nhỏ... nhưng để bảo vệ lời nói dối đó, Akiha đã chiến đấu rất nhiều cho đến khi nó trở nên quá sức, khiến cô ấy khóc như bây giờ.
+\
+`"[line=3]Akiha..."@
+`"Anh là người Nii-san duy nhất của em suốt thời gian này. Em không thể chấp nhận ai khác làm anh trai, chưa kể yêu ai khác. Em không thể làm gì với cảm giác này..."!
+br
+` "Đập!"@
+` Akiha lại đánh vào ngực tôi một lần nữa và im lặng.@
+` Một sự im lặng kéo dài.@
+`"Xin lỗi," Akiha thì thầm, phá vỡ sự im lặng trong chốc lát.
+\
+`"@[line=7]"@
+` Trái tim tôi đập mạnh khi nghe thấy từ duy nhất đó.@
+` ... Akiha đã trải qua nỗi đau một mình suốt thời gian này.@
+` [line=2]Cô ấy đau khổ vì biết tất cả những điều tôi che giấu, rằng tôi được nhận nuôi, lớn lên với tên Tohno Shiki, mọi thứ đều rõ ràng.@
+` ... Bây giờ cô ấy lại trở thành cô bé trẻ tuổi tóc đen ngày nào, luôn khóc lóc và xin lỗi tôi khi còn nhỏ.@
+br
+` [line=3]Thật ra thì...@
+br
+` Akiha luôn xin lỗi tôi.
+\
+` Một niềm vui nhỏ nhoi, gần như vô hình đối với Akiha. Tuy nhiên, cô vẫn tạo ra một câu chuyện phức tạp để bảo vệ nó.@
+` Câu chuyện đó chính là bức tường đẩy cô lùi lại, nhưng cũng là nguồn hạnh phúc duy nhất của cô.
+\
+`"[line=3]Akiha"@
+`"... Không, tôi xin lỗi. Tôi đã ích kỷ, nhưng đây là lần cuối cùng, nên bạn không cần lo lắng."@
+` Akiha đẩy mình ra xa tôi.@
+` Cô ấy không còn khóc nữa. Nhân vật bình thường của Akiha hiện diện ở đây.
+\
+`"[line=3]Ý anh là điều này đánh dấu lần cuối cùng của Akiha?"@
+ld c,"tachi/aki_t11c",crossfade,400
+`"... Nii-san, tóc của tôi sẽ không bao giờ trở lại được nữa."@
+` Akiha nhìn tôi, không buồn bã mà dường như để tôi thấu hiểu sự thật trong câu nói này.@
+br
+` ... Tóc cô ấy vẫn giữ nguyên màu đỏ máu nhạt đó.@
+` Vậy... dòng máu Tohno đang kiểm soát cô ấy, giống như với Shiki vậy.
+\
+`"[line=3]Đó chỉ là tạm thời thôi, phải không...!?@ Ngoài ra, bạn vẫn là Akiha, nên cũng chẳng thành vấn đề gì."@
+`"Không, tôi biết rõ cơ thể mình. Tôi biết mình không thể quay lại."@
+` Đây là kết thúc của sự dối trá của tôi.@ Anh trai ơi, anh không nên ở gần một quái vật như tôi.@ Anh nên thoát khỏi nơi này và sống tiếp dưới danh nghĩa Nanaya Shiki."@
+cl a,crossfade,400
+` Akiha cúi đầu và lùi lại.
+\
+` ... Tôi chẳng biết gì về Nanaya Shiki này.@
+` Tôi không còn gắn bó với cái tên đó nữa.@
+` [line=4]Không, ngay cả khi tôi có, một điều như vậy sẽ không quan trọng, so với Akiha.@
+`"[line=3]Ngốc nghếch."@
+` Tôi nắm lấy cánh tay của Akiha.@
+`"[line=3]N... Nii-san..."@
+` Cô ấy đẩy tôi lại.@
+` Luôn hành động mạnh mẽ... nhưng luôn cô đơn.@
+` ... Cô ấy đã bắt được tôi.@
+` Tôi nghĩ lại, cô ấy đã bắt giữ tôi từ rất lâu rồi.
+\
+`"Nghe này Akiha, tôi không quan tâm những gì mọi người nói. Tôi là anh trai của cậu. Dù xảy ra điều gì đi chăng nữa, nó cũng không quan trọng nếu chúng ta không liên quan bằng máu. Tôi là anh trai của cậu."@
+`"... Cảm ơn anh Nii-san. ... Nhưng tôi..."@
+`"Nhưng! Ngay cả khi tôi không phải, tôi vẫn sẽ ở bên cạnh cậu. Ngay cả khi cậu không phải chị gái của tôi, cậu vẫn rất quan trọng với tôi. Tôi sẽ không để ai khác làm tổn thương cậu."@
+` Tôi ôm cô ấy vào lòng.
+\
+`"... Ừm..."@
+`"Tôi yêu cậu như một người chị em."@
+` Tôi siết chặt cô ấy trong vòng tay.@
+`"Nhưng... tôi yêu bạn như một người phụ nữ còn nhiều hơn nữa. Không phải đó là lý do đủ để ở bên bạn sao?"@
+`"[line=8]"@
+` Làn thở của cô ấy ngừng lại giữa cổ họng.@
+` Mọi thứ dừng lại.@
+` ... Tôi có thể nghe thấy nhịp tim của cô ấy.@
+` Cơ thể chúng ta ấm lên đến tận đầu ngón tay.@
+` [line=4]Và sau đó.@
+` Khi như không hề có nghi ngờ nào, chúng ta hôn nhau[line=3]
+\
+bg "event/aki_h01",lshutter,800
+`"[line=6]Ôi..."@
+` Cô ấy ban đầu từ chối một chút.@
+`"[line=6]Ừm, ừm..."@
+` Nhưng nhanh chóng, tôi cảm thấy toàn bộ trọng lượng của cô ấy ép vào tôi.
+\
+` [line=2]Đó chỉ là nụ hôn bình thường, xa lạ với bất kỳ ai gọi nó là cuồng nhiệt.@
+` Tuy nhiên, nó vẫn khiến tâm trí tôi choáng váng.
+\
+` Đôi môi Akiha mát lạnh và mềm mại.@
+` Có cảm giác chúng ta có thể tan chảy vào nhau.@
+br
+` Tôi cảm thấy hơi ấm của cô ấy chạm vào môi, tâm trí tôi ngừng hoạt động.@
+br
+` [line=3]Có rất nhiều lý do để tôi không nên làm điều này.@
+` Nhưng... tôi muốn Akiha ngay lúc này.@
+br
+` [line=3]Tôi muốn ôm lấy cơ thể run rẩy của cô ấy và khiến cô ấy trở thành của tôi.
+\
+(Bỏ qua dòng 94)
+bg #000000,lshutter,800
+!w1500
+bg "bg/bg_45c",lshutter,800
+` Sau một thời gian dài, đôi môi chúng tôi cuối cùng cũng tách ra.@
+` Akiha vẫn dựa vào tôi, cơ thể cô ấy vẫn áp vào tôi.@
+br
+`"... Tôi rất hạnh phúc."@
+br
+` Giọng cô ấy quá nhẹ nhàng đến nỗi tôi gần như bỏ lỡ nó.@
+` Đó chỉ là một nụ hôn, nhưng cô ấy thực sự trông rất vui vẻ.
+\
+`"[line=3]Akiha"@
+` Tôi đặt tay lên vai cô ấy.@
+` ... Nó không phải là tôi đã nghĩ ra điều gì.@
+` Như thể đó là điều tự nhiên nhất trên thế giới, tôi nhẹ nhàng hôn cổ Akiha.@
+`"... Nn."@
+` Cơ thể cô ấy run rẩy.@
+` Nhưng không phải với sự ghê tởm hay từ chối.@
+` …… Akiha có cảm thấy giống tôi không?@
+` Có thể, nếu tôi nghĩ việc chạm vào Akiha là tự nhiên, cô ấy cũng có thể nghĩ tương tự về tôi.
+\
+`"Akiha[line=3] em có muốn làm điều đó không?"@
+` Tôi hỏi cô ấy.@
+` Tôi biết mình có thể nói tốt hơn, nhưng hiện tại tôi không nghĩ ra được gì lộng lẫy.@
+`"… … … Vâng."@
+` Akiha gật đầu.@
+` Chỉ một cử chỉ đơn giản này khiến tôi phấn khích hơn bao giờ hết.
+\
+`"... Nhưng anh trai.@ Anh có thể giúp tôi một việc trước được không..."@
+`"Một việc gì vậy..."@
+`"À... Tôi nghĩ điều này có thể..."@
+` Cô ấy nhìn xuống sàn tatami.@
+`"Tôi hiểu rồi.@ Có lẽ sẽ đau trên sàn tatami.@ ... Nhưng chúng ta nên làm gì?"@
+` ... Tôi không nghĩ mình có thể kiềm chế nếu cô ấy muốn quay lại biệt thự hoàn toàn.@
+` Nếu tôi có thể, tôi muốn yêu Akiha ngay ở phòng này.
+\
+`"…… Anh trai, có một chiếc futon ở đó……"@
+` Akiha chỉ vào tủ quần áo.@
+`"Ừm…… nó sạch sẽ. Chúng tôi dùng nó khi tôi lấy máu từ Kohaku."@
+`"Nếu đó là trường hợp, anh nên nói với tôi sớm hơn. Chờ đã, tôi sẽ lấy nó."@
+` Tôi lùi lại khỏi Akiha và lấy chiếc futon ra khỏi tủ. Tôi đặt nó xuống giữa phòng và quay lại đối mặt với Akiha một lần nữa.@
+br
+` [line=4]Và.
+\
+` Akiha ngồi trước chiếc futon, đặt ngón tay lên thảm tatami, và cúi chào tôi một cách trang trọng.@
+`"…… Sau đó, tôi hy vọng anh sẽ đối xử tốt với tôi, anh trai."@
+` Mặt và giọng điệu của cô ấy hoàn toàn nghiêm túc, mặc dù má cô ấy ửng đỏ rực rỡ.
+\
+`"[line=3]Akiha."@
+` Tôi tiến lại gần và đặt tay lên vai cô ấy.@
+` ... Vai cô ấy thật mảnh mai.@
+` Tôi muốn nhìn và chạm vào làn da trắng mịn của cô ấy.@
+`"... Tôi có thể cởi quần áo của em không?"@
+` Tay tôi di chuyển từ vai xuống thắt lưng cô ấy.@
+` Và...@
+`"[line=8]Ồ!"@
+` Akiha lắc mình và nhìn lên tôi.
+\
+`"... Không, tôi có thể tự làm được..."@
+` Giọng cô run rẩy.@
+` Có lẽ cô ấy xấu hổ khi phô bày cơ thể trước người khác.@
+` Akiha đứng dậy, rời xa tôi và đặt tay lên nút thấp nhất của áo sơ mi.
+\
+`"... Anh trai... Ừm..."@
+` Cô ấy ửng đỏ mặt và nhìn đi nơi khác.@
+`"…… Xin đừng cười."@
+` Giọng nói của cô ấy chỉ là một tiếng thì thầm khi cô ấy chậm rãi kéo áo sơ mi khỏi vai.
+\
+ld c,"tachi/aki_t22",lshutter,800
+` Bây giờ trong bộ đồ lót, Akiha nhìn đi nơi khác vì xấu hổ.@
+` Tôi không biết tại sao.@
+` Cô ấy đã bảo tôi không được cười, nhưng cơ thể của Akiha đẹp hơn bất cứ điều gì tôi từng thấy.
+\
+`"Bạn chẳng có gì phải xấu hổ. Akiha, bạn rất xinh đẹp."@
+` Tôi nói chân thành.@
+` Điều này dường như khiến cô ấy càng xấu hổ hơn, và cô ấy căng cứng từ đầu đến chân.@
+`"Akiha...? Cậu không muốn làm điều này với anh trai mình chứ?"@
+`"... Không, không phải thế... nhưng... tôi... "@
+` Akiha tiếp tục cúi xuống, che ngực bằng cả hai bàn tay.@
+`"... Tôi có vòng một nhỏ nên tôi sợ cậu sẽ không thích."@
+` Akiha đỏ mặt đến mức đôi tai cũng đang ửng đỏ.
+\
+`"[line=3]!!!"@
+` ... Thật nản lòng.@
+` Nó đòi hỏi rất nhiều can đảm từ cô ấy để nói ra những điều đó.@
+` Cô ấy vẫn cố gắng ép ra những lời, nhìn tôi với vẻ mong đợi một câu trả lời.@
+`"Tôi hiểu rồi. Ngực cô nhỏ nhỉ?"@
+` Tôi nói điều đó với giọng sáng nhất có thể.@
+`"... ..."@
+` Akiha không đáp lại, nhưng vẫn che giấu ngực mình bằng đôi tay.
+\
+`"Thật ra, tôi không thể phán xét được nếu cứ giữ tay như vậy. Cô phải hạ thấp tay và cởi quần lót thì tôi mới có thể nhìn thấy thật sự."@
+`"Cởi quần lót...? Anh nói em phải khỏa thân... Nii-san..."?@
+`"Vâng, chúng ta không thể làm điều này trừ khi cả hai đều khỏa thân, đúng không? Đây, anh sẽ cởi quần áo trước, có dễ dàng hơn không? Điều tôi đã thấy là đẹp rồi, nên tôi muốn nhìn thấy mọi ngóc ngách của cô."@
+`"………………"@
+` Akiha do dự.@
+` Dù cô ấy muốn gần gũi, nhưng dường như vẫn còn chút ngần ngại khi phơi bày bản thân.@
+` ... Tôi không hiểu được suy nghĩ của phụ nữ.
+\
+`"Này, tôi đoán việc làm thế cũng không phải là điều không thể... nhưng liệu việc cho tôi thấy cơ thể em có thực sự tệ đến vậy không?"@
+`"[line=5]Ừm... không, chỉ hơi xấu mặt, và ừm... không phải tôi không muốn."@
+` Cô ấy trả lời ngượng ngùng.@
+` Giọng nói yếu ớt của cô khiến tôi không khỏi trêu chọc.
+\
+`"Này, tôi không thực sự phiền nếu cậu muốn thế, nhưng có một vài vấn đề. Nếu chúng ta làm như vậy, quần lót của cậu sẽ bị bẩn và Kohaku-san chắc chắn sẽ biết chuyện gì đã xảy ra."@
+`"[line=4]Ồ..."@
+` Tôi đoán Akiha không tính đến điều đó.
+\
+`"Tôi không có chút do dự nào về việc này, nhưng chúng ta vẫn là anh em chị em với hầu hết mọi người, nên nếu Kohaku-san phát hiện ra... sẽ hơi ngượng ngùng, phải không?"@
+`"Ừm... vâng... vậy sau đó chúng ta nên làm gì, anh trai?"@
+` Akiha lo lắng di chuyển chân từ chân này sang chân khác.@
+` Tôi có thể thấy rằng cô ấy muốn làm chuyện ấy ngay bây giờ thay vì mạo hiểm để Kohaku-san phát hiện ra.
+\
+`"Này, chúng ta nên cố gắng giữ bí mật... vậy nên cả hai chúng ta đều cần cởi quần áo."@
+`"Ồ, [line=3]đó là điều anh nói từ đầu, anh trai!"@
+`"Tất nhiên rồi. Tôi đã nói với bạn rằng bạn rất đẹp. Không có gì phải xấu hổ."@
+` Hơn nữa, tôi thực sự không quan tâm đến Kohaku-san. Tôi chỉ muốn nhìn thấy cơ thể của bạn. Nhưng nếu bạn không muốn, tôi sẽ quay lại biệt thự."
+\
+`"Quay lại [line=3]"@
+cl c,crossfade,400
+` Akiha nhìn xuống và thở dài sâu.
+\
+`"…… Trời ơi, đôi khi cậu hành xử như một đứa trẻ được chiều chuộng, anh trai à."@
+`"Tôi là một đứa trẻ được chiều chuộng, theo một nghĩa nào đó. Tôi có thể nói những gì tôi muốn, nhưng thực sự không có nhiều thứ tôi khao khát. …… Vậy nên có lẽ đây là lần đầu tiên tôi thực sự khao khát điều gì đó đến vậy."@
+`"[line=5]"@
+` Akiha không nói gì.@
+` Nhưng cô ấy thầm lén đưa tay vào phần trên của quần lót.
+\
+bg #ffffff,lshutter,800
+playstop
+!w1500
+play "*5"
+bg "event/aki_h02",crossfade,800
+` Từ từ, cô ấy kéo chúng xuống.@
+` Chúng rơi thầm lặng xuống sàn, để lộ làn da trắng ngần của Akiha trước mắt tôi.
+\
+`"Điều này có ổn không, anh trai?" @
+` Akiha quay mắt đi và di chuyển tay chân để tránh né. @
+`"[line=6]" @
+` Tôi không thể nói gì.
+\
+` Cơ thể trắng ngần. @
+` Cơ thể cô ấy hoàn hảo, hoàn toàn khác với cơ thể của một người đàn ông. @
+br
+` Da cô ấy màu trắng, nhưng mang một sắc đỏ nhạt, như thể cô ấy vẫn còn xấu hổ vì sự khỏa thân của mình. @
+` Bất kể tôi nhìn đâu, tôi cũng thấy đường cong [line=2]và không chỉ ở eo. Thậm chí cả đôi chân của cô ấy cũng mượt mà và được tập luyện tốt... điều này khiến tôi choáng ngợp.
+\
+`"…… Anh trai ơi, đừng nhìn em như vậy."@
+`"... ..."@
+` "Tôi chẳng bao giờ nghe theo lời đề nghị đó đâu."@
+` "Như Akiha nói, ngực cô ấy nhỏ... nhưng chúng thực sự phù hợp với phần còn lại của cơ thể cô ấy."@
+` "Cơ thể cô ấy được tỷ lệ hoàn hảo như một con búp bê."@
+` "Cô ấy hoàn hảo ở mọi mặt. Không cần có vòng một lớn hơn."@
+br
+` "Trái tim tôi đập thình thịch trong lồng ngực."@
+` "Tôi chắc chắn trái tim của Akiha cũng đang đập mạnh, nhưng nhịp đập của tôi lại dễ dàng lấn át tiếng động của nó."
+\
+`"[line=6]Một tiếng thở dài nhẹ nhàng thoát ra từ cổ họng tôi."@
+` Da trắng... mái tóc buông xuống cổ gầy của cô ấy... dù có chút đỏ bừng, vẻ đẹp trên người cô ấy không ai sánh bằng.@
+` Mày cô ấy run rẩy vì xấu hổ, và đôi mắt cô ấy siết chặt lại một cách khẽ hơn.
+\
+` Mặt cô ấy ửng hồng, môi đóng chặt,@
+` bụng phẳng, cái nốt ruồi quyến rũ trên bụng.
+br
+` ...nhưng điều khiến tôi điên đảo nhất chính là những gì đang chờ đợi tôi giữa chân Akiha.@
+` "Akiha... thực sự..."
+\
+`"[line=3][line=4]em... em không thể..."@
+` Cô ấy thực sự rất xinh đẹp.@
+` Tôi không thể diễn tả bằng lời, nhưng cơ thể trần trụi của cô ấy quá đẹp đến mức tôi muốn kéo cô ấy vào lòng và siết chặt cô ấy đến mức cả hai chúng ta đều không thể thở nổi.
+\
+bg "bg/bg_45c",lshutter,800
+`"... Ôi."@
+` Akiha ửng đỏ và che miệng lại.@
+` Đó là một loại ửng đỏ khác so với những lần trước.
+\
+`"Chuyện gì? Chuyện gì vậy, Akiha?"@
+`"... ..."@
+` Thay vì trả lời, Akiha chỉ nhìn chằm chằm.@
+`"?"@
+` Tôi theo dõi ánh nhìn của cô ấy.@
+br
+` [line=3]Và...@
+` Akiha đang nhìn chằm chằm vào cơ thể trần trụi của tôi.@
+` ... Không chỉ tôi, mà cô ấy còn đang ngắm nhìn bộ phận nam tính của tôi, đã cứng lại vì ngắm nhìn thân hình hoàn hảo của cô ấy.
+\
+`"[line=3] Ôi."@
+` Tôi cảm thấy khó chịu.@
+` Không phải tôi xấu hổ, nhưng thật là ngượng ngùng khi để cô ấy thấy mình như vậy từ sớm như vậy.@
+`"………………"@
+` Akiha từ từ tiến lại gần, không bao giờ rời mắt khỏi sự cứng rắn của tôi.@
+` …… Cánh tay cao vút của tôi trông quái dị và đe dọa so với vẻ đẹp của cơ thể cô ấy.
+\
+`"Này, Akiha... Điều này, ừm[line=3]"@
+`"... Tôi biết. Tôi chỉ hơi bất ngờ vì đây là lần đầu tiên tôi nhìn thấy một người đàn ông..." bạn biết đấy...@
+` Akiha nhìn tôi với sự ngạc nhiên tuyệt đối.@
+`"…… Khi nghĩ rằng điều này thuộc về Nii-san, nó khiến tôi cảm thấy nó khá dễ thương... Ồ, tôi đang nói gì vậy?"@
+` Akiha thì thầm như thể đang nói chuyện với chính mình.@
+br
+` [line=3]Tiếng nói của cô ấy khiến tôi mất đi sự kiềm chế.
+\
+`"[line=3]Akiha"@
+`"[line=3]!?"@
+` Tôi nắm lấy hai cánh tay cô ấy và kéo cô ấy lại gần mình.@
+` Cuối cùng, da thịt chạm vào da thịt, chúng tôi ôm nhau trong sự ngạt thở.@
+` Dấu hiệu nam tính của tôi đang chạm vào bụng Akiha.@
+` Cánh tay đan vào cánh tay, ngực áp vào ngực.@
+` Vùng thắt lưng và bụng cô ấy chạm vào nhau.
+\
+`"Ờ... Ừm." @
+` Cơ thể Akiha di chuyển. @
+` Chỗ tôi chạm vào cơ thể cô ấy phản ứng lại, càng trở nên cứng hơn.
+\
+`"Akiha[line=3]" @
+` Tôi ôm cô ấy chặt hơn. @
+` Cảm giác thanh gậy của tôi ép lên bụng cô ấy khiến tôi choáng váng và như bị thuốc mê.
+\
+`"Ờ... Anh trai, cơ thể anh nóng quá." @
+` Chúng tôi chỉ ôm nhau, nhưng Akiha đã thở gấp. @
+` Khi tôi bắt đầu cảm thấy kích thích ở tư thế này, Akiha cũng dường như bị thu hút bởi sự cứng rắn của tôi chống lại bụng cô ấy.
+\
+`"[line=3]Akiha, tôi sẽ làm tình với cậu ngay bây giờ."@
+` Akiha gật đầu.@
+`"Ôi... nhưng anh trai... đây là lần đầu tiên của tôi, nên..."@
+` Cô ấy ngượng ngùng thì thầm.@
+` Cô ấy nói rằng cô ấy không biết phải làm gì.@
+`"[line=3]Đây cũng là lần đầu tiên của tôi. Đừng lo lắng. Tôi sẽ dừng lại nếu đau quá. ... Vậy nên hãy để tôi dẫn dắt từ bây giờ."@
+` Akiha thì thầm đồng ý.
+\
+` [line=3]Tôi có thể cảm nhận cơ thể cô ấy đang nóng lên.@
+br
+` Chúng tôi ngồi trên futon, vẫn ôm nhau, và tôi bắt đầu chậm rãi khám phá cơ thể cô ấy.
+\
+bg #000000,lshutter,800
+` Tôi lén lút di chuyển sau lưng cô ấy và nhẹ nhàng cắn lấy tai cô ấy.@
+` [line=2]Đặt nó giữa đôi môi mình, tôi cẩn thận di chuyển răng qua lại — một dạng tiền điệu trước khi thực sự bắt đầu.
+\
+`"[line=6]!"@
+` Và...@
+` Chỉ trong khoảnh khắc đó, giọng nói của Akiha bỗng ngừng lại trong cổ họng cô ấy.@
+`"Akiha...?"@
+`"[line=3]Ha... ừm, Ah..."@
+` Giọng tôi không thể chạm đến cô ấy.@
+` Tôi chỉ cắn nhẹ vào tai cô ấy... có phải đó là điểm yếu của cô ấy?
+\
+`"Akiha, đôi tai của cậu nhạy cảm đến vậy sao?"@
+`"[line=3]Không, không phải thế... nhưng..."@
+` Cơ thể Akiha giật mình khi tôi nhai nhẹ vào vành tai cô ấy.@
+` ... Có điều này khá lạ.@
+` Tôi cố gắng hết sức để nhẹ nhàng, nhưng Akiha dường như phản ứng như thể tôi đang đối xử thô bạo với cô ấy. Cô ấy căng thẳng đến vậy vì đây là lần đầu tiên ư?
+\
+`"Akiha, thư giãn đi. Nếu cậu phản ứng mạnh như vậy khi tôi chỉ chạm nhẹ vào người cậu, thì tôi không biết cậu có thể chịu đựng được đến khi chúng ta thực sự làm điều đó hay không."@
+`"[line=4][line=3][line=3]Ừm... Tôi... hiểu rồi... đừng lo... cứ làm theo ý anh, Nii-san."@
+` Akiha tựa lưng vào tôi, vẫn đang thở dốc.@
+bg "event/aki_h03",lshutter,400
+`"[line=3]Ừm..."@
+` Đám mây căng thẳng bỗng dưng nổi lên trên lưng cô ấy.@
+` Chỉ bằng việc đặt tay lên ngực cô ấy, nhưng cô ấy quá căng thẳng đến mức gần như gãy cổ.
+\
+`"... Wow, chúng thực sự rất nhỏ."@
+`"Ah..."@
+`"Nhưng chúng mềm mà lại chắc nịch.@ Nghe này, nếu tôi làm thế này, ngón tay tôi sẽ bị đẩy lùi lại."@
+` Tôi dùng chút sức ép bằng đầu ngón tay...
+` ...tôi bóp đôi ngực nhỏ bé của cô ấy.
+\
+`"Aaaaaaa………!"@
+` Akiha thét lên.@
+` Da thịt cô ấy uốn cong quanh bàn tay tôi... những chiếc ngực vô cùng chắc nịch.@
+`"[line=3][line=3]Mmm... À... Anh trai ơi, xin anh, đừng... quá... mạnh taynhé..."@
+` Giọng nói của Akiha bắt đầu nóng lên.@
+` Cơ thể cô ấy đã nóng bừng từ lâu.
+\
+`"[line=3] Ngực em thật đáng yêu.@ Chúng quá dễ thương, tôi nghĩ mình phải tiếp tục sờ vào chúng thêm một chút."@
+` Tôi nghiêng người về phía vai cô ấy, chậm rãi liếm lên ngực cô ấy.@
+`"Aaaa………!!"@
+` Akiha hít một hơi ngạc nhiên và nắm lấy tay tôi.
+\
+`"[line=3] Ôi, Nii-san... Tại sao... bạn... thích... ngực em... đến vậy...[line=4]"@
+` Cơ thể Akiha run rẩy.@
+` Tôi chỉ liếm một bên ngực cô ấy, nhưng mồ hôi đang tuôn đổ trên người cô ấy như thể cô ấy đang cháy bỏng.@
+`"[line=3]Nơi này thật nóng."@
+` ... Tôi cũng không quá nóng, nhưng chắc chắn nơi đây cảm thấy ấm áp hơn.@
+` Có lẽ là vì Akiha đang tạo ra đủ nhiệt cho cả hai chúng ta.
+\
+`"Anh trai ơi, xin đừng sờ vào em như vậy. Chúng nhỏ quá... giống như một cô bé."@
+` Akiha thở gấp và cố ngăn tôi sờ vào ngực cô ấy.@
+`"...@
+` Tất nhiên, tôi chẳng có ý định dừng lại đâu.@
+` Tôi siết lấy bầu vú phải của cô ấy, nó vừa khít trong lòng bàn tay tôi.
+\
+`"[line=3]Ưm... Ưu, Ừm..."@
+` Cô ấy uốn người về sau.@
+` Dĩ nhiên, điều đó khiến ngực cô ấy nhô ra nhiều hơn, cho phép tôi siết chặt nó nhiều hơn.
+\
+`"Ha, ừm, ừm, ừm... ừm, ừm..."@
+` Ngực Akiha không mềm mại và đàn hồi mà có một độ căng chắc khỏe.@
+` ... Giống như Akiha nói, chúng giống như ngực của một cô bé hơn là của một người phụ nữ[line=2]làm cho chúng trở nên đáng yêu đến mức đau đớn.@
+`"[line=3]Ưm... N, Anh trai ơi..."@
+`"Xem Akiha, ngay cả khi chúng nhỏ, bạn vẫn thích khi tôi sờ vào chúng. Ngực bạn cứng như đá."@
+` Để minh họa quan điểm của tôi, tôi nắm lấy núm vú của cô ấy giữa ngón tay.
+\
+`"Naaaaaaaaaaa………!"@
+` Mặt Akiha đỏ bừng và toàn bộ cơ thể cô ấy run rẩy.@
+` Sự xấu hổ và khoái cảm chiến đấu để chiếm ưu thế trong thân hình mảnh mai của cô ấy.@
+br
+` Nén chặt.@
+` Tôi tiếp tục siết chặt núm vú cứng của cô ấy.@
+`"Ahh[line=3]ha, Ah.@ Ah.@ AH[line=5]"@
+br
+` Nhai nhấm.@
+` Trước khi cô ấy có thể ngăn tôi, tôi dùng răng của mình quấn lấy núm vú phải của cô ấy và cắn xuống.@
+`"[line=3]Nku!"@
+` Akiha ngã vào tôi.@
+` Nhưng tôi vẫn tiếp tục cắn, khiến cô ấy phát điên.
+\
+`"[line=3][line=4]Ahhh... Ha, ha, ha, h... Ahh..."@
+` Tôi liên tục bóp chặt núm vú của cô ấy.@
+`"[line=3][line=3]... Hah... Anh trai ơi... Dừng lại... ah, naaaaaaaaaaa..."@
+` Thay vì dừng lại, tôi cắn mạnh hơn một chút.@
+` Tóc đỏ của cô ấy bay phất phới từ bên này sang bên kia.@
+` Cơ thể cô ấy nóng đến mức gần như phun trào.@
+br
+` [line=3]Tôi tạm dừng một chút để quan sát công việc của mình.@
+` Giường futon dưới chúng tôi đã thấm ướt hoàn toàn.
+\
+`"[line=3][line=5]Hah, hah, hah, hah Ah, Nm, hwa"@
+` ... Tôi chỉ đang chạm vào cô ấy, nhưng cô ấy hành động như thể tôi đã ở bên trong cô ấy rồi.@
+`"…… Có thoải mái không?"@
+`"[line=3][line=3][line=4]Huh N, không Ah, hau"@
+` Tôi không thể hiểu rõ lời cô ấy nói vì Akiha đang thở quá nhanh.@
+` [line=3]Tôi không chắc lắm, nhưng có lẽ...
+\
+`"Tôi hiểu rồi. Nếu khi tôi sờ vào ngực cô ấy cảm thấy không thoải mái, tôi sẽ tìm chỗ khác."@
+`"[line=3]Hừm... Em... anh... em nói... gì... Nii-san?"@
+`"Tôi đã nói rõ rồi. Tôi bảo tôi sẽ làm điều này."@
+` Tôi lật cô ấy sang, liếm dọc theo lưng Akiha.@
+br
+` [line=3]Sau đó...
+\
+`"[line=5]Aaaaaaa!!!"@
+` Akiha khom người lại như thể lưỡi của tôi đang đốt cô ấy.
+\
+`"[line=3][line=3][line=3]Akiha-san, tại sao... bạn lại làm thế?!"@
+`"Tất cả những gì tôi làm là liếm lưng bạn... bạn không thích à?"@
+`"... Không, nó ngứa... và tôi sợ."
+\
+bg "bg/bg_45c",crossfade,400
+` Tôi để tay buông xuống hai bên người.@
+`"[line=5]"@
+` ... Tôi hoàn toàn mất ngôn ngữ.@
+` Không lạ khi cô ấy hét lên rất to khi tôi chạm vào tai cô ấy.@
+` Có lẽ... Akiha nhạy cảm hơn nhiều[line=2]nhạy cảm hơn một người bình thường.
+\
+`"Akiha, hãy nói thật[line=2]cảm giác của cậu thế nào?"@
+`"[line=5]"@
+` Mặt Akiha trở nên đỏ rực.@
+` "Tôi không cần chờ câu trả lời của cô ấy nữa."@
+`"Ôi trời... Tôi không ngờ em lại nhạy cảm đến vậy. À... Em có luôn như thế này không?"@
+`"[line=3][line=3]Ờm... Tôi không biết, nhưng có lẽ bây giờ khác rồi. Khi nghĩ về việc em sờ vào tôi, trái tim tôi đập rất nhanh và cơ thể tôi trở nên nóng bừng."
+\
+` [line=3]"Ôi trời ơi."@
+` "Điều này quá kích thích đến mức tôi muốn đẩy em xuống giường futon và hoàn thành điều tôi bắt đầu."@
+` "Nhưng Akiha mới chỉ bị thương."@
+` "Tôi không thể ép em vượt quá giới hạn của mình."
+\
+`"Akiha, em có muốn dừng lại hôm nay không?"@
+`"Chuyện gì vậy, anh trai?" @
+` Akiha tỏ ra ngạc nhiên.
+\
+`"... Anh không muốn ở bên tôi, anh trai ạ?" @
+`"Không, làm sao anh có thể nói như vậy!!? Tôi thực sự muốn [line=2]giờ đây!! Nhưng anh quá nhạy cảm, tôi không biết sẽ xảy ra điều gì nếu tôi tiếp tục.@"@
+` [line=3]Hơn nữa, anh nói đây là lần đầu tiên... Tôi cảm thấy như tôi có thể phá vỡ anh nếu tôi tiếp tục. ["@" bị cắt trong dòng 5]@
+br
+` [line=3]Giải thích của tôi bị ngắt quãng...
+` ...bởi vì miệng Akiha đã đóng lại trên môi tôi.
+\
+`"Anh trai." @
+`"[line=3]Akiha."@
+`"Anh nói rằng mọi thứ sẽ ổn... nên xin đừng dừng lại."@
+`"[line=3]Akiha nhưng..."@
+`"... Xin hãy. Nếu anh nghĩ sẽ làm vỡ tôi, thì hãy làm vỡ tôi. Tôi sẽ chịu đựng bất kỳ nỗi đau nào mà anh gây ra."@
+` Akiha nhìn thẳng vào mắt tôi.@
+` ... Sự nhìn chằm chằm không lay chuyển của cô ấy khiến tôi phải đưa ra quyết định.
+\
+`"... Em chắc là ổn? Tôi nghĩ mình sẽ không thể dừng lại một khi đã bắt đầu. ... Tôi muốn anh quá."@
+`"[line=4]Tôi không quan tâm. ... Tôi cũng muốn anh, em trai ạ."@
+` Mắt Akiha đỏ ngầu khi cô chờ đợi tôi thực hiện nước đi tiếp theo.
+\
+`"Akiha[line=4]"@
+` Nếu cô ấy thực sự muốn điều này.@
+` Không có cách nào tôi có thể kiềm chế được.@
+br
+` Tôi lao về phía trước.@
+`"Ah[line=4]"@
+` Akiha phát ra một tiếng kêu sắc nhọn và ngã ngược lại trên giường futon.
+\
+` …… Cơ thể cô ấy nóng bừng.@
+` Cơ thể cô ấy nóng bừng và mồ hôi lấm tấm uốn cong theo ngón tay tôi.
+\
+`"... Cậu đã đủ ướt ở dưới rồi.@ Tôi đoán tôi không cần làm gì nhiều hơn để chuẩn bị cho cậu nữa."@
+`"[line=3]Anh trai, tại sao anh lại nói những điều khó xử như vậy?"@
+` Akiha ửng đỏ.@
+` ... Akiha dường như chưa nhận ra rằng lý do tôi nói những điều đó là vì tôi muốn thấy phản ứng của cô ấy.
+\
+`"[line=3]Ừm... Tôi phải kiểm tra xem có chắc không.@ Akiha, mở chân ra cho tôi.@ Tôi không thể nhìn thấy như thế này."@
+` Tôi nắm chặt đôi chân cô ấy vẫn khép kín.@
+`"[line=3][line=3]Này anh trai, đừng!"@
+`"Không còn thời gian chờ đợi nữa. Hãy để tôi gặp bạn ngay bây giờ."@
+`"[line=3]Kyaa!"@
+` Tôi nắm lấy bàn chân cô ấy và kéo chân cô ấy ra một cách thô bạo.
+\
+`"[line=2]Đừng nhìn………!"@
+` Akiha cố gắng giãy giụa, nhưng tôi giữ chặt cô ấy.@
+` Tôi đưa mặt xuống gần những nếp gấp hồng nhạt của cô ấy... và hít một hơi sâu, thỏa mãn.@
+`"!!! Anh trai ơi, anh đang làm gì vậy!!"@
+`"Tôi đang ngửi ngươi. Không thích à?"@
+`"Tất nhiên là tôi không thích nó……!! Ngoài ra, bạn không cần phải làm thế, vì tất cả những gì bạn phải làm là… nhận lấy và… của tôi và……"
+\
+` Cô ấy lẩm bẩm.@
+` Tôi nghĩ Akiha chỉ biết những điều cơ bản về tình dục.
+\
+`"…… Đúng vậy, nhưng bạn phải làm những việc khác trước hoặc nó sẽ đau."@
+` Mặc dù, nếu cô ấy đã ướt như vậy rồi, tôi không nghĩ mình cần lo lắng về điều đó.@
+`"Ví dụ, bạn phải cho nó quen với việc bị chạm vào… như thế này[line=3]"@
+` Tôi tách đôi môi mỏng manh của cô ấy và từ từ đưa lưỡi ra.
+\
+`"Ahaaaaaa[line=3]!!?"@
+` Cơ thể Akiha gần như bật lên khỏi giường futon.@
+`"Thật đáng kinh ngạc... cậu vẫn ẩm ướt bên trong."@
+`"[line=3][line=2]Nii-san, không... nó bẩn lắm."@
+`"[line=2]Không, hoàn toàn không bẩn chút nào. Nó ấm áp... và ngon miệng."@
+br
+` Nếm thử.@
+` Tôi chậm rãi nuốt lấy nước dịch từ cô ấy.
+\
+`"[line=3][line=4]Ahh... Nn, fwa... Ahhhh!"@
+` Tôi tăng cường bằng cách đưa lưỡi vào bên trong.@
+`"[line=5]Naa... Haaaaaaaaaaa…………!!"@
+` ... Ngón lưỡi không mạnh bằng dương vật cứng.@
+` Tôi không thể thực sự lấp đầy cô ấy như vậy, nên tôi chỉ di chuyển nó xung quanh, khám phá mọi thứ trong tầm với của mình.
+\
+bg "event/aki_h10",crossfade,800
+`"[line=4][line=4]Hanh... Nii-san, dừng lại... Nha..."@
+` Cơ thể Akiha uốn cong về sau.@
+` Mỗi lần cô ấy nhấc người lên, mái tóc đỏ của cô ấy lắc lư trên vai... Đó có lẽ là cảnh gợi cảm nhất tôi từng thấy.
+\
+` Tóc mỏng manh gần miệng tôi thậm chí còn mỏng hơn tóc trên đầu cô ấy.@
+` Dưới đám lông nhỏ đó, tôi nhìn thấy một sự phồng lên của thịt, đầu đỏ của nó trông như thể đang đau đớn muốn được chạm vào vậy.
+\
+`"…… Ừm."@
+` Ngạc nhiên, tôi nhẹ nhàng liếm nó.@
+` [line=2]Điểm này giống như đầu dương vật của một người đàn ông, nhạy cảm hơn bất kỳ phần nào khác.@
+`"[line=9]!!!"@
+` Chân Akiha co lại.@
+`"[line=5][line=3]Mmm... Ahhh, haa... n."@
+` Cơ thể cô run rẩy.@
+` Chỉ với một lần chạm bằng lưỡi của tôi, cơ thể xinh đẹp của Akiha nhảy múa.
+\
+`"[line=4][line=3]Ôi, anh trai, tôi..."@
+` Akiha dường như quá phấn khích đến mức không thể tập trung vào tôi.@
+`"...@
+` Không nên trì hoãn thêm nữa. Hơn nữa, tôi đã không còn sức chịu đựng.@
+`"[line=3]Akiha, tôi sẽ làm điều này ngay bây giờ."@
+` Tôi hạ thấp hông, dẫn đầu cho sự xâm nhập của mình vào nơi cô ấy đang chờ đợi.
+\
+`"[line=5]Ôi trời!"@
+` Tôi chưa thậm chí bắt đầu.@
+` Tôi chỉ chạm vào cô ấy bằng đầu ngón tay, và cơ thể cô ấy đang run rẩy.@
+` Tôi không biết sẽ xảy ra điều gì nếu tôi đặt nó vào.@
+` Nhưng tôi muốn cô ấy quá nhiều, tôi không nghĩ mình có thể dừng lại.@
+`"[line=6]"@
+` "Với sự nhẹ nhàng nhất có thể,"
+` Tôi từ từ đẩy bản thân vào trong.
+\
+bg "event/aki_h04",lshutter,800
+`"Aaaaa... ....!!!"@
+` Akiha run rẩy dữ dội.@
+` Hơi thở của cô ấy ngày càng khó khăn khi tôi tiến sâu hơn vào cơ thể cô.
+\
+`"[line=3]Ưm, À, àh, àh... Àh, Àh..."@
+` Cô ấy siết chặt tấm chăn, cuộn chúng thành những nắm đấm to.@
+` Răng cô ấy nghiến lại khi cô ấy cố chống chịu cơn đau.@
+`"Akiha, có đau không?"@
+`"[line=3][line=3]Đúng... nhưng tôi... vẫn... có thể... chịu đựng... được."@
+` Câu trả lời của cô ấy đến từng mảnh vỡ.
+\
+`"[line=8]@"@
+` Tôi cũng tìm thấy giọng nói của chính mình đang tan biến.@
+` ... Cô ấy quá chặt.@
+` Giống như khi Akiha bị tổn thương vì tôi xâm nhập vào cô ấy, tôi cũng bị tổn thương bởi sự chặt khít bên trong cô ấy.@
+br
+` Nó ẩm ướt.@
+` Vâng, rất ẩm ướt... nhưng nó quá chặt đến mức khó có thể di chuyển.@
+` Nó giống như những bức tường bên trong cô ấy đang cố đẩy tôi ra ngoài.
+\
+` Cảm giác đó.@
+` Màng mềm của cô ấy ôm trọn lấy dương vật tôi, siết chặt như một nắm đấm và gần như khiến tôi ngất đi.
+\
+`"…… Anh......"@
+` Tôi cố gắng làm cho Akiha thoải mái và thư giãn cho đến giờ, và tôi chưa thực sự phấn khích lắm, nhưng...
+` Bây giờ khi tôi đã tiến vào một nửa, tôi sắp nổ tung.
+\
+`"[line=4]Chết tiệt!"@
+` Không, chưa. Tôi không thể kết thúc quá sớm.@
+` Tôi siết chặt cơ thể và cố gắng đẩy phần còn lại vào.
+\
+`"[line=3]Nku………!@ Ôi trời ơi... Nii-san, nó... quá... lớn!"@
+` Akiha cong người lại.@
+` Chỗ tôi xuyên vào cơ thể cô ấy cảm thấy như đang xé nát cô ấy từ bên trong.@
+` Tôi cố gắng di chuyển chậm rãi nhưng vẫn có thể nhìn thấy sự đau đớn hiện rõ trên gương mặt cô ấy.@
+` Động tác của Akiha trở nên thô bạo và không theo quy luật khi cơn đau ập đến.
+\
+`"[line=3]Aaaaah... Aauuuu... Naaaaaa!"@
+` Tôi đẩy sâu hơn.@
+` Khi chạm đến những vùng sâu chưa được khám phá của Akiha, tôi cảm thấy như thể mình đã thuộc về đây từ lâu.@
+`"[line=3]Nmm... Haaa... Naaaa... Auuuuuuuuuu!"@
+` Giọng nói của Akiha giờ giống như một tiếng thét.@
+` Nhưng khi nỗi đau của cô ấy tăng lên, niềm vui của tôi cũng lớn hơn.@
+` Đó là cảm giác tuyệt vời nhất bên trong cô ấy.@
+br
+` Tôi chìm xuống.@
+` Tôi chậm rãi nhúng dương vật nóng vào lỗ nhỏ chống cự của cô ấy.
+\
+`"Nku... Ha, ah, ha [line=3]Anh trai... nó quá nóng..."!@
+`"Chỉ mới bắt đầu thôi, Akiha..."!@
+` Cô ấy không phải là người duy nhất cảm thấy nóng như thế.@
+` Nó quá nóng bên trong lối đi của cô ấy đến mức tôi có cảm giác tan chảy vào cô ấy.
+\
+`"[line=3]Akiha, tôi sẽ tiến vào."@
+` Tôi đẩy sâu hơn một chút.@
+` Và tôi cảm nhận được thứ gì đó mà tôi không thể vượt qua.@
+`"[line=6]Ya"@
+` Những bức tường của Akiha vẫn siết chặt lấy tôi.@
+`"[line=4][line=3]Hah... Nii-san"@
+` Akiha gầm gừ răng chuẩn bị cho cơn đau sắp tới.
+\
+`"...Akiha, cô chắc chắn về điều này?"@
+`"[line=3]Đúng rồi... phải là cậu, anh trai."@
+` Tôi không cần nghe thêm gì nữa.@
+` Cố gắng làm cho cơn đau ngắn nhất có thể, tôi lao về phía trước.@
+`"[line=10]!"@
+` Cơ thể cô ấy giật mình.@
+` Akiha cố đẩy mình ra khỏi chiếc gối futon trong một nỗ lực vô vọng để thoát khỏi sự đau đớn.
+\
+bg "event/aki_h05",crossfade,400
+`"[line=3][line=4]Ôi trời ơi, Nku, Haa!"@
+` Tôi cảm thấy thứ gì đó dính nhầy chảy xuống mông tôi.@
+` Chất lỏng chảy từ Akiha giờ có một sắc đỏ nhạt pha trộn vào nó.@
+` Tôi vẫn tiếp tục.@
+br
+` Tôi đẩy sâu hơn.@
+br
+`"[line=5]! Ôi, ôi, ôi... [line=3]!"@
+` Bụng Akiha phồng lên một chút.@
+` Đây là bằng chứng rằng tôi đã xâm nhập sâu vào cô ấy.
+\
+`"Ha ha ha ha ha ha ha [line=3]"@
+` Tôi di chuyển hông lên xuống, tận hưởng mọi âm thanh mà cơ thể chúng ta tạo ra khi kết hợp với nhau.@
+`"[line=3]Akiha... auuuuu!"@
+` Tôi không thể nghe thấy Akiha.@
+` Cô ấy chắc vẫn còn đau đớn.@
+` Phải chăng cô ấy đang trải qua nỗi đau nhiều hơn niềm vui vào lúc này?
+\
+`"[line=4]Hah, hah, hah, hah" [lối nói đầy đau khổ]@
+` ... Nhưng với tôi lại ngược lại.@
+` Càng khiến Akiha đau đớn, càng siết chặt con đường cô ấy đang đi qua, kéo tôi vào sâu hơn.@
+br
+` Không thể nào...
+` Tôi... không thể dừng mình lại bây giờ.
+\
+`"[line=3]Nn...! Anh trai à!"@
+` Tôi di chuyển.@
+`"[line=3][line=5]Anh trai, nó đau lắm!"@
+` Tôi cứ tiếp tục di chuyển.@
+br
+` Bên trong cô ấy thật mềm mại.@
+` Nó ấm áp, và chặt... và tôi cảm thấy như có thể tôi sẽ nổ tung bất cứ lúc nào.
+\
+`"[line=2][line=3]Ôi trời ơi! Nhaaaa, aa!"@
+` Tôi nghe thấy Akiha.@
+` ... Và cuối cùng tôi nhận ra điều gì đó.@
+` Cô ấy có nước mắt trong đôi mắt.@
+`"[line=6]Ku!"@
+` Nhưng tôi vẫn không thể dừng lại. Tôi đẩy mạnh hơn.@
+` Sau đó `[line=4]`
+`"Nhức...! Ha, ơi, anh trai [line=3] tôi, tôi [line=4]!"@
+` Akiha cong lưng như một cung.@
+` Cô ấy siết tôi quá chặt đến nỗi tôi gần như không thể di chuyển được.
+\
+bg #ffffff,crossfade,400
+`"[line=4]Ku, A...!"@
+` Tôi đã đạt đến giới hạn của mình.@
+` Khi Akiha ngã người xuống giường futon, tôi biết mình không thể kìm nén được thêm một giây nữa.@
+` Tôi nhanh chóng rút ra khỏi những bức tường co giật của cô ấy.@
+br
+` Một giọt nước bắn tung.@
+` Hạt giống của tôi bắn ra ngoài.@
+` Thay vì xâm nhập vào cô ấy, nó phun khắp cơ thể xinh đẹp của Akiha.
+\
+bg "bg/bg_45c",crossfade,800
+`"Hả... A, ah..."[line=4]@
+` Xương sống cong của Akiha cuối cùng cũng thư giãn.@
+` Cô ấy yếu ớt ngã xuống futon.@
+` Tóc đỏ của cô ấy trải dài khắp tatami, trông giống như một con vật bị thương nặng nhưng lại đẹp một cách đau đớn.
+\
+`"[line=4][line=4][line=4]Hah" — Shiki cười khẩy, dù cố gắng kiềm chế.@
+` Mặc dù không tệ như Akiha, tôi vẫn gặp khó khăn trong việc lấy lại hơi thở bình thường.@
+` [line=3]Akiha nằm im lìm trên futon, má đỏ bừng... và những giọt nước mắt vẫn lấp lánh trong đôi mắt cô.
+\
+bg "event/aki_h06",lshutter,800
+` ... Tôi hy vọng đó chỉ là do đau đớn khi mất trinh tiết.@
+` Những giọt nước mắt ấy vẫn còn đó.@
+`"Nii-san, cậu đã làm điều đó ở ngoài."@
+` Giọng nói và biểu cảm của Akiha như một giấc mơ mờ ảo.@
+` Cơ thể cô ấy phủ đầy... dấu ấn của tôi.@
+` Akiha dường như không quan tâm, cô ấy không cố gắng làm sạch bản thân khi vẫn nằm im trên futon.
+\
+`"Akiha... có còn đau không?"@
+`"[line=4]Ừm, một chút, nhưng giờ tôi ổn rồi."@
+`"[line=3]... Tôi hiểu rồi. Xin lỗi. Tôi nói là sẽ nhẹ nhàng, nhưng bạn quá đáng yêu."@
+` Tôi chỉ làm tất cả vì bản thân mình.@
+`"[line=3]... Không, mọi thứ đều ổn. Nó đau, nhưng tôi hạnh phúc hơn. Bây giờ, ngay cả khi tôi phải chết, tôi cũng không hối tiếc."
+\
+`"[line=3]Chuyện gì vậy...! Tôi đã nói là tôi không quan tâm đến 'Akiha' nào.@
+` Tôi không phiền nếu mái tóc của bạn vẫn đỏ. Nếu bạn muốn máu, tôi sẽ cho bạn tất cả. Tôi muốn ở bên bạn khi bạn đau khổ.@
+` "Ngoài ra, tôi vẫn chưa đủ gần với cậu. Tôi muốn ở bên cậu nhiều hơn. Nên đừng nói những điều như vậy. Chúng ta không sẽ ở bên nhau từ bây giờ trở đi sao?"@
+`"Anh trai"[line=5]@
+` Akiha không nói gì.@
+br
+` …… Trong một thời gian,
+` Chỉ nhiệt độ cơ thể chúng ta mới chảy qua nhau.
+\
+` Cho đến khi.@
+`"Anh trai, em có thể xin anh một điều nhỏ không?"@
+` Akiha nói với giọng sáng sủa.
+\
+`"Vâng, được rồi. Tôi sẽ làm bất cứ điều gì có thể."@
+`"Cảm ơn. Vậy thì hãy hứa với tôi như thế này: Nếu tôi từng biến thành thứ... khác, hãy giết tôi bằng tay của chính bạn."@
+` Chỉ như vậy thôi.@
+` Cô ấy nói như thể đó là điều bình thường.
+\
+`"[line=4]Hả?"@
+` Tôi không thể nói được gì.@
+` [line=3]Tôi không hiểu tại sao cô ấy lại đưa ra vấn đề này ngay lúc này.
+\
+`"... Ý cô là sao? Cô nghĩ tôi sẽ làm loại hứa như vậy à?"@
+`"Có, vì em là người quan trọng nhất trong cuộc đời tôi. Đương nhiên là khi chết, ta sẽ ở bên cạnh người mình yêu thương nhất, phải không?"@
+` "Hay cậu cũng định bỏ lỡ đám tang của tôi, anh trai ạ?"@
+`"[line=4]Điều đó chẳng liên quan gì đến chuyện chúng ta đang nói."
+\
+`"Không khác biệt gì cả."@
+` "... Anh trai, tóc tôi có thể không mọc lại, nhưng đó không phải vấn đề lớn."@
+` "... Điều tôi sợ là tôi sẽ bị điên như SHIKI. Cha tôi bị bệnh tâm thần ở tuổi bốn mươi. Vì vậy nếu tôi sống lâu, tôi cũng có thể trở thành như vậy."@
+`"[line=3][line=3]... Không thể xảy ra đâu. Và ngay cả khi nó xảy ra, vẫn còn rất xa. Hơn nữa, nếu nó thực sự xảy ra, tôi sẽ..."
+\
+`"... Cảm ơn cậu, nhưng bất cứ ai mang dòng máu Tohno trong người cũng sẽ chết khi điều đó xảy ra."@
+` Khi dòng máu Tohno trở nên quá mạnh, cậu tự kết liễu bản thân. ... Đó là cách nó đã diễn ra từ lâu.@
+` Nếu cậu thay đổi hoàn toàn, cậu không thể quay lại trừ khi chết.@
+` Mọi người thay đổi đều rơi vào điên loạn. Tôi thậm chí không nhận ra chính mình và sẽ gây đau đớn cho bất cứ thứ gì tôi nhìn thấy.@
+` ... Điều đáng sợ là ngay cả khi cậu muốn tự kết liễu bản thân, cậu cũng không thể làm điều đó khi ở trong trạng thái như vậy."
+\
+`"[line=3]Nii-san...
+` Tôi phải hỏi người mà tôi yêu nhiều nhất. Vì tôi tin tưởng cậu hơn bất kỳ ai khác... bởi vì tôi chỉ có cậu, tôi chỉ có thể để cậu chăm sóc tôi.@
+` Tôi không muốn gây ra nỗi đau cho một người tôi không biết trong khi tâm trí tôi mất kiểm soát. Nếu tôi làm điều đó, Tohno Akiha cũ sẽ hoàn toàn bị phá hủy.
+\
+`"Akiha[line=3]đó... là..."@
+`"…… Hãy giết tôi đi.@
+` Một ngày nào đó, khi tôi đã hoàn toàn thay đổi, nếu bạn vẫn yêu tôi... giết tôi vì tôi, nếu không ai khác làm được[line=2].@
+` Trước khi tôi làm điều mà tôi sẽ hối hận, để tôi có thể giữ bản thân ngay cả lúc đó. Trong khi tôi vẫn chỉ là em gái của cậu."@
+`"@ [line=7]"@
+` ... Tôi cắn chặt răng.@
+` Đây là lý do cô ấy khóc.
+\
+` Không phải vì cô ấy vui mừng về việc chúng ta ở bên nhau lúc này.@
+` Nhưng bởi một ngày nào đó...
+` Cô ấy biết rằng một ngày nào đó trong tương lai, hạnh phúc này chỉ sẽ là một ký ức. Đó là lý do cô ấy khóc.
+\
+`"[line=5]Bạn..."@
+` ... Tôi cảm thấy cơn giận nổi lên bên trong tôi.@
+` Làm sao cô ấy có thể nói những điều như vậy một cách dễ dàng?@
+br
+`"[line=5]Ngốc nghếch!"@
+` Cơn giận với dòng máu Tohno vì buộc cô ấy phải chịu số phận này.@
+br
+`"[line=6]Tại sao bạn lại phải..."@
+` [line=4]Cơn giận với chính bản thân mình vì không hứa với cô ấy, ngay cả khi đó chỉ là một lời dối trá.
+\
+Eros vượt qua giới hạn 42
+bg #000000,crossfade,800
+bg "event/aki_h07",crossfade,800
+`"[line=4]Ừm...?!@"@
+` "Tôi hôn cô ấy... rất mạnh."@
+` "Nụ hôn thứ ba của chúng tôi không phải là vì tình yêu."@
+` "Đó là nụ hôn cuồng nhiệt để dập tắt sự phản kháng của cô ấy."
+\
+`"[line=8]Akiha!"@
+` "Khác với nụ hôn trước, nó sâu sắc và đam mê."@
+`"[line=5][line=6]Ừm... Ừm..."@
+` Akiha ban đầu do dự, nhưng cuối cùng cô ấy đưa lưỡi ra, chạm vào lưỡi tôi.@
+` Ngôn của chúng ta nhảy múa khi nước bọt của chúng ta trộn lẫn và chảy cùng nhau.@
+` Cảm giác của lưỡi trơn tru như rắn khiến suy nghĩ hợp lý trở nên không thể.@
+` ... Nó cảm thấy như những lưỡi của chúng ta tan vào nhau.@
+` Ở bên cô ấy khiến tôi thấy thoải mái đến mức thậm chí lưỡi của tôi còn cản trở.@
+` Da, tâm trí, và cả việc tôi là con người đều khiến tôi khó chịu.
+\
+`"Mm………… Anh trai……..."@
+` Phải là như vậy với cô ấy, khi cô ấy nuốt nước bọt của tôi và thay thế bằng nước bọt của riêng mình.@
+` Tôi nuốt một cách khó chịu.@
+` Thay vì hòa vào nhau, chúng ta chỉ trao đổi nước bọt.@
+` Akiha ngậm môi tôi một cách cuồng nhiệt.
+\
+`"[line=2][line=5]Hàn, ku"@
+` Tôi thở gấp gáp.@
+` Giống như Akiha trước đó, đầu tôi trở nên trống rỗng.@
+br
+` …… Thật sao?@
+` Tôi tức giận vì những gì cô ấy nói.
+\
+`"Mình... ừm... " @
+` Tôi để cho cô ấy thả miệng ra. @
+` Cô ấy hít một hơi thật sâu. @
+`"Nii-san...? Chuyện gì vậy? Chúng ta mới chỉ nói chuyện thôi." @
+`"Tôi không muốn nói chuyện nữa. Mình đang quá tức giận lúc này." @
+` Tôi nâng cơ thể cô ấy khỏi futon. @
+`"[line=3]Nii-san, sao cậu lại tức giận?" @
+`"[line=2]Có rất nhiều thứ như thái độ bi quan của cậu... không thể cười nó bỏ qua, mọi thứ vậy." @
+` "Nhưng điều thực sự khiến tôi bực mình là khi cậu nghĩ về cái chết trong lúc tôi cố gắng hết sức để làm hài lòng cậu."
+\
+`"[line=3]Hả?"@
+`"Có vẻ như nó không tốt cho cậu sau tất cả, phải không? Tôi rất tức giận đến mức sẽ khiến cậu cảm thấy thoải mái!"@
+` Với lời nói đó, tôi chôn mặt giữa hai bàn tay cô ấy.@
+` Tôi không biết liệu lần trước cô ấy có thực sự thích điều đó hay không.@
+` Nhưng tôi vẫn đặt miệng vào và hút.
+\
+`"[line=5]Nmmm..."@
+` Akiha giật mình lùi lại.@
+`"Anh trai à[line=3]Tôi cảm thấy rất tốt khi[line=3]Này?"@
+` Tôi vuốt ve thon gọn của cô ấy.@
+` Cô ấy lánh nhìn đi, chỉ tập trung vào điều đó.
+\
+`"[line=4][line=3]ÀAnh trai, chúng ta... vẫn còn... làm... thêm... à?"@
+`"Chúng ta sẽ làm. Tôi chắc cơ thể cậu đã quen với nó rồi. Lần này cậu sẽ cảm thấy tốt hơn rất nhiều... Tôi sẽ tiếp tục cho đến khi cậu không thể suy nghĩ về bất cứ điều gì khác!"
+\
+`"Điều gì... anh trai muốn nói, vậy à..."@
+`"Đúng vậy, tôi tức lắm... nên tôi sẽ không nhẹ nhàng như lần trước."@
+`"Không, tôi muốn hỏi... có thực lần này sẽ cảm thấy tốt hơn..."@
+` Cô ấy đỏ mặt, bất chấp những gì cô ấy đang hỏi.
+\
+`"[line=3]Không phải lần trước đã đau lắm sao? Tôi nghĩ cậu không muốn làm lại vì điều đó khiến cậu đau quá."@
+`"[line=3]Ừm... nó thực sự đau, nhưng cũng rất dễ chịu. ... Tôi nghĩ quan hệ tình dục vốn dĩ như thế này, nhưng..."@
+br
+` "Tôi sai à?" - Đôi mắt cô ấy hỏi.@
+` Cô ấy quá đáng yêu đến mức khiến tôi mỉm cười.
+\
+`"[line=3]Chỉ có cảm giác đau đớn lúc ban đầu. Sau đó thì chỉ thấy sảng khoái. Vậy nên nếu tôi làm điều này..."@
+`"[line=5]!!!"@
+` Tôi nâng một chân của cô ấy và đặt tay lên hông cô ấy.@
+` [line=3]Tôi nhẹ nhàng kéo cô ấy vào lòng mình, đặt hai chân cô ấy lên đùi tôi.
+\
+`"[line=4]Nii-san?"@
+`"...Akiha, em yêu anh."@
+` Tôi nói với cô ấy như vậy.@
+`"Vì thế nên tôi sẽ làm bất cứ điều gì em muốn... nhưng đừng nhắc lại những lời kia trước đó nữa. Tôi muốn ở bên em cho đến khi tôi còn sống."@
+`"Ôi..."@
+`"...Đi thôi. Tôi sẽ khiến cô cảm thấy thoải mái đến mức cô sẽ không bao giờ nghĩ về chuyện đó nữa."@
+`"[line=4]Nii-san"@
+` Ở tư thế này,
+` tôi có thể dễ dàng đưa nó vào cô ấy.
+\
+` Không có lý do nào tôi lại nương nhẹ với cô ấy lúc này.@
+` Tôi ôm chặt lấy cô ấy, đẩy sâu hơn vào bên trong.
+\
+bg "event/aki_h08",crossfade,400
+`"[line=8]Nhaa?!"@
+` Akiha uốn người mạnh mẽ.@
+` Tôi không đưa nó vào từ từ như trước nữa.@
+` Tôi chỉ đẩy thật mạnh hết sức có thể.
+\
+`"[line=4][line=3]Ôi, anh trai, nó đau!"@
+` Akiha quấn đôi tay quanh vai tôi.@
+` Tôi phớt lờ những than vãn của cô ấy và kéo ra... nhưng chỉ đủ xa để đẩy bản thân trở lại bên trong.@
+`"[line=5]!"@
+` Một chuyển động giật cục.@
+` Đầu gối tôi dễ dàng trượt vào đường hầm ẩm ướt của cô ấy.
+\
+`"[line=3][line=4]Mmm... Anh, Ha, Ồi, anh..."@
+` Vị trí này xuyên sâu vào cô ấy, khiến cô ấy run rẩy khắp người.@
+`"[line=4]Anh... nói dối..." Shiki thở dốc đến mức tôi gần như không hiểu được cô ấy.@
+` Akiha đang thở hổn hển đến mức tôi có thể thấy rõ.@
+`"[line=3]Em... nói... nó... sẽ không... còn đau nữa"@
+` Giọng cô ấy nghe có vẻ buồn bã.@
+` Nhưng nhiệt độ bên trong cô ấy lại cao hơn bao giờ hết, và mồ hôi của cô ấy gần như tuôn ra trên chiếc gối.
+\
+`"Tôi nói dối à? Vậy em muốn nói rằng..."@
+`"[line=5]Nha!"@
+` Tôi đẩy lên một lần nữa.@
+` Tôi cố gắng hết sức có thể.
+\
+`"... Ừm... ừm, ừ... [line=3]"@
+` Cô ấy siết chặt tay quanh vai tôi.@
+` Khi tôi hoàn toàn xâm nhập vào, tôi ngừng di chuyển để cô ấy không bị mất cảm giác.@
+` Cô ấy thở gấp gáp, chỉ vì có tôi ở bên trong.@
+`"[line=3]Anh trai, vị trí này..."@
+`"Đúng vậy, thật xấu hổ phải không? Anh nghĩ mọi người sẽ nói gì nếu họ thấy em ở thế này?"@
+`"[line=8]"@
+` Mặt Akiha bỗng đỏ bừng.
+\
+`"N-Nii-san…! Nếu anh biết tôi không thích thế này, xin đừng làm nữa…"@
+` Akiha cố gắng rút ra.@
+` Nhưng tôi chẳng có ý định buông tay.@
+`"…… Akiha, tôi sẽ làm như thế này. Giữ lấy tôi nếu không muốn ngã……!"@
+`"[line=3]Chuyện gì vậy?"@
+` Tôi nắm lấy thắt lưng cô ấy.@
+` Với một tay, tôi nâng cao đôi chân của cô ấy thêm nữa.@
+` Cơ thể Akiha cong ngược lại, nhưng điều đó chỉ khiến việc di chuyển của tôi trở nên dễ dàng hơn.
+\
+`"[line=4]Ưm. Ôi trời ơi!"@
+` Ở tư thế này, có lẽ Akiha đang cảm thấy sung sướng chỉ từ việc tôi ôm như vậy.
+\
+`"[line=5]Akiha!"@
+` Đó là tín hiệu.@
+` Tôi rút ra, rồi nhanh chóng đẩy trở lại.@
+`"[line=2][line=3]Ôi trời ơi, anh trai, xin đừng dừng lại!"@
+` Akiha khóc to hơn.@
+` Nhưng không đủ lớn để khiến tôi ngừng lại.@
+br
+` Làm ồn ào,
+` Tôi tiếp tục đâm vào.
+\
+`"[line=3]Hít... ôi... a... u... haaaaa!!"@
+` Akiha ôm chặt lấy tôi.@
+`"[line=3][line=3]Anh trai à, Nku, tôi...!"@
+` Khi tôi đẩy lên,@
+`"[line=3]Cảm giác này... Ừm... aahhhh..."!@
+` Tôi cảm nhận được nhiệt độ của cô ấy.@
+br
+` Tôi có thể nghe thấy âm thanh ẩm ướt đang dâng cao giữa chúng tôi.@
+` Chất lỏng của Akiha chảy ra.
+\
+`"[line=4][line=3]Đau quá, nhưng..."@
+` Tôi bị ôm chặt bởi cánh tay và cơ thể của Akiha.@
+` "Ha, fwa, ah, ah!" cô ấy thì thầm.
+\
+`"[line=5]Tôi đẩy sâu vào trong cô ấy đến mức có thể.@
+` Cơ thể Akiha run rẩy với mỗi lần tôi xâm nhập.@
+` "Anh trai ơi," cô ấy khàn giọng, "này rất tốt."
+\
+`"[line=3]Tôi không chắc đó là do giận dữ hay niềm vui...@
+` ...nhưng rồi Akiha bắt đầu khóc.
+` Nước mắt lăn dài trên má cô ấy.@
+`"[line=3]…… Thật... khác biệt..."@
+` Akiha siết chặt lấy tôi, rên rỉ khàn khàn khi tôi tiếp tục di chuyển.
+\
+`"[line=3]Ha ha ha, Ah..."@
+` Giống như Akiha, tôi không thể kìm nén được tiếng rên rỉ thỏa mãn.@
+` Tất nhiên là khác biệt lần này.@
+` Tôi cố gắng hết sức, và cô ấy cũng khác biệt ở bên trong.@
+`"[line=3][line=3]Mmm... Akiha, tôi sẽ mạnh hơn..."@
+` Khi tôi tiếp tục đẩy vào và ra khỏi cô ấy, tôi tìm cách để làm nó tốt hơn.@
+` Đã chật rồi. @
+` Các bức tường của cô ấy hút và kéo khi tôi đưa dương vật vào và ra khỏi cô ấy, dường như cố gắng giữ tôi lại bên trong.
+\
+bg #ffffff,crossfade,400
+bg "event/aki_h09",crossfade,400
+`"[line=3][line=3]Nii-san, tôi..."@
+`"[line=3]...!"@
+` Mỗi lần vuốt ve đều cảm thấy tốt hơn lần trước.@
+` Cơ thể cô ấy quá nóng khiến trí óc tôi ngắn mạch chỉ bằng việc chạm vào nó.@
+` [line=3]Tôi tự hỏi... liệu nó có tốt cho cô ấy như vậy không?@
+`"[line=7]..."@
+` Vô thức, tôi vuốt ve vòng eo hoàn hảo của cô ấy.@
+` Khi ngón tay tôi lướt trên làn da rắn chắc của cô, tôi nhẹ nhàng tách hai má cô.@
+`"[line=5]Hya?"@
+` Akiha nhảy lên, không phải lùi lại, mà thẳng đứng.
+\
+`"[line=5][line=4]Anh trai, không... ở đó!"@
+` ... Tôi từ từ đẩy ngón giữa vào lỗ hậu môn khít khao của cô ấy.@
+`"Ơm, ừm!!"@
+` Mọi thứ căng cứng lại.@
+` Căng cứng những cơ bắp của cô ấy giống như chúng đang cố gãy ngón tay tôi.
+\
+`"[line=3]Không, anh trai, xin đừng dừng lại, Nku………!"@
+` Mặc dù cô ấy nói vậy, cơ thể Akiha vẫn quằn quại trong khoái cảm.@
+`"[line=4][line=3]Hã... ừm, ừm, đau... vui sướng!"@
+` Có lẽ là vì cô ấy quá ướt,
+` Nhưng nỗi đau của cô ấy đã hoàn toàn biến mất, chỉ còn lại sự thỏa mãn.
+\
+`"[line=4]Giữ nguyên!"@
+` Tôi tiếp tục di chuyển hông.@
+` Khoảnh khắc này như thể có thể kéo dài mãi mãi...@
+`"[line=4]Ôi chao, Nha, ôi chao!"@
+` Cơ thể Akiha run rẩy.@
+` Cô ấy vòng tay ôm lấy tôi.@
+`"[line=5]Nha, ha, ha, haa, haaa!"@
+` Tóc cô ấy làm tôi ngứa ngáy ở mọi nơi nó chạm vào.@
+` Không thể chống cự, tôi cắn một trong những núm vú nhỏ xinh của cô ấy.
+\
+`"[line=5][line=3]Ha! Aahhhh, anh trai ơi!"@
+` Sự kích thích liên tục của trục dẫn động của tôi kết hợp với cuộc tấn công của tôi vào núm vú của cô ấy... dường như quá nhiều cho Akiha có thể chịu đựng được.@
+br
+` Với một tiếng rên yếu ớt, cô ấy buông thả.@
+` Và ngã xuống futon.
+\
+bg #000000,crossfade,400
+bg "event/aki_h12",crossfade,400
+`"[line=4]@
+` Tôi nằm trên người cô ấy, theo chân cô ấy xuống.@
+` Vì vậy thay vì phải đẩy lên, chúng ta đã trở về vị trí cơ bản nhất.
+\
+`"Nn[line=4]Akiha[line=5]@
+` Tôi giữ chặt mình trên cô ấy và tiếp tục di chuyển.@
+` Cô ấy không phải là người duy nhất mất kiểm soát.@
+` Tôi bị kích thích đến mức không thể nghĩ về điều gì khác ngoài việc tiếp tục.
+\
+`"[line=6]Không, fuaaaa!"@
+` Akiha không có thời gian nghỉ ngơi khi tôi đẩy nhanh nhịp độ.@
+` Đôi mắt và đôi môi cô ấy dính đầy nước mắt và nước bọt.@
+`"[line=4]Anh trai, tôi… tôi… không!"@
+` Cô ấy quấn tay quanh lưng tôi.@
+` Thật lòng, tôi đã đến giới hạn của mình.
+\
+`"[line=3]Akiha, tôi sẽ..."!"@
+bg "event/aki_h10",lshutter,800
+`"Ừm... ừm... ừm..."@
+` Akiha không nghe thấy tôi.@
+` Tâm trí cô ấy luôn tập trung vào niềm vui không ngừng, kiên định mà tôi mang lại cho cô ấy.@
+`"Ha, ah, ahh, aahhhhhhhhh..."@
+`"[line=3]Nn!"@
+br
+` Đẩy mạnh!@
+` Tôi tập trung toàn bộ sức lực vào cú đánh cuối cùng.
+\
+`"[line=4]Ôi trời ơi, ôi trời ơi, ôi trời ơi!"@
+` Cơ thể Akiha uốn cong lại.@
+`"[line=4]Ha."@
+` Tôi cảm thấy nó.@
+` Tôi sắp nổ tung... tinh trùng nóng bỏng của tôi sắp phun ra, bắn tất cả những gì tôi là vào Akiha.
+\
+`"[line=4]Kua!"@
+` Tôi cố gắng rút ra như trước đây.@
+br
+` [line=3]Rồi...@
+br
+bg #ffffff,crossfade,400
+bg "event/aki_h11",crossfade,400
+`"[line=4]Anh trai!"@
+` Akiha nắm lấy tôi.@
+`"[line=3]Làm ơn... hãy giữ nguyên tư thế này..."@
+`"[line=4]Akiha"@
+` Tay cô quấn chặt quanh lưng tôi.@
+` Tôi không thể từ chối.
+\
+`"[line=3]Tôi sẽ xuất tinh, Akiha!"@
+`"[line=3][line=3]Vâng... vào trong tôi..."@
+` [line=3]Tôi đã vượt qua đỉnh điểm.@
+` Với tiếng gầm gừ như thú hoang dã.
+\
+`"[line=4]!!!"@
+`"Naaaaaaaaa……!!"@
+br
+` Tôi đến rồi.@
+` Akiha rùng mình với mỗi lần tôi bắn tinh sâu bên trong cô ấy.@
+` Vô thức,
+` Tay cô ấy siết chặt lấy tôi.
+\
+bg #ffffff,crossfade,800
+playstop
+!w2000
+bg "bg/bg_45c",crossfade,800
+`"[line=5]Ôi..."@
+` Tôi kiệt sức đến mức gần như ngã lên người cô ấy.
+\
+`"[line=4]Hah... hah, hah..."@
+` Tôi nghe thấy hơi thở của cô ấy đồng điệu với nhịp thở của tôi.@
+`"[line=5]Akiha."@
+` Tôi ôm cô ấy.@
+` Chúng tôi run rẩy, phủ đầy mồ hôi, nhưng tôi không quan tâm.
+\
+`"Lần này... có tốt không?"@
+`"[line=9]"@
+` Akiha chỉ có thể gật đầu.@
+br
+` ... Với điều đó, tôi thực sự đã kiệt sức.@
+` Tôi ngã xuống chiếc giường futon và nhắm mắt lại.
+\
+bg #000000,crossfade,800
+` ... Có lẽ là vì tôi đã di chuyển liên tục kể từ hôm qua.@
+` Tôi thực sự buồn ngủ.@
+br
+`"... Anh trai ơi..."@
+` Tôi nghe thấy giọng nói của Akiha.@
+` "Nhưng tôi không có năng lượng để trả lời."
+\
+`"…… Cậu có định đi ngủ à? Nii-san, cậu đang nói gì vậy?"@
+` "Tôi đã nói với cậu rồi, tôi không có năng lượng để trả lời."@
+` "Không thể nào cậu lại để tôi ngủ được, Akiha?"
+\
+`"…… Vậy là, vâng, nhưng… có thể tôi ngủ cùng cậu không……?"@
+` "…… Tôi không phiền… nhưng cậu có muốn rửa mặt không?"@
+` "Tôi nghĩ cậu sẽ muốn tắm hoặc điều gì đó tương tự."
+\
+`"…… Cậu muốn tôi đi rửa mình à? Được rồi, tôi sẽ đi. Chờ ở đây. Phòng tắm này vẫn hoạt động."@
+br
+` Cơ thể Akiha rời xa tôi.@
+` Và tôi rơi vào một giấc ngủ sâu.
+\
+!w3000
+play "*9"
+`"... Anh trai, xin đừng quên lời hứa của chúng ta."@
+br
+` Tôi nghe thấy một giọng nói.
+\
+`"... Có những điều tồi tệ hơn cái chết. Vì vậy [line=3]xin hãy giữ lời hứa của chúng ta."@
+br
+` Tôi vẫn nghe thấy giọng nói, ngay cả khi tôi đang ngủ.
+\
+`"Tôi xin lỗi... Tôi phải nói điều này. Nhưng đôi khi, cái chết là sự giải thoát duy nhất."@
+br
+` Chắc chắn đây là một giấc mơ.
+\
+`"Tôi không muốn tin tưởng ai khác cả.@
+` [line=3]Vậy nên, xin đừng bao giờ quên, dù có xảy ra điều gì đi chăng nữa."@
+br
+` ... Mơ xấu quá.@
+` Tôi sẽ không bao giờ có thể quên nó.
+\
+br
+br
+br
+br
+br
+br
+` Nếu tôi có thể...
+` [line=3]Tôi ước mình có thể quên nó.
+\
+playstop
+!w3000
+bg #ffffff,crossfade,800
+`"Anh trai ơi, thức dậy, anh trai ơi."@
+br
+` [line=3]Tôi nghe thấy giọng nói của Akiha.
+\
+br
+`"Anh trai, anh trai. Anh phải thức dậy. Anh không thể ngủ khi mặt trời sắp lặn."@
+br
+` [line=3]Lạ thật.@
+` Tôi nghe thấy giọng nói của Akiha.
+\
+`"... Ôi, đủ rồi. Sao anh có thể ngủ say như vậy khi tôi muốn anh thức dậy!"@
+br
+` [line=3]Có ai đó siết lấy tôi.@
+` Ngay lập tức, tôi tỉnh giấc.
+\
+bg "bg/bg_45b",crossfade,800
+play "*3"
+`"Aaaahh..."@
+` Tôi thức dậy với một cơn đau nhói ở cánh tay.@
+` [line=3]"Vậy thì..."@
+br
+ld c,"tachi/aki_t21c",lshutter,400
+`"Ồ... Chào buổi sáng, Akiha."@
+`"... "@
+` "Akiha trông có vẻ tức giận, và tôi biết cô ấy có điều gì đó muốn nói."@
+` Từ hình dạng của dấu đỏ trên cánh tay tôi, nỗi đau tôi cảm thấy là cô ấy đang kéo tôi.
+\
+`"Akiha, thật đau đớn! Cô làm gì vậy?"@
+ld c,"tachi/aki_t03c",crossfade,400
+`"Không có gì. Cô không tỉnh lại, nên tôi chỉ cho cô một chút thôi."@
+`"Cô không cần phải làm thế, tôi sẽ tỉnh nếu cô chỉ nói với tôi."@
+ld c,"tachi/aki_t18c",crossfade,400
+` Ồ... Akiha đang nhìn tôi với vẻ ngạc nhiên.
+\
+ld c,"tachi/aki_t21c",crossfade,400
+`"Thật ra, Hisui đúng rồi. Cô không nhớ gì khi ai đó cố gắng đánh thức cô."@
+`"[line=3]Cô đã cố gắng đánh thức tôi lúc nãy, Akiha?@
+ld c,"tachi/aki_t03c",crossfade,400
+`"[line=2]Đúng vậy, tôi gọi tên cô nhiều lần và... cô thậm chí còn không nhớ, phải không?"@
+`"Ừm... Vâng, xin lỗi nhưng tôi không nhớ."
+\
+ld c,"tachi/aki_t18c",crossfade,400
+`"Tôi hiểu.@ Lần sau, tôi sẽ đánh bạn ngay lập tức.@ Nếu không muốn điều đó xảy ra, hãy cố thức dậy đúng giờ."@
+` "... Có lẽ tôi để cô ấy một mình quá lâu trong khi tôi đang ngủ."@
+` "Nhìn vẻ giận dữ của cô ấy, tôi đoán cô ấy đã thức từ hơn một tiếng."
+\
+`"... Ồ, tôi không thể giúp được.@ Tôi mệt mỏi sau tất cả những chuyện xảy ra hôm qua.@ Tôi bị bạn tấn công ở trường, khi về nhà, tôi phải chiến đấu với SHIKI, rồi tôi phải chăm sóc cho bạn, và sau đó... bạn biết đấy..."@
+` "Tôi nên ngủ suốt ngày sau tất cả những điều đó."@
+ld c,"tachi/aki_t24c",crossfade,400
+`"'Điều đó'?@ Anh trai[line=6]"@
+cl a,crossfade,400
+` "Nhìn lại những gì chúng ta đã làm, Akiha đỏ mặt."@
+` Cô ấy thật đáng yêu.@
+` Nhìn thấy làn đỏ mặt của cô ấy khiến tôi muốn trêu chọc cô ấy nhiều hơn.
+\
+`"Chuyện gì vậy?@ Cậu nắm chặt tay tôi như thế.@ Đừng nói là cậu không thích nhé...?"@
+ld c,"tachi/aki_t24c",crossfade,400
+`"[line=3][line=4]Ừm... ừm..."@
+` Cô ấy thì thầm, nhìn xuống sàn nhà.@
+`"Đừng lo.@ Nếu cậu không thích, tôi sẽ không ép buộc cậu.@ Chúng ta có thể chỉ giữ mối quan hệ 'trong trắng' từ bây giờ trở đi."@
+`"[line=4]Ừm... Nii-san... Tôi... ừm..."@
+`"Chuyện gì vậy? Tôi không hiểu cậu đang cố nói điều gì."
+\
+` "Ôi trời ơi... Tôi không thể giữ được biểu cảm nghiêm túc."@
+` Chỉ nhìn cô ấy thôi tôi cũng muốn bật cười.@
+`"Ừm... nhưng không phải là tôi ghét nó, mà..."@
+`"Ồ, tôi hiểu rồi. Vậy ra bạn thực sự không thích à? Tốt, tôi sẽ cố kiềm chế bản thân từ bây giờ."@
+ld c,"tachi/aki_t16c",crossfade,400
+`"[line=3][line=3]Ôi, nhưng... có lẽ... tôi cũng thích nó, nhưng..."@
+` Akiha liếc mắt đi nơi khác khi cô ấy trả lời.
+\
+`"Tôi hiểu rồi, nhưng bạn cứ nói 'nhưng' mãi..."@
+ld c,"tachi/aki_t13c",crossfade,400
+`"Tôi... Tôi không thể ngăn được. Khi đó tôi không thể suy nghĩ lại được. Tôi không thực sự biết nó có tốt hay xấu."@
+`"Được rồi, thì chúng ta hãy làm lại để chắc chắn. Tôi muốn tẩy quần áo của cậu lần này."@
+ld c,"tachi/aki_t24c",crossfade,400
+`"[line=10]Ôi..."@
+cl a,crossfade,400
+` Akiha nhìn tôi với đôi má ửng đỏ.@
+` ... Sau khi cô ấy nhìn tôi một giây, cô ấy khép môi và lắc đầu.
+\
+ld c,"tachi/aki_t12c",crossfade,400
+`"…… Anh trai, xin hãy mặc quần áo lại đi. Đang gần hoàng hôn rồi, chúng ta phải quay về biệt thự."@
+`"Không sao cả. Đây là một phần của biệt thự. Tôi muốn ở lại đây với cậu cả ngày. Hay cậu không thích ý tưởng này?"@
+ld c,"tachi/aki_t13c",crossfade,400
+`"Không, tôi cũng có cùng cảm giác! ... Nhưng tôi nghĩ chỗ này đau lắm và tôi muốn làm trên giường thật..."@
+` Ngay cả khi giọng cô ấy hơi giận dữ, những gì cô ấy nói rất đáng yêu.@
+` Điều này khiến tôi càng muốn cô ấy hơn.
+\
+`"[line=3]Tốt, được rồi.@ Thực ra, khi xem cô ấy hồi phục, tôi đã nghĩ rằng tôi muốn ngủ trên giường đó cùng cô."@
+ld c,"tachi/aki_t24c",crossfade,400
+`"... ..."@
+` Akiha gật đầu.@
+cl a,crossfade,400
+br
+` "[line=3]Tốt, chúng ta nên nhanh lên.@"@
+` Để tôi mặc quần áo và chúng ta sẽ quay lại biệt thự.
+\
+bg #000000,lcartain,800
+bg "bg/bg_54b",lcartain,800
+` Chúng ta rời tòa nhà tách biệt và bước vào vườn.@
+` Giống như Akiha nói, mặt trời đang lặn và vườn ngập tràn màu đỏ.@
+br
+`"[line=3]Akiha, theo cậu, Kohaku-san đang làm gì vậy?"@
+ld c,"tachi/aki_t16c",crossfade,400
+`"[line=3]... Ừm, à, Kohaku... có lẽ đã hiểu rồi. Cô ấy thường hơi ngây thơ, nhưng đôi khi lại rất tinh quái."@
+`"... Ừm."
+\
+` ... Tôi không cảm thấy mình làm điều sai trái nào, nhưng nói về chuyện này vẫn hơi ngại.@
+` "Với tính cách của Kohaku-san, có lẽ cô ấy sẽ vui mừng và chúc mừng chúng ta, nhưng tôi không biết Hisui sẽ phản ứng thế nào."@
+br
+bg #000000,crossfade,400
+bg "bg/bg_54b",crossfade,400
+`"[line=3]Huh?"@
+` Chỉ một chút thôi.
+` Tôi cảm thấy đau đầu.
+\
+`"Cái cảm giác này..."@
+` Tôi dừng lại.@
+` Akiha tiếp tục đi.@
+br
+`"Akiha, chờ một chút." [line=4]@
+br
+` Tôi gọi cô ấy.@
+` Cô ấy quay lại.@
+ld c,"tachi/aki_t15c",lshutter,400
+` Cái mặt đó.@
+` Trước khi tôi kịp ngăn mình lại.@
+playstop
+br
+br
+br
+bg #9c0120,notrans,0
+bg "bg/bg_54b",notrans,0
+wave se_06
+[line=1] Sự rung chuyển mạnh độ 1,200.
+` Tôi ngã xuống đất.
+\
+wave se_01
+`"Anh trai!" [line=4]@
+` Akiha chạy đến gần tôi.@
+` Nhưng cô ấy chưa bao giờ đến được.@
+` Vì cô ấy bị ngăn cản bởi... anh ấy.@
+br
+`"[line=2]Shiki!! Cậu!! Làm thế với anh trai cậu là điều như thế nào?!?"@
+br
+` Akiha cố gắng chống lại, nhưng cô không thể thoát khỏi sự kìm giữ của anh ta.@
+` Hắn ta... SHIKI, thô bạo bóp nghẹt cổ Akiha và bắt đầu siết mạnh.
+\
+wave se_01
+`"[line=7]Ah..."@
+` Sau vài giây hoảng loạn, đầu Akiha gật nghiêng.@
+` Shiki giữ cơ thể bất tỉnh của cô ấy và nhìn xuống tôi với vẻ khinh bỉ.
+\
+ld c,"tachi/hal_t02",lshutter,800
+[chuyển cảnh: se_02]
+`"... Anh đã làm được. Anh thực sự đã lấy đi tất cả từ tôi."@
+` Nếu lời nguyền có thật, chúng có lẽ sẽ nghe giống như vậy.@
+br
+` Shiki nhìn xuống tôi, răng khép chặt.
+\
+` Tôi không thể di chuyển được.@
+` Năng lượng của tôi dường như đang thoát ra từ lưng.@
+` Chỉ có một chút đau đớn... đau đớn và sự chắc chắn rằng tôi có thể sẽ chết ở đây.@
+` Tôi có thể cảm nhận áo sơ mi của mình dần thấm máu của chính tôi.@
+br
+` Ở lưng tôi.@
+` Một con dao cắm chặt như cánh của một sinh vật ngoài hành tinh.
+\
+`"SHIKI..."@
+`"Đừng hiểu lầm, Shiki. Akiha thực sự không yêu cậu. Cô ấy yêu 'anh trai' của mình."@
+ld c,"tachi/hal_t03",crossfade,400
+` "[line=3]Vì điều đó, có lẽ tôi phải cảm ơn cậu."@
+` "Đúng vậy, Akiha? Xin lỗi vì là một kẻ yếu đuối như thế. Tôi chưa bao giờ nhận ra cậu yêu tôi đến mức nào."@
+` "Nếu tôi thông minh hơn, cậu không sẽ để sự trong trắng của mình bị lấy đi bởi một kẻ thất bại đáng thương như thế."
+\
+` "... SHIKI đưa mặt gần Akiha."@
+` "Vì cô ấy đang bất tỉnh, cô ấy không thể chống lại."
+\
+ld c,"tachi/hal_t01",crossfade,400
+`"... Đúng vậy, dù chúng ta là anh em chị em, tôi yêu cậu nhiều hơn bất cứ điều gì."`@
+` "SHIKI đi về phía tôi, vẫn giữ chặt Akiha."
+\
+`"Lần này... lần này, tôi sẽ đảm bảo giết cậu để cậu không thể trở lại, SHIKI. Akiha đang chịu một áp lực trên cơ thể vì cô ấy đang giữ cậu sống."`@
+`"…… Sức ép…… trên cô ấy, cơ thể……?"@
+`"Ồ? Cô không biết à? Akiha đã giữ cô sống bằng cách cho cô nửa sức lực của mình vào lúc đó."@
+` "Cô chưa bao giờ tự hỏi điều đó sao? Không có con người nào có thể sống sót với một vết hổng lớn như vậy trong ngực."
+\
+`"Tám năm trước, vào ngày hôm nay,
+` Akiha đã tái tạo cô bằng cách cho cô nửa sức lực của mình. Cô ấy đang bổ sung cuộc sống mà tôi đã lấy đi cho cô ấy bằng một phần của chính mình. Không có cách nào cô ấy có thể sống sót nếu không có điều đó."@
+br
+` [line=3]Chia sẻ… cuộc sống… của cô ấy?@
+br
+`"Đó là lý do Akiha không thể kiểm soát cơ thể của chính mình. Cô ấy đã chịu đựng suốt thời gian này… vì cô. Mỗi khi cô sống, cô ấy sẽ tiếp tục chịu đựng."@
+` [line=3]"Tôi sẽ giảm bớt nỗi đau đó ngay bây giờ."@
+` Shiki bước đến gần tôi.@
+` Cơ thể tôi không thể di chuyển. Tôi cảm thấy mình bắt đầu ngất đi.
+\
+bg #ffffff,crossfade,800
+` [line=3]Một nửa cuộc đời của cô ấy...@
+br
+` ...Tôi nghe thấy âm thanh của một thanh kiếm đâm xuống đất.@
+` Shiki hét lên.@
+br
+` [line=3]Lý do cho những cơn co giật của Akiha trong nhật ký của ông già.@
+br
+`"[line=3][line=2]Tohno-kun, tôi sẽ chăm sóc cậu ngay lập tức... giữ chặt..."@
+br
+` [line=3]Cơ thể này... cơ thể này vốn đã chết.@
+br
+` Ai đó nâng tôi lên.@
+` Và đưa tôi đến một nơi nào đó.
+\
+` ... Nhưng tôi không thể quan tâm đến những gì đang xảy ra lúc này.@
+br
+` [line=3]Thật là sự thật ghê tởm phải đối mặt. Nó ra là... Tôi...
+br
+` [line=4]Là nguyên nhân khiến Akiha phải chịu đựng suốt thời gian này.
+\
+bg #000000,crossfade,800
+!w3000
+wavestop

@@ -1,0 +1,20 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+`"Chào buổi sáng, hai người."@
+ld r,"tachi/koha_t01a",lshutter,400
+`"Chào buổi sáng, Shiki-san."@
+` Cô Kohaku mặc một chiếc áo tạp dề trắng phù hợp với cô ấy và trả lời bằng nụ cười không thể lớn hơn nữa.@
+cl r,crossfade,400
+` Ngược lại, Akiha chỉ nhìn tôi một cái.@
+ld l,"tachi/aki_t01a",lshutter,400
+`"Chào buổi sáng.@ Bạn đã dành nhiều thời gian vào buổi sáng này, anh trai ạ."@
+` Cô ấy chắc chắn biết làm thế nào để làm giảm bớt bầu không khí.
+\
+`"Dành nhiều thời gian?@ Mới chỉ bảy giờ thôi!@ Chỉ mất ba mươi phút để đến trường từ đây, nên tôi thực sự dậy sớm."@
+ld l,"tachi/aki_t18a",crossfade,400
+`"Vậy là bạn nói bạn sẽ ăn sáng trong mười phút?@ Bạn không phải chó đói, nên nếu bạn muốn ăn sáng, tôi muốn bạn tận hưởng bữa ăn nhé."@
+cl l,crossfade,400
+`"[line=6]"@
+` Lời của Akiha thực sự có những gai nhọn.
+\

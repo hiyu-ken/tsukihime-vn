@@ -1,0 +1,65 @@
+monocro off
+wavestop
+play "*3"
+bg "bg/bg_19b",lcartain,800
+ld c,"tachi/ark_t01a",lshutter,800
+` "Đây là một căn phòng khá đẹp. Tôi sẽ không có vấn đề gì nếu ở lại đây qua đêm."@
+` Arcueid nhìn xung quanh căn phòng khách sạn.@
+` [line=5]@
+` Tôi không có gì để nói lúc này.
+\
+` "Phòng của tôi đã chắc chắn bị phát hiện rồi, nên chúng ta hãy trốn ở đây qua đêm. À, bạn không cần phải lo lắng về tiền. Tôi giàu có, tôi sẽ trả tiền cho bạn."@
+` Nói vui vẻ, Arcueid đóng rèm.@
+` Cô ấy cũng tắt đèn và căn phòng trở nên tối đen như đêm.
+\
+` Tôi thở dài.@
+` "…… Bạn đang nghĩ gì, Arcueid?@
+ld c,"tachi/ark_t03",crossfade,400
+` "Tôi đang nghĩ về rất nhiều thứ."@
+` "Không, không phải là như vậy[line=3]"@
+br
+` [line=2]Tôi hỏi tại sao cậu lại thuê khách sạn hạng cao chứ không phải chỗ rẻ tiền` và tại sao lại thuê cả tầng thượng.
+\
+` ………`@
+` Tôi muốn nói thế này, nhưng tôi dừng lại.`@
+` Mới giờ đây, công việc của tôi là bảo vệ tên ma cà rồng này thôi. Không có chuyện gì hơn nữa.` Tôi không định hỏi những câu hỏi vô bổ.`@
+` [line=3]"Không, thôi vậy đi. Làm bất cứ điều gì cậu muốn."@
+ld c,"tachi/ark_t08",crossfade,400
+` Cậu kỳ lạ thật, Shiki, đột nhiên giận dữ rồi im lặng như vậy. Tôi chẳng hiểu cậu đâu.`@
+` Arcueid nằm trên giường, cười như đang tận hưởng niềm vui.
+\
+` Tôi sẽ ngủ cho đến khi mặt trời lặn.` `Cậu nên nghỉ ngơi lúc có cơ hội.`@
+` "Ma cà rồng không hoạt động vào ban ngày, nên cậu sẽ phải thật cẩn trọng vào ban đêm.`@
+` “…… Cậu có nhận ra mình vừa nói điều hoàn toàn mâu thuẫn với sự tồn tại của mình hay không?”`@
+` "A, chẳng sao đâu.[line=3]À, tôi đoán là gần đến giới hạn rồi. Chúc ngủ ngon, Shiki. Hãy gọi tôi dậy khi mặt trời lặn."@
+cl c,lshutter,800
+` [line=2]"Ê!"@
+` [line=7]" "@
+` Giống như một cỗ máy bị cắt nguồn điện, Arcueid bỗng chìm vào giấc ngủ.`
+\
+` "À"[line=5]@
+` Cô bé thật... dễ bị tổn thương.`@
+` “…. Nếu muốn, tôi có thể chạy đi ngay bây giờ.”`@
+` Cô ép tôi đi cùng cô ấy mà. Tôi có thể bỏ chạy dễ dàng ngay bây giờ.`@
+` …… Và tôi không còn cảm giác thúc giục ấy nữa, nhưng …`
+br
+` Tôi thậm chí đã giết cậu một lần, nhưng...`@
+br
+` Cô ấy sao lại có thể ngủ thiếp đi đột ngột như vậy?@
+` ………@
+` Tôi nhìn vào khuôn mặt của Arcueid khi cô đang ngủ trên giường.@
+` …… Ngực đầy đặn của cô phập phồng lên xuống. Dường như cô đang thở.@
+` Nhưng cơ thể cô hoàn toàn không cử động.@
+` Cũng giống như không khí xung quanh cô đã ngừng lại. Thậm chí tôi cũng có thể dừng lại.@
+br
+` [line=4]Một giấc ngủ thật thanh bình.@
+br
+` Loại vô lực như cô hoàn toàn tin tưởng vào tôi, ngay cả khi chúng ta mới chỉ gặp nhau.
+\
+` [line=3]Cô thật ngu ngốc.@
+` …… Cô thật ngây thơ đến mức tôi bắt đầu lo lắng.@
+` Nhưng ngoài ra, đây là một điểm chuyển.@
+` Đây có thể chính là điểm không trở về của Tohno Shiki.@
+` Tôi[line=4]
+\
+playstop

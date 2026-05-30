@@ -1,0 +1,40 @@
+play "*1"
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_24a",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_25a",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_27a",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_29a",lcartain,800
+bg #000000,lcartain,1500
+bg "bg/bg_23b",lcartain,1500
+` Hoàng hôn buông xuống.@
+` Dù cho tôi đã chạy ngược chạy xuôi tìm kiếm khắp nơi trong thị trấn, nhưng vẫn chẳng thấy bóng dáng Yumizuka Satsuki đâu cả.@
+br
+`"………… Khốn kiếp."@
+` Tôi tức giận tự cắn chặt môi mình.@
+` …… Nhưng đó không phải là cơn giận vì tôi không tìm thấy em ấy.
+\
+` Chuyện xảy ra hai ngày trước.@
+` Tôi giận chính bản thân mình vì ngay từ đầu đã đi hứa hẹn một điều như thế.@
+br
+` [line=2]Hãy giúp tớ khi tớ gặp khó khăn nhé?@
+br
+` Yumizuka đã nói như thế, và tôi đã vô tư đáp lời chẳng suy nghĩ.@
+` Rằng tôi sẽ giúp em ấy, hết sức có thể.@
+` …… Thật là một lời hứa vô trách nhiệm làm sao.@
+` Bởi thực sự lúc này tôi chẳng thể làm gì cho em ấy được.@
+` Em ấy đã nói rằng đau lắm.@
+` Vậy mà tôi thậm chí còn không tìm thấy Yumizuka, người đang phải chịu đựng nỗi đau đớn cô độc trong bóng đêm lạnh giá ngoài kia.
+\
+`"[line=3]"@
+` Mặt trời đã hoàn toàn khuất dạng.@
+` …… Dù không muốn thừa nhận, nhưng có lẽ tôi chỉ có thể tìm thấy Yumizuka sau khi màn đêm đã buông xuống hoàn toàn.@
+`"…… Mình đã bảo với Hisui là sẽ về vào lúc chiều tối rồi."@
+` Giờ này chắc vẫn còn hơi sớm.@
+` Tạm thời tôi nên quay về biệt thự để bình tâm suy nghĩ lại mọi chuyện đã.
+\
+bg #000000,lcartain,800
+!w500

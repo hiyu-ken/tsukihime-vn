@@ -1,0 +1,66 @@
+play "*1"
+wavestop
+bg "bg/bg_40c",notrans,0
+`"... Tại sao... tôi lại khóa nó..."@
+` Tư duy của tôi bắt đầu trôi dạt trong một làn sương mờ mịt.@
+` [line=4]Đó là vì...
+bg "event/aki_h13",notrans,0
+!w300
+bg "bg/bg_40c",notrans,0
+`"[line=8]...tôi đã khóa nó để Akiha không thể vào.@
+` Đúng vậy.@
+` Tôi đã khóa cửa để ngăn cô ấy kiểm tra.
+\
+`"Anh trai...! Tôi biết anh đang thức. Tại sao lại khóa cửa? Anh phải làm bài kiểm tra, chứ!"@
+` Cô ấy gõ cửa mạnh hơn.@
+` Akiha gọi tôi bằng giọng đầy tức giận từ bên ngoài.@
+`"Mở cửa đi! Chưa uống thuốc tối, anh muốn chết à?"@
+` Tiếng gõ cửa không ngừng lại.@
+` ... Đó là điều tự nhiên thôi.@
+` Không tốt cho Akiha nếu tôi đóng chặt mình trong phòng này.@
+` [line=2]Nếu tôi tiếp tục làm thế này, Akiha sẽ không thể giết được tôi.
+\
+`"Anh trai……!?@ Này, anh nghe tôi nói không? Anh trai……!?"@
+` Đùng đùng. Đùng đùng.@
+` ... Tôi không thực sự phiền về tiếng gõ cửa, nhưng tôi không chịu nổi việc phải nghe giọng cô ấy.@
+br
+`"[line=2]Đừng hét lên nữa…………!!!"@
+br
+`"[line=6]Tôi nghe thấy cô ấy thở dốc từ phía bên kia cánh cửa.@
+` "Đừng... im lặng?... Anh trai ơi, em chỉ lo lắng cho anh thôi."
+\
+`"[line=3]... Tôi không quan tâm. Tôi không ra ngoài. Nếu anh thực sự lo lắng cho em, thì hãy rời đi."@
+`"Chuyện gì vậy?"@
+`"[line=2]Em hiểu rồi. Em sẽ không bao giờ ra ngoài. Em không để anh giết em..."!@
+`"[line=2][line=2]Tôi gõ mạnh vào cánh cửa.@
+` ... Bên kia cánh cửa trở nên im lặng như đông cứng.@
+` ...
+\
+!w2000
+br
+` [line=2]Sau đó...
+br
+`"Em nói gì vậy, anh trai? Ai đã nói với em rằng anh sẽ giết em?"@
+`"Chỉ đi đi thôi! Em không phải là kẻ giết người, em vẫn tỉnh táo..."@
+`"[line=4]Tôi không thể tin được. Anh trai ơi, em đã bị cuốn vào thế này từ lâu rồi à?"@
+` Lời nói của cô ấy tràn ngập sự ngạc nhiên.@
+` Tôi cảm nhận được bước chân cô ấy lùi lại gần cửa.
+\
+`"Em hiểu rồi. Anh trai, em biết anh đang mệt mỏi lúc này, nên em sẽ quay lại thăm sau."@
+`"[line=2]Im đi! Em hoặc bất kỳ ai cũng không được vào phòng này!"@
+`"... Anh trai. Tôi sẽ lắng nghe lời anh hôm nay, nhưng ngày mai, tôi sẽ khiến anh phải lắng nghe tôi. Để bỏ mặc anh một mình trong một ngày là đủ nguy hiểm; tôi đơn giản không thể để anh một mình hai ngày, nếu không chắc chắn anh sẽ chết. Hãy chờ thêm một ngày nữa, anh trai."@
+` Tôi nghe thấy tiếng chân cô ấy dần xa đi.@
+` *Hít thở gấp... hít thở gấp...*
+\
+` Tôi gần như không thể thở được. Giống như Akiha nói, tôi chắc chắn sẽ chết với tốc độ này.
+` *Hít thở gấp... hít thở gấp...*@
+` Nhưng, điều đó vẫn tốt hơn so với việc Akiha giết tôi.
+` Tôi khóa chặt cửa.@
+br
+` [line=4]@
+br
+` Tôi dựa vào tường và giữ mắt mở để không ngủ gật.
+\
+bg #000000,lcartain,1500
+playstop
+!w3000

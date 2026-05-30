@@ -1,0 +1,62 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_50",notrans,0
+`"…… Mà thôi vậy.@ Khó khăn lắm hai chúng tôi mới làm bạn trở lại, nếu giờ lại đem chuyện của Arcueid ra nói, chắc chắn chị ấy sẽ lại nổi giận cho mà xem."@
+` Trước mắt, tôi cần phải trân trọng và giữ gìn mối quan hệ này.@ Tôi lặng lẽ dõi theo bóng dáng Senpai rời đi, rồi cắm cúi ăn phần ăn của mình.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06b",lcartain,800
+` Buổi sinh hoạt lớp cuối ngày đã kết thúc.@
+` Các bạn học xung quanh vừa rôm rả trò chuyện vừa đứng dậy thu dọn sách vở ra về.@
+`"[line=4]Thôi được rồi."@
+` Mình nên ngồi nán lại đây một chút xem sao.@
+` Biết đâu Senpai sẽ ghé qua, mà dẫu chị ấy không đến thì mình vẫn có thể chủ động sang phòng trà đạo mà.
+\
+bg #000000,lshutter,400
+bg "bg/bg_06b",lshutter,400
+` Có vẻ như Senpai sẽ không ghé qua đây rồi.@
+` Xem ra mình phải tự đi tới phòng trà đạo thôi.
+\
+bg "bg/bg_11b",lcartain,800
+` Đôi chân tôi nhanh chóng rảo bước ra khỏi lớp học và hướng thẳng về phía đó.@
+br
+` [line=3]Nghĩ lại thì, được gặp Senpai đồng nghĩa với việc hai chúng tôi sẽ có rất nhiều chuyện cần phải đối chất.@
+` Về con ma cà rồng đang ẩn náu trong thị trấn này, và cả về Arcueid nữa.@
+` Dẫu biết rằng việc khơi ra những chuyện đó sẽ vô cùng đau lòng, nhưng lồng ngực tôi vẫn dâng trào cảm giác háo hức khi có cơ hội được ở bên Senpai một lần nữa.
+\
+` Hơi thở tôi bắt đầu trở nên dồn dập[line=4]
+br
+` Tôi chạy thục mạng hướng xuống phòng trà đạo.
+\
+bg #000000,lcartain,800
+bg "bg/bg_09b",lcartain,800
+` Không một bóng người ở đây cả.@
+` Có vẻ như chị ấy vẫn chưa tới đây.@
+br
+` …… *hộc*…… *hộc*.@
+br
+` …… Hình như mình đã quá phấn khích rồi thì phải.@
+` Ngồi thụp xuống tấm chiếu tatami, tôi cố gắng điều hòa lại nhịp thở của mình.
+\
+` …… *hộc*…… *hộc*…… *hộc*.@
+br
+` Cơ thể đang nóng bừng lên của tôi không dễ gì hạ nhiệt ngay được.@
+` Tôi cảm thấy cuống họng đau đớn khi cố hít lấy từng ngụm khí.@
+` Toàn thân mồ hôi nhễ nhại, tôi bắt đầu cảm thấy vô cùng khó chịu.
+\
+` Tiếng thở dốc khò khè vang vọng khắp căn phòng tĩnh mịch.@
+br
+` [line=3]Có điều gì đó…… rất kỳ lạ.@
+` Tôi rõ ràng đã ngồi nghỉ một lúc rồi, thế nhưng nhịp thở lại càng lúc càng trở nên nặng nề hơn.@
+` Ngay từ đầu, tại sao cơ thể tôi lại kiệt quệ rệu rã thế này chỉ sau khi chạy một quãng ngắn như vậy chứ……?
+\
+monocro #ff0000
+quakey 1,100
+play "*4"
+`"[line=3]Hự!?"@
+br
+` Đột ngột,
+` một cơn đau buốt nhói như ngàn mũi kim đâm ập đến xé rách lồng ngực tôi.
+\

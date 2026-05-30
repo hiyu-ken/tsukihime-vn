@@ -1,0 +1,162 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11c",notrans,0
+` [line=5]Tất thảy mọi thứ.@`
+`     Tất thảy... tốt nhất hãy tan biến thành một ảo ảnh hư vô.@`
+!w1000
+wavestop
+\
+bg "bg/bg_11d",crossfade,1500
+` Tôi nghiến răng đứng dậy, bàn tay nắm chặt lấy chuôi dao găm sắc bén.@`
+br
+` Tiếng bước chân tiến lại gần ngày một dồn dập vang dội hơn.@`
+` Tôi cảm nhận rõ ràng sát khí của kẻ thù đang tiến sát bên.@`
+` Suốt từ nãy tới giờ, có một giọng nói quỷ dị cứ liên tục gầm rú vang vọng trong đại não tôi.@`
+` Hãy phanh thây ả ta ra.@ Hãy phanh thây ả ta ra.`
+\
+` Hãy phanh thây ả ta ra.@ Hãy phanh thây ả ta ra.@ Hãy phanh thây ả ta ra.`
+\
+`"Hự...[line=4]"@`
+br
+` Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả`
+` Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả`
+` Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả`
+` Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả  Hãy phanh thây ả[line=4]`
+br
+`"Câm miệng đi."@`
+` Bằng tất thảy ý chí tự thân, tôi điên cuồng đè nén tiếng gào rú quỷ dị trong đầu bắt nó phải im lặng.`
+\
+`"Đây chính là... quyết định của tự thân tôi."@`
+!w750
+` Phanh thây[line=4]`
+`"Ta tuyệt đối không cần một kẻ như ngươi phải chỉ tay năm ngón dạy bảo ta bắt chước theo đâu."@`
+!w750
+` ả ta[line=4]`
+`"Nếu ngươi không muốn thảm bại lìa đời dưới tay chị Ciel."@`
+!w750
+` ra trăm mảnh[line=4]`
+`"Thì tốt nhất hãy ngoan ngoãn ngậm miệng lại cho tới khi mọi chuyện kết thúc đi, Roa."@`
+!w750
+` [line=5]`
+\
+` Tiếng gầm rú ma quái bỗng chốc hoàn toàn tan biến sạch sẽ.@`
+` Tiếng bước chân khô khốc, và bóng hình của chị ấy bấy giờ đã tiến sát kề bên.@`
+br
+` [line=4]Chị Ciel chầm chậm hiện bước ngay trước mắt tôi.`
+\
+ld c,"tachi/cel_t15",crossfade,400
+play "*7"
+`"[line=3]Cuối cùng em cũng đã quyết định vung vũ khí kháng cự rồi."@`
+` Thanh âm lạnh lùng ấy bấy giờ bỗng mang theo đôi chút vẻ nhẹ nhõm đến lạ kỳ.`
+\
+`"Như vậy thật tốt quá.@ Giờ đây đôi bên chúng ta sẽ không còn ai phải gánh chịu tội lỗi nữa rồi.@`
+`"Một khi hai ta đều điên cuồng muốn tước đoạt mạng sống của nhau, tội lỗi bấy giờ tự khắc sẽ tiêu biến.@ Hiện tại chỉ độc nhất sự trừng phạt dành cho kẻ duy nhất còn sống sót mà thôi."@`
+` …… Hai kẻ truy sát lẫn nhau thì tội lỗi sẽ tự khắc tiêu biến sao?@`
+` Thứ lý lẽ méo mó của chị ấy thuộc về một thế giới tàn khốc mà bản thân tôi chịu chết không cách nào dung nạp nổi.`
+\
+`"Hóa ra là thế.@ Vậy thì hình phạt dành cho kẻ duy nhất sống sót kia liệu có thể dung thứ và chuộc tội được chăng?"@`
+`"Phải.@ Thứ có thể gột rửa chuộc tội mới được xưng tụng là hình phạt.@ Một khi đã gọi là hình phạt, tuyệt đối không có lý do gì lại không thể chuộc tội cả.@ Thứ độc nhất bất biến không cách nào tiêu biến chính là tội lỗi.@`
+`"Thế nên[line=3]cả em và chị đều tuyệt đối không muốn phải còng lưng gánh vác thứ xiềng xích tội lỗi ấy, đúng chứ hả?"@`
+` Thì thầm lời ấy,`
+` chị ấy nhẹ nhàng tiến thêm một bước vô cùng vững chãi về phía tôi.`
+\
+`"[line=2]Vậy nghĩa là, nếu em có lỡ tay sát hại chị tại chốn này, thì đó cũng không phải là tội lỗi sao, chị Ciel?"@`
+`"Đúng thế.@ Chị sẽ tự tay kết liễu em, thế nên việc em vung dao sát hại chị cũng hoàn toàn hợp lẽ thường tình, Tohno-kun.@ Điều kiện của đôi bên chúng ta bấy giờ hoàn toàn bình đẳng."@`
+` Thêm một bước nữa.`
+\
+`"[line=8]"@`
+` Như vậy... hoàn toàn sai lầm rồi.@`
+` Đúng là tôi bấy giờ đang cận kề cái chết chí mạng, thế nên bản thân mới vung dao chống trả hòng bảo toàn mạng sống của chính mình.@`
+` Thế nhưng nếu tuyên bố rằng việc đó tịnh không mang tội lỗi[line=3]thì chuyện gì sẽ xảy đến với linh hồn chị Ciel chứ?@`
+` Bởi lẽ ngay từ đầu, chị ấy đã đặt chân tới đây với một ý chí sát nhân lạnh lùng không chút khoan nhượng.@`
+br
+` Thứ ý niệm ấy[line=3]`
+\
+`"Vĩnh biệt.@ Hãy cùng nhau hạ bức màn kết thúc vở hài kịch nực cười này tại đây thôi."@`
+` Bước chân cuối cùng hạ xuống.@`
+cl c,lshutter,800
+` Mũi lưỡi lê hắc ám đã thủ thế sẵn sàng phóng vút thẳng về phía lồng ngực nơi tim tôi đang đập.@`
+br
+` Nhưng trước khoảnh khắc ấy định mệnh,`
+` tôi điên cuồng lao người về phía trước, dứt khoát đâm thẳng lưỡi dao vào độc nhất một "tử điểm" hiện diện nơi lồng ngực phải của chị ấy.`
+\
+bg #000000,lshutter,800
+` [line=3]Bản thân tôi thực sự chưa từng nghĩ mình có thể sát hại nổi chị ấy.@`
+br
+` Bởi lẽ việc chị ấy đâm xuyên qua tim tôi trước khi tôi kịp tiếp cận trong tầm dao vốn dĩ là lẽ thường tình hiển nhiên.@`
+` Đó chính là lý do vì sao bản thân tôi bấy giờ vô cùng ngỡ ngàng.@`
+` Tôi đã né tránh đường kiếm hiểm hóc ấy một cách quá đỗi dễ dàng, và cắm ngập lưỡi dao vào "tử điểm" của chị ấy một cách trơn tru ngoài sức tưởng tượng.@`
+`"[line=4]Chị... Ciel."@`
+` Cảnh tượng trước mắt trông hệt như thể chị ấy đã cố tình mở rộng tấm lòng hứng trọn nhát dao chí mạng của tôi vậy.`
+\
+`"Chị... đã ép em... phải sát hại... chị rồi."@`
+` Thanh âm yếu ớt thều thào vang lên giữa ranh giới mỏng manh của cái chết cận kề.`
+\
+br
+br
+br
+br
+br
+br
+br
+`"Đó... chính là tội lỗi... lớn nhất đời chị."`
+\
+` Bật ra tiếng nghẹn ngào hệt như đang khóc, chị ấy dùng trọn vẹn chút tàn lực cuối cùng đâm mạnh mũi lưỡi lê hắc ám vào sâu cơ thể tôi.`
+\
+wave se_10
+bg "bg/bg_11c",crossfade,800
+quakey 1,100
+`"[line=6]Hộc... hự."@`
+` Dòng máu tươi bỗng chốc trào ngược dữ dội qua lồng ngực nơi tim tôi đã bị đâm xuyên qua.@`
+` Phun ngược ra một ngụm máu lớn, cơ thể tôi lập tức đổ rạp bất lực xuống mặt sàn nhà.@`
+br
+` Hiện diện sờ sờ ngay trước mắt tôi lúc này,`
+` chính là thân thể của người con gái đã chầm chậm lìa đời trước tôi chỉ trong tích tắc bấy giờ đang nằm im lìm trên nền đất lạnh.`
+\
+`"[line=4]Cớ... sao...[line=2]"@`
+` Chị đã sớm biết rõ rồi sao?@`
+`"[line=4]Thật... ngốc nghếch quá đỗi."@`
+` Phải chăng chị đã sớm biết rõ ngay từ đầu[line=3]rằng nếu trên đời thực sự tồn tại cái gọi là tội lỗi, thì kẻ độc nhất phải gánh chịu nó từ đầu đến cuối chỉ có thể là chị mà thôi?`
+\
+`"Hộc...[line=4]ha."@`
+` Cảm giác nơi tứ chi bấy giờ đã hoàn toàn tan biến sạch sẽ.@`
+` Và cả ý thức của bản thân tôi cũng đang chầm chậm lịm đi.@ Chỉ còn vài tích tắc ngắn ngủi nữa thôi trước khi tôi hoàn toàn mất máu chết lâm sàng.@`
+` Ngay vào khoảnh khắc cơ thể bị đâm xuyên qua,`
+` sâu trong đại não tôi bỗng tái hiện cảnh tượng một cuốn sách cổ úa vàng đang rã rời vỡ vụn, chầm chậm bay bay đi từng trang giấy mỏng.@`
+br
+` Có lẽ, chính vào khoảnh khắc ấy, thứ linh hồn tà ác được xưng tụng là Roa đã hoàn toàn bị tiêu vong sạch sẽ.`
+\
+`"…………"@`
+` Tôi tuyệt đối không còn sức lực để suy nghĩ thêm điều gì nữa rồi.@`
+` Ngay từ thuở ban đầu, chị ấy đã chấp nhận dâng hiến cả mạng sống của mình chỉ để tước đoạt cuộc đời tôi.@`
+` Did she think that was her punishment?@`
+br
+` [line=3]Thật ngốc nghếch làm sao.@`
+` [line=3]Việc làm ấy... tuyệt đối tịnh không mang bất kỳ ý nghĩa nào cả.@`
+br
+`"[line=3]Thế nhưng."@`
+` Lòng tôi bỗng dâng trào một nỗi buồn vô hạn khi chị ấy đã vội vàng lìa đời trước khi kịp mở lời xin lỗi tôi.`
+\
+` Nếu như chị ấy có thể mở lời xin lỗi tôi, em tin chắc rằng lòng chị đã có thể vơi bớt đôi chút gánh nặng trĩu trịt…… Thế nhưng, chị ấy đến tận cuối cùng vẫn tuyệt đối không nói ra lời ấy.@`
+` Bởi vì chị ấy thừa hiểu rằng tội lỗi nhơ nhuốc này vốn dĩ là thứ tuyệt đối không cách nào gột rửa nổi chỉ bằng một lời xin lỗi đơn thuần, thế nên chị đã quyết định chọn cách im lặng cho tới tận giây phút lâm chung.@`
+br
+` Ý chí kiên cường nhường ấy.@ Sự bướng bỉnh ấy chỉ càng khiến lòng tôi dâng trào sự phẫn uất tột cùng khi bản thân đã gián tiếp dồn ép chị ấy đến bước đường cùng đầy bi thảm này.`
+\
+`"Hóa ra.@ Đến tận giây phút cuối cùng thế này[line=4]"@`
+` tôi vẫn đem lòng yêu thương sâu đậm người con gái ấy sao?@`
+` Cho tới tận khoảnh khắc lìa đời cận kề.@`
+` Cảm giác nhói lòng đầy bi thương giằng xé tâm can cho tới tận giây phút trút hơi thở cuối cùng, chị ấy quả thực là người vô cùng quan trọng đối với cuộc đời tôi.`
+\
+`"[line=6]Hực... Phù."@`
+` Tôi ho khẽ một tiếng yếu ớt, phun ngược ra một ngụm máu nhỏ.`
+\
+` Mọi chuyện rốt cuộc đã hoàn toàn kết thúc rồi.@`
+` Đăm đắm ngước nhìn lên vầng trăng khuyết dịu hiền trên cao, với muôn vàn dòng suy tư quái lạ đang vấn vương trong đầu, tôi chầm chậm chìm sâu vào giấc ngủ vĩnh hằng[line=4]`
+\
+!w3000
+\
+playstop
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

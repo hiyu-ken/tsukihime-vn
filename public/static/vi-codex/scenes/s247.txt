@@ -1,0 +1,28 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11a",notrans,0
+`"…… Senpai ơi, em lỡ làm chuyện gì sai trái khiến chị giận sao ạ?"@
+` Tôi thẳng thắn cất tiếng hỏi trực tiếp em ấy qua cánh cửa.
+\
+`"……………"@
+` Vẫn không có lời hồi đáp.@
+` Tôi có thể cảm nhận rõ sự ngập ngừng ái ngại của em ấy ở phía sau cánh cửa sổ phòng trà đạo.@
+`"Ơ, Senpai ơi?"@
+` *Cốc, cốc.* Tôi gõ cửa thử lại lần nữa.@
+br
+` Sau vài giây im lặng trôi qua…
+` Trải qua bầu không khí im lặng vô cùng ngột ngạt khó chịu, giọng nói của Senpai lại khẽ vang lên lần nữa.
+\
+`"…… Thực ra cũng không hẳn thế đâu, cậu không làm gì sai cả.@ Chỉ là lúc này do một vài lý do cá nhân nên tôi chưa thể gặp cậu được."@
+`"……? Lịch trình cá nhân gì thế thưa Senpai?"@
+`"Không có gì đâu mà, nên xin cậu cứ tự mình đi ăn trưa một mình đi nhé!@ Đến giờ tan học chiều nay tôi sẽ tự khắc bình tĩnh lại thôi, nên từ giờ đến lúc đó, tôi sẽ không gặp cậu đâu!"
+\
+`"………… Ự."@
+` Giọng điệu quát mắng dứt khoát của em ấy đẩy tôi vào thế bí, buộc tôi phải giương cờ trắng đầu hàng.@
+br
+`"Em hiểu rồi.@ Vậy em xin phép quay trở lại lớp học vậy."@
+` Nói vọng qua cánh cửa gỗ xong, tôi lủi thủi rời khỏi phòng trà đạo.
+\
+bg #000000,lcartain,800
+!w1000

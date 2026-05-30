@@ -1,0 +1,203 @@
+playstop
+wavestop
+bg "bg/bg_11d",notrans,0
+` [line=3]Quá sớm.@
+br
+` Để đảm bảo hoàn toàn cho cú giết của mình, kẻ thù phải vô phòng thủ.
+\
+play "*6"
+ld c,"tachi/aki_t28",crossfade,400
+`"Anh đã sai, anh trai.@ Đó là cơ hội cuối cùng của anh để giết tôi."@
+` Kẻ thù ngừng lại.@
+` Hơi thở và ánh nhìn của cô ấy đầy tự tin.@
+`"[line=8]"@
+` Điều đó có nghĩa, khoảng cách hiện tại này là phạm vi tối đa của cô ấy trong hành lang tối này.
+\
+`"Trước đó anh rất nhanh.@ Tôi nghĩ tôi vẫn sẽ mất dấu anh ngay cả trong hành lang hẹp này vì tốc độ của anh.@
+` Nhưng, điều đó sẽ không xảy ra với khoảng cách này.@ Tôi ở gần đủ để nhìn thấy màu mắt của cô ấy, nên tôi có thể dễ dàng theo dõi cô ấy."@
+`"[line=9]"@
+` Không kể tôi chạy nhanh đến đâu, cô ấy nói sẽ giết tôi trước khi tôi kịp tiến gần.@
+` [line=3]Nhưng đó chỉ là nếu tôi chạy về phía cô ấy.
+\
+ld c,"tachi/aki_t27",crossfade,400
+`"... ..."@
+` Cô ấy siết chặt đôi mắt.@
+` Có phải cô ấy phiền lòng vì nắm giữ sinh mạng tôi trong lòng bàn tay, hay bởi thái độ bình thản của tôi? ... Hay điều đó khiến cô ấy do dự?@
+` [line=3]Dù là như thế nào, giống như SHIKI nghĩ, cô ấy thực sự không hiểu ý nghĩa của một cuộc chiến sinh tử.
+\
+`"[line=3]Anh trông có vẻ đang lên kế hoạch gì đó, anh trai."@
+` Cô ấy nói những điều hiển nhiên.@
+` Không cần phải trả lời.@
+`"[line=8]Cô ta có phải là người ngốc không?"@
+` Tôi thì thầm và chuyển con dao sang tay kia.@
+` Tôi lấy nó từ tay chủ động và đặt vào tay trái.@
+` Tôi đã xác định được phạm vi của cô ấy.@
+` [line=3]Tất cả những gì còn lại...
+\
+`"[line=3]Đáng cười. Bây giờ cậu đang sợ rồi."@
+ld c,"tachi/aki_t29",crossfade,400
+`"[line=5]Tôi không sợ...! Bạn là người đang sợ hãi và không thể di chuyển!"@
+`"Được rồi. Bạn có thể giết tôi, phải không? Vậy thì hãy làm đi. Nếu cậu không hành động, tôi sẽ giết bạn khi bạn chớp mắt tiếp theo."@
+` [line=3]"Tôi đã chán ngấy việc nhìn thấy khuôn mặt của cậu."@
+`"[line=9]!"
+\
+` Không khí xung quanh cô ấy xoay vòng.@
+` Khát vọng giết chóc của cô ấy bắt đầu hiện hữu trong mái tóc đỏ của cô ấy.@
+ld c,"tachi/aki_t31",lshutter,400
+` Nhìn của cô ấy, và không gian xung quanh chuyển sang màu đỏ và cố gắng quấn lấy cánh tay tôi cùng một lúc.
+\
+cl c,lshutter,400
+`"[line=6]..."@
+` Tôi lùi lại.@
+` Hơn bất cứ điều gì, tôi cắt mái tóc đỏ đang bao quanh bàn tay thống trị của tôi.@
+bg #9c0120,crossfade,400
+bg "bg/bg_11d",crossfade,400
+ld c,"tachi/aki_t29",lshutter,400
+`"[line=7]Ồ!"@
+` Giọng nói ngắn gọn của Akiha.@
+` Sau đó, tôi chuyển con dao sang bàn tay thống trị vừa giải phóng.@
+` Tôi cắt tóc xung quanh cánh tay trái... Cần một chút thời gian để tự do hóa bàn tay này.
+\
+cl c,lshutter,400
+`"[line=5]Phuừ!"@
+` Tôi không thể cảm nhận được cánh tay trái.@
+` Tôi không nhìn thấy vết thương nào, nhưng cũng không có cảm giác hay nhận thức gì.@
+`"Bây giờ tôi hiểu rồi[line=4]đó là điều nó làm."
+\
+monocro #ff0000
+bg "bg/bg_11d",lshutter,400
+` Tôi lùi lại thêm.@
+` "[line=3]Làn tóc đỏ đang đuổi theo tôi."@
+` Nó không nhanh như trước, nhưng vẫn quấn quanh các chi của tôi.
+\
+` …… Không, từ "đuổi theo" không phải là cách diễn đạt thích hợp.@
+` Không có cách nào để thoát khỏi làn tóc đỏ này.@
+` Khi cô ấy nhìn thấy tôi, nó đã quấn quanh tôi. Không nên nghĩ đến việc né tránh hay tránh khỏi nó.@
+` Nếu nó tồn tại, thì nó ở đó. Nếu không, thì nó không có.@
+` Giống như không khí chạm vào da tôi, mái tóc đỏ đã quấn lấy tôi.
+\
+` Do đó, không có cách nào để thoát khỏi đòn tấn công ấy.@
+` Nếu có điều gì đó tôi có thể làm, thì đó là[line=3]trước khi Akiha lấy đi thứ gì đó từ tôi, tôi phải cắt đứt đường ống... đó là mái tóc đỏ của cô ấy.@
+` Khoảng thời gian giữa lúc cô ấy nhìn thấy thứ gì đó và lấy đi từ nó chỉ là một khoảnh khắc.@
+` Nhưng nếu mục tiêu không rõ ràng trong tầm nhìn của cô ấy, thì có một khoảng thời gian nhỏ trước khi cô ấy thực sự lấy đi từ tôi. Trước khi cô ấy lấy đi quá nhiều từ tôi, tôi cắt tóc để tránh vết thương nguy hiểm.
+\
+` Đó là tất cả những gì tôi đang làm.@
+` Ngay cả khi tôi có thể nhìn thấy hình ảnh của "mái tóc đỏ" của cô ấy, nó không thay đổi rằng khả năng của cô ấy quá áp đảo.
+\
+monocro off
+bg "bg/bg_11d",lshutter,400
+` [line=3]Có thể cô ấy đang đi chậm rãi, nhưng cô ấy theo dõi tôi mà không chạy trốn.@
+br
+`"[line=8]"@
+` Tôi cắt bỏ mái tóc che kín tay, chân và cơ thể tôi liên tục.@
+` Tay trái mà tôi hy sinh để xác nhận sức mạnh của cô ấy tịnh không cử động.@
+` Không có đau đớn. Không có máu. Nhưng dù quần áo của tôi vẫn nguyên vẹn, tôi vẫn có thể thấy một phần lớn thịt bị bỏng nặng.
+\
+`"[line=8] T.C."@
+` Điều khiến tôi cảm thấy bất an là thịt sống này truyền vào trong tôi một luồng không khí lạnh làm tôi rùng mình.@
+` Cảm ơn điều đó, tôi không thể tập trung hoàn toàn vào việc trốn thoát.@
+` Những nỗ lực của tôi để thoát khỏi ánh nhìn của Akiha dần trở nên chậm chạp và tôi dừng lại.
+\
+` [line=3]Và giờ đây, nó đã trở thành phạm vi quan sát của cô ấy.@
+br
+ld c,"tachi/aki_t11c",lshutter,800
+`"[line=4]Ôi, điều gì đang xảy ra vậy? Cô chỉ biết chạy trốn sao? Tôi đã nói với cô rồi, con mồi của tôi chỉ sẽ bị thiêu rụi.@
+` Cô ấy phải tự tin rằng tôi đã bị dồn vào đường cùng.@
+` Cô ấy dừng bước và nhìn chằm chằm vào tôi.
+\
+ld c,"tachi/aki_t28",crossfade,400
+`"[line=3]Đã xong rồi, anh trai ạ. Không phải thú vị sao? Anh sẽ bị tôi giết mà không để lại dấu vết!@
+br
+` [line=4]Tôi đã nói với cô rồi.@
+` Nói như vậy là sự lãng phí thời gian, Akiha.
+\
+bg "bg/bg_07b",lshutter,400
+` [line=6]Crash.@
+` Tôi nhảy lùi lại bậc thang và lao xuống mà không chạm vào các bậc.@
+br
+`"[line=3]Chuyện gì vậy?!"@
+br
+` ... Tôi nghe thấy giọng cô ấy từ trên cao.@
+` Tôi chỉ nhảy lùi thẳng suốt thời gian này, nên cô ấy không thể phản ứng với việc tôi di chuyển sang bên.@
+` ... Vậy mà, tôi dự định sẽ đến bậc thang khi đang lùi lại, nên điều này chẳng là trùng hợp.
+\
+`"Tại sao bạn...! Đứng im đi...!"@
+` Akiha nhìn xuống bậc thang để cố tìm thấy tôi.@
+`"[line=5]Bây giờ,"@
+` Trước khi cô ấy kịp làm điều đó, tôi nhảy xuống lần nữa.
+\
+playstop
+bg #000000,tshutter,400
+bg "bg/bg_07b",bshutter,400
+`"Gg……..."@
+` Chạy xuống cầu thang lần thứ hai khiến gối tôi thét lên đau đớn.@
+` Tôi phớt lờ nó và chạy ra hành lang.@
+` Tôi nghe thấy âm thanh khô khan của bước chân Akiha vội vã xuống cầu thang.@
+`"[line=6]Cửa sổ."@
+` Đây là tầng hai. Tôi có thể nhảy xuống bên ngoài và vẫn ổn.
+\
+`"[line=6]"@
+` Nhưng sau cùng, tôi sẽ trở thành SHIKI.@
+` Tôi đã tái hiện lại những gì xảy ra trong giấc mơ đó đến mức này, nên không cần phải sao chép từng chi tiết như SHIKI làm.
+\
+bg #000000,lshutter,400
+bg "bg/bg_10f",lshutter,400
+` Tôi bước vào hành lang.@
+` Ngay cả ở tầng hai, mái tóc đỏ vẫn lấp đầy không khí... Chúng giống như các mạch máu sống.@
+2,50 (Độ rung chuyển)
+`"[line=5]?"@
+` Cảm giác trong chân tôi biến mất và tôi ngã xuống đất.@
+`"Tôi nhìn xuống" [line=5]@
+` Chân trái của tôi bị quấn bởi những sợi tóc.@
+` [line=3]Cô ấy có thấy chân tôi khi tôi đi xuống cầu thang không?@
+` [line=4]Tôi ở ngoài tầm nhìn của cô ấy, nên điều này không nguy hiểm, nhưng...
+\
+`"Thật đáng sợ... cô ấy độc ác hơn tôi tưởng."@
+` Tôi cắt đứt những sợi tóc đó.@
+` Chân trái của tôi [line=3] giờ giống như cánh tay trái của tôi.@
+`"[line=6]Vậy là xong"@
+` Tiếng chân bước ngày càng gần hơn.@
+` Trước khi cô ấy bước vào hành lang, tôi vội vã chạy vào một lớp học.
+\
+bg #000000,lshutter,400
+bg "bg/bg_06g",lshutter,400
+`"[line=6], [line=7], [line=4]@"@
+` Tôi nín thở, dựa người vào tường giữa chúng tôi.@
+` Tôi không thể tin được điều này.@
+` Một nửa cơ thể tôi dường như đã ngừng hoạt động.@
+` Tôi nhận thức được điều đó, nhưng chưa từng nghĩ mình sẽ sao chép giấc mơ này nhiều đến vậy.@
+br
+wave se_09
+` ... Nhấp nháy, nhấp nháy.@
+br
+` Bước chân ngày càng gần, gần hơn.
+\
+`"[line=8]"@
+` Trong giấc mơ của tôi, SHIKI đã bị giết ngay sau khoảnh khắc này.@
+` Quyết định của SHIKI không sai lầm. Anh ấy chỉ chưa hiểu rõ sức mạnh của Akiha.@
+` Khói cháy ngấm vào không khí.@
+` Nhiệt độ giống như mùa hè sâu thẳm, đốt cháy mọi thứ.@
+` Và những mảnh cơ thể tan rã trong nỗi đau thiêu đốt.@
+` Tất cả những điều này khiến SHIKI tin rằng sức mạnh của Akiha đang 'cháy' kẻ thù.
+\
+` Nhưng sự thật lại hoàn toàn trái ngược.@
+` Akiha quấn chặt đối thủ bằng mái tóc đỏ của mình và hoàn toàn hút cạn "nóng" của họ. Điều này gây ra sự đông cứng tức thì sau đó là hơi hóa, khiến nó trông như thể đã tan rã.@
+` Nếu thực sự là cháy, mọi việc sẽ vô vọng một khi ngọn lửa được thắp lên. Không kể cắt bao nhiêu lần mái tóc đỏ, không thể cắt bỏ chính mình khỏi cơ thể.
+\
+` Nhưng [line=3]đó chỉ là hành vi trộm cắp và hấp thụ.@
+` Do đó, ngay cả khi tôi bị hoàn toàn bao trùm bởi mái tóc đỏ, miễn là tôi có thể cắt đứt tóc trước khi cạn kiệt hoàn toàn và giết Akiha, thì không có vấn đề gì.@
+` Khi cô ấy còn sống, cô ấy có thể biến mục tiêu thành một ngọn lửa địa ngục. Nhưng ảo ảnh của ngọn lửa đó sẽ chết đi khi Akiha qua đời.
+\
+wave se_09
+` ... Lắc lư, lắc lư, lắc lư, lắc lư.
+\
+`"[line=6]"@
+` Tôi đã chuẩn bị sẵn sàng để đốt cháy cánh tay trái khi tôi vươn nó ra. Tôi đã sẵn sàng cắt đứt từ vai một khi nó bắt đầu bốc cháy, nhưng không cần thiết cả.@
+` Năng lực của Akiha sẽ không giết tôi nếu tôi có thể ngăn cô ấy.@
+` Vì Akiha không phải là người sử dụng ngọn lửa đích thực, một cuộc tấn công bất ngờ không thể dẫn đến cái chết cùng lúc nếu cô ấy chết trước tôi.
+\
+`"[line=8]"@
+` Tôi nghe thấy một âm thanh.@
+` Tôi nghe thấy âm thanh bước chân của cô ấy ngay sau lưng tôi.@
+` [line=3]Không nghi ngờ gì, Akiha sắp đi qua lớp học mà thậm chí còn không hay biết tôi ở đây.
+\

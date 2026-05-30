@@ -1,0 +1,96 @@
+monocro off
+playstop
+wavestop
+bg #000000,crossfade,800
+bg "bg/bg_11b",crossfade,1500
+play "*3"
+` Tôi vội vã chạy đến phòng trà đạo.@
+` Khi tôi vừa đến nơi thì đã thấy Senpai đang đặt tay lên nắm cửa chuẩn bị đi ra.
+\
+`"Senpai!"@
+ld c,"tachi/cel_t01a",lshutter,400
+`"Ah, Tohno-kun.@ Em chuẩn bị về nhà đấy à?"@
+`"Dạ không, em định đến trò chuyện với chị một lát.@ Giờ này chị cũng định uống trà đúng không ạ?@ Em định vào uống cùng chị đây."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Không đâu, giờ tôi phải về nhà rồi.@ Tôi có chút việc bận, với lại ngân sách tháng này của câu lạc bộ cũng sắp cạn kiệt rồi."@
+`"[line=3]À.@ Hóa ra là vậy, toàn bộ đống bánh kẹo ăn kèm trà đó đều được mua bằng ngân sách câu lạc bộ sao."@
+` …… Nhưng nghĩ lại thì, một câu lạc bộ có thể tự chi trả cho đống đồ ăn vặt bằng ngân sách của chính mình quả thực rất tuyệt vời.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Thế nên hôm nay tôi không thể tiếp chuyện cậu được rồi…… Tohno-kun này, cậu có kế hoạch gì sau giờ học không?"@
+`"Em á?@ Dạ không, em rảnh rỗi mà."@
+`"Vậy thì, cậu có muốn cùng tôi đi bộ ra cổng trường không?"@
+`"Vâng, được đi cùng chị là vinh hạnh của em."@
+ld c,"tachi/cel_t04",crossfade,400
+` Senpai mỉm cười gật đầu rồi rảo bước bên cạnh tôi.@
+` Chúng tôi cùng nhau thong thả đi bộ khoảng năm phút để ra cổng trường.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01b",lcartain,800
+` Chỉ tán gẫu dăm ba câu chuyện phiếm, chúng tôi đã nhanh chóng ra tới cổng trường.@
+`"Thế thì, hẹn gặp lại chị ngày mai nhé, Senpai."@
+` Giơ tay khẽ chào tạm biệt, tôi rảo bước trên con đường ngược hướng với chị ấy.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Ah, xin chờ chút đã.@ Tôi có chuyện này muốn hỏi cậu đấy, Tohno-kun."@
+`"?@ Có chuyện gì thế chị?"@
+`"Hôm qua cậu bảo có nhìn thấy ai đó trông rất giống tôi đúng không.@ Tôi có chút tò mò, nên muốn nghe cậu kể chi tiết hơn về chuyện đó xem sao."@
+` Her eyes burn with curiosity.@
+` …… Nhưng đối với tôi, đó quả thực không phải là chuyện mà tôi muốn nhớ lại chút nào.
+\
+`"…… Xin lỗi chị nhé, em không muốn nhắc lại chuyện đó đâu ạ.@ Chắc chỉ là do em nhìn nhầm thôi, nên chị không cần bận tâm đâu."@
+` Tôi lảng tránh ánh mắt của Senpai trong khi đưa ra một lời thoái thác mơ hồ.@
+`"Thật thế sao?"@
+` Senpai nhanh chóng dừng lại không gặng hỏi thêm nữa.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Nhưng cậu đã nhìn thấy người đó vào lúc đêm muộn đúng không?@
+` …… Tohno-kun này, tôi nghĩ việc lang thang ra ngoài vào lúc đêm muộn như thế cực kỳ nguy hiểm đấy.@ Chuỗi vụ án mạng giết người hàng loạt vẫn đang tiếp diễn cơ mà?@ Nếu cậu vô tình đụng độ phải gã sát nhân hàng loạt đó thì thật là kinh khủng biết bao, đúng không?"@
+`"…… Senpai đang lo lắng chuyện em đi ra ngoài vào ban đêm sao?"@
+`"[line=3]Đúng thế.@ Cậu là một người hiền lành tốt bụng, nên rất dễ bị người ta lừa gạt rồi tự chuốc lấy nguy hiểm vào người đấy."@
+` Vẻ mặt Senpai trông vô cùng nghiêm túc và lo lắng cho tôi.@
+`"[line=5]Ưm."@
+` Phải, sự lo lắng quan tâm đó của chị ấy khiến tôi cảm thấy vô cùng hạnh phúc.
+\
+`"Em cảm ơn Senpai nhé.@ Nhưng không sao đâu ạ, kẻ đứng sau chuỗi vụ án mạng đó đã biến mất rồi."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Hả?@ Biến mất sao?@ Ý cậu là thế nào cơ?"@
+` …… Chết dở, chuyện về Nrvnqsr là bí mật chỉ giữa tôi và Arcueid biết mà thôi.@
+` Tôi tuyệt đối không thể kể cho Senpai nghe chuyện đó được, vả lại có kể ra thì cũng chẳng giải quyết được gì.
+\
+`"À, ừm, đúng thế ạ.@ Đi dạo ban đêm thực sự rất nguy hiểm."@
+ld c,"tachi/cel_t07a",crossfade,400
+`"…… Dù sao đi nữa, từ giờ trở đi, xin cậu hãy dừng ngay việc lang thang ra ngoài vào ban đêm đi nhé.@ Cậu vốn là một học sinh gương mẫu cơ mà."@
+`"Vâng, em biết rồi.@ Em không chắc mình có gương mẫu hay không, nhưng em sẽ không đi chơi đêm như lời chị dặn nữa đâu."@
+`"…………………"@
+br
+` Senpai chăm chú nhìn thẳng vào mắt tôi.@
+` [line=3]Chị ấy không tin tôi sao?@ Trông chị ấy có vẻ vẫn chưa được thuyết phục lắm.
+\
+`"…… Em hiểu rồi.@ Vậy thì, em xin hứa với chị."@
+` Tôi chủ động đưa một bàn tay ra.@
+`"Senpai ơi, em vẫn luôn nợ chị ơn huệ từ lần trước, nên em nhất định sẽ làm theo những gì chị yêu cầu.@ Thế nên đây là một lời hứa nhé."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Ưm……………… cậu muốn, bắt tay sao?"@
+`"Vâng.@ Tầm tuổi chúng mình mà còn đi móc ngoéo tay hứa hẹn thì trẻ con quá, nên cứ bắt tay cho người lớn ạ."@
+`"…………………"@
+` Đứng đờ ra đó một lúc đầy bối rối, Senpai cuối cùng cũng chịu nắm lấy bàn tay đang chìa ra của tôi.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Tôi hiểu rồi.@ It's a promise, Tohno-kun."@
+` Chị ấy khẽ lắc tay tôi lên xuống nhè nhẹ.@
+ld c,"tachi/cel_t02",crossfade,400
+`"Vậy thì, tạm biệt cậu nhé.@ Hẹn ngày mai gặp lại cậu ở trường nha."@
+cl c,lshutter,800
+` Nhuộm đẫm trong ánh hoàng hôn ấm áp, bóng dáng Senpai khuất dần xa.@
+` Đứng tiễn bóng dáng chị ấy đi xa, tôi mới quay đầu rảo bước trở về nhà.
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_32b",lcartain,1500
+` Tôi bước lên con dốc quen thuộc để quay về biệt thự.@
+` Lúc này còn chưa đến sáu giờ tối nữa.@
+` Vẫn còn một tiếng đồng hồ nữa mới tới giờ ăn tối, nên tôi quyết định về phòng mình để giết thời gian vậy[line=3]
+\
+bg #000000,crossfade,800
+!w2000

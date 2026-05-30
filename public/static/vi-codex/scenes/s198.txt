@@ -1,0 +1,312 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_11c",lcartain,800
+` Khắp hành lang vắng lặng, không gian tĩnh mịch lạnh lẽo.@
+` Ánh đèn hành lang đã tắt lịm từ lâu, chỉ còn những làn sáng trăng xanh xao, huyền ảo chiếu rọi qua khung cửa kính.@
+br
+`"[line=6]"@
+` Ngước nhìn lên bầu trời cao rộng từ phía hành lang, tôi chợt nhận ra,
+` Đêm nay chính là một đêm trăng tròn vành vạnh.
+\
+`"………"@
+` Tôi mất mình trong giây lát khi ngắm nhìn nó.@
+` Mặt trăng bạc.@
+` Nét đẹp tinh tế như thủy tinh, nó cảm thấy như sẽ vỡ vụn nếu tôi vươn tay và chạm vào nó.@
+` Mặt trăng đó.@
+` Khi còn nhỏ.@ Tôi có cảm giác.@ Tôi đã nhìn thấy nó.@ Trong một trạng thái mê sảng.
+\
+bg #000000,crossfade,400
+bg "bg/bg_11c",crossfade,400
+play "*6"
+br
+` [line=4]Thịch! Một nhịp đập chấn động.@
+br
+`"Hự... !?"@
+` Bất ngờ, vết sẹo trên ngực tôi bắt đầu đau nhức.
+\
+br
+` [line=4]Thịch! Một tiếng đập mạnh bạo.@
+br
+` Trái tim tôi như lỡ mất một nhịp.@
+` Dòng máu trong huyết quản bỗng chốc sôi trào, cuộn cuộn chảy loạn đầy điên cuồng khiến tôi không thể kiểm soát nổi hơi thở của mình nữa.
+\
+br
+` [line=4]Một cơn buồn nôn khó chịu ập đến, toàn thân tôi run rẩy lên bần bật.@
+br
+` Tôi vội vã đưa tay áp chặt lên lồng ngực.@
+` Nội y và chiếc áo đồng phục học sinh bấy giờ đã hoàn toàn đẫm máu.@
+` Vết sẹo cũ rách toạc ra, dòng máu tươi nóng hổi đang liên tục phun trào.
+\
+br
+` [line=4]Đêm thứ tư, Không Tưởng Cụ Hiện.@
+br
+` *Hộc... hộc...*@
+` Nhịp thở của tôi hoàn toàn rơi vào trạng thái hỗn loạn.@
+` Một luồng khí lạnh buốt chạy dọc sống lưng, toàn bộ xương tủy tôi đau đớn kịch liệt hệt như sắp sửa vỡ vụn thành từng mảnh.
+\
+br
+wave se_01
+` [line=4]Thịch! Thêm một nhịp chấn động.@
+wave se_01
+` [line=2]Thịch! Một tiếng đập mạnh.@
+wave se_01
+` [line=4]Và rồi...
+wave se_01
+` [line=2]Tôi bỗng cảm nhận được một sự hiện diện vô cùng kỳ lạ, như thể có một ánh mắt tà ác nào đó đang lặng lẽ dõi theo từng cử động của mình.
+br
+wave se_08
+` [line=6]Giữa khoảng lặng nghẹt thở của từng nhịp tim đập dồn dập, tôi chợt nghe thấy một âm thanh vang vọng.@
+br
+` "Á..."
+\
+`"[line=6]Có kẻ... đang đến gần.@
+` Từ phía cuối dãy hành lang tối tăm, bóng dáng đó đang chậm rãi rảo bước về phía tôi.@
+` *Cộc... Cộc...* Tiếng bước chân khô khốc vang vọng.@
+` Có điều gì đó... thực sự vô cùng bất thường.@
+\
+` [line=4]Nỗi kinh hoàng hoang dại đang bóp nghẹt lồng ngực này hoàn toàn không phải vì phản xạ tự nhiên của cơ thể trước hiểm nguy như những lần chạm trán trước đây.@
+br
+` @
+` Một cơn đau đầu như búa bổ đột ngột xuyên thẳng qua đại não tôi.@
+` Cảm giác hiểm họa sát sườn này... đang khóa chặt vào chính bản thân tôi.
+\
+br
+br
+br
+br
+br
+br
+` Trực giác mách bảo tôi rằng, cái bóng mờ ám đang tiến lại gần kia [line=4] chính là thực thể mà Tohno Shiki tuyệt đối không được phép chạm mặt [line=6].
+\
+` Nhịp thở của tôi ngày càng trở nên dồn dập, đứt quãng.@
+` Dẫu đầu óc đang quay cuồng đến mức không thể hít thở bình thường, tôi vẫn vội vã tháo chiếc kính cận ra.@
+` Tay run rẩy nắm chặt lấy con dao [line=3] cất sẵn trong túi quần.
+\
+bg "bg/bg_11d",crossfade,1500
+` Hình bóng tà ác đó đang tiến lại mỗi lúc một gần.@
+` Làn sáng trăng xanh xao rọi xuống, chứng thực đó là bóng dáng của một nam giới.@
+` Điểm chí tử trên cơ thể hắn đang không ngừng co bóp, nhịp đập dồn dập ngay chính giữa lồng ngực hệt như một quả tim.@
+` Và bao phủ quanh thân xác hắn chính là vô vàn những đường tử tuyến chằng chịt, dày đặc hệt như hệ thống dây điện phức tạp của một cỗ máy khổng lồ.
+\
+`"[line=18]"@
+br
+` Hơi thở của tôi bỗng chốc đông cứng.@
+` …… Đầu óc tôi bấy giờ dường như đã gặp phải một sự sai lệch khủng khiếp.@
+` Rõ ràng tôi chưa từng giáp mặt kẻ này.@
+` Thế nhưng dẫu lý trí khẳng định không biết [line=4], tôi vẫn mơ hồ cảm nhận thấy hắn vô cùng quen thuộc, hệt như một người bạn cũ.
+\
+wave se_08
+` *Cộc... Cộc...*@
+` Hắn vẫn đang chậm rãi bước lại gần.@
+` Chỉ một chút nữa thôi, tôi sẽ có thể nhìn rõ diện mạo thực sự của hắn.@
+br
+`"[line=20]"@
+br
+` Hắn giống ai thế này?@
+` Hắn thực sự nhìn giống ai chứ?@
+` Gương mặt đó... giống ai được chứ?@
+` Rốt cuộc hắn là ai cơ chứ?@
+br
+` [line=6]Rốt cuộc... mình đã quên mất một sự tồn tại quan trọng nào rồi sao?
+\
+ld c,"tachi/roa_t07c",crossfade,1500
+` [line=4]Đôi mắt đỏ ngầu vằn tia máu.@
+` Bầu không khí chết chóc, tà ác bao trùm toàn bộ thân xác hắn.@
+` Một sự tĩnh lặng lạnh lẽo đến rợn người, cảm giác hệt như dưỡng khí xung quanh hai chúng tôi đã hoàn toàn bị đóng băng.@
+` Tuyệt đối không thể nhầm lẫn được... kẻ đứng trước mặt tôi tuyệt đối không phải là con người.@
+cl c,crossfade,1500
+br
+` Hắn lại tiến gần thêm một bước.@
+` Hắn lẳng lặng bước thẳng về phía tôi, khóa chặt ánh mắt đỏ ngầu lên người tôi, khóe môi khẽ nở một nụ cười quỷ dị trong im lặng.
+\
+`"[line=18]!"@
+` Tôi lập tức vung dao ra.@
+` Lưỡi dao sắc lạnh chém vào không trung.@
+` Nhưng hắn vẫn ung dung tiếp tục bước tới.@
+` Tôi hoàn toàn không có lấy một giây để suy nghĩ hay đắn đo nữa.
+\
+` Dưới làn ánh trăng xanh xao rọi xuống.@
+` Hệt như một thước phim quay chậm, tôi gồng mình vung con dao nhắm thẳng về phía hắn.@
+` Nhưng hắn vẫn không hề nao núng dừng bước.@
+br
+` Và rồi,
+` Cảm giác hệt như thời gian chỉ ngừng trôi đối với duy nhất một mình tôi,
+br
+` Hắn dễ dàng lướt tay qua, cướp lấy con dao trong tay tôi rồi xoay ngược lưỡi dao lại một cách vô cùng điêu luyện.
+\
+ld c,"tachi/roa_t07b",crossfade,400
+`"[line=4]Cái... gì cơ?"@
+br
+` [line=4][line=4]Cơ thể tôi hoàn toàn tê liệt, không kịp đưa ra bất kỳ phản xạ phòng thủ nào.
+br
+`"... Shiki. Việc nhìn thấy cái chết vốn dĩ không phải là đặc quyền của riêng một mình cậu đâu."@
+br
+` Nói rồi, cánh tay hắn khẽ chuyển động.@
+br
+` [line=4]Hực!@
+br
+` Một luồng khí lạnh buốt giá lại chạy dọc cơ thể tôi.@
+` Đại não tôi bấy giờ hệt như bị đóng băng hoàn toàn.@
+` Thể xác tôi run rẩy khi hồi tưởng lại nỗi đau đớn kịch liệt của ngày định mệnh năm xưa.
+\
+`"[line=12]Á."@
+` Tiếng da thịt bị chém xé vang lên sắc ngọt.@
+` Con dao vừa bị hắn cướp mất [line=2] bấy giờ đã đâm sâu ngập lút cán [line=2] thẳng vào ngay chính giữa lồng ngực tôi [line=6].
+\
+playstop
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_11c",crossfade,400
+` Thân hình tôi đổ sụp xuống. Toàn bộ sinh lực trong cơ thể bỗng chốc cạn kiệt hoàn toàn, tôi ngã lăn ra sàn nhà lạnh lẽo.
+\
+br
+` Trong lúc chao đảo ngã xuống,
+` Những dải băng gạc màu trắng khẽ bay lơ lửng, rơi rụng khắp sàn.
+\
+` [line=4]Đạo là vì trong lúc ngã quỵ, tôi đã cố bám víu lấy người hắn.@
+` Bàn tay tôi bấu chặt, vô tình giật tung những dải băng gạc quấn quanh cơ thể hắn ra.
+\
+`"Tôi hiểu rồi. Cậu muốn nhìn thấy diện mạo thực sự của tôi đến thế sao, Shiki?"@
+` Cất giọng chế giễu đầy ngạo nghễ,
+` hắn tháo bỏ hoàn toàn những lớp băng gạc cuối cùng quấn quanh mặt.@
+ld c,"tachi/roa_t04c",crossfade,400
+wave se_01
+`"[line=6]"@
+` Mọi thứ trở nên tối đen.@
+` Gương mặt của hắn. Gương mặt đang hiện rõ ngay sát trước mắt tôi lúc này... tôi biết vô cùng rõ.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_06",crossfade,400
+` [line=4]Đúng vậy, chính xác là thế.@
+` [line=4]Bởi vì gương mặt tà ác của hắn...
+` [line=4]...nhìn giống hệt với khuôn mặt của đứa trẻ bị nhuốm máu đứng trước mặt tôi vào ngày hè rực nắng năm xưa.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_11c",crossfade,400
+waveloop se_02
+` Tôi nằm gục trên nền đất lạnh,
+` Con dao vẫn đang cắm chặt ngập lút trong lồng ngực tôi.@
+` Nhưng lạ lùng thay, không hề có một giọt máu nào tuôn ra, thậm chí tôi cũng chẳng cảm thấy chút đau đớn nào.@
+` Cơ thể tôi chỉ đang dần trở nên buốt giá, lạnh lẽo vô cùng.
+\
+` Ý thức của tôi bắt đầu trôi đi xa vời.@
+` Quyền kiểm soát cơ thể... mọi giác quan xung quanh tôi bấy giờ bắt đầu nhạt nhòa, tan biến dần vào bóng tối.
+\
+ld c,"tachi/roa_t04c",crossfade,400
+`"Thế là tôi đã đòi xong món nợ huyết hải mà cậu đã giết tôi lần trước rồi nhé."@
+` Hắn vừa cất lời ngạo nghễ vừa dõi mắt nhìn xuống tôi đầy khinh bỉ.@
+` Nhìn gương mặt hắn trong khi cố gắng ngước đầu lên... tôi lập tức nhận ra hắn.@
+br
+` [line=4]Dĩ nhiên, tôi nhận ra gương mặt này vô cùng rõ ràng.
+\
+bg #ffffff,crossfade,400
+bg "bg/cmo_06",notrans,0
+bg "bg/bg_11c",crossfade,400
+` Vâng, [line=4] tại sao tôi lại có thể quên bén đi sự hiện diện của cậu ấy cho đến tận lúc này chứ?@
+br
+` Những ngày tháng khi tôi còn thơ bé.@
+` Đứa trẻ cùng tôi và Akiha vui đùa thỏa thích ở khoảng sân trước biệt thự gia tộc Tohno.
+\
+` [line=4]Chúng tôi đã luôn kề vai sát cánh bên nhau, chưa từng rời xa nửa bước.@
+` [line=4][line=3]Mỗi khi Akiha ra sân chơi, tôi và cậu ấy luôn là người đón tiếp em ấy chu đáo. Tại sao rốt cuộc tôi lại quên sạch ký ức về cái tên của cậu ấy cho đến tận khoảnh khắc sinh tử này...?
+\
+`"[line=4]SHIKI..."@
+ld c,"tachi/roa_t04c",crossfade,400
+`"Đúng vậy, Shiki. Đã lâu không gặp."@
+` [line=4]Hắn nở một nụ cười vô vô cùng thỏa mãn.@
+br
+` SHIKI. Akiha. SHIKI. SHIKI. Akiha. Shiki.@
+br
+` Những nét vẽ hỗn loạn hằn sâu trong đại não tôi bấy giờ chập chùng hiện về.
+\
+`"[line=4]Thật... nực cười..."@
+`"Xin lỗi nhé Shiki. Cậu sẽ phải kiên nhẫn chịu đựng lắng nghe những lời phàn nàn của tôi thêm một lát nữa đấy, bởi khi ra tay tôi đã cố tình tránh những điểm chí tử của cậu rồi."@
+` "Vết thương này tuyệt đối không nguy hại đến tính mạng ngay lập tức đâu, nên cậu vẫn có thể duy trì được sự tỉnh táo trong một khoảng thời gian nữa đấy. Đừng có dễ dàng biến mất nhanh chóng như thế chứ."@
+br
+` Tiếng cười man dại khó chịu của hắn khiến tôi lập tức liên tưởng đến cảm giác kinh hoàng tột độ khi đối mặt với Nrvnqsr Chaos hôm trước.@
+` Giữa lúc ý thức đang dần mờ mịt, tôi bỗng chợt nhận ra một sự thật kinh hoàng.@
+` [line=4]Chính kẻ đứng trước mặt tôi lúc này... mới thực sự là "kẻ thù" duy nhất mà Arcueid hằng săn đuổi.
+\
+ld c,"tachi/roa_t01a",crossfade,400
+`"[line=4]Vậy thì," hắn mỉm cười đầy xảo trá, "tôi xin phép được lấy lại con dao này nhé? Một kẻ sắp sửa tan biến vào hư không như cậu thì giữ thứ vũ khí này làm gì nữa."@
+br
+` Hắn chậm rãi vươn tay ra, nắm lấy cán dao đang cắm sâu trong ngực tôi.@
+` Hắn siết chặt lấy chuôi dao.@
+` Tôi biết rõ, ngay khoảnh khắc hắn dứt khoát rút con dao này ra, cũng chính là lúc hơi thở cuối cùng của tôi hoàn toàn tắt lịm.@
+br
+` Thế nhưng thể xác tôi bấy giờ hoàn toàn tê liệt, chẳng thể làm được gì cả.@
+` Đến cả việc nhắm chặt đôi mi lại để trốn tránh cái chết lúc này đối với tôi cũng là một việc vô vọng.
+\
+bg #000000,lshutter,400
+wave se_12
+bg "bg/bg_11c",notrans,0
+quake 2,100
+waveloop se_02
+`"[line=4]Hự... !?"@
+` Thân hình SHIKI bỗng bị đánh văng mạnh sang một bên.@
+` Bất ngờ không kịp đề phòng, hắn bị hất bay ngược lại hệt như vừa chịu một cú va chạm trực diện của một chiếc xe tải khổng lồ.@
+br
+` Cùng lúc đó, một bóng dáng mặc áo choàng đen huyền bí đột ngột hiện hình.@
+br
+` Dẫu đây là dãy hành lang thuộc tầng ba, cô ấy vẫn dũng cảm chém vỡ lớp cửa kính lớn rồi lao vào trong một cách vô cùng lộng lẫy và oai phong.
+\
+`"[line=6]Khốn khiếp!"@
+` Bị hất văng lùi xa cả chục mét,@
+` [line=4]SHIKI gượng đứng dậy thật chậm rãi, trừng mắt nhìn tôi đang nằm bất động trên sàn, cùng với Ciel người đang dang rộng vòng tay chắn phía trước để bảo vệ tôi.
+\
+ld c,"tachi/roa_t05a",crossfade,400
+`"[line=4]Ả đàn bà phiền phức kia... hết lần này đến lần khác chen chân vào cản trở đại sự của ta sao?"@
+cl c,crossfade,400
+ld c,"tachi/cel_t06b",crossfade,400
+`"..."@
+` Cô ấy chỉ im lặng lạnh lùng khóa chặt ánh nhìn về phía SHIKI dẫu không cất lên một lời nói nào.@
+cl c,crossfade,400
+` Nhận thấy bầu không khí căng thẳng, hắn khẽ nghiêng mình thủ thế như thể sắp sửa lao vào giao chiến cùng Ciel.
+\
+br
+br
+br
+br
+br
+` [line=4]Và rồi sau đó...@
+br
+` Như thể chợt nhận ra một sự thật kinh hoàng nào đó, SHIKI đột nhiên ngửa cổ cười lớn đầy điên dại.
+\
+ld c,"tachi/roa_t04c",crossfade,400
+`"Hahaha... haha... ahahahahahaha!"
+\
+`"Ta hiểu rồi! Hóa ra là như vậy sao! Thật không thể tin nổi, nhưng chuyện điên rồ này lại hoàn toàn là sự thật! Thú vị, quả thực vô cùng thú vị! Đây là lần đầu tiên một hiện tượng chấn động như thế này xảy ra trong suốt tám trăm năm qua...!"@
+` "Nếu đúng là như vậy, thì chắc chắn sẽ có vô vàn những trò vui mới mẻ đang chờ đón ta phía trước...!"@
+` "SHIKI tiếp tục cười nắc nẻ từ tận đáy lòng đầy man dại."@
+` …… Trong khi đó, Ciel vẫn lặng im, ánh mắt sắc lạnh như băng dõi thẳng về phía tên ma cà rồng tà ác trước mặt.
+\
+`"Sao thế? Ả kia đến đây là để thanh trừng ta đúng không? Hay là còn có mục đích mờ ám nào khác? Hay thực chất một cái vỏ rỗng tuếch bị vứt bỏ như ngươi thì chẳng thể tự mình làm được trò trống gì hả?"@
+`"[line=6]"@
+` Cô ấy hoàn toàn không mảy may quan tâm hồi đáp lời hắn.@
+` Cô ấy dứt khoát quay lưng lại với tên ma cà rồng, cúi xuống nhẹ nhàng nhấc bổng cơ thể tôi lên ôm chặt vào lòng.
+\
+`"Ồ? Cái mạng giả mạo rẻ rách của tên nhóc đó... lại quan trọng hơn cả việc tiêu diệt tận gốc kẻ thù truyền kiếp của ngươi sao?@
+` Nhưng mọi nỗ lực cứu chữa chỉ vô ích mà thôi. Tên nhóc này đã hết thuốc chữa rồi. Đây chính là quả báo nhãn tiền cho việc hắn dám dùng danh tính Tohno Shiki để sống sung sướng suốt thời gian qua.@
+` Dẫu có là ai đi nữa, tuyệt đối không có bất kỳ phương pháp nào có thể cứu sống một kẻ có tử tuyến đã bị chém đứt lìa hoàn toàn cả. Ngay cả ả Công chúa Chân Tổ năm xưa cũng phải đánh đổi tới tám trăm năm thời gian để tiến hành tái sinh cơ thể kia mà.@
+` "[line=4]Một kẻ phàm trần yếu ớt như hắn làm sao có cửa trốn thoát khỏi lưỡi hái tử thần chứ."@
+` Giọng nói tà ác của hắn vang lên đầy những tiếng cười nhạo báng, khinh bỉ.
+\
+` Senpai không hề cất lên dẫu chỉ một lời hồi đáp.@
+` Cuối cùng, lẳng lặng ôm chặt lấy thân hình tôi,
+` cô ấy dứt khoát đạp vỡ cửa kính rồi ôm tôi nhảy vọt ra ngoài khoảng không trung.
+\
+bg #000000,lcartain,800
+` Đối với cô ấy, độ cao của tầng ba dường như chỉ là một trò đùa vô nghĩa.@
+` Nhẹ nhàng hạ cánh xuống nền đất công viên, cô ấy lập tức ôm tôi chạy thục mạng rời khỏi khuôn viên trường học mà không thèm ngoái đầu nhìn lại dẫu chỉ một lần.@
+br
+` [line=4]Trong suốt hành trình trốn chạy đó,
+` tôi chỉ biết vô hồn hướng về phía tòa nhà trường học xa dần với đôi mắt rã rời trống rỗng.
+\
+bg "bg/ima_02",crossfade,400
+` Nơi dãy hành lang tầng ba mà tôi vừa đứng lúc nãy.@
+` [line=6]Tôi vô hồn nhìn theo bóng dáng tên ma cà rồng có mái tóc dài màu đen ấy, bóng hình hắn đang đứng tựa lan can cười ngạo nghễ dõi theo bước chân trốn chạy của chúng tôi rời đi.
+\
+bg #000000,crossfade,1500
+wavestop
+!w3000

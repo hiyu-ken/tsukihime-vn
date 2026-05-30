@@ -1,0 +1,508 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+[line=4]play "*2"
+br
+` Hôm nay là một ngày nắng ấm tươi đẹp.@
+` Tôi nhanh chóng chuẩn bị sách vở và mặc đồng phục để đến trường.@
+` Dù cơ thể vẫn còn chút mệt mỏi từ chứng thiếu máu hôm qua, nhưng tinh thần tôi đã phấn chấn hơn rất nhiều.
+\
+[line=4]bg #000000,lcartain,800
+bg "bg/bg_01a",lcartain,800
+br
+` [line=6]Sân trường náo nhiệt tiếng cười nói của các học sinh khác làm tôi cảm nhận được nhịp sống bình thường thường nhật mà tôi hằng mong muốn.@
+` Nhưng trong lòng tôi vẫn không khỏi bận tâm về bóng dáng tu sĩ cứu mạng tôi đêm hôm kia.@
+\
+bg #000000,lcartain,800
+monocro #ff00ff
+bg "bg/bg_26a",lcartain,800
+` [line=4]Tôi bước vào hành lang lớp học.@
+` Bỗng nhiên, từ phía góc hành lang phía trước, một bóng người quen thuộc bước ra.@
+ld c,"tachi/cie_t01a",lshutter,800
+br
+`"[line=4]A, chào buổi sáng, Tohno-kun!"@
+` Ciel-senpai rạng rỡ vẫy tay chào tôi hệt như mọi ngày.
+\
+\
+` Tôi ngơ ngác đứng trân trân nhìn cô ấy.@
+` Sự dịu dàng ngọt ngào tỏa ra từ cô ấy hoàn toàn khác hẳn với vẻ lạnh lùng, tàn bạo của vị Hành Pháp Giả găm hắc kiếm phóng hỏa đêm hôm kia.@
+`"Sao thế Tohno-kun? Trông mặt em cứ ngơ ngác hệt như vừa nhìn thấy ma vậy đó."@
+` [line=2]Cô ấy khẽ nghiêng đầu cười khúc khích trêu chọc.
+\
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_26a",lshutter,800
+ld c,"tachi/cie_t02a",crossfade,400
+`"Thế thì tốt quá rồi. Em nhớ phải biết giữ gìn sức khỏe của mình đấy nhé."@
+` Cô ấy mỉm cười dịu dàng rồi lẳng lặng bước đi về phía lớp học của mình.
+\
+cl c,lshutter,800
+` [line=4]Nhìn theo bóng lưng cô ấy khuất dần sau ngã rẽ, lòng tôi trào dâng một cảm giác hỗn loạn vô cùng.@
+` Không thể nào.@ Người vừa trò chuyện vui vẻ dịu dàng với tôi chính là Senpai tốt bụng thường ngày mà.@
+\
+br
+[line=4]bg #000000,lcartain,1000
+br
+wave se_12
+mov %flushcount,0
+bg #0000ff,notrans,0
+wait 16
+bg "bg/bg_26a",notrans,0
+wait 16
+dec %flushcount
+if (%flushcount>=0) skip -5
+`"Vâng. Trên này lộng gió và yên tĩnh thật đấy."@
+` Tôi bước lại gần và ngồi xuống chiếc ghế băng bên cạnh cô ấy.@
+`"Nào, uống chút trà nóng cho ấm người đi em."@
+` Cô ấy dịu dàng rót một ly trà ấm từ chiếc bình giữ nhiệt rồi đưa cho tôi.
+\
+\
+` [line=4]Tôi nhận lấy ly trà, khẽ nhấp một ngụm. Vị trà ấm áp lan tỏa khắp cơ thể làm tôi thấy dễ chịu vô cùng.@
+` Đứng bên cạnh Senpai thế này, tôi quyết định phải gặng hỏi để làm rõ những hoài nghi trong lòng mới được.@
+`"Này, Senpai... Cho em hỏi một chuyện hơi kỳ lạ nhé."@
+[line=4]ld c,"tachi/cie_t12a",crossfade,400
+br
+` [line=4]Cô ấy khẽ mỉm cười đầy tò mò.
+\
+\
+monocro off
+bg #000000,lcartain,800
+play "*6"
+` Cô ấy nghiêng đầu ngơ ngác hệt như không hiểu tôi đang nói gì.@
+` Vẻ mặt tự nhiên không chút gượng gạo hay che giấu đó của cô ấy làm tôi bỗng cảm thấy vô cùng nhẹ lòng.
+br
+`"À không có gì đâu ạ. Chắc do em ngủ mơ thấy chuyện kỳ lạ thôi."@
+` Tôi khẽ thở phào nhẹ nhõm, thầm cười cho sự hoài nghi ngớ ngẩn của mình.@
+\
+[line=6]\
+cl c,lshutter,800
+bg #000000,crossfade,1500
+br
+[line=6]!w3000
+` Như thể một con dao đang cắt chậm nhưng chắc chắn qua cột sống của tôi,
+` một cơn đau từ bên trong tôi len lỏi ra ngoài.@
+` Bản thân tôi như bị tiếng thét của trực giác xé nát.@
+` Chúng nói rằng con đường phía trước quá nguy hiểm, và tôi phải quay lại.
+\
+`"[line=4]Im đi."@
+` Nhưng điều đó chẳng đáng nói gì.@
+` Số lượng cái chết ở đây không bình thường.@
+` Bên trong... Tôi biết một chuyện khủng khiếp đang xảy ra ở ngõ hẻm này.@
+` Nhưng giờ tôi không thể quay đầu lại được.@
+` Tôi không thể bỏ mặc Arcueid một mình.@
+` [line=4]Nếu tôi chạy trốn đến đây, cô ấy có thể sẽ bỏ đi và chết.@
+` Tôi không thể xua tan cảm giác này, và tôi bước vào con hẻm đầy chết chóc.
+\
+monocro #ff0000
+monocro #ff0000
+bg "bg/bg_31b",lcartain,800
+`"[line=6]Chuyện gì vậy?"@
+` Tâm trí tôi đóng băng.@
+br
+` Những gì tôi thấy là phi thực tế.@
+br
+` Từng mảnh người rải rác khắp mặt đất.@
+` Không đầu, không tay, bụng họ bị cắt mở, xác chết nhuộm đỏ hoàn toàn.@
+br
+` Trên tường, mặt đất, thậm chí cả mặt trăng trên cao.@
+` Mọi thứ ở đây chỉ... đỏ.
+\
+` Một âm thanh nhàm chán, khó chịu.@
+` Người cuối cùng, hình hài con người cuối cùng đầy những đường nét, chết đi từ tay cô ấy.@
+br
+` Chỉ bằng một bàn tay.@
+` Cô ấy đập đầu của Tử Giả vào tường, nghiền nó như một quả cà chua.@
+` Như thể chưa thỏa mãn, cô ấy xé cơ thể không đầu thành hai nửa và đập nó xuống đất.
+\
+monocro off
+bg "bg/bg_31b",crossfade,400
+`"[line=4]Arcueid."@
+` Thế giới chỉ lấp đầy bởi màu đỏ và ánh trăng.@
+` Ở trung tâm của mọi thứ, Arcueid đứng đó.@
+` Cô ấy không hay biết tôi đang ở đây.@
+` Cô ấy chỉ nhìn lên mặt trăng[line=4]trong trạng thái mê hoặc và thở nặng nhọc.
+\
+`"[line=6]..."@
+` Tôi không thể nói gì.@
+` Đau đớn bên trong tôi đạt đến đỉnh điểm sốt sắng.@
+` Có vẻ như con dao đã cắt xuyên qua hoàn toàn.
+\
+br
+` [line=4]Rắc rắc...@
+br
+` Tâm trí tôi đang gào thét.@
+` Tôi không nên ở đây. Tôi không muốn chết, nó hét lên.@
+br
+` Rồi,
+` Mắt Arcueid đột nhiên chuyển hướng.@
+playstop
+ld c,"tachi/ark_t20b",notrans,0
+waveloop se_02
+` Mắt cô ấy không còn màu đỏ thường thấy, mà là một chớp sáng vàng.@
+` Không phải vì chúng tôi đã gặp nhau.@
+` Chỉ đơn giản là tôi nhìn vào đôi "mắt" đó.
+\
+` Thật đáng sợ.@
+` Máu tôi chạy khắp cơ thể và tâm trí tôi bị sốc.@
+br
+br
+br
+` [line=4]Ban đầu, một cảm giác khủng hoảng áp đảo.
+\
+` Tôi không nên ở đây.@
+` Tôi không nên đứng trước thứ đó.@
+br
+` Nó sẽ giết bạn.@
+` Bạn không thể chống lại nó.@
+br
+` "Sinh vật" đó ở một cấp độ hoàn toàn khác biệt.@
+` Không phải là vấn đề cao hơn hay thấp hơn, mà là điều vượt ra ngoài sự đánh giá.@
+` [line=4]Trước khi có thứ đó, chỉ đơn giản là tồn tại cũng đồng nghĩa với cái chết.
+\
+` THU, MP.@
+` Toàn bộ cơ thể tôi rung lên.@
+br
+` Ban đầu, đó là nỗi sợ.@
+` Sau đó, một khát vọng giết chóc.@
+br
+` Vì thứ đó không nên tồn tại.@
+` Nên hãy giết nó. Đi nhanh lên và giết nó. Giết nó ở đây. Giết nó ngay bây giờ.@
+` Trong tên của dòng máu này,
+!w500
+` hãy cầm lấy thứ đó ở đây và phá hủy nó.
+!w500
+` [line=4]Trái tim tôi đập dữ dội.
+\
+br
+` Tôi biết không có cách nào tôi có thể đối mặt với nó, nhưng toàn bộ cơ thể tôi hét lên để giết nó.@
+br
+` Đáng buồn thay,@
+` [line=4]nó bảo tôi giết nó mặc dù tôi biết nó sẽ giết tôi.
+\
+` Nó bảo tôi không muốn bị giết nên hãy giết?
+\
+`"[line=4]Ôi trời ơi..."@
+` Tôi không... ở đây.@
+` [line=4]Những con mắt đó [lối dòng 4], tôi không được nhìn chúng.@
+` Tôi biết điều này, nhưng tôi không thể thoát khỏi cái nhìn của cô ấy.
+\
+` Đánh thình thịch. Máu tôi sôi sục...@
+` Sự rung động kích thích của máu trong người.@
+` Nhưng có thứ gì đó khác đang cố gắng xuyên thủng ý thức của tôi.
+\
+monocro #ff0000
+bg "bg/bg_31b",crossfade,400
+wavestop
+ld c,"tachi/ark_t20b",notrans,0
+play "*4"
+br
+br
+`"[line=4][line=4]Gào thét, gào thét!" [lối dòng 4]@
+br
+br
+` Tại sao tôi lại muốn giết?@
+` Bạn có muốn giết người khác trước khi bị giết vì không muốn chết?@
+` Không, đó không phải là lý do.@
+` Không cần lý do gì để giết ai đó.@
+` Hãy trung thực đi, Tohno Shiki.@
+` [line=4]Từ lâu rồi, bạn đã muốn chiếm lấy người phụ nữ này và...
+\
+br
+br
+`"[line=4]Im lặng."@
+br
+` Không, chính lý do và lương tâm của bạn nên im lặng.@
+` Đó mới là điều đúng đắn.@
+` Tôi chỉ muốn cô ấy. Tôi muốn Arcueid. Hãy nhớ lại cảm giác từ thời điểm đó.@
+` Bạn đã biết từ lần đầu tiên bạn nhìn thấy cô ấy.@
+` [line=6]Từ khi đó, bạn đã giết sinh vật đó bằng tay mình và mất trinh tiết của một kẻ sát nhân!@
+bg "bg/ima_13b",crossfade,800
+monocro off
+\
+br
+br
+`"[line=6]Ồ."
+\
+`Ồ."@
+br
+br
+` Vâng. Tôi muốn tất cả.@
+!w1200
+` Trái tim, cơ thể cô ấy,
+!w700
+` Nước mắt, nước bọt của cô ấy,
+!w500
+` [line=6]Máu của cô ấy, thịt của cô ấy, tội lỗi và hình phạt, ham muốn và sự nóng nảy.
+\
+br
+br
+`"[line=4]Hah...!"@
+br
+br
+br
+` Nhịp thở của tôi mất kiểm soát.@
+` Tôi không thể nắm bắt được tâm trí của mình.@
+` Đôi mắt cô ấy đang nuốt chửng tôi.@
+` Những đôi mắt vàng vọt đó.
+\
+br
+br
+br
+br
+br
+br
+` Đó là,
+!w750
+` Một thứ gì đó không thể bị giết chết dù tôi giết bao nhiêu...
+!w750
+\
+playstop
+bg "bg/bg_31b",crossfade,400
+ld c,"tachi/ark_t18",crossfade,400
+`"[line=4]Shiki!"?@
+` Arcueid nhận ra tôi ở đây.@
+` Ngay khi cô ấy nhìn thấy tôi tập trung vào đôi mắt cô ấy, cô ấy thay đổi chúng thành màu đỏ thẫm.@
+br
+` Nhưng lúc này,
+` đã quá muộn rồi.
+\
+bg #000000,lshutter,400
+` Tôi rút con dao ra và đẩy Arcueid xuống.@
+` Cơ thể yếu ớt của cô ấy dễ dàng bị đẩy.@
+` Tôi ngồi lên người cô ấy.@
+` Cô ấy nắm một cánh tay vào cổ, cánh tay kia cầm con dao của tôi trên đầu.@
+br
+` Tất cả những gì còn lại là...
+` là để đánh giữa hai bầu ngực của cô ấy.
+\
+`"[line=4]Hãy bình tĩnh lại! Đây không phải là điều cậu muốn, Shiki..."@
+br
+` Tôi có thể nghe thấy giọng nói của cô ấy.@
+` Não bộ của tôi bắt đầu quá tải.@
+br
+`"[line=6]Im đi!"@
+` Tôi ôm chặt cổ cô ấy.@
+` Cô ấy đau đớn nâng cao cằm.@
+` ... Tôi không thể tin được điều này.@
+` Với tất cả sức mạnh của mình, cô ấy thậm chí còn không thể giải phóng cánh tay này vào lúc này.
+\
+`"[line=4]Shiki."@
+` Hít thở đau đớn, Arcueid ho ra tên tôi.@
+` Đánh vang một tiếng.@
+` Tim tôi đập mạnh trong lồng ngực.
+\
+wave se_01
+` Tôi thở gấp. Và tiếp tục thở gấp.@
+` Hơi thở của tôi hoàn toàn mất kiểm soát.@
+` Thị lực tôi mờ mịt và không rõ ràng.@
+` Lửa bên trong tôi đang bùng cháy[line=4]Tôi phải giải phóng nó ngay lập tức.
+\
+eroskip 26
+wave se_01
+` Tôi thở dốc.@
+` Tôi bắt đầu di chuyển chậm rãi.@
+` Tôi di chuyển hông xuống bụng cô ấy.@
+` Cô ấy mở rộng chân, tôi ép mình giữa hai chân cô ấy.
+\
+waveloop se_02
+`"Chẳng... biết nữa."@
+` Cô ấy nhìn tôi với vẻ không chắc chắn.@
+` Nhìn như vậy khiến đầu tôi đau nhức.@
+br
+` Khó thở. Và tiếp tục khó thở.@
+` Phồng lên.@
+` Dần dần, dương vật của tôi phồng lên nhanh đến nỗi gây đau đớn. Tôi phải... làm ngay bây giờ hoặc tôi sẽ mất trí.
+\
+` Gò má ửng đỏ của cô ấy.@
+` Nỗi khát khao dâng trào khi tôi nhìn thấy cổ cô ấy mềm mại.@
+` Dưới chân tôi, cơ thể cô ấy quyến rũ vượt trội.
+\
+` Hơi thở của tôi trở nên gấp gáp, lấp đầy không gian xung quanh.@
+` Tôi có thể cảm nhận nhịp tim của cô ấy đang đập mạnh.@
+br
+` Khát khao khiến tôi thở dốc, thở dốc, không ngừng.@
+` Đôi mắt vàng của cô ấy như hút lấy linh hồn tôi.
+\
+` Tôi thả lỏng tay khỏi cổ cô ấy.@
+` Và thay vào đó, tôi chạm vào những vòng một đầy đặn của cô.@
+` Tay cô ấy. Tay cô ấy.@
+` Tôi vuốt ve làn da trắng dưới lớp vải, thấm nhận sự mát lạnh của cơ thể cô ấy.
+\
+`"[line=4]Không! Điều này không giống em, Shiki...!"@
+br
+` Giọng nói cháy bỏng của cô ấy.@
+` Đôi mắt đỏ mời gọi của cô ấy.@
+` Khi chứng kiến những điều này, tâm trí tôi hoàn toàn tan vỡ.
+\
+bg "event/ark_h03",lshutter,800
+`"N………!"@
+` Cô ấy khóc nức nở như thể xấu hổ.@
+` Trong sự hoảng loạn, cô ấy cố đẩy tôi bằng cả hai tay.
+\
+` Đẩy cô ấy ra, tôi ép cô ấy xuống mặt đất.@
+` Có lẽ tôi nên có một vài chiếc đinh?@
+` Với cả hai cánh tay bị đẩy lại và thân hình mở rộng như một thập tự giá, Arcueid nhìn tôi với sự căm ghét trần trụi trong mắt.
+\
+`"[line=6] Khóe môi khẽ nhếch."@
+` Cô ấy nằm đó, vẻ đẹp càng trở nên nổi bật hơn.@
+` Như vậy này, tôi cũng không thể cử động tay mình. Nếu buông lỏng, cô ấy sẽ xé cổ họng tôi mà thôi.@
+br
+` Sự căng thẳng này. Sự cân bằng này khiến chúng tôi giống như đang giết hại nhau thay vì tôi đang phạm tội với cô ấy, làm tăng ham muốn thú tính trong tôi.
+\
+`"[line=2][line=4][line=4] Dừng lại! Đừng làm thế nữa!"@
+` Tôi sẽ không để cô ấy hoàn thành.@
+` Vì miệng tôi đã được giải phóng, nên tôi dùng nó để khiến cô ấy mất đi sự trang phục.
+\
+br
+` Hít thở gấp gáp, tôi thô bạo xé tan những mảnh vải trên cơ thể cô ấy.
+\
+`"[line=4]…… Nn, Shiki, hãy giữ lấy bản thân mình!"@
+` Cô ấy quằn quại, vẫn cố chống cự trong khi run rẩy dưới sự nắm giữ của tôi.@
+br
+` [line=4]Tiếng vang nhẹ nhàng vang lên.@
+br
+` Hơi thở của tôi thổi qua bụng cô ấy.
+\
+`"[line=5]Ahn... n..."@
+` Cô ấy có phải quá nhạy cảm vậy? Toàn bộ cơ thể cô ấy phản ứng lại.@
+` Tôi cảm thấy phấn khích.@
+` Khi tôi cởi bỏ quần áo của cô ấy, lưỡi của tôi nhảy múa một cách trêu chọc trên làn da trắng ngần của cô ấy.
+\
+`"[line=4]Shiki, không!"@
+` Cô ấy cố gắng chống cự, nhưng hiện tại tôi mạnh hơn cô.@
+` Tôi sẽ không cho phép cô ấy kháng cự.@
+` Tôi tiếp tục cởi quần áo của cô ấy.@
+` Giữa lúc đó, chiếc áo ngực của cô bị kẹt trên ngực, nhưng tôi đơn giản là kéo nó ra.
+\
+` Ngực cô di chuyển theo hành động của tôi.@
+` Những quả cầu đẹp đẽ của cô được phơi bày trước mắt tôi.@
+` Tôi cắn vào một trong số chúng.@
+br
+`"[line=4]Naha!"@
+br
+` Cô ấy thở dốc.@
+` Toàn bộ cơ thể cô cong lên như một cung.@
+` Tôi không quan tâm.@
+` Tôi liếm dọc theo miếng thịt giữa răng, tận hưởng vị giác đó.
+\
+`"Shiki... dừng lại..."@
+` Giọng nói của cô trở nên nóng hơn một chút.@
+` Ngực hồng của cô cứng lại.@
+` Giống như sự cứng lại của một người đàn ông, những núm vú của cô ấy dường như căng cứng bất kể cô ấy đang suy nghĩ gì.@
+`"[line=8]N!"@
+` Cô ấy chắc chắn cảm thấy xấu hổ về điều đó, vì giọng nói của cô ấy bị nghẹn lại.@
+`"[line=4][line=4]Shiki, nếu cậu làm thế này, sau này..."@
+` Ngạt tiếng cô ấy, tôi tiếp tục liếm những chiếc vú xinh đẹp của cô ấy.
+\
+`"[line=4]N…… ah!"@
+` Mặt cô ấy bắt đầu biến dạng.@
+` Chiếc vú của cô ấy căng cứng. Mỗi lần tôi đẩy mặt vào nó, nó lại đẩy trở lại tôi.@
+` Ngực trắng của cô ấy nhuộm một sắc đỏ nhạt.@
+` Tôi tiếp tục hút.@
+`"[line=4]... À... ôi... à, n" (Lời thì thầm đau đớn)@
+` Giọng nói nóng bỏng của cô ấy.@
+` Cơ thể cô ấy lấp lánh mồ hôi.@
+` Đầu cô ấy lắc lư, những hơi thở đau đớn thoát ra.
+\
+` Ngón tôi vuốt ve đôi vú mềm mại của cô ấy.@
+` Không có lý do nào cho điều này.@
+` Tất cả những gì còn lại bên trong tôi chỉ là một khát khao liếm, ẩm ướt và chơi đùa với cô ấy.@
+br
+` Tôi chôn mặt vào ngực cô ấy.@
+` Những đỉnh núi trắng của cô ấy lấp lánh với nước bọt của tôi.
+\
+`"... Ha... dừng lại, p... tôi... sẽ không bao giờ... tha thứ... cho bạn..."@
+` Cô ấy nghe có vẻ như đang cắn răng.@
+` Tôi khó chịu vì giọng nói của cô ấy vẫn còn rất bình tĩnh.@
+` Tôi cắn vào núm vú của cô ấy.@
+`"[line=5]N, gah!"@
+` Toàn bộ cơ thể cô ấy uốn cong mạnh hơn trước.@
+` Như thể đẩy ngực cô ấy lên, cô ấy cong người về sau.
+\
+` Không phải ý định của tôi là cho cô ấy những cử chỉ âu yếm chăm chút.@
+` Tôi chỉ di chuyển khuôn mặt mình.@
+`"S, dừng… Shiki, xin… hãy ngừng lại[line=3]"@
+` Tôi di chuyển lưỡi đến khoảng không giữa hai bầu ngực cô ấy.@
+`"Nếu bạn, chạm vào tôi ở đó, tôi sẽ bắt đầu…[line=4]"@
+` Như thể để lại một dấu ấn không bao giờ phai mờ, tôi hút lấy làn da cô ấy.@
+br
+`"[line=4]Hwaa!"@
+br
+` Cô ấy bắt đầu giơ tay chân lên.@
+` Tôi giữ cô ấy lại, lưỡi tôi di chuyển dọc theo cơ thể cô ấy.@
+` Từ ngực đến xương sườn. Sau đó đến cổ họng.
+\
+`"Không... Shiki... cậu... không... thích... tôi... sao!"@
+` Tôi không nhìn cô ấy.@
+` Tôi thậm chí còn không nghe thấy giọng nói của cô ấy.
+\
+` Cơ thể lấp lánh của cô ấy phá hủy bất kỳ lý do nào tôi còn lại.@
+` Cơ thể xinh đẹp của cô ấy trông còn tuyệt hơn khi bị bao phủ bởi mồ hôi.@
+br
+` [line=4]Một tiếng đập mạnh.@
+br
+` Máu tôi đang chảy với một cơn đau dữ dội.@
+` Tôi muốn lấy cô ấy ngay bây giờ.
+\
+` Tiếng thở dốc của tôi vang vọng trong ngõ tối.@
+` Không cần phải kìm nén nữa.@
+` Nếu tôi muốn làm điều đó, tôi sẽ chỉ làm thôi.@
+` Tôi di chuyển miệng mình rời khỏi cổ cô ấy và đưa nó xuống phía dưới cơ thể cô ấy.@
+`"…………!!!"@
+` Arcueid cố gắng mạnh hơn bao giờ hết.@
+` Như vậy, cô ấy có thể thoát khỏi vòng tay tôi.
+\
+` Nhưng trước đó,
+` Tôi hạ thấp cơ thể, di chuyển nhanh chóng qua bụng cô ấy.@
+` Vào giữa những lọn tóc vàng óng ả,
+` lưỡi tôi bò xuống những nếp thịt hồng hào.@
+br
+` Tôi nhẹ nhàng hút lấy đầu nhú nhỏ nằm giữa những bức tường trơn láng.
+\
+`"[line=4][line=5]À ơi, không!"@
+` Arcueid uốn cong lưng mình.@
+` Tôi cắn vào điểm nhạy cảm nhất của cơ thể nữ giới.@
+` Cảm giác khoái cảm này hoàn toàn khác so với khi tôi liếm khắp cơ thể cô ấy.
+\
+` Nhìn cô ấy,
+` Tôi thấy chất lỏng dính nhầy tích tụ bên trong.@
+` Mùi hương của nước trái cây nóng bỏng.@
+` Tôi không quan tâm liệu nó có đủ để bôi trơn cho cô ấy hay không.@
+` Tôi hoàn toàn không nghĩ đến sự thỏa mãn của cô ấy.@
+br
+` [line=4]Tôi chỉ có thể sở hữu cơ thể cô ấy.
+\
+`"[line=6]Shiki."@
+` Giọng cô ấy yếu ớt, như thể nhận thức được điều sắp xảy ra.@
+` Cô ấy đã từ bỏ? Cô ấy nhìn tôi với đôi mắt buồn bã.@
+br
+`"[line=6]"@
+` "Mắt cô ấy... ẩm ướt."@
+` Có nghĩa là...
+` Cô ấy đang khóc à?
+\
+bg #ffffff,crossfade,400
+bg "event/ark_h03",crossfade,400
+`"Ghaa…………!"@
+` Đầu tôi như muốn nổ tung vì đau.@
+` Bản năng của tôi thúc giục tôi tiếp tục.@
+` Nếu tôi dừng lại ngay bây giờ, tôi sẽ chết.@
+` Tim tôi đập loạn nhịp[line=4]Làm tôi hiểu rằng nếu tôi không làm điều này ngay bây giờ, cô ấy sẽ giết tôi sau này.
+\
+bg #ffffff,crossfade,400
+bg "event/ark_h03",crossfade,400
+`"[line=6]"@
+` Cô ấy đang khóc.@
+` [line=4]Tại sao cô ấy lại khóc?@
+` Nếu như tôi, tôi sẽ không bao giờ để cô ấy khóc.
+\
+bg #9c0120,crossfade,400
+bg "event/ark_h03",crossfade,400
+` Đầu tôi vẫn đau.@
+` Cô ấy thúc giục tôi tiếp tục.@
+` [line=4]Làm mất tập trung thật kỳ lạ.@
+` Chỉ có một việc cần làm.@
+` [line=4]Tôi...
+\

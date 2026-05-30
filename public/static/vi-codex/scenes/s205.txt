@@ -1,0 +1,102 @@
+phase "bg/bg_22b",r,ark,02a,2
+bg #ffffff,crossfade,400
+!w2000
+`"[line=3]Chào buổi sáng thưa cậu chủ." - Một giọng nói thanh tao vô cùng xa lạ khẽ vang lên bên tai.@
+br
+` Giấc mơ ấm áp thơ bé nhanh chóng tan biến sạch sẽ, chỉ còn lại cảm giác cơ thể tê dại bấy giờ đang từ từ hồi tỉnh lại sau giấc ngủ dài.
+\
+` "Trời đã sáng hẳn rồi ạ. Đã đến lúc cậu chủ Shiki phải thức dậy rồi thưa cậu chủ."
+\
+` Một giọng nói thanh thoát, xa lạ đang khẽ khàng gọi tên tôi.@
+br
+` "... Xin em làm ơn... đừng gọi tôi là cậu chủ Shiki nữa mà..."@
+` Tôi khẽ cất lời lẩm bẩm đầy uể oải, danh xưng tôn kính trang trọng đó thực sự khiến tôi cảm thấy vô cùng ái ngại, ngượng ngùng.@
+` [line=4]Tôi chậm rãi mở mắt ra.
+\
+bg "bg/bg_40a",crossfade,800
+ld c,"tachi/his_t01",lshutter,400
+play "*2"
+` [line=3]Tôi nhìn quanh căn phòng.@
+` Hisui bấy giờ đang đứng túc trực cách mép giường một khoảng cách khá xa, lặng im phăng phắc hệt như một bức tượng sống động vậy.@
+`"Ưm... ... ... "@
+` Tôi lười biếng và mệt mỏi dõi mắt quan sát căn phòng.@
+ld c,"tachi/his_t16",crossfade,400
+`"Chào buổi sáng thưa cậu chủ Shiki."@
+` Một thiếu nữ khoác trên mình bộ đồng phục hầu gái vô cùng chỉnh tề khẽ cúi đầu cung kính chào tôi.@
+` Trong một khoảnh khắc ngắn ngủi bấy giờ, tôi thậm chí đã hoài nghi chính đôi mắt của mình. Thế nhưng sau cùng, đại não cũng đã kịp thời hồi tưởng lại tình cảnh hiện tại của bản thân.
+\
+`"Ừm... Phái rồi... Tôi đã thực sự quay trở lại biệt thự rồi..."@
+` Tôi gượng gồng nửa thân trên ngồi dậy trên giường, ngơ ngác dõi mắt quan sát căn phòng rộng lớn xung quanh.@
+cl c,crossfade,400
+` Ngoài khung cửa sổ lớn bấy giờ, tiết trời thực sự vô cùng rực rỡ và đẹp đẽ.@
+` Bầu trời thu cao rộng xanh mướt mát rượi hiện ra, giống hệt với sắc xanh trong trẻo của bầu trời trong giấc chiêm bao mà tôi vừa được diện kiến lúc nãy.@
+`"Chào buổi sáng nhé, Hisui. Cảm ơn em đã tận tình đến tận phòng đánh thức tôi dậy nhé."@
+ld c,"tachi/his_t01",lshutter,400
+`"Dạ không có gì đâu ạ thưa cậu chủ. Việc đến phòng để đánh thức cậu chủ thức dậy mỗi buổi sáng vốn dĩ là sứ mệnh, là bổn phận tối thượng của em bấy giờ ạ thưa cậu chủ Shiki."@
+` Hisui điềm tĩnh đáp lời một cách vô cùng nhã nhặn, gương mặt vẫn hoàn toàn phẳng lặng vô cảm không chút cảm xúc.
+\
+` *Thở dài*@
+`"... Hisui này, tại sao em lúc nào cũng phải hành xử quá mức tôn kính và trang trọng như thế với tôi chứ?"@
+` Thật là đáng tiếc quá đi mất.@
+` Giá mà Hisui chịu thừa hưởng dẫu chỉ một nửa sự rực rỡ, hoạt bát và tinh nghịch của Kohaku-san thôi thì em ấy chắc chắn sẽ vô cùng đáng yêu thương biết mấy.@
+`"[line=3]Cậu chủ bấy giờ đang có điều gì cần em hầu hạ sao ạ?"@
+` Nhận thấy tôi đang mải mê chăm chú nhìn ngắm gương mặt mình dẫu cho đầu óc vẫn còn mơ màng, Hisui điềm nhiên trừng mắt trực diện nhìn lại tôi.
+\
+`"À không, không có gì đâu em. Chỉ là khi thức dậy và thấy em đứng cạnh thế này khiến tôi thực sự cảm nhận rõ rệt cảm giác mình đã quay trở lại biệt thự gia tộc Tohno mà thôi..."@
+` Ánh nhìn trong đôi mắt của Hisui bấy giờ vẫn phẳng lặng, lạnh ngắt hệt như băng tuyết mùa đông vậy.@
+` [line=3]Dõi mắt nhìn sâu vào đôi mắt lạnh lùng ấy, một ý niệm hoài niệm mơ hồ bỗng chợt lóe lên trong đại não tôi hệt như một tia chớp cắt ngang qua giấc chiêm bao ban nãy.
+`"[line=5]A... tôi nhớ ra rồi."@
+` Đầu óc tôi bấy giờ đã thực sự hồi tưởng lại toàn bộ mọi chuyện.@
+` Vào cái ngày định mệnh thơ bé ấy, cô bé đã tự tay trao tặng dải ruy băng trắng cho tôi ngay trước thời khắc tôi chuẩn bị bước chân lên xe rời biệt thự... chính là cô bé u buồn vẫn luôn lặng lẽ sừng sững bên khung cửa sổ tầng hai dõi mắt nhìn theo chúng tôi chơi đùa ngoài sân thuở ấy.@
+` Nói cách khác, bằng một danh tính thực tế chính xác... [line=3]
+`"Cô bé ấy... chính là em đúng không Hisui?"
+\
+`"Dạ?@ Cậu chủ Shiki vừa nói gì cơ ạ?"@
+`"À... Hisui này, em có còn nhớ sự việc năm xưa không?@ Cái ngày tôi chuẩn bị đặt chân rời khỏi căn biệt thự này cách đây tám năm ấy?"@
+`"Dạ, em vẫn nhớ rất rõ ạ.@ Thế nhưng, lúc ấy đã có biến cố gì đặc biệt xảy ra sao ạ thưa cậu chủ?"@
+`"[line=3]Ừm... biến cố đặc biệt sao?@ Em không nhớ gì thật sao Hisui?"@
+`"Dạ xin cậu chủ hãy lượng thứ cho em ạ. Đã tròn tám năm đằng đẵng trôi qua kể từ cái ngày cậu chủ bước chân ra khỏi biệt thự này rồi ạ.@ Vì thế, dẫu cho cậu chủ có cất lời hỏi thăm về quãng thời gian xa xôi ấy, em bấy giờ thực sự cũng hoàn toàn bất lực không thể hồi tưởng lại dẫu chỉ một chi tiết cụ thể nào để đáp lời cậu chủ được đâu ạ."@
+`"[line=5]Vậy... vậy em cũng hoàn toàn không nhớ gì về lời hẹn ước thiêng liêng giữa hai đứa chúng ta vào thời khắc chia tay năm đó sao?"@
+` Lẽ nào cô bé ấy thực sự đã quên sạch hoàn toàn lời hứa hẹn thiêng liêng mà hai đứa từng trao đổi cùng nhau thuở bé rồi sao?
+\
+`"[line=3]Hisui này, em thực sự không còn chút ấn tượng nào về dải ruy băng trắng ấy sao?"@
+ld c,"tachi/his_t23",crossfade,400
+`"... Dải ruy băng... trắng sao ạ...?"@
+` Cô bé khẽ cúi gầm mặt xuống đầy đượm buồn, biểu cảm bấy giờ ngập tràn sự bối rối dằn vặt khi phải khó khăn thừa nhận rằng bản thân hoàn toàn không thể nhớ ra nổi kỷ vật ấy.@
+`"... À, tôi hiểu rồi. Đúng vậy nhỉ, dẫu sao thì chuyện đó cũng đã là chuyện của tám năm ròng rã trước đây rồi còn gì... Xin lỗi nhé Hisui, thực ra cũng chẳng có chuyện gì to tát đâu. Em hãy mau chóng quên sạch những lời tôi vừa lẩm bẩm ban nãy đi nhé."@
+ld c,"tachi/his_t04",crossfade,400
+`"... ... ..."
+\
+` Cô bé ấy quả thực đã hoàn toàn quên đi lời hứa hẹn năm xưa mất rồi.@
+` Thế nhưng, đối với một chuyện xa xôi như vậy, tôi dứt khoát tuyệt đối không có bất kỳ tư cách nào để cất lời đổ lỗi hay trách móc em ấy được cả.@
+` Dẫu cho đó chỉ là một lời hẹn ước ngây ngô, dại khờ của tuổi thơ thơ bé đi chăng nữa, thì dải ruy băng ấy thực chất đã là cứu cánh tinh thần vô cùng to lớn giúp tôi vững bước đối mặt với tương lai đầy sóng gió suốt thời gian qua.
+\
+`"À phải rồi, bấy giờ đã đến lúc tôi bắt buộc phải sửa soạn trang phục để chuẩn bị đi học rồi. Hisui này, em có biết lúc này đã là mấy giờ rồi không?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Dạ vâng, lúc này thực chất đã bước qua bảy giờ sáng rồi ạ thưa cậu chủ."@
+`"Chết thật! Vậy nghĩa là thời gian chuẩn bị bấy giờ của tôi thực sự vô cùng ít ỏi rồi!"@
+` Tôi khẽ vươn vai rồi vội vã bật dậy khỏi giường ngủ.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"Cậu chủ tuy cất lời như thế nhưng dường như vẫn chưa nhận thức được mức độ hiểm nghèo của thời gian đâu ạ. Quãng đường di chuyển từ biệt thự đến trường học của cậu chủ bình thường sẽ tiêu tốn khoảng ba mươi phút ròng rã. Điều này đồng nghĩa với việc cậu chủ bấy giờ chỉ còn đúng hai mươi phút ngắn ngủi dành cho việc dùng bữa sáng và sửa soạn trang phục thôi ạ."@
+`"[line=4]Á... đúng rồi! Chết thật, tôi quên mất đây không phải là căn nhà gỗ của gia đình Arima!"@
+` Tôi bàng hoàng sững sờ đầy kinh ngạc.@
+` Suốt thời gian qua tôi đã quá quen thuộc với việc sống tự do ở nhà Arima chỉ cách trường học vỏn vẹn hai mươi phút đi bộ thong thả, thế nhưng xuất phát từ căn biệt thự sừng sững trên đỉnh đồi này, tôi thậm chí còn chưa mảy may biết rõ dẫu chỉ một con đường tắt khả dĩ nào dẫn tới trường cả.
+\
+ld c,"tachi/his_t16",crossfade,400
+`"Bộ đồng phục học sinh của cậu chủ bấy giờ đã được giặt là phẳng phiu và gấp gọn gàng chờ sẵn ở kia rồi ạ.@ Xin cậu chủ hãy vui lòng xuống dưới phòng khách dùng bữa sau khi sửa soạn trang phục xong xuôi nhé."@
+cl c,lshutter,800
+`"Chết tiệt thật, nếu đã cất công đến phòng đánh thức tôi dậy thì làm ơn hãy đánh thức sớm hơn đôi chút có phải tốt hơn không..."@
+` Tôi khẽ thì thầm cằn nhằn ích kỷ một mình trong miệng, rồi nhẹ nhàng cầm lấy bộ đồng phục phẳng phiu.@
+` Bộ đồng phục quả thực được gấp là vô cùng cẩn thận và gọn gàng, thậm chí chiếc áo sơ mi trắng còn được là ủi thẳng tắp không dẫu một nếp nhăn.@
+` Cảm giác khi xỏ hai cánh tay qua ống áo sơ mi mềm mại, thơm mát thực sự vô cùng dễ chịu và sảng khoái. Một cảm giác vô cùng tươi mới hệt như đang được khoác lên mình bộ trang phục mới toanh vừa mua ở cửa hiệu vậy.
+\
+bg #000000,lshutter,800
+bg "bg/bg_34a",lcartain,400
+ld l,"tachi/aki_t01a",crossfade,400
+ld r,"tachi/koha_t01a",crossfade,400
+` Akiha và Kohaku-san bấy giờ đang thong thả ngồi nghỉ ngơi bên trong phòng khách rộng lớn.@
+` Akiha đang khoác trên mình bộ đồng phục đặc trưng của Học viện Nữ sinh Asagami danh giá, một ngôi trường vô cùng nổi tiếng chỉ dành riêng cho con em của những gia đình quyền quý bậc nhất.@
+` Hai người họ đang cùng nhau chậm rãi thưởng trà vô cùng duyên dáng và thanh lịch, biểu cảm bấy giờ hệt như bữa sáng của họ thực chất đã kết thúc thành công từ rất lâu trước đó rồi vậy.
+\
+cl a,crossfade,800

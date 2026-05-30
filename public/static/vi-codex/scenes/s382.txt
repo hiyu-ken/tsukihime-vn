@@ -1,0 +1,127 @@
+monocro off
+playstop
+wavestop
+bg "bg/ima_01",crossfade,800
+play "*7"
+br
+br
+br
+br
+br
+br
+` [line=4]Và rồi,
+` Tôi tiến tới, ôm chầm lấy cơ thể Akiha từ phía trước.
+\
+` [line=3]Tôi không thể giết cô ấy được.@
+br
+`"…… Anh muốn em được sống."@
+` Akiha khẽ nghiêng đầu ngơ ngác đầy vẻ thắc mắc.@
+`"Dẫu cho em có hóa thành bất kỳ thứ gì đi chăng nữa[line=3]anh vẫn cất lực muốn em được tiếp tục sống, Akiha."@
+` "Khóc của tôi không thể ngăn chặn được."@
+` [line=3]Akiha ôm tôi lại với niềm vui sướng và cắn vào cổ tôi.
+\
+`"[line=5]!!"@
+` Nó đau.@
+` Nhưng đó không phải là hành động hút máu tôi.@
+` Đó chỉ là hành động nguyên thủy là cắn tôi.
+\
+`"A-Akiha."@
+` Akiha chỉ cắn vào cổ tôi một cách điên cuồng.@
+` Cô ấy xé thịt và xương của tôi đang bị nứt vỡ.@
+` Akiha không có trí tuệ.@
+` Cô ấy không biết ai đang ôm mình, hay ý nghĩa của một cái ôm.@
+br
+` Akiha không khác gì một con thú biến thành hình người.@
+` [line=4]Nhưng vẫn...
+\
+`"[line=3]Vẫn... Tôi muốn bạn sống."@
+br
+` ...Có sai khi mong điều đó không?@
+` Có phải là tội phạm khi tôi mong cô ấy ở lại và sống dù cô ấy đang đi khắp nơi giết chóc?@
+` Ngay cả khi Akiha nói rằng cô ấy không thể chịu đựng điều đó, tôi vẫn muốn cô ấy vượt qua nó.
+\
+` Nhưng...@
+` [line=3]Đó chỉ là một mong muốn ích kỷ.
+\
+`"[line=4]Nhưng chúng ta đã hứa với nhau.@
+` Akiha không buông tay.@
+` Vẫn nắm chặt cô ấy, tôi đặt con dao lên "lối đi" của Akiha.
+\
+br
+` [line=3]Nếu có ai đó định giết cô ấy cuối cùng, thì...
+br
+`"Tôi sẽ không để bất kỳ ai làm tổn thương cô ấy.@
+br
+` [line=4]Con dao, không một âm thanh,
+`   Và có lẽ cũng không gây ra đau đớn nào,
+br
+`"Vì tôi là người duy nhất dành cho cậu."@
+br
+` [line=4]Cuộc đời của Akiha kết thúc nhẹ nhàng.
+\
+bg #000000,crossfade,400
+bg "bg/bg_54a",crossfade,400
+` Lá vàng rơi rắc.@
+` Akiha nằm trên mặt đất màu đỏ.@
+` Tóc đen vương vãi trên mặt đất, lượn lờ giữa những chiếc lá đỏ rực.@
+` Khuôn mặt cô ấy thanh thản, như đang mỉm cười trong giấc mơ.
+\
+`"[line=10]"@
+` Một sự kiện đã kết thúc.@
+` Khi tôi còn nhỏ...@
+` ...tình vui khi chúng ta gặp nhau và chạy nhảy trong sân này.@
+` ...sức sáng của những vì sao mà chúng ta cùng ngắm nhìn.@
+br
+` Chỉ cách đây vài ngày...@
+` ...mọi thứ chúng ta đã nói chuyện ở đây.
+\
+bg "event/aki_e03",crossfade,800
+br
+br
+br
+br
+br
+` [line=4]Anh trai, tôi chỉ muốn anh biết rằng em hạnh phúc khi anh quay về.@
+` ...tôi chỉ mong anh nhớ lấy điều đó.
+\
+bg #000000,crossfade,800
+bg "bg/ima_01",crossfade,800
+` ...rồi một lúc nào đó, tôi bắt đầu nhìn chằm chằm vào mặt trăng.@
+` Cơ thể tôi lạnh.@
+` Trí óc tôi choáng váng, như sắp ngủ thiếp đi vậy.
+\
+` Tôi thấy buồn ngủ.@
+` Cảm giác như nếu tôi ngủ ngay lúc này, có lẽ giấc mơ này cũng chỉ là một giấc mơ.@
+br
+` Nhưng đó chỉ là giấc mơ và một ngày nào đó, tôi sẽ phải thức dậy.@
+` Tôi có cảm giác mình chỉ là một phần trong giấc mơ này.@
+br
+` Hoặc mọi thứ từ đầu đến cuối chỉ là một giấc mơ vô thường?@
+` Nếu vậy, xin...
+` Để tôi ngủ yên và đừng đánh thức tôi.
+\
+`"[line=9] Ha, ha.""@
+br
+` Trên bầu trời, mặt trăng trong vắt, xanh thẳm.@
+` Những tán cây cao vút và tiếng vỗ tay của những chiếc lá đỏ rực rơi xuống.@
+br
+`"Haha, ha[line=6]"@
+br
+` Tôi buồn bã, nhưng chỉ nhận được tiếng cười.
+\
+` Đêm sâu thẳm.@
+` Có một sự tĩnh lặng yên bình bao quanh tôi, khiến tai tôi như bị vỗ về bằng những tràng pháo tay mạnh mẽ.@
+` Quan điểm của tôi bị méo mó và thu hẹp.@
+` ... Có vẻ như đã đến lúc hạ rèm.@
+` Rèm lá cây quay tròn liên tục.@
+br
+` Như thể
+` mọi thứ trong rạp xiếc này
+` đều là giả tạo.
+\
+bg #000000,crossfade,1500
+playstop
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

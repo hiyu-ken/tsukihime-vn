@@ -1,0 +1,38 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_05a",notrans,0
+`"…… Nhưng…… nhưng rõ ràng hôm đó chị bảo người cứu em không phải là chị cơ mà!"@
+`"?@ Không phải chuyện gì cơ em?"@
+`"Đêm hôm kia ấy!@ Em đã gặng hỏi xem chị có phải là người cứu em ở công viên hôm đó không, và chị đã chối phăng đi kia mà……!"
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Chị nói dối đấy."@
+` Vô cùng chóng vánh.@
+` Senpai thản nhiên thừa nhận một cách đơn giản như vậy.
+\
+`"…… Ơ…… chị nói dối sao, Senpai?"@
+`"Chị nói dối là vì tốt cho em đấy thôi, Tohno-kun.@ Đối với người thường vô tình biết được thân phận thật của chị, chị buộc lòng phải bịt miệng họ lại.@
+` Tohno-kun này, em hẳn là cực kỳ ghét cảm giác đau đớn, đúng không?"@
+` Senpai thốt ra những lời lẽ hãi hùng đáng sợ như vậy bằng chất giọng hết sức tươi vui rạng rỡ.
+\
+`"Bịt miệng lại, ơ……"@
+`"Nói một cách đơn giản nhất thì người chết sẽ không hé răng nửa lời.@ …… Ừm, có vẻ chị tóm tắt hơi quá đà rồi nhỉ."@
+`"Ực...[line=3]"@
+` Tôi sợ hãi lùi lại một bước hoàn toàn vô điều kiện.@
+` Bởi chất giọng của Senpai trông chẳng giống như đang đùa cợt chút nào.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"Thế nên, tùy thuộc vào những gì em khai ra, chị không thể cứ thế để em tự do rời đi đâu.@ Tohno-kun này, rốt cuộc mối quan hệ giữa em và người phụ nữ đó là thế nào hả?"@
+` Tim tôi gần như ngừng đập trước ánh trừng trừng từ đôi mắt vô hồn lạnh ngắt của chị ấy.
+\
+` [line=3]Đáng lẽ tôi mới là người đi chất vấn, nhưng giờ đây vị thế giữa hai bên đã hoàn toàn đảo ngược.@
+` Nhưng tôi không thể đoán nổi Senpai sẽ làm gì nếu mình im lặng, một cơn ớn lạnh chạy dọc sống lưng tôi.@
+cl c,crossfade,400
+\
+`"A[line=3]không, không phải thế đâu Senpai.@ Chỉ là chuyện đêm qua, em đã nghi ngờ Arcueid chính là kẻ đứng sau những vụ sát nhân hàng loạt kia, nhưng nghĩ lại thì thấy không thể nào, thế nên em mới đi tìm cô ấy để hỏi cho ra nhẽ và[line=3]"@
+br
+` Tôi thành thật kể lại toàn bộ những gì đã diễn ra đêm qua cho chị ấy nghe.@
+` Senpai im lặng lắng nghe tất thảy mà không ngắt lời tôi một câu nào.@
+` Từ việc tôi tình cờ chạm mặt cô ấy ra sao, cô ấy giải thích cho tôi về cấu trúc ma cà rồng trong thành phố này thế nào, rồi cả việc tôi sát cánh cùng cô ấy để bảo vệ nơi này, mọi chuyện từ trước đến nay tôi đều bộc bạch hết.
+\

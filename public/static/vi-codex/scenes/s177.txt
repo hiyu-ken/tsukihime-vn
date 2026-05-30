@@ -1,0 +1,115 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_28b",notrans,0
+` Thời gian chính là thứ duy nhất lẳng lặng trôi qua không ngừng nghỉ.@
+` Một đêm vô cùng tĩnh lặng và tịch mịch.@
+` Khác hẳn với hai đêm đầy giông bão trước đó, bầu trời đêm nay cao rộng và không một gợn mây.@
+` Ánh trăng rực rỡ, trong vắt như gương chiếu sáng rọi khắp khuôn viên công viên hoang vắng, bừng sáng lên bóng dáng kiều diễm của Arcueid.
+\
+`"... Ánh trăng sao..."@
+` Nếu đêm hôm kia bầu trời cũng trong trẻo và sáng rõ thế này, có lẽ tôi đã không bị gã quấn băng kia dồn vào thế hiểm nghèo đến vậy.@
+br
+[line=10]ld c,"tachi/ark_t01a",lshutter,400
+br
+` Cô ấy tò mò quay sang hỏi tôi.@
+\
+ld c,"tachi/ark_t12",lshutter,400
+`"Hì hì, chuyện đó qua rồi mà! Đêm nay có tôi túc trực bảo vệ bên cạnh thế này, dẫu Roa hay lũ Tử Giả có xuất hiện cũng chỉ làm mồi cho móng vuốt của tôi thôi!"@
+` Cô ấy tự tin cười rạng rỡ, để lộ chiếc răng nanh nhỏ nhắn xinh xắn đầy đáng yêu.@
+` [line=3]Nhìn vẻ hoạt bát năng động đó của cô ấy dưới ánh trăng mờ ảo, lòng tôi bỗng trào dâng một cảm giác yên bình đến lạ kỳ.
+\
+cl c,lshutter,800
+\
+playstop
+ld c,"tachi/ark_t13",crossfade,400
+`"Ồ? Một người lạ? Loại người nào?"@
+`"[line=4]Này, đó là..."@
+cl c,crossfade,400
+br
+` Tôi bình tĩnh lại và mô tả rõ ràng nhất có thể những gì đã xảy ra đêm qua.
+\
+playstop
+bg #000000,lshutter,400
+bg "bg/bg_28b",lshutter,400
+`"[line=6]... Vậy là thế."@
+` Hoàn thành lời giải thích của mình, tôi đọc biểu cảm trên gương mặt Arcueid.@
+ld c,"tachi/ark_t07",crossfade,400
+` Từ khi tôi bắt đầu cho đến giờ, đôi mắt cô ấy vẫn sắc sảo mà không hề có chút mềm mỏng nào.
+\
+`"Vậy thì sao, Arcueid?@ Người bị băng bó đó, và người mặc áo choàng giống như một linh mục vậy, họ là kẻ thù của cậu à?"@
+`"... Vâng.@ Cả hai đều là 'kẻ thù'.@ Tôi không biết chính xác họ là ai hay là gì, nhưng người phụ nữ mặc áo choàng Công giáo đó, tôi có một chút ý tưởng về cô ấy."@
+` Cô ấy nhíu mày như thể đang bực bội.@
+` Không, cô ấy trông không giống như đang bực bội mà hơn như bị phiền nhiễu.
+\
+play "*9"
+`"Tôi có thể biết người đã giúp cậu, Shiki.@ ... Ồn ào.@ Nếu đúng là người đó, có lẽ cô ấy sẽ tìm ra kẻ thù trước tôi."@
+` Cô ấy cắn môi một cách khó chịu.@
+`"Chờ một chút. Tôi không nói người đó là phụ nữ đâu."
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Không, không có sai lầm nào. Người phụ nữ đó là đặc vụ duy nhất được ủy quyền săn lùng những kẻ dị giáo và cô ấy sử dụng những Hắc Phím kết hợp nghi lễ thi thể hóa và hiệu ứng vỏ thép."@
+` Sự khó chịu của cô ấy gần như giống như sự thù địch.@
+` Ngay cả khi cô ấy nói về Nrvnqsr, giọng nói của cô ấy chưa bao giờ tràn ngập cảm xúc đến mức này.
+\
+`"... Arcueid. À, người đã giúp tôi, cô ấy là ma cà rồng...?"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Không, không phải như vậy[line=4]đó là điều đúng đắn, tôi còn phải kể cho bạn một điều khác rất quan trọng."
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Tôi nghĩ tôi đã giải thích trước đó, nhưng những ma cà rồng giống như kẻ đang xây dựng tổ ấm trong thị trấn này biến con người thành nô lệ và mở rộng lãnh thổ của chúng. Đồng thời, chúng cố gắng che giấu sự tồn tại của mình.@
+` Ngay cả khi có nạn nhân xuất hiện, chúng sử dụng các kỹ thuật ma thuật để khiến mọi thứ trông bình thường hơn.@
+` "Bạn biết tại sao không?"
+\
+`"... Vâng, đó là vì con người không ngốc nghếch. Nếu họ phát hiện ra những quái vật như vậy tồn tại ngay trong nơi ở của họ, họ sẽ tấn công chúng. Mặc dù con người yếu đuối, nhưng họ vẫn có những tổ chức như cảnh sát, nên có thể họ sẽ làm điều gì đó."@
+`"[line=3]À, tôi nghĩ điều đó là đúng, nhưng cảnh sát chỉ là một nhóm thực thi pháp luật chống lại con người. Chúng tôi không hề coi họ ra gì."@
+` "Nhưng, nói rằng ma cà rồng che giấu sự tồn tại của mình vì mục đích bảo vệ bản thân là điều hợp lý."
+\
+`"Shiki, có một kẻ thù tự nhiên của ma cà rồng. Một nhóm giống như những sát thủ chuyên nghiệp hiện đang nắm thế thượng phong về sức mạnh.@
+` "... Đối với các loài siêu việt khác, nhưng đặc biệt đối với ma cà rồng, việc tiết lộ bản thân có thể dẫn đến hậu quả thảm khốc cho họ."@
+` "Ngay cả khi một ma cà rồng lập nên một vương quốc bí mật ở một ngôi làng hẻo lánh nào đó xa rời mọi nền văn minh, kẻ thù tự nhiên này chắc chắn sẽ nhận ra nếu số nạn nhân tiếp tục gia tăng."
+\
+` "Ma cà rồng lợi dụng con người trong bí mật, không có lý do gì khác ngoài việc bảo vệ bản thân."@
+` Các vị ma cà rồng che giấu thi thể nạn nhân đã chết của họ, không phải vì sợ xã hội loài người phát hiện ra, mà là sợ những kẻ thù tự nhiên của họ tìm thấy chúng.@
+`"... Hừ? Kẻ thù tự nhiên của ma cà rồng? Một nhóm quái vật khác tôi chưa từng nghe đến."@
+br
+` Đối với một người bình thường như tôi, tôi chỉ muốn tất cả những thứ bất thường này ngừng xuất hiện.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Anh nói gì vậy? Kẻ thù tự nhiên của họ không nghi ngờ nào là loài người."@
+`"[line=5] Kẻ thù tự nhiên, chúng ta à?"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Đúng vậy. Từ rất lâu rồi, loài người sử dụng nhiều loại ma thuật, huyền bí, nghi lễ ma thuật để thành lập một tổ chức và bắt đầu tiêu diệt những loài linh trưởng ngoài loài người.@
+` Và vĩ đại nhất trong số đó là Kitô giáo[line=3]hào quang của Vatican, những người trừ tà. Giáo Hội Công giáo luôn xem "những sinh vật không phải con người" là sự ô uế, nhưng ma cà rồng được coi là nguy hiểm nhất."@
+` "Có nhiều nhóm tôn giáo trên thế giới, nhưng Giáo Hội Công giáo đối xử với ma cà rồng thù địch hơn bất kỳ nhóm nào khác."@
+` Bạn biết không, nó gần như là một sự ám ảnh. Họ quá điên rồ, tôi thậm chí còn không muốn quấy rầy họ."@
+` Arcueid thở dài.
+\
+ld c,"tachi/ark_t02",crossfade,400
+`"Người đã giúp bạn là thành viên của một tổ chức tinh nhuệ săn lùng những người dị giáo.@
+` Nhóm này, Cơ Quan Mai Táng, là một phần của Giáo Hội. Họ sử dụng sức mạnh riêng của mình thay vì luật pháp để giải quyết những mâu thuẫn với Kitô giáo. Những linh mục ẩn dật này giống như những sát thủ chuyên nghiệp hơn là những kẻ tiêu diệt ma cà rồng."@
+`"... "@
+` Linh mục đi khắp nơi tiêu diệt ma cà rồng, hả?@
+` Thật hợp lý, tôi không chắc phải nói gì.
+\
+`"Vậy họ có giống chúng ta không? Nếu Cơ Quan Mai Táng là một nhóm cũng có nhiệm vụ săn lùng ma cà rồng, tại sao chúng ta không tìm kiếm cùng nhau?"@
+ld c,"tachi/ark_t04",crossfade,400
+`"[line=4]Đó không phải là cách để giải quyết vấn đề. Đối với họ, chỉ cần ai đó là ma cà rồng đã đủ. Họ coi những loài linh trưởng phi nhân loại đơn giản là 'Xấu'. Không quan trọng họ có hút máu hay không."@
+` "Có thể pháp sư này thậm chí đến đây để phong ấn tôi thay vì chiến đấu với ma cà rồng sống trong thành phố này."
+\
+cl c,lshutter,400
+playstop
+` Arcueid, giọng điệu bực bội, lại bắt đầu đi lại bước dài.
+\
+`"... ..."@
+` Mọi thứ đã trở nên rất phức tạp.@
+` Đối thủ của Arcueid đang bị cả một ma cà rồng và một nhóm săn ma cà rồng truy lùng.
+\
+`"Chuyện này là sao? Vậy có nghĩa cô ấy hoàn toàn cô lập à?"@
+` Tôi tự nói với mình, quan sát Arcueid khi cô ấy đi lại bước dài.@
+br
+` Dưới ánh trăng trắng,
+` Arcueid dường như đang nhảy một điệu waltz đơn độc.
+\
+bg #000000,lshutter,400
+playstop

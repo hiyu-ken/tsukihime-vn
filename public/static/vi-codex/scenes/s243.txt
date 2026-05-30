@@ -1,0 +1,24 @@
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+`"[line=3]Thành thật mà nói, anh cũng không biết nữa.@ Nhưng anh quả thực không thể bỏ mặc em một mình được."@
+` …… Đúng thế.@
+` Kể từ sau khi trò chuyện với Yumizuka hai ngày trước, hình bóng em ấy chưa một lần rời khỏi tâm trí tôi.@
+` Thế nên điều đó có nghĩa là…
+`"…… Không giống như em, anh không có cảm giác là mình đã thầm theo dõi em suốt nhiều năm trời, nhưng mà[line=3]"@
+` Cho dẫu lý trí mách bảo nơi đây cực kỳ nguy hiểm, tôi vẫn kiên quyết tìm đến đây bằng được.@
+`"Anh… nghĩ là anh… có thích em."
+\
+ld c,"tachi/stk_t09",crossfade,400
+`"[line=4]"@
+` Yumizuka trố mắt nhìn tôi đầy kinh ngạc.@
+` Tôi lặng lẽ nhìn thẳng lại em ấy.@
+`"[line=3]Không……"@
+` Em ấy lắc đầu quay đi.@
+` Trông em ấy lúc này cứ như thể sắp òa khóc đến nơi.@
+`"[line=3]Tớ không muốn nghe câu đó đâu……"@
+`"…… Yumizuka-san?"@
+`"…… Bởi vì như thế, như thế chỉ khiến tớ trông y như một đứa[line=3]ngốc nghếch vậy thôi……"@
+cl c,crossfade,400
+` Gương mặt ngập tràn vẻ bàng hoàng đau khổ, Yumizuka cúi gằm mặt xuống đất thì thầm.
+\

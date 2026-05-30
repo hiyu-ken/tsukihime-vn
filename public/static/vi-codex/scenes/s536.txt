@@ -1,0 +1,26 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` ... Giờ là lúc ăn trưa ngày thứ ba của chúng ta.@
+` Tôi thường ra ngoài ăn trưa, nhưng lần này tôi không có hứng thú làm thế...@
+br
+ld l,"tachi/ark_t30",lshutter,400
+`"Đầu cậu bị chặt rồi. Ngay cả khi cậu ăn, nó cũng chẳng đến được dạ dày. Shiki làm những việc tà ác, nhưng có phải lỗi ở riêng cậu, Ciel?"@
+br
+` "Im đi."@
+` Nó vẫn tốt hơn là không xuất hiện chút nào.
+\
+ld l,"tachi/ark_t31b",lshutter,400
+`"Ối trời. Cậu nói đúng! Tại sao tôi lại không thể xuất hiện? Đúng là ngớ ngẩn!"@
+br
+` Tôi đoán đó là nghiệp chướng của cậu, nhưng tôi không có thời gian để chơi với cậu lúc này.@
+` Tohno-kun.@
+` Vui lòng quay lại lựa chọn trước và chọn lựa chọn phù hợp hơn với tính cách của cậu.@
+` Với tình hình hiện tại, cả tôi và Tohno-kun đều không thể thoát!
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,2624 @@
+bg #000000,notrans,0
+playstop
+waveloop se_11
+!w4000
+bg "bg/bg_40a",crossfade,800
+wave se_04
+` …… Tiếng gõ cửa tịch mịch lại cất lên một lần nữa.@`
+` Cộc cộc, cộc cộc, lặp đi lặp lại nhịp nhàng.@`
+br
+`"Cậu Shiki, thức ăn dẫu đã nguội lạnh cả rồi."@`
+` Giọng cô ấy nghe tịch mịch đượm buồn.@`
+`"…… Cô chủ Akiha và chị Kohaku đã ra ngoài và tịnh không trở về biệt thự hôm nay.@ Hiện giờ nơi đây chỉ còn lại hai chúng ta mà thôi."@`
+` Cô ấy có muốn bảo tôi ra ngoài không?@
+`"Im đi……!@ Tôi đã bảo cô để tôi yên mà.@ Sao cô vẫn tịnh không chịu hiểu điều đó hả, Hisui……!?"@`
+`"[line=8]"@
+` Tôi nghe thấy một tiếng nấc nghẹn khẽ.@`
+wave se_09
+` Tiếng bước chân tịch mịch của cô ấy dần lùi xa rồi tan biến.`
+\
+!w5000
+wave se_04
+` ... Nhưng lại một lần nữa, tiếng gõ cửa vẫn tiếp tục.@
+br
+wave se_09
+` Sự hiện diện của cô ấy tan biến.@
+br
+` Chúng tôi lặp lại chu kỳ này vô số lần.
+\
+`"[line=2][line=2]Ha, ghê gớm"@
+` ... Đau nhức.@
+` Sự đói khát chẳng là gì cả.@
+` Nhưng khát khao đang đốt cháy cơ thể tôi.@
+`"[line=12]"@
+` ... Tôi đang làm gì vậy?@
+` Nằm ngổn ngang trên tường, ôm lấy thân thể bị tổn thương của mình.
+\
+` Cửa sổ đóng chặt, cửa khóa kín.@
+`"...[line=10]...@
+` Tôi nhớ lại, từ rất lâu trước...
+` Có cảm giác như điều này đã xảy ra nhiều lần trước đây.@
+br
+` [line=4]Đó là...
+` Bao lâu rồi?
+\
+bg #000000,crossfade,400
+monocro #ffff00
+bg "bg/bg_45b",crossfade,800
+play "*7"
+` Khi tôi còn nhỏ, được đưa đến một nơi mới và không quen với mọi người xung quanh, tôi đã khóa mình trong phòng.@
+` Tôi ghét tất cả và không muốn cất tiếng đối thoại với ai.@
+br
+` Trong thời gian đó, có một cô gái luôn gõ cửa.@
+br
+` Tiếng gõ cửa vang lên: "Knock, knock."@
+` Mỗi lần tôi hỏi ai đó là, giọng nói luôn trả lời: "Đó là tôi."
+\
+`"SHIKI-chan, chúng ta chơi đi. Anh sẽ bị ủ rỉ nếu cứ đứng yên như vậy."@
+` Tôi bảo với cô ấy rằng đó không phải việc của cô ấy và buộc cô ấy rời đi mỗi ngày.
+\
+bg #000000,crossfade,400
+monocro off
+playstop
+bg "bg/bg_40b",crossfade,800
+wave se_04
+` Tiếng gõ cửa vang lên một lần nữa.@
+br
+wave se_09
+` Sự hiện diện của cô ấy khiến tôi cảm thấy xa cách.
+\
+bg #000000,crossfade,400
+monocro #ffff00
+bg "bg/bg_45b",crossfade,800
+play "*7"
+` ... Cô gái ấy đến mỗi ngày.@
+` Cô ấy luôn gõ cửa, không mệt mỏi dù làm điều đó bao nhiêu lần.@
+` Cô ấy sẽ không bao giờ ép tôi ra ngoài, nhưng vẫn gọi tên tôi mà không mở cửa.
+\
+`"Tại sao cô không ra ngoài?"@
+` Tôi không thể đi ra ngoài. Mọi người trong biệt thự, họ đều xem tôi là kẻ thù.@
+`"Đó không phải sự thật. Mọi người đều muốn được ưa chuộng, SHIKI-chan."@
+` Nhưng tôi không thể tin cô ấy.@
+` Cha tôi cũng tin điều đó và đã bị Tohno Makihisa giết chết.
+\
+`"... Tôi hiểu rồi. Không ngạc nhiên khi cô không tin ai cả."@
+` Đúng vậy. Vì vậy, tôi dễ dàng hơn khi ở một mình.@
+`"Nhưng, bạn chỉ là chính mình suốt thời gian. Ở một mình chẳng vui chút nào."@
+` Tôi không quan tâm. Điều này tốt hơn là bị giết.@
+` Tốt hơn là bị lừa dối.@
+` Tốt hơn là ở một mình và lừa dối bản thân thay vì chết.
+\
+`"Chà. Tôi hiểu rồi, nên cậu có thể... ***** tôi. Sau đó cậu có thể ra ngoài, phải không?"@
+` Những lời của cô ấy sau đó.@
+` Tôi... không thể nhớ chính xác chúng là gì.@
+` [line=4]Cô ấy nói với giọng nói của mình, tôi có thể làm được gì?
+\
+bg #000000,crossfade,400
+monocro off
+playstop
+bg "bg/bg_40b",crossfade,800
+wave se_04
+` "Gõ cửa." Hisui thực sự không chán ngán điều này.@
+` Sự kiên trì bất ngờ của cô ấy khiến tôi nhớ lại một ký ức thời thơ ấu.
+\
+`"...?"@
+` Tôi không nghe thấy bước chân của cô ấy.@
+` Cô ấy dường như chưa từng rời đi.@
+`"... Hisui?"@
+` Không có gì ngoài sự im lặng ở phía bên kia cánh cửa.@
+` Hisui chỉ đứng im lặng ở phía bên kia.@
+br
+` Thời gian trôi qua.@
+` Sự hiện diện của Hisui không thay đổi. Cô ấy chỉ đợi ở cửa.
+\
+`"…… Tại sao cậu không ra ngoài, cậu Shiki?"@
+` …… Điều đó là hiển nhiên.@
+` Vì tôi không thể tin tưởng ai nữa, tôi chỉ có thể tự cô lập bản thân.@
+` Không phải Akiha, cũng không phải Kohaku, thậm chí cả tôi cũng không đáng tin cậy, nên tôi không thể làm gì ngoài việc đóng cửa lại.
+\
+` …… Vâng, cuối cùng tôi cũng nhận ra điều đó.@
+` Việc với Akiha có thể chỉ là một chuyện nhỏ.@
+` Tôi đang cố gắng ở một mình để khóa bản thân lại, vì tôi có thể là kẻ giết người.
+\
+`"... Không ai?@ Anh/chị nói rằng anh/chị có thể tin tưởng vào không ai, cậu Shiki?"@
+` ... Đúng vậy.@ Do đó, không có lý do gì cô ấy phải lo lắng về tôi.@
+` Là sai khi cô ấy lo lắng nhiều như vậy về tôi, kẻ thèm khát máu người, kẻ đã xâm phạm cơ thể cô ấy một cách thô bạo.
+\
+`"... Hisui.@ Chỉ rời đi đi.@ Tôi dễ dàng hơn khi ở một mình.@ Như vậy tôi sẽ không trở thành gánh nặng cho ai cả."@
+`"Đó là một lời dối trá.@ Đó... đó tịnh không vui chút nào.@ cậu Shiki, anh/chị đang nói dối..."!@
+` ... Giọng cô ấy thực ra nghe có vẻ hơi giận dữ.
+\
+`"Thưa cậu Shiki, nếu cậu nói rằng không thể tin tưởng ai, thì hãy tin tưởng tôi!"@
+` "Vậy nên, xin cậu hãy lắng nghe tôi trong khoảng thời gian này……!"@
+` "Giọng cô ấy…… có vẻ như cô ấy đang khóc."@
+` "Cô ấy chắc chắn rất tức giận vì cô ấy không thể nói rõ điều gì."@
+` "Đó là 'tôi tin tưởng cậu' sao?" Điều đó thật kỳ quặc.@
+` "Theo bình thường, tôi phải nói, 'Tôi tin tưởng cậu'."
+\
+`"……… Ôi trời ơi………"@
+` "Điều đó thật vô lý."@
+` Tôi nghĩ chỉ có một cô gái ngốc nghếch mới đưa ra kiểu lập luận vô lý như vậy.
+\
+`"... Tin điều gì?"@
+`"Tôi không biết...! Tôi chỉ biết rằng... Tôi thích ngài Shiki, vì vậy tôi gọi ngài như thế này..."@
+` Một tiếng đập mạnh. Cô ấy gõ cửa mạnh hơn bao giờ hết.@
+`"... Ngài Shiki, xin hãy mở cửa. Tôi biết mình vô lực, nhưng tôi biết điều này sẽ tốt hơn việc ở một mình..."
+\
+bg "event/his_e01",crossfade,800
+!w1000
+bg "bg/bg_40b",notrans,0
+play "*7"
+` Giọng cô ấy nghe giống như đang khóc.@
+` Âm điệu khác đi, nhưng cảm giác lại tương tự như những gì cô gái kia đã nói với tôi trước đây.
+\
+`"Lại chống cự nữa sao...! Ngài Shiki, ngài thực sự đang gặp nguy hiểm như vậy này..."@
+` "[line=2]Tại sao lại cư xử như vậy vào thời điểm đó...!@ Cậu đã hứa rằng khi quay lại, cậu sẽ chơi với mọi người, vậy tại sao lại...!"
+\
+bg "event/his_e01",crossfade,800
+bg "bg/bg_40b",crossfade,800
+` Tiếng khóc nức nở của một cô gái trẻ.@
+`"A..."@
+` Tôi bắt đầu nhớ ra một chút.@
+` Đúng rồi. Vào thời điểm đó, trước khi tôi được đưa đến bệnh viện, tôi đã hứa một lời nhỏ.@
+` Tôi nghĩ rằng tôi sẽ trở về lâu đài khi lành lại, nên tôi chỉ nói nó một cách thoáng qua mà không suy nghĩ nhiều.
+\
+`"Thưa cậu Shiki[line=3]Tôi không muốn mất cậu ngay trước mắt mình, giống như trước...!@ Nên xin hãy... xin hãy mở cửa... Shi, ki[line=2]"@
+` Tiếng gõ vào cửa ngừng lại.@
+` Hisui dường như đã sụp đổ xuống đất trong nước mắt.
+\
+bg #000000,crossfade,400
+monocro #ffff00
+bg "bg/bg_45b",crossfade,400
+` Cô gái đó, người ngày nào cũng gọi tên tôi.@
+monocro off
+bg "event/his_e01b",crossfade,800
+` Cô bé năng động, luôn lo lắng bên cạnh tôi.@
+br
+` [line=3]Ai vậy?@
+` [line=2]Thật ra, cô ấy là ai?
+\
+play "*8"
+bg "bg/bg_40b",crossfade,400
+`"Hisui……!"@
+` Ngay cả khi tôi không còn sức lực, tôi vẫn cố đứng vững.@
+` Mỗi lần di chuyển, tôi cảm thấy như muốn ngất đi.@
+` Nhưng nỗi đau không quan trọng vào lúc này.@
+br
+` [line=4]Hisui.@
+`     Hisui.@
+` [line=4]Hisui, Hisui, Hisui, Hisui!
+\
+` Tôi kéo bản thân đến cửa và đặt tay lên ổ khóa.@
+`"…… Yêu……"@
+` Ngón tay tê bì không di chuyển theo lời tôi ra lệnh, và ổ khóa khó khăn để quay.@
+br
+` Cuối cùng, ổ khóa cũng bật ra.@
+` Cánh cửa mở ra.@
+` Trước mặt tôi, tôi thấy hình bóng của Hisui.
+\
+bg "event/his_e09",lshutter,800
+`"[line=3]cậu Shiki, bạn trông... khủng khiếp."@
+` Với những giọt nước mắt vẫn còn tuôn rơi trên mặt, Hisui nhìn chằm chằm vào tôi.@
+` Nhưng tôi không quan tâm đến cơ thể mình lúc này.@
+` [line=3]Hơn thế nữa, tôi muốn biết...
+\
+`"[line=3][...] Hisui. Bạn là cô gái đó phải không?"@
+`"... ..."@
+` Hisui không trả lời.@
+` Sự im lặng của cô ấy không phải là sự bất đồng, mà là sự đồng ý.
+\
+`"[line=4]Tại sao? Tôi nghĩ cô ấy là Kohaku-san. Bạn còn nói với tôi hôm qua rằng bạn là đứa trẻ trong biệt thự."@
+`"... cậu Shiki. Đó không phải là tôi. Tôi nghĩ chị Akiha đã giúp đỡ bạn vì bạn quá yếu."@
+`"Ồ..." [line=4]@
+br
+` [line=4][line=2]Nói cách khác... Cô Hisui mà tôi thấy hôm qua... thực sự là... Kohaku-san...?
+\
+`"[line=3]... Vậy thì Hisui? Bạn là người từng chơi đùa với chúng tôi khi còn nhỏ, và Kohaku-san luôn ở trong biệt thự?"@
+`"...@
+`"Tại sao...? Tôi không hiểu. Tại sao hai cậu lại cư xử như đã đổi chỗ vậy?"@
+`"... Chúng tôi chẳng có ý lừa dối bạn. Tôi nghĩ tôi trở nên bình tĩnh hơn sau khi bạn được gia đình Arima nhận nuôi."@
+` Cô em gái cố gắng làm tôi vui lên bằng cách giả vờ rất hạnh phúc, và sau đó, chúng tôi dần đổi vai trò."
+\
+`"Nhưng tại sao... tại sao lại xảy ra điều này...? Hisui... bạn luôn tràn đầy năng lượng vậy."@
+`"... Đó không phải là sự thật. Tôi vốn dĩ không hoạt bát. Nhưng khi bạn xuất hiện, tôi cố gắng theo sát bạn hết sức có thể."
+\
+`"... Nhưng, tôi không bao giờ nên làm thế. Kể từ khi tôi đưa bạn ra khu vườn, tai nạn đã xảy ra."@
+` "[line=3]Tất cả những gì tôi có thể làm là đứng đó, sợ hãi nhìn chứng kiến sự mất mạng của cậu trước mắt. Tôi chỉ có thể ngắm nhìn cơ thể nhuốm máu của cậu. Tôi thậm chí không thể khóc hay kêu cứu."@
+` "... Từ đó, tôi không hiểu được bản thân mình nữa. Bất kể tôi cố gắng thế nào, tôi cũng không nhớ được mình đã hành động như thế nào, hay mình đã mỉm cười như thế nào."
+\
+`"... Khi cậu đang hấp hối, tôi chẳng thể làm gì cả. Tôi chỉ có thể đứng nhìn. Nó giống như tôi chỉ là một con búp bê vậy."@
+` "[line=3]Vì vậy, tôi nghĩ... có lẽ tốt hơn nếu tôi chỉ là một con búp bê. Có lẽ tôi đã nguyền rủa chính mình. Trước khi tôi nhận ra, tôi trở nên im lặng giống như chị trai/chị của tôi. ... Chị trai/chị của tôi đã đảm nhận vai trò mà tôi không thể làm, mỉm cười dù tôi không thể."@
+` "... Chờ đã, Hisui. Những gì cậu nói, tôi không thực sự..."
+\
+`"[line=3]Tôi... không muốn từ bỏ, Arcueid. Tôi sẽ không để bạn một mình."@
+` Hiểu rồi, đó là điều tôi muốn nói.@
+`"Chị/anh có nghĩa là em gần như chết rồi à? Chị/anh biết vụ tai nạn tám năm trước đấy chứ?"@
+`"... Vâng. ... Em không bị thương trong tai nạn giao thông. ... Trong sân nhà họ, em đã bị giết."@
+`"[line=4]Hả?"
+\
+bg "bg/cmo_06",crossfade,800
+` Đó không phải... Đúng là...@
+` Tôi là người đã giết em.@
+` [line=3]Vì tôi là người nhìn xuống cơ thể nhu máu đó.
+\
+wave se_01
+`"À..."@
+` [line=3]Tôi bắt đầu cảm thấy choáng váng. Tất cả sức lực đều bị rút khỏi đôi chân tôi và tôi bắt đầu ngã xuống.
+br
+`"cậu Shiki……! Làm ơn, cố gắng giữ vững nhé……!"@
+br
+` ... Trong khoảnh khắc ấy,
+` Hisui quấn vòng tay quanh tôi để ngăn tôi không rơi.
+\
+bg #000000,lshutter,400
+bg "bg/bg_40b",lshutter,400
+`"[line=4]Ah"@
+` ... Giọng cô ấy và tôi chồng lên nhau.@
+` Hisui đứng đó, tuyệt vọng nắm chặt lấy tôi.@
+` Chúng tôi trông giống như đang ôm nhau, và Hisui run rẩy đứng đó.
+\
+`"…… Hisui."@
+` Tôi hiểu rồi.@
+` Tôi hiểu rằng cô ấy không thích tiếp xúc với đàn ông.@
+` Ngay cả bây giờ, cơ thể cô ấy vẫn run rẩy khắp người.
+\
+`"[line=3]Hisui."@
+` Nhưng tôi không thể buông tay.@
+` Tôi ôm lấy cô ấy.@
+` Sự ấm áp của cô ấy. Cơ thể mềm mại của cô ấy.@
+` Từ khi chúng tôi còn nhỏ, cô gái luôn chăm sóc tôi.@
+br
+bg #000000,crossfade,400
+bg "event/his_e01b",crossfade,800
+` [line=3]Đúng vậy, không thể có nghi ngờ gì nữa.
+\
+bg #000000,crossfade,400
+bg "bg/bg_40b",crossfade,800
+`"Hisui... Cuối cùng chúng ta lại gặp nhau."@
+` Với cơ thể yếu ớt của mình, tôi ôm cô ấy gần hơn.@
+`"Ah... Shiki sama..."@
+` Cô ấy vẫn run rẩy.@
+` Nhưng cô ấy không từ chối và quấn tay quanh lưng tôi.
+\
+`"... Tôi xin lỗi."@
+` Tôi không biết mình đang xin lỗi điều gì.@
+` Tôi chỉ cảm thấy có rất nhiều thứ tôi phải xin lỗi cô ấy.@
+`"... Không có gì cả. Bạn không cần phải xin lỗi, cậu Shiki."@
+` Cô ấy im lặng đáp lại và đưa tôi đến giường.
+\
+bg #000000,crossfade,800
+!w2000
+play "*1"
+bg "bg/bg_40c",crossfade,800
+` Tôi nằm trên giường.@
+` Cơ thể tôi thư giãn một chút, giường thoải mái hơn nhiều so với sàn nhà.@
+` Hisui trải một tấm chăn sạch lên người tôi và mang tới một cốc nước.
+\
+ld c,"tachi/his_t02",lshutter,400
+`"cậu Shiki, cậu có thể uống nước này một mình không?"@
+`"Ừm, tôi nghĩ mình có thể xử lý được điều đó."@
+` Nhận lấy cốc nước từ Hisui, tôi uống ly nước đầu tiên trong ngày.@
+`"Nh... "@
+` Nước giải khát cơn khát của tôi.@
+` Nước dường như lấp đầy tôi hoàn toàn, đến tận đầu ngón tay.@
+` Tôi trả lại cốc cho Hisui và ngã xuống giường.
+\
+ld c,"tachi/his_t24",crossfade,400
+`"cậu Shiki!?"@
+`"[line=3]Không, không, không phải thế. Tôi thực sự cảm thấy tốt, tôi chỉ đang thư giãn. Sức khỏe của tôi thậm chí còn tốt hơn."@
+ld c,"tachi/his_t07",crossfade,400
+`"cậu Shiki, đừng làm tôi sợ như vậy.@ Nếu bạn thực sự ngất đi, trong tình trạng này, cũng không bất ngờ lắm."@
+` Hisui nhìn tôi với vẻ lo lắng trong mắt.@
+` …… Nhìn ấy khiến tôi muốn cảm ơn cô ấy, và cũng khiến tôi cảm thấy hối hận.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"…… cậu Shiki?@ Có bị đau đâu không?@ Nếu cậu đang đau, xin đừng ngần ngại nói với tôi."@
+`"Không, hiện tại chẳng có gì đau cả."@
+` …… Thật ra, trái tim tôi đang đau.@
+` Hisui đang lo lắng về tôi ngay lúc này, giống như mọi khi vậy.@
+` Tất cả những gì tôi đã làm để đáp lại cô ấy chỉ là hành xử ngốc nghếch.@
+` Ngay cả khi tôi không nhận ra sự tận tâm tuyệt đối của cô ấy, tất cả những gì tôi đã làm chỉ mang lại nỗi đau cho trái tim cô ấy.
+\
+bg #000000,crossfade,400
+monocro #0000ff
+bg "event/his_h02",crossfade,400
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_40c",crossfade,400
+` Và vào thời điểm đó, khi tôi đã làm những việc khủng khiếp với Hisui.@
+` ... Mặc dù cuối cùng nó hóa ra là Kohaku-san, tôi vẫn đã làm những điều đó với Hisui.@
+br
+bg #000000,crossfade,400
+monocro #0000ff
+bg "event/his_h14",crossfade,400
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_40c",crossfade,400
+` Và đó không phải là tất cả.@
+` Tôi mơ thấy việc giết người, và theo đúng như vậy, tôi cũng mơ thấy việc xâm phạm Hisui.
+\
+` ... Tôi,
+` Tôi không xứng đáng được chăm sóc bởi Hisui.
+\
+ld c,"tachi/his_t07",lshutter,800
+`"cậu Shiki, nước không làm hài lòng bạn sao……?"@
+` Tôi lắc đầu từ chối.@
+`"Đó không phải là ý tôi. ... À, cảm ơn bạn vì mọi thứ, Hisui. Tôi chưa từng nghĩ uống nước có thể giúp tôi đến mức này."@
+ld c,"tachi/his_t03",crossfade,400
+` Nhưng, đó là đủ rồi. Tôi không xứng đáng được đối xử tốt như vậy từ bạn.@
+ld c,"tachi/his_t01",crossfade,400
+`"[line=3]cậu Shiki, bạn vẫn nói như vậy à? Tôi chỉ muốn giúp bạn, dù cậu có xứng đáng hay không thì cũng không sao."
+\
+`"Không, Hisui. Không phải là bạn."@
+` ... Vâng, tôi là người mắc lỗi ở đây.@
+` Hisui dành cho tôi sự tận tâm, nhưng tôi đáp lại bằng sự độc ác.@
+`"[line=2]... Nếu bạn ở bên tôi, tôi có thể sẽ làm điều khủng khiếp khác. Vì vậy, trước khi tôi làm gì, xin hãy rời đi. ... Tôi cầu xin bạn. Tôi không muốn làm tổn thương bạn nữa, Hisui."@
+ld c,"tachi/his_t17",crossfade,400
+` Hisui không nói gì cả.@
+` Nhưng cô ấy phải hiểu những gì tôi đang nói.
+\
+` Sau vài giây im lặng, dường như cô ấy hiểu rồi, cô ấy nâng đầu lên và gật đầu.@
+ld c,"tachi/his_t12",crossfade,400
+`"Tôi từ chối."@
+`"... Vâng, xin lỗi nó phải thế, nhưng... W, chờ đã. Hisui, cậu vừa nói gì?"@
+ld c,"tachi/his_t08",crossfade,400
+`"Tôi nói rằng tôi từ chối."@
+` Những lời đó không đủ, và tôi không thể để cô ấy một mình. Cho đến khi cô ấy cho tôi một lý do hợp lệ, tôi sẽ không tuân theo lệnh của cô ấy.@
+` Hisui trả lời rõ ràng.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Hãy nói cho tôi biết lý do, cậu Shiki. Nếu không, tôi sẽ không di chuyển bước nào."@
+`"[line=2]Chắc chắn rồi."@
+` Mắt cô ấy nghiêm túc đến mức nào.@
+` [line=3]Tôi tin rằng cô ấy có thể nhận ra nếu tôi nói dối hay đưa ra lời biện minh, và hơn hết, tôi không muốn nói dối với cô ấy.
+\
+`"... Tôi hiểu rồi. Vậy nếu tôi nói cho cô biết lý do, cô sẽ đi?"@
+`"Đúng vậy. Nếu đó là điều có thể thuyết phục được tôi, thì tôi sẽ thực hiện mệnh lệnh của cô."@
+` ... *thở dài*@
+` Tôi hít một hơi sâu.@
+` Tôi đã chuẩn bị tinh thần, và mở miệng.
+\
+`"Hisui, tôi thấy những giấc mơ nơi tôi giết người. Mỗi đêm, tôi mơ về việc giết một người lạ mặt và uống máu họ."@
+ld c,"tachi/his_t08",crossfade,400
+`"... Bạn thấy những giấc mơ... Liệu đó có phải là lý do của cậu Shiki?"@
+`"... Không, vấn đề là, tôi không thể phân biệt liệu chúng có phải là giấc mơ hay không. Có thể là tôi không để ý, nhưng có lẽ tôi đang giết người trong thực tế."@
+` ... Giống như ông già. Có thể có một bản ngã khác trong tôi mà tôi không biết, đang lang thang trên đường phố và giết người.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"[line=2]cậu Shiki, điều đó là không thể. Bạn đang hành động như cậu Shiki bình thường ngay bây giờ."@
+`"... Tôi đang như vậy ngay lúc này. Nhưng đôi khi, tôi có những suy nghĩ kỳ lạ. Những giấc mơ tôi thấy... có thể chỉ đơn giản là ký ức của tôi."@
+` ... Và thực sự, tôi đã giết một người cách đây tám năm.@
+` Tôi nhớ rõ khoảnh khắc nhìn xuống cậu bé bị nhuốm máu.
+\
+ld c,"tachi/his_t08",crossfade,400
+`"cậu Shiki, xin hãy bình tĩnh lại. Nghĩ rằng ngài là một sinh vật hút máu quả thực quá kỳ lạ."@
+`"... Đúng vậy, nó kỳ lạ, nhưng tôi không thể bỏ qua được. Hisui, có lẽ ngươi chưa biết, nhưng những người trong gia tộc Tohno khác xa với người thường. Ông già có nhiều nhân cách, thậm chí Akiha [line=2]"@
+br
+` [line=3]cũng đang hút máu Kohaku-san.
+\
+`"Dù sao đi nữa, những người trong gia tộc Tohno không phải là người bình thường. Vậy nên tôi cũng không phải. Tôi không thể kiềm chế được sự ham muốn của mình với ngươi và Kohaku-san."@
+` "Giờ thì ổn rồi, nhưng nếu cơn đau đầu ấy quay lại, chắc chắn [line=3]tôi sẽ làm điều tồi tệ với ngươi, Hisui...!"@
+ld c,"tachi/his_t01",crossfade,400
+`"[line=3]cậu Shiki, chị Kohaku và tôi đã biết tất cả những điều này từ rất sớm."
+\
+`"Hừ...? Ngươi biết à? Biết cái gì?"@
+`"Người Tohno không phải là người bình thường." Không, nghĩa là bạn là người duy nhất không biết.@
+` "Em và tôi đã biết điều đó từ khi chúng tôi lần đầu tiên được đưa đến căn biệt thự này."@
+`"[line=6]Hả…" "Ồ..."@
+`"Nhưng đừng nghĩ rằng điều đó thật kỳ lạ. Em và tôi cũng sở hữu một sức mạnh không bình thường. Đó là lý do Makihisa-sama đưa chúng tôi đến đây."@
+` "Về gia tộc Tohno, chúng tôi biết nhiều hơn bạn, cậu Shiki."
+\
+`"Chắc chắn rồi, cậu có thể gọi dòng máu Tohno là bất thường."@
+` "Nhưng, cậu Shiki, chuyện đó không liên quan đến ngài.@ Ngài không có nhân cách phân liệt như Makihisa-sama, cũng không phải ma cà rồng hút máu người.@ cậu Shiki, ngài gần với chị Kohaku và tôi hơn."
+\
+`"…… Tôi gần gũi với cậu hơn……?"@
+`"Có. Cậu chắc chắn không phải là kẻ giết người... ... Xin cậu, hãy tin tưởng tôi một chút và để tôi chăm sóc cậu."@
+`"... Không. Nó vẫn không thay đổi được thực tế rằng...  Ừm... Tôi vẫn muốn cậu. Nếu cậu ở lại đây, tôi sẽ làm điều mà tôi không thể lấy lại."@
+ld c,"tachi/his_t26",crossfade,400
+`"[line=3]Ờm, về vấn đề này, có thể hỏi một câu...?"@
+`"Ừm... Không sao..."@
+ld c,"tachi/his_t28",crossfade,400
+`"Ờm, cậu Shiki,  em... Có thích chị Kohaku và tôi không...?"@
+`"[line=6]Hừ?"
+\
+` Cô ấy hỏi một điều vô lý hoàn toàn và bắt đầu nhíu mày, vuốt ve ngón tay.@
+` Tôi có ghét Hisui và Kohaku-san không?@
+` Không có gì đúng hơn sự thật.
+\
+`"... Bây giờ hãy nhìn này. Không thể nào tôi không thích cả hai bạn được. Tôi luôn biết ơn Kohaku-san, và cũng vậy với cậu... ừm, tôi luôn suy nghĩ về mức độ biết ơn dành cho cậu."@
+ld c,"tachi/his_t22",crossfade,400
+` Cô ấy thở ra hơi thở cô dồn nén.@
+` Hisui thư giãn rõ rệt vì một lý do nào đó.
+\
+ld c,"tachi/his_t02",crossfade,400
+`"Vậy thì không có vấn đề gì. Tình trạng của cậu khiến bạn chịu nhiều áp lực. Điều này gây ra những suy nghĩ trong tâm trí bạn xuất hiện trong giấc mơ. Điều đó có nghĩa là suy nghĩ của cậu là cảm xúc thực sự của cậu.@
+` Vì vậy, không kỳ lạ khi cảm thấy như vậy nếu cậu có tình cảm với chúng tôi."@
+`"Ừm... Đúng là như vậy, nhưng..."@
+` Ngay cả vậy, cũng kỳ lạ khi ham muốn cả hai bạn như thế này."
+\
+ld c,"tachi/his_t03",crossfade,400
+`"Vâng, nó có chút nguy hiểm. Nhưng cậu Shiki, ngài đã luôn chịu đựng nó, phải không? Vậy thì không thành vấn đề. Ngài nói rằng ngài là người nguy hiểm, nhưng ngài mạnh mẽ hơn thế nhiều."@
+` "Nếu ngài đã trụ vững đến giờ, vậy ngài vẫn có thể làm được, phải không? Hơn nữa, đó là quyết định của ngài, nên ngài chẳng có rối loạn nhân cách nào cả."@
+`"Ừm... Lý thuyết đó có thể đúng, nhưng..."
+\
+cl c,crossfade,400
+` "... Không đơn giản như thế."@
+` "Nhưng chỉ nhìn nụ cười tin tưởng ấy, tôi cảm thấy mình phải cố gắng giữ vững mọi thứ, bất kể điều gì xảy ra."
+\
+`"Được rồi. Nếu ngài nói vậy, thì ngài có thể ở gần bên tôi. Tôi sẽ cố gắng kiềm chế bản thân nhiều nhất có thể."@
+ld c,"tachi/his_t20",lshutter,400
+`"[line=4]Ồ... Không, không hoàn toàn là ý tôi muốn nói..."@
+` Hisui đỏ mặt và nhìn xuống đất.@
+`"Hừm......?"@
+` Tôi không hiểu.@
+` Hisui chỉ liếc nhìn tôi thỉnh thoảng với biểu cảm khó chịu.
+\
+`"Hisui? Tôi có nói điều gì kỳ lạ không?"@
+ld c,"tachi/his_t02",crossfade,400
+`"...@
+` Hisui chỉ nhìn thẳng vào mắt tôi.@
+`"[line=8]?"@
+` Tôi bắt đầu cảm thấy rất bất an.@
+` Trái tim tôi đập nhanh hơn trong căng thẳng. Tôi cảm thấy bất an, như thể mình bị bắt gặp với điều gì đó và sắp bị la mắng vì nó.
+\
+br
+` [line=6]Đánh.
+\
+br
+` [line=6]Đánh.@
+br
+` [line=6]Đánh.@
+br
+` [line=6]Đánh.@
+br
+` [line=6]Đánh.
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_40c",crossfade,400
+`"Cr[line=2]"@
+` …… Đúng là tệ.@
+` Tôi bắt đầu cảm thấy choáng váng một chút, có lẽ vì tôi quá lo lắng.@
+bg #000000,crossfade,800
+bg "bg/bg_40c",crossfade,400
+`"Ừm..."@
+` Ý thức của tôi bắt đầu lơ lửng.@
+` ...Tôi quên hết mọi thứ, nhưng cơ thể tôi không còn đủ sức để tiếp tục cất tiếng đối thoại.@
+`"A... [line=6]"@
+` Tôi cảm thấy như muốn nôn mửa mỗi khi tim tôi đập mạnh.@
+` Hisui[line=3] Tôi không thích làm điều này với cô ấy, nhưng có lẽ tôi nên ngủ ngay bây giờ[line=4]
+\
+ld c,"tachi/his_t17",crossfade,400
+`"cậu Shiki? Bạn có bị đau đớn không?"@
+`"Ồ... À. Chỉ là một chút thôi. Nhưng không nghiêm trọng, cậu không cần lo lắng."@
+`"... Không, theo tốc độ này, bạn chắc chắn sẽ chết. Cô ấy nói rằng cậu có thể không sống đến tối."@
+wave se_01
+`"[line=4]Hả?"
+\
+` "Tôi cảm thấy một cơn lạnh khi nghe điều đó."@
+` "Tôi không ngần ngại nghĩ về điều này."@
+` "Khi cơ thể tôi không thể lành lại..."@
+` "Tôi đã nhiều lần tưởng tượng rằng sự suy yếu của bản thân sẽ kết thúc bằng cái chết."@
+br
+` "Nhưng vẫn còn..."
+` "...khi nghe ai đó nói như vậy khiến tôi rùng mình."
+\
+`"..."@
+` "Tôi... không biết phải nói gì."@
+` "Có nên chấp nhận nó?"@
+` Tôi có nên phủ nhận điều đó không?@
+`"... ..."@
+` "Tôi không thể làm gì cả."@
+` "Tôi đã cảm thấy cơ thể mình sẽ chết sớm... nhưng nó chỉ không thật sự."@
+` Nó giống như tôi chỉ đang xem cuộc sống của một người bệnh nào đó trên một chương trình truyền hình.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"... tiểu thư Akiha và chị Kohaku đã rời đi để cứu bạn. ... Nhưng họ có thể không kịp đến nơi. Ngay cả khi họ thành công, nếu cơ thể bạn cạn kiệt năng lượng trước đó, thì cũng vô ích."@
+`"... Vậy thì, tôi đoán cô đúng."@
+` Tôi không biết hai người họ đang làm gì.@
+` Cô ấy nói họ sẽ cứu tôi, nhưng họ có đang tìm kiếm thứ gì đó có thể chữa khỏi tình trạng của tôi?
+\
+` Nhưng tất cả những nỗ lực...
+` Nó sẽ vô ích nếu tôi qua đời trước khi họ trở về.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"...Nhưng, bạn biết không? Có một cách để cho cậu năng lượng để cậu có thể chờ đợi cho đến khi họ quay lại."@
+`"...?!"@
+ld c,"tachi/his_t20",crossfade,400
+`"...Xin lỗi, nhưng nếu bạn đồng ý[line=2]thì tôi có thể thực hiện phương pháp này."@
+` Hisui do dự nhìn vào mặt tôi.
+\
+` Hisui nói có một phương pháp để cứu tôi ít nhất cho đêm nay.@
+` Nếu điều đó là sự thật, thì tôi không có lý do nào để từ chối nó.
+\
+`"... Không phải là vấn đề cho phép hay không. Nếu nó giúp tôi dù chỉ một chút, thì chúng ta không còn lựa chọn nào khác. Tôi muốn xin nó trực tiếp."@
+ld c,"tachi/his_t02",crossfade,400
+`"... [line=3]Vâng. Vậy thì, Thức Thần Shiki, cô có thể nhắm mắt trong chốc lát được không?"@
+`"Nhắm mắt? Ừm, chắc rồi... Có ổn không đây?"@
+playstop
+bg #000000,tshutter,400
+`"... Được rồi. Xin đừng di chuyển."
+\
+` Tôi nghe thấy bước chân của cô ấy.@
+` Tiếng xào xạc quần áo của cô ấy cho tôi biết cô ấy đang tiến lại gần.@
+` Và sau đó...
+` Một thứ gì đó di chuyển lên giường và tôi cảm thấy một cái gì đó chạm vào môi tôi.
+\
+play "*8"
+`"[line=7]"@
+` Một cảm giác dịu dàng.@
+` Tôi cảm nhận được sự ấm áp của một cơ thể người, và đó chắc chắn là đôi môi của Hisui.@
+br
+` [line=4]Cơ thể tôi nóng bừng lên.@
+br
+` Đôi môi cô ấy ngần ngại ép vào môi tôi.@
+` Cảm giác này, và cảm giác hơi thở của cô ấy, dường như lấp đầy cơ thể tôi như một loại thuốc.
+\
+`"Ah[line=4]"@
+` Tiếng đập mạnh, nhịp tim tôi như ngừng lại.@
+` Chỉ với một nụ hôn, tâm trí tôi trở nên trống rỗng.@
+` Tôi trôi nổi, cảm thấy vô cùng thư thái.@
+` Tất cả nỗi đau, mệt mỏi tan biến như băng tan dưới ánh nắng hè.
+\
+`"Nn... ... ah."@
+` Hisui thở dài.@
+` Sự tiếp xúc nhỏ bé giữa chúng tôi ngày càng trở nên sâu sắc hơn.
+\
+`"[line=4]Nn - Hisu, em yêu."@
+` Tôi không biết mình đang làm gì.@
+` Chỉ là đôi môi cô ấy cảm thấy quá tuyệt vời, nên tôi áp sát đôi môi của mình vào.@
+`"[line=2]... Shiki... sama... "@
+` Hisui do dự bắt đầu rút lui.@
+` Tôi không muốn như vậy và tôi kéo cô ấy gần hơn với tôi.
+\
+`"Nn... ah."@
+` Tôi kéo cô ấy lại gần, tìm kiếm đôi môi của cô ấy.@
+`"Ha... n, n...!"@
+` Hisui kháng cự một chút, có thể cô ấy đang gặp khó khăn trong việc thở.@
+`"[line=6][line=2]Ha... ah."@
+` Nhưng tôi không thể dừng lại.@
+` Hơi thở của cô ấy. Đôi môi của cô ấy. Sự ấm áp của cô ấy. Tất cả đều cảm thấy rất tuyệt vời.
+\
+` Khi vẫn còn mắt nhắm, tôi đưa lưỡi vào giữa đôi môi cô ấy.@
+`"[line=2]N...!"@
+` Không giống như trước, giờ đây cô ấy thực sự cố gắng rút lui.@
+` Tôi ôm lấy cơ thể cô ấy để giữ chặt cô ấy, và tôi tiếp tục tìm kiếm lưỡi của cô ấy.
+\
+`"A... n, n...!"@
+` Nếu tôi mở mắt ra, tôi chắc sẽ thấy gương mặt lo lắng của cô ấy.@
+` Nếu tôi nhìn thấy điều đó, tôi sẽ để cô ấy đi ngay lập tức.@
+` Và vì vậy, thay vào đó,
+` Tôi tiếp tục quay cuồng mù quáng bằng cách liếm lưỡi của mình lên lưỡi cô ấy.
+\
+`"N... a, a..."@
+` Ngón lưỡi chúng ta đan vào nhau.@
+` Chỉ cảm giác ngón lưỡi của tôi chạm vào một người khác cũng khiến tôi mất kiểm soát.@
+` Chỉ sự thật rằng lưỡi tôi nhạy cảm đang cảm nhận lưỡi của người khác khiến suy nghĩ hợp lý của tôi gần như muốn nổ tung.@
+br
+` Và bởi vì đó là lưỡi của Hisui, nó tan rã hoàn toàn.
+\
+`"A…… n, n…… ah……"@
+` Những lưỡi đỏ, rối bời tiếp tục nhảy múa.@
+` Ngay cả khi môi chúng ta tách ra, lưỡi chúng ta đã trở thành một.@
+` …… Điều này không chỉ là một phép ẩn dụ.@
+` Lưỡi chúng ta dính chặt lại với tất cả nước bọt của nhau.
+\
+br
+` [line=3]Tôi tự hỏi điều đó kéo dài bao lâu?@
+br
+` Trước khi tôi nhận ra, cơ thể tôi đang cháy bỏng, và Hisui đứng bên giường, điều chỉnh trang phục.
+\
+bg "bg/bg_40c",crossfade,400
+` Một tiếng đập mạnh.@
+br
+`"[line=4]Ôi..."@
+br
+` Hai tiếng đập mạnh.
+\
+br
+` Tôi không thể thở được.@
+br
+` Đập ba lần.@
+br
+`"Cơ thể tôi... nó cảm thấy vô cùng... nóng."@
+br
+` Tim tôi đập loạn nhịp.
+\
+ld c,"tachi/his_t22",lshutter,400
+` Hisui đứng bên giường, nhìn xuống mặt đất vì xấu hổ.@
+` [line=4]Tôi không thực sự biết tại sao cô ấy lại làm thế.@
+`"[line=2]...Hisui... chỉ vừa rồi, tại sao?"@
+` Tại sao cô ấy lại hôn tôi?@
+` Tại sao một nụ hôn đơn giản lại khiến tôi cảm thấy tốt hơn bất kỳ loại thuốc nào?@
+` Tôi không hiểu điều gì cả.
+\
+ld c,"tachi/his_t02",crossfade,400
+`"...Đó là cách tôi có thể giúp bạn, cậu Shiki."@
+`"[line=3]Giúp tôi... nhưng, làm thế nào?"@
+`"Tôi thực sự không biết làm thế nào. Nó chỉ là chị Kohaku và tôi có thể truyền một phần năng lượng của chúng tôi cho những người mà chúng tôi áp thân thể vào nhau.@
+` ... À, nếu chúng ta trao đổi chất lỏng cơ thể, chúng ta có thể nhận ra người đó giống như chúng ta, và điều đó cho phép chúng ta chia sẻ năng lượng và tăng cường sức mạnh của họ."
+\
+`"[line=2]Anh đang nói gì vậy?"@
+`"Kể từ khi chúng tôi được sinh ra, chúng tôi đã có những cơ thể đặc biệt. Chúng tôi không giống gia tộc Tohno, nhưng chúng tôi là những người đặc biệt được sinh ra từ những con người bình thường. Makihisa-sama gọi chúng tôi là 'Những người đồng bộ'."@
+br
+` [line=4]"À."@
+` Tôi nghĩ từ đó xuất hiện trong nhật ký của cụ già.
+\
+`"Makihisa-sama đưa chúng tôi đến đây để kìm nén sự 'tự Tohno' ngày càng tăng của ông ấy. Chúng tôi phù hợp hơn trong việc tăng cường sức mạnh của một người thay vì chia sẻ năng lượng của mình."@
+` "... Makihisa-sama đồng bộ với chị Kohaku bằng mặt người của ông ấy, và chỉ vừa giữ được sự tỉnh táo."@
+`"……………"@
+` [line=3]Không, cô ấy không cần phải kể cho tôi tất cả những điều này…… nhưng bằng "sự trao đổi chất lỏng cơ thể", nó chắc chắn có nghĩa là
+\
+`"... Tôi không hiểu hoàn toàn, nhưng cơ thể bạn... nó giống như một loại thuốc hay thứ gì đó..."@
+`"Đúng vậy."@ Thông thường, nó sẽ không có nhiều tác dụng, nhưng giờ năng lượng của cậu rất thấp.@ Tôi tin rằng bạn sẽ có thể ít nhất trở lại trạng thái bình thường ngay cả với sức mạnh của tôi."@
+`"[line=4]Hiểu rồi."@
+` Tôi siết chặt bàn tay.
+\
+`"... Di chuyển.@ Vâng, tôi có thể di chuyển..."!@
+` Khớp của tôi hơi cứng, nhưng tôi có thể vận động cơ thể theo ý chí của mình.@
+` Được làm một việc đơn giản như vậy khiến tôi vô cùng hạnh phúc lúc này.@
+`"Cảm ơn cậu, Hisui! Cơ thể tôi dường như đã trở lại bình thường nhờ cậu!"@
+ld c,"tachi/his_t20",crossfade,400
+` Tôi giang tay lên trời.
+\
+` Nhưng, Hisui vẫn trông có vẻ lo lắng... Khi nhớ lại.@
+` Hơi thở của cô ấy thật dễ chịu, tôi ép Hisui tiếp tục hôn tôi.
+\
+`"[line=2]Ồ... Tôi xin lỗi. Hơi thở của cậu... nó... thực sự dễ chịu nên tôi..."@
+`"...không tự ý thức được mình đã truyền chất lỏng gì đâu."@
+` Hisui nhìn tôi, mặt đỏ bừng vì xấu hổ.@
+ld c,"tachi/his_t28",crossfade,400
+`"Nhưng, cậu Shiki, đây chỉ là biện pháp tạm thời thôi. Bạn sẽ sớm trở lại trạng thái ban đầu."@
+`"[line=4][line=3]Thật sao? Ý bạn là tôi sẽ quay lại như trước à?"
+\
+` "Không. Bất cứ điều gì cũng tốt hơn thế."@
+` "Có thể di chuyển như vậy một lần nữa, cuối cùng tôi cũng hiểu rồi. Những ngày qua, cơ thể tôi tịnh không ổn."@
+` "Vì vậy, giờ đây, kể từ khi tôi có thể di chuyển lại, nghĩ về việc cơ thể quay trở lại trạng thái cũ khiến tôi rùng mình."@
+` "…… Tôi nên làm gì? Tôi không bao giờ muốn trải qua điều đó nữa. Giống như một con rối với những sợi dây bị cắt đứt, đầu tôi cảm thấy như đang bị chia cắt..." Lần này@
+`"[line=3]Trước khi cơ thể tôi ngừng hoạt động, tôi nghĩ tâm trí tôi sẽ vỡ nát trước."@
+` "Tôi nghĩ tâm trí tôi sẽ sụp đổ trước, khi cơ thể tôi ngừng vận động."
+\
+ld c,"tachi/his_t02",crossfade,400
+`"Thưa cậu Shiki, tôi không muốn bạn phải quay lại như trước nữa."@
+` Vì vậy... cậu có thể... chia sẻ cơ thể với tôi sâu hơn một chút lần này?@
+` Với ngón tay run rẩy, cô ấy nói điều đó trong khi nhìn thẳng vào tôi.@
+br
+` [line=4]Trái tim tôi đập nhanh hơn.@
+br
+` Chia sẻ cơ thể sâu hơn có nghĩa là...
+` À, nó có nghĩa là trao đổi chất lỏng cơ thể, vì vậy điều đó có nghĩa là [line=4]
+\
+`"[line=4][line=2]À... điều đó là..."@
+` Hisui im lặng.@
+` "Tôi có nên là người nói điều đó không?"@
+`"[line=3]Đúng vậy, tôi phải... yêu bạn sao?"@
+ld c,"tachi/his_t21",crossfade,400
+` Hisui gật đầu im lặng.
+\
+`"["[line=10]"]"@
+` Mặt tôi bỗng chốc nhuộm đỏ như son.@
+` [line=3]Chỉ suy nghĩ về điều đó thôi cũng làm tôi cảm thấy vui sướng, nhưng...
+\
+`"[line=3]Không, điều đó rất tệ. Tôi không thể quay lại như trước nữa, nhưng điều đó thật tồi tệ. Sử dụng bạn như vậy để giúp tôi trở nên tốt hơn, điều đó hoàn toàn sai lầm..."@
+` Tôi thẳng thắn từ chối lời đề nghị của cô ấy.@
+ld c,"tachi/his_t05",crossfade,400
+`"... ..."@
+` Hisui vẫn im lặng.@
+` Có vẻ như cô ấy bị tổn thương bởi những lời tôi nói hơn là cảm thấy nhẹ nhõm vì sự từ chối của tôi.
+\
+`"Không, không phải tôi không muốn bạn ...! Nó chỉ kỳ lạ. Nó có thể giúp tôi, nhưng sử dụng cơ thể bạn theo cách đó là sai trái."@
+ld c,"tachi/his_t13",crossfade,400
+`"... Có điều gì đó không đúng với cậu, cậu Shiki. Tôi hiểu rằng cậu không muốn tôi.@
+` Nhưng nếu tôi không làm thế, bạn sẽ chết vào đêm nay. Vậy làm sao cậu có thể nói những điều như vậy?"
+\
+`"[line=3][line=2]Ồ không, không phải như vậy."@
+` ... Đúng rồi.@
+` Đó là lý do Hisui đề xuất kế hoạch vô lý này.@
+` ...Hisui, người thậm chí không thể chịu được sự tiếp xúc với giới tính đối diện, lại đề xuất điều này vì cuộc đời tôi đang bị đe dọa.@
+` [line=3]Nên cô ấy nói tất cả những điều đó vì lợi ích của tôi.@
+` [line=3]Cô ấy nói tôi có thể ngủ với cô ấy, dù thích hay không thích đều không quan trọng.
+\
+`"[line=4]Đúng vậy."@
+` Có gì sai sao?@
+` Tôi cũng không muốn chết.@
+` Ý tôi là, tất cả những gì tôi phải làm là ngủ với cô ấy, và nếu tôi không thích điều đó, thì thực sự có điều gì đó sai với tôi.
+\
+`"[line=6]" @
+ld c,"tachi/his_t01",crossfade,400
+` Hisui im lặng quan sát tôi.@
+` Những ngón tay của cô ấy vẫn run rẩy.@
+` Mặc dù tôi cảm thấy không thoải mái như cô ấy, [line=3]cô ấy vẫn lo lắng hơn tôi nhiều.@
+` Nhưng cô ấy cố gắng che giấu và tỏ ra bình thường.@
+` Cô ấy làm rất nhiều cho tôi, vậy mà [line=3]
+\
+`"Hisui [line=4]cảm thấy thế này có ổn với cậu không?" @
+ld c,"tachi/his_t16b",crossfade,800
+`"... Vâng. Nếu tôi có thể giúp ích cho cậu, thì tôi sẽ hài lòng." @
+`"[line=3] Không! Đó không phải là ý tôi, à...[line=3]"@
+` "Cô ấy thực sự ổn khi trao cơ thể mình cho một người mà cô ấy không yêu sao?"@
+` "Tôi... không thích điều đó."@
+cl c,crossfade,400
+` "Tôi muốn ngủ với cô ấy."@
+` "Tôi nghĩ tôi yêu cô ấy và muốn làm mọi thứ vì cô ấy."@
+` "Nhưng đó là hai chuyện khác nhau."@
+` "Nói thẳng ra, tôi không muốn ngủ với cô ấy vì tôi không biết Hisui có yêu tôi hay không."
+\
+`"[line=3] Có được không, Hisui? Trao cơ thể như vậy, sau này cô sẽ hối hận sao?"@
+ld c,"tachi/his_t26",crossfade,400
+`"…… Tôi không biết.@ Nhưng tôi chỉ có một yêu cầu muốn nói với cậu."@
+`"Yêu cầu......?"@
+ld c,"tachi/his_t02",crossfade,400
+`"Đúng vậy.@ cậu Shiki, nếu cậu thích tôi dù chỉ một chút nào đó, chỉ trong lúc này[line=3]hãy nghĩ đến điều đó thôi.@ Nếu cậu yêu tôi chỉ trong lúc này[line=3]tôi sẽ không hối tiếc."@
+` "…… Hisui nói, vẫn còn run rẩy.
+\
+`"[line=5]" Tôi... tôi thật ngốc nghếch. Tôi chưa bao giờ cảm thấy mình ngốc nghếch như lúc này.@
+` "Hisui à, tôi..."@
+`"[line=2]Tôi nói với bản thân, "Tôi không muốn nếu Hisui không yêu tôi."@
+` [line=3]Nhưng thực sự, tôi không xứng đáng nói điều đó.@
+`"[line=3]Đến đây đi. Bây giờ, tôi thực sự cần em."
+\
+cl c,lshutter,800
+` Hisui tiến lại gần. Tôi dui tay ra, kéo cô ấy về phía mình.@
+` Nhưng...
+\
+`"[line=3][line=3]Đừng hiểu lầm. Ngay cả khi không có điều kiện này, tôi luôn yêu em nhất từ trước đến nay."@
+br
+` Khi đó.@
+` Tôi hạ cô ấy xuống giường và chạy ngón tay trên cơ thể cô ấy.
+\
+playstop
+bg #000000,crossfade,800
+` Tôi tháo dải ruy băng của cô ấy, nó rơi xuống.@
+`"À..."@
+` Giọng Hisui run rẩy.@
+` Tôi giả vờ không nghe thấy và tháo dây thắt áo choàng của cô ấy ở phía sau lưng.
+\
+`"Thưa cậu Shiki? À... "@
+` Hisui nhìn tôi với đôi mắt ngơ ngác, lo lắng.@
+`"Hisui, đây là lần đầu tiên của cậu, phải không?"@
+`"À... có. Xin hãy tha thứ cho tôi."@
+` Giọng nói của cô ấy yếu ớt đi và má cô ấy ửng đỏ rực.@
+` Run rẩy, cô ấy siết chặt tấm chăn như thể muốn chống lại nỗi sợ của mình.
+\
+`"Nhưng cậu Shiki, tôi... tôi nghĩ có lẽ không cần phải cởi áo choàng của mình..."@
+` Cô ấy dường như không muốn cởi quần áo và phơi bày bản thân.@
+` Cô ấy nhìn tôi với vẻ lo lắng, giống như một con thỏ sợ hãi.@
+` ... Nhưng điều đó chỉ khiến trái tim tôi cháy bỏng hơn.
+\
+`"Không, nếu cậu không cởi quần áo thì tôi không thể làm gì được... Ừm, mình nên cởi nó ra thế nào nhỉ?"@
+` Tôi ôm Hisui từ sau lưng và tìm kiếm thứ gì đó giống như một khóa kéo.@
+` Nhưng tôi dường như không thể tìm thấy nó.
+\
+`"Này, Hisui, cậu đã mặc nó như thế nào vậy? Nó... thực sự không trông có vẻ dễ cởi ra."@
+`"Ừm... Đây là kiểu một mảnh nên khó cởi bỏ ở tư thế này."@
+`"À ra thế. Tôi nghĩ mình không còn lựa chọn nào khác."@
+`"Vâng. Nên... như vậy, ừm... tôi muốn cậu..."@
+`"[line=6]"@
+` Không bao giờ. Nếu tôi đến đây và vẫn không được nhìn thấy cơ thể cô ấy, tôi sẽ tự sát.
+\
+`"Không. Hisui, đứng dậy và cởi nó ra. Nếu không, sẽ hơi khó khăn."@
+`"[line=3]Ờ... ừm, nhưng nếu tôi làm thế, tôi sẽ trần truồng."@
+`"Đúng vậy. Tôi muốn nhìn thấy cơ thể bạn. Tôi không thể yêu bạn khi còn mặc quần áo, tôi sẽ bỏ lỡ quá nhiều."@
+`"Bỏ lỡ quá nhiều...? cậu Shiki..."@
+` Cô ấy trông có vẻ lo lắng.@
+` Hisui bản thân cảm thấy ngượng ngùng, nhưng dường như cô ấy vẫn cố gắng tuân theo lệnh của tôi.
+\
+`"Ừm... Vâng."@
+` Sau khi cân nhắc, cô ấy lặng lẽ đứng dậy.@
+`"... cậu Shiki, chúng ta có thể tắt đèn không?"@
+`"[line=4]Ừm."@
+` Đó là một điểm trừ lớn.@
+` Tôi không nhận ra, nhưng bên ngoài khá tối. Nếu tôi tắt đèn, phòng chỉ còn ánh trăng để chiếu sáng.
+\
+`"... Tôi không muốn làm thế. Nhưng nếu bạn nhất quyết, tôi sẽ tuân theo lệnh của cậu. ... Nhưng tôi có thể ghét bạn vì điều đó."@
+`"[line=4]A..."@
+` ... Cô ấy ổn.@
+` Cô ấy thường không đòi hỏi điều gì cho bản thân, nhưng lời nói của cô lại chạm vào điểm yếu của tôi.
+\
+`"... Tôi hiểu rồi. Tôi sẽ tắt đèn, nên hãy cởi quần áo đi."@
+` Tôi chuyển công tắc sang vị trí tắt.@
+` Đồng thời, tôi nghe thấy tiếng quần áo được cởi ra.@
+` Có lẽ cô ấy đã quen với điều này, vì cô dễ dàng cởi bộ đồng phục nữ hầu.
+\
+[line=129]
+bg "bg/bg_40d",crossfade,400
+play "*5"
+bg "event/his_h12",crossfade,800
+` Ánh trăng là nguồn ánh sáng duy nhất.@
+` Tôi không thể nhìn rõ cơ thể trần của cô ấy, và chỉ thấy phác thảo của cô.@
+br
+` [line=3]Không.@
+` Cho dù vậy, nó vẫn là đủ.@
+` Những đường cong trên cơ thể cô ấy, luôn bị che giấu bởi bộ đồng phục nữ hầu, giờ đây trở nên rõ ràng.
+\
+` Dòng ngực của cô ấy không lớn lắm, nhưng cũng không nhỏ. Núi ngực hoàn hảo hình thành của cô ấy không quá mềm mại, nhưng nằm ở đâu đó giữa những ngọn núi của một cô gái và một người phụ nữ.@
+` Đôi ngực tuyệt mỹ của cô ấy vừa đẹp vừa gợi cảm.
+\
+` Thân thể cô ấy mảnh mai nhưng không gầy gò.@
+` Thân thể cô ấy mong manh, yếu ớt, trông mềm mại.@
+` Sự nữ tính của cô ấy, thường bị che giấu, giờ đây bao trùm lấy các giác quan của tôi.
+\
+`"…… cậu Shiki……?"@
+`"[line=2]Ồ, xin lỗi. Tôi chỉ bị mê hoặc bởi vẻ đẹp của cậu. Bây giờ, hãy đến gần đây, Hisui."@
+` Tôi vươn tay ra từ trên giường.@
+` Sau một khoảnh khắc do dự ngắn ngủi, cô ấy tiến về phía giường, nhìn xuống.
+\
+` Tôi ngồi chéo chân trên giường.@
+` Hisui không lên giường, nhưng đứng bên cạnh giường.@
+`"………"@
+` Hisui thì thầm rằng cô ấy không chắc phải làm gì.@
+`"[line=5][hàng 5]"@
+` Tim tôi đập thình thịch.@
+` Tôi có cảm giác khó chịu như sắp làm điều này với một cô gái vô tội.@
+` Tôi khiến tâm trí mình trở nên tê dại và từ từ để ngón tay chạm vào cánh tay cô ấy.
+\
+`"[line=2]![Hàng 2]!"@
+` Hisui phản ứng đột ngột.@
+` Nhưng cô ấy cố gắng không phản ứng quá nhiều và chịu đựng nó.
+\
+`"…… Hisui. Tôi sẽ làm điều này ngay bây giờ…… Cậu chắc chắn rằng cậu ổn với việc này chứ?"@
+`"…… Vâng.@ Xin hãy làm theo ý muốn của cậu.@ Xin yêu em."@
+`"[line=9]"@
+` Ngay khi nghe thấy điều đó, một thứ gì đó bay đi.@
+` Lo lắng về Hisui tan biến hoàn toàn.
+\
+bg #000000,lshutter,400
+`"………!"@
+` Tôi nắm lấy tay cô ấy.@
+`"Aah……!"@
+` Cơ thể cô ấy run rẩy lo lắng.@
+` Tôi bỏ qua mọi thứ và vuốt ve cổ cô ấy bằng lưỡi mình.
+\
+bg "event/his_h13",crossfade,800
+`"[line=2][line=2]Ha! Không!"@
+` Hisui quay đầu lại.@
+` Cơ thể cô ấy căng cứng.@
+`"... Chỉ thư giãn thôi. Tôi không đi nhanh đâu, nên đừng lo."@
+` Tôi di chuyển mặt xuống từ cổ cô ấy đến xương sườn.@
+` Lưỡi tôi tạo nên một con đường dính khi nó di chuyển.
+\
+`"Ah... Dễ chịu... Vâng, thư giãn..."@
+` Hisui đứng im lìm, như thể cô ấy là một con búp bê vậy.@
+` Tôi chắc rằng cô ấy sẽ không di chuyển khỏi tư thế này trừ khi tôi buộc cô ấy lên giường.@
+` Nhưng lúc này, điều này tốt hơn.
+\
+`"…… Mm…… Hisui, da của em thật ngon."@
+`"Ah………!"@
+` Cơ thể cô ấy run rẩy.@
+` Lời tôi nói dường như ảnh hưởng đến cô ấy nhiều hơn cả khi lưỡi tôi chạm vào ngực cô ấy.@
+` Nhưng điều đó đã kết thúc.@
+` Giữ cô ấy nhẹ nhàng bằng hai cánh tay, tôi đưa lưỡi ra liếm lấy ngực cô.
+\
+`"... Aah... nn... ah."@
+` Tôi di chuyển lưỡi ẩm ướt của mình.@
+` Tôi liếm nhai bầu vú hoàn hảo của cô từ nách ra ngoài.
+\
+`"Mmm... Hisui, có vẻ như em không thoải mái lắm ở đây."@
+` Nói rồi, tôi liếm lấy đầu núm vú của cô.@
+`"...!"@
+` Cơ thể cô giật mình.@
+` Tôi đã nắm lấy cô ấy bằng hai cánh tay. Nếu cô ấy có thể làm gì đó, thì...
+`"Ưm... ừm, không...?"@
+` Tôi dập tắt giọng nói của cô ấy và quay mặt đi.
+\
+` Tôi lăn đầu lưỡi trên núm vú của cô ấy.@
+`"[line=2]Nah, naah..."!@
+` Tôi liếm quanh đó.@
+` Núm vú hồng của cô ấy bắt đầu cứng lại.@
+`"Đã thế này chưa? Bạn trông rất bình tĩnh, nhưng bạn thực sự rất gợi cảm, Hisui."@
+`"…… À…… không, tôi không……!"@
+` [line=3]Trước khi cô ấy kịp nói hết, tôi hút lấy hai bầu sữa của cô cùng với những nhũ hoa nhạy cảm.
+\
+`"[line=4][line=4]Haah…… ah, mm……"@
+` Có lẽ cô ấy thực sự xấu hổ vì bị gọi là gợi cảm, cô cố gắng kìm giọng nói.@
+br
+` Nhưng, điều đó không có nghĩa cô ấy quá nhạy cảm.@
+br
+` Những nhũ hoa cứng lại chỉ sau một chút kích thích nhẹ nhàng. Phần nhạy cảm cứng lại khi được ai đó chạm vào, dù người phụ nữ không muốn như vậy. Đó là bản chất của nhũ hoa, nên Hisui chính mình chẳng liên quan gì đến chuyện này cả.
+\
+`"Mmm…… Đã cứng rồi. Vậy thì…… có lẽ tôi sẽ dùng răng."@
+` Tôi cắn xuống.@
+`"[line=6]Aah!"@
+` Mắt cô ấy nhíu lại.@
+`"[line=4][line=2]cậu Shiki, thật là..."@
+` Tôi nhẹ nhàng liếm lên vết cắn của mình.
+\
+`"[line=2]Haa... mm... ừm..."@
+` Cô ấy cảm thấy đau rồi lại thấy khoái cảm, cơ thể cô ấy trở nên yếu ớt.@
+`"Thật dễ thương. Cơ thể bạn phản ứng rất chân thành, Hisui."@
+`"Ừm..."@
+` Cô ấy dường như nóng lên.@
+` Có thể không phải là tưởng tượng của tôi, nhưng cô ấy thực sự nóng lên.@
+` Da trắng của cô ấy đã chuyển thành một sắc hồng nhạt.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+`"... Tốt rồi, giờ thì..."@
+` Buông tay cô ấy ra, tôi ôm cô ấy gần hơn.@
+`"Ah..."@
+` Hisui ngã xuống giường.@
+` Tôi cũng nằm xuống, ở trên người cô ấy.
+\
+`"Thưa ngài Shiki..." @
+`"Chờ đã. Tôi chưa có cơ hội quan sát kỹ phần quan trọng nhất của ngài." @
+`"[line=2]Ồ! Thưa ngài Shiki, điều đó không cần thiết, vậy mà..." @
+` Hisui lùi lại từng chút một. @
+` Nhưng càng làm thế, cô ấy lại đặt mình vào vị trí cho tôi có thể quan sát kỹ hơn.
+\
+`"... Ừm..." @
+` Tôi áp mặt vào bụng mềm mại của cô ấy. @
+` Vì Hisui bỏ chạy, tôi không thể liếm lấy chỗ dưới rốn của cô ấy, nhưng tôi chẳng hề bận tâm.@
+`"Ôi chà..."@
+` Cơ thể cô ấy uốn cong lên.@
+` Tôi dùng hai bàn tay nắm lấy ngực cô ấy từ dưới.
+\
+`"[line=2]Ồ, ừm...!"@
+` Giọng nói của cô ấy nhảy theo nhịp điệu của tôi.@
+`"Nh-nh-n..."@
+` Tiếng rên rỉ ngọt ngào của cô ấy.@
+` Ngực mà tôi nắm lấy từ dưới cảm thấy nhỏ bé thật.@
+` Tôi có thể che chúng bằng bàn tay nếu tôi mở ra.@
+` Chúng thậm chí còn không nhô ra ngoài ngón tay của tôi.
+\
+`"Ồ…… ừm…… n… ah, n…… n."@
+` Nhấn nhá núm vú cô ấy bằng ngón tay, tôi tiếp tục xoa bóp ngực cô ấy nhẹ nhàng.@
+` Trong khi Hisui đắm mình trong khoái cảm ánh sáng đó, tôi đến giữa chân cô ấy.
+\
+` …… Lông mu mỏng manh của cô ấy.@
+` Hoa nhài đỏ của cô ấy.@
+` Dưới đôi môi đang sưng phồng, cửa vào hồng hào, đập thình thịch của cô ấy.@
+br
+` …… Và hương mật trong veo của cô ấy.@
+` Tôi không nghĩ cô ấy đang kích thích, vì giọng nói của cô ấy bị nghẹn lại đến vậy, nhưng có vẻ như cô ấy đã rất kích thích từ lâu rồi.
+\
+`"“…… Mmm.”@
+` Khi tôi cảm nhận được cô ấy,
+` Tôi nhẹ nhàng đưa lưỡi lướt qua cửa miệng của cô ấy.@
+`"“Nnh, ừm………!”@
+` Hisui uốn người lên vì khoái cảm.@
+`"“Ah…… cậu Shiki…… xin đừng nhìn…… ở đó.”@
+` Hisui đỏ mặt dữ dội.@
+`"Nhưng nếu tôi không thể nhìn thấy, tôi sẽ không biết. Ở đây, tôi không thể làm như vậy nên bạn phải di chuyển."@
+`"Ồ... di chuyển? Tôi nên di chuyển cái gì...?"@
+` Cô ấy có một biểu cảm nghiêm túc trên mặt, khiến tôi cảm thấy ngượng ngùng.
+\
+`"Đôi chân của cô. Nếu cô không mở chúng ra, tôi không thể tiến vào giữa chúng. Đây, mở chúng ra như thế này."@
+` Tôi nắm lấy hai đùi cô và kéo chúng ra rộng.@
+`"[line=4]Không...! Đừng, cậu Shiki..."@
+` Hisui cố gắng rút lui một lần nữa.@
+` Nhưng tôi không định dừng lại ở đây.@
+br
+` Với đôi chân cô mở rộng, tôi có thể nhìn rõ mọi thứ. Thật sự nó có vẻ hơi quái dị, nhưng đồng thời cũng vô cùng dễ thương.
+\
+`"Mmm..."@
+` Tôi dùng đầu lưỡi để tách những nếp gấp của cô ấy.@
+`"[line=2]N, ah!"@
+` Hisui phản ứng mạnh mẽ trước sự chạm nhẹ của tôi.@
+` Nó ướt với chất lỏng tình yêu của cô ấy.@
+` ... Tôi lo lắng về thời gian còn lại của cơ thể mình, vì vậy ngay cả khi phản ứng của cô ấy rất dễ thương, tôi không thể dành quá nhiều thời gian.
+\
+`"[line=3]Hisui, tôi sẽ rời đi, nên thư giãn. Nếu đau, chỉ cần nói với tôi và tôi sẽ dừng lại."@
+`"Y... vâng... xin cậu Shiki..."@
+` Gật đầu trước giọng nói do dự của Hisui, tôi tháo quần.@
+` Dạng dương của tôi khẩn cấp nhô ra khỏi quần.
+\
+`"Ah......"@
+` Hisui dường như đang nhìn thấy một loại ma nào đó.@
+` [line=3]Như vậy thôi.@
+` Tôi giữ lấy bản thân cứng nhắc và đặt đầu của mình bên miệng cô ấy.
+\
+bg "event/his_h05",lshutter,800
+`"[line=4]N"@
+` Cô ấy thậm chí còn không kháng cự.@
+` Hisui rất ướt, không có vấn đề gì khi đưa nó vào cô ấy.@
+` Nhưng đó chỉ là phần đầu thôi.
+\
+`"Ôi……, n[line=6]"@
+` Đôi mắt Hisui mở toáng ngạc nhiên, cô nhìn chằm chằm vào nơi hai chúng tôi kết nối.@
+` Cảm giác xé thịt.@
+` Ngay khi đầu tôi xâm nhập, cơ thể cô giật ngược lại.
+\
+`"Haa…… ah…… aa……"@
+` Cô khóc kìm nén, chỉ nhìn tôi.@
+` [line=2]Cô không thể cảm thấy bất kỳ khoái cảm nào lúc này.@
+` Hisui chỉ ngước nhìn nơi thịt của chúng tôi chạm vào nhau, cố chịu đựng nỗi đau.
+\
+`"…… À…… ừ……", cô ấy thở dốc.@
+` Hơi thở của cô ấy trở nên hỗn loạn.@
+` Hisui cố kìm nén nỗi đau của cô ấy.@
+` Nhưng cô ấy không chịu thừa nhận nó.
+\
+`"[line=4]Nn…… n, nnN, à!"@
+` Hisui quan sát mọi hành động của tôi.@
+` [line=3]Và tôi, bị mê hoặc bởi sự ấm áp của cô ấy, sắp tan chảy.
+\
+` [line=2][line=4][line=4]*thở gấp* *thở gấp* *thở gấp*
+` Hisui không phải là người duy nhất thở gấp gáp.@
+` Cô ấy quá căng thẳng.@
+` Bên trong cô ấy như một bức tường thịt.@
+` Có lẽ vì cô ấy chưa từng trải nghiệm điều này, nhưng nó rất khó để đẩy vào, và những bức tường của cô ấy chỉ bao trùm lấy tôi.
+\
+`"[line=2][line=4]Nn... ha... ha..."@
+` Nhưng cảm giác này là gì?@
+` Khi tôi xâm nhập vào cô ấy, toàn bộ cơ thể tôi bừng tỉnh.@
+` Hơi thở tôi trở nên hoang dã. Tim tôi bắt đầu đập nhanh hơn. Tôi cháy bỏng với đam mê.@
+`"[line=2]Hơi thở của tôi nóng bỏng."@
+` Tôi cảm thấy như thể mình đang hít thở lửa.
+\
+`"[line=2][line=2][line=2]Hisui..."@
+` [line=2]Bây giờ tôi không thể thở được.@
+`"Ah... Cô, cậu Shiki, có sao không?"@
+` Đau đớn quấn lấy giọng nói của cô ấy.@
+` Nhưng dù vậy, cô ấy vẫn lo lắng cho tôi.@
+br
+` [line=5]*Đánh nhịp.*@
+br
+` Thật đáng yêu.@
+` Tôi đẩy mạnh hơn, không quan tâm nếu chúng ta có vỡ hay không.
+\
+`"[line=2][line=4]Aha!"@
+` Cô ấy siết chặt lấy tôi từ mọi phía.@
+` Đầu của tôi hoàn toàn được chèn vào. Dụng cụ sinh dục của tôi xé toạc bên trong cô ấy mà không hề quan tâm.@
+` Chúng nắm chặt lấy tôi.@
+` Hông của cô ấy cố gắng chạy trốn khỏi cơn đau nhưng vẫn bám chặt vào tôi.@
+`"Hisui... có đau không..."@
+`"Hả... ừm... Không, không được"[line=4]@
+` Hisui lắc đầu yếu ớt.@
+` Cô ấy chỉ cố gắng hít thở một cách chân thành.@
+` Nhìn xuống,
+` Tôi đã thấy máu tuôn ra từ người cô ấy.
+\
+` Sự trong trắng của cô ấy đã bị chiếm lấy.@
+` Ngay cả vậy, cô ấy không nói một lời[line=3]cô ấy chưa bao giờ nói rằng nó đau.@
+`"... Tôi xin lỗi, tôi nên... dịu dàng hơn."@
+` Tôi đẩy hông về trước.@
+` Như thể phản bội những lời nói của mình, tôi đẩy mạnh hơn nữa.
+\
+` Tiếng thở của chúng ta lấp đầy căn phòng.@
+` Hông tôi đập đi đập lại.@
+` Tôi nắm lấy thanh gậy đã chèn vào, kéo ra một chút và chèn nó vào lần nữa.@
+`"Mmm......!"@
+` Không thể chống lại sức mạnh đó, Hisui siết chặt hơn.
+\
+` ...... Đẩy.@
+br
+`"Ồ... ừm, ừ."@
+br
+` ... Một cú đẩy mạnh.@
+br
+`"[line=2][line=2]Hwaa! Ừm... ồ, ơi, ư."@
+br
+` Kéo lại.
+br
+`"[line=2]Ừm... ừ, ừ..."@
+br
+` Cú đẩy khác.
+\
+`"N, ừ... ơ, ừ, ừ!"@
+br
+` Kéo và đẩy lặp lại.
+br
+`"[line=2][line=2]Ồ, Shiki, em à."@
+br
+` Một tiếng hét mạnh mẽ vang lên.@
+br
+`"[line=4][line=2]Ha, Shiki... sama!"
+\
+bg "bg/bg_40d",lshutter,400
+` Tiếng nói của cô ấy còn vang vọng trong không khí.@
+` Nhưng tôi sẽ không dừng lại.@
+br
+` Tôi lướt đi, lướt đi, lướt đi.@
+br
+` Khi tôi tiếp tục vòng lặp này, cảm giác bên trong Hisui trở nên dễ chịu hơn.@
+` Căng thẳng của cô ấy giảm dần, và cô ấy bắt đầu chấp nhận tôi như một phần của mình, khi những bức tường tâm lý siết chặt và co lại xung quanh tôi.
+\
+`"[line=4]Ha... ah, aha... nn"@
+` Nhưng cô ấy vẫn nghe như đang chịu đau đớn.@
+` Hơi thở của cô ấy dữ dội hơn tôi và cơ thể cô ấy run rẩy.
+\
+`"[line=2]Hisui, điều này..."@
+` Nếu nó gây đau đớn, tôi nên giúp cô ấy cảm thấy tốt hơn nhanh chóng.@
+`"[line=4]Ah... aah, aah, aah, aah..."@
+` Nhưng tôi không thể dừng lại.@
+` Trao đổi chất lỏng cơ thể đã được thực hiện một lần khi tôi ở bên trong cô ấy.@
+` Tôi muốn tiếp tục.
+\
+`"N[line=2]ah, ha, ha, n[line=4]!"@
+` Giọng cô ấy tăng và giảm theo nhịp những cú đâm của tôi.@
+`"Ha, ah, ah, Shiki, sama[line=4]"@
+` Nó phải đau, nhưng cô ấy chịu đựng im lặng.@
+` [line=3]Hình dáng của cô ấy.@
+` Cô ấy trông thật xinh đẹp, cơ thể tôi không ngừng di chuyển.@
+` Lên xuống.@
+` Với những âm thanh cuồng nhiệt, tôi chìm mình vào một cơ thể không biết đến sự thỏa mãn.@
+` [line=3]Nhưng nó sẽ kết thúc sớm thôi.
+\
+`"[line=2]Hisui, đây tôi đến."@
+` Tôi hít một hơi thật sâu.@
+` Ngay cả bây giờ, tôi vẫn chưa hoàn toàn hòa mình vào cô ấy.
+\
+` Chỉ với việc đưa nửa cơ thể vào trong cô ấy đã khiến đôi mắt cô ấy lấp lánh nước. Nếu tôi đưa hết vào, có lẽ cô ấy sẽ ngất đi.@
+` Cho đến nay, tôi chưa từng làm điều đó.
+\
+`"[line=4]Hisui, bằng điều này..."@
+`"[line=2][line=2]Ah, giờ thì..."@
+` Nhưng điều đó chưa từng xảy ra cho đến lúc này.@
+` Trái tim tôi như muốn nổ tung.@
+` Vì vậy, trước khi điều đó xảy ra,
+` Tôi muốn đắm chìm hoàn toàn trong cô ấy.
+\
+`"[line=2]Hisui!"@
+` Tôi đẩy mạnh hơn nữa.@
+` Hisui không hề hay biết về hành động sắp tới của tôi.@
+` Không một lời cảnh báo nào, tôi lao mình vào cô ấy trọn vẹn.
+\
+bg "event/his_h06",lshutter,400
+`"[line=6]NN!"@
+` Cô ấy cong lưng.@
+` Đuôi ngực hoàn hảo của cô ấy run rẩy và mồ hôi lăn dài trên cơ thể.@
+`"[line=2]Aah... nó đau, cậu Shiki..."@
+` Lần đầu tiên, những lời đó thoát khỏi miệng cô ấy.@
+`"[line=2][line=4]NNha, ah..."@
+` Nhưng tôi không thể dừng lại.@
+` Khi rút ra, tôi đẩy một lần nữa.
+\
+`"[line=4]!@ Ôi, ôi, aah, oh………!"@
+` Cơ thể cô ấy run rẩy.@
+` Cô ấy cất lực cố gắng kìm nén nỗi đau.@
+` Nhưng lần này, cô ấy cảm thấy khoái cảm.@
+` Vì vậy [line=3]tôi tiếp tục.@
+`"[line=2][line=4]Ôi, cậu Shiki !@ Làm ơn, dừng lại, nó……!"@
+` Nâng hông khỏi giường, cô ấy cố gắng thoát khỏi càng nhiều nỗi đau càng tốt.@
+br
+` [line=3]Shiki siết chặt hơn nữa.
+\
+`"[line=2][line=2]Hisui, hãy dừng lại!"@
+` Mọi thứ tràn ngập.@
+` Cảm giác bắt đầu lan tỏa trong tôi.@
+`"[line=2]Ha... ha... ha...!"@
+` Hông Hisui lắc lư.@
+` Động tác đó khiến tôi không thể chịu nổi nữa.@
+`"[line=2]Ôi trời ơi!"@
+` Tôi đẩy mạnh.
+\
+`"[line=2][line=4]Ahuah-a-AaAaa!"@
+`"[line=4]Tss!"@
+` Cảm giác giải phóng bùng nổ.@
+`"[line=4]Hisu... i!"@
+` Trong khoảnh khắc, tôi kìm nén và rút ra được.
+\
+bg #ffffff,crossfade,400
+bg "event/his_h06b",crossfade,400
+` Tôi giải phóng.@
+` Chất lỏng nóng, trắng của tôi phun lên bụng cô ấy.@
+`"Ôi... Shiki, ngài..."@
+` Hisui chỉ nhìn nó chằm chằm.
+\
+` Tiếng giọt nước nhỏ dần.@
+` Nó trông giống như sẹo trên làn da hoàn hảo của cô ấy.@
+` Nhưng trái ngược lại, cô ấy trở nên hấp dẫn hơn và vào khoảnh khắc đó,
+br
+` Tôi cảm thấy choáng váng.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40d",crossfade,800
+`"[line=4]Ha."@
+` Hít một hơi sâu, tôi ngã xuống giường.@
+` Hisui nằm đó, trong cùng trạng thái.@
+br
+` Cô ấy thở gấp, thở khò khè.
+br
+` Tiếng thở đau đớn của Hisui vang vọng khắp phòng.@
+` Có vẻ như Hisui đã đến giới hạn của mình sau một lần cố gắng.
+\
+`"... Điều này không thể tiếp tục được, cậu Shiki..."@
+` Nhưng Hisui cố gắng nâng cơ thể mình lên.@
+` Vai cô ấy run rẩy khi hít thở khó khăn, nhìn tôi với ánh mắt trống rỗng.@
+`"[line=2]Ồ, có chuyện gì vậy?"@
+`"…… Cậu đã làm điều đó bên ngoài tôi. Cậu phải, ừm…… làm nó bên trong, hoặc tôi… không thể chấp nhận cậu."@
+`"[line=4]Bên trong? …… Điều đó có nghĩa là..."@
+` Tôi nghĩ sẽ có rất nhiều vấn đề nếu tôi giải phóng bên trong cô ấy, nên tôi chỉ[line=3]
+\
+`"…………"@
+` Hisui nhìn tôi với vẻ ăn năn.@
+` ... Nhìn thấy biểu cảm như vậy khiến tôi cảm thấy tiếc cho cô ấy.@
+` Sau khi để cô ấy trải qua tất cả nỗi đau đó chỉ để nó trở nên vô ích, hoàn toàn là lỗi của tôi.
+\
+`"... Nhưng, Chúng ta nên làm gì? Ừm... có phải chúng ta phải thử một lần nữa không?"@
+`"... ... Vâng. Nếu đó là điều bạn mong muốn."@
+` Tiếng nói của Hisui gần như biến mất.@
+br
+` [line=3]Nếu tôi muốn thế? Tất nhiên tôi muốn thế.@
+br
+` Ngay cả khi tôi vừa đến, dương vật của tôi vẫn cương cứng hoàn toàn.@
+` Thật lòng nói, điều đó không đủ.
+\
+`"[line=3]Tôi ổn với điều này. Nhưng cậu có ổn không? Nếu vẫn còn đau, chúng ta có thể chờ một chút nhé?"@
+`"... Không, tôi ổn. Nhưng xin cậu, trước khi cơ thể cậu đến giới hạn, hãy đổ hết vào tôi."@
+` ... Hisui... Dường như cô ấy quá mệt mỏi đến mức không thể nói liên tục, nhưng cô ấy vẫn quyết tâm làm điều này.@
+` Hisui thực sự đang cố gắng rất nhiều.@
+` Có lẽ cô ấy vẫn còn đau đớn và chắc chắn cô ấy đã kiệt sức rồi.@
+` ... Tôi không thể ép cậu ấy yêu như vậy.
+\
+`"... Tôi hiểu. Vậy thì, hãy đến gần tôi một chút nữa."@
+`"[line=3]Ồ..." @
+` Tôi ôm lấy cô ấy và nâng cô lên trên người mình. @
+`"Ah... Shiki... ngài ạ." @
+` Cô ấy chắc chắn rất mệt mỏi, vì cô ấy chỉ nằm yên hoàn toàn trên người tôi. @
+`"Vâng... xin hãy làm theo ý ngài, Shiki-ngài." @
+` Tôi hít một hơi sâu và để cơ thể cô ấy áp vào mình.
+\
+`"... Hisui. Đây ổn rồi, xin hãy nâng hông một chút. Không cần phải di chuyển nhiều đâu. Tôi sẽ chậm rãi." @
+` Hisui gật đầu im lặng. @
+` Hông cô ấy nhích lên.@
+` Vẫn còn ẩm từ lần trước, tôi đặt dương vật đang dựng lên của mình lên người cô ấy.
+\
+bg "event/his_h07",lshutter,800
+` ... Một cái chạm trượt.@
+` Tôi không xâm nhập, nhưng chỉ vuốt ve cô ấy nhẹ nhàng.@
+`"Nnn..."@
+` Hisui thở khẽ.@
+` Cơ thể cô ấy căng cứng.@
+` Cô ấy chuẩn bị để nó xâm nhập vào mình một lần nữa.
+\
+` Lướt đi, lướt đi.@
+` Từ từ, tôi trườn lên người cô ấy một cách khiêu khích.@
+`"A... n... N... Ah."@
+` Cô ấy rên rỉ.@
+` Hơi thở của cô ấy cuộn xuống ngực tôi.
+\
+` ... Lướt, lướt, lướt.@
+`"[line=4]Ha... Ng... n... Ha."@
+` Khi tôi xoa bóp cô ấy bằng bộ phận quan trọng của mình, hơi thở của cô ấy tăng nhanh hơn.@
+` Bình tĩnh, cơ thể chúng ta gặp nhau như những chú chó con liếm và chào hỏi nhau.@
+` Tiếng da ướt của chúng ta chạm vào nhau trở nên to hơn và xuất hiện thường xuyên hơn.
+\
+`"A... Ha... Ahh, a..."@
+` Tôi cảm thấy như tôi đang chà xát vào mứt ngọt nhất trên thế giới.@
+`"N... Shiki... sama, tôi... tôi..."@
+` Giọng cô ấy nghe còn đam mê hơn trước.@
+` Lên xuống, trái phải.@
+` Nước yêu của cô ấy chảy giữa chúng ta, phủ chúng ta bằng sự đam mê dính dính.
+\
+`"[line=2]... Rồi... ha... ah..."@
+` Khi tôi nhận ra, tôi hiểu rằng không chỉ hông tôi đang di chuyển.@
+` Thật là một cử động nhỏ.@
+` Giống như cố gãi một chỗ ngứa, Hisui chà mình vào tôi.@
+`"[line=4][line=2]Nn... Hisu, Hisui"@
+` Việc chà xát khiến một làn sóng khoái cảm chạy qua người tôi.
+\
+`"Hisui, nhiều hơn..."@
+` Tôi không thể chống lại và nắm lấy hông cô ấy.@
+`"[line=2]` "Tôi sẽ không để cho anh đau nữa."@
+` Hisui đột ngột dừng lại.@
+` Tôi tận hưởng cảm giác này.@
+` Tôi nắm chặt một chút nữa và cảm nhận được sự chắc chắn của cô ấy.@
+`"[line=2][line=3][line=3]À, cậu Shiki, đúng là ở đó."@
+`"…… Tôi hiểu rồi. Đó chỉ là một chút nghỉ ngơi thôi."@
+` Tôi phóng tỏa sức mạnh của mình.@
+` Cô ấy bắt đầu di chuyển hông một lần nữa và thở ra những tiếng rên ngắn, ngọt ngào.
+\
+` Sự ma sát trơn tru ngọt ngào.@
+` Tôi tiếp tục trượt giữa hai má cô ấy.@
+`"…… Hisui. Có thể cậu nên sử dụng nhiều hơn cơ thể của mình..."@
+`"Ờ... có. Như thế này à?"@
+` Chuyển động liên tục, trượt đi trượt lại.@
+` Cô ấy trượt xuống hoàn toàn, chạm vào hông tôi.@
+`"[line=2][line=2]Hừm... Cảm giác tuyệt vời đấy."@
+` Hisui chậm rãi và đầy cảm giác nâng hông lên.@
+`"Ồ... bị kẹt rồi... cảm giác này..."@
+` Tôi có bắt được điều gì đó không?@ Động tác dừng lại một khoảnh khắc.@
+` Nhưng, không sao cả.@ Hisui nhẹ nhàng di chuyển lại.
+\
+`"Haa... Điều này thật tuyệt."@
+` Nó khiến tôi vô cùng phấn khích.@
+` Thật kỳ lạ, nó chẳng làm gì nhiều, vậy mà tại sao[line=3]tại sao nó lại dễ chịu đến thế, và làm cho Hisui trông đáng yêu đến vậy?@
+`"[line=4]N... ha, Ồ..."@
+` Hisui không kìm được sự nhiệt tình của mình.@
+` Cô ấy di chuyển hông lên xuống, nghiêng phần còn lại của cơ thể vào tôi.
+\
+`"... Hisui... Cảm thấy dễ chịu à..."@
+`"... Đúng vậy... cậu Shiki, ngực bạn rộng lắm, tôi cảm thấy... rất thư giãn." [line=3]@
+` Khi thở ra, cô ấy ép mình chặt hơn vào tôi.@
+` Tôi tiếp tục tận hưởng sự ma sát từ má cô ấy trượt trên người tôi.
+\
+`"[line=4]... Tss."@
+` Nhịp tim tôi tăng lên nữa.@
+` ... Trò chơi tiền dâm dịu dàng này bắt đầu khiến tôi quá kích động.@
+` Hisui không phải là người duy nhất cảm nhận được khoái cảm này.@
+`"[line=4]Ha" [lẻ 4]@
+` Tôi căng cơ ở vùng thắt lưng dưới.@
+` Đó là cách để kiềm chế sự thôi thúc từ sâu thẳm bên trong.
+\
+` Ngay cả khi tôi chỉ đang chà xát vào cô ấy, nó gần như là điều thực sự nhất mà tôi có thể làm.@
+` Không, việc biết rằng tôi đang chà xát vào cô ấy bên ngoài khiến tâm trí tôi tê liệt và mang lại cho tôi khoái cảm nhiều hơn so với điều thực sự.@
+br
+` Cơ thể chúng ta siết chặt lại gần nhau.@
+` Cảm giác ngực cô ấy ép vào ngực tôi vô cùng mềm mại và dễ chịu.
+\
+` Không, cảm giác cơ thể nhỏ nhắn, mềm mại của cô ấy chỉ nằm yên trên tôi còn tốt hơn.@
+` Giọng nói của chúng ta hòa cùng với sự duỗi giãn của cơ thể.@
+` Hisui thư giãn hoàn toàn, chỉ di chuyển hông.@
+` Đẹp quá, lưng cô ấy, những đường cong quyến rũ của mông, tất cả [line=3]tôi yêu tất cả.
+\
+`"Hisui [line=3]có được không?"@
+`"Ồ…… cậu đã dừng rồi sao?"@
+` Có lẽ Hisui rất thích vì cô ấy vuốt ve ngón tay lên ngực tôi với vẻ tiếc nuối.@
+`"Chúng ta không có lựa chọn. Tôi phải làm điều này bên trong em, nên chúng ta phải làm đúng."@
+`"Ừ... đúng vậy..." @
+` Hisui từ từ di chuyển cơ thể. @
+` Khi cô ấy lùi lại, cô ấy quỳ xuống bằng bốn chân, giống như một con mèo.
+\
+`"[line=4]" @
+` Thái độ của cô ấy khiến tôi chú ý. @
+`"Hisui, đừng di chuyển." @
+`"Ồ...? @ Nhưng cậu Shiki, chúng ta không thể... làm thế này, phải không?" @
+`"Đừng lo lắng, chỉ cần nâng hông một chút thôi. Không, không dùng tay [line=3]đặt đầu gối và khuỷu tay xuống." @
+`"……?"@
+` Hisui ngước nhìn, bối rối, nhưng vẫn tuân theo yêu cầu.
+\
+` [line=4]Tất cả đã sẵn sàng.@
+` Vì Hisui nghỉ ngơi đầy đủ, tôi sẽ không giữ lại gì.@
+` [line=3]Để giải tỏa những cảm xúc dồn nén bên trong, tôi đứng sau cô ấy và...
+\
+bg "event/his_h08",lshutter,800
+` [line=3]...tôi xâm nhập từ phía sau.@
+br
+`"[line=4]Nku!!!!?"@
+` Giường khẽ lắc lư.@
+`"[line=3][line=4]Àn, nku"@
+` Hisui buông cô ấy xuống.@
+` Các ngón chân của cô ấy uốn cong như đang chống lại một cú sốc.
+\
+` Khi nhìn cô ấy hoàn toàn từ góc này, cơ thể cô ấy dường như hoàn toàn khác biệt.@
+` Đôi chân dài, trắng, thanh lịch của cô ấy.@
+` Đường cong duy nhất trên lưng không tì vết của cô ấy giống như một cánh đồng tuyết trinh khiết.@
+` Nó quá trắng và thuần khiết, tôi có cảm giác muốn chôn mặt vào đó.
+\
+`"…… Wow.@ Tôi thậm chí còn nhìn thấy lỗ đít của cậu và... ở đây... hoàn toàn."@
+`"[line=2]Ồ, cậu Shiki, xin đừng nói như vậy..."!@
+` Hisui đỏ mặt và lắc đầu.@
+` Nhưng Hisui không thể quay người lại vì tôi đã ở đây rồi.
+\
+`"Nếu tôi lặp lại những điều cũ kỹ như thế, sẽ rất nhàm chán. Tôi nghĩ bạn cũng đã quen với nó rồi, nên lần này chúng ta sẽ làm khác một chút."@
+`"Ha... cậu Shiki, sao bạn chỉ độc ác như vậy bây giờ...!"?@
+`"...Tch."@
+` Tôi trừng phạt cô ấy bằng cách xâm nhập sâu hơn.
+\
+`"[line=2]Anh... ku..."!@
+` Tôi trượt vào cô ấy, tạo ra những âm thanh quấy rối.@
+` Có vẻ như thời gian ôm ấp trước đó của tôi thực sự có ích.@
+` Sự mịn màng của cô ấy giờ đây cảm thấy hoàn toàn khác so với trước.
+\
+`"[line=2][line=2]Đây..."@
+` "[line=2]N, Ah…!"@
+`"[line=2]Nó không đau bằng, phải không, Hisui?"@
+`"[line=4]Nn!"@
+` Tôi đẩy hông vào cô ấy.@
+` Cô ấy run rẩy hông trắng khi tôi xâm nhập.@
+` Với mỗi lần xâm nhập, chất lỏng tình yêu của cô ấy chảy ra và rò rỉ xuống chân.
+\
+`"[line=2]Ưm... ưm, cậu Shiki...!"@
+` Tay cô ấy nắm chặt vào gối một cách tuyệt vọng.@
+`"[line=3]Ưm... ôi... ôi... n... ưm!"@
+` Cơ thể cô ấy run rẩy mỗi khi tôi xâm nhập.@
+`"[line=2]... Ờm... ừm... Ah!"@
+` Cô ấy siết chặt lấy tôi từ mọi phía.@
+` Bên trong cô ấy mạnh mẽ và kích thích hơn bao giờ hết.@
+` Những co thắt của cô ấy kéo tôi sâu hơn về phía trung tâm của cô ấy.
+\
+`"Ôi trời ơi [line=2], n [line=2]!"@
+br
+` Di chuyển.@
+br
+`"[line=2][line=2][line=2]Haha... cậu Shiki, n, ôi !"@
+br
+` Di chuyển liên tục.@
+br
+`"... Ôi, haha, haha, hân [line=4]n..."@
+br
+` Di chuyển, di chuyển liên tục, di chuyển, di chuyển.@
+br
+`"[line=3][line=2]Ôi trời ơi, ôi trời ơi, ôi trời ơi!"@
+br
+` Lướt đi, lướt đi, lướt đi, lướt đi...!
+\
+`"[line=2][line=2][line=2]Này, cậu Shiki, xin đừng quá cuồng nhiệt như vậy..."@
+`"[line=2]Haa... ah, haa, aah... ahh..."@
+` Tôi không thể nghe thấy cô ấy rõ ràng.@
+` Tôi chỉ có thể nghe thấy nhịp tim của chính mình.@
+br
+` [line=3]Ngay cả điều đó cũng bắt đầu tan biến.
+\
+`"[line=2][line=2]Ôi trời ơi, xin dừng lại, tôi, tôi đang mất kiểm soát!"
+\
+` Giọng cô ấy vang lên như một tiếng thét.@
+` Squeezed.@
+` Cô ấy siết chặt tay tôi mạnh hơn bao giờ hết.@
+`"[line=2]Ôi... Hisui..."@
+`"[line=6]Shiki, sao lại thế này?"
+\
+bg #ffffff,crossfade,1500
+!w2000
+bg "bg/bg_40d",crossfade,800
+` Tôi đến.@
+` Cảm giác của chúng ta đạt đến đỉnh điểm cùng nhau vào một thời điểm, tăng dần theo nhịp điệu ngày càng cao, và sau đó dừng lại.@
+`"Ha. [line=2]"@
+` Tôi tan vỡ bên trong cô ấy.@
+` Tôi tiếp tục giải phóng trong cô ấy với những cơn co giật tuyệt vọng.@
+` Cảm giác còn lại.@
+` Tôi run rẩy bên trong cô ấy khi hông Hisui giật mạnh.
+\
+`"[line=2]Nn... Nó đã kết thúc."@
+` Tôi rút khỏi cô ấy.@
+`"Ha... ah."@
+` ... Tôi kiệt sức rồi.@
+` Tôi mệt quá, cảm thấy như muốn ngủ ngay bây giờ.
+\
+`"Hisui... Có đau không..."@
+`"... Ah... Không, nó ít đau hơn lần đầu."@
+` Nghĩa là nó vẫn còn đau.@
+` Tôi hối hận điều đó một lần nữa.@
+` Tại sao trong tất cả những điều này, tôi chỉ kết thúc bằng cách đối xử tệ với cô ấy như vậy...?
+\
+`"Vậy thì, nó đã kết thúc rồi phải không...? Xin lỗi, làm tổn thương em hai lần như thế này."@
+`"... Không hề. Nếu tôi có thể giúp em, tôi sẽ hài lòng."@
+` Hisui nói điều đó khi cô ấy nằm đó, nhìn chằm chằm vào khoảng không.@
+` Đôi mắt của cô ấy thậm chí còn không tập trung vào bất cứ thứ gì.@
+` ... Điều này có phải là sự thiếu suy nghĩ?@
+` Có vẻ như Hisui chỉ nằm đó mà không có suy nghĩ hợp lý nào cả.@
+` Những giọt nước mắt vẫn còn đọng trong đôi mắt cô ấy, và tôi cảm thấy một cơn đau nhói ở tim mình.
+\
+`"... Tôi xin lỗi, Hisui. Tôi đã khiến cậu khóc nhiều đến vậy."@
+` Tôi lau khô nước mắt của cô ấy bằng ngón tay.@
+br
+` [line=3]Và sau đó.@
+br
+` Bất thình lình, Hisui nắm lấy bàn tay tôi.
+\
+bg "event/his_h09",crossfade,800
+`"... Hisui?"@
+`"Shiki………… sama."@
+` Cô ấy cầm lấy ngón tay tôi và đưa vào miệng mình.@
+`"Ừm......"@
+` Tôi không biết phải nói gì.@
+` Hisui chỉ nằm đó, như thể cô ấy chỉ muốn cảm nhận được áp lực từ ngón tay tôi.
+\
+`"... ..."@
+` Hisui trông giống như cô ấy chẳng đang suy nghĩ về điều gì cả.@
+` Có lẽ tôi đã quá mạnh tay lúc nãy và giờ cô ấy đang làm thế vì đầu vẫn còn choáng váng.@
+`"... N... a..."@
+` Hisui từ xa hút ngón tay tôi.@
+` Vì một lý do nào đó, tôi thực sự thích điều này.@
+` Tôi không rút lui, mà theo cùng chuyển động của cô ấy.@
+br
+` Nhấn nhá, nhấn nhá.@
+` Tôi bắt đầu cảm nhận lưỡi cô ấy bằng ngón tay mình.
+\
+`"... Mmm..."@
+` Hisui chỉ tiếp tục.@
+` ... Đôi mắt ấy, vẫn chảy lăn lóc nước mắt, dường như đang trong trạng thái thôi miên.@
+` Cô ấy không hề liếm tôi, mà chỉ giữ nó trong miệng.
+\
+`"N………… nn…"@
+` Cô ấy nắm lấy nó như thể đó là thứ quý giá nhất trên đời.@
+` Hisui vô thức vuốt ve tôi.@
+` Cô ấy siết chặt tay tôi như đang cầm một báu vật.@
+`"N…… Shiki, sama……"@
+` Một chút siết nhẹ.@
+` Hisui cắn nhẹ vào ngón tay tôi.
+\
+`"[line=4]Hisui."@
+` Tôi cảm thấy máu bắt đầu lưu thông trong tôi một lần nữa.@
+` Không, điều này không đúng.@
+` [line=3]Tôi đang nghĩ gì vậy về Hisui đã mệt mỏi như thế này?
+\
+`"[line=2]Hisui..."@
+`"... Vâng. cậu Shiki, có chuyện gì sao?"@
+`"Hisui, tôi muốn làm yêu với em một lần nữa."@
+` Tôi chỉ tuôn ra những suy nghĩ ích kỷ của mình trước mặt cô ấy.@
+` [line=3]Hisui... cô ấy chỉ nhìn tôi chằm chằm.
+\
+`"... Làm sao vậy? Không còn cần thiết nữa đâu."@
+`"... Không, không phải thế. Tôi chưa thực sự yêu em cả."@
+` "[line=2]Đúng vậy. Trước đây, chỉ là để giúp tôi hồi phục — đó là tất cả từ đầu."@
+br
+` "Nhưng tôi không muốn nó như vậy."@
+` "[line=3]Tôi thực sự yêu cô ấy, và — không có lý do nào khác — tôi muốn yêu cô ấy."
+\
+`"[line=3]Không đủ, Hisui. Tôi không muốn làm điều này để chữa lành. Tôi thích em, Hisui — tôi yêu em. Đó là lý do tại sao tôi muốn em lúc này, Hisui."@
+`"... ..."@
+`"Vì vậy, vì lý do đó, tôi xin em một lần nữa. Không chỉ đơn giản là trao đổi chất lỏng. ... "@
+` "[line=3]Tôi chỉ thực sự muốn làm tình với cậu."@
+`"... Shiki, ngài ạ."@
+` Ý thức trở lại trong đôi mắt cô ấy.@
+` Cô ấy vẫn cắn chặt ngón tay, nhìn tôi.
+\
+`"... Có được không, Shiki-ngài? Tôi... tôi là..."@
+`"Đừng ngốc thế. Tôi chỉ muốn cậu, Hisui."@
+`"[line=7](lặng lẽ)@
+` Tiếng thở dài.@
+` Nhưng ngay sau đó,
+` Cô ấy mỉm cười dịu dàng với tôi.@
+`"…… Vâng. Tôi cũng muốn được em yêu thương, cậu Shiki."@
+` Đó là câu trả lời của cô ấy.
+\
+bg #000000,tshutter,800
+bg "bg/bg_40d",bshutter,800
+`"Vậy thì.@ Lần này, cậu ngồi trên tôi, Hisui."@
+`"Ồ... ở trên sao?"@
+` Cô ấy không hiểu ý tôi và nhìn tôi, bối rối và hơi ngượng ngùng.@
+`"Chuyện gì vậy? Cậu vẫn không thể xấu hổ à? Tôi chưa từng thấy một phần nào của cậu cả."@
+`"Ah..."@
+` Ngay khi tôi nói vậy, mặt cô ấy đỏ bừng lên.@
+` ...Dù chúng tôi đã làm thô bạo như thế này, Hisui vẫn do dự như lần đầu tiên.
+\
+`"Không sao, nên cứ lên đi!"@
+` Tôi nắm lấy tay cô ấy và nâng cô ấy lên trên người mình.@
+`"Kyaa... eh..." [line=2]@
+` Tôi cảm nhận được mông cô ấy áp vào bụng tôi.@
+` Với lưng quay lại phía tôi, cô ấy hạ thấp hông.@
+`"Tôi nghe thấy hơi thở đột ngột của cô ấy.@
+` Có lẽ cô ấy đang nhìn bộ phận nam giới đang dựng lên của tôi.@
+` "Ồ... cậu Shiki, ừm..."
+\
+`"Không biết phải làm gì và không thể thoát khỏi tình huống này, cô ấy đỏ mặt dữ dội và cầu cứu tôi.@
+` ... Điều này rất tệ.@
+` Cô ấy quá dễ thương đến mức tôi có thể chết đi được.@
+` "Tôi phải làm gì bây giờ hyaa!?"
+\
+`"[line=2]Ôi trời ơi!"@
+` Cô ấy nhanh chóng ngước nhìn lên.@
+` Cơ thể cô ấy phản ứng khi tôi liếm lưng không phòng bị của cô ấy.
+\
+`"[line=3][line=3]Hạ... Shiki, chủ nhân ơi!"@
+`"[line=3]Mmm... Đùi em, nó nhỏ và đáng yêu quá."@
+` Khi liếm giữa lưng cô ấy, tôi dùng một tay để giữ lấy má cô ấy.@
+`"N...!"@
+` Lưng cô ấy cong lên đáp lại.@
+`"H... n, nnn..."@
+` Hisui cố gắng chống lại cảm giác lưỡi tôi lướt dọc theo lưng cô ấy.
+\
+`"Ồ... cậu Shiki, điều đó... ngứa ngáy."@
+` Cô ấy quay người lại, làm tăng nhiệt độ cơ thể.@
+` Mồ hôi lấp lánh dưới dạng những dòng nhỏ trên cơ thể cô ấy.@
+`"[line=3][line=2]... Ừm... cậu Shiki. Tôi nên làm gì bây giờ?"@
+` Những lời cuối cùng của cô ấy chỉ là một tiếng thì thầm yếu ớt.@
+` Tôi có cảm giác rằng cô ấy sẽ luôn hành động như vậy, bất kể chúng ta lặp lại điều này bao nhiêu lần.
+\
+`"Đơn giản thôi.@ Bạn không cần di chuyển."@
+`"[line=3]Ồ..."@
+` Tôi quấn đôi tay quanh bụng cô ấy.@
+` Thu thập sức mạnh, tôi nhấc cô lên.@
+`"[line=2]À...! Uhm... cậu Shiki, cậu có định...?"@
+`"[line=6][lời không nói ra]"@
+` Không trả lời câu hỏi của cô ấy, tôi bắt đầu làm điều mà cô ấy đang nghĩ.
+\
+bg "event/his_h10",lshutter,400
+`"Hwa...!"@
+` Tôi đẩy vào.@
+` Tôi xâm nhập từ phía dưới.
+\
+`"[line=2][line=4]Ôi trời! Hoa!"@
+` Cơ thể cô ấy giật lên.@
+` Cô ấy cố gắng thoát khỏi điều gì đó đang đến từ phía dưới,
+` và cố ngăn trọng lực của cơ thể mình hoàn tất nó.@
+` Giữa hai lực này, thần kinh của cô ấy không có cơ hội nào.@
+`"... Tôi đang di chuyển, Hisui..."!@
+`"Ôi... N, đừng... xin dừng lại..."!@
+` Tôi bỏ qua cô ấy, nâng cô lên và hạ cô xuống.@
+`"N, ha...! Ah, Aah, HaAaAAA..."!@
+` Bàn tay cô siết chặt khi giác quan của cô bị áp đảo.@
+` Có vẻ như tôi đang chạm vào một điểm yếu khác của cô ấy, vì phản ứng của cô ấy mạnh hơn bây giờ.
+\
+`"Ah, Shi[line=3]cậu Shiki, bên trong, tôi[line=3]!"@
+` Giọng nói của cô gần như một tiếng hét.@
+` Tôi tiếp tục nâng cô lên và hạ cô xuống.@
+`"[line=2][line=4]Ha... ah, ,nwa..."!@
+` Tôi có thể cảm nhận được cô ấy siết chặt mông.@
+` Đồng thời, bên trong cô ấy cũng căng cứng.
+\
+`"[line=3][line=3][line=3]Hisui, hãy thư giãn một chút."@
+`"[line=3][line=4]Aha, aha..."@
+` Giọng tôi dường như không thể chạm đến cô ấy.@
+` Như trong mơ, cô ấy tiếp tục co bóp và bao trùm lấy dương vật của tôi.
+\
+`"[line=4]Haa...ku..."@
+` Tôi cố gắng chống trả, lại nâng cô ấy lên lần nữa.@
+` Tiếng ma sát da thịt trượt qua nhau vang lên.@
+`"HA... ừm... ưm..."@
+` Cảm giác nghẹt thở dần tan, Hisui cố gắng lấy lại hơi thở.@
+` Đồng thời, tôi hạ cô ấy xuống lần nữa.@
+`"[line=4]Nwaa!"@
+` Áp lực một lần nữa siết chặt lấy tôi.@
+` Sức nóng của cô ấy truyền xuyên qua cơ thể tôi.@
+` Sự ấm áp khiến tâm trí tôi hoàn toàn trống rỗng.
+\
+`"... Yêu... à..."@
+` Tôi không biết điều gì khiến tôi tức giận.@
+` Nhưng tôi chỉ di chuyển cơ thể của Hisui bằng hết sức lực.
+\
+`"[line=4][line=2][line=6]Ôi trời ơi! Ah, ha! Naaa!"@
+` Tiếng dính dai dẳng của thịt và máu gặp gỡ rồi tách ra.@
+`"[line=6][line=4][line=4]Này, cậu Shiki!"@
+` Chỗ tôi bị ngâm ướt.@
+` Nước yêu của cô ấy trộn lẫn với tôi và thấm vào tôi.@
+`"[line=4][line=2]Này, đây là..."@
+` Và đột nhiên,
+` Tôi không chỉ di chuyển cơ thể Hisui, mà còn nâng hông lên gần cô ấy.
+\
+` [line=3][hít thở gấp] *Hít... Hít... Hít...*
+br
+` Giữ chặt cơ thể Hisui và di chuyển hông là một gánh nặng lớn.@
+` Tự nhiên, nhịp thở của tôi bắt đầu nhanh đi.@
+` [line=3]Nhưng...
+\
+`"Ồ... Đau... cậu Shiki..."@
+br
+` [line=3]Tôi không quan tâm.
+br
+` Hisui. Nếu tôi có thể khiến Hisui thuộc về mình, thì điều đó thật tuyệt vời!@
+` "[line=3]Nhaa! Ah, hwa, Shiki, xin hãy chậm hơn một chút..."@
+`"[line=2][line=2][line=4][line=4](Hít thở gấp gáp) *Pant* *Pant* *Pant*@
+br
+` [line=3]Tôi đẩy vào.
+br
+` Tôi nhét nó vào bên trong cô ấy.
+\
+` "... Ah! ... Nếu tình trạng này tiếp diễn, tôi... tôi sẽ..."
+\
+`"[line=3](Nói với giọng run rẩy) Không, nếu cứ thế này thì..."@
+br
+` [line=3]Những nhịp thở gấp gáp, *tán* *tán* *tán*.
+br
+` Cơ thể cô ấy co giật.@
+` Lưng cô ấy cong lên.@
+` Tóc cô ấy lay động.@
+` Có phải là đau đớn, hay là khoái cảm?@
+` Dòng nước bọt chảy ra từ miệng cô ấy cho tôi biết rằng cô ấy đã mất hết lý trí.
+\
+`"[line=3][line=3]Ha... n... ừm... a...! Haa... nó... ừm... đau... cậu Shiki, xin... hãy... giúp tôi..."@
+` Cơ thể cô ấy đang cháy rực.@
+` Tôi cảm thấy như mình đang ở trong lò nướng.@
+` Hoặc... có lẽ không.@
+` Có phải là cột thịt của chính tôi đang sưng phồng với máu đang cháy?
+\
+` [line=3]*thở dốc* *thở dốc* *thở dốc* *thở dốc*
+br
+`"[line=2][line=2]Ôi, cậu Shiki,"@
+` Ngay cả khi đôi mắt cô ngập tràn nước mắt, cô vẫn hạ thân thể xuống gần tôi một lần nữa.@
+` Cảm giác của cô ấy.@ Sự ấm áp của cô ấy.@ Giọng nói của cô ấy.@ Nước mắt.@ Tất cả đều quý giá.@
+`"[line=3][line=2]Hisui ơi!"@
+` Tôi lại đâm xuyên qua bằng tất cả sức mạnh của mình.@
+` Trái tim tôi đập cuồng loạn.@
+`"[line=3]Tôi yêu bạn nhiều hơn bất kỳ ai, nhiều hơn mọi thứ, tôi chỉ yêu bạn, Hisui..."!"@
+` Không suy nghĩ, tôi tuôn ra những lời đó.@
+` Khi tôi buông lỏng mọi cảm xúc, tôi lao vào cô ấy với sự cuồng nhiệt.
+\
+`"[line=2][line=4]Ha... ha..."@
+` Cơ thể cô ấy co giật.@
+` Tôi cảm nhận được đỉnh điểm của tất cả những cảm xúc, tất cả những giác quan đang dâng trào.@
+`"Tôi... tôi cũng yêu anh!"@
+br
+` *(Hít thở gấp gáp)* *(Hít thở gấp gáp)* *(Hít thở gấp gáp)* *(Hít thở gấp gáp)*
+br
+`"[line=3][line=3]Ah... cậu Shiki, em cũng yêu anh... cậu Shiki, mãi mãi..."@
+` Cơ thể cô ấy căng cứng.@
+` Tất cả tình yêu bên trong tôi tập trung lại.
+\
+` *Hít vào... thở ra... hít vào... thở ra...*!@
+br
+`"[line=4]Hisui!"@
+`"[line=3]Ừm, cậu Shiki...!"@
+` Chúng ta hòa quyện cảm xúc với nhau.@
+` Chúng ta đạt cực khoái cùng nhau.
+\
+bg "event/his_h11",lshutter,400
+`"[line=3][line=4]Hisu, i!"@
+` Tôi giải phóng bên trong cô ấy.@
+`"[line=4]Ồ... ha, cô ấy run rẩy gần tôi quá!"@
+` Tôi ôm lấy cơ thể cô ấy run rẩy sát vào người mình.@
+`"[line=6]Ồ..."@
+` Hisui chịu đựng làn nhiệt chảy vào trong cô ấy.
+\
+`"[line=4]Nnnh."@
+` Giọng nói của cô ấy hạ thấp.@
+` Có lẽ là vì ngón tay tôi đang trong miệng cô ấy.@
+` Nhịp tim chúng ta hòa nhịp và đập cùng nhau.@
+` Cô ấy vẫn run rẩy vì những cảm giác còn vất vưởng bên trong.@
+` Tôi muốn xoa dịu điều đó và ôm lấy cô ấy.
+\
+`"... Shiki, ngài ạ..."@
+` Tại sao cô ấy lại khóc?@
+` Nước mắt từ đôi mắt cô ấy cứ tuôn rơi.
+\
+`"Tôi... không thể..."@
+` Giọng nói run rẩy của cô ấy dường như chứa đựng một chút hối tiếc.@
+`"... Hisui ơi, có đau lắm không? ..."@
+`"...... Không...... Tôi sợ, hạnh phúc này."@
+` Hít một hơi sâu, cơn run rẩy ngừng lại.
+\
+`"A......"@
+` Sức mạnh dần cạn kiệt khỏi cơ thể cô ấy.@
+` Mệt mỏi, cô ấy dựa cả thân vào tôi.@
+`"...... Tôi xin lỗi...... Anh trai."@
+` Khi nói xong câu cuối cùng, cô ấy ngả xuống và nhắm mắt.
+\
+bg #000000,crossfade,1500
+playstop
+!w2000
+` Tiếng thở nhẹ nhàng đến tai tôi.@
+br
+`"…… Em có ngủ, Hisui?"@
+` Tôi đặt cô ấy lên giường và kéo chăn che phủ lấy người cô.@
+` Không giống như Hisui đang kiệt sức, tôi vẫn còn rất nhiều năng lượng.@
+` …… Không, ngay cả khi tôi mệt mỏi, tình trạng trước đây của tôi hoàn toàn biến mất.@
+br
+` Vì vậy, có vẻ tối nay, tôi có thể di chuyển như một người bình thường một lần nữa.
+\
+!w3000
+bg "bg/bg_40c",crossfade,400
+` Hisui ngủ trên giường tôi.@
+` Có lẽ vì cô ấy đã giúp tôi lấy lại sức lực, nhưng Hisui thực sự kiệt quệ.@
+`"…… Hoặc có lẽ, tôi đã ép cô quá nhiều."@
+` Tôi cảm thấy một chút hối tiếc.@
+` ... Tất cả những điều này là lần đầu tiên của cô ấy, nên nó thực sự quá nhiều cho cô ấy.
+\
+`"... Nhưng cô ấy chỉ quá đáng yêu, tôi không thể kiềm chế."@
+` Tôi đưa ra một lý do, nhưng cũng không sao.@
+` Hisui ngủ, thở thư thái.@
+` ... Nếu tôi quyết định hành động, nó phải là bây giờ.@
+`"... Xin lỗi. Ngủ thêm một chút nữa, Hisui."@
+` Sau khi vuốt tóc cô ấy lần cuối, tôi thay quần áo và rời phòng.
+\
+bg #000000,lshutter,800
+bg "bg/bg_46c",lshutter,800
+br
+` [line=3]Đúng vậy. @ Akiha và Kohaku-san không có mặt ở đây. @
+br
+` Đây là cơ hội tốt. @
+` Tôi có thể điều tra xem chuyện gì đã xảy ra cách đây tám năm. @
+bg #000000,crossfade,800
+bg "bg/bg_41",lcartain,800
+play "*1"
+` Tôi bước vào phòng của người đàn ông già. @
+` …… Nơi này chắc chắn có thứ gì đó để trả lời câu hỏi của tôi. @
+br
+`"…… Tủ bàn,… giờ thì trống rỗng." @
+` Có thể có thứ gì đó thuộc về người đàn ông trong một trong những ngăn kéo bị khóa. @
+` Nhưng tôi không nghĩ ông ấy sẽ giữ thứ gì đó quan trọng ở đây. @
+`"...... Thật tuyệt nếu anh ta có một chiếc két an toàn hoặc gì đó."@
+` Tôi lục tìm trong phòng.
+\
+bg #000000,lshutter,400
+bg "bg/bg_41",lshutter,400
+`"...... Đây rồi."@
+` Tôi dễ dàng tìm thấy thứ gì đó giống như một chiếc két an toàn.@
+` Không có khóa bên ngoài và tôi không biết mã số trên nó.@
+` Nên tôi tháo kính râm ra, và cắt đứt "dòng" của nó.
+\
+`"...... Ừm......"@
+` Có vẻ như có một cuốn nhật ký cũ và vài phong bì.@
+` Nhật ký này trông giống của một đứa trẻ, và cuốn kia như những bức thư cũ.@
+`"... Bức thư cũ? Tại sao lại thế?"@
+` Chữ viết tay chắc chắn là của cha tôi.@
+` Nó bị xé rách và ban đầu tôi không thể hiểu được.@
+br
+` [line=3]Ngày bắt đầu từ mùa hè cách đây tám năm và dường như tiếp tục qua một thời gian ngắn sau đó.
+\
+`"... "@
+` Tôi chưa hiểu nó, nhưng tôi vẫn lật từng trang.
+\
+playstop
+bg #000000,tshutter,800
+monocro #ffff00
+bg "bg/bg_41",bshutter,800
+play "*9"
+` ~ Tháng ~ Ngày
+` Con trai tôi, SHIKI, đã khuất vì dòng máu Tohno.@
+` SHIKI, cậu ấy đã giết con nuôi của tôi, người tình cờ ở đó.@
+` (Con nuôi là người thừa kế nhà Nanaya. Tôi nghĩ đó là một phước lành giữa những sự kiện không may mắn khi cậu ấy không sống cùng gia đình với những Đồng bộ hóa, như Kohaku và Hisui.)
+br
+` Sự đảo ngược xung động của SHIKI thật khủng khiếp. Vì vậy, đã quyết định rằng cậu ấy phải bị loại bỏ. Tôi có nghĩa vụ là người đứng đầu gia tộc Tohno, nhưng giết con trai mình thật khó khăn.
+\
+` Dòng máu Tohno, mạnh hơn ở SHIKI so với Akiha.@
+` Nói về tiềm năng, tôi cảm thấy một nguồn gốc già hơn trong dòng máu của Akiha, nhưng dòng máu Tohno của SHIKI chảy mạnh hơn nhiều.@
+` Tôi giả định đó là lý do SHIKI đã đảo ngược trước khi trưởng thành.@
+` Sức mạnh của SHIKI là "vĩnh cửu" và "hợp nhất".@
+` SHIKI không thể kiểm soát sức mạnh thức tỉnh và kết quả là, cậu đã giết con nuôi Nanaya, lấy đi sinh mạng của hắn.@
+` Tôi phải nói đó là một công việc tuyệt vời khi sử dụng sức mạnh lần đầu tiên.
+\
+` ~ Tháng X Ngày Y
+` Cả SHIKI và đứa con nuôi đều may mắn thoát chết.@
+` Trước khi tôi giết SHIKI, cậu ấy đã giết đứa con nuôi và lấy đi "sinh mạng" của hắn, tái tạo bản thân bằng nó.@
+` Tôi không biết liệu điều đó có phải vì cậu ấy quá gần với cái chết, nhưng SHIKI đã lấy lại một phần sự tỉnh táo.@
+` Mặc dù nguy hiểm, tôi sẽ không giết cậu ấy mà chỉ tách cậu ấy ra khỏi biệt thự trong một thời gian.
+\
+` Mặt khác, đứa con nuôi của Nanaya sẽ không sống lâu ngay cả khi hắn sống sót.@
+` Ngay cả khi cậu ấy chữa lành, sinh mạng của cậu đã bị SHIKI cướp đi. Cơ thể cậu có thể chết bất cứ lúc nào.@
+` Dẫu đứa con được nhận nuôi còn sống, vẫn có khả năng tâm trí nó hòa hợp với SHIKI. Có vẻ như đó là một tác dụng phụ khi hai sinh mệnh liên kết với nhau. Nhưng nếu điều đó xảy ra, đứa con trai nhận nuôi cuối cùng cũng sẽ chết đi, nên không có vấn đề gì cả.
+\
+` ~ Ngày ~ Tháng
+` Vấn đề giữ gìn hình ảnh trước xã hội bình thường vẫn còn tồn tại.@
+` SHIKI đã giết đứa trẻ được nhận nuôi là Nanaya.@
+` Tôi đã che giấu sự việc này, nhưng SHIKI không thể hiện trước công chúng. Wound mà tôi gây cho cậu ấy chưa lành và hình dạng của cậu ấy đã thay đổi.@
+` Cậu ta không ở trong tình trạng có thể xuất hiện trước mặt người khác như Tohno SHIKI…… cậu ta cũng không còn là con người nữa.@
+br
+` Đứa trẻ Nanaya vẫn còn sống.@
+` Tôi quyết định sử dụng cậu ấy cho đến khi cậu ấy còn sống.@
+` Nếu có bất đồng nào, tôi muốn nghe chúng.
+\
+` Sự tương bổ.@
+` Nhà Nanaya là một gia đình sản sinh ra những kẻ giết người.@
+` Nếu đứa con nuôi đó vô tình còn sống, mối liên kết giữa nó và SHIKI có thể làm ô nhiễm tâm trí của SHIKI.@
+` Ngay cả khi SHIKI lấy lại được sự tỉnh táo, tôi không thể phủ nhận khả năng ảnh hưởng từ đứa trẻ Nanaya khiến cậu ấy trở thành một kẻ giết người.@
+br
+` Để ngăn điều này xảy ra, chúng ta phải giữ cậu ấy ở đâu đó mà chúng ta có thể giám sát. Nhưng cũng không được cho phép cậu ấy đến gần biệt thự Tohno.@
+` Tôi nên để cậu ấy được nuôi dưỡng bởi một chi nhánh phù hợp của gia tộc.
+\
+` Ngày tháng nào đó,
+` ... dòng máu Tohno thức tỉnh trong SHIKI.@
+` Có thể là do anh ta gần chết nên mới lấy lại được sự tỉnh táo như trước.@
+` Nhưng tôi không biết liệu có điều gì đó sẽ khiến anh ta đảo ngược lại không.@
+` Ngay cả khi điều đó làm tôi đau lòng, tôi cũng không thể để SHIKI đến gần biệt thự Tohno.@
+` Tôi giao anh ta cho một người hầu đáng tin cậy.
+\
+` ~ Ngày tháng nào đó
+` Tôi vẫn chưa nhận được tin rằng sự tỉnh táo của anh ta đã hoàn toàn trở lại.@
+` Một năm đã trôi qua với cậu ấy dưới sự chăm sóc của một gia đình khác.@
+` Trái tim tôi đau đớn. Rất khó khăn khi nghĩ về cách con trai mình phải sống. Khi SHIKI hồi phục, tôi sẽ đưa cậu ấy trở lại biệt thự.
+\
+bg #000000,tshutter,800
+monocro off
+playstop
+bg "bg/bg_41",bshutter,800
+`"[line=6] Điều này là gì?"@
+` Con nuôi. Tôi biết về việc nhận nuôi này từ mười năm trước.@
+` Ngay cả khi tôi không nhớ rõ chi tiết, tôi vẫn biết điều đó.@
+` Cậu ấy đã giết tôi?@
+` Tám năm trước, trong sân đó?@
+br
+`"... Tâm trí chúng ta kết nối với nhau..."@
+` Những lời nói cho thấy tâm trí tôi và anh ấy có thể kết nối với nhau.@
+` Thông thường, câu chuyện này chỉ là điều để cười nhạo.@
+` Nhưng hiện tại, nó giải thích quá nhiều.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_41",notrans,0
+`"[line=4]Không."@
+` Không, không phải thế.@
+` Điều này không giống như vậy.@
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_41",notrans,0
+`"[line=6]Được rồi."@
+` …… Tôi biết.
+\
+` Ngay cả khi tôi đã biết về điều đó, tôi cố gắng không để ý.@
+` [line=3]Tôi muốn phủ nhận nó một lần nữa.
+\
+` Người con nuôi...
+` Người bị giết...
+` Tôi biết đâu là đúng, nhưng tôi không muốn thừa nhận. [line=4]@
+br
+`"Tch[line=2] điều này vô ích."@
+` Lên án bản thân, tôi ném những bức thư sang một bên.
+\
+`"... Chỉ còn lại điều này."@
+` Tôi lấy cuốn nhật ký trong ngăn an toàn.@
+` Nó trông giống như nhật ký của một đứa trẻ; chắc chắn không phải thứ mà Tohno Makihisa sở hữu.@
+` Tôi lật qua các trang.@
+` Chỉ có hai từ.
+\
+monocro #ff0000
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+!w2000
+`        GIỢI PHỤC TÔI
+!w2000
+br
+` Như thế này.@
+` Trên một trang trắng, nó viết rất nhỏ.
+\
+`"... Hừm?"@
+` Tôi lật qua các trang.@
+wave se_01
+`        Giúp tôi với.@
+` Tôi lật trang tiếp theo.@
+wave se_01
+`        Giúp tôi.@
+` Tôi lại lật trang.@
+wave se_01
+`        Hãy giúp tôi.@
+` Tôi lật tiếp, trang sau.@
+br
+`"[line=4]Thật khó tin!"@
+` Nó giống như một lời nguyền đưa người đọc xuống tận cùng của bóng tối.
+\
+Vòng lặp âm thanh se_02
+` GIỢI CỨU TÔI
+!w1000
+` GIỢI CỨU TÔI
+!w1000
+` Giúp tôi.
+!w1000
+` Giúp tôi.
+!w1000
+` Giúp tôi.
+!w1000
+` Giúp tôi, giúp tôi, giúp tôi, giúp tôi. Tôi cảm thấy mình sắp ngất đi.
+!w1000
+` [line=8]... Tôi đã chứng kiến nhiều cơn ác mộng cho đến giờ, nhưng cái này còn tồi tệ hơn.
+\
+bg #000000,crossfade,400
+monocro off
+bg "bg/bg_41",crossfade,400
+`"[line=4]"@
+` ... Tôi cảm thấy cơ thể mình như muốn nôn mửa.@
+` Tôi đã nhìn thấy rất nhiều giấc mơ kinh hoàng, nhưng cái này còn đáng sợ hơn.@
+` "Giúp tôi." - những lời ấy được viết trong nhật ký.@
+` Không chỉ có người viết nhật ký biết đến những từ này, mà còn là tất cả những gì họ cảm nhận được.@
+` Chỉ có những từ này thôi.@
+` Đó là tất cả những gì người này có thể làm.
+\
+` Không có lời cầu xin u ám nào được ghi lại.@
+` Mỗi chữ một chữ, giống như những cảm xúc trút ra của người này.@
+` Đây là cách duy nhất để tác giả có thể thoát khỏi nó.@
+` Người này không biết cách nào khác để giải thoát bản thân khỏi lời nguyền này.
+\
+`"... Ah."@
+` Vẫn còn hơn nửa cuốn nhật ký để xem.@
+` Tôi,
+` Tôi không thể buộc bản thân đọc phần còn lại.@
+`"[line=4]"@
+` Tôi lật qua các trang, cố không nhìn vào nội dung bên trong.@
+` Khi tôi lật qua các trang, tay tôi dừng lại ở trang cuối cùng.@
+`"... Câu văn bình thường...?"@
+` Trên trang cuối cùng, có một đoạn ngắn.@
+` Những chữ bạc trang trí trên tờ giấy trắng hoàn hảo.
+\
+wavestop
+bg #000000,crossfade,400
+bg "bg/ima_08",crossfade,400
+play "*7"
+br
+br
+br
+br
+br
+br
+br
+` Vì vậy tốt hơn là chỉ trở thành một con búp bê.
+\
+br
+` Từ từ, cơ thể tôi ngừng tạo ra nhịp tim.
+!w1000
+br
+` Các mạch máu dần biến thành ống một cái sau cái khác.
+!w1000
+br
+` Máu biến mất như hơi nước.
+!w1000
+br
+` Trái tim, tất cả mọi thứ, chỉ là những bộ phận được chế tạo.
+br
+!w1000
+br
+` Hãy xem, đó là lý do tại sao sẽ không còn nữa.
+!w1000
+br
+` Đau đớn... Tôi đóng nhật ký lại và đặt nó vào két sắt.
+\
+bg #000000,crossfade,400
+playstop
+bg "bg/bg_41",crossfade,400
+`"[line=6]"@
+` Tôi không biết tại sao Tohno Makihisa lại giữ vật này.@
+` Nhưng tôi biết một điều.@
+` Vì sợ sự ác độc của đứa trẻ, nó là thứ cần bị phong ấn trong két sắt.@
+` ...Ngày dần trôi qua.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_42c",lcartain,800
+` Vườn tối.@
+` Arcueid.@
+` Những cây đen rộng ra trước mặt tôi như một thung lũng tối.@
+` Tôi nhớ giấc mơ mà tôi đã thấy trước khi đến lâu đài này.@
+br
+`"...Được rồi."@
+` Không phải là có điều gì đó ở đó.@
+` Tôi chỉ cần xác nhận một điều trong trái tim mình, nên tôi bước vào thung lũng tối.
+\
+bg #000000,crossfade,800
+bg "bg/bg_53b",lcartain,800
+` Không có gì ở đây cả.@
+` Nó không giống như thi thể của người bị giết cách đây tám năm ở đây.@
+` Nó không giống như máu của người bị giết cách đây tám năm ở đây.
+\
+bg "bg/cmo_06",notrans,0
+bg "bg/bg_53b",notrans,0
+`"…………"@
+` Trong khoảnh khắc, cảnh tượng ấy lóe lên trong tâm trí tôi.@
+` Ngày hè nóng bức ấy.@
+` Tôi nhìn xuống cơ thể mình đầy vết máu như thể đang xem một người khác.@
+`"…… Vậy thì.@ Có ai đó chắc chắn đã bị giết ở đây."@
+` Không biết là tôi hay anh ấy, tôi không biết.@
+br
+` Ai được nhận nuôi?@
+` Con quái vật SHIKI là ai?
+\
+`"…… Nếu tôi suy nghĩ một cách logic, thì chắc chắn tôi là người đã giết anh ta ở đây."@
+`"Đó không phải là sự thật. Người bị giết chính là ngài Shiki."@
+`"[line=4]?"@
+` Tôi quay lại.@
+` Tôi không biết cô ấy đến khi nào, nhưng Hisui đang ở đó.
+\
+play "*8"
+ld c,"tachi/his_t01",lshutter,800
+`"Hisui. Bạn đã tỉnh chưa? …… Đừng cố gắng quá nhiều. Bạn vẫn còn mệt phải không?"@
+`"Ngài Shiki, chính ngài là người không nên quá sức. Ngài vẫn mất năng lượng với tốc độ đáng kể hơn những gì ngài thu được."@
+cl c,lshutter,800
+` Hisui đứng trước mặt tôi.
+\
+`"Ah......"@
+` Tim tôi bắt đầu đập nhanh hơn.@
+` Hisui đứng quá gần khiến tôi cảm thấy sống động hơn.@
+`"Wow, cơ thể tôi thực sự ấm áp. [...] Tôi nghĩ đó là sự ấm áp của cậu đang lan tỏa vào tôi."@
+ld c,"tachi/his_t02",lshutter,400
+`"Nhưng Hisui, cậu nói gì vậy? Cậu nói rằng tôi đã chết ở đây[line=3]cậu biết chuyện gì đã xảy ra sao?"
+\
+ld c,"tachi/his_t17",crossfade,400
+`"Vâng[line=3]. Tôi đã chứng kiến cảnh cậu chết ở đây. Cậu đã bị giết, bởi Shiki...... không chỉ linh hồn và thể xác, mà mọi thứ đều đã bị tiêu diệt."@
+` Giọng nói của cô ấy run rẩy.@
+` Không phải vì sợ hãi. Thay vào đó, giọng cô ấy đầy sự phẫn nộ với kẻ đã giết tôi.
+\
+`"... Chờ một chút, Hisui. Người bị giết là cậu bé Nanaya được nhận nuôi. Vậy thì anh ấy chính là người đã chết sao?"@
+`"Không, chính bạn là người đã chết, cậu Shiki."@
+` Hisui trả lời thẳng thắn.@
+br
+` [line=4]"Ồ, tôi hiểu rồi."@
+` [line=2]Vậy có nghĩa là...@
+br
+`"[line=3]Tôi hiểu rồi. Vậy tôi là đứa con được nhận nuôi à?"
+\
+`"... Vâng, bạn là hậu duệ của gia tộc Nanaya. Makihisa-sama đã nhận nuôi bạn, thành viên duy nhất còn sống sót."@
+` "[line=3]... Tên bạn là Shiki và vì Makihisa-sama thấy thú vị khi con trai ông cũng mang tên SHIKI theo một sự trùng hợp kỳ lạ, nên ông đã nhận nuôi bạn."@
+`"[line=4]Tên của chúng ta có giống nhau không?"@
+`"Vâng. Nó rất bình thường khi cậu cảm thấy bối rối. Và cậu khác chúng tôi; thực ra, cậu đã được gia đình Tohno nhận nuôi."
+\
+`"[line=7]"@
+` Tôi không thể nói được.@
+` "Điều đó... không phải là điều bất ngờ hay gì cả."@
+` Tôi nhớ rằng từ đầu, tôi không hợp với bố mình, và tôi chưa bao giờ cảm thấy thoải mái trong căn biệt thự...
+` "Điều gì vậy?" [line=3]
+bg "event/aki_e01b",notrans,0
+!w1000
+bg "bg/bg_53b",notrans,0
+br
+` "[line=3]Một điều như vậy..."
+br
+bg "event/his_e01b",notrans,0
+!w1000
+bg "bg/bg_53b",notrans,0
+` [line=4]Một điều như thế này...
+br
+bg "event/his_e02b",notrans,0
+!w1000
+bg "bg/bg_53b",notrans,0
+` [line=3]Ngay cả nếu đó là những lời dối trá, tôi vẫn nói ra.
+\
+ld c,"tachi/his_t05",crossfade,400
+`"... Tôi rất xin lỗi. Nói những điều khiến bạn buồn."@
+`"Không, tôi ổn. Tôi không buồn."@
+br
+` [line=4]Tôi nói vậy, nhưng tôi biết đó là một lời nói dối.@
+br
+` Tôi không biết nó là cảm giác gì.@
+` Nhưng có một sự thật rằng tôi cảm thấy một khoảng trống trong trái tim mình.
+\
+`"[line=3]Nhưng... điều này kỳ lạ. Người dòng họ Tohno đều có sức mạnh, phải không? Nếu SHIKI là một ma cà rồng, thì tôi là ai?"@
+` "Tôi không giống anh ấy, nhưng tôi có đôi mắt kỳ lạ này."@
+ld c,"tachi/his_t01",crossfade,400
+`"... Tôi không biết chi tiết. Nhưng tiểu thư Akiha nói rằng bạn giống chị Kohaku và tôi, những người có gia đình là kẻ thù của dòng máu 'hỗn hợp'."@
+` "... Chúng ta có sức mạnh đồng bộ hóa với những người mà chúng ta trao chất lỏng, và gia tộc Nanaya có sức mạnh chống lại quỷ dữ."
+\
+` "... Tôi hiểu rồi."@
+` "Chắc chắn đôi mắt tôi không phải là sức mạnh giúp đỡ mọi người như Hisui. Thật ra, nó là một sức mạnh để giết chóc."
+\
+`"... Tôi thấy rồi. Nhưng sau đó, tại sao tôi được ông già nhận nuôi? Không có lý do nào hợp lý cho việc ông ấy nhận nuôi kẻ thù cả."@
+`"... cậu Shiki, bạn là người thừa kế của dòng dõi đặc biệt rất hiếm về săn quỷ."@
+` "Asagami, Fujyou, Ryougi và Nanaya."@
+` Những bốn gia tộc này là kẻ thù của 'huyết hỗn hợp'.@
+` Tôi nghĩ Makihisa-sama đã đưa cậu đến đây để giúp chống lại điều gì đó."@
+`"... Tôi có nghĩa là, làm thế nào anh ấy thậm chí còn có cơ hội nhận nuôi tôi ngay từ đầu?"
+\
+ld c,"tachi/his_t23",crossfade,400
+`"Tôi... Tôi nghe nói rằng cậu là thành viên duy nhất của gia tộc Nanaya sống sót..."@
+`"... À, tôi hiểu rồi."@
+` Mười năm trước.@
+` Ngôi nhà theo phong cách Nhật Bản nằm sâu trong núi.@
+` Được bao quanh bởi một khu rừng đen, một thế giới nông thôn bị cô lập khỏi dòng chảy của lịch sử.@
+br
+` Tôi không thể nhớ rõ lắm. Tất cả những gì tôi nhớ là mặt trăng trong vắt màu xanh lam.@
+` Và giữa rừng rậm, một hình bóng giống như Tohno Makihisa đang cắt xé rất nhiều người.@
+` *thở dài*
+\
+` [line=6]Nhưng đó là quá khứ, còn bây giờ thì khác.@
+` Một việc đã làm từ lâu, giờ không còn quan trọng.@
+` "... Tôi hiểu rằng tôi đã bị SHIKI giết ở đây. Nhưng làm sao tôi lại sống với danh tính Tohno Shiki ngay lúc này?"
+\
+`"... Vâng. Không thể phủ nhận, cậu đã bị SHIKI đâm vào ngực và trên bờ vực chết. Nhưng bằng một phép màu nào đó, cậu đã hồi phục."@
+ld c,"tachi/his_t01",crossfade,400
+`"..."@
+` Bạn đã được cứu và Shiki cũng sống sót.@
+` Vì không ai chết, mọi thứ lẽ ra phải kết thúc ngay lúc đó. Nhưng Shiki trở thành một thứ không thể hiện trước người khác.
+\
+`"Tôi hiểu rồi, cần có một sự thay thế cho Tohno Shiki. Tên Tohno Makihisa đứng đầu giới doanh nhân; con trai ông không thể đột nhiên qua đời."@
+`"... Vâng. Makihisa-sama giả vờ rằng đứa trẻ Nanaya đã chết và để bạn sống dưới danh nghĩa Tohno Shiki... Tất cả đều nhằm bảo vệ danh tiếng gia tộc."@
+`"... Tôi hiểu, đó là điều mà người già sẽ làm."
+\
+` Đúng vậy, mọi thứ giờ đây hợp lý.@
+` Ngay cả khi tôi là Tohno Shiki, về mặt kỹ thuật tôi không thuộc gia tộc Tohno. Ngoài Akiha, không ai khác mang dòng máu đó.@
+` Vì vậy, bố tôi đã gửi tôi sống với họ Arimas và dàn xếp tình huống mà tôi không thể trở thành người kế vị vì sức khỏe yếu mặc dù theo lý tôi là con trai cả của nhà Tohno.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"[line=3]Thưa Ngài Shiki..."@
+`"... Không sao cả. Bạn không cần phải xin lỗi vì giữ bí mật này. Chỉ cần nói với tôi ngay bây giờ là đủ. Hơn nữa, cậu có giống tôi không?"@
+ld c,"tachi/his_t26",crossfade,400
+`"Không, so với cậu hoặc chị Nee, tôi chẳng chịu khổ gì...!"@
+` "Ngay cả sau khi Makihisa qua đời, Akiha vẫn chăm sóc chúng tôi. Vì vậy, chỉ có tôi mới sống yên bình, chẳng biết gì cả..."!@
+` "Chờ đã, Hisui.
+\
+`"... Vâng."@
+` "[line=2]Cô ấy nghe từ Makihisa sau khi bạn được nhận nuôi."@
+ld c,"tachi/his_t04",crossfade,400
+`"Tôi... tôi hiểu rồi."@
+` Nhưng, Ngài Akiha luôn kiên trì rằng bạn là anh trai thực sự của cô ấy.@
+` ... Mỗi ngày, Ngài Makihisa sẽ dặn Ngài Akiha quên đi về bạn.@
+` Nhưng, Ngài Akiha không bao giờ đồng ý. Ngay cả khi bị nghiêm khắc trách mắng, cô vẫn chờ đợi bạn trong trái tim mình.
+\
+`"... Nếu bạn biết sự thật, bạn sẽ rời đi. Vì vậy, Ngài Akiha đã bảo chúng tôi không bao giờ để bạn biết sự thật."@
+` Ngài Akiha luôn giúp chị Nee và tôi. Chị Nee là người hầu của Ngài Makihisa và không được phép ra khỏi phòng. Ngài Akiha ghét điều đó và giải thoát cho chị Nee.@
+` [line=3]Vì vậy, vì tình yêu dành cho Ngài Akiha, chúng tôi tiếp tục dối trá. Ngài Akiha, tất cả chúng tôi... chúng tôi muốn bạn quay lại.
+\
+`"... Hisui."@
+ld c,"tachi/his_t07",crossfade,400
+`"Vì vậy, xin đừng ghét Ngài Akiha. So với bất kỳ ai khác, cô ấy quan tâm đến bạn nhiều nhất."@
+`"... Vâng, tôi biết. Không thể nào tôi lại ghét cô ấy được. Tôi nên bị ghét nhiều hơn. Tôi là người sống yên bình trong khi các bạn đều chịu khổ."@
+`"... "
+\
+` "Vì vậy... Tôi cảm ơn Akiha."@
+` "Cô ấy đã chào đón tôi, một kẻ ngoài cuộc, trở lại lâu đài. Thậm chí cô ấy còn gọi tôi là anh trai."@
+` "... Vậy nên tôi cũng phải làm điều tương tự."@
+` "Nếu cô ấy sẵn sàng gọi tôi là Tohno Shiki, anh trai của mình, thì tôi chẳng quan tâm đến tên Nanaya Shiki nữa."@
+` "[line=4]Tôi phải tiếp tục là chị gái của cô ấy, tiếp tục là Tohno Shiki."
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_53b",notrans,0
+`"[line=4]¡G!"@
+Shiki-sama! Hisui vội vã đến gần tôi.
+ld c,"tachi/his_t25",crossfade,400
+`"Tôi tách mình ra khỏi Hisui, người đang nhìn chằm chằm với vẻ lo lắng trên mặt, và hít một hơi sâu.@
+` "... Ồ trời ơi. Tôi vừa được giúp đỡ bởi cậu, Hisui, nhưng những cơn đau đầu này vẫn chưa dứt."@
+` "cậu Shiki, cơ thể cậu đang yếu đi vì sự kiện tám năm trước đó. Lúc đó, SHIKI đã đánh cắp sinh mạng của cậu và sử dụng nó để kéo dài cuộc sống của chính mình."
+\
+`"Đó là lý do bạn yếu đi, và tại sao cậu lại liên kết với SHIKI.@
+ld c,"tachi/his_t23",crossfade,400
+`"[line=3]... Tôi hiểu rồi. Vậy ra mọi chuyện là thế này.@
+` [line=3]Tôi thấy rồi. Vậy đó là cách nó diễn ra."@
+`"Tốt lắm. Rất hữu ích."@
+` "[line=3]Nói cách khác, miễn là tôi không làm gì về kẻ giết người đó, tôi sẽ không thể trở lại cuộc sống bình thường."
+\
+ld c,"tachi/his_t17",crossfade,400
+`"... Vâng. Tôi tin rằng anh ta ghét bạn hoàn toàn. Đó là lý do tại sao anh ta đang dần lấy đi sinh mạng của cậu, cố gắng bẩn thỉu hóa trái tim bạn; anh ta đang tận hưởng nỗi đau của cậu."@
+` Giọng nói của cô ấy lại được bao phủ bởi sự giận dữ.
+\
+`"Anh ta ghét tôi? ... Tôi không hiểu. Anh ta là người đã giết tôi. Tôi có thể hiểu rằng tôi có mối hận với anh ta, nhưng tại sao lại là tôi?"@
+`"Không, SHIKI xem bạn như một kẻ đã giết chết hắn. cậu Shiki, cậu đã khiến sự tồn tại của Tohno SHIKI biến mất."@
+`"...? Tôi khiến hắn biến mất...?"
+\
+`"Đúng vậy. Bạn chắc chắn đã bị SHIKI giết.@
+` Nhưng khi cuộc sống của cậu được cứu rỗi, cậu đã lấp đầy chỗ trống của SHIKI, trở thành Tohno Shiki."@
+` Sau đó, Shiki bị giam giữ ở đâu đó chắc chắn xem bạn là một mối đe dọa.@
+` Tohno Shiki vẫn còn sống, nhưng hiện tại có người khác tồn tại dưới danh tính Tohno Shiki.@
+` Shiki vẫn còn sống, nhưng cậu đã lấy đi mọi thứ như Tohno Shiki, và anh ấy trở thành điều gì đó không tên tuổi, không tồn tại.
+\
+`"…… Tôi hiểu rồi. Anh ấy xem bản thân là Tohno Shiki chính đáng, và xem tôi là kẻ giả mạo. Không ngạc nhiên[line=3]"@
+br
+` Shiki muốn giết tôi và lấy lại mọi thứ.@
+br
+`"Nhưng, điều đó sắp kết thúc. Tôi sẽ bảo vệ bạn, cậu Shiki. Bất kể Shiki làm gì, tôi sẽ không để anh ấy giết bạn một lần nữa."@
+` …… Ngay cả khi kẻ giết người Shiki lang thang trên đường phố, hắn sẽ bị loại bỏ. Vì vậy, cho đến lúc đó, hãy nghỉ ngơi trong phòng của cậu."
+\
+`"………………"@
+` Ngủ trong phòng tôi...?@
+` Không, điều đó chẳng giúp được gì cho tôi.@
+` Cô ấy không biết, nhưng sự hợp nhất giữa chúng ta ngày càng trở nên tồi tệ hơn mỗi ngày.@
+` Điều đó có nghĩa là...
+` Nếu anh ta thực sự mất trí, tôi không biết liệu mình có thể giữ được lý trí hay không.
+\
+`"... Ha. Anh ấy là người sẵn sàng gây tổn thương cho chính mình để trả thù."@
+br
+` ... Trả thù? Không, điều đó không đúng.@
+` ... SHIKI nói rằng anh ta bị tôi giết.@
+` ... SHIKI xem tôi như một kẻ giả mạo.@
+wave se_01
+` ... SHIKI liên tục nói rằng anh ta sẽ giết tôi.@
+` ... SHIKI nói rằng tất cả những chuyện này sẽ không xảy ra nếu tôi không xuất hiện.@
+wave se_01
+` ... SHIKI đã mất trí như Tohno Makihisa, giết người trên đường phố.@
+` Và vâng.@
+br
+wave se_01
+` [line=3]Người đã chết từ rất lâu trước đó,
+`         đứa trẻ được gọi là Nanaya Shiki.
+\
+` Vô thức, tôi siết chặt răng.@
+br
+`"[line=4]Đừng ngu ngốc!"@
+` "Tôi mới là người có quyền cay đắng, SHIKI."
+` Bất ngờ,@
+` vết thương cũ trên ngực tôi bắt đầu đau đớn.
+\
+ld c,"tachi/his_t23",crossfade,400
+`"Thưa Ngài Shiki, ngài đang ở đâu...?"@
+`"Ngài biết mà. Anh ấy nói sẽ đến. Nhưng tôi không thể chờ đợi anh ấy nữa."@
+` Tôi biết nơi ẩn náu của anh ấy. Tôi sẽ chấm dứt mối quan hệ vô nghĩa này.
+\
+ld c,"tachi/his_t17",crossfade,400
+`"Xin hãy dừng lại, cậu Shiki...! Với cơ thể như vậy, nó sẽ quá nguy hiểm."@
+`"Hisui. Xin lỗi, nhưng có một con dao trong phòng tôi. Cậu có thể lấy nó cho tôi không?"@
+`"[line=3]Tôi từ chối. Tôi không thể để cậu đi."@
+`"... Tốt thôi, tôi sẽ tự lấy. Hãy trông coi mọi thứ khi tôi vắng mặt."@
+`"cậu Shiki...!"@
+cl c,lshutter,800
+` Tôi quay lưng lại với Hisui và cất bước.
+\
+`"cậu Shiki! Nếu bạn làm thế, tôi sẽ thực sự tức giận..."@
+` Im lặng xin lỗi Hisui, tôi quay trở lại bên trong.
+\
+bg #000000,lcartain,400
+!w1000
+bg "bg/bg_32d",lcartain,800
+` [line=6]Tôi rời khỏi cổng.@
+br
+` Trong túi tôi có con dao khắc tên "Nanaya".@
+` Nhờ Hisui, giờ đây tôi cảm thấy mạnh mẽ hơn trong cơ thể.@
+` [line=3]Nếu có vấn đề xảy ra, đó là...
+br
+ld c,"tachi/his_t08",lshutter,400
+`"... ..."@
+` Hisui vẫn ở bên tôi.
+\
+`"Hisui... Xin cậu quay lại biệt thự."@
+`"Tôi từ chối. Cậu không nghe lời tôi, nên tôi cũng chẳng nghe lời cậu."@
+` Hisui lắc đầu bực bội sang một bên.@
+`"Bây giờ thì thế này. Tôi không nói cậu sẽ trở thành chướng ngại vật. ... À, nơi tôi định đi rất nguy hiểm, nên tôi muốn cậu ở lại biệt thự."
+\
+ld c,"tachi/his_t13",crossfade,400
+`"Cậu nói vậy, nhưng nếu tôi rời đi, cậu sẽ sụp đổ. Nếu thực sự cậu muốn đi, điều đó sẽ gây rắc rối lớn cho cậu trừ khi tôi đồng hành cùng cậu."@
+`"[line=3]Ồ, sức mạnh của cậu như thế à?"@
+` Nhưng chúng ta đã làm thế... Chúng ta kết hợp cơ thể với nhau đến vậy, không phải tôi nên ổn trong một thời gian nào?"@
+`"…… Không. Đó chỉ là một nghi thức để tạo nên những mối liên kết thân mật giữa chúng ta. Ngay cả khi ai đó đã chia sẻ chất lỏng với tôi hoặc chị Kohaku, họ không thể nhận được năng lượng nếu chúng ta không ở gần."
+\
+`"[line=4]Đó là..."@
+` "Đó là một vấn đề lớn. Nếu điều này đúng, thì tôi thậm chí còn không thể đến trường một mình."@
+` "Nếu cậu vẫn ra lệnh cho tôi ở lại đây, tôi sẽ làm vậy. Xin hãy quyết định việc tôi nên làm gì."
+\
+ld c,"tachi/his_t12",crossfade,400
+`"Hisui nhìn thẳng vào mắt tôi.@
+` "... Ừm."@
+`"... Có vẻ như câu trả lời của tôi đã được quyết định rồi."@
+` ...@
+` Nếu không thể đến trường mà không có sự giúp đỡ của cô ấy, thì tôi chỉ có thể để cô ấy đi cùng tôi.
+\
+bg #000000,lcartain,800
+playstop
+!w2500
+bg "bg/bg_01c",lcartain,400
+` ... Lần đầu tiên sau bao ngày, tôi đến trường.@ Sự im lặng rợn người khiến tôi cảm thấy lạnh lẽo.@
+` Một không gian nơi không có sự hiện diện sống động nào.@
+` Ngay cả khi nó chứa hàng trăm học sinh trong ban ngày, nhưng dưới ánh trăng, nó trông giống như một tàn tích hoang phế.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"cậu Shiki, đây có phải là địa điểm đúng......?"@
+`"[line=6]"@
+` Tôi không có lời để trả lời cô ấy.@
+` Tôi chỉ từng thấy anh ấy ở trường trong những giấc mơ của mình.@
+br
+`"…… Đi đi, Hisui."@
+` Chúng tôi bước qua cổng trước.
+\
+bg #000000,crossfade,400
+bg "bg/bg_03c",lshutter,400
+wave se_01
+`"[line=4]"@
+ld c,"tachi/his_t17",crossfade,400
+`"[line=2]cậu Shiki, đây là..."@
+` Hisui dừng lại ngay lập tức, giống như tôi vậy.@
+br
+` [line=4]Tiếng kẽo kẹt.@
+br
+` Đêm buông xuống trên tòa nhà trường học.@
+` Ngay khi tôi đi qua cổng, tôi cảm thấy có điều gì đó không ổn trong không khí.
+\
+` [line=4]Tiếng rắc rắc vang lên, như cả không khí đang bị kéo căng.@
+br
+` Không khí căng thẳng khiến chúng ta khó thở.@
+` "Tiếng rắc rắc... Cảm giác này..."
+\
+` [line=4]Tiếng rắc rắc tiếp tục, lặp đi lặp lại.@
+br
+`"[line=2]Tôi đã từng cảm nhận điều này trong những giấc mơ kinh hoàng.@
+` Không khí nặng nề, ngấm đẫm ý định giết người.@
+` Sự thù địch và căm ghét tràn ngập.@
+` Bên trong tòa nhà,
+` Bóng tối tràn ngập ý định giết chóc, như thể một trận chiến sinh tử đang diễn ra trong giấc mơ của tôi.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_03c",notrans,0
+`"Shiki... cậu đang đánh nhau với ai vậy?"@
+` ...Tôi không hiểu.@
+` Không thể có ai đủ mạnh để chống lại một quái vật phi nhân loại như cậu ấy.@
+br
+`"[line=2]Không, em ạ?"@
+` Một tiếng thì thầm.@
+` Hisui nói thế, như đang kìm nén cơn nôn mửa.
+\
+` "[line=3][line=3]Không-san, Kohaku-san."@
+br
+`   Akiha không ở trong biệt thự từ sáng nay.@
+`   Cô ấy rời đi cùng Kohaku-san và không trở lại cho đến tận tối.@
+`   ... Đêm qua ...
+`   Khi tôi bị khóa trong phòng,
+`   Akiha bảo tôi chỉ cần chờ thêm một chút nữa.@
+br
+`"[line=3][line=3][line=4]Chuyện gì vậy? ... Đừng nói là Akiha ...?"@
+` Chân tôi bỗng dưng di chuyển nhanh chóng.@
+` Trước khi tôi kịp suy nghĩ, tôi lao về phía tòa nhà.
+\
+bg #000000,lshutter,400
+play "*6"
+bg "bg/bg_07b",lshutter,400
+` [line=4]Tôi chạy vào tòa nhà.@
+br
+` Bên trong, không khí càng trở nên căng thẳng hơn.@
+ld c,"tachi/his_t08",lshutter,400
+`"[line=3]cậu Shiki"@
+`"... ..."@
+` Không trả lời cô ấy, tôi tìm kiếm bất kỳ dấu hiệu nào về sự hiện diện.
+\
+cl c,lshutter,400
+` [line=4]Hành lang.@
+br
+` [line=4]Khủng khiếp.@
+br
+` [line=4]Yên tĩnh.@
+br
+monocro #0000ff
+bg "bg/bg_07b",crossfade,400
+wave se_12
+monocro off
+bg "bg/bg_07b",crossfade,400
+`"......!"
+\
+` Một tiếng thét sắc nhọn tấn công vào màng nhĩ tôi. Nó làm rung chuyển các cửa sổ.@
+` Tiếng ồn ấy đến từ tầng trên tôi.@
+br
+` [line=3]"cậu Shiki, đó là..."@
+br
+ld c,"tachi/his_t23",lshutter,400
+`"[line=2]...... Chỉ cần ở gần đây. Chúng ta đi, Hisui."@
+`"Tôi nắm lấy tay Hisui và lao lên cầu thang.@
+cl c,lshutter,400
+` Vẫn đang giữ tay cô ấy, tôi bước lên cầu thang.
+\
+bg #000000,lshutter,400
+bg "bg/bg_07b",lshutter,400
+` [line=3]Tôi tiếp tục lên trên, vẫn nắm chặt tay cô ấy.@
+br
+`"… ..."`@
+` Tôi siết chặt răng.@
+` Ngày đó.@
+` Tôi nhớ lại khoảnh khắc khi tôi rời phòng và nghe lén cuộc trò chuyện giữa Akiha và Kohaku-san.@
+` [line=3]Akiha nói rằng cô ấy sẽ giết anh trai mình, SHIKI. Tôi giờ mới hiểu rằng cô ấy không nhắm vào tôi, mà là SHIKI.@
+` Không nghi ngờ gì, những người đang chiến đấu ngay bây giờ là Akiha và SHIKI.
+\
+monocro #0000ff
+bg "bg/bg_07b",crossfade,400
+wave se_12
+monocro off
+bg "bg/bg_07b",crossfade,400
+` "Skreeee! Tiếng kêu thét xuyên tai một lần nữa vang lên."@
+` [line=2]Âm thanh đến từ phía trên, quanh tầng bốn.@
+`"Đồ ngốc này..."@
+` Tôi bay qua tầng ba.@
+` [line=3]Đáng ghét, cô ấy quá khó hiểu.@
+` Vì những cơn ác mộng của tôi, tôi hiểu cơ thể SHIKI tốt nhất.@
+` Sức mạnh của cậu ta không ở cùng cấp với con người. Tôi không biết các thành viên nhà Tohno "không phải con người" đến mức nào, nhưng cô ấy sẽ không thể thắng. Sẽ như tự tìm cái chết vậy.
+\
+`"...!"@
+` Tôi chạy lên cầu thang nhanh nhất có thể.@
+br
+` [line=3]AKIHA.@
+br
+` Tôi đã đẩy cô ấy ra, không tin tưởng cô ấy.@
+` Tôi chẳng làm gì có vẻ như anh trai của cô ấy, nhưng vẫn cô ấy gọi tôi là anh trai.@
+br
+` [line=4]Và giờ đây, cô ấy đang chiến đấu một mình với kẻ giết người SHIKI.
+\
+`"[line=3]Đáng ghét!"@
+` ... Tôi chỉ cảm thấy một cảm giác khủng khiếp, kinh hoàng.@
+` [line=3]Akiha—Akiha không thể thắng được.@
+` SHIKI có giết cô ấy không?@
+` ... Tôi không biết. Tôi nghĩ anh ta sẽ không giết Akiha vì anh ta luôn theo đuổi Akiha trong giấc mơ.@
+br
+` Nhưng, mặt khác...
+` Tôi không nghĩ anh ta có cùng định nghĩa về việc "quyết tâm" với ai đó. Định nghĩa của chúng tôi là đạt được những điều mà chúng tôi quyết tâm.
+\
+` Anh ta điên rồi.@
+` Tôi không thể hiểu được những khái niệm rối loạn của anh ấy vì tôi không phải là như vậy.@
+` Không, ngay cả một kẻ điên cũng không thể hiểu được suy nghĩ của một kẻ điên khác.@
+` Vì chính kẻ điên đó không thể hiểu nó, nên không ai hiểu nó, và anh ta phải cô đơn.
+\
+`"[line=3]Aki... ha"@
+` [line=3]Cô ấy vẫn còn sống.@
+` Akiha... Cô ấy phải còn sống.@
+` Không thể nào Shiki lại giết cô ấy được.@
+` Vì tôi là người mà Shiki định giết.@
+` [line=3]Akiha, tôi không thể để cô ấy chết thay cho tôi.@
+` [line=3]Nếu điều đó xảy ra, tôi sẽ...
+\
+monocro #0000ff
+bg "bg/bg_07b",crossfade,400
+wave se_12
+monocro off
+bg "bg/bg_07b",crossfade,400
+` Khét lên!@
+` Khi tôi đến tầng bốn, âm thanh đó lại vang lên một lần nữa.@
+` Nó gần rồi. Cảm giác như nó ở hành lang bên kia những bậc thang này.@
+`"[line=4]Akiha!"@
+` Hình ảnh kinh hoàng nhất vẫn quằn quại trong đầu tôi, tôi lao vào hành lang.
+\
+bg #000000,lshutter,800
+bg "bg/bg_11c",lshutter,800
+br
+` [line=4]"Ồ?"@
+br
+` Trong giây phút ấy, tôi đứng đó, ngơ ngác.@
+`"[line=7][lời nói không rõ]"@
+` Từ phía sau lưng, tôi nghe thấy Hisui thốt lên.@
+`"[line=4]A... Akiha."@
+` Đó là điều duy nhất lóe lên trong đầu tôi.
+\
+` Hành lang dưới ánh trăng.@
+` Trong không khí lạnh giá cắt vào phổi tôi,
+` Akiha đứng cách đây vài mét trên hành lang.@
+ld c,"tachi/aki_t27",lshutter,400
+` Như máu, một màu đỏ đậm.@
+br
+` [line=3]Ban đầu, nó trông giống như máu của Akiha.@
+br
+` Nhưng điều đó không đúng.@
+` Màu đỏ chỉ đơn giản là mái tóc dài của cô ấy.
+\
+`"[line=6]"@
+` Tôi vẫn chưa thể hiểu rõ chuyện gì đang xảy ra.@
+` [line=3]Trên hành lang, tôi thấy Akiha, với mái tóc đỏ dài và anh ấy, quỳ xuống, một tay đặt trên mặt đất, ho ra máu.
+br
+cl c,lshutter,400
+ld c,"tachi/hal_t04",lshutter,400
+` Người đang quỳ trước Akiha chính là Shiki.
+\
+` [line=3]Akiha đang nhìn xuống anh ấy.@
+` ... Sau lưng cô ấy, hình bóng của Kohaku-san xuất hiện.@
+` Shiki dường như sắp chết đi và cố thở, trong khi Akiha thậm chí cũng không thở gấp gáp.
+\
+cl c,lshutter,400
+` Tình hình hiện tại...@
+br
+` [line=3]Rất phức tạp.@
+` Thật không thể tin được, có vẻ Akiha là người áp đảo anh ta.
+\
+`"G-!"@
+` SHIKI nhảy vọt lên.@
+` Trong một chớp mắt tốc độ mà tôi thậm chí còn không thể theo kịp, một vệt đen bắn về phía Akiha.@
+ld c,"tachi/aki_t27",lshutter,400
+br
+` "Skreeeeeeeee!"@
+br
+` Akiha chỉ liếc xuống SHIKI.@
+` Với cái đó, cơ thể anh ta đập mạnh xuống đất, và như phản ứng với âm thanh ấy.@ Phần ngực của anh ta cháy rực, tỏa ra khói.
+\
+cl c,lshutter,800
+`"[line=2]HyaaaaaaAaaaaaAH!"@
+` Tiếng thét của Shiki vang vọng khắp hành lang.@
+` Thân thể anh ta tan biến, phủ đầy khói.@
+` Dưới lớp kimono, phần lớn xương của anh ta lộ ra, giống như một xác ướp.@
+` Nhưng anh ta vẫn còn sống, hình dạng kinh hoàng của anh ta vẫn nhìn chằm chằm vào Akiha. Mắt anh ta đầy sợ hãi.@
+` Mặc dù vậy, trang phục của Akiha không bị xáo trộn.@
+` ... Ngay cả từ đây, tôi vẫn hiểu rõ mọi thứ.@
+` Khu vực xung quanh cô ấy bị biến dạng giống như ảo ảnh do nhiệt độ gây ra, và nó dường như xa lạ hơn cả không khí trong tòa nhà.
+\
+`"Haa, g, uwaaaaaa………!"@
+` SHIKI cào vào cơ thể đang bay hơi của anh ta.@
+ld c,"tachi/aki_t27",lshutter,400
+` Akiha quan sát một cách bình tĩnh mà không có sự lơ là.@
+br
+` [line=4]Sức mạnh của hai người họ...
+`    ... hoàn toàn khác biệt.
+\
+cl c,lshutter,800
+`"Thật tuyệt vời…… tiểu thư Akiha, điều đó thật…… tuyệt vời."@
+` Sau tôi, Hisui nói với giọng ngạc nhiên.@
+` Đó chính là suy nghĩ của tôi cũng vậy.@
+` …… Điều này là gì?@ Bạn có thể nói cô ấy vượt trội hơn, nhưng điều đó quá nhiều.@
+` [line=4]Cô ấy quá áp đảo.
+\
+playstop
+bg #000000,tshutter,800
+bg "bg/bg_11c",bshutter,800
+play "*9"
+ld c,"tachi/aki_t27",lshutter,800
+`"Đó là nó, SHIKI."@
+cl c,crossfade,400
+ld c,"tachi/hal_t05",lshutter,400
+`"[line=2]Akiha."@
+` Với hơi thở ngắt quãng, SHIKI bằng mọi cách gọi tên chị gái thật của mình.@
+` [line=2]Akiha chỉ nhìn Shiki không chớp mắt.
+\
+`"[line=2]Tại sao lại đối xử với tôi như vậy? Tôi là anh trai thật của em mà."@
+`"... "@
+` Nàng chuyển động,
+` sự biến dạng xung quanh Akiha tăng lên đáng kể.
+\
+`"Em yêu anh, Akiha. Chỉ có em mà thôi. Vì thế anh vẫn sống trong căn hầm ngặt nghèo đó, cố gắng tiêu diệt kẻ giả mạo và đưa chúng ta trở lại làm anh chị em...! ... Vậy tại sao, tại sao em lại cản đường anh, Akiha?"@
+cl c,crossfade,400
+ld c,"tachi/aki_t11c",crossfade,400
+`"[line=3]... Em không cản đường anh. Đây chỉ là nghĩa vụ của tôi với gia tộc Tohno— trách nhiệm phán xét những thành viên trong gia đình đi chệch khỏi con đường nhân loại."
+\
+cl c,crossfade,400
+ld c,"tachi/hal_t05",crossfade,400
+`"Tôi là người đứng đầu gia tộc Tohno! Nếu anh ấy không tồn tại, tôi vẫn sẽ là Shiki. Tôi có thể luôn là anh trai của em. Thức dậy, Akiha. Kẻ giả mạo chỉ đang lừa dối em!"@
+cl c,crossfade,400
+` Sự biến dạng xung quanh Akiha tăng lên một cách đáng kể.@
+` Sau khi nhắm mắt lại trong chốc lát, cô ấy nhìn SHIKI như thể đang nói lời tạm biệt với anh ta vậy.@
+ld c,"tachi/aki_t29",crossfade,400
+`"[line=3] Tôi không bị lừa đâu. Anh không phải là anh trai của tôi……!"
+\
+` Tiếng kêu vang lên!@
+br
+`"Aaaahhh……!"@
+` SHIKI che mặt bằng tay mình.@
+` … Nhưng điều đó cũng vô ích thôi.@
+` Tôi không hiểu Akiha sở hữu loại sức mạnh nào.@
+` [line=3]Nhưng điều đó [lối nhìn của cô ấy] lấy đi nhiệt từ mọi thứ, bất cứ thứ gì cô ấy có thể thấy. Nó là một sự "bắt cóc" không thể tránh khỏi.
+\
+` Tiếng kêu vang lên!@
+` Vì vậy trong khoảnh khắc tiếp theo,
+` Mặt Shiki sẽ bay hơi.@
+br
+` Đúng ra thì nó phải như vậy.
+\
+`"Shiki-san?"@
+` Kohaku-san nói như vậy khi cô ấy nhận ra sự hiện diện của chúng tôi.@
+playstop
+`"[line=3][lối nhìn của cô ấy] Ê?"@
+` Akiha quay lại nhìn chúng tôi với vẻ ngạc nhiên.@
+br
+cl a,notrans,0
+` ... Trong khoảnh khắc ngắn ngủi ấy,
+` ... cô ấy hạ thấp hoàn toàn sự cảnh giác của mình chỉ trong một giây lát.@
+br
+` Không thể nào anh ta sẽ bỏ lỡ cơ hội này.
+\

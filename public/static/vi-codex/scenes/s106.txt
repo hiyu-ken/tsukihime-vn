@@ -1,0 +1,323 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",crossfade,800
+`"[line=3]Tôi quá mệt mỏi."@
+` Tôi ngã xuống đất.@
+` Tôi ngồi phịch xuống, cố giữ cơ thể bằng tay.
+\
+` Tay phải cuối cùng cũng buông lỏng con dao.
+\
+`"[line=3]Lạnh."@
+` Tôi lạnh.@
+` Đau nhức đã bị tê liệt; nó gần như thoải mái.@
+` Cơ thể tôi bị rách nát bởi vết cắn của chó và chim.@
+br
+` "[line=3]Vậy thì, không có nghi ngờ gì, tôi sẽ chết như thế này."
+\
+`"[line=4]Shiki!"@
+` Giọng nói của Arcueid.@
+`"[line=4]Chạy đi, cậu đang bị nhắm mục tiêu!"@
+` Arcueid hét lên khi cô ấy lao về phía tôi. "……… Ê?"@
+` Tôi ngước nhìn bầu trời đêm khi ngồi xuống.@
+` Ở đó,`
+` Tôi nhìn thấy mặt trăng trắng.
+bg "bg/cmo_16",crossfade,800
+` và hình ảnh của một con quạ xanh.
+\
+` Nó gào thét khi lao thẳng về phía tôi.@
+` Nó rơi xuống, xuyên qua não tôi bằng chiếc mỏ sắc nhọn.@
+bg #000000,lcartain,400
+br
+`"[line=4]!"@
+` Tôi cố đứng dậy để trốn thoát.@
+` Nhưng cơ thể tôi đã đến giới hạn.@
+` Tôi cố gắng đứng nhưng chỉ kết thúc bằng việc ngã gục xuống đất.@
+` Vì tôi rơi ngửa, tôi có một cái nhìn rõ ràng đáng sợ về con quạ.@
+br
+bg "bg/ima_14",notrans,0
+` Nó lao xuống giống như một viên đạn hướng về mặt tôi[line=3]và với âm thanh của thịt bị cắt, nó chết ngay trước mắt tôi.
+\
+bg #000000,crossfade,400
+` Con chim ưng màu xanh bị đâm xuyên qua bởi một cái đinh bay giống như một thanh kiếm lớn.@
+` Nó chắc chắn phải rơi từ đâu đó trên cao.@
+`"……@
+` Tôi ngước nhìn bầu trời đêm.@
+bg "bg/ima_18",crossfade,400
+` Ở đó, là mặt trăng trắng.
+\
+bg "event/cel_e04",crossfade,1500
+br
+br
+br
+br
+br
+br
+br
+` Và, có một người mặc áo choàng đen, giống như một linh mục.
+\
+`"[line=5]@
+` Hình bóng đứng trên đèn đường và nhìn xuống tôi.@
+` Mặc dù vừa bị đánh bại đến tận cùng, tôi vẫn vô tâm nghĩ đôi giày cao gót đó thật tuyệt vời.@
+br
+` Hình bóng ấy không nói gì cả.@
+` Đôi mắt vô cảm giống như ánh trăng sắc nhọn.@
+` Giống...
+` "Hình bóng[line=4] thực sự giống Senpai."@
+br
+`"... ..."@
+` Trí óc tôi đang lơ lửng.@
+` "Gaaaaaawww." - Tiếng kêu chết của con quạ.@
+` Khi tôi nhẹ nhàng nhắm mắt lại,
+\
+bg #000000,crossfade,1500
+play "*9"
+` máu vẫn tiếp tục chảy.@
+` Trong trạng thái mơ hồ này,
+` tôi nghe thấy Arcueid và một người khác tranh luận.
+\
+`"Tôi không thể để bạn làm điều đó."@
+` "Tôi sẽ chữa lành cho anh ấy."@
+`"Một giọng nói vô cùng hung hăng:@
+` Arcueid cũng có vẻ như vậy.@
+br
+` Cô ấy nghe giống hệt, nhưng tôi mong cô ấy không ích kỷ biến tôi thành vật thể của mình.
+\
+`"Đúng vậy, điều này hoàn toàn không liên quan đến tôi lúc này.@
+` Tuy nhiên, tôi không nghĩ bạn có thể chữa lành những vết thương như thế. Tất cả bạn có thể làm là nhìn anh ta chết."@
+` Hoặc [line=4]bạn có ý định biến chàng trai trẻ này thành một trong những hạ thủ của mình, Arcueid Brunestud?"@
+`"... Bạn nghĩ tôi sẽ làm điều đó sao?"@
+` ... Tôi có thể nghe thấy sự thù địch trong giọng nói của họ.@
+` Có quá nhiều căng thẳng, tôi mong đợi một cuộc chiến sinh tử khác sắp bắt đầu.
+\
+`"Vậy thì xin im lặng. Với những vết thương đó, anh ta không thể sống lâu."@
+`"[line=3]Tôi thực sự ghét cậu. Cậu nên biến mất trước khi tôi giết cậu."@
+`"Tôi cũng ghét cậu không kém. Cậu không cần phải nói gì với tôi; tôi sẽ rời đi ngay khi vết thương của cậu lành lại."@
+` "Cậu nên biến mất trước khi tôi giết cậu. Tôi không thể chịu đựng việc nhìn thấy cậu xung quanh nữa."@
+br
+` "...Một cuộc trò chuyện đầy căng thẳng và thù địch."@
+` [line=4]Tâm trí tôi hoàn toàn trống rỗng.
+\
+bg #ffffff,crossfade,800
+!w2000
+bg "bg/bg_29b",crossfade,1500
+`"[line=4]..."@
+` Vâng, nó rất khó khăn.@
+` Tôi cảm thấy một thứ gì đó cứng nhắc chống lại lưng mình, khiến tôi giật mình tỉnh giấc.
+\
+ld c,"tachi/ark_t06",crossfade,800
+`"..."@
+`"[line=4]Huh? Arcueid?"@
+` Tôi nhìn xung quanh.@
+` Tôi đang nằm trên một băng ghế trong công viên.@
+` Tôi nhìn đồng hồ công viên, đã quá một giờ sáng. Có lẽ chỉ mới một tiếng trôi qua kể từ lúc đó.
+\
+`"………"@
+` Arcueid nhìn tôi im lặng.@
+` …… Hoặc có thể nó giống như một cái liếc mắt giận dữ hơn.@
+`"Ar…… cueid……?"@
+ld c,"tachi/ark_t04",crossfade,400
+`"……………………"@
+` Arcueid không đáp lại.@
+` Tôi không biết tại sao, nhưng cô ấy dường như rất tức giận.
+\
+`"...Ở đó."@
+` "Hiện tại, tôi đứng dậy."@
+`"[line=4]Ôi, những vết thương của tôi đã lành."@
+` "Tôi từng rất bị thương và cắt xé, nhưng không có một vết sẹo nào ở đâu cả."@
+` "Không có đau đớn nào nữa, như thể cuộc chiến với Nrvnqsr của tôi chỉ là một giấc mơ."@
+br
+` [line=3]"Nhưng đó không phải là giấc mơ."@
+` "[line=3]Vậy thì..."
+br
+`"Arcueid. Đừng nói là cậu lại dùng một phần cơ thể khác của Nrvnqsr lần nữa..."
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Không, đáng tiếc là không. Nó sẽ chỉ là một sửa chữa nhanh chóng và bạn cũng sẽ trở nên mạnh mẽ hơn với nó. Nhưng vì bạn đã tiêu diệt Nrvnqsr hoàn toàn, chúng tôi không thể sử dụng cơ thể của anh ấy nữa."@
+`"Thật sao? Vậy có vẻ như cậu đã chữa lành cho tôi theo một cách khác rồi."@
+` "... Wow, tôi thực sự đã trở lại bình thường. Tôi không còn cảm thấy đau đớn hay chóng mặt. Làm thế nào mà cậu đã làm điều này, Arcueid?"@
+`"Tôi không biết. Không phải tôi là người chữa lành cho cậu."@
+cl a,crossfade,400
+` Cô ấy thốt lên và quay mặt đi, tỏ vẻ không hài lòng.
+\
+`"...?"@
+` Có vẻ như vậy.@
+` Nhưng... nếu cô ấy không phải là người chữa lành cho tôi, thì ai đã làm điều đó[line=4]?
+\
+bg "event/cel_e04",crossfade,400
+bg "bg/bg_29b",crossfade,400
+`"Ah." [line=6]@
+br
+` Có một lúc.@
+` Có một người khác.@
+` Ai đó đã giúp tôi.@
+` "Người phụ nữ mặc áo đen giống Senpai quá mức."
+\
+`"Arcueid... người kia từ trước ở đâu vậy?!!"@
+ld c,"tachi/ark_t06",crossfade,400
+`"………………`@
+` Cô ấy vẫn tỏ vẻ không hài lòng, quay mặt đi và bỏ qua tôi.@
+`"Này Arcueid! Tôi hỏi cậu chuyện gì đã xảy ra với người kia trước đây!"@
+`"Tôi không biết. Tôi chẳng thấy ai cả."@
+` Cô ấy quay đi và giả vờ như thể không biết điều gì.
+\
+`"[line=3]Này, cậu vừa nói rằng cậu không phải là người đã giúp tôi. Nếu không phải cậu, thì ai khác có thể đã làm điều đó?"@
+ld c,"tachi/ark_t16",crossfade,400
+`"Đủ rồi! Tôi đã nói tôi không biết, nên đừng hỏi nữa!"@
+br
+` Ồ... Có vẻ như cô ấy đang đổ lỗi cho tôi.@
+br
+`"Đầu tiên, tại sao cậu lại quan tâm đến người kia? Nó chẳng liên quan gì đến cậu, phải không?"@
+`"[line=3]Đừng ngốc thế! Có điều gì đó. ... Đêm quá tối; tôi không thể nhìn rõ lắm, nhưng người đó trông giống ai đó mà tôi biết."
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"[line=4]Đó chỉ là một sự trùng hợp.@ Chỉ cần quên về người đó đi.@ Nếu cậu nói lại chuyện này trước mặt tôi, tôi thực sự sẽ tức giận."@
+cl a,crossfade,400
+` Cô ấy nhanh chóng quay mặt đi.@
+`"... Tại sao cậu lại quá giận dữ?"@
+` Tôi lẽ ra phải là người tức giận.@
+` Tôi chỉ muốn biết danh tính của người đó trước đây, thôi mà.
+\
+`"... Được rồi, tôi hiểu rồi.@ Tôi không hỏi nữa.@ Hơn nữa, mối quan hệ đối tác của chúng ta cũng kết thúc ở đây."@
+ld c,"tachi/ark_t11",crossfade,400
+`"[line=3]Ồ?"@
+`"Không phải rất rõ ràng sao?@ Chúng ta đã đánh bại ma cà rồng đã làm theo ý muốn trong thị trấn này, nên trách nhiệm của tôi giờ đã hết.@
+` "Tôi phải về nhà sớm thôi, nếu không Akiha sẽ la mắng tôi." - "Có lẽ đã đến lúc kết thúc nó rồi, Arcueid."@
+ld c,"tachi/ark_t03",crossfade,400
+`"[line=4]Hừm, bạn đúng đấy." - "Giờ mà nghĩ lại, đã muộn thế này rồi."@
+` Arcueid gật đầu.
+\
+cl a,lshutter,400
+`"Được rồi."@
+` Tôi cũng gật đầu đồng tình.@
+br
+` "... Tôi gật đầu vì không hiểu rõ, nhưng..."
+` "Còn dư âm nào đó."@
+` "Có lẽ là tôi đang hối hận vì rời xa cô ấy."@
+br
+`"[line=5]" @
+` "Đó là điều vô lý." @
+` "Cô ấy là một ma cà rồng, còn tôi chỉ là một con người bình thường." @
+` "Nếu tôi tiếp tục ở bên cô ấy…… có lẽ sẽ xảy ra điều gì đó mà tôi không thể rút lại được." @
+\
+`"…… Tạm biệt, Arcueid." @
+` "Tôi giơ tay lên và bước đi." @
+`"Ờm. Có rất nhiều chuyện khủng khiếp đã xảy ra, nhưng cũng có những lúc vui vẻ. Vậy nên[line=3]... hãy chăm sóc bản thân nhé." @
+ld c,"tachi/ark_t01a",crossfade,400
+`"Đúng vậy. Đã muộn rồi, và cô ấy cần trở về nhà." @
+ld c,"tachi/ark_t08",crossfade,400
+`"Chúc ngủ ngon. Cho đến lần sau, Shiki!"@
+cl a,lshutter,400
+`"... Cô ấy vừa nói điều gì đó kỳ lạ."@
+` Tôi cố gắng nói, "Đây là lần cuối cùng, ngốc ạ," nhưng tôi đã kiềm chế lại.
+\
+` "À... Cô ấy có nhiều vấn đề, nhưng thực sự là một người thú vị."@
+`"Tôi nói như thể đang cố thuyết phục bản thân vậy.@
+` Nhưng đó là sự thật.@
+` Vì vậy, dù chỉ thỉnh thoảng...@
+` ...Tôi vẫn sẽ tiếp tục.
+` [line=2][line=2]Tôi cảm thấy như thể, nếu có một cơ hội nào đó chúng ta gặp lại nhau, cũng không phải là điều tồi tệ.
+\
+bg #000000,crossfade,1500
+playstop
+!w1000
+bg "bg/bg_32d",crossfade,1500
+` Tôi quay trở về biệt thự.@
+` Đã hai giờ sáng, và không có ánh đèn nào bật trong biệt thự.@
+br
+`"... Tôi phải lén vào."@
+` Tôi trèo qua hàng rào và bước vào vườn.@
+` May mắn thay, cửa mở và tôi có thể bước vào bên trong mà không đánh thức ai.
+\
+bg "bg/bg_48d",lcartain,800
+bg "bg/bg_33d",lcartain,800
+bg "bg/bg_40d",lcartain,800
+` *thở dài*@
+` Tôi trở về phòng và hít một hơi sâu.@
+br
+` Đã kết thúc rồi.@
+` Tôi thực sự cảm nhận được tất cả những sự kiện trong ba ngày qua, mọi thứ kỳ lạ, đã hoàn toàn chấm dứt.@
+br
+`"[line=4]Vậy thì... giờ là lúc đi ngủ.@
+` Tôi chìm cơ thể mệt mỏi vào giường và ngủ thiếp đi.
+\
+bg #000000,crossfade,1500
+br
+` [line=3]Hoặc ít nhất, tôi định làm thế.@
+br
+`"...@
+` Nhưng, tôi không thể ngủ được.@
+` Tâm trí và cơ thể tôi mệt mỏi, nhưng tôi không thể ngừng suy nghĩ về hình bóng đó và không thể ngủ.@
+`"... Nó không thể... là Senpai, nhưng..."@
+` Nhưng, cô ấy quá giống Senpai.
+\
+` Tôi không thể nhìn rõ mặt cô ấy, nên tôi không chắc chắn được.@
+` Vì vậy[line=3]tôi nghĩ đó chỉ là lỗi của tôi.@
+`"... Ngày mai... Tôi sẽ hỏi cô ấy... ở trường."@
+` Đúng rồi[line=3]nhưng như thế.@
+` Tôi có thể gặp cô ấy ở trường bất cứ lúc nào, nên tôi sẽ hỏi cô ấy lúc đó. Sau đó, cô ấy có thể nói, "Đó không phải là tôi," và mọi thứ sẽ ổn thôi.
+\
+`"[line=4]Được rồi, đó là điều tôi sẽ làm."@
+` Đã quyết định rồi.@
+` [line=3]Bây giờ, nếu tôi chỉ đọc một cuốn sách chán, có lẽ tôi sẽ ngủ thiếp đi.
+\
+bg "bg/cmo_15",lshutter,800
+waveloop se_11
+br
+br
+br
+br
+br
+br
+br
+` "Vô tử".
+\
+` Nếu những từ đó trở thành hiện thực vĩ đại, nó sẽ là một trong những điều định nghĩa vĩnh cửu.@
+` Nhưng trên thực tế, không có thứ gì trong sự tồn tại đã đạt đến mức đó.
+\
+` Ví dụ, những ma cà rồng thỉnh thoảng được nhắc đến trong truyền thuyết không phải là vô tử.@
+` Cuối cùng, chúng bị lỗi vì cần ăn cắp từ người khác để tồn tại.@
+` Thêm vào đó, thực tế rằng các bộ phận phụ trợ của họ phải cùng loài [line=3]trong trường hợp này, thường đề cập đến con người [line=4]nghĩa là chúng không hề đa năng chút nào.@
+` Chúng tự xưng là chủng tộc siêu việt, nhưng điều đó không phải là tiến hóa, mà là thoái hóa.@
+br
+` Điều gì không thể hoạt động độc lập mãi mãi không thể được gọi là vĩnh cửu.@
+` Ngạo mạn khi gọi thứ gì đó bất tử nếu nó phụ thuộc vào người khác để ngăn sự lão hóa của nó.
+\
+` Đã có thứ gần như hoàn hảo có thể hoạt động độc lập mãi mãi.@
+` Nó ăn vào chính bản thân mình và sinh sản. Nó không có khái niệm về tuổi thọ. Các tế bào già trở thành thức ăn như chất dinh dưỡng và các tế bào mới được tạo ra từ nó.@
+` Giống như sứa biển.@
+` Tuy nhiên, nó chỉ vĩnh cửu vì thiếu trí thông minh.@
+` Nếu không có trí tuệ là điều tốt, thì nó cũng chẳng khác gì đạt được sự bất tử qua cái chết.
+\
+` Nếu bạn muốn sống vĩnh viễn như một con người, điều đó là không thể bằng phương pháp bất tử.@
+` Những năm tháng dài phá hủy cơ thể và làm mờ đi sự linh hoạt của tâm trí.
+\
+` Bất tử hay sự bất tử?@
+` Tôi không gắn bó với sự bất tử bẩn thỉu.@
+` Duy trì bản dạng cá nhân một cách kiên định khiến sự bất tử trở nên không thể đạt được.@
+br
+` Thay vì đạt được bất tử với tư cách là một con người đơn lẻ,
+` Tôi đã chọn vô hạn trong đó tôi tiếp tục tồn tại vĩnh cửu.
+\
+bg #000000,lshutter,800
+bg "bg/cmo_10",lshutter,800
+` Tôi hiểu rồi; cách tiếp cận khác hẳn so với tôi. Tuy nhiên, với phương pháp của bạn, liệu bạn không sẽ mất đi vĩnh hằng khi loài người tuyệt chủng?@
+` Phương pháp của bạn luôn yêu cầu một đứa trẻ chưa sinh ngoài chính bản thân bạn.
+\
+` Đúng vậy. Nhưng nếu không có bất kỳ con người nào khác tồn tại, tôi sẽ không thể xác nhận về chính mình.@
+` Vì vậy[line=4]nếu loài người tuyệt chủng, tiếp tục sống sẽ trở nên vô nghĩa. Khi ấy, sự bất tử của tôi sẽ kết thúc.
+\
+` ... Tôi không hiểu lý thuyết của bạn. Điều đó hoàn toàn xa rời luận điểm về vĩnh hằng, Kẻ Rắn.
+\
+` Không, đó là vĩnh hằng. Khi thời khắc tuyệt chủng đến, mọi thứ đều nên biến mất. Nếu những người quan sát ngừng tồn tại, điều đó có nghĩa là mọi thứ đều không thay đổi.@
+` Sự vĩnh hằng mà tôi mang theo chỉ tạm thời cho đến khi thời khắc ấy xảy ra.@
+` Tôi không thể biến tất cả thành không gì cả. Do đó, tôi sẽ tiếp tục sống cho đến khi nó xảy ra.@
+` Mặc dù, tôi đã tìm thấy một trò chơi khác.
+\
+` Đó là lý do tại sao cậu gọi tôi?
+\
+` Vâng. Tôi sẽ cho cậu thấy một phương pháp huyền bí giúp cậu định hình điều bên trong mình một chút. Có ai đó mà tôi muốn cậu bắt được bằng thành tựu từ thời đại của các vị thần, Chaos.
+\
+wavestop
+bg #000000,lcartain,800
+!w3000

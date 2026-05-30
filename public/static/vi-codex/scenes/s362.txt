@@ -1,0 +1,795 @@
+playstop
+wavestop
+bg "bg/bg_40c",notrans,0
+`"[line=2]Tôi không thể để nó không được trả lời."@
+` Nếu giấc mơ đó là thực.@
+` Tôi có phải là một kẻ hút máu, sát nhân?@
+` ... Tôi không thể để những câu hỏi đó không được trả lời.@
+br
+`"Tôi nên cầm nó, chỉ trong trường hợp...@
+` Con dao đã nằm trên bàn làm việc của tôi từ sau sự kiện với Satsuki; tôi lén bỏ nó vào túi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33c",lcartain,800
+play "*9"
+` Tôi lặng lẽ đi xuống sảnh để Hisui và Kohaku-san không nhận ra.@
+` [line=3]Tôi chỉ cần mở cửa mà không gây tiếng động.
+br
+` Nhưng trước khi tôi kịp mở nó, cánh cửa mở ra với một âm thanh rắc rắc.
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"Anh trai?@ Chuyện gì vậy?@ Tại sao anh đứng đây, như đóng băng?"@
+`"A[line=3]Akiha, anh..."@
+` Tôi hỏi không nói thành lời.@
+ld c,"tachi/aki_t03b",crossfade,400
+`"Tôi chỉ đang dạo bước trong vườn.@ Anh trai, sao anh lại ở đây? Anh trông như sắp ra ngoài vậy."@
+`"... Vâng.@ Tôi để quên thứ gì đó ở trường, nên tôi quay lại lấy."@
+` Tôi không muốn nói dối với Akiha.@
+` Vì vậy, tôi cố gắng nói ít nhất có thể.
+\
+ld c,"tachi/aki_t18b",crossfade,400
+`"Ừm, cậu quên điều gì đó?"@
+` Akiha nhíu mày nhìn tôi.@
+!w2000
+ld c,"tachi/aki_t03b",crossfade,400
+`"Ừm... được rồi, vẫn là tám giờ. Nhớ về trước chín giờ nhé, anh trai."@
+`"Đúng vậy. Tôi sẽ về trong một tiếng."@
+ld c,"tachi/aki_t09b",crossfade,400
+`"Được rồi. Tôi sẽ để cửa không khóa; hãy cẩn thận nhé."@
+cl a,lshutter,800
+` Akiha đi vào phòng khách.@
+` Thật kỳ lạ. Trước đây, tôi sẽ bị nghi ngờ nhiều hơn, nhưng Akiha dường như hoàn toàn tin tưởng tôi.
+\
+` Có phải vì những gì đã xảy ra trong vườn đêm qua?@
+` Được Akiha tin tưởng, cảm thấy cô ấy tin tưởng tôi, khiến tôi rất hạnh phúc.@
+br
+` [line=3]Hãy cẩn thận khi ở bên cô ấy.@
+br
+`"[line=5]Ừm."@
+` Lời của Senpai trở lại như một lời nguyền.@
+`"... Dù sao đi nữa. Tôi sẽ đến trường và về ngay. Và tôi sẽ gặp Senpai."@
+` Được rồi. Tôi nắm lấy tay nắm cửa.
+\
+bg #000000,tcartain,800
+!w1000
+playstop
+bg "bg/bg_01c",bcartain,400
+` [line=4]Trường học chìm trong sự im lặng.
+\
+br
+` Trường của chúng ta đóng cửa lúc nửa bảy tối, và không có giáo viên hay nhân viên dọn dẹp tuần tra vào ban đêm.@
+` Vào thời điểm này, các tòa nhà hoàn toàn trống rỗng.
+\
+bg "bg/bg_03c",lshutter,800
+` ... Ở khắp mọi nơi, nó yên tĩnh.@
+` Tiếng duy nhất tôi nghe thấy là nhịp đập của trái tim mình.@
+br
+`"Liệu Senpai có ở trong trường chăng? Tôi tự hỏi..."@
+` Mặc dù cô ấy nói sẽ đợi ở trường, nhưng cô ấy chưa bao giờ nói rõ ở đâu.@
+` ... Không, có lẽ Senpai cố ý không nói với tôi.
+\
+`"... Vậy thì cũng không có cách nào khác. Tôi sẽ phá khóa cửa sổ và vào đi."@
+` Tôi tháo kính ra.@
+monocro #0000ff
+bg "bg/bg_03c",crossfade,400
+`"... Kuh."@
+` Cùng với một cơn đau đầu nhẹ, những "dòng" xuất hiện trước mặt tôi.@
+` Những "dòng" mà mọi thứ dễ dàng bị vỡ nát.@
+` Những thứ có thể bị cắt chỉ bằng cách đi qua chúng.
+\
+`"... Với Yumizuka, đó chỉ là sự tuyệt vọng..."@
+` Tháo kính một cách bình tĩnh như vậy, tôi thực sự nhận ra đôi mắt kỳ lạ của mình.@
+`"... Bây giờ, cửa sổ nào có đường nứt trên khóa?"@
+` "Dù bất cứ thứ gì cũng có thể cắt, nhưng chúng chỉ có thể cắt ở nơi các 'đường' xuất hiện."@
+` "Nếu tôi cắt tường hoặc cửa sổ chính nó, nó sẽ thu hút sự chú ý ngày mai. Cắt phải nhỏ nhất có thể."
+\
+`"Ồ, hoàn hảo. Đây đi..."@
+` "Với một tiếng nhấp, tôi cắt khóa mượt mà và mở cửa sổ hành lang."
+\
+monocro off
+bg #000000,lshutter,400
+bg "bg/bg_10f",lshutter,400
+play "*6"
+wave se_01
+` "[line=5] Đột nhiên."@
+br
+` "Ngực tôi đau ngay khi tôi trèo qua cửa sổ."@
+bg #000000,crossfade,400
+bg "bg/bg_10f",crossfade,400
+`"Ừm..."@
+` Cái gì thế?@
+` Nó... thực sự đáng sợ...
+br
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_10f",crossfade,400
+` [line=4]Một tiếng đập mạnh.@
+br
+` Không khí đầy rẫy sự tà ác.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_10f",crossfade,400
+`"...Senpai... em ở đâu?"@
+` Thậm chí nói cũng khó khăn.@
+` Trái tim tôi đập thình thịch.@
+` Một nhịp đập vang dội, như một cái trống đẩy máu về phía sau.
+\
+bg #000000,crossfade,400
+bg "bg/bg_10f",crossfade,400
+`"…… Huh…?"@
+` Nó dường như ngón tay tôi đang run rẩy.@
+` Tôi cảm thấy khó chịu.@
+` Không có kính, cơn đau đầu của tôi càng trở nên tồi tệ hơn từng giây.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_10f",crossfade,400
+`"Đây là cái gì… nó… kỳ lạ…"@
+` Tôi không hiểu.@
+` Không khí bên trong tòa nhà hoàn toàn khác so với bên ngoài.@
+` Nếu tôi phải diễn đạt bằng lời, thì nó thiếu sự sống.@
+` So với không khí trong lành bên ngoài, không khí trong hành lang quá yếu đến nỗi khiến người ta buồn bã.
+\
+bg #000000,crossfade,400
+bg "bg/bg_10f",crossfade,400
+`"... Nhưng, tôi biết..."@
+` Mặc dù lần đầu tiên tôi hít thở không khí này, tôi vẫn biết nó.@
+br
+` Vì tôi luôn quan sát nó.@
+` Mỗi đêm, trong giấc mơ của tôi.@
+` Khi tôi giết người và uống máu họ, bầu không khí lúc nào cũng... tràn ngập mùi phân hủy này.
+\
+!w3000
+wave se_05
+`"Ồ?"[line=4]?@
+` Một âm thanh.@ Từ phía sau tôi, âm thanh của thứ gì đó rơi xuống.@
+`"Senpai...?"@
+` Tôi quay lại.@
+` Ở đó, có...
+ld c,"tachi/man_t03",tshutter,400
+br
+` Một người đàn ông lạ.
+\
+cl c,crossfade,400
+`"Ồ...!"@
+` Tôi áp tay lên miệng, sắp nôn mửa.@
+` Người đàn ông... những "dòng" chạy trong cơ thể anh ta.@
+` Chúng chảy qua toàn bộ cơ thể anh ta như các mạch máu.@
+`"[line=5] Tôi.""@
+` Người đàn ông bước về phía tôi, như thể trong một cảnh quay chậm.
+\
+`"[line=4]Ồ... xin chào?"@
+` Tôi quyết định và nói chuyện với anh ấy.@
+` "Đó là kỳ lạ, nhưng đôi mắt tôi còn kỳ lạ hơn."@
+` Đây là lần đầu tiên tôi thấy những đường nét trải khắp cơ thể một người như vậy, nhưng nếu bạn lấy chúng đi, bạn sẽ có một con người bình thường.@
+`"[line=3][line=3]['[hàng=3]Tiếng gầm gừ...']"@
+` Người đàn ông đang nói điều gì đó.@
+` Giọng nói của anh ấy không phải là tiếng ồn, tôi không thể nghe thấy.
+\
+bg #000000,crossfade,400
+bg "bg/bg_10f",crossfade,400
+` Người đàn ông đang tiến lại gần.@
+` Tại sao vậy? Mỗi khi người đàn ông đến gần hơn, một cơn rùng mình chạy dọc theo cơ thể tôi.@
+` [line=3]
+br
+`"[line=4]Gih"@
+` Người đàn ông đứng ngay trước mặt tôi.@
+`"W… chờ đã, ai là..."@
+` …… bạn? Tôi thậm chí còn không có thời gian để kết thúc câu.
+\
+wave se_10
+3,50 giây sau, một tiếng động lớn xảy ra.
+bg #000000,tshutter,400
+`"[line=4]Ôi trời!"@
+` Có một tiếng va chạm.@
+` Khi anh ta tiến lại gần, người đàn ông đẩy tôi sang một bên bằng một bàn tay duy nhất.@
+`"[line=3]Ối chao!"@
+` Đau nhức ở lưng. Tôi bị ném sang một bên và lưng tôi đập mạnh vào tường.@
+` Sự việc diễn ra quá nhanh, cơn đau khiến mắt tôi choáng váng.
+\
+bg "bg/bg_10c",lshutter,400
+`"Ôi... anh đang làm gì thế này bỗng dưng...!"@
+` Tôi đứng dậy và nhìn chằm chằm vào người đàn ông.@
+ld c,"tachi/man_t01",crossfade,400
+wave se_01
+`"[line=6]"@
+` Giọng nói của tôi tắt lịm.@
+` Anh ta... anh ta là ai vậy?@
+` Điều này là gì trước mặt tôi?@
+` Có phải đây là một con người không? Một sinh vật sống?@
+br
+` Không, điều đó không quan trọng lúc này.
+\
+bg "bg/bg_10f",crossfade,400
+ld c,"tachi/man_t03",crossfade,400
+` Tôi lấy lại thị lực và nhìn vào người đàn ông lần nữa.@
+` Vâng, nó đã trở lại.@
+` Thầy nói rằng đôi mắt tôi nhìn thấy "cái chết" bên trong mọi thứ.@
+` Đúng vậy.@
+` [line=3]Vì...
+\
+`"[line=3]...bạn là..."@
+br
+`"[line=3]...gi-gi-gi, gi-gi-gi-h."@
+br
+` Người đàn ông đang cố nói điều gì đó.@
+` Tất nhiên là anh ta không thể nói ra lời. Vì nửa cổ họng của anh ta đã bị mất. Nó bị một thứ gì đó cắn bỏ. Vì vậy anh ta không thể nói được.
+\
+`"[line=3]Tại sao cậu lại bị giết hôm qua..."@
+`"[line=3]Gi...gi...gi-gigigigih..."@
+` Vai cậu run rẩy; có vẻ như cậu đang cười.@
+` Nhưng không có sai lầm nào cả.@
+` Thây trước mặt tôi chắc chắn là người mà tôi đã giết trong giấc mơ hôm qua.
+\
+`"[line=3]Ồ..."@
+` Người đó tiến lại gần từ từ.@
+`"[line=4]Ồ..."@
+` Không có suy nghĩ nào. Khối chết đang tiến lại gần.@
+`"[line=4]Aha..."@
+` Một cơn rùng mình đau đớn.@
+` Sau đó, tôi nhận ra. Khi người đàn ông ném tôi xuống trước mặt, bên hông tôi bị thương.
+\
+` Cơ thể tôi đau nhức. Không chỉ ở mức độ cơ bắp; xương của tôi cũng đang rắc rối.@
+` Chắc chắn có điều gì đó đã xảy ra với sườn tôi.@
+`"[line=4]Gih... gigigigigigih..."@
+` Người đàn ông vung một cánh tay lên.@
+` Cuối cùng, cái đầu ngốc nghếch của tôi cũng hiểu rồi.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Chắc chắn rồi.
+` Anh ấy định giết tôi.
+\
+cl c,lshutter,400
+`"[line=4]Chào!"@
+` Tôi lách người tránh cú đánh của cánh tay anh ta.@
+` Có một âm thanh nghiền nát khó chịu.@
+` Tay người đàn ông bị vắt vào tường... nó xuyên sâu ngay vào bức tường bê tông.@
+` Anh ấy không giữ lại chút nào.@
+` Khi phá một bức tường bê tông, và để trả đũa, anh ta đang gãy xương của chính mình.@
+`"[line=3]Ha ha..."@
+` Đó là một thế giới buồn cười, khó tin.@
+` Nếu đó là một giấc mơ... nếu đó là một giấc mơ, tôi muốn nó kết thúc ngay bây giờ.
+\
+`"[line=3]Gih..."@
+` Người đàn ông quay lại nhìn tôi.@
+`"[line=3]Aaa, ah..."@
+` Một tiếng giòn khác vang lên.@
+` Người đàn ông tiến lại gần tôi, tay anh ta vẫn mắc kẹt trong bức tường bê tông.@
+` Tay đó. Bị mắc kẹt trong tường, nó rách rời khỏi cơ thể.@
+`"Gi-hì, gi-gih, gi-hì."@
+` Nó vẫn đang cười.@
+`"Ah[line=3]aaaahhhh!"@
+` Chân tôi di chuyển.@
+` Tôi không thể chịu đựng thêm ở đây nữa.
+\
+bg #000000,lshutter,400
+bg "bg/bg_07b",lshutter,400
+`"Ahh, ghah, ghah…!"@
+` Tôi gục xuống đầu gối với một tiếng nổ.@
+` Người đàn ông... xác đó không theo kịp. Với tốc độ này, nó không thể bắt kịp tôi.
+\
+`"Hah, ghahh..."@
+` Ngực tôi đau nhức.@
+` Mỗi khi hít thở, xương sườn tôi như sắp vỡ.
+\
+`"Gah... hah... ha... h."@
+` Tôi cố gắng lấy lại hơi thở.@
+` Bằng một cách nào đó.@
+` Tôi phải tìm cách trở lại bình thường. Tôi cần bình tĩnh lại.@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_07b",crossfade,400
+` Suy nghĩ. Nhìn xem, rồi mới suy nghĩ. Tôi học được điều đó từ Thầy.@
+` Vì vậy tôi phải suy nghĩ thật kỹ.@
+` Ngay cả khi đó là một xác chết.@
+` Ngay cả khi đó là ai đó mà tôi đã giết.
+\
+`"[line=3]Ha! Tôi không thể nghĩ về điều đó, chỉ...!"@
+br
+` Phớt lờ cơn đau ở xương sườn, tôi thét lên.@
+` Tôi không hiểu.@
+` Tôi không thể hiểu được.@
+` Người mà tôi đã giết sắp giết tôi.@
+` Người mà tôi đã giết trở lại để trả thù.
+\
+` [line=3]Đó chỉ là một giấc mơ kinh hoàng.@
+` Điều này không thể là thực tế, chỉ là một cơn ác mộng điên rồ.@
+br
+` Nhưng tôi đang nói gì vậy?@
+` [line=4]Tôi đã bị mắc kẹt trong một cơn ác mộng từ lâu rồi.
+\
+`"Chết tiệt!"@
+` Tôi phải lấy lại hơi thở và chạy đi.@
+` Tôi phải rời khỏi trường, quay về biệt thự, nói với Akiha rằng tôi đã về...@
+wave se_09
+`"[line=5]Ồ?"@
+` Một âm thanh từ phía sau tôi.@
+`"[line=3]Không thể nào."@
+` Nó đuổi kịp? Không, điều đó là không thể. Nó di chuyển quá chậm, không thể bắt kịp như vậy.
+\
+` Tôi nhìn xuống cầu thang.@
+` ... Không ai đang lên trên.@
+` [line=4]Tiếng ồn chỉ là do máy rung của tôi.
+ld c,"tachi/man_t01",notrans,0
+wave se_10
+2,100 lần rung động.
+bg #000000,notrans,0
+!w1000
+bg "bg/bg_10f",lshutter,400
+`"[line=5]Ôi trời!"@
+` Lại thua rồi.@
+` Khi tôi quay lại trên cầu thang, dường như nó đã xuất hiện từ trước.
+\
+`"[line=3]Phải chạy đi..."@
+` Tôi kéo cơ thể đau nhức của mình lên.@
+bg #9c0120,notrans,0
+bg "bg/bg_10f",notrans,0
+`"[line=3]Ồi!"@
+` Tôi lại ngã xuống với một tiếng vang.@
+` Có vẻ như khi anh ta ném tôi lần này, chân tôi bị tổn thương.@
+` Không có chút sức mạnh nào ở chân phải của tôi.@
+` Tôi không thể đứng dậy và cũng không thể trốn thoát.
+\
+wave se_08
+playstop
+`"[line=4]Nghe tiếng chân tiến lại gần."@
+` Tiếng bước chân đến gần, vang lên khô khốc và vô cảm.@
+br
+wave se_01
+` [line=3]Một âm thanh "thùng thình" vang lên.@
+br
+` Tiếng lách cách, lách cách — một âm thanh khô khan, không mang chút cảm xúc nào.@
+wave se_01
+br
+` [line=3]Thêm một tiếng "thùng thình".@
+br
+` Mùi hôi thối của xác chết ngấm vào không khí.
+\
+wave se_01
+` [line=3]Tiếng "thùng thình" lại vang lên.@
+br
+` Tim tôi đập mạnh. @ Tất cả suy nghĩ hợp lý đã từ lâu rời bỏ tôi.@
+br
+wave se_01
+` [line=3]Tiếng đập mạnh.@
+br
+` Nó đang đến gần.
+\
+` Thi thể đó sắp giết tôi.
+\
+ld c,"tachi/man_t03",crossfade,800
+`"[line=4]Ôi trời."@
+` Tôi chỉ sợ hãi thôi.@
+`"Gih..."@
+` Nó đang đến rồi.@
+` Với cơ thể đầy vết lỗ, nó đến để giết tôi.@
+` Một bước nữa.@
+` Sau đó nó sẽ xuyên qua ngực tôi như nó đã làm với bức tường, và điều đó sẽ là kết thúc.@
+`"[line=4]Ha...ha..."@
+` Vào khoảnh khắc ấy, tôi tự hỏi.@
+` Điều gì khiến tôi sợ?
+\
+` Tôi có sợ vì người mà tôi đã giết quay lại?@
+` Không, điều đó không phải.@
+` Tôi có sợ vì sắp bị giết?@
+` Không, cũng không phải như vậy.@
+wave se_01
+bg #000000,crossfade,400
+monocro #ff0000
+bg "bg/bg_10f",crossfade,400
+br
+` Tôi chỉ nhớ một điều duy nhất.@
+` Trong giấc mơ, cảm giác nóng bỏng khi tôi giết người là thế nào.@
+` ... Tôi sợ tội ác của chính mình.@
+` Tôi sợ tội ác của chính mình khi cố gắng giết người.
+\
+`"[line=5]Khá... khà... khà..."@
+` Vậy thì, nếu đó là sự thật, không có vấn đề gì cả.@
+` Người này đã chết rồi, nên chẳng có gì phải sợ.@
+` Không có gì sai khi an ủi những linh hồn đã khuất.@
+br
+` Vậy mà...@
+` Không cần phải chần chừ trước việc giết chóc nữa, phải không?
+\
+`"Gì thế này?"@
+` Cơ thể vung một cánh tay lên.@
+` Tôi lấy con dao ra khỏi túi.@
+monocro off
+bg #000000,lshutter,400
+br
+` [line=3]Những gì xảy ra sau đó thực sự rất nhanh chóng.@
+br
+` Có lẽ là vì tôi đã chứng kiến những tội ác ấy trong giấc mơ? Hoặc có thể vì những tội ác ấy được thực hiện bởi chính tay tôi, như tôi nghi ngờ.@
+` Tay tôi di chuyển với tốc độ không thể tin được, và đánh xuống xác chết như một kẻ giết người thực thụ.
+\
+bg "bg/bg_10f",lshutter,800
+play "*9"
+` Thịt, chia thành tám miếng, giờ chỉ lăn quanh hành lang.@
+br
+`"[line=3]Ha ha."@
+` Một cơn rùng mình.@
+` Cảm giác cắt thịt. Sự chấp nhận việc lấy đi một mạng sống.@
+` Không có dòng máu chảy.@
+` Chỉ có con dao của tôi thấm đẫm máu; tôi vẫn trong sạch.
+\
+`"[line=5]"@
+` Rùng mình.@
+` Cảm giác đau đớn và lạnh lẽo bò lên lưng tôi.@
+` Không có gì để giành lấy.@
+` [line=4]Chỉ có con dao của tôi thấm đẫm máu, tôi chẳng có được điều gì.
+\
+`"[line=4]Hah."@
+` Tôi chỉ cảm thấy mình sắp bị ốm.@
+` Có thể tôi đang mất trí.@
+` Khi nhìn vào những xác chết trước mặt, trái tim tôi như bị xé toạc.
+\
+` Đêm trường học.@
+` Dưới ánh trăng, nó thật đáng yêu.
+\
+br
+`"... Ha..."@
+br
+!w750
+`"... Haha..."@
+br
+!w500
+`"... Ahahahahahahaha!"
+\
+` Tôi cười không ngừng.@
+` Nó không hề buồn cười.@
+` Chỉ có sự hối tiếc thôi.@
+` Tôi đã giết. Dù lý do thế nào, tôi lại giết một người khác.@
+br
+` [line=4]Ngay cả khi anh ta vô tội.@
+` Người này cũng có một cuộc sống cần được bảo vệ.
+\
+`"Ha ha, hahaha, hahahahahahaha...!"@
+` Một tiếng cười ngắt quãng.@
+` Tôi muốn cắt bỏ đôi tai vì đã nghe thấy và cổ họng vì đã cười.@
+` Nhưng tôi chỉ có thể cười.@
+` Ít nhất, tôi phải cười.@
+` Nếu tôi không thực hiện một hành động giống như con người, tôi sẽ sụp đổ.
+\
+`"Ha ha, ha, ha, ha..." [line=5]@
+` Tôi không cười vì điều gì đó buồn cười.@
+` Tôi cười để giữ được sự tỉnh táo của mình.@
+` Nếu tôi không thể chế giễu chính bản thân, tôi không thể giữ được sự tỉnh táo.@
+br
+`"Hah hahaha, ha... hah." [line=4]@
+br
+` Có lẽ tôi nên khóc thay.@
+` Nhưng tôi sẽ không cho phép bản thân mình sống dối trá như vậy.@
+` Tôi có nghĩa gì khi... giết người chết... không phải là một tội ác.
+\
+`"[line=3][line=5]Ha ha ha."@
+` ... nó không thay đổi.@
+` Dù anh ta còn sống hay đã chết, điều đó không thay đổi thực tế rằng tôi đã quyết định giết anh ta.@
+` Ngay cả khi anh ta đã là xác chết, cảm giác ngăn chặn hoạt động của anh ta không giảm bớt.@
+`"[line=4]Ha."@
+` Tôi không thể giận bản thân vì sự ngốc nghếch này.@
+` Ngay cả khi họ đã chết, giết người vẫn là một tội lỗi.@
+` Tôi, Tohno Shiki, miễn là vẫn là một con người đúng nghĩa, gánh nặng của tội lỗi này sẽ không bao giờ rời bỏ tôi.
+\
+` ... Tôi nhớ Yumizuka.@
+` Ngay cả khi đó là điều đúng đắn để làm, cuối cùng, tôi biết cô ấy muốn sống.@
+` Nói cái chết là sự cứu rỗi chỉ là mong muốn ích kỷ của những người vẫn còn sống.@
+` Cái chết...
+` Chỉ đơn giản như vậy và vô cùng đau đớn.
+\
+wave se_09
+` [line=4]Có ai đó đang đến.@
+br
+` Lần này, nó nhất định phải là Senpai.@
+`"Kuh." [line=5]@
+` Không biết sao, tôi đứng đó, nắm chặt vào tường.
+\
+` "Đập, đập."@
+` Tim tôi vẫn đập mạnh mẽ.
+\
+` Cho dù trái tim tôi đã chết một nửa, cơ thể tôi vẫn cố gắng sống đến cuối cùng.@
+br
+` "Một cuộc sống vô nghĩa thê thảm."@
+` Chết như thế này thật đau... Tôi nhận ra điều đó từ tám năm trước, trong khoảng thời gian tôi ở bên Yumizuka, và ngay cả vào khoảnh khắc này.@
+` Dù vậy, cơ thể Tohno Shiki vẫn đang cố gắng lớn lao để sống sót.
+\
+`"…… Rất... xấu xí"[line=3]@
+` Nhưng, điều gì mới là xấu xí?@
+` Lòng tin rằng tôi nên chết, vì tôi là kẻ giết người?@
+` Hay cơ thể, cố gắng sống bằng cách giết người khác?@
+` Tôi nghĩ đó là trái tim.@
+` Tốt hay xấu, trái tim tôi thực sự mong manh sau tất cả.
+\
+`"Anh ở đây."[line=4]@
+` Hít một hơi nặng, tôi nắm chặt con dao.@
+` Chân phải bị thương của tôi đau nhói một cách yếu ớt.@
+` Nếu tôi vẫn có thể cảm nhận được cơn đau, điều đó có nghĩa là tôi vẫn có thể di chuyển.@
+` Và thế là tôi vẫn có thể chiến đấu.@
+br
+` Dưới ánh trăng, xuất hiện hình bóng của Ciel-senpai.
+\
+playstop
+ld c,"tachi/cel_t15",crossfade,800
+`"... Tôi ngạc nhiên.@ Trong tất cả những giấc mơ mà bạn chưa từng mặc trang phục như vậy."@
+`"Đúng vậy.@ Vì đây là vũ khí để tiêu diệt một ma cà rồng."@
+br
+` [line=4]Một cú sốc.@
+` Tôi hiểu ngay lập tức khi nhìn thấy đôi mắt và nghe giọng nói của cô ấy.@
+` Người này định giết tôi mà không hề do dự chút nào.
+\
+`"... Tôi hiểu rồi. Anh gọi tôi đến đây để giết tôi, Senpai."@
+`"[line=9]"@
+` Senpai không trả lời.@
+` ... Rõ ràng là vì chẳng có gì để nói cả.@
+`"Đó là sự tàn nhẫn. Anh nói tôi không phải là kẻ giết người, nhưng anh biết trong tim mình rằng tôi là."@
+`"[line=3] Vâng. Tôi đã biết từ đầu rằng ma cà rồng quấy rối thị trấn này là Tohno Shiki."
+\
+`"Anh biết... từ đầu...?"@
+`"Có. Vậy nên, tôi đến trường này để quan sát bạn."@
+ld c,"tachi/cel_t16",crossfade,800
+` Nói rồi, cô ta rút ra một con dao.@
+` Kích thước dài và rộng gấp đôi con dao của tôi, nó là một vũ khí được thiết kế để giết người.
+\
+`"[line=3]Senpai, tôi không hiểu bạn chút nào. Ngay cả khi tôi biết, tôi cũng không nghĩ điều đó sẽ khiến tôi lo lắng."@
+`"Có; tình huống này không liên quan đến bạn."@
+`"... Vâng. Nhưng, tôi sợ mình sẽ bị giết. Khi nghĩ về nó, tôi đã giết Yumizuka vì không muốn chết.@
+` Vì vậy[line=3]tôi không thể chỉ chết ở đây. Nếu bạn nói rằng bạn sẽ giết tôi, tôi sẽ..."
+\
+`"Đó là điều tốt. Nếu chúng ta đồng ý giết nhau, thì có tội phạm nhưng không có hình phạt. Có lẽ bạn nên xem nó như một cách giúp đỡ."@
+` Một âm thanh chuyển động.@
+` Trước khi tôi nhận ra, cơ thể của Senpai đứng ngay trước mặt tôi.@
+br
+`"Vậy thì, Tohno-kun. Hãy tiếp tục trận chiến đêm qua."
+\
+play "*4"
+cl a,notrans,0
+` Một khoảnh khắc.@
+` Ciel-senpai di chuyển nhanh đến mức tạo ra những tia lửa.
+\
+bg "bg/ima_14",lshutter,400
+wave se_12
+` Tấn công của cô ấy rất đơn giản.@
+` Nhảy từ ngay trước mặt tôi, cô ấy cắt một đường ngang bằng con dao găm.@
+`"...!"@
+` Tôi chặn mình bằng chính con dao của mình và bị đẩy lùi.@
+`"[line=4]!"@
+` Cơ thể tôi run rẩy.@
+` Tôi vất vả ngăn mình không rơi về sau và tìm...
+\
+bg "bg/bg_10f",rshutter,400
+`"[line=5]Hả?"@
+` Trong một khoảnh khắc, tâm trí tôi như đóng băng.@
+` Không có dấu hiệu nào của cô ấy trong hành lang.@
+` Trong chớp mắt,
+` [line=4]khi vũ khí chúng tôi va chạm, Senpai đột nhiên biến mất.
+br
+`"[line=5]Eh?"@
+br
+` [line=3]Tôi nghĩ đó chỉ là một sự trùng hợp.@
+` Không có lý do gì, chỉ cảm giác một cơn gió thoảng qua bên cạnh tôi, tôi quay nhìn lại.
+\
+` Dưới ánh trăng xanh xuyên qua cửa sổ, tôi nhìn thấy hình bóng của Senpai chạy lên tường như thể cô ấy đang leo một cầu thang.
+` "Trên kia?"@
+br
+`"[line=5]Ngay cả khi tôi nhận ra điều đó, tôi cúi người xuống.@
+` "!"
+\
+bg "bg/ima_14",tshutter,400
+`"[line=6]Tôi bò bằng bốn chân như một con chó và tiến về phía trước.@
+` Nhìn lại, tôi thấy Senpai rơi từ trần nhà chính xác ở vị trí tôi vừa đứng.@
+` ... Sau khi tấn công tôi, cô ấy chạy lên tường để cố đánh đầu tôi từ trần nhà? Một động tác ngớ ngẩn như vậy lại đẹp một cách kỳ lạ.@
+` "Một hành động điên rồ, giống như trên một chuyến tàu lượn, nhưng lại vô cùng quyến rũ."@
+` Ngay cả khi nó có thể đã xuyên thủng phía sau đầu tôi.
+\
+bg "bg/bg_10f",lshutter,400
+ld c,"tachi/cel_t16",crossfade,400
+`"[line=6]"@
+` Như thể sự di chuyển đột ngột trước đó của cô ấy chưa bao giờ xảy ra, Senpai ngừng lại.@
+` Cô ấy có ngạc nhiên vì tôi né tránh cú đánh đó không?@
+` Đôi mắt xanh của cô ấy xác nhận rằng Tohno Shiki vẫn còn sống.@
+` Đôi mắt cô ấy trống rỗng, giống như một cỗ máy.@
+` Có một sự căng thẳng khi tôi chờ đợi cô ấy bật dậy hành động tiếp theo.
+\
+wave se_01
+`"[line=7]"@
+` Tôi quên cả việc hít thở.@
+` Với đôi mắt ấy nhìn tôi, tôi không thể di chuyển.@
+` [line=4]Chỉ sau một giây lát nữa, con dao sẽ được đâm vào ngực tôi.
+\
+`"[line=7](Lặng im)@
+` Âm thanh duy nhất là tiếng tim tôi đập mạnh.@
+` Tôi đứng đó bất động, và Senpai chỉ nhìn chằm chằm vào tôi.@
+` ... Điều này rất tệ.@
+` Với tốc độ như thế này, tôi sẽ vỡ vụn dưới áp lực này, và sẽ di chuyển.@
+` Khi điều đó xảy ra, Senpai chắc chắn sẽ đánh tôi xuống.@
+`"[line=8]"@
+` Tôi chỉ có thể nắm chặt con dao của mình.@
+` Vào khoảnh khắc ấy,
+` Senpai đột nhiên nói lên.
+\
+`"[line=4]Tôi bất ngờ."@
+` Bạn thực sự là một kẻ giết người xuất sắc. Bạn không giỏi trong việc cảm nhận sự hiện diện của người khác, nhưng bạn rất giỏi trong việc cảm nhận cái chết của chính mình.@
+` Ngay cả khi bạn không nhớ nó, có lẽ bạn đã được huấn luyện cho những điều như thế này."@
+` Arcueid nói mà không thậm chí nhíu mày.@
+`"Đối với ai có cơ chế phòng thủ vượt trội gần như nhìn thấy tương lai, ám sát là vô ích.@
+` Cố gắng tấn công từ một điểm mù là vô nghĩa, Tohno-kun."@
+` Dường như rất buồn, Arcueid thở dài.@
+`"[line=6]?"
+\
+`"Thật đáng tiếc. Nếu tôi không thể giết ý thức của bạn trước khi bạn cảm thấy đau đớn, tất cả những gì tôi có thể làm là tấn công với toàn lực."@
+` Ngay cả khi bạn có thể nhìn thấy cái chết đến gần, phản xạ của bạn cũng khiến nó trở thành một vấn đề hầu như không đáng kể.@
+br
+wave se_01
+` Khẽ creak.@
+br
+`"[line=4]Bạn không trông khỏe lắm, Tohno-kun."@
+br
+` Một tiếng đập mạnh.
+\
+`"Bạn đã cảm thấy thế này từ lâu rồi, phải không? Cảm giác buồn nôn như tim bạn đang bị ai đó nắm chặt."@
+br
+wave se_01
+` Rùng mình.@
+br
+`"Bạn quá nhạy cảm. Đó là..."@
+br
+wave se_01
+` Rùng mình nữa.@
+br
+`"...vì bản năng của mọi sinh vật sống, nói rằng 'Tôi sắp bị giết'."@
+playstop
+cl a,notrans,0
+wave se_01
+br
+` Nói vậy thì,
+` Cô ấy tấn công từ bên phải, ngay trước mặt tôi.
+\
+bg "bg/ima_14",lshutter,400
+`"Kuh...!!"@
+` Tôi chặn thanh dao của cô ấy bằng thanh kiếm của mình.@
+` Một cú sốc.@
+` Tấn công đơn giản của Senpai cảm thấy như cô ấy dùng một cái búa khổng lồ.@
+` Con dao của tôi rít lên.@
+`"Tttch...!"@
+` Các đầu ngón tay tôi trở nên tê bì.@
+` Nhưng tôi không có thời gian để nghĩ về điều đó.@
+` Chân cô ấy vang lên rõ ràng trên mặt đất.
+\
+Lắc lư 1,50
+wave se_10
+`"Ha, guh………!?"@
+` Không khí bị đẩy ra khỏi tôi.@
+` Người cấp trên đã bước vào khoảng trống giữa đôi chân tôi.@
+` Gần đến mức cơ thể chúng ta va chạm, và với động lực đó, người cấp trên đập vai vào ngực tôi.@
+br
+` Tôi lảo đảo.@
+` Sức mạnh trong con dao của tôi đang suy yếu.@
+` Không hề chần chừ, đòn tấn công thứ hai của cô ấy bắt đầu.
+\
+wave se_12
+Động tác run rẩy 1,100 lần.
+` Con dao của cô ấy vung lên từ dưới.@
+` Bằng một cách nào đó, tôi chặn nó bằng con dao của mình, nhưng tôi không thể ngăn được động lực của nó.@
+br
+` Cắt!@
+` Có âm thanh kinh khủng.
+\
+bg "bg/ima_13b",tshutter,400
+`"Ah" [line=6]@
+` Nóng quá. Ở đâu đó, tôi bị cắt. Miếng thịt rơi, nhiệt độ của máu.@
+` Không có thời gian để cảm nhận điều đó.@
+br
+wave se_12
+monocro #ff0000
+bg "bg/ima_14",lshutter,400
+` Đánh trúng lần thứ ba đến.
+\
+bg "bg/ima_12b",lshutter,400
+` Có lẽ nó nhắm vào tim tôi.@
+` Vì tôi ngay lập tức quật người lại để né tránh, con dao xé qua sườn tôi cùng với lớp thịt xung quanh.@
+br
+monocro off
+bg #ffffff,notrans,0
+`"Ôi trời ơi, aaaaaahhhh…!!!!"@
+` Tôi hét lên.@
+` Sự lạnh lẽo của cái chết không khiến tôi rùng mình.@
+` Tôi cảm thấy nỗi sợ từ cơn đau chạy xuyên qua mình.@
+br
+` Ở đó.@
+` Theo sau là cú đánh thứ tư không thể tha thứ.
+\
+bg "bg/ima_14",lshutter,400
+` [line=4]Xương sườn tôi bị tổn thương.@
+br
+` Tôi chỉ có thể sử dụng sức mạnh của cánh tay để cầm dao của mình.@
+` Nhưng với điều đó, không thể chặn được con dao của Senpai.@
+`"[line=5]Kuh!"@
+` Bằng một cách nào đó, tôi lùi lại trên chân chao đảo của mình.@
+` Tôi đã đạt được khoảng cách đủ.@
+` [line=4]Senpai quay lại, lộ lưng cho tôi.
+bg #9c0120,notrans,0
+bg #000000,notrans,0
+br
+` Một cú va chạm mạnh.@
+` Cô ấy tung ra một cú đá vòng tròn như một mũi tên vào bụng tôi.
+\
+bg "bg/bg_10f",tshutter,400
+Tôi run rẩy, mất thăng bằng.
+`"[line=4]Ha... ha...!!!!!"@
+` Tôi ngã ngược xuống sàn hành lang.@
+` Tôi không có thời gian để cảm nhận nỗi đau.@
+` Nếu tôi không đứng dậy ngay lập tức, tôi sẽ bị giết.@
+` Nhưng đã quá muộn.@
+` Khi tôi cố gắng ngồi dậy, người thầy của tôi xuất hiện ngay trước mặt.
+\
+bg "bg/ima_14",lshutter,400
+` Con dao đâm thẳng vào tim tôi.@
+`"[line=6]!"@
+` Tôi chỉ còn biết tuyệt vọng.@
+` Trong sự tuyệt vọng, tôi cố gắng chống trả bằng cách đặt con dao cạnh cổ người thầy của mình.@
+br
+` [line=3]Rồi.@
+` Con dao của người thầy chủ ngừng lại.
+\
+bg "event/aki_e05a",lshutter,800
+Vòng lặp âm thanh se_02
+`"Haghh[line=3]"@
+` Hít thở. Hơi thở của tôi, cứng nhắc.@
+` *Thở gấp*, *thở gấp*, *thở gấp*, *thở gấp*...
+` Con dao của cô ấy nhắm vào cổ họng tôi.@
+` Nếu người thầy chủ di chuyển tay chỉ một chút, tôi sẽ chết ngay lập tức.@
+`"Ha... ah..."@
+` Đó là sự thật.@
+` Chỉ điều đó thôi khiến tôi phải mất trí.
+\
+`"[line=3]Đã kết thúc rồi. Ngay cả khi cậu đâm con dao vào cổ tôi, tôi vẫn không chết."@
+`"[line=3]Điều gì vậy..."@
+`"Trước đó cậu nói rằng cậu đã nhìn thấy nó. Ngay cả khi cơ thể tôi bị xuyên thủng bởi một ống sắt, cơ thể tôi tự lành vết thương tức thì. ... Đúng là nếu cậu đâm tôi vào cổ, tôi sẽ chết trong một lúc, nhưng tôi sẽ giết cậu trước khi điều đó xảy ra."@
+`"[line=5]Điều gì vậy..."@
+` Những gì cô ấy nói là sự thật.@
+` ... Không có lý do gì để nói dối trong tình huống này.@
+br
+` Tức là...@
+` Trong tình huống này, khi cả hai chúng ta nắm giữ sinh mạng của nhau trong tay, điều đó chẳng có ý nghĩa gì.
+\
+`"[line=3]Không... sẽ không chết sao?"@
+` " …… Nhưng có thể nó là sự thật."@
+` Ngay cả khi bị thương như vậy, Senpai vẫn đến trường như bình thường.@
+br
+`"Kuh." [line=3]@
+` Nhưng, tôi chẳng quan tâm đến tất cả những điều đó.@
+` Tôi có thể thấy cái chết trên cơ thể cô ấy.@
+` Mặc dù khác biệt so với người khác, tôi vẫn có thể nhìn thấy cái chết của cô ấy.@
+` Vì vậy, giết cô ấy là điều dễ dàng.@
+` Những "dòng" không có ngoại lệ.
+\
+`"Nếu bạn không tin tôi, xin hãy dùng con dao... Dù sao, bạn không thể cứu bản thân trừ khi giết tôi." Liệu chúng ta nên thử xem?@
+`"[line=6]"@
+` ...Cô ấy đang khiêu khích tôi.@
+` Nếu có thể giết được tôi, hãy giết tôi, cô ấy nói.@
+` Nhưng Senpai, những lời khiêu khích như vậy là chết người.@
+` [line=4]Tôi không giống như những người khác. Tôi có thể thực sự giết bạn.
+\
+` [line=4]Trái tim tôi đập.@
+br
+` Nếu tôi nhìn xuống, con dao của cô ấy đang chĩa vào ngực tôi.@
+` ... Tôi phải giết.@
+` Vì tôi không muốn chết.@
+` Tôi nhận ra mình không dễ chết như vậy, nên tôi không thể để bản thân bị giết.@
+br
+` Không, nó đơn giản hơn thế.@
+` Tôi chỉ đơn giản là không muốn chết.
+\
+` [line=4]Trái tim tôi đập.@
+br
+` Vì vậy chỉ có một câu trả lời.@
+` Giết chóc.@
+` Đâm dao vào "dòng" tôi nhìn thấy ở cổ Ciel, và giết cô ấy.@
+` Giết nếu bạn muốn sống.@
+` [line=3]Giết. Giết. Giết. Giết. Giết.
+\

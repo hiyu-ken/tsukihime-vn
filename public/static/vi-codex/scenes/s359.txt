@@ -1,0 +1,582 @@
+playstop
+wavestop
+bg "bg/bg_04",notrans,0
+` ... Tôi không có lý do nào cả.@
+` Nhưng tôi chỉ cảm thấy mơ hồ rằng cô ấy có thể là người có thể giúp tôi với những rắc rối của mình.@
+br
+`"[line=5]"@
+` Không còn thời gian để suy nghĩ.@
+` Tôi không thể kìm nén điều này lâu hơn nữa.@
+`"Xin lỗi, đi đi trước, Arihiko!"@
+ld c,"tachi/ari_t03",crossfade,400
+`"Hừ? Đi đi chứ? Tohno, cậu định đi đâu thế?"
+\
+bg #000000,lcartain,400
+bg "bg/bg_05a",lcartain,400
+play "*1"
+` ... Dù sao, tôi ép cô ấy đến khu vực phía sau tòa nhà trường học đến mức không thể tránh được nếu cô ấy giận tôi.@
+` Lớp năm đã bắt đầu rồi.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Ôi trời, kéo tôi đến một nơi như thế này... Tohno-kun, cậu định làm gì?"@
+` ... Senpai thì ngạc nhiên hơn là tức giận.@
+`"Xin lỗi, Senpai. Nhưng, tôi muốn nghe thêm về những gì cậu nói trước đó."@
+`"Những gì cậu nói trước đó... cậu muốn nói kẻ giết người hàng loạt à?"@
+`"Đúng vậy. Về người không cảm thấy tội ác là tội ác. Cậu có nghĩa là họ giết người một cách vô thức sao?"@
+` "Ví dụ.@"@
+` "Nếu cậu định ngủ nhưng lại ra ngoài giết người thì sao?"
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"Này, Tohno-kun, điều đó đau lắm. Tôi sẽ trả lời cậu nên hãy buông tôi ra."@
+`"[line=3]Ôi, tôi xin lỗi."@
+cl a,crossfade,400
+` Tôi để cô ấy đi.@
+` "... Có vẻ như tôi đã rất căng thẳng."
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Đừng lo. Cậu hỏi xem kẻ giết người có vô thức giết người không phải không?"@
+`"[line=3]Đúng vậy, tôi thực sự muốn biết."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Này, tôi không biết vì tôi không phải là kẻ giết người."@
+`"[line=3]Vâng, đúng vậy, Senpai, nhưng..."
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Đúng, chỉ là một trò đùa thôi. Vì bạn tỏ ra rất nghiêm túc, Tohno-kun, nên tôi nghĩ sẽ chơi khăm một chút trong lúc này."@
+`"Tốt ư? Senpai, đừng quá nghiêm khắc với tôi. Tôi đang nói thật đây."@
+ld c,"tachi/cel_t03",crossfade,400
+`"Ừm, có vẻ như vậy. Nhưng tại sao? Kẻ giết người hàng loạt không phải là việc của bạn, phải không, Tohno-kun?"@
+`"[line=4]Đó là..."
+\
+ld c,"tachi/cel_t06a",crossfade,400
+`"Vâng? Có chuyện gì vậy?"@
+` "... Đó là tất cả."@
+`"[line=3]Nếu tôi nói với bạn rằng tôi là kẻ giết người, bạn sẽ làm gì?"@
+` Cuối cùng, tôi đã nói ra điều đó.@
+ld c,"tachi/cel_t05",crossfade,400
+` Nhưng...
+` Mặt của Senpai sáng lên như thể tôi vừa nói một câu chuyện hài hước, và cô ấy bật cười.
+\
+`"[line=3]Senpai, đây không phải là trò đùa, tôi đang"@
+play "*8"
+ld c,"tachi/cel_t01a",crossfade,400
+`"Đúng vậy, tôi biết bạn nghiêm túc. Nhưng đó mới là điều khiến nó trở nên buồn cười. Bởi vì kẻ giết người thường không đến và xin giúp đỡ vì họ chính là kẻ giết người."@
+`"[line=5]Senpai..."@
+ld c,"tachi/cel_t03",crossfade,400
+`"Vậy thì tôi sẽ hỏi. Tại sao bạn lại nghĩ như vậy, Tohno-kun?"@
+`"[line=3]Đó là bởi vì gần đây, tôi... khác biệt. Tôi biết tại sao. Có lẽ tôi đã bị một ma cà rồng cắn."@
+` Tôi nói thẳng thắn như thể đó là một từ ngữ mập mờ.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=3]Hãy tiếp tục đi."@
+`"... Từ đó, mọi thứ trở nên kỳ lạ. Bất ngờ, tôi cảm thấy không giống mình và có những giấc mơ về việc giết người.@
+` Tối qua, mặc dù tôi chỉ muốn ngủ, nhưng dường như tôi đã ra ngoài. Và tôi có một giấc mơ trong đó tôi giết ai đó và hút máu."@
+`"[line=6]..."@
+` Anh ấy không nói gì, chỉ nhìn tôi.
+\
+`"[line=3]... Cha tôi có rối loạn nhân cách. Có thể tôi chưa biết về điều này, nhưng có thể có một kẻ giết người ở bên trong tôi. Nhưng tôi không có cách nào để tìm ra."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Vì vậy, cô đến hỏi xem kẻ giết người có nhận thức về hành động của mình hay không."@
+` Thầy giáo thở dài ngạc nhiên.
+\
+`"Ồ, nếu cô thực sự là kẻ giết người, thì cô sẽ không vô thức về bản thân. Điểm mấu chốt ở đây là cô nhìn thấy nó trong giấc mơ, điều đó chứng tỏ cô không vô thức."@
+` Nhưng quan trọng hơn, đó chỉ là một giấc mơ. Tôi không biết cô lo lắng về điều gì, nhưng Tohno-kun vẫn là Tohno-kun.@
+cl a,crossfade,400
+`"[line=5]"@
+` …… Tôi vui khi nghe điều đó, nhưng...@
+` Không có lý do nào để tôi tin vào lời của Thầy giáo.
+\
+ld c,"tachi/cel_t03",crossfade,400
+` Cô ấy thở dài.@
+`"Anh chắc chắn đang cảm thấy rất lo lắng, Tohno-kun."@
+cl a,crossfade,400
+br
+` Khi tôi nói vậy,
+` Cô ấy vỗ đầu tôi.
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"[line=3]Đừng lo. Anh không có gì phải lo lắng. Tohno-kun, tôi chính mình đảm bảo điều đó, nên chắc chắn là ổn."@
+`"[line=4]Ừm..."@
+` ...Tự động, tôi gật đầu hoàn toàn đồng ý.@
+` Ngay cả khi tôi biết điều đó chỉ trong lúc cô ấy làm vậy, tôi cảm thấy thoải mái.@
+` Giống như xoa dịu sự lo lắng của tôi, bàn tay của cô ấy rất nhẹ nhàng.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_06b",lcartain,800
+` Trường học đã kết thúc.@
+` Tôi bối rối về bản thân và Akiha, nhưng ngày hôm nay sắp kết thúc.@
+br
+`"... Đã đến lúc về nhà."@
+` Tôi nên đi đón Akiha và trở về biệt thự của chúng tôi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_24b",lcartain,800
+play "*1"
+` Tôi đi về cùng Akiha.@
+` ... Giống như giờ ăn trưa, chúng tôi trở nên yên tĩnh ngay khi chỉ còn hai người.@
+br
+` [line=3]Mặc dù tôi muốn nói chuyện với Akiha, nhưng nhìn cô ấy cũng khiến tôi ngượng ngùng.@
+br
+`"... Trời ơi, tôi chẳng phải học sinh trung học đâu."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"……? Anh nói gì vậy, Nii-san?"@
+`"[line=3]Ồ, không có gì, tôi chỉ tự nói chuyện với bản thân thôi."@
+cl a,crossfade,400
+br
+` …… *thở dài*@
+` Thật sao? Trời ơi, tôi đang làm gì thế này?
+\
+bg #000000,lcartain,800
+bg "bg/bg_22b",lcartain,800
+` Chúng ta đã đến chân ngọn đồi dài.@
+` Khi nào chúng ta leo lên đó, thì biệt thự của chúng ta sẽ hiện ra ngay.@
+br
+ld c,"tachi/aki_t01a",crossfade,400
+`"Nii-san. Tôi muốn hỏi anh một điều trước khi chúng ta về nhà."@
+` Chân Akiha dừng lại và cô ấy nhìn thẳng vào tôi.@
+`"[line=5]"@
+` Sự im lặng trước đó đã không còn nữa.@
+` Akiha nhìn tôi với vẻ nghiêm túc.
+\
+`"Hãy nói đi, cậu muốn hỏi gì?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"... À... Tôi đã hỏi rồi, nhưng... Cậu nghĩ gì về Ciel?"@
+`"[line=4] Chuyện gì lại xảy ra? Tôi không suy nghĩ gì về cô ấy cả. Cô ấy chỉ là người senpai của tôi thôi. Cô ấy là một người senpai đáng tin cậy mà tôi có thể hỏi bất cứ điều gì."@
+ld c,"tachi/aki_t16a",crossfade,400
+`"... Tôi hiểu rồi. Có vẻ như cậu đang lo lắng về điều gì đó; buổi sáng hôm nay cũng là kết quả của nó, phải không?"@
+`"[line=5]"@
+` Tôi bất ngờ.@
+` Akiha biết tôi đang tự mình lo lắng về vấn đề này.
+\
+`"Akiha... cậu đã nhận ra không?"@
+ld c,"tachi/aki_t06",crossfade,400
+`"Tất nhiên rồi. Chúng ta là anh em chị em. Tôi có thể thấy khi cậu buồn bã, anh trai ạ."@
+` Vậy mà sao cậu không đến nói chuyện với tôi? Cậu tin người phụ nữ kia hơn là tin tôi à?@
+`"[line=3]Cậu đã quan sát tôi nói chuyện với Senpai...!!?"
+\
+ld c,"tachi/aki_t05a",crossfade,400
+`"Đúng vậy. Tôi gần như không thể tin vào mắt và tai mình. Cậu, lại còn trung thực trước mặt người đó!"@
+cl a,crossfade,400
+` Với một âm thanh "hmph", Akiha quay lưng đi.@
+`"[line=3]…… Không phải như vậy. Tôi không nói chuyện với cậu hoặc Kohaku-san, bởi vì..."@
+` Tôi không muốn tiết lộ về cơ thể mình và bị họ ghét bỏ.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Vì điều gì? Nếu có điều gì đó cậu muốn nói, xin hãy nói ra."@
+`"Cậu có ngu không? Tôi sẽ không lo lắng đến vậy nếu tôi có thể nói ra! Tôi đã hỏi Senpai vì các cậu rất quan trọng với tôi. Không phải vì tôi không tin tưởng các cậu đâu."@
+ld c,"tachi/aki_t07",crossfade,400
+`"Tôi không muốn nghe những lời biện minh như thế!"
+\
+`"Được rồi, tôi sẽ thẳng thắn nói ra.@
+` Người đó không phù hợp với cậu. Nên xin đừng tiến gần hơn với cô ấy nữa. Để bảo vệ cậu."@
+`"[line=4]Chuyện gì vậy?"@
+` Nó xảy ra quá đột ngột, khiến tôi mất lời.
+\
+`"Akiha. Cậu có nghĩa là những người bình thường không phải là bạn bè phù hợp cho gia tộc Tohno sao?"@
+`"... "@
+` Akiha không trả lời.@
+` Sự im lặng có nghĩa là đồng ý.
+\
+`"[line=3] Tôi hiểu rồi. Này, cậu là thủ lĩnh của gia tộc Tohno. Cậu nói rằng gia đình và dòng dõi quan trọng như ông già kia phải không?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"... Anh trai, như vậy..."@
+`"Đừng lo. Tôi không phàn nàn đâu. Tôi là người đã bỏ mặc cậu trong ngôi nhà đó. Ban đầu, tôi nên được nuôi dạy theo cách đó. Vì vậy, tôi không đang nói xấu cậu."@
+ld c,"tachi/aki_t17a",crossfade,400
+`"……"@
+`"Nhưng, tôi không thể để những gì cậu nói lúc này trôi qua. Ngay cả khi cậu không biết gì về Senpai, đừng chỉ nói cô ấy không phù hợp."@
+\
+cl a,crossfade,400
+` Nhìn xuống, Akiha im lặng.@
+` Chúng ta đứng im lặng trong một lúc.@
+br
+`"…… Cậu không…"@
+`"[line=3]Ồ?"@
+ld c,"tachi/aki_t10",crossfade,400
+`"Anh trai, cậu không biết gì về gia tộc Tohno, đừng nói những điều ích kỷ như vậy!"@
+` Khóc đau đớn, Akiha đẩy tôi ra xa.
+\
+ld c,"tachi/aki_t14",crossfade,400
+`"[line=3]Dù sao, cậu không được đến gần người đó. Cô ấy không giống như chúng ta. Nếu cậu tiếp tục tiến gần hơn, chính cậu sẽ phải chịu đau khổ."@
+cl a,lshutter,400
+` Akiha chạy lên đồi.@
+br
+`"[line=3]Ý cô ấy là gì?"@
+` Tôi chỉ có thể ngước nhìn cô ấy, kinh hoàng.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,800
+` Tôi quay trở lại biệt thự.@
+` Mặc dù tôi thường bước vào sảnh mà không suy nghĩ gì, nhưng lúc này tôi rất khó để bước vào.@
+` ...Tôi đã làm Akiha tức giận nhiều lần kể từ khi tôi trở về biệt thự.@
+` Nhưng, cô ấy thực sự rất tức giận lúc đó.@
+` Lần đầu tiên, tôi khiến Akiha tức giận và cô ấy nghe có vẻ bị tổn thương.
+\
+`"……"@
+` Tôi không nghĩ ai đúng ai sai là quan trọng.@
+` Tôi tin rằng theo thời gian, Akiha sẽ bình tĩnh lại và giải thích lý do tại sao cô ấy không thích Ciel-senpai.@
+br
+`"…… Tôi có thể lang thang trong vườn một lúc."@
+` Nếu tôi vào biệt thự, tôi có thể đối mặt với Akiha, nên tôi sẽ đi dạo trong vườn một thời gian.
+\
+bg #000000,lcartain,800
+bg "bg/bg_42b",lcartain,800
+`"Huh? Kohaku-san?"@
+` Đó là Kohaku-san.@
+` Cô ấy dường như không để ý đến tôi, và cô ấy đang bước vào rừng.@
+br
+` Cô ấy không hề hay biết sự hiện diện của tôi.@
+` Tôi không biết cô ấy định làm gì, nhưng cô ấy biến mất giữa những tán cây.@
+`"?"@
+` Tò mò, tôi quyết định theo dõi cô ấy.
+\
+playstop
+bg #000000,lshutter,800
+bg "bg/bg_54b",lshutter,800
+` Có vẻ như có một khoảng đất trống nhỏ nơi Kohaku-san đang đi.@
+`"... Có một khoảng đất trống ở đó...?"@
+` Ngả đầu sang bên, tôi cố gắng nhớ lại, nhưng lý do nào đó, ký ức của tôi khá mờ nhạt.@
+` Trong khu rừng của biệt thự, tôi có thể nhìn thấy một khoảng trống như thể những cây cối ở đó đã bị chặt hạ.
+\
+` [line=3]Không, "có thể nhìn thấy" không hoàn toàn chính xác.@
+br
+` Nếu bạn đi qua bình thường, có lẽ bạn sẽ chẳng bao giờ để ý đến nó.@
+` Nếu Kohaku-san không đi qua đó, ẩn mình đủ tốt giữa những cây xung quanh như vậy, tôi thậm chí còn không nhận ra ngay cả khi sống ở đây suốt đời.
+\
+`"... Có một khoảng trống ở đó? ... Nếu đúng thế, có lẽ chúng ta đã chơi ở đó khi còn nhỏ."@
+` Ít nhất, tôi không nhớ từng chơi với Akiha trong khoảng trống đó.
+\
+br
+` [line=4]Tôi cảm thấy như chưa bao giờ đến nơi này trước đây.@
+br
+`"..."@
+` Sau một lúc suy nghĩ, tôi quyết định đi vào khu rừng nhỏ.
+\
+bg #000000,lshutter,800
+bg "bg/bg_53",lshutter,800
+` ... Khu rừng nhỏ này không có gì đáng chú ý.@
+` Không có dấu vết của Kohaku-san, người đã đến trước tôi.@
+br
+`"Nơi này[line=3]chỉ là một khoảng trống."@
+br
+` Tôi bước đến giữa khu rừng nhỏ.@
+` Thật ra, đây chỉ là một không gian trống trải.@
+` Mặt đất bằng phẳng hoàn toàn.@
+` Rừng sâu bao quanh khu vực này.
+\
+bg #ffffff,notrans,0
+bg "bg/bg_53",notrans,0
+wave se_01
+` Tiếng rì rầm của chuông chày.@
+` [line=6]Và ánh nắng mùa hè mạnh mẽ, như thể có thể tan chảy.
+\
+bg #ffffff,notrans,0
+bg "bg/bg_53",notrans,0
+br
+`"Ồ……?"@
+` [line=3]Mùa hè, ánh nắng?@
+br
+bg #ffffff,notrans,0
+bg "bg/bg_53",notrans,0
+wave se_01
+`"[line=4]Ối……"@
+` Vết thương trên ngực tôi bắt đầu đau.@
+`        Giống như / bị đâm.@
+` Cơn đau này / cảm giác như / một con dao bếp đâm vào ngực tôi.
+\
+bg #ffffff,crossfade,800
+Tiếng chuông reo vang, một âm thanh nhẹ nhàng và trong veo.
+br
+br
+` "Chíp chíp.@ Chíp chíp chíp chíp."@
+!w750
+` Âm thanh ấy lặp lại, tạo nên một giai điệu du dương.@
+!w750
+` "Chíp chíp.@ Chíp chíp chíp chíp." [line=5]
+!w750
+br
+` [line=4]Tôi nghe thấy tiếng chuông vè từ đâu đó.@
+br
+` Nhưng giờ là mùa thu rồi.
+\
+br
+` [line=4]Ánh nắng mùa hè bao phủ mọi thứ bằng màu trắng.@
+br
+` Những cột mây mùa hè trải dài trên bầu trời xa xôi.@
+` Tôi gần như có thể nhìn thấy những tiếng kêu ấy.@
+` Chân tôi đặt lên những vỏ chuông rỗng, đã bị bỏ lại.@
+` [line=2]Vỏ chuông rỗng... một ai đó đã bỏ lại chúng.
+\
+br
+br
+br
+`"[line=4]... ..."@
+br
+` Thứ ba.@
+` Vỏ của đứa trẻ thứ ba bị bỏ lại.@
+` Tôi không còn nhớ đứa trẻ thứ ba nữa.
+\
+bg "bg/cmo_06b",crossfade,800
+br
+br
+br
+br
+br
+` Ai đó đang cúi xuống trong bóng tối.@
+` Những bước chân của cô gái trẻ Akiha đang đến gần.@
+` Những đám mây cao trong khoảng không.@ Chuông gió trong bầu trời xanh.
+\
+br
+br
+br
+br
+br
+`   Tôi chỉ đơn giản là trong trạng thái thôi miên.@
+`   Akiha sẽ bị giết.@
+`   Đó là tất cả những gì tôi biết.
+\
+br
+br
+br
+br
+br
+`   Tôi chỉ chạy đi.@
+`   Đó là tất cả những gì tôi hiểu được.@
+`   Về nguy hiểm đối với bản thân,
+`   Tôi thậm chí cũng không nghĩ đến nó.
+\
+br
+br
+br
+br
+br
+br
+`   Tôi muốn bảo vệ Akiha,
+`   và tôi chỉ đứng thay cho cô ấy.
+\
+br
+br
+br
+br
+br
+br
+br
+`   Ở xa xôi.@
+`   Tiếng rì rầm của chuông chày.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Sau đó.@
+`   Cơ thể tôi chết đi khi bị đâm vào ngực.@
+br
+br
+br
+br
+`   Và một hình bóng nhìn xuống cơ thể tôi đang chết, sốc.@
+` [line=5]Hình bóng của một đứa trẻ thứ ba.
+\
+bg #ffffff,crossfade,800
+bg "bg/bg_53",crossfade,400
+`"[line=3]Ồ không!"@
+` Ngực tôi đau.@
+` Tôi cảm thấy mình sắp bị ốm.@
+` Chấn thương ở ngực tôi đã nên lành từ lâu rồi, vậy mà sao giờ lại đau?
+\
+bg #9c0120,crossfade,400
+bg "bg/ima_13",notrans,0
+` Ngực tôi bị rách.@
+` Vết thương cũ mở ra, và một dòng máu đỏ tươi chảy ra.@
+br
+` [line=4]Điều này là gì?@
+` Chấn thương của tôi hoàn toàn không lành.
+\
+br
+` Nó đau.@
+`   Tôi sợ.@
+br
+` [line=4]Tôi thấy choáng váng.@
+br
+`    Đây là,
+`       sự thúc đẩy của cái chết.
+\
+bg #000000,crossfade,800
+` Ý thức mờ dần.@
+` Chấn thương của tôi đau nhức.@
+br
+` Tôi nghe thấy một tiếng động khi cơ thể tôi rơi xuống đất.
+\
+wavestop
+bg #ffffff,crossfade,800
+!w4000
+bg "bg/bg_40c",crossfade,1500
+play "*1"
+` ... Tôi có thể nghe thấy những giọng nói đang trò chuyện.@
+br
+`"Akiha-sama, cô không gọi bác sĩ sao?"@
+`"Đừng ngốc nghếch, Hisui. Không thể nào tôi làm điều đó được, vì vết thương của Nii-san không bình thường..."
+\
+` Akiha và Hisui đang trò chuyện.@
+` Đây là phòng của SHIKI.@
+` Có vẻ như tôi đang ngủ trên giường.@
+br
+` Tôi định hét lên "Chào!" rồi ngồi dậy, nhưng tôi không thể di chuyển chút nào.@
+` Đau ở ngực tôi đã giảm đi, nhưng cơ thể tôi nặng trĩu như chì.@
+` Tôi chỉ có thể di chuyển mắt và miệng.
+\
+ld l,"tachi/aki_t11b",crossfade,400
+`"Chuyện gì vậy, Hisui? Anh trai tôi không được phép đến đó, em biết mà..."!@
+ld r,"tachi/his_t21b",crossfade,400
+`"Làm ơn... Xin tha thứ."@
+`"Điều này không thể giải quyết bằng lời xin lỗi.@ Bạn được giao nhiệm vụ phục vụ Nii-san để tránh tình huống này.@ Vậy bạn đã làm gì...!?"
+\
+` Khác hẳn với tính cách thường ngày, Akiha buông thẳng cơn thịnh nộ của mình ra.@
+` So sánh với Hisui, cô ấy im lặng chấp nhận lời chê trách, đầu cúi xuống.@
+br
+` "... Tôi không chắc chuyện này đã xảy ra như thế nào."@
+` Nhưng ít nhất tôi cũng biết rằng Hisui đang bị la mắng vì tôi.
+\
+ld l,"tachi/aki_t10b",crossfade,400
+`"Trả lời tôi, Hisui.@ Tại sao Nii-san lại đến đó?"@
+` Hisui không trả lời câu hỏi của Akiha.@
+` Không khí giữa họ ngày càng trở nên nặng nề.@
+` Akiha cắn môi và tiến lại gần Hisui hơn một bước.@
+br
+` ... Ngay cả tôi cũng có thể thấy cô ấy sắp giơ tay lên chống lại cô ấy.@
+` Tôi chắc chắn Hisui cũng biết điều đó, nhưng cô ấy chỉ nhìn xuống, chấp nhận nó.
+\
+playstop
+`"[line=4] Chờ đã, Akiha."@
+ld l,"tachi/aki_t17b",crossfade,400
+`"Nii-san[line=2], cậu thức rồi ạ?"@
+`"Đúng rồi, tiếng ồn của cậu quá lớn nên tôi mới tỉnh lại."@
+`"Ah…………"@
+ld l,"tachi/aki_t05b",crossfade,400
+` Akiha liếc mắt đi nơi khác, tỏ ra không thoải mái.
+\
+`"Anh biết đấy, anh không nên đổ lỗi cho Hisui. Tôi không biết hoàn cảnh cụ thể, nhưng chuyện này liên quan đến tôi ngất đi, đúng không? Không phải lỗi của cô ấy, tôi chỉ ngất tự nhiên thôi."@
+` Tôi cố gắng hết sức và bất ngờ được nâng nửa người trên khỏi giường.@
+br
+` Nhưng đó là tất cả những gì tôi có thể làm, và tôi nghĩ mình thậm chí không thể di chuyển thêm một chút nào nữa.@
+` Vì Hisui đang buồn bã, nên tôi phải cố gắng tỏ ra bình thường nhất có thể.
+\
+`"... Thật sự, cãi nhau vì tôi. Ngay cả khi trông như người lớn, anh vẫn chỉ là đứa trẻ."@
+ld l,"tachi/aki_t14b",crossfade,400
+play "*8"
+`"Nhưng [line=4]anh đi suốt một thời gian dài, em trai ạ. Anh đi hơn năm giờ, và chưa bao giờ có chuyện gì tương tự xảy ra trước đây. Nếu anh không tỉnh lại...!"
+\
+`"Đừng nói ngốc như vậy. Đây chỉ là thiếu máu... Ồ? Đã mười giờ rồi?"@
+ld l,"tachi/aki_t12b",crossfade,400
+`"... Vâng. Em trai ạ, anh đã ngủ suốt cả buổi tối."@
+` Akiha nói do dự.@
+`"[line=6]"@
+` Sức mạnh rời bỏ cơ thể tôi.
+\
+`"... Ồ trời ơi. Tôi chưa ngất đến mức này từ thời tiểu học. Đúng vậy, tôi thường xuyên ngất lúc đó. Tôi không quen với Arimas và tâm trí tôi luôn căng thẳng."@
+` Có vẻ như tôi vẫn đang mơ, có lẽ là hậu quả của cơn tấn công thiếu máu.
+\
+`"... Tôi nhớ rồi. Tất cả Arimas đều là những người tốt; họ đối xử với tôi như đứa trẻ của họ."@
+` [line=3]Keiko-san nghiêm khắc nhưng chu đáo và luôn đối xử với tôi như con trai của bà.@
+` "... Vì vậy, tôi nghĩ mình phải trở thành đứa trẻ thực sự của họ nữa."
+\
+ld l,"tachi/aki_t23b",crossfade,400
+`"Anh trai, đừng ép bản thân. Đây là biệt thự Tohno. Anh không cần tự nhủ điều đó nữa..."!@
+`"[line=4]Tôi biết. Nhưng, trong một thời gian dài, tôi nghĩ như vậy."@
+` "Từ đầu, tôi luôn nghĩ thế."@
+` "[line=3]... Gia tộc Arimas, và anh, các người đều là những người tốt, nên, điều đó rất khó khăn."@
+br
+` "... Tôi đang nói gì vậy?"@
+` "Ngước nhìn trần nhà một cách mơ hồ, hồi tưởng về ký ức từ lâu rồi."
+\
+`"Anh trai, đừng ép bản thân. Anh chỉ mới trở về đây được một tuần. Chắc hẳn anh đã mệt mỏi rồi."@
+`"[line=2]Thực sự sao? Vâng, tôi mệt mỏi, nhưng..."@
+`"Đúng không? Vậy thì, xin hãy nghỉ ngơi hôm nay. Vì cơ thể cậu yếu hơn hầu hết mọi người, nên nếu không dành thời gian nghỉ ngơi định kỳ, cậu sẽ kiệt sức như hôm nay vậy."@
+` Akiha nhìn tôi với vẻ nghiêm túc.
+\
+`"... "@
+` ... Đúng vậy, chính là như cô ấy nói.@
+` Quên đi tất cả.@
+` Nếu không nghỉ ngơi mà cứ nghĩ đến ma cà rồng hay bản thân mình, tôi sẽ thực sự mất tập trung.
+\
+`"... Cậu đúng rồi. Như cậu nói, hôm nay tôi sẽ chỉ nằm yên thôi."@
+` Nói xong, tôi lại nằm xuống.@
+ld l,"tachi/aki_t12b",crossfade,400
+`"Thật sao?@ Không còn trốn ra khỏi phòng sau này nữa à?"@
+`"Đó là gì?@ Tôi không đáng tin tưởng sao?"@
+` ... Vâng, có lẽ vậy.@
+` Tôi đã để Akiha một mình suốt thời gian này.
+\
+`"Hisui, nói với Kohaku rằng anh trai đang lên.@ Anh trai, cậu sẽ làm gì về bữa tối?"@
+`"... Tôi hiểu rồi.@ Vậy thì, Hisui, hãy thông báo cho Kohaku."@
+`"Tôi hiểu.@ Này Hisui, hãy nói với cô ấy."@
+` Vẫn cúi đầu, Hisui gật đầu đồng ý và rời phòng.
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t12b",crossfade,400
+`"Này anh trai, hãy ngủ đi nhé."@
+` Akiha nói với giọng điệu vô cùng dịu dàng.@
+br
+` Nhưng, ngủ...
+` Tôi sợ nếu tôi ngủ, tôi sẽ thấy cơn ác mộng đó.@
+br
+`"[line=3]Không, không đâu."@
+`"Anh trai ơi, anh đã hứa sẽ lắng nghe những gì tôi nói, chỉ trong ngày hôm nay..."?@
+` Đôi mắt Akiha đầy khẩn cầu.@
+` ... Từ tận đáy lòng, Akiha thực sự lo lắng cho tôi.
+\
+`"Được rồi. Tôi sẽ ngủ yên bình."@
+`"... Vâng. Cảm ơn."@
+`"Ngốc nghếch. Tại sao cậu lại cảm ơn tôi? Tôi mới là người nên cảm ơn cậu."@
+` ... Cảm ơn tôi?@
+` Ngay cả khi tôi bỏ mặc cậu trong tám năm, chính cậu lại là người đã gọi tôi trở lại lâu đài này.
+\
+`"[line=3] Akiha. Tôi... xin lỗi vì mọi thứ. Tôi ích kỷ, và không bao giờ nghĩ đến cậu. Nhưng từ bây giờ..."@
+`"Không sao. Xin cậu đừng thay đổi.@
+` Và, chính tôi mới phải xin lỗi. Đừng xin lỗi tôi. Nếu cậu làm thế, tôi sẽ cảm thấy mình là một người thật đáng khinh."
+\
+` Akiha nắm lấy bàn tay tôi, nước mắt lăn dài trong đôi mắt cô ấy.@
+` ... Tôi không hiểu.@
+` Tại sao Akiha lại nói những điều như vậy?@
+` Hay tại sao cô ấy cứ lặp đi lặp lại "Tôi xin lỗi"?
+\
+`"... Tôi, mệt rồi. Tôi, sẽ ngủ một chút."@
+`"[line=3]Đúng vậy. Chúc ngủ ngon, anh trai."
+\
+bg #000000,crossfade,1500
+playstop
+!w2000
+play "*7"
+` ... vết thương ở ngực tôi đau nhức.@
+` Trẻ thứ ba.@
+` Có lẽ, đó là đứa trẻ được nhận nuôi mười năm trước và qua đời không lâu sau đó.@
+br
+` Một ngày hè nóng nực.@
+` Hình bóng của một đứa trẻ bị thương máu.@
+` Thế giới của Tohno Shiki, tràn ngập những điềm báo xấu.
+\
+` [line=3]Đánh mạnh.@
+br
+` Nhưng, nó quá yên tĩnh.@
+br
+` [line=3]Đánh mạnh.@
+br
+` Tôi cảm thấy bình yên.@
+br
+` [line=3]Một tiếng đập mạnh.@
+br
+` Tim của Akiha rất gần đây.
+\
+br
+` [line=3]Một tiếng đập mạnh.@
+br
+` Nó thực sự yên tĩnh.@
+br
+` [line=2]Một tiếng đập mạnh.@
+br
+` Và lần đầu tiên sau nhiều ngày, tôi ngủ yên bình, không bị quấy rầy bởi những cơn ác mộng.
+\
+playstop
+!w4000

@@ -1,0 +1,93 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+` [line=3]Tôi không thể nghĩ ra câu trả lời.@
+` Nhưng tôi biết chắc một điều rằng mình tịnh không thể bỏ mặc Akiha đơn độc một mình.@
+`"[line=7]!!"@
+` Tôi cất lực kìm nén dòng cảm xúc đang trào dâng mãnh liệt.@
+` Không cần suy nghĩ, tôi đuổi theo Akiha.
+\
+!w1000
+bg "bg/bg_54a",lcartain,800
+play "*8"
+` [line=2]Ngạc nhiên thay, Akiha vẫn chưa rời khỏi căn biệt thự này.@
+br
+` Dưới ánh trăng.@
+` Dưới cây sồi mùa thu mà chúng tôi từng ngồi nói chuyện.@
+` Akiha dẫu dã chỉ đứng lặng im ở đó.
+\
+bg #000000,lshutter,800
+bg "event/aki_e06",lshutter,800
+` Em đứng im lìm, tịnh không nhúc nhích.@
+` Tịnh không làm gì cả.@
+` Tựa như một đứa trẻ thơ, em ấy ngơ ngác ngắm nhìn những chiếc lá phong đỏ lìa cành.
+\
+`"[line=8]"@
+` [line=3]Tôi có thể làm gì về điều này?@
+` Tịnh không còn lý trí, tịnh không còn ký ức, chỉ còn là một cô gái đứng đó ngẩn ngơ.@
+` Tịnh không hề có tội lỗi nào ở đây.@
+` Akiha tịnh không phải là người đáng trách...
+br
+` [line=5]Hãy giết tôi đi.@
+br
+` Tôi nhớ lại những lời đó.
+\
+` "[line=3]Hãy giết tôi bằng tay bạn."@
+br
+` "Một ước muốn tàn nhẫn quá."@
+` Em ấy dẫu dã chỉ có thể van nài một điều như thế[line=3]tịnh không hề biết mở lời cầu cứu lấy bản thân.@
+` Nếu em cất công cầu xin[line=3]dẫu cho cả thế giới này có quay lưng chống lại, tôi vẫn nguyện trọn đời đứng bên em cho tới tận giây phút cuối cùng.@
+br
+` "[line=3]Hãy giữ lời hứa của chúng ta."@
+br
+` "... Một hình phạt quá khắc nghiệt."@
+` Bản thân tôi dẫu dã bỏ rơi em ấy suốt tám năm ròng, nhưng tịnh không thể ngờ mình lại bị quả báo trừng phạt bằng cách tàn nhẫn như thế.
+\
+`"[line=9]"@
+` Akiha nói...
+` Tịnh không biết bản thân mình là ai, rồi cất bước đi sát hại đồng loại theo bản năng điên cuồng dẫu dã là nỗi sợ kinh hoàng hơn cả cái chết.
+\
+` Senpai từng khuyên nhủ…
+` Một khi dẫu dã tha hóa thành sinh vật chỉ biết sát hại vạn vật theo bản năng điên loạn, thì đôi khi cái chết dẫu dã là sự giải thoát duy nhất.
+\
+`"[line=8]"@
+` Tôi nắm chặt con dao.@
+` Thật kỳ lạ, lòng tôi tịnh không hề cảm thấy chút bi thương nào.@
+` Thần trí tôi trống rỗng đến lạ kỳ; tôi tịnh không muốn để bất kỳ xúc cảm nào làm lung lay ý chí.@
+`"[line=3]Akiha"@
+` Tôi cất bước dẫm lên đống lá phong đỏ khô xơ xác, tiến lại gần phía em.@
+` Akiha chợt nhận ra sự hiện diện của tôi, em liền khẽ mỉm cười chào đón.
+\
+`"[line=5]Ít nhất."@
+` Tôi siết chặt nắm đấm dao.@
+` Akiha cười.@
+` Em cười thật rạng rỡ khi cất bước đón chào kẻ sắp cướp đi mạng sống của mình.@
+`"[line=7]!!"@ - "Đau đầu tôi ngày càng yếu đi.@"@
+` Thần trí tôi dẫu dã dần trở nên mỏi mệt.@
+` Nhưng tôi đã bắt đầu bước đi.
+\
+` [line=3]Chết có thể là sự giải thoát.@
+br
+` Tôi bước đi.@
+` Akiha tịnh không hề trốn chạy, em dẫu dã lặng yên chờ đón tôi với nét cười rạng rỡ hạnh phúc.@
+br
+` [line=4]Hãy giết tôi đi.@
+br
+` Lá vàng rơi rắc.@"@
+br
+` [line=3]Đó là ước nguyện cuối cùng của cậu.
+\
+` Akiha vẫn đang khẽ mỉm cười hồn nhiên.@
+` Giữa hai ta lúc này dẫu dã tịnh không còn khoảng cách nào nữa.@
+` Giờ đây, tất cả những gì tôi cần làm dẫu dã là vung con dao trong tay lên.@
+br
+` [line=4]Dù đau đớn đến mức nào,
+br
+`"Tôi buộc phải kết liễu em thôi."@
+playstop
+br
+` Khi tôi nói vậy,
+` lệ nóng đột ngột trào ra từ khóe mắt, nhòe đi tầm nhìn.
+\
+bg #000000,crossfade,400

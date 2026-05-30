@@ -1,0 +1,942 @@
+(hình nền "bg/ima_02", l, aki, 12a, 12)
+bg #000000,crossfade,800
+play "*7"
+` [line=3]Tôi đã mơ thấy điều gì đó.@
+br
+` Không, đó là một giấc mơ không thuộc về tôi.@
+` Đó là ngày mà...@
+` Một cô gái bám chặt vào tôi, khóc và chia sẻ với tôi cuộc đời của mình. Đó là giấc mơ của cô ấy.
+\
+bg #ffffff,crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` Chúng ta sống một mình và chết một mình, Akiha.
+\
+` Những từ đầu tiên cha dạy cho tôi.@
+` Tôi không biết ý nghĩa của những từ đó.@
+` Nhưng tôi nhớ cảm thấy khó chịu khi nhìn vào đôi mắt vô cơ của cha khi ông nói những lời ấy.@
+` Ông là người rất cô đơn.@
+` [line=4]Và tôi biết rằng một ngày nào đó, tôi sẽ giống như ông.
+\
+!w2000
+monocro #ffff00
+bg "bg/bg_36a",crossfade,800
+` [line=3]Sinh ra trong gia tộc Tohno, tôi có một người anh trai lớn tuổi hơn.@
+` Nhưng tôi không thể hòa hợp với anh ấy.@
+` Cha mẹ nói anh ấy là anh trai của tôi, nhưng đối với tôi, anh ấy dường như là thứ gì đó khác biệt.
+\
+bg "bg/bg_41",crossfade,800
+` Có dòng máu Tohno nghĩa là mang trong mình máu của những sinh vật phi nhân loại.@
+` Có lẽ vì điều đó mà anh ấy trông khác biệt so với tôi, nhưng đối với tôi, anh ấy cũng không phải là "nhân loại" như vậy.@
+br
+` Tôi không thể chấp nhận anh trai mình một cách chân thành.
+\
+bg "bg/bg_34a",crossfade,800
+` Và khi tôi bước sang tuổi sáu,
+` Một cậu bé kỳ lạ đã xuất hiện và trở thành anh trai khác của tôi.@
+` Ban đầu, tôi không thích tên của cậu bé vì nó nghe giống hệt với tên anh trai tôi.@
+` Cậu bé nhỏ hơn anh trai tôi vài tuổi, nhưng cậu ấy trưởng thành và tốt bụng với mọi người.
+\
+bg "bg/bg_42a",crossfade,800
+` Mặc dù bị giới hạn bởi niềm tin gia đình, cậu bé vẫn đưa tôi đi chơi như thể điều đó hoàn toàn bình thường vậy.@
+` Khi theo dõi cậu ấy thầm lặng, tôi bắt đầu quan tâm đến anh trai mới của mình.@
+` Cậu ấy ồn ào, khó chịu và hơi thô lỗ, nhưng...
+` Tôi biết rằng người này sẽ bảo vệ tôi bất kể điều gì xảy ra.
+\
+bg "bg/bg_36a",crossfade,800
+` Là con gái nhà Tohno, tôi sống tách biệt với anh trai và cậu bé.@
+` Cha nói tôi không thể sống một cuộc đời bình thường do dòng máu đặc biệt của gia tộc Tohno.@
+br
+` Tôi đã học tập chăm chỉ và chấp nhận số phận của mình.@
+` ... Cha không làm thế vì Ngài không thích tôi.@
+` Tôi tự nhủ rằng Ngài la mắng tôi vô cùng nghiêm khắc chỉ bởi vì Ngài yêu thương tôi.
+\
+br
+br
+br
+` Trí óc tôi đang dần kiệt quệ.@
+` Trí tuệ mà tôi từng có đã bị cắt giảm khi nó ngày càng thu nhỏ lại.@
+bg #000000,crossfade,800
+br
+` Nhưng tôi cảm thấy mình vẫn có thể chịu đựng được.@
+` Vì tôi có một chút thời gian rảnh rỗi sau giờ học để chơi đùa bên ngoài cùng mọi người.
+\
+bg "bg/bg_42a",crossfade,800
+` Ba chúng tôi bắt đầu chơi cùng nhau.@
+` Anh trai tôi và cậu bé rất hợp nhau.@
+` Tôi thường theo dõi họ thầm lặng.
+\
+` Anh trai tôi dường như biết rằng cậu bé khác biệt so với chúng tôi.@
+` Tôi cũng hiểu rằng thời gian trôi qua nhanh khi tôi vui chơi với những người bình thường như thế.@
+` Vì đã biết điều này, tôi muốn trân trọng từng khoảnh khắc.@
+` Hy vọng khi tôi trưởng thành và trở nên cô đơn trong căn biệt thự này,
+` Tôi sẽ không cảm thấy cô đơn và không khóc vì tôi có những kỷ niệm vui vẻ này.
+\
+` [line=3]Những kỷ niệm rất nhiều.@
+br
+` Có những khoảnh khắc đặc biệt trong những ngày đặc biệt mà tôi từng có.@
+` Có một đêm tôi rời xa cùng với cậu bé đó.@
+br
+` Vào một đêm tối, hai chúng tôi ở giữa cánh đồng, bao quanh bởi những cây cối.
+\
+bg #000000,lshutter,800
+` [line=2]Đó thực sự là một trải nghiệm như mơ cho tôi.@
+br
+` Mỗi ngày đều ấm áp như một cuộc diễu hành.@
+` Nhưng rồi...
+` Mọi thứ kết thúc đột ngột.
+\
+monocro off
+bg "bg/cmo_05",crossfade,800
+` Một ngày hè nóng nực.@
+` Tôi nhìn thấy anh trai mình trong sân và tiến lại gần.@
+` Anh ấy đang thở khò khè, cúi xuống trên mặt đất một cách đau đớn.@
+br
+` Tôi có một cảm giác rất xấu về điều này.@
+br
+` Tôi nghe thấy tiếng ve sầu và mặt đất dường như nghiêng.@
+` Cảm thấy mình bắt đầu choáng váng, tôi gọi tên anh trai.
+\
+` Anh trai quay lại, nhưng không phải là anh trai tôi.@
+br
+` Tôi không thể làm gì. Tất cả những gì tôi có thể làm là nhìn anh trai biến thành một con quái vật xấu xí.@
+` Ý nghĩ rằng tôi sẽ trở thành thứ gì đó giống như anh ấy trong tương lai khiến tôi đóng băng tại chỗ.@
+br
+` Con quái vật khát máu tấn công tôi.@
+` Tôi không thể bỏ chạy.@
+` Lúc đó, ai đó kéo tay tôi.
+\
+monocro #ffff00
+bg "bg/bg_53",lshutter,800
+` Cậu bé xuất hiện khi tôi quay lại.@
+` Cậu ta nắm chặt tay tôi lôi chạy đi.@
+` ... Anh ấy không sợ à?@
+` Cậu bé đứng trước con quái vật xấu xí như thể muốn bảo vệ tôi.@
+br
+` Nhưng con quái vật chỉ nhìn chằm chằm vào tôi.@
+` Con quái vật đã tấn công tôi, và cậu bé đã can thiệp giữa chúng tôi.
+\
+` Đột ngột.@
+` Tôi nhớ khoảnh khắc máu ấm bắn lên má tôi.
+\
+` ... Cậu bé ôm lấy tôi và bảo vệ em gái khỏi con quái vật.@
+br
+` Ngay cả khi cơ thể cậu ấy bị thương nặng và chảy máu, cậu vẫn ôm tôi. Cậu bảo vệ thân thể nhỏ bé của tôi và không buông tay.
+\
+` Khi tôi ngước nhìn lên, cậu đang khóc.@
+` Nước mắt trông giống như đến từ sự hối tiếc, chứ không phải đau đớn.@
+br
+` [line=3]"Tôi xin lỗi," cậu trai nói.@
+br
+` Trước khi chết, cậu ôm tôi, hy vọng xác chết của cậu vẫn có thể bảo vệ tôi.
+\
+` Cậu trai tiếp tục xin lỗi.@
+br
+` Nếu tôi là một phần của gia đình thực sự của cậu, có lẽ tôi có thể bảo vệ cậu.@
+` [line=3]Thật nản chí, tôi không thể trở thành anh trai thực sự của cậu.@
+` [line=3]Tôi đã thề rằng cậu sẽ quan trọng hơn bất kỳ ai khác đối với tôi.
+\
+` ... Anh ấy đã lẩm bẩm lời thú nhận khi chết đi.@
+` Cậu bé mong muốn sự an toàn cho tôi ngay cả sau khi anh ấy qua đời và cố gắng trở thành một người anh trai nhiều hơn là anh trai thực sự của tôi.@
+br
+` ... Những lời đó đã đủ.@
+` Tôi không thể mong muốn điều gì khác.@
+` [line=3]Tôi hiểu rằng tôi đã khóc khi biết rằng người này sẽ không bao giờ phản bội tôi.@
+` Mặc dù điều đó vô tư, tôi ôm lấy cậu và khóc vì hạnh phúc.@
+` Tôi vui mừng vì có thể nghĩ rằng đây là người duy nhất dành cho tôi bất kể xảy ra điều gì.
+\
+bg #ffffff,crossfade,800
+` Tôi không biết chuyện gì đã xảy ra sau đó.@
+` Khi tôi tỉnh lại, ký ức duy nhất tôi có là thân thể con quái vật bị kéo đi đâu đó, và thân thể cậu bé nhỏ được đưa vào lâu đài.
+\
+bg "bg/bg_41",crossfade,800
+` Và cha tôi đã kể cho tôi nghe.@
+` Ông ấy nói con trai nuôi đã chết trong vụ tai nạn đó và anh trai thật của tôi là người sống sót.@
+` ... Tôi biết điều đó chỉ là để thể hiện trước thế giới bên ngoài, nhưng tôi không quan tâm.@
+br
+` Anh ấy vẫn còn sống. Tôi không thể mong muốn điều gì hơn được.@
+` ... Ngay cả khi cậu bé trở thành anh trai thật của tôi về mặt danh nghĩa, và ngay cả khi bản thân cậu ấy nghĩ như vậy,
+` Tôi tự nhủ rằng sẽ ổn nếu tôi có thể ở bên cạnh anh ấy như một chị gái.
+\
+bg "bg/bg_36a",crossfade,800
+` 八 năm trôi qua và cha tôi qua đời.@
+` Tôi đã đạt đến sức mạnh toàn bộ của gia tộc Tohno và quyết định đưa ông trở lại biệt thự, phớt lờ sự phản đối xung quanh.@
+br
+` Là người kế vị, tôi không có tự do nào, nhưng có lẽ tôi có thể hành động vì bản thân ít nhất một lần.@
+` [line=4]Sau đó, tôi muốn dùng một lời nguyện duy nhất cho tình yêu sẽ không bao giờ được nói ra.
+\
+` Điều đó là đủ với tôi.@
+` Tôi đã lấy đi mọi thứ từ ông ấy.@
+` Vì vậy, tôi không thể ước gì thêm nữa.@
+br
+` [line=3]Ngày xưa.@
+` Loại hạnh phúc mà tôi từng có khi ngắm sao cùng nhau sẽ không bao giờ xảy ra nữa, nhưng,
+br
+` miễn là anh ấy vẫn ở đây, tôi không quan tâm.@
+` Nếu anh trai quay lại.@
+br
+` [line=3]Trong một đêm đen tối, hai chúng ta trong cánh đồng, bao quanh bởi những cây cối.
+\
+br
+br
+br
+br
+br
+br
+` Một giấc mơ
+` [line=3]vui vẻ và ích kỷ.
+\
+monocro off
+bg #000000,crossfade,1500
+playstop
+!w3000
+bg #ffffff,crossfade,800
+bg "bg/bg_18b",tshutter,800
+play "*1"
+` [line=4]Đau đớn.@
+` Tôi thức dậy với cơn đau ở ngực mình.
+\
+`"……… Ha."@
+` Tôi ở trong một căn phòng lạ.@
+` Tôi nằm trên giường, nửa người trên trần trụi.@
+` Thay vì quần áo, những miếng băng trắng quấn chặt quanh ngực tôi.@
+`"[line=6]"@
+` Ký ức của tôi bị rối bời.@
+` Điều gì đang xảy ra? Điều gì đang diễn ra ngay lúc này… mọi thứ lẫn lộn và tôi không thể sắp xếp chúng lại được.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_18b",notrans,0
+`"……!!!"@
+` Đau nhức ở ngực là điều duy nhất chắc chắn.@
+` ... Vết thương trên ngực tôi.@
+` Tôi bị ai đó đâm từ phía sau.@
+` Ai vậy? Tôi chẳng cần phải suy nghĩ.@
+` [line=3]Tôi vừa bị SHIKI đâm, và Akiha.
+\
+`"Akiha..."@
+` Tôi ngồi dậy khỏi giường.@
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_18b",notrans,0
+`"[line=4]Ôi trời ơi!"@
+` Cơ thể tôi đột nhiên ngừng chuyển động.@
+` Chấn thương trên ngực tôi đau đớn và toàn bộ cơ thể tôi căng cứng.@
+`"[line=5][line=5]A, ugh"@
+` Ngay cả việc hít thở cũng gây đau đớn.@
+` [line=4]Tôi không thể đứng dậy như thế này.
+\
+ld c,"tachi/cel_t12",lshutter,800
+`"Ôi, cậu thức giấc rồi, Tohno-kun? Tôi ngạc nhiên. Chấn thương của cậu không nghiêm trọng đến mức cậu phải thức sớm như vậy."@
+`"[line=3]T-tại sao... Sen...?"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Đúng vậy. Là tôi. Và đây là phòng của tôi nên cậu hãy thư giãn. Ngay cả nếu con ma cà rồng đó đang tìm kiếm cậu, nó cũng khó có thể đến đây."
+\
+`"Đó là cậu... Senpai, cậu không bao giờ định xuất hiện trước mặt tôi...!"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Đó là kế hoạch ban đầu, nhưng tôi phải giúp cậu trong tình huống này."@
+cl a,lshutter,800
+` Khi nói vậy, Senpai tiến lại gần giường.
+\
+`"Nhìn kìa, vết thương mở ra vì cậu cố gắng di chuyển.@ Tôi sẽ thay băng cho cậu."@
+` Senpai khéo léo tháo băng trên cơ thể tôi và thay bằng những cái mới.@
+` Chúng khá chặt.@
+`"... À... Senpai, tôi cảm thấy có chút ngại khi nói điều này vì cậu đang giúp tôi, nhưng nó quá chặt."@
+ld c,"tachi/cel_t12",crossfade,400
+`"Đúng vậy, tôi làm chặt nó để cậu có thể di chuyển mà vẫn ổn.@ Cậu có thể im lặng một lúc được không?"@
+cl a,crossfade,400
+`"Ôi... Tôi xin lỗi."
+\
+` Tôi xin lỗi và nhìn quanh căn phòng.@
+` Điều này dường như là phòng của Ciel-senpai.@
+` Có vẻ như tôi đã bị Shiki đâm và sau đó được senpai cứu.@
+` Nhưng rồi[line=3]tôi nên làm gì với Akiha?
+\
+`"Senpai, Akiha!? Ở đâu là Akiha?"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"... ..."@
+` Senpai đóng băng tay.@
+`"[line=4]Senpai!"@
+`"... Tình huống buộc tôi chỉ có thể cứu một người.@
+` Tôi không thể thoát khỏi vị ma cà rồng mang theo hai người.@
+` [line=3]Vì vậy, tôi ưu tiên giải cứu bạn vì bạn có cơ hội hồi phục cao hơn."
+\
+`"[line=4]Akiha, cậu đang nói cậu bỏ rơi Akiha, Senpai...!"@
+`"... Vâng. Cuộc sống của cô ấy không thể cứu được như thế này. Tôi không thể nguy hiểm tính mạng bạn để cứu cô ấy nếu đó là trường hợp."@
+`"[line=4]Chuyện gì vậy?"@
+br
+` "[line=3]Người này đang nói gì vậy?"
+\
+`"Tại sao...! Tại sao cậu lại cứu tôi...! Cậu không phải là để giết ma cà rồng sao...! Nếu vậy, cậu nên quên đi tôi và giết SHIKI ngay tại đó..."!@
+`"…… Tôi có lựa chọn đó, nhưng cậu có lẽ đã chết."@
+` "Chấn thương của cậu quá nặng, đến mức cậu sẽ chết nếu tôi không điều trị nhanh chóng. Tôi không chắc mình có thể tiêu diệt con ma cà rồng đó nhanh như thế, nên tôi đã đưa ra quyết định chắc chắn nhất và chạy trốn cùng cậu."
+\
+`"[line=3][line=4]Bạn đã bỏ rơi Akiha sao? Đó là sự giúp đỡ không mong muốn đấy! Tôi chắc chắn nếu bạn để tôi và giết SHIKI, Akiha sẽ được cứu..."@
+`"…… Tôi sẽ không phủ nhận điều đó. Nhưng Tohno-kun, Akiha-san chưa chết. Mục đích của con ma cà rồng là để biến cô ấy thành giống như nó."@
+` Akiha sẽ không bị giết. Cậu là người duy nhất định sẽ chết. Cậu không hiểu điều đó à, Tohno?@
+`"[line=6]"@
+` Tôi không thể nói gì cả.@
+` Senpai nói đúng.@
+` [line=3]Tôi đang làm gì vậy? Đánh mất sức mạnh của mình với cô ấy?
+\
+`"[line=3]…… Xin lỗi, nhưng tôi không thể tin rằng gã đó sẽ không giết Akiha. Anh ta là một kẻ giết người. Tôi biết điều đó hơn bất kỳ ai khác……!@
+`"…… Tohno-kun, Akiha-san sẽ không bị giết. Nhưng xin hãy buông tay ra khỏi cô ấy.@
+` [line=4]Cô ấy sẽ không thể quay lại được.@
+`"Tôi biết điều đó……! Nhưng đó chỉ là mái tóc của cô ấy. Akiha không giống SHIKI.
+\
+`"Không, Tohno-kun. Kẻ ma cà rồng đó có mục đích để chiếm lấy Akiha-san.@
+` [line=3]Tohno SHIKI, anh trai thật sự của Akiha-san đã không còn là người nữa. Vì vậy điều anh ta muốn là một ai đó giống hệt anh ta.@
+` [line=3]"Anh hiểu rồi, Tohno."@
+` Ma cà rồng đó không muốn @Akiha-san trở thành con người. Đó là lý do tại sao hắn tấn công @Akiha-san tối qua, nhưng không giết cô ấy.@
+` Tôi không biết làm thế nào, nhưng Tohno Shiki chắc chắn đã tìm ra cách thức để thức tỉnh dòng máu phi nhân tính trong gia tộc Tohno.
+\
+`"[line=5]"@
+` Bây giờ khi cô ấy nhắc đến điều đó, tôi nhớ ra.@
+` Từ khi gã đó khiến Akiha ngất đi,
+` Tóc cô ấy vẫn đỏ rực, không hề thay đổi.
+\
+`"[line=4][line=3]Làm sao cậu biết nhiều thế?"@
+`"Tôi khiến cậu nói chuyện khi cậu đang ngủ. Tôi xin lỗi vì đã ép cậu nói mà không hỏi phép, nhưng hãy xem đó là sự đền bù cho việc giải cứu cậu."@
+` "... Tôi không quan tâm đến điều đó. Không có lý do gì để cô ấy xin lỗi."@
+`"[line=7]Thay vào đó..."@
+` "Tôi phải đi gặp Akiha."@
+` "Ku………"@
+br
+` (Một sự ngắt quãng, thể hiện sự bất ngờ hoặc đau đớn)@
+` "[line=3]"
+\
+`"!" (Dấu chấm câu mạnh mẽ, thể hiện cảm xúc mãnh liệt)@
+` Tôi ngồi dậy khỏi giường.@
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_18b",notrans,0
+` Có một cơn đau dữ dội.@
+` Nó như thể có ai đó đang cào xé cơ thể tôi bằng dao.@
+`"[line=4]Ồ... Gu......!"@
+` Nhưng tôi vẫn có thể di chuyển.@
+` [line=4]Nếu tôi có thể di chuyển, thì tôi không thể ngồi yên được.
+\
+`"[line=4]Senpai, cậu có con dao của tôi rồi chứ? Làm ơn trả lại cho tôi."@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Cậu định quay lại biệt thự, Tohno-kun à?"@
+` Tôi không cần phải trả lời.@
+` Người cố vấn cầm con dao trong tay và đứng trước mặt tôi.
+\
+`"Kẻ ma cà rồng và Akiha-san vẫn còn ở trong biệt thự."@
+`"[line=5]"@
+`"Đã sáu giờ kể từ đó rồi... Có lẽ đã quá muộn bây giờ."@
+`"Tôi nói...! Nó không quan trọng, người cố vấn. Tôi không bận tâm Akiha là như thế nào."@
+` Tôi đã quyết định sẽ ở bên cô ấy.@
+` ... Rất lâu trước đây, tôi đã thề sẽ là anh trai thực sự của cô ấy, giống như một gia đình thật sự.
+\
+` Tôi nói điều đó và cảm thấy như muốn khóc.@
+` ... Nó xảy ra từ rất lâu rồi.@
+` Một lời hứa mà tôi đã quên đi.@
+` Gia đình không hành xử như một gia đình.@
+` [line=3]Nhưng tôi vẫn cố gắng hết sức để trở thành một thành viên trong gia đình đó. Chỉ có cô ấy thôi. Cô ấy quan tâm đến tôi nhiều hơn cả những người khác trong gia đình thực sự của mình.@
+br
+` Tôi biết đó là một lời dối từ đầu.@
+` Nhưng chúng tôi đã cố gắng bảo vệ lời dối đó. ... Thật ra, tôi ước gì tôi chưa bao giờ biết.@
+` Đó là một giấc mơ mong manh và xa xôi.
+\
+`"... Tohno, có thể là cậu sẽ chấp nhận Akiha bất kể cô ấy biến thành gì.@
+` Nhưng đó chỉ là sự giải thích ích kỷ của cậu.@
+` Akiha chính mình sẽ không cho phép sự tồn tại của chính mình."@
+`"... Akiha chính mình sẽ không cho phép sự tồn tại của mình...?"@
+br
+` ... Có người đã từng nói điều tương tự trước đây.
+\
+`"Nghe tôi nói, Tohno. Akiha sẽ mất trí khi trở thành một trong những Tohno.@
+` Lý trí mà cô ấy đã đánh mất sẽ bị bản năng lấn át và cô ấy sẽ lặp lại những vụ giết người vô nghĩa như SHIKI Tohno."
+\
+`"Những vụ giết người mà cô ấy không muốn. Và Akiha chính mình cũng không thể nhận ra rằng cô ấy đang làm điều đó."@
+` Không còn "Akiha-san" trong cô ấy nữa. Tất cả những gì còn lại chỉ là hành động gọi là giết người.@
+`"[line=6]"
+\
+`"Bạn có hiểu, Tohno-kun? Những người bị cô ta giết không phải là những người ghét cô ta nhất. Chính cô ta ghét bản thân mình nhiều nhất.@
+` Nhưng cô ấy không có bất kỳ cảm xúc nào để nhận thức điều đó.@
+` [line=3]Trừ khi cô ấy chết.@
+` Để làm dịu dòng máu thức tỉnh của cô ấy, bạn phải đặt lại mọi thứ. Nhưng đặt lại mọi thứ nghĩa là giết cô ấy.@
+` Nếu cô ấy đã thay đổi, thì Akiha-san cũ không còn nữa. Khi chết, Akiha-san có thể trở về bản thân thật của mình.
+\
+` "...Bây giờ tôi nhớ ra rồi."@
+` Akiha chính là người nói điều đó.@
+br
+` [line=3]Xin hãy giết tôi.@
+br
+` Cô ấy nói trong khi khóc.
+\
+`"[line=6]"@
+` Tôi không thể nói gì được.@
+` Tôi cảm thấy máu mình như muốn sôi sục.
+\
+`"[line=5]Điều gì vậy?"@
+`"Tôi biết nó đau, nhưng xin hãy buông tay [line=3]"@
+`"[line=4]Làm sao mà ích kỷ thế!"@
+cl c,lshutter,400
+`"Chuyện gì vậy?"@
+wave se_10
+Tôi khiến cô ấy run rẩy vì sợ hãi, sau đó kéo cổ áo cô ấy và đẩy cô ấy vào tường.
+` "Tôi phải làm điều này để bảo vệ mọi người."@
+` Sự giận dữ này không hướng về cô ấy.@
+` Nhưng, cô ấy không nên nói về Akiha một cách thoải mái như vậy.
+\
+`"[line=3]Cô có nghĩa là bảo tôi giết Akiha……!?"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=6]Vâng. Nếu Akiha-san muốn, tôi sẽ để bạn đảm nhận vai trò đó."@
+`"Đừng đùa giỡn………! Tôi không thể giết cô ấy. Senpai đã dặn tôi không được giết bất kể thế nào………!"@
+ld c,"tachi/cel_t09",crossfade,400
+`"[line=6]Tohno-kun"@
+` Mặt vô cảm của cô ấy bắt đầu sụp đổ.@
+` …… Tôi hiểu.@
+` Tôi biết Senpai không nói điều này vì cô ấy muốn như vậy.
+\
+`"... Tohno-kun, có những thứ đau đớn hơn cái chết, và Akiha-san biết điều đó."@
+`"[line=4]"@
+`"... Và nếu cô ấy đã thay đổi, thì cô ấy không còn là con người nữa. Bạn không thể gọi một thứ không thể tự suy nghĩ là con người, dù bạn có thể nói nó vẫn sống."@
+br
+` Khi tôi nói vậy,
+` Senpai đưa con dao cho tôi.
+\
+`"[line=3][line=4]Tohno-kun. Đi săn ma cà rồng là công việc của tôi. Tôi sẽ xử lý ma cà rồng đó, nên..."@
+`"... Không. Xin lỗi, nhưng cậu ở lại đây, Senpai."@
+ld c,"tachi/cel_t07a",crossfade,400
+`"Hừ... Tohno-kun?"@
+`"... Anh ấy và tôi có mối quan hệ lâu dài. ... Đây là vấn đề của chúng tôi... thực ra, tôi không muốn cậu bị cuốn vào chuyện này."@
+`"[line=6]"
+\
+`"Nhưng nếu có điều gì đó xảy ra với tôi, tôi sẽ để cậu xử lý. ... Tôi biết nghe có vẻ ích kỷ, nhưng có được chấp thuận của cậu, Ciel-senpai?"@
+`"[line=6]"@
+` "Senpai siết chặt đôi mắt."@
+` "Đôi mắt thoáng qua như đang quan sát một ảo ảnh."
+\
+`"... Được rồi. ... Có lẽ nghe có vẻ ích kỷ, nhưng tôi sẽ để cậu xử lý."@
+` "Nhưng tôi không hiểu, tại sao cậu lại sẵn lòng làm điều đó? Cậu thậm chí còn không phải là thành viên của gia tộc Tohno, vậy mà."@
+br
+` [line=4]"Tại sao?"@
+` "Tôi biết lý do."
+\
+`"Cậu đã nói rồi. Tôi, Tohno Shiki, trân trọng Akiha hơn chính bản thân mình."@
+` "... Nhưng, tôi không thể yêu cô ấy nhiều như cô ấy mong muốn, nên tôi phải đi."@
+br
+` [line=3]"Trong suốt thời gian này,"
+` "Akiha đã chịu đựng một mình."@
+` "So với điều đó, nỗi đau này chẳng là gì cả."
+\
+`"Tôi sẽ đi bây giờ. Cảm ơn mọi thứ và tạm biệt, Senpai."@
+` Tôi chịu đựng nỗi đau khi bắt đầu bước đi.@
+br
+bg #000000,tcartain,800
+`"[line=3]Vâng, tạm biệt, Tohno-kun."@
+` Khi tôi rời đi,
+` Tôi nghe thấy Senpai nói với tôi.
+\
+playstop
+!w3000
+bg "bg/bg_32d",lcartain,800
+` Tôi đến trước căn biệt thự.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_54c",lcartain,800
+` Đầu tôi đau nhức.@
+` Thị lực của tôi mờ mịt như mọi thứ bị bao phủ trong sương mù.
+\
+bg #000000,crossfade,800
+bg "bg/bg_54c",crossfade,800
+`"Ga……… ah."@
+` Thị lực tôi bị méo mó.@
+` Tôi không thể thở bình thường. Chỉ việc thở cũng khiến tôi chóng mặt.@
+` Mỗi bước chân tôi đi cảm thấy như vài trăm mét.@
+` Cơ thể tôi.@
+` Nó quá mệt mỏi, gần như tê liệt.
+\
+`"Ah………… h."@
+` Tôi kéo chân mình đi.@
+` Cơ thể tôi đã đạt đến giới hạn và không di chuyển theo ý muốn của tôi.@
+` Trí óc tôi nghĩ theo hướng tiêu cực, nói với tôi rằng tôi không thể làm gì với một cơ thể như vậy.
+\
+`"[line=9]"@
+` Nhưng dòng máu sôi sục trong tôi bác bỏ tất cả những ý tưởng đó.@
+` Nhịp tim mạnh mẽ của tôi.@
+` Chỉ có nhịp đập của tôi là tăng cao.@
+` Dưới ánh trăng, sự tập trung của tôi được sắc bén hóa.
+\
+bg #000000,crossfade,800
+bg "bg/bg_44b",crossfade,800
+` [line=3]Tôi chỉ đến đây một cách tự nhiên.@
+br
+` Không có sai lầm nào cả.@
+` Trái tim tôi đập thình thịch.@
+` Cổ họng tôi như muốn cháy bỏng.@
+` Cơ thể tôi kiệt sức, dùng hết năng lượng để tiếp tục sống.@
+` Đấu tranh như vậy là tự sát.@
+` Nhưng tôi không cảm thấy sợ hãi.@
+` Ngón tay tôi bị tê cứng bởi trọng lượng con dao.@
+` Thần kinh tôi như bị xé rách.
+\
+` [line=3]Cảm giác này thật quen thuộc.@
+br
+` Tôi nhớ lại cảm giác này.@
+` Tôi đã trải qua nó nhiều lần rồi.@
+` [line=4]Cảm giác mà "hắn" có khi giết người trong giấc mơ, và tôi nghĩ rằng từ lâu tôi cũng từng có cảm giác này.
+br
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_44b",notrans,0
+`"[line=4]Giữ im lặng."@
+` Tôi không còn nhiều thời gian nữa.@
+` Tôi bước vào tòa nhà bỏ hoang.
+\
+bg #000000,lcartain,800
+bg "bg/bg_45e",lcartain,800
+play "*9"
+br
+br
+br
+br
+br
+br
+` [line=3]Thật kỳ lạ,
+` Khi tôi nhìn thấy nó, tôi không cảm thấy gì cả.
+\
+`"[line=5]SHIKI."@
+`"[line=3]Đó là... bạn."@
+` SHIKI đứng dậy chậm rãi.@
+br
+` Chỉ có hai người ở đó.@
+` Một người là một ma cà rồng tên SHIKI.@
+` Người còn lại là một cô gái tóc đỏ.
+\
+ld c,"tachi/hal_t01",crossfade,800
+`"[line=4]Chào mừng, Shiki. Tôi nghĩ bạn sẽ không đến được."@
+cl a,crossfade,400
+`"[line=6]" @
+` Tâm trí tôi không cảm nhận được điều gì.@
+` Akiha đứng sau Shiki.@
+` Đôi mắt cô ấy nhìn giống như đã chết khi cô ấy tựa vào tường.@
+` Có lẽ Shiki mặc nó, nhưng cô ấy đang mặc một kimono.@
+br
+` Vật đó.@
+` Akiha giống như một con búp bê vô tâm.
+\
+` Tôi thở dài.@
+br
+` Tôi không cảm nhận được gì cả.
+\
+` Nó giống như tôi đã trở thành một con búp bê giống Akiha, không có cảm giác nào.
+\
+ld c,"tachi/hal_t01",crossfade,800
+`"[line=3]Nhưng cậu đến quá muộn.@ Tôi đã lấy lại Akiha."@
+` SHIKI tiến lại gần tôi.@
+`"SHIKI, cậu muốn làm gì?"@
+` Tôi hỏi như nâng con dao lên.@
+` SHIKI cố kìm cười khi nói chuyện.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Không biết nữa.@ Tôi thậm chí không hiểu.@ Mục đích của tôi là SHIKI để lấy lại Akiha.@ Tôi chẳng có ý định hút máu của bất kỳ kẻ vô dụng nào."@
+`"…… Tôi hiểu rồi. Nhưng nếu không phải như vậy, cậu khá bất thường lúc đó."@
+`"Đúng vậy, cậu nói rất đúng. Nhưng cũng không thể làm gì được, đó không phải là ý định của tôi."@
+ld c,"tachi/hal_t01",crossfade,800
+` "... Nó nói với tôi, Shiki."@
+` "Giết chóc, tước đoạt và hủy diệt tất cả. Tôi chỉ theo lệnh đó. Tôi không biết tại sao."@
+`"…… Thật kinh khủng. Tôi không nhớ nhiều nhưng cậu không giống như vậy trước đây, SHIKI."
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Vâng, tôi đã phát điên từ ngày tám năm về trước. Có một gã lạ trong đầu tôi và hắn bảo tôi phải giết hết mọi thứ."@
+` Khi nói vậy, SHIKI cười.@
+` Hắn ta tiếp tục cười ré lên tựa như một cỗ xe quay vô tận.@
+br
+` [line=3]Ở đó, tôi không tìm thấy chút nhân tính nào.
+` "…… Đây là câu hỏi cuối cùng của tôi. Không cảm thấy đau đớn sao?"
+\
+`"Đau đớn...? Không thể nào. Tôi hoàn hảo. Tôi yêu bản thân mình vì đã làm điều này."@
+`"Thôi thì tôi có thể nói rằng tôi chán nản, nhưng tôi đã giải quyết nó rồi.@
+` Cho đến giờ, niềm vui duy nhất của tôi là ăn những kẻ tầm thường, nhưng mọi thứ đã kết thúc kể từ khi Akiha trở lại. Bây giờ tôi không còn thời gian để chơi với những đồ chơi đó nữa.@
+` Shiki nghe có vẻ hài lòng.
+\
+` Không có ý nghĩa gì khi hỏi.@
+br
+` [line=3]@
+br
+` Nhưng tôi vẫn muốn hỏi.@
+` [line=4]Nếu gã này mang nỗi đau tương tự như Yumizuka - nỗi đau của một "con người" phải hút máu dù không muốn...
+\
+`"Vậy thì, cậu đã không còn là con người nữa."@
+` Lời tôi nói đầy đe dọa.@
+` SHIKI ngừng di chuyển.@
+ld c,"tachi/hal_t01",crossfade,400
+`"Tôi không hiểu. Tôi không hiểu tại sao cậu đến đây để bị giết, và tôi cũng không hiểu câu hỏi mà cậu vừa đặt ra."@
+` "Shiki, cậu đến đây vì lý do gì?"@
+`"Để giết bạn và lấy lại Akiha."@
+` Khi những lời ấy thoát khỏi miệng tôi,
+br
+` toàn bộ máu trong cơ thể tôi tăng tốc.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Hả? Cậu có điên à, Shiki!? Cậu nói một người bình thường như cậu có thể giết tôi sao?!"@
+`"... ..."@
+` Không có lý do nào để tôi trả lời.@
+` Tôi thu hẹp tầm nhìn.@
+` Và, hãy xem những "dòng" [line=3] của cậu ấy.
+\
+bg "bg/bg_45d",crossfade,400
+ld c,"tachi/hal_t02",crossfade,400
+`"Đừng tự phụ quá! Đây là của tôi. Tôi sẽ không cho cậu đâu!"@
+` Có lẽ anh ta cảm nhận được điều gì đó.@
+` Shiki lùi lại như thể đang sợ hãi.@
+`"Akiha là chị gái của tôi...! Tôi là người duy nhất có quan hệ máu mủ với cô ấy. Không có chỗ cho cậu..."!@
+` Hắn ta trừng mắt nhìn tôi bằng đôi mắt đỏ ngầu quỷ dị.@
+br
+` [line=3]Không còn gì để nói thêm với anh ta.@
+` Tôi giơ con dao lên và tiến lại gần.
+\
+`"Đúng vậy, Shiki. Akiha không phải là chị gái của tôi."@
+`"Thật sao?"@
+`"Akiha là người phụ nữ của tôi."@
+`"[line=4]Cậu!"@
+cl a,lcartain,400
+` Tôi tiến thêm một bước.@
+` Shiki mất tập trung vì lời tôi nói, anh ta lao vào tấn công tôi trực diện.@
+br
+` Điều đó trở thành tín hiệu cho trận chiến cuối cùng của chúng ta.
+\
+playstop
+bg #000000,lshutter,400
+` [line=3]Tôi không có nhiều thời gian.@
+br
+` Cơ thể tôi đã đến giới hạn, và tôi muốn đưa Akiha ra khỏi đây càng nhanh càng tốt.@
+` Vì vậy, chỉ còn một điều để làm.@
+` Tôi phải lách người khỏi cánh tay của Shiki và cắt qua đường "dây" trên ngực cậu ấy.@
+` Cơ thể tôi có thể di chuyển như vậy một lần. Tôi có thể né tránh nó.@
+` Cậu ta tấn công tôi.@
+` Phạm vi của Shiki và của tôi gần như bằng nhau.@
+` Chúng tôi cố gắng giết nhau công bằng trong phạm vi của mình [line=4]
+\
+bg "bg/ima_14",lshutter,400
+` [line=5]Không.@
+` Đó chỉ là ảo ảnh của tôi.
+\
+`"Ha...!"@
+` Shiki phát ra một tiếng hét kỳ lạ khi vung "nó".@
+`"[line=7]Hả?!"@
+wave se_12
+` Tôi chặn "nó" bằng con dao của mình.@
+` [line=3]Không có thời gian để suy nghĩ về những thứ khác.@
+` Con dao của tôi và vật thể mà Shiki đang cầm va chạm với nhau, tạo ra một tiếng kêu sắc nhọn.
+\
+bg #000000,lshutter,400
+play "*4"
+`"[line=3]Đáng lẽ tôi phải cắt đôi cậu cùng với con dao ấy chứ! Nhưng thứ đồ cổ này mạnh hơn tôi tưởng, Shiki!"@
+` Shiki vung "nó" lên trên đầu.@
+`"[line=7]"@
+` Toàn bộ cơ thể tôi run rẩy.@
+` Cái gì mà SHIKI cầm đây là một vật giống thanh kiếm, dài gấp mười lần con dao của tôi.@
+`"[line=5]"@
+` Tôi không hiểu.@
+` [line=5]Hắn ta dẫu dã chiến đấu tay không suốt từ nãy đến giờ. Rốt cuộc hắn lấy thứ này ra từ lúc nào cơ chứ?
+\
+`"Nhưng sẽ không có lần thứ hai nào nữa!"@
+` Thanh kiếm đỏ vung xuống.@
+` [line=5]Ngay cả khi anh ta vung nó, vì chiều dài quá lớn nên nó chỉ có thể mắc kẹt vào tường hoặc trần nhà.
+br
+bg "bg/ima_14",tshutter,400
+`"[line=8]Liệu tôi có thể né tránh nó không?"@
+` Tôi tránh nó ngay lập tức.@
+` Kiếm đỏ SHIKI cầm trên tay rơi xuống mà không bị vướng ở đâu cả.
+\
+` Trong lần vung đó,
+` Kiếm thực sự đâm vào trần nhà, nhưng nó rơi xuống theo một đường cong như con dao nóng xuyên qua bơ tan chảy.
+\
+bg #000000,tshutter,400
+br
+br
+br
+br
+br
+br
+` Ở đâu đó...@
+` Tiếng máu rơi vang lên.
+\
+bg "bg/bg_45d",lshutter,400
+`"[line=7]Đáng để lưu tâm!"@
+` Shiki giơ cao thanh kiếm một lần nữa.@
+`"[line=10]@
+` Tâm trí tôi ngừng lại.@
+` Trong tầm nhìn của tôi là Shiki và Akiha, ngồi ở phía sau căn phòng.@
+` Akiha nhìn tôi và Shiki với ánh mắt trống rỗng.@
+` Cô ấy ngồi im như một bức tượng.@
+` Akiha... Tôi không thể để cô ấy ở đây một mình.@
+` [line=4]Nhưng lúc này,
+`"[line=4]Ku!"@
+` Tôi kiềm chế lời nói và rời đi.
+\
+bg #000000,lshutter,400
+` Tôi đi qua cánh cửa shouji dẫn ra khu vườn.@
+` Nếu thanh kiếm đó không đâm trúng tường, tôi sẽ gặp bất lợi trong trận chiến này.@
+` Ngoài kia, rừng sâu.@
+` [line=4]Trong đêm đen tối này, giữa những tán cây này, chắc hẳn có lợi thế nào đó dành cho tôi.
+\
+bg "bg/bg_54c",rshutter,400
+wave se_01
+`"[line=5]Arcueid."@
+` Tôi đột nhiên cảm thấy chóng mặt.@
+` Chân tôi lảo đảo, gần như ngã xuống.@
+` Vết thương ở lưng tôi lại mở ra và máu tuôn ra. Không còn thời gian nữa.@
+`"[line=5]Ối!"@
+` Tôi thở một hơi dài.@
+` Chậm chạp, tôi tựa người vào một cây.
+\
+`"Tìm……"@
+` Tôi không thể ngất đi ở đây,
+` Tôi nghe thấy âm thanh của ai đó di chuyển qua cỏ.@
+` SHIKI chắc chắn đang truy đuổi tôi.@
+` Rồi, chỉ cần thêm một chút nữa.@
+` Tôi cần đến ít nhất một nơi nào đó để tôi có thể ẩn mình và tấn công cậu ta từ phía sau. [line=5]
+\
+wave se_15
+rung chuyển 2,50
+`"[line=8]"@
+` Sau đó,
+` một thanh kiếm như dính vào cây tôi đang dựa vào.@
+`"[line=7]!"@
+` Tôi nhảy sang bên.@
+wave se_15
+Lắc lư 2,5 giây
+` Hai lần.@
+` Thanh kiếm bay tới xuyên qua cây một cách dễ dàng.
+\
+`"[line=8]Tôi không thể tin được!"@
+` Cơ thể tôi di chuyển trước khi tôi có thời gian để suy nghĩ.@
+` Tôi ẩn mình giữa những cây, từ cây này sang cây khác.@
+` Những thanh kiếm đang bám sát sau lưng tôi.@
+` Liệu điều này có kết thúc? Kiếm của hắn như những viên đạn liên tiếp bay về phía tôi.
+\
+`"[line=6]Điều gì đang xảy ra?"@
+` Không có lối thoát.@
+` Khi tôi chạy trốn, anh ta càng ném nhiều kiếm về phía tôi hơn.@
+` Khi tôi để ý,
+` Rừng tối đầy những cây bị đâm xuyên, trông giống như một địa điểm hành quyết lạ lùng nào đó.
+\
+`"[line=4]Hả? Cậu đã chạy trốn xong chưa, Shiki? Đừng nói là cậu nghĩ có thể giết tôi ở đây……!"@
+br
+` Tôi nghe thấy giọng cậu ấy.@
+` Nhưng cậu ấy không ném thanh kiếm ra.@
+` Vì tôi không nhìn thấy cậu ấy, có lẽ cậu ấy cũng không nhìn thấy tôi... không, không thể nào.@
+`"Ha………… a."@
+` Tôi đứng thẳng dậy và tựa vào một cây to. Thanh kiếm của cậu ấy không thể xuyên qua một cây lớn như thế này.
+\
+`"Này, cậu đâu rồi, những lời nói mà cậu đã dành cho tôi trước đó?!"@
+` "Nếu cậu định giết tôi, thì phải thú vị hơn nếu cậu thử..."!"@
+` Tiếng nói vang vọng, nhưng tôi vẫn không thể xác định vị trí của hắn.@
+` Tôi nhắm mắt lại và cố làm tinh thần nghe nhạy cảm hơn.
+\
+playstop
+bg #000000,crossfade,400
+` ...
+\
+` ...@
+` ...@
+` ...
+\
+` Tôi không thể nghe thấy hơi thở của anh ấy hay cảm nhận sự hiện diện của anh ấy.@
+` Đương nhiên rồi.@
+` Tôi không có những giác quan giống loài thú như anh ấy.
+\
+`"[line=7]?"@
+` Tôi nghe thấy tiếng nước rò rỉ.@
+` ... Điều gì vậy?@
+` Tôi không nghĩ có nước xung quanh đây.
+\
+bg "bg/bg_54d",crossfade,400
+`"Ôi trời, cậu thật là kẻ sợ hãi. Được rồi. Nếu đó là tất cả những gì cậu sẽ làm, tôi sẽ khiến điều này thú vị hơn cho cậu."@
+` "Anh có thể trốn ở đó bao lâu anh muốn."@
+br
+` "... Tôi vẫn nghe thấy giọng nói của anh ấy."@
+` "Nhưng tôi vẫn không biết anh ta đang ở đâu."@
+br
+`"...... Hãy xem xét. Nếu tình huống này đúng, tôi sẽ phải làm cho nó thú vị hơn. Không vui khi chỉ giết anh ta. Dễ dàng đâm anh ta lúc này, nhưng tôi nghi Akiha sẽ không hài lòng với điều đó."
+\
+` "... Âm thanh chảy nước ấy."@
+` "Lần này nó gần hơn."@
+` "Âm thanh đến từ cây ngay trước mặt tôi."@
+` "Khi tôi nhìn lại,
+` Tôi nghe thấy âm thanh của nước nhỏ giọt xuống lưỡi kiếm xuyên qua cây.
+\
+`"Vâng, tôi nên bẻ gãy tay chân cậu và biến cậu thành một con rối cho Akiha……!@ Akiha thích chơi với những con búp bê, điều đó sẽ hợp với cô ấy."
+\
+` ... Không phải là nhựa cây.@
+` Một chất lỏng nào đó đang nhỏ giọt xuống thanh kiếm mỏng manh này.@
+` Khi nhìn kỹ hơn, nó giống như băng tan chảy thành nước hơn.
+\
+`"Ừm, tôi chưa kể cho cậu biết điều này nhưng hiện tại Akiha hơi ngoài tầm kiểm soát của tôi.@ Tôi nghĩ tôi đã quá vui và làm quá nhiều.@ Tốt là cô ấy đã trở lại, nhưng đây là vấn đề khi cô ấy cắn bất cứ ai cô ấy nhìn thấy, phải không?"
+\
+` ... Chất lỏng tiếp tục nhỏ giọt.@
+` Kiếm đỏ giống như một lưỡi kiếm hơn là một thanh kiếm thực sự.@
+` Một vũ khí đơn giản, chỉ là một lưỡi dao.@
+` Đây chính là vũ khí mà Shiki ném đi.@
+` Một thanh dao mỏng, dài màu đỏ.@
+` Nhưng tại sao nó lại chảy chất lỏng đỏ?@
+` Đỏ.@
+` Đỏ.@
+` Red...?
+\
+wave se_01
+`"[line=5]Tôi hiểu rồi. Tôi sẽ không làm bạn thành đồ chơi của Akiha. Tôi chắc chắn nếu tôi tặng cô ấy với nhiều thanh kiếm xuyên qua người bạn, đó sẽ là một món quà tuyệt vời, nhưng tôi nghĩ Akiha sẽ cắn vào bạn trước khi cô ấy chơi với bạn. Tôi không thể để Akiha ăn bữa ăn nghèo như vậy."
+\
+`"[line=7]"@
+` Im lặng đi.@
+wave se_01
+` Màu đỏ.@
+` Người đó.@
+wave se_01
+` Cũng màu đỏ.@
+` Có điều gì đó quan trọng.@
+wave se_01
+` Vẫn là màu đỏ.@
+` Tôi phải hiểu ra nó.
+\
+`"…… Chờ một phút. @ Vâng, đó là một ý tưởng hay! @ Để Akiha trở thành kẻ ăn thịt người giống như tôi..."
+\
+`"[line=7] Máu." @
+` Tôi thấy rồi. @
+wave se_01
+` Đó là máu. @
+` Đó chính là máu. @
+` Đó là lý do có rất nhiều kiếm xung quanh đây. @
+wave se_01
+` Có hàng trăm thanh kiếm cắm vào cây. @
+` Tay và chân bị cắt rời rải rác khắp nơi. @
+` Đêm đen tối.@
+wave se_01
+` Mặt trăng trong suốt.@
+` Rừng đầy máu [line=4]
+\
+monocro #ff0000
+bg "bg/ima_02",crossfade,400
+wave se_01
+!w500
+bg "bg/bg_54d",crossfade,400
+Vòng lặp âm thanh se_02
+`"Vâng, vâng, vâng! Đó là tốt. Sẽ tuyệt vời nếu Akiha trở thành bữa ăn đầu tiên của cậu..."@
+` [line=4]"Tôi đã quyết định rồi. Vâng, giờ tôi phải khiến Akiha giống mình càng sớm càng tốt."
+\
+br
+br
+br
+br
+br
+br
+` Âm thanh giọt nước rơi.@
+` Tiếng máu mới rơi.
+\
+`"[line=6]Tạm biệt Shiki, tôi phải nói chúng ta khá gần gũi, nhưng tôi đã ngừng chơi đùa!"@
+br
+` Điều đó cho tôi biết anh ấy ở đâu.
+\
+wavestop
+bg #000000,crossfade,400
+` Tôi rời khỏi cây mà tôi đang dựa vào.@
+` Tôi quay lại và cắt những "dây" của nó.@
+` Di chuyển,
+` cây lớn đổ xuống đất.
+\
+`"[line=11]Chuyện gì vậy?!"@
+` Tôi nghe thấy giọng nói từ trên cao.@
+` Trong chớp mắt, anh ta đã nói những điều vô vị như vậy ngay trên mặt tôi cho đến bây giờ.
+\
+`"[line=5]Anh!"@
+` Shiki rơi xuống.@
+` Trong tay anh ấy là thanh kiếm đỏ làm từ máu.@
+` [line=3]Nhưng trước khi anh ấy có thể vung nó:
+br
+br
+bg "bg/ima_14",crossfade,400
+` Con dao của tôi cắt qua cánh tay anh ấy.
+\
+bg "bg/ima_12b",lshutter,400
+` Máu bắn tung.@
+` ... Tay Shiki rơi xuống đất.@
+` Máu từ cánh tay bị cắt rách của hắn tạo nên một vết bẩn đen trên mặt đất.@
+` Đối với tôi cũng như vậy, vì tôi ở dưới hắn.@
+` Máu đỏ, giống như máu người, bắn lên ngực tôi.
+\
+bg "bg/bg_54d",crossfade,400
+`"[line=5]Ha. Agh!"@
+` [line=5]SHIKI ngã xuống đất và nhảy ngược lại như một con khỉ.
+\
+ld c,"tachi/hal_t04",crossfade,400
+waveloop se_02
+`"[line=3]Haha, ha."@
+` SHIKI nhìn tôi.@
+`"Ồ, chắc cậu có thể làm được nếu cố gắng...!"@
+` "Tôi nhẹ nhõm vì Shiki. Nó không giống với cậu khi bị giết dễ dàng như vậy..."!
+\
+`"[line=11]"@
+` Tôi cố gắng nói điều gì đó nhưng ngừng lại.@
+` Tôi không có chỗ cho điều đó.@
+` "Giết."@
+` "Giết."@
+` "Giết."@
+` Đánh giết. Nếu bạn có sức lực để cử động môi, hãy dùng nó để tiêu diệt sinh vật đó.@
+` Cơ thể tôi chiếm lấy tâm trí tôi.@
+` "Này, sao bạn không nói gì cả……! Trời ơi, đừng giả vờ như mình là người tốt. Bạn giống một con quái vật hơn tôi…"
+\
+ld c,"tachi/hal_t02",crossfade,400
+`"Này, sao mày không nói gì……!@ Chết tiệt, đừng có làm như mình là người tốt.@ Mày còn giống quái vật hơn cả tao……!"@
+`"[line=9]Tôi nắm chặt con dao khi tiến lại gần SHIKI.@
+` "Hừm, bạn thậm chí không muốn nói chuyện với tôi, phải không? Tôi cũng vậy. Tôi không muốn nói chuyện với bạn. Tôi có thể là một kẻ ăn thịt người, nhưng tôi không phải là máy móc như bạn…"
+\
+`"Hê, đến nói chuyện với tao mày cũng không muốn à?@ Tao cũng vậy thôi.@ Tao cũng chẳng muốn nói với mày.@ Tao có ăn thịt người thật, nhưng tao không phải một cỗ máy như mày……!"@
+`"[line=9]Tôi… tôi chỉ muốn hiểu… tại sao lại như thế này…"@
+` Tôi đi trên cỏ.
+\
+`"Được chứ? Tôi vẫn còn một tâm trí có thể lựa chọn. Tôi biết những gì tôi đang làm được xem là ác đối với các bạn, nhưng chúng tôi làm điều đó vì...!"@
+` Nhưng cậu là cái gì, bị chi phối bởi máu của mình?@
+` Tôi hỏi, cậu cố giết ai mà không có ý chí riêng nào, Nanaya Shiki...!!!"@
+`"[line=9]"@
+` Tôi đi. Đến, giết, anh ấy [line=4]
+\
+`"Chết tiệt...! Cậu biết cậu trông như thế nào lúc này không? Cậu không phải là một sinh vật sống. Cậu giống như một cỗ máy, một con búp bê giết chết mọi thứ không phải người!"@
+` Tôi hiểu rồi, ông già đã tiêu diệt dòng Nanaya là điều đúng đắn. Vì các cậu chỉ là những kẻ sát thủ vô cảm...!"@
+`"[line=9]"@
+` Đây là bước cuối cùng.@
+` Với điều này,
+` [line=4]Tôi sẽ có thể giết con quái vật này.
+\
+`"[line=3]Nhìn xem, đó là loại sinh vật mà cậu là, Shiki. Nếu cậu chiến đấu với bất kỳ ai không phải người bình thường, tất cả những gì cậu làm là giết họ dù họ trông có vẻ giống người đến đâu."@
+` Vậy thì, cậu có định giết Akiha sau khi giết tôi không?@
+wavestop
+`"[line=6]"@
+` Chuyện gì vậy?@
+` [line=7]Tôi sẽ không bao giờ nói điều đó.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Bạn có thể khẳng định rằng bạn không làm? Tôi sẽ nói cho bạn biết, nhưng Akiha giống một quái vật hơn là tôi. Khi cô ấy đứng trước mặt bạn, bạn sẽ không thể kiềm chế được bản năng của mình."@
+` ... Hãy xem, nếu bạn còn chút lý trí nào đó bên trong như Tohno Shiki thay vì Nanaya Shiki, bạn nên hiểu điều này.@
+` [line=4][line=4]Bạn sẽ bị tôi giết, hoặc... tốt hơn là bạn tự sát!
+\
+cl a,lcartain,400
+`"[line=12]!"@
+` Anh ấy biến mất.@
+` Không, anh ấy đã bỏ chạy.@
+` Tôi có thể nghe thấy âm thanh của cỏ khi anh ấy chạy.@
+` Anh ấy đang chạy vào rừng.
+\
+`"[line=12] Ôi."@
+` ... Tôi để anh ta thoát.@
+` Tôi chắc chắn có thể đã giết anh ta, nhưng tôi để anh ta thoát.@
+` Tại sao?@
+` [line=4]Một phần tôi tức giận, một phần lại nghĩ đó là điều tốt.
+\
+`"... Tôi không thể để anh ta trốn thoát."@
+` ... Có một vệt máu trên cỏ.@
+` Tôi đã cắt đứt một cánh tay của hắn.@
+` Vết máu của hắn sẽ cho tôi biết chính xác hắn đi đâu.@
+` Nhưng nếu tôi không vội vàng, có thể tôi sẽ mất dấu hắn.
+\
+monocro off

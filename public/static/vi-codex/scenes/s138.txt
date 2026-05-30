@@ -1,0 +1,90 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_25b",notrans,0
+` [line=4]Đêm mới chỉ bắt đầu.@
+` Không, chính xác hơn, nếu Arcueid lang thang, có lẽ là vào ban đêm thay vì ban ngày.@
+br
+`"…… Có lẽ tìm kiếm khắp thị trấn sẽ hiệu quả hơn."@
+` …… Tôi không muốn nghĩ về điều này, nhưng hầu hết nạn nhân thường được tìm thấy ở những con hẻm.@
+` Nếu tôi muốn tìm Arcueid[line=4]và kẻ giết người ma cà rồng đang tiếp tục gây án, tôi phải kiên trì tìm kiếm trên đường phố.
+\
+`"[line=4]Damn nó.@ Tôi đang làm gì vậy?!"@
+` Không hiểu được cảm xúc của bản thân, tôi nguyền rủa và bắt đầu chạy lung tung.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_26a",lcartain,800
+` [line=6]*thở dài*@
+` Tôi ngồi xuống trên lan can.@
+` Đã qua vài giờ rồi.@
+` Tôi lang thang xung quanh một cách vô định và thậm chí không bắt gặp một bóng dáng nào của Arcueid.
+\
+`"Chết tiệt."@
+` Thật là thất vọng.@
+` Dĩ nhiên, tôi biết việc tìm kiếm ngẫu nhiên ai đó trong thị trấn không phải là điều dễ dàng, nhưng tôi vẫn cảm thấy lạc quan rằng tôi sẽ tìm thấy cô ấy.@
+br
+`"Cô ấy đi đâu rồi……?"@
+` Tại sao?@
+` Tôi chỉ muốn hỏi cô ấy về những vụ giết người hàng loạt, nhưng khi biết được cô ấy biến mất, tôi [line=4]
+\
+`"Dừng lại đi.@ Dừng lại.@ Tôi nên dừng lại."@
+` Tôi đứng dậy từ lan can và bắt đầu đi bộ.@
+` Đêm sắp xuống rồi. Tìm Arcueid thêm nữa cũng chỉ là vô ích thôi.@
+`"...@
+` Nhưng, nếu tôi đã tiến đến bước này, tôi có thể cố gắng thêm một chút nữa.@
+` Có một địa điểm cuối cùng tôi cần kiểm tra. Nếu cô ấy không ở đó, tôi sẽ quay lại biệt thự.
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+` ... Công viên hoang vắng.@
+` Tôi đến nơi mà tôi đã hợp tác với Arcueid và đánh bại Nrvnqsr.@
+` Chỉ nhìn quanh thị trấn, tôi chưa tìm kiếm ở đây.@
+`"…… À, tôi cũng không nghĩ mình sẽ tìm thấy gì đâu……"@
+` Tôi lẩm bẩm và bước vào công viên.
+\
+bg "bg/bg_28b",lcartain,800
+` Đêm khuya rồi.@
+` Như dự đoán, ở thời điểm này của đêm, chẳng có ai cả. Trong sự im lặng như thế này, nó thậm chí còn cảm thấy dễ chịu.
+\
+`"…… Đúng vậy. Không thể tìm thấy cô ấy một cách dễ dàng."@
+` Tôi thở dài và gục vai.@
+`"…… Thật ngốc nghếch. Tại sao tôi lại thất vọng như vậy?"@
+` Tôi cũng không hiểu tại sao.@
+` [line=4]Tôi chỉ muốn thấy nụ cười của cô ấy một lần nữa.
+\
+ld c,"tachi/ark_t08",lshutter,400
+`"Ôi, bạn đã xuất hiện rồi. Chào buổi tối, Shiki."@
+br
+` [line=4]... Vâng, đúng như vậy này. Khuôn mặt vui vẻ, thoải mái đến mức không thể tin được rằng nó thuộc về một ma cà rồng.
+br
+`"[line=4]A, Arcueid ư?"@
+` Không cần suy nghĩ, tôi nắm lấy hai vai cô ấy.@
+ld c,"tachi/ark_t12",crossfade,400
+`"[line=4]Ồ?"@
+` Arcueid nhíu mày ngạc nhiên.
+\
+` Vai của Arcueid thực sự là như vậy, và tôi nhanh chóng rút tay lại.@
+cl c,crossfade,400
+\
+`"[line=4]Anh, anh, tại sao?"@
+` Ngay cả khi người mà tôi tìm kiếm từ lâu đứng ngay trước mặt tôi, tôi chỉ có thể lúng túng nói vấp những từ ngữ của mình.@
+ld c,"tachi/ark_t03",crossfade,400
+`"Tại sao? Đó là điều kỳ lạ. Tôi đang tìm kiếm anh, nên tôi không nghĩ đó là sự trùng hợp chúng ta gặp nhau ở đây."@
+`"Ồ, [line=4]anh, anh đang tìm kiếm tôi à?"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Tại sao? [line=4]À, chẳng có lý do gì cả."@
+` Cô ấy thẳng thắn nói rằng cô ấy không có lý do nào để tìm kiếm tôi.
+\
+`"...”@
+` ... Tôi đã quên. Cô ấy thực sự giống một con mèo như vậy.@
+`"…… Thôi thì, tôi nghĩ mọi thứ cũng ổn rồi.@ Thành thật mà nói, tôi cũng muốn gặp bạn.@ Vậy nên cuộc gặp gỡ này, ừm[line=4]"@
+` Tôi định nói nó khiến tôi rất vui sướng, nhưng tôi vội vã ngắt những lời đó lại.
+\
+`"[line=4]Này, tôi muốn có một cuộc trò chuyện nghiêm túc.@ Tôi muốn bàn luận ở nơi khác vì tôi cảm thấy không thoải mái ở đây, vậy có được không?"@
+`"Đương nhiên rồi[line=4]nhưng nói về điều gì?"@
+`"Bạn sẽ hiểu.@ …… Hãy đi sâu hơn vào công viên này."@
+` Dặn cô ấy đi theo, tôi bắt đầu đi bộ.@
+cl c,lshutter,800
+` Cô ấy ngẩng đầu lên với vẻ tò mò, vâng lời theo sau tôi.
+\
+bg #000000,lcartain,800

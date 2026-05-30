@@ -1,0 +1,139 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+ld l,"tachi/ari_t05",lshutter,400
+`"Đồ ăn trưa cho ba người tới rồi đây… ủa?@ Cái gì thế này, tớ dẫu dã vô tình xen ngang phá bĩnh phân cảnh ngọt ngào nào rồi à?"@`
+ld r,"tachi/aki_t01a",crossfade,400
+`"Không đâu ạ, tuyệt đối tịnh không có chuyện đó đâu, thưa tiền bối.@`
+ld r,"tachi/aki_t04a",crossfade,400
+` Anh là bạn hữu của anh Shiki đúng tịnh không ạ?@ Em là Akiha, em gái ruột của Tohno Shiki.@ Rất hân hạnh được diện kiến tiền bối."@`
+` Akiha lẳng lặng khẽ cúi người chào một cách vô cùng quý phái.`
+\
+ld l,"tachi/ari_t01",crossfade,400
+`"Không dám, tôi dẫu dã vô cùng vinh hạnh mới đúng chứ ạ.@ Tôi là Inui Arihiko, bạn nối khố của thằng Tohno từ thuở cấp hai tới giờ, dẫu vậy tịnh không ngờ đến tận ngày hôm nay tôi dẫu mới được thấu triệt sự hiện diện của em đấy, Akiha-chan."@`
+` ... Có lẽ anh ta vẫn còn giận tôi vì không kể cho anh ta biết về cô ấy, nên anh ta nói những điều không cần thiết.
+\
+`"Được rồi Arihiko, tụi mình mau ăn thôi.@ Giờ nghỉ trưa cực kỳ ngắn ngủi, tịnh không có thời gian để cậu tán gẫu dài dòng với Akiha đâu."@`
+ld r,"tachi/aki_t02",crossfade,400
+` Tôi phớt lờ ánh nhìn giận dữ của Akiha và nhận lấy bữa trưa từ Arihiko.@
+`"Đây Akiha.@ Đây là bánh mì cà ri và sữa cam, em có thể tự nhiên ăn ở chốn này.@ Thời gian tịnh không có nhiều đâu, nên chớ có ăn lề mề lửng lơ quá nhé."`
+\
+ld r,"tachi/aki_t21",crossfade,400
+`"Em tự thấu triệt rồi ạ.@ Em tịnh không phải là một đứa trẻ con nữa, nên anh Shiki chớ có mở miệng lải nhải giải thích tỉ mỉ từng li từng tí nhường ấy nữa."@`
+ld l,"tachi/ari_t03",crossfade,400
+`"Cậu nói đúng đấy Tohno.@ Sao cậu lại ăn nói phũ phàng với Akiha-chan nhường ấy hả?"@`
+` Arihiko phàn nàn với tôi.@
+`"... "@
+` Ngại những lời đó, tôi mở hộp cơm trưa của mình và nhúng ống hút vào sữa.
+\
+cl a,crossfade,400
+` Nhai.@
+` Nhai nhai.@
+` Nhai nhai nhai.@
+br
+`"[line=5]"@
+` Đúng rồi. Giờ ăn trưa kết thúc, nên tôi phải trở lại lớp học.
+\
+ld c,"tachi/aki_t13a",crossfade,400
+`"…… Kìa... anh Shiki."@`
+` Akiha khẽ thỏ thẻ thốt lên một cách vô cùng rụt rè.@`
+` Nhìn sang bên cạnh, tôi bàng hoàng phát hiện em ấy dẫu vậy vẫn chưa thèm xé mở vỏ chiếc bánh mì cà ri kia nữa.@`
+`"Có chuyện gì thế Akiha?@ Em tịnh không thấy đói bụng sao?"@`
+`"Chuyện đó… dạ tịnh không phải vậy đâu ạ, chỉ là…"@`
+` Cô ấy liếc lên, như thể xấu hổ vậy.@
+br
+`"…… Liệu anh... có thể hướng dẫn em cách ăn món bánh này được tịnh không ạ...?"@`
+br
+`"……" @
+` Em khẽ liếc hờ nhìn tôi một cách vô cùng ngập ngừng e thẹn.@`
+` Và... tôi phải nói điều gì?
+\
+cl a,crossfade,400
+ld c,"tachi/ari_t01",crossfade,400
+`"Ơ kìa, em giãi bày cái gì quái đản thế, cách ăn món này sao?@ Thì cứ tự nhiên xé toạc vỏ bao ra rồi ngoạm một miếng là xong chứ có gì đâu.@ Việc đó dẫu sao tịnh không hề khó khăn chút nào đúng tịnh không Tohno?"@`
+`"Arihiko này, anh sám hối phiền cậu một chút, cậu có thể cất bước xuống nhà ăn lấy giúp tớ vài tờ khăn giấy được tịnh không?"@`
+`"... À, tôi ạ?"@
+` Tôi gật đầu im lặng.@
+ld c,"tachi/ari_t03",crossfade,400
+`"Được rồi, nhưng sau này anh sẽ nợ em một cái."@
+cl a,lshutter,400
+` Arihiko lại chạy về phía tòa nhà trường học.
+\
+`"Thôi được rồi, đưa đây cho anh nào.@ Đầu tiên em xé mở miệng túi ở chốn này, thế này nhé.@ Rồi em cứ thế cắn một miếng... ăn được đấy, dẫu vậy chớ có mong đợi quá nhiều vào hương vị tự thân của nó.@ Tay nghề bếp nút của Kohaku-san và thứ này quả thực là một trời một vực."@`
+ld c,"tachi/aki_t12a",crossfade,400
+`"Thật vậy sao ạ... anh Shiki?"@`
+`"Anh tịnh không hề đùa em chút nào đâu.@ Hay là em tính giãi bày điều gì nữa đây?@ Đừng bảo với anh là dẫu cho dẫu dã cất công chuyển trường tới đây rồi dẫu vậy em lại tịnh không thể ăn nổi đồ ăn của trường nhé.@`
+` Anh tịnh không muốn phải coi nhẹ em đâu."`
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"Dạ tịnh không phải chuyện đó đâu ạ, chỉ là… chiếc bánh này to quá chừng, em thiết nghĩ khuôn miệng tự thân của mình tuyệt đối chịu chết tịnh không cách nào ngoạm vừa nổi đâu ạ…"@`
+`"…… Làm gì dẫu dã có ai bắt em phải nhét cả cái bánh vào miệng trong một lần cắn đâu cơ chứ.@ Đã là bánh mì dẫu sao em cứ thong thả cắn từng miếng nhỏ một thôi.@ Vụn bánh chắc chắn dẫu sao dẫu dẫu dã dính lem nhem quanh miệng rồi, dẫu vậy Arihiko bấy giờ đang đi lấy khăn giấy cho em lau sạch nên tịnh không sao đâu nhé?"@`
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Dạ vâng.@ Em xin cảm ơn anh Shiki."@`
+cl a,crossfade,400
+` Akiha bắt đầu cắn vào chiếc bánh cà ri, nói một cách tự nhiên.@
+` Không có cô gái nào từng cảm thấy lo lắng đến thế khi bắt đầu ăn bánh curry.
+\
+bg #000000,tshutter,800
+bg "bg/bg_04",bshutter,800
+` Đã vài phút kể từ khi Akiha kết thúc bữa trưa.@
+` Sự xuất hiện của Arihiko dường như không làm cô ấy bận tâm, họ đang tham gia một cuộc trò chuyện dễ chịu.
+\
+ld l,"tachi/aki_t04a",crossfade,400
+`"Thế thưa tiền bối Inui, anh dẫu dã chơi thân với anh Shiki từ thuở cấp hai rồi đúng tịnh không ạ?"@`
+ld r,"tachi/ari_t01",crossfade,400
+`"Đúng thế, tính tới nay dẫu đã ngót nghét năm năm trời rồi đấy.@ Cái gã ấy dẫu đã luôn là một gã phiền hà rắc rối ngay từ thời khắc tụi này mới gặp gỡ.@ Tôi dẫu dã phải dang tay giúp đỡ hắn ta xử lý đủ thứ sự sự tình nhọc nhằn, rồi tịnh không biết tự bao giờ hai đứa dẫu đã thân thiết nhường này mất rồi."@`
+`"…… Arihiko này, cậu dùng sai từ ngữ tự thân rồi đấy.@ Lẽ ra cậu phải dùng từ cưỡng đoạt vòi vĩnh mới đúng chứ."@`
+ld r,"tachi/ari_t02",crossfade,400
+`"Ái chà, dẫu cậu muốn réo gọi bằng từ ngữ nào đi chăng nữa dẫu vậy tụi mình dẫu sao dẫu dẫu dã dính chặt lấy nhau rồi!"@`
+` Arihiko cười.
+\
+`"Ừm.@ Hệt như đống bã kẹo cao su dính chặt dưới đế giày tự thân vậy.@ Anh thiết nghĩ cả hai đứa dẫu đã cùng mang lại hàng tá phiền hà khốn đốn cho nhau đấy chứ."@`
+` Tôi mỉa mai trả lại tiếng cười của Arihiko.@
+ld l,"tachi/aki_t13a",crossfade,400
+`"... "@
+` ... Có vẻ như Akiha đang gặp khó khăn trong việc chấp nhận Arihiko và tôi.
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"À mà này Akiha-chan, tôi có thể mạo muội gặng hỏi em một chuyện được tịnh không?"@`
+ld l,"tachi/aki_t04a",crossfade,400
+`"Tất nhiên, nếu đó là điều tôi có thể trả lời."@
+`"Vậy thì, tôi đã thắc mắc từ lâu... Tohno bị thiếu máu mãn tính, đúng không? Cậu ấy luôn như vậy sao?"@
+` ... Điều đáng kinh ngạc về Arihiko là sự thẳng thắn của cậu ấy khi hỏi những câu hỏi khó xử như thế này.
+\
+ld l,"tachi/aki_t01a",crossfade,400
+`"Vâng, anh Shiki dẫu dã mắc chứng thiếu máu bẩm sinh từ nhỏ rồi ạ.@ Nhưng hầu hết mọi thành viên trong gia tộc Tohno dẫu dẫu cũng đều mang những thể trạng bất ổn tương tự; trường hợp tự thân của anh ấy dẫu sao chịu chết tịnh không phải là cá biệt duy nhất."@`
+`"Ồ...? Thật sao, Akiha?"@
+`"Vâng.@ Cha tôi dẫu dã phải gánh chịu chứng trầm cảm lưỡng cực tàn khốc.@ Hay gọi một cách chính xác khoa học hơn dẫu sao dẫu dẫu chính là Chứng Phân Ly Đa Nhân Cách."`
+\
+ld r,"tachi/ari_t03",crossfade,400
+`"Hả? Rối loạn nhân cách...?"@
+ld l,"tachi/aki_t04a",crossfade,400
+`"Thường ngày dẫu vậy dẫu vậy dẫu được gọi nôm na là chứng đa nhân cách.@ Tuy nhiên, bệnh tình tự thân của cha tôi thuở ấy dẫu vậy vẫn chưa đến mức tồi tệ tới mức hủy hoại che mờ ký ức."@`
+cl a,crossfade,400
+br
+` [line=4]Tôi không biết.@
+br
+` Nhưng nhìn lại, tính cách của Tohno Makihisa dường như thường xuyên chuyển đổi từ sự dịu dàng sang bạo lực.
+\
+`"Ừm... vậy thì, nó là một tình trạng y khoa, người đàn ông kia..."@
+` Nhìn vào nó như vậy, mọi thứ trở nên rõ ràng.@
+` Trước tai nạn, tôi luôn cảm thấy bố là một người dịu dàng, giữ khoảng cách.@
+` Nhưng sau tai nạn, Makihisa rõ ràng ghét tôi.@
+` Nhìn lại, có thể đó là do tình trạng của anh ấy.
+\
+wave se_03
+ld l,"tachi/ari_t03",crossfade,400
+`"Ồi trời!@ Giờ nghỉ trưa đã kết thúc, Tohno!"@
+`"Cậu chớ có cằn nhằn càm ràm phàn nàn oán trách anh nữa.@ Nào Akiha, em dẫu vậy dẫu nên mau chóng quay trở về phòng học tự thân đi thôi.@ Thật vô cùng xấu hổ nếu ngay ngày đầu tiên chuyển trường mà em lại đi học trễ đấy nhé."@`
+ld r,"tachi/aki_t09",crossfade,400
+`"Tôi hiểu.@ Chăm sóc bản thân, em trai."@
+cl a,crossfade,400
+` Khi chuông reo vang, chúng tôi quay lại lớp học của mình.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_06b",rcartain,800
+` Một ngày đầy thăng trầm đã kết thúc.@
+` [line=3]Tôi nên làm gì bây giờ?
+\

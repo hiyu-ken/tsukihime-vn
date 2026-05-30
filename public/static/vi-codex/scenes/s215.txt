@@ -1,0 +1,9 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` Không, tôi bấy giờ dứt khoát sẽ cảm thấy vô cùng ngượng ngập và ái ngại nếu tự ý di chuyển lung tung rồi vô tình quấy rầy cản trở công việc dọn dẹp bận rộn thường nhật của Hisui và Kohaku-san.@
+` Dẫu sao thì tôi cũng chỉ mới chính thức quay trở về biệt thự này vỏn vẹn được hai ngày ngắn ngủi mà thôi.@
+` Có lẽ do bản thân vẫn chưa thể hoàn toàn thích nghi với nhịp sống và bầu không khí u ám, nghiêm trang của biệt thự này chăng, thế nhưng dẫu cho có vô lý đi chăng nữa thì lúc này thể xác tôi quả thực đang cảm thấy vô cùng mệt mỏi rã rời. Thiết nghĩ bản thân nên nằm lười thư giãn trên giường để nghỉ ngơi tĩnh dưỡng cho đến tận giờ dùng bữa tối là tối ưu nhất rồi.
+\
+bg #000000,tcartain,800
+!w2000

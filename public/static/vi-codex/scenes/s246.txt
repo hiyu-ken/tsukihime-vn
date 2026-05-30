@@ -1,0 +1,32 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+`"[line=3]Thôi tao xin kiếu nhé.@ Tao đi mua tạm cái bánh mì rồi ăn một mình cho lành."@
+`"Thế à?@ Vậy tao đi trước nhé."@
+cl a,lshutter,400
+` Arihiko nhanh chân cất bước chạy xuống phía căng-tin.@
+`"…… Thế thì."@
+` Tôi cũng đứng dậy bước ra khỏi chỗ ngồi, hướng thẳng về phía phòng trà đạo, nơi Senpai thường hay lui tới.
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_11a",lcartain,1500
+` …… Tôi đứng lặng người trước cánh cửa phòng trà đạo.
+\
+` Tất nhiên, tôi đã tự mình đi mua sẵn đồ ăn trước khi tìm đến đây rồi.@
+br
+` *Cốc, cốc.*@
+br
+` Tôi khẽ gõ cửa.@
+` Bên trong bỗng phát ra những tiếng động lạch cạch, và tôi có thể cảm nhận rõ sự hiện diện của một người ở ngay phía sau cánh cửa.
+\
+`"Vâng, ai thế ạ?"@
+` Giọng nói quen thuộc của Senpai vọng ra qua khe cửa.@
+`"Em đây ạ.@ Senpai ơi, chị có muốn cùng ăn trưa với em không?"@
+` …… Tuyệt nhiên không có tiếng đáp lại.@
+`"Senpai ơi, em bảo là cùng ăn trưa mà."@
+`"…… Tôi không ăn trưa cùng cậu đâu, Tohno-kun."@
+` Giọng nói đó nghe có vẻ không được vui vẻ chút nào cả.@
+` Tôi lúng túng đứng đờ người ra, chẳng biết phải làm thế nào tiếp theo nữa.
+\

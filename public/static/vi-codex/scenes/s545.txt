@@ -1,0 +1,26 @@
+wavestop
+bg "bg/bg_06b",notrans,0
+play "*9"
+!w1000
+cl c,lcartain,800
+ld c,"tachi/cel_t20",tshutter,800
+` Bạn đã đạt được Kết thúc Thực sự của Kohaku.@ Chúc mừng!@
+` Chỉ có một kết thúc cho Kohaku-san.@
+` Nếu cậu đã đi đến đây, bạn nên hiểu rằng câu chuyện của Kohaku-san là động lực chính của "Tsukihime", câu chuyện để kết nối tất cả các sự kiện còn lại.
+\
+` Cảm ơn bạn rất nhiều vì tất cả những nỗ lực của mình.@
+` Sau một thời gian dài, câu chuyện của họ đã kết thúc.
+\
+` [line=6]Nhưng, xin chờ đã.@
+br
+` Còn một người khác chưa xuất hiện.@
+` Vâng, đó chính là nhân vật chính của câu chuyện này.@
+` Câu chuyện của anh ấy vẫn chưa kết thúc.@
+` Trên bầu trời, mặt trăng lạnh lùng và tròn trịa.@
+` Nhưng ngay cả mặt trăng ấy cũng không thể mãi giữ nguyên hình dạng.@
+br
+` Sau khi mọi câu chuyện kết thúc,
+` [line=5]câu chuyện về Tohno Shiki đang chờ đợi để được hoàn thành ở đó.
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,59 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_32b",lcartain,800
+` Tôi rảo bước trên con đường dốc tiến gần về phía biệt thự.@
+` Đi thêm một đoạn ngắn, tôi bắt gặp bóng dáng Hisui đang đứng lặng lẽ một mình bên cổng trước.@
+br
+`"……?@ Không biết em ấy đứng đó làm gì nhỉ?"@
+` Khẽ nghiêng đầu thắc mắc, tôi rảo bước tiến về phía cổng chính.@
+` Hisui nhận ra sự hiện diện của tôi và lập tức cúi đầu chào hỏi.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Mừng cậu đã trở về, thưa cậu Shiki."@
+`"[line=3]À, ừm[line=3]cảm ơn em, Hisui."@
+` Tôi chỉ biết đáp lại một cách lúng túng vì sự tôn kính quá mức của em ấy.@
+`"Ừm[line=3]nãy giờ em đứng ngoài này đợi tôi về đấy à?"@
+`"Vâng.@ Ra đón chủ nhân là bổn phận của người hầu ạ."@
+` Em ấy trả lời một cách hết sức tự nhiên, hàng mi không hề lay động.
+\
+`"Ừm, Hisui này, tôi thực sự rất vui vì em đã đứng đợi để chào tôi, nhưng quả thật không cần phải đứng hẳn ra ngoài này chờ đâu.@
+` Tôi tự đi về được mà, nên khi nào thấy tôi bước vào thì em chào là được rồi."@
+ld c,"tachi/his_t05",crossfade,400
+`"[line=5]"@
+` Gương mặt Hisui khẽ thoáng chút u buồn.@
+` …… Ồ, hay là…
+` Có lẽ em ấy cũng đã từng đứng đợi tôi trở về như thế này suốt hai ngày thứ Bảy và Chủ Nhật vừa qua chăng.
+\
+`"[line=2]Hisui này, ừm[line=2]"@
+ld c,"tachi/his_t01",crossfade,400
+`"Em đã hiểu rõ.@ Từ ngày mai, em sẽ đợi cậu ở sảnh lớn."@
+` Hisui cúi chào nhanh rồi đẩy cánh cổng biệt thự ra.@
+` Nói rồi, Hisui quay lưng bước đi.
+\
+` ………… *thở dài*@
+` Chẳng hiểu sao, bầu không khí lúc này có vẻ không hợp để trò chuyện cho lắm.@
+` Hisui khép cổng lại sau khi tôi bước qua, rồi em ấy lặng lẽ đi trước mở cửa chính và dẫn tôi vào sảnh lớn.
+\
+bg #000000,lcartain,800
+bg "bg/bg_40b",lcartain,800
+` Tôi trở về phòng của mình.@
+` Akiha vẫn chưa đi học về, chị Kohaku đang chuẩn bị bữa tối dưới bếp, còn Hisui thì đang dọn dẹp quanh biệt thự.@
+br
+`"[line=3]Trời ạ, chẳng có việc gì để làm cả."@
+` Thực ra, đối với một cậu học sinh như tôi thì luôn có cả một núi bài tập, ôn bài và học thuộc lòng cần phải làm.@
+` Nhưng hiện tại, tôi thực sự chẳng có chút tâm trí nào để đụng vào sách vở.
+\
+` Bất chợt, gương mặt của Arcueid lại hiện lên trong tâm trí tôi.@
+` Dù tốt hay xấu, có lẽ đây chỉ là phản ứng tự nhiên sau hai ngày điên cuồng vừa qua của tôi.@
+` Có lẽ việc ngồi thẫn thờ một mình trong phòng thế này lại tốt, giúp cả tâm trí lẫn trái tim tôi được nghỉ ngơi đôi chút.
+\
+bg #000000,crossfade,800
+!w2000
+playstop
+bg "bg/bg_40c",crossfade,800
+` Sau khi ăn tối một mình trong phòng ăn rộng lớn, tôi được chị Kohaku băng bó lại vết thương rồi trở về phòng.@
+` Akiha không kịp về ăn tối cùng tôi.@ Buổi học của em ấy kéo dài hơn dự kiến nên em ấy sẽ dùng bữa ở ngoài.@
+` Lúc này đã hơn mười giờ đêm rồi.@
+` Dù còn hơi sớm, nhưng vì cơ thể đã rã rời nên tôi quyết định đi ngủ sớm đêm nay[line=2]
+\

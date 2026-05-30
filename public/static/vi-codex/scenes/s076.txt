@@ -1,0 +1,82 @@
+monocro off
+wavestop
+bg "bg/bg_31a",notrans,0
+play "*9"
+` "Tôi[line=3]"@
+br
+` …… Có lý do nào đó tôi không thể từ chối.@
+` Thật ra tôi đã giết cô ấy.@
+` Do lỗi của tôi mà cô ấy yếu đuối và phải nhờ người khác giúp đỡ.@
+br
+` [line=3]Đó là trách nhiệm của tôi.@
+` Bên cạnh đó, mặc dù tôi chỉ mới quen cô ấy một thời gian ngắn, nhưng cô ấy không có vẻ như là người xấu.
+\
+ld c,"tachi/ark_t01b",crossfade,400
+` "Vậy thì sao? Một con người như bạn có thể hợp tác với một ma cà rồng như tôi được chứ?@
+` [line=3]Chắc chắn đó là câu trả lời hiển nhiên, nhưng…@
+ld c,"tachi/ark_t17",crossfade,400
+` [line=4]@
+` A, đừng nhìn tôi bằng cái ánh mắt đó!@
+` …… Tại sao vậy? Nó khiến tôi cảm thấy tội lỗi và không thể từ chối.@
+` Nhưng giờ đây khi đã tự mình rơi vào tình trạng này, nếu chỉ phủ nhận mọi trách nhiệm thì tôi sẽ không thể ngủ ngon giấc về đêm.@
+br
+` [line=3]Chắc chắn rồi, tôi sẽ hối hận về điều này sau này.
+\
+` …… Vậy là thế. Tôi nghĩ mình có thể làm được. Đối thủ là kẻ giết người hàng loạt, phải không?@
+` Là một cư dân của thị trấn này, nếu tôi từ chối giúp đỡ thì chắc chắn sẽ bị trừng phạt bởi thần linh.@
+ld c,"tachi/ark_t01b",crossfade,400
+` Ê?[line=2] Bạn có nghĩa là[line=3]@
+` Tôi sẽ không trở thành tấm khiên cho bạn, nhưng nếu chỉ là người canh gác cho bạn thì tôi sẽ làm.@
+` Nghe những lời mình vừa nói ra, tôi cảm thấy ghê tởm vì sự ngu xuẩn của bản thân.@
+br
+` Tôi cảm thấy ghê tởm, nhưng[line=4]
+\
+ld c,"tachi/ark_t12",crossfade,400
+` [line=6]@
+` Có điều gì đó về biểu cảm kinh ngạc sâu sắc của cô ấy khiến tôi[line=4]
+\
+br
+` Wow! Bạn thật sự sao!? Tôi là một ma cà rồng, bạn biết đấy!@
+` …… Nghe này.@ Tại sao bạn lại nói những điều này sau khi đã đe dọa tôi nhiều như vậy?
+\
+ld c,"tachi/ark_t14",crossfade,400
+` Ah… Hm. Điều đó đúng, nhưng[line=3]@
+ld c,"tachi/ark_t08",crossfade,400
+` [line=3]Tốt rồi! Nếu bạn đồng ý hợp tác với tôi thì tôi nên biết ơn!@
+` …… Với một nụ cười rất vui vẻ trên khuôn mặt của cô ấy, cô ấy tiến lại gần tôi khi tôi nằm đó chống lưng vào tường.
+\
+ld c,"tachi/ark_t09",crossfade,800
+` Hợp đồng của chúng ta đã được thiết lập.@
+` Cô ấy đưa tay ra về phía tôi.@
+ld c,"tachi/ark_t01a",crossfade,400
+` Tôi đoán bây giờ tôi có thể tự giới thiệu chính mình rồi.@
+` Tôi là Arcueid[line=3]hmm… họ của tôi thật dài, nên chỉ gọi là Arcueid là được lúc này. Tôi là một loại ma cà rồng True Chân Tổ. Còn bạn?@
+cl c,crossfade,400
+br
+` Tôi thở ra một hơi dài trước khi cô ấy giới thiệu như vậy.@
+` …… Một tiếng thở dài của sự đầu hàng, bằng chứng cho thấy tôi đã quyết định chấp nhận tình huống vô lý này.
+\
+` "Tôi là Tohno Shiki. Thật buồn thay, tôi chỉ là một học sinh bình thường. …… Tôi đã nói trước đó rồi, nhưng thực sự tôi không có nhiều khả năng giúp đỡ."@
+br
+` Bắt lấy tay[line=3]Arcueid, tôi đứng dậy.@
+br
+` Cô nhìn tôi kỹ một lúc rồi lại đưa tay ra.
+\
+ld c,"tachi/ark_t09",crossfade,400
+` "Rất vui được gặp bạn, Shiki.@
+` Tôi sẽ khiến cô chịu trách nhiệm về việc giết chết tôi.@
+` Arcueid cười tươi khi giơ tay trái lên.@
+cl c,crossfade,400
+\
+` *thở dài*@
+br
+` …… Thế giới này có rất nhiều trách nhiệm, nhưng đây có lẽ là lần đầu tiên và duy nhất ai đó nhận trách nhiệm bằng cách giúp đỡ người họ đã giết.@
+br
+` "…… Đáng ghét… tình hình này thật sự rối loạn.@
+` Nhưng tôi không có cách nào khác.@
+br
+` Tôi miễn cưỡng giơ tay trái lên và bắt tay với người phụ nữ mặc trắng tự xưng là ma cà rồng.
+\
+bg #000000,lcartain,1500
+!w1500
+playstop

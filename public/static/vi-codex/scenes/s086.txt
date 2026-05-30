@@ -1,0 +1,88 @@
+monocro off
+playstop
+wavestop
+bg "bg/ima_06",notrans,0
+br
+` [line=4]Tôi trân trọng cuộc sống của mình.
+\
+` Tôi nhớ lại cảnh tượng hôm qua khi tôi giết Arcueid.`@
+` Bốc hôi tanh máu chết. [line=3]Tôi chẳng bao giờ muốn trải qua điều đó nữa.@
+` Nếu ở lại với Arcueid, tôi sẽ phải trải qua cảnh đó một lần nữa. Tôi không muốn điều đó xảy ra, vậy nên tôi phải quay trở về biệt thự.`
+\
+` [line=6]" "@
+` Tôi có cảm giác quyết định của mình có một lỗi lớn.`@
+` Nhưng bây giờ, mọi thứ trong đầu tôi đều hỗn loạn và trực giác của tôi từ chối hoạt động bình thường.@
+` Bất kể gì, bây giờ tôi sẽ trở về phòng của mình để nghỉ ngơi.@ Tôi chắc chắn rằng tôi sẽ bình tĩnh lại và suy nghĩ rõ ràng hơn.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_22c",lcartain,1500
+` Mặt trời đã lặn, và xung quanh tôi bị bao phủ bởi bóng tối.@
+` Có lẽ bây giờ đã qua bảy giờ rồi.@
+` Giờ giới hạn của lâu đài là tám giờ, vì vậy tôi tốt hơn hết là nên quay về nhanh chóng nếu không muốn bị Akiha trách mắng.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_47",lcartain,1500
+` Những con phố xung quanh lâu đài vẫn vắng vẻ như mọi khi.@
+` Mặt trời chỉ vừa mới lặn, nhưng sự yên tĩnh lại giống như lúc nửa đêm.
+\
+` "Nghĩ đi nghĩ lại, nơi này là…"@
+` Nơi tôi đã đến kiểm tra chú chó hoang xạo đêm đầu tiên khi trở về lâu đài.@
+wave se_01
+` "Huh……?"@
+` Tôi bị một điềm báo xấu xa về tai họa.
+\
+bg #000000,crossfade,400
+bg "bg/bg_47",crossfade,400
+bg #000000,tcartain,400
+br
+br
+br
+br
+br
+br
+` [line=4]Lạ.@
+` Bất ngờ, xung quanh tôi trở nên hoàn toàn đen tối.
+\
+` Tôi nghe thấy tiếng nhỏ giọt.@
+` …… Tiếng đó đến từ đâu?@
+` Tiếng đó đến từ gần đây.@
+` Cơ thể tôi bắt đầu lạnh đi.@
+` Tiếng đó đến từ gần đây.@
+` Chuông báo động vang lên ở đâu đó trong đầu tôi.
+\
+br
+br
+br
+br
+br
+br
+br
+` Giọt, giọt.@ Giọt, giọt.
+\
+br
+br
+br
+br
+br
+br
+br
+` Tiếng…
+` Tôi nghĩ nó đến từ ngay sau cổ tôi.
+\
+` "Ah[line=4]"@
+wave se_05
+` Tôi ngã xuống đường nhựa.@
+` Cẳng tay và chân tôi không thể cử động, ý thức tôi mờ dần.
+\
+bg #000000,crossfade,400
+ld c,"tachi/nero_t01a",crossfade,400
+bg #000000,crossfade,400
+` Ở đáy ý thức đang phai nhạt của tôi…
+!w500
+` tất cả những gì tôi tìm ra…
+!w500
+` là một vài con chó đen đang ăn thịt cánh tay và chân của tôi.
+\
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

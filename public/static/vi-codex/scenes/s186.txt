@@ -1,0 +1,247 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+play "*1"
+` Chúng tôi ngồi lặng lẽ bên nhau trên chiếc ghế băng công viên lộng gió.@
+` [line=4]Ánh trăng mờ ảo dịu nhẹ chiếu rọi khắp nơi, bao trùm lên bóng dáng kiều diễm của Arcueid.@
+\
+`"Arcueid này... Cậu từng bảo cậu là ma cà rồng Chân Tổ, vậy Chân Tổ rốt cuộc có nguồn gốc từ đâu thế? Và tại sao cậu lại phải đơn độc săn lùng Roa suốt hàng trăm năm nay vậy?"@
+\
+br
+` Arcueid lặng im ngắm nhìn ánh trăng hồi lâu, vẻ mặt đượm buồn đầy suy tư chín chắn.@
+`"Chân Tổ chúng tôi... thực chất là những tinh linh tự nhiên của Trái Đất, được tạo ra từ buổi sơ khai như một cơ chế phòng vệ của hành tinh để kiềm chế sự bành trướng thái quá của loài người."@
+\
+bg #000000,lcartain,800
+bg "bg/bg_47",lcartain,800
+\
+`"Ra là vậy sao... Thế còn cậu thì sao, Arcueid?"@
+\
+bg "bg/bg_33d",lcartain,1500
+bg "bg/bg_46c",lcartain,1500
+bg "bg/bg_40d",lcartain,1500
+` Đôi mắt đỏ ngầu vằn tia máu của cô ấy ngước nhìn bầu trời đêm, đượm vẻ tịch mịch cô đơn khôn tả.
+\
+` Nghe những lời tâm sự chân thành chứa đầy sự xót xa của cô ấy, trái tim tôi bỗng nhói đau dữ dội.@
+\
+\
+cl c,lshutter,800
+bg #000000,crossfade,1500
+[line=4]playstop
+\
+bg #000000,crossfade,1500
+phase "bg/bg_06a",l,ark,11b,12
+bg #000000,crossfade,400
+waveloop se_02
+` Nhịp đập, nhịp đập, nhịp đập.
+!w1000
+` Tiếng đập, tiếng đập, tiếng đập.
+!w1000
+` Cảm giác đau nhức đồng điệu với nhịp tim của tôi.
+!w1000
+` Mỗi khi tôi cảm nhận được cơn đau, ký ức lại mờ dần.
+\
+` Mỗi lần trái tim tôi đập, những mảnh ký ức lại bám vào tôi.@
+` Những ký ức phai nhạt có lẽ là những thứ dư thừa.@
+` Tôi không biết tại sao lại như vậy.@
+br
+` Có lẽ chúng chỉ là những mảnh vỡ của tâm trí.@
+` Những ký ức, quá khứ, trải nghiệm mà tôi không cần.@
+` Tất cả đều tan biến. Nơi khác, đó là sự quên lãng.
+\
+`"Ôi..."[line=6]@
+` Khi nỗi hối tiếc tràn ngập, khi ký ức mờ nhạt, khi quá khứ phai nhạt, tôi vươn tay ra.@
+` Nhưng tôi không thể nắm bắt được gì cả.@
+` Vì,
+` Tôi đã quên mất mình đã mất đi những ký ức nào.
+\
+` Đánh nhịp, đập mạnh...@
+` Những cơn đau đầu lặp đi lặp lại khiến tôi cảm thấy mệt mỏi, ngay cả trong giấc mơ, tôi cũng có cảm giác nôn mửa.
+\
+wavestop
+bg #ffffff,crossfade,800
+`"Shiki-sama, cậu có tỉnh không?"@
+br
+` [line=4]Tôi nghe thấy một giọng nói.@
+br
+`"Làm ơn chờ đã. Tôi sẽ đem cho cậu thứ gì đó để uống."@
+br
+` [line=4]Sau đó, âm thanh của những bước chân chạy vội vã.
+\
+bg "bg/bg_40a",crossfade,1500
+play "*2"
+` Tôi từ từ mở mắt ra.@
+` Tôi đang nằm trên giường với ánh nắng mặt trời rực rỡ chiếu vào qua cửa sổ.@
+br
+`"[line=4]Sáng sớm à?"@
+` Khi tôi cố gắng ngồi dậy, tôi cảm nhận được mồ hôi của chính mình đang thấm vào người.@
+`"Chuyện gì vậy...? Tôi chắc là mình đã có một giấc mơ hay một nỗi kinh hoàng nào đó."@
+` Tôi cố gắng nhớ lại điều gì đã xuất hiện trong giấc mơ của mình.
+\
+` ...Tôi không thể nhớ ra được.
+\
+` Giấc mơ thường phai mờ khi ta thức dậy.@
+` Nhưng, vẫn còn điều gì đó.@
+` Tôi có cảm giác như có một hình ảnh mờ nhạt về điều gì đó mà tôi đã quên đi.
+\
+ld c,"tachi/his_t01",lshutter,800
+`"Shiki-sama? Bạn đã thức dậy chưa?"@
+`"Tôi đã thức rồi. Chào buổi sáng, Hisui."@
+`"Vâng, chào buổi sáng, Shiki-sama."@
+` Hisui đến gần giường, biểu cảm vẫn vô cảm như thường lệ.
+\
+`"Tôi đã mang cho bạn một thứ để uống. Nếu bạn không thấy khỏe, hãy uống nó đi."@
+` Hisui mang theo một khay bạc với thức uống được chuẩn bị trên đó.@
+`"Không, tôi không thấy khó chịu gì cả. Tôi ngủ sâu nên đầu tôi cũng tỉnh táo."@
+`"[line=3]Tuy nhiên,"@
+` Hisui đưa ra lời trả lời hiếm hoi.@
+`"Tình trạng của cậu đêm qua trông không tốt lắm."@
+br
+` ... Có vẻ như tôi đã có một giấc mơ xấu đêm qua.
+\
+`"Không, tôi chẳng sao cả. Nhưng tôi rất cảm kích vì cậu lo lắng cho tôi, Hisui."@
+ld c,"tachi/his_t04",crossfade,400
+`"... Tôi vui vì cậu ổn, Shiki-sama."@
+` Hisui nhìn tôi bằng đôi mắt trong veo như thủy tinh của cô ấy.
+\
+` ... Ồm, tôi thấy không thoải mái lắm.@
+`"Tôi sẽ đi thay quần áo và đến phòng ăn. Xin hãy nói với Kohaku-san rằng tôi sẽ ăn sáng."@
+ld c,"tachi/his_t01",crossfade,400
+`"Tôi hiểu."
+\
+cl c,lshutter,800
+` …… Vậy thì.@
+` Đã bảy giờ rồi.@
+` Tôi có thể thư giãn vào buổi sáng này.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Akiha và Hisui đang ở phòng khách.@
+` Từ bếp, tôi nghe thấy giọng hát du dương của Kohaku-san.
+\
+ld c,"tachi/aki_t12a",lshutter,800
+`"Chào buổi sáng, anh trai."@
+`"Buổi sáng. Anh trai ơi, hôm nay em không có vẻ vui vẻ lắm. Có chuyện gì không thích trong bữa sáng à?"@
+ld c,"tachi/aki_t13a",crossfade,400
+`"…… Anh trai, làm sao anh kết luận như vậy?"
+\
+`"Chỉ vừa lóe lên trong đầu tôi. Tôi nhớ ra có rất nhiều loại thức ăn mà bạn hoặc thích hoặc không thích."@
+`"Điều đó thật vô lễ... Tôi cũng như vậy khi còn nhỏ, nhưng giờ đây tôi chẳng có điều gì không thích."@
+`"... Tôi hiểu rồi. Thật kỳ lạ, vì nếu đúng như thế, bạn nên phát triển thể chất nhiều hơn so với tuổi của mình..."
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"Anh trai ơi. Anh vừa nói điều gì vậy?"@
+` Akiha nhìn chằm chằm vào tôi.@
+` ... Đừng đùa với lửa. Tôi phải cẩn thận với lời nói của mình.
+\
+`"... Không, tôi chẳng nói gì cả. Tôi chỉ đang nghĩ to tiếng, nên đừng lo lắng."@
+ld c,"tachi/aki_t02",crossfade,400
+`"... Thật may là không cần lo lắng, Hisui. Tôi không nghĩ anh trai sẽ chết ngay cả khi bạn giết anh ấy."@
+`"Vâng, tôi cũng có cùng cảm giác."@
+` Akiha thở dài, Hisui gật đầu im lặng.@
+` Tôi có thể đoán được từ cuộc trò chuyện của họ rằng cả hai đều lo lắng về tôi.@
+cl c,crossfade,800
+\
+`"[line=3]Tại sao?"@
+` Tôi tự hỏi tại sao.@
+ld l,"tachi/aki_t21",crossfade,400
+`"Tại sao?@ Thông thường, bạn sẽ lo lắng!@ Sau khi về nhà đêm qua, bạn thẳng lập đi ngủ và mơ ác suốt cả đêm.@
+` Ngay cả khi chúng tôi cố gắng đánh thức bạn, bạn vẫn không tỉnh lại.@ Điều đó có vẻ như bạn bị ốm phải không?"
+\
+`"Ồ?@ Thật sao?[line=3]Nhưng tôi thực sự không bắt lạnh hay điều gì tương tự."@
+ld r,"tachi/his_t01",crossfade,400
+`"Tôi không nghĩ bạn bị ốm.@ Shiki-sama, bạn ngủ như thường lệ, và nhiệt độ cùng nhịp thở của bạn đều bình thường.@ Nhưng bạn đổ mồ hôi rất nhiều."@
+`"... Đổ mồ hôi?@ Tôi không thích cách diễn đạt này."
+\
+ld l,"tachi/aki_t03a",crossfade,400
+`"Nó còn tồi tệ hơn với tôi vì tôi đang chăm sóc bạn, nên hãy biết ơn một chút.@ Và cũng cảm ơn Kohaku.@ Tôi không thể làm được điều đó một mình."@
+`"Bản thân... Akiha, bạn đã chăm sóc tôi?"
+\
+ld l,"tachi/aki_t16a",crossfade,400
+`"Dĩ nhiên là tôi biết rồi. Chúng ta là anh chị em mà.@
+` Tôi chỉ quan sát tình trạng của cậu; chính Kohaku là người lau mồ hôi cho cậu."@
+` Cô ấy quay mặt đi và thì thầm như thể đang nói chuyện với bản thân.@
+` Điều này không giống cô ấy thường lệ, khi cô ấy thường nhìn thẳng vào mắt cậu và nói trực tiếp.
+\
+`"Thật sao? Cảm ơn Akiha. Xin lỗi đã làm phiền cậu."@
+ld l,"tachi/aki_t05a",crossfade,400
+`"Không có gì để cảm ơn. Tôi chỉ đang làm nhiệm vụ của mình. Nếu muốn cảm ơn ai đó, hãy cảm ơn Kohaku."@
+` Cô ấy quay mặt đi và thậm chí còn không cố gắng nhìn vào tôi nữa.
+\
+`"Shiki-san, bữa sáng đã sẵn sàng," giọng nói của Kohaku vang lên từ bếp.@
+`"Anh trai, xin hãy nhanh lên và ăn sáng đi."@
+`"Được rồi."@
+` Tôi đến phòng ăn.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/his_t01",lshutter,800
+`"Xin anh hãy cẩn thận trên đường về, Shiki-sama."@
+`"Tôi sẽ ra ngoài. Tôi trở lại vào khoảng bốn giờ chiều hôm nay."@
+` Nâng tay chào Hisui đang cúi đầu, tôi rời khỏi biệt thự.
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_23a",lcartain,1500
+play "*3"
+` Tôi đi theo con đường buổi sáng đến trường.@
+` Buổi sáng thứ Hai. Vì lý do nào đó, chân tôi cảm thấy rất nhẹ nhàng ngày hôm nay.@
+` Có lẽ vì những ngày qua quá bất thường, cơ thể tôi đang chào đón một ngày bình thường như thế này.
+\
+`"... Hừ?"@
+` Thật kỳ lạ.@
+` Tôi nói "bất thường", nhưng cuộc sống kiểu nào mới đúng?@
+br
+`"... ..."@
+` Tôi có cảm giác một sự kiện rất quan trọng đã xảy ra.@
+` Nhưng, tôi không thể nhớ ra nó là gì.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01a",lcartain,800
+ld c,"tachi/ari_t05",lshutter,800
+`"Này, Tohno!"@
+` Arihiko dùng tay gõ nhẹ vào vai tôi như một lời chào.@
+`"Chào buổi sáng." Anh ấy nói, "Anh đến sớm thật."@
+`"À, chỉ là một ý nghĩ thoáng qua thôi. Thỉnh thoảng giả vờ làm học sinh gương mẫu cũng không sao mà."@
+` Arihiko bật cười vang, ánh mắt rạng rỡ.@
+` Nhìn nụ cười ấy, tôi biết mình đang ở trong thế giới của mình.@
+`"(Im lặng)@
+ld c,"tachi/ari_t01",crossfade,400
+`"Ừm... Tohno, sao anh lại có biểu cảm khó hiểu vậy?..." Anh ta nhíu mày, "Anh có quên gì ở nhà không?"
+\
+br
+br
+br
+br
+br
+br
+` "Có phải anh đã quên điều gì đó à?"@
+!w1000
+br
+` Những lời ấy vang vọng trong đầu tôi như một lời nguyền.
+\
+!w1000
+` Nhưng cuối cùng,
+` Tôi không thể nhớ ra mình đã quên điều gì.
+\
+playstop
+`"…… Không, tôi chẳng quên gì cả. Hãy nhanh lên, đến lớp học đi. Sau khi thức dậy sớm như vậy, sẽ là lãng phí nếu bạn đến trễ, phải không?"@
+`"Haha, cậu nói đúng."@
+cl c,lshutter,400
+br
+` Tôi bước qua cổng trường cùng với người bạn của mình.@
+` Với điều đó, một cái gì đó hoàn toàn kết thúc.
+\
+`"[line=6]"@
+` Tôi cảm thấy ai đó đang nhìn mình và tôi quay lại.@
+` Nhưng không có ai cả.@
+` Chỉ có những chiếc lá vương vãi trong sân.@
+br
+` Tohno Shiki đi đến lớp học.@
+` Như thể đang trở về một cuộc sống bình yên, vui vẻ và bình thường.
+\
+bg #ffffff,crossfade,1500
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

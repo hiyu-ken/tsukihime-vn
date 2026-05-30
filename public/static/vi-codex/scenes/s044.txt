@@ -1,0 +1,175 @@
+bg "bg/bg_40c",notrans,0
+playstop
+` [line=5]Nnn`@
+` Cơm chiều làm mệt, tôi thả lỏng vai.`@
+` Tôi duỗi thật dài ra, rồi lăn mình xuống giường.@
+` “Mình mà ăn cơm cũng mệt ghê.”`@
+` , Chẳng qua dao nĩa cũng chẳng nặng lắm đâu.@ Mà cái nhìn của Akiha thật sự quá nghiêm khắc.`
+\
+wave se_04
+` "Cậu có ở đó, Shiki-sama?"@
+` Tôi nghe thấy giọng nói của Hisui cùng với tiếng gõ cửa.`@
+` Vâng, tôi ở đây.` `Hãy vào.`@
+` "`Xin lỗi.`"@
+` Hisui cúi chào.
+\
+ld c,"tachi/his_t01",crossfade,400
+play "*1"
+` Tôi đến đây để dọn giường. Cậu có thể không thích xem nên có muốn nghỉ ngơi một lát trong phòng khách không?`@
+` "Không sao đâu, tôi không phiền. Tôi chỉ ngồi im ở góc kia thôi, cứ làm việc đi, đừng để ý đến tôi."@
+` Tôi nhảy khỏi giường và di chuyển đến một góc.@
+` ……@
+` Dường như Hisui muốn nói điều gì đó nhưng lại thôi. Cô lặng lẽ bắt đầu dọn giường.
+\
+` [line=3]Hisui.@
+` Vâng? Sao vậy, Shiki-sama?@
+` Ôi, bạn cứ làm việc này đi. Không cần phải đứng thẳng như thế đâu.@
+` ……@
+` Hisui không trả lời.@
+` Dường như cô ấy đã được giáo dục theo cách của một người hầu.
+\
+` Xin lỗi, chỉ nói chuyện với tôi khi làm việc. Tôi bắt đầu cảm thấy xấu hổ vì dường như đang can thiệp vào công việc của bạn.@
+` Nếu vậy, Shiki-sama, thì tôi sẽ tuân theo.@
+cl c,lshutter,400
+` Hisui lặng lẽ quay lại làm việc.
+\
+` À… có phải quy định ở đây là bảy giờ không?@
+bg "event/his_e08",lshutter,800
+` Eh[line=3]Ồ, vâng.@
+` Cổng chính được khóa lúc bảy giờ, và tất cả các lối vào lâu đài đều được khóa lúc tám giờ.@
+` Ngoài ra còn có một quy định là không nên đi lại trong lâu đài sau mười giờ tối.
+\
+` Không thể đi lại trong lâu đài? … Chà, tôi không có gì phàn nàn về điều đó, nhưng liệu có hơi khắc nghiệt quá không? Akiha và tôi không phải là trẻ con, vì vậy tôi nghĩ rằng bạn không cần phải làm như vậy.@
+` …… Thật vậy. Tuy nhiên, đây là một quy định, vì vậy vui lòng tuân thủ nó. Bạn có biết về những sự cố gần đây vào ban đêm không, Shiki-sama?@
+br
+` … Vâng, chuyện về con ma cà rồng mà Arihiko đang nói.@
+` Chà, miễn là có điều gì đó như vậy xảy ra thì tôi nghĩ tốt hơn hết là nên cẩn thận.
+\
+bg "bg/bg_40c",lshutter,800
+ld c,"tachi/his_t01",crossfade,400
+` Cậu còn có câu hỏi nào khác không?`@
+` Hisui dọn xong chăn màn rồi quay lại nhìn tôi.`@
+` [line=3]“Ê… Để xem nào”`@
+` Tôi có rất nhiều câu hỏi, nhưng tôi chẳng biết gì về Hisui và Kohaku-san cả.
+\
+` Cậu phiền nếu tôi hỏi một câu chuyện khác?`@
+` "Vâng, chuyện gì vậy?"@
+` Tôi muốn biết cậu và Kohaku làm việc gì ở đây.`@
+` Tôi ở đây để phục vụ nhu cầu của anh, và em gái tôi Kohaku sẽ phục vụ cô Akiha.`@
+` Trong lúc rảnh rỗi, chúng ta thường phụ giúp việc dọn dẹp quanh biệt thự. Còn điều gì khác bạn muốn biết không?`@
+` “…… Để phục vụ… Vậy là kết quả cuối cùng.”`
+\
+` vai tôi đột nhiên nặng hơn.`@
+` Dường như việc cô ấy nói ra điều đó thật tự nhiên với Akiha, nhưng tôi chỉ là một học sinh trung học bình thường.`@
+` Tôi không muốn có một cô gái cùng tuổi phục vụ tôi, ít nhất là bây giờ.
+\
+` “…… Bởi vì phục vụ tôi, nghĩa là cậu là người hầu cá nhân của tôi?”`@
+` "Vâng. Nếu có điều gì thắc mắc cứ hỏi tôi nhé."@
+` “...... Vâng, tôi hiểu. Theo cách Akiha nói về cậu, dường như tôi không thể bỏ qua cậu được, nên tôi sẽ ngoan ngoãn để cậu phục vụ tôi..."`@
+` "Có điều gì cậu muốn đặc biệt không?"@
+` “Không có gì đặc biệt, nhưng cậu có thể thôi gọi tôi là ‘Shiki-sama’ được không? @ Thật ra, khi nghe thấy như vậy, tôi cảm thấy rợn người.”`
+\
+` "Nhưng Shiki-sama, cậu là thầy của tôi."@
+` “Đó là điều tôi nói, tôi ghét. Tôi sống một cuộc sống bình thường cho đến ngày hôm qua. Tôi không muốn bắt đầu sống một cuộc sống nơi một cô gái cùng tuổi tôi gọi tôi bằng '-sama'."`@
+` Cái đáp trả của Hisui không mấy hào hứng.
+\
+` "Chỉ gọi tôi là Shiki, và đổi lại, tôi sẽ gọi cậu là Hisui. Chúng ta nên bỏ qua những nghi thức xa xỉ và thoải mái hơn với nhau."@
+` Vẫn không biểu cảm, Hisui hạ mày xuống như thể đang bị phiền lòng.@
+ld c,"tachi/his_t23",crossfade,400
+` "Nhưng, cậu là người làm thuê của tôi."@
+` "Không phải như thể tôi đang thuê cậu. Cậu là người làm những việc mà tôi không thể làm, nên cậu mới là người tuyệt vời."@
+` Cái đáp trả của Hisui vẫn thiếu nhiệt tình.@
+` …… Tôi đoán ra rằng mình sẽ không thuyết phục được cô ấy chỉ trong một ngày.
+\
+` [line=3]Dù sao thì cũng như vậy. Đừng quá trang trọng với tôi. Tôi rất mong cậu có thể nói điều đó cho em gái Kohaku-san của cậu cũng thế."@
+ld c,"tachi/his_t16",crossfade,400
+` "Được rồi, như lời cậu nói, Shiki-sama."@
+` Hisui cúi đầu. Không biểu cảm.@
+br
+` Cô ấy hoàn toàn không hiểu.@
+br
+` "Tôi sẽ ra đi rồi. Xin hãy nghỉ ngơi cho đêm nay."@
+cl c,lshutter,400
+` Hisui cúi người và đặt tay lên núm cửa.
+\
+br
+` [line=3]À, tôi quên hỏi một điều.@
+br
+` "A, chờ chút."@
+` Tôi chạy đến cửa và đặt tay lên vai Hisui trước khi cô ấy rời đi.@
+bg #ffffff,notrans,0
+bg "bg/bg_40c",notrans,0
+` Trong một khoảnh khắc[line=3]Tay của Hisui đẩy tay tôi ra với động lượng kinh khủng.
+\
+` Với một tiếng 'thwack!', cô ấy đánh bay tay tôi và nhảy lùi lại.@
+ld c,"tachi/his_t10",lshutter,400
+` "Eh[line=3]?@
+` Quá đột ngột, đó là điều duy nhất tôi có thể nói đến.@
+` Hisui không biểu lộ cảm xúc, nhưng cô liếc nhìn tôi với ánh mắt dữ tợn.
+\
+` "Ê… Tôi có làm gì sai đâu chứ?"@
+ld c,"tachi/his_t28",crossfade,400
+` "Â…"@
+ld c,"tachi/his_t26",crossfade,400
+` "…… Tôi rất xin lỗi…"@
+` Giọng nói của Hisui nghe rất run rẩy.@
+` "…… Tôi không quen với việc bị chạm vào. Xin lỗi nhé."@
+` Vai Hisui run lên nhẹ.@
+` Tôi cảm thấy mình vừa làm một điều thật tồi tệ.
+\
+` "Â… Vâng, tôi xin lỗi."@
+` Tôi xin lỗi mà không suy nghĩ.@
+` Tôi không hiểu tại sao mình lại như vậy. Tôi chỉ thấy thương Hisui nên cúi đầu xuống.@
+ld c,"tachi/his_t04",crossfade,400
+` [line=6]"@
+` Hisui im lặng.@
+` Tôi cảm thấy ánh nhìn của cô lại bình tĩnh trở lại.
+\
+ld c,"tachi/his_t23",crossfade,400
+` [line=3]Bạn không cần phải xin lỗi, Shiki-sama. Tôi là người nên nhận lỗi."@
+` "Không, có lẽ là…"@
+ld c,"tachi/his_t01",crossfade,400
+` Tôi cọ xát đầu.@
+` Hisui nhìn tôi, chỉ nháy mắt một giây rồi lại tiếp tục nhìn.@
+` "Ừm… Bạn muốn hỏi gì tôi, Shiki-sama?"@
+` Đúng vậy.@
+` Tôi dừng lại trước Hisui vì muốn hỏi cô ấy điều gì đó.`
+\
+` “À, tôi muốn hỏi về Akiha. Cô ấy có học ở trường nội trú không?”`@
+` "Chuyện đó chỉ xảy ra lúc cấp hai thôi, Shiki-sama. Từ năm nay trở đi, Akiha-sama được phép học ở nhà đặc biệt."@
+` “Ê… Cậu có nghĩa là cô ấy đi học từ đây?”@
+` "Vâng, nhưng hiếm khi cô ấy về trước hoàng hôn như hôm nay.@ Akiha-sama tập luyện cho đến bữa tối nên luôn về trước bảy giờ."
+\
+` [line=3]"Rèn luyện? Rèn luyện cái gì?"`@
+` "Hôm nay là thứ Tư, cô ấy nên có buổi tập đàn Violin."@
+` [line=4]"A?"@
+` “Thường thì cô ấy về trước bữa tối vào các ngày thường, nên nếu có chuyện gì muốn nói với Akiha-sama, xin hãy cho chị biết sau khi ăn tối.”`@
+cl c,lshutter,400
+` Hisui cúi đầu chào tạm biệt rồi rời khỏi phòng.`
+\
+` Rèn luyện violin...`@
+` "Cái đó là cái gì vậy?"@
+` [line=3]Cô ấy chẳng phải quý bà thượng lưu hay sao, vậy mà lại phải làm những việc phiền phức như thế này.
+br
+` “…. Ôi, hóa ra cô ấy là quý bà.”@
+br
+` Vâng. @ Nghĩ lại thì em gái tôi, Tohno Akiha, là một quý cô thượng lưu đích thực.`
+\
+` Trong ký ức của tôi, cô luôn là người em gái ngoan ngoãn nhưng lo lắng, mãi theo sau tôi.@
+` Từ nhỏ, cô bé luôn im lặng, chưa từng đủ can đảm để bày tỏ mong muốn của mình. Cô là một cô bé yếu đuối, luôn sống trong nỗi sợ bị cha mắng.@
+br
+` [line=3]"Ừ, người ta thật sự thay đổi sau tám năm."@
+` Sau tám năm, tôi đã trở thành chính mình bây giờ.`@
+` Akiha cũng đã trở thành người như thế này, chứ.`
+\
+` [line=3]Bảy năm là một khoảng thời gian dài.@
+` Nửa cuộc đời của chúng ta cho đến nay.@
+` Tôi vắng mặt khỏi căn biệt thự này trong giai đoạn quan trọng khi một đứa trẻ trở thành người lớn.@
+br
+` …… Tôi xin lỗi, Akiha.@
+` Tôi nghĩ mọi chuyện sẽ tốt hơn nếu tôi ở bên cạnh cô ấy trong tám năm đó.@
+` Tôi vô tình lẩm bẩm lời xin lỗi.
+\
+bg #000000,crossfade,800
+playstop
+!w1000

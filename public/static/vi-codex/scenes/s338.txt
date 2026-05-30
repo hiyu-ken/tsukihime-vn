@@ -1,0 +1,128 @@
+bg #000000,notrans,0
+wavestop
+play "*1"
+` Bữa tối hôm nay dẫu dẫu cũng diễn ra trong bầu không khí vô cùng tịch mịch tịch liêu như thường lệ, chỉ dẫu dã có sự hiện diện của tôi và Akiha.@`
+` Kohaku-san lẳng lặng đứng hầu sau lưng Akiha, còn Hisui đứng kề cạnh sau lưng tôi suốt bữa ăn tối tịnh không một lời mở miệng trò chuyện của hai anh em.
+\
+`"……"@`
+` Điểm độc nhất khác biệt kỳ lạ bấy giờ dẫu sao chính là cung cách hành xử của Akiha.@`
+` Từ trước tới nay dẫu vậy, hễ mỗi lần đống bát đĩa dao dĩa của tôi lỡ phát ra tiếng động lách cách nhỏ nhặt, Akiha nhất định dẫu dã ngẩng đầu cau mày trừng mắt nhìn tôi đầy trách cứ.@ Thế dẫu vậy ngày hôm nay, tự thân Akiha lại vô tình tạo ra hàng tá tiếng khua bát đĩa loảng xoảng liên hồi.@`
+` Cuối cùng,
+`"[line=3]Em xin phép cất bước quay trở về phòng ngủ tự thân bấy giờ đây ạ.@ Sám hối phiền hai người quét dọn dẹp đống bát đĩa này giúp em."@`
+` Lạnh lùng giãi bày dứt khoát rành rọt nhường ấy xong, em ấy liền tịch mịch cất bước đi thẳng ra khỏi phòng ăn.
+\
+bg "bg/bg_34b",lshutter,800
+`"…… Em ấy tự dưng dẫu dã bị làm sao thế nhỉ?@ Rõ ràng lúc hai anh em cùng lẳng lặng cất bước đi bộ về dinh thự dẫu vậy em ấy đâu có biểu lộ thái độ ngang ngạnh nhường này đâu chứ…"@`
+ld c,"tachi/his_t01",crossfade,400
+`"……"@`
+` Hisui không nói gì cả.@`
+` Kohaku-san thu thập đống bát đĩa dọn dẹp kề bên bàn ăn, nụ cười hiền dịu vẫn như thường lệ tịnh không biến mất trên môi.@`
+br
+` [line=4]Và rồi bỗng chốc bấy giờ.@`
+wave se_05
+br
+` Bất thình lình, từ phía đại sảnh kề bên hành lang vang vọng lại tiếng đổ rầm dữ dội hệt như dẫu dã có ai đó vừa ngã quỵ xuống chốn ấy.@`
+`"[line=3]Akiha!?"@`
+` Linh cảm sự sự tình tồi tệ kinh hoàng dẫu dã nổ ra, tôi liền quýnh quáng ba chân bốn cẳng điên cuồng lao thẳng ra phía đại sảnh.
+\
+bg "bg/bg_33c",lshutter,800
+ld c,"tachi/aki_t20b",crossfade,400
+`"[line=5]!"@`
+` Đập vào mắt tôi chốn ấy dẫu sao dẫu dẫu chính là bóng hình Akiha bấy giờ đang lủi thủi ngồi gục, ráng sức tựa lưng vào mép cầu thang gỗ.@`
+` Hơi thở tự thân của em ấy bấn loạn đứt quãng vô cùng dữ dội, dẫu cho đứng ở cự ly nhường này tôi dẫu dã có thể thấu tai nghe tiếng thở khò khè đau đớn dữ dội tự thân của em.@`
+` Gương mặt Akiha bấy giờ tái mét cắt tịnh không còn giọt máu, và hàng tá giọt mồ hôi lạnh toát đang thi nhau rịn ra rải rác trên làn da mịn màng tự thân của em.@`
+br
+` …… Chỉ cần liếc mắt diện kiến qua một thoáng dẫu vậy dẫu dẫu dã đủ cho tôi thấu triệt rõ ràng rằng tình hình thể xác tự thân của em ấy bấy giờ dẫu dã lâm vào cảnh vô cùng tồi tệ rồi.
+\
+`"Này, Akiha!"@`
+`"Chớ có cất bước lại gần em...!"@`
+`"…!"@`
+` Tôi khựng người đứng yên một chốn.@`
+` Khẽ tựa lưng mệt mỏi vào mép cầu thang, Akiha ráng chút tàn lực cuối cùng thốt lời xua đuổi cự tuyệt tôi một cách vô cùng gay gắt giận dữ.
+\
+`"[line=3]Đừng lại gần em...? Em đang giãi bày cái quái gì thế hả!? Anh tịnh không rõ dẫu dã có chuyện gì xảy ra, nhưng anh chịu chết tịnh không thể bỏ mặc em nằm lủi thủi lẻ loi nhường này được!"@`
+`"[line=3]Em tịnh không sao đâu, chỉ là... đừng cất bước lại gần em... anh Shiki."@`
+` Akiha lồng ngực phập phồng thở dốc một cách vô cùng nhọc nhằn đứt quãng.@`
+wave se_01
+`"Này em[line=4]"@`
+` Lồng ngực tôi bấy giờ trào dâng một cảm giác vô cùng kinh hoàng, trái tim tự thân đập liên hồi thình thịch loạn nhịp.@`
+` Akiha chịu chết tịnh không thể mở miệng thốt thêm lời nào, chỉ ráng sức thở dốc một cách vô cùng nhọc nhằn đớn đau.@`
+` …… Tịnh không ổn rồi, dẫu dã có sự sự tình gì đó tồi tệ kinh hoàng cực kỳ phản tự nhiên đang hoành hành hoại diệt trong tôi bấy giờ.@`
+` Chỉ trong một khoảnh khắc ngắn ngủi, bóng hình đớn đau bấy giờ tự thân của em ấy dẫu vậy dẫu dẫu lại gợi cho tôi lẩm bẩm nhớ tới bóng dáng thê lương thuở trước của Cung Tủng Sa Nguyệt.
+\
+`"[line=3]Aki... ha"@`
+`"Em tịnh không sao đâu, nên xin anh làm ơn chớ cất bước lại gần em.@ Nếu anh lại gần em, em tuyệt đối chịu chết tịnh không thể... thế nên làm ơn đừng lại gần hơn nữa.@ Chỉ cần anh tịnh không có mặt ở chốn này dẫu sao em dẫu dã tự khắc ổn thỏa rồi, nên..."@`
+cl a,tshutter,800
+` Rốt cuộc dẫu dã tịnh không thể chịu đựng thêm được nữa dẫu vậy dẫu dẫu,
+` Akiha dẫu dã hoàn toàn đổ sập, tịch mịch ngất lịm xuống thềm gỗ.
+\
+ld c,"tachi/koha_t02",lshutter,400
+`"Tiểu thư Akiha!?"@`
+` Kohaku-san hớt hải vội vã lách người cất bước lướt qua vai tôi rồi lao nhanh về phía Akiha.@`
+cl a,crossfade,400
+` Em ấy khẽ thì thầm giãi bày điều gì đó kề tai Akiha dẫu dã lịm đi, rồi cẩn mật cất lực nâng em ấy đứng dậy.@`
+` Dưới sự cất công dìu đỡ tỉ mỉ tự thân của Kohaku-san, bóng hình Akiha chầm chậm cất bước quay trở về căn phòng ngủ tự thân kề bên gian lầu.
+\
+`"[line=4]Rốt cuộc... chuyện kinh hoàng gì dẫu dã nổ ra chốn này thế hả?"@`
+` Trí não tôi bấy giờ dẫu dã hoàn toàn rơi vào bấn loạn hỗn loạn, chịu chết tịnh không thể thấu triệt nổi chuyện gì đang nổ ra trước mắt.@`
+` Bộ dạng tiều tụy đau đớn dữ dội tự thân của Akiha, việc em ấy cương quyết xua đuổi cấm tiệt tôi chịu chết tịnh không được phép lại gần dẫu vậy dẫu vậy dẫu lại sẵn lòng chấp nhận để Kohaku-san đến gần nâng đỡ đỡ đần tự thân dẫu dã khiến tôi tịnh không ngớt băn khoăn bối rối.
+ld c,"tachi/his_t01",lshutter,800
+`"[line=3]Cậu Shiki."@`
+`"Hisui… rốt cuộc dẫu dã có chuyện gì xảy ra thế?@ Tại sao Akiha đột ngột lại lâm vào tình trạng tồi tệ nhường ấy chứ?"`
+\
+`"Dạ vâng, thỉnh thoảng tiểu thư Akiha dẫu dã bất ngờ rơi vào trạng thái khó thở đột ngột.@ Hệt như chứng thiếu máu bẩm sinh kinh niên tự thân của cậu dẫu vậy dẫu dẫu, bản thân tiểu thư Akiha dẫu sao dẫu dẫu cũng mang trong mình dòng máu quý tộc của gia tộc Tohno."@`
+`"Hự[line=4]"@`
+br
+` [line=3]Bất kỳ thành viên nào mang dòng máu của gia tộc Tohno dẫu dẫu cũng đều mang trong mình những thể trạng bất ổn dị biệt.@`
+br
+` Chi tiết lịch sử ấy dẫu dã được chính Akiha mở miệng giãi bày kể lể lúc hai anh em dùng bữa trưa thuở ban chiều.
+\
+`"Lẽ nào lại như thế được... Akiha xưa nay luôn thể hiện ra ngoài một dáng vẻ vô cùng khỏe mạnh đĩnh đạc cơ mà."@`
+`"Tiểu thư Akiha dẫu dã dốc hết tâm lực ráng sức để lẳng lặng giữ kín bí mật tối cao ấy chịu chết tịnh không cho cậu Shiki thấu triệt.@ Đám gia nhân tụi em dẫu dẫu cũng nhận được lệnh cấm nghiêm ngặt tuyệt đối tịnh không được phép hé răng nửa lời chuyện này với cậu Shiki."@`
+`"[line=8]"@`
+` Bản thân tôi bấy giờ chịu chết tịnh không biết mở miệng thốt nên lời gì cho đành.@`
+` Bản thân tôi bấy giờ chỉ biết đứng lẳng lặng ngẩn tò te, đăm đăm hướng mắt nhìn trân trân lên phía cầu thang gỗ nơi Akiha vừa tịch mịch cất bước đi qua đầy kinh ngạc bàng hoàng.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40c",tshutter,400
+ld c,"tachi/his_t01",crossfade,400
+`"Dạ vâng, bấy giờ dẫu dã muộn rồi, em xin cầu chúc cậu Shiki dẫu dã có một giấc ngủ ngon.@ Về tình trạng thể xác tự thân của tiểu thư Akiha, cầu xin cậu hãy lẳng lặng giao phó trọn vẹn cho chị Kohaku chăm sóc nhé."@`
+` Do chị Kohaku dẫu dã cất công kề cận chăm bẵm sức khỏe thể xác tự thân cho lão gia Makihisa suốt hàng năm trời đằng đẵng, nên tay nghề y khoa và kinh nghiệm chữa trị tự thân của chị ấy vô cùng đĩnh đạc đắc lực.@`
+`"Ừ, chắc dẫu dã đúng là như thế rồi.@ Nếu dẫu dã có Kohaku-san chăm sóc túc trực kề cạnh Akiha, anh thiết nghĩ nhất định em ấy dẫu dã sớm bình phục dẫu dã ổn thôi."@`
+` …… Vì bấy giờ bản thân tôi chịu chết tịnh không thể cất công giúp ích nổi sự sự tình gì nữa, nên rốt cuộc có lẽ giải pháp đắc lực duy nhất dẫu sao vẫn là lẳng lặng phó mặc mọi chuyện cho Kohaku-san chữa trị.
+\
+ld c,"tachi/his_t17",crossfade,400
+`"Thưa cậu Shiki, tình trạng ngất lịm đột ngột nhường này tự thân của tiểu thư Akiha dẫu dã là chuyện cực kỳ hiếm khi nổ ra.@ Vì chứng bệnh dẫu sao dẫu dẫu dã có thể nhanh chóng được làm dịu cắt đứt bằng các liều thuốc đặc trị đắc lực rồi, nên em thiết nghĩ cậu tịnh không cần phải bận lòng lo nghĩ nhiều quá chừng đâu ạ.@`
+` …… Thực lòng mà nói, thay vì để tâm bận lòng tới đống bệnh tật dễ bề khống chế tự thân của mình dẫu vậy, tiểu thư Akiha bấy giờ lại dành nhiều sự lo lắng bận lòng hơn gấp bội cho sức khỏe thể xác tự thân của cậu đấy, cậu Shiki ạ."@`
+`"[line=3]Anh thấu triệt rồi.@ Chết tiệt thật, anh thực sự dẫu dã là một thằng anh trai vô cùng tồi tệ tệ hại quá chừng.@ Hóa ra từ trước tới nay, anh chịu chết tịnh không hề hay biết hay để mắt thấu triệt được bất cứ sự sự tình gì cả."`
+\
+ld c,"tachi/his_t21b",crossfade,400
+`"[line=3]Cậu... quả thực tịnh không hay thấu triệt bất cứ sự sự tình gì sao?"@`
+` Hisui lẳng lặng khẽ thỏ thẻ thốt lên một mình tự hỏi, đôi mắt tự thân rầu rĩ lướt nhìn xuống thềm đất lạnh cô tịch.@`
+`"Hisui?@ Em vừa lẩm nhẩm giãi bày cái gì thế cơ?@ Đừng mở miệng giãi bày với anh là đến ngay cả em dẫu dẫu cũng đang ôm lòng sầu muộn oán trách anh đấy nhé."@`
+`"[line=3]Dạ tịnh không đâu ạ, chỉ là... thưa cậu Shiki, liệu cậu dẫu dã thực sự chịu chết tịnh không còn nhớ nổi bất cứ ký ức gì bận lòng về căn nhà biệt lập mang phong cách Nhật Bản truyền thống kia sao ạ?"@`
+`"[line=5]Ơ kìa?"@`
+br
+` …… Nhớ... là nhớ chuyện gì cơ chứ?@`
+br
+`"…… Hisui dẫu vậy dẫu vậy dẫu dã giãi bày chuyện đó..."@`
+`"[line=3]Cậu quả thực... dẫu dã hoàn toàn trở thành Viễn Dã Chí Quý rồi đúng tịnh không, cậu Shiki?"`
+\
+`"Hisui!?"@`
+ld c,"tachi/his_t01",crossfade,400
+`"…… Căn nhà biệt lập bỏ hoang chốn ấy dẫu dã hoàn toàn bị tịch mịch phong tỏa đình chỉ sử dụng ngay sau khi cậu dẫu dã cất bước dời dinh thự chuyển sang lưu trú bên nhà Arima rồi.@ Khi xưa lão gia Makihisa dẫu dã hạ quyết tâm triệt hạ san bằng nó đi dẫu vậy, dẫu vậy do chịu sự phản đối kịch liệt dữ dội của tiểu thư Akiha, nên căn nhà ấy dẫu sao dẫu dẫu vẫn còn sừng sững sương gió cho tới ngày hôm nay đấy ạ."@`
+ld c,"tachi/his_t09",crossfade,400
+` [line=3]"Thế nên, thưa cậu Shiki, nếu trong sâu thẳm cõi lòng cậu vẫn còn mảy may có sự trân quý bận lòng dành cho tiểu thư Akiha dẫu vậy, xin cầu xin cậu chớ cất bước tiến lại gần căn nhà biệt lập bỏ hoang chốn ấy nửa bước."@`
+cl a,lshutter,400
+` Lạnh lùng thốt ra dứt khoát rành rọt những lời can ngăn ấy xong, Hisui liền lập tức lẳng lặng xoay người cất bước bước vội ra khỏi phòng nhanh chóng hệt như đang lẩn trốn vậy.
+\
+bg #000000,bshutter,400
+!w2000
+bg "bg/bg_40d",crossfade,400
+` Đồng hồ chầm chậm điểm mười giờ đêm tịch mịch, và tất thảy hàng tá ánh đèn chiếu sáng chốn dinh thự dẫu dã tịch mịch vụt tắt tắt ngấm.@`
+`"……"@`
+` Thần trí bồn chồn băn khoăn khiến tôi chịu chết tịnh không cách nào dỗ nổi giấc ngủ ngủ say.@`
+` Akiha.@`
+` Căn nhà biệt lập mà em ấy bướng bỉnh muốn lẳng lặng phong tỏa lấp liếm bí mật chịu chết tịnh không cho tôi bén mảng ghé thăm.
+\

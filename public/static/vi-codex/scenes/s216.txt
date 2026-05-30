@@ -1,0 +1,200 @@
+playstop
+wavestop
+bg "bg/bg_34b",tcartain,800
+play "*1"
+` Sau khi thong thả dùng xong bữa tối ngon miệng, hai anh em chúng tôi cùng nhau ngồi thưởng trà bên trong phòng khách rộng lớn.@
+` Akiha đang ngồi ở phía đối diện tôi, còn Hisui thì lặng lẽ đứng túc trực phăng phắc ngay sát bên cạnh bức tường phía sau.@
+` Phòng khách rộng lớn của biệt thự tuyệt đối hoàn toàn không hề có sự hiện diện của bất kỳ chiếc tivi nào, và Akiha bấy giờ cũng dứt khoát kiệm lời không hề cất lời trò chuyện dông dài cùng tôi.@
+br
+` [line=3]Bầu không khí xung quanh thực sự... mang đậm một sắc thái sang trọng, quyền quý quá mức chịu đựng của tôi.
+\
+`"Anh Shiki ơi, anh làm ơn có thể vui lòng bước ra ngoài sảnh này một lát được không ạ?"@
+` Lắng tai nghe, tôi khẽ nhận thấy thanh âm vui vẻ vang lên từ phía tiền sảnh chính là giọng nói quen thuộc của Kohaku-san.@
+ld c,"tachi/aki_t01b",lshutter,400
+`"Anh trai? Hình như chị Kohaku bấy giờ đang cất tiếng gọi anh đấy ạ. Anh bấy giờ đang có biến cố gì mờ ám khiến chị ấy phải đích thân gọi anh ra gặp riêng như thế sao?"@
+`"À không, tôi thực sự chịu chết chẳng thể nhớ nổi có chuyện gì mờ ám cả... [line=3]Tôi xin phép ra ngoài sảnh xem có chuyện gì rồi quay lại ngay nhé Akiha."@
+\
+bg #000000,lshutter,800
+bg "bg/bg_33c",lshutter,800
+`"... Kohaku-san ơi. Có biến cố gì đột xuất xảy ra thế em?"@
+ld c,"tachi/koha_t02",lshutter,400
+`"Dạ thưa cậu chủ Shiki. Chuyện này thực sự... quả thực có hơi phức tạp và ái ngại một chút ạ... Liệu cậu chủ có thể làm ơn vui lòng cùng em bước ra ngoài cổng sắt biệt thự nói chuyện được không ạ? Nơi tiền sảnh này thực sự hoàn toàn không phải là một địa điểm thích hợp để bàn chuyện đâu ạ thưa cậu chủ."@
+ld c,"tachi/koha_t02",lshutter,400
+` Bản thân tôi bấy giờ thực sự chịu chẳng thể hiểu nổi rốt cuộc đang có chuyện gì kỳ lạ xảy ra, thế nhưng vẫn lẳng lặng cất bước đi theo sau em ấy ra ngoài.
+\
+bg "bg/bg_48c",lcartain,800
+\
+bg "bg/bg_48c",lcartain,800
+`"Dạ đúng thế đấy ạ. Chuyện này nếu lỡ để cho tiểu thư Akiha nghe thấy được, cô ấy dứt khoát chắc chắn sẽ nổi giận lôi đình với cậu chủ cho mà xem thưa Shiki-san."@
+ld c,"tachi/koha_t01a",crossfade,400
+`"Em nói thế nghĩa là sao? Suốt từ chiều đến giờ tôi dứt khoát tuyệt đối đâu có làm bất kỳ hành động sai trái nào có thể khiến em ấy nổi giận đâu cơ chứ."@
+`"Dạ hoàn toàn không phải là vì những hành động mà cậu chủ đã làm đâu ạ. Sự thật là, ngay trong lúc cậu chủ đang thong thả dùng bữa tối cùng tiểu thư Akiha bên trong phòng khách lúc nãy, đã có một vị khách đặc biệt ghé qua biệt thự tìm gặp riêng cậu chủ đấy ạ."@
+`"Hả? Có vị khách đặc biệt ghé biệt thự tìm gặp riêng tôi sao?"@
+`"Dạ vâng ạ. Cô ấy lúc nãy cứ liên tục đi dạo quanh quẩn trước cánh cổng sắt chính của biệt thự nên em mới chủ động ra cổng hỏi han xem sao ạ. Cô ấy bấy giờ đang khoác trên mình bộ đồng phục học sinh đặc trưng của ngôi trường trung học cậu chủ đang theo học đấy ạ."@
+\
+` Một cô bạn học trạc tuổi tôi bấy giờ, sở hữu một gương mặt bầu bĩnh vô cùng thanh tú và hơi trẻ con đầy đáng yêu. Một cô bé vô cùng dễ thương khoác trên mình bộ đồng phục nữ sinh, mái tóc dài mượt mà được buộc gọn gàng thành kiểu đuôi ngựa sau gáy……?
+\
+`"... ... ... "@
+` Ngay trong tích tắc ngắn ngủi bấy giờ, tôi bỗng cảm nhận thấy bầu trời xung quanh mình hệt như vừa bị sụp đổ hoàn toàn vào bóng tối vĩnh hằng vậy.@
+\
+` Chân dung của cô gái ấy dứt khoát tuyệt đối không thể nhầm lẫn vào đâu được, đó chính là Yumizuka Satsuki - cô bạn học vừa đột ngột bỏ nhà ra đi biệt tích đêm qua cơ mà?
+\
+`"Dạ lúc nãy cô ấy khẽ cất lời hỏi em rằng: \'Cho hỏi đây có phải là căn biệt thự của gia đình Tohno-san không ạ?\' và em đã rạng rỡ đáp lời xác nhận: \'Dạ vâng, chính xác là như vậy đấy ạ\'. Sau đó cô ấy lại hớt hải hỏi thăm tiếp kiểu: \'Vậy bạn Tohno-kun bấy giờ có đang ở trong nhà không ạ?\'"@
+`"[line=3]... Ừm. Rồi rốt cuộc biến cố diễn biến sau đó thế nào nữa hả em, Kohaku-san?"@
+\
+` Kohaku-san khẽ cất lời thắc mắc đầy tò mò về hành tung kỳ lạ của vị khách đặc biệt đó, đầu nhỏ khẽ nghiêng sang một bên tỏ vẻ suy ngẫm.@
+` Thế nhưng bấy giờ, chính bản thân tôi mới là kẻ đang khao khát được biết rõ ngọn ngành câu chuyện nhất.
+\
+`"Tại sao chứ... tại sao Yumizuka-san lại đột ngột cất công lặn lội đến tận biệt thự gia tộc Tohno này chỉ để tìm tôi cơ chứ...?"@
+` Đầu óc tôi bấy giờ thực sự hoàn toàn trống rỗng chẳng thể hiểu nổi.@
+\
+`"[line=6]... Này Kohaku-san, biến cố đó rốt cuộc đã xảy ra cách đây bao lâu rồi em?"@
+`"Dạ, sự việc đó xảy ra ngay trước khi bữa tối của cậu chủ và tiểu thư kết thúc ạ, tính đến thời điểm hiện tại thì chắc chỉ mới trôi qua khoảng mười phút ngắn ngủi thôi thưa cậu chủ."@
+`"Chết thật! Thế... thế em có nhìn thấy cô ấy đi bộ về hướng nào sau khi rời đi không em?"@
+`"Dạ em thấy cô ấy đi bộ xuống dốc đi về phía ga tàu trung tâm thì phải ạ thưa cậu chủ Shiki."
+\
+` [line=2]Liệu bấy giờ tôi có thể gồng mình chạy nhanh để kịp thời đuổi theo em ấy không đây?@`@
+` Nếu chạy thục mạng bấy giờ, may ra tôi vẫn còn cơ hội đuổi kịp em ấy.@
+\
+[line=3]ld c,"tachi/koha_t03",crossfade,400
+`"[line=3]Dạ em đã hiểu rõ rồi ạ. Cậu chủ hãy đi nhanh lên đi nhé, nếu chuyện này lỡ để tiểu thư Akiha phát hiện ra thì dứt khoát cô ấy sẽ tuyệt đối không chịu để yên cho Shiki-san đâu ạ."@
+` Khẽ gật đầu chào Kohaku-san bấy giờ vẫn đang nở một nụ cười rạng rỡ ấm áp, tôi lập tức lao mình chạy nhanh xuống con dốc dài, hòa mình vào màn đêm tĩnh lặng buốt giá bên ngoài biệt thự.
+ld c,"tachi/koha_t03",crossfade,400
+bg #000000,crossfade,800
+playstop
+\
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_24c",lcartain,800
+[line=4][line=4]bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+br
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` [line=4]*Hộc... hộc*... *hộc... hộc*... *hộc... hộc*...@
+` "Toàn bộ sức lực của tôi thực sự đã hoàn toàn bị vắt kiệt rồi."@
+br
+\
+`"... Tôi biết thừa... việc tìm kiếm bóng hình của em ấy giữa thị trấn rộng lớn thế này... dứt khoát tuyệt đối chẳng phải là một chuyện dễ dàng gì rồi..."@
+` *Hộc... hộc*, *hộc... hộc*.@
+\
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+br
+` [line=3]Tôi không nghĩ hành động bốc đồng điên cuồng chạy thục mạng sáng nay của mình chỉ đơn thuần là vì bản thân đang quá lo lắng bận lòng cho an nguy của em ấy đâu.@
+br
+\
+` Tớ đi đây nhé.@ Tạm biệt cậu nha, Tohno-kun.@
+br
+\
+` [line=3]…… Một nụ cười rạng rỡ ngập tràn hạnh phúc chân thành, vô cùng nhẹ nhàng và ấm áp.@
+br
+br
+` Này Shiki-kun, nếu sau này tớ có gặp phải nghịch cảnh hiểm nghèo gì khó khăn, cậu nhất định phải dang tay cứu giúp tớ đấy nhé?@
+br
+br
+` [line=3]Tôi chỉ... dứt khoát tuyệt đối không muốn bản thân trở thành kẻ hèn nhát phản bội lại nụ cười rạng rỡ thiêng liêng đó của em ấy.
+br
+bg "bg/bg_28b",lcartain,800
+` [line=4]Lồng ngực tôi thở dốc dồn dập đầy hổn hển vì mệt mỏi rã rời.@
+\
+bg "bg/bg_28b",lcartain,800
+` Có lẽ tôi bắt buộc phải chấp nhận bỏ cuộc chịu thua để quay trở lại biệt thự thôi.@
+`"... Thật là... đáng khóc... quá đi mất..."@
+` Dẫu cho lý trí liên tục cất lời khuyên ngăn như thế, đôi chân tôi bấy giờ vẫn bướng bỉnh điên cuồng rảo bước lùng sục khắp thị trấn trong lúc quay trở về.
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+\
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+br
+` Và chính ngay trong khoảnh khắc tĩnh lặng buốt giá đó,
+br
+br
+` [line=4]Tôi bàng hoàng sững sờ, thậm chí đã hoài nghi chính đôi mắt của mình trong một giây lát.@
+br
+[line=4]\
+wave se_01
+bg #000000,notrans,0
+\
+wave se_01
+bg #000000,notrans,0
+bg "bg/bg_25b",notrans,0
+`"Yumizuka-san! Làm ơn hãy đứng lại chờ tớ một lát đi!"@
+` Tôi căm phẫn hét lớn hết cỡ trong lúc điên cuồng chạy nhanh đuổi theo.
+\
+[line=3]ld c,"tachi/stk_t10",lshutter,400
+`"... ... ... "@
+\
+ld c,"tachi/stk_t10",lshutter,400
+[line=6]bg #000000,notrans,0
+bg "bg/bg_25b",notrans,0
+wave se_01
+bg #000000,notrans,0
+bg "bg/bg_25b",notrans,0
+`"Ơ... kìa..."@
+` Tôi bỗng cảm nhận thấy một cơn ớn lạnh buốt giá chạy dọc khắp sống lưng mình bấy giờ.
+\
+[line=4]br
+wave se_01
+\
+br
+wave se_01
+[line=3]br
+`"Cảm giác nóng rực này... thực sự vô cùng kỳ lạ và bất thường..."@
+` Toàn bộ huyết quản và tế bào bên trong thể xác tôi đang điên cuồng rát cháy dữ dội.@
+br
+br
+` Và chính ngay trong khoảnh khắc choáng váng cận tử đó, Yumizuka lại lẳng lặng quay người tiếp tục cất bước đi bộ đi tiếp.
+\
+br
+`"Yumizuka-san! Khoan đã...!" tôi hét lớn vọng theo, chân vẫn điên cuồng sải bước chạy.@
+\
+bg "bg/bg_26a",lcartain,400
+waveloop se_02
+` [line=3]Cho dù tôi có cố gồng mình chạy thục mạng nhanh đến thế nào đi chăng nữa, tôi vẫn tuyệt đối không thể bắt kịp nổi hình bóng của em ấy dẫu cho em ấy chỉ đang lặng lẽ đi bộ chậm rãi mà thôi.@
+` Khoảng cách vô hình chông chênh giữa hai chúng tôi bấy giờ dứt khoát tuyệt đối không hề thu hẹp lại dẫu chỉ một centimet.@
+` Tôi thực sự cảm thấy vô cùng tuyệt vọng trước tốc độ di chuyển phi lý đến mức dị thường của Yumizuka bấy giờ.@
+br
+` Lòng tôi khẽ dâng trào một nỗi lo sợ tột cùng... có lẽ... có lẽ tôi sẽ vĩnh viễn không bao giờ có thể bắt kịp được bước chân của em ấy nữa rồi.
+\
+br
+` Có điều gì đó... thực sự vô cùng dị thường và lệch lạc bấy giờ.@
+\
+` [line=6]Trong tình cảnh choáng váng bế tắc bấy giờ, hành động duy nhất tôi có thể thực hiện chỉ là điên cuồng sải bước chân chạy đuổi theo sau hình bóng u ám của Yumizuka Satsuki mà thôi.@
+bg #000000,lshutter,800
+bg "bg/bg_26a",lcartain,800
+br
+bg #000000,lshutter,800
+bg "bg/bg_26a",lcartain,800
+br
+` [line=2]Yumizuka Satsuki, hình bóng mà tôi đã điên cuồng chạy thục mạng truy đuổi vô vọng suốt thời gian qua, bấy giờ đã hoàn toàn biến mất biệt tích không còn dẫu chỉ một dấu vết.
+br
+`"... Khốn kiếp thật... Rốt cuộc chuyện quái quỷ gì đang xảy ra thế này cơ chứ?!?" @
+` Tôi khựng bước chân lại đứng thở dốc dồn dập, gồng mình hít lấy từng ngụm khí ngắn khó nhọc.@
+\
+` ... Dẫu cho bản thân nãy giờ hoàn toàn chưa nhận thức được sự trôi đi của thời gian, thế nhưng có vẻ như tôi thực chất đã điên cuồng chạy bộ suốt một quãng thời gian dài đằng đẵng rồi thì phải.@
+`"Khốn kiếp... bấy giờ rốt cuộc đã là mấy giờ đêm rồi chứ?"@
+` Khom người đặt chặt hai bàn tay lên đầu gối thở dốc, tôi khẽ ngước mắt nhìn lên chiếc đồng hồ phản chiếu sau lớp cửa kính lớn của một cửa hiệu ven đường gần đó.@
+` Trời đất ơi, lúc này thực chất đã là quá nửa đêm rồi cơ sao.
+\
+`"Không thể nào có chuyện điên rồ như thế được! Làm sao tôi có thể đã điên cuồng chạy thục mạng suốt một quãng thời gian dài đằng đẵng đến nhường ấy được chứ!"@
+` [line=2]... Dẫu cho sự thật phi lý đó có khó tin đến mức nào đi nữa, thì chiếc kim đồng hồ kia dứt khoát tuyệt đối không bao giờ biết nói dối.@
+\
+[line=4]\
+`"Bản thân mình bấy giờ... tốt nhất nên quay trở về biệt thự thôi..."@
+` Dẫu cho lòng có lo lắng bận lòng cho an nguy của Yumizuka đến phát điên đi chăng nữa, lý trí bấy giờ lạnh lùng mách bảo tôi rằng dứt khoát tuyệt đối không còn bất kỳ hy vọng khả dĩ nào để có thể tìm thấy bóng dáng em ấy trong đêm tối lạnh lẽo này nữa rồi.@
+\
+[line=3]br
+` Buông xuôi một tiếng thở dài thườn thượt đầy bất lực và u sầu, tôi đành cam chịu cất bước chậm rãi quay trở về biệt thự gia tộc Tohno.
+\
+br
+` Với một hơi thở dài, tôi quyết định quay trở lại biệt thự.
+\
+wavestop
+bg #000000,lcartain,800

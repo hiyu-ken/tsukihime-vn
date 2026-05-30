@@ -1,0 +1,510 @@
+phase #000000,r,others,pro,0
+bg #ffffff,crossfade,800
+bg "bg/bg_51",crossfade,800
+wait 1000
+bg "bg/bg_51b",crossfade,800
+waveloop se_11
+` Khi tỉnh lại, tôi thấy mình đang nằm trên giường bệnh.@
+` Tấm rèm cửa sổ cạnh bên khẽ lay động dưới nắng mai.@
+` Ngoài trời là một ngày nắng đẹp,@
+` làn gió khô hanh thổi qua như báo hiệu mùa hè sắp sửa khép lại.
+\
+`"Chào em, Tohno Shiki-kun.@ Chúc mừng em đã bình phục nhé."@
+br
+` Một người đàn ông lạ mặt vươn tay ra chào tôi.@
+` Chiếc kính gọng vuông cùng nụ cười ấm áp trông vô cùng hiền từ.@
+` Tấm áo khoác blouse trắng tinh tươm cũng rất mực hợp với ông.
+\
+`"Em có nghe rõ những gì bác nói không, Shiki-kun?"@
+`"…… Dạ không.@ Mà sao... cháu lại ở trong bệnh viện thế này?"@
+`"Em không nhớ gì sao?@ Em đã gặp phải một tai nạn xe hơi khi đang đi bộ đấy.@
+` Lồng ngực em bị một mảnh kính đâm sâu, lúc ấy cơ hội sống sót của em thực sự vô cùng mong manh."@
+` Lời nói ấy nghe thật chẳng giống những gì một bác sĩ nên nói với bệnh nhân, thế nhưng ông vẫn nở nụ cười hiền hậu khi kể lại điều đó.
+\
+br
+br
+br
+br
+br
+br
+` [line=6]Thật kinh khủng.@
+`     Tôi cảm thấy vô cùng kinh khủng.
+\
+`"…… Cháu mệt quá.@ Cháu ngủ một lát được không bác?"@
+`"Được chứ, em nên nghỉ ngơi đi.@ Bây giờ em cần phải tập trung dưỡng bệnh, đừng cố sức làm gì nhé."@
+` Vị bác sĩ vẫn giữ nguyên nụ cười trên môi.@
+` Nói thật lòng, tôi chẳng thể chịu nổi nụ cười ấy thêm được nữa…
+`"Bác sĩ ơi, cháu hỏi cái này được không?"@
+`"Chuyện gì thế, Shiki-kun?"@
+`"Tại sao trên người bác lại đầy những nét vẽ nguệch ngoạc thế kia?@ Rồi cả những vết nứt khắp nơi trên tường nữa… Sao tường nhà lại nứt nẻ nhiều thế ạ?"@
+br
+` Nụ cười trên khuôn mặt ông vụt tắt trong thoáng chốc, rồi lập tức quay trở lại.@ Ông quay người bước đi.
+\
+`"[line=3]Xem ra rốt cuộc não thằng bé vẫn chịu tổn thương rồi.@ Mau liên hệ với Bác sĩ Ashiya bên khoa thần kinh đi.@ Tôi cũng nghi ngờ mắt của nó gặp vấn đề nữa.@ Chiều nay sắp xếp kiểm tra mắt cho thằng bé luôn."@
+br
+` Vị bác sĩ thì thầm với cô y tá, cố tình tránh để tôi nghe thấy.
+\
+bg #000000,lshutter,1500
+bg "bg/bg_51b",lshutter,800
+`"…… Kỳ lạ thật.@ Trên người ai cũng có những nét vẽ nguệch ngoạc đó."@
+` Những đường lằn đen ngổn ngang, ngoằn ngoèo chạy khắp sàn nhà, trên những bức tường và cả trần phòng…
+` Tôi không hiểu chúng có ý nghĩa gì, nhưng chỉ nhìn vào chúng thôi đã đủ làm tôi thấy buồn nôn.@
+`"…… Rốt cuộc đó là cái gì nhỉ?"@
+` Ngay cả chiếc giường này cũng bị bao phủ bởi những đường lằn nguệch ngoạc đó.@
+` Khi tôi thử lấy ngón tay chạm vào một đường lằn, đầu ngón tay tôi bỗng chìm sâu vào khe hở nứt nẻ ấy.@
+`"[line=3]Ôi!"@
+` Cảm giác như thể nếu dùng một vật gì đó thon nhọn hơn thì tôi có thể chọc sâu xuống dưới, thế là tôi cầm con dao gọt hoa quả đang để trên chiếc bàn cạnh đầu giường lên, lần theo đường lằn ấy.
+\
+` Tôi chẳng hề dùng một chút lực nào, vậy mà lưỡi dao cứ thế lún sâu vào giường, ngập đến tận chuôi.@
+` Thấy thú vị, tôi kéo con dao dọc theo đường lằn nguệch ngoạc đó.@
+br
+` RẮC!@
+br
+` Với một tiếng động trầm đục, chiếc giường nứt đôi ra vô cùng ngọt ngào.@
+`"Kyaaaah!"@
+br
+` Cô bé ở chiếc giường bên cạnh hét toáng lên đầy sợ hãi.@
+` Các y tá lập tức chạy ùa tới và giật lấy con dao từ tay tôi.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_55b",crossfade,1500
+`"Làm thế nào mà em làm gãy chiếc giường được vậy, Shiki-kun?"@
+br
+` Các bác sĩ không hề hỏi lý do tại sao, mà chỉ tò mò gặng hỏi BẰNG CÁCH NÀO tôi có thể làm được việc đó.
+\
+`"Cháu chỉ cần vạch theo đường lằn đó là nó tự đứt đôi thôi mà.@ Bác ơi, sao bệnh viện này lại đầy những vết nứt thế kia?"@
+`"Đừng nói nhảm nữa nào, Shiki-kun.@ Làm gì có vết nứt nào như thế ở đây đâu.@
+` Giờ thì nói cho bác nghe đi, làm thế nào em bẻ gãy chiếc giường được vậy?@ Cứ nói thật đi, bác hứa sẽ không nổi giận đâu."@
+`"[line=3]Cháu đã bảo rồi mà, cháu chỉ đưa con dao lần theo đường lằn đó thôi…"@
+`"…… Ra vậy.@ Được rồi, ngày mai chúng ta sẽ nói tiếp chuyện này nhé."@
+br
+` Vị bác sĩ rời phòng.@
+` ... Rốt cuộc, chẳng một ai tin câu chuyện của tôi.
+\
+wavestop
+bg #000000,lcartain,800
+bg "bg/ima_06",lcartain,800
+` Chỉ cần tôi vạch lưỡi dao dọc theo những đường nét nguệch ngoạc ấy, tôi có thể cắt đôi bất cứ thứ gì một cách dễ dàng.@
+` Tôi chẳng cần phải dùng chút sức lực nào cả.@
+` Việc đó dễ dàng y như dùng kéo cắt một tờ giấy vậy.@
+` Chiếc giường, cái ghế, chiếc bàn học, những bức tường và cả sàn nhà.@
+br
+` …… Tôi chưa từng thử nghiệm, nhưng có lẽ… không, chắc chắn rồi, kể cả là cơ thể con người đi nữa.
+\
+` Thế nhưng dường như chẳng có ai khác nhìn thấy những đường lằn ấy cả.@
+` Những đường lằn đen đúa mà chỉ mình tôi có thể trông thấy.@
+` Dù chỉ là một đứa trẻ, tôi cũng dần mơ hồ hiểu ra những đường lằn ấy đại diện cho điều gì.@
+` Chúng giống như những đường chỉ khâu vậy.@
+` Giống như những đường chỉ khâu giữ chặt miệng vết thương sau ca phẫu thuật, tôi nghĩ chúng là những điểm yếu của vạn vật.@
+` Bởi lẽ, nếu không phải thế thì làm sao sức lực của một đứa trẻ như tôi lại có thể cắt đứt những thứ ấy dễ dàng đến thế được.
+br
+` [line=4]Ừm, cho đến tận bây giờ tôi mới biết.@
+br
+` Rằng thế giới này được bao phủ bởi những đường lằn ấy, những "đường lằn tử vong" ràng buộc sự tồn tại của vạn vật.
+\
+` Người khác đều không nhìn thấy chúng.@
+` Đó là lý do tại sao họ vẫn có thể sống bình thường.@
+` Nhưng riêng tôi lại nhìn thấy chúng.@
+` Tôi sợ hãi... sợ đến mức không dám hé răng với ai...@
+` Cứ như thể trên đời này chỉ có mỗi mình tôi là kẻ điên vậy.
+\
+` Có lẽ... đó là lý do?@
+` Tại sao dù đã hai tuần trôi qua, vẫn chẳng ai tin câu chuyện của tôi.@
+` Dù đã hai tuần trôi qua, vẫn không một ai đến thăm tôi.@
+br
+` Dù đã hai tuần trôi qua,
+` tôi vẫn phải cô độc sống trong một thế giới bị bao vây bởi những đường chỉ khâu đen đúa ấy...
+\
+bg #000000,crossfade,1500
+` Tôi phải thoát khỏi nơi này... Tôi không muốn ở trong căn phòng này nữa.@
+` Tôi không muốn ở một nơi đầy rẫy những vết khâu vá.@
+` Thế nên tôi quyết định bỏ trốn, chạy đi thật xa, đến một nơi nào đó mà không một bóng người.@
+br
+` Nhưng vết thương trên ngực tôi vẫn nhức nhối, và tôi chẳng thể chạy đi đâu xa.@
+` Đó là lúc tôi nhận ra.@
+` Tôi đang đứng giữa một đồng cỏ xanh rì nằm ngay rìa thị trấn... Thực sự tôi vẫn chưa đi được xa chút nào.
+\
+`"…… *khụ*"@
+br
+` Ngực tôi đau thắt… và tôi thấy tủi thân vô cùng… Tôi quỳ sụp xuống bãi cỏ và ho khan.@
+br
+` *khụ* *khụ*@
+br
+` Xung quanh chẳng có một ai cả.@
+` Chìm nghỉm giữa đại dương xanh ngắt ngút ngàn vào những ngày cuối hạ nhạt nắng,
+` tôi có cảm giác như thể bản thân mình sắp tan biến vào hư không vậy.
+br
+` Thế nhưng, ngay trước khi điều đó xảy ra.
+br
+`"Này nhóc.@ Ngồi thụp ở một nơi nguy hiểm như thế là không tốt đâu nha."
+\
+bg "bg/cmo_01",lshutter,400
+play "*7"
+br
+` Tôi nghe thấy giọng nói của một người phụ nữ vang lên từ phía sau lưng.
+\
+`"Ơ………?"@
+`"'Ơ' cái gì mà 'ơ'?@ Nhóc đã bé hạt tiêu thế này rồi còn ngồi thụp giữa đám cỏ cao, làm sao chị thấy được.@ Chị suýt chút nữa là đá trúng nhóc rồi đó, phải cẩn thận chứ."@
+` Chị ấy chỉ tay vào tôi, vẻ mặt hơi càu nhàu.@
+` …… Tôi cảm thấy hơi tự ái.@
+` Dù sao thì ở lớp tôi cũng ngồi hàng thứ tư tính từ trên xuống, tôi không nghĩ mình lại lùn đến thế đâu.@
+`"Đá trúng?@ Ai đá trúng ai cơ?"@
+`"Không phải rõ rành rành rồi sao, cậu nhóc ngốc nghếch?@ Ở đây chỉ có hai chúng ta, không phải chị thì còn ai vào đây nữa?"@
+` Chị ấy khoanh tay trước ngực, tự tin tuyên bố dõng dạc.
+\
+`"Mà này, xem ra tụi mình gặp được nhau ở đây cũng là duyên số đấy nhỉ, nhóc có muốn trò chuyện một lát không?@ Chị tên là Aozaki Aoko.@ Còn nhóc tên gì?"@
+` Chị ấy nở một nụ cười rạng rỡ và vươn tay ra với tôi đầy thân thiện, tựa như đang chào hỏi một người bạn cũ vậy.@
+` Tôi không có lý do gì để từ chối, thế là tôi bảo tên mình là Tohno Shiki rồi nắm lấy bàn tay lành lạnh của chị ấy.
+\
+bg #000000,lshutter,800
+bg "bg/cmo_02",lshutter,800
+` Trò chuyện với chị ấy vui vô cùng.@
+` Chị ấy không hề phớt lờ những lời tôi nói chỉ vì tôi là một đứa trẻ.@
+` Trái lại, chị chăm chú lắng nghe... lắng nghe tất cả những gì tôi muốn chia sẻ, tựa như một người bạn thực sự.
+\
+` Chúng tôi đã hàn huyên về rất nhiều, rất nhiều chuyện.@
+br
+` Về gia đình của tôi.@ Về một gia tộc lâu đời, danh giá với những quy tắc truyền thống cực kỳ hà khắc, và cả người cha nghiêm khắc của tôi nữa.@
+` Về cô em gái nhỏ Akiha… Akiha ít nói, trầm tính lúc nào cũng lẽo đẽo bám đuôi tôi.@
+` Về căn biệt thự rộng lớn cùng khu vườn mênh mông, nơi Akiha và tôi thường nô đùa cùng chúng bạn.@
+br
+` [line=3]Tôi say sưa kể cho chị nghe mọi thứ, gần như trong trạng thái hăm hở vô cùng.
+\
+`"Ôi, đã đến giờ này rồi cơ à.@
+` Xin lỗi nhé Shiki.@ Chị có chút việc phải giải quyết mất rồi, nên hôm nay tụi mình dừng ở đây nha."@
+` Chị ấy đứng dậy sửa soạn ra về.@
+` …… Lồng ngực tôi thắt lại, dâng lên một nỗi buồn miên man khi nghĩ đến việc bản thân lại sắp phải cô độc một mình.@
+bg "bg/ima_05",crossfade,800
+br
+`"Hẹn gặp lại vào ngày mai nhé.@ Chị sẽ đợi em ở đây, được chứ?@ Giờ thì ngoan ngoãn quay về phòng bệnh và nghe lời bác sĩ đi nào."@
+`"Dạ..."@
+` Chị ấy nói với giọng điệu nhẹ nhàng đầy tự nhiên rồi cất bước ra về.
+\
+`"…… Hẹn gặp lại ngày mai."@
+` Ngày mai, chúng tôi sẽ lại được trò chuyện vui vẻ như hôm nay.@
+` Tôi cảm thấy vô cùng hạnh phúc.@
+` Đó là lần đầu tiên tôi thực sự cảm nhận được niềm vui sống kể từ khi tỉnh dậy sau vụ tai nạn kinh hoàng ấy.
+\
+bg #000000,crossfade,800
+` Kể từ hôm đó, việc chạy ra đồng cỏ vào mỗi buổi chiều đã trở thành một phần không thể thiếu trong sinh hoạt hàng ngày của tôi.@
+` Chị ấy luôn nổi cáu mỗi khi tôi gọi thẳng tên "Aoko".@
+` Vì lý do nào đó, có vẻ như chị ấy cực kỳ ghét cái tên của chính mình.@
+` Sau một hồi suy nghĩ, tôi thấy chị ấy là một người vô cùng đặc biệt và đáng kính, thế là tôi bắt đầu gọi chị ấy là "Sensei".
+\
+` Sensei luôn lắng nghe mọi điều tôi nói một cách vô cùng nghiêm túc, và luôn xua tan đi mọi nỗi lo âu phấp phỏng trong lòng tôi chỉ bằng một lời nói duy nhất, chưa từng thất bại một lần nào.@
+` …… Tôi từng bị trầm cảm nặng nề sau tai nạn, nhưng rồi nhờ có Sensei, tôi đã dần lấy lại được con người trước kia của mình.@
+` Ngay cả những nét vẽ đen đúa đáng sợ kia cũng không còn làm tôi kinh hãi mỗi khi được trò chuyện cùng Sensei nữa.@
+` Tôi không biết Sensei là ai hay đến từ đâu... nhưng có vẻ như chị ấy thực sự là một giáo viên.
+br
+` Nhưng tôi chẳng bận tâm, điều đó không quan trọng chút nào.@
+` Bởi vì, chỉ cần được ở bên cạnh Sensei là tôi thấy vui lắm rồi.
+` Chỉ riêng điều đó thôi đã là quá đủ rồi... và thực tế còn nhiều hơn thế nữa.
+\
+bg #000000,crossfade,400
+bg "bg/cmo_02",crossfade,400
+`"Này Sensei!@ Nhìn em nè! Em làm được cái này hay lắm!"@
+br
+` Vì muốn làm chị ấy ngạc nhiên, tôi đã mang con dao gọt hoa quả lén lấy từ bệnh viện ra, quyết định chặt đứt một thân cây nhỏ đang mọc trên đồng cỏ.@
+` Giống như lần trước, tôi chỉ cần vạch lưỡi dao dọc theo đường lằn như nét chữ nguệch ngoạc ấy, và cái cây liền bị cắt đứt lìa ngay tận gốc.@
+bg #000000,lshutter,400
+`"Đáng kinh ngạc đúng không chị? Em có thể cắt đứt bất cứ thứ gì một cách dễ dàng, miễn là trên đó có những đường lằn đen em nhìn thấy. Chắc chắn không một ai khác làm được điều này đâu nhỉ?"@
+`"Shiki..."@
+br
+` Chị ấy giáng một cái tát trời giáng thẳng vào mặt tôi.
+\
+bg "bg/cmo_03",lshutter,400
+`"Sen... sei?"@
+`"... Việc em vừa làm thực sự là vô tâm và tàn nhẫn đến mức không thể tin nổi."@
+` Sensei nhìn tôi với ánh mắt vô cùng sắc lạnh, như thể xuyên thấu tâm can.@
+br
+` …… Tôi không hiểu tại sao,
+` nhưng tôi ý thức được rằng mình vừa làm một chuyện vô cùng sai trái.@
+br
+` Nhìn gương mặt nghiêm khắc lạnh lùng của Sensei cộng thêm cái tát đau điếng vẫn còn bỏng rát trên má, lồng ngực tôi dâng lên một nỗi buồn tủi vô hạn.
+` "…… Em xin lỗi chị."
+\
+` Trước khi kịp nhận ra, nước mắt tôi đã lã chã tuôn rơi.@
+` "Shiki."@
+` [line=5]Bỗng nhiên, một cảm giác ấm áp, dịu dàng bao bọc lấy tấm thân tôi.@
+br
+bg #000000,crossfade,400
+` "…… Không cần phải xin lỗi đâu."@
+br
+` "Đúng là việc em vừa làm rất đáng để chị phải nổi giận, thế nhưng đó thực sự không phải là lỗi của em đâu.@
+` Chuyện này hoàn toàn không phải lỗi của em."@
+` Sensei cúi người xuống và ôm chặt lấy tôi vào lòng.
+\
+`"Nhưng em biết đấy, nếu như không có ai nghiêm khắc chỉ bảo cho em, thì một ngày nào đó em chắc chắn sẽ phạm phải một sai lầm nghiêm trọng mà cả đời này em không bao giờ có thể cứu vãn được nữa."@
+` Đó là lý do tại sao chị không chấp nhận lời xin lỗi hời hợt... Em có thể ghét chị bao nhiêu tùy thích, nếu em muốn.@
+`"... Dạ không, em không bao giờ ghét Sensei đâu ạ."@
+`"... Thật thế sao? Chị rất vui khi nghe em nói vậy... Có lẽ số phận đã định sẵn cho hai chúng ta phải gặp nhau ở nơi này rồi."@
+` Sensei bắt đầu hỏi han kỹ càng về những đường lằn đen đúa mà tôi nhìn thấy.@
+` Khi tôi thành thật kể cho Sensei nghe về những đường nét ngoằn ngoèo đen đúa đáng sợ mà chỉ riêng tôi trông thấy, vòng tay của Sensei lại càng ôm siết lấy tôi chặt hơn.
+\
+`"... Shiki, thứ mà em đang nhìn thấy là thứ vốn dĩ tuyệt đối không bao giờ được phép nhìn thấy bởi bất kỳ ai hay bất kỳ sinh vật nào trên đời này."@
+` Vạn vật trên thế gian này đều có những điểm dễ đứt gãy nhất. Chúng ta, những sinh mệnh rồi sẽ có ngày tan biến, sở dĩ không hoàn hảo chính là vì lẽ đó.@
+` Đôi mắt của em có khả năng nhìn thấu số mệnh của vạn vật... nói cách khác, em đang nhìn thấy trước tương lai của chúng."@
+`"... Nhìn thấy... tương lai ạ?"@
+`"Đúng vậy. Thứ em đang nhìn thấy chính là 'cái chết'."@
+` ... Em không cần phải biết quá nhiều về điều đó đâu.@
+` Nếu một ngày nào đó, em vô tình bước chân vào thế giới đó, những nguyên lý của nó tự khắc sẽ hiển hiện trước mắt em như một điều tất yếu.
+\
+`"... Sensei ơi. Thực sự em chẳng hiểu gì cả..."@
+`"Thế lại tốt đấy, lúc này em chưa cần phải hiểu đâu."@
+` "Điều duy nhất chị muốn em khắc cốt ghi tâm là em tuyệt đối không được cắt những đường lằn đó theo ý thích hay chỉ vì đùa nghịch, em nhớ chưa?"@
+` [line=3]"Nếu em làm vậy, đôi mắt của em sẽ bắt đầu xem nhẹ việc tước đoạt sinh mạng của người khác, và đó chính là điều tồi tệ nhất có thể xảy ra."@
+`"... Dạ vâng. Chị đã dặn thế thì em sẽ không bao giờ làm nữa đâu ạ. Với lại làm thế ngực em cũng đau lắm. ... Em xin lỗi Sensei. Từ giờ em sẽ tuyệt đối không tái phạm nữa."@
+`"..." Ngoan lắm, Shiki. Đừng bao giờ quên cảm giác hối lỗi mà em đã trải qua ngày hôm nay nhé. Chỉ cần giữ vững được tấm lòng này, chị tin chắc em rồi sẽ tìm thấy hạnh phúc thôi."@
+br
+` Sensei rốt cuộc cũng buông tay ra.
+\
+bg "bg/ima_05",crossfade,400
+`"Nhưng Sensei ơi, mỗi khi nhìn thấy những đường lằn đó em lại thấy lo sợ lắm.@
+` Chúng sẽ đứt lìa ngay lập tức chỉ cần em chạm vào đúng không ạ? Vậy thì thế giới xung quanh em đột ngột tan vỡ lúc nào không biết mất."@
+`"Đúng thế thật. Nhưng ít nhất về chuyện đó thì chị có thể giúp em... Xem ra đó cũng chính là lý do chị có mặt ở đây."@
+` Sensei thở dài một tiếng, rồi nở một nụ cười ấm áp với tôi.@
+`"Shiki, ngày mai chị sẽ tặng em một món quà vô cùng đặc biệt. Chị sẽ trả lại cho em cuộc sống yên bình trước đây, cuộc sống mà em vốn có trước khi vụ tai nạn xảy ra."
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/cmo_01",lshutter,800
+` Ngày hôm sau.@
+` Tròn một tuần kể từ lần đầu tiên tôi gặp Sensei, chị ấy xuất hiện trên đồng cỏ với một chiếc vali lớn trên tay.
+\
+`"Đây rồi. Chỉ cần em đeo chiếc kính này vào, những đường nét nguệch ngoạc kỳ dị kia sẽ không còn hiện ra trước mắt em nữa đâu."@
+` Thứ chị ấy trao cho tôi là một chiếc kính gọng tròn.@
+`"Nhưng mắt em có bị cận đâu ạ."@
+`"Cứ đeo vào đi. Kính này không có độ hay gì cả đâu."@
+` Sensei nhẹ nhàng thúc giục tôi đeo kính vào.@
+` Và rồi, bất ngờ thay... [line=3]
+\
+`"Trời đất ơi!@ Không thể tin nổi!@ Cái này tuyệt vời quá, Sensei ơi!@ Em không còn nhìn thấy những vết nứt nguệch ngoạc đáng sợ kia nữa rồi, hoàn toàn biến mất sạch sẽ luôn!"@
+`"Tất nhiên rồi.@ Chị đã phải cướp đi cái gọng kính cản trở Ma nhãn (Ma Nhãn Killer) này từ tay bà chị của chị để chế tạo nên kiệt tác dành riêng cho em đấy!@ Thế nên nhớ mà giữ gìn cẩn thận, làm hỏng là biết tay chị nghe chưa?"@
+`"Dạ vâng! Em sẽ giữ gìn nó thật cẩn thận! Sensei đỉnh quá đi mất! Chị làm cho những đường nét đáng ghét kia biến mất chỉ trong chớp mắt! Y như là phép thuật vậy!"@
+br
+`"Tất nhiên rồi, vì chị là một pháp sư mà."@
+br
+` Sensei mỉm cười đầy tự hào, khụy gối xuống bãi cỏ đối diện tôi.
+\
+`"Nhưng hãy nhớ lấy điều này, Shiki. Những đường lằn đó không hề biến mất. Chỉ là chiếc kính này đang giúp em không nhìn thấy chúng mà thôi. Một khi em tháo kính ra, chúng sẽ lại lập tức hiện ra như cũ."@
+`"[line=3]A... thật thế hả chị?"@
+`"Đúng vậy. Đây là thứ không thể chữa khỏi được. Em chỉ còn cách chấp nhận và tiếp tục sống chung với đôi mắt này thôi."@
+`"... Dạ không, em ghét đôi mắt đáng sợ này lắm. Nếu em lỡ tay làm đứt những đường lằn đó lần nữa, em sẽ thất hứa với Sensei mất."@
+`"Ơ kìa, ý em là em sẽ không bao giờ cắt những đường lằn đó nữa sao? Ngốc nghếch, em có quyền phá bỏ lời hứa đó bất cứ khi nào em muốn cơ mà."@
+`"…… Thật thế ạ? Nhưng chính Sensei đã bảo đó là điều em không nên làm."
+\
+`"Đúng là vậy.@
+` Thế nhưng đó là năng lực của em, Shiki. Nó thuộc về em, và quyền sử dụng thế nào hoàn toàn nằm ở quyết định của riêng em. Không một ai ngoài em có quyền phán xét điều đó cả.@
+` Có điều, trong số muôn vàn năng lực mà một con người có thể sở hữu, năng lực của em thực sự vô cùng đặc biệt.@
+` Nếu em được ban tặng sức mạnh đó, chắc chắn đằng sau nó phải mang một ý nghĩa nào đó.@
+` Thượng đế không bao giờ ban cho chúng ta những sức mạnh vô nghĩa đâu.
+` Có thể nói em được trao cho 'Đôi mắt nhìn thấu Cái Chết' là bởi vì một ngày nào đó trong tương lai, sẽ có lúc em cần đến chúng.@
+` Vì thế, em đừng bao giờ chối bỏ sự tồn tại của chúng."@
+` Sensei cúi người xuống để ánh mắt của hai chúng tôi ngang hàng với nhau.
+\
+bg #000000,lshutter,1500
+bg "bg/cmo_04a",lshutter,1500
+`"Thế nhưng em biết đấy, đó chính là lý do vì sao em tuyệt đối không được phép quên."@
+` Em là một đứa trẻ vô cùng lương thiện và chân thành, Shiki.@
+` "Đôi mắt của em sẽ không bao giờ lầm đường lạc lối, miễn là em vẫn luôn giữ vững bản ngã chân thật như bây giờ."
+\
+`"Tuy nhiên, chị không hề bảo em phải trở thành một bậc thánh nhân vĩ đại gì đâu nhé."@
+` Tôi chỉ muốn em sống thật trung thực với bản thân và trở thành một người đàn ông trưởng thành đúng nghĩa theo cách mà em tin là đúng.@
+` Bởi vì em biết chấp nhận lỗi lầm và biết cúi đầu xin lỗi, nên chị tin chắc rằng mười năm sau, em rồi sẽ trở thành một người đàn ông vô cùng tuyệt vời."@
+br
+` Nói xong câu đó,
+` Sensei đứng dậy và vươn tay cầm lấy chiếc vali của mình.
+\
+`"Tuy nhiên, chị phải dặn trước, ngoại trừ những trường hợp thực sự đặc biệt, em tuyệt đối không được tháo chiếc kính này ra."@
+` Những sự tồn tại đặc biệt sẽ tự khắc thu hút những sự tồn tại đặc biệt khác.@
+` Chỉ khi nào em rơi vào tình cảnh bất khả kháng và không còn lựa chọn nào khác, em mới được tháo kính ra. Và ngay cả khi đó, hãy vô cùng cẩn trọng với cách sử dụng sức mạnh của mình.@
+` Bản thân sức mạnh không hề mang tính xấu xa hay tốt đẹp.@
+br
+` Điều xấu xa hoàn toàn nằm ở tâm địa của kẻ nắm giữ nó. Dùng nó vào việc thiện hay việc ác, tất cả đều phụ thuộc vào sự lựa chọn của riêng em.@
+br
+` [line=3]Chị ấy xách chiếc vali lên.
+` Sensei không nói thêm gì nữa, nhưng tận sâu trong thâm tâm, tôi hiểu rằng thời khắc chia ly rốt cuộc đã đến.
+\
+`"[line=3]Không đâu Sensei. Em không làm được đâu... Một mình em thì làm sao hiểu được những chuyện cao sâu ấy."@
+` Sự thật là, trước khi được gặp Sensei, tôi đã vô cùng sợ hãi. Chính nhờ có Sensei ở bên cạnh chỉ dạy, tôi mới có thể tìm lại được chính mình...
+` "... Một mình em thì không thể..."@
+` Dù có chiếc kính này đi nữa, nếu không có Sensei bên cạnh, em cũng chẳng thể nào làm được..."!@
+`"Đừng nói những lời yếu đuối thế chứ Shiki. Nói những lời dối lòng mà ngay cả bản thân em cũng không tin nổi, chỉ làm người nghe thấy chạnh lòng thôi đấy."@
+` Sensei khẽ nhíu đôi lông mày tỏ ý không hài lòng rồi dùng đầu ngón tay gõ nhẹ vào trán tôi một cái cốc tai tinh nghịch.
+\
+`"[line=3]Bản thân em đã tự biết mình phải làm gì rồi đúng không nào?@
+` Bây giờ em đã hoàn toàn ổn rồi. Thế nên đừng nói những lời ngốc nghếch mà từ bỏ bản ngã tốt đẹp mà em đã tìm lại được nhé. Chỉ có em mới có quyền chọn lựa con đường của chính mình, không một ai khác có thể thay thế em làm điều đó đâu."@
+br
+` Sensei quay người cất bước đi.
+\
+`"Được rồi, tạm biệt em nhé."@
+` Nghe này Shiki. Cuộc đời vốn dĩ không hề dễ dàng; con đường đời của mỗi người đều vô cùng gập ghềnh, đầy rẫy chông gai và cạm bẫy hiểm nguy.@
+` Nhưng em lại sở hữu sức mạnh mạnh mẽ hơn bất kỳ ai để vượt qua tất cả, thế nên hãy nỗ lực hết mình nhé."@
+` Bóng dáng Sensei cứ thế xa dần.@
+` Dù trong lòng buồn bã khôn nguôi, nhưng tôi là học trò của Sensei, thế nên tôi phải tiễn chị ấy đi một cách thật đĩnh đạc.
+\
+`"Dạ vâng. Tạm biệt Sensei!"@
+`"Ngoan lắm... Đúng vậy Shiki. Hãy giữ vững niềm tin đó và luôn sống trung thực với chính bản thân mình nhé."@
+` Mỗi khi gặp phải chuyện khó khăn nan giải, em hãy cứ bình tĩnh và suy nghĩ thật thấu đáo. Được chứ? Chỉ cần làm vậy, giải pháp chắc chắn sẽ hiển hiện trước mắt thôi.@
+` Đừng lo lắng gì cả. Em hoàn toàn có đủ khả năng tự mình vượt qua mà.@
+` Sensei nở nụ cười rạng rỡ đầy ấm áp.
+\
+bg "bg/cmo_04b",crossfade,1500
+wait 2000
+bg "bg/ima_03",lshutter,800
+` Gió vẫn thổi.@
+` Những ngọn cỏ trên đồng khẽ đung đưa theo làn gió rượi.@
+` Bóng dáng Sensei đã khuất xa từ thuở nào rồi.
+br
+`"... Tạm biệt Sensei."@
+br
+` Khoảnh khắc thốt lên những lời ấy, tận sâu trong lòng tôi dấy lên một linh cảm rõ rệt rằng tôi sẽ không bao giờ còn cơ hội được gặp lại chị ấy nữa.@
+` Thứ duy nhất còn sót lại chỉ là những lời dạy dỗ ân cần của chị ấy và chiếc kính gọng tròn bí ẩn này.@
+` Chỉ vỏn vẹn bảy ngày ngắn ngủi, thế nhưng chị ấy đã dạy cho tôi những điều vô giá, quý báu hơn bất kỳ thứ gì trên đời này.
+\
+` Khi đứng trơ trọi một mình giữa đồng cỏ mênh mông, tôi chợt thấy những giọt nước mắt nóng hổi khẽ lăn dài trên khóe mắt.@
+br
+` [line=3]Trời ơi, tôi thật là ngốc nghếch quá đi mất.@
+br
+` Đến tận lúc chia ly, tôi chỉ biết lặp đi lặp lại mỗi câu tạm biệt.@
+` Ngay cả một lời cảm ơn chân thành gửi đến chị ấy, tôi cũng chưa kịp thốt ra thành lời.
+\
+bg #000000,crossfade,1500
+` Tôi xuất viện ngay sau ngày hôm đó.@
+` Thế rồi tôi không bao giờ quay trở lại biệt thự Tohno nữa, mà được gửi đến sống nhờ tại nhà một người họ hàng xa.@
+` Nhưng không sao cả.@
+` Tohno Shiki này rồi sẽ ổn thôi, ngay cả khi chỉ có một mình.@
+` Tôi sẽ bắt đầu một cuộc sống mới bên cạnh những người thân mới.@
+br
+` Và cứ thế, mùa hè năm chín tuổi của Tohno Shiki đã khép lại như vậy đấy.@
+` Mùa thu mới gõ cửa, và tôi tự nhủ bản thân mình đã trưởng thành hơn một chút rồi……
+\
+playstop
+bg #000000,crossfade,1500
+!w2000
+phase "bg/bg_06a",r,ark,01a,1
+br
+br
+br
+` [line=5]Mùa thu.@
+br
+` Những tàn dư cuối cùng của mùa hạ cuối cùng cũng tan biến vào ngày hôm nay, một ngày thứ Năm giữa tháng Mười.@
+` Đây chính là ngày tôi, Tohno Shiki, quay trở lại gia đình ruột thịt của mình. Đã tám năm đằng đẵng trôi qua kể từ ngày tôi cất bước rời đi.
+\
+!w1000
+bg #ffffff,crossfade,800
+bg "bg/ima_03",crossfade,800
+play "*2"
+`"Shiki, nhanh chân lên em.@ Muộn giờ học bây giờ."@
+` Tôi nghe thấy giọng nói ấm áp của dì Keiko vọng ra từ phía nhà bếp.@
+br
+`"Dạ vâng, con đi ngay đây ạ!" Tôi dõng dạc đáp lại.@
+br
+` Tôi đứng lặng im, khép hai tay lại hướng về phía căn phòng đã gắn bó với mình suốt tám năm qua tại gia đình Arima.@
+br
+`"Con xin phép đi ạ. Cảm ơn cả nhà đã cưu mang và chăm sóc con suốt những năm tháng qua."@
+` *Nhấp nháy.* Tôi khẽ nhắm mắt, cúi đầu thành kính tạ ơn.@
+` Sau đó, xách chiếc ba lô đơn sơ duy nhất bên mình, tôi quay người cất bước rời khỏi căn phòng vốn đã quá đỗi quen thuộc thân thương.
+\
+bg "bg/bg_57",lshutter,800
+` Tôi bước qua cánh cửa chính của nhà Arima rồi quay người lại đối diện với ngôi nhà.@
+`"Shiki này."@
+` Dì Keiko, người ra tận hiên cửa để tiễn tôi, khẽ gọi tên tôi với giọng đượm buồn.@
+`"Chào tạm biệt dì ạ. Dì và dượng nhớ giữ gìn sức khỏe nhé."@
+` Điều đó thật là kỳ lạ. Tôi biết mình sẽ không còn quay lại đây sống nữa.@
+` Tôi sẽ không bao giờ bước qua cánh cửa này với tư cách là một thành viên của gia đình Arima nữa.
+\
+`"Con cảm ơn dì dượng vì đã cưu mang con suốt thời gian qua. Cho con gửi lời chào và cảm ơn tới dượng Fumio nữa nhé ạ."@
+` Dì Keiko khẽ gật đầu.@
+` [line=3]Trải qua tám năm dài đằng đẵng, ánh mắt của người phụ nữ đã nuôi nấng tôi chẳng khác nào mẹ ruột bỗng dâng lên một nỗi buồn sâu thẳm.@
+` Tôi chưa từng thấy dì có biểu cảm buồn bã như thế bao giờ.@
+`"Dì biết cuộc sống sắp tới ở biệt thự Tohno chắc chắn sẽ vô cùng khó khăn đối với con. Xin con hãy tự bảo trọng nhé. Thể chất con vốn dĩ yếu ớt; tuyệt đối đừng có cố gắng quá sức đấy."@
+`"Dì yên tâm, con ổn mà. Sau tám năm, giờ con khỏe mạnh chẳng kém ai đâu. Thực ra con dẻo dai hơn vẻ bề ngoài nhiều lắm."@
+`"Có lẽ là vậy thật... Thế nhưng gia tộc Tohno hoàn toàn khác biệt so với những gia đình bình thường. Dì chỉ lo họ sẽ là gánh nặng quá sức đối với con thôi."
+\
+` Tôi hoàn toàn thấu hiểu nỗi lo lắng của dì Keiko.@
+` Ngôi nhà mà tôi sắp chuyển tới sống từ nay về sau là một căn biệt thự cổ kính rộng lớn, một sự tồn tại cực kỳ hiếm thấy trong thời đại ngày nay.@
+` Không chỉ sở hữu cơ ngơi nguy nga tráng lệ, gia tộc Tohno còn là một gia tộc vô cùng danh giá và quyền thế. Nghe nói họ nắm giữ những cổ phần đầu tư khổng lồ trong rất nhiều tập đoàn lớn.@
+` Trên hết, đó mới chính là ngôi nhà ruột thịt của tôi. Gia đình Arima chỉ là nhận nuôi dưỡng tôi theo thỏa thuận mà thôi.@
+`"Thế nhưng, mọi chuyện rốt cuộc đã được quyết định rồi."@
+` Vâng, đó là một điều tất yếu đã được định đoạt sẵn.@
+`"Thôi, con xin phép đi học đây ạ. Một lần nữa con xin chân thành cảm ơn dì dượng vì tất cả mọi việc."@
+` Tôi cúi đầu lặp lại những lời cảm tạ ấy lần cuối cùng, rồi quay lưng bước đi, rời xa gia đình ấm áp đã gắn bó suốt tám năm ròng rã.
+\
+bg #ffffff,crossfade,800
+bg "bg/ima_05",crossfade,800
+` …… *thở dài*@
+` Rời khỏi nhà Arima, tôi lững thững rảo bước đến trường với một nỗi niềm trĩu nặng trong lòng.
+\
+br
+` [line=3]Tám năm trước.@
+` Tôi đã may mắn sống sót thần kỳ sau một vết thương chí mạng tưởng chừng chắc chắn phải chết. Sau đó, tôi lập tức được gửi sang làm con nuôi tại gia đình Arima, một nhánh phụ của gia tộc Tohno.@
+` Tôi sống cùng cha ruột của mình tại biệt thự Tohno cho đến năm chín tuổi, và tám năm tiếp theo sống bình yên cùng gia đình Arima, cho đến nay khi đang là học sinh năm hai trung học.
+\
+` Tôi đã trải qua một cuộc sống vô cùng bình dị với tư cách là một đứa con nuôi.@
+` Kể từ ngày được gặp Sensei [line=3]những hiện tượng kỳ dị mà chị ấy cảnh báo trước lúc chia tay chưa bao giờ tái diễn nữa, và chiếc kính bí ẩn kia cũng giúp che giấu hoàn toàn những "đường lằn" đáng sợ khỏi tầm mắt của tôi, miễn là tôi luôn đeo nó trên mặt.@
+` Cuộc đời của Tohno Shiki cứ thế trôi qua trong một nhịp điệu vô cùng êm ả và thanh bình.@
+` Nó nhẹ nhàng lướt qua...
+` ... cho đến tận vài ngày trước đây.
+` Cái ngày mà người đứng đầu hiện tại của gia tộc Tohno đột ngột gửi tối hậu thư tới cho tôi.
+` "Hãy lập tức quay trở lại biệt thự Tohno."@
+` Gia đình vốn dĩ suốt tám năm qua luôn lạnh lùng ruồng bỏ tôi.
+\
+bg "bg/bg_23a",lshutter,800
+` *thở dài*@
+` Tôi lại không kìm được tiếng thở dài ngao ngán.@
+` Nói một cách thẳng thắn, ngay từ trước khi vụ tai nạn xảy ra, tôi đã chẳng tài nào hòa hợp nổi với bầu không khí ngột ngạt của gia tộc Tohno rồi.@
+` Có lẽ ngay từ khi còn nhỏ, tôi đã cực kỳ ghét sự kiểu cách lễ nghi gò bó mà họ ép buộc.@
+` Đó cũng chính là lý do vì sao hồi đó tôi chỉ im lặng chấp nhận khi người cha nghiêm khắc tuyên bố sẽ gửi tôi sang sống nhờ tại nhà Arima.
+\
+` Tôi nghĩ kết cục đó trái lại lại là một điều may mắn.@
+` Tôi vô cùng hòa hợp với cha mẹ nuôi của mình, dì Keiko và dượng Fumio. Đối với tôi, họ chẳng khác nào cha mẹ ruột thịt vậy.@
+br
+` Được sống một cuộc đời bình thường trong tình yêu thương ấm áp của gia đình Arima như một đứa con trai thực thụ chính là ước nguyện lớn nhất của tôi. Tôi chưa bao giờ hối hận về khoảng thời gian sống tại đó cả.
+\
+` ... Thế nhưng, vẫn còn một điều duy nhất khiến tôi bận lòng.@
+` Akiha, cô em gái ruột nhỏ hơn tôi một tuổi, vẫn phải ở lại biệt thự Tohno suốt chừng ấy năm.
+\
+`"Akiha... chắc là bây giờ em ấy ghét mình lắm."@
+` Điều đó cũng là lẽ tự nhiên thôi.@
+` Em ấy đã phải cô độc sống trong căn biệt thự thâm u lạnh lẽo đó một mình, dưới sự giám sát nghiêm khắc liên tục của người cha độc đoán kia.@
+` Tôi hoàn toàn có thể hình dung ra Akiha sẽ căm ghét người anh trai đã ích kỷ chạy trốn như tôi đến nhường nào.@
+` Tôi lại buông một tiếng thở dài nặng nề.@
+` Nhưng biết làm sao được bây giờ.@
+` Chuyện gì đến rồi cũng phải đến.@
+` Hôm nay, sau khi tiếng chuông tan trường vang lên, tôi sẽ phải quay trở việc nơi mà mình thực sự thuộc về. Chỉ có ông trời mới biết điều gì đang chờ đón tôi ở phía trước.
+\
+`"Nhưng trước mắt, mình có việc cấp bách hơn cần phải giải quyết đã."@
+` Đồng hồ đeo tay đã chỉ 7 giờ 45 phút.@
+` Giờ điểm danh buổi sáng bắt đầu vào đúng 8 giờ, và bất kỳ ai không có mặt trong lớp trước giờ đó đều sẽ bị tính là đi học muộn.@
+` Cầm chặt quai ba lô, tôi rảo bước chạy thật nhanh hướng về phía trường học.
+\
+bg #000000,lcartain,800
+bg "bg/bg_05a",lcartain,800
+` Một hơi thở dốc... hai hơi... rồi ba hơi.@
+` Tôi đã tới được trường chỉ trong vòng chưa đầy mười phút.@
+` Tôi lẻn vào từ phía cổng sau trường học, một tốc độ chạy nước rút đáng kinh ngạc mà nếu các tuyển trạch viên điền kinh phát hiện ra, chắc chắn họ sẽ lao tới chèo kéo tôi gia nhập đội tuyển ngay lập tức.@
+`"... Hôm nay cũng là ngày cuối cùng mình đi học qua lối cổng sau này rồi."@
+` Nhà Arima và biệt thự Tohno nằm ở hai hướng hoàn toàn đối lập so với trường học; nhà Arima nằm ở phía sau trường, còn biệt thự Tohno lại nằm ở phía trước mặt.@
+` Rõ ràng, từ ngày mai trở đi, tôi sẽ phải đi học qua lối cổng chính.
+\
+`"Mà thực ra, mình lại cực kỳ thích bầu không khí vắng lặng cô tịch ở nơi này."@
+` Vì lý do nào đó, cổng sau trường chúng tôi vô cùng vắng vẻ, chẳng mấy ai thích qua lại.@
+` Chỉ có khoảng mười học sinh, bao gồm cả tôi, là thường xuyên sử dụng lối đi này. Nó vô cùng yên tĩnh và hầu như không một bóng người qua lại dù là ban ngày hay ban đêm.
+br
+` *Cộc! Cộc! Cộc!* Tiếng động nhịp nhàng khẽ vang lên.@
+br
+` ... Đúng như tôi đã nói, nơi này vô cùng tĩnh lặng.@
+` Tiếng gõ búa đĩnh đạc hòa lẫn với tiếng chim hót líu lo xa xăm vọng lại bên tai tôi.
+`"Tiếng gõ búa... Hửm?"
+\
+` *Cộc! Cộc! Cốp!*@
+br
+` Một âm thanh có phần nhịp điệu khẽ phát ra từ một góc của khoảng sân trong.
+` "... ""
+` Ai đang làm gì thế nhỉ?@
+` Chỉ còn chưa đầy mười phút nữa là đến giờ học rồi.@
+` Tôi không có thời gian để dừng chân tò mò tìm hiểu, thế nhưng trong lòng lại không khỏi hiếu kỳ vô cùng.@
+` Đúng lúc này[line=3]
+\
+playstop

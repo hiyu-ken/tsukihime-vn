@@ -1,0 +1,103 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` ... Đúng vậy. Em ấy thực chất đã luôn tận tình lo lắng chăm sóc cho sức khỏe của tôi suốt từ ngày hôm qua đến giờ rồi. Thế nên dẫu bấy giờ bản thân có thời gian rảnh rỗi lười nhác đi chăng nữa, tôi thiết nghĩ mình nên ra ngoài đi tìm để giúp đỡ Hisui một tay.
+\
+bg #000000,lshutter,400
+bg "bg/bg_46b",lshutter,800
+play "*1"
+` [line=3]Vậy thì.@
+` Hisui lúc nãy có cất lời thông báo là em ấy bắt buộc phải đi dọn dẹp vệ sinh cho toàn bộ căn biệt thự này cơ mà, thế nhưng bấy giờ em ấy đang ở đâu thế nhỉ?@
+br
+bg #000000,lshutter,400
+bg "bg/bg_33b",lshutter,400
+` Tôi chậm rãi đi xuống dưới tiền sảnh.@
+` Dọc hành lang tầng hai hoàn toàn không hề có sự hiện diện của em ấy, thế thì rất có thể em ấy bấy giờ đang bận dọn dẹp ở phòng khách chăng?@
+br
+bg "bg/bg_34c",lshutter,800
+` ... Không có ai ở đây cả.
+\
+br
+bg "bg/bg_35",lshutter,800
+` ... Cũng không hề thấy em ấy ở đây luôn.@
+br
+bg "bg/bg_46b",lshutter,800
+` ... Nơi này cũng hoàn toàn trống không.@
+br
+bg #000000,lshutter,800
+` ... Quả thực tuyệt đối không có dẫu chỉ một bóng người ở đây.
+\
+bg "bg/bg_33b",lshutter,800
+` Tôi lùng sục khắp nơi nhưng em ấy hoàn toàn không có mặt ở bất kỳ căn phòng nào dưới tầng một cả.@
+` Những địa điểm duy nhất tôi chưa đặt chân tới bấy giờ chỉ còn có căn phòng giải trí bị khóa kín, các phòng dành riêng cho khách khứa, và căn phòng làm việc rộng lớn nơi Akiha bấy giờ đang bận rộn làm việc mà thôi.@
+`"... Tôi đoán bấy giờ em ấy chắc hẳn đang dọn dẹp vệ sinh ở tầng hai rồi thì phải."@
+` Căn biệt thự này vốn dĩ vô cùng rộng lớn và nguy nga, thế nên chắc chắn vẫn còn rất nhiều ngóc ngách mà tôi chưa từng tìm kiếm tới.@
+` Tôi khẽ chấn chỉnh lại tinh thần đầy vững vàng rồi bắt đầu sải bước nhanh chân leo lên các bậc cầu thang.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46b",lcartain,800
+playstop
+` Bước chân lên tới tầng hai, tôi lẳng lặng dõi mắt lướt nhìn dọc theo dãy hành lang rộng lớn.@
+` Và rồi ngay sau đó,
+` tôi bàng hoàng bắt gặp hình bóng của Hisui bấy giờ đang đứng lặng im sừng sững ngay bên cạnh khung cửa sổ lớn ở phía dãy hành lang phía đông của căn biệt thự.
+\
+bg #000000,lcartain,800
+bg "event/his_e04",crossfade,800
+play "*9"
+`"[line=2]Hisui..."@
+` Lời cất lên bỗng chốc nghẹn ứ lại ngay nơi cổ họng tôi bấy giờ.@
+` Đứng sừng sững ngay chính giữa dãy hành lang tối tăm tĩnh lặng giữa đêm đông,@
+` Hisui lặng lẽ đứng bất động phăng phắc dưới làn ánh hoàng hôn nhạt nhòa soi rọi, nửa thân hình chập chùng ẩn hiện giữa vệt sáng tối đan xen.
+\
+`"[line=6]"@
+` Bản thân tôi bấy giờ... thực sự hoàn toàn không thể thốt lên nổi dẫu chỉ một lời.@
+` Khí chất toát ra xung quanh người em ấy bấy giờ bỗng chốc mang lại cho tôi một cảm giác... vô cùng nguy hiểm và huyền bí.@
+br
+` Hisui cứ lặng lẽ ẩn mình sừng sững trong góc tối tịch mịch của căn biệt thự kiểu phương Tây cổ kính này.@
+` Diện mạo xinh xắn lai Tây thanh cao của em ấy bấy giờ trông thực sự vô cùng kiều diễm và cuốn hút, thế nhưng đồng thời nó lại vô tình dấy lên một cơn ớn lạnh buốt giá chạy dọc khắp sống lưng tôi bấy giờ, hệt như thể bản thân đang được diện kiến một bóng ma huyền bí hiện hình vậy.@
+br
+` Em ấy dứt khoát tuyệt đối không hề nhúc nhích dẫu chỉ một đầu ngón tay, chỉ lặng lẽ sừng sững đứng phăng phắc như thế, đôi mắt xanh trong vắt lặng lờ hướng ra phía ngoài khung cửa sổ lớn.@
+`"[line=6]"@
+` Chính tại vị trí khung cửa sổ lớn đó.@
+` Phải chăng đây chính là nơi mà em ấy thuở thơ bé vẫn luôn lặng lẽ sừng sững đứng nhìn ngóng hai đứa chúng tôi chơi đùa ngoài sân vườn năm xưa?
+\
+`"[line=4]Hisui..."@
+` Bản thân tôi bấy giờ thực sự hoàn toàn bất lực chẳng thể làm gì ngoài việc lặng người đứng ngắm nhìn hình bóng em ấy một cách vô cùng mê hoặc và say đắm.@
+` Cảm giác chấn động mãnh liệt dâng trào khiến tôi hoàn toàn không thể cất lời nói chuyện rõ ràng, thậm chí đến cả việc chớp mắt nhẹ nhàng tôi cũng không thể nổi. Tôi chỉ biết đứng yên bất động, đôi mắt chăm chú khóa chặt vào hình bóng u uẩn của em ấy.
+\
+` [line=4]Và rồi ngay sau đó.@
+` Đôi mắt trong vắt phẳng lặng hệt như đôi mắt của một cô búp bê pha lê thượng hạng của em ấy bỗng chốc xoay nhẹ, lẳng lặng hướng thẳng về phía tôi.
+\
+`"Dạ thưa cậu chủ Shiki, cậu chủ bấy giờ đang có điều gì cần em hầu hạ sao ạ?"@
+`"[line=3]À... dạ không có gì đâu em, tôi chỉ là... ừm... đột ngột đi ngang qua đây thôi mà..."@
+`"Dạ?"@
+` Hisui khẽ nghiêng đầu nhỏ nhắn tỏ ý tò mò đầy đáng yêu.@
+` Cử chỉ tự nhiên, ngây ngô đó của em ấy bỗng chốc hệt như một phép màu kỳ diệu cắt đứt hoàn toàn luồng bùa chú huyền bí đang điên cuồng vây hãm lấy tâm trí tôi lúc nãy.
+\
+`"Thực ra là vì tôi bấy giờ đang có chút thời gian rảnh rỗi nên muốn đi tìm em để xem có công việc gì khả dĩ có thể giúp đỡ em một tay dọn dẹp biệt thự hay không ấy mà. Đi tìm em khắp nơi dưới tầng một mãi mà chẳng thấy đâu, hóa ra em lại đang ở trên này."@
+`"Dạ em đã thấu hiểu rõ rồi ạ. Thế nhưng thưa cậu chủ Shiki, cậu chủ tuyệt đối không cần phải cất công làm những việc nặng nhọc đó đâu ạ. Xin cậu chủ hãy vui lòng quay trở về phòng ngủ nghỉ ngơi tĩnh dưỡng đi ạ."@
+`"Ừm... ... ... "@
+` Đúng như tôi dự tính từ trước, Hisui dứt khoát tuyệt đối không bao giờ chịu cho phép tôi đụng tay đụng chân vào bất kỳ công việc dọn dẹp nào cả.
+\
+`"Thế nhưng Hisui này, tôi lúc này thực sự hoàn toàn không có bất kỳ công việc nào để làm cả.@ Việc cứ ngồi lười nhác bất động một mình trong phòng ngủ thực sự khiến tôi cảm thấy vô cùng bứt rứt khó chịu, thế nên tôi mới muốn phụ giúp em dọn dẹp dẫu chỉ một việc nhỏ nhặt nhất thôi mà."@
+`"Dạ cậu chủ Shiki dẫu có cất lời như thế đi chăng nữa, thì thực chất bấy giờ trong biệt thự cũng hoàn toàn không còn bất kỳ công việc dọn dẹp vệ sinh nào cần cậu chủ hỗ trợ nữa đâu ạ.@ Công việc duy nhất bấy giờ còn sót lại chỉ là thu dọn và sắp xếp lại phòng ngủ riêng của tiểu thư Akiha mà thôi ạ.@
+` Mà theo gia quy nghiêm khắc của gia tộc Tohno, toàn bộ nam giới tuyệt đối bị nghiêm cấm cất bước bước chân vào phòng ngủ của tiểu thư Akiha ạ.@ Dẫu cho người đó có là cậu chủ Shiki đi chăng nữa thì cũng tuyệt đối không được phép phá lệ đâu ạ."@
+`"Hự... ... ... ... ... ... "@
+` Vâng, lời giải thích của em ấy dứt khoát hoàn toàn chính xác và hợp tình hợp lý rồi.@
+` ... Thế nhưng cách cất lời thẳng thắn của em ấy thực sự có hơi phũ phàng quá mức rồi đấy nhé. Em dứt khoát tuyệt đối không cần phải nhấn mạnh cái vế cuối cùng lạnh lùng đến nhường ấy đâu Hisui ơi.
+\
+`"Dạ xin cậu chủ hãy lượng thứ cho em, em bắt buộc phải nhanh chóng đi hoàn thành nhiệm vụ dọn dẹp của mình đây ạ."@
+bg "bg/bg_46b",crossfade,800
+` Tiếng bước chân nhẹ nhàng không một tiếng động của em ấy khẽ vang lên rồi biến mất hoàn toàn sau khi em ấy mở cửa bước vào phòng ngủ của Akiha.@
+`"... Khổ quá đi mất."@
+` Bản thân tôi dĩ nhiên dứt khoát tuyệt đối không thể tự ý bước chân vào phòng ngủ riêng của một thiếu nữ chỉ vì bản thân đang rảnh rỗi quá mức được rồi.@
+`"... Thôi được rồi, xem ra phương án duy nhất bấy giờ của tôi chính là ngoan ngoãn đi về phòng ngủ của mình thôi."@
+` Tôi khẽ quay gót chuẩn bị bước đi.@
+` Thế nhưng ngay trước khi quay lưng rời đi, linh tính tò mò trỗi dậy bỗng chốc khiến tôi không thể kìm lòng dõi mắt nhìn về phía khung cửa sổ lớn mà Hisui đang lặng lẽ đứng ngắm nhìn lúc nãy.@
+`"[line=3]Ơ kìa... Người đang lúi húi ngoài sân vườn kia chẳng phải là Kohaku-san sao em?"@
+` Đứng từ vị trí khung cửa sổ lớn này, tôi quả thực hoàn toàn có thể phóng tầm mắt bao quát toàn bộ khoảng sân vườn rộng lớn phía dưới biệt thự.@
+` Shiki thầm hỏi liệu Hisui bấy giờ có đang lặng lẽ đứng nhìn ngó ra khoảng sân trong rộng lớn từ khung cửa sổ này hay không, giống hệt với thói quen lặng lẽ ngắm nhìn hai đứa chúng tôi chơi đùa thuở thơ bé năm xưa của em ấy vậy...?
+\
+bg #000000,crossfade,800
+playstop
+!w2000

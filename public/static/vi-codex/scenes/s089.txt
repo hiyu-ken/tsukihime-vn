@@ -1,0 +1,57 @@
+bg "bg/bg_09b",notrans,0
+play "*3"
+ld c,"tachi/cel_t08",crossfade,400
+` "Eh? À, ừ… Tôi chỉ hơi ngạc nhiên vì cậu bình tĩnh như vậy về tất cả mọi chuyện, Tohno-kun."@
+` "Thật à?@ Chà, gia đình tôi rất nghiêm khắc, nên tôi quen với những điều này.@ Quan trọng hơn, Senpai, cậu có muốn nói chuyện gì với tôi không?"
+\
+ld c,"tachi/cel_t03",crossfade,400
+` "Vâng. Tôi chưa kịp cảm ơn cậu về sáng nay, vì vậy tôi nghĩ mình sẽ chăm sóc cậu một chút như thế này."@
+` Senpai đưa ra tuyên bố không thể tin được với nụ cười dịu dàng.
+\
+` "T-chăm sóc tôi? Không phải vậy mà dùng từ 'chăm sóc' trong tiếng Nhật, Senpai."@
+` "Ồ, thật à? Cậu có nghĩa là mọi người không nói 'chăm sóc' khi họ thể hiện lòng hiếu khách để cảm ơn ai?@
+` [line=3]Không phải. Tôi nghĩ nó không hẳn là sai, nhưng cũng không hoàn toàn đúng."@
+` "Ừm. Những cụm từ liên quan đến phép lịch sự thật khó nhằn, phải không? Tôi nghĩ mình nên tránh dùng chúng nếu chưa quen thuộc."@
+` Senpai cười ngượng nghịu.
+\
+` "Không đâu, không phải. Họ nói rằng lễ phép xuất phát từ trái tim, sau cùng. Mãi như thế, chỉ là lỗi nhỏ bé."@
+cl c,crossfade,400
+` Mắt Senpai chợt nhìn về phía tôi.@
+` …… Cái ánh nhìn của cô thật nghiêm túc đến nỗi tôi cảm thấy mình như một loài động vật hiếm hoi trong sở thú.
+\
+` "Ừm…… Senpai? Tôi vừa nói điều gì thô lỗ không?@
+ld c,"tachi/cel_t07a",lshutter,400
+` ………………@
+` Senpai tiếp tục nhìn tôi.@
+` "Ừm……… Senpai?@
+` Bởi một lý do nào đó, tôi cảm thấy vô cùng xấu hổ.@
+` [line=6]Thật sự rất hợp với bạn, Tohno-kun. Trẻ hơn mà lại bình tĩnh hơn tôi… Bạn thật ngang ngược.@
+` Senpai liếc nhìn tôi.@
+` …… Tôi không hiểu cách suy nghĩ của cô chút nào.
+\
+` [line=6]Tôi xin lỗi. Nó hơi kiêu ngạo khi tôi nói như vậy.@
+ld c,"tachi/cel_t08",crossfade,400
+` "Vâng, thật ngang ngược đến nỗi tôi xúc động."@
+` Cô hạ vai với một tiếng thở dài và uống trà của mình.@
+ld c,"tachi/cel_t03",crossfade,400
+` "Tôi đã tò mò về bạn, Tohno-kun. Vui lòng, hãy nói chuyện với tôi. Có thể là bất cứ điều gì."@
+` Senpai chỉnh lại tư thế, với thái độ như một người thầy nhìn học trò của mình.@
+` …………@
+` Dường như tôi không thể từ chối.
+\
+` "…… Tốt, nhưng nó sẽ không thú vị lắm nếu chúng ta chỉ nói về tôi, Senpai."@
+` Senpai đáp lại bằng một nụ cười.@
+` …… Tôi không có lựa chọn nào.@
+` [line=6]Không giống tôi, nhưng tôi đoán tôi sẽ nói chuyện với cô ấy về trường.
+\
+bg #000000,lshutter,800
+!w1000
+` Cuối cùng, Senpai rất vui khi lắng nghe bất cứ điều gì tôi nói.@
+` Tôi ngạc nhiên khi thấy cô ấy nổi giận đến vậy khi chúng ta đang nói về trường trung học. Vụ dường như Senpai chưa bao giờ đi du lịch học đường.@
+` "Nghe thật tuyệt, mọi người đều đi du lịch cùng nhau," cô ấy nói, mắt sáng lên. Đó là một cảnh tượng khá ấn tượng.@
+br
+` Bất kể sao, tôi đã duy trì cuộc trò chuyện một chiều trong một giờ, nhưng nó khiến tôi mệt mỏi hơn nhiều.@
+` Với sự cho phép của Senpai, tôi quyết định về nhà.
+\
+!w1000
+playstop

@@ -1,0 +1,254 @@
+play "*9"
+br
+br
+br
+br
+br
+br
+br
+` [line=7]Bỗng nhiên, tôi giật mình tỉnh giấc.
+\
+br
+br
+br
+br
+br
+`[center]Đêm tối đen như mực.@
+`[center]Trong nhà không còn một ai khác.
+\
+br
+br
+br
+br
+br
+br
+`[center]Một mình cô độc giữa màn đêm, thật đáng sợ làm sao.@
+`[center]Thế là, để đi tìm mọi người, tôi bước chân ra vườn.
+\
+bg "bg/ima_02",crossfade,800
+!w1000
+br
+br
+br
+br
+br
+`[center]Khu vườn của biệt thự nhà tôi rộng mênh mông, ngợp một màu cỏ xanh.@
+`[center]Bao quanh nơi đây là một khu rừng rậm rạp, thâm u.@
+`[center]Những tán cây đan xen che khuất hoàn toàn ánh sáng,
+`[center]tựa như một bức rèm khổng lồ bủa vây.
+\
+br
+br
+br
+br
+br
+`[center]Hệt như một sân khấu trong một nhà hát nào đó.@
+`[center]Bức rèm cây cối khẽ mở ra, xào xạc.@
+`[center]Lòng tôi rộn ràng những háo hức,
+`[center]chờ đợi giây phút vở kịch lớn mở màn.
+\
+br
+br
+br
+br
+br
+`[center]Từ nơi xa xăm kia, có tiếng vang vọng vọng lại,
+`[center]vượt qua bức rèm cây sẫm đen.@
+`[center]Sâu bên trong khu rừng ấy,
+`[center]là âm thanh của mọi người đang vui vẻ đùa vui.
+\
+br
+br
+br
+br
+br
+br
+`[center]Nhưng tấm màn che vẫn chưa hé mở.@
+`[center]Không thể kiềm chế bản thân thêm được nữa,
+`[center]tôi lạc bước dấn thân vào bóng tối của khu rừng.
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+`[center]Bóng tối bủa vây lấy tôi…
+`[center]Một màu đen kịt đến ngạt thở…
+`[center]Ngay cả những tia sáng dịu dàng của vầng trăng cũng chẳng thể chạm tới nơi sâu thẳm này.
+\
+br
+br
+br
+br
+br
+`[center]Bầu không khí thật lạnh lẽo…
+`[center]Cái lạnh giá buốt thấu xương như mùa đông,
+`[center]như muốn đóng băng cả đôi mắt tôi.
+\
+br
+br
+br
+br
+br
+`[center]Trong một khoảnh khắc ngắn ngủi, em ngỡ như nghe thấy tiếng ai đó gọi tên mình,
+`[center]thế nên em lại càng bước sâu hơn vào rừng.
+\
+br
+br
+br
+br
+br
+`[center]Vượt qua bức màn cây cối rậm rạp,
+`[center]em nhìn thấy mọi người đang đợi mình ở khoảng trống giữa rừng.@
+`[center]Thế nhưng, có điều gì đó không ổn…@
+`[center]Mọi người đều đang nằm la liệt trên mặt đất…
+`[center]…… Tất cả đều nằm trên mặt đất…… vỡ vụn thành từng mảnh…
+\
+br
+br
+br
+br
+br
+br
+br
+`[center]Khoảng đất trống ấy nhuốm một màu đỏ tươi.
+\
+br
+br
+br
+[line=3]br
+\
+br
+br
+br
+br
+br
+br
+[center]br
+`[center]Một người lạ đang tiến lại gần.@
+\
+br
+br
+br
+br
+br
+[line=3]br
+\
+br
+br
+br
+br
+br
+br
+[center]br
+`[center]Thế nhưng, có một người khác, một người em không quen biết… đã bước ra chắn trước mặt em,
+\
+br
+br
+br
+br
+br
+br
+br
+[line=3]br
+\
+bg "bg/ima_13b",crossfade,400
+br
+br
+br
+br
+br
+[center]br
+`[center]Một tiếng "bộp" vang lên.@
+`[center]Một thứ gì đó ấm nóng và ẩm ướt bắn thẳng vào mặt em.@
+`[center]Một màu đỏ…
+\
+br
+br
+br
+br
+br
+[center]br
+`[center]Người bị xé xác ấy,
+`[center]người mà em vẫn gọi là "mẹ",
+\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+[line=5]br
+\
+br
+br
+br
+br
+br
+br
+[center]br
+`[center]Nhưng cảnh tượng ấy mới tàn nhẫn làm sao…
+\
+bg #000000,crossfade,1500
+br
+br
+br
+br
+br
+br
+[center]br
+`[center]Sắc đỏ ấm áp làm mờ đi tầm mắt em.@
+`[center]Thấm vào sâu trong đôi mắt.@
+`[center]Thế nhưng, điều đó chẳng mảy may làm em bận tâm.@
+`[center]Vầng trăng cô độc treo lơ lửng tít trên cao,
+\
+bg "bg/ima_01",crossfade,1500
+br
+br
+br
+br
+br
+br
+[center]br
+`[center]Thật kỳ lạ.@
+\
+br
+br
+br
+br
+br
+br
+br
+[line=3]br
+\
+br
+br
+br
+br
+br
+br
+br
+[center][line=3]br
+\
+br
+br
+br
+br
+br
+br
+br
+[center]br
+\
+br
+br
+br
+br
+br
+br
+br
+[center][line=6][line=4]br
+\
+playstop

@@ -1,0 +1,85 @@
+bg #000000,lcartain,800
+play "*3"
+!w500
+bg "bg/bg_50",lcartain,800
+` Nhà ăn tràn người như thường lệ. Dòng người xếp hàng chờ đợi thức ăn dài ra.@
+` Liếc nhìn những sinh viên đang cầm vé ăn trưa, tôi ngồi vào bàn của Arihiko.
+\
+` "Nói đi, Arihiko, ai là khách mời đặc biệt này?"@
+` "Uhhh… kỳ lạ. Chúng ta đã hẹn gặp ở đây trong nhà ăn. Chờ tí, tôi sẽ đi xem thử."@
+` Arihiko chạy đi, để lại bát udon cà ri của mình.@
+` ……@
+` Tôi chọn ăn udon Chikara.@
+` Tôi hy vọng anh ta sẽ trở lại trước khi mì bị nguội.
+\
+bg #000000,lshutter,800
+!w500
+bg "bg/bg_50",lcartain,800
+ld c,"tachi/ari_t03",lshutter,800
+` "Không được. Dường như Senpai đã đi đâu đó."@
+` "Ừm? Khách của bạn là một senpai?"@
+` "Yeah, cô ấy là một cô gái thật tuyệt. Tôi đã theo đuổi cô ấy trong vài ngày qua, và cuối cùng tôi cũng thuyết phục được cô ấy ăn trưa với tôi. Vụ này cô ấy muốn cảm ơn ai đó nên đang chạy khắp trường tìm người."@
+` *thở dài*@
+` "…… Cô ấy dường như là một người bận rộn."@
+` "Yeah. Cô ấy giống như một trong những Penny Racers vậy."@
+` Với vẻ mặt tiếc nuối, Arihiko chia đôi đũa của mình.
+\
+` "Tốt thôi, tôi đoán không thể nào khác. Bất cứ điều gì, itadakimasu."@
+` "Vâng, itadakimasu."@
+cl c,crossfade,400
+` Chúng tôi bắt đầu ăn udon.@
+br
+!w1000
+` ……  Penny Racers là gì vậy?
+\
+bg #000000,lshutter,400
+bg "bg/bg_50",lshutter,400
+` "Vậy lý do thực sự là gì?"@
+ld c,"tachi/ari_t04",crossfade,400
+` Ê? Cậu có nghĩa là gì?@
+` Lý do cậu đến trường sớm hôm nay. Cậu không phải người thường dậy sớm chỉ vì muốn đến trường sớm đâu, Arihiko-kun.@
+` Tôi hỏi Arihiko khi ngồi cạnh cậu, ăn mì udon tăng sức.@
+` Hmmm.@
+` Arihiko trả lời không chắc chắn khi gặm nhấm súp của mình.@
+` Cậu có về nhà thật của mình hôm nay không, Tohno?@
+` Ừ, tôi sẽ… chờ, tôi đã kể chuyện này cho cậu chưa?@
+` Không. Tôi chỉ nghe từ cô giáo.@
+` Arihiko tiếp tục ăn mì udon cà ri mà không nhìn về phía tôi.
+\
+` Tôi nghĩ, 'Có lẽ Tohno sẽ rất buồn!' nên tôi quyết định kiểm tra xem.@
+` …… Tôi hiểu. Và kết luận của cậu?@
+` Rất thất vọng. Không đáng để thức dậy sớm đâu.@
+cl c,crossfade,400
+` Cậu thật sự có quá nhiều thời gian rảnh, Arihiko,@
+` …… Đó là kiểu người Arihiko.@
+` Hôm nay là ngày tôi trở về nhà gia đình thật của mình, quay lại từ ngôi nhà của gia đình nuôi đã chăm sóc tôi.@
+` Arihiko chắc chắn đã nghe được tin đồn đâu đó và đến trường sớm vì lo lắng cho tôi.
+\
+` …… Arihiko, tôi nghĩ vẻ ngoài của cậu làm hại cậu. Cậu thực sự là người có nhiều cảm xúc bên trong.@
+ld c,"tachi/ari_t02",crossfade,400
+` Heh, heh… Nếu là Tohno luôn bi quan đang nói với tôi thì có lẽ tôi chính là người thật lòng.@
+` Arihiko gặm mì một cách ồn ào.@
+ld c,"tachi/ari_t01",crossfade,400
+` Nói cho tôi biết, chuyện gì đang xảy ra?@
+` Cậu có nghĩa là gì?@
+` Cậu sống với nhà Arima từ hồi tiểu học phải không? Đã tám năm rồi. Cha cậu đã coi như ruồng bỏ cậu ấy. Sao giờ lại gọi cậu về?
+\
+` Cha tôi không 'ruồng bỏ' tôi đâu. Cậu ta chỉ đuổi tôi ra khỏi nhà một cách nào đó.@
+` Tohno-kun, nếu có một gia đình nào thực sự đuổi con cái ra khỏi nhà một cách 'một số phương pháp', thì đó không phải là bi kịch mà là hài kịch. Nhưng thật nhàm chán, thậm chí chẳng buồn cười.@
+` Arihiko giang rộng cánh tay và lắc vai.@
+` Từ chối nghiêm túc, mãi mãi là một trong những đặc điểm dễ hiểu của Arihiko.@
+` …… Vâng, tôi đoán cậu đúng. Nếu bị đuổi khỏi nhà, cười là điều duy nhất bạn có thể làm.
+\
+` Và sau đó anh ta nói một câu thoại cũ kĩ như 'Không bao giờ bước chân vào ngôi nhà này nữa!' hay gì đó, phải không? Đó là những gì mọi người gọi là ruồng bỏ. Thực ra, tôi chưa từng nghe lý do tại sao cậu bị ruồng bỏ.@
+` ……@
+` …… Ai biết được?@
+` Đó là điều tôi cũng muốn biết.@
+` Chà, nếu cậu không muốn nói về nó, thì không nhất thiết phải nói.@
+cl c,crossfade,400
+` Arihiko nắm lấy bát của mình bằng cả hai tay và uống hết phần còn lại của súp cà ri nóng.@
+` Giờ ăn trưa ngắn lắm.@
+` Theo Arihiko, tôi quyết định nhanh chóng kết thúc tô udon chikara của mình.
+\
+bg #000000,crossfade,800
+playstop
+!w1000

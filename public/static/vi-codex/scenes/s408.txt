@@ -1,0 +1,103 @@
+phase "bg/ima_01",l,his,13a,13
+!w3000
+bg #ffffff,notrans,0
+waveloop se_11
+` ... Lắc lư, lắc lư, lắc lư.
+\
+` ... Lắc lư, lắc lư, lắc lư.@
+` ... Lắc lư, lắc lư, lắc lư.@
+` Tiếng gõ nhẹ nhàng vang lên, lặp đi lặp lại ba lần.@
+` "Knock, knock knock, knock."@
+` (Shiki nhíu mày, cảm giác kỳ lạ lan tỏa trong người.)@
+` "Knock, knock knock, knock."@
+` (Một sự im lặng căng thẳng bao trùm, chỉ phá vỡ bởi âm thanh đó.)@
+` "Knock, knock knock, knock."
+\
+bg "bg/bg_40a",crossfade,800
+` (Arcueid nhấc đầu lên, một nụ cười nhẹ xuất hiện trên môi.)@
+br
+` "[line=4] Đêm đã qua. "@
+br
+` Một sự im lặng khủng khiếp.@
+` Tôi thậm chí còn không nghe thấy tiếng thở khò khè của chính mình.
+\
+` ... Gõ gõ gõ, gõ gõ gõ, gõ gõ.@
+br
+`"[line=8]"@
+` Cơ thể tôi chẳng nhúc nhích chút nào.@
+` Trí óc tôi cũng đã ngừng hoạt động hoàn toàn.@
+` Tôi chắc chắn rằng nếu nhìn vào gương, tôi sẽ trông giống một con rối với những sợi dây bị cắt đứt.
+\
+` ... Kn... kno kno, ck... kno, ck...@
+br
+`"[line=7]Gohu." - Tôi ho.@
+` "Tôi lại làm hỏng nhịp điệu." - *...*@
+br
+` "Đi đi, ah, ah, ah."@
+br
+`"[line=2][line=4](Không có thay đổi về dòng)@
+br
+` Tiếng gõ cửa vang lên, nhẹ nhàng đầu tiên, rồi mạnh hơn.@
+` Tiếng gõ lặp đi lặp lại, "knock knock", khiến tôi giật mình.@
+` Tôi lấy lại nhịp thở và cảm thấy có thể tiếp tục hít thở bình thường.
+\
+` Những lời nói mơ hồ, nhưng tôi hiểu được ý định.@
+br
+`"Tôi sẽ bảo vệ bạn", một lời hứa yên tâm.@
+` Đi một mình suốt đêm khiến cơ thể tôi trở nên yếu ớt.@
+`"[line=9]@
+` Tôi cảm thấy mình cần phải mạnh mẽ hơn để đối mặt với những nguy hiểm sắp tới.@
+` Thị lực tôi rất mờ đục.@
+` Không khí chạm vào da tôi gây đau đớn.@
+` Các cơ quan của tôi bị rối loạn đến mức tôi không thể thở được trừ khi tập trung.
+\
+` ... Gõ, gõ, gõ, gõ.
+\
+` ... Gõ, gõ, gõ, gõ.@
+` ... Gõ, gõ, gõ, gõ.@
+` ... Gõ, gõ, gõ, gõ.@
+` ... Gõ, gõ, gõ, gõ.@
+` "Gõ... gõ gõ gõ gõ. " @
+` "Gõ... gõ gõ gõ gõ. "@
+` "Gõ... Gõ gõ gõ gõ."
+\
+wave se_04
+`"Thưa Ngài Shiki, cậu có tỉnh không......?"@
+` Giọng của Hisui.@
+` "Đây là lần bao nhiêu rồi? Hisui thực sự chẳng hề chán nản với điều này chút nào."@
+`"Bạn đã tỉnh rồi, phải không? Nếu vậy, hãy ăn ít nhất một chút đi."@
+`"…… Không, tôi không ăn thứ gì mà các bạn cho tôi cả."@
+` Tôi không muốn ăn gì cả.@
+` Tôi không thể tin tưởng bất cứ thứ gì đến từ ngôi nhà này.@
+` Thực phẩm. Nước uống. Thuốc men.@
+` Nó dường như mọi thứ đều là độc dược để giết tôi.
+\
+`"... Shiki-sama, tôi sẽ đặt thức ăn của bạn ở đây. Sau khi tôi rời đi, hãy mở cửa và ăn nó."@
+wave se_08
+waveloop se_11
+` ... Sự hiện diện của Hisui dần mờ nhạt.@
+`"..."@
+` Tôi đập đầu vào tường.@
+` ... Có bao nhiêu lần tôi đã phớt lờ Hisui như thế này?@
+` ... Hisui khác xa Akiha và Kohaku-san.@
+` Có thể Hisui không cố giết tôi.
+\
+`"...@
+` Nhưng đó chỉ là một ảo tưởng.@
+` Hisui đã cố giam tôi trong phòng này.@
+` Giống như lúc này, cô ấy đến phòng tôi để chăm sóc tôi, khiến tôi bị mắc kẹt trong phòng này.@
+`"[line=4]Ha, ah."@
+` ... Điều này không tốt chút nào.@
+` Tôi biết những suy nghĩ của tôi chỉ là hoang tưởng.@
+` Nhưng tâm trí tôi vẫn không thể trở lại bình thường.
+\
+` ... Gõ gõ, gõ gõ, gõ gõ.@
+` ... Gõ gõ, gõ gõ, gõ gõ.@
+` ... Gõ gõ, gõ gõ, gõ gõ.@
+` ... Gõ gõ, gõ gõ, gõ gõ.@
+br
+` Tâm trí tôi mờ mịt và cơ thể tôi run rẩy vì đau đớn.@
+` Cổ họng tôi khô khốc đến mức cảm giác như tôi sẽ chết nếu không uống nước.@
+` …… Dù tất cả những điều đó, tôi vẫn khóa chặt cửa.
+\
+bg #000000,crossfade,800

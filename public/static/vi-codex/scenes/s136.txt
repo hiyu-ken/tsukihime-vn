@@ -1,0 +1,108 @@
+monocro off
+playstop
+wavestop
+bg #000000,lcartain,800
+bg "bg/bg_32c",lcartain,1500
+` Cánh cổng biệt thự yên tĩnh.@
+` Đã là bảy giờ tối.@
+` Akiha nên đã về nhà, có thể đang uống trà trong phòng khách.
+\
+` ... *thở dài*@
+` Tôi thực sự không muốn ăn tối rỗi rảnh, nhưng nếu tôi không quay lại, Akiha và những người khác chắc sẽ lo lắng cho tôi một lần nữa.@
+` Tìm Arcueid sẽ phải đợi đến sau bữa tối. Tôi sẽ rời đi khi Akiha và mọi người khác đã ngủ.
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_40c",lcartain,1500
+` [line=4]Bữa tối với Akiha kết thúc, tôi trở về phòng.@
+` Tôi uống một chút trà sau bữa tối cùng Kohaku-san và những người khác, nhưng tôi thậm chí còn không nhớ chuyện gì đã xảy ra.@
+br
+`"[line=4]Này, cô ấy đâu rồi?"@
+` Đầu tôi chỉ đầy những suy nghĩ về vị ma cà rồng tóc vàng đó.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_32c",lcartain,1500
+` Lúc 10 giờ, ánh sáng trong biệt thự tắt dần.@
+` Khi chuẩn bị đi ngủ, mọi người đều quay về phòng riêng, nên tôi lén lút rời khỏi biệt thự mà không ai để ý.
+\
+`"... Cô ấy, có lẽ đang ở thành phố?"@
+` ... Tôi không muốn nghĩ về điều đó, nhưng hầu hết nạn nhân thường được tìm thấy trong những con hẻm tối tăm.@
+` [line=4]Nếu tôi muốn tìm Arcueid - kẻ giết người ma cà rồng vẫn tiếp tục gây ra những vụ giết người, thì tôi phải rình rập trên các con phố.
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_26a",lcartain,800
+` [line=6][lối đi 6] *thở dài*@
+` Tôi ngồi xuống lan can.@
+` Đã qua nhiều giờ rồi.@
+` Tôi lang thang xung quanh vô định, thậm chí không bắt gặp một bóng dáng nào của Arcueid.
+\
+`"... Trời ơi."@
+` Thật khó chịu.@
+` Dĩ nhiên, tôi biết việc tìm kiếm ngẫu nhiên ai đó trong thị trấn không dễ dàng, nhưng tôi vẫn cảm thấy lạc quan rằng tôi sẽ tìm thấy cô ấy.@
+br
+`"Cô ấy đi đâu rồi...?"@
+` "... Tại sao?"@
+` Tôi chỉ muốn hỏi cô ấy về những vụ giết người hàng loạt, nhưng khi biết được và không thể gặp mặt cô ấy, tôi [line=4]
+\
+`"Ồ, dừng lại. Dừng lại đi. Tôi chỉ nên dừng lại."@
+` Tôi đứng dậy khỏi lan can và bắt đầu đi bộ.@
+` Đêm sắp đến rồi. Tìm Arcueid thêm nữa cũng chỉ là vô ích thôi.@
+`"... "@
+` Nhưng, nếu tôi đã tiến được đến đây, tôi có thể cố gắng một chút nữa.@
+` Còn một địa điểm cuối cùng tôi cần kiểm tra. Nếu cô ấy không ở đó, tôi sẽ quay trở lại biệt thự.
+\
+bg #000000,lcartain,800
+bg "bg/bg_27b",lcartain,800
+` ... Công viên hoang vắng.@
+` Tôi đến nơi mà tôi từng hợp tác với Arcueid và đánh bại Nrvnqsr.@
+` Sau khi chỉ tìm kiếm trong thị trấn, tôi vẫn chưa khám phá nơi này.@
+`"... Vâng, không ngờ tôi sẽ tìm thấy điều gì..."@
+` Tôi lẩm bẩm và bước vào công viên.
+\
+bg "bg/bg_28b",lcartain,800
+` Giữa đêm tối.@
+` Như mong đợi, ở thời điểm muộn như thế này, chẳng có ai cả. Với sự im lặng đến vậy, nó thậm chí còn dễ chịu.
+\
+`"... Đúng vậy. Không thể tìm thấy cô ấy một cách dễ dàng."@
+` Tôi thở dài và gục vai.@
+`"... Ngốc nghếch thật. Tại sao tôi lại thất vọng như thế này?"@
+` Tôi cũng không hiểu nó.@
+` [line=4]Chỉ một lần nữa, tôi nghĩ có lẽ tôi muốn thấy nụ cười của cô ấy.
+\
+ld c,"tachi/ark_t08",lshutter,400
+`"Ồ, cậu ở đây rồi. Chào buổi tối, Shiki."@
+br
+` [line=4]... Vâng, chỉ như vậy thôi. Mặt cô ấy vui vẻ và vô tư đến mức không thể tin được nó thuộc về một ma cà rồng.
+br
+`"[line=4]A, Arcueid ư?"@
+` Không cần suy nghĩ, tôi nắm lấy hai vai cô ấy.@
+ld c,"tachi/ark_t12",crossfade,400
+`"[line=4]Ờ?"@
+` Arcueid rụt người ngạc nhiên.
+\
+` Vai cô ấy thực sự rất chắc nịch, và tôi nhanh chóng rút tay về.@
+cl c,crossfade,400
+\
+`"[line=4]Này, cậu, tại sao?"@
+` Ngay cả khi người mà tôi tìm kiếm từ lâu chính là người đứng trước mặt tôi, tôi không thể làm gì ngoài việc vấp ngã trong lời nói của mình.@
+ld c,"tachi/ark_t03",crossfade,400
+`"Tại sao?@ Điều đó thật kỳ lạ.@ Tôi đang tìm cậu, nên tôi không nghĩ đó là trùng hợp chúng ta gặp nhau ở đây."@
+`"[line=4]Ồ, cậu, đang tìm tôi à?@ Tại sao?"@
+ld c,"tachi/ark_t06",crossfade,400
+`"Tại sao?[line=4] À, chẳng có lý do gì cả."@
+` Cô ấy thẳng thắn nói rằng cô ấy không có lý do nào để tìm kiếm.
+\
+`"... ..."@
+` Tôi... đã quên mất. Cô ấy thực sự giống một con mèo như thế này.@
+`"Ừm... có lẽ là như vậy. Thật lòng mà nói, tôi cũng muốn gặp cô. Vậy nên cuộc gặp gỡ ở đây, à [line=4]"@
+` Tôi định nói rằng điều đó khiến tôi vô cùng hạnh phúc, nhưng tôi vội vã kìm nén những lời ấy lại.
+\
+`"[line=4]Này, tôi muốn có một cuộc trò chuyện nghiêm túc. Tôi muốn bàn luận về điều này ở một nơi khác vì tôi cảm thấy không thoải mái ở đây, vậy được chứ?"@
+`"Chắc rồi [line=4]nhưng chúng ta sẽ nói về điều gì?"@
+`"Cô sẽ hiểu. ... Hãy theo tôi đến phía sau công viên."@
+` Tôi bảo cô ấy cùng đi, và bắt đầu bước đi.@
+cl c,lshutter,800
+` Cô ấy tò mò ngẩng đầu lên, và vâng lời theo tôi.
+\
+bg #000000,lcartain,800

@@ -1,0 +1,31 @@
+playstop
+bg #000000,lcartain,800
+bg "bg/bg_22b",lcartain,800
+play "*1"
+` Tôi đi theo một con đường khác so với con đường tôi thường đi.@
+` Đi qua những con phố không quen thuộc, tôi chậm rãi tiến lại gần biệt thự Tohno.@
+` Môi trường xung quanh không hoàn toàn xa lạ.@
+` Sau cùng, tôi đã sống ở đây cho đến khi chín tuổi,[line=3] tám năm trước. Đây không phải là lần đầu tiên tôi đi con đường này trở lại biệt thự.`@
+` …… Cảm xúc của tôi hơi rối ren.`@
+` Con đường về thật quen thuộc, nhưng cũng thật mới mẻ.`@
+` , Cho đến lúc này, tôi chưa bao giờ mong muốn trở lại nhà Tohno.@ Bây giờ thì dường như không tệ lắm.`
+\
+bg #ffffff,crossfade,800
+bg "bg/ima_17",crossfade,800
+` ...Ngôi nhà tôi sống cho đến khi chín tuổi.`@
+` Bây giờ, chị gái tôi Akiha đang ở trong căn biệt thự kiểu phương Tây ấy, hoàn toàn không giống với kiến trúc Nhật Bản.`@
+` Tohno Makihisa[line=2]Cha tôi, người ghét tôi và là chủ của gia tộc Tohno, đã chết cách đây vài ngày.`
+\
+` Mẹ tôi chết vì bệnh tật sau khi Akiha chào đời, nên gia đình Tohno chỉ còn lại tôi và em gái.@
+` Là con trai cả, người ta nghĩ tôi sẽ trở thành người thừa kế gia tộc Tohno... nhưng tôi chẳng có đặc quyền như vậy.`
+\
+` Trở thành người thừa kế gia tộc Tohno có nghĩa là bị ràng buộc bởi một sự giáo dục nghiêm ngặt.`@
+` Tôi đã mất đếm lần bố mắng tôi vì ghét không được sống tự do.@
+` Chuyện là lúc ấy tôi gặp tai nạn, cơ thể trở nên yếu ớt... Bố nhìn thấy đó là cơ hội để loại bỏ tôi.@
+` "Ai có thể chết bất cứ lúc nào thì không thể trở thành người thừa kế, dù là con trai cả."@
+` Đáng tiếc cho cha tôi, tôi đã phản bội kỳ vọng của ông khi hồi phục, nhưng chị gái tôi, Akiha, đã được coi là người thừa kế gia tộc Tohno.`
+\
+` Và tôi nghe nói rằng Akiha, người vốn đã được dạy dỗ khắc nghiệt để trở thành một con gái đúng mực của gia tộc Tohno, lại càng chịu đựng những bài học tàn khốc hơn nữa.@
+` Đó là chuyện cách đây lâu rồi [line=2] Tôi chơi cùng Akiha trong biệt thự trước khi tai nạn xảy ra.@ Từ đó, tôi chưa bao giờ gặp cô ấy nữa.
+\
+bg #ffffff,crossfade,800

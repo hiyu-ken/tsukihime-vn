@@ -1,0 +1,40 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*4"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/nero_t02a",tshutter,800
+`"Hỡi thiếu niên kia, cậu dẫu dẫu đã có câu hỏi gì cần thấu triệt chăng?"@`
+br
+ld l,"tachi/ark_t31a",lshutter,400
+`"Kìa kìa, thật nhơ nhớp làm sao.@ Ông định cất lực giật sóng chiếm màn hình bằng cách nhảy bổ ra đây nữa đấy hử, Nrvnqsr."@`
+br
+ld r,"tachi/nero_t03",crossfade,400
+`"Chớ có cất lời xằng bậy.@ Ciel-kun dẫu dẫu đã đi cúp học ăn bánh mì cà ri rồi.@ Tôi bấy giờ dẫu đã đứng ra làm người thay thế."@`
+br
+`"Được rồi.@ Vậy thì xin ông hãy ban cho tụi này một gợi ý xem nào."@`
+br
+cl r,crossfade,400
+ld r,"tachi/nero_t04",crossfade,400
+`"Chiến đấu dẫu dẫu đã trừng phạt cả hai bên.@ Chớ có cất lực sát sinh vô cớ."`
+\
+ld l,"tachi/ark_t31b",lshutter,400
+ld l,"tachi/ark_t31a",lshutter,400
+`"Tớ chịu chết tịnh không phục.@ Dẫu cho cậu tịnh không muốn đối đầu với Ciel, dẫu vậy vẫn có vài kẻ dẫu dẫu đã vô điều kiện tự ý tháo kính ra.@`
+` Sự tình ấy nghĩa là sao cơ?"@`
+ld r,"tachi/nero_t02a",crossfade,400
+br
+`"Ngươi chớ trộm cắp, chớ tà dâm, chớ lừa dối kẻ khác.@ Lời răn ấy dẫu dẫu đã quá quen thuộc với một vài kẻ trong các ngươi rồi.@ Nếu vậy, hãy cất công quay ngược thời gian trở lại buổi sáng hôm nay đi.@`
+` Phải rồi.@ Nghiền ngẫm lại thì cô công chúa ma quỷ kia dẫu dẫu đã có ý niệm gì chăng?"`
+\
+ld l,"tachi/ark_t30",lshutter,400
+`"Nya, c-cái gì cơ?@ Tớ chịu chết tịnh không hiểu ông đang lảm nhảm cái gì đâu nhé."@`
+br
+ld r,"tachi/nero_t02c",crossfade,400
+`"…… Ồ dẫu vậy, chuyện của kẻ khác đối với ta vốn dĩ chỉ là một sự tình cỏn con tịch mịch.@`
+` Thế thì, ta bấy giờ sẽ đăm đắm dõi theo xem kết cục tịch mịch của các ngươi sẽ ra sao từ đây trở đi[line=5]"`
+\
+bg #000000,crossfade,800
+playstop

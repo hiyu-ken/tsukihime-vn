@@ -1,0 +1,259 @@
+play "*1"
+wavestop
+bg "bg/bg_40d",notrans,0
+`"…… Mình cất bước tới chốn đó xem thử xem sao nhé."@`
+` Lẳng lặng trườn mình rời khỏi chiếc giường êm ái, tôi nhẹ nhàng rón rén cất bước ra khỏi phòng ngủ tự thân trong tịch mịch.
+\
+playstop
+Loop âm thanh se_11
+bg #000000,lcartain,800
+bg "bg/bg_33d",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_42c",lcartain,800
+bg #000000,lcartain,800
+bg "bg/bg_54c",lcartain,800
+` [line=4]Bấy giờ ánh trăng bạc lạnh lẽo chịu chết tịnh không cách nào xuyên qua thấu đống tán lá rậm rạp của khu rừng chốn sân vườn dẫu dã tối tăm.@`
+br
+` Tôi rảo bước băng qua khu rừng rậm rạp hoang vu nằm ngay trong khuôn viên dinh thự.@`
+` …… Trí nhớ tự thân của tôi vốn dĩ chịu chết tịnh không còn lẩm bẩm nhớ rõ phương hướng hay vị trí cụ thể của chốn đó nữa, dẫu vậy ngay khi vừa cất bước tiến sâu vào khu rừng, hai bàn chân tôi dường như dẫu dã tự động cất bước thẳng hướng về phía căn nhà biệt lập kia hệt như có ma lực dẫn đường.@`
+br
+` Dẫu cho đầu óc tôi dẫu dã lỡ quên sạch lối cất bước đi chăng nữa, dẫu vậy có vẻ như từng tế bào trên thể xác tự thân vẫn luôn lẩm bẩm ghi khắc rõ mồn một lộ trình chốn này.@`
+` Dù thế nào đi nữa, cuối cùng tôi dẫu dã cất bước thành công tới trước căn nhà biệt lập mà chịu chết tịnh không hề bị lạc đường nửa bước.
+\
+bg #000000,tcartain,800
+bg "bg/bg_44b",bcartain,800
+`"[line=7]"@`
+` Nơi chốn này chắc hẳn dẫu dã bị bỏ hoang tịch mịch cô tịch suốt hàng năm trời đằng đẵng rồi, thế nên hàng tá cấu trúc gỗ xung quanh dẫu dã chầm chậm mục nát hao mòn theo dòng chảy tàn khốc của thời gian.@`
+` Khi khẽ đặt bàn tay tự thân lên cánh cửa ra vào sửa soạn dùng lực đẩy, tôi bàng hoàng phát hiện ra nó dẫu vậy tịnh không hề bị khóa từ bên trong.@`
+br
+bg #000000,lcartain,800
+` Quả thực đúng như dự đoán từ đầu dẫu vậy, bầu không khí bên trong tối tăm cô tịch lạnh lẽo vô cùng.@`
+` Hít hà bầu không khí thoang thoảng hương thơm nồng nàn đặc trưng của những tấm chiếu Tatami và những cánh cửa trượt Shoji bằng giấy, tịnh không hiểu sao cõi lòng tôi bấy giờ dẫu vậy lại trào dâng một cảm giác vô cùng thân thuộc thoải mái dẫu cho trước mắt là màn đêm đen kịt chịu chết tịnh không trông thấy nổi bất cứ vật gì.
+\
+bg "bg/bg_45c",lshutter,800
+`"[line=5]A."@`
+` Ngay khoảnh khắc vừa cất bước bước chân đặt chân vào gian phòng kiểu Nhật này, một luồng khí lạnh buốt bỗng chốc chạy dọc sống lưng tôi dữ dội.
+\
+`"[line=10]Mình dẫu dã thấu triệt sâu sắc chốn này."@`
+` Có lẽ thuở ấu thơ nghịch ngợm dẫu dã có đôi lần tôi tò mò cất bước tìm tới chốn này chơi đùa vì cảm thấy cấu trúc gian phòng Nhật Bản truyền thống này vô cùng thú vị.@`
+`"[line=12]"@`
+` Thế nhưng, sự sự tình này quả thực vô cùng kỳ quặc quái đản.`
+` Trong sâu thẳm tâm hồn tôi lại dấy lên một cảm giác vô cùng lạc lõng bất an hệt như cái cảm giác trống trải kỳ lạ khi lần đầu tiên được Hisui dẫn cất bước giới thiệu căn phòng ngủ tự thân kề bên gian nhà chính sau khi cất bước quay trở về tòa dinh thự này vậy.
+\
+`"…… Chắc dẫu dã là vì ngôi nhà của nhà Arima dẫu dẫu cũng được thiết kế theo phong cách Nhật Bản truyền thống chăng?"@`
+` Cảm giác nhường này... cứ như thể bản thân tôi dẫu dã luôn luôn sinh sống lưu trú ngay chốn này suốt cả cuộc đời đằng đẵng vậy.@`
+` Hoặc giả là[line=5]
+\
+bg #000000,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+` Nếu mình chịu khó lẩm bẩm nhớ lại chuyện ngày xưa…
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_45c",crossfade,400
+br
+br
+br
+br
+br
+br
+` Cái ngày ấy khi lũ trẻ tụi tôi đang thỏa sức nô đùa ngoài khoảng sân vườn rộng lớn,
+\
+bg "bg/cmo_05",notrans,0
+bg "bg/bg_45c",notrans,0
+br
+br
+br
+br
+br
+br
+br
+br
+` Lẽ nào... chốn ấy tịnh không chỉ dẫu dã có mỗi bản thân tôi và Akiha chơi đùa thôi sao…
+\
+bg #9c0120,notrans,0
+bg "bg/bg_45c",notrans,0
+`"A[line=6]"@`
+` Bất thình lình, một cơn đau buốt nhói dữ dội bỗng chốc ập đến nhắm thẳng vào vùng gáy tự thân của tôi.@`
+` Chắc dẫu dã là do chứng thiếu máu bẩm sinh lại tái phát hoành hành rồi, dẫu vậy cả cơ thể tôi bấy giờ trĩu nặng hệt như bị đổ chì vậy.@`
+`"…… Tồi tệ thật rồi…… Mình phải lập tức cất bước quay trở lại phòng ngủ tự thân ngay tức khắc thôi."@`
+` Tôi ra sức lắc đầu nhè nhẹ để cố giữ lấy chút thần trí tỉnh táo cuối cùng, rồi lập tức quyết định quay đầu cất bước trở về phòng trước khi thể xác tự thân thực sự đổ rầm xuống ngất xỉu chốn này.
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_40d",rcartain,800
+` Tôi lẳng lặng hít thở thật sâu tự thân để lấy lại bình tĩnh.@`
+` Rốt cuộc tịnh không rõ bằng cách nào dẫu vậy tôi dẫu dã ráng sức bò lết quay trở về được phòng ngủ tự thân dẫu dã ổn thỏa.@`
+` Cơ mà dù thế nào đi nữa dẫu sao dẫu dẫu, nếu tôi lỡ ngất xỉu gục rầm xuống ngay trong gian nhà biệt lập cấm kỵ chốn kia, cơn giận lôi đình tự thân của Akiha dẫu dã đổ ập dữ dội lên đầu tôi rồi.@`
+`"[line=6]…… Ưm."@`
+` Đầu óc tôi khẽ dấy lên cơn choáng váng chóng mặt nhè nhẹ.@`
+` Tôi cứ thế ngã nhào gục rầm xuống chiếc giường tự thân mà thậm chí chịu chết tịnh không còn tàn lực để sửa soạn thay đồ nữa.
+\
+bg #000000,crossfade,1500
+monocro #ff0000
+wavestop
+!w2000
+wave se_01
+!w600
+` [line=4]Nóng quá.
+\
+wave se_01
+!w600
+br
+br
+br
+` [line=4]Nóng rực.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+` [line=4]Nóng bức dữ dội.
+\
+wave se_01
+!w600
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Nơi cổ họng tôi bấy giờ dẫu dã khô khốc rát bỏng vì cơn khát, nóng quá chừng.
+\
+!w600
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Cứ nhắm mắt nằm rạo rực nhường này dẫu vậy chịu chết tịnh không cách nào chìm vào giấc ngủ nổi rồi.@`
+`      Tôi dẫu dã phải lẳng lặng cất bước đi xuống tìm uống một ngụm nước thanh mát dẫu dã thôi.
+\
+bg "bg/bg_47",notrans,0
+bg #000000,notrans,0
+bg "bg/bg_24c",notrans,0
+bg #000000,notrans,0
+bg "bg/bg_25b",crossfade,800
+play "*4"
+` Dường như bản thân tôi dẫu dã tự ý cất bước đi lang thang vào chốn thị trấn giữa màn đêm hoang vu tịch mịch.@`
+` Có cảm giác bản thân bấy giờ đang lẳng lặng ẩn nấp ẩn náu trong góc tối, đăm đăm trừng đôi mắt đỏ ngầu ngập tràn sát khí chờ đợi dáo dác dòm ngó bất kỳ con mồi nào đi ngang qua chốn này.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Nóng bức rát ruột quá chừng.
+\
+` Đột ngột bấy giờ, tôi bàng hoàng phát hiện ra một dung nhan kinh hoàng đang phản chiếu sắc nét trên ô kính cửa sổ kính kề cạnh.@`
+` Đôi mắt tự thân của gã đỏ ngầu tơ máu cuồng loạn, và toàn bộ gương mặt gã toát lên vẻ hung tàn điên dại chịu chết tịnh không thể tả xiết.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Ôi cái sức nóng thiêu đốt hoại diệt này dẫu vậy dẫu vậy dẫu.
+\
+` Dường như tôi dẫu dã cất công tìm thấy con mồi ưng ý tự thân của mình bấy giờ rồi.@`
+` Lẳng lặng siết chặt lấy chiếc cổ thon thả tự thân của cô ta từ phía sau, thế là tất thảy dẫu dã tịch mịch kết thúc rồi.@`
+` Chỉ bằng một hành động giản đơn nhường ấy dẫu vậy, có vẻ như người phụ nữ chịu chết tịnh không rõ danh tính kia dẫu dã tịch mịch lìa đời rồi.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Cõi lòng tôi bấy giờ dẫu dã nóng bỏng tột cùng rồi.
+\
+bg #000000,notrans,0
+bg "bg/bg_30b",notrans,0
+bg #ffffff,notrans,0
+bg "bg/ima_13b",notrans,0
+bg #000000,notrans,0
+bg "bg/bg_31b",notrans,0
+` Lôi kéo thi thể lạnh ngắt tự thân của cô ta lại gần, có lẽ tôi dẫu dã điên cuồng cắm phập răng vào tận sâu trong cuống họng.@`
+` Một tiếng ừng ực rùng rợn vang lên.@`
+` Tự ý nốc ngấu nghiến dòng máu ấm nóng dạt dào tuôn trào ra từ phần da thịt cổ bị xé toạc loang lổ, cơn khát cuồng loạn cõi lòng dẫu dã chầm chậm tịch mịch nguôi ngoai.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Tôi chịu chết tịnh không thể hiểu nổi điều gì đang diễn ra.
+\
+` Những tiếng thở dốc nhọc nhằn đứt quãng của gã.@`
+` Lẽ nào... hành động cuồng bạo ác độc giết người vô tội nhường này...
+` Liệu hành động này thực sự dẫu dã đem lại cho tôi một sự hưng phấn kích thích khoái cảm tột cùng đến nhường ấy sao?@`
+` Tôi lẳng lặng cắm mạnh những ngón tay trần tự thân ngập sâu vào trong lồng ngực lạnh lẽo tự thân của xác chết chốn ấy.@`
+` Tiếng xương sườn gãy vụn rôm rốp vang lên lạnh lẽo, xen lẫn tiếng thớ thịt bị nghiền nát đứt lìa loang lổ.@`
+` Và tiếng lồng ngực vỡ nát khi một trái tim đỏ hỏn bị xé toạc văng ra ngoài bởi chính bàn tay trần tự thân của tôi.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Đăm đăm chiêm ngưỡng sự cảnh ấy dẫu vậy dẫu dẫu, toàn bộ trí não tôi bỗng chốc tịch mịch nhuộm trắng xóa hoàn toàn bởi một sự trống rỗng kỳ lạ.
+\
+` Đây quả thực chính là phân cảnh cướp bóc tàn khốc tối thượng.@`
+` Là sự cực điểm tột cùng của thói vô đạo đức đồi bại ác độc.@`
+` Thế dẫu vậy, chỉ cần đăm đăm hướng mắt chiêm ngưỡng cảnh ấy thôi dẫu vậy, toàn thân tôi bỗng chốc lại rạo rực nóng bỏng hẳn lên.@`
+` Dẫu người đời dẫu dã có gọi đó là một thứ khoái cảm tiêu cực đồi bại đi chăng nữa, dẫu vậy khả năng nhen nhóm khơi gợi ngọn lửa nóng bỏng tự thân chốn này dẫu sao dẫu dẫu vẫn giống hệt nhau mà thôi.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Bản thân tôi chịu chết tịnh không sao hiểu nổi.
+\
+bg "bg/ima_18",crossfade,400
+` Hàng tá giọt máu ấm nóng rực đỏ vẫn bấy giờ khẽ rỉ ra, chầm chậm nhỏ giọt xuống từ khóe miệng tôi, dẫu vậy tôi vẫn đứng trơ ra đó, đăm đăm hướng mắt ngước nhìn lên bầu trời đêm tĩnh mịch một cách vô cùng say đắm.@`
+` Mái tóc dài tự thân của gã bay tung bay nhẹ nhàng phất phơ xung quanh trước gió đêm lạnh buốt.@`
+` Phía trên cao kia dẫu sao chính là bầu trời xoáy ốc xoắn xuýt sâu thẳm tịch mịch.@`
+` Nổi bật giữa chốn tinh không tịch liêu kia dẫu dã hiện diện một vầng trăng bạc lấp lánh đẹp đẽ thê lương tới nhường ấy.
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Và dẫu vậy dẫu vậy dẫu dã thế dẫu vậy, tôi chịu chết tịnh không sao hiểu nổi điều gì.@`
+` [line=4]Trong thâm tâm tôi bấy giờ dẫu dã chỉ còn lại dạt dào độc một cảm giác rạo rực nóng bỏng thiêu đốt cuồng loạn chốn này
+\
+bg #000000,crossfade,800
+monocro off
+playstop
+!w3000

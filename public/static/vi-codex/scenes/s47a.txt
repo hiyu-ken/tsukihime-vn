@@ -1,0 +1,188 @@
+bg "bg/bg_40d",notrans,0
+playstop
+(Lặp âm thanh) se_11
+` Thậm chí Akiha và những người khác cũng không thể ngủ với tiếng ồn như thế này.@
+` Vì tôi là người đàn ông duy nhất trong nhà, nên tôi nghĩ mình không còn lựa chọn nào khác ngoài việc đi điều tra.
+\
+`"…… Tôi nghĩ nó đến từ phía bên phải của biệt thự."@
+` Tôi kéo rèm và nhìn xem chuyện gì đang xảy ra bên ngoài.@
+br
+` [line=3]Và,
+br
+` Bên ngoài phòng tôi là một cây to lớn.@
+` Trên cành cây có một con quạ màu xanh.
+\
+wavestop
+bg #000000,lshutter,400
+bg "bg/cmo_16",rshutter,400
+` Trong đêm đen tối,
+` Tôi chỉ thấy màu đen, nhưng vẫn rõ ràng trong tâm trí tôi rằng con quạ đang bay với bộ lông xanh.@
+`"……"@
+` Tôi chưa từng thấy hay nghe về một con quạ xanh trước đây.@
+br
+` Nó nhìn chằm chằm vào tôi.@
+br
+` Cảm giác như đôi mắt của con quạ đang nhìn tôi, giống như những thấu kính cơ khí không có linh hồn.
+\
+!w1000
+br
+` "Kwaaw!"@
+br
+` Sau tiếng kêu giống như một cái yawn, nó bay đi không tiếng động.@
+bg #000000,lshutter,400
+bg "bg/bg_40d",rshutter,400
+`"... Điều đó là gì?"@
+` ... Tôi cảm thấy một cơn lạnh nhạt trên lưng.@
+` Tiếng sủa của những con chó ngày càng to hơn.
+\
+` Awoooooooo.@
+`            Tôi cảm thấy thật khó chịu.@
+`                       Không chỉ ồn ào, mà tiếng gào thét đó khiến tim tôi đập nhanh hơn. Tôi có một sự ghét bỏ bản năng đối với nó.@
+br
+`"Dừng lại!"@
+` Tôi thay đồ ngủ bằng đồng phục và rời khỏi phòng.@
+` (Tôi cố gắng) xua tan những cảm giác khó chịu này.@
+br
+`"[line=3]@
+` Tiếng gào thét đó vẫn vang vọng trong đầu tôi.
+\
+bg #000000,lcartain,800
+play "*6"
+!w500
+bg "bg/bg_32d",lcartain,800
+br
+` Một tiếng gầm thét vang vọng qua đêm tối.@
+br
+` Tiếng đó chắc chắn đến từ phía bên phải của biệt thự.@
+` "... "
+\
+`"Vì một lý do nào đó, cổ tôi cảm thấy khô khát.@
+` Những bức tường cao vươn quanh biệt thự.@
+` Tôi lau cổ và tiến về nơi những con chó tập trung.@
+` Đến nơi tiếng gầm thét phát ra.
+\
+bg #000000,lcartain,800
+bg "bg/bg_47",lcartain,800
+` Tôi đến đích.@
+`"…… Hừ?"@
+br
+` "Aooooo..."@
+br
+` "Tiếng gầm không ngừng lại."@
+` "Nhưng không có dấu hiệu nào của những con chó cả."@
+` [line=3]Có một người đứng dưới ánh đèn đường, tách biệt bóng tối.@
+` Tiếng gầm gừ đến từ ngay bên cạnh anh ta.@
+br
+` Nhưng không có con chó nào xuất hiện khắp nơi.@
+` [line=6]Người trong chiếc áo khoác khá cao lớn.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_47",crossfade,400
+` Cơ thể anh ấy được xây dựng chắc khỏe, và lưng anh ấy đang quay về phía tôi.@
+` "Tôi... rất khát."@
+`"[line=9](Lời thì thầm)@
+br
+` Cổ họng tôi... khô đến khó chịu.@
+` Tiếng sủa của con chó vang lên trong tai tôi.@
+` Không khí đêm quấn lấy da thịt tôi.@
+br
+` [line=3]Không có lý do rõ ràng, tôi khó thở và di chuyển, như thể tôi đang ở đáy biển.
+\
+` "Kwaah!"@
+br
+` Một tiếng khóc từ trên cao.@
+` Với tiếng vỗ cánh lớn, con quạ xanh đậu lên vai người đàn ông.@
+br
+` [line=3]Sau đó,
+br
+` Bất ngờ, con quạ biến mất.
+\
+`"…… À?"@
+` Có thể là ảo ảnh?@
+` Nó trông giống như con quạ biến mất vào chiếc áo choàng đen của hắn.@
+br
+`"[line=6]"@
+br
+` Người đàn ông trong chiếc áo choàng đen quay lại.@
+ld c,"tachi/nero_t03",crossfade,400
+` Dưới ánh đèn đường trắng, hắn chỉ như một bóng ma.
+\
+` Một khối đen.@
+` Trong khối đó, chỉ có đôi mắt giống vũ khí lấp lánh, cháy bỏng với trí tuệ dữ dội.@
+br
+`"…… Ah."@
+br
+` Tôi không thể thở được.@
+` Nhưng may mắn thay, đôi mắt ấy dường như chẳng đang nhìn vào tôi.
+\
+br
+br
+br
+br
+br
+br
+br
+`"Không ở đây cả."
+\
+br
+cl c,crossfade,800
+` Người đàn ông mặc áo choàng đen rời đi.
+\
+` Khi tôi không còn thấy bóng dáng anh ta, tôi cuối cùng cũng có thể hít thở bình thường trở lại.@
+`"[line=3]Hahaha... haah, ah."@
+` Tôi cố gắng lấy vài hơi thở.@
+br
+` Tôi nhận ra tiếng sủa của những con chó đã ngừng lại.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40c",lcartain,1500
+` Tôi quay trở về phòng mình.@
+` Không có dấu hiệu nào cho thấy Akiha hay những người khác đang thức. Tôi đoán tôi là người duy nhất không chịu nổi tiếng sủa của chó.
+\
+br
+`"[line=6] Ôi!"@
+br
+` Chuyện gì đang xảy ra vậy?@
+` Đầu tôi vẫn đau.
+\
+`"Hừ...? Tại sao tay tôi lại run rẩy thế này?"@
+` Khi nhìn xuống, ngón tay tôi cũng run rẩy.@
+` Toàn bộ cơ thể tôi đang run rẩy, và lưng tôi cảm thấy rất lạnh.@
+br
+` Nó gần như... có, đúng vậy.@
+br
+` Giống như ai đó đã xé cột sống của tôi ra và thay thế bằng băng giá.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=6]"@
+` Tôi thấy choáng váng.@
+` ... Hay chỉ là bệnh thiếu máu thường gặp?@
+` Tôi có cảm giác đang rơi xuống sàn nhà.@
+br
+` Trên đường đi, tôi nhìn thấy điều gì đó khó chịu.
+\
+bg "bg/bg_40f",lshutter,800
+`"[line=3]Chuyện gì vậy?!"@
+` Ngay cả khi tôi đeo kính, tôi vẫn có thể nhìn thấy những "dấu vết" đó.@
+`"Ư...!"@
+` Tôi đã lâu không nhìn thấy chúng, nên phản ứng của tôi trở nên mạnh mẽ hơn.@
+` Tôi cảm thấy khó chịu.@
+` Với sự chóng mặt do thiếu máu, tôi cảm thấy như sắp nôn mửa nội tạng trong bụng.
+\
+`"... Điều gì đang xảy ra?"@
+` Tôi không hiểu.@
+` Chỉ khi đôi mắt tôi mở ra, những hình ảnh lung tung bay khắp tầm nhìn của tôi.
+\
+br
+` [line=3]Đó là một... giấc mơ xấu.@
+br
+` Một cách nào đó, tôi rơi vào giường và chìm xuống.@
+` ... Đúng vậy.@ Tôi nên ngủ.@ Đó là cách dễ nhất để từ chối những gì tôi đang nhìn thấy.
+\
+` Cơ thể tôi không di chuyển theo ý muốn của tôi.@
+` Tất cả những gì tôi nên làm là nằm đây và ngủ thiếp đi, như một xác chết. [line=3]
+\
+playstop
+bg #000000,crossfade,1500
+!w3000

@@ -1,0 +1,189 @@
+phase "bg/bg_29b",l,cel,07a,7
+bg #ffffff,crossfade,1500
+br
+` Tôi đang mơ một giấc mơ.@
+` Một giấc mơ mơ hồ, chẳng có ý nghĩa gì đặc biệt.@
+br
+bg "event/ark_e01",crossfade,400
+bg #ffffff,crossfade,400
+` Tôi có thích cô ấy không?@
+br
+bg "event/ark_e02",crossfade,400
+bg #ffffff,crossfade,400
+` Tôi không rõ tình cảm thật sự của mình thế nào, nhưng chẳng thể phủ nhận thực tế là tâm trí tôi lúc nào cũng hướng về cô ấy.
+\
+bg "event/cel_e02a",crossfade,400
+bg #ffffff,crossfade,400
+br
+` Tôi có thích chị ấy không?@
+br
+bg "event/cel_e03a",crossfade,400
+bg #ffffff,crossfade,400
+` …… Tôi không biết nữa.@ Chỉ là, lúc tôi hoàn toàn lạc lối trong cõi lòng mình, chị ấy đã cứu rỗi tôi.@
+br
+` Nếu không có chị ấy ở đó,
+` Có lẽ tôi đã bỏ mạng dưới cơn mưa tầm tã ấy rồi.
+\
+bg "event/cel_e04",crossfade,400
+bg #ffffff,crossfade,400
+br
+` [line=4]Tôi không biết nữa.@
+` Đó là lý do tôi buộc phải hỏi.@
+` Vì sao chị ấy lại làm như thế.@
+` [line=4]Vì sao đôi mắt ấy lại trống rỗng, vô hồn đến vậy
+\
+`"[line=3]Cậu chủ Shiki."@
+` …… Tôi nghe thấy tiếng Hisui văng vẳng bên tai, hòa vào ánh nắng ban mai.@
+`"[line=3]Thưa cậu chủ Shiki, đã đến giờ rồi.@ Xin hãy thức dậy thôi ạ."@
+` Giọng nói đều đều, không chút cảm xúc của em ấy đã đánh thức tôi.
+\
+bg "bg/bg_40e",crossfade,1500
+ld c,"tachi/his_t01",crossfade,800
+`"[line=6]"@
+br
+` Ngay khi vừa mở mắt, những hình ảnh hãi hùng đã ập thẳng vào tầm mắt tôi.@
+` Đầu tôi đau nhói như thể vừa bị ai đó bắn thẳng vào thái dương.@
+`"Hự...[line=4]"@
+` Tôi suýt chút nữa là mất đi ý thức vừa mới tỉnh táo trở lại.@
+` Trước khi tầm nhìn hoàn toàn tối sầm, tôi vội vã vớ lấy cặp kính của mình.
+\
+bg "bg/bg_40a",crossfade,1500
+play "*2"
+ld c,"tachi/his_t01",crossfade,400
+`"Cậu chủ Shiki……?@ Cậu cảm thấy không khỏe ở đâu sao ạ?"@
+`"…… Không, không có gì đâu.@ Chỉ là chứng thiếu máu lại tái phát thôi."@
+` Khẽ lắc đầu, tôi cố xua đi những ảo ảnh kinh hoàng vừa lướt qua khỏi tâm trí.@
+`"Quan trọng hơn là, chào buổi sáng nhé Hisui.@ Cảm ơn em đã đánh thức tôi."@
+` Gượng dậy trên giường, tôi cố hết sức để nở một nụ cười tự nhiên nhất có thể.
+\
+`"Dạ không, đây là bổn phận của em.@ Cậu chủ Shiki không cần phải cảm ơn em đâu ạ."@
+`"Dẫu vậy tôi vẫn biết ơn em.@ Em còn tốt hơn vạn lần cái đồng hồ báo thức đấy."@
+br
+` Tôi đứng dậy.@
+` Vẫn chưa đến bảy giờ[line=3]sớm hơn khoảng mười phút so với giờ thức giấc thường ngày của tôi.@
+br
+`"…… Ừm, bữa sáng sao?@ Tôi sẽ xuống ngay đây, mọi người cứ ăn trước đi nhé."
+\
+ld c,"tachi/his_t04",crossfade,400
+`"Thưa cậu chủ Shiki, về chuyện đó thì... ừm[line=3]cô chủ Akiha đang đợi cậu dưới phòng khách ạ.@ Có vẻ cô ấy có vài điều muốn đối chất với cậu."@
+` Hisui ngập ngừng nói đầy khó khăn.@
+`"…… Có vài điều cần hỏi sao?@ …… Con bé đang tức giận lắm hả em……?"@
+`"…… Dạ vâng.@ Có vẻ cô Akiha đã phát hiện ra chuyện cậu chủ ra ngoài vào đêm muộn hôm qua rồi ạ."@
+`"…… Ơ."@
+` Tôi thốt lên đầy bất ngờ.@
+` Đêm qua, tôi đã ra ngoài lùng sục khắp nơi để tìm Arcueid và trở về biệt thự rất muộn.
+\
+`"…… Thôi xong rồi…… Tôi cứ ngỡ không một ai để ý chứ."@
+ld c,"tachi/his_t01",crossfade,400
+`"Dạ, em cũng từng nghĩ chỉ có mình em phát hiện ra thôi."@
+` Hisui cung kính trả lời.@
+`"……?@ Hisui, hóa ra em đã biết tôi lén ra ngoài từ trước rồi sao……?"@
+ld c,"tachi/his_t05",crossfade,400
+`"Ôi……"@
+` Vẻ mặt Hisui lập tức thoáng nét bối rối và đầy hối lỗi.
+\
+`"Ra là vậy, em đã biết trước.@ Bảo sao cổng biệt thự lúc ấy lại không khóa."@
+`"……………… Dạ vâng."@
+` Hisui ngập ngừng đáp lời.@
+`"Cảm ơn em nhiều nhé, em đã giúp tôi một đặc ân lớn đấy.@ Và cũng cảm ơn em vì đã cất công làm điều đó cho tôi."@
+`"Nhưng cũng vì vậy mà chị Kohaku cũng phát hiện ra ạ.@ Em và chị ấy thay phiên nhau canh gác biệt thự mỗi hai tiếng một lần.@
+` Và chị ấy đã biết chuyện em lén mở khóa cổng[line=3]"
+\
+` …… Hóa ra là thế.@
+` Chị Kohaku là hầu gái thân cận của Akiha, thế nên chắc chắn chị ấy đã báo lại mọi chuyện đêm qua cho Akiha rồi.
+`"Hisui, em không việc gì phải xin lỗi cả.@ Tất cả là lỗi của tôi khi tự ý lang thang ra ngoài giữa đêm, tôi sẽ tự mình chịu trách nhiệm.@
+` Dù sao tôi vẫn rất vui vì em đã để cửa không khóa cho tôi."@
+ld c,"tachi/his_t04",crossfade,400
+`"[line=5]"@
+` Hisui chỉ lặng im dõi mắt nhìn tôi.
+\
+`"…… Hửm?"@
+ld c,"tachi/his_t05",crossfade,400
+`"…… Dạ không có gì đâu ạ.@ Khi nào thay xong trang phục, xin cậu chủ hãy xuống ngay phòng khách."@
+cl a,lshutter,400
+` Trông vẫn như thể còn điều gì khó nói, Hisui khẽ cúi chào rồi bước ra ngoài hành lang.@
+`"…… Ôi trời, kiểu này chắc chắn mình lại ăn mắng một trận lôi đình từ Akiha cho coi."@
+` Tôi lầm bầm tự thoại trong lúc thay đồ.@
+` Nhưng nếu có thời gian để chịu phạt[line=3]thì tôi vẫn còn một việc quan trọng hơn nhiều cần phải giải quyết trước đã.
+\
+playstop
+bg #000000,crossfade,400
+bg "event/cel_e04",crossfade,800
+bg "bg/bg_40a",crossfade,400
+`"…… Đúng vậy, mình phải nói chuyện trực tiếp với Senpai[line=3]"@
+br
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+`"[line=5]"@
+` Đầu tôi bỗng nhiên lại đau điên cuồng.@
+` Cơn đau đã tạm lắng xuống lúc tôi trò chuyện cùng Hisui, nhưng ngay khi em ấy vừa rời đi, nó lại bắt đầu hành hạ tôi dữ dội.@
+br
+`"Hự…… chết tiệt thật, cơn đau này[line=2]có vẻ sẽ không chịu buông tha cho mình sớm đâu……"@
+` Tôi cắn răng chịu đựng cơn nhói buốt rồi gục xuống giường.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+` …… Cơn đau hoàn toàn không hề thuyên giảm.@
+` Nhói lên từng cơn, giật từng hồi.@ Cảm giác như có ai đó đang liên tục đâm thẳng vào đầu tôi.@
+br
+` …… Cơn đau nhức nhối ấy khiến tôi hoàn toàn quên bẵng đi những suy nghĩ dang dở vừa rồi.@
+br
+` Nghĩ lại thì, suốt tám năm ròng rã kể từ vụ tai nạn hiểm nghèo đó, tôi luôn phải sống chung với thân xác rách nát, rệu rã này.@
+` Cơn chóng mặt, những cơn nhức đầu và chứng thiếu máu luôn đột ngột ập đến không một lời báo trước.@
+` Tôi chẳng thể đếm xuể mình đã phải từ bỏ biết bao nhiêu điều chỉ vì chúng.
+\
+` Vị bác sĩ năm xưa từng bảo rằng việc tôi có thể sống sót sau tai nạn đã là một phép màu kỳ diệu rồi.@
+` Chỉ riêng việc được tiếp tục hít thở khí trời đã là một kỳ tích, nên có lẽ việc phải chịu đựng những cơn đau thể xác này là cái giá tất yếu.@
+` …… Đôi mắt nguyền rủa bị hủy hoại này.@ Người thầy năm xưa, người đã trao cho tôi cặp kính để xoa dịu đôi mắt này, từng căn dặn tôi phải biết trân trọng kỳ tích ấy hơn tất thảy.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+` …… Những lời răn dạy ấy.@
+` Phải chăng ý cô ấy là mạng sống con người vốn dĩ không phải vì quý giá mà là bởi một khi đã mất đi thì không bao giờ lấy lại được, thế nên ta mới phải nâng niu, gìn giữ nó thật cẩn thận sao?@
+br
+` Chỉ trong vài ngày ngắn ngủi vừa qua, tôi đã tận mắt chứng kiến cái chết của biết bao nhiêu mạng người.@
+` Mọi chuyện diễn ra quá dễ dàng.@ Những sinh mạng kết thúc một cách chóng vánh đến mức nực cười.@
+` Nếu một thứ có thể dễ dàng tan biến như làn khói như vậy, thì chẳng phải ngay từ đầu nó chỉ đáng giá có bấy nhiêu thôi sao?@
+` Nếu quả thực là như vậy, thì việc luôn tôn sùng sinh mạng là quý giá thật vô nghĩa làm sao.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+br
+` ………… Hử, gì thế này?@
+br
+` Vì sao,          Từ bao giờ,
+wave se_01
+!w1000
+wave se_01
+` bản thân tôi,         lại bắt đầu,
+wave se_01
+!w1000
+wave se_01
+br
+`    suy nghĩ như thế này?
+\
+wave se_01
+bg #000000,crossfade,800
+bg "bg/bg_40a",crossfade,800
+` …… *Thở dài*@
+` Cơn đau đầu dữ dội cuối cùng cũng chịu buông tha và dịu đi.@
+`"…… Chắc là dạo này mình nhìn thấy quá nhiều máu rồi.@ Đúng là một suy nghĩ đáng ghê tởm."@
+` Tôi hít một hơi thật sâu.@
+` Hít đầy lồng ngực bầu không khí trong lành, tôi cố xua đi những cảm giác u ám vừa rồi.@
+`"[line=3]Mình phải nhanh chóng đến trường thôi."@
+` Tôi cần phải gặp trực tiếp Ciel-senpai để đối chất.@
+` Nén lại chút ê ẩm còn sót lại trong đầu, tôi bước chân ra khỏi phòng.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_33a",lcartain,800
+` Tôi bước xuống cầu thang rồi đi ra sảnh chính biệt thự.@
+` Ngay bên cạnh tôi là lối hành lang dẫn thẳng về phía phòng khách.@
+` Và ngay trước mắt tôi là cánh cửa chính mở lối ra bên ngoài.@
+`"………………"@
+` Mình nên chọn hướng nào đây?@
+` Akiha đang đợi tôi ở phòng khách để đối chất, nhưng tôi lại vô cùng nóng lòng muốn gặp Senpai ngay lập tức.
+\

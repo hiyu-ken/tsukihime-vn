@@ -1,0 +1,90 @@
+playstop
+` [center]Cái chết của tôi là một sự thật hiển nhiên. Tôi có thể cảm nhận được nó mỗi khi tim đập, mỗi khi hơi thở trôi qua.`
+bg "bg/bg_40d",notrans,0
+` Tiếng gào thét vẫn vang vọng.@
+` Tôi không thể ngủ như thế này.`@
+` ……. Tôi không ngủ được, nhưng cũng bình thường thôi.`@
+br
+` …… Tôi buồn ngủ nên thôi.`@
+` Đeo tấm chăn lên người, tôi duỗi thẳng người ra trên giường.`@
+` Tôi chỉ nghĩ tiếng gào thét như tiếng động thường ngày, chẳng hạn như xe cộ chạy trên đường.
+\
+` *DIPSETTING:sigh*`@
+` Hôm nay thật dài.`@
+` Tôi mệt về mặt tinh thần vì đã ăn tối trong ngôi biệt thự xa lạ này và những cuộc trò chuyện với Akiha cùng mọi người.@
+` Sau tất cả, tiếng gào thét chỉ là tiếng động nền.`@
+` Tôi nhắm mắt lại và nhẹ nhàng ngủ thiếp đi.
+\
+bg #000000,crossfade,800
+!w2000
+play "*7"
+bg #ffffff,crossfade,800
+br
+` [line=3]Tôi có một giấc mơ đầy hoài niệm.`@
+br
+` Cuối hè cách đây tám năm.`@
+` Sau khi bị thương, tôi được đưa đến bệnh viện nơi không ai bao giờ đến thăm và gặp Sensei.`@
+` Khi trở về biệt thự, tôi nghe từ cha già rằng tôi sẽ được một gia đình mà tôi chưa từng nghe qua nhận nuôi.`@
+br
+` Mọi thứ diễn ra rất nhanh.`@
+` Ngay sau ngày tôi rời khỏi bệnh viện, tôi đã đến nhà Arima.
+\
+` Ngày hôm đó bầu trời xanh không một đám mây.`@
+` Bắt đầu mùa thu.`@
+` Tôi bị đưa ra khỏi biệt thự Tohno.@
+br
+` Nhưng một lúc trước đó…
+` Cô bé đã đến thăm tôi, lén lút qua mắt người lớn.
+\
+bg "bg/cmo_20",crossfade,800
+br
+br
+br
+br
+br
+br
+` "Khi bạn sắp rời đi, hãy đến cây ở sân sau."@
+` Sau khi được nói như vậy, tôi trốn thoát khỏi tầm mắt cha già và ra sân sau.
+\
+` Trời xanh.`@
+` Dưới bầu trời xanh thẳm như vô tận ấy, cô chờ tôi.@
+` Theo tôi biết, đây là lần đầu tiên cô rời khỏi biệt thự để ra ngoài.
+\
+` Nhận lấy này.@
+` Nói vậy, cô tháo chiếc nơ buộc tóc và đưa cho tôi.@
+` Tôi đoán đó là món quà chia tay của cô dành cho tôi, nhưng lúc bé, tôi thậm chí không cảm thấy vui mừng về nó.@
+br
+` …… Sau hết, đứa trẻ chín tuổi nào lại cảm thấy vui khi nhận được một chiếc nơ?
+\
+` 'Chiếc nơ này là món yêu thích của tôi, sau này trả lại cho tôi nhé?'@
+` Nhưng đó chính là những lời đã cứu tôi.@
+br
+` 'Trả lại'@
+` 'Trở về',@
+br
+` [line=3]Chỉ như thế là đủ rồi.@
+` Ngày hôm đó, không ai đến tiễn tôi đi cả.@
+` Đối với cô ấy, người mà tôi chưa từng nói chuyện, việc cô ấy nói như vậy… đã khiến tôi hạnh phúc.
+\
+` [line=3]Nhưng tôi không thể nói, 'Tôi sẽ chắc chắn trả lại.'@
+br
+` Mặc dù lúc đó tôi rất thông minh, nhưng tôi nhận ra mình sẽ không bao giờ có thể trở lại biệt thự này nữa.@
+br
+` …… Đó là những lời duy nhất chúng ta trao đổi với nhau.@
+` Có điều gì đó trong ánh mắt băng giá của cô ấy rất đau buồn.@
+` Đã đến lúc, tôi bắt đầu đi về phía cửa ra vào.@
+` Cô bé chỉ đứng im như một con búp bê, nhìn tôi ra đi.
+\
+br
+br
+br
+br
+br
+br
+` Một giấc mơ xa vời về những gì đã xảy ra vào một ngày đẹp trời.@
+` Dưới bầu trời xanh thẳm, trong veo.
+\
+!w1000
+bg #000000,crossfade,800
+playstop
+!w3000

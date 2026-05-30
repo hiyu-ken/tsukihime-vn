@@ -1,0 +1,207 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_56",lcartain,1500
+play "*3"
+` Lúc này đã hơn hai giờ chiều, để xoa dịu cái bụng đói đang kêu réo liên hồi, tôi đưa hai đứa đến một cửa hàng thức ăn nhanh ven đường.@
+br
+` ... Tôi vốn chẳng biết một ma cà rồng thì có ăn được loại thức ăn của con người này hay không, nhưng sau khi Arcueid đứng chăm chú nghiên cứu thực đơn hồi lâu với vẻ mặt cực kỳ tò mò nghiêm túc, rốt cuộc cô ấy cũng gọi một phần ăn y hệt như tôi.
+\
+`"... "@
+` Tôi ngồi đối diện cô ấy ở bàn ăn.@
+` Sau khi Arcueid tò mò ngó nghiêng xung quanh một lượt, cô ấy thản nhiên nhai một cọng khoai tây chiên đầy tự nhiên hệt như đã ăn món này vô số lần trước đây vậy.
+\
+`"…… Oa, trông cậu ăn uống sành sỏi chuyên nghiệp thật đấy. Tôi cứ ngỡ đây là lần đầu tiên cậu ăn món này cơ chứ."@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Thì đúng đây là lần đầu tiên tôi trực tiếp ăn món này mà. Tôi thừa biết về sự tồn tại của những cửa hàng thức ăn nhanh thế này, nhưng trước đây chỉ là tiếp thu qua các nguồn thông tin lưu trữ thôi."@
+`"Chỉ qua thông tin lưu trữ thôi sao…… Ra là vậy, chắc cậu xem tivi hoặc đọc tạp chí thời trang để cập nhật kiến thức đúng không."
+\
+`"Ừm, không hoàn toàn thế đâu. Đối với tôi, việc tiếp thu kiến thức thời đại là bắt buộc để bản thân có thể hòa nhập và hành động ngay khi tỉnh giấc mà. Nhưng thường thì nhiệm vụ của tôi chỉ kết thúc sau vài ngày rồi tôi lại đi ngủ tiếp, nên đống kiến thức đó lại nhanh chóng trở nên lỗi thời vô dụng."@
+`"……?"@
+` Thỉnh thoảng cô ấy lại thốt ra những lời khó hiểu như thế.@
+`"Ừm…… Tại sao nó lại trở nên vô dụng cơ?"@
+`"Ồ, cậu muốn biết tại sao à?"
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Bởi vì sau đó tôi lập tức chìm vào giấc ngủ sâu. Tôi chẳng thể biết được bao nhiêu thập kỷ hay thế kỷ đã trôi qua cho đến lần thức giấc tiếp theo, nên ký ức về thời đại trước hầu như bị xóa sạch. Sau khi tiêu diệt xong mục tiêu, việc duy nhất tôi làm chỉ là ngủ mà thôi."@
+` "... Nhưng nghĩ lại thì, chuyện đó cũng làm tôi bỏ lỡ nhiều điều thú vị thật đấy."@
+` "Tôi chỉ biết đến thế giới bên ngoài thông qua đống dữ liệu khô khan đó. Tôi biết con người thường tụ tập ăn uống vui vẻ thế này, nhưng bản thân tôi chưa từng được trực tiếp trải nghiệm nó lấy một lần."
+\
+`"Tôi hiểu rồi... Nhưng chỉ cần biết lý thuyết thôi mà cậu có thể gọi món và ăn uống sành sỏi như thể chuyện bình thường thế này sao?"@
+ld c,"tachi/ark_t02",crossfade,400
+`"Tất nhiên rồi. Dữ liệu đã lưu trữ sẵn cách thức hoạt động của xã hội loài người, nên tôi chỉ việc bắt chước làm theo thôi."@
+ld c,"tachi/ark_t01b",crossfade,400
+` "Nhưng đó cũng chỉ là bắt chước lý thuyết mà thôi. Trải nghiệm thực tế sinh động vượt xa mọi mớ lý thuyết suông khô khan. Dù trong đầu tôi có chứa đựng vô số kiến thức, chúng cũng hoàn toàn vô dụng nếu bản thân tôi chưa từng tự mình trải nghiệm."@
+` Arcueid khẽ thở dài đầy tiếc nuối.
+\
+`"Thế sao... Nhưng tôi nghĩ một số người thường nói rằng lý thuyết hoàn toàn có thể bù đắp cho sự thiếu hụt kinh nghiệm thực tế đấy chứ."@
+`"Đó chỉ là lời ngụy biện của những kẻ mọt sách chỉ biết đến lý thuyết suông mà thôi.@ …… Bản thân tôi trước đây cũng từng nghĩ như thế, cho đến tận gần đây."@
+` Ánh mắt của Arcueid bỗng chốc chùng xuống, đượm buồn đầy đăm chiêu.@
+` Vì một lý do nào đó, tôi cực kỳ không thích nhìn thấy vẻ mặt buồn bã đượm buồn này của cô ấy chút nào.
+\
+`"Chuyện đó có sao đâu chứ?@ Tôi nghĩ trên đời có những người dùng lý thuyết để bù đắp kinh nghiệm, và ngược lại cũng có những người dùng kinh nghiệm thực tế để chứng minh lý thuyết đúng đắn.@ Thế giới rộng lớn này có vô số kiểu người, đâu có ai giống ai hoàn toàn đâu chứ."@
+ld c,"tachi/ark_t12",crossfade,400
+`"Oa, Shiki! Cậu bỗng nhiên nói ra những lời triết lý sâu sắc và nghiêm túc quá đi mất!"@
+`"Này, Arcueid-san.@ Chính cậu mới là người khơi mào câu chuyện nghiêm túc này trước đấy nhé, tôi chỉ là phụ họa theo thôi.@ Cậu đừng có phá hỏng bầu không khí đang sâu lắng thế này chứ."@
+br
+` Ờ thì, dẫu sao cậu cũng đã tin tưởng kể cho tôi nghe những bí mật sâu kín về cuộc đời mình như thế cơ mà.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Hì hì, tôi biết mà.@ Shiki lúc nào cũng chăm chú lắng nghe mỗi khi tôi muốn tâm sự trò chuyện.@ Dù ngày thường cậu hay cằn nhằn mắng mỏ tôi bướng bỉnh, nhưng hễ là chuyện nghiêm túc thì cậu lại vô cùng kiên nhẫn lắng nghe."@
+` "Ha ha," Arcueid nở nụ cười rạng rỡ đầy hạnh phúc.@
+` ... Hừm.@
+` Đó chỉ là suy nghĩ chủ quan của cô ấy mà thôi, dẫu sao thì cũng vậy.@
+` Nhưng quả thực, nụ cười chân thành rạng rỡ hớn hở đó mới là thứ phù hợp nhất với gương mặt xinh đẹp của cô ấy.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Nghĩ lại những lời tôi nói trước đây, tôi thực sự thấy bản thân mình thật hẹp hòi quá đi mất. Tôi chỉ biết cứng nhắc hành động theo những gì bản thân đã quyết định từ trước mà không hề để tâm đến xung quanh."@
+` Không cần quan tâm đến ai ngoài bản thân mình.@
+` Luôn tin rằng bản thân là kẻ duy nhất đúng đắn. Ngày trước tôi chỉ biết suy nghĩ ích kỷ theo cách đó.@
+` [line=4]Nhưng quả thực là vậy. Thế giới này có vô vàn con tim đập cùng một nhịp, nên chắc chắn có vô số người có thể làm được những điều kỳ diệu mà bản thân tôi chịu chết không làm nổi."@
+` Giọng điệu của cô ấy trở nên vô cùng dịu dàng, đượm vẻ suy tư chín chắn.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"À cơ mà, dẫu tôi có tự suy ngẫm sâu sắc thế nào đi nữa, tính cách bướng bỉnh của tôi cũng chẳng thay đổi được đâu nhé."@
+` Tôi vẫn yêu bản thân mình nhất và luôn tin con đường mình chọn là hoàn toàn đúng đắn mà thôi."@
+cl c,crossfade,400
+` Cô ấy kiêu hãnh mỉm cười tuyên bố những lời dũng cảm đó. Rồi lại tiếp tục tò mò ngó nghiêng xung quanh hệt như trước và cắn một miếng hamburger lớn đầy ngon lành.
+\
+br
+` Rột rột. Rột rột.@
+br
+` Để xua tan hoàn toàn cái mác ma cà rồng đáng sợ, Arcueid đang ăn ngấu nghiến phần thức ăn nhanh của mình một cách ngon lành.@
+`"……@
+` Làm sao thế này?@
+` Thường thì ăn hamburger trông sẽ có chút luộm thuộm khó coi, nhưng sao điệu bộ ăn uống của Arcueid lại trông tao nhã và duy mỹ đến thế nhỉ.
+\
+ld c,"tachi/ark_t14",crossfade,400
+`"Ủa... sao thế?@ Cậu cứ chằm chằm nhìn tôi ăn thế làm gì cơ chứ...?@ À, hay là tôi ăn món này sai cách rồi sao...!?"@
+` Arcueid bối rối vội vàng đặt chiếc hamburger trở lại khay ăn.@
+` Cô ấy ngượng ngùng lấy một tờ khăn giấy khẽ lau khóe miệng đầy cẩn thận. Nhưng ngay cả hành động đơn giản thường nhật đó của cô ấy trông cũng thanh lịch và quý phái vô cùng.
+\
+`"... Không phải đâu, cậu ăn đúng cách rồi đấy.@ Đúng thế thật, nhưng mà trông cậu ăn tao nhã quá đâm ra hơi kỳ lạ.@ Nó chẳng hợp với tính cách nhí nhảnh thường ngày của cậu chút nào cả, nên cậu cứ tự nhiên ăn uống bình thường đi."@
+` Tôi khẽ lầm bầm giải thích rồi thản nhiên ngoạm một miếng hamburger lớn theo cách ăn bỗ bã thông thường của con người.@
+ld c,"tachi/ark_t16",crossfade,400
+`"Ý cậu là điệu bộ tao nhã đó không phù hợp với tôi sao?"
+\
+`"Đó là vấn đề hình tượng thôi mà.@ Đôi môi nhỏ nhắn xinh xắn kia của cậu rõ ràng không phù hợp để ăn mấy món ăn nhanh bỗ bã thế này đâu.@ Ăn khoai tây chiên thì không sao, nên cậu cứ tự nhiên lấy phần của tôi mà ăn này."@
+` Nói rồi, tôi đặt phần khoai tây chiên của mình sang khay của cô ấy.@
+br
+` ... Trời đất ơi, tôi thực sự chẳng hiểu nổi bản thân mình đang làm cái quái gì nữa đây.
+\
+`"Tôi không muốn ăn khoai tây chiên đâu.@ Ăn mấy thứ đó làm sao no bụng được chứ."@
+` Phụng phịu từ chối, cô ấy lại cầm chiếc hamburger lên thản nhiên cắn một miếng lớn đầy thách thức.@
+cl c,crossfade,400
+\
+` ... Nhưng có vẻ cô ấy vẫn bận tâm đến ánh mắt quan sát của tôi, nên điệu bộ ăn uống sau đó đã bớt phần tao nhã quý phái hơn mà trở nên tự nhiên, nhí nhảnh hơn hẳn.@ Thôi thì trông thế này dễ chịu hơn nhiều.@
+` ... Nhưng mà khoan đã, một ma cà rồng mà lại đi ăn hamburger ngon lành thế này sao?@
+` Mọi sinh vật sống đều cần hấp thụ chất dinh dưỡng để duy trì sự sống, nên việc ăn uống là tất yếu.@
+` Nhưng trước đây, Arcueid từng khẳng định chắc nịch rằng cô ấy hoàn toàn không hề uống máu con người.@
+` Vậy để duy trì sinh mệnh, cô ấy thường ăn uống đống thức ăn bình thường của con người thế này để thay thế sao...?
+\
+`"…… Arcueid này."@
+ld c,"tachi/ark_t04",crossfade,400
+`"Hửm, cậu muốn hỏi gì à?"@
+`"Không, tôi không có ý định soi mói gì cậu đâu. Chỉ là tôi tò mò muốn hỏi một chuyện thôi, nếu cậu không phiền lòng."@
+ld c,"tachi/ark_t03",crossfade,400
+`"Được chứ[line=4]Cậu muốn hỏi chuyện gì nào?"@
+`"Ờ thì... Cậu là ma cà rồng đúng không? Nên tôi cứ thắc mắc là nguồn thức ăn duy nhất giúp cậu duy trì sinh mệnh... có bắt buộc phải là máu người không."@
+ld c,"tachi/ark_t13",crossfade,400
+` Đôi mắt đỏ ngầu vằn tia máu của cô ấy bỗng mở to kinh ngạc.@
+` …… Biết ngay mà. Đây quả thực là một câu hỏi cực kỳ thiếu tế nhị.@
+` Nhìn kìa, biểu cảm trên gương mặt của Arcueid trông có vẻ đang vô cùng giận dữ... hay là không phải thế nhỉ.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Này Shiki, bình thường tôi không cần phải ăn đồ ăn để duy trì sinh mạng đâu nhé."@
+` Đúng là việc ăn uống thế này giúp tôi có thể hoạt động độc lập dễ dàng hơn, nhưng đó chủ yếu là vấn đề thỏa mãn tâm lý thôi.@
+` Đối với tôi, khái niệm ăn uống để hấp thụ chất dinh dưỡng hoàn toàn khác biệt so với con người các cậu.@
+` Bản thân tôi cũng có ham muốn thèm khát, nhưng thứ ham muốn đó giống như một dạng dục vọng chiếm hữu hơn là cơn đói sinh lý thông thường.@
+` Nếu không được thỏa mãn ham muốn đó, tôi sẽ thấy cực kỳ bứt rứt khó chịu. Nhưng vì tôi luôn tự kiểm soát bản thân rất tốt, nên cơn thèm khát nghịch đảo huyết mạch (Inversion Impulse) hiếm khi bộc phát dữ dội lắm."@
+cl c,crossfade,400
+\
+` Cô ấy thản nhiên bác bỏ luận điểm ma cà rồng bắt buộc phải uống máu người để sinh tồn.@
+` Hóa ra mọi chuyện là như vậy.@
+` Đúng là cô ấy hoàn toàn khỏe mạnh bình thường dẫu chưa từng uống một giọt máu nào suốt bấy lâu nay.
+\
+`"[line=4]Thì ra là thế."@
+` Tốt quá rồi. Arcueid tuyệt đối không phải là loại quái vật tàn bạo sát hại con người để làm thức ăn nuôi sống bản thân. Thật nhẹ lòng biết bao.@
+` ... Trời ạ. Phải chi ngay từ đầu Arcueid chịu giải thích rõ ràng rằng cô ấy là một ma cà rồng không hề hút máu người, có lẽ tôi đã vui vẻ đồng ý giúp đỡ cô ấy ngay từ đầu rồi...
+br
+`"Này, khoan đã! Cậu đừng có đánh đồng tất cả ma cà rồng đều giống tôi nhé!"
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Đúng là như thế thật. Đến cả con người các cậu cũng không thể nhịn ăn nhịn uống suốt cả ngày đúng không?"@
+` [line=2]Đối với những ma cà rồng Chân Tổ như tôi, nguồn dinh dưỡng tối cao có thể thỏa mãn ham muốn và dục vọng chiếm hữu lớn nhất chính là máu người.@
+` Tuy nhiên, để duy trì sinh mệnh và đè nén cơn thèm khát đó, chúng tôi hoàn toàn có thể dùng ý chí để thay thế máu bằng những nguồn năng lượng khác."@
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=2]Nhưng đối với lũ Tử Đồ — những ma cà rồng vốn có nguồn gốc từ con người bị cắn biến đổi — thì chuyện lại hoàn toàn khác. Để duy trì sự tồn tại của cơ thể thối rữa, chúng bắt buộc phải liên tục hút máu của người khác."
+\
+`"...? Ý cậu là, cách duy nhất để ma cà rồng thỏa mãn triệt để cơn đói khát tột cùng chính là máu người sao?"@
+`"Nhưng cậu đã bảo là cậu ghét việc uống máu người mà."@
+`"Vậy giống như việc con người có những món ăn bị ghét không nuốt nổi, cậu cũng ghét vị của máu người sao?"@
+`"Tôi đoán đây là cách đơn giản hóa dễ hiểu nhất cho lời giải thích dài dòng của cô ấy rồi."@
+br
+` "Tuy nhiên."@
+` "Có vẻ như tôi đã hiểu sai ẩn ý của cô ấy mất rồi."
+\
+playstop
+ld c,"tachi/ark_t17",crossfade,400
+`"... Tôi không biết. Thú thật là tôi hoàn toàn không biết vị của máu người ra sao cả."@
+`"[line=4]Hả?"@
+ld c,"tachi/ark_t10",crossfade,400
+`"Tôi đã kể với cậu rồi mà, tôi không phải là một ma cà rồng hoàn thiện. Tôi chưa từng uống một giọt máu nào cả, nên làm sao biết vị của nó ra sao chứ. Tôi vẫn chưa biết hương vị đó thế nào đâu."@
+` "[line=4]Bởi vì trong nhận thức của tôi, việc uống máu người đồng nghĩa với việc chối bỏ sự tồn tại của họ như một con người và coi họ như một lũ gia súc làm thức ăn."@
+` Cô ấy quay mặt đi hướng khác, không dám nhìn thẳng vào mắt tôi nữa.
+\
+play "*9"
+`"Này Shiki. Nếu loài chim hay loài cá cũng sở hữu trí tuệ, ngôn ngữ và tuổi thọ ngang bằng với cậu, thì sao hả? Cậu có nhẫn tâm ăn thịt chúng nữa không? Cậu có tự ngụy biện cho bản thân rằng dẫu có thông minh đến mấy thì chúng vẫn chỉ là thức ăn và thản nhiên ăn thịt chúng không?"@
+`"[line=6]Không, chuyện đó..."@
+` "[line=4]Tôi làm sao có thể nhẫn tâm ăn thịt chúng được chứ?"@
+` "Tôi không biết nữa. Tôi thực sự không rõ, nhưng trước mắt, chắc chắn tôi sẽ cố tìm kiếm các nguồn lương thực khác thay thế, những thứ hoàn toàn không có trí tuệ như thực vật chẳng hạn."
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Thấy chưa? Chỉ đơn giản thế thôi đấy. Đó chính là lý do tôi cực kỳ ghét ý nghĩ phải uống máu người... Hoặc có lẽ, giống như cậu nói, chuyện này chỉ đơn giản là sở thích cá nhân ghét món này thích món kia thôi chăng."@
+` Nếu có thể, tôi vô cùng muốn tránh xa những thứ liên quan đến máu tươi.@
+` [line=4]Nhưng... Phải, nhưng nếu... nếu con người các cậu không sở hữu cùng giá trị nhân văn, trí tuệ hay đạo đức như tôi, thì có lẽ tôi đã thản nhiên uống máu các cậu từ lâu rồi.@
+` "Đúng không hả? Quy luật tự nhiên vốn định mệnh bắt buộc sinh vật phải tước đoạt sinh mạng của kẻ khác để bảo vệ sự tồn tại của chính mình cơ mà?"@
+` Đúng vậy chứ? Arcueid quay sang hỏi ý kiến đồng tình của tôi.@
+` [line=2]Nhưng dẫu Arcueid có nói thế nào đi nữa, bản thân tôi cũng chỉ có thể lắc đầu từ chối.@
+` ... Tôi tuyệt đối không muốn đồng tình với lập luận đáng sợ đó chút nào.
+\
+`"Dĩ nhiên, có thể quy luật tự nhiên đó là thật, nhưng trước mắt, con người chúng tôi là đồng loại có trí tuệ giống như cậu vậy. Nên hãy kết thúc chủ đề giả thuyết này ở đây đi. Tôi cực kỳ ghét bàn luận về những chuyện 'nếu như' kiểu này."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Thật thế sao? Tôi lại cực kỳ thích những câu hỏi kiểu 'nếu như' đấy chứ. Dẫu chẳng biết kết quả thế nào, nhưng ít nhất trong khoảnh khắc giả định đó vẫn chứa đựng một tia hy vọng mỏng manh."@
+cl c,crossfade,400
+br
+` Nếu... và nếu.@
+` [line=4]Thế nếu quả thực cô ấy cũng thèm khát uống máu người hệt như những ma cà rồng tàn bạo khác, liệu lúc này hai chúng tôi có thể ngồi trò chuyện vui vẻ thế này được không?
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Sao thế Shiki? Sắc mặt cậu đột nhiên tối sầm lại vậy. Kìa, cậu mắc vệ sinh à?"@
+`"... Này. Sao cậu có thể thốt ra cái câu phá đám đó trong khi người ta đang suy nghĩ cực kỳ nghiêm túc hả?"@
+` Tôi khẽ thở dài ngao ngán.@
+` Dẫu tôi có đang vắt óc suy nghĩ nghiêm túc đến thế nào đi nữa, Arcueid có vẻ thực sự chẳng mấy bận tâm đến việc thèm khát uống máu người.
+\
+`"[line=4]Mà phải rồi, chuyện đó đâu có liên quan gì đến tôi đâu chứ."@
+ld c,"tachi/ark_t16",crossfade,400
+`"Trời ạ, sao cậu cứ đứng lầm bầm tự nói một mình thế hả.@ Cứ lén lút giấu giếm thế chẳng phải hành vi của một đấng nam nhi đại trượng phu đâu nhé, Shiki!"@
+` Arcueid lại phụng phịu phồng má trông hệt như một chú mèo đang giận dỗi đầy đáng yêu.
+\
+`"Tôi làm gì có giấu giếm chuyện gì chứ.@ Hơn nữa, cậu mới chính là kẻ đang che giấu vô số bí mật đấy.@ Cậu toàn tự tiện nói mấy thứ khó hiểu làm tôi bối rối để làm trò tiêu khiển thôi."@
+ld c,"tachi/ark_t14",crossfade,400
+`"Làm trò tiêu khiển á...[line=2] Tôi hoàn toàn không có ý định đó đâu mà."@
+` Chẳng hiểu cơn giận dỗi của cô ấy biến đi đâu mất, đột nhiên vẻ mặt cô ấy lại xìu xuống đầy hối lỗi.@
+` Trông cô ấy có vẻ vô cùng lo lắng khi thấy tôi thẳng thắn bày tỏ sự bực dọc như vậy.
+\
+`"…… Thật sao?@ Cậu không có ý định trêu chọc làm tôi bối rối hệt như lúc nãy à?@ Cậu thích giữ bí mật hay là do có ẩn ý gì khác hả?"@
+` "Thôi bỏ đi, dù sao hai chúng ta cũng thuộc hai chủng tộc hoàn toàn khác nhau mà, tôi cũng chẳng bận tâm nữa đâu."@
+`"Không phải thế đâu mà...! Tôi chỉ đang cố gắng trả lời cậu một cách chân thành thôi. Có lẽ vì trước giờ cậu chưa từng hỏi, nên trông tôi mới giống như đang cố tình che giấu nhiều điều như vậy."@
+`"[line=4]Mmm... Vậy nghĩa là từ giờ trở đi, bất kể tôi hỏi chuyện gì cậu cũng sẽ thành thật nói cho tôi biết chứ?"@
+ld c,"tachi/ark_t09",crossfade,400
+`"Tất nhiên rồi. Hai chúng ta đã là cộng sự cùng một đội rồi mà."
+\
+cl c,crossfade,400
+` "Được rồi."@
+` Vậy thì từ giờ trở đi, theo đúng mong muốn của cô ấy, tôi sẽ gặng hỏi để làm rõ mọi bí ẩn trong lòng.
+\
+playstop

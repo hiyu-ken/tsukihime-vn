@@ -1,0 +1,135 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+br
+` [line=3]Tôi sẽ không ăn đâu.@
+` Bỏ hai bữa cũng chẳng chết được.@
+br
+`"…… Ừm, thôi.@ Cậu muốn làm gì thì tùy."@
+` Nhìn thấy thức ăn mà liên tưởng đến thứ gì đó đỏ lòm trên bề mặt, thực sự chẳng phải trải nghiệm tôi muốn lặp lại.@
+` Nói thật, chỉ nhìn chiếc sandwich của Arihiko thôi mà tôi đã thấy khó chịu rồi.@
+` Tôi quay mặt đi, nhìn ra cửa sổ.
+\
+ld c,"tachi/ari_t03",crossfade,400
+`"Oi, Tohno.@ Cậu thật sự không ăn chút gì à?@ Tôi có thể chia nửa sandwich cho cậu."@
+`"Không, cảm ơn.@ Tôi thật sự không có cảm giác thèm ăn."@
+` Họ phàn nàn về việc tôi đến muộn khi tôi thức dậy vào lúc bảy giờ và giờ giới nghiêm là tám giờ. Nếu tôi ở lại đâu đó qua đêm mà không xin phép, họ sẽ thẩm vấn tôi sau đó. Nó giống như một nhà tù vậy.@
+`"Vậy thì chắc cậu bị ốm thật rồi.@ Bình thường cậu ăn nhiều lắm mà."@
+`"Chỉ là đêm qua ngủ không ngon thôi.@ Lát nữa sẽ ổn."@
+`"Tôi đồng ý. Nhưng... dường như cậu đang đưa lập luận này trở nên mạnh mẽ hơn bất kỳ ai khác."@
+`"Thật sao?@ Nhìn mặt cậu chẳng giống sắp ổn chút nào."@
+` Arihiko nhìn tôi bằng vẻ mặt hoài nghi.@
+` …… Cậu ta đúng là bạn tốt thật, lo lắng đến thế này.
+ld c,"tachi/ari_t02",crossfade,400
+`"Nói thật đi.@ Nếu cậu không khỏe, tôi có thể đưa cậu đến phòng y tế."@
+`"Thôi được rồi.@ Thật sự tôi ổn, Arihiko.@ Chỉ là dạ dày hơi khó chịu thôi."@
+`"Được rồi, xuống cổ họng."@
+`"Hmmm.@ Thế thì cậu nên uống chút nước ấm hay gì đó."@
+`"Ừ, ý kiến hay."@
+br
+` [line=6]Tôi đứng dậy đi lấy nước ấm.@
+` Uống một ngụm nước ấm.@
+` …… Nước thì ổn, cơ thể chấp nhận.@
+` Ít nhất tôi không bị mất nước.
+` Người tiên sinh bước vào với thứ gì trông giống như một hộp cơm trưa.
+\
+` Quay trở lại lớp, tôi thấy Arihiko đang nói chuyện với mấy đứa bạn cùng lớp.@
+` Bầu không khí lớp học thật bình yên.@
+` Hệt như mọi ngày.@
+` Thế nhưng, tôi lại cảm thấy khung cảnh bình thường này hơi xa lạ.
+` Senpai lấy ra một hộp cơm được bọc trong khăn tay dễ thương. Nhưng nó dường như hơi lớn so với một cô gái.@
+` Chỉ hai ngày trước, tôi còn đang chiến đấu sinh tử với một Tử Đồ.@
+` Và đêm qua, tôi đã chứng kiến Yumizuka@
+` …… Hai thế giới quá khác biệt.
+`"... Không, không phải thế, nhưng... Senpai, anh không phải là người thích thức sớm à?"
+\
+`"Tohno-kun!"@
+` [line=4]Một giọng nói quen thuộc vang lên từ cửa lớp.@
+` SenpaiCiel-senpai đang đứng ở hành lang, ngoắc tay gọi tôi.@
+ld l,"tachi/cel_t01a",crossfade,400
+`"À, Senpai."@
+` Tôi bước ra ngoài hành lang.@
+\
+`"Tôi nói sẽ qua thăm cậu giờ trưa mà.@ Cậu có khỏe không?@ Trông cậu hơi xanh xao."@
+`"Ồ, tôi ổn ạ.@ Chỉ là hơi mệt thôi."@
+` "Tôi và Arihiko nhìn nhau."@
+`"Ừm, cậu có ăn trưa chưa?"@
+`"Chưa ạ.@ Bụng tôi hơi khó chịu."@
+ld l,"tachi/cel_t03",crossfade,400
+`"Vậy à?@ Cậu nên ăn chút gì đó nhẹ nhàng thôi.@ Đây, tôi có mang bánh mì tới, cậu thử xem được không."@
+` Senpai rút ra một chiếc bánh mì ngọt từ trong túi.@
+` …… Thật ra, chỉ nhìn thôi mà dạ dày đã quặn.@
+` Nhưng Senpai mang đến tận nơi như thế này, từ chối thì thất lễ quá.
+br
+`"…… Cảm ơn Senpai.@ Tôi sẽ thử."@
+` Tôi nhận chiếc bánh mì, cắn một miếng nhỏ.@
+` …… Vị ngọt nhẹ.@
+` Dạ dày không phản ứng dữ dội như lúc ăn cơm.@
+` Có vẻ thứ gì ngọt ngọt, nhẹ nhẹ thì cơ thể còn chịu được.
+` "Nhớ lại, tôi thực sự bắt đầu thân thiết với Senpai khi nhìn thấy cô ấy, một học sinh cao cấp, đứng một mình trong sân trường, sửa những mảnh gạc và giúp cô ấy."@
+`"Thế nào?"@
+`"Ổn ạ.@ Đồ ngọt thì được."@
+`"[line=3]Vậy tốt rồi.@ Ăn từ từ nhé, đừng ép bản thân."@
+` "Đúng vậy," Arihiko đồng tình ngồi cạnh tôi.@
+` Senpai mỉm cười dịu dàng.@
+` …… Cô ấy thật sự là người tốt bụng.@
+` Tôi thầm biết ơn khi có Senpai bên cạnh.
+ld r,"tachi/ari_t03",crossfade,400
+`"Không thực sự như vậy. Nó còn phụ thuộc vào tâm trạng của chúng tôi nữa. Khi còn năm nhất, chị gái tôi đã nấu cho tôi một món gì đó, nhưng Tohno ở đây thường ăn ở quán hoặc mua bánh mì, nên cuối cùng tôi cũng làm theo anh ấy."
+`"À, Senpai.@ Senpai sẽ ở đây lâu không ạ?"@
+`"Tôi rảnh cả giờ trưa.@ Có chuyện gì không?"@
+`"Không, chỉ hỏi thôi.@ …… Senpai, cảm ơn ạ.@ Vì đã lo lắng cho tôi."@
+ld r,"tachi/ari_t02",crossfade,400
+`"Tôi đâu có lo đâu.@ Chỉ là tôi nghĩ cậu trông hơi tiều tụy thôi."@
+` Senpai lảng tránh bằng giọng nói nhẹ nhàng.@
+` Nhưng tôi biết, cô ấy thật sự đang lo lắng.
+` "Đúng thế," Senpai đồng ý và cô mở hộp cơm trưa của mình.@
+` Hộp tròn chứa nửa cơm và nửa món ăn kèm. Nó gần giống một bữa trưa bình thường, nhưng có vẻ hơi lớn.
+` Chúng tôi nói chuyện vặt trong hành lang cho đến khi chuông báo hết giờ nghỉ trưa vang lên.@
+`"Vậy tôi phải về lớp rồi.@ Tohno-kun, chiều nay cậu nhớ về nhà sớm, ngủ cho đẫy giấc nhé."@
+`"Vâng ạ.@ Senpai cũng vậy nhé."@
+`"Một người không có mặt thì ghế của họ sẵn sàng cho người khác ngồi. Tôi chắc Takada-kun sẽ vui nếu bạn chiếm chỗ của anh ấy, Senpai."@
+` Senpai vẫy tay chào rồi quay bước.@
+` Tôi đứng nhìn bóng lưng cô ấy xa dần.@
+` …… Chắc chắn, dẫu cho thế giới bên ngoài có tàn khốc đến đâu, vẫn có những khoảnh khắc bình yên như thế này.@
+` Tôi quay trở vào lớp.
+` Bên cạnh cô ấy, Arihiko bắt đầu mở gói bánh mì thứ hai trong khi vẫn đứng.@
+` Bên cạnh hai người họ, tôi vô tình nhìn ra cửa sổ.
+\
+ld l,"tachi/cel_t12",crossfade,400
+`"Hừ? Tohno-kun, cậu không ăn gì à?"@
+`"Không, tôi nghĩ mình sẽ bỏ qua bữa trưa hôm nay."@
+ld l,"tachi/cel_t08",crossfade,400
+`"Không ăn... Không sao đâu phải không? Tôi không đói và việc bỏ qua một bữa ăn không ảnh hưởng nhiều đến tôi."@
+`"Wow, thật đáng kinh ngạc. Nếu tôi bỏ qua một bữa ăn, tôi sẽ không thể hoạt động được. Tôi sẽ ngất đi vì đói."@
+ld l,"tachi/cel_t02",crossfade,400
+`"... Thật xấu hổ, tôi luôn ăn nhiều hơn người khác, và tôi vẫn cảm thấy đói."@
+` "Không đâu. Senpai, cậu đã phát triển rất nhiều so với những cô gái khác. Tôi chắc chắn cậu phải ăn rất nhiều để duy trì bộ ngực lớn như vậy của cậu."
+\
+ld r,"tachi/ari_t01",crossfade,400
+`"Đúng vậy, Arihiko nói đúng."@
+` "Vâng, lời cậu ấy nói là sự thật."@
+` Thật ra, chúng ta đều muốn cô ấy ăn nhiều và lớn lên hơn.@
+ld l,"tachi/cel_t11",crossfade,400
+` Senpai có xấu hổ hay ngượng ngùng không? Cô ấy làm một biểu cảm mà tôi không hiểu rõ.@
+` …… Dĩ nhiên, tôi chắc chắn cô ấy có lẽ hạnh phúc.
+\
+ld l,"tachi/cel_t01a",crossfade,400
+`"Nhưng Tohno-kun, cậu thực sự sẽ ổn nếu bỏ qua bữa trưa à?"@
+`"Tôi sẽ ổn. Bỏ qua bữa ăn trong ngày không phải là điều hiếm gặp. Tôi chỉ chưa ăn sáng, nên tôi có thể ổn cho đến buổi tối."@
+ld l,"tachi/cel_t08",crossfade,400
+`"Wow[line=3]Tohno-kun, cơ thể cậu sẽ bị suy sụp với lối sống như vậy."@
+`"Nó sẽ không bị hỏng. Đây là một hạn chế về tinh thần hơn. …… Dĩ nhiên, nhờ một tai nạn từ lâu, bác sĩ của tôi đã nói rằng không tốt để tăng cân, nên tốt hơn là tôi nên bỏ qua bữa ăn đôi khi."
+\
+ld l,"tachi/cel_t12",crossfade,400
+`"Huh. Tôi đoán ngay cả các chàng trai vẫn nghĩ đến chế độ ăn uống sau tất cả."@
+` Senpai nhìn tôi vì một lý do nào đó, và sau khi suy nghĩ một chút, cô ấy đóng hộp cơm trưa của mình.@
+ld l,"tachi/cel_t08",crossfade,400
+`"Ồ, tôi vừa nhớ ra mình có việc phải làm, nên xin lỗi nhé."@
+` Cô ấy nhanh chóng thu dọn đồ đạc và biến mất như gió.@
+cl l,lshutter,400
+`"[line=3]Ôi, dễ thương quá."@
+` Arihiko buồn bã bình luận về Senpai khi nhìn cô ấy rời đi.
+\
+bg #000000,crossfade,1500

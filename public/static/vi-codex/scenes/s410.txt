@@ -1,0 +1,35 @@
+bg #000000,notrans,0
+playstop
+waveloop se_11
+!w4000
+bg "bg/bg_40a",crossfade,800
+` ... Tôi không còn nghe thấy tiếng đồng hồ phiền toái nữa.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_40a",crossfade,400
+` [line=4]Gõ cửa, gõ cửa.@
+br
+` Nhịp thở của tôi hoàn toàn mất kiểm soát và tôi không thể điều chỉnh lại được.@
+` Nó lạnh đến nghẹt thở.@
+` [line=4]Nếu trời lạnh như vậy, tôi muốn ngừng quan tâm đến mọi thứ. Tôi cảm thấy muốn ngủ.
+\
+bg #000000,crossfade,800
+` Gõ gõ, gõ gõ.@
+` Gõ, gõ, gõ.@
+` Gõ gõ gõ, gõ gõ.@
+` [line=3]Gõ, gõ, gõ.@
+` [line=5]Gõ gõ gõ, gõ...@
+` [line=5]Gõ......, gõ.@
+` [line=3]Tiếng gõ nhẹ nhàng, như một nhịp điệu kỳ lạ.@
+br
+`"[line=8]@
+br
+` Tôi nghe thấy âm thanh gõ cửa, có vẻ gần đây.@
+` Có thể là Hisui đang đến?@
+` Nhưng cơ thể tôi dường như đã mất khả năng di chuyển.@
+` Tohno Shiki, sẽ sống mãi trong cái lồng này, và không ai có thể giết được Tohno Shiki...
+\
+bg #ffffff,crossfade,1500
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

@@ -1,0 +1,37 @@
+monocro off
+playstop
+Loop âm thanh bắt đầu.
+bg "bg/bg_29c",notrans,0
+` Chưa, còn quá sớm. Nrvnqsr vừa đến.@
+` Arcueid, chú ý của cậu ấy dần tập trung vào cô ấy, tôi chưa thể tấn công bất ngờ.@
+` [line=3]Đừng hiểu lầm, Nrvnqsr. Những Chân Tổ của Tử Đồ không chỉ là hai mươi bảy người, mà là hai mươi tám. Cậu không nhận ra 'Con Rắn' là một trong số họ sao?
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Tất nhiên rồi. Lý tưởng của hắn khác với chúng ta. Hắn là một ma cà rồng, nhưng hắn không hiểu ý nghĩa của việc là một ma cà rồng. Do đó, chúng ta không chấp nhận hắn như một trong số mình."@
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Đúng vậy. Quan điểm của hắn trái ngược với chúng ta."
+\
+ld c,"tachi/nero_t02c",crossfade,400
+`"[line=4]Chúng tôi là bạn bè cũ rồi. Tôi nghĩ mình hiểu anh ta hơn những Tử Đồ khác."@
+cl c,crossfade,400
+ld c,"tachi/ark_t07",crossfade,400
+`"... Tôi hiểu rồi. Nếu suy nghĩ kỹ, cậu cũng giống 'Con Rắn' vậy, khác biệt với những ma cà rồng kia. Vì cả hai đều là dị giáo, nên chắc chắn có những điểm chung."
+\
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Sai rồi. Dị giáo bị cô lập, nên vẫn là dị giáo. Chỉ vì chúng ta đều bị tách khỏi đàn chiên không có nghĩa là chúng ta hiểu nhau."@
+cl c,crossfade,400
+ld c,"tachi/ark_t07",crossfade,400
+`"Thật sao? Đến tận nước này để tìm kiếm tôi, tôi nghĩ các cậu khá giống nhau."@
+cl c,crossfade,400
+ld c,"tachi/nero_t02a",crossfade,400
+`"Đừng ngốc nghếch. Cậu là người thay đổi bất thường.@
+` Mục đích của cậu là tiêu diệt Tử Đồ, vậy sao cậu vẫn theo đuổi con rắn Akasha một cách kiên định? Độc của con rắn không phải là thứ mà Công chúa của Chân Tổ nên cố chấp."
+\
+cl c,crossfade,400
+` ... Giọng Nrvnqsr trở nên hơi lớn hơn.@
+` Phải chăng trò trêu chọc của Arcueid đang có hiệu quả? Nrvnqsr chỉ nhìn vào kẻ thù duy nhất của mình, Arcueid.@
+br
+` [line=3]Tôi phải làm gì bây giờ?
+\

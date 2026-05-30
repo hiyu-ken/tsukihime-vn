@@ -1,0 +1,73 @@
+monocro off
+play "*6"
+wavestop
+bg "bg/bg_19d",notrans,0
+` [line=3]Chừng nào Arcueid vẫn chưa thể di chuyển thì ra ngoài mù quáng là nguy hiểm.@
+br
+` …………@
+` Nhắm mắt lại, tôi cầm dao bằng một tay.@
+` Arcueid cũng im lặng. Cô ấy trông như đang cẩn thận với những gì xung quanh.
+\
+` Sàn dưới đang ồn ào.@
+` Có lẽ cú sốc đã đánh thức khách và có thể họ đang phàn nàn với nhân viên khách sạn.@
+` Mới chỉ bốn giờ sáng mà tiếng ồn lại lớn như một lễ hội.@
+br
+` [line=3]Ngay cả khi nó im lặng sau vài phút.
+\
+wave se_01
+` Tiếng ồn biến mất.@
+` Một sự im lặng ghê rợn.@
+bg #000000,notrans,0
+playstop
+` ![line=6]!@
+` Ánh đèn tắt.@
+` Cùng lúc đó,
+wave se_05
+wave se_05
+wave se_05
+wave se_05
+` tiếng đập vô số thứ vào cánh cửa.
+\
+` "Bạn đã sẵn sàng, Shiki?@
+` Arcueid thì thầm trong bóng tối.
+\
+` …… Sẵn sàng cho cái gì?@
+` Tôi thậm chí không cần phải hỏi cô ấy.
+\
+wave se_05
+!w1200
+!w1200
+wave se_05
+wave se_05
+!w1200
+wave se_05
+!w1200
+wave se_05
+!w1200
+wave se_05
+!w1000
+wave se_10
+br
+` [line=3]Nếu ở lại đây là một sai lầm…`
+` Vậy thì câu hỏi đó cũng là một sai lầm.`@
+` Tôi quay lại cửa khi nghe nó vỡ.`@
+` [line=8]" "@
+` Không một âm thanh nào thoát ra từ miệng tôi.@
+` Khi tôi quay lại, những chiếc răng trắng tinh chói lóa chiếm toàn bộ tầm nhìn của tôi.
+\
+bg #ffffff,crossfade,400
+` Như một cái miệng khổng lồ, có thể nuốt chửng tôi hoàn toàn.`@
+` Liệu tôi có thể bình tĩnh nhận ra đó là hàm của con cá mập?
+\
+bg "bg/ima_12",lshutter,400
+` Máu tươi bắn tung tóe khắp nơi.`@
+` Cái xác của tôi rơi xuống sàn với một tiếng đập.@
+` Đầu tôi rơi xuống.@
+` Mọi thứ dưới mặt tôi đã bị nuốt chửng chỉ trong một cái cắn.`@
+br
+` Đó là cảnh cuối cùng tôi từng thấy.
+\
+bg #000000,crossfade,800
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

@@ -1,0 +1,369 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",lshutter,400
+play "*9"
+` Arcueid khẽ thở hắt ra một hơi dài, lẳng lặng ngắm nhìn ánh trăng mờ ảo.@
+`"[line=3]Cậu biết không Shiki... Tôi thực sự chẳng có bất kỳ ký ức tươi đẹp nào về quá khứ cả."@
+` "Nhiệm vụ của tôi chỉ là chém giết. Mỗi khi hoàn thành việc thanh trừng một mục tiêu, tôi lại bị đưa trở lại tòa lâu đài cổ lạnh lẽo ở phương Tây."@
+` "Bọn họ giam cầm tôi bên trong một căn phòng đá lạnh buốt, phong ấn mọi cử động và bắt tôi phải chìm vào giấc ngủ sâu vô thức suốt hàng chục, hàng trăm năm liền cho đến lần đi săn tiếp theo."@
+` "Tôi không có sở thích cá nhân, không có bạn bè, không biết hương vị đồ ăn thế nào, và cũng chưa bao giờ được tự do dạo bước dạo chơi ngắm nhìn thế giới ban ngày như hôm nay cả."@
+\
+[line=3]ld c,"tachi/ark_t17",lshutter,400
+` Giọng điệu của cô ấy nhỏ dần, run run đượm vẻ xót xa tủi hờn vô hạn.@
+br
+` [line=4]Hai hàng nước mắt trong vắt khẽ lăn dài trên gò má trắng ngần nần nà của cô ấy dưới ánh trăng mờ ảo.@
+\
+` Nhìn giọt nước mắt lăn dài và gương mặt đượm buồn đầy cô độc thương tâm đó của cô ấy, lồng ngực tôi bộc phát một cảm xúc mãnh liệt vô cùng.@
+` Tôi không thể chịu đựng nổi việc nhìn thấy cô gái xinh đẹp tốt bụng này phải tiếp tục chịu đựng số phận bi thảm cô độc đó thêm nữa.@
+` Tôi vội vàng tiến lại gần, nắm chặt lấy đôi bàn tay mềm mại nhưng lạnh ngắt của cô ấy đầy chân thành.@
+\
+\
+`"[line=6]Shiki...?"@
+` Cô ấy trố mắt nhìn tôi đầy ngạc nhiên bàng hoàng.@
+`"Tôi hứa với cậu! Dẫu thế giới này có quay lưng lại với cậu đi chăng nữa, tôi quyết định sẽ luôn ở bên cạnh tin tưởng và bảo vệ cậu! Tôi sẽ là bạn của cậu, và từ nay về sau, tôi sẽ đưa cậu đi chơi khắp mọi nơi để bù đắp lại tất cả những năm tháng cô độc trước đây!"@
+br
+ld c,"tachi/ark_t08",lshutter,400
+play "*3"
+` Nghe tôi nói thế, giọt nước mắt trên má cô ấy bỗng chốc bốc hơi tan biến hoàn toàn, thay vào đó là một nụ cười hớn hở rạng rỡ và hạnh phúc tột cùng.@
+`"Thật chứ Shiki? Cậu hứa sẽ luôn là bạn của tôi và đưa tôi đi chơi suốt đời chứ?"@
+\
+` [line=3]Cô ấy vui sướng khóc nghẹn rồi nhào thẳng vào ôm chầm lấy tôi đầy ấm áp.@
+` Ôm lấy thân hình mảnh mai kiều diễm của cô ấy dưới ánh trăng rực rỡ, tôi tự nhủ dẫu bản thân có phải đánh đổi cả mạng sống này, tôi cũng quyết định sẽ bảo vệ nụ cười hạnh phúc trọn vẹn này của cô ấy đến tận cùng thế giới.
+[line=3]\
+cl c,lshutter,800
+ld c,"tachi/ark_t04",crossfade,400
+playstop
+!w3000
+`"[line=3]... Mười phút trước, nhưng..."@
+` Tôi đến trước mười giờ, và cô ấy lại còn sớm hơn?
+\
+`"Tại sao...? Nếu cậu ở đó trước tôi, tại sao cậu không nói với tôi rằng cậu đang chờ đợi ở đó?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Tôi muốn quan sát cậu khi tôi đang ẩn nấp."@
+`"[line=5]"@
+` ... Tôi hiểu rồi.@
+` Ngay cả khi cô ấy không thể hiện khác biệt nào, chắc chắn cô ấy đã bị phiền nhiễu bởi những gì đã xảy ra đêm qua.@
+` Đó là lý do [line=4]cô ấy không thể đối mặt với tôi trực tiếp và đang trốn tránh.
+\
+`"... Xin lỗi. Đúng vậy, nó không đơn giản như thế[line=3]"@
+`"Đúng vậy. Cậu chưa bao giờ biết tôi ở đây."@
+` Tôi đang chờ cậu để ý đến điều đó.@
+` Tôi dự định gặp gỡ theo một cách khác lần này, nhưng cậu đã phá hỏng nó chỉ bằng việc lơ đãng."@
+`"[line=4]Eh?"@
+br
+` Cậu phá hỏng cái gì?
+\
+`"[line=3]Arcueid, cậu không giấu giếm vì cảm thấy ngượng ngùng……?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Tại sao? Tôi hơi chán nên muốn đùa giỡn một chút."@
+` Cô ấy nói nhẹ nhàng, thậm chí còn không biết một chút về sự thất vọng tôi đang cảm nhận.@
+`"[line=3]…… Đùa giỡn với tôi, cậu à?"@
+cl c,crossfade,400
+` Niềm vui tôi cảm thấy khi gặp cô ấy tan biến ngay lập tức.@
+` Không phải là tâm trạng khiến tôi phải suy nghĩ về việc mình nên làm gì sau khi nhìn thấy cô ấy.@
+` …… Như thường lệ, cô ấy hành động theo tốc độ của chính mình, thậm chí không hiểu cảm xúc của tôi.
+\
+`"Ha." [line=5]@
+` Tôi hít một hơi sâu vào không khí đêm.@
+` Tôi ít tức giận hơn là bất ngờ.@
+` Có lẽ tôi chỉ cảm thấy nhẹ nhõm khi cô ấy hành xử bình thường. Ít nhất là theo tiêu chuẩn của cô ấy.@
+` Là bằng chứng, trái tim tôi vốn nặng trĩu bởi những thứ tạp chất vừa được làm sạch một cách mới mẻ.
+\
+`"…… Ồ, cậu thắng rồi."@
+ld c,"tachi/ark_t03",notrans,0
+`"Thật sao? Tôi nghĩ cậu chỉ đang mơ màng thôi."@
+`"Không, không phải là trò chơi trốn tìm đâu."@
+` …… Thôi kệ, nói ra cũng vô ích.
+\
+`"Tôi vui vì cậu đã đến. Để nói thật, tôi nghĩ sẽ không bao giờ gặp lại cậu nữa."@
+ld c,"tachi/ark_t12",crossfade,400
+`"[line=3]Ồ? Cậu nghĩ thế sau chỉ hai tiếng chờ đợi sao?"@
+`"…… Không phải thế đâu. Vì đêm qua… Tôi nghĩ chúng ta sẽ không bao giờ gặp lại nhau nữa."@
+playstop
+ld c,"tachi/ark_t17",crossfade,400
+`"[line=4]"
+\
+play "*5"
+`"…… Không được đâu, Shiki. Tôi nói là bạn nên quên nó đi."@
+` Arcueid nói với giọng yếu ớt.@
+cl c,crossfade,400
+`"[line=5]Ồ..."@
+` ... Ngốc nghếch thật.@
+` Tôi quá ngốc nghếch.@
+` Tôi tự ti rằng cô ấy đang cư xử hoàn toàn bình thường.@
+` Nhưng, tôi sai rồi.@
+` Cô ấy cư xử như vậy để tôi không cảm thấy buồn.
+\
+`"…… Xin lỗi. Tôi là một ngốc. Tôi không có quyền la hét với bạn nữa."@
+ld c,"tachi/ark_t10",crossfade,400
+`"Tôi nói nó ổn rồi. Nếu ai đó đáng bị trách, thì chính là tôi. Nên hãy quên đi. Không tốt hơn cho cả hai chúng ta sao?"@
+` Cô ấy cố gắng lừa cả hai bằng cách nói vui vẻ.@
+` Lừa chúng tôi về đêm qua, lừa chúng tôi về sự lo lắng của cô ấy.@
+` Nhưng.@
+` Nói với tôi quên đi với biểu cảm đó, làm sao tôi có thể quên?
+\
+`"[line=3]Không. Tôi không xin lỗi về đêm qua. Tôi là một ngốc vì không thể quên điều gì đó mà tôi nên quên."@
+`"[line=3]Ồ Shiki?"@
+`"Từ khi sáng nay, tôi chỉ nghĩ đến bạn. Tôi chỉ có thể suy nghĩ về cách xin lỗi bạn và những lời nói sau khi nhìn thấy bạn."@
+` "[line=3]Vậy nên, tôi không thể chỉ quên đi điều này bây giờ."
+\
+ld c,"tachi/ark_t17",crossfade,400
+`"[line=4]"@
+` Arcueid nhìn đi chỗ khác.@
+` [line=3]Tôi không thể nhìn cô ấy nữa. Sau khi cảm nhận được tôi nói điều tôi không nên nói, giờ đây tôi không thể nhìn vào đôi mắt cô ấy.
+\
+` Cô ấy không đáp lại.@
+` Tôi cũng không thể, và một sự im lặng dài bắt đầu.@
+br
+` [line=3]Tôi không biết chúng ta đã đứng đó bao lâu.@
+br
+` Arcueid gật đầu một cách nhẹ nhàng.
+\
+`"... Vâng, để nói đúng ra thì..."@
+ld c,"tachi/ark_t14",crossfade,400
+` Tôi cũng không thể quên điều đó, Shiki."@
+` Arcueid đỏ mặt khi nói vậy với chút khó khăn.@
+`"Arcueid[line=4]"@
+` Cô ấy trông thật dễ thương khi làm thế.@
+cl c,lshutter,400
+` [line=3]Ngay khi tôi nghĩ rằng... Arcueid nhìn xung quanh.@
+br
+` Tôi không biết điều này xảy ra từ bao giờ, nhưng chúng ta bị bao vây bởi những hình dáng con người.
+\
+playstop
+`"Ồ...?"@
+` Tôi không thể suy nghĩ vì điều đó quá bất ngờ.@
+ld c,"tachi/ark_t07",crossfade,400
+play "*6"
+`"Chúng ta bị bao vây rồi. Chuẩn bị sẵn sàng, Shiki. Nếu cậu không chiến đấu, cậu chỉ sẽ chết thôi."@
+`"[line=3]Chiến đấu? Vậy thì họ..."@
+`"Nếu cậu tháo kính ra, cậu sẽ thấy được, phải không? Họ là những 'Người Chết' ngay cả khi không có một giọt máu bình thường nào trong người."@
+`"...!"@
+` Tôi nhanh chóng rút con dao và tháo kính ra.
+\
+bg "bg/bg_29c",crossfade,800
+` Giống như cô ấy nói,
+` Năm người xung quanh chúng ta chỉ là những đường nét phác thảo thành hình một con người.
+\
+`"[line=3]Tại sao? Bạn nói bạn đã giết hết họ hôm qua, Arcueid!"@
+ld c,"tachi/ark_t05c",crossfade,400
+`"[line=3]Đúng vậy. Đây chính là những kẻ mà tôi đã phá hủy hôm qua."@
+` Cô ấy siết chặt đôi mắt và nhìn chằm chằm vào chúng.@
+` Chúng tiến về phía cô ấy chậm chạp.
+\
+`"Vậy họ chỉ giả vờ chết à?!"@
+`"Tất nhiên không. Tôi không yếu đến mức bị lừa bởi những trò như thế. Nhưng, việc tôi mắc sai lầm thì không thể biện minh được. Tôi không đảm bảo chắc chắn rằng chúng đã tan thành tro bụi vào cuối cùng."@
+cl c,crossfade,400
+br
+` Làm lại lần nữa.@
+` Họ đang khép kín vòng vây xung quanh chúng ta.@
+` Những ngón tay cầm dao của tôi run rẩy nhẹ.
+\
+` Để nói thẳng ra, không có áp lực nào đến từ những Người Chết này.@
+` So với một quái vật như Nrvnqsr, họ chẳng là gì cả.@
+br
+` [line=3]Nhưng, có năm người.@
+` Tôi có thể chiến đấu với số lượng Người Chết này[line=3]số lượng sinh vật từng là con người này?
+\
+`"[line=2]Shiki, nếu cậu do dự thì cậu sẽ chết.@ Chúng không còn sống nữa.@ Một khi bị ma cà rồng hút máu và trở thành Tử Giả, chúng không thể quay lại[line=2]chúng chỉ là những con rối bị ma cà rồng sử dụng.@ Giết chúng không phải là tội."@
+` Tôi nghe thấy giọng nói của cô ấy từ phía sau lưng tôi.@
+` Cô ấy dường như đã di chuyển để bảo vệ lưng tôi dễ bị tổn thương.
+\
+`"Chờ đã.@ Cô ý nói gì vậy?"@
+`"... Tôi muốn nói là có nhiều cách để điều khiển ma thuật một xác chết.@ Dễ hơn nhiều khi chèn năng lượng ma thuật vào một xác người so với động vật hay đồ không hữu hình, nên rất tiện lợi[line=3]thật không may, tôi không có thời gian để giải thích chi tiết."@
+` "Họ đang đến."@
+` Tôi cảm nhận được cô ấy di chuyển lui.@
+` Đồng thời, họ tấn công.
+\
+bg #000000,lshutter,400
+` Hình dạng của cái chết tấn công.@
+` Họ chỉ bay thẳng về phía trước, tay giơ ra.@
+`"[line=4]Tôi nhảy sang một bên để né tránh cuộc tấn công.@
+` Sau đó, tôi cảm nhận được một điều khủng khiếp phía sau mình.@
+` "Tại sao... bạn lại làm thế?"
+\
+`"[line=3](Tôi quay lại, đôi mắt mở to kinh ngạc.)@
+` Tôi quay người lại với tất cả sức mạnh của mình.@
+` Có một Người Chết đang cố đánh tôi.@
+ld c,"tachi/man_t03",crossfade,400
+br
+` [line=4]Cơ thể Người Chết gần như không có chỗ nào không bị "lằn" trên đó.@
+` Điều đó cho phép tôi cắt vào bất kỳ nơi nào trên cơ thể họ.@
+` Hơn nữa, những chuyển động của họ vô cùng chậm chạp.@
+` Dễ dàng hơn nhiều so với bất cứ thứ gì mà Nrvnqsr tạo ra.
+\
+`"[line=6]"@
+` Người Chết lao vào tấn công tôi.@
+` Tôi có thể giết chúng một cách dễ dàng.@
+br
+` Tránh được cánh tay vung ra, tôi nhắm vào chỗ không bảo vệ ở phần bụng dưới bên trái của kẻ đầu tiên.@
+br
+` Ở "dòng" các mạch máu đó.@
+` Tôi nhìn chằm chằm vào trái tim gọi là "điểm" của nó [line=4]
+br
+`"[line=3]Chết tiệt...!!!!"@
+` Quấy nhiễu.@
+` Con dao không chạm đến mục tiêu, chỉ cắt qua cánh tay nâng lên của nó.
+\
+` Kẻ chết một cánh tay thậm chí còn không dừng lại cuộc tấn công.@
+` Tử Giả khác cũng xuất hiện mà không biểu lộ sự sợ hãi nào.@
+br
+` Người Chết một tay tấn công.@
+` Ngay khi tôi né tránh người Chết đó, Người Chết khác nhảy lên từ phía sau.
+\
+bg "bg/ima_13",crossfade,400
+wave se_10
+quakex 2,100
+`"Aha" [line=4]@
+` Xé nát.@
+` Từ phía sau, giống như tư thế nâng đỡ nhau.@
+` Người Chết cắn vào cổ tôi.@
+` Không nên hút máu tôi hay bất cứ điều gì tương tự.@
+` Giống như một con thú cố giết con mồi bằng cách cắn đứt cổ nó.
+\
+`"[line=4]Gah!"@
+` Một miệng người có thể cắn xuyên qua cổ không?@
+` Miệng của kẻ Chết nông. Nó cắn bằng răng trước thay vì răng sau.@
+` Do đó, răng của kẻ Chết thực sự gãy bỏng.@
+` [line=3]Ngay cả vậy, nó vẫn cố cắn xuyên qua cổ tôi với cái miệng phẳng.@
+br
+` Không thực sự đau.@
+` Điều này thật kinh tởm.
+\
+`"[line=3]A... a... a..."@
+` Người chết một tay đang tiến về phía tôi.@
+` Tôi phải giết Tử Giả ở sau lưng mình hoặc tôi sẽ chết.@
+` Phương pháp rất đơn giản.@
+` Khi nó cố cắn cổ tôi, tôi chỉ cần vung con dao qua mặt nó.
+\
+`"[line=6](lần lặp lại hành động cắt dao)@
+` [line=3]Nhưng... điều đó có nghĩa là tôi phải giết người khác.@
+` Tôi hiểu rồi.@
+` Chúng không phải là con người, thậm chí chúng cũng không sống[line=3]nhưng tôi vẫn cảm thấy điều này sai trái.
+\
+br
+br
+br
+br
+` [line=3]Thật ngây thơ.@
+` Ngay cả khi chúng là xác chết.@
+` Chúng có hình dạng của con người và di chuyển giống như họ.@
+` Vẫn có vẻ sai lầm khi giết chúng như một con người khác[line=4]
+\
+`"Shiki[line=3]??!"@
+` Tôi nghe thấy giọng nói của Arcueid khi cô ấy đối phó với ba Tử Giả còn lại.@
+` Không do dự, dù có người trước mặt, tôi vẫn liếc qua nhìn cô ấy.@
+br
+` [line=3]Và...@
+` Tôi thấy điều gì đó vô cùng khó tin.
+\
+bg "bg/bg_29c",crossfade,400
+ld c,"tachi/ark_t15",lshutter,400
+`"[line=5]@
+` Arcueid bị thương.@
+` Ngay cả khi chúng di chuyển rất chậm chạp và chỉ cần một giây để giết cô ấy, Arcueid đang bị những Tử Giả đẩy lùi.@
+` Cô ấy thở nặng nhọc.@
+` [line=3]Đi chân cũng không vững chắc và cô ấy gặp khó khăn trong việc né tránh những đòn tấn công, ngay cả tôi cũng có thể né được.@
+cl c,lshutter,400
+\
+` Một cái chết tàn khốc xé toạc cánh tay cô ấy.@
+` Cô ấy phản kháng.@
+` Cô ấy chia thân thể thành hai nửa, từ đầu đến eo.@
+` Hai mảnh cơ thể rơi xuống đất.@
+br
+` [line=3]Đồng thời, những bóng ma của cái chết khác đang rình rập cô ấy.
+\
+ld c,"tachi/ark_t18",notrans,0
+`"[line=3]Một tiếng thét"@
+` Cô ấy ngã xuống đầu gối với một tiếng nổ.@
+` Từ khoảng cách này, tôi có thể thấy hơi thở hoang dã của cô ấy.@
+cl c,crossfade,400
+\
+` [line=3]Hai Tử Giả tấn công.
+\
+` Chúng đá vào mặt cô ấy khi cô ấy quỳ gối và khiến cô ấy ngã xuống đất.@
+br
+`"[line=3]St"@
+br
+` Sau đó,
+` chúng mang theo nụ cười nhạt nhẽo, vô cảm khi chúng ngồi lên người cô ấy.
+\
+`"[line=3]Dừng lại"@
+br
+` ... Cô ấy nằm đó với đôi tay giang rộng như một thập tự giá.@
+` Giống như khi tôi làm những việc xấu hổ với cô ấy đêm qua.@
+br
+`"[line=3]Dừng lại đi, những kẻ khốn nạn kia!"
+\
+bg #000000,lshutter,400
+bg "bg/ima_14",notrans,0
+` Đánh.@
+` Tôi cắt qua mặt kẻ đứng sau tôi vẫn còn cố cắn tôi.@
+` Tôi xuyên qua vùng bụng dưới bên phải của người đứng trước mặt tôi, người đã dừng lại một cách kỳ lạ.@
+` Đó là nơi cái chết của nó tồn tại.@
+` Ngay cả khi nhìn thấy nó tan rã, tôi vẫn quay lại và tiêu diệt những kẻ chết vô diện phía sau mình.
+\
+` Tôi chạy.@
+` Khi những người xung quanh cô nhận ra tôi sắp đến, họ đứng dậy và tấn công.@
+`"[line=5]"@
+` Không vấn đề gì.@
+` Tôi cắt xuyên qua những "điểm" chết của họ khi họ tấn công tôi.
+\
+!w1000
+playstop
+bg "bg/bg_29b",lshutter,400
+`"[line=5]Hả?"@
+` Sau khi tất cả kết thúc.@
+` Tôi bắt đầu lấy lại hơi thở.@
+br
+`"[line=3]Gah."@
+` Bốn hình bóng tan thành tro bụi.@
+` Năm người đã chết. Arcueid giết trước đó.
+\
+`"[line=2]Haah."@
+` Tôi không do dự, ngăn chặn chúng hoàn toàn.@
+br
+`"Agh, ah."@
+` Tôi không thể suy nghĩ rõ ràng. Có lẽ vì sự hối hận và lời tự trách đang vang lên trong đầu tôi.
+\
+` Hơi thở của tôi ngạt không khí xung quanh.@
+` Nhưng, vẫn tốt.@
+` Tốt hơn là cô ấy không bị tổn thương.@
+` Lần đầu tiên,
+` [line=3]Bằng ý chí tự do của mình, với tâm trí của Tohno Shiki, tôi sử dụng sức mạnh này vì lợi ích của người khác.@
+br
+` Tôi vẫn còn khò khè.@
+` Có vẻ như tôi không thể lấy lại hơi thở hoàn toàn.@
+` Tôi có thể nghe thấy tiếng thở khò khè yếu ớt lẫn với nhịp thở dữ dội.
+\
+`"... Arcueid."@
+` Đi vòng quanh, tôi thấy cô ấy đầy đau đớn và quỳ xuống.@
+br
+`"Arcueid, cô ấy ổn chứ?!"@
+` Tôi vội vã chạy đến bên cô ấy.@
+` Cô ấy cuộn mình lại, thở như một sinh vật không thể làm gì khác.
+\
+`"Có chuyện gì vậy? Mồ hôi đầm đìa. Wound của cô mở ra...?"@
+` Tôi quỳ xuống và cố nhìn vào mặt cô ấy.@
+ld c,"tachi/ark_t20",crossfade,400
+`"[line=4]Shiki."@
+` Nhưng cô ấy dùng tay che mặt.@
+` Tôi không thể nhìn thấy mặt cô ấy.@
+` [line=3]Tôi chỉ thấy đôi mắt đỏ ngầu xuyên qua ngón tay của cô ấy.
+\
+`"[line=3]" @
+` Khổ đau của cô ấy không bình thường. @
+` Cách thở gián đoạn của cô ấy không tự nhiên. @
+` Một hơi thở đói khát. @
+` Đôi mắt đỏ ngầu. @
+` Làn tóc bay trong gió.
+\
+`"[line=3]Arc" @
+br
+` [line=4]Bình tĩnh lại. @
+br
+` Cảm nhận nguy hiểm, tôi lùi lại.@
+` Nhưng nhanh hơn nhiều so với chuyển động của tôi là răng cô ấy khép lại để hút máu tôi.
+\
+bg #ffffff,lshutter,400

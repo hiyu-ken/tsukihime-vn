@@ -1,0 +1,34 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11b",notrans,0
+` Nhưng tôi không thể đi xa đến mức đó được.@
+` Senpai có lẽ chỉ mở lời vì lòng tốt, nhưng tôi không muốn chị thấy bộ dạng thảm hại lúc này của mình.
+\
+`"[line=2]Không đâu ạ, em nghĩ mình cố được.@ Nghe lời Senpai nói là em thấy no bụng rồi."@
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Vậy sao?@ Tohno-kun này, em đã nhịn suốt cả ngày rồi đấy.@ Em có chắc là mình sẽ không lăn đùng ra xỉu giữa đường không đó……?"
+\
+`"Senpai cứ yên tâm đi ạ.@ Một kẻ ngất xỉu như cơm bữa như em thì chỉ cần chớm mệt là biết ngay.@ Với lại hôm nay cơ thể em đang tự bảo là cực kỳ ổn."@
+ld c,"tachi/cel_t08",crossfade,400
+`"…… Ừm.@ Nếu em đã nói thế thì chắc là không sao rồi."@
+` Khẽ thở dài một tiếng đầy ngao ngán, Senpai tiếp tục cất bước dọc hành lang.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01b",lcartain,800
+` Chúng tôi cùng nhau bước ra khỏi cổng trường.@
+` Từ đây, chúng tôi phải chia tay nhau và rẽ hai lối khác.@
+br
+ld c,"tachi/cel_t03",crossfade,800
+`"Vậy thì tạm biệt ở đây nhé.@ Chúng ta đi nhanh thật đấy."@
+` …… Tôi cũng có cảm giác như thế.@ Thực lòng tôi cứ ước giá mà trường học rộng hơn một chút thì tốt biết mấy.
+\
+`"Thế thì, Senpai, hẹn gặp lại chị ngày mai nhé."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Ừm, ngày mai tụi mình lại gặp nhau ở trường nha."@
+cl c,lshutter,800
+` Nở nụ cười tươi khi trả lời, Senpai khuất dần về hướng ngược lại.@
+` Đứng nhìn theo bóng lưng chị ấy đi xa, tôi mới quay đầu rảo bước về nhà.
+\
+bg #000000,lcartain,1500
+playstop

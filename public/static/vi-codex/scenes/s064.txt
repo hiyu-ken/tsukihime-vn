@@ -1,0 +1,118 @@
+playstop
+wavestop
+bg "bg/bg_06a",notrans,0
+` … Tôi đoán tôi sẽ đi xem thử phòng trà đạo.@
+` Tôi chắc chắn rằng Senpai đã nói điều gì đó hôm qua sau giờ học về việc ăn trưa ở đó.@
+` Nếu Senpai ở đó, tôi có thể trò chuyện với cô ấy trong khi ăn trưa.@
+br
+` [line=3]Quan trọng nhất là,
+` Tôi thích ăn trưa cùng Senpai và tôi cũng lo lắng về tin tức sáng nay.@
+br
+` [line=3]Được rồi.@
+` Phải tận dụng cơ hội khi còn nóng hổi.@
+` Tôi đi đến phòng trà đạo trước khi Arihiko nhận ra kế hoạch của tôi.
+\
+bg "bg/bg_11a",lcartain,800
+play "*3"
+` Tôi gõ cửa phòng trà đạo.@
+` Sau một hồi chờ đợi ngắn ngủi, cánh cửa kêu leng keng rồi mở ra một chút.  Senpai đưa đầu ra ngoài.@
+ld c,"tachi/cel_t12",lshutter,400
+` “Ê?” Tohno-kun?”`@
+` Shiki cau mày, nghiêng đầu.@
+` Cô ấy không có vẻ tức giận, nhưng dường như cô ấy thật sự không hiểu tại sao tôi lại đến đây.
+\
+` "Cậu muốn ăn trưa cùng tôi không, Shiki?"@
+` "Cầm cái bánh mì tôi mua ở căng tin, tôi nói với cô lý do tại sao tôi đến đây."@
+ld c,"tachi/cel_t08",crossfade,400
+` "Bữa trưa? Tôi rất vui khi cậu hỏi tôi, nhưng[line=3]"@
+` Anh trai đang suy nghĩ, vẻ mặt lo lắng.`@
+` …… Chẳng có vẻ tốt đẹp đâu.`@
+` Dường như anh trai không mấy hứng thú.`@
+` Mình đoán mình chẳng có lựa chọn nào khác.`@  Mình quyết định dùng một chút chiến thuật.
+\
+` "Tôi có bánh mì cà ri."@
+ld c,"tachi/cel_t05",crossfade,400
+` [line=3]“Ê?”`@
+` Anh trai nhìn tươi sáng hơn.`@
+` …… Tôi có cảm giác từ bữa trưa hôm qua rồi, nhưng tôi thấy phản ứng của cô thật thú vị.@
+` "Tôi sẽ tặng cậu món này để cảm ơn bữa trưa hôm qua, vậy nên chúng ta cùng ăn đi."@
+ld c,"tachi/cel_t04",crossfade,400
+` "Vâng, xin mời! Tôi vừa pha xong trà."@
+cl a,lshutter,400
+br
+` Anh trai vội vàng biến mất vào trong.`@
+` Sau cô ấy, tôi bước vào phòng trà đạo.`
+\
+bg "bg/bg_09a",lcartain,800
+` Â…@
+` Khi tôi bước vào, rõ ràng là lý do Senpai ngần ngại lúc trước.@
+` Trên tấm tatami có một chiếc hộp cơm đã trống rỗng.@
+` Dường như Senpai đã ăn trưa xong từ lâu rồi.
+\
+ld c,"tachi/cel_t03",lshutter,400
+` "Tohno-kun, cậu muốn trà xanh hay trà đen?@
+` "Eh? …… À, trà xanh, vâng. Quan trọng hơn là, Senpai đã ăn trưa xong chưa?@
+ld c,"tachi/cel_t04",crossfade,400
+` "Vâng, vừa lúc nãy thôi. Tôi ngủ nướng sáng nay nên không có bữa sáng và cả buổi sáng đều đói. Thật khủng khiếp!"@
+` "…… Tôi hiểu. Chắc cậu không cần ép mình phải đi cùng tôi. Xin lỗi vì đã làm phiền Senpai. Tôi sẽ ăn ở trong lớp học, nên xin Senpai hãy tận hưởng thời gian thư giãn của mình.@
+ld c,"tachi/cel_t09",crossfade,400
+` "Eh[line=3]? Cậu có nghĩa là cậu không cho tôi bánh mì?@
+` Sự đau buồn của Senpai dường như vang vọng từ tận đáy lòng.
+\
+` "Không, tôi có nghĩa[line=3] cậu chắc đã no rồi, phải không, Senpai?"@
+ld c,"tachi/cel_t12",crossfade,400
+` "Không đâu. Tôi vẫn đói."@
+` …… Dường như cô ấy không đơn giản chỉ nói vậy để làm tôi cảm thấy tốt hơn.@
+` "Thật sao?@ Vậy thì tôi sẽ xâm nhập… Cái này có thật sự ổn với cậu, Senpai?@ Bánh mì ở căng tin của chúng ta thực sự rất đầy đặn, cậu biết đấy.
+\
+ld c,"tachi/cel_t02",crossfade,400
+` "Không cần lo lắng! Nếu là thức ăn tôi thích thì tôi có thể ăn vô hạn."@
+` Nụ cười ngượng ngùng đó rất có thể không phải do xấu hổ mà là do mong đợi bánh mì cà ri.@
+` ………@
+` …… Cô ấy là một người đầy bí ẩn.@
+` Người nào có thể hạnh phúc đến vậy chỉ vì một chiếc bánh mì cà ri vào thời điểm hiện tại có lẽ rất quý giá…
+\
+bg #000000,lshutter,800
+!w500
+bg "event/cel_e02a",lshutter,800
+` Senpai ăn một cái còn tôi ăn hai cái, sau đó chúng ta uống trà.@
+` Cúi người trên tấm thảm, anh trai tôi và tôi thong thả nhâm nhi trà.`@
+` "Thật tiếc là lại vào giờ ăn trưa ở trường thôi, nhưng đó là cuộc sống."
+\
+` “Nhà mới của cậu thế nào, Tohno-kun?  Có chuyện gì khủng khiếp xảy ra sáng nay.”`@
+` “Ừm… vâng.  Chắc là bên trong nhà sang trọng thật đấy, nhưng đêm lại có mấy con chó hoang ồn ào quá. Có lẽ cũng không tốt vì không có tivi và phòng kiểu Nhật, nên chẳng có chỗ nào để uống trà như thế này.”`@
+` "Gì vậy, một con chó lang thang?@ Cậu có nghĩa là chuyện xảy ra ở nhà cậu không liên quan đến những vụ giết người hàng loạt?"
+\
+` “Tôi không biết thật sự đâu.  Bên ngoài biệt thự có bức tường cao lắm, người ta nói tìm thấy vết máu ở đó. Nhưng nghe này,[line=3]"`@
+br
+` [line=3]Tôi thấy con chó lang thang đêm qua.`@
+` Tôi không thể nói ra được.`@
+br
+` “…………Ừm.  Dù sao nó cũng chẳng liên quan đến chúng ta. Hãy thôi nói về những chuyện phiền muộn đi, bây giờ chúng ta đã có cơ hội để thư giãn rồi.”`@
+` "Không hề đâu!@ Chúng ta là người ở đây nên tôi nghĩ những vụ giết người có liên quan đến chúng ta."`
+\
+` Anh cầm ly trong tay một bên, nhìn tôi với ánh mắt nghiêm túc.`@
+` "Ừm, đúng vậy. Nhưng cậu sẽ ổn nếu không đi đường vào ban đêm, chứ? Đến giờ đã có tám người chết rồi, phải không? Với số nạn nhân nhiều như thế này, cảnh sát chắc chắn sẽ bắt được tên hung thủ trong thời gian sớm thôi."`@
+` "[line=3]Ê, Shiki ơi!@ Cậu chẳng có chút ý thức về nguy hiểm gì đâu, à?@ Kể từ khi nạn nhân thứ ba xuất hiện, tin tức đã nhắc đi nhắc lại chuyện này mãi rồi, nhưng họ vẫn chưa bắt được hắn, phải không!?"`
+\
+` "Ừ… Vâng, đúng vậy. Nhưng tôi không hiểu lắm khi họ đặt tựa như thế 'Ma cà rồng thời hiện đại'. Tôi xin lỗi, tôi đã xem nhẹ nó quá nhiều. Chúng ta sống ở thị trấn này, nên phải cẩn thận chứ?"`@
+` "Vâng. Tôi vui vì cậu hiểu."@
+` Anh cười mãn nguyện.
+\
+` Nhưng anh trai ơi, tại sao lại gọi hắn là ma cà rồng chứ?`@
+` “Chà, máu đã bị rút ra khỏi tất cả các xác chết, phải không? Chẳng phải nó giống như một con ma cà rồng?”`@
+` “…… Cậu thật sự nghĩ như vậy chứ? Chẳng phải người ta nói rằng nếu bị ma cà rồng hút máu thì sẽ biến thành ma cà rồng sao? Những nạn nhân này đều đã chết, còn xác để chứng minh, nên không cần thiết phải gọi hắn là ma cà rồng.”`@
+` Anh cười và gật đầu.`@
+` Cậu thật sự tin vào những thứ như ma cà rồng, Shiki?`
+\
+` “………… Cứ thế mà xem tin tức đi. Nếu thật sự có ma cà rồng thì chẳng còn xác chết nào đâu, như tôi đã nói trước đó.”`@
+` "Vâng, cậu đúng.@ Nhưng có thể nghĩ như thế này không?@ Những người bị tìm thấy chết là vì họ không thể trở thành ma cà rồng.@ Trên thực tế, có những người có thể và không thể trở thành ma cà rồng, và những người có thể trở thành ma cà rồng sẽ không xuất hiện như xác chết sau khi bị một con tấn công.@ Bởi vì họ vẫn còn sống ở đâu đó."`
+\
+` “Ahaha, thế là chuyện kinh dị rồi, anh trai.”@
+` "Vâng, đúng như vậy.`Tôi xin lỗi, câu chuyện này không có kết thúc hài hước."`@
+` Cười nhẹ, anh trai nâng ly lên uống.`@
+br
+` Trong lúc chúng ta đang trò chuyện lung tung thì giờ ăn trưa cũng kết thúc rồi.
+\
+playstop
+bg #000000,lshutter,800

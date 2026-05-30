@@ -1,0 +1,123 @@
+monocro off
+wavestop
+bg "bg/bg_29b",notrans,0
+play "*3"
+`"Hả?"@
+` Cô ấy muốn nói gì về đêm qua?@
+` Tôi không hiểu cô ấy đang nói về điều gì.@
+` [line=3]Sau tất cả, tôi là kẻ ngốc đã hiểu sai lời của Arcueid và mắc phải sai lầm ngu ngốc này, nên dĩ nhiên tôi không hiểu những gì cô ấy nói, và... Hả?@
+br
+` [line=3]Arcueid có hỏi tôi ai đến vào đêm qua không?
+\
+`"... Arcueid. Cô muốn nói gì bằng 'đêm qua'?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Hừm? Đó là chuyện lạ, tôi biết mình đã gửi cho cô một giấc mơ quen thuộc."@
+`"Chờ đã, cái cảm giác mơ quen thuộc đó là gì?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Ồ, nó giống như một linh hồn quen thuộc cho phép bạn thấy một giấc mơ về điều mà bạn mong muốn nhất. Bạn là nam giới, nên tôi gửi cho bạn một ma nữ."@
+cl c,crossfade,400
+`"[line=5]Một giấc mơ tốt? Đó..."@
+br
+` "Tôi nhớ lại giấc mơ thực tế mà tôi từng có và mặt tôi đỏ bừng."
+\
+bg #ffffff,crossfade,400
+monocro #ffff00
+bg "event/ark_h02",crossfade,400
+monocro off
+bg "bg/bg_29b",crossfade,400
+` "Bạn, đó là do bạn sắp đặt!"@
+`"[line=3]Arcueid cười lớn hơn nữa.@
+` "Ôi trời ơi."@
+` [line=3]"Đúng là..."@
+` [line=3]Nếu tôi im lặng, cuộc trò chuyện này sẽ kết thúc, nhưng vì tôi phản ứng mạnh mẽ như vậy,
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"À, vậy là cậu hiểu rồi. @ Vậy ai đến? @ Tôi biết rồi, là em gái cậu, phải không?" @
+`"[line=4]Không, không phải Akiha! @ Cậu nghĩ tôi là loại người thế à! @ Tôi chẳng điên rồ đến mức làm điều đó với em gái!" @
+`"Ừm. @ Nếu không phải em gái cậu, thì có phải là những người hầu trong dinh thự?" @
+cl c,notrans,0
+` Arcueid nhìn tôi với vẻ am hiểu.
+\
+`"[line=4]Ồ..."@
+` Cô ấy hành xử giống như Arcueid trong giấc mơ đêm qua.@
+br
+`"Đó không phải việc của cậu, nên để tôi yên."@
+` Tôi quay mặt đi và từ chối.@
+` Nhưng Arcueid cứ lặp đi lặp lại: "Đến đây, đến đây."
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Nói cho tôi biết đi. Cậu ít nhất cũng có thể nói cho tôi biết cậu đã mơ về ai."@
+` Cô ấy hỏi như một đứa trẻ tò mò.@
+` Mỗi lần tôi quay đi, cô ấy lại nhảy trước mặt tôi, nói: "Đến đây nhanh lên."@
+br
+` ... Đây là sự tra tấn thuần khiết.@
+` Cô ấy tinh nghịch như giấc mơ đêm qua.
+\
+` Tôi che mặt bằng tay.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Này Shiki, đừng im lặng và nói với tôi."@
+` Arcueid cứ nhìn tôi với đôi mắt ngước lên như vậy.@
+br
+` [line=3]Tôi không thể, Chúa ơi.@
+` Đây là giới hạn của tôi.@
+br
+`"…… Cậu."@
+` Tôi do dự nói khẽ.
+\
+`"[line=3]Ồ?@ Chuyện tôi sao?"@
+`"Đừng làm tôi phải lặp lại.@ Tôi đang nói rằng chính cậu đã đến!"@
+` Tôi hét lên đầy tức giận và quay mặt đi.@
+` Mắt Arcueid mở to ngạc nhiên.@
+play "*1"
+ld c,"tachi/ark_t12",crossfade,400
+`"M, tôi……?"@
+`"[line=4]Đúng vậy, không đùa đâu.@ Cậu đã đến, và [...]"@
+` Tôi không thể hoàn thành được.
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"Ah..." [line=4]@
+` Arcueid giờ quay mặt đi, trông rất khó chịu.@
+cl c,crossfade,400
+br
+`"... "@
+`"... "@
+` Chúng tôi chẳng biết nói gì.@
+` Sự im lặng khó chịu tiếp tục.
+\
+` "..."@
+` …………@
+` …………………
+` …………………………@
+` ………………………………… *cổ họng khò khè*@
+` Tôi không thể chịu đựng sự im lặng này nữa và cố gắng khạc ra.
+\
+br
+`"…… Đầu tiên, tại sao cậu gửi tôi thứ đồ mơ hồ đó?@ Cậu còn giận tôi vì đã giết cậu à?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Đó không phải là lý do.@ Tôi gửi nó như một lời cảm ơn vì đã đánh bại Nrvnqsr.@ Tôi thực sự biết ơn cậu, tôi nghĩ cậu sẽ vô cùng vui mừng."@
+`"Là lời cảm ơn?[line=3]Tôi không cần thứ cảm ơn kiểu đó.@ Với gu thẩm mỹ kém như vậy, những ma cà rồng đang nghĩ gì vậy?"@
+` Tôi cúi vai xuống.@
+` Tôi không biết cô ấy giận về chuyện gì, nhưng ánh mắt cô ấy nhìn tôi đầy bất mãn.@
+ld c,"tachi/ark_t06",crossfade,400
+`"Chuyện này liên quan đến mày sao? Tôi biết mình không phải là con người."@
+cl c,lshutter,400
+` Cô ấy quay lưng lại, rồi bắt đầu bước đi.
+\
+playstop
+`"Này, chờ đã. Đi đâu thế?"@
+`"Không liên quan đến mày. Đừng theo tôi!"@
+` Cô ấy thực sự giận dữ à? Arcueid bước đi mà không hề ngoái nhìn lại.
+\
+`"... ..."@
+` Cô ấy định đi đâu mà?@
+`"... "@
+` Có lẽ tôi đã nói quá nhiều.@
+` Bất kể kết quả hay phương pháp, cô ấy thực sự cảm ơn tôi với ý định tốt. Tôi bắt đầu cảm thấy hối hận sâu sắc và nghĩ rằng có lẽ tôi nên chấp nhận quà của cô ấy một cách hạnh phúc hơn.
+\
+`"[line=5]"@
+` Đáng khóc! Tại sao tôi lại không thể rời xa Arcueid được...!?@
+br
+`"[line=3]Chờ đã, tôi nói chờ!"
+\
+bg #000000,lcartain,800

@@ -1,0 +1,8 @@
+monocro off
+wavestop
+playstop
+bg "bg/bg_06b",crossfade,1500
+` Các buổi học lại kết thúc và tôi vẫn dư dả khá nhiều thời gian rảnh rỗi.@
+br
+` Cơ mà[line=3]
+\

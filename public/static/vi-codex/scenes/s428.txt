@@ -1,0 +1,121 @@
+playstop
+wavestop
+bg "bg/bg_06g",notrans,0
+`"[line=10]"@
+` Những bước chân dần xa.@
+` [line=4]Tôi chỉ có một cơ hội.@
+` Khi cô ấy đi qua lớp học, tôi sẽ nhảy ra khỏi hành lang và tấn công cô ấy.@
+` Nếu khoảng cách quá xa, tôi sẽ bị giết giống như Shiki.@
+`"[line=10]"@
+` "... Khoảng cách chừng hai mét. Theo bước chân của cô ấy, đó sẽ là khoảng tám bước."@
+` "……………… Được rồi."@
+`"Tôi lén lút tiến lại gần và đặt tay lên cửa.@
+` Nhẹ nhàng gõ. Tiếng gõ cứng nhắc của những bước chân cô ấy ngày càng gần hơn.@
+` "Một..."
+\
+` "Hai..."@
+`   (Không có dòng thứ 8 trong đoạn văn bản này)@
+`     Ba.@
+`      Bốn.@
+`        Năm.@
+`          Sáu.@
+`            Bảy.@
+`              Tám...!
+\
+!w2000
+` Tiếng chân dừng lại ở đó.@
+` Cô ấy chưa vượt qua phòng học.@
+` Cô ấy chỉ đứng ở phía bên kia cánh cửa.@
+wave se_01
+!w2000
+br
+`"Chuyện gì vậy?" [line=7]@
+` Thời gian ngừng lại.@
+` Một tiếng đập mạnh. Bên trong đầu tôi đau đớn.@
+br
+wave se_01
+!w2000
+`"[line=10]@
+` Cô ấy có biết không? Có biết không?
+\
+wave se_01
+!w2000
+` Vậy tôi phải làm gì?@
+` Cô ấy không thể bước vào lớp học trừ khi cô ấy mở cửa.@
+` Cô ấy phải vào lớp học để gặp tôi.@
+wave se_01
+br
+` [line=3]Cho đến khi cánh cửa này đóng lại, cô ấy không thể giết được tôi.
+\
+Chơi âm thanh se_02
+`"[line=9]"@
+` ... Rồi tôi chẳng quan tâm nữa.@
+` Nếu cô ấy cố mở cửa, cũng tốt thôi. Nó sẽ chỉ là một trận đấu giữa tốc độ: khả năng "cắt" của tôi hay khả năng "nhìn" của cô ấy.@
+` Bình tĩnh.@
+` Tôi hít một hơi sâu.@
+` Nhưng điều đó vẫn không thay đổi thực tế rằng tôi ở trong thế bất lợi.@
+` Tất cả những gì Akiha cần làm là nhìn.@
+` Nhưng tôi phải nhìn những "dấu vết" trên cơ thể cô ấy và sau đó cắt chúng bằng con dao của mình.@
+` [line=4]Vì tôi phải thực hiện một chuyển động dư thừa, dù đây là phạm vi của tôi, tôi không thể nói rằng nó thuộc về tôi.
+\
+wave se_08
+`"[line=7]Ồ?"@
+` Bất ngờ,
+` Một tiếng va đập từ cửa sổ vang lên.@
+wave se_10
+bg #9c0120,notrans,0
+Động đất 3,5.
+`"[line=5]Hả?"@
+` Não tôi như bị đóng băng.@
+` Tôi đột nhiên mất hết cảm giác ở tay và chân.@
+` Cơ thể nặng trĩu của tôi vươn lên và va vào tường.
+\
+bg #000000,tshutter,400
+`"[line=4][line=4]Hah!"@
+` Thị lực của tôi bị chặn lại.@
+` Nước trong mắt tôi bốc hơi ngay lập tức, khiến tôi không nhìn thấy gì cả.@
+` Tôi chẳng biết gì về thế giới bên ngoài đang diễn ra.@
+` Tôi chỉ hiểu được điều tôi đang làm.@
+` Tôi lơ lửng giữa không trung, và giống như Kohaku-san trước đó, tôi bị treo trên tường bằng mái tóc của Akiha.
+\
+play "*4"
+`"Thật vô trách nhiệm."@
+` Vậy nên, đó là những gì tôi đã làm, và trong khi cậu quá tập trung vào hành lang, tôi đã đến từ lớp học kế bên. Lần sau, cậu nên học hỏi kinh nghiệm và chú ý đến ban công cũng nhé.@
+` Cô ấy cười khúc khích.@
+`"[line=8]Ahaha!"@
+` Cổ họng tôi bị siết chặt.
+\
+` Các chi của tôi mất cảm giác, như thể đã bị cắt đứt. Cơ thể tôi đang ngấm dần mái tóc của Akiha.
+\
+`"Ôi, hành động đó thật thiếu tôn trọng. Không có 'lần sau' nào cho cậu, anh trai."@
+` "Ngoài ra, tôi xin lỗi, anh trai. Tôi đã ăn cậu ngay lập tức một cách thô lỗ."@
+` "Dù tôi đã tiêu thụ phần lớn cơ thể cậu trong lúc nóng giận, cậu vẫn còn tỉnh táo, phải không? Xin hãy tha thứ cho sự thiếu lịch sự của tôi vì tôi sẽ làm điều này cẩn thận lần này."
+\
+br
+!w2000
+br
+br
+br
+br
+br
+br
+` [line=4]"Vậy thì, tôi sẽ giữ cậu lại."@
+`     "Tạm biệt, anh trai."
+\
+bg #ffffff,crossfade,800
+`"[line=10]"@
+` "Cơ thể tôi đang cháy."@
+` "Chiếc khóa đỏ trên mái tóc đốt cháy cả cơ thể và linh hồn tôi."@
+br
+` Tôi nghe thấy nhịp tim cuối cùng của mình đập.@
+br
+` ... Đúng là ngốc nghếch.@
+` Dù biết rất nhiều, Nanaya Shiki vẫn kết thúc giống như Tohno SHIKI.
+\
+!w3000
+bg #000000,crossfade,400
+playstop
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

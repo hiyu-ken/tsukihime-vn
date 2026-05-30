@@ -1,0 +1,763 @@
+Dòng ảnh nền "bg/bg_36d", loại (l), với Akiha, thời gian 10 giây, tốc độ 10.
+bg "bg/cmo_20",crossfade,1500
+play "*7"
+` Đó là nhiều năm trước.@
+` Tôi đến đây sau khi đã phong tỏa mình trong phòng suốt bao lâu.@
+` Có lẽ sau khi tôi đã trở thành bạn với một trong những nữ hầu, và cuối cùng tôi đang ra ngoài chơi.@
+br
+` [line=3]"Tôi xin lỗi, anh trai."@
+br
+` Trong sân trống trải, Akiha đột nhiên bắt đầu khóc.@
+` Ngay cả khi tôi hỏi cô ấy xin lỗi vì điều gì, cô ấy vẫn cứ tiếp tục xin lỗi.
+\
+` [line=4]Vì chúng tôi đã lấy đi mọi thứ từ bạn, anh trai.@
+br
+` Lý do Akiha khóc là điều đã kết thúc với tôi trong quá khứ.
+\
+` ... Nó sẽ là một lời nói dối nếu tôi nói rằng tôi không giữ thù hận.@
+` Nhưng một cô bé sáu tuổi không thể cảm thấy trách nhiệm cho điều đó, và nó không thể là điều mà cô ấy cầu xin tha thứ một cách tuyệt vọng như vậy. Đầu tiên, cô ấy chẳng làm gì sai cả.
+\
+` [line=3]Tôi xin lỗi. Tôi xin lỗi, anh trai.@
+br
+` ... Tại sao tôi lại không nhận ra?@
+` Từ lần đầu tiên tôi gặp Akiha, cô ấy luôn xin lỗi tôi.@
+` Trong căn biệt thự rộng lớn này, chỉ có cô ấy là người khóc cho tôi.@
+br
+` [line=3]Cảm ơn. Nhưng, đủ rồi.@
+br
+` Tôi mỉm cười và vuốt ve đầu Akiha.@
+` Akiha ngước nhìn tôi, ngạc nhiên.@
+` Sau đó, lần đầu tiên, tôi cảm thấy một sự mạnh mẽ...
+\
+` [line=3]"Không cần khóc, Akiha."@
+` "Từ giờ trở đi, chúng ta là anh em chị em."@
+br
+` Tôi nhớ lại nụ cười hạnh phúc của Akiha.@
+` Khi ấy, tôi đã hứa.@
+` Chúng ta sẽ là một gia đình thực sự.@
+` Vì tôi là anh cả, tôi sẽ bảo vệ Akiha bất kể xảy ra điều gì.
+\
+bg #ffffff,crossfade,400
+playstop
+br
+br
+br
+br
+br
+br
+` Những suy nghĩ như vậy.@
+` Tôi có một khoảng thời gian mà tôi nắm giữ những suy nghĩ đó như thể tôi đang mơ.
+\
+!w2000
+bg "bg/bg_40a",crossfade,800
+play "*2"
+`"Nn..."@
+` Tôi thức dậy với ánh sáng buổi sáng.@
+` Khi chắc chắn rằng tôi không phải là kẻ giết người, tôi không có giấc mơ về việc giết người vào đêm qua.@
+`"... Nhưng, có điều gì đó..."@
+` Tôi có cảm giác như vừa trải qua một giấc mơ hoài niệm.@
+` Khi Akiha và tôi còn trẻ, một giấc mơ từ trước khi chúng tôi biết điều gì dành cho nhau...
+\
+wave se_04
+ld c,"tachi/his_t01",lshutter,800
+`"Xin lỗi.@ Đã đến lúc thức dậy, Shiki-sama."@
+`"Ừm, buổi sáng, Hisui.@ Cậu lại sớm như thế này sao?"@
+ld c,"tachi/his_t04",crossfade,400
+` Hisui cúi đầu và rời đi.@
+` Như thường lệ, cô đặt xuống bộ đồng phục học sinh mới và chúc tôi một buổi sáng tốt lành.
+\
+ld c,"tachi/his_t17",crossfade,400
+`"Shiki-sama, cậu trở về nhà vào lúc nào tối qua?@ Akiha-sama đang chờ trong phòng khách."@
+`"... Ừm, tôi mệt mỏi hôm qua.@ Tôi biết Akiha-sama đang chờ trong phòng khách, nhưng tôi thẳng tiến lên phòng của mình."@
+cl a,crossfade,400
+` Trả lời, tôi cảm thấy chán nản vì sự tự ghét.@
+` ... Đêm qua.@
+` Sau khi chia tay với Ciel-senpai, tôi trở về biệt thự và thẳng lập đi vào phòng của mình để trốn Akiha.
+\
+` Mặc dù tôi phủ nhận điều đó trước mặt senpai, nhưng tôi vẫn sợ hỏi Akiha.@
+` Tôi không thể đơn giản hỏi Akiha, "Cô có phải là ma cà rồng không?" Nếu câu trả lời là điều tồi tệ nhất có thể, tôi sẽ không biết phải làm gì.@
+` Khi nghĩ về chuyện này, tôi không thể đối mặt với cô ấy và cũng không thể nói chuyện với cô ấy.
+\
+`"Hisui. Akiha đã ở trong phòng khách chưa?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Đúng vậy. Cô ấy đã chờ em một lúc rồi."@
+`"…… Tôi hiểu rồi.@ Thật không tốt..."@
+` "Hiện tại, tôi không tự tin rằng mình có thể nói chuyện với cô ấy như bình thường.@ Tôi không chắc mình có thể thậm chí là chào hỏi một cách thân thiện."@
+`"Hisui à.@ Xin lỗi, nhưng cậu có thể ở lại cùng tôi hôm nay được không?@ Cho đến khi tôi rời đi, tôi muốn cậu ở bên cạnh tôi."@
+ld c,"tachi/his_t17",crossfade,400
+`"[line=8]"@
+` Mặc dù biểu cảm của cô ấy không thay đổi, Hisui nhìn tôi với vẻ sốc.
+\
+ld c,"tachi/his_t16b",crossfade,400
+`"[line=3]Tôi hiểu rồi.@ Vậy thì, tôi sẽ theo cùng bạn cho đến khi bạn rời đi, Shiki-sama."@
+` Cô ấy cúi đầu rất sâu, Hisui chấp nhận yêu cầu của tôi.
+\
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+` Trong phòng khách, Kohaku-san đang uống trà cùng Akiha.@
+`"Ôi, buổi sáng, cả hai bạn."@
+` Dường như, tôi chào họ một cách tự nhiên.@
+ld c,"tachi/aki_t01a",crossfade,400
+`"... ..."@
+` Có thể cô ấy giận tôi vì tôi đi thẳng lên phòng mình; Akiha chỉ liếc nhìn tôi thoáng qua, không nói gì.
+\
+cl a,crossfade,400
+ld c,"tachi/koha_t01a",crossfade,400
+`"Chào buổi sáng, Shiki.@ Thật bất thường khi thấy cậu ở bên Hisui."@
+`"... Vâng, hôm nay tôi không cảm thấy tốt lắm, nên tôi nhờ cô ấy hộ tống.@ Nếu tôi chóng mặt trên cầu thang thì sẽ nguy hiểm."@
+ld c,"tachi/koha_t05",crossfade,400
+`"Ồ~, tôi hiểu rồi.@ Hisui, cậu thực sự đáng tin cậy."@
+cl a,crossfade,400
+ld c,"tachi/his_t02",crossfade,400
+`"... "@
+` Dĩ nhiên, Hisui đứng im lặng bên cạnh tôi.
+\
+cl a,crossfade,400
+ld c,"tachi/koha_t01a",crossfade,400
+`"Này, tôi đi chuẩn bị bữa sáng nhé.@ Cậu chờ cùng Akiha được không?"@
+cl a,lshutter,400
+` Kohaku vào bếp.@
+`"... "@
+` Akiha không nói gì cả.@
+` Cảm nhận được bầu không khí khó chịu, tôi ngồi xuống chiếc sofa.
+\
+` ...@
+` ...@
+` ...@
+` Im lặng căng thẳng bao trùm căn phòng khách.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Anh trai."@
+`"[line=3]Nh-này, Akiha? Có chuyện gì vậy?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Cô nói không cảm thấy khỏe; cô có sao không..."?@
+`"Không, chẳng có chuyện gì lớn lao.@ Đừng lo lắng về nó."@
+ld c,"tachi/aki_t16a",crossfade,400
+`"... Thật vậy.@ Vậy thì tốt rồi, nhưng..."@
+` Akiha liếc mắt đi nơi khác khó chịu.
+\
+`"..."?@
+` Có điều kỳ lạ trong thái độ của Akiha.@
+` Rõ ràng cô ấy quan tâm đến chuyện đêm qua, nhưng khác xa so với bình thường.@
+` Thông thường, cô ấy ít nhất cũng sẽ hỏi: "Tại sao không kể cho tôi biết khi về nhà?" Thay vào đó, cô ấy trông vô cùng lo lắng.
+\
+`"Ồ, Akiha?"@
+ld c,"tachi/aki_t17a",crossfade,400
+`"À, anh trai ơi?"@
+br
+` [line=4]Cả hai chúng tôi nói đồng thời.@
+br
+ld c,"tachi/aki_t19",crossfade,400
+`"À, đúng rồi. Chuyện gì vậy, anh trai ơi?"@
+`"Không, cậu muốn nói điều gì?"@
+ld c,"tachi/aki_t16a",crossfade,400
+`"[line=4]... Không có gì, tôi chỉ gọi tên cậu thôi."@
+`"...?"@
+` Tôi càng trở nên bối rối hơn.
+\
+`"Akiha-sám, Shiki-san! Bữa sáng đã sẵn sàng..."@
+` Tiếng Kohaku vang lên từ phòng ăn.@
+`"Vậy thì, chúng ta đi thôi, Akiha?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"[line=3] Vâng, hãy đi cùng em, anh trai."
+\
+cl a,crossfade,400
+` Có lẽ, Akiha trông quá nhút nhát vào buổi sáng này.@
+` ... Và giờ đây, tôi ghét bản thân mình thậm chí còn nhiều hơn.@
+` Trước đó, tôi nghĩ rằng việc gặp Akiha sẽ rất khó khăn, nhưng giờ đây khi thấy cô ấy như vậy, tôi lại muốn trò chuyện với cô ấy nhiều hơn.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Vậy thì, Shiki-sám, Akiha-sám, chúc các bạn có một ngày tốt lành."@
+` Theo sát chỉ dẫn của tôi một cách chính xác, Hisui theo sau chúng tôi đến cổng chính.
+\
+`"Vì hôm nay là thứ Bảy, tôi sẽ trở về sớm hơn một chút... À, nhưng các bạn không cần chờ ở đây.@ Vì tôi có thể đi chơi một lúc, nên hãy đợi trong biệt thự."@
+ld c,"tachi/his_t16",crossfade,400
+` Khi cô ấy gật đầu đồng ý, Hisui cúi chào và chúng tôi rời khỏi cổng biệt thự.
+\
+bg "bg/bg_22a",lcartain,800
+`"... "@
+` Bây giờ.@ Vấn đề là con đường từ đây đến trường.@
+ld c,"tachi/aki_t12a",crossfade,400
+`"... "@
+` Akiha lặng lẽ đi bên cạnh tôi.@
+` Mặc dù một phần trong tôi vui mừng vì sự im lặng, nhưng nó vẫn khiến tôi cảm thấy không thoải mái.
+\
+bg #000000,lcartain,800
+!w1000
+bg "bg/bg_01a",lcartain,800
+` Chúng tôi đến trường.@
+` Đã qua bảy giờ ba mươi phút.@
+` Chỉ có một số ít học sinh đến vào thời điểm này.@
+`"...@
+` Akiha vẫn im lặng.@
+` ... Thật là ngượng ngùng nếu chúng tôi không trao đổi lời nào suốt buổi sáng.
+\
+`"... "Này, Akiha."@
+ld c,"tachi/aki_t19",crossfade,400
+`"... À... ừm. Vâng, có chuyện gì, anh trai?"@
+`"Chuyện gì vậy...? Cậu... cậu trông thật kỳ lạ vào buổi sáng này. Cậu chẳng tức giận gì về đêm qua và trông cũng xa cách lắm."@
+ld c,"tachi/aki_t17a",crossfade,400
+`"[line=3]Ờ, có vẻ thế à?"@
+`"[line=3]Vâng, đúng là như vậy. Cậu còn cảm thấy không khỏe à? Nếu vậy, cậu nên nghỉ ngơi."
+\
+` [line=3]"À..."@
+br
+` "Đột nhiên tôi nhận ra... Akiha hôm qua đã nghỉ học."@
+` "Hôm qua, Ciel-senpai có băng trên cánh tay và nói rằng cô ấy đã trải qua một trải nghiệm đau đớn."@
+` "... ..."
+\
+"………………"
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Ừm, anh trai, em cũng không thấy anh khỏe lắm đâu."@
+`"À[line=4] không, đó là..."@
+` Em lắc đầu để xua tan hình ảnh khó chịu đó.@
+` …… Có điều gì đó không ổn.@
+` Vì Akiha cũng có những điểm yếu giống em, nên việc cô ấy nghỉ học một ngày không phải là điều lạ.@
+` Em phải tin Akiha, nên em không thể để trí tưởng tượng của mình chạy hoang như vậy.
+\
+`"Em ổn. Quan trọng hơn, chuyện gì đang xảy ra? Có lẽ sáng nay em trông thật nữ tính, khác xa với bình thường."@
+ld c,"tachi/aki_t13a",crossfade,400
+`"…… Anh trai vừa nói điều gì đó khủng khiếp lắm đấy."@
+`"Ừm, vâng, như thế này thì tốt hơn. Tôi sẽ cảm thấy bất an nếu cậu không còn như vậy, Akiha... Vậy là bình tĩnh cũng không tệ lắm đôi khi."
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"... Ồ. Cậu luôn cư xử thô lỗ sao?"@
+`"Ồ... không, cậu rất dịu dàng. Cậu lịch sự và rất trang trọng... Điều này thật kỳ lạ, nếu như vậy thì tại sao..."@
+` Tại sao tôi lại không nghĩ về cô ấy là một người luôn bình tĩnh?
+\
+`"... Đúng rồi, được rồi. Nếu cậu nói không có vấn đề gì, tôi sẽ không hỏi nữa. Đến đi, vào trường thôi."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"... ..." (Akiha nhìn như muốn nói điều gì đó thêm)@
+` Khi có vẻ như cô ấy muốn nói thêm điều gì đó, Akiha theo tôi vào tòa nhà trường học.
+\
+bg "bg/bg_03a",lshutter,800
+`"Gặp lại sau; vì hôm nay trường tan học sớm, chúng ta có thể ăn trưa tại biệt thự."@
+ld c,"tachi/aki_t17a",crossfade,400
+`"[line=3]Anh trai à."@
+`"Ừm? Chuyện gì vậy? Có phải cậu cảm thấy không khỏe sau tất cả không? Nếu thế, tôi sẽ đưa cậu đến y tá..."@
+ld c,"tachi/aki_t16a",crossfade,400
+`"Không, tôi cảm thấy ổn. Không có gì sai cả. Nhưng có một lý do khiến tôi cảm thấy hoàn toàn mất phương hướng vào buổi sáng nay."
+\
+`"..."? Mất phương hướng? Cậu muốn nói điều gì vậy?@
+ld c,"tachi/aki_t19",crossfade,400
+`"À... Anh trai, cậu có nhớ lời hứa thời thơ ấu không?"@
+` Bất ngờ,
+` Akiha liếc nhìn tôi với đôi má ửng đỏ.
+\
+`"[line=3]Lời hứa thời thơ ấu à? Chuyện đó là gì?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Ồ trời ơi.@ Tất nhiên là cậu không nhớ đâu.@
+ld c,"tachi/aki_t06",crossfade,800
+` Đúng vậy, chẳng có gì cả.@ Tôi cũng không mong cậu nhớ đâu.@ Có vẻ như điều đó chẳng có ý nghĩa gì với cậu!"@
+` Với một tiếng hmph, Akiha quay lưng lại.
+\
+`"Gì thế này đột nhiên?@ Khi chúng ta còn nhỏ, đã là tám năm trước rồi.@ Cậu nói hứa, nhưng có quá nhiều lời hứa mà tôi đã dành cho cậu.@
+` Ngay cả khi cậu hỏi như vậy, tôi cũng không thể nhớ."@
+ld c,"tachi/aki_t14",crossfade,400
+`"Đúng là... vậy, nhưng... có những thứ mà cậu muốn người khác nhớ phải không?@ Tối qua, tôi mơ về lúc còn nhỏ, nên tôi thắc mắc liệu cậu có nhớ không."
+\
+`"Akiha.@ Cậu nghĩ tôi có thể nhớ tất cả chỉ vì cậu thấy một giấc mơ từ thời thơ ấu của mình sao?"@
+ld c,"tachi/aki_t16a",crossfade,400
+playstop
+`"…… Nhưng, nó rất dễ thương.@ Cậu không nhớ, lần đầu tiên cậu gọi tên tôi, và vuốt ve đầu tôi dưới cái cây đó sao?@
+` "Ngày đó, tôi hay khóc lắm, phải không? Mọi người đều cố an ủi tôi khi tôi khóc, nhưng bạn lại buồn cùng tôi. Vì vậy, tôi càng khóc nhiều hơn, nhưng sau đó, tôi thực sự cảm thấy chẳng còn gì buồn nữa."@
+ld c,"tachi/aki_t17a",crossfade,400
+` [line=4]Từ lúc đó, anh trai ơi? Có chuyện gì vậy? Có phải em bị bệnh...?
+\
+`"[line=3]Akiha. Đó là giấc mơ đêm qua. Có phải lúc cậu khóc trong khu vườn trống rỗng đó không?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"[line=3]À... có. Tôi không nhớ rõ lắm, nhưng nó giống như một giấc mơ vậy."@
+wave se_01
+`"[line=6]"@
+` Một thứ gì đó lạnh lẽo chạy dọc sống lưng tôi.@
+` Giấc mơ đó.@
+` Tôi cũng có giấc mơ đó.@
+` "…… Senpai nói."@
+` "Tôi bị kéo vào tâm trí của ma cà rồng."
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"Anh trai? Anh chắc là không sao chứ?"@
+`"[line=4]Không có gì. Này, tôi phải đi rồi, tạm biệt!"
+\
+cl a,crossfade,400
+` "Tôi rời xa Akiha, cảm thấy không khỏe."@
+` "…… Tại sao?"@
+` "Tại sao kết quả luôn là điều tồi tệ nhất?"@
+` "Được kéo vào tâm trí của ma cà rồng khi tôi đang ngủ."@
+` Đêm qua.@
+` Tôi không muốn biết rằng tôi đang mơ một giấc mơ giống như Akiha thay vì giấc mơ của kẻ giết người.
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+play "*1"
+` Trong lớp học chỉ có vài người.@
+` Tôi di chuyển đến chỗ ngồi gần cửa sổ và đặt túi xuống.@
+`"………`@
+` "Tôi ngồi trên ghế của mình, chờ đợi giờ học bắt đầu."
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Ôi, cậu đến sớm quá, Tohno. Cậu trông có vẻ rất nhợt nhạt vào buổi sáng này; có sao không?"@
+`"Arihiko à... Thật ra, cậu, Akiha, cả nhóm đều nói điều giống nhau. Tôi có vẻ tệ đến vậy sao?"@
+`"Ồ? Không, thực ra, cậu trông cũng giống như mọi khi. Tôi đoán chỉ là cậu có vẻ buồn thôi."@
+`"... Buồn ư."@
+cl a,crossfade,400
+` Đúng vậy, tôi cảm thấy rất buồn.@
+` Nếu anh ấy đến và hỏi,
+`"Không phải như tôi đã nói à?"@
+` Tôi sẽ không thể trả lời lại được.
+\
+`"[line=3] Arihiko? Cậu có thấy anh ấy hôm nay không?"@
+ld c,"tachi/ari_t04",crossfade,400
+`"Ồ? Anh nào vậy?"@
+`"Đó là ai?@ Thầy giáo duy nhất mà cả hai chúng ta biết là Thầy Ciel, phải không?"@
+`"Ai thế?@ 'Shieru'?@ Có học sinh nước ngoài nào ở trường này không?"@
+br
+` [line=4]Tôi há miệng kinh ngạc.@
+br
+`"... Arihiko, cậu..."@
+` Giọng nói của tôi đứt quãng đến đó.@ Nhưng tôi không thể nói thêm được gì nữa.
+\
+ld c,"tachi/ari_t03",crossfade,400
+`"Có chuyện gì, Tohno?@ Nếu có điều gì muốn nói, thì nói đi.@ Tôi sẵn lòng nghe mọi thứ ngoại trừ rắc rối về tiền bạc."@
+` Arihiko cư xử như bình thường.@
+` Khi cư xử bình thường, cậu ấy hoàn toàn không nhớ đến Thầy Ciel.
+\
+`"Anh/chị thực sự không nhớ đến Senpai...?"@
+`"Vì vậy tôi hỏi, Senpai mà anh/chị cứ nhắc đến là ai?"@
+`"[line=6]"@
+` Tôi không thể trả lời thêm được nữa.@
+` Từ từ,
+` Tôi bắt đầu hiểu ý nghĩa của lời tạm biệt cô ấy nói đêm qua.
+\
+wave se_03
+ld c,"tachi/ari_t05",crossfade,400
+`"Ôi, Kunifuji già sẽ đến đây bất cứ lúc nào. Chào tạm biệt! Hẹn gặp lại!"@
+cl a,lshutter,400
+` Arihiko quay trở lại bàn học của mình.@
+` Giáo viên bước vào lớp học, giờ đầu bắt đầu, và sau đó, tiết học đầu tiên là vật lý.@
+br
+` [line=4]Tôi chỉ quan sát một cách lơ đễnh.@
+br
+` Senpai thực sự đã biến mất.
+\
+` Cô ấy không chỉ đơn giản là biến mất trước mặt tôi, mà cô ấy đã tan biến, không để lại dấu vết nào.
+\
+` [line=4]Lời nguyền đã phai mờ dễ dàng.@
+br
+` ... Nhìn có vẻ buồn bã, cô ấy nói như vậy.@
+` Arihiko không nhớ cô ấy. Tôi chắc chắn không ai khác nhớ cả.@
+` Cô ấy chưa bao giờ là học sinh ở đây.@
+` Cô ấy chỉ được gửi đến đây để quan sát tôi.@
+` Vì vậy, sau khi cô ấy bộc lộ tính cách thật với tôi, không còn lý do nào để cô ấy ở lại.
+\
+`"[line=6]"@
+` Ngực tôi đau.@
+` [line=3]Thay vì chứng minh rằng tôi không phải là kẻ giết người, Ciel-senpai biến mất như một ảo ảnh.
+\
+bg #000000,crossfade,800
+playstop
+!w1000
+wave se_03
+bg "bg/bg_06a",tcartain,800
+` Giờ ăn trưa đến, hết giờ học tất cả.@
+` Trong nỗ lực tận hưởng cuối tuần tối đa, các bạn cùng lớp vội vã rời khỏi lớp học.
+\
+ld c,"tachi/ari_t01",crossfade,400
+`"Ồ?@ Chuyện gì vậy, Tohno?@ Cậu không đi à?"@
+`"À, chỉ ở lại thêm một lúc thôi. Tôi nghĩ tôi sẽ đợi một chút."@
+`"Ừm? Đó là Akiha-chan à?"@
+`"Không thể nào. Nếu là Akiha, tôi sẽ đi đón cô ấy. Tôi đang chờ ai đó không có lý do đến, nên tôi không biết có được gặp cô ấy hay không."@
+`"Đúng vậy. Thì hẹn gặp lại sau."@
+`"Vâng, và đừng chơi bời quá nhiều vào ban đêm."@
+ld c,"tachi/ari_t02",crossfade,400
+`"Ha ha! Nếu bạn phải nói vậy thì tôi đã thất bại rồi."
+\
+cl a,lshutter,400
+` Arihiko rời đi, các học sinh khác cũng bắt đầu ra về.@
+` Tôi bị bỏ lại một mình trong lớp học, vẫn đang chờ Ciel-senpai.
+\
+bg #000000,lshutter,400
+bg "bg/bg_06a",lshutter,400
+play "*8"
+` Tiếng chuông đồng hồ điểm một giờ chiều.@
+` Khi âm thanh tập luyện bắt đầu vang vọng từ sân trường, cửa lớp mở ra.@
+ld c,"tachi/aki_t01a",lshutter,800
+`"[line=6]@
+cl a,crossfade,400
+` Đó là Akiha.@
+` Cô ấy đến ngồi bên cạnh tôi ở bàn gần cửa sổ.
+\
+ld c,"tachi/aki_t12a",lshutter,800
+`"Anh trai? Anh không về nhà à?"@
+`"... Không, em sẽ đi. Em chỉ chưa gặp Senpai hôm nay. Em nghĩ nếu em đợi ở đây, cô ấy có thể ghé qua."@
+cl a,crossfade,400
+` ... Không, điều đó sai lầm.@
+` Tôi chỉ muốn cô ấy đến gần tôi thôi.@
+` Nhưng, cô ấy sẽ không bao giờ xuất hiện trước mặt tôi lần nữa.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=3] Có phải vậy?@ Vậy thì, tôi sẽ chờ cùng với bạn."@
+` Akiha ngồi ở bàn bên cạnh tôi.@
+`"…… Tôi không phiền gì cả. Cậu thực sự rất tò mò, phải không?"@
+ld c,"tachi/aki_t09",crossfade,400
+`"Đúng vậy. Cậu là em gái tôi mà."@
+` …… Akiha ngồi trên ghế với nụ cười nhẹ nhàng, trông có vẻ vui vẻ một chút.@
+` Này thì không có lý do gì để đuổi cô ấy đi.@
+` Mặc dù khi Akiha và người thầy cùng xuất hiện sẽ không tốt đẹp, nhưng người thầy cũng chẳng đến đâu.@
+` Tôi chỉ đang lãng phí thời gian ngày hôm nay.
+\
+bg #000000,lshutter,800
+bg "bg/bg_06b",lshutter,800
+` Đã chiều rồi.@
+` Akiha không phàn nàn, mà chỉ ngồi bên cạnh tôi.@
+` Khi nghĩ lại, đây là lần đầu tiên tôi ở bên Akiha trong một khoảng thời gian dài kể từ khi quay trở về biệt thự.@
+` Không có lời nói, tôi nhận thức rõ hơn về Akiha hơn bao giờ hết.
+\
+` Khi còn nhỏ, Akiha luôn khóc.@
+` Và trong suốt tám năm qua, Akiha đã chờ đợi tôi.@
+` Ngay cả bây giờ, Akiha vẫn bình tĩnh đi bên cạnh tôi.@
+br
+` …… Khi được nói rằng Akiha có thể là một ma cà rồng, tôi chỉ đơn giản phủ nhận.@
+` Lý do là rõ ràng.@
+` Akiha là em gái quan trọng của tôi, nên tôi không muốn chấp nhận điều đó.
+\
+` Cô gái mà tôi hứa sẽ bảo vệ.@
+` Lý do tôi quay lại biệt thự Tohno.@
+` Sự ngạc nhiên của tôi khi gặp Akiha sau tám năm, giờ đây cô ấy đã trưởng thành xinh đẹp.
+\
+` Akiha rất quan trọng với tôi.@
+` Tôi nghĩ mình đã yêu cô ấy.@
+` Nhưng loại tình yêu nào, tôi không thể diễn đạt rõ ràng bằng lời.@
+` Chúng tôi chỉ sống như anh chị em trong hai năm qua.@
+` Trong khoảng thời gian đó, cảm giác muốn bảo vệ cô ấy mạnh mẽ hơn nhiều so với cảm giác của một thành viên gia đình.
+\
+`"……"@
+` Tôi không hiểu.@
+` Đôi khi, tôi nhìn chằm chằm vào Akiha đến mức tôi cũng không hiểu bản thân mình.@
+` Không phải vì cô ấy là em gái tôi mà tôi coi trọng cô ấy.@
+` Cô ấy đơn giản là quan trọng với tôi.@
+` Vậy nên.@
+` Ngay cả khi cô ấy là một ma cà rồng, chúng ta[line=3]
+\
+`"Akiha. Chúng ta có nên quay lại không?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Tôi không phiền, nhưng... có được không, anh trai? Cô ấy chưa đến, phải không?"@
+`"Không. Cô ấy chẳng bao giờ sẽ xuất hiện, nên cũng không sao."@
+`"...@
+` Akiha im lặng.@
+` ... Bỗng dưng tôi nhận ra điều gì đó.@
+` Arihiko và những người khác... ngay cả giáo viên cũng không nhớ cô ấy. Nhưng Akiha dường như vẫn nhớ.
+\
+`"Akiha. Cô nghĩ sao về cô ấy?"@
+ld c,"tachi/aki_t03a",crossfade,400
+`"... Tôi không chắc cô nói 'cô ấy' là ai. Nhưng tôi đoán cô muốn nói Ciel-san? Trong trường hợp đó, quan điểm của tôi vẫn không thay đổi. Tôi không muốn cô kết bạn với người đó."@
+`"[line=5]Giọng nói của tôi đang tắt dần."@
+` Akiha nhớ về Senpai.@
+` Mọi người khác đã quên cô ấy, vậy tại sao...@
+` "[line=3]Akiha, em biết điều gì không?"
+\
+`"[line=4]Anh trai? Chuyện gì vậy? Tại sao biểu cảm của em lại đáng sợ như thế này?"@
+`"... Tại sao? Tại sao em lại nhớ cô ấy, Akiha? Mọi người đã quên Senpai, vậy mà em vẫn nhớ...!"@
+`"Ồ?"@
+ld c,"tachi/aki_t15a",crossfade,400
+`"[line=4](Nhẹ nhàng) "Em có chắc không?"@
+` Biểu cảm của Akiha đột nhiên đóng băng.@
+cl a,crossfade,400
+` Và sau đó, cô ấy quay mặt đi khỏi tôi.
+\
+`"Akiha. Có thể... từ đầu, cô đã biết ai là Senpai..."?@
+`"[line=8]"@
+` Cô ấy không trả lời.@
+` ... Sự im lặng có nghĩa là "có".
+\
+`"Akiha...! Hãy trả lời tôi, cô đã biết từ đầu rằng Senpai là một thợ săn ma cà rồng, vì thế mà cô không thích cô ấy...!?"@
+ld c,"tachi/aki_t17a",crossfade,400
+`"Ma cà rồng... Nii-san[line=4]"@
+` Akiha nhìn tôi với vẻ kinh ngạc.@
+` ... Mặt cô ấy không tỏ ra ngạc nhiên khi nghe từ "ma cà rồng", nhưng có vẻ như cô ấy bất ngờ khi nghe nó từ miệng tôi.@
+cl a,crossfade,400
+`"…… Akiha, trả lời tôi.@ Nếu không, tôi[line=3]"@
+` Tôi sẽ không thể tin cô ấy.
+\
+!w2500
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Vâng, anh trai.@ Từ đầu, tôi đã biết người đó khác biệt.@ Khi tôi biết cô ấy đang thôi miên những người mà cô ấy gặp lần đầu tiên, tôi không tin cô ấy."@
+`"?@ Thầy ơi... cô ấy đã thôi miên mọi người...?"
+\
+`"Đúng vậy.@ Đó là lý do mọi người không thấy lạ khi có ai đó tên là Ciel.@ Vì tôi không bị ảnh hưởng bởi cô ấy, tôi nhận ra có điều gì đó khác biệt ở cô ấy."@
+` Akiha giải thích bản thân mình.@
+` Nhưng cô ấy bỏ qua một phần quan trọng.@
+` Nếu mọi người đều bị thôi miên bởi Ciel-senpai, thì Akiha tại sao lại không bị ảnh hưởng?
+\
+`"Khi thôi miên được gỡ bỏ, những người bị ảnh hưởng sẽ quên đi người tên là Ciel.@ Vì tôi chưa bao giờ bị ảnh hưởng từ đầu, dù nó đã bị gỡ bỏ, tôi vẫn nhớ cô ấy."@
+`"... Tôi hiểu rồi.@ Nhưng Akiha, tại sao cô không bị ảnh hưởng?"@
+ld c,"tachi/aki_t12a",crossfade,400
+`"[line=3]Vậy thì,[line=3]"@
+`"... Tôi hiểu rồi.@ Những người dòng họ Tohno không bình thường.@ Vì vậy, thôi miên của senpai không có hiệu quả."
+\
+ld c,"tachi/aki_t17a",crossfade,400
+`"Anh trai, tại sao anh lại..."@
+`"... Đó là điều tự nhiên.@ Cuối cùng, tôi cũng không bình thường đâu."@
+cl a,crossfade,400
+` Tôi đứng dậy, nói như vậy.@
+ld c,"tachi/aki_t01a",crossfade,400
+` Sau khoảnh khắc ngạc nhiên, Akiha cũng đứng dậy với biểu cảm quyết tâm.@
+br
+` [line=3]Lớp học trống rỗng.@
+` Chúng tôi nhìn chằm chằm vào nhau trong một lớp học nhuốm màu đỏ.
+\
+`"... Tôi nghe từ Senpai. Tất cả những người trong gia tộc Tohno đều có sức mạnh đặc biệt. ... Và giữa họ, có những người không thể kiềm chế và giết người khác."@
+`"..."@
+`"Nhưng, tôi không tin nó. Tôi không muốn tin nó..."@
+`"..."@
+`"[line=3]Xin hãy nói cho tôi biết, Akiha. Cậu không phải là ma cà rồng, phải không?"@
+cl a,crossfade,400
+` Akiha không trả lời. Cô chỉ hẹp mắt đau đớn.
+\
+` [line=4]Tại sao?@
+` [line=3]Sao Akiha lại không, ngay cả khi đó là một lời dối trá, nói 'tất nhiên không'?
+`"[line=2]Nói điều gì đó! Sao cậu không trả lời, Akiha…!"@
+` Tôi thét lên vì sự im lặng đau đớn.@
+` …… Một chút im lặng tiếp theo.@
+` Như thể chẳng có chuyện gì sai trái, Akiha bước nhẹ nhàng đến cửa sổ.@
+` Mái tóc đỏ dài của cô ấy trong ánh hoàng hôn như trong suốt.@
+` Tóc đỏ của cô ấy bay phất phới khi cô ấy quay lại.
+\
+bg "event/aki_e08",lshutter,400
+`"Vậy thì, tôi sẽ hỏi. Nếu tôi là một ma cà rồng, bạn sẽ làm gì, anh trai?"@
+` Nhìn cô ấy như một lưỡi dao xuyên qua cổ họng tôi.
+\
+`"[line=4]Đó là..."@
+` Nhìn chằm chằm của Akiha xuyên thủng vào tôi.@
+` Chúng tôi bị tách rời.@
+` Ngay cả khi cô ấy ở xa tôi, có một cảm giác căng thẳng như thể cô ấy ngay trước mặt tôi.
+\
+`"Hãy trả lời tôi, anh trai. Tôi hỏi, nếu tôi là một ma quỷ hút máu, anh sẽ làm gì?"@
+`"[line=3]Akiha, điều đó..."@
+`"Nếu tôi xác nhận điều đó, thì không cần tôi kìm nén nữa. Anh hiểu không, anh trai?"@
+` "Tôi có thể ngừng cứng đầu và trở nên trung thực hơn với bản thân, phải không?"@
+` Với áp lực khủng khiếp và một ánh nhìn tàn nhẫn trong mắt, Akiha nhìn lên tôi.@
+` Tôi rùng mình khi nhìn cô ấy.@
+` Mặc dù Akiha đang nhìn lên tôi, nhưng ánh nhìn của cô ấy quá lạnh lùng đến mức cô ấy dường như đang nhìn xuống tôi.
+\
+`"[line=4]Ồ..."@
+` Tôi đang hít thở nhưng không thể nói chuyện.@
+` Ngay cả khi chúng tôi cách xa nhau,
+` ...nhưng cảm giác như chúng tôi lại rất gần, có thể hôn nhau bất cứ lúc nào.
+\
+` Mắt Akiha lạnh lẽo như của một người lạ.@
+`"[line=3]Akiha, bạn..."@
+` Giọng nói tôi ngừng lại ở đó.@
+` [line=3]Bất kể xảy ra điều gì,
+\
+`"Chỉ là đùa thôi, anh trai. Tôi không uống máu người."@
+` Với nụ cười vui vẻ trước sự do dự của tôi, Akiha thả lỏng ánh nhìn sắc như dao của mình.
+\
+`"Đúng như Ciel nói.@ Chắc chắn, những thành viên trong nhà Tohno có thứ gì đó 'khác biệt' trong máu của họ.@
+` Tuy nhiên, điều đó có thể nhận biết ngay lập tức nếu nó đang tỉnh táo.@ Ngay cả bạn cũng biết điều đó, phải không Nii-san?"@
+` Akiha trêu chọc bằng một tiếng cười.
+\
+`"Tôi... biết...?"@
+`"Đúng vậy.@ Vì vậy, câu hỏi của bạn vô nghĩa.@ Bởi vì tôi không phải là những gì bạn nghĩ tôi là, Nii-san.@
+` Vậy thì có sao?@ Nếu vậy, tôi về nhà."@
+` Akiha chuẩn bị rời đi.@
+` Nhưng không, tôi không thể.@
+` ... Nếu tôi bỏ lỡ cơ hội này, tôi cảm thấy sẽ không còn cơ hội nào khác nữa.@
+` Sau khi đã đi đến đây, tôi không thể để cô ấy rời đi mà không hỏi mọi thứ.
+\
+`"... Không, tôi vẫn có một điều muốn hỏi. Về đứa trẻ kia, khi chúng ta còn nhỏ."@
+`"Anh thật kiên trì, anh trai. Tôi đã nói với anh là không có đứa trẻ nào khác rồi mà."@
+`"Đó không phải sự thật. Cha chúng ta đã nhận nuôi một đứa trẻ cách đây mười năm."@
+`"[line=8]@
+` Akiha nhướn mày.@
+` Không giống như phản ứng trước đó của cô ấy, là sự che giấu tội lỗi. Nó giống như sự giận dữ hơn.
+\
+`"... Tôi hiểu rồi, Hisui đã gây rắc rối. Tôi dặn cô ấy cẩn thận để không để bạn phát hiện ra điều đó."@
+` Akiha thở dài.
+\
+`"... Akiha. Có một đứa trẻ thứ ba. Ngay cả tôi cũng nhớ mơ hồ. Bạn có thể kể cho tôi nghe không? Tại sao nó lại chết?"@
+`"Không. Đứa trẻ đó không chết."@
+`"[line=3]... Hả?"@
+`"Nhưng nó đã bị giết. ... Bằng tay bạn, anh trai ạ."@
+`"[line=3][line=3]Tôi... Tôi giết nó à?"@
+` Nói như vậy.@
+` Một cơn choáng váng ập đến.
+\
+playstop
+bg #000000,crossfade,400
+Vòng lặp âm thanh se_02
+bg "bg/cmo_05",crossfade,800
+` [line=4]Vâng, tôi đã giết người.@
+br
+` Vụ tai nạn tám năm trước.@
+` Bản thân tôi khi còn trẻ.@
+` Ở sân trong đó.@
+` Một ngày mùa hè nóng bỏng và kinh hoàng.@
+` Akiha và cậu bé đầy máu.@
+` Những đám mây dày đặc, cùng tiếng kêu vang của chuông chày.@
+br
+` [line=4]Ở đó, tôi đã giết... anh ấy...
+\
+bg "bg/bg_06b",crossfade,400
+` Tôi thấy choáng váng.@
+`"Kuh..."@
+` Có vẻ như tôi vẫn còn đủ sức để không ngất đi.@
+`"[line=4]Không... tôi..."@
+` Hơi thở của tôi bị ngắt quãng.@
+` Tôi... Tôi không thể...
+\
+bg "event/aki_e08",tshutter,800
+`"Xem này, anh trai. Không ai có bí mật nào phải giữ riêng cho mình sao?"@
+`"[line=3]Akiha, em..."@
+`"Vì vậy, em nên ngừng nghĩ về những điều như thế. Chỉ cần sống ở biệt thự với danh tính Tohno Shiki là đủ."@
+bg "bg/bg_06b",tshutter,800
+br
+` [line=3]Akiha rời đi.@
+` Tôi không có lời nào để ngăn cô ấy.
+\
+wavestop
+` Phòng học trong hoàng hôn.@
+` Chỉ còn tôi đứng đó, bất động.
+\
+bg #000000,crossfade,800
+!w3000
+bg "bg/bg_29b",lcartain,800
+play "*1"
+` [line=8]Đêm buông xuống.@
+br
+` Vì không muốn quay lại biệt thự, tôi chỉ ngồi trên băng ghế trong công viên và suy nghĩ.
+\
+`"………………"@
+` …… Có phải điều này vô nghĩa?@
+` Không thể phủ nhận rằng Akiha là một người "khác biệt", và rõ ràng có một đứa trẻ thứ ba đã chết.@
+br
+` Akiha nói rằng tôi đã giết đứa trẻ thứ ba.@
+` Và tôi nhớ lại cảnh mình nhìn xuống một xác chết nhuốm máu trong sân.
+\
+`"…… Kuh."@
+` Akiha đang uống máu của Kohaku-san.@
+` Akiha nói gia tộc Tohno không phải là người.@
+` ... Senpai, việc tâm trí của anh em kết hợp khi ngủ không phải là điều lạ lùng.@
+`"[line=5]@
+` Vậy nên, không còn nghi ngờ gì nữa.@
+` Ngay cả khi tôi không muốn chấp nhận nó, nó vẫn là sự thật.@
+` Ít nhất.@
+` [line=4]Ít nhất, nếu tôi không nhìn thấy Akiha uống máu của Kohaku-san.
+\
+`"[line=4]Hừ?"@
+` ... Chờ đã.@
+` Khi tôi thấy Akiha và Kohaku-san, đó là trong giấc mơ của tôi.@
+` Tôi đã thấy Akiha và Kohaku-san trong một giấc mơ.@
+` Điều đó có nghĩa là, nếu tôi hòa hợp với tâm trí của Akiha, tôi sẽ không thể nhìn thấy chính cô ấy.
+\
+`"... Vậy thì, người đang nhìn thấy giấc mơ đó..."@
+` Không thể nào là Akiha, người đang bị theo dõi.@
+` Nếu Akiha là một ma cà rồng, cô ấy sẽ không bao giờ nhìn thấy điều đó.@
+`"[line=2]Vâng. Không có cách nào Akiha có thể là kẻ giết người!"@
+` Nói rồi, tôi nhảy xuống khỏi băng ghế.@
+` Mặc dù sau này tôi sẽ cảm thấy xấu hổ, tôi chạy quanh công viên.
+\
+`"[line=5]Ha, ha, ha, ha, ha!"@
+` Tôi không quan tâm đến suy nghĩ của mọi người.@
+` Tôi chỉ vui vẻ chạy nhảy và cười.@
+` Vì điều đó có nghĩa là tôi có thể bảo vệ Akiha từ bây giờ.@
+` Chỉ một lần này, tôi hạnh phúc vì tâm trí tôi đã hòa hợp với ma cà rồng.@
+` [line=3]Nếu anh ta không nhìn thấy Akiha, tôi vẫn tin vào sai lầm khủng khiếp của mình.
+\
+`"[line=5]"@
+` Không, chờ đã.@
+br
+playstop
+`"[line=3]Quan sát... Akiha...?"@
+br
+wave se_01
+` Kẻ giết người đang quan sát Akiha.@
+` Trong căn biệt thự, cậu ta lén lút như một kẻ săn mồi trong góc tối.@
+` Có vẻ như cậu ấy đã chọn Akiha làm con mồi tiếp theo.@
+` "Ồ, không!"
+\
+`"[line=3]Lưng tôi đột nhiên cứng lại.@
+` Nhưng giờ không phải lúc để đứng đó.@
+` Akiha!@
+`"[line=4](Akiha!)@
+` Tôi hét lên và chạy đến biệt thự bằng tất cả sức lực của mình.
+\
+play "*6"
+bg #000000,lshutter,400
+bg "bg/bg_27b",lcartain,400
+` [line=4]*Hít thở gấp gáp*
+br
+bg #000000,lcartain,800
+bg "bg/bg_25b",lcartain,800
+` [line=4]*Hít thở gấp gáp*
+!w750
+br
+bg #000000,lcartain,800
+bg "bg/bg_24c",lcartain,800
+` [line=4]*Hít thở gấp gáp*
+!w750
+br
+bg #000000,lcartain,800
+bg "bg/bg_22c",lcartain,800
+` [line=4]*Hít thở gấp gáp...*
+!w750
+br
+bg #000000,lcartain,800
+bg "bg/bg_32d",lcartain,800
+br
+`"Tiếng hít thở gấp gáp, gấp gáp, gấp gáp..."@
+` [line=3][lối đi u tối] Kỳ lạ.@
+` Mặc dù chỉ mới bảy giờ, nhưng đèn trong biệt thự đã tắt.
+\
+` Tôi cố gắng hít thở.@
+` Tôi bắt đầu lấy lại hơi thở sau khi chạy, rồi vội vã bước vào biệt thự.
+\
+bg #000000,lshutter,400
+bg "bg/bg_48d",lshutter,400
+` ...Biệt thự im lặng như một ngôi mộ.@
+` Nó quá nóng.@
+` Đêm thu như thế này, lại quá nóng.@
+` Tôi vẫn đang thở dốc.@
+` Nhịp thở của tôi không đều, nhưng không chỉ vì tôi vừa chạy.@
+` Đêm nhiệt đới khủng khiếp. Mồ hôi tuôn ra, chảy xuống má tôi.
+\
+`"…… Kuh."@
+` Tôi lau nó đi.@
+` Trong đêm nóng bức này, tôi nắm lấy tay nắm cửa của biệt thự.@
+bg #000000,lshutter,400
+monocro #0000ff
+bg "bg/bg_33d",lshutter,400
+wave se_01
+br
+`"Kuh!" [line=4]@
+` Tôi cảm thấy choáng váng.@
+` Một cơn lạnh chạy dọc theo xương sống như não bộ tôi đang bị chà xát.
+\
+bg #000000,crossfade,400
+bg "bg/bg_33d",crossfade,400
+`"[line=6]"@
+` Đây không phải là sự choáng váng bình thường của tôi.@
+` Ý thức của tôi không mờ đi. Thay vào đó, nó trở nên sắc nét như một lưỡi dao được mài giũa.@
+bg #000000,crossfade,400
+bg "bg/bg_33d",crossfade,400
+br
+` [line=3]Tôi cắn chặt răng.@
+br
+` Không có lý do nào, sự căm phẫn lại dâng lên.@
+` Cảm giác choáng váng không giảm bớt, và dù có cơn đau đầu dữ dội, cơ thể tôi lại tràn đầy sức mạnh.
+\
+`"Akiha..."@
+` Không có phản hồi cho tiếng kêu của tôi.@
+` Tòa nhà hoàn toàn mất điện.@
+` Không có dấu hiệu của bất kỳ ai.@
+`"Hisui, Kohaku-san...! Có ai ở đây không...?@"@
+` Không có lời trả lời nào.@
+` Chỉ có nhiệt độ và sự im lặng xuyên qua da tôi như những kim châm.
+\
+`"[line=4]Akiha."@
+` Cảm giác kinh khủng này.@
+` Tôi không thể nghĩ ra điều gì khác.@
+` Akiha. Phòng của Akiha ở[line=4]
+\

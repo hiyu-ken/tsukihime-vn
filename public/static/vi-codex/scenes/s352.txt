@@ -1,0 +1,509 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=4]Được rồi dẫu dã ổn rồi.@`
+` Vì bản thân tôi dẫu dã luôn cất công nợ chị ấy một ân tình tự thân chốn này dẫu dã thế, nên tôi tịch mịch cất bước đi sang phụ giúp chị Kohaku-san một tay dẫu dã ổn rồi.`
+br
+bg #000000,lcartain,400
+bg "bg/bg_42b",lcartain,400
+`"Ơ kìa…… chuyện quái quỷ gì oái oăm chốn này thế hả trời?"@`
+` Tôi tịnh không hề bắt gặp trông thấy bóng hình chị ấy ngự chốn nào chốn khoảng sân vườn rộng lớn tự thân chốn ấy cả.@`
+` Tôi lẳng lặng đưa mắt diện kiến lướt nhanh nhìn xung quanh tìm kiếm chốn ấy.@`
+` Dạt dào chỉ trong một chớp mắt ngắn ngủi tự thân chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi, tự mắt tôi diện kiến lấp ló bóng dáng sắc áo kimono đặc trưng của chị ấy thoáng ngự chốn cánh rừng âm u cô tịch chốn kia.@`
+`"Ủa phải chăng chốn ấy dạt dào dột ngột chính là lối đi cất bước di chuyển dẫn sang tòa nhà biệt lập cũ kỹ tách rời chốn ấy tịnh không nhỉ?"@`
+` …… Sau một hồi cật lực giằng xé suy ngẫm bận lòng kĩ lưỡng chốn cõi lòng tự thân dẫu vậy dẫu dẫu dã, tôi liền lẳng lặng lẳng lặng tịch mịch cất bước đi theo sau bóng hình của chị Kohaku-san chốn ấy.`
+\
+bg #000000,lcartain,800
+bg "bg/bg_44a",lcartain,800
+` Chị Kohaku-san thong thả tịch mịch cất bước bước chân di chuyển thẳng vào chốn bên trong tòa biệt thự cũ kỹ ấy chốn ấy.@`
+` Bản thân tôi dẫu dã cất công cất bước lặn lội đặt chân tới tận chốn hoang vu tịch mịch này dẫu vậy dẫu dẫu dã dẫu sao dẫu dẫu dã dạt dào, nếu dột ngột cự tuyệt quay ngoắt người cất bước ra về dạt dào trông quả thực vô cùng ngu xuẩn hèn nhát tự thân quá chừng dẫu dã thế dẫu vậy dẫu dã ổn rồi, thế nên tôi liền cật lực ép buộc thể xác tự thân cất bước bước chân đi vào trong chốn ấy dẫu dã ổn rồi.`
+\
+bg #000000,lshutter,800
+bg "bg/bg_45b",lshutter,800
+play "*1"
+ld c,"tachi/koha_t09",lshutter,800
+`"Ủa kìa cậu Shiki dẫu dã cất công sang chốn này sao chứ?@ Rốt cuộc có sự sự tình gì oái oăm cất bước khiến cậu ghé thăm chốn hoang vắng biệt lập tự thân này thế hả cậu?"@`
+`"Ờ thì, dẫu sao dẫu dẫu dã……[line=4] bản thân tôi lẳng lặng nghĩ ngợi dột ngột muốn cất công sang phụ giúp chị lo liệu một tay chút việc vặt tự thân chốn này dẫu dã ổn rồi dẫu dã thế.@ Liệu sự sự tình tự thân bấy giờ dẫu dã cất công có gây cản trở phiền toái o oái oăm gì kề bên chị tịnh không ạ?"@`
+ld c,"tachi/koha_t18",crossfade,400
+`"Dạ tịnh không đâu ạ, được cậu Shiki ưu ái chú ý tinh tế nhường này dẫu vậy dẫu dẫu dã cất công làm em vô cùng sướng vui cảm động chốn cõi lòng tự thân dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi dẫu dã thế dẫu vậy, dẫu sao thực tâm buổi sớm mai hôm nay em chịu chết tịnh không phải cất công sang chốn này để lao động dọn dẹp gì đâu ạ.@ Em dạt dào chỉ là tuân theo đống chỉ thị mệnh lệnh đĩnh đạc tự thân của tiểu thư Akiha-sama cất bước sang đây kiểm tra bảo dưỡng hệ thống lưới điện chốn này chút ít dạt dào dẫu dã thế thôi ạ."@`
+`"Ủa oái oăm chốn này dẫu dã dạt dào?@ Bảo dưỡng mạng lưới điện sao chứ?@ Lẽ nào cái gian nhà cổ kính cũ kỹ biệt lập này bấy giờ dẫu dã vẫn đang cất công cật lực được đưa vào vận hành sử dụng đắc lực thật sao?"`
+\
+ld c,"tachi/koha_t03",crossfade,400
+`"Dạ vâng đúng thế ạ, gian phòng biệt lập này chính là chốn duy nhất ngự trị mạng lưới điện tự thân đắc lực chốn này dẫu dã thế.@ Toàn bộ gian nhà phụ biệt lập này bấy giờ vẫn luôn cất lực được duy trì bảo dưỡng tươm tất đĩnh đạc đắc lực ở mức độ tối ưu tự thân để người thường có thể thong thả thong dong chuyển vào cư ngụ sinh hoạt tốt đẹp dẫu dã ổn chốn ấy ạ.@ Căn phòng tắm nước nóng tự thân chốn này bấy giờ dẫu dã vẫn thong thả vận hành đắc lực vô cùng tốt dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, vả lại đống futon chăn đệm dẫu dã được em siêng năng cất công sửa soạn sẵn sàng đĩnh đạc chốn này rồi ạ."@`
+`"Sự sự tình ấy quả thực dẫu dã vô cùng kinh ngạc bàng hoàng chốn này chốn ấy nhỉ?@ Nhưng dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy, gian nhà biệt lập này bấy lâu nay vốn dĩ chịu chết tịnh không hề được ai cất công sử dụng cất bước di chuyển qua lại cơ mà dẫu dã chứ?@ Cớ làm sao lại cứ cật lực túc trực bảo trì đon đả chu đáo nhường này làm gì cơ chứ?"@`
+ld c,"tachi/koha_t01a",crossfade,400
+`"Để em nghĩ ngợi chút xem sao dẫu dã thế dẫu vậy dẫu dã ổn rồi, có lẽ dạt dào dột ngột dẫu dã dạt dào chỉ là vì tiểu thư Akiha-sama vốn dĩ vô cùng ưu ái đắc lực kề bên gian nhà biệt lập cổ kính chốn ấy thôi dẫu dã ổn dẫu dã ổn rồi.@ Thuở xưa cũ tịch mịch chốn này dẫu dã thế dẫu vậy dẫu dã ổn rồi, nơi đây dẫu dã từng cất công dạt dào là chốn nương tựa sinh hoạt yên ả tự thân của đứa con trai nuôi tự thân chốn trước của lão gia Makihisa-sama bấy giờ chốn ấy ạ."@`
+br
+` [line=4]Ủa oái oăm chốn này dẫu dã dạt dào……?@`
+` Ông già Makihisa…… cha ruột nghiêm khắc quá cố của tôi dẫu dã thế dẫu vậy, từng cất công nhận nuôi một đứa trẻ nít o oái oăm…… từ thuở xa xưa đằng đẵng tịch mịch nhường ấy sao chứ?`
+\
+`"…… Khoan đã nào chị Kohaku-san.@ Người cha Makihisa tự thân của tôi thuở trước dẫu dã cất công nhận nuôi một đứa con nuôi thật sao?"`
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"A, hóa ra bản thân cậu Shiki dẫu dã chịu chết tịnh không còn mảy may ký ức bấn lòng bận tâm gì chốn ấy nữa rồi đúng tịnh không ạ?@ Khoảng thời khắc tầm mười năm về trước dẫu dã thế dẫu vậy dẫu dã ổn rồi, lão gia Makihisa dẫu dã cất công dẫn theo một đứa trẻ nít quay trở về dinh thự nuôi nấng đĩnh đạc chốn này.@ Vì cha mẹ đẻ tự thân của đứa trẻ ấy dạt dào dột ngột dẫu dã tịch mịch qua đời hết chốn ấy trong một vụ tai nạn thê lương thảm khốc dẫu dã thế dẫu vậy, nên lão gia dẫu dã cất công nhận đứa trẻ ấy làm con nuôi đĩnh đạc tự thân chốn này."@`
+`"[line=3]Sự sự tình ấy…… quả thực dẫu dã cất lực từng xảy ra đắc lực chốn này thật sao chứ……?"@`
+`"Dạ vâng đúng thế ạ.@ Nhưng dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy, dạt dào chỉ vẹn vẹn hai năm ngắn ngủi tịch mịch sau đó dẫu dã thế dẫu vậy dẫu dã ổn rồi, đứa con nuôi tội nghiệp ấy dẫu dã tịch mịch vong mạng cất công qua đời chốn ấy rồi.@ Dẫu cho dạt dào dột ngột chỉ là do dột ngột vướng phải một sự sự tình tai nạn nhỏ nhặt tầm thường dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, dẫu vậy phần lớn đống gia nhân người hầu chốn dinh thự thuở ấy dẫu dã bắt đầu rỉ tai lẩm bẩm giãi bày rành rọt kề bên nhau rằng toàn bộ gia tộc Tohno chúng ta bấy giờ dẫu dã cất công gánh chịu một lời nguyền rủa tàn khốc kinh hoàng chốn ấy."`
+\
+playstop
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_45b",crossfade,400
+` [line=5]Khoan đã, hãy lẳng lặng khựng trí não suy ngẫm một thoáng chốn này xem nào.@`
+br
+` Có đống sự sự tình gì o oái oăm chốn đống lời lẽ phân trần vừa rồi của chị ấy cất công khiến cõi lòng tôi bỗng chốc dấy lên nỗi kinh hoàng run rẩy kịch liệt chốn lồng ngực.@`
+` Dạt dào chỉ vừa thấu tai lắng nghe đống từ ngữ o oái oăm chốn ấy dẫu vậy dẫu dẫu dã, toàn bộ tầm nhìn diện kiến tự thân của tôi bấy giờ dẫu dã chầm chậm chao đảo biến dạng co rút kịch liệt dữ dội chốn trí não.@`
+` Toàn bộ không gian căn phòng biệt lập cũ kỹ chốn này bấy giờ dạt dào dột ngột trông giống hệt như một khối đường tảng khổng lồ đang chầm chậm cật lực tự hòa tan chảy loang lổ ra vậy.`
+\
+`"Ch... chị Ko... Kohaku... san."@`
+` Một đứa trẻ nít dột ngột được nhận nuôi mười năm trước dẫu dã thế.@ Rồi dạt dào chỉ vẹn vẹn hai năm ngắn ngủi sau đó dẫu vậy dẫu dẫu dã, đứa con nuôi ấy dẫu dã tịch mịch vong mạng dẫu dã thế dẫu vậy.@`
+` Đồng nghĩa kề bên việc, khoảng thời khắc tám năm về trước dẫu dã chính xác dạt dào dột ngột là chốn chốn thời điểm bản thân tôi vướng phải vụ tai nạn thảm khốc tự thân rồi chịu cảnh nhập viện điều trị ròng rã đằng đẵng chốn ấy dẫu dã chứ.
+\
+play "*6"
+bg "bg/cmo_05",notrans,0
+br
+br
+br
+` [line=3]Vụ tai nạn thảm khốc tự thân ấy……@`
+br
+` Rốt cuộc bản chất sự sự tình tai nạn chốn ấy dẫu dã từng nổ ra kịch liệt tàn tạ kề bên đống nguyên nhân gì cơ chứ?@`
+` Một vụ tai nạn kinh hoàng dẫu dã cất công cướp đi đống tàn lực sức khỏe tự thân kề bên việc găm ngập hàng tá vết thương rách nát loang lổ trên cơ thể tôi dẫu dã thế.@`
+` Một vụ tai nạn o oái oăm chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi…… lẽ nào dạt dào dột ngột dẫu dã chính là chốn tử địa tàn khốc cướp đi sinh mạng tự thân của đứa con nuôi tội nghiệp chốn ấy sao chứ?`
+\
+br
+` Một ngày hè oi ả nóng nực hực hực rực lửa chốn đại não tự thân.@`
+br
+` [line=3]Bản thân tôi chịu chết tịnh không cách nào thấu triệt bấn lòng ghi nhớ đắc lực nổi chốn này dẫu dã thế.@`
+br
+` Tất thảy đống ký ức mỏng manh tự thân dạt dào độc nhất độc nhất còn sót lại chốn ấy dạt dào chỉ là chốn chốn thời điểm hai cánh tay trần tự thân bấy giờ dạt dào dột ngột dường như dẫu dã bị nhấn chìm đẫm ngập chốn dòng máu tươi đỏ hỏn tanh nồng loãng loãng[line=4]`
+\
+bg "bg/bg_45b",crossfade,400
+`"Chị Kohaku... san.@ Chị vừa mở miệng thốt lời cất công giãi bày từ ngữ 'nguyền rủa' đúng tịnh không ạ?"@`
+ld c,"tachi/koha_t18",crossfade,400
+`"Dạ tịnh không đâu ạ, đó dạt dào chịu chết tịnh không phải là đống sự sự tình tối quan trọng bận lòng gì chốn này đâu ạ.@ Dạt dào chỉ là do từ thuở xa xưa đằng đẵng tịch mịch tới nay dẫu vậy dẫu dẫu dã, có quá chừng nhiều thành viên ruột thịt thuộc gia tộc Tohno cất công qua đời khi tuổi đời còn vô cùng ngắn ngủi trẻ măng chốn ấy thôi ạ.@`
+` Người dẫu dã vong mạng do tai nạn thảm khốc dẫu dã thế dẫu vậy, kẻ lại tự ý cật lực tự sát cướp đi sinh mạng tự thân chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi dẫu dã thế dẫu vậy, người dẫu dã chịu chết yểu do đống bệnh tật hiểm nghèo hành hạ; quả thực giống hệt như có một lời nguyền rủa cổ xưa tàn độc chịu chết tịnh không cho phép bất cứ ai chốn này được thong thả nhắm mắt xuôi tay viên tịch an bình tự nhiên đĩnh đạc chốn ấy dẫu dã thế.@ Ôi chao dẫu sao dẫu dẫu dã dạt dào chốn ấy dạt dào dột ngột dẫu dã dạt dào dột ngột cũng dạt dào chỉ là đống tin đồn nhảm nhí ngoài lề của đống gia nhân rảnh rỗi lẩm bẩm giãi bày kể lể kề bên nhau chốn ấy thôi ạ."`
+\
+`"[line=4]Tự sát đoạt mạng tự thân sao…… rốt cuộc sự sự tình ấy dạt dào dột ngột là thế nào cơ chứ?"@`
+ld c,"tachi/koha_t03",crossfade,400
+`"Dạ vâng đúng thế ạ.@ Cho dù đống nguyên nhân nguyên cớ tự thân dấy lên có thế nào đi chăng nữa dẫu vậy dẫu dẫu dã, đống thành viên ruột thịt chốn gia tộc Tohno…… phần lớn dạt dào dột ngột dẫu dã dạt dào dột ngột lại dạt dào là nam giới dẫu dã thế dẫu vậy, chầm chậm dột ngột đều vướng phải một chứng bệnh điên loạn tâm thần quái đản chốn sâu thẳm cõi lòng chốn ấy dẫu dã thế.@`
+` Để rồi khi cất công cất bước trưởng thành đĩnh đạc dẫu vậy dẫu dẫu dã, họ dẫu dã nhanh chóng tự cướp đi sinh mạng tự thân của mình chốn thê lương tịch mịch chốn ấy.@ Sự sự tình tin đồn dai dẳng ấy dẫu sao dẫu dẫu dã lẩm bẩm giãi bày rỉ tai kề bên nhau rằng có một vài vị gia chủ đời trước thuở trước thời kỳ chiến tranh dẫu dã cất công hóa thành những kẻ sát nhân khát máu đẫm thê lương tàn độc chốn ấy dẫu dã chứ."`
+\
+bg #000000,crossfade,400
+bg "bg/bg_45b",crossfade,400
+` …… Chứng bệnh điên loạn tâm thần tự thân chốn ấy sao?@`
+` …… Kẻ sát nhân cuồng sát đẫm máu tàn khốc sao?@`
+` …… Phải chăng giống hệt như đống sự sự tình tôi cật lực gồng mình trải qua hằng đêm tịch mịch chốn đống giấc mộng thảm sát dismemberment người vô tội tàn khốc chốn ấy?@`
+` …… Phải chăng dạt dào dột ngột dấy lên cảm giác khao khát điên dại nóng bỏng thiêu đốt tự thân khi cật lực giật phăng tước đoạt lấy đống sinh mạng tự thân của con người chốn đống giấc mộng thảm sát đẫm máu hoang dại hằng đêm tịch mịch chốn ấy?`
+\
+`"Chị Kohaku-san ơi, rốt cuộc đống sự sự tình chốn ấy dẫu dã……[line=3]"@`
+ld c,"tachi/koha_t03",crossfade,400
+`"A, tự ý em vô cùng sám hối bận lòng băn khoăn chốn cõi lòng chốn này nhé cậu Shiki.@ Tất thảy đống lời lẽ vừa rồi dạt dào dột ngột dẫu dã chỉ là đống tin đồn u tối nhảm nhí tự thân bộc phát kề bên gia tộc Tohno mà em vô tình lượm lặt thấu tỏ chốn ấy thôi ạ."@`
+`"Tịnh không sao đâu, tịnh không sao đâu dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy.@ Sự sự tình ấy thực sự tịnh không hề gì đâu dẫu dã ổn rồi dẫu dã thế…… cơ mà, chị có thể làm ơn thong thả cất công thỏ thẻ giãi bày chi tiết rõ ràng hơn đắc lực đối kề bên tôi về đống sự sự tình chốn ấy đắc lực hơn chút chốn này tịnh không hả chị Kohaku-san?"@`
+`"…… Dạ tự ý em dẫu dã tịnh không hề ôm lòng cự tuyệt né tránh cất lời hầu chuyện kề bên cậu chốn này đâu dẫu dã thế dẫu vậy, dẫu sao chính bản thân em bấy giờ dẫu dã chịu chết tịnh không cách nào nắm rõ tường tận sâu sắc nổi đống chi tiết sự sự tình o oái oăm chốn ấy đâu ạ.@ Dạt dào duy nhất có một điều em thấu triệt sâu sắc chốn cõi lòng dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, đó dạt dào dột ngột chính là chốn chốn thời điểm lão gia Makihisa-sama sinh thời dẫu dã cất công tỏa ra một thứ khí chất áp bức đáng sợ dị thường chốn thân thể chốn ấy ạ."@`
+`"[line=4]Người cha quá cố nghiêm khắc tự thân của tôi sao chứ……?"@`
+wave se_01
+bg #000000,crossfade,400
+`" Ánh sáng ban mai chốn phòng bỗng chốc dạt dào phai mờ biến tan tịnh không còn tăm hơi chốn ấy.@`
+` Bản thân tôi dột ngột cảm nhận dạt dào dòng máu tươi tự thân đang điên cuồng dồn ứ tụ lại chốn sau đại não nhức nhối vô cùng."`
+\
+`"Dạ vâng đúng thế đấy cậu Shiki ạ.@ Tự ý em dẫu dã cất công siêng năng túc trực đảm nhận trách nhiệm trông nom chăm bẵm đắc lực sức khỏe tự thân kề bên việc điều hòa thuốc thang trị liệu cho lão gia Makihisa-sama suốt hai năm ròng rã đằng đẵng trước thời điểm lão gia tịch mịch viên tịch chốn này dẫu dã thế."@`
+ld c,"tachi/koha_t01a",crossfade,400
+`"Đúng vậy. Tôi đã chăm sóc tình trạng của Makihisa-sama hai năm trước khi ông qua đời."@
+`"Trong suốt khoảng thời khắc đằng đẵng tự thân lão gia Makihisa-sama tịch mịch cư ngụ chốn biệt dinh kề bên gia đình Arima chốn lân bang ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi, tinh thần thần trí tự thân của lão gia lúc nào dẫu dẫu cũng rơi vào tình cảnh vô cùng sầu muộn bấn loạn tồi tệ điên loạn chốn ấy dẫu dã thế dẫu vậy, và bản thân em bấy giờ dẫu dã liên tục cật lực chuẩn bị đon đả chuẩn trị đống thuốc an thần đắc trị đặc biệt tự thân để cất công an ủi xoa dịu chõi lòng bấn loạn cho lão gia chốn ấy ạ."`
+\
+`"[line=4]Thuốc an thần đặc trị sao…… sự sự tình chốn ấy dẫu dã gián tiếp phơi bày rành rọt là tình trạng thần trí tự thân của cha tôi lúc sinh thời dẫu dã cất công sa sút tồi tệ tột cùng đến nhường nào chốn ấy sao chứ, chị Kohaku-san?"@`
+`"…… Dạ vâng thực sự vô cùng tồi tệ tệ hại chốn ấy đấy cậu Shiki ạ.@ Chịu chết tịnh không mảy may vướng chút hoang đường phóng đại nào chốn ấy đâu dẫu dã thế dẫu vậy, hễ mỗi khi đêm trường tịch mịch buông xuống dạt dào dột ngột dẫu vậy, lão gia Makihisa-sama bấy giờ dẫu dã có những hành vi vô cùng quái dị bất thường chốn ấy; dột ngột tự ý cất bước điên cuồng ra ngoài khoảng sân vườn tàn ác cật lực hành hạ hạ sát dã man đống chó mèo nuôi tự thân chốn dinh thự dẫu dã thế dẫu vậy, hay thậm chí dột ngột điên cuồng cật lực tự hành hạ găm ngập vết rách rưới thô bạo lên chính thể xác trần tự thân của mình chốn đêm đen tịch mịch ấy nữa chốn ấy ạ."`
+\
+wave se_01
+` [line=4]"Sự sự tình kinh hoàng điên dại quái đản oái oăm nhường này rốt cuộc dạt dào chính là thế nào cơ chứ?"`
+` (Shiki nhìn chằm chằm vào hiện tượng trước mắt, giọng nói nhẹ nhàng.)@
+` "Quả thực quá mức điên cuồng loạn trí dơ bẩn chốn lồng ngực rồi."@`
+` "Sự sự tình o oái oăm tồi tệ tự thân chốn ấy dạt dào giống hệt như đống ác mộng chém giết cuồng loạn tự thân hằng đêm tịch mịch của mình bấy giờ dẫu dã chứ."@`
+wave se_01
+br
+` "…… Chịu chết tịnh không phải thế chốn ấy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, dẫu sao oái oăm chốn ấy dạt dào dột ngột lại dạt dào dột ngột là sự sự tình đảo nghịch tự thân chốn đại não bấy giờ dẫu dã chứ."@`
+` "Liệu tự bản thân mình bấy giờ dẫu dã cất công hóa thành một kẻ tà ác điên dại điên loạn điên loạn tà ác y hệt như người cha Makihisa thuở trước rồi sao?"`
+\
+bg #000000,crossfade,800
+!w500
+playstop
+bg "bg/bg_45b",crossfade,800
+(Một rung động nhẹ lan tỏa qua cơ thể Shiki.)
+wave se_05
+(Âm thanh lặp lại từ xa, tạo nên một bầu không khí căng thẳng.)
+ld c,"tachi/koha_t09",lshutter,400
+`"Cậu Shiki ơi……!?@`
+` ... Tôi nghe thấy giọng của Kohaku-san.@
+` [line=3]…… Tai trần bấn loạn dột ngột của tôi tịch mịch thấu tai lắng nghe thấy thanh âm thỏ thẻ quýnh quáng vội vã của chị Kohaku-san chốn ấy.@`
+` Bản thân tôi chịu chết tịnh không thấu triệt sâu sắc chốn chốn thời điểm sự sự tình này cất công nổ ra tự thân lúc nào chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi, dẫu vậy thể xác tự thân tôi bấy giờ dẫu dã tịch mịch quỳ sụp vật vã xuống thềm chiếu tatami cũ kỹ chốn ấy rồi chốn ấy.`
+`"Cậu Shiki ơi, diện mạo diện mạo bấy giờ tự thân của cậu dạt dào trông vô cùng tệ hại nhọc nhằn quá chừng chốn này rồi đấy cậu ạ.@ Nếu thể trạng cậu dẫu dã rơi vào tình cảnh kiệt quệ rệu rã nhường ấy dẫu dã thế dẫu vậy, cầu xin cậu bấy giờ hãy lẳng lặng tĩnh dưỡng nhàn hạ nhàn nhã chốn phòng nghỉ ngơi đi ạ……!"!@`
+` Chị Kohaku-san vừa tha thiết thốt lời khuyên răn dẫu dã thế dẫu vậy, vừa lẳng lặng chầm chậm đưa tay trần vội vã đỡ nhẹ lấy bờ vai tự thân của tôi bấy giờ chốn ấy.@`
+` Kề bên sự phụ trợ nâng đỡ tinh tế ấm áp dịu hiền tự thân của chị ấy chốn chốn phòng dẫu dã ổn rồi dẫu vậy dẫu dẫu dã dẫu sao, thể xác tự thân rã rời của tôi dột ngột dẫu dã có thể cật lực gượng đứng thẳng dậy đĩnh đạc.`
+`"[line=3]…… Ừm…… anh dẫu dã ổn thỏa đĩnh đạc chốn này dẫu dã ổn dẫu dã ổn rồi…… thế dẫu vậy dẫu dẫu dã dạt dào……"@`
+` Tôi cật lực ráng chút thần trí mỏng manh tự thân chốn đại não để chầm chậm khôi phục lại thần trí tỉnh táo đĩnh đạc tự thân chốn ấy dẫu dã ổn rồi.@`
+` Dẫu vậy cõi lòng chao đảo bấn loạn của cơn choáng váng choáng váng dữ dội chốn ấy bấy giờ chịu chết tịnh không mảy may chịu suy giảm chút nào nổi chốn ấy chốn ấy.`
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_45b",crossfade,400
+br
+` Chốn dòng xoáy cuồng loạn đỏ đen rực lửa đang cuộn trào cuồng bạo dữ dội chốn mắt tự thân bấy giờ dẫu dã thế,`
+` Bỗng hiển hiện một sắc trắng ngần tinh khôi thanh mát dịu hiền tự thân chốn ấy…… @`
+` Chị Kohaku-san…… chốn gáy cổ trần tự thân thanh tú của chị ấy bấy giờ…… quả thực dấy lên nhiệt lượng vô cùng nóng bỏng rát rát thiêu đốt trí não tôi dữ dội chốn ấy…… @`
+br
+`"[line=6]A."@`
+` Cảnh tượng chốn ấy tuyệt mỹ cuốn hút ghê gớm chốn này chứ.@`
+` [line=4]Nếu thể xác tự thân của tôi bấy giờ dẫu dã có thể tự ý di chuyển đĩnh đạc linh hoạt dẫu vậy dẫu dẫu dã dẫu sao, tôi nhất định dẫu dã cật lực giật phăng tước đoạt lấy cơ thể Kohaku-san kề bên và`
+\
+bg #9c0120,notrans,0
+` Màn tối tăm cô tịch từ cơn thiếu máu đột ngột tự thân chốn ấy bỗng chốc hóa thành một sắc đỏ tươi đỏ hực rực máu rực lửa chốn đại não... @`
+` Vùng cổ trắng ngần thanh tú ấm áp tự thân chốn chốn chốn ấy của chị Kohaku-san chốn ấy.@`
+` Cơn ác mộng cuồng loạn đẫm máu tàn ác rực sắc đỏ thẫm đêm hôm qua tự thân chốn ấy dấy lên kịch liệt.`
+br
+` [line=6]Từ đêm thảm sát đẫm máu chém giết cuồng loạn tự thân chốn ấy dấy lên.@`
+` Thứ khoái cảm cực độ nóng bỏng thiêu đốt tự thân chốn ấy dấy lên, hệt như lồng ngực sắp cất lực tự giật phăng trái tim đỏ hỏn ra ngoài đớn đau tột cùng chốn lồng ngực.`
+\
+bg #000000,notrans,0
+bg "bg/bg_31b",notrans,0
+bg "bg/ima_13",notrans,0
+bg #000000,notrans,0
+bg "bg/bg_45b",crossfade,400
+`"[line=6]Hực……!"@`
+` Chịu chết tịnh không thể chịu đựng cam chịu thêm nổi dạt dào chấn động cuồng loạn chốn ấy dẫu dã thế, tôi cuống cuồng cật lực lùi mạnh người giật lùi ra xa khỏi chị Kohaku-san chốn ấy.`
+\
+wavestop
+ld c,"tachi/koha_t01a",crossfade,400
+`"Cậu Shiki ơi……?"@`
+`"[line=4][line=4]Tịnh không…… ổn dẫu dã ổn rồi dẫu dã ổn rồi…… anh vẫn ổn thỏa đĩnh đạc chốn này dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy dẫu dã ổn rồi, thế nên làm ơn chị hãy lẳng lặng cất bước rời đi để mặc kệ anh một mình tự thân chốn này đi."@`
+ld c,"tachi/koha_t04",crossfade,400
+`"Dạ chịu chết tịnh không được phép cất công hành xử nhường ấy đâu ạ.@ Nếu cậu lỡ vô tình ngã quỵ bất tỉnh ngay chốn tatami biệt lập tự thân chốn này dẫu vậy dẫu dẫu dã, tiểu thư Akiha-sama kiểu gì cũng dẫu dã tịch mịch nổi trận lôi đình dữ dội chốn ấy đấy ạ.@ Vả lại trông diện mạo bấy giờ tự thân của cậu đang phải gồng mình chịu trận cơn đớn đau tột độ dữ dội nhường ấy dẫu dã thế chốn này."@`
+cl c,crossfade,400
+` Chị Kohaku-san tha thiết thỏ thẻ giãi bày cất công thốt lên đống lời lẽ ấy chốn ấy, rồi chầm chậm cất bước chân rảo bước lại gần kề bên tôi chốn chốn phòng.`
+\
+br
+` [line=6]Tồi tệ cực độ.@`
+br
+`  Sự sự tình này quả thực vô cùng đáng sợ hãi tột chốn cõi lòng chốn này rồi.@`
+`  Nếu chị ấy cứ dại dột cất công cất bước bước vào chốn tầm tay trần tự thân của tôi bấy giờ dẫu vậy dẫu dẫu dã dẫu sao dẫu dẫu, bản thân tôi thực sự vô cùng hoảng sợ chịu chết tịnh không thấu triệt nổi bản thân sẽ cật lực gây ra đống sự sự tình điên khùng kinh hoàng gì kề bên chị mất.`
+\
+`"[line=4]Anh dẫu dã đĩnh đạc bình ổn đắc lực chốn này rồi dẫu dã ổn dẫu dã ổn rồi, làm ơn xin chị hãy lẳng lặng để tôi yên một mình tự thân chốn này thôi, chị Kohaku... san..."@`
+ld c,"tachi/koha_t04",crossfade,400
+`"Dạ tịnh không đâu, tự ý em chịu chết tịnh không thể nghe theo lời cự tuyệt tự thân của cậu bấy giờ đâu ạ.@ Cậu Shiki ơi, cầu xin cậu làm ơn hãy lẳng lặng bình tâm bình tĩnh đĩnh đạc lại chốn cõi lòng chốn này đi ạ."@`
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_45b",crossfade,400
+`Lặp lại âm thanh se_02`
+` …… Thế nên, làm ơn xin chị hãy lẳng lặng khựng bước lại chốn ấy đi.@`
+` Rất nguy hiểm dị biến bất ổn dột ngột nếu chị cứ cật lực cất công cất bước tiến lại gần bên anh bấy giờ chốn ấy.@`
+` Bản thân anh dẫu dã thốt lời căn dặn chị cấm chịu chết tịnh không được phép cất bước lại gần anh rồi cơ mà.@`
+` Cớ làm sao.@`
+` Cớ làm sao nữ nhân đĩnh đạc nhường này chịu chết tịnh không chịu ngoan ngoãn lắng nghe đống lời căn dặn tự thân của tôi cơ chứ?!`
+\
+bg #000000,crossfade,400
+wave se_01
+br
+br
+br
+br
+br
+br
+` [line=4]Cớ làm sao em lại cất công cất bước chen ngang cản trở đống sự sự tình tự thân của tôi nhường này chốn ấy chứ.@`
+br
+`  Cớ làm sao em lại cật lực cư xử nhọc nhằn bướng bỉnh dị thường nhường này chốn ấy dẫu dã thế dẫu vậy,`
+wave se_01
+`  chịu chết tịnh không chịu tịch mịch vận hành tuân theo đống tâm ý ước ao tự thân của tôi chốn trần đời cơ chứ……!?`
+`   Không làm theo những gì tôi yêu cầu……!?
+\
+wave se_01
+bg "bg/bg_45b",notrans,0
+`"Câm miệng lại đi……!@ Lẽ nào đầu óc chị chịu chết tịnh không thấu tỏ nổi đống lời tôi cật lực bảo chị cất công cất bước xua đuổi cự tuyệt lùi ra xa hả Kohaku!"@`
+wave se_10
+rung chuyển 2,100
+`"Kyaa[line=4]!"@`
+` Một âm thanh nặng nề vang lên.@
+` Một thanh âm va đập khô khốc nặng nề tịch mịch vang lên chấn động chốn gian phòng biệt lập.@ Chị Kohaku-san dột ngột bị tôi cất lực quăng mạnh văng thẳng người vào diện vách tường gỗ chốn kề bên, khuôn mặt tự thân của chị bấy giờ co rút lại vì phải gánh chịu cơn đớn đau kịch liệt dữ dội chốn ấy.@`
+br
+`"[line=7]A……"@`
+br
+` …… Gương mặt đớn đau tủi hờn run rẩy tự thân chốn ấy của chị dột ngột dấy lên chấn động dữ dội dạt dào, lập tức quét sạch đống cuồng loạn u tối cất công trả lại thần trí tỉnh táo đĩnh đạc tự thân cho tôi chốn ấy.`
+` Dạt dào chỉ trong một chớp mắt ngắn ngủi dẫu dã thế dẫu vậy dẫu dã ổn rồi, toàn bộ đống cảm giác choáng váng chóng mặt choáng váng điên loạn dẫu dã tịch mịch biến tan tịnh không còn dấu vết chốn đại não, dạt dào dột ngột độc nhất chỉ chừa lại đống cảm giác tội lỗi ân hận tột độ tự thân đang gặm nhấm cõi lòng o oái oăm.`
+` Chỉ sau một khoảnh khắc, mọi choáng váng đều biến mất, chỉ còn lại cảm giác tội lỗi.
+\
+`"[line=2]Tôi vô cùng sám hối xin lỗi chị, Kohaku-san.@ Vừa rồi…… bản thân tôi thực sự chịu chết tịnh không thấu triệt ngọn ngành tại sao…… tôi dẫu dã……"@`
+ld c,"tachi/koha_t03",crossfade,800
+`"Dạ tịnh không sao đâu ạ, xin cậu Shiki chịu chết tịnh không cần phải để tâm lo nghĩ bận lòng hoang mang chốn ấy đâu ạ.@ Dẫu sao dạt dào cũng dạt dào chỉ là do em dột ngột tự ý mở miệng cất lời kích động trêu trọc cậu trong lúc thể trạng tâm tính tự thân của cậu đang có phần chịu nhiều bực dọc o oái oăm chốn ấy thôi ạ."@`
+br
+` Chị ấy vẫn lẳng lặng nở nụ cười hiền hậu hiền hòa tự nhiên quen thuộc chốn ấy như thường lệ tự thân dẫu dã thế.@`
+br
+`"Diện mạo diện mạo của cậu bấy giờ dẫu dã tịnh không còn tái nhợt tệ hại nhường kia nữa dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi dẫu dã thế, xem chừng cậu dẫu dã chầm chậm phục hồi đĩnh đạc đắc lực rồi chốn ấy nhỉ.@ Hai chị em mình dẫu dã có thể cất công cất bước tiếp tục cuộc giãi bày thong thong thong thả vừa rồi đúng tịnh không ạ?" "Tịnh không đâu……[line=2] sự sự tình ngày hôm nay dạt dào dột ngột dẫu dã dạt dào dột ngột dẫu dã tới chốn này coi như dẫu dã đĩnh đạc dừng lại dẫu dã ổn rồi dẫu dã ổn rồi chốn ấy dẫu dã thế.@ Em vô cùng sám hối bận lòng bối rối tột cùng đối kề bên chị Kohaku-san dẫu dã thế chốn này.@ Thực tâm thể xác tinh thần tự thân của em bấy giờ dột ngột dấy lên sự sự tình o oái oăm bất ổn quá chừng chốn này dẫu dã chứ."`
+\
+`"Ồ kìa oái oăm chốn này dẫu dã dạt dào?@ Cậu vốn dĩ dẫu dã là nam nhân đĩnh đạc tự thân cơ mà dẫu dã thế, nên em thiết nghĩ việc bản thân cất công hành xử có đôi phần thô bạo thô lỗ chút đỉnh tự thân chốn ấy tịnh không hề có điểm gì dị thường bất hợp thuần phong mỹ tục chốn ấy đâu ạ.@ Sự thực tự thân dẫu dã thế dẫu vậy, thâm tâm em bấy lâu nay dạt dào dột ngột dẫu dã luôn lẳng lặng nghĩ ngợi là cậu Shiki xưa nay lúc nào dẫu dẫu cũng cất công hành xử quá mức thong thả bình lặng tịch mịch quá mức nhún nhường nhường chốn ấy đấy chứ."@`
+` Chị ấy thong thả thỏ thẻ giãi bày cất lời đùa cợt ngọt ngào tự thân chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi, đôi môi vẫn lẳng lặng nở nụ cười rực rỡ hiền hậu ấm áp đĩnh đạc.`
+`"………………"@`
+` Diện kiến nụ cười hiền hòa bao dung tự thân chốn ấy của chị Kohaku-san dẫu vậy dẫu dẫu dã dạt dào dột ngột, lồng ngực tự thân tôi bỗng chốc lại dấy lên cơn đau nhói thắt nghẹn nhọc nhằn tột độ chốn ấy.`
+` Chị Kohaku-san vốn dĩ xưa nay dạt dào dạt dào dạt dào luôn dành trọn sự tin cậy tôn trọng đắc lực tự thân đối kề bên tôi dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi.`
+` Thế mà dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy, rốt cuộc dạt dào chỉ một chớp mắt ngắn ngủi vừa rồi dẫu vậy dạt dào dẫu dã dạt dào bản thân tôi dẫu dã điên rồ sửa soạn cật lực gây ra đống sự sự tình thú tính bạo ngược tàn ác nhường nào kề bên chị chốn chốn chốn ấy chứ[line=4]?`
+\
+`"…… Đúng đắn đĩnh đạc hệt như đống lời giãi bày dịu dàng tự thân vừa rồi của chị Kohaku-san dẫu dã thế dẫu vậy dẫu dã ổn rồi, tôi dẫu dã cất bước quay trở về phòng ngủ tự thân tĩnh dưỡng chốn chốn phòng dẫu dã ổn rồi.@ Thực sự vô cùng sám hối bận lòng về đống sự sự tình thô bạo o oái oăm vừa rồi đối kề bên chị chốn chốn phòng nhé."@`
+` Tôi tịch mịch cất lời xong dẫu dã thế dẫu vậy, liền cuống cuồng hết cả lên cất cật lực cất công cất bước chạy trốn biệt tăm biệt tích ra khỏi biệt dinh chốn ấy.`
+` Tôi tịch mịch bỏ lại gian nhà biệt lập cổ kính chốn ấy phía sau lưng dẫu dã thế dẫu vậy dẫu dã ổn rồi, cõi lòng tự thân bấy giờ dạt dào bị đè nghiến bẹp rúm dưới đống gánh nặng tự ghét bỏ tự căm ghét bản thân điên cuồng dữ dội.`
+\
+bg #000000,lcartain,800
+!w2000
+play "*1"
+bg "bg/bg_40c",lcartain,800
+` [line=3]Bữa ăn tối tịch mịch chốn dinh thự dẫu dã trôi qua dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế, tôi chầm chậm tịch mịch cất bước quay trở về gian phòng ngủ quen thuộc tự thân.@`
+` Tôi tịch mịch ngã nhào đổ sụp cả thể xác rã rời tự thân xuống tấm đệm giường ngủ dẫu dã thế dẫu vậy dẫu dã ổn rồi, trí não bấy giờ dạt dào liên tục nhớ về gương mặt hiền hòa rạng rỡ chốn ấy của chị Kohaku-san.@`
+br
+`"[line=4]"`
+` Bản thân tôi thực sự chịu chết tịnh không cách nào thấu triệt sâu sắc nổi chốn ấy.@`
+` Cớ làm sao cõi lòng tự thân bấy giờ lại trỗi dậy đống cảm giác thèm khát điên dại o oái oăm nhường ấy dẫu dã thế dẫu vậy, và cớ làm sao bản thân dẫu dã cất cật cật lực gây ra đống hành vi tàn thô bạo nhường chốn ấy kề bên chị.`
+\
+` Vào khoảng khắc o oái oăm chốn ấy……`
+` Khi diện kiến ngắm nhìn vùng da cổ trần thanh tú tự thân của chị Kohaku-san dẫu vậy dẫu dẫu dã dẫu sao dẫu dẫu dã dạt dào, bản thân tôi dột ngột dấy lên cơn khát máu rát bỏng cuồng cuộn khao khát dạt dào lồng ngực.`
+` Quả thực hệt như đống sự sự tình nổ ra chốn cơn ác mộng cuồng loạn đêm qua dẫu dã thế dẫu vậy, tôi dạt dào khát khao cắm phập răng vào tận sâu trong cuống họng của chị dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi.`
+` Nhưng dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy, hiện thời ngay lúc này đây dẫu vậy dạt dào dẫu dã trí não tôi chịu chết tịnh không thể mảy may suy nghĩ bận lòng nổi đống sự sự tình điên loạn hoang đường chốn chốn ấy nổi dẫu dã chứ.`
+br
+` Cơn ác mộng cuồng loạn đẫm máu đêm qua dẫu dã thế dẫu vậy, kề bên đống hành vi điên rồ thô bạo tự thân vừa rồi của tôi bấy giờ chốn ấy dẫu dã thế.`
+` Bản thân tôi dột ngột dấy lên nỗi lo sợ hoang mang tột độ rằng, hình như đang tồn tại một kẻ ác ma tàn ác nào đó ẩn nấp chốn sâu thẳm thể xác tự thân dẫu dã thế dẫu vậy, dẫu sao chịu chết tịnh không phải là con người thật tự thân đĩnh đạc bấy lâu nay của tôi.`
+\
+`"[line=4]"`
+` Tôi lẳng lặng đưa tay trần lên khẽ sờ nhẹ vào vùng da cổ tự thân vết thương chốn ấy.@`
+` Đống lời truyền miệng dân gian xưa nay vốn dĩ giãi bày rành rọt là những kẻ bị loài ma quỷ ma cà rồng cắm răng hút máu dạt dào dột ngột dẫu dã cũng dạt dào nhanh chóng hóa thành đồng loại ma quỷ hút máu hệt như chúng dẫu dã chứ.@`
+`"…… Sự sự tình ấy thực sự quá mức ngu xuẩn hoang đường chốn ấy dẫu dã thế.@ Bản thân mình dẫu sao dẫu dẫu dã vẫn dạt dào có thể thong thả cất bước đi lại nhàn tản dưới ánh nắng ban mai rực rỡ chốn kia cơ mà dẫu dã chứ."@`
+` ... Vâng, điều đó là không thể.@
+` …… Đúng thế dẫu dã ổn rồi, chuyện hoang đường ấy chịu chết tịnh không thể nào xảy ra nổi chốn này dẫu dã thế.@`
+` Tất thảy đống ảo ảnh kinh hoàng chốn ấy dạt dào dột ngột dẫu dã chỉ là đống sản phẩm tưởng tượng hoang đường tự thân dấy lên từ cơn choáng váng mỏi mệt kề bên thần trí mơ màng bấn loạn dột ngột dẫu dã thôi dẫu dã chứ dẫu dã ổn rồi.@`
+\
+`"Đúng đắn hệt như lời thỏ thẻ giãi bày tự thân của chị Kohaku-san dẫu dã thế dẫu vậy dẫu dã ổn rồi, có lẽ dạt dào chỉ là do bản thân bấy giờ dẫu dã quá mức kiệt quệ mệt mỏi mà thôi dẫu dã ổn rồi."@`
+` ... Có thể là như vậy.@
+` Bản thân tôi dẫu dã nên nhanh chóng lẳng lặng nhắm mắt chìm sâu vào giấc ngủ say sưa tự thân dẫu dã thế, cật lực ráng chút thời gian để hồi phục đắc lực lại thể xác rệu rã tự thân dẫu dã ổn rồi.`
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+wave se_01
+!w750
+br
+` [line=4]Bỏng rát. Lồng ngực bỏng rát hoài diệt hoành hành dữ dội chốn đại não tự thân.`
+\
+wave se_01
+!w750
+br
+br
+br
+` [line=4]Bỏng rát. Cơn sốt hừng hực hoài diệt hoành hành dữ dội chốn lồng ngực tự thân.`
+\
+wave se_01
+!w750
+br
+br
+br
+br
+br
+` [line=4]Bỏng rát. Ngọn lửa thiêu đốt cuồng loạn hoài diệt hoành hành dữ dội chốn huyết quản tự thân.`
+\
+wave se_01
+!w750
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Thể xác tự thân của tôi bấy giờ dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy, một khi dẫu dã cất công trỗi dậy thức tỉnh bản năng dơ bẩn chốn ấy dẫu dã thế,`
+`     chịu chết tịnh không cách nào thong thả xoa dịu dập tắt nổi dạt dào chỉ bằng đống giấc ngủ say sưa an lành tự thân nhường ấy đâu dẫu dã ổn rồi.`
+\
+wave se_01
+!w750
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Thế nên chốn ấy dẫu dã thế,@`
+`    Đêm tịch mịch ngày hôm nay dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế, tôi dẫu dã lại cất công cất bước đien cuồng săn mồi để xoa dịu cơn rát bỏng hoài diệt tự thân chốn ấy dẫu dã ổn dẫu dã ổn rồi.`
+\
+monocro #ff0000
+bg "bg/bg_47",notrans,0
+bg #000000,notrans,0
+bg "bg/bg_24c",notrans,0
+bg #000000,notrans,0
+bg "bg/bg_26a",crossfade,800
+` Bản thân tôi dạt dào dột ngột dường như dẫu dã cất công cất bước rời khỏi dinh thự lao thẳng vào chốn phố thị sầm uất chốn đêm trường tịch mịch.@`
+` Tự ý bản thân tôi bấy giờ dạt dào giống hệt như một loài ma thú khát máu dẫu dã thế, điên cuồng lẳng lặng túc trực chờ đợi kề bên đôi mắt vương rực sắc đỏ ngầu tự thân tìm kiếm bất cứ bóng hình ai cất công cất bước ngang qua chốn tử địa chốn ấy.`
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Lại một lần nữa dột ngột dấy lên sự sự tình cuồng loạn chốn ấy.`
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` Đột ngột dẫu dã thế dẫu vậy, tự mắt tôi diện kiến diện mạo khuôn mặt tự thân phản chiếu chốn khung cửa sổ kính nhà kề bên chốn ấy.@`
+` Đôi mắt trừng trừng vương dạt dào ngập sắc đỏ ngầu khát máu tự thân chốn ấy dẫu dã thế dẫu vậy, và toàn bộ diện mạo bấy giờ dạt dào trông vô cùng điên cuồng tà ác chịu chết tịnh không còn nhân tính.`
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Cơn ác mộng cuồng loạn đẫm máu tàn khốc này dẫu dã thế dẫu vậy, rốt cuộc dẫu dã lại cất công tìm đến phá bĩnh giấc ngủ tự thân dột ngột dấy lên rồi chốn ấy.`
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` Có vẻ như bản thân tôi dẫu dã nhanh chóng tìm thấy chốn đắc địa đắc lực con mồi tự thân của mình chốn ấy rồi.@`
+` Tôi lập tức cật lực giật phăng tước đoạt lấy sinh mạng kẻ xấu số chốn ấy chịu chết tịnh không cho họ có tàn lực cất lời la hét cầu cứu lấy nửa tiếng dẫu dã thế, dẫu cho tới lúc tịch mịch trút hơi thở cuối cùng tự thân dẫu vậy dẫu dẫu dã dẫu sao dẫu dẫu dã dạt dào họ vẫn chịu chết tịnh không mảy may ý thức thấu tỏ nổi bản thân dẫu dã tịch mịch vong mạng.`
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Tôi bấy giờ dẫu dã dạt dào lại dột ngột phải gồng mình chịu trận cơn ác mộng chém giết cuồng loạn đẫm máu nhường này dẫu dã chứ.`
+\
+bg #000000,notrans,0
+bg "bg/ima_12b",notrans,0
+bg "bg/bg_31b",notrans,0
+` Tay trần cật lực tước đoạt giật phăng lấy cái xác chết cô quạnh chốn ấy dẫu dã thế dẫu vậy, cùng kề bên thanh âm sột soạt ghê rợn cật lực cắm ngập răng nhọn xé toạc cuống họng thịt mềm ra rách rưới.@`
+` Thanh âm ừng ực ngấu nghiến ghê rợn vang lên chốn đêm trường cô tịch.@`
+` Điên cuồng uống cạn dòng máu tươi tự thân ấm nóng tuôn trào loang lổ loãng đỏ từ chốn cổ họng bị cật lực xé rách tự thân dẫu dã thế, rốt cuộc cơn khát máu rát bỏng hoài diệt tự thân chốn ấy dạt dào mới tịch mịch được xoa dịu đĩnh đạc.`
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Bức tranh khung cảnh thảm sát tàn độc y hệt như đống sự sự tình nổ ra chốn đêm hôm qua dẫu dã thế dẫu vậy dẫu dã ổn rồi.`
+\
+` Thần trí dột ngột dấy lên đống cảm giác nhàm chán khi dạt dào chỉ cật lực nốc máu tươi tự thân dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, tôi liền lẳng lặng cướp lấy bàn tay trần tự thân lạnh ngắt của cái xác chết cô tịch chốn ấy rồi cật lực nhai cắn ngấu nghiến đứt phăng từng đốt ngón tay tự thân một cách vô cùng thê lương cuồng bạo.`
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Khung cảnh tàn ác đẫm máu hoang dại ấy y hệt như đống sự sự tình nổ ra chốn đêm hôm qua dẫu dã thế dẫu vậy dẫu dã ổn rồi.`
+\
+` Thần trí dột ngột dấy lên đống cảm giác nhàm chán khi dạt dào chỉ cật lực nhai cắn đứt phăng đống ngón tay tự thân dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, tôi liền cật lực giật phăng xé rời đống tứ chi xương thịt tự thân của cái xác chết cô tịch chốn ấy dẫu dã thế, rồi cật lực cắn xé rôm rốp đứt phăng từng khúc thịt mềm một chốn ấy dẫu dã thế dẫu vậy.`
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Cảnh tượng thảm sát tàn độc tột cùng y hệt như đống sự sự tình nổ ra chốn đêm hôm qua dẫu dã thế dẫu vậy dẫu dã ổn rồi.`
+\
+` Và rồi dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy,`
+` một chướng ngại vật o oái oăm bỗng chốc dột ngột dấy lên cản trở chốn ấy.@`
+` Tôi liền lẳng lặng quẳng phăng cái xác chết nát bét loang lổ tự thân sang một bên dẫu dã thế dẫu vậy, rồi bật người phóng vút lên cao kịch liệt.`
+` Kẻ nào.@ Kẻ nào bấy giờ đang lén lút tịch mịch đăm đăm hướng mắt theo dõi đống hành vi tự thân bấy giờ của tôi chốn ấy chốn ấy.`
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Liệu sự sự tình ngày hôm nay... dột ngột dẫu dã có điểm bất đồng khác biệt tự thân đối kề bên cơn ác mộng cuồng loạn đêm hôm qua rồi chăng……?`
+\
+bg "bg/ima_02",tshutter,400
+` Một thứ gì đó sắc lẹm hệt như một chiếc đinh sắt khổng lồ thọc sâu xé toạc không trung bay vút qua tự thân chốn ấy.@`
+` Để cật lực cất công né tránh đường hiểm hóc tự thân chốn ấy dẫu dã thế, tôi cật lực bật người phóng vút giật lùi sang bên cạnh chốn kia.@`
+` Tôi điên cuồng cật lực bám vách rảo bước chạy vùn vụt ngược thẳng lên diện tường tòa nhà cao tầng chốn ấy dẫu dã thế, rồi liên tục phóng người vút vút cất bước nhảy băng qua giữa đống mái nhà chốn đô thị tịch mịch chốn ấy.`
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Bóng hình ngự chốn y phục đen tuyền tịch mịch kia bấy giờ dẫu dã cật lực ráo riết săn lùng truy đuổi sát nút sau lưng con ma thú khát máu chốn ấy dẫu dã chứ.`
+\
+` Băng qua từ mái nhà này sang chốn mái nhà khác rầm rập đằng đẵng chốn ấy……@`
+` Lướt từ chốn bóng tối cô tịch này sang chốn bóng tối cô tịch khác vùn vụt tự thân chốn ấy.@`
+` Bóng hình đen tuyền bí ẩn tự thân ấy vẫn cật lực bám đuổi săn lùng cật lực túc trực phía sau chịu chết tịnh không buông tha nửa bước.`
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Chịu chết tịnh không thể tránh né cự tuyệt nổi rồi chốn ấy dẫu dã thế.`
+\
+` Kẻ ấy tịch mịch lẩm bẩm thốt lời lẽ giãi bày thỏ thỏ thỏ thẻ dạt dào chịu chết tịnh không thể tránh né cự tuyệt đắc lực nổi chốn này đâu dẫu dã thế.@`
+` Và rồi dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi dẫu dã thế dẫu vậy, bữa tiệc máu đẫm máu đêm tịch mịch hôm nay dẫu dã tịch mịch kết thúc kết thúc dứt khoát chốn ấy rồi.`
+\
+bg #000000,crossfade,800
+monocro off
+!w3000
+phase "bg/ima_19", l, aki, 07a, 7
+` waveloop se_02
+bg #ffffff,crossfade,800
+`"Cậu Shiki ơi[line=4]?"@`
+br
+` [line=4]Một thanh âm thỏ thỏ thỏ thẻ tự thân dịu hiền dấy lên chốn ấy.@`
+br
+`"Cầu xin cậu làm ơn hãy lẳng lặng bình tĩnh bình tâm an lòng lại dẫu dã ổn rồi ạ, tự ý em dẫu dã chuẩn bị đắc lực đi lấy nước lọc thanh mát sang dâng cho cậu dùng tạm bấy giờ đây ạ……!"@`
+br
+` [line=4]Thanh âm đống bước chân chạy bộ dồn dập quýnh quáng tự thân vội vã vang vọng chốn hành lang chốn ấy.`
+\
+bg "bg/bg_40a",crossfade,800
+br
+`"A...[line=4]"@`
+` Tôi bàng hoàng giật mình tỉnh giấc khôi phục thần trí tự thân thoát khỏi cơn ác mộng chém giết cuồng loạn đẫm máu chốn ấy.`
+\
+`"…… Gian phòng ngủ quen thuộc tự thân của mình."@`
+` Tôi chắc chắn đang ở trong phòng của mình.@
+` Chỉ nằm trên giường, và buổi sáng đã đến.@
+` Tôi dẫu dã dạt dào dột ngột lại trải qua cơn ác mộng cuồng loạn đẫm máu kinh hoàng nhường ấy dẫu dã chứ.@`
+` Cơn ác mộng chém giết điên cuồng cật lực uống máu người vô tội tự thân chốn ấy dẫu dã thế.`
+` Dẫu cho thần trí tự thấu triệt thấu tỏ sâu sắc sự sự tình ấy dạt dào dột ngột dẫu dã dạt dào chỉ dạt dào là một giấc mộng mị hoang đường dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, dẫu vậy xúc cảm chấn động tự thân chốn ấy hiển hiện vô cùng sống động chân thực đến nhường này chịu chết tịnh không thể xóa nhòa nổi chốn trí não.`
+` Đôi bàn tay trần tự thân vẫn lẩm bẩm khắc sâu mồn một đống xúc cảm tàn ác cật lực giật phăng xé toạc da thịt thớ thịt sống động tự thân chốn ấy dẫu dã thế; chốn mũi dạt dào vẫn còn phảng phất vương vấn nồng nặc đống mùi tanh nồng nực tự thân của dòng máu đỏ loãng loãng loãng nóng hổi chốn ấy……`
+\
+`"[line=3]…… Sự sự tình kinh hoàng quái quỷ gì dột ngột đang cật lực xảy ra kề bên thể xác linh hồn tự thân của mình thế này bấy giờ chứ?"@`
+` Tôi chầm chậm lẳng lặng đưa bàn tay trần tự thân lên khẽ sờ nhẹ vào vùng da cổ tự thân vết thương chốn ấy.@`
+` Nơi cắn của Yumizuka đã biến mất từ lâu.@
+` Tự bản thân tôi dẫu dã luôn thấu tỏ bản thân vẫn dạt dào dột ngột dẫu dã luôn là một con người bình thường đĩnh đạc xưa nay dẫu dã chứ.@`
+` Bản tâm tôi chịu chết tịnh không hề mưu cầu mong muốn cật lực nốc máu tươi tự thân của bất cứ ai chốn này dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, vả lại cơ thể tự thân chịu chết tịnh không hề dấy lên bất cứ sự phản ứng cự tuyệt dị ứng o oái oăm nào dưới ánh nắng ban mai rực rỡ chốn kia cả dẫu dã chứ.`
+`"[line=4]A."@`
+` Chịu chết tịnh không phải thế chốn ấy dẫu dã ổn dẫu dã ổn rồi.@ Ngày hôm qua dẫu dã thế dẫu vậy, tự bản thân tôi……@`
+` Rốt cuộc thần trí tự thân của tôi dẫu dã lẳng lặng nghĩ ngợi đống sự sự tình điên khùng quái đản gì chốn đầu ngay chốn thời khắc diện kiến nhìn ngắm gáy cổ của chị Kohaku-san chốn ấy chứ?@`
+br
+` [line=3]Vùng gáy thon thon mang một sắc trắng ngần thanh tú ấm áp tự thân chốn ấy.@`
+` Từ chốn sâu thẳm cõi lòng tự thân dột ngột dấy lên cơn khát bỏng khát khao điên cuồng cật lực muốn cắm răng nhọn hoắt ngập sâu hoắm vào tận cuống họng thịt mềm chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã ổn rồi, cật lực uống cạn dòng máu ấm nóng tự nhiên tuôn trào xiết bao chốn ấy[line=4]`
+\

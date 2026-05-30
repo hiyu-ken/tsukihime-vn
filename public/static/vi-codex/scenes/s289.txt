@@ -1,0 +1,546 @@
+phase "bg/bg_33d",l,cel,11b,11
+monocro #fffff0
+bg "bg/bg_40e",crossfade,1500
+play "*6"
+` Trời đã hửng sáng, và tôi cuối cùng cũng khóa chặt được cửa phòng.@
+br
+` *hộc* *hộc* *hộc*
+br
+!w500
+` Tiếng thở dốc như dã thú của tôi vang vọng khắp căn phòng.@
+` Đầu tôi đau như búa bổ.@
+` Có vẻ như tôi đã đánh rơi chiếc kính ở đâu đó rồi.@
+` Nhìn những "đường kẻ" chằng chi phối khắp căn phòng, tôi cảm thấy buồn nôn kinh khủng.
+\
+` *hộc* *hộc* *hộc*
+br
+!w500
+` Cảm giác ghê tởm dâng trào, tôi dùng dao vạch đứt tất cả những đường kẻ đập vào mắt.@
+` Tôi cảm thấy dễ chịu hơn đôi chút.@
+` Chỉ trong khoảnh khắc cắt rời vạn vật, trái tim tôi mới được bình yên.@ Nhưng càng cắt, cơn khát trong tôi lại càng cháy bỏng.
+\
+` *hộc* *hộc* *hộc*
+br
+!w500
+` Tôi biết bản thân đang khát khao điều gì.@
+` Tôi khát khao mọi thứ.@
+` Bất cứ thứ gì đập vào mắt cũng đều khiến tôi ngứa ngáy điên tiết.
+\
+br
+` *hộc* *hộc* *hộc*
+br
+!w500
+` Tôi muốn tàn phá mọi thứ,
+` giết sạch tất cả.@
+` Tôi biết làm vậy là sai trái, nhưng tôi không nghĩ mình có thể kìm nén thêm được nữa.@
+` Cơ thể tôi run lên vì phấn khích; tôi sắp phát điên mất rồi.
+\
+wave se_04
+`"Cậu Shiki, cậu đã thức chưa ạ?"@
+`"[line=4]!?"@
+` Tôi có thể nghe thấy giọng nói của Hisui từ phía bên kia cánh cửa.
+\
+`"Cậu Shiki, cậu khóa cửa như vậy không tốt đâu ạ.@ Nếu cậu đã thức rồi thì làm ơn mở cửa cho em."@
+`"…… Mở…… cửa ư…………?"@
+` Mở cửa?@
+` Mở cửa và cho phép Hisui vào trong?
+\
+br
+` [line=3]Điên rồ thật mà.@
+` Nếu chuyện đó xảy ra, chính tôi cũng không biết mình sẽ làm ra loại chuyện gì nữa.@
+` Cứ như thế này[line=3]chỉ cần ở một mình thế này, nằm trên giường và kéo rèm che kín, tôi còn có thể kìm hãm những dục vọng đang chực chờ nuốt chửng tâm trí mình.@
+` Chính vì thế, nếu Hisui bước chân vào đây, tôi sẽ[line=3]
+\
+`"[line=3]Im đi!@ Để tôi yên!"@
+` Tôi gào lên phía cánh cửa.@
+`"…… Cậu Shiki?@ Cậu cảm thấy không được khỏe sao ạ?"@
+`"Tôi đã bảo để tôi yên mà……!@ Tôi không sao hết, nên làm ơn hãy để tôi yên đi……!"@
+` Nếu cô ấy[line=3]bước vào căn phòng này, một thảm kịch không thể cứu vãn chắc chắn sẽ xảy ra.@
+`"…………"@
+` Sau một hồi im lặng kéo dài, tôi nghe thấy tiếng bước chân của cô ấy.@
+` Từng bước lặng lẽ, cô ấy rời khỏi trước cửa phòng tôi.
+\
+` *hộc* *hộc* *hộc*
+!w500
+br
+` [line=3]Giờ thì an toàn rồi.@
+` Nghĩ vậy, tôi dần lấy lại bình tĩnh đôi chút.@
+` Mình nên[line=3]mình nên đọc sách để giải tỏa tâm trí thôi.
+\
+`"Ủ[line=3]a?"@
+` Cuốn sách luôn đặt cạnh gối nằm của tôi đã biến mất.@
+` Cuốn sách viết bằng tiếng Anh kia…… Dù tôi hoàn toàn chẳng thể đọc hiểu nổi, nhưng nó luôn là một công cụ hữu hiệu để giết thời gian.@
+` Tôi lục tìm xung quanh nhưng tuyệt nhiên không thấy nó đâu.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40e",crossfade,800
+bg #000000,notrans,0
+bg "bg/bg_40e",crossfade,800
+` Không thể tìm thấy nó đâu hết.@
+` Tôi điên cuồng lục lọi ký ức để nhớ lại xem bìa sách trông như thế nào.@
+` Nhưng tôi không tài nào nhớ nổi.@
+br
+` *hộc* *hộc* *hộc*
+br
+!w500
+`"Cuốn sách[line=3]cuốn sách đó đâu rồi."@
+` Mà nghĩ lại thì,
+` Tại sao mình lại đặt cuốn sách đó ngay cạnh gối nằm cơ chứ?
+\
+` Tôi không biết nữa.@ Tôi thậm chí còn chẳng nhớ bản thân đã mang nó vào phòng từ lúc nào.@
+` Tôi cũng chẳng biết mình đã lấy nó từ đâu ra nữa.@
+` Ngay từ đầu[line=3]liệu cuốn sách đó có thực sự tồn tại trên đời hay không?
+\
+br
+br
+br
+br
+br
+br
+br
+` …… Thực sự thì, có lẽ ngươi vẫn chưa nhận ra đâu.
+\
+!w1000
+\
+` …… Giọng nói đầy phiền toái của Roa lại hiện lên trong tôi.@
+` Cuốn sách đó[line=3]và cả nội dung của nó.@
+` Cuốn sách tôi thường hay đọc mỗi khi trằn trọc mất ngủ.@
+` Hay liệu, đó chỉ là một giấc mơ mà trong đó tôi mộng mị thấy bản thân đang thức trắng đêm và không thể chợp mắt?
+\
+br
+br
+br
+br
+br
+br
+br
+` …… Nhưng thực chất, ngươi đã hóa điên từ lâu, lâu lắm rồi cơ mà……!
+\
+!w1000
+\
+` Roa đã thốt lên những lời như thế.@
+` MƠ[line=3]một giấc mơ sao.@
+` Nhưng tôi, chưa bao giờ mơ thấy những giấc mộng kiểu đó cả.@
+` Ngay từ đầu, trong tôi làm gì có thứ kiến thức kỳ lạ đó chứ.@
+` Chẳng có lý do gì để tôi mơ thấy một giấc mộng như thế cả.@
+` Đó, không phải là giấc mơ của tôi.
+\
+br
+br
+br
+br
+br
+br
+br
+`   Có lẽ chính ngươi cũng chưa nhận ra đâu.
+\
+!w1000
+\
+`"[line=4]Câm... miệng đi."@
+br
+` *hộc* *hộc* *hộc*
+br
+` Thế thì rốt cuộc thứ đó là cái gì cơ chứ?@
+` Từ cái quái nào mà tôi lại bắt đầu mơ thấy những giấc mơ thuộc về một kẻ khác chứ?
+\
+br
+br
+br
+br
+br
+br
+br
+`    Ngươi và ta đã được liên kết làm một rồi, Shiki.
+\
+!w1000
+\
+`"[line=4]Câm miệng đi, ngươi chết rồi cơ mà."@
+` Ngươi đã chết từ đời nào rồi, đồ khốn, nên bớt lải nhải bên tai ta đi.@
+` Ta[line=3]hoàn toàn khác biệt với ngươi.@
+` Ta không phải là một kẻ sát nhân.@
+` Ta chỉ đang bị chấn động bởi những di chứng để lại mà thôi.@
+` Kể từ lúc chị Ciel quay trở về, ta tuyệt đối không cho phép bản thân điên loạn chỉ vì dăm ba thứ nhảm nhí này.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Đúng vậy, ban đầu ta cũng từng nghĩ như thế đấy.@
+`    Cho dù kẻ tên Roa này có xâm nhập vào[line=3]
+\
+!w1000
+\
+`"[line=3]Ta đã bảo ngươi câm miệng lại rồi cơ mà……!"@
+wave se_10
+quakey 2,100
+br
+` *hộc* *hộc* *hộc*[line=5]
+br
+!w500
+` …… Tôi thở dốc một cách nặng nhọc.@
+` Ánh nắng mặt trời chói chang ngoài kia khiến tôi điên tiết.@
+` Cổ họng tôi.@ Cổ họng tôi khô khốc đến mức sắp phát điên phát cuồng lên được.
+\
+`"Cậu Shiki……!@ Cậu đang làm cái gì vậy hả, cậu Shiki!?"@
+` Tiếng của Hisui vọng vào từ phía bên kia cánh cửa.@
+` …… Tôi thậm chí còn chẳng thể trả lời nổi cô ấy.@
+` Ngôn từ.@ Tôi thậm chí còn chẳng nhớ nổi từ ngữ mình muốn nói.@
+`"Cậu Shiki, xin hãy mở cửa ra đi ạ, cậu Shiki!"@
+` Tiếng gõ cửa khẩn thiết của Hisui lại dồn dập vọng vào.@
+br
+` …… Giọng nói của cô ấy nghe thật mờ nhạt, như thể đang nói một thứ ngôn ngữ xa lạ nào đó vậy.
+\
+` Thật xa xôi và vô vọng.@
+`"[line=5]Á…… hộc."@
+` …… Tình trạng này thực sự rất tồi tệ.@
+` Bản thân tôi lúc này hoàn toàn không đủ tỉnh táo để đối mặt với Hisui như bình thường nữa.@
+`"Cậu Shiki, đã xảy ra chuyện gì sao ạ, cậu Shiki…………!"@
+` Cô ấy vừa gọi vừa dồn dập đập cửa.@
+`"…… Im…… ngay đi……"@
+` Tôi tuyệt vọng lấy tay bịt chặt hai tai mình lại……@
+`"        "@
+` …… Tôi không còn nghe thấy giọng nói của Hisui nữa.@
+` Cứ như thế này,
+` tôi phải tự nhốt mình trong phòng ngủ này để tuyệt đối không chạm mặt Hisui, Akiha, hay chị Kohaku nữa[line=4]
+\
+bg #000000,crossfade,1500
+playstop
+bg "bg/bg_40e",crossfade,1500
+waveloop se_11
+` Bây giờ đã là mười giờ sáng.@
+` Hisui cuối cùng cũng đành bất lực bỏ cuộc và rời đi.@
+` Akiha và chị Kohaku sau đó cũng lần lượt đến gõ cửa phòng, nhưng tôi tuyệt đối phớt lờ và im lặng hoàn toàn.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` Đã mười hai giờ trưa.@
+` …… Bụng tôi bắt đầu đói cồn cào.@
+` Nhưng, tôi vẫn có thể chịu đựng được.@
+` Tôi trùm kín chăn lên đầu, ôm chặt lấy cơ thể đang run rẩy không ngừng.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+` Đã hai giờ chiều.@
+` …… Cổ họng khô khốc đến mức tôi sắp chết khát rồi.@
+` Tôi đã mất hoàn toàn khái niệm về thời gian.@
+` Không gian xung quanh phẳng lặng đến kỳ lạ.@
+` Nhưng cơ thể tôi, như thể bị kích thích bởi một liều thuốc cực mạnh, đang không ngừng cồn cào, muốn nổi loạn bùng phát.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+` Đã bốn giờ chiều.@
+` …… Tiếng gõ cửa lại dồn dập vang lên.@
+` Tiếng ai đó đang réo gọi tên tôi.@
+` Đó là giọng của ai cơ chứ?@ Họ đang réo gọi tên ai thế kia?@ Đầu óc điên loạn khiến tôi chẳng thể nào nhận thức ra nổi nữa rồi.
+\
+bg #000000,crossfade,1500
+monocro #ff0000
+bg "bg/bg_40e",crossfade,1500
+br
+br
+` Đã năm giờ chiều.@
+` Trời bắt đầu dần tối muộn.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40e",crossfade,1500
+br
+br
+br
+` Đã sáu giờ tối.
+\
+bg #000000,crossfade,1500
+monocro off
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+` Đã bảy giờ tối.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+br
+br
+br
+br
+br
+` Đã tám giờ tối.
+\
+bg #000000,crossfade,1500
+bg "bg/bg_40f",crossfade,1500
+wave se_04
+br
+br
+br
+br
+br
+br
+` [line=3]Bỗng nhiên, có tiếng bước chân dừng lại trước cửa phòng.
+\
+`"Cậu Shiki ơi, em mang bữa tối lên cho cậu đây ạ.@ Từ sáng tới giờ cậu chẳng ăn uống gì rồi, cứ thế này là cơ thể cậu sẽ quỵ mất đó ạ."@
+br
+` Giọng nói dịu hiền của chị Kohaku.@
+` Chị ấy nhẹ nhàng gõ cửa.@
+br
+`"Trời đất, nếu cậu cứ cứng đầu thế này thì em bắt buộc phải ép cậu ăn chút gì đó thôi."@
+` Tiếng lách cách khẽ vang lên.@
+` Không phải tiếng gõ cửa nữa, mà là âm thanh ổ khóa đang được mở ra.
+\
+`"Hì hì, đã đến lúc sử dụng vũ khí bí mật của em, chiếc chìa khóa vạn năng rồi!"@
+`"[line=4]Á."@
+br
+` Chốt cửa được mở.@
+` …… Cánh cửa hé mở.@
+` Đã quá muộn rồi.@ Dù tôi có cố xua đuổi đi chăng nữa, chị ấy cũng đã bước chân vào phòng.@
+br
+` [line=4]Thế nhưng.@
+` Ngay cả hành động đơn giản là "ăn uống", lúc này tôi cũng tuyệt đối không thể thực hiện nổi.@
+` Sự kích thích tột độ từ thức ăn sẽ hoàn toàn đập tan vụn những mảnh vỡ lý trí cuối cùng mang tên "Tohno Shiki" bên trong tôi mất.
+\
+` …… *hộc*…… *hộc*…… *hộc*……
+br
+` Tôi thở dốc dồn dập.@
+` Bằng mọi giá.@
+` Tôi phải đè nén nó lại bằng được.
+\
+ld c,"tachi/koha_t02",lshutter,800
+`"Cậu Shiki ơi, em xin phép vào…… ơ, chuyện gì thế này?"@
+` Vẫn với nụ cười dịu hiền trên môi, chị ấy bỗng sững sờ kinh ngạc khi chứng kiến căn phòng ngủ đang hỗn loạn, tan hoang tột độ.
+\
+` …… *hộc*…… *hộc*…… *hộc*……
+br
+` Gương mặt thanh tú, đáng yêu của chị ấy không hề biểu lộ chút sợ hãi.@
+` Dáng vẻ hoàn toàn không chút đề phòng, vô cùng mỏng manh dễ vỡ ấy.@ Mái tóc hung đỏ[line=4]và cả làn da mịn màng, ấm áp vô cùng cuốn hút kia nữa.
+\
+`"Cậu Shiki……?@ Lạ quá ạ, làm sao căn phòng lại ra nông nỗi này cơ chứ?"@
+` Vẫn giữ nụ cười tươi tắn, chị ấy từng bước tiến lại gần chiếc giường nơi tôi đang nằm co quắp.@
+cl c,lshutter,800
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` [line=17]Nhanh lên đi chứ.@@
+wave se_01
+` Không được.@@
+` [line=14]Nhanh tay lên đi chứ.@@
+wave se_01
+`    Không được làm thế.@@
+` [line=11]Mau lên đi chứ.@@
+wave se_01
+`       Dừng lại đi.@@
+` [line=8]Nhanh tay lên đi chứ.@@
+wave se_01
+`         Câm miệng lại đi.@@
+` [line=6]Nhanh lên đi chứ.@@
+wave se_01
+`            Tôi không muốn thế.@@
+` [line=2]Nhanh tay lên đi chứ.@@
+wave se_01
+` Tôi
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"Chạy[line=3]mau đi……!"@
+` Bằng chút tàn lực lý trí cuối cùng, tôi cố vắt ra được những lời van xin ấy.
+\
+ld c,"tachi/koha_t02",crossfade,400
+`"Dạ?@ Em xin lỗi, em nghe không rõ ạ, cậu Shiki có thể vui lòng nói lại được không ạ?"@
+` Nhưng hành động đó thực chất lại phản tác dụng.@
+` Lo lắng cho tôi, chị ấy lại càng tiến sát lại gần giường hơn.@
+` Hướng về phía tôi/HƯỚNG VỀ PHÍA TÔI,
+!w1000
+` thân thể ấy/THÂN THỂ ẤY,
+!w1000
+` dáng hình của chị ấy/DÁNG HÌNH ẤY,
+!w1000
+` đang nhích lại gần/ĐANG MỜI GỌI TÔI,
+!w1000
+` tiến vào.
+\
+waveloop se_02
+` Những ngón tay thanh mảnh của chị ấy khẽ chạm nhẹ lên vai tôi.@
+` Những ngón tay đang phập phồng ấm nóng dòng máu luân chuyển.@
+` Hơi ấm dịu nhẹ tỏa ra từ cơ thể chị ấy.@
+` Những tia lửa phấn khích bùng nổ dữ dội phía sau đại não tôi.
+\
+bg #000000,lshutter,400
+`"Á[line=4]!"@
+` Tôi nghe thấy tiếng hét kinh hoàng thất thanh.@
+` Bàn tay tôi đã bấu chặt siết lấy cổ họng của chị ấy từ lúc nào.
+\
+`"Hộc[line=3]a, ư, hộc[line=3]"@
+` Nhịp thở dốc của tôi hoàn toàn mất kiểm soát.@
+` Mình.@ Đang muốn.@ Làm cái quái.@ Gì thế này?
+\
+`"Cậu…… Shi, ki……[line=3]"@
+` Giọng của chị ấy nghẹn ứ lại nửa chừng.@
+` Không mảy may quan tâm, tôi lại càng ra sức siết chặt hơn.@
+` Siết chặt dữ dội.@
+` Khớp xương cổ của chị ấy bắt đầu kêu lên răng rắc đau đớn.
+\
+`"Dừ, n[line=3]!"@
+` Tiếng vải rách khẽ vang lên.@
+` Mười đầu ngón tay của chị ấy cào cấu dữ dội vào cánh tay tôi.@
+bg "bg/ima_13",crossfade,800
+` Chị ấy đang điên cuồng giãy giụa trong tuyệt vọng khi phải đối diện sát nút với cái chết cận kề.@
+` Những chiếc móng tay bấm ngập qua lớp vải, cắm thẳng vào da thịt trên cánh tay tôi.
+\
+`"Hự[line=4]!"@
+` Đau buốt.@
+` Nhưng cơn đau này thấm tháp vào đâu so với sự đau đớn tột cùng mà chị Kohaku đang phải hứng chịu.@
+` Dòng máu tươi túa ra.@
+` Máu chảy dọc theo cánh tay tôi, nhuộm đỏ cả bàn tay đang siết chặt lấy cổ họng của chị Kohaku.
+\
+`"Ha[line=4]ha."@
+` Nhuộm đỏ một màu đỏ thắm.@
+` Chiếc cổ trắng ngần, không thể chống cự kia giờ đây đang chảy đầy máu tươi.@
+` Tôi bỗng chẳng còn cảm nhận được sự tồn tại của chị ấy nữa rồi.@
+` Chỉ đăm đăm hướng về ý nghĩ rằng chị ấy sẽ chết ngạt hoàn toàn trong vài giây nữa…
+\
+`"Ha ha[line=5]ha."@
+` Cảnh tượng thảm hại ấy bỗng khiến tôi thấy buồn cười tột độ, tôi bắt đầu cười phá lên cuồng loạn.@ Thậm chí chưa đầy một phút kể từ khi tôi bóp nghẹt lấy cổ chị ấy.@
+` Chị ấy không đơn thuần chết vì ngạt thở đâu.@
+` Mà chị ấy sẽ chết dưới chính đôi bàn tay dã thú này của tôi.
+\
+`"Ha, haa, ha."@
+` Cứ cười một cách vô thức, bất chợt.
+\
+`"Hahaha, ha[line=3]ha, ha, ha."@
+` Hệt như một cỗ máy phân xác vô cảm.
+\
+br
+br
+br
+br
+br
+br
+`"Ahahahahahahahahahahahaha!"@
+` Chị ấy sẽ chết thảm khi toàn bộ xương cổ bị bóp gãy nát hoàn toàn.
+\
+bg #000000,crossfade,800
+wavestop
+bg "bg/bg_40c",crossfade,800
+` Ngay trong tích tắc ấy,`
+` tựa như vừa được trục xuất khỏi quỷ dữ ám hại, cơn hưng phấn cuồng loạn trong cơ thể tôi bỗng chốc tan biến sạch sẽ.@
+br
+` Hiện ra ngay trước mắt tôi lúc này là tấm thân đẫm máu của chị Kohaku.@
+` Đôi bàn tay tôi vẫn đang ra sức bóp nghẹt cổ chị ấy, chỉ cần thêm một giây ngắn ngủi nữa thôi[line=5]
+br
+`"[line=6]!"@
+` Tôi hốt hoảng buông tay ra lập tức.
+\
+` Không một tiếng động,`
+br
+` cơ thể chị Kohaku đổ sụp xuống nền nhà lạnh lẽo.
+\
+`"Hự…… hộc, [line=5]"@
+` [line=4]Chị Kohaku nhắm nghiền hai mắt, rên rỉ thở dốc một cách vô cùng đau đớn.@ "Chị Kohaku……!"@
+` …… Chị ấy vẫn còn sống.@
+` Chỉ một chút nữa thôi.@ Nếu như tôi ngoan cố siết chặt thêm chừng một giây nữa, tôi chắc chắn đã[line=4]
+\
+eroskip 3
+`"Hức…… ư, ư………"@
+` …… Chị ấy đang khóc.@
+` Nằm sõng soài yếu ớt trên sàn nhà, không thể nhấc nổi người dậy, chị ấy nức nở khóc lặng đi.@
+` Tôi bàng hoàng nhìn xuống.@
+` Trên tà áo Kimono của chị ấy dính đầy một thứ chất lỏng màu trắng đục.@
+br
+` Thứ đó, chính là tinh dịch của tôi.@
+` Bằng cách chà đạp tàn nhẫn lên chị ấy[line=4]tôi mới có thể giải phóng hoàn toàn đống dục vọng thú tính tà ác bên trong cơ thể mình sao?
+\
+`"[line=5]Hộc."@
+` Tôi không dám tin vào sự thật hiển nhiên tàn khốc này.@
+` Trong khi một tay đang siết cổ bóp nghẹt chị Kohaku, thì tay còn lại của tôi[line=4]lại điên cuồng tận hưởng cực khoái từ việc tàn sát một sinh mạng sao?@
+br
+` [line=4]*Thình thịch!*@
+br
+` Cơn điên loạn này, vẫn tuyệt đối chưa chấm dứt đâu.
+\
+` Dương vật tôi vẫn cương cứng hoàn toàn, và hơn thế nữa, cơn khát cuồng loạn trong lòng tôi vẫn chưa hề được thỏa mãn hoàn toàn.
+\
+` Khát quá.@
+` Tôi vừa[line=3]gây ra một tội ác đồi bại kinh tởm tột độ với chị Kohaku, thế nhưng cơn khát ấy dường như vẫn đang cháy bỏng dâng trào.@
+` Sự thật tàn khốc là, sự ân hận ăn ăn năn trong tôi đang nhanh chóng bay biến sạch sẽ ngay khi ánh mắt tôi dại đi nhìn chằm chằm vào chiếc cổ của chị Kohaku.@
+br
+` Chiếc cổ trắng ngần xinh đẹp ấy.@
+` Chỉ muốn cắm phập răng vào chiếc cổ họng mịn màng kia và.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=5]Tôi thực sự muốn được gặm nhấm, được hút cạn dòng máu ngọt ngào của chị ấy.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=4]Cái quái gì đang xảy ra thế này?"@
+!w500
+` Tôi hoàn toàn tan vỡ rồi.@
+`"Tại sao chứ, rốt cuộc mình đang làm cái quái gì thế này[line=4]"@
+!w500
+` Tôi hoàn toàn tan vỡ rồi.@
+` Bản thân tôi đã thực sự phát điên hoàn toàn rồi sao?
+\
+`"Tại sao[line=5]"@
+` Phải ra ngoài.@
+` Mình bắt buộc phải trốn chạy ra khỏi biệt thự ngay lập tức.@
+` Nếu cứ cố thủ ở đây, mình chắc chắn sẽ ra tay giết chết chị Kohaku mất.@
+` Nếu cứ tiếp tục ở lại căn biệt thự này, mình chắc chắn sẽ xuống tay tàn sát cả Akiha và Hisui mất.@
+` Vì vậy trước khi cơn ác thú ấy lại trỗi dậy điên cuồng một lần nữa, tôi bắt buộc phải biến mất hoàn toàn.
+\
+`"Rốt cuộc, mình đang làm cái trò điên rồ gì thế này?"@
+` Tìm một nơi tuyệt đối không có một bóng người.@
+` Tôi phải tháo chạy đến một chốn hoang vu không bóng người, nếu không bản thân tôi chắc chắn sẽ lại hóa thành dã thú phát điên mất[line=4].
+\
+bg #000000,crossfade,1500
+wave se_01
+` [line=3]Tôi vội vã tháo chạy khỏi căn biệt thự.@
+` Hơi thở dồn dập, đứt quãng khè ra từ chiếc cổ họng khô rát rớm máu.@
+`"…… Ự…… hộc…… hộc…… ặc."@
+` Tại sao, mọi chuyện lại ra nông nỗi này cơ chứ?@
+` Đầu óc tôi dần trở nên trống rỗng, trắng xóa hoàn toàn.@
+br
+` Tôi chẳng thể suy nghĩ nổi điều gì nữa.@
+` Ngay cả những hành động cơ bản như cách điều hòa nhịp thở, cách giữ thăng bằng để dịch chuyển tay chân nhịp nhàng, tôi cũng phải ra sức gượng gạo tập trung suy nghĩ thì mới có thể gượng sức thực hiện nổi.
+\
+wave se_01
+`"Á…… hộc……"@
+` …… Trong đầu tôi lúc này hoàn toàn vô định, không hề có một điểm đến cụ thể nào cả.@
+` Chỉ là, hoàn toàn vô thức.@
+` Tôi thèm khát được ngắm nhìn ánh trăng vàng rực rỡ ngoài kia.
+\
+bg "bg/bg_24d",crossfade,800
+wave se_01
+` [line=3]Những đường tử vong chằng chịt chướng mắt vẫn tuyệt đối không chịu biến mất.@
+` Sự chao đảo, mờ mịt trong tầm nhìn của tôi lại càng trở nên tồi tệ dữ dội hơn.@
+` Thành phố về đêm bị bao phủ hoàn toàn trong một màn sương mù trắng xóa u ám, phẳng lặng tựa như một cổ thành đã bị chôn vùi chết chóc từ hàng ngàn năm trước vậy.@
+br
+` Tuyệt đối không có lấy một bóng người qua lại.@
+` Đống mạng nhện quái dị giăng chằng chịt bủa vây khắp mọi ngóc ngách của các tòa nhà cao tầng.@
+` Không gian tĩnh lặng đến rợn người.@
+` Tựa như một tử thành đang chìm sâu dưới đáy đại dương sâu thẳm phẳng lặng.
+\
+wave se_01
+` Giữa ảo ảnh hoang đường, ma quái ấy, tôi vẫn cắm đầu lê bước về phía trước.@
+` Trên bầu trời cao, vầng trăng tròn vàng rực khổng lồ đang tỏa ánh hào quang rực rỡ.@
+` Liệu đó có phải là sự thương hại của ánh trăng tàn ác kia không?@
+` Cơn buốt nhói đau đầu bỗng tiêu biến sạch sẽ, nhường chỗ cho một cảm giác lâng lâng, choáng váng khôn tả.@
+br
+` Dưới ánh trăng tà.@
+` Tựa như đang chịu một lời nguyền ma mị, tôi cứ thế vô thức lê bước không ngừng.
+\
+bg #000000,crossfade,1500
+` Tôi lê bước đi xuyên qua tử thành đang chìm đắm trong màn đêm đen phẳng lặng.@
+` Tôi cảm nhận rõ chiếc dao găm sắc lẹm đang nằm gọn trong túi quần.@
+` …… Bản thân tôi cũng tuyệt đối không dám tin vào chuyện này nữa.@
+` Ngay cả khi đầu óc không hề nghĩ tới, dường như đôi bàn tay tôi đã tự động đút con dao găm tàn ác ấy vào túi từ lúc nào mất rồi.@
+br
+br
+` Có lẽ,
+` là để cho bản thân tôi có thể sẵn sàng tàn sát bất cứ kẻ nào đập vào mắt vào bất kỳ thời khắc nào.
+\

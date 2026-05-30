@@ -1,0 +1,35 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Xin chào!@
+` Góc gợi ý cho Tohno-kun, người đã rơi vào ngõ cụt này chỉ còn một bước nữa,
+` Đã đến lúc nói "Hãy dạy tôi, Ciel-sensei!"
+\
+` Thời kỳ thứ năm xoay quanh những cuộc chiến với ma cà rồng.@
+` Tôi đã mời Giáo sư Roa làm khách đặc biệt.@
+` Thưa Giáo sư Roa, lý do nào khiến Tohno-kun thất bại lần này?@
+br
+ld l,"tachi/roa_t04a",lshutter,400
+`"Tôi phải nói anh ấy hơi lơ là."@
+` Khám phá vũ khí của kẻ thù là ưu tiên hàng đầu trong trận chiến chống lại chủng tộc siêu việt.@
+` Ừm, trong trường hợp này, tôi nghĩ anh ấy biết về nó, nhưng không hành động quá thông minh.
+\
+` Tôi hiểu rồi.@
+` Xin lỗi Giáo sư, nhưng tại sao SHIKI-san trong tuyến đường này trông khác với ngài?@
+` Tôi đã suy nghĩ về điều này trong một thời gian dài.@
+br
+ld l,"tachi/roa_t02a",crossfade,400
+`"Vâng, tôi nghĩ đó chỉ là sự khác biệt về sở thích."@
+` Khi tâm trí của Shiki yếu đi, sở thích của Roa xuất hiện và tôi ăn mặc như thế này.@
+` Nhưng trong trường hợp này, Shiki-kun vì một lý do nào đó đã hoàn toàn mất trí, và Roa không thể xuất hiện vì anh ấy phụ thuộc vào việc kiểm soát tâm trí của ai đó. Đó là lý thuyết của tôi về chuyện xảy ra."
+\
+` Ồ, thật sao? Vậy trong tuyến đường của Akiha-san, Shiki-san chính là Tohno Shiki thực sự à?@
+` …… Họ nói Tohno-kun giống Shiki-kun, nhưng họ tịnh không giống nhau……
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,23 @@
+monocro off
+bg #000000,notrans,0
+playstop
+wavestop
+` [line=3][Tịnh không phải lúc để bận lòng về sự an toàn của bản thân nữa.]@
+br
+` Điều chắc chắn duy nhất dẫu dã là: chính tên này là căn nguyên của mọi chuyện đang xảy ra.@
+` Kẻ đang hút máu của tất cả mọi người trong thị trấn.@
+` Kẻ đã làm tổn thương và toan chà đạp Ciel Senpai.@
+` ... Và Yumizuka.@
+` Kẻ đã biến Yumizuka thành ma cà rồng và bắt cô ấy phải chịu nỗi đọa đày như vậy.@
+br
+` [line=4]Tất cả. Mọi tội khiên đều do tên "nghịch tặc" này gây ra.
+\
+`"[line=4]"@
+` Tôi nghiến chặt răng, nuốt trôi cơn thịnh nộ đang cuộn trào.@
+` Tôi cố kiềm giữ sự bình tĩnh, rồi tháo chiếc kính mắt ra.@
+bg "bg/cmo_18",crossfade,400
+br
+` [line=4]Bắt đầu thôi.@
+` May mắn thay dẫu dã là lần thứ ba tôi đối mặt với tình cảnh sinh tử này.@
+` [line=3]Đến lúc này, tôi biết rõ cách thức di chuyển chính xác hơn bao giờ hết.
+\

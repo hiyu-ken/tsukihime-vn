@@ -1,0 +1,285 @@
+play "*6"
+wavestop
+monocro off
+bg "bg/bg_46c",lshutter,400
+` [line=4]Tôi đã tới trước phòng của Akiha.@
+br
+` Cơn choáng váng ngày một dữ dội đến mức khó lòng chịu đựng.@
+` Tôi đặt tay vào túi quần.@
+` Tôi may mắn vì con dao của tôi vẫn còn ở đó.@
+`"[line=6]"@
+` Nén lại cơn choáng váng, tay tôi nắm chặt con dao găm, đẩy cửa bước vào.
+\
+bg #000000,lcartain,800
+bg "bg/bg_36d",tshutter,800
+playstop
+Chơi âm thanh se_11
+` [line=5]Tối đen như mực.@
+br
+` Ánh trăng xuyên qua cửa sổ chỉ chiếu sáng đủ để nhìn thấy.@
+` Dưới màn đêm xanh thẫm, tôi thoáng thấy Akiha đang nằm gục trên sàn.@
+`"Akiha[line=4]!"@
+` Tôi vội lao đến đỡ cô ấy dậy.@
+`"... ..."@
+` Akiha hoàn toàn bất động, dường như đã lịm đi.@ Song tôi biết cô ấy vẫn còn sống, bởi lồng ngực khẽ phập phồng theo từng nhịp thở yếu ớt.
+\
+` Thế nhưng, có một điều bất thường đến dị kỳ.@
+` Mái tóc đen tuyền của Akiha.@ Giờ đây đã nhuốm một sắc đỏ rực tựa máu tươi.@
+`"Akiha[line=3]em thực sự là Akiha…… phải không?"@
+` ...Dưới màn đêm u tối, mái tóc cô ấy lại rực đỏ.@
+` Nhưng, chắc chắn đây là Akiha.@
+`"Akiha, tỉnh lại đi em……!@ Đã xảy ra chuyện gì thế này[line=3]"
+\
+wave se_01
+bg #000000,notrans,0
+bg "bg/bg_36d",notrans,0
+` Tôi nghe thấy một âm thanh.@
+br
+Chơi âm thanh se_11
+`"[line=6]!"@
+` Tôi quay lại.@
+` [line=3]Từ hướng phát ra tiếng động[line=3]nơi bậu cửa sổ ngập tràn ánh trăng, có một bóng người đang lặng lẽ đứng đó.
+\
+` ...Kẻ đó toàn thân được quấn kín bằng băng gạc.@
+`"[line=6]Ngươi... là ai?"@
+` Người đàn ông không trả lời.@
+` Một luồng ớn lạnh chạy dọc sống lưng tôi.@
+` Tử khí đậm đặc đang gặm nhấm từng dây thần kinh của tôi.
+\
+` ...Kẻ đó tàn tạ, tịnh không giống một người bình thường đang đứng đó.@
+` Đôi mắt dị thường tựa như tịnh không thuộc về cõi trần này.@
+` Thế nhưng kẻ đó vẫn mang theo lý trí. Một thực thể song hành giữa lý trí tỉnh táo và sự điên cuồng tột độ.
+\
+wave se_01
+` Tim tôi đập mạnh.@
+[chơi: se_11]
+` Nó đập nhanh hơn.@
+` Đầu óc tôi tê dại, tựa hồ như bản thân dẫu dã đã cận kề cái chết.@
+` Cảm giác này.@
+` Tôi biết cảm giác này của cái chết.@
+br
+` [line=3]Tôi chắc chắn.@
+` Những gì đang hiện diện trong căn phòng này... chính xác là thế giới giết chóc tàn khốc mà tôi đã chứng kiến trong những giấc mơ.
+\
+`"[line=3]Ta hỏi ngươi là ai!"@
+` Tôi thủ thế con dao, trừng mắt nhìn thẳng vào kẻ đó.@
+` Kẻ quấn băng gạc dường như đang nhếch mép cười.@
+wavestop
+play "*4"
+`"Ta buồn lắm đấy, Shiki.@ Đến kẻ mà chính tay mình đã giết mà cậu cũng tịnh không nhớ sao?"@
+` Hắn tiến lại gần tôi.@
+`"[line=5]"@
+` Tôi lùi lại, ôm Akiha trong một cánh tay.
+\
+`"Sao có thể không biết chứ, Shiki?@ Ta chính là kẻ đã bị cậu giết chết đấy."@
+`"Ngươi đang nói cái quái gì thế[line=5]"@
+` Chỉ nghe giọng nói của hắn thôi cũng đủ khiến tôi lạnh người.@
+` Tôi căm hận hắn.@ Sự căm phẫn tột cùng mà tôi cảm nhận được kể từ khi đặt chân về căn biệt thự này, giờ đây đều đổ dồn vào hắn.@
+` Cơn thịnh nộ căm hờn này.@ Phải chăng chính là bản năng thôi thúc tôi phải tiêu diệt hắn... một xung động giết chóc?`
+\
+` Trái tim tôi đập. @
+` Từ sâu thẳm bên trong, cơ thể tôi đang gào thét.@
+` Nó điên cuồng thét lên rằng phải giết chết kẻ này bằng mọi giá.@
+br
+!w1500
+`"[line=4]Ra là vậy. Ngươi chính là kẻ hút máu."@
+br
+` Một tay tôi siết chặt Akiha, tay kia thủ thế con dao nhắm về phía hắn.
+\
+` "Hahaha."@
+` Hắn cười nhạo, tựa như chuyện đó nực cười lắm.@
+`"Vô ích thôi.@ Ta chính là cậu.@ Trên đời này tịnh không ai có thể tự tay kết liễu chính mình cả."@
+`"[line=3]C... cái gì cơ……?"@
+`"Ta sẽ đoạt lại Akiha.@ Ngay từ đầu, cô ấy dẫu dã đã là của ta."@
+` Một bước nữa.@
+` Người đàn ông tiến lại gần.
+\
+`"[line=4]Đứng lại!"@
+`"Ta tịnh không dừng lại.@ Ta tới để đòi lại tất cả mọi thứ từ cậu.@ Danh phận, địa vị, quyền năng... tất cả vốn dĩ đều thuộc về ta."@
+` Người đàn ông mở rộng đôi tay và nói với giọng tự hào.
+\
+`"[line=3]... Cậu đang nói gì vậy? Cậu là ai?"@
+`"…… Cậu vẫn chưa nhớ ra sao?@ Thật là.@ Tám năm trước, chúng ta dẫu dã từng là những người bạn tri kỉ mà."@
+`"[line=4]Ngươi nói cái gì[line=4]"@
+br
+` Tám năm trước?@
+` [line=4]Tri kỉ... sao?
+\
+`"…… Ồ, hẳn là cậu đã quên sạch rồi.@ Tất cả là tại lão già đó.@ Ta cá là lão đã dùng ám thị cực mạnh để phong ấn ký ức của cậu."@
+bg #ffffff,notrans,0
+bg "bg/cmo_05",notrans,0
+bg "bg/bg_36d",notrans,0
+`"…… Và ta đồ rằng, chính bản thân cậu dẫu dã cũng muốn lãng quên quá khứ nhơ nhuốc đó, đúng không Shiki?"@
+br
+` Ông ta cười.@
+` Thị lực của tôi bắt đầu dao động.@
+` [line=5]Tám năm trước, tám năm trước, tám năm trước...
+\
+` Đó là lúc tôi bị đưa đến bệnh viện sau tai nạn đó.@
+` Đó là lần cuối cùng ba chúng tôi chơi cùng nhau trong biệt thự này.@
+`` [line=5][line=4]Khoảnh khắc đứa trẻ ấy xuất hiện, và khắp nơi ngập ngụa máu...
+\
+`"Nhưng mọi chuyện sắp kết thúc rồi.@ Sống thế này đau đớn lắm phải không, Shiki?@ Đứng yên đó, ta sẽ giải thoát cho cậu."@
+` Hắn chậm rãi tháo những dải băng quấn quanh đầu mình.@
+` Gương mặt hắn... [line=5]
+br
+`"Bạn..."@
+ld c,"tachi/hal_t01",crossfade,800
+`"Đã lâu không gặp, Tohno Shiki.@ Không, đó tịnh không phải là tên của cậu."@
+` Khuôn mặt xuất hiện từ dưới băng,
+` [line=4]Đó tịnh không phải gương mặt của đứa trẻ đẫm máu năm nào... nhưng...
+\
+`"[line=4]Tohno... SHIKI."@
+` Vâng, tại sao tôi lại quên?@
+` Cậu bé luôn ở bên Akiha ngày ấy.@ Tên của đứa trẻ thứ ba... chắc chắn là như vậy.
+\
+`"Phải rồi, đã lâu không gặp, Nanaya SHIKI.@ Cuối cùng cậu dẫu dã đã nhận ra mình chỉ là kẻ cướp đoạt."@
+` Khóe môi SHIKI nhếch lên thành một nụ cười quỷ dị, rồi hắn bật cười khản đặc.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_36d",notrans,0
+`"[line=5]U... uất nghẹn……"@
+` Đau đầu dữ dội. Đầu tôi như muốn nổ tung.@
+` Chiếc nắp hộp đang hé mở.@
+` Chiếc hộp vốn dĩ đã bị khóa chặt.@ (Ai đã làm việc đó?)
+` Tôi tịnh không thể nhìn sâu vào trong.@ (Vào thứ gì cơ?)
+` Chiếc hộp chứa đựng những ký ức bị chôn vùi.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_36d",notrans,0
+bg #9c0120,notrans,0
+bg #000000,notrans,0
+playstop
+play "*9"
+bg "bg/cmo_05",crossfade,800
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Lão già ấy đã ra lệnh cho tôi phải quên đi tất cả.
+\
+` Tohno Makihisa.@
+` Nanaya Shiki dẫu dã được nhận nuôi bởi chính kẻ đã tước đoạt gia đình của cậu.@
+` Có lẽ, lão ta chỉ cảm thấy thú vị khi nuôi nấng một đứa trẻ trùng tên với con trai mình.
+\
+` Đó là chuyện xảy ra cách đây mười năm.@
+` Tôi được nhận nuôi.@
+` Tôi được đưa vào một căn biệt thự lạ lẫm.@
+` Gia đình tôi luôn là những người xa lạ với tôi.@
+` Cuộc sống của tôi trong tòa nhà tách biệt.@
+` Tôi gặp một cậu bé và một cô gái.@
+` Chúng tôi chơi đùa trong khu vườn rộng lớn.@
+` Một ngày hè nóng bức.@
+` Akiha bị tấn công bởi một bóng tối.@
+` [line=4]Tôi chỉ một mực muốn bảo vệ cô ấy, và khoảnh khắc tôi lao ra làm lá chắn chắn đòn.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=4]Tôi được ra lệnh quên đi mọi thứ.
+\
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` Bằng lời của Tohno Makihisa.@
+` Bằng chính cha tôi.@
+` [line=3]Lão bắt tôi phải sống dưới danh nghĩa Tohno Shiki, chứ tịnh không phải Nanaya Shiki, và...
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+play "*4"
+bg "bg/bg_36d",crossfade,800
+`"[line=6]...!!!!"@
+` Cơn choáng váng dữ dội kèm theo cảm giác buồn nôn ập tới.@
+` Những ký ức lẫn lộn chạy qua đầu tôi.@
+br
+` Một tiếng đập mạnh vang lên.@
+` Tôi không thể kiểm soát cơ thể mình.@
+` Tôi khuỵu xuống bên cạnh Akiha, tay ôm ngực thở dốc điên cuồng, cố gắng hít lấy chút dưỡng khí ít ỏi.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"[line=4]Sốc lắm phải không?@ Hẳn là vậy rồi.@ Biết mình chỉ là kẻ giả mạo dẫu dã là một cú sốc cực lớn, khi mà bấy lâu nay cậu vẫn tự đắc mình là Tohno Shiki kia mà……!"@
+` SHIKI cười chế giễu.@
+ld c,"tachi/hal_t02",crossfade,400
+`"Nhưng điều đó chẳng là gì so với tôi.@
+`"Cậu biết không Shiki, ta dẫu dã đã bị giết bởi chính kẻ mà ta coi là bằng hữu chí cốt, thậm chí còn bị tước đoạt cả cái tên Tohno Shiki.@ Cậu còn cướp đi cả Akiha của ta[line=3]Akiha thân yêu của ta……!@ Cậu có hiểu nổi thấu cảm của ta lúc đó tịnh không?@"@`
+`"Giết chết[line=4]?@ Tôi... giết ngươi sao[line=4]"
+\
+ld c,"tachi/hal_t01",crossfade,400
+`"Phải.@ Ta đã giết cậu trước, nhưng cuối cùng, chính cậu lại kết liễu ta.@ Cậu dẫu dã tịnh không nhớ ra sao?@ Tám năm trước, vào ngày định mệnh đó, ta đã bị thú tính nuốt chửng và sát hại cậu.@ Hãy nhìn vết sẹo trên ngực cậu xem."@`
+`"Ta đã dùng chính bàn tay này đâm xuyên qua ngực cậu đấy."@`
+`"Vết sẹo trên ngực tôi...[line=4]"@`
+`"Đó... là một tai nạn xe hơi."@`
+` "[line=5]Mọi người đều nói tôi bị thương do tai nạn mà."
+\
+`"Hừ, sau đó lão già ấy dẫu dã đã suýt giết chết ta đấy chứ."@`
+`"Huyết quản dị chủng Tohno cuối cùng đã thức tỉnh trong ta, thế nhưng ta lại bị giam cầm dưới hầm ngục u tối suốt tám năm ròng rã."@`
+`"Lão già khốn kiếp.@ Lão nói sẽ thả ta ra nếu ta tìm lại được nhân tính...!@ Nhưng vì sợ việc Tohno Shiki biến mất sẽ gây rắc rối cho gia tộc, lão dẫu dã đã biến cậu thành Tohno Shiki thế mạng."
+\
+`"[line=8]" @
+` …… Vậy nên,
+` đứa trẻ được nhận nuôi từng ở đây mười năm trước chính là tôi.
+\
+ld c,"tachi/hal_t02",crossfade,400
+`"Cậu dẫu dã hiểu chưa, Shiki?@ Ta đã bị cậu giết chết."@`
+` Dẫu dã bây giờ ta vẫn còn sống thở, nhưng cậu lại nghiễm nhiên là Tohno Shiki.@
+` Tôi không có nơi nào để quay lại. @
+` Danh tính Tohno Shiki của ta, địa vị của ta, em gái yêu quý của ta, và ngay cả sự tồn tại của ta dẫu dã đều bị cậu cướp đoạt.@
+` Ta, với tư cách là một Tohno SHIKI đích thực, dẫu dã đã bị cậu sát hại, Tohno Shiki ạ."@
+br
+` Một bước tiến.@
+` Anh ta tiến lại gần tôi với đôi mắt lấp lánh đầy nguy hiểm.
+\
+ld c,"tachi/hal_t03",crossfade,400
+`"Vài giờ[line=3]câu chuyện dẫu dã đến hồi kết.@ Shiki, cậu lẽ ra nên chết từ tám năm trước rồi.@ Sống lay lắt thế này dẫu dã đủ rồi chứ?@ Hãy trả mọi thứ về đúng vị trí của nó tám năm trước đi."@`
+`"[line=5][line=5]Cách mọi thứ từng xảy ra?"@
+`"Phải.@ Ta sẽ lấy lại danh tính Tohno Shiki, còn cậu... hãy trở về làm một cái xác không hồn như tám năm trước đi!"`
+\
+cl c,lcartain,400
+bg #ffffff,notrans,0
+bg "bg/bg_36d",notrans,0
+Động đất 2,100
+bg #000000,lshutter,400
+bg "bg/bg_46c",lshutter,400
+` Chỉ với một cú đánh từ SHIKI, tôi đã bị hất văng thẳng ra dãy hành lang ngoài.@
+` Chỉ với một cú đánh từ SHIKI, tôi đã bị hất văng thẳng ra dãy hành lang ngoài.@
+`"A[line=6]gh!"@
+` Tấm lưng đập mạnh vào bức tường hành lang.@
+` Tôi không thể thở được.@
+` [line=3]Đầu óc tôi đau nhức buốt giá, tịnh không thể suy nghĩ thấu đáo được gì. `
+\
+`"Khi [line=5]"@
+` Tôi cảm giác được sát khí của hắn đang áp sát.@
+` SHIKI lao vút ra khỏi phòng Akiha.@
+bg #ffffff,notrans,0
+bg "bg/ima_14",crossfade,400
+wave se_12
+`"[line=4]Chết tiệt!"@
+` Tôi có thể nghe thấy Shiki.@
+` Hắn cũng vung lên một con dao găm, và lưỡi dao của hai chúng tôi va chạm nảy lửa trong một cuộc chiến sinh tử giằng co. `
+\
+bg #000000,lshutter,400
+playstop
+` Tôi cố thở.@
+` Tôi không còn hơi thở.@
+` Tôi vẫn cảm thấy khó chịu.@
+` Nhưng, tôi không có thời gian để suy nghĩ.@
+br
+` [line=4]Tập trung... phải tập trung vào! `
+\

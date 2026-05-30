@@ -1,0 +1,199 @@
+phase "bg/bg_20a",r,ark,03a,3
+bg #ffffff,crossfade,400
+!w1000
+bg "bg/bg_40a",crossfade,800
+play "*2"
+` [line=3]Khi tôi tỉnh dậy, là sáng rồi.`@
+` Chắc mưa đã ngớt rồi; tôi không nghe thấy nữa.`@
+` Trời hôm nay có vẻ nhiều mây, ánh nắng xuyên qua cửa sổ cũng mờ nhạt.`@
+br
+` [line=4]"A.`@
+br
+` Hít một hơi thật sâu, tôi bước ra khỏi giường.`@
+` Tôi ngủ không ngon đêm qua.`@
+` Lặp đi lặp lại, mỗi khi tôi sắp chìm vào giấc ngủ, cảnh tượng ấy lại hiện lên trong đầu, khiến tôi thức trắng đêm.
+\
+` ……"Một sàn máu đỏ và xác chết rải rác khắp nơi…"`@
+` Lý trí và ký ức đôi khi trở thành gánh nặng.`@
+` Họ ép tôi nhớ những điều tôi chỉ muốn quên đi.
+\
+` [line=3]"Mới chỉ là một giấc mơ thôi mà sao tôi lại phiền lòng đến thế?"@
+` ……… Vâng. Chỉ là một giấc mơ.`@
+` Tôi nên quên nó mau chóng, ngay lập tức.`@
+br
+` Gõ cửa.`@
+br
+` Ai đó gõ cửa.`@
+` Đã qua sáu giờ sáng.`@
+` Ai thế mà dậy sớm vậy?
+\
+ld c,"tachi/his_t01",lshutter,400
+` [line=3]Xin lỗi.@
+ld c,"tachi/his_t04",crossfade,400
+` "Shiki[line=3]sama, cậu đã thức chưa? "@
+` "Ừ, tớ ngủ từ chiều hôm qua đến giờ nên dậy sớm. Vậy thì cậu, Hisui, sao lại dậy sớm thế này?"
+\
+ld c,"tachi/his_t05",crossfade,400
+` …………@
+` Hisui im lặng.@
+` Thực ra, bây giờ nhìn kỹ lại, tớ thấy cô ấy đang cầm áo đồng phục trường của tớ.@
+` "Tôi hiểu rồi. Cậu mang cho tôi bộ quần áo mới."@
+` "…… Vâng. Tôi xin lỗi. Tôi đã để cậu thấy điều mà cậu không muốn nhìn đến."@
+` "?"@
+` Hisui im lặng.@
+` …… Tôi không muốn thấy điều gì đâu?@ Tớ thật sự không hiểu.
+\
+` "…… Tôi không hiểu lắm, nhưng dù sao cũng cảm ơn. Chỉ để quần áo đó ở đây thôi, tôi sẽ thay ngay và đi vào phòng khách."@
+` Hisui gật đầu đồng ý.@
+` "Được rồi vậy. Xin lỗi đã làm phiền cậu."@
+cl c,lshutter,800
+\
+` Hisui bắt đầu đi lặng lẽ, chỉ để đột ngột quay lại.@
+ld c,"tachi/his_t01",crossfade,400
+` "Shiki-sama. …… Ừm… nếu có thời gian, tôi cũng sẽ chuẩn bị tắm cho cậu."@
+` "…… Tắm? Sáng sớm?"@
+` "Vâng. Cậu rất bẩn thỉu, Shiki-sama. Có phải không tốt hơn nếu cậu tắm trước khi đi học?"@
+` Hisui hỏi tôi bằng giọng vô cảm như thường lệ.
+\
+` …… Bây giờ mà nghĩ lại, tôi bẩn.@
+` Thực ra tôi đã ngất xỉu vì thiếu máu ở công viên ngày hôm qua. Vậy nên, chuyện này cũng không phải là lạ.@
+br
+` [line=3]Ừ, cậu có thể giúp tôi được không? Nếu sớm như thế này thì trước khi đi học tôi vẫn còn thời gian.@
+` "Tôi hiểu. Vui lòng đến phòng tắm sau khoảng hai mươi phút.
+\
+cl c,crossfade,800
+` Hisui đặt đồng phục của tôi xuống và rời khỏi căn phòng.@
+br
+` Mới chỉ là sáu giờ sáng.@
+` Không có việc gì để làm, hai mươi phút trôi qua trong căn phòng của tôi, tôi chỉ nhìn chằm chằm vào trần nhà.
+\
+bg #000000,crossfade,800
+` Tôi bước vào bồn tắm và đổ nước lên đầu mình, cảm thấy mình sảng khoái hơn một chút. Tôi hít một hơi thật sâu khi dòng nước lạnh thấm qua mái tóc.@
+br
+` …… Kẻ ác mộng kinh khủng.@
+` Phải chăng có điều gì đó sai với tôi khi mơ thấy mình giết một người phụ nữ xinh đẹp như vậy?@
+` Nếu chỉ một ngày sống trong một căn biệt thự xa lạ là đủ để cho tôi những giấc mơ như thế, thì tôi không muốn nghĩ xem những ngày sắp tới sẽ ra sao.
+\
+` *thở dài*@
+` "Tôi thật sự phải cố gắng hơn.@
+` Tôi xả hết những suy nghĩ phiền muộn với một nhúm nước lạnh và rửa sạch mình.@
+` "Ôi……"@
+` Tôi cảm thấy đau đớn khi khăn chạm vào cổ họng.@
+` …… Đây là gì?@
+` Tôi nhìn vào cổ mình trong gương.@
+` …… Làm thế nào điều này có thể xảy ra?@
+` Cổ họng tôi đỏ và sưng lên.@
+` Cũng như thể tôi đã làm tổn thương nó bằng cách nôn mửa liên tục.
+\
+bg "bg/bg_40a",lcartain,1500
+` Tôi trở lại phòng và thay bộ đồng phục.@
+` Chưa đến bảy giờ sáng.@
+` Ngạc nhiên bởi đầu óc mình minh mẫn hơn sau khi tắm, tôi nhặt túi xách và rời khỏi phòng.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` Khi tôi xuống cầu thang thì Kohaku-san vừa ra khỏi phòng khách.@
+ld c,"tachi/koha_t02",lshutter,400
+` "Chào buổi sáng, Shiki-san. Bạn thật sớm hôm nay."@
+` Kohaku-san cúi đầu với nụ cười.@
+` "Và bạn cũng trông tươi tỉnh lắm. Bạn vừa tắm xong à?"@
+` "Ừ, tôi vừa tắm xong.@ Thật tuyệt vời, Kohaku-san.@ Bạn có thể nhận ra được không?"
+\
+ld c,"tachi/koha_t05",crossfade,400
+` "A ha, chỉ cần nhìn vào bạn tôi cũng biết vì tóc của bạn chưa khô, Shiki-san. Bạn trông dễ thương hơn sau khi tắm."@
+` Tôi liếc mắt sang một bên khi đối mặt với nụ cười ấm áp và hồn nhiên đó.@
+` Cái này hơi xấu hổ.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+` "Vui lòng đợi một lát. Tôi sẽ chuẩn bị bữa sáng ngay bây giờ."@
+cl c,crossfade,400
+` "Eh[line=3]?@
+` …… Bữa, ăn.@
+` Uh… Tôi đoán cô ấy muốn nói đến thứ gì đó để ăn.@
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+br
+` Một chuyện tầm thường như vậy khiến tôi nhớ về màu sắc của máu.@
+` Tôi không có nhiều ham muốn ăn uống lúc này.
+\
+ld c,"tachi/koha_t01a",crossfade,400
+` "Bữa sáng kiểu phương Tây như hôm qua có ổn với bạn Shiki-san không?"@
+` " [line=3]Ah… vâng. Tôi thật sự không phiền lòng lắm… Vậy là bữa sáng à? Bước tắm thật tuyệt đến nỗi tôi gần như quên mất nó."@
+` Thật vậy? Cậu không ăn tối qua nữa à, nên tôi đang nói chuyện với Hisui-chan về việc có lẽ tiếng bụng của cậu đã đánh thức cậu.@
+` Ahaha, không.@ Thật đáng tiếc, đó không phải là trường hợp.@ Tôi đã ăn ít từ khi còn nhỏ, vì vậy tôi thường bỏ qua một hoặc hai bữa ăn.
+\
+` Tôi hiểu. Bây giờ mà nhắc đến, cậu có thân hình đẹp, không có mỡ thừa. Có thể cậu là người ăn chay?@
+` Ừm, có lẽ vậy. Nghĩ lại, tôi cảm thấy mình chỉ ăn rau ở nhà Arima.@
+` Kohaku-san bận rộn quay trở lại phòng khách.@
+` [line=3]Nhưng tôi không muốn ăn ngay bây giờ.
+\
+` Ah, không sao đâu, Kohaku-san. Tôi sẽ đi học mà không ăn hôm nay. Hãy nói cho Akiha biết thay tôi.@
+br
+` Tạm biệt.@
+` Đột nhiên, cánh tay tôi bị túm chặt.@
+ld c,"tachi/koha_t04",crossfade,400
+` Shiki-san!@
+` [line=3]Eh?@
+` …… Tôi không thể tin được.@
+` Kohaku-san đang tức giận.
+\
+` Cậu đang nói cái gì, Shiki-san!? Cậu đã chưa nhìn vào gương sáng hôm nay!?@
+` …… Ah, vâng, tôi đã nhìn vào gương trong phòng tắm…@
+` Cậu đang nói dối! Nếu cậu nhìn một lần, cậu sẽ không nói điều đó!@
+` Kohaku-san thật sự tức giận.@
+` …… Nghĩ lại, khi tôi nhìn thấy gương mặt của mình, tôi nghĩ rằng tôi đã nhìn thấy cái chết đang ấm lên.
+\
+` Tôi sẽ ổn thôi. Chỉ là tôi không có nhiều máu trong người, vì vậy tôi trông tệ hơn những người bình thường.@
+` Điều này không được! Cậu sẽ không lớn lên nếu không ăn sáng! Nếu cậu không có cảm giác thèm ăn, tôi sẽ chuẩn bị cho cậu một món dễ ăn. Vậy xin vui lòng, hãy đến phòng ăn.@
+` Bắt lấy cánh tay tôi, cô kéo tôi về phòng khách.@
+cl c,rshutter,400
+br
+` …… Tôi không có lựa chọn nào khác.@
+` Tôi thật sự không muốn tham gia vào chuyện này, nhưng tôi phải chấp nhận lòng tốt của Kohaku-san.@
+bg #000000,lcartain,800
+bg "bg/bg_34a",lcartain,800
+ld c,"tachi/aki_t12a",lshutter,400
+` "Chào buổi sáng, anh trai. Cậu có khỏe không?"@
+` Akiha chào tôi một cách dè dặt.@
+` Sự kiên quyết của cô hôm qua đã biến mất. Tôi đoán là vì cô lo lắng cho tôi.@
+` "À, buổi sáng tốt lành. Tôi cảm thấy… tốt… một cách nhất định."@
+cl c,crossfade,400
+` Trả lời lời chào của cô, tôi đi về phòng ăn.
+\
+ld c,"tachi/koha_t02",notrans,0
+` "À! Xin chờ ở đây, Shiki-san. Tôi sẽ gọi cậu khi đã sẵn sàng."@
+cl c,notrans,0
+` Kohaku-san biến mất vào phòng ăn một mình, để lại tôi, Akiha vẻ mặt buồn bã và Hisui đứng bất động bên tường.
+\
+` …………@
+` …… Điều này hơi ngượng ngùng.@
+` "Anh trai, về đêm qua, có phải anh đã ngã ở công viên không?"@
+ld c,"tachi/aki_t01a",crossfade,400
+` "Dường như vậy.@ Tôi không nhớ rõ lắm, nhưng nếu Kohaku-san và Hisui nói như vậy thì chắc chắn là chuyện xảy ra.
+\
+ld c,"tachi/aki_t03a",crossfade,400
+` "Ôi, đừng nói như thể đó là vấn đề của người khác, anh trai! Cơ thể cậu yếu nên nếu cảm thấy không khỏe, hãy liên lạc với lâu đài. Tôi sẽ cử người đến đón cậu ngay lập tức."@
+` "…… Nghe này, không cần như vậy.@ Tôi không phải là đứa trẻ tiểu học, tôi có thể về nhà một mình bất kể cảm thấy ra sao."
+\
+` "Vậy thì chắc chắn là sự kiện cậu không về đến nhà tối qua chứng tỏ cậu là một đứa trẻ."@
+` [line=3]Mmn.@
+br
+` Thật phiền khi phải thừa nhận điều này, nhưng Akiha đúng.@
+br
+` "…… Hôm qua khác biệt. Loại chuyện đó rất hiếm. Nghe này, chỉ vì tôi bị thiếu máu mãn tính không có nghĩa là cơ thể tôi yếu. Không cần phải lo lắng về mọi thứ nhỏ nhặt như vậy, Akiha. Hôm qua… cậu biết… chỉ là một trường hợp thời gian thật tồi tệ. Đó là tất cả."@
+` Bệnh nặng? Xin đừng dùng những từ không lành tai như vậy, anh trai! Anh mới vừa trở về biệt thự thôi! Nếu anh chết thì tôi sẽ làm gì…@
+` Akiha thật sự tức giận.@
+ld c,"tachi/aki_t21",crossfade,400
+` Ôi trời ơi. Anh quá dễ dãi rồi, anh trai. Xin hãy cẩn thận với bản thân hơn một chút.@
+` Dù anh nói thế nào đi nữa, tôi cũng không ép mình đâu.@ Tôi không tham gia câu lạc bộ nào cả, và tôi làm theo mọi lời khuyên của bác sĩ… Anh muốn tôi được chăm sóc tốt hơn thì phải đưa tôi vào bệnh viện tâm thần.
+\
+ld c,"tachi/aki_t02",crossfade,400
+` Vâng, nếu tôi có thể thì tôi rất muốn vậy.@
+` Tránh nhìn tôi, Akiha nói điều gì đó thật đáng sợ.@
+cl c,crossfade,400
+br
+` Còn Hisui thì đứng im như tượng bên bức tường.
+\
+` …………@
+` Tôi không biết nên nói gì nữa.@ Còn một lúc nữa mới đến giờ ăn, vì vậy[line=3]
+\

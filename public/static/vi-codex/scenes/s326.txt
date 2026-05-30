@@ -1,0 +1,51 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+`"Arihiko dẫu sao dẫu dẫu cũng chỉ là bạn học cùng lớp của anh thôi.@ Nhưng em dẫu dẫu dã hồi đáp câu hỏi tự thân của anh đâu cơ chứ."@`
+ld c,"tachi/aki_t01a",crossfade,400
+`"Rất tốt. Anh nói thế nào? Nii-san?"@
+`"Cớ sao cơ chứ!?@ Cớ làm sao em lại đùng đùng chuyển trường tới chốn này?@ Lý do quan trọng nhường nào dẫu dã khiến em cắn răng từ bỏ trường chuyên nổi tiếng để hạ mình chuyển tới một ngôi trường hạng hai tầm thường nhường này hả!?"`
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Anh Shiki có giãi bày nhường nào đi nữa dẫu vậy việc chọn học trường nào hoàn toàn là quyền tự do tự thân của em cơ mà; em tuyệt đối tịnh không có nghĩa vụ phải giải trình bất cứ điều gì cho anh hiểu cả."@`
+`"…… Đừng ngang bướng ngốc nghếch nhường ấy nữa.@ Anh dẫu sao dẫu dẫu dã luôn là anh trai che chở của em cơ mà!@ Anh chịu chết tịnh không thể trơ mắt nhắm mắt làm ngơ trước những sự tình trực tiếp gây ảnh hưởng tai hại tới tương lai tự thân của em được.@`
+` Thẳng thắn đàm đạo, anh chịu chết tịnh không tìm thấy bất kỳ một lợi ích nhỏ nhoi nào cho em khi chuyển trường tới chốn này cả.@ Kể từ thời khắc cha tự thân qua đời tịch mịch, trách nhiệm bảo bọc lo lắng cho em dẫu vậy dẫu đã hoàn toàn đặt lên vai anh rồi cơ mà...!"`
+\
+ld c,"tachi/aki_t16a",crossfade,400
+`"…… Cái gì cơ?@ Thật là bất công quá chừng khi anh đột ngột thốt ra những lời đầy trách nhiệm nhường ấy vào đúng thời điểm nhạy cảm này đấy."@`
+`"Chữ 'bất công' ấy phải là lời của anh mới đúng đấy chứ.@ Em bận lòng suy tư những chuyện quái đản gì trong đầu mà dám tùy tiện chuyển trường khi chịu chết tịnh không thèm hé môi nửa lời với anh hả?@`
+` Anh quyết tịnh không bao giờ chấp nhận chuyện chuyển trường quái đản này cho tới khi được lắng nghe một lý do thực sự thỏa đáng từ chính miệng em đâu!"@`
+ld c,"tachi/aki_t17a",crossfade,400
+`"[line=4]Nếu tôi không hài lòng với lý do đó, tôi sẽ gửi cậu trở lại trường cũ ngay lập tức." Vậy, hãy nói cho tôi biết, Akiha. Tại sao cậu chuyển trường?"@
+`"Nếu lý do em đưa ra chịu chết tịnh không thể thuyết phục nổi anh, anh dẫu sao dẫu vậy dẫu sẽ ngay lập tức gửi em quay trở lại ngôi trường cũ của mình đấy.@ Thế nên, làm ơn giãi bày chân tình đi Akiha.@ Vì nguyên cớ cớ gì em lại quyết định chuyển trường?"@`
+cl a,crossfade,400
+` Akiha khẽ ngậm chặt bờ môi ngập ngừng rồi lẳng lặng cúi gằm gương mặt xuống.@`
+` Chỉ độc một khoảnh khắc tịch mịch rất ngắn sau đó, em dẫu vậy lại kiêu hãnh ngẩng cao đầu hướng nhìn tôi đăm đăm đọ mắt.`
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"…… Chính bởi em quá đỗi lo lắng bận lòng về kiếp sống tự thân của anh đấy chứ, anh Shiki.@ Liệu lý do thiêng liêng nhường ấy dẫu vậy dẫu vẫn chưa đủ thỏa đáng trong mắt anh sao?"@`
+br
+` [line=7]Dạ?@`
+br
+`"…… K-Khoan đã em.@ Ý em muốn giãi bày chuyện gì cơ chứ, cớ sao lại lo lắng bận lòng cho anh đến mức này...?"@`
+` Loại lý do nào đó mới khiến một học sinh chuyển trường?
+\
+ld c,"tachi/aki_t03a",crossfade,400
+`"Thì, nhìn nhận vào hàng tá hành vi bừa bãi vô kỷ luật đầy nổi loạn của anh Shiki suốt thời gian qua đi ạ, em dẫu đã cắn răng đưa ra quyết định tối hậu này độc nhất hòng can thiệp giám sát chặt chẽ, tuyệt đối tịnh không cho phép anh tiếp tục gây ảnh hưởng bôi nhọ thanh danh lừng lẫy của gia tộc Tohno thêm nữa."@`
+` Akiha dõng dạc giãi bày một cách vô cùng rõ ràng dứt khoát.@`
+`"Hự... [line=4]"`
+` Lắng nghe cụm từ nghiêm khắc "hành vi bừa bãi vô kỷ luật", đầu óc tôi bấy giờ dẫu vậy dẫu dẫu cũng tịnh không cách nào bác bỏ nổi mà buộc phải cắn răng gật đầu tán đồng.`
+` Đúng vậy; cuộc sống hàng ngày của tôi kể từ khi đến đây chắc chắn đã gây phiền toái cho Akiha và những người khác.
+\
+`"Nhưng, chuyển trường vẫn là điều quá lớn, phải không? Hay là về bạn bè của cậu?"@
+ld c,"tachi/aki_t05a",crossfade,400
+`"Đó không phải sự quan tâm của anh, anh trai. Nếu anh cảm thấy có chút nào đó xấu hổ cho tôi, thì tất cả những gì anh cần làm là thay đổi cách suy nghĩ từ bây giờ."@
+` Akiha quay lưng lại một cách sắc nét.@
+` "…… Cô ấy vốn là thế mà.
+\
+`"…… Được rồi, tùy bạn.@ Nhưng một ngày nào đó, bạn sẽ hối hận."@
+ld c,"tachi/aki_t06",crossfade,400
+`"Đừng lo lắng cho tôi, anh trai ạ.@ Tôi không muốn làm phiền bạn."@
+` Với giọng điệu thất vọng, Akiha bắt đầu lủi thủi đi xa.
+\
+cl a,crossfade,400

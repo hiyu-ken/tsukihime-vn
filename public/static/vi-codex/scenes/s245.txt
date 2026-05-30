@@ -1,0 +1,36 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` Ngoài chuyện xảy ra sáng nay ra, chắc chắn Senpai chẳng còn lý do nào khác để giận tôi cả.@
+` …… Sáng nay trông Senpai đâu có vẻ gì là nổi giận đâu, nhưng nếu chị ấy thực sự đang bực mình thì có lẽ tốt nhất tôi không nên đến gặp chị ấy lúc này.
+\
+`"…… Ừ, chắc hôm nay tao nên xuống căng-tin ăn trưa cùng mày thật."@
+`"Đấy, phải thế chứ.@ Nhanh chân lên nào.@ Căng-tin sắp chật kín chỗ rồi đấy."@
+` Arihiko kéo tuột cánh tay tôi đi luôn.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Tôi ngồi bệt xuống cạnh Arihiko và bắt đầu thưởng thức bữa trưa.@
+` Căng-tin trường tôi có trang bị một chiếc tivi, và chẳng biết là tốt hay xấu cho việc giáo dục học sinh mà nhà trường cứ thích phát lại chương trình tin tức buổi sáng đã được ghi hình lại.@
+` Mà dẫu sao đi nữa, bản tin đang phát bấy giờ lại đang đưa tin về việc một gã khách say rượu cầm dao đâm chết nhân viên cửa hàng tiện lợi, một tin tức khiến tôi thầm hạ quyết tâm sẽ không bén mảng đến cửa hàng tiện lợi nào trong ít nhất vài ngày tới.
+\
+ld c,"tachi/ari_t04",crossfade,400
+`"Thời thế bây giờ loạn lạc thật đấy.@ Nào là sát nhân hàng loạt vô cớ, rồi cả bạt mạng say xỉn đâm chém người ta.@ Tầm này đêm hôm đi ra ngoài chơi bời chẳng còn chút an toàn nào nữa rồi."@
+` Arihiko chăm chú theo dõi bản tin thời sự với vẻ mặt vô cùng nghiêm túc.
+\
+`"…… Ừ thì, đúng là nguy hiểm thật.@ Nhưng ít nhất thì chuỗi thảm án giết người hàng loạt đó từ giờ sẽ không bao giờ xảy ra nữa đâu, nên mọi chuyện sẽ sớm trở lại bình thường thôi."@
+`"Thật thế á?@ Cảnh sát bắt được gã sát nhân hàng loạt đó rồi sao?"@
+`"Không, họ vẫn chưa bắt được hắn đâu……"@
+br
+` [line=3]Bởi Nrvnqsr bấy giờ đã hoàn toàn biến mất khỏi cõi đời này rồi.@
+br
+` Thế nên cái tiêu đề giật gân đầy ngu ngốc về chuỗi án mạng ma cà rồng thời hiện đại chắc chắn sẽ không bao giờ xuất hiện trên bản tin thời sự nữa, và cũng sẽ không còn bất kỳ nạn nhân vô tội nào bị sát hại một cách vô nghĩa nữa.
+\
+`"Dù sao đi nữa, những thảm kịch kinh hoàng đó chắc chắn sẽ chấm dứt.@ Sẽ không còn ai bị hại nữa, và đường phố sẽ sớm yên bình trở lại thôi."@
+`"Hửm, ra là vậy à.@ Xem ra tao cũng phải chăm xem thời sự nhiều hơn mới được."@
+` Vẻ mặt đăm chiêu, Arihiko nghiêm túc dán chặt mắt vào màn hình tivi.
+\
+bg #000000,lcartain,800
+playstop
+!w1000

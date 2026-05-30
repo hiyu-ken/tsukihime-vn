@@ -1,0 +1,234 @@
+monocro off
+playstop
+waveloop se_02
+bg "bg/bg_31b",crossfade,400
+[line=4]play "*1"
+` Nhưng rốt cuộc, lý trí tôi vẫn không thể chấp nhận sự trùng hợp kỳ lạ này được.@
+\
+` Tôi quyết định phải nói thẳng thắn để làm rõ mọi chuyện.@
+`"Senpai... Em biết chuyện này rất khó tin, nhưng đêm hôm kia, chính em đã nhìn thấy một Hành Pháp Giả của Giáo Hội dùng Hắc Phím cứu mạng em."@
+br
+[line=4]\
+ld c,"tachi/cie_t01a",lshutter,800
+` Nụ cười dịu dàng trên môi cô ấy bỗng chốc đông cứng lại.@
+\
+` Cô ấy lặng im nhìn tôi hồi lâu, ánh mắt không còn chút ấm áp thường ngày mà đanh lại lạnh lẽo.
+\
+ld c,"tachi/cie_t05a",crossfade,400
+\
+` [line=4]Giọng nói của cô ấy cất lên nghe trầm ấm nhưng cực kỳ nghiêm nghị, hoàn toàn khác hẳn giọng điệu nhí nhảnh của Senpai thường ngày.@
+`"Senpai... Vậy ra người cứu em đêm đó thực sự là chị sao?"@
+` [line=4]Tôi bàng hoàng đứng dậy khỏi ghế băng.@
+\
+eroskip 20
+bg "event/ark_h03",lshutter,400
+[line=4]ld c,"tachi/cie_t06a",crossfade,400
+`"Và tôi nghiêm túc cảnh báo em chuyện này, Tohno-kun. Mau tránh xa ả ma cà rồng đó ra."@
+`"Ý chị là Arcueid sao?"@
+\
+` Cô ấy nhìn thẳng vào mắt tôi với ánh mắt vô cùng nghiêm nghị và lạnh lẽo.
+\
+`"[line=4]Giáo Hội luôn xem tất cả các sinh vật phi nhân loại là dị giáo cần phải thanh trừng. Nếu em cứ tiếp tục đồng hành cùng ả ta, em cũng sẽ bị coi là đồng phạm và bị thanh trừng đấy."@
+`"Nhưng Arcueid không hề hút máu người! Cô ấy tuyệt đối không phải là quái vật tàn bạo như chị nghĩ đâu!"@
+` Tôi lớn tiếng bênh vực cô ấy.@
+\
+bg #000000,crossfade,400
+bg "event/ark_h04",crossfade,400
+` [line=4]Dứt lời, bóng dáng của cô ấy bỗng chốc biến mất không tăm tích tựa như một làn khói, để lại tôi một mình đứng trơ trọi giữa sân thượng lộng gió với muôn vàn cảm xúc hỗn độn trong lòng.
+\
+bg #000000,crossfade,1500
+playstop
+!w3000
+\
+`"[line=4][line=4]Đừng, nó đau Shiki………"@
+` Cô ấy đẩy vào cơ thể tôi trong nỗ lực ngăn chặn tôi.@
+` Nhưng cô ấy không có sức mạnh nào trong tay.@
+` Có phải vì đau đớn? Hay là cô ấy đã mất hết sức mạnh?@
+` Bất kể thế nào, tôi không định dừng lại.@
+` Dụng cụ của tôi đang cháy rực bên trong cô ấy.
+\
+` Vì nó khô nên ngay cả đối với tôi cũng gây đau đớn.@
+` Đau đớn này và áp lực mãnh liệt xung quanh tôi đang tấn công các giác quan của tôi.
+\
+` Đau và khoái cảm quá gần nhau đến mức gần như không thể phân biệt được.@
+` Bạn (cơ thể) tôi dường như rất háo hức tìm kiếm cả hai.@
+` Khi tôi tiếp tục tiến vào bên trong,
+` nỗi đau và cảm giác những bức tường của cô ấy bao quanh tôi đốt cháy não tôi.
+\
+`"[line=4]Này!"@
+` Vặn mình.@
+` Hông cô ấy nâng lên.@
+` Trượt.@
+` Sau khi có cảm giác xuyên qua một rào cản vô hình, đầu gối tôi bị phủ một chất ướt.@
+`"[line=4][line=3]Hwa, ah... n...!!!"@
+` Một tiếng thét đau đớn.@
+` Cơ thể Arcueid uốn cong và cố thoát ra.@
+` ... Từ sâu thẳm bên trong cô ấy, một hỗn hợp chất lỏng trong suốt và máu đỏ chảy ra.@
+` Không ngạc nhiên khi cô ấy căng cứng như vậy.@
+` Nếu đây là lần đầu tiên [line=4]cảm giác đau đớn sẽ là niềm vui sảng khoái.
+\
+`"[line=4]Ha ha ha, ha."@
+` Sau đó tôi chỉ cần tiến xa hơn.@
+` May mắn thay, cô ấy ẩm ướt với máu bên trong.@
+` Tôi lùi lại và lao vào một lần nữa.
+\
+`"Nhaa……!"@
+` Những âm thanh dính đọng, gợi cảm vang lên giữa chúng tôi.@
+` Khi tôi xâm nhập, cơ thể cô ấy run rẩy.@
+` Lặp đi lặp lại.@
+` Tôi gần như đập mạnh vào cô ấy,
+` nhanh hơn cả khả năng xử lý của tâm trí tôi, những cảm giác bên trong cơ thể cô ấy tấn công tôi,
+` Tôi tiếp tục đánh đập cô ấy liên tục, giống như một võ sĩ quyền anh đấm thẳng vào túi đấm.
+\
+` Không khí ngập tràn tiếng thở gấp gáp.@
+` Hơi thở của cô ấy hoàn toàn hỗn loạn.@
+` Vì vậy, cô ấy không thể suy nghĩ, tôi đâm vào cô ấy với tất cả sức lực có thể.@
+` Đáng lẽ ra, cô ấy trở nên nóng bừng hơn nữa bên trong.
+\
+`"[line=4]Haa, ah, hwa, ah, oh!"@
+`"Ggah………"@
+` Tôi thét lên một tiếng than thở.@
+` [line=4]Cô ấy quá nóng. Nói cách khác, tôi cảm thấy mình sẽ tan chảy.@
+` Đẩy bản thân vào cô ấy khiến những làn sóng khoái cảm mạnh mẽ dâng trào bên trong tôi.@
+` Không chỉ ở dương vật, toàn bộ cơ thể tôi như bị hút vào.@
+` [line=4]Như thể tôi đang cố gắng đẩy toàn bộ linh hồn mình vào cô ấy.
+\
+`"[line=5]Ga"@
+` Tôi cố kiềm chế bản thân không nổ tung.@
+` Tôi không thể dừng lại.@
+` Tiếng ồn duy nhất lấp đầy không khí là âm thanh ham muốn của thịt và chất lỏng.@
+` [line=4]Tôi không hiểu.@
+` Có lẽ tôi chỉ không nhận ra, nhưng tôi cảm thấy như đã nổ tung nhiều lần rồi.@
+`"N[line=4], ngah, n, ah, n……!"@
+` Cô ấy gãi tay lên cánh tay tôi theo nhịp điệu của tôi.@
+` Những vết cào đỏ.@
+` Hình ảnh máu của tôi dường như chỉ kích thích cô ấy thêm.
+\
+`"Tsah[line=3]!"@
+` Một cuộc giao hợp nguyên thủy mà tôi chỉ di chuyển hông.@
+` Trong lúc tận hưởng khoái cảm, tôi đang mất dần sức mạnh.@
+` Ban đầu, chỉ có tôi.@
+` Nhưng giờ đây, mọi thứ khác biệt.@
+` Chúng tôi di chuyển như những con thú, đòi hỏi nhiều hơn.
+\
+`"Shiki......!"@
+` Một cơn giật chạy qua cơ thể tôi khi tôi nghe tên mình được gọi.@
+` Tôi đã quên cho đến khoảnh khắc này.@
+` Đó là tôi, một con người được gọi bằng cái tên đó.@
+`"[line=4]Gah!"@
+` Với tất cả sức mạnh của mình, tôi lao sâu hơn, như thể đang cố gắng chạm đến tận tâm hồn cô ấy.@
+` Cảm giác buông thả.@
+` Lửa cháy bên trong tôi bùng lên.
+\
+` Đánh thình lình. Đánh thình lình.@
+` Tôi không ngăn chặn được những co giật.@
+` Ngay cả sau khi tôi đạt cực khoái, cô ấy vẫn tiếp tục kích thích tôi.@
+`"Kka!" [line=5]@
+` Tôi cố gắng rút lui, nhưng cô ấy quấn lấy tôi, hút tôi vào và không cho phép tôi thoát ra.
+\
+`"[line=4]Ồ..."@
+` Tôi không thể thoát ra được.@
+` Tôi đã vượt quá giới hạn của mình, nhưng cô ấy vẫn tiếp tục hút lấy tôi.@
+` (Nhấn nhẹ...)@
+` (Nhấn) Nhấn... Nhấn nhá... Nhấn nhá liên tục...!!!
+\
+`"[line=4][line=6]Ồ... ừm..."@
+` Ngôn ngữ của tôi bị tê liệt trong miệng.@
+` Nước bọt tuôn ra trong khoái cảm của tôi, và tâm trí tôi trở nên rõ ràng.@
+` Tôi sắp chết rồi.@
+` Một làn sóng khoái cảm tàn phá cơ thể tôi, đạt đến đỉnh điểm mạnh mẽ đủ để mang lại cái chết.@
+` Nó lan tỏa khắp cơ thể tôi.
+\
+bg #ffffff,crossfade,800
+wavestop
+bg "bg/bg_31b",crossfade,800
+play "*9"
+` Tôi thở gấp gáp hơn.@
+` Sức mạnh đang cạn kiệt khỏi cơ thể tôi.@
+` Tôi ngã xuống bên Arcueid khi cố gắng vô vọng để lấy lại hơi thở.
+\
+` Da trắng của cô ấy giờ đã nhuốm màu đỏ.@
+` Cơ thể bình thường mát mẻ của cô ấy cháy nóng với nhiệt độ.@
+` Tôi cắm tai vào,
+` và nghe thấy hơi thở của cô ấy, vẫn còn chút dư âm của niềm vui đang dần tan biến.
+\
+` Nổi lên từng đợt khò khè và ngạt thở.@
+` Tôi hoàn toàn kiệt sức, và cảm giác tê cóng sau những gì tôi vừa làm, khiến tôi không thể suy nghĩ được gì.
+\
+` Chúng tôi như vậy trong một khoảng thời gian.@
+` Những làn sóng dư âm của niềm vui vẫn đập vào não tôi, và tôi chỉ có thể nhìn chằm chằm vào Arcueid khi cô ấy nằm đó[line=4].@
+bg #ffffff,crossfade,800
+bg "bg/bg_30b",crossfade,800
+` ... Tôi không biết đã trôi qua bao lâu.@
+` Nó cảm thấy như nhiều giờ trôi qua, nhưng có lẽ chỉ là vài phút thôi.@
+`"[line=6]"@
+` Tôi lui lại khỏi cơ thể cô ấy và cào vào ngực mình.@
+` Đau đầu của tôi đã tan biến và trái tim tôi đã trở lại nhịp bình thường.@
+` Những xung động đang hoành hành trong trái tim tôi cũng đã tan biến, và cuối cùng tôi bắt đầu hiểu những gì mình vừa làm.
+\
+`"[line=4][line=4]['Tôi đã làm gì...[']"@
+` Tôi không thể tin được điều này.@
+` Nhưng ký ức vẫn quá rõ ràng.@
+` Tôi đã đẩy cô ấy xuống.@
+` Tôi đã siết cổ cô ấy và giơ con dao lên trên đầu cô ấy.@
+` ...và những việc đáng hổ thẹn mà tôi đã làm sau đó.
+\
+`"[line=6]"@
+` Tôi không biết phải nói gì.@
+` Arcueid chỉnh lại trang phục và đứng dậy.@
+` [line=4]Tôi không biết phải xin lỗi như thế nào.@
+` Chỉ nói lời xin lỗi... Làm sao điều đó có thể bù đắp?@
+`"[line=4][line=4]Arcueid, tôi"@
+ld c,"tachi/ark_t10",crossfade,400
+`"Đừng lo lắng... Tôi là người cần xin lỗi."@
+` Cô ấy liếc đi chỗ khác, rõ ràng không thoải mái.
+\
+`"[line=2][line=4]Chuyện gì vậy? Tôi là người đã làm sai. Nếu như tôi mạnh mẽ hơn, điều đó sẽ không bao giờ xảy ra."@
+ld c,"tachi/ark_t17",crossfade,400
+`"Không. Tôi nghĩ đó không phải là điều bạn có thể chống lại vì bạn đã nhìn thấy 'Mắt Thần Bí' của tôi."@
+`"[line=4]Ồ...? Mắt Thần Bí? Giống như mắt của Nrvnqsr vậy sao..."
+\
+ld c,"tachi/ark_t10",crossfade,400
+`"... Đúng vậy. Tôi không tỉnh táo lúc trước. Tôi quá khát khao, không kiểm soát được bản thân.@
+` [line=4]Vì vậy tôi tìm thấy một số Tử Giả và cố gắng thay thế cơn khát đó bằng ý chí hủy diệt để ngăn chặn nó."@
+` "[line=4]Vì vậy... khi bạn đến, tôi không thể kiềm chế được nên bạn mới nhìn thấy Mắt Thần Bí của tôi."@
+`"... Tôi cảm thấy kỳ lạ từ khi tôi nhìn thấy đôi mắt vàng của cậu[line=4]nhưng đó chỉ là điều đó thôi.@ Tôi, với ý chí riêng của mình[line=2]"
+\
+`"Không, điều đó không đúng."@
+` "Shiki, đôi Ma Nhãn của tôi hoàn toàn mê hoặc bất cứ ai nhìn vào chúng.@ ... Tôi nghĩ đó là lý do tại sao cậu bắt đầu cảm thấy những ham muốn tình dục như vậy."@
+`"[line=2][line=4]Điều đó không thể đúng."@
+` "Vì ngay cả khi cô ấy không kiểm soát tôi.@
+` Tôi, tôi có thể vẫn thích cô ấy."
+\
+`"Dù sao, tất cả điều này là do sự bất cẩn của tôi.@ ... Tôi xin lỗi, Shiki.@ Tôi đã thao túng cơ thể cậu mà không quan tâm đến cảm xúc của cậu."@
+cl c,crossfade,400
+` Khi cậu ấy nói vậy, ánh nhìn của cô ấy lướt đi.@
+` Được xin lỗi như vậy khiến trái tim tôi đau đớn.@
+` Vì tôi không cảm thấy mình bị thao túng chút nào.@
+` Thật ra[line=4], nó giống như tôi đã dùng nó để vâng lời ham muốn của chính mình.
+\
+`"Arcueid, tôi"[line=4]"@
+ld c,"tachi/ark_t17",crossfade,400
+`"Đừng xin lỗi. …… Shiki, đây tất cả là một tai nạn.@ Tôi sẽ quên đi chuyện này, vậy nên hãy quên đi cũng tốt.@ Tôi nghĩ như thế là tốt nhất cho cả hai chúng ta."@
+cl c,lshutter,800
+` Nói rồi, cô ấy bắt đầu đi lặng lẽ.
+\
+`"…… Arcueid……?"@
+ld c,"tachi/ark_t22",crossfade,400
+`"[line=4]Tôi nghĩ điều này đã đủ cho tối nay.@ Tôi đã giết hết những Tử Giả đêm nay, nên có lẽ không cần tìm kiếm thêm nữa."@
+`"...Đó là ổn, nhưng chúng ta sẽ xử lý đống xác chết đó như thế nào? Nếu ai đó tìm thấy nó, sẽ có rắc rối."@
+`"Không cần lo lắng. Khi một sinh vật trở thành ma cà rồng và chết đi, nó sẽ không để lại dấu vết. Những ai từ chối quay về Trái Đất sẽ tan thành tro và bay theo gió khi họ qua đời. Họ sẽ tự quay về và tan biến sau một thời gian."
+\
+cl c,lshutter,800
+` Không quay đầu lại, cô ấy biến mất khỏi con hẻm với những bước chân yếu ớt.@
+`"... ..."@
+` Tôi không thể ngăn cô ấy lúc này.@
+` Tôi vẫn còn cảm nhận được sự hiện diện của Arcueid trên cả hai bàn tay tôi.
+\
+`"[line=4]Ngốc ơi. Cái ngốc thật ngu ngốc tôi là."@
+` Tôi than thở một mình.@
+` Trong con hẻm trở thành sân khấu của bi kịch, tôi ngước nhìn mặt trăng với sự hối hận.
+\
+bg #000000,crossfade,1500
+playstop
+!w4000

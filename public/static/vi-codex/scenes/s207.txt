@@ -1,0 +1,23 @@
+play "*2"
+wavestop
+bg "bg/bg_06a",notrans,0
+br
+` "[line=5]Thầy ơi."@
+br
+` Tôi không nghĩ cô ấy có thể làm mặt như vậy, nói lời tạm biệt và rồi bỏ nhà đi.
+\
+`"[line=3] Thầy ạ."@
+`"Có chuyện gì, Tohno?@ Một câu hỏi?"@
+`"Vâng.@ Có phải một học sinh trong lớp chúng ta đã bỏ nhà ra đi không?"@
+`"[line=6]Ừm..."@
+` Ngay lập tức, không khí trong lớp học trở nên cứng nhắc.@
+` Anh ta nhíu mày, sau đó với một biểu cảm khó xử, gật đầu đồng ý.
+\
+`"Vâng, đó là điều chúng tôi được nghe từ cha mẹ của Yumizuka Satsuki." - Yumizuka không về nhà đêm qua, nhưng họ đã tìm kiếm, và tôi chắc chắn họ đã tìm thấy cô ấy rồi."@
+` Nói rồi, anh ta rời đi.@
+br
+` Lớp học lại trở nên ồn ào.@
+` Tôi có một cảm giác không lành mạnh về điều này.@
+` ... Nó rất nặng. - Một cảm giác khủng khiếp như thể cơ thể tôi bị trói buộc vào chiếc ghế này.
+\
+bg #000000,lcartain,800

@@ -1,0 +1,480 @@
+   Tôi giật mình thức giấc, vung chăn ra rồi bật dậy ngồi trên giường.
+bg #000000,notrans,0
+bg "bg/bg_40a",bcartain,1500
+play "*2"
+`"[line=6]!"@
+` Tôi giật mình thức giấc, tung chăn ra và ngồi phắt dậy trên giường.@
+br
+`"C, cái gì thế này[line=5]"@
+` Tôi khẽ đưa tay lau dòng mồ hôi đang lăn dài trên mặt.@
+` Có lẽ tôi vừa trải qua một cơn ác mộng kinh hoàng.@ Toàn thân tôi lúc này ướt đẫm mồ hôi.@
+` Tôi chẳng thể nhớ nổi mình vừa mơ thấy điều gì nữa.@
+` …… Lẽ nào là do cuốn sách kỳ lạ mà đêm qua mình đã đọc?@
+` Tôi lờ mờ cảm giác được mình đã nhìn thấy một điềm báo vô cùng tồi tệ, thế nhưng đầu óc lúc này lại trống rỗng, chẳng thể nhớ nổi đó cụ thể là chuyện gì.
+\
+` ... Vậy mà một bác sĩ nổi tiếng từng nói rằng giấc mơ vốn có lẽ phai nhạt theo thời gian, nên tôi chẳng nên cố gắng quá sức để nhớ lại nó.@
+br
+` [line=3]Cộc, cộc.@
+br
+` Một tiếng gõ cửa vô cùng lịch sự và nhịp nhàng vang lên.@
+ld c,"tachi/his_t01",lshutter,800
+`"[line=2]Chào buổi sáng, cậu chủ Shiki."@
+`"Ừm, chào buổi sáng em."@
+` Tôi đáp lại lời chào của em ấy rồi từ từ đứng dậy.@
+` Hisui dịu dàng đặt bộ đồng phục đang ôm trong tay lên bàn học, rồi lẳng lặng lùi lại đứng nép bên cạnh mép cửa.
+\
+`"Sau khi cậu chủ thay xong trang phục, xin mời cậu xuống phòng ăn dùng bữa ạ."@
+`"Anh biết rồi.@ Cảm ơn em như mọi khi nhé."@
+` Sau khi nhận được câu trả lời xác nhận của tôi, Hisui nhẹ nhàng cúi chào rồi bước ra khỏi phòng.@
+cl c,lshutter,800
+`"………… Ơ?"@
+` Vừa nhìn thấy diện mạo thanh khiết của em ấy, đầu óc tôi bỗng chốc trống rỗng, quên sạch sành sanh những suy tư trăn trở vừa rồi.@
+`"…… Trời đất.@ Lẽ nào dạo này mình lại hay quên đến mức này sao?"@
+` Khẽ nghiêng đầu tự cười cợt bản thân, tôi nhanh chóng thay bộ đồng phục học sinh.
+\
+` Lưỡi dao găm sắc lẹm vẫn đang nằm im lìm trên bàn học.@
+` Đó là kỷ vật duy nhất từ người cha nuôi mà tôi luôn cẩn thận giấu trong túi quần suốt mấy ngày giông bão vừa qua.@
+br
+` [line=3]Từ bây giờ trở đi, có lẽ tôi sẽ không bao giờ cần phải rút nó ra nữa.@
+br
+`"…… Đúng vậy nhỉ.@ Bọn họ đã rời đi hết rồi."@
+` Cả Arcueid, và cả Ciel-senpai.@
+` Bầy thú ác quỷ mang danh Nrvnqsr, và cả con ma cà rồng tà ác Roa nữa.@
+` Tất cả bọn họ giờ đây đều đã hoàn toàn biến mất khỏi thế giới này rồi.
+\
+`"Có lẽ điều mà mình vừa lỡ quên mất chính là những ký ức liên quan đến chuyện đó chăng."@
+` Giờ đây, chắc chắn chẳng còn biến cố hay hiểm họa nào đang đón đợi tôi ở trường học nữa.@
+` Senpai cũng đã rời đi rồi[line=3]thế nên cuộc sống học đường từ nay chắc cũng chẳng còn chút niềm vui nào nữa.@
+` Nhưng dẫu sao, đó cũng chính là guồng quay tẻ nhạt thường nhật của tôi trước đây mà.@
+` Tôi chẳng qua chỉ vừa đánh mất đi một thứ hạnh phúc ngắn ngủi mới vừa có được gần đây mà thôi.@
+` Còn lại toàn bộ thế giới tẻ nhạt trước đó của tôi vẫn hoàn toàn vẹn nguyên.
+\
+` [line=5]*Haizzz*@
+` Nếu cố chấp tự trấn an bản thân theo chiều hướng ấy, tôi tin mình vẫn sẽ ổn dẫu cho không có sự hiện diện của Senpai.@
+` Tuy tuyệt đối không bao giờ có thể xóa nhòa bóng hình chị ấy khỏi tâm trí, nhưng tôi tin mình vẫn sẽ sống tiếp được thôi.@
+` Cố lừa dối bản thân bằng những suy nghĩ ngớ ngẩn ấy, tôi đưa tay mở cánh cửa phòng.@
+br
+` Vậy thì,
+` hai chân tôi lại cất bước đi học như bao ngày thường nhật trước đây[line=3]
+\
+bg #000000,lcartain,1500
+playstop
+bg "bg/bg_01a",lcartain,1500
+` Đang là bảy giờ năm mươi phút sáng.@
+` Cánh cổng trước trường lúc này đang ngập tràn học sinh đông đúc ríu rít.@
+` Bởi hôm nay là thứ Bảy, nên gương mặt ai nấy đều rạng rỡ, hân hoan ríu rít.@
+br
+`"………………"@
+` Tôi lầm lũi len qua biển người rạng rỡ ríu rít ấy tựa như một đám mây u ám rầu rĩ.@ Dẫu cho bản thân có cố tự dối lòng thế nào đi chăng nữa, thì sự thật phũ phàng rằng Senpai đã rời đi vẫn đè nặng lên tâm trí tôi[line=4]
+\
+`"[line=6]Ơ?"@
+` Trong một tích tắc ngắn ngủi, tôi hoang mang không dám tin vào mắt mình nữa, nhưng bóng hình ấy tuyệt đối không thể nhầm lẫn vào đâu được.@
+` Ciel-senpai vẫn đang dịu dàng rảo bước hướng về phía trường học.@
+`"Se, Senpai[line=3]!?"@
+` Tôi thốt lên réo gọi tên chị ấy hoàn toàn theo bản năng, và Senpai lập tức quay đầu nhìn về phía tôi.@
+ld c,"tachi/cel_t01a",lshutter,400
+`"Oh, Tohno-kun.@ Chào buổi sáng em."@
+` Chị ấy khẽ cúi chào tôi một cách vô cùng nhã nhặn lịch thiệp.
+\
+`"Chào buổi sáng ạ?@ Chẳng phải chị đã quyết định quay trở về rồi sao……!?"@
+ld c,"tachi/cel_t03",crossfade,400
+`"Không đâu.@ Làm sao chị có thể nhẫn tâm bỏ lại em ở một mình nơi này để quay về cơ chứ."@
+` Senpai khẽ nở một nụ cười rạng rỡ dịu hiền và cất tiếng nói.@
+br
+` Không bao giờ bỏ lại tôi ở một mình nơi này sao?@
+br
+` Dẫu cho xung quanh đang tấp nập học sinh qua lại, tôi vẫn lờ mờ cảm nhận thấy gương mặt mình đang nóng ran, đỏ bừng lên dữ dội vì ngượng ngùng.
+\
+`"[line=4]Ừm, chuyện đó……"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Vâng, có chuyện gì sao em?"@
+`"Em có thể…… hiểu những lời vừa rồi theo đúng nghĩa đen ngọt ngào của nó được không ạ?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Vâng, chuyện đó thì tùy thuộc hoàn toàn vào trí tưởng tượng phong phú của em đấy, Tohno-kun."@
+` Chị ấy khẽ gật đầu tinh nghịch, nở một nụ cười rạng ngỡ tỏa nắng ngọt ngào.
+\
+`"[line=8]!"@
+` Lồng ngực tôi bỗng chốc nghẹn lại, nghẹt thở.@
+` Hoàn toàn không phải do cơn đau thắt co giật hành hạ dữ dội như hôm qua, mà bởi một niềm hạnh phúc ngọt ngào cháy bỏng đang trào dâng rạo rực khắp lồng ngực.@
+` Nếu như lúc này xung quanh không có ai qua lại, tôi chắc chắn đã nhảy cẫng lên gào thét "Tuyệt quá đi mất!" hết sức bình sinh rồi.
+\
+`"Senpai!"@
+` Tôi cuống quýt vươn tay chộp lấy siết chặt lấy bàn tay gầy của chị ấy.@
+`"Vậy, you mean you won't go anywhere, right!?@ You'll stay here at school forever, right!?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Ơ kìa, dẫu có muốn đi chăng nữa, nếu cứ ở lại trường học này mãi thì chị sẽ hóa thành bà cô già mất thôi.@ Chị đã là học sinh năm ba rồi, chỉ còn vỏn vẹn bốn tháng nữa là đến kỳ tốt nghiệp thôi đấy."@
+`"Thế nhưng, chị vẫn sẽ ở lại thành phố này đúng không?@ Chị sẽ tuyệt đối không lẳng lặng bỏ đi biệt tăm như lời đã nói ngày hôm qua nữa, đúng không ạ?"
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Yes.@ Từ bây giờ, chị hứa sẽ ở lại bên em cho đến phút cuối cùng."@
+`"Tuyệt quá rồi[line=2]!"@
+` Tôi ngượng ngùng buông tay chị ấy ra và cố gắng kiềm chế sự hưng phấn tột độ đang bùng nổ.@
+` Tôi muốn run quanh sân trường nhiều vòng.@
+` Cảm giác phấn khích tột độ rạo rực trào dâng giống hệt như việc tôi vừa trúng giải độc đắc vậy.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+` Không, hạnh phúc này thậm chí còn ngọt ngào và vĩ đại hơn thế gấp trăm ngàn lần.@ Tôi chỉ muốn phá lên cười thật to cho thỏa nỗi lòng bấy lâu.@
+` Bản thân tôi lúc này rạo rực đến mức chẳng thể đứng yên một chỗ chịu đựng nổi nữa.@
+ld c,"tachi/cel_t05",crossfade,400
+`"Tohno-kun, em cũng nên khẩn trương lên đi thôi kẻo trễ giờ học bây giờ."@
+`"[line=4]A.@ Đúng thế thật.@ Hẹn gặp lại chị sau nhé Senpai!@ Giờ ra chơi em sẽ chạy lên gặp chị ngay!"@
+cl c,lshutter,800
+` Vừa liên tục vẫy tay chào Senpai, tôi vừa nhanh nhảu rảo bước hướng về phía tòa nhà lớp học.@
+` Nụ cười toe toét sướng rơn vẫn nở trên môi, tôi lấy hết sức bình sinh phi nhanh như bay về phía phòng học.
+\
+bg #000000,lcartain,1500
+!w1000
+play "*3"
+bg "bg/bg_06a",crossfade,400
+wave se_03
+br
+` [line=4]Tiết học đầu tiên rốt cuộc đã khép lại.@
+!w2000
+` Tôi có vỏn vẹn mười phút nghỉ giải lao ngắn ngủi trước tiết học tiếp theo.@
+`"[line=3]Được rồi."@
+` Ngay khoảnh khắc tôi vừa nhổm dậy khỏi ghế hòng lên tầng tìm phòng học của Senpai,
+ld c,"tachi/cel_t03",lshutter,400
+`"Ơ?@ Em định đi đâu thế, Tohno-kun?"@
+` [line=3]Hóa ra Senpai đã chủ động bước xuống tìm tôi trước rồi.
+\
+`"A, không có gì đâu ạ, em định chạy lên tìm chị đấy chứ.@ Lúc nào cũng bắt chị phải đợi em, nên lần này em định chủ động lên gặp chị."@
+ld c,"tachi/cel_t02",crossfade,400
+`"Ra thế.@ Nghe vậy chị vui lắm đấy, cơ mà em vốn đâu có biết lớp của chị ở đâu đúng không, Tohno-kun?@ Là lớp 3-B nhé, nhớ kỹ giùm chị đấy."@
+`"Thế cơ ạ[line=3]hóa ra Senpai cũng ngoan ngoãn lên lớp nghe giảng bài thật cơ à.@ Giỏi quá, giỏi quá.@ Em cứ nghĩ chị suốt ngày chỉ biết ngồi nhâm nhi trà đạo ở căn phòng sinh hoạt đó thôi chứ."
+\
+ld c,"tachi/cel_t04",crossfade,400
+`"Tất nhiên rồi, chị vẫn tiếp thu bài vở rất đầy đủ đấy chứ[line=2]"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Này, khoan đã Tohno-kun! Hóa ra lâu nay em luôn nghĩ chị là kiểu học sinh lười biếng như thế đấy hả!?"@
+`"[line=2]Ơ."@
+` Quả thực tôi cũng chẳng thể mở miệng phủ nhận nổi điều đó.
+\
+`"A, cho em xin lỗi nhé.@ Cơ mà Senpai này, chị bảo câu lạc bộ trà đạo không có bất kỳ thành viên nào, nhưng em chợt nghĩ có khi ngay từ đầu câu lạc bộ ấy vốn dĩ đã chẳng hề tồn tại ấy chứ."@
+ld c,"tachi/cel_t05",crossfade,400
+` Senpai sững sờ đứng chôn chân tại chỗ rồi bỗng chốc im lặng phẳng lặng.
+\
+`"…… Ơ kìa?@ Đừng bảo em đoán trúng phóc rồi nhé?@ Đó thực chất chỉ là một căn phòng kiểu Nhật bị bỏ hoang thôi sao?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"[line=3]Hửm.@ Hình như chị hoàn toàn không hiểu em đang lảm nhảm chuyện gì hết."@
+` Ciel-senpai vội vã quay ngoắt ánh mắt hướng ra ngoài cửa sổ, thẫn thờ nhìn vào khoảng không như để lảng tránh.
+\
+`"…… Mà thôi, chuyện đó cũng chẳng sao cả.@ Dẫu cho chị có dùng thủ thuật gì đi nữa, chị vẫn là một người tốt tuyệt vời mà.@ Em tin chị sẽ tuyệt đối không gây hại cho ai đâu, nhưng liệu thuật ám thị của chị có thể tạo nên cả một câu lạc bộ ảo như thế được sao?"@
+`"Chị đã bảo là mình hoàn toàn không hiểu em đang nói gì rồi mà, thế nên làm sao chị trả lời được đây."@
+`"[line=5]"@
+` Vẫn đang ngồi im trên ghế, tôi khẽ ngước mắt lên đăm đăm nhìn vào dung nhan của Ciel-senpai.@
+br
+` Khoảng không im lặng phẳng lặng kéo dài khoảng chừng một phút trôi qua.
+\
+ld c,"tachi/cel_t09",crossfade,400
+`"…… Em thực sự rất kiên trì dai dẳng đấy, Tohno-kun."@
+`"Không có đâu ạ, em chỉ đang lơ đễnh ngắm nhìn đôi mắt màu xanh trong vắt tuyệt đẹp của chị thôi."@
+`"…………"@
+` Ciel-senpai khẽ buông một tiếng thở dài thườn thượt tựa như đã hoàn toàn đầu hàng chịu thua.
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Chị đã giãi bày từ trước rồi mà, thuật ám thị thực chất không hề vạn năng và tiện lợi đến nhường ấy đâu.@
+`"Thuật ám thị vốn dĩ không có khả năng trực tiếp bóp méo hay thay đổi nhận thức bẩm sinh của con người, mà nó chỉ có tác dụng hướng sự chú ý của họ lảng tránh sang nơi khác mà thôi.@
+`"Thế nên, dẫu cho chị có cố tình ám thị bắt em phải cực kỳ say mê món cà ri trong khi thâm tâm em ghét cay ghét đắng nó, thì chiêu đó cũng tuyệt đối vô dụng."@
+`"…… Thật thế sao ạ? Vậy nghĩa là chị tuyệt đối không thể ép buộc người khác làm những việc trái với ý muốn của họ được hả?"
+\
+`"Đúng thế.@ Cơ mà dẫu vậy, chị vẫn thừa cách để ép buộc em phải ngoan ngoãn ăn món cà ri đấy nhé, Tohno-kun.@
+`"Chẳng hạn như, chị sẽ tuyệt đối không dùng ám thị ngớ ngẩn bắt em thích cà ri.@ Thay vào đó, chị sẽ găm vào đầu em nỗi sợ hãi rằng nếu không ăn cà ri thì em sẽ lập tức lăn đùng ra chết[line=2]"@
+`"Em hiểu rồi, dọa chết kiểu đó thì dẫu có ghét cay ghét đắng em vẫn sẽ phải nhắm mắt nuốt chửng thôi.@ …… Ra thế, hóa ra chị có thể tùy nghi thao túng mọi chuyện bằng cách ấy."
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Không đơn giản thế đâu, việc thiết lập bối cảnh hiểm hóc và hoàn hảo như thế vô cùng gian nan trắc trở vì ý chí phản kháng tự nhiên của con người sẽ cực kỳ lớn.@
+`"Có rất nhiều người sở hữu tinh thần thép cực kỳ khó cưỡng chế thao túng bằng thuật ám thị, thế nên thông thường chị chỉ có thể găm vào đầu họ một gợi ý đơn giản kiểu như: 'Tuyệt đối đừng mảy may nghi ngờ những lời tôi nói' mà thôi."@
+` …… Đúng vậy thật, Arcueid trước đây dường như cũng từng giãi bày những lời tương tự.
+\
+`"[line=3]Em hiểu rồi ạ.@ Nhân tiện thì, Senpai này."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Vâng? Có chuyện gì sao em?"@
+`"Ừm.@ Thực chất Senpai cực kỳ, cực kỳ cuồng ăn món cà ri đúng không ạ?"@
+ld c,"tachi/cel_t05",crossfade,400
+br
+` Đáp lại câu hỏi đầy tinh nghịch của tôi, Ciel-senpai chỉ mỉm cười thanh khiết mà tuyệt đối không hé răng nửa lời đáp.@
+` Biểu cảm nụ cười mập mờ ấy khiến tôi hoàn toàn bó tay, chẳng thể nào phân định nổi là chị ấy đang ngấm ngầm phủ nhận hay thừa nhận nữa.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Mà hỏi thật, sắp đến giờ vào học tiết tiếp theo rồi.@ Lát nữa sau khi tan học chị sẽ lại chạy xuống gặp em nhé, cơ mà thể xác em đã ổn định hoàn toàn chưa hả, Tohno-kun?@ Đôi cánh tay em đã có thể cử động bình thường chưa?"@
+`"Vâng ạ, giờ em hoàn toàn chẳng còn cảm giác đau nhức nào nữa rồi.@ Tất cả là nhờ ơn cứu chữa của chị mà em mới có thể ngoan ngoãn cắp sách đến trường hôm nay đấy."@
+` Nói rồi, tôi khẽ chắp hai tay lại trước ngực rồi vui vẻ cúi đầu cảm tạ chị ấy một cách trịnh trọng.
+\
+`"Chị hiểu rồi, thế còn tình trạng đau đầu của em thì sao?@ Hôm qua cơn đau buốt nhói hành hạ em dữ dội lắm đúng không?"@
+`"Đầu em cũng đã hoàn toàn ổn thỏa rồi ạ.@ Hơn nữa, chỉ cần túc trực đeo chiếc kính ma nhãn này vào là em sẽ tuyệt đối không sao đâu."@
+`"Vậy thì tốt quá rồi.@ Nghe em giãi bày như thế chị cũng thấy nhẹ lòng hơn nhiều."@
+cl c,lshutter,800
+` Dứt lời, Ciel-senpai lẳng lặng quay gót bước ra phía hành lang lớp học.
+\
+` Nhưng vừa đi được vài bước, chị ấy bỗng khựng lại như sực nhớ ra điều gì đó vô cùng quan trọng rồi ngoảnh đầu lại.@
+ld c,"tachi/cel_t07a",lshutter,400
+`"Chị suýt nữa thì quên hỏi mất.@ Tohno-kun, tinh thần em hiện tại vẫn ổn định chứ?"@
+`"[line=3]Vâng, em ổn định lắm chứ ạ.@ Nhờ có sự hiện diện của chị ở đây, toàn bộ những u uất lo âu trong lòng em đều đã tan biến sạch sẽ rồi."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Thế thì tốt quá rồi.@ Từ giờ nếu có bất kỳ chuyện gì quái dị xảy đến, em tuyệt đối đừng ngần ngại báo ngay cho chị nhé.@ Đây là số điện thoại của chị."@
+`"[line=5]Dạ?"@
+cl c,lshutter,400
+\
+` Nói rồi, chị ấy nhanh nhẹn dúi vào tay tôi một mảnh giấy nhỏ có ghi số điện thoại riêng của mình, rồi tức tốc quay lưng bước nhanh ra khỏi phòng học.@
+br
+`"…… Số…… số điện thoại riêng của chị ấy ư?"@
+` Tôi ngơ ngác đờ người, đăm đăm cúi xuống nhìn mảnh giấy nhỏ trong lòng bàn tay với sự kinh ngạc tột độ.@
+` Tôi tự hiểu thừa rằng chị ấy trao số điện thoại này chỉ vì thực lòng vô cùng lo lắng cho tình trạng hiểm nghèo của tôi đêm qua, thế nhưng……
+\
+`"…… May mắn ập đến bất ngờ quá, cơ mà liệu mọi chuyện tiến triển suôn sẻ và ngọt ngào thế này có thực sự ổn không nhỉ?"@
+` …… Tự suy nghĩ đa đoan thế này quả thực trông mình có hơi thảm hại và nhút nhát.@
+` Có lẽ do bản tính vốn là một kẻ quen sống khép kín dung dị từ thuở nhỏ, nên trước vận may ngọt ngào bất ngờ ập xuống đầu thế này, thâm tâm tôi lại bối rối, chẳng thể vô tư hân hoan đón nhận nổi.
+\
+bg #000000,lshutter,1500
+!w1000
+bg "bg/bg_06a",lshutter,1500
+wave se_03
+` Ngay khi giờ sinh hoạt lớp vừa khép lại, bầu không khí trong phòng học bỗng chốc bùng nổ náo nhiệt trong sự hỗn loạn thường nhật.@
+` Lúc này vẫn chưa hẳn là giữa trưa đâu.@
+` Nhưng cuộc sống học đường vào các buổi trưa thứ Bảy lúc nào cũng náo nhiệt dồn dập như vậy cả.@
+` Những học sinh tức tốc thu xếp sách vở tháo chạy về nhà, hòa lẫn cùng những kẻ ở lại ăn trưa dồn dập để chuẩn bị sinh hoạt câu lạc bộ, tất cả trộn lẫn tạo thành một khung cảnh cực kỳ náo loạn nháo nhào.
+br
+` Từ từ đứng dậy khỏi ghế, tôi vừa chậm rãi dọn dẹp sách vở vào cặp vừa ngóng trông bóng dáng của Senpai…… và đúng lúc đó,
+` Tôi thậm chí còn chẳng biết gã đã mò đến trường từ lúc nào nữa, đột nhiên Arihiko sừng sững xuất hiện trước mặt tôi với một nụ cười cực kỳ gian tà và khả nghi nở trên môi.
+\
+ld c,"tachi/ari_t05",lshutter,400
+`"Đi quẩy thôi, Tohno."@
+` …… Chẳng thèm rườm rà rào trước đón sau lấy một câu, gã thẳng thừng phun ra mục tiêu rủ rê của mình.
+\
+`"…… Hôm nay trông mày có vẻ thẳng thắn và sảng khoái đột xuất thế nhỉ.@ Bộ vừa có biến cố gì xui xẻo xảy đến với mày à?"@
+`"Ơ kìa, làm gì có chuyện đó chứ.@ Tao chỉ đột nhiên muốn đi chơi bời, thắt chặt tình bằng hữu với thằng bạn thân chí cốt không vì lý do gì thôi mà."@
+br
+` …… Thái độ xởi lởi đột xuất này quả thực cực kỳ khả nghi.@
+`"Tuyệt đối không có chuyện đó đâu nhé.@ Tao cá là mày vừa bị cô em nào phũ phàng đá bay hoặc gặp chuyện gì tương tự rồi.@ Hôm nay tao bận túc trực hộ tống Senpai về nhà rồi, nên tuyệt đối không có thời gian rảnh rỗi mà bố thí cho mày đâu."
+\
+`"Senpai á?@ Ý mày muốn nói là Ciel-senpai sao?"@
+` Đôi lông mày của gã lập tức nhướng cao lên vì ngạc nhiên tột độ.@
+br
+`"…… Ừ, cơ mà…… Arihiko, mày vẫn còn nhớ rõ ký ức về Senpai ư……!?"@
+`"Mày lảm nhảm cái quái gì thế hả?@ Chị ấy chính là bóng hồng tối thượng mà tao hằng đêm tơ tưởng đuổi theo cơ mà, làm sao tao có thể quên nổi chứ?"@
+` Arihiko dõng dạc tuyên bố điều đó một cách cực kỳ hùng hồn, tự nhiên như thể đó là chân lý hiển nhiên của tạo hóa vậy.@
+cl c,crossfade,400
+`"………………"@
+` Tôi hiểu rồi.@ Hóa ra ngay khi Ciel-senpai quay trở lại trường học, mọi ký ức bị thuật ám thị bóp méo của mọi người xung quanh đều đã tự động khôi phục vẹn nguyên như cũ.
+\
+ld l,"tachi/ari_t02",crossfade,400
+`"Ơ kìa, Senpai đến rồi kìa!"@
+` Arihiko hân hoan hớn hở vươn tay chỉ thẳng về phía cánh cửa lớp học.@
+cl l,crossfade,400
+ld r,"tachi/cel_t01a",lshutter,400
+`"Cảm ơn hai em đã kiên nhẫn chờ chị nhé.@ Chào buổi chiều em nhé, Inui-kun."@
+` Senpai nhẹ nhàng cúi chào một cách vô cùng nhã nhặn lịch thiệp.@
+`"Chúng ta chuẩn bị ra về thôi chứ nhỉ?@ Hay hai em có muốn ghé qua phòng trà đạo một lát không?"@
+`"Vâng, ghé phòng trà đạo đi chị.@ Chứ nếu ra về ngay lúc này thì vừa ra tới cổng trường là hai chúng ta đã phải chia tay rồi.@ Em vẫn còn rất nhiều chuyện muốn hàn huyên tâm sự cùng chị, thế nên vừa nhâm nhi tách trà ấm vừa chuyện trò[line=3]"`
+\
+quakex 2,250
+`"[line=4]!?"@
+` Bỗng nhiên có một cú đấm trời giáng từ phía sau lưng bất ngờ bổ thẳng vào bả vai tôi[line=3]
+ld l,"tachi/ari_t02",crossfade,400
+`"Này."@
+`"……………… Là mày đấy hả, Arihiko?"@
+ld l,"tachi/ari_t03",crossfade,400
+`"Phải, chính là tao đây.@ Thường ngày tao vốn chẳng phải là kẻ hay thích xía vào chuyện tình cảm của người khác đâu nhé, nhưng chứng kiến cái trò khờ khạo quá giới hạn của mày vừa rồi, tao bắt buộc phải lên tiếng chấn chỉnh thôi."@
+` Arihiko đăm đăm nhìn tôi và Senpai bằng một ánh mắt ngập tràn sự ngao ngán, bất lực khôn tả.
+\
+ld r,"tachi/cel_t12",crossfade,400
+`"?"@
+` Ciel-senpai và tôi chỉ biết hoang mang ngơ ngác nhìn nhau đầy dấu hỏi chấm.
+\
+`"Hai người kia ơi.@ Hôm nay đã là ngày thứ Bảy cuối tuần rồi đấy, sao lại có thể lãng phí thời gian quý báu một cách tẻ nhạt như thế cơ chứ?@
+`"Trên đời này thiếu gì chốn hẹn hò đi chơi thú vị và lãng mạn hơn gấp vạn lần cái phòng trà đạo cũ kỹ ấy hả!?"@
+` Nói rồi, gã vung tay vẽ nên một vòng tròn cực kỳ khoa trương và kịch tính hướng ra phía ngoài cửa sổ.@
+ld r,"tachi/cel_t01a",crossfade,400
+`"…… Ơ, đi đâu được thế em?"@
+`"Phía ngoài cửa sổ ạ.@ Em đoán chắc là gã đang muốn bảo hai chúng ta đi chơi ở trung tâm thành phố đấy."@
+` Tôi lẳng lặng giải thích cặn kẽ để trả lời thắc mắc của Ciel-senpai.@
+cl r,crossfade,400
+\
+br
+` Và ngay sau đó,
+quakex 2,250
+` Arihiko lại thẳng tay cốc mạnh vào đầu tôi một phát đau điếng nữa.
+\
+ld l,"tachi/ari_t04",crossfade,400
+`"Tohno, mày thực sự định biến Senpai thành trò hề để mày trêu chọc đấy hả!?@
+`"Nhìn kỹ đi, hôm nay là thứ Bảy cuối tuần.@ Lúc này vẫn còn chưa tới mười hai giờ trưa.@ Lại thêm hai đứa mày đều đang là học sinh trung học tràn đầy nhiệt huyết! Thiên thời địa lợi nhân hòa hội tụ đầy đủ như thế, sao cái đầu đất của mày lại không chịu nảy ra ý kiến rủ Senpai đi quẩy một chuyến ra trò ở phố xá trung tâm hả!?"@
+`"[line=4]Hừ."@
+br
+` Cái thằng ngốc này.@
+` Chuyện đó tao cũng đã cẩn thận cân nhắc tính toán từ trước rồi chứ bộ.@
+` Tính thì tính rồi thật đấy, thế nhưng[line=3]
+\
+ld r,"tachi/cel_t01a",crossfade,400
+`"?"@
+` Tôi khẽ liếc mắt trộm quan sát nét mặt của Ciel-senpai.@
+` Tôi lờ mờ cảm giác được rằng thay vì cùng nhau lang thang náo nhiệt nháo nhào ở chốn phố xá đông đúc ồn ào, Senpai có lẽ sẽ thích những không gian tĩnh lặng, nhẹ nhàng bình yên như một góc công viên yên tĩnh hơn, vì vậy tôi tuyệt đối không dám mở lời rủ chị ấy đi chơi chốn xô bồ.@
+` Nếu tôi liều lĩnh mở miệng mời chị ấy đi chơi chốn đông đúc nháo nhào, tôi tin chắc Senpai nhiều khả năng sẽ e thẹn từ chối khéo thôi[line=3]
+\
+ld r,"tachi/cel_t04",crossfade,400
+`"Chị hiểu rồi.@ Vậy thì hay là cả ba chúng ta cùng đi chơi chung cho vui vẻ đi?"@
+`"……… Senpai?"@
+ld r,"tachi/cel_t03",crossfade,400
+`"Chuyện đó có sao đâu em?@ Bây giờ chị đã hoàn toàn trút bỏ được gánh nặng u uất lo âu rồi, và chị cá là cuộc đi chơi chung với cả ba chúng ta sẽ cực kỳ náo nhiệt và vui vẻ đấy chứ."@
+`"A[line=3]vâng, nếu đó thực sự là mong muốn của chị, em rất sẵn lòng và vui vẻ."@
+ld r,"tachi/cel_t04",crossfade,400
+`"Quyết định thế nhé.@ Inui-kun, em cũng hoàn toàn nhất trí đúng không?"
+\
+`"[line=7]"@
+` Arihiko mừng rỡ gật đầu lia lịa như gà mổ thóc.@
+` …… Tôi cá là gã vốn dĩ tuyệt đối không ngờ diễn biến câu chuyện lại đưa gã vào thế kẹt đi chơi chung thế này.
+cl l,crossfade,400
+\
+ld r,"tachi/cel_t01a",crossfade,400
+`"Vậy thì thống nhất thế nhé.@ Bữa trưa thì sao đây nhỉ? Ba đứa chúng ta sẽ tự về nhà dùng bữa hay đi ăn chung cùng nhau đây?"@
+`"Hửm, ngày thường hai đứa em đi học đã túc trực ăn cơm trưa ở trường rồi, hay là cứ để dành tiền tiêu vặt trưa nay để đi quẩy đi chị.@ Với lại em với Arihiko lúc nào chẳng ở trong trạng thái viêm màng túi nghèo rớt mồng tơi cơ chứ, đúng không?"@
+ld l,"tachi/ari_t03",crossfade,400
+`"…… Ơ…… Tao, tao có lẽ vẫn có thể liều mình đi vay nóng chút tiền tiêu vặt từ bà chị gái cưng được mà."@
+br
+` …… Có vẻ như khao khát mãnh liệt muốn được ra ngoài ăn trưa sang chảnh cùng Ciel-senpai đã tiếp thêm dũng khí cho Arihiko rồi.
+\
+`"[line=3]Còn Senpai thì sao ạ? Chị có gợi ý địa điểm ăn uống đặc biệt nào muốn ghé qua không?"@
+ld r,"tachi/cel_t11",crossfade,400
+`"Dạ không đâu, thường ngày chị…… có thói quen không thích ăn uống trước mặt người khác cho lắm…"@
+`"Em biết rõ quá mà.@ Lượng ăn của chị lúc nào cũng gấp mấy lần người bình thường, nên đi ăn chung em cá là sẽ tốn kém chi phí lắm đấy."@
+ld r,"tachi/cel_t10d",crossfade,400
+`"K, không phải thế đâu nhé! Em đang luyên thuyên lảm nhảm chuyện gì thế hả, Tohno-kun!?"@
+br
+` …… Tôi chỉ đang lẳng lặng lục lại kho dữ liệu thu thập được trong vô số buổi trưa cùng nhau nhâm nhi tại phòng trà đạo bấy lâu nay, rồi đưa ra một nhận định cá nhân vô cùng khách quan mà thôi.
+\
+ld r,"tachi/cel_t12",crossfade,400
+`"Chị đồng ý với ý kiến của Inui-kun.@ Cả ba chúng ta cùng đi ăn ngoài đi.@ Chị nghe phong thanh gần rạp chiếu phim có một quán cà phê tên là Ahnenerbe, bánh táo dâu tây ở đó cực kỳ ngon tuyệt hảo đấy."@
+ld l,"tachi/ari_t02",crossfade,400
+`"Trời đất, Senpai sành ăn và am hiểu địa điểm quá đi mất! Chủ của quán cà phê Ahnenerbe đó thực chất chính là một bậc thầy ẩm thực Ý đích thực đấy!"@
+br
+` …… Tại sao cái đầu của Arihiko lúc nào cũng chứa chấp vô số tin đồn nhảm và đống thông tin vô dụng thế không biết?
+\
+ld r,"tachi/cel_t10a",crossfade,400
+`"Vậy thì nửa tiếng nữa chúng ta hẹn gặp nhau ở trước cổng rạp chiếu phim nhé.@ Lịch trình như thế có ổn thỏa với em không, Tohno-kun?"@
+`"[line=3]Dạ……@ Senpai thừa biết là từ trường chạy tháo mạng về đến biệt thự nhà em đã mất đứt nửa tiếng đồng hồ rồi còn gì."@
+cl r,lshutter,800
+` Thế nhưng bóng hình gầy gò mảnh mai của Senpai đã nhanh nhảu tan biến, rảo bước thoăn thoắt về phía hành lang mất rồi.
+\
+`"Lo mà chạy tháo mạng đi nhé Tohno.@ Nếu thích thì mày cứ việc đến trễ hẳn sang tận ngày mai đi, tao tuyệt đối chẳng thèm bận tâm đâu!"@
+cl l,lshutter,400
+` Dứt lời, Arihiko nhanh như cắt chộp lấy cặp rồi phi nhanh như bay ra khỏi phòng học.@
+` …… Diễn biến câu chuyện rốt cuộc lại đưa đẩy theo một chiều hướng cực kỳ kỳ quặc thế này.
+\
+`"…… Mà thôi kệ đi."@
+` Tôi vẫn có thể ở bên cạnh Ciel-senpai.@
+` Tay cầm túi, tôi cũng vội vã chạy tháo mạng quay trở về biệt thự nhà mình.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_33a",lcartain,800
+ld c,"tachi/koha_t02",lshutter,400
+`"Ơ kìa?@ Cậu Shiki, hôm nay cậu trở về nhà sớm đột xuất thế nhỉ?"@
+`"Vâng, tôi vừa về đây Kohaku-san.@ Tôi đang có việc cực kỳ vội, hẹn gặp lại chị sau nhé!"
+\
+bg "bg/bg_46a",lcartain,400
+ld c,"tachi/his_t01",lshutter,400
+`"Cậu Shiki?@ Cậu vừa trở về rồi ạ?"@
+`"Tôi chuẩn bị phải đi ra ngoài ngay lập tức đây, nên trưa nay mọi người không cần bận tâm chuẩn bị cơm trưa cho tôi đâu!"
+\
+bg "bg/bg_40a",lcartain,400
+`"Được rồi, chỉ còn mười lăm phút nữa thôi!"@
+` Quãng đường chạy tháo mạng từ trường học về đến nhà vừa rồi của tôi chắc chắn đã thiết lập nên một kỷ lục Guinness mới.@
+` Vội vã quăng mạnh chiếc cặp sách lên bàn học, tôi cuống cuồng lột phăng bộ đồng phục học sinh ra để thay quần áo thường.@ Ngay sau đó, tôi phi như một mũi tên lao thẳng ra khỏi phòng ngủ.
+\
+bg "bg/bg_46a",lcartain,400
+` Khoảng cách từ biệt thự Tohno ra đến đại lộ trung tâm thực chất còn xa hơn rất nhiều so với quãng đường từ biệt thự tới trường học.@
+` Thâm tâm tôi tự hiểu thừa rằng, khoảng cách mênh mông ấy tuyệt đối không phải là thứ tôi có thể đi bộ thong thả tới nơi trong vòng vỏn vẹn mười lăm phút ngắn ngủi được.@
+` Senpai thừa biết biệt thự nhà tôi nằm tít tận trên đỉnh con dốc cao sừng sững, vậy mà chị ấy vẫn ác ý đặt ra một cái thời hạn bất khả thi thử thách tôi như vậy.@
+br
+`"[line=3]Mẹ kiếp, xem ra Senpai nhiều khi cũng có phần hơi khắc nghiệt và bắt nạt mình quá đáng thật đấy."@
+` Vừa lẩm bẩm tự oán trách bản thân trong bụng, tôi vừa điên cuồng sải bước lao nhanh xuống cầu thang biệt thự.
+\
+bg #000000,crossfade,400
+bg #9c0120,crossfade,400
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=5]*Thình thịch.*
+\
+`"[line=6]Ơ."
+\
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=5]*Thình thịch.*
+\
+` Một nhịp tim bất ngờ co thắt dữ dội bùng phát mà không hề báo trước.
+\
+br
+br
+br
+br
+br
+br
+br
+wave se_01
+` [line=5]*Thình thịch.*@
+bg #9c0120,crossfade,400
+\
+` Toàn bộ nhãn giới trước mắt tôi bỗng chốc nhuốm một màu đỏ ngầu sắc máu.
+\
+quakey 4,375
+`"[line=3]Cậu Shiki!?"@
+` …… Tai tôi lờ mờ nghe thấy tiếng gọi thất thanh đầy hoảng hốt của Hisui.@
+` Tôi nghe thấy tiếng bước chân vội vã chạy dồn dập.@ …… Hisui lúc này dường như đang vô cùng cuống cuồng, hoảng sợ tột độ vượt xa mọi ngày thường nhật.@
+`"Cậu Shiki, cậu có bị thương tích gì nặng ở đâu không ạ!?"@
+` Tôi có thể nghe thấy rõ giọng nói của em ấy, nhưng nhãn giới nhạt nhòa lúc này tuyệt đối chẳng thể nhìn thấy rõ bóng dáng em ấy ở đâu nữa.@
+br
+wave se_01
+` [line=5]*Thình thịch.*@
+br
+` Đầu óc tôi đau buốt nhói dữ dội như búa bổ.
+\
+`"Bình tĩnh lại đi nào Hisui-chan.@ Cậu Shiki bị ngã lăn xuống cầu thang thế này chẳng qua chỉ bị vài vết bầm tím ngoài da thôi mà, nên em tuyệt đối không cần phải hoảng hốt gọi bác sĩ tư gia tới làm gì đâu.@
+`"Thế nhưng thân nhiệt của cậu ấy lúc này lại đang nóng ran dữ dội lắm.@ Nhiều khả năng cậu Shiki bị chóng mặt mất thăng bằng do bùng phát cơn sốt cao nên mới vô ý sẩy chân ngã xuống thôi, thế nên em mau mau chạy vào phòng sửa soạn giường nệm sẵn sàng đi nhé."@
+`"Em hiểu rồi ạ.@ Nee-san, về Akiha-sama……"
+\
+`"Đúng vậy nhỉ, tạm thời biến cố này chưa quá nghiêm trọng nên tốt nhất hai chị em mình cứ ngấm ngầm xử lý, tuyệt đối đừng báo cho tiểu thư kẻo làm người lo lắng phiền lòng.@ Chị có cất sẵn vài liều thuốc hạ sốt chuyên dụng trong phòng riêng đấy, nhờ em chạy vào lấy giùm chị nhé."@
+br
+` Nhận lệnh của chị gái, Hisui nhanh như cắt rảo bước dồn dập biến mất về phía hành lang.@
+` Tôi[line=4]
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_33a",crossfade,800
+ld c,"tachi/koha_t03",crossfade,800
+waveloop se_02
+`"Cậu Shiki, cậu đã khôi phục chút ý thức tỉnh táo nào chưa ạ?"@
+`"…… Kohaku…… san?"@
+`"Vâng, chính là tôi đây ạ.@ Cậu Shiki vừa rồi vô ý bị trượt chân ngã lăn một vòng từ trên cầu thang xuống đất đấy.@ Thật may mắn tai qua nạn khỏi khi kiểm tra qua sơ bộ cậu không bị chấn thương xương khớp gì nghiêm trọng, thế nhưng thân nhiệt cậu lại đang sốt cao dữ dội lắm đấy.@
+`"Nhìn vạt áo xộc xệch thế này chắc cậu đang định vội vã đi ra ngoài có hẹn với ai đó đúng không, cơ mà trưa nay xin cậu tuyệt đối hãy ngoan ngoãn nằm tĩnh dưỡng nghỉ ngơi tại biệt thự đi ạ."@
+br
+` Kohaku-san đặt bàn tay ấm áp lên bờ vai tôi, từ từ dùng lực nâng đỡ thân xác rệu rã của tôi gượng dậy.
+\
+`"K, không sao đâu mà[line=2]tôi hoàn toàn ổn định, không cần phải nằm tĩnh dưỡng nghỉ ngơi gì đâu.@ Chẳng qua vừa rồi tôi cố chạy tháo mạng từ trường về biệt thự nên chỉ hơi bị hụt hơi thở dốc chút thôi mà."@
+ld c,"tachi/koha_t04",crossfade,400
+`"Cậu nói thế tuyệt đối không được đâu ạ! Gương mặt cậu lúc này đã nhợt nhạt cắt không còn một giọt máu, thần sắc hốc hác trông mệt mỏi như sắp nôn mửa đến nơi rồi kia kìa!@
+`"Bác sĩ điều trị tư gia đã nghiêm khắc căn dặn tôi phải luôn túc trực giám sát và theo dõi sát sao tình hình sức khỏe của cậu đấy.@ Vì vậy tôi tuyệt đối không cho phép cậu liều mạng mạo hiểm ra ngoài lúc này đâu."@
+`"Thế nhưng, trưa nay tôi đã lỡ hứa có hẹn quan trọng với người ta mất rồi[line=3]"@
+`"Nếu cậu thực sự muốn thông báo với người ta rằng mình bị biến cố đột xuất không thể tới chỗ hẹn được, đích thân tôi sẽ chịu trách nhiệm chạy đi nhắn lại giúp cậu ạ.@ Còn nếu cậu cứ cứng đầu cố chấp gượng ép bản thân mạo hiểm đi chơi, tôi sẽ bắt buộc phải rút kim tiêm ra và cưỡng chế chích thuốc hạ sốt cho cậu ngay lập tức đấy nhé."@
+br
+` …… Như để quyết tâm giam lỏng giam chân bằng được tôi ở lại biệt thự, Kohaku-san kiên quyết giang rộng hai tay đứng sừng sững chắn ngay trước mặt tôi.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+br
+` [line=3]*Thình thịch.*@
+br
+` Đầu óc tôi lại buốt nhói dữ dội như búa bổ.@
+` Tôi[line=3]
+\
+wavestop

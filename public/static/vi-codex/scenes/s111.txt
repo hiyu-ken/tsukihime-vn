@@ -1,0 +1,78 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_33a",notrans,0
+` "[line=3] Tôi sẽ thử kể cho anh nghe sự thật."@
+br
+` Tôi không muốn nói dối Akiha, và nếu tôi giải thích mọi thứ một cách chân thành, có lẽ Akiha sẽ hiểu.@
+` ... Vậy mà khả năng đó giống như trúng xổ số vậy.@
+br
+`"[line=2]Được rồi, chúng ta đi thôi."@
+` Tôi hít một hơi sâu và mở cửa phòng khách.
+\
+bg "bg/bg_34a",lcartain,800
+` Trong phòng khách, Akiha ngồi trên sofa còn Hisui đứng gần tường.@
+ld c,"tachi/aki_t02",lshutter,800
+`"[line=3]Chào buổi sáng, anh trai."@
+` Nhìn tôi, cô ấy truyền đạt: "Tôi tức giận."@
+`"Chào buổi sáng, Akiha."@
+` Một người kiên định là mạnh mẽ.@
+` Tôi mỉm cười chào đón ánh nhìn khinh bỉ của Akiha.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=4]"@
+` Cô ấy có thể nhầm lẫn với sự vui vẻ của tôi, vì cô ấy chỉ nhìn chằm chằm vào tôi.@
+ld c,"tachi/aki_t12a",crossfade,400
+`"Anh trai, chúng ta hãy bỏ qua lời chào hỏi. Anh ngồi đây; em muốn nói chuyện với anh."@
+`"Được rồi. Nhưng em hy vọng cuộc trò chuyện này sẽ ngắn gọn."@
+` Tôi ngồi yên tĩnh và bình tĩnh trên chiếc sofa đối diện Akiha.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Vậy thì, anh trai. Đây là một sự chuyển biến đột ngột, nhưng em có thể hỏi về hai ngày qua?"@
+`"[line=5]Hừm."@
+` Tôi biết rồi.@
+` Vì tôi đã vắng nhà hai ngày, không có lý do gì để lảng tránh.@
+` Đã đến lúc nói thật với cô ấy về Arcueid và những chuyện xảy ra trong hai ngày qua.
+\
+`"Về việc này, Akiha."@
+`"Vâng, anh trai ơi, có chuyện gì vậy?"@
+`"Trong hai ngày qua, tôi truy lùng một vị ma cà rồng. Bạn biết vụ giết người gần đây, phải không? Chúng là tác phẩm của một ma cà rồng, nên tôi đã giúp 'ma cà rồng tốt' mà tôi gặp gần đây và chiến đấu với 'ma cà rồng xấu'.@
+br
+` [line=4]Như vậy, tôi tóm tắt ngắn gọn.
+\
+ld c,"tachi/aki_t15a",crossfade,400
+`"Hả[line=6]"@
+` Akiha hoàn toàn bị bất ngờ.@
+` ... Vậy thì, đó có lẽ là phản ứng tự nhiên.@
+` Trong đầu cô ấy, có lẽ cô ấy nghĩ tôi đang trêu chọc mình, và bất cứ lúc nào trong khoảnh khắc tiếp theo,
+bg #000000,notrans,0
+ld c,"tachi/aki_t07",crossfade,400
+`"Anh có đang trêu chọc em, anh trai!!!!???"@
+` Cô ấy sẽ hét lên điều gì đó như vậy với tôi[line=2]
+bg "bg/bg_34a",notrans,0
+\
+ld c,"tachi/aki_t10",crossfade,400
+`"@………."@
+` "... Huh?@"@
+` Cô ấy trông có vẻ buồn bã, nhưng cô ấy không nói gì cả.
+\
+`"Ừm…… Akiha?"@
+ld c,"tachi/aki_t11a",crossfade,400
+`"…… Anh trai, điều này có phải là một trò đùa xấu không?"@
+`"[line=6] Ừ......"@
+` Akiha nhìn tôi một cách yên lặng, như thể cô ấy đang nhìn thấu tận trái tim tôi.
+\
+`"Không...  à, làm sao tôi nói đây..."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Đó là một trò đùa, phải không?"@
+`"...Dù nó có nghe giống một trò đùa, nhưng..."@
+ld c,"tachi/aki_t02",crossfade,400
+`"[line=3] Không, chắc chắn đó là một trò đùa.@ Vì vậy, xin đừng nói những điều như thế trong tương lai, ngay cả khi đó chỉ là một trò đùa."@
+cl c,crossfade,400
+` Cô ấy nhìn chằm chằm vào tôi, dường như lo lắng hơn là giận dữ.
+\
+` Vì ánh nhìn của cô ấy quá nghiêm túc,
+`"...... Vâng."@
+` Tôi chỉ có thể gật đầu với cô ấy.
+\
+cl c,crossfade,400

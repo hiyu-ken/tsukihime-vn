@@ -1,0 +1,61 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_33b",notrans,0
+` [line=2]Đúng vậy.@
+` Dù có cố gắng thế nào đi chăng nữa, tôi cũng chẳng thể giấu nổi Hisui và chị Kohaku – những người chịu trách nhiệm quản gia cho cả tòa biệt thự này.@
+` Vậy nên, điều tối thiểu tôi có thể làm là thông báo trước cho họ việc mình sẽ ra ngoài vào mỗi đêm trong những ngày sắp tới.
+\
+`"…… Ừm, nói thật thì, bắt đầu từ tối nay có lẽ đêm nào tôi cũng sẽ ra ngoài một lúc.@ Tôi xin thề là mình không đi chơi bời lêu lổng hay làm chuyện gì xấu xa đâu.@ Akiha chắc sẽ ghét tôi lắm, nhưng tôi không thể dừng lại lúc này được."@
+br
+` Đúng vậy.@ Kẻ hút máu vẫn đang lẩn trốn đâu đó trong thị trấn này để săn lùng những nạn nhân vô tội.@
+` Là một người đang sống ở nơi đây, tôi không thể nhắm mắt làm ngơ như thể mình chưa từng nhìn thấy nó được.
+\
+`"[line=3]Tôi biết việc này sẽ gây phiền phức cho cậu, Hisui, nhưng xin cậu hãy nhắm mắt bỏ qua cho.@ Tôi cũng không biết mình sẽ về lúc mấy giờ, nên phiền cậu cứ để ngỏ cổng sau nhé."@
+`"Cậu chủ Shiki, ý cậu là cậu sẽ không tiết lộ lý do sao?"@
+`"…… Ừ, xin lỗi cậu nhé Hisui.@ Cậu cứ nghĩ tôi là kẻ hoàn toàn vô trách nhiệm cũng được, nhưng xin đừng hỏi sâu thêm.@ Tôi... không muốn phải nói dối cậu."@
+`"…… Dạ không.@ Cậu là chủ nhân của em.@ Một gia nhân không bao giờ khinh thường chủ nhân của mình như vậy đâu ạ."@
+` Cô ấy đáp lời một cách bình thản, gương mặt không chút biểu cảm.@
+` Cuộc trò chuyện kết thúc, tôi rảo bước trở lên phòng mình.
+\
+bg "bg/bg_46b",lcartain,800
+`"Xin cậu chủ hãy dừng bước."@
+ld c,"tachi/his_t04",lshutter,400
+`"…… Xin thứ lỗi cho sự thất lễ của em, nhưng mà..."@
+` Dứt lời, cô ấy siết nhẹ hai bàn tay lại, ngước đôi mắt chăm chú nhìn tôi.@
+ld c,"tachi/his_t01",crossfade,400
+`"Nếu cậu chủ Shiki muốn, em có thể giữ bí mật việc cậu ra ngoài ban đêm với tiểu thư Akiha."@
+`"[line=3]Eh?@ Ý cậu là, cậu sẽ không... nói cho em ấy biết sao?"@
+`"[line=3]Dạ vâng.@ Sau bữa tối, tiểu thư Akiha rất hiếm khi rời khỏi phòng mình.@ Chị em và em chịu trách nhiệm đi tuần tra ngay trước giờ tiểu thư đi ngủ, nên nếu em không nói ra sự thật, tiểu thư sẽ không thể biết được đâu ạ."
+\
+`"Vậy thì tốt quá rồi.@ Cứu tôi một bàn thua trông thấy đấy, nhưng…… như thế có ổn không?@ Akiha mới là chủ thuê của các cậu mà?"@
+ld c,"tachi/his_t04",crossfade,400
+`"Em đã nói rồi, cậu mới là chủ nhân của em, cậu chủ Shiki."@
+br
+` [line=3]Ừm…… Nghe vậy, tôi bỗng cảm thấy có chút vui sướng trong lòng.@
+` Dù lúc nào tôi cũng phải bảo cậu ấy bỏ cái đuôi "cậu chủ" (sama) đi, nhưng vào những khoảnh khắc thế này, tôi thấy mình thật may mắn làm sao.@ Làm sao tôi có thể không vui cho được chứ?
+\
+`"Được rồi[line=4]vậy thì trăm sự nhờ cậu giúp tôi nhé."@
+ld c,"tachi/his_t01",crossfade,400
+`"Vậy thì đêm nay xin cậu hãy đi bằng cửa sau nhé.@ Cổng trước sẽ được khóa kỹ, nhưng nếu cậu cầm chìa khóa này và đi qua lối vào dành cho gia nhân, cậu có thể tự do ra vào mà không bị ai phát hiện đâu ạ."@
+`"Ồ? Có cả lối đi riêng cho gia nhân cơ à?@ Thảo nào tôi chưa bao giờ thấy các cậu đi ra bằng cổng chính."@
+`"Dạ không, người duy nhất thường xuyên dùng lối đó là chị em thôi ạ.@ Chị ấy đang giữ chìa khóa, lát nữa em sẽ mang qua cho cậu."@
+cl c,lshutter,800
+` "Vậy em xin phép", cô ấy cúi chào rồi nhẹ nhàng rời đi.
+\
+`"[line=5]Tuyệt quá!"@
+` Sự trợ giúp đắc lực bỗng nhiên xuất hiện từ một hướng hoàn toàn không ngờ tới.@
+` Với chiếc chìa khóa này, có vẻ như tôi có thể giữ trọn lời hứa với Arcueid mà không cần phải lo lắng làm Akiha bận lòng nữa.
+\
+bg #000000,crossfade,800
+bg "bg/bg_40c",crossfade,800
+playstop
+` Sau bữa tối, tôi trở về phòng của mình.@
+` Lúc này trời đã gần mười giờ tối.@
+` Trong lúc tôi đang ăn cơm, Hisui đã lặng lẽ đặt chiếc chìa khóa lên bàn viết của tôi từ lúc nào.@
+br
+`"Now then[line=3]shall I go?"@
+` Cho chiếc dao găm vào túi áo, tôi khẽ khàng rời khỏi phòng một cách nhẹ nhàng nhất có thể.
+\
+bg #000000,crossfade,800
+!w2000

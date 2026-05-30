@@ -1,0 +1,59 @@
+play "*3"
+wavestop
+monocro #0000ff
+bg "bg/bg_29b",notrans,0
+cl c,notrans,0
+` Arcueid hớn hở ngước nhìn tôi đầy vẻ châm chọc trêu đùa.@
+\
+`"Ư……[line=4]"@
+` Em ấy bấy giờ đang hành xử y hệt như Arcueid quyến rũ trong giấc mộng đêm qua vậy.@
+br
+`"Chuyện đó chẳng liên quan gì đến em đâu, nên làm ơn mặc kệ anh đi."@
+` Tôi lập tức quay ngoắt mặt đi chỗ khác để từ chối trả lời.@
+` Nhưng Arcueid vẫn cứ bám riết lấy tôi, liên tục nài nỉ "Kể đi mà, kể đi mà," không chịu buông tha.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Kìa cậu, kể tôi nghe đi mà.@ Ít nhất cậu cũng phải cho tôi biết cậu đã mơ thấy ai chứ lị."@
+` Em ấy gặng hỏi với vẻ mặt tò mò phấn khích hệt như một đứa trẻ con.@
+` Cứ mỗi lần tôi quay mặt né tránh, em ấy lại nhanh nhảu nhảy tót ra trước mặt tôi chắn đường, miệng không ngừng mè nheo "Kể đi mà, kể đi mà."@
+br
+` …… Chuyện này quả thực là một cực hình tra tấn dã man đối với tôi.@
+` Cái sự tinh nghịch phá phách này của em ấy cũng y hệt như Arcueid trong giấc mơ đêm qua vậy.
+\
+` Tôi chỉ biết bất lực lấy hai tay che kín mặt mình lại.@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Này Shiki, đừng có im lặng giả vờ thế chứ, kể tôi nghe đi mà."@
+` Arcueid cứ dí sát mặt ngước đôi mắt long lanh to tròn nhìn chằm chằm vào tôi.@
+` [line=3]Thôi xong rồi, trời đất ơi.@
+` Tôi đã hoàn toàn chạm tới giới hạn chịu đựng của bản thân rồi.
+br
+`"…… Là em đấy."@
+` Tôi chỉ biết lí nhí thốt ra câu trả lời ngượng ngùng đó với giọng điệu vô cùng nhỏ nhẹ.
+\
+`"[line=3]Hửm?@ Về tôi là sao cơ?"@
+`"Đừng bắt anh phải tự miệng lặp lại chuyện đó lần thứ hai nữa.@ Anh bảo cái người ghé thăm anh trong giấc mơ đêm qua chính là em đấy!"@
+` Tôi giận cá chém thớt quát lớn lên một tiếng rồi lập tức quay ngoắt mặt đi.@
+` Đôi mắt Arcueid bấy giờ bỗng trố tròn xoe vì vô cùng kinh ngạc.@
+ld c,"tachi/ark_t13",crossfade,400
+`"Tôi… tôi sao……?"@
+`"Phải, không phải đùa đâu.@ Em đã ghé thăm anh, và rồi chúng ta[line=4]"@
+` Tuyệt đối không đời nào tôi dám mở miệng kể nốt cái đoạn nhạy cảm sau đó ra cả.
+\
+ld c,"tachi/ark_t10",crossfade,400
+playstop
+`"Ah……[line=4]"@
+` Lúc này đến lượt Arcueid bỗng luống cuống lảng tránh ánh mắt của tôi, gương mặt đỏ lựng lên trông vô cùng ngượng ngùng khó xử.@
+cl c,crossfade,400
+br
+`"………………"@
+`"………………"@
+` Cả hai chúng tôi bấy giờ chẳng ai biết phải mở lời nói thêm câu gì nữa.@
+` Bầu không khí bỗng chốc chìm vào một sự im lặng vô cùng ngượng ngùng và ngột ngạt.
+\
+` ……@
+` …………@
+` …………………@
+` …………………………@
+` ………………………………… *hắng giọng*@
+` Không thể chịu đựng nổi bầu không khí ngột ngạt này thêm một giây nào nữa, tôi đành phải giả vờ khẽ hắng giọng một tiếng.
+\

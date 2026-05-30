@@ -1,0 +1,308 @@
+bg "event/stk_e01a",notrans,0
+playstop
+wavestop
+` [line=4]Với điều này, mọi thứ kết thúc.@
+br
+` Tohno Shiki sẽ sớm biến mất, và tất cả sẽ kết thúc.@
+play "*7"
+bg "event/aki_e01",crossfade,800
+bg "event/stk_e01a",crossfade,800
+br
+`"[line=8]Ồ."@
+` Kết thúc... kết thúc rồi... có ổn không?
+\
+bg #000000,crossfade,400
+ld c,"tachi/aki_t17b",crossfade,400
+bg "event/stk_e02",crossfade,400
+br
+` ...Bạn sẽ quay lại, phải không?@
+br
+` Akiha nói vậy.@
+` Chị gái mà tôi bỏ rơi suốt tám năm qua.@
+` Cô bé tóc đen mà tôi chẳng làm gì được như một người anh trai.@
+br
+` [line=4]Luôn luôn,
+`   Tohno Akiha sống cô độc trong căn biệt thự đó.
+\
+`"[line=8]"@
+` Trước đây, tôi đối mặt với Yumizuka bằng con dao của mình để giải cứu cô ấy khỏi cái chết.@
+` Và giờ đây, tôi hy sinh mạng sống của mình để cứu cô ấy bằng chính mạng sống của tôi.@
+br
+` Nhưng...
+` Làm như vậy, ai mới được cứu?@
+` [line=4]Ít nhất đối với Tohno Shiki, điều đó không giúp được người mà cậu quan tâm nhất.
+\
+`"[line=4]Akiha."@
+br
+` ... Tôi không thể chết.
+\
+` Ngay cả khi tôi sai, tôi không thể chết lúc này.
+\
+`"[line=4]Yumi, zuka"@
+` Kiếm của tôi di chuyển.@
+` ... Dấu tuyến trên ngực cô ấy.@
+` [line=4]Dấu tuyến trên trái tim của cô gái tin vào bản thân mình, mong chờ sự cứu rỗi cuối cùng.
+\
+br
+br
+br
+br
+br
+br
+` ... Tôi đâm dao sâu vào đó.
+\
+bg #000000,lshutter,400
+bg "event/stk_e01b",lshutter,400
+`"[line=4]Shiki, kun?"@
+` Môi Satsuki co lại.@
+` Sức mạnh đó tan thành không gì cả.@
+br
+`"[line=4]Tôi xin lỗi. Tôi không thể giúp được bạn, Yumizuka."@
+br
+` Đây là cách duy nhất tôi có thể làm.@
+` Nếu cô ấy không thể thoát khỏi nỗi đau,
+` [line=4]Thì ít nhất tôi có thể cho phép cô ấy một cái chết không đau đớn.
+\
+bg "event/stk_e01c",crossfade,800
+`"[line=4]Tôi thấy... Tôi đã biết rồi... cậu không thể ở bên tôi, phải không Tohno-kun?"@
+` Giọng nói của cô ấy vô cùng bình yên.@
+` Giống như con đường về nhà vào buổi hoàng hôn hai ngày trước vậy.@
+`"Nhưng tôi vẫn vui. Ngay cả khi chỉ là một khoảnh khắc ngắn ngủi, cậu đã chọn tôi, Tohno-kun... Vâng, trong trường hợp này, có lẽ chết như vậy không quá tệ."@
+` [line=4]Tất cả nỗi đau đã tan biến, và những cảm xúc sợ hãi như biến mất bằng phép thuật.@
+` Tôi cảm thấy một luồng gió thổi chân tôi.@
+` Khi nhìn xuống,
+` Tôi thấy chân Yumizuka từ đầu gối trở xuống đã hóa thành tro.
+\
+`"[line=4]Và giờ đây, nó hơi ấm."@
+` "Ha ha, chắc hẳn đó là sự ấm áp của cậu, Tohno-kun."@
+` Cô ấy nói với nụ cười hạnh phúc.@
+br
+br
+br
+br
+` [line=6]Này nỗi hối tiếc thuần khiết,
+`     nó quá lớn, tôi muốn chết.
+\
+` [line=4]Tôi chuẩn bị bản thân.@
+br
+` Tôi đã chuẩn bị khi phản bội cô ấy, cho dù những lời căm ghét mà cô ấy có thể nói.@
+br
+` [line=4]Vậy tại sao?@
+br
+` Tại sao giọng nói bình yên, hạnh phúc này?@
+` Cô ấy thậm chí không trách tôi chút nào.
+\
+`"[line=4][line=4]Xin lỗi. Tôi vô lực. Tôi là kẻ yếu nhất."@
+` Mắt tôi đang cháy rực.@
+` Trong não tôi, thị lực của tôi lung lay.@
+`"Aha. Cậu Tohno, cậu đang khóc."@
+` ... Cậu thực sự rất tốt bụng. Sau khi tôi làm những việc kinh khủng này, cậu vẫn khóc vì tôi.@
+` ... Đúng vậy, điều tôi thích nhất ở cậu là điều đó.@
+` Tôi đã theo dõi cậu từ trung học, Tohno-kun[line=4]nên tôi luôn biết về mặt đó của cậu mà không ai khác biết.
+\
+` Giọng nói kiêu hãnh của cô ấy và cảm giác một thứ gì đó trôi đi trên gió.@
+` Cơ thể dưới của cô ấy không còn tồn tại nữa.
+\
+`"…… Tôi muốn nói chuyện thêm với cậu, Tohno-kun. Thông thường, chỉ là bạn học cùng lớp, để nói chuyện nhiều hơn. Vì vậy, tôi thực sự không muốn chết lúc này."@
+`"[line=6]"@
+` Tôi không thể nói gì được.@
+` Tôi không có từ ngữ nào để diễn tả cô ấy.
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Ở khoảnh khắc cuối cùng, cô ấy áp đầu vào trán tôi.
+\
+bg "event/stk_e01d",crossfade,400
+`"Nhưng, đây chắc chắn là cách tốt nhất. Vì vậy, đừng khóc, Tohno-kun. Cậu đã làm đúng."@
+` [line=3]Hãy mạnh mẽ lên, Tohno-kun. Cậu đã vượt qua thử thách.@
+` Cảm giác của con dao trở nên nhẹ nhàng hơn.@
+` Cơ thể của Satsuki không còn trái tim nữa.
+\
+`"Ồ, có vẻ như tôi sẽ không thể nói chuyện được nữa.@"@
+` Vậy thì nhà của tôi là thế này.@" Chào tạm biệt nhé."@"@
+`"[line=4]Yumi-zuka……!"@
+`"[line=3]Vâng, tạm biệt, Tohno-kun.@ Cảm ơn và xin lỗi."@
+br
+bg #000000,tshutter,800
+` Một tiếng gió thoảng.@
+br
+` Giống như tro bụi bay theo gió,
+` Yumizuka Satsuki hoàn toàn biến mất trước mắt tôi.
+\
+bg "bg/bg_31b",bshutter,800
+` Hình bóng của cô ấy tan biến như một ảo ảnh.@
+`"[line=6]"@
+` Chỉ còn lại cảm giác choáng váng này.
+\
+` Tôi đã giết cô ấy.@
+` [line=4][line=3]Tôi muốn cứu cô ấy — Tôi thậm chí còn nói rằng tôi sẽ cứu cô ấy— nhưng cuối cùng, tôi đã giết cô ấy để cứu chính mình.@
+br
+`"Một...[line=4]"@
+` Nhưng vẫn thế.@
+` Nhưng vẫn như vậy, dù sao đi nữa, cô ấy cũng nên gọi tôi là kẻ nói dối ngay cả ở giây phút cuối cùng.@
+` [line=4]Nếu cô ấy làm thế, tôi thực sự có thể đã trở thành một kẻ xấu, vậy tại sao lại không?
+\
+` Cảm ơn. Xin lỗi.@
+` Cô ấy không cần phải cảm ơn tôi. Không có lý do nào để xin lỗi.@
+`"[line=2]Tôi đã giết bạn."@
+` ... Nhưng vẫn, cô ấy cảm ơn tôi.@
+` Đó là lý do.@
+` Tôi thực sự muốn cứu cô ấy.
+\
+`"[line=6]"@
+` Cơ thể tôi như bị tê liệt, nhưng vẫn đứng vững.@
+` Tôi không thể suy nghĩ gì cả vào lúc này.@
+` Liệu tâm trí và cơ thể có phải hai thực thể riêng biệt?@
+` [line=4]Không suy nghĩ, tôi kéo mình đi ra khỏi con hẻm.
+\
+bg #000000,lcartain,1500
+playstop
+!w2000
+bg "bg/bg_33d",lcartain,800
+` Cánh cửa mở ra với âm thanh rắc rắc.@
+` Chắp vá những vết thương, tôi cuối cùng cũng trở về lâu đài.@
+ld c,"tachi/aki_t19c",crossfade,800
+`"[line=6]Ah..."@
+` Akiha đang đứng ở sảnh chính.@
+` Cô ấy có chờ đợi tôi suốt thời gian này không?@
+` …… Lúc này, tôi chẳng hiểu gì cả.
+\
+ld c,"tachi/aki_t23b",crossfade,400
+`"[line=4]Anh trai, anh đã làm gì suốt thời gian này? Anh nghĩ thời gian nào rồi?"@
+ld c,"tachi/aki_t15b",crossfade,400
+`"N, anh trai, em thấy anh như vậy[line=4]"@
+` …… Akiha sốc.@
+` Tại sao?@
+` Tôi thậm chí không muốn nghĩ về điều gì khiến cô ấy sốc như vậy.
+\
+ld c,"tachi/aki_t17b",crossfade,400
+`"Anh trai, cố gắng giữ vững tinh thần……! Thế giới này đã xảy ra chuyện gì vậy? Anh bị bao nhiêu vết thương, và…… anh trông khủng khiếp lắm."@
+`"………………"@
+` Tôi không nói gì cả. Không, tôi không thể nói gì cả.@
+` Tôi thậm chí không biết Akiha đang nói gì.@
+ld c,"tachi/aki_t23b",crossfade,400
+`"[line=6]"@
+` Akiha thở dài thầm lặng và sau đó tiến lại gần tôi.
+\
+`"Dù sao, tôi sẽ phải chăm sóc cậu. Anh trai, có thể đi bộ được không?"@
+`"………………"@
+` Vâng. Tôi vẫn còn sống, nên tôi có thể đi bộ.@
+`"[line=2]Tôi sẽ chăm sóc vết thương của bạn, nên hãy đến phòng khách đi. @ À, và hãy tắm — điều đó sẽ không thể, nên tôi sẽ phải lau bạn bằng nước ấm." @
+cl a,lshutter,800
+` Akiha biến mất với những bước chân nhanh chóng.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40d",lcartain,800
+` [line=4]Akiha tự mình chăm sóc tôi. @
+` Cô ấy lau cơ thể bẩn thỉu của tôi bằng khăn tắm, thậm chí còn làm thức ăn cho tôi và đưa tôi về phòng.@
+` Trong khoảng thời gian đó... Tôi không thể... nói ra một từ nào.
+\
+ld c,"tachi/aki_t12b",crossfade,400
+`"…… Sau đó tôi sẽ quay lại phòng của mình. @ Hãy nghỉ ngơi ngon giấc tối nay, anh trai." @
+` Không hề hỏi gì. @
+` Cuối cùng, cô ấy không hỏi gì và lặng lẽ bước đi. @
+br
+` Biến mất.@
+` Giống như... cô gái... mà tôi đã giết.@
+br
+` [line=4]Khi tôi nghĩ thế, tôi nắm lấy tay Akiha.
+\
+play "*9"
+bg "event/aki_e02",crossfade,800
+`"[line=2]Anh trai ơi!"@
+` Sau đó, tôi ôm lấy Akiha...
+` ...rất mạnh mẽ.@
+` Không thể ở một mình, tôi muốn cảm nhận sự ấm áp của một cơ thể khác.
+\
+`"[line=4]Akiha."@
+` Tôi ôm cô ấy mà không do dự.@
+` ... Akiha im lặng, không nói gì cả.@
+` Ngay cả khi cô ấy chắc chắn phải rút lui, cô ấy vẫn không chống lại cơ thể run rẩy của tôi.@
+` Như vậy[line=4], điều tôi muốn duy nhất là ở lại như thế này.
+\
+`"Tôi là kẻ tồi tệ nhất."@
+` Tôi thú nhận.@
+` Từ tội lỗi của tôi, tôi tìm đến Akiha để trốn thoát.@
+`"... Tôi muốn cứu cô ấy... Tôi muốn cứu cô ấy... nhưng tôi không thể làm gì cả."@
+` Tôi siết chặt Akiha như đang tìm kiếm sự cứu rỗi.@
+!w3000
+` Không có phản ứng nào từ Akiha.@
+` Như bị đẩy lui bởi sự yếu đuối của tôi, Akiha rút lui.
+\
+bg #000000,tshutter,400
+bg "bg/bg_40d",tshutter,400
+ld c,"tachi/aki_t11b",crossfade,800
+`"... Anh trai. Tôi không biết chuyện gì đã xảy ra với anh. Tôi nghĩ đó là điều tôi không nên hỏi."@
+`"[line=4]"@
+`"Tôi không thể cho bạn bất kỳ câu trả lời nào. Bạn phải tự giải quyết những vấn đề của mình."@
+` "[line=4]Xin đừng chạy đến tôi vì những chuyện như thế này."
+\
+` Lời của cô ấy thực sự rất chính xác.@
+` "Lời chỉ trích của cô ấy rất chính xác, cuối cùng tôi cũng trở lại với chính mình."
+\
+ld c,"tachi/aki_t01b",crossfade,400
+`"…… Xin lỗi. Chỉ xem như điều đó chưa từng xảy ra, được không?"@
+`"………`@
+cl a,lshutter,800
+` Akiha đi đến cửa mà không trả lời.@
+` Cô ấy cố gắng rời đi, nhưng đột nhiên dừng lại.
+\
+`"[line=4]Tôi sẽ không hỏi xem điều gì đã xảy ra.@"@
+ld c,"tachi/aki_t12b",lshutter,400
+` Nhưng khi cậu rời đi, tôi rất sợ hãi. Tôi cảm thấy như cậu sẽ không quay lại. Giống như tám năm trước, tôi cũng từng có cùng một linh cảm."
+\
+`"@[line=7]"@
+ld c,"tachi/aki_t25",crossfade,400
+`"Nhưng, cậu đã quay lại, anh trai ạ.@"@
+` …… Cậu nói rằng cậu không thể cứu ai đó. Nhưng ít nhất, cậu đã cứu tôi thoát khỏi linh cảm đó."
+\
+`"@[line=4]Vậy nên chào mừng cậu trở lại, anh trai ạ.@"@
+` "Chỉ có sự quay lại của cậu thôi cũng khiến tôi vô cùng hạnh phúc…… Vậy nên xin hãy ghi nhớ điều đó."@
+ld c,"tachi/aki_t09b",crossfade,400
+` Cô ấy ngượng ngùng nói và nhanh chóng cúi đầu.
+\
+`"Akiha[line=6]"@
+`"Đó là tất cả những gì tôi muốn nói."@
+ld c,"tachi/aki_t16b",crossfade,400
+` "... Tôi sẽ nói rõ ràng để anh trai chậm chạp của tôi có thể hiểu. Tôi đang nói xin đừng bỏ lại em gái nhỏ của mình một mình nữa."@
+`"[line=4]Ha, ha... Tôi hiểu rồi, tôi biết ý cô. Nhưng 'ngọt ngào'? Không đúng khi nói về bản thân như vậy, Akiha."@
+` Cuối cùng tôi cũng tìm được lời đáp.@
+` Nhưng ngay lập tức, Akiha mỉm cười khoe khoang.
+\
+ld c,"tachi/aki_t04b",crossfade,400
+`"Đúng vậy. Vậy thì gặp lại cô ngày mai. Chúc ngủ ngon, ngày mai sẽ là một ngày mới."@
+` "Tôi không cho phép cậu nhìn như thế vào ngày mai."@
+cl a,lshutter,800
+` Akiha rời đi.@
+` [line=4]Tôi ngắm nhìn cơ thể mình đầy vết thương, rồi ngã xuống giường.
+\
+`"[line=5]Haha."@
+` Đâu sâu.@
+` Như thể tôi đang nói lời tạm biệt với điều gì đó, tôi thở dài một cách sâu sắc.
+\
+`"[line=4]... Xin lỗi, Yumizuka. Tôi đã quyết định rằng cuối cùng tôi không nên nuối tiếc như vậy."@
+` ... Mọi thứ về chuyện xảy ra với cô ấy sẽ là một vết sẹo không thể phai mờ.@
+` Nhưng, tôi vẫn tin đó là điều đúng đắn để làm.@
+` Tôi biết đó là một tội lỗi, và tôi sẽ phải chấp nhận hình phạt của mình vào một ngày nào đó.@
+` Nhưng, tôi không thể có sự hối tiếc vì đang sống ngay lúc này.
+\
+`"... Tôi đã trở lại, Akiha."@
+` Tôi thầm thì lời cảm ơn chân thành nhất.@
+br
+` ... Tâm trí tôi bắt đầu lang thang.@
+` Trí óc và cơ thể mệt mỏi của tôi nhanh chóng chìm vào giấc ngủ.@
+br
+` Trong khoảnh khắc ấy, tôi nghĩ...
+br
+` Sống là điều tốt đẹp với tôi.@
+` Ít nhất, tôi có một nơi để quay về.@
+` [line=4]Và ở đó đang chờ đợi tôi là gia đình vô giá của tôi.
+\
+bg #000000,crossfade,800
+playstop
+!w3000

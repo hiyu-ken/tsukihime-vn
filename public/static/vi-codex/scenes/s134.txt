@@ -1,0 +1,56 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11a",notrans,0
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=4]Ồ."@
+` [line=2]Việc cô ấy nhìn chằm chằm vào tôi như vậy khiến tôi nhớ lại giấc mơ của mình.@
+`"Tohno-kun? Có chuyện gì vậy? Mặt cậu đỏ bừng lên."@
+`"Tôi... không có gì. Chỉ là tôi có một giấc mơ xấu. Tôi không cảm thấy tốt lắm."@
+` Tôi nghĩ mình rất trung thực khi nói rằng tôi không hoàn toàn cảm thấy ổn.
+\
+`"……… Tohno-kun?"@
+` Cô ấy nhìn tôi với biểu cảm vô cùng nghiêm túc.@
+`"…… Senpai……?"@
+` Tôi bối rối. Cảm giác như Senpai đang đọc suy nghĩ của tôi, và tôi nhớ lại càng nhiều về giấc mơ đêm qua.@
+ld c,"tachi/cel_t12",crossfade,400
+`"Tohno-kun, cậu nói là có một giấc mơ xấu. Ý nghĩa của điều đó là gì?"@
+`"Không có ý nghĩa nào cả, và cũng không phải việc của cậu. Đừng lo lắng về nó, và tôi hỏi cậu đang làm gì."
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Đó là việc của tôi! Tohno-kun, cậu không ngủ được đêm qua, phải không?"@
+`"[line=4]Ồ?"@
+` [line=2]Cô ấy đúng, nhưng...@
+`"... Senpai, làm sao bạn biết về điều đó?"@
+ld c,"tachi/cel_t12",crossfade,400
+`"Vì khuôn mặt bạn đỏ bừng lên. Tôi không biết bạn có ốm hay không, nhưng bạn trông không khỏe, Tohno-kun."@
+`"[line=2]Ồ, tôi hiểu rồi."@
+` Tôi bất ngờ trong khoảnh khắc ấy.@
+` [line=2]Cô ấy đã đoán đúng về đêm qua, nên tôi nghĩ...
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"... Về giấc mơ này, Tohno-kun. Xin hãy kể cho tôi biết loại giấc mơ nào đó."@
+` ... Senpai lại hỏi tôi một lần nữa, vì cô ấy chưa từ bỏ.@
+`"…… Đúng rồi. Không có gì to tát cả. Chỉ... À, cậu đã tham gia một chút thôi."@
+br
+` Tôi trả lời ngần ngại.@
+br
+` Bất ngờ,
+ld c,"tachi/cel_t10d",crossfade,400
+`"Tôi? Tôi đã tham gia à?"@
+` Cô ấy tức giận.
+\
+`"À... Cô ạ?"@
+ld c,"tachi/cel_t09b",crossfade,400
+`"... ..."@
+` Cô ấy nhanh chóng lùi lại và nhìn tôi chằm chằm.@
+`"………"@
+cl c,lshutter,800
+` Cô ấy trông như muốn nói điều gì đó thêm, nhưng chỉ gật đầu nhanh chóng và chạy đi.@
+\
+`"………?"@
+` Tôi nghiêng đầu, bối rối.@
+` Sau đó, chuông hiệu bộ vang vọng qua hành lang.
+\
+bg #000000,crossfade,800
+!w1000

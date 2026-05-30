@@ -1,0 +1,38 @@
+play "*1"
+wavestop
+bg "bg/bg_33b",lcartain,800
+ld c,"tachi/his_t01",crossfade,400
+`"Mừng cậu đã trở về, thưa cậu Shiki."@
+`"Tôi về rồi đây…… Hisui này, Akiha đâu rồi?"@
+`"Tiểu thư Akiha vẫn chưa trở về ạ.@ Vì tiểu thư có việc nên sẽ về trễ, chúng ta sẽ dùng bữa tối trước ạ."@
+`"……?"@
+` Giải quyết thủ tục giấy tờ sao.@
+` Trường học của Akiha có lẽ có vô vàn những quy định và thủ tục rườm rà, xét cho cùng thì đó cũng là một ngôi trường danh giá bậc nhất dành cho các tiểu thư khuê các mà.
+\
+`"Tôi sẽ về phòng nghỉ ngơi một lát, khi nào đến giờ ăn tối tôi sẽ tự xuống phòng ăn sau."@
+`"Vâng ạ.@ Vậy xin cậu hãy nghỉ ngơi cho đến khi em gọi nhé."@
+cl a,crossfade,400
+` Tôi quay lưng bước đi trong khi Hisui vẫn cúi đầu chào tiễn, hướng về phòng của mình.
+\
+bg #000000,tshutter,800
+!w2000
+bg "bg/bg_40c",rshutter,800
+br
+` [line=3]Dùng xong bữa tối ngon lành, tôi lặng lẽ ngồi bần thần trên giường ngủ.@
+br
+` Kim đồng hồ lúc này đã chỉ đúng chín giờ đêm.@
+` Vì gia quy nghiêm cấm việc tự ý rời khỏi biệt thự sau tám giờ tối, nên giờ tôi không thể ra ngoài được nữa.@
+`"…………"@
+` Cơ mà, đó rốt cuộc cũng chỉ là một quy tắc trên giấy tờ.@
+` Nếu tôi thực sự muốn đi, việc lẻn ra ngoài biệt thự lúc này chẳng phải chuyện gì khó khăn cả.
+\
+bg #000000,crossfade,400
+bg "event/stk_e03",crossfade,400
+br
+` [line=3]Tạm biệt nhé.@ Hẹn gặp lại cậu ở trường ngày mai nhé, Tohno-kun.
+\
+br
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` Tôi[line=3]
+\

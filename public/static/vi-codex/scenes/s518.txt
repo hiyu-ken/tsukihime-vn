@@ -1,0 +1,24 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Đây là buổi học cuối cùng trong ngày, nhưng chúng ta hãy giữ tâm trạng vui vẻ nhé.@
+` Vâng, vì đây là một câu chuyện dài, cậu có thể sẽ buồn ngủ, đói bụng, hoặc ngón tay cậu mỏi, nên hãy lên kế hoạch cho phù hợp để lịch trình và mức năng lượng của cậu cho phép cậu tiếp tục chơi.@
+br
+` Bây giờ, đã sau giờ học.@
+` Lý do thì rõ ràng rồi phải không?@
+` Nó khiến tôi khó chịu khi phải bảo vệ cô ấy, nhưng nếu cậu đã tiến đến đây, hãy tiếp tục đi cho đến cuối cùng!
+\
+` ... Dẫu vậy, có thể kết thúc như thế là hạnh phúc dành cho Tohno-kun.@
+` Có lẽ tiêu đề "Cream" định nghĩa mọi thứ.@
+` Thật sự nó làm xé rách dây tâm can.@
+br
+` Đây là kết thúc của buổi học hôm nay.@
+` Hẹn gặp lại vào ngày học thứ hai!
+\
+bg #000000,crossfade,800
+playstop

@@ -1,0 +1,155 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` [line=3]Dù vậy, tôi không thể phớt lờ Akiha để đi thẳng đến trường ngay được.@
+` …… Tôi vô cùng nóng lòng muốn tìm hiểu về Senpai ngay lập tức, nhưng trước tiên có lẽ tôi nên giải thích cho Akiha về chuyện đêm qua đã.
+\
+bg "bg/bg_34a",lcartain,800
+` Chỉ có một mình Akiha đang ngồi ở phòng khách.@
+` Chị Kohaku đang ở dưới bếp, vừa làm việc vừa khe khẽ ngân nga giai điệu gì đó.@
+ld c,"tachi/aki_t11a",crossfade,400
+`"……………"@
+` Nhìn thấy tôi bước vào, Akiha không nói một lời nào, chỉ im lặng nhấp từng ngụm trà.
+\
+`"Chào buổi sáng, Akiha."@
+` Kìm nén lại sự nóng ruột muốn chạy ngay đến trường, tôi lên tiếng chào hỏi con bé với vẻ tự nhiên nhất có thể.@
+` Chân mày Akiha khẽ nhướng lên, con bé đặt tách trà xuống đĩa rồi từ tốn ngước mắt nhìn tôi.
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Chào buổi sáng, anh trai.@ Đêm qua anh về nhà khá muộn đấy nhỉ?"@
+`"…… Đâu có, cũng bình thường mà em.@
+` Cùng lắm là mới qua một giờ đêm chút xíu thôi, đối với một nam sinh cấp ba khỏe mạnh bình thường thì giờ giấc đó cũng đâu có gì lạ, đúng không?"@
+`"Thế ạ.@ Giờ đi ngủ của em cũng là sau nửa đêm nên lúc đó em vẫn còn thức.@ Nhưng dẫu vậy, em vẫn sẽ trở về nhà sớm hơn thế rất nhiều."
+\
+`"Ừ thì, bình thường anh cũng về sớm hơn mà, đúng không?@ …… Chỉ là tối qua anh có chút việc riêng, nên mới ra ngoài một lát thôi[line=3]"@
+ld c,"tachi/aki_t03a",crossfade,400
+`"Mà không hề xin phép sao?@ Hành xử của anh trông chẳng khác nào kẻ đang lén lút làm chuyện gì đó mờ ám tội lỗi cả."@
+`"Ơ……"@
+` Ánh mắt con bé nhìn tôi lạnh ngắt như băng tuyết.@
+` …… Đây đã là lần thứ hai rồi, tôi thừa hiểu dẫu bề ngoài Akiha trông cực kỳ điềm tĩnh, nhưng thâm tâm con bé đang vô cùng tức giận.
+\
+`"[line=2]Anh trai.@
+` Em không biết khi ở nhà Arima thì thế nào, nhưng ở ngôi biệt thự này, giờ giới nghiêm là tám giờ tối.@ Đó là quy tắc tuyệt đối không được phép vi phạm.@
+` Sau giờ đó cổng ngoài sẽ bị khóa chặt, nên xin anh đừng có leo tường đột nhập vào như một tên trộm nữa."@
+`"Ủa...[line=4] em cũng biết chuyện đó sao?"
+\
+`"…… Camera giám sát của biệt thự đã ghi lại toàn bộ không thiếu một chi tiết nào đâu ạ.@
+` Cũng may là chị Kohaku đã nhận ra anh và kịp thời tắt hệ thống báo động đi, bằng không thì giờ này có lẽ anh đang bị còng tay giam giữ rồi đấy, Tohno Shiki."
+\
+`"…… Ồ.@ Vậy lát nữa tôi phải cảm ơn chị Kohaku mới được.@
+` Và... ừm, Akiha này, anh xin lỗi nhé.@ Đáng lẽ anh không nên lén lút giấu giếm em như vậy."
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"…… Nếu anh đã nhận thức được lỗi lầm thì tốt rồi.@ Từ nay về sau xin anh hãy nghiêm túc chấp hành giờ giới nghiêm.@ Lần này em sẽ tạm thời bỏ qua."@
+`"…… Về chuyện đó thì, Akiha này."@
+`"Có chuyện gì sao anh?"@
+`"…… Chuyện này hơi khó mở lời chút.@ Thực ra... đêm nay anh lại có việc phải ra ngoài.@ Anh cũng không chắc khi nào mình sẽ về, nhưng anh thề là không làm chuyện gì xấu xa đâu[line=3]"
+\
+ld c,"tachi/aki_t11a",crossfade,400
+`"[line=10]"@
+` Ánh mắt con bé lập tức đanh lại sắc lẹm.@
+`"Chị Kohaku!"@
+` Con bé đột ngột đứng phắt dậy.@
+cl c,lshutter,800
+` Chị Kohaku lập tức từ trong bếp tất tả bước ra phòng khách.
+\
+ld r,"tachi/koha_t03",lshutter,800
+`"Dạ, cô chủ gọi em có việc gì thế ạ?"@
+ld l,"tachi/aki_t11a",crossfade,400
+`"Chuẩn bị xe đi, tôi sẽ đến trường ngay bây giờ."@
+`"Dạ?@ Nhưng em vẫn chưa chuẩn bị xong bữa sáng cho cậu Shiki mà."@
+ld l,"tachi/aki_t06",crossfade,400
+`"Kệ xác người này đi chị.@ Xem ra anh ta giỏi giang tự lo được mọi việc cho mình rồi đấy."@
+cl l,lshutter,400
+` Nói rồi, Akiha lạnh lùng sải bước đi thẳng ra sảnh chính biệt thự.
+\
+`"Chị Kohaku khẽ thở dài đầy ái ngại.@
+`"…… Cậu Shiki này, cậu không nên làm cô Akiha giận đến mức đó chứ.@ Cậu là anh trai của cô ấy, nên xin hãy đối xử dịu dàng với cô ấy hơn một chút nhé?"@
+` Nhắn nhủ xong, chị vội vã rảo bước đuổi theo Akiha.@
+cl r,lshutter,800
+` Tách trà trên bàn vẫn còn nghi ngút khói.
+\
+` ……………… *Thở dài*@
+` Tôi tự biết đều là do lỗi của bản thân mình cả, xem ra hôm nay tôi phải nhịn bữa sáng rồi.@
+` Dẫu vậy, nghĩ theo hướng khác thì thế này cũng có chút tiện lợi.@
+` Bây giờ mới chỉ có bảy giờ đúng.@
+` Nếu tôi lập tức chạy bộ đến trường lúc này, chắc chắn sẽ tới nơi vào khoảng bảy giờ rưỡi[line=4]
+\
+bg #000000,lcartain,1500
+bg "bg/bg_01a",lcartain,1500
+` Tôi đã chạy đến trước cổng trường.@
+` Lúc này mới là khoảng bảy giờ rưỡi sáng.@
+br
+`"…………"@
+` Tôi đứng tựa vào bờ tường bên cổng để chờ đợi Senpai.@
+` Hình ảnh một nam sinh đứng lóng ngóng chờ đợi thế này trông có vẻ hơi kỳ quặc trong mắt những học sinh khác đang đi ngang qua, nhưng tôi cũng chẳng buồn bận tâm.
+\
+!w7000
+`"……………"@
+` Nhưng tuyệt nhiên bóng dáng Senpai vẫn chưa xuất hiện.@
+` Cổng trường bắt đầu ngập tràn trong dòng học sinh hối hả bước vào lớp.
+\
+!w5000
+` Chỉ còn chưa đầy năm phút nữa là cổng trường sẽ đóng chặt.@
+` Thế mà bóng hình Senpai vẫn hoàn toàn bặt vô âm tín.
+\
+`"………"@
+` Chị ấy[line=3]có lẽ hôm nay sẽ không đến trường nữa rồi.@
+` Những sự việc khủng khiếp tối qua tôi đã tận mắt chứng kiến hết cả, thế nên rất có thể chị ấy sẽ không bao giờ đến đây nữa, hôm nay, ngày mai hay bất cứ ngày nào sau đó nữa[line=3]
+br
+` [line=3]Thịch.@
+br
+`"……… Hộc."@
+` Vừa nghĩ đến viễn cảnh u ám ấy, đầu óc tôi bỗng nhiên chao đảo dữ dội.@
+` Tôi vội vàng lắc mạnh đầu để xua đi những suy cách tồi tệ đó ra khỏi tâm trí.
+\
+` …… Ngay lúc ấy,
+` có ai đó nhẹ nhàng vỗ vai tôi từ phía sau.@
+br
+ld c,"tachi/cel_t07a",lshutter,400
+`"Tohno-kun, em đứng ngơ ngẩn làm gì ở đây thế?"@
+`"Se, Senpai……!?"@
+`"Là chị đây."@
+` Senpai khẽ mỉm cười gật đầu.
+\
+`"T, thực sự là chị sao……!?@ Nhưng chuyện tối qua, rõ ràng chị đã[line=3]"@
+`"Ưm.@
+` Chưa kịp để tôi dứt câu, Senpai đã vội vàng áp tay che chặt miệng tôi lại.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Tohno-kun, đừng nói chuyện ở đây.@ Đi theo chị ra sau nhà thể chất nào."@
+`"Senpai vẫn nở nụ cười hiền hậu dịu dàng như thường lệ, vừa giữ chặt tay trên môi tôi vừa nắm lấy cánh tay tôi kéo đi.@
+cl c,lshutter,400
+`"Ư, ư...!"@
+` Tôi cố ú ớ bảo chị ấy dừng lại, nhưng chẳng thể phát ra âm thanh nào ra hồn.@
+` She forcefully pulls me away.
+\
+bg #000000,lcartain,800
+bg "bg/bg_05a",lcartain,800
+play "*3"
+wave se_03
+` [line=4]Chị ấy lôi tuột tôi đi với một sức mạnh đáng kinh ngạc.
+!w5000
+` Tiếng chuông trường vang vọng phía trên đầu.@
+` …… Giờ tự học sáng đã bắt đầu rồi.@
+br
+ld c,"tachi/cel_t07a",crossfade,400
+` Hơn thế nữa, xung quanh tuyệt đối không có bóng dáng một ai qua lại cả.
+`"Được rồi, ở đây chắc chắn sẽ không có ai nghe thấy chúng ta nói chuyện đâu."@
+` Senpai cuối cùng cũng chịu buông tôi ra.@
+\
+` Nhảy lùi lại một bước phòng thủ, tôi đứng thẳng đối diện nhìn trực diện chị ấy.
+`"Em muốn hỏi chị về chuyện đêm qua đúng không?@ Nếu có gì muốn chất vấn, em cứ tự nhiên nói ra đi, Tohno-kun."@
+` Senpai thản nhiên cất lời bằng chất giọng vô cùng bình tĩnh.@
+` Cứ như thể tấn bi kịch đẫm máu xảy ra tối qua chỉ là một chuyện vặt vãnh không đáng bận tâm vậy.@
+`"……………!"@
+` Thế nhưng với tôi, chuyện đó lại cực kỳ hệ trọng.@
+\
+` Thái độ dửng dưng thờ ơ lúc này của chị ấy thực sự khiến lồng ngực tôi dâng trào ngọn lửa giận dữ.
+`"Vậy ra người đêm qua... thực sự chính là chị sao……!?"@
+cl c,crossfade,400
+`"Phải.@ Lúc ấy chính miệng chị cũng đã gọi tên em rồi mà, nên giờ có muốn giấu giếm thêm cũng vô ích thôi."@
+`"…………!"@
+` [line=3]Tôi cắn chặt răng.@
+\

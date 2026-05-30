@@ -1,0 +1,23 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11a",notrans,0
+ld c,"tachi/cel_t03",crossfade,400
+`"Tohno-kun, cậu có ngủ ngon đêm qua không?"@
+`"Ồ?"@
+` Cô ấy nhìn thẳng vào mắt tôi khi hỏi.@
+cl c,crossfade,400
+` [line=2]... Ngủ ngon? Đó là điều hiển nhiên. Tôi không thể ngủ dễ dàng đêm qua, và cũng...
+\
+`"Ừm..."@
+` Tôi đỏ mặt khi những ký ức lại xuất hiện.@
+` Với ánh nhìn sắc bén, Senpai nhìn lên tôi.@
+`"[line=2]Senpai, um..."@
+ld c,"tachi/cel_t08",crossfade,400
+`"Tohno-kun, cậu thật là kỳ quặc."@
+`"Hả?"@
+cl c,lshutter,800
+` Với vẻ mặt muốn nói thêm điều gì đó, Senpai nhanh chóng bước đi.
+\
+bg #000000,crossfade,800
+!w1000

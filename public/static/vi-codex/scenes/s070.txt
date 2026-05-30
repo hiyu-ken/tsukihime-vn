@@ -1,0 +1,38 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+` À, Akiha. Nếu tôi nhớ không nhầm thì cô học ở Trường Nữ sinh Asagami, phải không?@
+ld c,"tachi/aki_t01a",crossfade,400
+` [line=3]Đúng vậy. Trường Nữ sinh Asagami dạy từ trung học đến đại học.@
+` Nhìn Akiha như đang hỏi: 'Vậy sao?'@
+` À, vậy là trường nội trú cho nữ sinh phải không? Tôi thắc mắc tại sao cô lại đi học từ nhà chứ không ở trong ký túc xá?@
+` Bố và ông Asagami là bạn bè nên ông ấy chiều theo tôi. Có điều khoản cho phép học sinh được học từ nhà trong một số trường hợp.@
+` Akiha trả lời rất ngắn gọn.
+\
+` Không, đó không phải là điều tôi muốn hỏi. Cô sống ở ký túc xá cho đến khi ông già qua đời, phải không? Tại sao cô mới bắt đầu đi học từ nhà bây giờ?@
+` Eh[line=4]@
+ld c,"tachi/aki_t16a",crossfade,400
+` Cô giữ lời lại và nhìn sang một bên.@
+cl c,crossfade,400
+\
+ld c,"tachi/his_t01",crossfade,400
+` Shiki-sama, Akiha-sama đã truyền thống dành nửa tuần ở đây mỗi tuần. Việc cô đi học từ nhà đến trường là điều không bình thường.@
+` À, thật vậy?@ Nghe có vẻ vất vả.@ Trường Nữ sinh Asagami ở quận bên cạnh phải không?@ Không phải dễ dàng hơn cho cô sống trong ký túc xá thay vì phải về biệt thự liên tục?
+\
+cl c,crossfade,400
+ld c,"tachi/aki_t01a",crossfade,400
+` “...... Vâng, cậu có thể đúng. Nhưng đó là điều Bố muốn, nên tôi dành nửa tuần ở đây.”`@
+` Ừm… nhưng ông già đã không còn nữa, nên cậu không nhất thiết phải ép buộc bản thân, phải không? Đời sống ký túc xá dường như thú vị đấy, sau cùng.`@
+ld c,"tachi/aki_t18a",crossfade,400
+` “Nếu dễ như vậy thì tôi chẳng bận tâm đâu. Nhưng nếu để cậu một mình, ai biết chuyện gì sẽ xảy ra với cậu chứ? Về chuyện hôm qua, tôi vẫn phải đến trường từ trong biệt thự cho đến khi nào được yên tâm.`@
+` [line=3]Một điều nữa, anh trai...@
+ld c,"tachi/aki_t01a",crossfade,400
+` Cô chỉnh lại tư thế rồi nhìn thẳng vào tôi.
+\
+` “…. À… vâng?”`@
+` “Nhà ở tại Học viện Nữ sinh Asagami không phải là ký túc xá. Đó là nhà trọ. Hãy nhớ kỹ lần sau.”`@
+cl c,crossfade,400
+` Lời Akiha như được bao bọc bởi những gai nhọn.`@
+` Trên thực tế, ngày đầu tiên trở lại tôi bị chúng đâm rất nhiều lần, nhưng sáng nay có vẻ chúng đang buồn bã.`
+\

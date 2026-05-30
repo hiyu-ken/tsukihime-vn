@@ -1,0 +1,63 @@
+playstop
+wavestop
+monocro off
+bg "bg/bg_29b",crossfade,800
+play "*1"
+`"Ah……[line=3]đèn đường bỗng nhiên sáng trở lại kìa."@
+` Những ngọn đèn chiếu sáng tối om lúc nãy bấy giờ bỗng chớp nháy rồi sáng rực trở lại.@
+` Không gian công viên vừa rồi vốn chỉ được chiếu rọi bởi ánh trăng mờ ảo bấy giờ đang dần trở nên sáng sủa rõ ràng hơn.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Xem ra người phụ nữ đó đã chủ động dỡ bỏ kết giới ranh giới (boundary) của cô ta rồi.@ Cái kết giới đó vốn để ngăn chặn người thường vô tình bước vào công viên, thế mà chẳng hiểu sao cậu lại có thể đi qua lọt vào đây một cách dễ dàng như thế được nhỉ."@
+`"Hửm?@ Ý em bảo vụ mất điện tắt hết đèn đường lúc nãy là do một tay Senpai làm sao?"@
+ld c,"tachi/ark_t03",crossfade,400
+`"Phải, đó là một thủ thuật chuyên môn của bên Giáo Hội nhằm xua đuổi người thường tránh xa khỏi khu vực chiến sự.@ Chuyện đó thực chất chẳng liên quan gì đến tụi mình đâu."@
+ld c,"tachi/ark_t06",crossfade,400
+`"Mà nhân tiện đây Shiki này.@ Tôi muốn hỏi cậu một câu thật lòng, cậu thực chất nghĩ thế nào về cô ta Ciel?"@
+` Bằng một giọng điệu bỗng chốc trở nên lạnh lùng đanh thép, Arcueid đột ngột cất tiếng hỏi tôi.
+\
+`"…… Về Senpai sao?@ …… Tại sao tự dưng em lại hỏi chuyện đó, Arcueid?"@
+`"Ồ chẳng có gì đâu.@ Chỉ là tôi vô cùng căm ghét người phụ nữ đó.@ Đáng lẽ ra hai bên gặp nhau là để trao đổi thông tin vụ án, thế mà nói chuyện được dăm ba câu tôi thấy ngứa mắt quá thế là hai đứa đâm ra huyết chiến định lấy mạng nhau luôn."@
+`"[line=3]H-huyết chiến định lấy mạng nhau á…… tại sao chuyện lại thành ra nông nỗi điên rồ đó chứ!?@ Vả lại ngay từ đầu, Senpai đâu phải là ma ca rồng xấu xa hại người.@ Tại sao em lại định sát hại Senpai chứ hả?"
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Đó phải là câu tôi nói mới đúng chứ.@ Cô ta mới chính là kẻ ra tay tấn công trước cơ mà!"@
+`"[line=4]Hả?"@
+br
+` …… Người chủ động ra tay khơi mào trận chiến trước, thực sự lại là Senpai sao……?@
+br
+ld c,"tachi/ark_t04",crossfade,400
+`"Đúng thế còn gì.@ Cô ta lạnh lùng bảo 'Tôi thừa biết chuyện này là vô nghĩa, nhưng tôi tuyệt đối không thể dung thứ cho sự tồn tại của loại ma ca rồng như cô', rồi lập tức vung kiếm lao vào định lấy mạng tôi luôn.@ Cô ta bề ngoài trông có vẻ điềm đạm hiền lành thế thôi, chứ thực chất toàn bộ đám đặc vụ của Cục Mai Táng đều là những kẻ cuồng chiến thích đâm chém đao kiếm cả đấy.@ Cậu tuyệt đối đừng để bộ dạng hiền dịu đó đánh lừa nhé Shiki."@
+`"Cái gì cơ……[line=5]"@
+br
+` Cuồng chiến thích đâm chém sao?@ Senpai mà tôi biết thực sự lại có bộ mặt đáng sợ đến thế sao[line=3]
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"[line=3]Shiki này.@ Cậu bấy lâu nay vẫn luôn bị cô ta dắt mũi lừa gạt đúng không?@ Vậy thì tại sao lúc này cậu lại cứ mở miệng nói đỡ nhằm bảo vệ cho cô ta thế hả?@
+` Cậu có biết là cô ta đã lợi dụng sự ngây thơ không biết gì của cậu để đóng kịch giả vờ làm một con người bình thường bên cạnh cậu không.@ Bị người ta lừa gạt dắt mũi như thế, cậu không cảm thấy tức giận chút nào sao?"@
+` Arcueid nheo mắt, chăm chú nhìn thẳng vào mắt tôi đầy thù địch.@
+`"……………"@
+` Chuyện đó,
+` quả thực việc biết được thân thế thực sự của Senpai hoàn toàn khác biệt so với một người bình thường khiến tôi vô cùng chấn động, cũng giống như cảm giác chấn động khi biết về Arcueid vậy.@
+` Thế nhưng, tôi tuyệt nhiên không hề có chút cảm giác oán hận nào là mình đã bị chị ấy lừa gạt cả.@ Ngược lại, từ trước đến nay, Senpai đã dang tay giúp đỡ và cứu mạng tôi biết bao nhiêu lần rồi.
+\
+`"Anh……[line=4]"@
+` …… Cho dù hiện tại đã biết rõ thân phận thực sự của Senpai đi chăng nữa, thì trong lòng tôi, chị ấy vẫn mãi là một người chị Senpai đáng kính.@
+` Cùng nhau ăn trưa dưới mái trường, cùng nhau tán gẫu dăm ba câu chuyện phiếm ngớ ngẩn với thằng cha Arihiko, rồi cùng nhau thong thả đi bộ ra cổng trường, tất cả những khoảng thời gian bình dị đó thực sự vô cùng vui vẻ.@
+` Thế nên[line=3]nếu có thể,
+` giá mà tôi cứ mãi mãi ngây thơ không bao giờ phát giác ra sự thật đáng sợ này về chị ấy thì tốt biết mấy.
+\
+ld c,"tachi/ark_t05b",crossfade,400
+`"Shiki.@ Rốt cuộc cậu đứng về phía phe nào hả, tôi hay là người phụ nữ đó đây?"@
+` Tôi bỗng cảm nhận được một luồng áp lực vô hình đè nặng lên lồng ngực.@
+` Nguồn cơn của luồng áp lực đó chính là đôi mắt của em ấy.@
+` Ánh mắt bấy giờ của Arcueid không còn chút hơi ấm nhân tính nào nữa, mà lạnh lùng hoang dã hệt như một con dã thú đang khóa chặt con mồi của mình.@
+` Xem ra, đối với Arcueid thì Ciel-senpai là một kẻ thù truyền kiếp tuyệt đối không thể nào dung thứ được.@
+` Chính vì thế, em ấy mới nhìn tôi bằng đôi mắt tràn ngập sát khí dữ tợn và thù địch đến đáng sợ như thế.@
+` Như thể muốn cảnh cáo tôi rằng, nếu tôi dám đứng về phía kẻ thù của em ấy, thì tôi cũng sẽ lập tức trở thành kẻ thù không đội trời chung của Arcueid vậy.
+\
+`"…… Arcueid……"@
+` Tôi nghẹn họng, hoàn toàn gặp khó khăn trong việc đưa ra câu trả lời.@
+` Tôi[line=3]
+br
+cl c,crossfade,400

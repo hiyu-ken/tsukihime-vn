@@ -1,0 +1,46 @@
+play "*6"
+wavestop
+monocro #0000ff
+bg "bg/bg_33d",notrans,0
+` [line=4]Liệu... đó có phải là cánh tây ở tầng một?
+\
+bg #000000,lcartain,400
+bg "bg/bg_39",lcartain,400
+` ... Ánh sáng tắt hết, tôi không thể nhìn rõ chi tiết căn phòng.@
+` Nhưng ngay lập tức, tôi biết đó không phải là phòng của Akiha.
+\
+`"Đây là phòng của Kohaku-san......!"@
+` Tôi đá mạnh xuống mặt đất trong bóng tối.@
+` Khi nghĩ lại, phòng của Akiha nằm ngay đối diện với phòng tôi. Đúng hơn, nó ở cuối hành lang phía đông trên tầng hai.@
+`"Ôi trời!"@
+` Khi quay lại để ra khỏi phòng và đi xuống hành lang, tôi nhìn thấy một thứ gì đó nằm trên sàn.@
+`"Hả?"@
+` Tôi chớp mắt trong bóng tối.@
+` [line=4]Tôi nhìn thấy hình ảnh của Hisui ngã xuống sàn.
+\
+`"[line=4]Hisui ơi?!"@
+` Tôi gọi tên cô ấy và chạy đến bên cô ấy.@
+`"…… Mnh."@
+` Hisui không trả lời.@
+` Cô ấy chỉ yên bình thở ra trong giấc ngủ.@
+`"Cô ấy có phải đang ngủ?"@
+` Tôi không thể tin được, nhưng dường như vậy.@
+` Hisui không có vẻ đau đớn. Cô ấy thực sự trông giống như đang ngủ.@
+` Chỉ có một chiếc cốc trà đổ ngược trên bàn với nội dung tràn ra.@
+` Giải thích đơn giản nhất là có thuốc ngủ pha vào trà của cô ấy và cô ấy đã ngủ thiếp đi.
+\
+`"[line=4]Kohaku-san không có ở đây sao?"@
+` Người duy nhất nằm ngổn ngang trong phòng là Hisui.@
+` [line=4]... Hisui dường như chỉ đang ngủ, nên tôi phải đảm bảo Akiha an toàn.
+\
+bg #000000,lcartain,400
+` ... Tôi chạy lên cầu thang.
+\
+` Không khí nóng bức và cảm giác bất an tựa như tấm kính đen bao trùm đêm tối.@
+br
+` [line=4]*Hít vào, thở ra, hít vào...*@
+br
+` Hít thở nặng nhọc, tôi đến đỉnh cầu thang và đi dọc hành lang...@
+` ... Đau lưng tôi thắt lại.@
+` Cảm giác khủng khiếp trong không khí càng lúc càng nặng nề khi tôi tiến gần đến phòng của Akiha.
+\

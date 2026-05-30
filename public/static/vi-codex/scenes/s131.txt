@@ -1,0 +1,36 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_06a",notrans,0
+` Cô ấy có đang tìm ai đó trong hành lang không? Senpai bước đi lại và lại.@
+` …… Khi nhìn bình thản, cô ấy trông chẳng có liên quan gì đến lớp học của tôi cả.
+\
+`"…… Như thường lệ, tôi hoàn toàn không hiểu cô ấy. Chuyện gì vậy?"@
+` Tôi ngồi vào ghế và quan sát cô ấy.@
+` Senpai đan hai tay như đang suy nghĩ về điều gì đó, và nhìn chằm chằm vào học sinh đi qua.
+\
+`"Có lẽ cô ấy làm rơi thứ gì đó."@
+` Một học sinh năm thứ ba để rơi thứ gì đó trên hành lang năm thứ hai nghe có vẻ kỳ lạ, nhưng đây là người cố vấn luôn lang thang mà chúng ta đang nói đến.@
+br
+` [line=4]Ồ?@
+` Người cố vấn đột nhiên bước vào lớp học của tôi.@
+` Cô ấy tiến về phía tôi một cách tự tin.
+\
+ld c,"tachi/cel_t10a",lshutter,400
+`"Tohno-kun!"@
+`"?"@
+` Và cô ấy đột nhiên la mắng tôi.@
+`"Làm sao thế, cố vấn? Tôi không làm gì sai để khiến cô ấy tức giận."@
+`"Không có lý do gì cả. Chỉ đến đây thôi."
+\
+bg #000000,lcartain,800
+bg "bg/bg_11a",lcartain,800
+` Cô ấy kéo tay tôi và lôi tôi ra hành lang.@
+`"Hả? Này, Senpai, đột nhiên bạn làm gì vậy? Bạn không phải đang tìm thứ gì à?"@
+ld c,"tachi/cel_t10a",crossfade,400
+`"Đừng lo, chỉ đứng yên ở đó!"@
+cl c,lshutter,800
+`"... "@
+` Dưới sự tập trung mạnh mẽ của Senpai, tôi nhanh chóng đứng thẳng người. Và giống như ngày hôm qua, Senpai bắt đầu ngửi tôi.@
+`"... À, Senpai..."
+\

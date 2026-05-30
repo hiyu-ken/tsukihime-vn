@@ -1,0 +1,550 @@
+playstop
+wavestop
+bg "bg/bg_33b",notrans,0
+` [line=4]Tôi sẽ đến phòng của bố tôi.@
+` Tôi không thể chắc rằng mình mong đợi tìm thấy điều gì, nhưng có lẽ tôi có thể điều tra một số thông tin về dòng dõi Tohno.
+\
+bg #000000,lcartain,800
+bg "bg/bg_41",lcartain,800
+play "*3"
+ld c,"tachi/his_t01",lshutter,800
+`"[line=3], ... Chào mừng trở lại, cậu Shiki."@
+` ... Và.@
+` Có ai đó đã ở trong phòng của lão già.@
+` Hisui đặt xuống đống sách mà cô đang mang và cúi đầu.@
+`"[line=5]Hisui."@
+` ... Cô ấy trông vẫn như mọi khi.@
+` Tôi cảm thấy không thoải mái khi nhìn thấy cô ấy vì buổi sáng nay, nhưng dường như cô ấy đã vượt qua điều đó từ lâu.
+\
+`"[line=3]Tôi xin lỗi vì không thể chào đón bạn sớm hơn. Tôi có thể giúp gì cho cậu?"@
+`"Không, tôi chỉ nghĩ là tôi sẽ đi xem quanh phòng của bố tôi."@
+` "Nếu tôi không cản đường, tôi có thể ở lại một lúc được không?"@
+`"…… Vâng, nhưng Hoàng tử Akiha có chìa khóa cho những kệ và ngăn kéo bị khóa, nên tôi không thể mở chúng.  @ Điều này được chấp nhận sao?"@
+`"Đóng khóa?... Không sao cả. Tôi chẳng tìm kiếm điều gì cụ thể cả."@
+`"[line=7]['dòng=7']?"@
+` Hisui nghiêng đầu, nhìn với vẻ thắc mắc.
+\
+`"Tôi chỉ muốn xem xung quanh một chút, nên xin hãy tiếp tục. Tôi không muốn trở thành rào cản của cậu."@
+ld c,"tachi/his_t16",crossfade,400
+`"Như ý bạn.@ Vậy thì, nếu bạn cần điều gì đó, hãy gọi cho tôi."@
+cl c,crossfade,400
+` Hisui tiếp tục dọn dẹp phòng.@
+` [line=5]Vậy thì.@
+` Tôi cũng nên bắt đầu.
+\
+bg #000000,tshutter,800
+bg "bg/bg_41",bshutter,800
+` …… Tôi dành chút thời gian tìm kiếm trên kệ sách, nhưng nhận ra điều đó vô ích.@
+` Các kệ sách đều đầy ắp sách, nhưng không có gì về gia tộc Tohno.@
+` Điều tôi muốn thấy là thứ giống như phả hệ của gia đình tôi hoặc nhật ký của cha tôi.@
+`"…… Tôi đoán những thứ như vậy ở đây……"@
+` Tôi kéo các ngăn kéo đến bàn làm việc của bố tôi.@
+` Tôi cảm thấy nó bắt đầu chuyển động.@
+`"... Nhưng chúng bị khóa..."@
+` Nếu tôi muốn chìa khóa, tôi phải cất tiếng đối thoại với Akiha. ... Nhưng theo những gì Hisui nói, tôi không nghĩ cô ấy sẽ mở chúng cho tôi.
+\
+`"[line=5]"@
+` Có một chiếc mở thư trên bàn.@
+` Thật thuận tiện.@
+` ... Vậy thì, tốt nhất là tôi nên sử dụng những gì được ban cho tôi.@
+` "... ..."@
+`"Tôi hạ thấp đôi kính một chút và nhìn lên bàn.@
+` Ở đó.@
+`"[line=5] Đúng rồi."@
+` Không một âm thanh nào, tôi mở khóa.
+\
+`"[line=3]Ừm... chỉ có vài tờ giấy thôi."@
+` Bên trong ngăn kéo chỉ chứa một đống giấy cũ.@
+` Tôi nhặt lên một tờ.@
+br
+`"[line=3]Đây là gì?"@
+br
+` Chữ viết tay khó đọc.@
+` Đôi mắt tôi dừng lại ở những tên: Tohno MAKIHISA, sau đó là Tohno SHIKI và Tohno AKIHA.@
+` Và tiếp theo...
+` Tôi thấy một cái tên không quen thuộc: Nanaya.
+\
+playstop
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_41",crossfade,400
+` [line=7]Bỗng dưng.@
+` Bất ngờ nào, tôi nhìn thấy hình ảnh của một khu rừng tối.@
+br
+bg #000000,crossfade,800
+bg "bg/bg_41",crossfade,800
+play "*6"
+`"[line=4]À"@
+` Hình ảnh của tôi mờ đi.@
+` Tôi cảm nhận được máu dâng lên gáy.@
+` Sức mạnh chảy khỏi cơ thể tôi, và tôi cảm thấy như không thể thở được.
+\
+bg #000000,crossfade,400
+wave se_01
+bg "bg/bg_41",crossfade,400
+` [line=4]Tại sao?@
+` Tại sao đột nhiên tôi lại khó thở như vậy?@
+` Không có chuyện gì xảy ra cả.@
+` Tôi không nhìn thấy gì.@
+` [line=3]Vậy tại sao tôi lại run rẩy như một đứa trẻ nhỏ?
+\
+ld c,"tachi/his_t12",lshutter,800
+`"cậu Shiki……!"@
+` Hisui…… Hisui chạy đến gần tôi.@
+` [line=3]Đặt tay lên kệ sách, tôi cố gắng giữ thăng bằng.
+\
+ld c,"tachi/his_t07",crossfade,400
+`"cậu Shiki! Hãy cố chịu đựng, cậu Shiki……!"@
+` Giọng Hisui đầy lo lắng.@
+` Nhưng bàn tay cô không chạm vào tôi.@
+`"Tôi ổn[line=3]Chỉ hơi choáng váng một chút."@
+ld c,"tachi/his_t08",crossfade,400
+`"cậu Shiki, xin đừng quá sức.@ Hãy ngồi xuống và nghỉ ngơi đi."@
+`"... Vâng... Tôi ổn, nên[line=3]"@
+` Tôi cố gắng giữ ý thức.@
+` Nhưng tôi vẫn choáng váng.@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_41",crossfade,400
+` Trong tầm nhìn đỏ đen mờ nhạt của tôi.@
+` Trắng.@
+` Tôi nhìn thấy cổ cô ấy nóng bỏng một cách đáng sợ.
+\
+wave se_01
+`"[line=5]Ôi."@
+` Tôi bị thu hút.@
+` [line=4]Nếu cơ thể tôi có thể di chuyển bình thường, tôi sẽ nắm lấy cơ thể của Hisui.
+\
+bg #9c0120,crossfade,400
+` Nhìn vào tầm mắt đen tối do bệnh thiếu máu của tôi, đột nhiên nó chuyển thành màu đỏ đậm.@
+` Hisui, cổ trắng.@
+` Giấc mơ đỏ thẫm đêm qua.@
+br
+` [line=4]Đêm đen giết chóc.@
+` Một khoái cảm đau đớn, như trái tim tôi sắp xé nát ra.
+\
+bg "bg/bg_41",notrans,0
+`"[line=6]K!"@
+` Không thể chịu đựng được, tôi rời xa Hisui.@
+ld c,"tachi/his_t07",crossfade,400
+`"cậu Shiki……?"@
+`"[line=3][line=3]Không, tôi ổn. Đừng làm phiền tôi."@
+ld c,"tachi/his_t17",crossfade,400
+`"Tôi không thể để bạn như vậy. Xin đừng cố gắng quá sức."@
+` Hisui tiến lại gần. Cô ấy đến để đỡ cơ thể đang sụp đổ của tôi.
+\
+cl c,crossfade,400
+` [line=3]Điều này không tốt.@
+`  Đây là điều xấu.@
+` Nếu cô ấy đến trong tầm tay tôi, tôi sợ mình sẽ làm gì đó.
+\
+`"[line=3][line=3]Tôi ổn... để tôi yên"@
+bg #9c0120,crossfade,400
+bg "bg/bg_41",crossfade,400
+` Tôi bị choáng váng.@
+` Tôi cảm thấy rất yếu ớt.@
+` ... Nhưng mọi thứ đều ổn.@
+` [line=3][line=5]Nếu tôi ngất đi, tôi sẽ không còn cảm giác muốn hút máu Hisui nữa.
+\
+playstop
+wave se_04
+!w1500
+ld c,"tachi/aki_t04b",lshutter,800
+`"Hisui? Về chuyện hôm qua, Kohaku và anh trai[line=4]"@
+` "Ồ... Aki, à..."@
+ld c,"tachi/aki_t15b",crossfade,400
+`"[line=4]Anh trai? Tại sao cậu lại ở đây?"@
+cl c,lshutter,400
+` "Akiha trực tiếp đến gần tôi và lấy đi dòng dõi gia tộc Tohno từ tay tôi."@
+ld c,"tachi/aki_t11b",crossfade,400
+`"Anh trai, cậu đã mở khóa à?"@
+`"[line=8]"@
+` "Akiha nhìn tôi với ánh mắt giận dữ."@
+` "Tôi[line=3] cố chiến đấu với cảm giác choáng váng, không thể nhìn thẳng vào cô ấy được."
+\
+`"…… Tôi hiểu rồi. Nếu cậu đã nhìn thấy nó thì cũng không thể tránh được. Lần này tôi sẽ bỏ qua, nhưng lần sau hãy chuẩn bị nhận một hình phạt xứng đáng."@
+` Akiha nhìn chằm chằm vào Hisui.@
+` ... Cô ấy trông giống như đang ghét Hisui gần như là thù hận.@
+`"[line=9]Ồ."@
+` Cô ấy trông giống như Akiha trong giấc mơ đó.@
+` Một cái nhìn gần như chứa đựng sự thù hận và ghét bỏ.@
+` Tôi có cảm giác như nhiệt độ cháy bùng phát từ mái tóc của cô ấy.@
+ld c,"tachi/aki_t11c",crossfade,400
+cl c,crossfade,400
+`"[line=9]Ờ?"@
+` Trái tim tôi như bỏ lỡ một nhịp.@
+` Tôi có phải đang ảo giác? Trong khoảnh khắc, xung quanh Akiha[line=3], tôi nghĩ mình nhìn thấy thứ gì đó khủng khiếp.
+\
+ld l,"tachi/aki_t11b",crossfade,400
+`"[line=4]Hisui, cậu đã làm gì vậy? anh trai cơ thể yếu, nên cậu phải ít nhất lấy đi gánh nặng tâm lý của anh ấy."@
+` Nhưng để anh trai vào phòng Cha, cậu không nghĩ đến sao?@
+ld r,"tachi/his_t21b",crossfade,400
+`"[line=4]Tôi xin lỗi sâu sắc."@
+ld l,"tachi/aki_t01b",crossfade,400
+`"... Từ giờ hãy cẩn thận hơn. Tôi cần cất tiếng đối thoại với Kohaku, nên hãy bảo cô ấy đến phòng tôi ngay lập tức."@
+cl l,lshutter,800
+` Akiha rời đi.
+\
+`"... cậu Shiki, xin hãy quay về phòng. Tình trạng của cậu không tốt, nên hãy nghỉ ngơi cho đến bữa tối."@
+` Hisui nói thế, vẫn nhìn xuống.@
+`"... Anh đúng rồi, em sẽ lên phòng. Xin lỗi, Hisui. Vì em, Akiha đã giận anh."@
+ld r,"tachi/his_t01",crossfade,400
+`"Không, đó là lỗi của em. ... Như tiểu thư Akiha nói, anh vẫn chưa quen với căn biệt thự này. Cho đến khi anh thích nghi, anh không nên vào phòng này."@
+`"... ..."@
+` Em không biết phải nói gì.@
+` Vẫn còn choáng váng, em rời khỏi phòng của bố già.
+\
+bg #000000,lcartain,800
+!w2000
+bg "bg/bg_40c",lcartain,800
+play "*1"
+` Em ăn tối một mình và quay lại phòng.@
+` Có lẽ Akiha vẫn chưa cảm thấy tốt vì cô ấy không có mặt.
+\
+`"[line=8]"@
+` Tôi nằm trên giường, thở dài một cách mệt mỏi.@
+` ... Có lẽ tôi quá mệt mỏi.@
+` Gần đây, cứ khi đêm xuống, tôi lại chìm vào giấc ngủ.@
+` Mặc dù có rất nhiều chuyện cần suy nghĩ, nhưng tôi cảm thấy chẳng có điều gì khiến tôi bận tâm và cố gắng ngủ đi.
+\
+`"... Kỳ lạ.@ Tôi không thể tập trung." [line=4]@
+` Tôi nhìn lên trần nhà.@
+br
+` Mắt tôi bắt đầu khép lại.@
+` Lại nữa, tôi không suy nghĩ về bất cứ điều gì và rơi vào giấc ngủ sâu.[line=4]
+\
+bg #000000,crossfade,800
+playstop
+!w4000
+bg "bg/bg_24c",crossfade,400
+bg #000000,crossfade,800
+Chơi âm thanh se_02
+br
+br
+!w1000
+` [line=4]Đốt cháy.
+\
+br
+br
+br
+!w1000
+` [line=4]Đốt cháy.
+\
+br
+br
+br
+br
+!w750
+` [line=4]Đốt cháy.
+\
+br
+br
+br
+br
+br
+!w500
+` [line=4]Da tôi đang đốt cháy.
+\
+br
+br
+br
+br
+br
+br
+!w500
+` [line=4]Tôi không thể ngủ như vậy.@
+`    Tôi phải thức dậy và uống chút nước.
+\
+wavestop
+bg "bg/bg_25b",crossfade,800
+play "*4"
+` Thành phố vào ban đêm.@
+` Tôi thở ra những hơi thở ấm áp, quan sát con người qua lại.@
+` Chỉ có hai hoặc ba người vào đêm nay.@
+` Nếu có thể, tôi muốn tìm một cô gái đơn độc, khoảng tuổi tôi.
+\
+br
+br
+br
+` [line=3]Nóng.
+\
+` Tôi thấy hình ảnh phản chiếu trong gương.@
+` Thở dốc, nó trông giống như tôi đang sốt cao.
+\
+br
+br
+br
+br
+br
+br
+` [line=3][line=2]NóngTôi không chịu nổi cảm giác cháy rát này.
+\
+` Ở đó.@
+` Tôi không cần phải đến gần cô ấy.@
+` Tôi nắm lấy cô ấy từ phía sau và khiến cô ấy ngất đi.@
+br
+bg #000000,crossfade,400
+bg "bg/bg_31b",crossfade,400
+` Tôi nâng cô ấy lên và mang cô ấy theo mình.@
+` [line=3]Nụ cười bắt đầu trên môi tôi.@
+` Tôi đã chịu đựng nó trong thời gian dài, và giờ mọi thứ đã kết thúc.
+\
+bg #000000,crossfade,400
+bg "bg/bg_01c",crossfade,400
+` ... Tôi quyết định làm điều này ở đây, cuối cùng.@
+` Lý do rất đơn giản.@
+` Vì đây là hang ổ của kẻ giết người.
+\
+bg #000000,crossfade,400
+bg "bg/bg_10c",crossfade,400
+br
+br
+br
+` [line=3]Cháy bỏng.
+\
+` Hơi thở của tôi lấp đầy không khí.@
+` Sớm thôi.@
+` Sớm tôi có thể nếm vị cô ấy.
+\
+bg #000000,crossfade,400
+bg "bg/bg_06c",crossfade,400
+` Rồi tôi bắt đầu bữa ăn.@
+` Nắn nót cắn vào cổ họng cô ấy, tôi hút máu.
+\
+br
+br
+br
+br
+br
+` [line=3]Nó ngọt ngào đến không thể tin được.
+\
+` Cảm giác này thực sự đáng sợ.@
+` Nếu nó ngọt ngào đến vậy và khiến ta thấy thoải mái,
+` Ta có thể sẽ trở thành tù nhân của cảm giác này thay vì kẻ giết người.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Đêm rất sâu.@ Trên đầu ta là con mắt bạc chứng kiến tội lỗi của ta.
+\
+` Với đôi môi nhuốm máu, ta ngước nhìn bầu trời đêm với đôi mắt đầy sự hài hước.@
+` Tóc bay phất phới.@
+` Trên cao là bầu trời cuộn tròn.@
+` Mặt trăng bạc nào đẹp quá!
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Như một con rắn. Quan sát ma quỷ hút máu.
+\
+wavestop
+bg #000000,crossfade,800
+playstop
+!w4000
+[hình nền "bg/ima_09", loại koha, 07a, 7
+bg #ffffff,notrans,0
+!w2000
+bg "bg/bg_40a",crossfade,800
+lặp âm thanh se_11
+`"[line=6]! "@
+` Tôi nhảy ra khỏi giường không thể chịu đựng được.@
+`"[line=3][line=4]Ahaa, ha... Ah."@
+` Giữ lại cơn buồn nôn, tôi thở như một con thú.
+\
+`"[line=6]C-Cái gì... "@
+` Cái gì vừa xảy ra vậy?@
+` Một giấc mơ. Nó chỉ là một giấc mơ. Nhưng, cái gì vậy?@
+` Nó khác với điều tôi thấy hai ngày trước.@
+` Cảm giác đi lang thang trên đường phố vào ban đêm.@
+` Mùi máu vẫn còn ngấm vào mũi tôi.@
+` Tiếng kéo một cô gái gần tuổi tôi.@
+br
+` [line=3]Tất cả đều còn tươi mới trong ký ức của tôi.
+\
+`"[line=7]Ha, ah"@
+` Đó có phải là điều mà bạn gọi là khoái cảm?@
+` Nó chỉ là một sự phấn khích thuần khiết, như viên đạn bắn thẳng vào đầu tôi.
+\
+`"G[line=3]"@
+` Sự thở của tôi ngừng lại ngay cả khi nghĩ về nó.@
+` Sau đó... có thể... tác động đó có thể được gọi là "khoái cảm".
+\
+`"Tại sao tôi... giấc mơ như vậy...?@
+` Tôi nhìn xuống bàn tay mình.@
+` Dĩ nhiên, chúng hoàn toàn trắng ngần, không một vết máu đỏ nào trên đó.@
+wavestop
+` Nhưng, trong một khoảnh khắc,
+` Tôi nhìn thấy cả hai bàn tay tôi bị phủ bởi màu đỏ.
+\
+`waveloop se_02` (dòng âm thanh lặp lại)
+` [line=3]"Chuyện gì vậy? Cậu cũng sao?"@
+br
+` "Hả?..."@
+br
+` [line=3]Đây là lần đầu tiên tôi nhìn thấy một kẻ giết người khác ngoài bản thân mình.@
+br
+` "Đúng vậy. Tôi đã có cuộc trò chuyện đó."@
+br
+` [line=3]"Một thành phố không cần hai kẻ giết người."@
+`   Tôi sẽ cho cậu nơi này.@
+br
+` ... Nhưng, khi nào thì điều đó xảy ra?
+\
+wavestop
+`"[line=4]... Tại sao, tôi không thể nhớ nổi à?"@
+` Chắc chắn rồi, tôi có cảm giác như đã có cuộc trò chuyện này với ai đó.@
+` Tôi chỉ không thể nhớ ra được.@
+` Có phải là thực tại hay chỉ là một giấc mơ trống rỗng?@
+` Tôi chỉ nhớ kẻ giết người nói rằng tôi giống hệt hắn.
+\
+`"[line=3]Thật kỳ lạ. ... Tại sao nó lại... lẫn lộn trong đầu tôi vậy?"[line=4]"@
+` Tôi cất lực cố gắng để nhớ về giấc mơ đêm qua.@
+wave se_05
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+`"[line=4]Ga?!?"@
+` Đầu tôi đau như búa bổ.@
+`"[line=3]Agh... agh... ..."@
+` Tôi không thể nhớ.@
+` Khi tôi cố gắng nhớ lại chuyện hôm qua, tôi cảm thấy muốn nôn mửa.
+\
+` Tôi sợ.@
+` Tôi sợ điều rằng tôi không thể nhớ lại.@
+` Nó giống như...
+` Một Shiki Tohno mà tôi không biết đang giết người, và để che giấu nó, cô ta lừa dối Shiki Tohno chính là tôi.@
+br
+` [line=4]Và.@
+` Tôi cảm nhận có ai đó trên hành lang.@
+br
+`"[line=4]Ai đó ở đó?"@
+` Tôi gọi to.
+\
+wave se_04
+` Gõ cửa. Gõ cửa.@
+ld c,"tachi/his_t16",lshutter,800
+play "*2"
+` "Xin lỗi," Hisui nói khi cô ấy bước vào phòng.@
+` Đó chỉ là một cảnh bình thường vào buổi sáng.@
+`"Ôi"[line=9]@
+` Liệu điều đó là vì cô ấy đang cư xử quá tự nhiên?@
+` Tim tôi đập mạnh bình thường ngay lập tức.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Chào buổi sáng, Ngài Shiki."@
+`"... Hừm, Shiki? Có sao không?"@
+ld c,"tachi/his_t04",crossfade,400
+`"Vâng, đã đến lúc rồi, nên tôi đã chuẩn bị sẵn quần áo mới cho ngài." ... "À, cậu Shiki? Ngài không cảm thấy tốt lắm à?"@
+`"Không, không phải thế. Tôi cảm thấy ổn. Không có gì sai cả."@
+` Tôi ngồi dậy khỏi giường, như thể muốn chứng minh điều mình nói.
+\
+`"Chào buổi sáng, Hisui. Sau khi tôi thay quần áo, tôi sẽ đến phòng khách, vậy hãy đi trước tôi được không?"@
+ld c,"tachi/his_t16",crossfade,400
+`"Vâng." ... "Thì tốt hơn hết là tôi xin lỗi trước."@
+cl c,lshutter,400
+` Hisui lặng lẽ đóng cửa và rời đi.@
+` Sau khi cô ấy rời đi, tôi hít một hơi thật sâu.
+\
+`"Tại sao tôi lại có cảm giác buồn như vậy?"@
+` Có lẽ là vì tôi biết được về bệnh của bố mình từ hôm qua.@
+` Chỉ vì triệu chứng của tôi giống với anh ta, có thể tôi đang quá lo lắng.@
+`"... Vâng. Từ khi tôi trở về, tôi luôn mệt mỏi. Tôi không nên nghĩ về giấc mơ đó."@
+br
+` [line=3]Tốt lắm.@
+` Đang gần bảy giờ rồi.@
+` Giống như ngày hôm qua, tôi có thể tận hưởng buổi sáng này.
+\
+bg #000000,crossfade,400
+bg "bg/bg_34a",lcartain,400
+` [line=4]Rồi tôi nhận ra.@
+` Không suy nghĩ, tôi bước vào phòng khách và bỗng nhớ ra một điều rất quan trọng mà tôi đã quên.@
+`"[line=5]Ôi trời ơi!"@
+` Tôi nuốt lời.
+\
+` Akiha, Hisui và Kohaku đang ở trong phòng khách.@
+` Mọi thứ dường như bình thường, nhưng sau sự việc hôm qua, tôi chắc chắn sẽ cảm thấy rất bất an.@
+` Akiha và Kohaku có vẻ đã hiểu nhau, nhưng tôi vẫn chưa cất tiếng đối thoại với Akiha.@
+` Khi nghĩ về hành động của Akiha hôm qua, tôi chắc chắn cô ấy vẫn giận tôi.
+\
+ld c,"tachi/aki_t09",lshutter,400
+`"Chào buổi sáng, anh trai. Anh có ngủ ngon không?"@
+`"[line=8]Hừ?"@
+` Và...@
+` Akiha chào tôi với nụ cười rộng lớn.
+\
+cl c,lshutter,400
+`"Ừm...?"@
+` Tâm trí tôi đóng băng trước sự kiện bất ngờ này.@
+` Akiha vẫn mỉm cười tươi tắn khi tôi chỉ đứng đó.@
+` Akiha quá vui vẻ, khiến tôi nghĩ cô ấy đang lên kế hoạch gì đó.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Thưa Shiki, có muốn ngồi xuống không?"@
+`"Ừ... nếu cậu muốn tôi ngồi, tôi sẽ làm."@
+` Tôi nhìn sợ sệt về phía Akiha khi ngồi xuống đối diện cô ấy.@
+cl c,lshutter,400
+`"Chào buổi sáng, Akiha.@ Cô trông thật vui vẻ ngày hôm nay."@
+ld c,"tachi/aki_t08a",lshutter,400
+`"Thật sao?@ Chắc chắn tôi cảm thấy tốt hơn nhiều, nên có lẽ tôi trông ít nhợt hơn trước đây."@
+` "... Không, nó vượt xa việc không trông nhợt nhạt."
+\
+ld c,"tachi/aki_t09",crossfade,400
+`"Dù sao, trước tiên tôi phải cảm ơn cô.@ Tôi thực sự muốn cảm ơn cô ngày hôm qua, nhưng tôi cảm thấy khá ốm yếu và không có cơ hội."@
+` Akiha nhìn thẳng vào tôi.@
+` Không còn dấu vết nào của sự lạnh lùng ngày hôm qua.@
+` ... Cũng dường như không khí nguy hiểm đã tan biến.
+\
+`"Cảm ơn tôi? Tôi chẳng làm gì đáng được cảm ơn cả."@
+`"Đó không phải là sự thật. Bạn đã chăm sóc tôi khi tôi ốm, đúng không?"@
+` Vì bạn ôm lấy tôi, tôi quyết tâm. Tôi vô cùng hạnh phúc vào đêm đó.@
+`"[line=7]!"@
+` Cô ấy nói điều gì đó khiến tôi hoàn toàn bất ngờ.@
+cl c,lshutter,400
+br
+` [line=4]Và sau đó.@
+` Tôi cảm thấy một áp lực nặng nề đè lên lưng mình.
+\
+` Tôi quay lại nhìn.@
+ld r,"tachi/koha_t03",lshutter,400
+ld l,"tachi/his_t01",lshutter,400
+` ... Ở đó, Hisui và Kohaku-san nhìn tôi bằng cách thức khác xa với bình thường.
+\
+cl a,lshutter,400
+`"[line=3]Akiha. Đừng nói những điều có thể khiến người khác hiểu sai. Anh đang đau lắm, tôi chỉ hỗ trợ anh thôi."@
+ld c,"tachi/aki_t08a",lshutter,400
+`"Ồ? Vậy ôm lấy tôi là cách hỗ trợ sao?"@
+` Akiha cười khẽ.@
+` Nhìn chằm chằm. Họ đang nhìn chằm chằm vào tôi.@
+` Những ánh nhìn từ hai người phía sau càng trở nên nặng nề hơn.
+\
+`"[line=3]Vào dòng thứ ba. Bây giờ hãy nhìn đi. Cậu đang cư xử kỳ lạ đấy. Cậu có thích trêu chọc tôi không?"@
+`"Vâng, rất nhiều. Xem mặt bạn đầy lo lắng thật thú vị."@
+`"………..."@
+` Điều này quá kỳ lạ. Đây có phải là tính cách của Akiha?
+\
+`"Bạn có những sở thích kỳ lạ. Phiền phức tôi vào buổi sáng và giảng dạy tôi vào tối qua."@
+` "Ban đầu tôi cũng nghĩ vậy, nhưng rõ ràng là cậu có điều gì đó với tôi."@
+` Tôi kết thúc bằng một hơi thở dài.@
+cl c,lshutter,400
+` Bất thình lình, Akiha quay đi.
+\
+ld c,"tachi/aki_t13a",lshutter,400
+`"[line=3]…… Tôi rất xin lỗi. Những gì tôi đã làm hôm qua thật ngốc nghếch. Có điều gì đó sai với tôi, và tôi đã xin lỗi Hisui rồi."@
+`"Em đã xin lỗi Hisui sao?"@
+` Tôi bật ra câu hỏi đầy ngạc nhiên. Không chỉ em ấy xin lỗi, mà còn là đối với Hisui.@
+ld c,"tachi/aki_t21",crossfade,400
+`"[line=3]Này, anh trai ạ. Anh nghĩ em là loại người như thế nào vậy? Em phạm sai lầm nên tự nhiên phải xin lỗi Hisui, đúng không?"@
+` …… Khi em nói vậy, một hình ảnh mờ nhạt trong đầu tôi xuất hiện về cảnh em đóng vai một bậc thầy nghiêm khắc.
+\
+ld c,"tachi/aki_t02",crossfade,400
+`"Anh trai ạ. Anh đang nghĩ điều gì đó xấu xa, phải không?"@
+` …… Em rất sắc sảo. Dù vui vẻ như thế nào, nó cũng không làm giảm sự nhạy bén của em.
+\
+cl c,lshutter,400

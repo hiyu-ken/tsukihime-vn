@@ -1,0 +1,938 @@
+bg #000000,crossfade,1500
+bg "bg/bg_59",bcartain,1000
+play "*03"
+wait 1000
+ld l,"tachi/stk_t01",rshutter,800
+textbox adv
+` Được rồi!@
+` Mọi người, tôi cũng có thể tham gia Geccha đấy!
+\
+` Hộp trăng đã mở ra, nên câu chuyện của tôi được giấu đi suốt thời gian này cuối cùng cũng sẽ được kể… à?`
+\
+ld l,"tachi/stk_t09",crossfade,200
+` Tại sao chẳng ai ở đây?`
+\
+cl l,crossfade,200
+` Hu hu hu hu.`@
+` Vì mọi người đã về nhà rồi-nya.`
+\
+ld l,"tachi/stk_t13",crossfade,200
+` , À. Tôi có cảm giác thật tồi tệ.`
+\
+ld r,"tachi/neko_t01a",rshutter,400
+` Ha. Tôi đến để tiêu diệt hết những kẻ yếu đuối và hạ bệ mọi cô gái nửa anh hùng!`
+\
+` Cô gái anh hùng được thần linh sai đến để mang đến cho cậu một hồi ngắt nghỉ từ tình trạng cô đơn của cậu xuất hiện với một tiếng nổ vang!`
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` Vậy, cậu gọi tôi à, Sacchin?`
+\
+ld l,"tachi/stk_t03",crossfade,200
+` Không, tôi không gọi cậu đâu.@
+` Cậu không được chào đón nên về nhà đi♥
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Ừm?@
+` Tôi có nhầm tín hiệu không?@
+` Tôi nghe nói có một con chó hoang tội nghiệp ở đây không vào được Melty.
+\
+ld l,"tachi/stk_t11",crossfade,200
+` L-lời đó không đúng!@
+` Tôi đang ở trong đó và tôi sẽ tiếp tục ở trong đó!@
+` Chẳng phải đúng như vậy sao, tất cả mọi người ở French Bread!?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` French Bread? Cậu đang nói về Ciel?
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Ừm... Không, nhưng tôi cũng không hiểu lắm.@
+` Đó là những gì tôi nghe, nhưng tôi nghe nói French Bread là...
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` Ừm, nghe thật ngon miệng.@
+` Vậy thì cậu có việc gì với Ciel-nya? Tôi có thể gọi cô ấy.
+\
+ld l,"tachi/stk_t03",crossfade,200
+` Không, xin đừng.
+\
+ld l,"tachi/stk_t13",crossfade,200
+` … Thực ra, cậu là ai?
+\
+ld r,"tachi/neko_t02",tshutter,200
+` … Tôi?@
+` Tôi là Neko Arc.@
+` Tôi là hiện thân của mặt tối của cậu. Tôi chính là bản ngã thật sự của cậu. Kakakaka!
+\
+ld l,"tachi/stk_t11",crossfade,200
+` Không thể nào!@
+` Điều đó không thể xảy ra!@
+` Chết tiệt, ra khỏi đây đi!
+\
+ld r,"tachi/ark_t30",crossfade,200
+` À, Sacchin giận rồi à?@
+` ... À, kệ vậy. Tôi sẽ nói đến chủ đề chính thôi.
+\
+` Ngồi ngay đó, Sacchin.@
+` Bạn sẽ là cô gái đào bới tùy thuộc vào tình huống xảy ra.
+\
+ld l,"tachi/stk_t09",crossfade,200
+` Ê...? Chờ tí, cậu đang nắm lấy......
+\
+ld l,"tachi/stk_t11",crossfade,200
+` [line=3]Này, đó là kịch bản của tôi!!
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Đúng vậy.@
+` Một vũ khí được khai quật từ hai năm trước mà tôi đã lấy ra từ ổ cứng bị hỏng.
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` Nữ phụ anh hùng vĩnh cửu, Yumizuka Satsuki.@
+` Bây giờ bạn sẽ đối mặt với kịch bản của chính mình.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Đó là chủ đề!@
+` Tên là...
+\
+bg #ffffff,rshutter,800
+bg "bg/yumizuka",crossfade,5000
+bg "bg/bg_59",bshutter,800
+wait 800
+ld r,"tachi/neko_t01a",crossfade,200
+` Bạn có thích nó không?@
+` Bên cạnh đó, đòn tấn công Musou của bạn sẽ là đánh bằng nắm đấm thuần túy sao?
+\
+ld l,"tachi/stk_t13",crossfade,200
+` ... Chết tiệt.@
+` Ờm, neko-san.@
+` Bạn bảo tôi đối mặt với kịch bản của mình, nhưng kịch bản của tôi chưa ra mắt đâu.
+\
+ld r,"tachi/ark_t31a",crossfade,200
+` Nyaat lên!@
+` Vậy thì để tôi giới thiệu chương trình hôm nay cho bạn.
+\
+cl a,crossfade,400
+textbox nvl
+wait 800
+br
+br
+br
+` 1. Phim mở đầu: Hiệu suất trực tiếp bởi Neko-Arc
+` 2. Bàn trao hoa
+` 3. Sự kiện sáng sớm: Giới thiệu về cài đặt Melty Blood
+` 4. Ăn trưa
+` 5. Chia tay ăn trưa
+` 6. Giải đấu chơi game
+` 7. Kết thúc
+\
+wait 800
+ld l,"tachi/stk_t12",bshutter,400
+textbox adv
+` Tôi xuất hiện ở đâu!? Tôi không có trong đó chút nào!
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Ồ, thật sự?
+\
+ld l,"tachi/stk_t08",crossfade,200
+`  Hu... huhu, huhuhu!
+\
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+bg #9c0120,crossfade,200
+bg "bg/bg_59",crossfade,200
+ld l,"tachi/stk_t03",crossfade,200
+` Nhìn kỹ hơn một chút.@
+` Chương trình này thậm chí không có tên tôi cả.
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Ugh... Tôi bỏ cuộc, tôi bỏ cuộc.@
+` Tôi xin lỗi-nya. Có vẻ như người hâm mộ cà ri sợ sự nổi tiếng của bạn đã đổi chương trình.
+\
+` Chúng ta thử rút ngắn nó như thế này?
+\
+cl a,crossfade,800
+wait 800
+textbox nvl
+br
+br
+br
+br
+br
+` 1. Mở đầu: Sacchin trêu chọc
+` 2. Giới thiệu về bản thiết kế Satsuki (1)
+` Satsuki: À, tôi mệt quá. Nghỉ một chút đi.
+` Satsuki Concept Art Introduction (2)` “Đây là hình vẽ ban đầu của Satsuki.”[/center] ` Ciel: “Tôi nghĩ nó khá dễ thương, phải không?”` ` Akiha: “Hình như cô ấy đang cố gắng tạo ra một cái gì đó.”`
+\
+wait 800
+ld l,"tachi/stk_t12",bshutter,200
+textbox adv
+` Chỉ có tôi thôi!`
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Cậu vẫn chưa hài lòng với điều này sao?... Tôi cảm thấy cơn giận dữ của người bị áp bức bấy lâu nay.`
+\
+ld l,"tachi/stk_t09",crossfade,200
+` [line=2]Gì?`@
+` Ôi, tôi có vai diễn rồi, à?`@
+` Tôi có thể vui mừng về điều này, phải không!?`
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Đó là điều tôi đang nói với cậu.@
+` Vui mừng đi, Sacchin.`
+\
+ld l,"tachi/stk_t03",crossfade,200
+` Vâng! Cậu là người tốt đấy!`
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` Tất nhiên.-nya.`@
+` Tôi như một vị Phật đối với mọi người ngoại trừ Ciel.`@
+` Tôi giống như tình yêu hơn.`@
+` Nhưng tôi sẽ thật sự giết cậu nếu cậu xuất hiện ở Melty trước tôi.`
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Ồ, xin lỗi.`@
+` Tôi xin lỗi trước cho điều đó.
+\
+ld r,"tachi/ark_t31a",crossfade,400
+ld r,"tachi/ark_t31b",crossfade,400
+` Ê!`@
+` Những đôi mắt đầy thương hại kia là gì!?@
+` Cậu có nghĩa là một con mèo, một Neko-Arc chẳng được sao?`
+\
+ld l,"tachi/stk_t03",crossfade,200
+` Tôi nghĩ vậy.@
+` Nhưng tôi nghĩ cậu xuất hiện trong một động tác đặc biệt.@
+` Cậu có thể bay với tên lửa của mình, phải không?
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  ..... Ừm.@
+` Tôi đoán là ổn nếu như vậy.@
+` Tôi rất vui nếu động tác đó bất khả thi, tự điều hướng và kết hợp cho đến khi chết.
+\
+ld l,"tachi/stk_t01",crossfade,200
+` Đúng chứ?@
+` Vậy thì tôi muốn quay lại chủ đề chính bây giờ.@
+` Cậu đang cầm những hình ảnh nhân vật của tôi, phải không?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Ừm.@
+` .... Ừm, nó chẳng có gì đặc biệt lắm, nhưng cậu vẫn muốn xem?@
+` Tôi chắc chắn cậu sẽ thất vọng.@
+` Cậu sẽ nhận ra vị trí của chính mình.
+\
+ld l,"tachi/stk_t03",crossfade,200
+` Chỉ-cho tôi xem ngay!
+\
+cl a,crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+cl a,crossfade,200
+ld r,"tachi/ark_t31b",crossfade,200
+` Ouch, cậu không nên túm đầu tôi.@
+` Cậu không còn là một cô gái bình thường nữa, vì vậy cậu sẽ giết bất cứ ai cậu nắm lấy.
+\
+ld l,"tachi/stk_t08",crossfade,200
+`  Huhuhuhu.@
+` Bây giờ khi nhắc đến nó, có lẽ tôi cũng muốn làm như vậy...
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Nya, cậu thật sự-nya.@
+` .... Tốt thôi. Đây là cái đầu tiên.
+\
+bg #ffffff,bcartain,1000
+bg "bg/s01",bcartain,1000
+ld l,"tachi/stk_t01",crossfade,200
+` Đây là một bản phác thảo sơ sài từ khi nó bắt đầu.@
+` Kế hoạch sử dụng điều này vào lúc nào?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Tôi nghĩ đó là lúc bạn quên bài tập về nhà và bị đứng trong hành lang như hình phạt.@
+` Và đó là khi bạn mời Shiki đi chơi và bị từ chối.
+\
+cl r,bshutter,200
+wave pd/s09
+ld l,"tachi/stk_t03",crossfade,200
+` Xin đừng nói dối.@
+` Điều này được sử dụng khi Tohno-kun rời đi khi tôi cảm thấy lo lắng.
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Chà, tôi thực sự bay lượn trong không trung.@
+` Tôi trở thành hình nền giống như Kohaku.@
+` Vâng, tiếp theo.
+\
+bg #ffffff,lcartain,1000
+bg "bg/s02",lcartain,1000
+ld l,"tachi/stk_t13",crossfade,200
+` Ờm, đây là gì?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Ừm, có phải là một cú chặn cánh tay không?@
+` Và đó là khi bạn mời Shiki đi chơi và bị từ chối.
+\
+cl r,bshutter,200
+wave pd/s14
+ld l,"tachi/stk_t01",bshutter,200
+` Vâng, chúng ta hãy tiếp tục.@
+` Điều này sẽ được sử dụng trong cảnh đời thường giữa đoạn đường.
+\
+bg #ffffff,bcartain,1000
+bg "bg/s03",bcartain,1000
+ld l,"tachi/stk_t10",crossfade,200
+` … Ummm, tôi tức giận.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Huhuhu, má bạn vẫn mềm mại như lúc nào.@
+` Tôi nghĩ điểm thu hút của bạn là má mềm. Bạn nghĩ sao?
+\
+ld l,"tachi/stk_t07",crossfade,200
+` U-um, tiếp theo.
+\
+bg #ffffff,lcartain,1000
+bg "bg/s04",lcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+` Về nhà từ trường!? Có phải đó là một sự kiện xảy ra khi về nhà từ trường!?
+\
+ld l,"tachi/stk_t03",crossfade,200
+` Không, chỉ là hình ảnh nhân vật bình thường thôi.@
+` Nhìn tôi như thế này, mặt mày rạng rỡ và ngượng ngùng, chẳng lẽ kịch bản của tôi không chỉ toàn những sự kiện tồi tệ mà thôi.
+\
+ld r,"tachi/neko_t02",crossfade,200
+` R-rê-a?@
+` Cậu có thể nói như vậy sau khi nhìn thấy điều này chứ?
+\
+ld l,"tachi/stk_t09",crossfade,200
+` Ê...? D-cậu có biết gì không?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+ld r,"tachi/neko_t01b",crossfade,200
+` Huhuhu, xem này đi!@
+` Bây giờ là lúc đầu tiên để nhìn vào sân khấu chính của kịch bản Sacchin, phòng ngủ của Sacchin!
+\
+playstop
+bg #ffffff,tshutter,800
+wait 1000
+bg "bg/bg_sp",bshutter,800
+wait 2000
+play "*03"
+ld l,"tachi/stk_t09",crossfade,200
+` ..........Ê?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Hm, căn phòng thật ngọt ngào.
+\
+ld l,"tachi/stk_t12",notrans,0
+` Không thể nào[line=3]nó quá khủng khiếp[line=3]!!
+\
+ld l,"tachi/stk_t11",notrans,0
+` Trước hết, đây không phải là một căn phòng!@
+` Chỉ là một tòa nhà bỏ hoang thôi.
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  Muhuhu.@
+` Điều này giải thích mọi thứ.@
+` Cậu sẽ tiêu hết tất cả số tiền tiết kiệm của cậu bé tội nghiệp đó là 100.000 yên.
+\
+` Ôi, Sacchin thật đáng sợ. Cô ta là một kẻ ăn tiền.@
+` Shiki đang trong nguy hiểm! Chỉ còn ba ngày nữa tiền của cậu ta sẽ hết!
+\
+ld l,"tachi/stk_t04",crossfade,200
+` Auu... Tôi xin lỗi, Tohno-kun...
+\
+bg #ffffff,lcartain,3000
+bg "bg/s05",lcartain,1000
+ld r,"tachi/neko_t01a",crossfade,200
+` Và đây là những gì xảy ra sau đó.@
+` Cậu tạo dáng chiến thắng sau khi khiến Shiki hết tiền.@
+` Cậu là một người phụ nữ ác độc.
+\
+ld l,"tachi/stk_t11",bshutter,200
+` Sai rồi!@
+` Cái này nên dùng trong tình huống ấm áp hơn!
+\
+` Xem này, nó viết 'Super Sacchin'.
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Hm?@
+` Tôi nghĩ tôi nghe câu đó ở đâu rồi.@
+` À, cô gái mà thằng nấm thích nhất à? Cô bé khóc lóc trên bao cát sau giờ học?
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Â... Tôi không chắc lắm về điều đó.
+\
+ld r,"tachi/ark_t31a",crossfade,200
+` Tớ chẳng quan tâm đến sở thích con gái nhỏ của hắn đâu.@
+` Chúng ta đi sang cái khác.
+\
+bg #ffffff,rcartain,1000
+bg "bg/s06",rcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+` Ô?@
+` Đây là hình ảnh sự kiện chứ không phải chỉ là sprite nhân vật. Tôi có thể nhìn thấy quần lót của Sacchin.
+\
+` 'Không nhìn thấy đâu, ngốc!
+\
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,200
+` '???'@
+` Có phải tiếng vọng không?@
+` Ừm, Sacchin trông buồn ngủ, nên tôi đoán cô ấy thức trắng đêm.
+\
+` Sacchin không ra vì quá xấu hổ, nên tôi không thể giải thích thêm. Sau hết, tôi không được tiết lộ bất cứ điều gì ở đây.
+\
+bg "bg/s07",bcartain,1000
+ld r,"tachi/neko_t01a",bcartain,200
+` 'Và đây là cái tiếp theo.'@
+` Ừm, dường như cốt truyện đang dày đặc hơn.
+\
+` ... Tôi không thể nói gì vì cô ấy chưa về, nhưng tôi chắc chắn cô ấy đang khóc vì Shiki từ chối [line=5]
+\
+bg #9c0120,crossfade,200
+bg #ffffff,crossfade,200
+bg "bg/bg_59",crossfade,200
+cl a,notrans,0
+` Ou, đau!@
+` Sách-chin, mứt mơ không công bằng!@
+` Tôi bỏ cuộc!@
+` Tôi xin thua, trọng tài. A, Frankenstein trên hộp sọ tôi!?[line=3]
+\
+bg #ffffff,crossfade,200
+bg #9c0120,notrans,0
+bg #000000,notrans,0
+playstop
+bg "bg/ima_13b",notrans,0
+wait 3000
+bg "bg/bg_59",bshutter,800
+play "*03"
+ld l,"tachi/stk_t06",crossfade,200
+` Bắt đầu giới thiệu về Satsuki Concept Art (1) đã kết thúc.@
+` Tiếp theo sẽ là về Melty Blood.
+\
+ld r,"tachi/ark_t31a",crossfade,200
+` A, đau quá!@
+` Bạn có biết trò chơi ném dưa hấu không?@
+` Loại chuyện đó không tốt.
+\
+ld l,"tachi/stk_t01",crossfade,200
+` Nếu chúng ta nói về Melty Blood, chúng ta phải nói về nữ anh hùng khách mời Sion-san.@
+` Chúng tôi sẽ chủ yếu trình bày bản vẽ khái niệm của cô ấy ở đây.
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Bạn đang bỏ qua tôi?
+\
+bg #ffffff,bcartain,1000
+bg "bg/t01",bcartain,1000
+ld r,"tachi/ark_t30",crossfade,200
+` Ôi trời ơi, ai là người này-nya[line=3]!?
+\
+ld l,"tachi/stk_t03",crossfade,200
+` Đó là Sion-san.@
+` Cô ấy có da tối vì cô ấy được cho là người Ai Cập.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Nhưng cô ấy có bộ ngực. Cô ấy phải là giả mạo nya.
+\
+ld l,"tachi/stk_t01",crossfade,200
+` Đây là lúc Sion-san sắp trông mềm mại hơn.@
+` Thôi, chúng ta bắt đầu màn trình chiếu để xem cô ấy trở nên như thế nào hôm nay!
+\
+bg #ffffff,lcartain,1000
+bg "bg/t02",lcartain,1000
+bg #ffffff,bcartain,800
+bg "bg/t03",bcartain,1000
+bg #ffffff,lcartain,800
+bg "bg/t04",lcartain,1000
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,400
+` Ừm. Tôi hiểu, cô ấy đang dần thon gọn hơn.
+\
+ld l,"tachi/stk_t01",crossfade,200
+` Cốt truyện ban đầu là để cô ấy trẻ hơn.
+\
+` Người viết kịch bản yêu thích hình ảnh da nâu và trang phục trắng như trong bức ảnh thứ hai, nhưng nó đã bị loại bỏ vì không phù hợp với phong cách của cô ấy.
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Ừm.@
+` Cô ấy trông như một nhân vật trong game đấu tay đôi.
+\
+ld l,"tachi/stk_t03",crossfade,200
+` Ừm.@
+` Ý tưởng về Sion-san là để cô ấy trông đẹp trong pixel art.@
+` Cô ấy có màu tím sáng để mọi người nhận ra ngay lập tức.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Tôi hiểu rồi-nya.@
+` Vậy là anh ta không chỉ đơn thuần là một kẻ thích phục vụ nữ hầu gái, phải không?
+\
+ld l,"tachi/stk_t01",crossfade,200
+` Ừm, thôi thì chúng ta chuyển sang người kế tiếp đi.@
+` Tiếp theo là... Ờ, đây là ai nhỉ?
+\
+bg #ffffff,tcartain,1000
+bg "bg/t05",tcartain,1000
+ld r,"tachi/neko_t01a",crossfade,200
+` À, người này.@
+` Tôi sẽ không nói gì vì nó sẽ là spoiler.@
+` Cắt cắt.
+\
+ld l,"tachi/stk_t09",crossfade,200
+`  ???
+\
+ld r,"tachi/ark_t31a",crossfade,200
+` Thực ra anh ta không được lên kế hoạch sử dụng trong Tsukihime-nya.
+\
+` Nhưng anh ta là người phù hợp nhất để đáp ứng điều kiện của Melty Blood: 'Không có mâu thuẫn nếu mọi người đều chiến đấu với nhau'.
+\
+` Anh ta thực sự được thiết kế trước Sion, và khi quyết định cho anh ta xuất hiện, đối thủ của Ciel đã bị loại bỏ để thay thế Sion.
+\
+ld l,"tachi/stk_t11",crossfade,200
+` ¡Gì vậy!@
+` ¡Ai là kẻ thù của Ciel-Senpai!?@
+` Tôi chưa nghe gì về nó cả!
+\
+ld r,"tachi/neko_t01a",crossfade,400
+ld r,"tachi/neko_t01b",crossfade,400
+` Hm? À, tôi đoán là tôi chưa từng nói với bạn, phải không?
+\
+` Bối cảnh trong Melty Blood được dự định giống như một trò chơi đấu võ bình thường, và nhân vật mới sẽ là một thợ săn ma cà rồng.
+\
+` Vì Tsukihime không có thợ săn ma cà rồng hoàn chỉnh.
+\
+` Nên người săn dị giáo này từ Giáo Hội có một bộ giáp bí mật chính thức làm lá chắn, cũng là một cái búa đập bê tông.
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Ê? ... Vậy Melty Blood là...
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Ừ-nya.@
+` Ở giai đoạn đầu, đó là một trận chiến giữa những thợ săn ma cà rồng với Ciel làm nhân vật chính.
+\
+` The Black Robed Crashing Agent và The Knight of the Holy Shield!@
+` Búa đập bê tông kêu rít, búa đập bê tông va chạm!
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` Bạn nghĩ sao?
+\
+ld l,"tachi/stk_t10",crossfade,200
+` Wow... Vậy Reeze Baife-san là...
+\
+ld r,"tachi/ark_t31b",crossfade,200
+` Chỉ là một tên dưới quyền bị Sion chiếm mất vai trò.@
+` Có thiết kế nhân vật cũng vậy, nhưng họa sĩ không muốn tiết lộ.
+\
+ld l,"tachi/stk_t07",crossfade,200
+` Ừm. Tôi có thể hòa hợp với người này.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Không thể-nya.@
+` Chiêu thức yêu thích của nhân vật là High Angle Guillotine Flag.
+\
+` Tên gọi như vậy vì đầu Ma cà rồng Sacchin bị búa đập bê tông xuyên qua trông giống như lá cờ treo trên trời.
+\
+ld l,"tachi/stk_t08",crossfade,200
+` Tôi hiểu. Trong trường hợp này, chúng ta không thể làm bạn.
+\
+bg #ffffff,lcartain,1000
+bg "bg/t06",lcartain,1000
+ld l,"tachi/stk_t01",crossfade,200
+` À, đây là biểu cảm của Sion-san sao?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Yup. Còn nhiều hơn nữa.
+\
+bg #ffffff,rcartain,1000
+bg "bg/t07",rcartain,1000
+ld l,"tachi/stk_t09",crossfade,200
+` Wow... Sion-san thật đẹp trai... Ê? Nhưng người có mắt nhắm lại thì trông giống như người kia trước đây...
+\
+ld r,"tachi/neko_t02b",notrans,0
+` Bàn chân mèo gào thét!`
+\
+cl r,notrans,0
+quakexy 10,10,400
+quakexy 10,10,1000
+wave pd/s09
+bg #ffffff,crossfade,400
+bg "bg/bg_59",crossfade,800
+ld r,"tachi/ark_t31b",crossfade,200
+` Đừng nói những điều bừa bãi.`@
+` Cậu sống như thế này chẳng được bao lâu đâu.`
+\
+ld l,"tachi/stk_t04",crossfade,200
+` Không thể… Nó gây ra sát thương như vậy khi tôi là ma cà rồng…?`
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Nya nya nya, chưa đến một trăm năm thì đừng tự xưng là ma cà rồng.`@
+` Cậu bé tí so với tôi.`@
+` Tôi bắn cậu bay lên sao Hỏa.
+\
+ld l,"tachi/stk_t09",crossfade,200
+` Ây... Được thôi... (Một chút ngạc nhiên)`
+\
+ld r,"tachi/neko_t01b",crossfade,400
+ld r,"tachi/neko_t01a",crossfade,400
+` Rất tốt khi cậu thật thà.`@
+` Bây giờ chúng ta đi vào giới thiệu về ý tưởng thiết kế của Satsuki (2).`
+\
+` Chắc chắn Sacchin bắt đầu tự ý thức về sự biến thành ma cà rồng rồi, nên lần này chúng ta tập trung vào "Ma cà rồng Sacchin" nhé!`
+\
+bg #ffffff,lcartain,1000
+bg "bg/s08",lcartain,1000
+wait 1500
+bg #ffffff,bcartain,400
+bg "bg/s09",bcartain,1000
+wait 1500
+bg #ffffff,lcartain,400
+bg "bg/s10",lcartain,1000
+wait 1500
+bg #ffffff,bcartain,400
+bg "bg/s11",bcartain,1000
+ld r,"tachi/neko_t01b",crossfade,200
+` Cậu nghĩ sao?@
+` Cô ta đáng sợ thật đấy.`@
+` Đó là tất cả về Ma cà rồng Sacchin.
+\
+ld l,"tachi/stk_t11",crossfade,200
+` Tôi - Tôi không phải là ác quỷ!`@
+` Tôi chỉ đang nghịch một chút thôi!
+\
+ld r,"tachi/neko_t01a",crossfade,200
+ld r,"tachi/neko_t01b",crossfade,400
+` A?@
+` Sau này cậu sẽ ngạc nhiên nếu gọi đây là chạy loạn. Ừ, tôi chẳng liên quan gì đến chuyện này cả.`
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Ừ... Nhưng cái trước là bình thường thôi.`@
+` Tôi nghĩ tôi là ma cà rồng vì tóc tôi buông xõa.`@
+` … Cậu biết khi nào người ta dùng cái đó không?`
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` Không.`@
+` Người chịu trách nhiệm cho kịch bản nói rằng anh ấy cũng mới nhìn thấy lần đầu tiên.`@
+` Một sự thật bất ngờ. Hai người đó thực sự là bạn bè ư?`
+\
+ld l,"tachi/stk_t08",crossfade,200
+` Tôi, tôi thấy... Nhưng tôi trông tốt, phải không?@
+` Tôi đoán tôi có thể cười như thế được.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Hu hu hu.`@
+` Còn sớm để thở phào.`@
+` Lấy cái này đi!
+\
+bg #ffffff,lcartain,800
+bg "bg/s14",lcartain,1000
+wait 1500
+bg #ffffff,tcartain,800
+bg "bg/s15",tcartain,1000
+wait 2000
+ld l,"tachi/stk_t11",crossfade,200
+` Ê-ê-ê-h-h-h!?`
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Ai thế này ?
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Tôi- tôi là người đầu tiên, nhưng... cái này là...?`
+\
+cl r,crossfade,200
+ld c,"tachi/neko_t01a",crossfade,200
+` Đừng giả vờ ngốc đâu.`@
+` Đó là Sacchin trong hình dạng thật của cô ấy.`@
+` [line=4]Chắc chắn chỉ có cậu với vẻ ngoài như thế này thôi.`
+\
+ld l,"tachi/stk_t08",crossfade,200
+` Hu hu, u hu hu, u hu hu hu hu!
+\
+wave pd/s09
+bg #ffffff,notrans,0
+bg #000000,notrans,0
+bg #9c0120,notrans,0
+quakexy 10,10,200
+bg "bg/bg_59",bshutter,800
+ld l,"tachi/stk_t06",crossfade,200
+` Vậy là đây là cái tiếp theo rồi.`@
+` Đây chắc là bức vẽ cũ của tôi khi chưa phải là ma cà rồng.
+\
+bg #ffffff,lcartain,1000
+bg "bg/s16",lcartain,1000
+ld r,"tachi/neko_t01b",crossfade,200
+` Không đâu, cậu vẫn là ma cà rồng trong bức này.@
+` Cậu trông xinh hơn một chút vì người thường đẹp hơn sau khi trở thành ma cà rồng.
+\
+` Tóc cậu dài vì... À, tôi đoán là như mở rộng bộ thu sóng?
+\
+ld l,"tachi/stk_t09",crossfade,200
+` Thật sự? Tôi xinh hơn khi trở thành ma cà rồng?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Ừ.@
+` Chúng ta hãy trình bày bằng chứng rõ ràng.@
+` Đây.
+\
+bg #ffffff,lcartain,1000
+bg "bg/s12",lcartain,1000
+wait 1500
+bg #ffffff,tcartain,1000
+bg "bg/s13",tcartain,1000
+wait 1500
+ld l,"tachi/stk_t09",crossfade,200
+`  Wow.
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` Ừm, họ trông như những người khác nhau.@
+` Sacchin, cái không mềm mại đó không còn là Sacchin nữa.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Chúng ta sẽ quên đi toàn bộ cấu hình này nói rằng cậu xinh hơn khi trở thành ma cà rồng.
+\
+ld l,"tachi/stk_t11",bshutter,200
+` Tôi... Tôi từ chối!@
+` Tôi phản đối việc bỏ qua cấu hình!@
+` W-chúng ta đã tạo ra rất nhiều cấu hình, chúng ta phải tuân theo chúng!
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` C'mon. Chúng ta sẽ không bỏ qua tất cả chúng.
+\
+`  Muhuhu.@
+` Thì chúng ta sẽ trình bày cấu hình tốt nhất, Sacchin cuối cùng!
+\
+playstop
+bg #ffffff,tshutter,800
+bg "bg/scroll19",tshutter,1000,bottom
+wait 2000
+` Gogogogogogogo (âm thanh: áp lực).
+\
+bg "bg/scroll19",bscroll,4000,top
+wait 2000
+ld r,"tachi/ark_t30",crossfade,200
+` Gogogo... à?
+\
+ld l,"tachi/stk_t09",crossfade,200
+` (Ngạc nhiên)
+\
+ld r,"tachi/ark_t31a",crossfade,200
+ld r,"tachi/ark_t31b",crossfade,200
+` Hm, tôi tìm thấy một cái giả.`@
+` Đánh chết Satsuki giả mạo!`
+\
+ld r,"tachi/neko_t02",crossfade,200
+rocket layer=r my=-200 magnify=5.0 time=800 accel=4 opacity=64
+cl r,notrans,0
+ld l,"tachi/stk_t12",crossfade,200
+` Đừng làm thế!
+\
+bg #ffffff,lexpl,4000,center
+wait 4000
+play "*03"
+bg "bg/bg_59",crossfade,1000
+ld r,"tachi/ark_t30",bshutter,200
+` Ờ?`@
+` Đ-đó là cái gì!?@
+` Có thể đây là sức mạnh của Sacchin...!?
+\
+ld l,"tachi/stk_t02",crossfade,200
+` Đúng rồi.`@
+` Đó là Yumizuka Satsuki với sức mạnh ma cà rồng của cô được thỏa mãn sepenuhnya.`
+\
+` Và khi SHIKI làm điều đó, và làm điều này, và làm điều kia [line=4]`
+\
+ld l,"tachi/stk_t11",crossfade,200
+` Ờ, sao nhiều dấu sao thế này...?`
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Tôi nói rồi mà, không được spoil đâu.`
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` Nhưng chẳng phải ổn chứ?@
+` , Không quan trọng họ biết hay không vì thân phận thật của Sacchin sẽ mãi mãi bị giấu kín.`
+\
+cl l,rshutter,800
+` Ua a!@
+` Nó sẽ không mãi mãi trong bóng tối đâu.[line=3]`
+\
+bg #000000,rshutter,2000
+wait 1000
+bg "bg/bg_59",bcartain,800
+ld r,"tachi/neko_t01a",crossfade,200
+` Chắc đây là hết rồi.`@
+` Vậy là cậu đã tận hưởng đủ 15 phút nổi tiếng rồi, Sacchin?`
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Ừm, thế này chẳng thể là kết thúc đâu.`@
+` [line=3]Tình huống đã hoàn thành, còn rất nhiều hình ảnh sự kiện nữa.
+\
+ld r,"tachi/neko_t01b",crossfade,200
+` Gã nấm nhìn qua kịch bản của cậu rồi cứ đập đầu vào tường.@
+` Đó là hai năm trước, nên tôi đoán tất cả những trò cười bây giờ đều cũ rích rồi.
+\
+ld l,"tachi/stk_t11",crossfade,200
+` Tôi, tôi chắc chắn anh ấy sẽ viết lại nó trong trường hợp đó!@
+` Một người lạ mặt nói rằng Tsukihime sẽ được viết lại sau Fate!
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Tôi đoán người lạ đó là một kẻ thật sự kỳ quặc, nên tôi không tin anh ta.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Ừm, nhưng kịch bản của cậu có thể xuất hiện sau Fate.@
+` Gã nấm và gã hầu gái đều muốn cậu thành công.
+\
+ld l,"tachi/stk_t09",crossfade,200
+` Ồ, thật sự!?
+\
+ld r,"tachi/neko_t01b",crossfade,200
+`  Nya.@
+` Nhưng nó sẽ có tựa đề kỳ lạ không phải là Tsukihime.
+\
+ld l,"tachi/stk_t11",crossfade,200
+` T-không thể làm như vậy!@
+` Tohno-kun sẽ không xuất hiện trong bất kỳ câu chuyện nào khác!
+\
+ld r,"tachi/ark_t30",crossfade,200
+`  Hm?@
+` À? Vậy cậu không muốn câu chuyện riêng của mình, mà chỉ muốn kết nối với Shiki?
+\
+ld l,"tachi/stk_t07",crossfade,200
+` Eh...... Vâng, đúng vậy.
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Tôi đã làm cho anh ấy khóc vào cuối cùng.@
+` Nếu có cách nào khác để kết thúc nó, tôi muốn anh ấy cười khi chúng ta chia tay.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Tôi hiểu.@
+` Tôi sẽ thực hiện điều ước của cậu vậy.@
+` Tôi sẽ gấp đôi, thậm chí là gấp tư lần.
+\
+bg #ffffff,crossfade,1500
+bg "bg/s17",crossfade,1000
+ld l,"tachi/neko_t01a",crossfade,200
+` Cậu thấy thế nào?@
+` Bây giờ cậu đã thân thiết với Shiki rồi. Cậu hài lòng chưa?
+\
+`  "xxxxxxxxxxxxxxxxx"
+\
+ld l,"tachi/neko_t01b",crossfade,200
+` Tôi đoán là quá nhiều cho Sacchin.@
+` Vậy, phần cuối cùng, tôi sẽ cho cậu xem chuyện gì xảy ra trong cao trào của đường dẫn của cậu.
+\
+play "*04"
+bg #000000,bshutter,800
+bg "bg/bg_52",crossfade,800
+` Satsuki ngày càng giống ma cà rồng hơn theo thời gian.@
+` Michael Roa Valdamjong chấp nhận tài năng của Satsuki và đến tìm cô để kiểm soát.
+\
+` Để bảo vệ Satsuki, Shiki và công chúa ma cà rồng trắng đi đến cứ điểm của Roa, trường học.@
+`  Nrvnqsr Chaos, người bạn thề nguyền của Xà Akasha, đang chờ đợi tại đó.
+\
+` Căn nhà bốc cháy và thị trấn bị đám quái vật đen bao vây!
+\
+` Trong khi trận chiến ba bên cho quan tài của Roa vẫn đang diễn ra, Satsuki cuối cùng cũng quyết định chiến đấu, nhưng[line=5]
+\
+` Tập tiếp theo trên Tsukihime. Tập cuối cùng của đường dẫn Yumizuka Satsuki, Phá hủy Mộng và Thực tại.@
+` Người nắm giữ chìa khóa cho mọi thứ là[line=4]
+\
+playstop
+bg #ffffff,crossfade,800
+wait 2000
+bg "bg/bg_sp02",crossfade,2000
+ld r,"tachi/neko_t01b",crossfade,200
+` Này-nya.
+\
+ld l,"tachi/stk_t12",crossfade,200
+` Kyaaa[line=4]nó cháy[line=3]!?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` À, Sacchin đang cháy.
+\
+` Một khẩu pháo!?@
+` Tại sao!?@
+` Tại sao lại có một khẩu pháo! ?
+\
+ld r,"tachi/ark_t31a",crossfade,200
+` Đừng xem nhẹ điều này, bởi vì đây không phải là khẩu súng bình thường.@
+` Đây là một khẩu súng được lắp đặt ở trên nóc dinh thự Tohno để tiêu diệt ma cà rồng.
+\
+` Sacchin sẽ bị nhắm mục tiêu từ trên đồi với khẩu súng này.
+\
+ld l,"tachi/stk_t04",crossfade,200
+` Ôi, tôi đang gặp khó khăn lớn! Giúp tôi, Tohno-kun...!@
+` … Chờ tí, câu chuyện này là gì!?
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Bạn sẽ phải chơi trò chơi để tìm ra.@
+` Nếu tôi tiết lộ quá nhiều thì nó sẽ nhàm chán.
+\
+bg #ffffff,crossfade,1000
+play "*03"
+bg "bg/bg_59",bcartain,800
+ld r,"tachi/neko_t01b",crossfade,200
+` Chà, thời hạn đang đến gần.@
+` Giờ là lúc chia tay, Sacchin.
+\
+ld l,"tachi/stk_t13",crossfade,200
+` Gì...?@
+` Có thể kết thúc bây giờ vì chúng ta sắp hết chuyện để nói, nhưng bạn có nghĩa là thời hạn?
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Đây là thời hạn của quả bom hạt nhân được đặt trong quán cà phê này.@
+` Còn 3 giây nữa, về bản chất.
+\
+ld l,"tachi/stk_t09",crossfade,200
+` 3 giây… Haha, chúng ta thậm chí không thể chạy kịp thời gian.
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Ừm, tôi chúc bạn may mắn.@
+` Hãy gặp lại nhau trong kịch bản Sacchin nếu bạn sống sót.@
+` Chúng ta sẽ trở thành kẻ thù sau đó, đúng không?
+\
+ld l,"tachi/stk_t10",crossfade,200
+` Được… Nhưng quả bom dường như đang ở lưng của bạn… Thực ra, nó trông giống như tên lửa hạt nhân hơn.
+\
+ld r,"tachi/ark_t30",crossfade,200
+` Gì-nyaaaaa!!!!!???
+\
+ld r,"tachi/neko_t01a",crossfade,200
+` Ôi, bạn có thể lấy giúp tôi, Sacchin?
+\
+ld l,"tachi/stk_t03",crossfade,200
+` Xin lỗi, tôi từ chối.`
+\
+cl a,crossfade,200
+ld c,"tachi/ark_t30",bshutter,200
+` Gnyaaa!`@
+` Máy hạ cánh biến thành tên lửa đạn rồi sao!?
+\
+rocket layer=c my=-600 magnify=0.2 time=1200 accel=5 mode=stNearest wait=false
+wave pd/fly
+bg #ffffff,lcircle,1200
+bg "bg/ima_06b",ccircle,400
+` Cậu... giam tôi, Ciel!@
+` Lời thề như ba anh em Lưu Bị chúng ta đã thề ở khu vườn hồ cá sấu đâu rồi?`
+\
+bg "bg/title_01",crossfade,800
+wave pd/s21
+bg #ffffff,crossfade,2000
+wait 4000
+play "*03"
+bg "bg/bg_59",lcartain,1000
+ld c,"tachi/stk_t13",crossfade,200
+` Tôi đơn độc bây giờ.`
+\
+` Giám đốc chương trình đã đi rồi, nên tôi nghĩ việc ở lại đây cũng chẳng có tác dụng gì.@
+` Xin lỗi, tôi muốn xem hóa đơn!`
+\
+ld c,"tachi/stk_t01",crossfade,200
+` Ừ, tôi về nhà đây. Nhưng tôi để lại một tin nhắn cho các cậu.`@
+` Mọi người đều đồng ý rằng cốt truyện của Satsuki sẽ được phát hành dù bằng cách nào đi nữa.`
+\
+` Sẽ là một khoảng thời gian dài nghỉ ngơi, nhưng xin hãy thư giãn và chờ đợi.`
+\
+ld c,"tachi/stk_t03",crossfade,200
+` Chào tạm biệt!@
+` Gặp lại trên đồi lúc hoàng hôn trong cốt truyện chính của Tsukihime nhé!`
+\
+playstop
+cl c,tshutter,800
+bg #000000,crossfade,3000
+textbox nvl

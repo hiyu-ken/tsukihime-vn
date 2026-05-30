@@ -1,0 +1,157 @@
+play "*1"
+wavestop
+bg "bg/bg_06a",notrans,0
+`"…… Xin thầy lượng thứ cho em ạ. Thực chất bấy giờ thể xác em cảm thấy không được khỏe cho lắm. Em xin phép được xuống phòng y tế của trường nằm nghỉ ngơi một lát ạ, thế nên cậu cứ đi xuống nhà ăn dùng bữa trước cùng Arihiko đi nhé Senpai."@
+ld c,"tachi/cel_t09",crossfade,400
+` Thầy giáo chủ nhiệm khẽ thở dài bất lực.@
+`"…… Thầy chịu chẳng biết rốt cuộc đang có chuyện gì tồi tệ xảy ra với em, thế nhưng chớ có gượng ép thể xác quá mức nhé Tohno-kun."@
+`"[line=2]Dạ vâng ạ, em chỉ xuống phòng y tế nằm nghỉ ngơi tĩnh dưỡng một lát thôi chứ tuyệt đối không dám làm gì quá sức đâu thưa thầy."@
+cl c,lshutter,800
+` Ép bản thân gượng nở một nụ cười nhạt nhòa để che mắt mọi người, tôi vội vã cất bước rời khỏi lớp học.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_06b",lshutter,800
+` Đến thời khắc tôi quay trở lại lớp học bấy giờ thì các tiết học buổi chiều thực chất đã hoàn toàn khép lại từ lâu rồi.@
+` Lúc này đây chỉ còn duy nhất bản thân tôi cô độc đứng giữa phòng học vắng vẻ, trong khi toàn bộ học sinh khác đều đã nhanh chóng thu dọn đồ đạc để ra về hoặc vội vã tham gia vào các hoạt động câu lạc bộ ngoại khóa của họ.@
+br
+`"[line=4]Tốt rồi..."@
+br
+` Bản thân tôi bấy giờ dứt khoát cũng tuyệt đối không có bất kỳ lý do khả dĩ nào để tiếp tục nán lại ngôi trường này thêm nữa.@
+` Tôi lẳng lặng thu xếp toàn bộ sách vở, đồ dùng học tập gọn gàng vào chiếc cặp sách của mình rồi cất bước rời khỏi phòng học.
+\
+bg #000000,lcartain,800
+bg "bg/bg_23b",lcartain,800
+` Lúc này đã là đúng bốn giờ chiều rồi.@
+` Tôi đã trót hẹn ước với Hisui là bản thân chắc chắn sẽ trở về biệt thự vào khoảng bốn giờ, thế nên bấy giờ tôi dứt khoát tuyệt đối không được phép phí phạm dẫu chỉ một giây để lang thang vất vưởng dọc đường nữa.
+\
+bg #000000,lcartain,800
+bg "bg/bg_22b",lcartain,800
+`"... ... ... "@
+` Đang sải bước nhanh leo lên con dốc dài, tôi bỗng đột ngột khựng bước chân lại.@
+` Vào chính thời điểm hoàng hôn của ngày hôm qua.@
+` Đầu óc tôi bấy giờ lại chập chùng hiện lên hình ảnh thời khắc chia tay vô vô cùng tự nhiên và rạng rỡ giữa Yumizuka và tôi.
+\
+`"……"@
+` Thực lòng mà nói, sâu trong thâm tâm tôi bấy giờ thực sự vô cùng lo lắng cho tình cảnh hiểm nghèo của Yumizuka. Thế nhưng dẫu cho bản thân có sốt ruột và lo âu đến phát điên đi chăng nữa, thì dứt khoát lúc này cũng chẳng có bất kỳ hành động thực tế nào tôi có thể làm để giúp ích được cho em ấy cả.@
+` Tôi đã từng kiên định cất lời thề hứa với em ấy rằng bản thân chắc chắn sẽ luôn sẵn lòng dang rộng vòng tay bảo vệ, giúp đỡ em ấy bất cứ khi nào em ấy lâm vào nghịch cảnh hiểm nghèo cơ mà.@
+` Thế nhưng giờ đây, khi em ấy thực sự biến mất biệt tăm biệt tích, tôi thậm chí còn hoàn toàn bất lực chẳng thể biết rõ mình bắt buộc phải làm cách nào mới có thể cứu giúp được em ấy đây.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,800
+play "*1"
+` Leo lên tới đỉnh đồi, tôi chậm rãi bước đi dọc theo bức tường đá sừng sững quen thuộc dẫn thẳng tới cánh cổng sắt lớn của biệt thự gia tộc Tohno.@
+`"…… Căn biệt thự kiểu Tây nguy nga tráng lệ này quả thực trông hoàn toàn lạc điệu, tách biệt hẳn so với toàn bộ thế giới xung quanh nơi đây."@
+` Nằm sừng sững ngay chính giữa khu dân cư yên tĩnh trên đỉnh đồi cao rộng, căn biệt thự khổng lồ hùng vĩ này thực sự mang lại cho người đối diện một ấn tượng vô cùng mạnh mẽ hệt như một lâu đài cổ kính được bứng thẳng tới từ một quốc gia phương Tây xa xôi nào đó vậy.@
+` Đã vậy, để tô điểm thêm cho sự nguy nga tráng lệ lạc điệu đó... [line=4]
+ld c,"tachi/his_t16",lshutter,800
+`"Chào mừng cậu chủ Shiki đã trở về nhà ạ."@
+ld c,"tachi/his_t01",crossfade,400
+` Và đứng sừng sững ngay trước cổng sắt khổng lồ để kiên nhẫn chào đón tôi trở về, dĩ nhiên chính là hầu nữ riêng của tôi.@
+` Hisui bấy giờ đang đứng phăng phắc phăng phắc như một bức tượng sống động sừng sững ngay bên mép cổng.
+\
+`"Cảm ơn em nhiều nhé, Hisui... À, xin phép cho tôi được hỏi han đôi chút, em đừng nói với tôi là em đã kiên nhẫn đứng chực chờ tôi ở cổng sắt lạnh lẽo này suốt từ lúc nãy đến giờ đấy nhé?"@
+`"Dạ hoàn toàn không phải suốt từ lúc nãy đâu ạ thưa cậu chủ. Thực chất em chỉ mới đứng chực chờ ở đây được khoảng nửa tiếng đồng hồ thôi ạ. Liệu bấy giờ đang có biến cố gì bất thường xảy ra sao ạ thưa cậu chủ Shiki?"@
+` Em ấy cất giọng điệu đáp lời một cách vô cùng điềm tĩnh, nhã nhặn và thực tế đến mức khiến lòng tôi trào dâng cảm giác vô cùng ái ngại.@
+` ... Việc bắt một cô bé phải đứng chực chờ mình dưới tiết trời gió lạnh thế này thực sự là một sự biệt đãi quá mức chịu đựng đối với tôi.
+\
+`"[line=3]Tôi thực sự vô cùng hạnh phúc và biết ơn vì em đã cất công đứng đây chào đón tôi trở về, thế nhưng lần sau em tuyệt đối không cần phải hành xử cung kính quá mức đến nhường ấy đâu nhé Hisui.@ Việc khoác trên mình bộ trang phục hầu gái nổi bật thế này rồi đứng sừng sững ở cổng sắt cho bàn dân thiên hạ ngó nhìn thực sự khiến tôi cảm thấy có chút ngượng ngùng và ngượng ngập đấy."@
+` Hơn nữa tiết trời bấy giờ đã là những ngày cuối đông lạnh giá rồi, đứng đón gió lộng ngoài trời thế này sẽ rất nhanh bị nhiễm lạnh mất.@
+`"... ... ... "@
+` Hisui lẳng lặng giữ im lặng không đáp lời.@
+` Với diện mạo thanh tú mang đậm nét lai Tây quý phái cùng đôi mắt xanh biếc trong vắt hệt như được chạm khắc tỉ mỉ từ những khối pha lê thượng hạng, em ấy điềm nhiên dõi mắt trừng trừng nhìn tôi bằng một ánh nhìn vô cảm, phẳng lặng lạnh lùng.@
+` Một bầu không khí im lặng, ngượng ngập kéo dài bao trùm lấy hai chúng tôi.
+\
+ld c,"tachi/his_t01b",crossfade,400
+`"Dạ, em đã thấu hiểu rõ ý nguyện của cậu chủ rồi ạ. Vậy thì kể từ ngày mai trở đi, em xin phép sẽ chỉ đứng túc trực chực chờ cậu chủ ngay tại tiền sảnh bên trong biệt thự thôi ạ."@
+` Hisui khẽ cúi gập người cung kính đáp lời rồi lẳng lặng sải bước mở rộng cánh cổng sắt lớn cho tôi bước vào.@
+ld c,"tachi/his_t01",crossfade,400
+` Sắp đặt xong xuôi, em ấy lại lập tức quay trở lại với trạng thái bất động phăng phắc hệt như một bức tượng đá vô tri.@
+` Ngay khi tôi đặt chân băng qua cổng sắt để bước đi vào khoảng sân vườn râm mát phía trong biệt thự, em ấy lại lẳng lặng nhẹ nhàng bước nhanh theo sát sau lưng tôi.
+\
+bg "bg/bg_48b",lshutter,800
+` Vừa bước chân tiếp cận sát lối vào chính của căn biệt thự, Hisui đã bất ngờ sải bước nhanh vượt lên chắn ngay phía trước mặt tôi.@
+`"Ối...!"@
+` Theo phản xạ tự nhiên của cơ thể, tôi giật mình hốt hoảng nhảy lùi lại phía sau một bước.@
+ld c,"tachi/his_t08",crossfade,400
+`"... Dạ cậu chủ Shiki có làm sao không ạ? Đã xảy ra biến cố gì bất thường sao ạ?"@
+`"[line=5]À... dạ không, không có chuyện gì đâu em, chỉ là đầu óc tôi bấy giờ đang mơ màng suy nghĩ vớ vẩn nên mới giật mình thôi mà."@
+`"... ... ... "@
+cl c,lshutter,800
+` Em ấy lẳng lặng quay đầu, nhẹ nhàng đẩy cửa chính bước vào tiền sảnh rộng lớn không một tiếng động.@
+` Hóa ra hành động vượt lên chắn trước mặt tôi lúc nãy của em ấy thực chất chỉ là vì muốn nhanh nhẹn đi lên phía trước để kịp thời mở cửa đón chủ nhân vào nhà mà thôi.
+\
+` Lặng lẽ đi theo sau lưng chủ nhân, kiên nhẫn chực chờ cho đến khi có cơ hội được hầu hạ rồi âm thầm thực hiện nhiệm vụ một cách hoàn hảo không một lời than vãn.@
+` Đó dĩ nhiên chính là nghĩa vụ tối thượng của một hầu nữ phục vụ gia đình quyền quý, thế nhưng đối với một con người bình thường quen lối sống tự lập từ nhỏ như tôi thì việc luôn có một bóng dáng dõi theo và cung kính phục vụ từng cử động nhỏ nhặt thế này thực sự khiến tôi cảm thấy có chút bất an và ái ngại vô cùng.@
+` …… Tình trạng này thực sự hoàn toàn không ổn chút nào cả. Nó chỉ mang lại cho tôi một cảm giác tồi tệ hệt như bản thân chỉ là một vị khách vãng lai đang tạm thời nương náu trong chính căn nhà của mình vậy.
+\
+bg #000000,lshutter,400
+bg "bg/bg_33b",lshutter,800
+`"À này, Hisui ơi?"@
+ld c,"tachi/his_t01",lshutter,400
+`"Dạ vâng thưa cậu chủ Shiki, cậu chủ có điều gì cần em hầu hạ sao ạ?"@
+`"Tôi đã cất lời giải thích chuyện này từ ngày hôm qua rồi cơ mà, bản thân tôi thực sự luôn muốn tự mình sửa soạn và thực hiện những việc vặt cá nhân dẫu cho có thể tự làm được. Em làm ơn hãy để tôi được tự do tự lập làm những việc đó đi nhé."@
+` "Nói thật lòng cho em biết bí mật này nhé, sâu trong thâm tâm tôi thực ra là một kẻ vô cùng lười biếng và tùy tiện đấy, thế nên bình thường tôi dứt khoát toàn thích tự mình lười nhác làm cho nhanh thôi."@
+` "Thế nên em làm ơn hãy tuyệt đối giữ kín bí mật động trời này đừng để cho Akiha biết nhé."
+\
+`"... Dạ em thực sự chưa thể thấu hiểu rõ ý nguyện của cậu chủ ạ. Lời cậu chủ bấy giờ có nghĩa là em bắt buộc phải hành xử nghiêm khắc và quản lý cậu chủ chặt chẽ hơn nữa sao ạ?"@
+`"Hả!? Không phải thế đâu em, dứt khoát tuyệt đối không phải là như thế đâu mà! Tôi chỉ là muốn bản thân được tự do sống một cuộc đời thoải mái và giản dị nhất có thể thôi em."@
+`"... Dạ em xin chân thành tạ lỗi cùng cậu chủ ạ. Đầu óc em bấy giờ thực sự vô cùng ngu muội nên hoàn toàn chưa thể thấu hiểu nổi những lời chỉ dạy sâu xa của cậu chủ Shiki ạ."@
+`"[line=2]... À thôi, không có gì đâu em. Chính vì thế nên lúc nãy tôi mới bảo em đừng có dùng gương mặt nghiêm nghị và trang trọng quá mức đó để trừng trừng nhìn tôi mãi mà."@
+` "... Cử chỉ cung kính quá mức đó thực sự khiến tôi cảm thấy vô cùng ái ngại đấy."@
+` "Tối hôm qua khi hai đứa chúng tôi có một cuộc trò chuyện ngắn ngủi về chủ đề này tôi vốn dĩ đã lờ mờ linh cảm thấy điều bất thường rồi, thế nhưng tôi tuyệt đối chưa từng nghĩ em ấy lại có thể coi trọng và suy diễn sâu xa câu chuyện đó đến nhường này."
+\
+`"[line=3]Khổ quá đi mất, ý tôi muốn nói ở đây chỉ đơn giản là em tuyệt đối chớ lo lắng bận lòng quá nhiều vì tôi mà thôi."@
+` "Mấy công việc nặng nhọc như giặt giũ quần áo hay nấu nướng món ăn thì tôi dĩ nhiên vô cùng biết ơn vì được các em tận tình giúp đỡ rồi, thế nhưng ngoài những việc đó ra thì tôi hoàn toàn có thể tự mình chăm sóc tốt cho bản thân mà."@
+` "Vả lại không phải bấy giờ chỉ có duy nhất em và Kohaku-san là đang phải ngày ngày gồng mình quản lý, dọn dẹp toàn bộ căn biệt thự khổng lồ nguy nga này sao? Thế nên tôi thực sự không muốn bản thân trở thành một gánh nặng mệt mỏi đè nặng thêm lên đôi vai của các em chút nào cả, em hãy mau chóng thư giãn và thả lỏng bản thân đi nhé!"@
+ld c,"tachi/his_t01",crossfade,400
+`"... ... ... "@
+` Từng biểu cảm trên gương mặt xinh xắn phẳng lặng của em ấy bấy giờ thực sự hoàn toàn không hề có dẫu chỉ một chút thay đổi hay lay chuyển nào cả.@
+` Em ấy dứt khoát giữ im lặng tuyệt đối chứ không cất lời đáp, thậm chí đến cả một cái gật đầu nhẹ nhàng tỏ ý đồng thuận cũng không có.@
+` Chỉ có đôi mi dài thanh tú là khẽ khép nhẹ lại một lát hệt như đang âm thầm suy ngẫm điều gì đó vậy.
+\
+`"Dạ, em đã thấu hiểu rõ rồi ạ. Thế nhưng cậu chủ Shiki tuyệt đối chớ lo lắng bận lòng quá nhiều vì em ạ."@
+cl c,lshutter,800
+br
+` [line=4]Trời đất ơi, em ấy thực sự hoàn toàn chẳng chịu thấu hiểu ý tôi dẫu chỉ một chút rồi... @
+br
+` Dứt lời xong xuôi, Hisui vội vàng sải bước lách người tránh sang một bên hành lang để mở rộng lối đi cho tôi di chuyển.
+\
+` Tôi bất lực buông xuôi một tiếng thở dài thườn thượt.@
+` ... Sự tận tụy và trung thành tuyệt đối này của em ấy quả thực khiến lòng tôi trào dâng một cảm giác vô cùng ấm áp và vui sướng, thế nhưng dẫu vậy tôi nghĩ mọi chuyện sẽ tốt đẹp hơn biết mấy nếu em ấy chịu thừa hưởng dẫu chỉ một nửa sự tươi tắn, rạng rỡ và lém lỉnh của Kohaku-san.@
+` Bản thân em ấy vốn dĩ luôn sở hữu một khí chất vô cùng thanh cao và xinh đẹp bao quanh, thế nên giá như em ấy chịu thả lỏng bản thân ra đôi chút thì mọi chuyện chắc chắn sẽ... 
+[line=2]\
+\
+ld c,"tachi/his_t01",lshutter,800
+`"À... dạ không đâu em, tôi chỉ đang bận đứng suy nghĩ vẩn vơ về một vài chuyện nhỏ nhặt thôi mà."@
+` Tôi khẽ ngoảnh đầu nhìn sang bên cạnh rồi cất bước đi về phía các bậc cầu thang dẫn lên tầng hai.@
+` Ánh mắt của Hisui bấy giờ vẫn lặng lẽ dõi theo chiếc cặp sách tôi đang cầm trên tay với vẻ mặt vô cùng đượm buồn đầy khao khát.@
+` ... Tôi đoán em ấy thực sự đang vô cùng muốn tôi trao chiếc cặp này cho em ấy mang giúp lên phòng ngủ.@
+` Em ấy dẫu đã cất công đứng chực chờ đón tôi suốt nửa tiếng đồng hồ gió lạnh ngoài cổng sắt, thế mà giờ đây khi bước vào nhà lại vẫn kiên trì khao khát được mang chiếc cặp sách này giúp tôi nữa.@
+` Phớt lờ ánh nhìn đượm buồn đầy mong mỏi ái ngại đó của em ấy, tôi vội vã rảo bước nhanh chân đi thẳng về phía phòng ngủ của mình.
+\
+\
+bg #000000,lcartain,400
+bg "bg/bg_40b",lcartain,400
+ld c,"tachi/his_t01",lshutter,400
+`"... Hisui này, em bảo một mình em chịu trách nhiệm dọn dẹp toàn bộ căn biệt thự khổng lồ này sao? Vậy thì tôi thực sự thắc mắc không biết bấy giờ Akiha và Kohaku-san đang bận rộn làm chuyện gì thế em?"@
+`"Dạ tiểu thư Akiha bấy giờ đang túc trực trong phòng khách rộng lớn để giải quyết các thủ tục pháp lý liên quan đến công ty gia đình và các vấn đề thừa kế tài sản khổng lồ do Makihisa-sama để lại ạ. Còn chị Kohaku bấy giờ có lẽ đang quét lá rụng dọn dẹp ngoài sân vườn phía sau ạ."
+\
+\
+`"Dạ đúng vậy ạ thưa cậu chủ. Có vẻ như tiểu thư bấy giờ đang phải tiếp nhận các buổi báo cáo cặn kẽ về toàn bộ chính sách quản lý và vận hành của công ty gia đình, thế nên tiểu thư chắc chắn sẽ vô cùng bận rộn tối tăm mặt mũi cho đến tận giờ dùng bữa tối đấy ạ thưa cậu chủ."@
+`"……"@
+` Đúng vậy nhỉ, cha tôi bấy giờ đã đột ngột trút hơi thở cuối cùng vì bệnh tật, thế nên có lẽ ông ấy lúc sinh thời tuyệt đối chưa từng mảy may chia sẻ dẫu chỉ một chút thông tin nào về cách quản lý vận hành công ty cho Akiha biết cả.@
+`"Tôi biết rồi, xin chân thành cảm ơn em đã tận tình thông báo nhé Hisui. Tôi hứa sẽ lập tức rung chuông gọi em nếu có bất kỳ chuyện gì xảy ra, thế nên em hãy cứ yên tâm quay trở lại dọn dẹp biệt thự đi nhé."@
+ld c,"tachi/his_t16",crossfade,400
+ld c,"tachi/his_t16",crossfade,400
+\
+\
+cl c,crossfade,400
+bg #000000,lshutter,800
+bg "bg/bg_40b",lshutter,800
+playstop
+` Chiếc kim đồng hồ bấy giờ khẽ chỉ thời gian vừa bước qua năm giờ chiều.@
+` Nếu cứ tiếp tục nằm lười rúc đầu trong phòng ngủ thế này thì thực sự vô cùng lãng phí dòng thời gian tươi đẹp ban chiều. Thiết nghĩ giờ đây tôi nên... 
+[line=4]\
+\

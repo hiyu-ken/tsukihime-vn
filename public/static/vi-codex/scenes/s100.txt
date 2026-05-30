@@ -1,0 +1,41 @@
+monocro off
+playstop
+waveloop se_02
+bg "bg/bg_29c",notrans,0
+` ... Vẫn còn quá sớm.@
+` Có khoảng mười mét cách tôi và Nrvnqsr.@
+` Tôi cần một sự mở đầu rõ ràng hơn trước khi tôi có thể tiến gần mà không để anh ta nhận ra tôi.
+\
+`"[line=6]"@
+` Tôi nuốt một ngụm nước bọt.@
+` [line=4][line=4]Một chút nữa... một chút nữa, điều gì đó...
+\
+`"... Tôi không hiểu."@
+` Anh ta thì thầm.@
+` Như thể đang nói chuyện với mặt trăng trên trời, Nrvnqsr thì thầm to.
+\
+`"Việc đối mặt với sự thù địch đáng ghê tởm như vậy thật khó chịu, nhưng tôi không nghĩ đây là một trong những người thân cận của Công chúa.@ Liệu điều này chỉ là rác thải?"@
+`"[line=6] Chạy đi, Shiki!"@
+` Giọng nói bình tĩnh của Arcueid.
+\
+`"……… Ồ?"@
+` Nhưng tôi không thể hiểu kịp thời.
+\
+bg #000000,bcartain,1500
+wavestop
+` Chân tôi bắt đầu chìm xuống thứ gì đó.@
+` Đất rắn chắc dưới chân tôi giống như bùn lầy nhanh khô.@
+`"A" [line=6]@
+` Mặt đất đầy thứ đen như mực.@
+` Cơ thể tôi sụp đổ.@
+` Chân tôi chìm vào bùn đen, không có gì giữ lại.
+\
+`"[line=6]"@
+` Tôi rơi xuống bùn với một tiếng đập lớn.@
+` ... Không có đáy nào cả.@
+` [line=5]Bùn đen biến thành miệng của một sinh vật khổng lồ và nén chặt cơ thể tôi.
+\
+wait 2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

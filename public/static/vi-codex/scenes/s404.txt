@@ -1,0 +1,319 @@
+playstop
+wavestop
+bg "bg/bg_40a",notrans,0
+` [line=8]Không đủ.@
+br
+textcolor #ff0000
+` *Hít thở gấp gáp* *Hít thở gấp gáp* *Hít thở gấp gáp*
+textcolor #ffffff
+br
+` Tôi không còn hơi sức, nhưng...
+` Không gần đủ.@
+` Bị như vậy nhiều đến thế.@
+` Khi Hisui làm điều này, tôi không thể để nó kết thúc ngay bây giờ.
+\
+`"[line=3]Shiki-sama...? Cậu nên có thể di chuyển cơ thể mình rồi...",@
+`"[line=5](không có văn bản)@
+` Hisui tiến lại gần một chút.@
+` Mặt cô ấy tỏa sáng. Tôi kéo tay cô ấy, nhấc cô ấy lên giường.
+\
+`"[line=3]Ôi trời ơi, Shiki-sama, cô đang làm gì vậy...!"@
+`"[line=3]Cái gì? Sau tất cả những việc này, cô có định từ chối, Hisui à?"@
+`"[line=3]Không... Không! Tôi chỉ muốn giúp cô thôi..."@
+` Hisui cố gắng thoát ra.@
+` Nhưng nỗ lực đó không kéo dài lâu.@
+` Với lưng áp vào gối, cô nhận ra mình không thể di chuyển thêm được nữa.
+\
+` [line=4]Đột nhiên một tiếng động vang lên.@
+` Trái tim tôi đập nhanh.@
+` Tất cả các mạch máu trong tôi đang ra lệnh cho tôi.@
+textcolor #ff0000
+` VIỆC PHÁ VỊN NÓI CHẾT CỦA HỌ
+textcolor #ffffff
+` Làm đi.@
+` Những lời này vang vọng trong đầu tôi.
+\
+`"Nóng quá[line=3]Tôi nóng đến mức có thể chết, Hisui."@
+`"Không...! Xin hãy bình tĩnh lại, lấy lại sự kiểm soát bản thân, Shiki-sama..."@
+br
+` [line=4]Một tiếng đập mạnh.@
+br
+` Điều này không thể nào xảy ra được.@
+` Cái gì đã khiến tôi trở nên như thế này,
+!w750
+` Cái gì đã làm tôi như vậy,
+!w750
+` Điều gì tôi giờ đây mong muốn,
+!w750
+` Và cái gì đã khiến tôi khao khát nó?@
+!w750
+br
+` Tất cả... đều là những hành động của Hisui dành cho tôi.
+\
+textcolor #ff0000
+` [line=4]Tôi thở dốc, nhịp tim đập mạnh.
+textcolor #ffffff
+br
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+bg #9c0120,crossfade,400
+`"Đừng…… Làm ơn dừng lại, Shiki-sama……!"@
+` Tôi nghe thấy giọng nói của cô ấy.@
+` Nhưng... giọng nói đó... lại có tác dụng ngược lại.@
+`"[line=4]Hisui!"@
+` Và chỉ như vậy thôi,
+` Tôi trèo lên giường và ngăn cô ấy trốn thoát.
+\
+eroskip 30
+play "*6"
+bg "event/his_h03",crossfade,800
+`"N, Hwa……!"@
+` Giọng Hisui ngạc nhiên, cơ thể cô ấy bắt đầu run rẩy.
+\
+` Tôi không quan tâm đến những cử chỉ nhẹ nhàng.@
+` Tôi kéo quần áo cô ấy sang một bên và đâm mạnh bộ phận đang cháy của mình vào người cô ấy.@
+` Cô ấy hơi ẩm từ lần trước, nên tôi dễ dàng chèn vào.@
+br
+` Tiếng tôi chôn mình trong cơ thể mềm mại của Hisui giống như xé thịt.
+\
+`"[line=3]Anh... n... ah..."@
+` Hisui thậm chí còn không kháng cự.@
+` Cô ấy chỉ đầu hàng một cách xấu hổ, mặt đỏ bừng khi tôi bắt đầu di chuyển.@
+`"[line=4]... Điều này sai, Shiki-sama... Nếu... Akiha-sama phát hiện ra..."@
+` Mặc dù cô ấy từ chối tôi bằng lời nói, nhưng cơ thể cô ấy kể một câu chuyện khác.@
+` Cô ấy nâng váy lên để tránh bẩn và, trong suy nghĩ của tôi, để cho tôi tiếp cận dễ dàng hơn.
+\
+`"[line=3][line=3]Tôi không quan tâm... em là người duy nhất... lúc này."@
+` Tôi đẩy sâu hơn.@
+` Tôi tiếp tục chôn mình trong cô ấy.
+\
+`"Nn[line=5]!"@
+` Chân Hisui bắt đầu run rẩy.@
+`"Nn…… À, nó đang đến……"@
+` Như thể chúng không phải là của cô ấy, Hisui nâng chân lên và nhìn chằm chằm vào nơi chúng ta kết nối.
+\
+`"À[line=3]"@
+` Đâu sâu hơn… Đâu sâu hơn.@
+`"Nó nóng…… Hisui, bên trong em…… rất nóng……"@
+` Điều này không chỉ là ẩn dụ.@
+` Sự chuyển động của cô ấy thực sự, cực kỳ nóng bỏng.@
+` Cô ấy siết chặt lấy tôi.@
+` Cơ bắp của cô ấy nhẹ nhàng ép vào tôi, và những co thắt của cô ấy kéo tôi sâu hơn, sâu hơn nữa.
+\
+`"[line=4]U...!"@
+` Như thể muốn chống lại, tôi bắt đầu rút ra, rồi đẩy vào.@
+`"[line=3]Nnn...! Shiki-sama, ở đó!"@
+` Hông của Hisui bắt đầu lơ lửng.@
+` Cơ thể cô ấy co thắt mạnh hơn nữa.@
+` Những cơn co thắt dịu dàng của cô ấy kéo tôi xuống sâu hơn.
+\
+`"[line=4][line=4]Chờ đã, Hisui...?"@
+` Lạ thật.@
+` Bên trong Hisui... thật kỳ lạ.@
+`"[line=3]Nóng... sao mà nóng thế này?"@
+` Cảm giác này quá tuyệt vời.@
+` Nó gần như giống như hàng ngàn ngón tay đang vuốt ve tôi.@
+` Những ngón tay ấy nóng bỏng, mềm mại, và di chuyển như bao quanh từng milim của tôi.
+\
+`"[line=4]Kaa."@
+` Tôi không cần phải đẩy vào.@
+` Chỉ bằng việc ở bên trong cô ấy thôi cũng mang lại cho tôi niềm vui đủ rồi.@
+`"[line=3]Ashiki... sama... xin hãy di chuyển..."@
+` Cô ấy thì thầm như thể xấu hổ.@
+br
+` [line=4]*Đập.*@
+br
+` Trái tim tôi bắt đầu đập mạnh hơn.@
+` Đúng vậy.@
+` Tôi là người nói rằng điều đó không đủ.@
+` Niềm vui tầm thường này vẫn chưa đủ.@
+` Nếu đây là niềm vui chỉ trong khoảnh khắc, thì chắc chắn sẽ có một cảm giác vượt xa trí tưởng tượng ở phía trước.
+\
+`"[line=3][line=3]Ha, không!"@
+` Tôi di chuyển hông mình.@
+` Tôi chiến đấu chống lại sự siết chặt của Hisui, mời tôi đi sâu vào bên trong cô ấy, sau đó rút ra và đẩy mạnh trở lại.@
+`"Nn..."@
+` Cơ thể Hisui bắt đầu tách rời.@
+` Để đáp lại, cơ thể tôi ép chặt hơn.
+\
+` Lướt... lướt.@
+br
+`"[line=3]Ôi trời ơi, na, ah, ah..."@
+` Tôi trượt trên chất lỏng của cô ấy, đẩy đi và lại một cách không ngừng.@
+` Hông cô ấy di chuyển theo nhịp với tôi.
+\
+`"[line=2][line=3]Awa, ah, Shiki... San..."@
+` Cô ấy cố gắng nuốt chửng tôi hoàn toàn.@
+`"K, haa, ah, aa" [line=4] — cô ấy thì thầm.@
+` Làn tóc của cô ấy lắc lư.@
+` Đôi mắt cô ấy ngập tràn đam mê.
+\
+bg #ffffff,crossfade,400
+bg "event/his_h03",crossfade,400
+`"Ah, aah, ah" [line=3] — cô ấy khẽ thở.@
+` Hông tôi lắc lư theo nhịp điệu.@
+` Tôi không thể tập trung vào bất cứ điều gì khác.@
+` Một lần. Tôi bắt đầu cảm nhận mọi thứ dâng trào bên trong và cố kìm nén nó lại.@
+` Hai lần. Ngay cả khi tôi chống cự, Hisui càng siết chặt sự nắm giữ của cô ấy với tôi.@
+` Ba lần. Hisui bên trong thậm chí còn tước đi ý chí của tôi để kìm nén.
+\
+`"[line=3]Ha... ha..."@
+` Tôi thậm chí không biết giọng nói nào là của ai.@
+` Chỉ tạm thời,
+` Tôi đang thực sự đuối trong cơ thể Hisui.
+\
+textcolor #ff0000
+br
+` *Hít thở gấp* *Hít thở gấp* *Hít thở gấp* *Hít thở gấp*
+textcolor #ffffff
+bg "event/his_h14",notrans,0
+bg "event/his_h03",notrans,0
+br
+`"…… Không, điều đó sai rồi……!"@
+` Điều này không giống như vậy.@
+` Tôi chỉ làm thế vì tôi yêu cô ấy.
+\
+bg "event/his_h14",notrans,0
+bg "event/his_h03",notrans,0
+`"Chắc chắn rồi." [line=3]@
+` Tôi bắt đầu quên bản thân khi tôi đâm vào.@
+`"Chắc chắn."@
+` Trong lòng cô ấy, tôi có thể quên đi bản chất của mình, nên tôi tiếp tục đâm vào.@
+`"Chắc chắn, tôi là!" [line=3]@
+`"Na...!"@
+` Đầu Hisui lắc ngược lại.@
+`"[line=4][line=3]Ha, a! Shiki-sa... đau quá..."@
+`"Tôi khác rồi! Khác biệt... khác biệt..."@
+` Tôi tiếp tục đẩy mạnh.@
+` Cơ thể Hisui run rẩy không kiểm soát được.
+\
+`"[line=3][line=3]Đừng... dừng lại, Shiki-sama... Nếu cứ thế này tiếp diễn, tôi..."@
+` Tôi không nghe thấy cô ấy.@
+` Mất mình trong khoái cảm này. Nhiệt độ trước khi đạt cực điểm.@
+`"N, a, Aa……! Hãy dừng lại, xin hãy, điều này……!"@
+` Lưng của Hisui bắt đầu cong lên.@
+` Cô ấy duỗi tay ra và cố đẩy tôi đi.
+\
+` [line=3]Đánh vang một tiếng.@
+br
+`"Chưa xong đâu……! Bạn bắt đầu chuyện này, vậy thì tại sao[line=4]!"@
+` Tôi không quan tâm.@
+` Tôi không quan tâm nếu phải phá vỡ cô ấy.@
+bg "event/his_h14",notrans,0
+bg "event/his_h03",notrans,0
+` Tâm trí tôi đang cháy rực.@
+` Lửa cháy.@ Lửa bùng lên.@ Nổ tung.@
+` Chiên. Nướng. Không còn gì cả.
+\
+`"[line=3]Shiki, Shiki ơi, xin hãy dừng lại...!"@
+` *hít thở gấp* *hít thở gấp* *hít thở gấp*`
+` Đẩy, đẩy, đẩy.@
+` Hisui vẫn tiếp tục cố gắng.@
+` Nhưng tôi vẫn tiếp tục đẩy mạnh.
+\
+`"[line=5][line=5]Hả... ưm... ừm..." - Cô ấy ngừng cố đẩy tôi ra xa.@
+` Cô ấy từng chào đón tôi với sự háo hức trước đó, nhưng giờ đây nằm trên giường mệt mỏi và co giật.@
+`"Haa... ha ha, hahaha, ừm..."@
+` Hisui gục xuống, bất lực.@
+` "... Đừng... đuổi tôi... được không..." - Giọng nói yếu ớt, run rẩy.
+\
+`"... Tôi... xin lỗi... hãy tha thứ... cho tôi..."@
+` Một giọng nói yếu nhược, chập chờn.@
+` Và sau đó,
+textcolor #ff0000
+` Ha ha ha ha ha ha ha ha ha ha!
+textcolor #ffffff
+` Tôi rùng mình.@
+` Một mệnh lệnh xâm nhập vào trí óc tôi.
+\
+`"Được rồi, tôi sẽ kết thúc ngay tại đây." "[line=3]Uống đi, Hisui..."!@
+` Tôi rút ra khỏi cô ấy.@
+` Cô ấy chảy chất lỏng khắp nơi khi tôi rút dương vật cứng như đá ra khỏi lỗ bị lạm dụng của cô ấy.
+\
+bg "event/his_h04a",crossfade,800
+`"Ở đây, cậu thích nó, phải không……!"@
+` Cô ta kéo áo lên, phơi bày đôi vú nhỏ bé của mình.@
+` Tôi bắt đầu vuốt ve bản thân giữa những ngọn đồi hoàn hảo của cô ta.
+\
+`"[line=5]Nn?"@
+` Tôi đẩy vào sau đầu cô ta và ép cô ta nuốt xuống.@
+`"[line=4]Ha,n,nnn!"@
+` Điều này hoàn toàn khác so với trước đây.@
+` Nó chảy và trộn lẫn với chất dịch yêu thương của cô ta, tôi đâm nó vào miệng cô ta.
+\
+`"[line=3]Anh, không...!"@
+`"Đây rồi, Hisui..."@
+` Cảm giác lan tỏa khắp cơ thể tôi.@
+` Bị kìm ép giữa hai vòng tay cô ấy, tôi giải phóng nhiệt độ đang sôi sục bên trong.
+\
+bg #ffffff,crossfade,800
+bg "event/his_h04b",crossfade,800
+`"[line=4]Na!"@
+` Tôi bắn nó vào mặt cô ấy.@
+` Nước tinh của tôi văng tung lên người Hisui.
+\
+`"[line=3]Ha, ha...!"@
+` Giữ lại những giọt nước mắt, Hisui nuốt xuống thứ đang ở trong miệng cô.@
+` Cô nhấc lưỡi ra, hiển thị nó được sơn một màu trắng không tinh khiết.@
+` Một cách quyến rũ, một số chất lỏng của chúng ta hòa lẫn chảy từ góc miệng cô.@
+`"A... ha, [line=6]"@
+` Hisui đã cạn hết năng lượng.@
+`"Hah... hah... ha."@
+` Có vẻ như tôi vẫn có thể di chuyển.@
+` Không thể chống cự, Hisui trở thành một con búp bê mà tôi ôm lấy khi di chuyển.
+\
+` Công cụ của tôi vẫn di chuyển xung quanh.@
+br
+`"Hah... A, ah."@
+` Vẫn... tràn ngập.@
+` Chất trắng dính tiếp tục tuôn đổ.@
+br
+`"A." [line=5]@
+` Nó chảy từ ngực cô ấy và làm bẩn cả cổ.
+\
+`"Ha." [line=4]@
+` Và... nó đã hoàn tất.@
+` Cả ham muốn của tôi và cơn lốc năng lượng đang chảy trong cơ thể.@
+` Như thể sự hồi phục trước đó của tôi chưa từng xảy ra, cơ thể tôi một lần nữa trở về trạng thái đáng thương.
+\
+bg #ffffff,crossfade,800
+playstop
+bg "bg/bg_40a",crossfade,800
+`"……… @
+` Cơ thể tôi... không di chuyển.@
+` Tôi có thể di chuyển một chút, nhưng cảm giác sống động trước đây của tôi đã mất.@
+` Có lẽ là vì tôi đã đạt cực khoái quá mạnh.@
+` Có vẻ như năng lượng mà tôi thu được đã bị Hisui hút đi.
+\
+ld c,"tachi/his_t20",lshutter,800
+`"[line=6]"@
+` Hisui chỉnh lại quần áo và rời khỏi giường.@
+` [line=3]Tôi không thể nói gì với cô ấy.@
+` [line=3]Mặc dù tôi rất kích động, tôi vẫn làm những việc tồi tệ với cô ấy. Không có lý do nào để tôi biện minh cho hành động của mình.
+\
+`"...Hisui... Tôi..."@
+`"Thưa Shiki. Hãy quên chuyện này đi."@
+`"[line=3] Nhưng Hisui, tôi"@
+`"Đã quên nó rồi. Vậy... hãy làm như vậy, thưa Shiki."@
+`"[line=7]"@
+` "Tôi không biết phải phản ứng thế nào.@
+` Tôi không có lời để xin lỗi cô ấy, và cũng không có lời để cảm ơn cô ấy.
+\
+ld c,"tachi/his_t16b",crossfade,800
+`"Vậy thì, xin lỗi tôi đã lặp lại. Nhưng đừng nói với Akiha-sama hay chị gái về chuyện này."@
+cl c,lshutter,800
+`"A......"@
+` Hisui rời phòng, hay nói đúng hơn là trốn thoát.@
+` ... Nhưng điều đó cũng dễ hiểu.@
+` Sau khi trải qua tất cả, cô ấy có lẽ không muốn ở lại phòng này thêm một giây nào nữa.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_40a",crossfade,400
+` ... Giờ đã hai giờ rồi.@
+` Mặc dù đã đến lúc kiểm tra sức khỏe, Hisui có lẽ sẽ không xuất hiện.@
+` *thở dài*@
+` Tôi chỉ có thể thở dài.@
+` Làm thế nào mọi chuyện lại diễn ra như vậy?@
+` Mặc dù Hisui bắt đầu và cơ thể tôi trở nên phấn khích, tôi không cần ép cô ấy xuống và đối xử thô bạo như vậy.
+\

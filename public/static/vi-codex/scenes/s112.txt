@@ -1,0 +1,190 @@
+monocro off
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+ld c,"tachi/aki_t01a",crossfade,400
+`"Tôi hiểu rồi. Sau này tôi sẽ không hỏi về chuyện này nữa. Nhưng xin đừng bao giờ làm điều tương tự như vậy nữa. Anh trai, anh là con trai cả của gia tộc Tohno; nếu anh không hiểu rõ vị trí của mình, điều đó sẽ rất đáng lo ngại."@
+`"[line=2]Này, chuyện này không liên quan đến vấn đề đang bàn. Hơn nữa, anh là người kế thừa gia tộc Tohno, nên những hành động của tôi chẳng ảnh hưởng gì nhiều. Nếu anh thực sự lo lắng cho tương lai của gia tộc Tohno, anh nên tìm một người chồng phù hợp với gia đình Tohno."@
+ld c,"tachi/aki_t12a",crossfade,400
+`"[line=5][Dấu ngắt dòng]@
+` ...?@
+` Vì lý do nào đó, Akiha rơi vào sự im lặng.
+\
+`"Có chuyện gì vậy? Anh cảm thấy không khỏe à, Akiha?"@
+ld c,"tachi/aki_t06",crossfade,400
+`"[line=2]Không có gì. Nếu anh có đủ thời gian để lo lắng cho tôi, xin hãy chú ý nhiều hơn đến bản thân mình. Anh có vấn đề về thiếu máu mãn tính, anh trai ạ."@
+`"……… Hmph."@
+` …… Thật ra, tôi thường xuyên ngất vì thiếu máu.
+\
+`"Dù sao đi nữa, xin đừng tự mình rời khỏi biệt thự thường xuyên. Ngay cả khi không có điều đó, thành phố cũng đang nguy hiểm gần đây.@
+` Một người như cậu, lang thang trong mơ hồ chỉ mời gọi bị kẻ giết người hàng loạt tấn công."@
+`"Kẻ giết người hàng loạt?[line=2] Ôi, những vụ giết người hàng loạt ấy."@
+br
+` Những vụ giết người hàng loạt mà đã tìm thấy chín nạn nhân.@
+` [line=2]Cơ thể họ đều bị hút hết máu, nên gọi là ma cà rồng hiện đại, nhưng
+\
+`"Ôi, không sao cả. Những sự cố ấy, sẽ không bao giờ xảy ra nữa."@
+ld c,"tachi/aki_t01a",crossfade,400
+`"[line=4]Hừ?"@
+`"Đó có nghĩa là ma cà rồng không còn nữa. Kẻ giết người đó [line=2]đã bị bắt rồi."@
+`"Thật sao...? Anh trai, em biết điều này từ đâu?"@
+`"Ồ, tôi chỉ tình cờ nhìn thấy nó, nhưng chắc chắn những chuyện như vậy sẽ không xảy ra lần nữa."@
+cl c,crossfade,400
+\
+` "... Vâng, ít nhất là sẽ không có thêm ai bị Nrvnqsr giết nữa.@
+` Những ngày qua bên Arcueid... rất nhiều chuyện đã xảy ra, em thực sự không thể nói được điều đúng và sai.@
+` Nhưng, sự thật đơn giản vẫn còn đó [line=2]em có thể nói rằng tất cả đều là vì tốt đẹp nhất.
+\
+ld c,"tachi/aki_t01a",crossfade,400
+`"Anh trai? [line=4]Điều gì đã xảy ra? Anh bỗng nhiên trông rất vui vẻ."@
+` Akiha nhìn mặt tôi một cách kỳ lạ.@
+`"Không có gì. Tôi chỉ cảm thấy rằng nó cuối cùng, cuối cùng cũng đã kết thúc."@
+` Một nụ cười vô thức lướt qua môi tôi khi tôi trả lời.
+\
+bg #000000,crossfade,800
+playstop
+!w1000
+bg "bg/bg_33a",lcartain,800
+` Đã bảy rưỡi rồi.@
+` Akiha rời đi sớm hơn tôi hai mươi phút, bằng xe!@
+` Sau khi ăn bữa sáng ngon miệng của Kohaku-san, tôi quyết định đến trường.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32a",lcartain,800
+` Hisui đi cùng tôi đến cổng, mang túi của tôi.@
+`"Vậy là tôi phải đi rồi. Cảm ơn cậu đã tiễn tôi, Hisui."@
+` Hisui im lặng trao lại túi cho tôi.
+\
+ld c,"tachi/his_t01",notrans,0
+`"Shiki-sama, khoảng thời gian bạn sẽ trở về là bao giờ?"@
+`"Bạn cũng không tin tưởng tôi sao? Không sao. Tôi chắc chắn sẽ trở về vào buổi chiều."@
+`"[line=2]Tôi hiểu rồi. Vậy thì hãy cẩn thận trên đường nhé."@
+` Hisui cúi đầu sâu sắc.@
+` Cảm thấy hơi ngượng ngùng, tôi rời khỏi cổng biệt thự.
+\
+bg #000000,lcartain,400
+bg "bg/bg_24a",lcartain,400
+` Tại ngã tư, chỉ có những hình bóng của các bạn cùng trường trung học.@
+` Không có cô gái trẻ ngồi trên lan can như lần trước nữa.
+\
+`"[line=2]Chà, dĩ nhiên rồi."@
+` Tôi có lẽ sẽ không bao giờ gặp lại cô ấy nữa.@
+` Đầu tiên, mục tiêu của cô ấy là tiêu diệt ma cà rồng, và với Nrvnqsr đã mất, không còn lý do gì để cô ở lại đây lâu hơn.@
+br
+` [line=2]Chỉ một chút, trong ngực tôi.@
+br
+` Những thứ như hối tiếc... và tình cảm còn vất vưởng.@
+` Đúng là cô ấy chỉ mang đến rắc rối, nhưng ngay cả vậy... vẫn vui khi ở bên cô.
+\
+`"... Chuyện gì thế? Tôi ngu ngốc lắm à?"@
+` Tôi gần như bị giết... Phần nào trong chuyện đó khiến tôi có tình cảm còn vất vưởng?@
+` Những vết thương từ đêm qua vẫn còn đau.@
+` ... Nhớ lại lúc bạn gần như trở thành thức ăn của Nrvnqsr. Bạn chắc chắn không muốn điều gì tương tự xảy ra một lần nữa.@
+wave se_03
+br
+` Chuông trường reo.@
+`"[line=4]Ôi trời, tôi sẽ trễ rồi."@
+` Tôi xua tan những suy nghĩ lơ đãng, chạy đến cổng trường.
+\
+bg #000000,lcartain,800
+play "*3"
+bg "bg/bg_06a",lcartain,800
+` Tôi bay vào lớp học.@
+` Vẫn còn năm phút trước giờ lên lớp, nên bên trong rất ồn ào.@
+br
+`"[line=2]Thở phào."@
+` Tôi hít một hơi và đến chỗ ngồi của mình.@
+` Với thời gian còn lại như vậy, tôi thậm chí không cần phải chạy chút nào.@
+`"Này, Công tước Tội lỗi."@
+`"... ..."@
+` Từ phía sau, tôi nghe thấy giọng nói mà tôi chẳng bao giờ mong đợi.
+\
+ld c,"tachi/ari_t05",lshutter,400
+`"Tohno, sao cậu bỏ học thế? Tôi chưa từng nghe cậu bỏ lớp. Đó là một rắc rối lớn. Cậu phải nói với tôi khi nào cậu nghỉ học và đi chơi!"@
+` Arihiko nói những lời vô lý như vậy với biểu cảm vô cùng vui vẻ.
+\
+`"... Tại sao tôi phải nói với cậu khi tôi không đến trường?"@
+ld c,"tachi/ari_t01",crossfade,800
+`"Không phải là điều rõ ràng sao? Khi bạn không xuất hiện, Senpai cũng không có mặt, nên điều này xấu trừ khi tôi nghĩ ra điều gì đó trước đó."@
+` ... Điều tồi tệ với chàng trai này là gì?
+\
+`"Nhưng nghiêm túc[line=2]Điều gì đã xảy ra? Từ trung học, cậu đã bị thiếu máu, nhưng chưa bao giờ nghỉ học. Hay đúng hơn, cậu đã thực hiện trò đùa đó vài lần, rời đi ngay khi vừa đến."@
+`"Nó giống như thế này. Tôi đến ngã tư và cảm thấy không khỏe, nên tôi về nhà."@
+`"Ừm... Cả cậu và Yumizuka dường như đang hành xử như những học sinh kém trong thời gian gần đây."@
+`"[line=2]Vậy thì, tôi thừa nhận mình có lỗi, nhưng... Có chuyện gì với Yumizuka-san không?"
+\
+`"Cô ấy? Cô ấy đã vắng mặt gần đây. Cô ấy luôn là một học sinh gương mẫu, nên tôi nghĩ cô ấy có thể bị căng thẳng. Nhưng tôi đoán cô ấy không thể yêu cầu tăng lương vì tay cô ấy đang yếu."@
+`"... "@
+` Lời của Arihiko luôn… rất độc đáo.
+\
+wave se_03
+` Chuông báo hiệu giờ học đầu giờ vang lên.@
+br
+`"Này, tôi phải đi rồi. Vì cậu bỏ học vào thứ Bảy, nên hôm nay hãy học thật chăm nhé."@
+` Arihiko rời phòng học nhanh chóng.@
+` Ngược lại, cậu ấy sẽ bỏ học hôm nay.
+\
+bg #000000,lshutter,800
+!w2000
+bg "bg/bg_06a",lshutter,800
+` Các lớp học buổi sáng kết thúc.@
+` Khi chuông báo hiệu giờ ăn trưa vang lên, nửa số học sinh trong lớp học đã rời đi.@
+`"…… Vậy thì tôi phải làm gì nhỉ?"@
+` Arihiko không có mặt, nên tôi sẽ tận hưởng thời gian và ăn trưa.
+\
+ld c,"tachi/cel_t12",lshutter,400
+`"Ồ? Tohno-kun, cậu ở một mình à?"@
+`"[line=4]Đúng vậy, Thầy ơi, cậu đến đây để ăn à?"@
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=4]Vâng, tôi nghĩ tôi sẽ ăn cùng mọi người nên tôi vội đến đây, nhưng..."@
+` Cô ấy nhìn chằm chằm.@
+` Không báo trước, cô ấy nhìn vào mặt tôi một cách tập trung.@
+cl c,lshutter,800
+br
+` Tôi không biết cô ấy đang suy nghĩ gì, nhưng đột nhiên cô ấy lại tiến gần đến tôi.
+\
+`"[line=2]Này... Thầy ơi... Se?"@
+` Cô ấy ở ngay bên cạnh tôi.@
+` Khoảng cách gần như không tồn tại nữa.@
+` Trái tim tôi sẽ bất thường nếu nó không đập nhanh hơn.@
+ld c,"tachi/cel_t07a",crossfade,400
+`"[line=6]@
+` Senpai không nói gì cả.@
+` [line=4]Cô ấy chỉ đứng ngay bên cạnh tôi và ngửi xung quanh.
+\
+`"[line=4]Ồ?"@
+` ... Cô ấy đang làm gì vậy?@
+` "Senpai bỏ đi rồi."@
+cl c,lshutter,400
+`"... À, Senpai?"@
+ld c,"tachi/cel_t07a",lshutter,400
+`"Tohno-kun, có chuyện gì xảy ra không?"@
+` Cô ấy nhìn tôi với vẻ mặt nghiêm túc.@
+` Để nói thẳng ra, tôi không biết đang xảy ra điều gì.@
+`"Có chuyện gì... ừm, như thế nào vậy?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"Tôi không biết. Tôi không biết, đó là lý do tôi hỏi."@
+` Cô ấy nhìn lên tôi như thể giận dữ.
+\
+`"Không có gì đặc biệt[line=2]Tôi chỉ như mọi khi.@ Liệu... tôi có trông khác bình thường hôm nay không?"@
+ld c,"tachi/cel_t09",crossfade,400
+`"Ừm, tôi cũng không chắc lắm.@ Tôi chỉ nghĩ vậy, có lẽ tôi đang tưởng tượng."@
+`"...?"@
+` Tôi nghiêng đầu, bối rối.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Này, chúng ta đi ăn trưa nhé?@ Cậu ăn ở quán ăn hôm nay, đúng không Tohno-kun?@ Nếu không vội, chỗ ngồi sẽ hết hết."@
+`"Ừm, đúng là vậy.@ Senpai cũng ăn ở quán ăn à?"@
+`"Đúng vậy, tôi muốn ăn một cái gì đó ngon lành ngày hôm nay."@
+` Cô ấy mỉm cười và kéo tay tôi đi bộ.
+\
+bg #000000,lcartain,1500
+` Trong cuối cùng, tôi nói chuyện với Senpai về lễ hội thể thao hai tuần sau và lễ hội văn hóa ngay sau đó trong bữa trưa.@
+br
+` ... Để nói thật, Senpai nói, "Tôi muốn ăn một thứ gì đó ngon," và đặt món cà ri để lại ấn tượng sâu sắc hơn trong tâm trí tôi hơn là những gì chúng tôi đã nói.
+\
+playstop
+bg "bg/bg_06b",crossfade,1500
+` Các lớp học kết thúc và trường học tan học.@
+` [line=4]Vậy thì giờ tôi phải làm gì?
+\

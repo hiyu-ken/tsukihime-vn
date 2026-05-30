@@ -1,0 +1,52 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w1000
+bg "bg/bg_06a",lcartain,800
+` Tôi bước vào lớp, buổi học dẫu dã bắt đầu một cách tẻ nhạt như thường lệ.@
+br
+` …… Chiếc bàn của Yumizuka lúc này tịnh không có một bóng người.@
+` Dẫu cho một người bạn cùng lớp dẫu dã ra đi mãi mãi, nhịp sống học đường thường nhật vẫn tịnh không hề mảy may thay đổi.@
+br
+`"...@
+` Tôi chợt cảm thấy cõi lòng dấy lên nỗi bồn chồn bất an.@
+` Chỉ vì mải nghĩ về Hisui, tôi dẫu dã tịnh không nhớ gì đến chuyện kinh hoàng hôm ấy.@
+` Có lẽ là do sự việc ấy?@
+` Với cảm giác bất an đó, suy nghĩ của tôi lang thang trên bầu trời.
+\
+bg #000000,crossfade,800
+bg "bg/bg_06b",crossfade,800
+` Trước khi tôi nhận ra, giờ học đã kết thúc.@
+` Tôi thở dài.@
+` Thật ra tôi không muốn gặp Arihiko hay Senpai.@
+` Lúc này, tôi cảm thấy thoải mái hơn ở biệt thự Tohno so với trường học.
+\
+bg #000000,lcartain,800
+bg "bg/bg_32b",lcartain,800
+bg "bg/bg_33b",lshutter,800
+play "*1"
+` Tôi bước vào sảnh và ngay lập tức gặp Hisui.@
+ld c,"tachi/his_t16",lshutter,800
+`"Chào mừng trở lại, Shiki-sama."@
+`"Tôi về nhà rồi, Hisui. Anh có thấy Kohaku-san và Akiha không?"@
+ld c,"tachi/his_t01",crossfade,800
+`"Akiha-sama chưa về. Nee-san có lẽ đang dọn dẹp trong sân sau."@
+`"Như mọi khi. À, tôi sẽ ở phòng của mình; các người tiếp tục làm những gì vừa rồi."@
+`"Vâng. Xin lỗi nhé."
+\
+cl c,lshutter,800
+` Tôi đi lên cầu thang đến tầng hai.@
+`"À, Shiki-sama?"@
+`"Ừm?"@
+ld c,"tachi/his_t23",lshutter,400
+`"Tôi sẽ ở trong phòng của Makihisa-sama để sắp xếp mọi thứ. Nếu cần tôi, hãy gọi cho tôi."@
+cl c,lshutter,800
+` Hisui biến mất hướng về phía đông của biệt thự.
+\
+bg #000000,lshutter,400
+bg "bg/bg_40b",lshutter,400
+playstop
+` Đặt túi xuống, tôi cởi áo khoác.@
+`"... Vậy thì, như vậy thôi."@
+` Có còn một chút thời gian trước khi tối xuống, vậy tôi nên làm gì?
+\

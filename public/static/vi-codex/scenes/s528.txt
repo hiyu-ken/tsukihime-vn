@@ -1,0 +1,31 @@
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Cảm ơn!@
+` Và giờ, thời gian cho bài học thứ năm của ngày thứ hai.@
+` Nơi dành cho Tohno-kun không may mắn, người đã gặp một kết thúc tồi khác,
+` Đã đến lúc "Dạy tôi, Ciel-sensei!"
+\
+` Hãy xem, sai lầm lần này là [line=5].@
+br
+` ... Không, điều đó không thể.@
+` Sự kiện Tohno-kun đang tham gia lúc này không phải là thứ mà cậu có thể giải quyết một mình.@
+` Đừng quá cố chấp và tin tưởng những người xung quanh. Cậu nên xin họ giúp đỡ.@
+` Tôi không muốn thấy Tohno-kun trở thành kẻ giết người.
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Nhưng sau vài năm, Shiki sẽ được gọi là Shikiller, và cô ấy sẽ hợp tác với Hiệp sĩ Báo thù để truy lùng các Tử Đồ."@
+br
+` Arc-san, đó chỉ là điều cậu hy vọng, không phải sự thật.@
+` Tốt rồi, Tohno-kun. Ngớt đi người chẳng hề xuất hiện trong tuyến truyện này và tận hưởng phần còn lại của cốt truyện chính.
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",crossfade,800
+`"Ôi trời ơi. Tôi không làm gì sai cả, sao tôi không được xuất hiện nhỉ? Tôi là nhân vật chính mà."
+\
+cl c,crossfade,800
+playstop

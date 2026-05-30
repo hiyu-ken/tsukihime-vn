@@ -1,0 +1,142 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_33a",notrans,0
+` [line=3]Dẫu cho có ra sao, tôi tuyệt đối không thể nuốt lời hứa với chị ấy.@
+br
+bg #9c0120,crossfade,400
+bg "bg/bg_33a",crossfade,400
+waveloop se_02
+`"[line=5]!"@
+` Cảm giác đau đớn tột cùng tựa như có hàng vạn chiếc đinh đang điên cuồng găm thẳng vào đầu tôi.@
+` Cố ghìm cơn đau đớn buốt nhói dữ dội ấy, tôi dồn hết sức lực lê từng bước chân về phía trước.
+\
+`"Cậu Shiki, cậu không được đi như thế đâu ạ!@ Nếu cậu cứ cố tình ra ngoài trong tình trạng này, tiểu thư Akiha mà biết chuyện thì hai chị em tôi sẽ khốn đốn lắm đấy!"@
+` [line=3]Kohaku-san cuống quýt giang tay cản tôi lại, kiên quyết giữ tôi không cho bước ra ngoài.
+\
+`"[line=4]"@
+` …… Tôi hiểu thừa lý do vì sao chị ấy làm thế.@
+` Dẫu cho có liều lĩnh bước ra ngoài với cơn đau buốt nhói này, nhiều khả năng tôi cũng sẽ ngã quỵ ở một góc phố nào đó thôi.
+\
+` Đó là lý do Kohaku-san kiên quyết bắt tôi phải túc trực ở lại biệt thự bằng được.
+\
+` Nhưng lúc này tôi không thể ngoan ngoãn nghe lời nổi.@
+`"…… Im…… im đi mà."@
+` Tại sao chứ?@
+` Ngay cả chính bản thân tôi cũng chẳng thể hiểu nổi vì sao mình lại cố chấp đến thế.@@
+` Nhưng thâm tâm tôi mách bảo rằng, nếu trưa nay không chịu chạy đi gặp Senpai ngay lập tức, tôi sẽ không bao giờ có cơ hội được trông thấy bóng hình dung dị, bình yên thường nhật của chị ấy thêm một lần nào nữa.
+\
+`"Nếu cậu có lỡ hẹn hứa hẹn điều gì quan trọng, đích thân tôi sẽ chịu trách nhiệm chạy đi thông báo giúp cậu ạ, thế nên xin cậu hãy mau mau trở về phòng tĩnh dưỡng[line=2]"@
+`"Im đi! Tôi đã bảo cô mau tránh đường ra rồi mà……!"@
+`"A[line=4]"@
+` Tôi thẳng tay dùng sức đẩy phăng chị ấy sang một bên rồi phi nhanh như bay lao thẳng ra phía cửa biệt thự.
+\
+bg "bg/bg_48a",lcartain,800
+`"Không được làm thế đâu, cậu Shiki……!"@
+` Cố tinh bỏ ngoài tai tiếng gọi thất thanh của chị ấy, tôi vừa cố kiềm nén cảm giác nôn mửa dữ dội đang chực trào vừa cắm đầu phi nhanh dồn dập.@
+br
+bg #000000,lcartain,800
+bg "bg/bg_22a",lcartain,800
+` Tôi cứ thế cắm đầu chạy tháo mạng.@
+` Hệt như đang điên cuồng đuổi theo lời hứa thiêng liêng với Senpai, 
+` Hệt như đang tuyệt vọng tháo chạy khỏi một nỗi sợ hãi vô hình, 
+` tôi điên cuồng sải bước lao xuống con dốc dài hướng về phía dãy phố sầm uất trước mắt.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_25a",lcartain,800
+bg #ffffff,notrans,0
+bg "bg/bg_25a",notrans,0
+` [line=3]Dãy phố sầm uất lúc này đang ngập tràn người qua lại đông đúc.@
+` Ánh nắng mặt trời rọi xuống nóng rực, chói chang.@
+` Sự náo nhiệt rực rỡ xung quanh lúc này lại khiến nhãn giới của tôi đau nhức buốt nhói dữ dội khi quan sát.@
+bg #ffffff,notrans,0
+bg "bg/bg_25a",notrans,0
+` Tại sao bọn họ lại có thể náo nhiệt náo loạn đến nhường ấy chứ?@
+` Tựa như bầy côn trùng vô tri, những sinh vật tự xưng là có trí tuệ kia vẫn cứ thế tụ tập dồn dập ríu rít mà không mảy may nghi ngờ điều gì.
+\
+bg #ffffff,notrans,0
+bg "bg/bg_25a",notrans,0
+`"[line=7]"@
+` …… Toàn bộ nhãn giới trước mắt tôi bỗng chốc mờ ảo, nhạt nhòa.@
+` Liệu có phải là do cơn buồn nôn khó chịu dữ dội này chăng?@
+` Tôi lờ mờ cảm giác được bản thân tôi…… dường như không còn là chính mình nữa rồi.@
+`"[line=6]Sen, pai."@
+` Tôi cuống cuồng nhìn dáo dác xung quanh.@
+` Chị ấy đang ở đâu[line=4]giữa biển người này cơ chứ?@
+bg #ffffff,notrans,0
+bg "bg/bg_25a",notrans,0
+` Đầu óc choáng váng quay cuồng khiến tôi tuyệt đối chẳng thể tìm thấy bóng dáng chị ấy đâu cả.
+\
+` [line=5]Vẫn tuyệt đối không tìm thấy chị ấy.@
+` Giữa biển người qua lại náo loạn nháo nhào này, 
+`               tôi hoàn toàn mất phương hướng rồi.@
+`               Mọi thứ xung quanh thật vô nghĩa.@
+` Chẳng còn lại gì cả.@
+`              Cảm giác như vạn vật trên thế gian đều đã mất sạch ý nghĩa, 
+!w1000
+`         một cơn choáng váng ập xuống quay cuồng……
+!w2000
+bg #ffffff,notrans,0
+bg "bg/bg_25a",notrans,0
+\
+ld c,"tachi/cel_t01c",lshutter,800
+`"Oh, Tohno-kun.@ Chị thực sự ngạc nhiên khi em đến đây hẹn gặp rất đúng giờ đấy."@
+`"Sen…… pai?"@
+br
+` [line=3]Đây là lần đầu tiên tôi được tận mắt nhìn thấy chị ấy diện trang phục thường nhật bình dị.@
+br
+`"…… Ừm, lúc nãy chị hơi bắt nạt em chút thôi.@ Xin lỗi vì bắt em phải chạy tháo mạng tới đây rệu rã thế này nhé."@
+br
+` [line=3]Nói rồi, chị ấy khẽ nghiêng đầu cúi chào tôi một cách lịch thiệp, dễ thương.
+\
+`"[line=5]"@
+` Chuyện đó có là gì đâu chứ.@ Chị ấy tuyệt đối không cần phải phiền lòng bận tâm vì chuyện vặt vãnh đó đâu.@
+br
+bg #ffffff,notrans,0
+bg "bg/bg_25a",notrans,0
+wavestop
+`"Ơ kìa, Tohno-kun[line=3]!?"@
+bg #ffffff,crossfade,800
+br
+` …… Hự.@ Cảm giác nôn mửa dữ dội chực trào khó chịu dâng lên.@
+` Nhưng thật may mắn vì tôi đã cố lết được tới đây.@
+` Bởi tôi đã được chiêm ngưỡng dung nhan tuyệt đẹp của Senpai trong trang phục đời thường rồi, thế nên dẫu cho có phải chịu đựng cơn đau quay cuồng buốt óc này, hai chúng tôi vẫn sẽ có một cuộc đi chơi thật vui vẻ bên nhau[line=5]
+\
+!w3000
+play "*1"
+bg "bg/bg_40c",crossfade,1500
+br
+` [line=4]Khi tôi lờ mờ hé mở mắt thức giấc, thân xác đã nằm gọn gàng ấm áp trên giường ngủ biệt thự.
+\
+`"Ơ kìa[line=3]?"@
+` Khẽ cựa quậy nghiêng đầu nhè nhẹ, tôi đăm đăm nhìn ngó xung quanh phòng ngủ.@
+` Đây chính xác là phòng ngủ dung dị thường nhật của tôi, và phía ngoài cửa sổ trời đã chuyển hẳn sang bóng tối đêm đen rồi.@
+` Hisui lúc này đang lặng lẽ ngồi túc trực bên cạnh giường, có lẽ em ấy đã luôn thức canh giữ giấc ngủ ngon cho tôi bấy lâu nay.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Cậu chủ Shiki, cậu đã khôi phục chút ý thức tỉnh táo nào chưa ạ?"@
+`"…… Hisui.@ Tại sao anh lại nằm túc trực ở đây thế này?"@
+` Đôi cánh tay và chân tôi lúc này rệu rã hoàn toàn, tê dại chẳng chịu nghe theo mệnh lệnh điều khiển nữa.@ Chỉ có thể cố cử động khẽ chiếc cổ mỏi để ngước nhìn lên gương mặt Hisui.
+\
+`"Thưa cậu chủ Shiki, cậu đã vô ý ngã quỵ bất tỉnh ngay chốn phố xá đông đúc bên ngoài ạ.@
+` Cậu bạn thân cùng lớp của cậu đã hớt hải gọi điện báo tin về biệt thự và giúp hộ tống đưa thân xác cậu quay trở lại lâu đài này."@
+`"[line=4]A.@ Chuyện đó nghĩa là, tôi đã"@
+` nhẫn tâm thẳng tay xô ngã chị Kohaku sang một bên hòng chạy trốn, rồi cuối cùng lại lăn đùng ra ngất lịm đi thảm hại thế này sao.
+\
+`"…… Mình quả thực là một tên đại ngốc.@ Mặt mũi nào mà mình dám nhìn mặt Kohaku-san lúc này nữa đây chứ."@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_40c",crossfade,400
+` Một cơn đau buốt óc dữ dội lại bất ngờ ập đến bùng phát cùng nỗi hối hận tột cùng trong lòng tôi.@
+` …… Thể xác tôi có vẻ đã hồi phục đôi phần rạng rỡ hơn trước, nhưng cơn buốt nhói đau đầu kinh hoàng kia vẫn tuyệt đối không chịu buông tha.
+\
+`"…… Hisui.@ Rốt cuộc anh đã gặp phải biến cố quái dị gì thế này?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Xin cậu hãy yên lòng tĩnh dưỡng, thưa cậu chủ Shiki.@ Tình trạng biến cố hiện tại tạm thời chưa quá nghiêm trọng đâu ạ.@ Chị gái em đã chu đáo sửa soạn vài liều thuốc chuyên dụng sẵn rồi, thế nên nếu cậu cảm thấy đau buốt nhói đầu quá mức chịu đựng, xin cậu hãy mau mau uống liều thuốc này nhé."@
+cl c,crossfade,800
+` Hisui nhẹ nhàng bê chiếc khay bạc có đặt sẵn một cốc nước ấm cùng mấy liều thuốc hạ sốt hạ nhiệt mà Kohaku-san đã chuẩn bị chu đáo trước giường.
+\
+cl c,crossfade,400
+` Nhưng thâm tâm tôi lúc này lại tuyệt đối không muốn nuốt chửng thứ thuốc đắng ngắt ấy vào bụng chút nào.@
+`"…… Ừ, anh biết rồi.@ Lát nữa nếu cơn đau buốt nhói dữ dội bùng phát quá sức chịu đựng anh sẽ tự động uống sau.@ Em cứ tạm thời đặt chiếc khay đó ở bên cạnh giường giúp anh nhé."
+\

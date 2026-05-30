@@ -1,0 +1,174 @@
+playstop
+wavestop
+bg "bg/bg_06a",lcartain,800
+wave se_03
+!w2000
+` [line=3]Giờ ăn trưa rồi.@
+` Vẫn như thường lệ, gã Arihiko dẫu dã cúp học tịnh không thấy tăm hơi.@
+br
+`"…… Thôi thì xuống canteen trường ăn trưa vậy."@
+` Nếu cứ ngồi lủi thủi ăn một mình, cõi lòng tôi sẽ lại chìm sâu vào u uất tột cùng mất.@
+` Cất bước tới ăn ở nhà ăn đông đúc người qua lại, biết đâu dẫu dã giúp tôi tạm xua tan đi những suy nghĩ u ám chực chờ.
+\
+bg "bg/bg_50",lcartain,800
+` Như dự đoán, khu ăn tập rất đông đúc.@
+` Sau khi chờ đợi trong một hàng dài, tôi mua bộ bữa ăn quen thuộc A và tìm một bàn.@
+` Tiếng nói của các sinh viên khá lớn tiếng, nên tôi có thể tập trung vào việc ăn bữa ăn của mình.@
+` Tôi dùng đũa và ăn trong im lặng.@
+br
+` [line=4]Và sau đó.@
+br
+` Trong khoảnh khắc, tôi nhìn thấy một hình ảnh khủng khiếp.
+\
+`"...?@ Có phải là màn hình tivi không?"@
+` Tôi ngước nhìn chiếc tivi lớn treo trên tường cuối nhà ăn.@
+` Ở trường tôi, họ ghi lại bản tin sáng và phát lại vào giờ trưa.@
+` Tôi chỉ đứng đó, ngơ ngác trước chương trình tin tức đã trễ vài tiếng đồng hồ.
+\
+[mã âm thanh=02]
+`"[line=4]Không thể nào..."@
+` Tôi theo dõi bản tin với sự kinh hoàng ngạc nhiên.@
+` Trên tivi chiếu ra con hẻm mà tôi thấy trong giấc mơ đêm qua.@
+` Người dẫn chương trình đang nói.@
+` Trên màn hình, những từ "Nạn nhân thứ chín của Kẻ giết người hàng loạt ma cà rồng" xuất hiện bằng chữ đỏ rực.
+\
+bg #9c0120,notrans,0
+bg "bg/bg_50",notrans,0
+` Sau đó, khuôn mặt của nạn nhân xuất hiện.@
+br
+` Người phụ nữ tóc dài, cô ấy chắc chắn là người mà tôi đã giết trong giấc mơ của mình.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_50",crossfade,400
+`"[line=6]" @
+` Bất ngờ, tôi bắt đầu cảm thấy choáng váng.
+\
+wavestop
+`"Làm sao…… được?" @
+` Đó là một giấc mơ. @ Phải là một giấc mơ. @
+` Nhưng trong thực tế, người giống như trong giấc mơ của tôi, ở cùng nơi như trong giấc mơ của tôi, đã bị giết theo cách giống như trong giấc mơ của tôi.
+\
+`"Ma cà rồng nên đã rời đi rồi." @
+` Tôi đã giết Yumizuka bằng chính đôi tay của mình. @
+` Những vụ giết người này, chúng không còn được phép xảy ra nữa.
+\
+`"[line=3]Tôi đã giết ai đó."@
+` Vâng, tôi đã giết người đó.@
+` Giống như lần tôi giết Yumizuka.@
+` [line=3]Trong khi thở dốc, đêm qua, một người phụ nữ tôi chưa từng gặp...
+\
+wave se_01
+bg #000000,notrans,0
+br
+br
+br
+br
+br
+br
+` Tôi đã nói với cậu, Shiki-kun?@
+` Không có cách nào chống lại nó.
+\
+bg "bg/bg_50",notrans,0
+`"[line=3]Ưm..."@
+` Đẩy lùi cơn muốn nôn mửa, tôi đứng dậy khỏi ghế.@
+br
+bg #000000,lshutter,400
+` Tôi không thể quay lại lớp học.@
+` Không hiểu sao, tôi lại chạy vào thị trấn.
+\
+!w2000
+bg "bg/bg_31a",crossfade,400
+` [line=3]Tôi đến nơi mà tôi đã thấy trong giấc mơ của mình.|@
+br
+` Có nhiều cảnh sát xung quanh khu vực này, và dải băng ghi "Đường dây cảnh sát, cấm vượt" được căng ngang qua con hẻm.@
+`"[line=3]Chính xác như vậy."@
+` Không thể phủ nhận, đây chính là nơi tôi đã đến trong giấc mơ của mình.@
+br
+` [line=3]Không, đó không phải là giấc mơ.|@
+` Tôi không thể tiếp tục lừa dối bản thân nghĩ rằng đó chỉ là một giấc mơ nữa.@
+`"... ..."@
+` Ngay cả khi tôi ở lại đây lâu hơn, cảnh sát chỉ sẽ nhìn chằm chằm vào tôi.@
+` ... Tôi không thể quay lại trường học lúc này.@ Có lẽ tôi sẽ trở về biệt thự.
+\
+bg #000000,crossfade,800
+bg "bg/bg_33a",crossfade,800
+Vòng lặp âm thanh se_11
+` Vì chưa đến hai giờ, Hisui không đang chờ ở sảnh.@
+`"... ..."@
+` Tôi có thể nói là mình may mắn.@ Tôi không muốn gặp ai vào lúc này.
+\
+bg #000000,lshutter,800
+bg "bg/bg_40a",lshutter,800
+` *"thở dài"*@
+` Hít một hơi thật sâu, tôi ngã xuống giường.
+\
+bg #000000,crossfade,800
+` ... Tôi hoàn toàn không hiểu chuyện gì đang xảy ra cả.@
+` Tôi có những giấc mơ nơi tôi giết người.@
+` Trong thực tế, cùng một hành động giết chóc đã diễn ra.@
+` Tôi đang sống cuộc sống bình thường như thể nó là thật.@
+` Tôi từng tận hưởng việc giết người trong giấc mơ của mình.@
+br
+br
+` [line=7]Làm sao?@
+`      Ai mới là Tohno Shiki thực sự?
+\
+Màu chữ đỏ đậm
+br
+br
+br
+br
+br
+br
+br
+` Bạn thực sự phải hỏi à?
+\
+Màu chữ trắng
+` ... Lại là giọng nói ấy.
+\
+Màu chữ đỏ đậm
+br
+br
+br
+br
+br
+br
+br
+` Đi thôi, tiếp tục đi, Shiki.
+\
+Màu chữ trắng
+` ... Giọng nói vang vọng trong đầu tôi.@ Giọng tôi.
+\
+Màn đêm đến mỗi ngày.
+br
+br
+br
+br
+br
+` Chắc chắn, chúng ta sẽ tìm thấy người mà chúng ta muốn một ngày nào đó, phải không?@
+` Màu chữ trắng.
+\
+"Im đi!"
+ld c,"tachi/aki_t01c",notrans,0
+!w250
+bg "bg/bg_40a",notrans,0
+wavestop
+`"[line=4]Tôi nhảy ra khỏi giường.@
+` *Hít thở gấp gáp* *Hít thở gấp gáp* *Hít thở gấp gáp*@
+` Tôi hít thở hỗn loạn.
+` Màu chữ đỏ.@
+br
+` Thật ra, lúc này,
+` Tôi đang thèm khát Akiha.
+\
+` *Hít thở gấp gáp* *Hít thở gấp gáp*
+` ... Tôi cảm thấy như thể tôi sắp nôn mửa.@
+` Thông thường tôi không bao giờ nghĩ về những điều này, nhưng khi cố gắng ngủ, những suy nghĩ kỳ lạ bỗng xuất hiện trong đầu tôi.@
+` Nó gần như là có một người khác bên trong não tôi.
+\
+`"... À."@
+` Thật ra, khi nhớ lại, Akiha đã nói điều gì đó tương tự trước đó.@
+` [line=3]Đó là về việc cha tôi có những thay đổi tính cách cực đoan... nó nghe gần giống với tôi hiện tại.@
+` ... Dĩ nhiên, như cha, như con. Có thể đó là di truyền.@
+`"Phòng của cha tôi... Tôi nghĩ họ vẫn giữ nó như trước..."
+\

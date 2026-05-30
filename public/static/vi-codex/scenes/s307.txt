@@ -1,0 +1,638 @@
+(Hiển thị hình nền)
+bg "bg/bg_18a",crossfade,400
+` Căn phòng bỗng chốc trở nên trống trải và cô tịch làm sao khi vắng bóng Ciel-senpai tại chốn này.@`
+` Đã hơn bảy giờ sáng rồi.@
+` Cơ thể tôi vẫn còn mệt mỏi sau những sự kiện đêm qua.
+\
+` Thứ Hai.@
+` Lẽ ra bấy giờ là thời điểm bản thân phải cắp sách tới trường như thường lệ, dẫu vậy Senpai đã nghiêm giọng dặn dò tôi tuyệt đối tịnh không được rời khỏi căn phòng này.@`
+` Tốt nhất là tôi nên lẳng lặng chờ đợi ở đây cho tới khi Senpai quay trở lại.@`
+` …… Việc phải cắn răng nói lời xin lỗi với Akiha vì sự vắng mặt đột ngột này.@`
+` …… Cả đối với chị Kohaku nữa.@ Dẫu cho hành vi biến mất tịch mịch này khó lòng tha thứ nổi, dẫu vậy bản thân tôi dẫu sao vẫn nợ chị ấy một lời tạ lỗi sám hối.@`
+` Việc gác lại hai sự tình ngọt ngào ấy quả thực vô cùng nhói lòng giằng xé, dẫu vậy vào thời khắc nguy bách này, việc tận diệt ác quỷ Roa bắt buộc phải được đặt lên ưu tiên hàng đầu.`
+br
+`"... ..."@
+` Tôi quấn chăn lên đầu.@
+` Cố nén nỗi đau nhói giằng xé nơi lồng ngực tự thân, tôi chìm sâu vào giấc ngủ thêm lần nữa.`
+\
+bg #000000,crossfade,800
+!w3000
+bg "bg/cmo_15",crossfade,800
+play "*4"
+br
+br
+br
+br
+br
+br
+` [line=4]Mục tiêu của bạn có thay đổi không?@
+!w750
+\
+` Không, chính mục tiêu ấy vẫn không thay đổi.@
+` Tôi hướng đến sự vĩnh cửu.@
+` Tôi đã cố tìm kiếm sự vĩnh cửu mà không có lý do nào cả.@
+br
+` Đó thực sự là một ý chí thuần khiết, trong trắng.
+\
+` Đã thay đổi.@
+` Tôi đã thay đổi.@
+` Mục tiêu của tôi. @ Mục đích đạt được sự vĩnh cửu đã bị hạ thấp thành một phương tiện để đạt đến kết quả.
+\
+` @ Thật hèn hạ như thế này.@
+` @ Tôi hiểu điều đó, nhưng tôi không thể thay đổi trái tim mình.@
+` Người con gái ấy.@`
+` Độc nhất vì nguyên cớ người con gái ấy.@`
+br
+` Chính vì người con gái ấy[line=4]bản thể tôi đã chầm chậm chầm chậm vấy bẩn nhơ nhuốc rồi.`
+\
+` @ Nhưng, tôi phải làm gì?@
+` @ Loài người không có sức mạnh để sống một ngàn năm.@
+` Về mặt tâm lý và thể chất, một sinh vật con người không thể chống lại sự hao mòn của thời gian.@
+` Ngay cả khi bạn có được cơ thể bất tử như một ma cà rồng, bạn cũng không thể ngăn chặn quá trình lão hóa của trí tuệ.
+\
+` Bạn có thể tạm dừng quá trình lão hóa, nhưng đó chỉ là một sự ngừng trệ.@ Không có ý nghĩa gì cho một tâm trí đã ngừng hoạt động.@
+` Tôi phải tồn tại với sự thuần khiết của bản chất mình được bảo toàn.@
+br
+` Trừ khi tôi có thể như vậy[line=3]tôi sẽ không đạt được người phụ nữ đó.
+\
+` Như mong đợi, tôi sẽ sử dụng phương pháp tái sinh.@
+` Khởi đầu từ khi sinh ra, là chính mình, và chết một lần nữa.@
+` Trong vòng lặp này, tôi có thể tồn tại trong khi bảo toàn sự thuần khiết của bản thân.@
+br
+` Tôi hối tiếc vì đã mất đi sự thuần khiết ban đầu của mình.@
+` Bản ngã tôi, cũng hệt như muôn vàn sinh linh thảm hại đáng thương ngoài kia, bấy giờ lại đang vô cùng khao khát muốn gìn giữ kiếp sống ngọt ngào của tự thân ngay tại chốn này.`
+\
+` Đây quả thực là lần đầu tiên tôi thực sự thấu triệt oán hận.@`
+` Bởi lẽ tất thảy mọi sự, thảm kịch sụp đổ nhơ nhuốc này tuyệt đối tịnh không bao giờ nổ ra nếu như người con gái ấy tịnh không hiện diện trên cõi đời này ngay từ thuở ban đầu.`
+\
+bg #ffffff,crossfade,800
+bg "bg/bg_18a",crossfade,800
+`"...Người phụ nữ ấy...?"@
+` Tôi nhớ lại một ý chí mạnh mẽ và tỉnh dậy.@
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_18a",notrans,0
+`"[line=2]Người phụ nữ ấy?"@
+br
+` [line=3]Nhịp đập.
+\
+br
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_18a",notrans,0
+bg "bg/bg_18e",crossfade,1500
+`"[line=4]Ồ..."@
+br
+` [line=8]Một nhịp đập.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_18a",notrans,0
+`"... Cô gái này... Tôi biết..."@
+br
+` [line=14]Nhịp đập!
+\
+br
+Lắc lư 4,100 lần
+`"[line=3]Chúa ơi!"@
+br
+` [line=3]"Điều gì vậy? Đầu tôi đau quá!"@
+br
+` Nó không tự nhiên... không thể nào...!
+\
+bg #000000,notrans,0
+bg "bg/bg_18a",notrans,0
+bg "bg/bg_18e",crossfade,1500
+`"Ồ... đau quá..."@
+` Tôi dùng hai tay áp lên đầu mình.@
+` Nó đau. Tôi chưa bao giờ cảm thấy nỗi đau như thế này trước đây.@
+` Đầu tôi... Đầu tôi như đang bị đánh bằng một cái búa.
+\
+2,100 rung chuyển
+`"[line=3]Ôi trời...!"@
+` Tôi cố đứng yên, nhưng cơ thể tôi run rẩy.
+` Nếu tình trạng này tiếp diễn, nó sẽ khiến tôi tan vỡ.@
+br
+` [line=6]Đầu tôi, ý chí, sẽ tan vỡ thành từng mảnh.
+bg #000000,notrans,0
+bg "bg/bg_18e",notrans,0
+!w2000
+\
+bg #000000,notrans,0
+bg "bg/bg_18e",notrans,0
+Cảm giác rùng mình lan tỏa khắp cơ thể.
+`"[line=5]Gi!"@
+` Cơ thể tôi co giật.@
+` Nó đau. Liệu nó có bao giờ ngừng lại không?
+\
+!w2000
+bg #000000,notrans,0
+bg "bg/bg_18e",notrans,0
+Cảm giác rùng mình tăng lên mức 3,100.
+`"[line=4]Hya..."@
+` Đau đến mức tôi phải đập đầu vào bàn.@
+br
+` Một âm thanh vỡ tan.@
+` Bàn kính bể thành từng mảnh.@
+` Máu chảy từ trán tôi.@
+` Nhưng, chẳng hề đau chút nào.@
+` Thậm chí hơn thế, cơn đau đầu vô cớ này, còn khiến tôi[line=4]
+\
+!w1000
+bg #000000,notrans,0
+bg "bg/bg_18e",notrans,0
+run rẩy dữ dội hơn 3,100 lần
+`"[line=7],t"@
+` Không thể chịu đựng được.@
+` Tôi không thể ngất đi được.@
+` Bao nhiêu giây? Bao nhiêu phút? Bao lâu nữa nỗi đau này sẽ kéo dài?
+\
+!w1000
+bg #000000,notrans,0
+bg "bg/bg_18e",notrans,0
+Run rẩy, tim đập mạnh 2.100 lần.
+`"[line=3]Giúp tôi."@
+` Nó đau.@
+` Tôi cố gắng làm điều gì đó, tôi đâm tay mình bằng con dao.@
+` Không có ích. Nó không đau chút nào.
+\
+!w1000
+bg #000000,notrans,0
+bg "bg/bg_18e",notrans,0
+Run rẩy, tim đập mạnh 3.100 lần.
+`"[line=7]" @
+` Ciel... Ciel-senpai, vẫn chưa trở lại. @ Tôi nhìn đồng hồ, đã không đến giờ trưa.@
+` Chưa đầy một tiếng kể từ khi tôi thức dậy.
+\
+!w750
+bg #000000,notrans,0
+bg "bg/bg_18e",notrans,0
+4,100 rung chuyển.
+` Có thêm hai mươi giờ nữa mới đến sáng mai. @ Chỉ biết điều đó gần như khiến tôi phát điên.
+\
+bg #000000,crossfade,800
+Waveloop se_02
+!w5000
+monocro #0000ff
+bg "bg/bg_18e",crossfade,1500
+`"[line=9]" @
+` Nhịp đập, nhịp đập, nhịp đập.@
+` Tôi không biết mình đã chịu đựng nỗi đau này bao lâu. Tôi đã vượt quá giới hạn của mình từ lâu rồi.@
+` Với tất cả những nỗi đau này, tôi sẽ chết trước khi Ciel trở lại.@
+br
+`"[line=7]Ồ."@
+` Nếu tôi ở trong căn phòng này, cơn đau đầu này sẽ không rời đi.@
+` Ngoài kia.@
+` Tôi phải ra ngoài hoặc tôi sẽ phát điên.
+\
+`"[line=5]Tôi... không thể."@
+` Ciel đã bảo tôi không được rời khỏi căn phòng này.@
+` [line=3]Nếu tôi ở lại đây, tôi sẽ chết trước khi Roa chiếm lấy tôi.
+\
+`"[line=4]Tôi nói không."@
+` Chân tôi hướng về cánh cửa.@
+br
+` Không có lý do nào cả.@
+br
+` Tôi thực sự muốn thấy mặt trăng vàng.
+\
+bg #000000,lcartain,1500
+monocro off
+playstop
+bg "bg/bg_24d",lcartain,1500
+br
+` [line=3]Những đường nét không biến mất.@
+` Sự lắc lư trong tầm nhìn của tôi ngày càng tồi tệ hơn.@
+` Thành phố vào ban đêm bị bao phủ bởi một làn sương trắng, như thể nó là một thành phố đã chết hàng ngàn năm trước.
+\
+br
+` Không có dấu hiệu của bất kỳ ai khác.@
+` Một mạng nhện bao phủ khắp mọi tòa nhà, giống như một tấm lưới.@
+` Yên lặng đến đáng sợ.@
+` Nó giống như một thành phố chết chìm dưới đáy đại dương sâu thẳm.
+\
+br
+` Trong ảo ảnh này, tôi vẫn tiếp tục đi bộ.@
+` Mặt trăng vàng lớn chiếu sáng rực rỡ phía trên đầu tôi.@
+` Có phải đó là sự thương xót của mặt trăng?@
+` Đau đầu của tôi đã biến mất, và tôi cảm thấy choáng váng.@
+br
+` Dưới ánh trăng.@
+` Như thể bị nguyền rủa, tôi tiếp tục bước đi.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_27b",lcartain,1500
+` Đêm buông xuống công viên.@
+` Trong tầm nhìn mờ ảo của tôi, có một hình bóng trông rõ ràng hơn.@
+br
+`"[line=6]"@
+` Có lẽ vì lý do nào đó, "tôi" khác trong tôi muốn điều này.
+\
+br
+br
+br
+br
+` Ánh trăng rất mạnh.@
+` Dưới ánh sáng rực rỡ như mặt trời.
+\
+br
+br
+br
+br
+br
+br
+br
+` Ở đó, Arcueid đứng mặc trang phục trắng.
+\
+play "*9"
+ld c,"tachi/ark_t01a",crossfade,400
+`"Đã lâu rồi. Không phải đêm trăng tuyệt đẹp này sao, Shiki?"@
+`"[line=2]Arcueid. Cậu không quay lại à?"@
+ld c,"tachi/ark_t05b",crossfade,400
+`"Không, tôi chưa hoàn thành nhiệm vụ của mình. Tôi không thể quay lại trước khi đó, đúng không?"@
+br
+` [line=3]Một cách tự nhiên.@
+` Arcueid nhìn tôi với đôi mắt đỏ rực.
+\
+`"[line=6]Ts... "@
+` Hơi thở của tôi ngừng lại trong cổ họng.@
+` Một áp lực bất tự nhiên, khác xa khi tôi đối mặt với Senpai.@
+` [line=3]Đây là áp lực mà tôi cảm thấy khi đối mặt với cô ấy như một kẻ thù.@
+`"[line=6]"@
+` Tôi không thể thở được.@
+` "Cổ họng tôi không thể di chuyển."@
+` [line=3]Nếu tôi thực hiện cử động vô nghĩa nào đó, cô ấy sẽ xé nó ngay lập tức.
+\
+`"Đừng ngu ngốc như vậy, Shiki. Nếu cậu không đứng về phía người phụ nữ đó, chuyện này sẽ không xảy ra."@
+` Arcueid chỉ tỏ ra một khoảnh khắc ngắn ngủi của sự thương hại. Sau đó, đôi mắt cô sáng lên với niềm vui thuần khiết như một đứa trẻ hạnh phúc.@
+ld c,"tachi/ark_t05d",crossfade,400
+`"Này Shiki, cảm giác như thế nào? Làm sao mà có Roa ở bên trong cậu?"@
+` Công chúa ma cà rồng trắng nói với một sự thù địch không thể diễn tả bằng lời.
+\
+bg #000000,crossfade,800
+bg "bg/bg_27b",crossfade,800
+ld c,"tachi/ark_t05c",crossfade,400
+` Cảm nhận được mối nguy hiểm khiến tôi rùng mình, tôi nhận thức rõ tình hình hiện tại.@
+br
+` [line=3]Trước mặt tôi là Arcueid, cô ấy đang cố giết tôi.@
+` [line=3]Khoảng cách giữa chúng ta là khoảng bảy mét.@
+` Đáng lẽ tôi không nên tỏ ra quá tự tin ngay cả khi có khoảng cách trăm mét, nhưng đối thủ của tôi chỉ ở cách bảy mét.
+\
+`"[line=3]Anh nói bậy gì vậy?" Tôi xác nhận rằng con dao trong túi tôi và giả vờ ngây thơ.@
+`"Đó là điều vô nghĩa, anh biết đấy. Đầu tiên, Roa đã bị tôi biến thành Tử Đồ. Đối với tôi, việc tìm ra kẻ trộm quyền năng của tôi chẳng khó chút nào."@
+br
+` [line=3]Tôi hiểu rồi.@
+` Thật ra, Ciel cũng từng nói như vậy.@
+` Roa trở thành ma cà rồng vì máu của anh ta bị Arcueid hút cạn.
+\
+`"Tôi không biết tại sao. Trong mười bảy kiếp trước, điều này chưa bao giờ xảy ra."@
+` Cô ấy không hề di chuyển chút nào.@
+` Không có lý do gì để cô ấy lại tiến gần hơn.@
+` Vì điều này hoàn toàn nằm trong tầm kiểm soát của cô ấy.
+\
+` ... Mắt màu đỏ.@
+` Khi bị nhìn chằm chằm bởi chúng, cơn đau đầu lại trở về.@
+br
+` Đánh thình thịch. Đánh thình thịch.@
+br
+` Trong đầu tôi.@
+` Ma cà rồng tên là Roa muốn thoát ra.
+\
+`"Chắc chắn, tôi có thể cảm nhận được Roa. @ Ngày đó, Roa chắc hẳn đã truyền thân thể cho cậu. @ Nhưng tại sao lại như vậy tôi thực sự không hiểu."@
+`"[line=7]"@
+` ... Nó đau lắm.@
+` Mỗi khi Arcueid nói tên anh ấy, những ký ức về gã đàn ông này lại bùng lên trong đầu tôi.
+\
+br
+br
+br
+br
+` Lòng đập thình thịch.@
+br
+` Lòng đập thình thịch.@
+br
+` [line=5]Lòng đập mạnh.
+\
+bg #ffffff,crossfade,800
+bg "event/ark_e06a",crossfade,400
+br
+` [line=3]Ở đâu... vậy?@
+` Trong sâu thẳm núi non, một lâu đài cổ xưa.@
+` Hình bóng một cô gái đơn độc bị trói buộc ở đó.@
+` Chỉ có điều này được khắc sâu vào tâm hồn người đàn ông, đã trở thành ký ức duy nhất.
+\
+br
+` Tôi... không hiểu.@
+` Ngay cả khi cô ấy là một Chân Tổ, cô ấy cũng không được biết ý nghĩa của sự tồn tại của chính mình, và chỉ bị sử dụng như một công cụ để săn lùng những Chân Tổ thất lạc.
+\
+br
+` Cô ấy không hề nhận được bất kỳ vết thương nào.@
+` Cô gái chỉ vẽ lên bằng máu đỏ thẫm của kẻ thù.@
+br
+` Không biết nói gì, người phụ nữ chỉ nhìn lên mặt trăng như một kẻ ngốc nghếch.@
+` Mặt trăng vàng khổng lồ lơ lửng trên đầu.@
+` Trong sân vườn khô cằn, chỉ có hình bóng cô ấy rõ ràng.
+\
+br
+` Anh cảm thấy hình dáng của cô ấy thật đẹp.@
+br
+` Lần đầu tiên kể từ khi sinh ra.@
+` Có lẽ, hoặc chắc chắn, đây là lần duy nhất trong cuộc đời anh.
+\
+br
+br
+br
+br
+br
+br
+` [line=4][line=5]Michael Roa Valdamjong đã yêu say đắm người phụ nữ trắng đó.
+\
+bg #000000,crossfade,800
+`"[line=8]"@
+` Đây là lần đầu tiên.@
+` Không phải là một sự thúc đẩy, mà thực sự là trái tim của Roa.@
+` Đó là cảm xúc duy nhất còn lại.@
+` Tính cách của Roa đã chết từ lâu, nhưng nó vẫn tồn tại mà không biến mất, ký ức vĩnh cửu đó.
+\
+`"... Tôi, nhìn thấy."@
+` Vì vậy [line=3]anh ta ghét Arcueid đến thế.
+\
+` Người phụ nữ đã cướp đi sự thuần khiết của anh ta.@
+` Chỉ một khoảnh khắc. Anh ta chỉ nhìn thấy cô ấy trong một khoảnh khắc, nhưng trái tim anh ta đã bị đánh cắp.@
+br
+` Kẻ thù Chân Tổ đáng ghét đó đã khiến sự thuần khiết của anh ta sụp đổ.@
+` Đó là sự tồn tại. Anh ta ghét mọi thứ về công chúa ma cà rồng trắng đó.
+\
+`"... Một sai lầm lớn."@
+` Thật là một sai lầm.@
+` Roa ghét cô ấy đến mức anh ta tái sinh nhiều lần và luôn chờ đợi Arcueid đến truy đuổi mình mỗi lần.
+\
+` Vì điều đó, anh ta làm bất cứ điều gì.@
+` Anh ta lừa dối Arcueid, đánh lừa cô ấy khi cô ấy thậm chí còn không biết mình là ma cà rồng, và cho phép cô ấy hút máu anh ta.@
+br
+` Trở thành một Tử Đồ của Arcueid, anh ta sử dụng sức mạnh của cô ấy để tiêu diệt những Chân Tổ còn lại, và chờ đợi cô ấy.
+\
+` Tại sao anh ta không hiểu?@
+` Sự căm ghét khiến anh ta tái sinh và chờ đợi Arcueid.@
+` Đó không phải là sự căm ghét.@
+` Người đàn ông tên Roa quá trong trắng, thậm chí không hiểu cảm xúc của chính mình.@
+` Suy nghĩ về một người khác đến mức khiến bạn gần như mất trí. Cảm giác đó rất giống với sự căm ghét.
+\
+` Nhưng chỉ là một từ duy nhất.@
+` Nếu người đàn ông này, Roa, được nói rằng cảm xúc của anh ta là tình yêu, anh ta sẽ không mắc sai lầm này[line=3].
+\
+bg "bg/bg_27b",crossfade,800
+`"…………@
+` [line=4]Chỉ trong khoảnh khắc. Không, đã lâu rồi.@
+` Tôi đã thấy giấc mơ của kẻ chủ mưu tất cả, người đàn ông tái sinh để ở lại trong "hiện tại".
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Bạn vẫn giữ bình tĩnh rất tốt. Bạn đứng trước mặt tôi và thậm chí không chạy trốn."@
+` Hoặc, Shiki, bạn đã từ bỏ chưa?@
+`"Từ bỏ? Tôi sẽ từ bỏ điều gì? Tôi không thể thua Arcueid."@
+` "[line=3]Ngày mai chắc chắn."@
+` Ciel sẽ trở lại.@
+` Vì vậy, cho đến lúc đó,
+` Tôi không thể để Arcueid giết mình.
+\
+`"[line=3][line=3]Hừm? Tôi không nghĩ cậu vẫn còn giả vờ nữa. Tôi thực sự nghĩ rằng nửa số các cậu đã bị Roa chiếm lĩnh rồi. Tôi thấy ra, vậy là thế."@
+br
+` Giọng cô ấy nghe có vẻ vui vẻ.@
+` ... Tôi không biết điều gì khiến cô ấy cảm thấy thích thú, nhưng dường như cô ấy vẫn còn giữ những cảm xúc con người đó.@
+` Sau đó, nếu tôi có thể làm được điều gì đó.@
+` [line=3]Có lẽ sẽ có cơ hội trốn thoát...
+\
+`"... Tôi không biết cậu hiểu điều gì, nhưng tôi sẽ giải quyết chuyện với Roa một mình."@
+` Tôi sẽ không để thua Roa. Nếu cậu muốn giết Roa, tôi sẽ giết hắn thay cho cậu.@
+` [line=3]Vậy nên, cậu chỉ cần..."@
+ld c,"tachi/ark_t02",crossfade,400
+`"Tôi sẽ không nghe nếu bạn bảo tôi quay lại. Bạn định dùng sự giúp đỡ của Giáo Hội, phải không? Tôi từ chối để họ phong ấn Roa."@
+` "Shiki, tôi muốn loại bỏ Roa để lấy lại sức mạnh của mình."@
+` "Vậy mà bạn biết chứ? Nếu tôi không tự làm, nó sẽ vô nghĩa."
+\
+`"[line=4][line=3]Rồi, dù thế nào đi chăng nữa "@
+br
+` "Bạn định giết tôi, Arcueid?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Nhưng Shiki, Roa bên trong bạn rất yếu. Có lẽ anh ta không thể tước đoạt ý chí của một người trừ khi sinh ra trong cơ thể họ."@
+` "Anh ta có thể truyền vào cơ thể bạn nhưng đó là tất cả những gì anh ta có thể làm. Anh ta chỉ có thể sống như mặt tối của bạn."@
+`"... À? Ồ?"@
+br
+` Có nghĩa là ý chí của Roa gần như không còn gì trong tôi...?
+\
+`"[line=2]Arcueid, điều đó có nghĩa là"@
+`"Vâng. Không cần tôi phải giết bạn nếu đó là trường hợp. Tôi ổn chỉ cần sức mạnh mà Roa đã trộm từ tôi hoạt động dưới trướng tôi."@
+`"[line=4]?"@
+` Cô ấy đang nói rằng không cần tôi phải bị giết.@
+` Vậy tại sao cô ấy lại đến gặp tôi?@
+` [line=3]Tại sao cô ấy nhìn tôi với đôi mắt nghiêm túc đó?
+\
+`"... Tôi không hiểu. Bạn muốn nói gì, Arcueid?"@
+`"Tôi ra lệnh cho cậu trở thành người hầu của tôi."@
+`"[line=5]Chuyện này... không phải đùa đâu."@
+br
+` [line=3]Cô ấy dường như không đang nói đùa.@
+` Khi Arcueid và người thầy (Senpai) đấu nhau, cô ấy nói đó chỉ là một trò đùa.
+\
+`"... Cái gì? Đó không phải là đùa sao?"@
+`"Không. Tôi thích cậu. Vậy thì tự nhiên tôi muốn cậu ở bên cạnh tôi hơn là giết cậu."@
+br
+` [line=4](Nhanh như chớp)@
+br
+` Với câu nói đó, cơn đau đầu của tôi trở nên dữ dội hơn bao giờ hết.
+\
+` Roa trong đầu tôi giận dữ trước những lời đó.@
+` ... Tôi không biết liệu điều đó đến từ niềm vui hay ghen tị sâu sắc.
+\
+`"Nếu cậu sẵn lòng trở thành nô lệ của tôi, tôi sẽ ngăn Roa nuốt chửng cậu."@
+` Tôi nghĩ cậu thậm chí không cần phải cân nhắc, vì Roa sẽ nuốt chửng cậu như vậy này.@
+`"... Cậu nói một cách đơn giản, nhưng cậu định ngăn Roa bên trong tôi thế nào?"@
+`"Hả? Người duy nhất có thể ngăn Roa là cậu, Shiki."@
+` Nhưng phương pháp đó có nghĩa là sự chết của cậu.@
+` Phương pháp của tôi chỉ đơn giản là tăng cường sức mạnh cho cậu. Khi ý chí của cậu mạnh hơn Roa, thì không sao cả nếu hắn giận dữ bên trong cậu, phải không?
+\
+` Một điều gì đó lại bùng nổ trong đầu tôi.@
+` Roa vẫn đang cuồng nộ.
+\
+` Đừng để người con gái ấy lừa bạn, người con gái ấy đang cuồng nộ.@ Người phụ nữ này muốn biến bạn thành con rối của mình.
+\
+wavestop
+` [line=5]*thở dài*@
+br
+` Tôi hít một hơi sâu.@
+` …… Tôi sẽ không tin vào lời Roa.@
+` Nhưng, ngay cả tôi cũng có thể hiểu được.@ Arcueid giờ đây đã thay đổi một chút so với người mà tôi từng biết.@
+` Chắc chắn những gì cô ấy nói có thể ngăn chặn được Roa.@
+br
+` [line=3]Một trái tim đủ mạnh để chống lại những cơn đau đầu này có nghĩa là một trái tim mạnh đến mức nó không cảm nhận được gì cả.
+\
+` Tôi cởi kính ra.@
+` Tôi lấy con dao ra khỏi túi.@
+` Tôi lấy lưỡi dao ra và giữ nó ở mức mắt.
+\
+ld c,"tachi/ark_t05c",crossfade,400
+`"[line=4]Shiki."@
+`"Tôi từ chối. Xin lỗi, nhưng tôi sẽ không thuộc về ngươi."@
+` Vì Ciel sẽ quay lại.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Tôi hiểu rồi. Vậy thì, có lẽ chỉ còn cách dùng đến sức mạnh."@
+br
+` Một bước chân mạnh mẽ giẫm vỡ không khí.@
+br
+`"Cô đã giết tôi một lần, nên tôi luôn nghĩ mình phải trả thù cô."@
+cl c,notrans,0
+` Hình bóng trắng của cô ấy lao tới cùng với cơn gió.@
+br
+` [line=4]Trong khoảnh khắc đó,
+` Cuộc chiến bắt đầu.
+\
+playstop
+bg #000000,lshutter,400
+bg "bg/ima_14",lshutter,400
+wave se_12
+` *Lồng!*@
+` Ngón vuốt của cô ấy chạm vào con dao của tôi.@
+br
+` Dưới ánh trăng vàng, ngay cả khi cô ấy là kẻ thù của tôi, hình bóng của cô ấy vẫn đẹp đẽ.
+\
+wave se_12
+` Tiếng vang!@
+` Chúng ta lại đẩy nhau ra xa.@
+` Thật lòng nói, tôi chẳng thể nhìn thấy động tác của cô ấy.
+\
+wave se_12
+` Tiếng vang!@
+` Chúng ta một lần nữa đẩy nhau ra xa.@
+` Arcueid chẳng nghiêm túc chút nào.@
+` Nhưng dẫu sao, đối với cô ấy, việc xé rời cánh tay và chân tôi cũng dễ như ăn kẹo.
+\
+wave se_12
+` Tiếng vang.@
+` Chúng ta lại đẩy nhau ra xa.@
+` Cơ thể tôi di chuyển mà không cần suy nghĩ.@
+` Tay chân và cơ thể này, chỉ với ý định không chết, tự động chặn những móng vuốt của Arcueid.
+\
+`"[line=5]@
+` Môi tôi khẽ nhăn lại với sự mỉa mai.@
+` Tôi không muốn thừa nhận, nhưng dường như cơ thể tôi đã vượt quá giới hạn của con người.@
+` Trong đêm đen tối, có vẻ như Tohno Shiki đã trở thành SHIKI, có thể dễ dàng nhảy từ tầng ba của một tòa nhà và hoàn toàn không sao.
+\
+` Cl, góc.@
+` Nhưng đây là kết cục.@
+` [line=3]Từ đầu, tôi biết mình không thể thắng Arcueid.@
+` Đầu tiên, tôi không nhìn thấy bất kỳ "dòng" nào trên cô ấy.@
+br
+` Tôi không có cách nào để làm tổn thương cô ấy.@
+` Arcueid đã nói như vậy.@
+` Trong đêm, không có thứ gì có thể khiến cô ấy chết.
+\
+` Gào thét.@
+` Cô ấy chặn dao của tôi.@
+` Chỉ với một cú vung tay, tôi bay lượn trong không trung.
+\
+bg #000000,lshutter,400
+`"[line=5]K!"@
+` Tôi hạ cánh an toàn xuống đất và chuẩn bị con dao của mình.@
+` Dù nhìn chằm chằm nhưng tôi vẫn không thấy bất kỳ đường nét nào trên người cô ấy.@
+`"Đáng ghét. Anh thật ngốc nghếch...!"@
+br
+` [line=4]Vâng, tôi hoàn toàn đúng.@
+` Trong đêm sâu không có sự thương xót của mặt trời,
+` Đối mặt với công chúa của mặt trăng là hành động liều lĩnh quá mức.
+\
+bg "bg/bg_29b",lshutter,800
+`"[line=4]Ha... ha."@
+` Cổ tôi như bị thiêu đốt.@
+` Tim tôi cảm thấy như sắp nổ tung.@
+` Tôi nhận ra rằng kể từ khi nhìn thấy cô ấy tối nay, tôi đã chịu áp lực từ đôi mắt đỏ rực của cô và không thể thở bình thường được.
+\
+ld c,"tachi/ark_t01a",lshutter,400
+`"Cô đã nhận ra chưa?"@
+` Cô ấy thậm chí còn không bị thiếu hơi.@
+` Mặc dù tôi đang ngạt thở và tim như ngừng đập, nhưng cô ấy lại hoàn toàn thư giãn.
+\
+ld c,"tachi/ark_t06",crossfade,400
+`"Chà, thật là đầu cứng. Nếu cô có đủ sức mạnh vậy, tại sao không tự mình giết Roa?"@
+`"[line=3]Chuyện gì vậy? Cậu đang nói gì thế?"@
+` Khó khăn tôi mới hít được không khí.@
+`"Muốn giết Roa sao? Ý cậu là... tự sát à?"@
+` ... Dù sao, quyết đấu và giết mình thay vì bỏ chạy có thể chứng tỏ một trái tim kiên cường, nhưng...
+\
+`"Bạn không hiểu đâu, Shiki. Mắt bạn không giết chết cơ thể, mà là ý nghĩa... chính sự tồn tại của chúng."@
+` "Sự chết của những thứ này, những 'điểm' đó không phải là thứ gì đó giết chết cơ thể."@
+` "Nó không có nghĩa là bạn đang giết chết cuộc sống của chúng. Loại sức mạnh như vậy rất phổ biến trong thế giới này."
+\
+`"Shiki, đôi mắt độc nhất vô nhị của bạn, chúng giết chết ý nghĩa của những thứ. Điều bị phá hủy là sự tồn tại. Sự tắt lịm của cuộc sống chỉ là một tác dụng phụ sau đó."@
+` "Với sức mạnh của bạn, có thể giết chết linh hồn mà không làm tổn hại đến cơ thể. Thông thường, một cơ thể không có linh hồn sẽ ngừng sống, giống như tự sát."
+\
+`"Nhưng với bạn lúc này thì khác, phải không? Vì bạn có hai linh hồn trong một cơ thể."@
+` "[line=2]Vấn đề là, yếu hơn luôn thua. Bạn và Roa giờ đây dường như cân bằng nhau. Tôi đoán có xác suất cao cả hai bạn sẽ biến mất."@
+`"[line=5]Ồ... chờ đã... Bạn...?"@
+ld c,"tachi/ark_t09",crossfade,400
+`"Không, tôi không đợi."@
+cl c,notrans,0
+\
+Độ rung đất: 4,375
+bg #000000,crossfade,400
+wave se_05
+`"[line=4]Lao lên!"@
+` Tôi nghe thấy một âm thanh từ phía sau đầu tôi.
+\
+` Cơ thể cô ấy ép vào vai tôi.@
+` Tôi mệt mỏi.@
+` Trong khoảnh khắc, mà tôi chẳng hay gì đang xảy ra, Arcueid đã giữ chặt tôi lại.
+\
+play "*8"
+bg "event/ark_e04b",crossfade,400
+wave se_01
+`"[line=6]"@
+` Arcueid nhìn tôi với ánh mắt sắc lạnh mà không nói gì.@
+` Nàng áp trọng lượng cơ thể lên vai tôi.@
+` Nàng dừng lại, như đang do dự trước hành động tiếp theo với tôi.@
+wave se_01
+`"[line=6]"@
+` Tôi ngạc nhiên nuốt lời.@
+` Nhưng có lẽ đó chỉ là sự im lặng của nàng.
+\
+wave se_01
+`"[line=6]"@
+` Chúng ta gần nhau đến vậy.@
+` [line=3]Giờ đây khi chúng ta ở gần như vậy, tôi có thể nhìn thấy nó.
+\
+wave se_01
+` [line=6]Tôi ngắm nhìn cơ thể cô ấy.@
+br
+` Phần trung tâm não bộ tôi thét lên phản đối.@
+` [line=3]Nó hoàn toàn khác với cơn đau nhức đầu trước đây của tôi, như thể nó đang rách nát chính mình.
+\
+wave se_01
+`"[line=7](Không nói gì)@
+` Nhưng cũng vô ích.@
+` Tôi không thể đọc được "cái chết" từ một sự tồn tại giống như Arcueid.@
+` Ban ngày có thể khác, nhưng vào ban đêm, cô ấy gần như là một hình mẫu sống hoàn hảo, thậm chí không mang khái niệm về cái chết.
+\
+wave se_01
+`"…… Cậu định làm gì với Roa, Arcueid? Cậu nói cậu không giết tôi, nhưng miễn là tôi còn sống, Roa vẫn sẽ tồn tại."@
+`"Tôi chẳng quan tâm đến một Roa yếu đi. …… Đúng vậy, vì thế tôi có thể để cậu đi, Shiki."
+\
+wave se_01
+`"[line=3]Ồ, cậu không cần phải giữ lại, cứ tự do để tôi đi. Đừng lo lắng về tôi và về nhà, trở về với bố cậu."@
+`"Nhưng cậu biết không, có lẽ điều tự nhiên đối với tôi là lấy lại sức mạnh của chính mình? Và hơn hết, tôi thực sự thích cậu."@
+br
+` "Siết chặt."@
+` "Trọng lượng cơ thể trên vai tôi càng trở nên nặng nề hơn."
+\
+wave se_01
+`"Không phải giết cậu và phá hủy Roa, mà tôi muốn mang cậu về."@
+br
+` "Vì vậy, tôi sẽ không giết cậu,"
+` Đôi mắt đỏ của cô ấy dường như đang nói điều gì đó.
+\
+wave se_01
+`"Tôi không thể tin được, nhưng có vẻ như tôi thực sự thích cô. Đó là lý do tại sao tôi sẽ cứu cô. Tôi sẽ không hút máu cô, và tôi sẽ không làm bất cứ điều gì cô không thích."@
+` Vậy nên hãy lắng nghe những gì tôi nói, đôi mắt đỏ ấy đang thì thầm.
+\
+br
+` [line=3]Chúng chắc chắn là những cảm xúc chân thành của cô ấy.
+\

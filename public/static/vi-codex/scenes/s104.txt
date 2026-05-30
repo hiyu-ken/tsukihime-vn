@@ -1,0 +1,546 @@
+monocro off
+playstop
+wavestop
+bg "bg/cmo_18",crossfade,400
+play "*6"
+`"[line=6]Ôi..."@
+` Một trần nhà như chiếc ô đen trên đầu tôi.@
+` Và xung quanh, những con mắt lấp lánh của loài thú.
+\
+` Rách... Da tôi đang bị rách.@
+` [line=4]Chết...@
+` Rơi xuống. Thịt của tôi đang bị ăn thịt.@
+` [line=4]Chết đi.@
+` Cắn chặt. Xương của tôi đang bị cạo trầy.@
+` [line=4]Chết.@
+br
+` Trí óc của tôi không thể nghĩ đến bất cứ điều gì khác.@
+` Chỉ còn lại, tôi vung tay chân điên cuồng để bảo vệ mặt mình.@
+` Tay phải của tôi siết chặt, giữ chặt con dao.
+\
+` [line=4]Chết đi.@
+` Tôi đang bị ăn thịt.@
+` [line=4]Thật kỳ lạ, tôi bị tấn công bởi nhiều con quái vật như vậy, chúng nên có thể ăn tôi hoàn toàn chỉ trong một phút, nhưng chúng lại tốn thời gian.
+\
+` [line=4]Chết đi.@
+` Tôi đang chảy máu quá nhiều.@
+` Máu tôi và nước bọt của chúng phủ đầy cơ thể tôi.@
+` [line=4]Cảm giác này thật kinh khủng.
+\
+` [line=4]Chết đi.@
+` Tôi không thể nhìn thấy bất cứ điều gì bên ngoài được.@
+` Màn đêm đen đặc hoàn toàn.
+\
+` [line=4]Chết đi.@
+` Những đôi mắt vô số nói lên điều đó.@
+` Chúng nói như thể đang nuốt chửng tôi từng mảnh một.@
+` Chúng không thể nói chuyện, nên chúng dùng ánh mắt rực lửa để diễn đạt.
+\
+` [line=4]Chết đi.@
+` Đi nhanh lên và chết đi.@
+` Nền đen của những con thú cất lên tiếng hát đồng nhất.
+\
+bg "bg/cmo_19",crossfade,400
+`"![line=6]!"@
+` Một tiếng thét thoát ra.@
+` Nhưng không ai sẽ giúp tôi.@
+` [line=3]"Tôi sẽ bị giết."@
+` Như người kia trước đó, tôi sẽ bị nuốt sống.@
+`"Ôi, ôi..." [line=3]
+\
+` [line=4]Không.@
+` Tôi không muốn điều đó.@
+` Tôi không muốn chết như thế này.@
+` Tôi không muốn bị ăn thịt trong khi vẫn còn ý thức.@
+` Tôi không muốn bị giết như vậy.@
+` Đáng sợ. Đó là điều đáng sợ. Rất đáng sợ.@
+` Đáng sợ, đáng sợ, kinh hoàng, kinh hoàng, kinh hoàng đến mức không thể tưởng tượng được[line=4]
+\
+`"Tôi sẽ bị giết."[line=2]@
+br
+` Vâng, tôi sẽ bị giết.@
+` Không có nơi nào để chạy trốn.
+\
+`"Tôi sẽ bị giết... như thế này."@
+br
+` Tôi sẽ bị xé nát và trở thành bữa ăn cho tất cả họ.@
+br
+` Không có gì tôi có thể làm được.@
+` Với đôi mắt nhuộm màu đỏ thẫm, tôi nhìn chằm chằm vào chính mình với vẻ trống rỗng.
+\
+`"Ha."@ Hahaha, ha."@
+br
+` Tôi bắt đầu cười.@
+` Vì, tôi thậm chí không biết tại sao tôi lại bị giết.@
+br
+` [line=4]Nhưng Tohno Shiki vẫn sẽ bị giết như thế này.
+\
+`"Anh quá cứng đầu. Nếu anh mất sức, sẽ dễ dàng hơn cho anh."@
+br
+` Ha, ha, ha.@
+br
+` Anh ta cười từ xa.@
+` Từ từ nuốt chửng tôi và cười.@
+br
+` Ồ, [line=4]cảm giác như toàn bộ cơ thể... đang tan rã.
+\
+`"[line=8]"@
+br
+` ... Thật kinh khủng. Quá kinh khủng. Điều này quá kinh khủng.@
+` Những vết thương của tôi đau. Chúng đau. Đau lắm.@
+` Cái chết thật đáng sợ. Nó rất đáng sợ.@
+` Có tiếng cười từ xa vọng lại.@
+` Nghe thấy rõ ràng, tôi đang nhìn mình chết và cậu ấy cười.@
+` Nếu tôi căng tai lắng nghe,
+` Tôi vẫn có thể nghe thấy âm thanh nhai và xương gãy từ bên trong.@
+br
+` Không chỉ là người mà cậu ấy đã ăn thịt ngày hôm qua.@
+` Thậm chí là cả người không rõ danh tính.@
+` [line=4]Cậu ấy đang cố gắng ăn và giết tôi.
+\
+bg #000000,notrans,0
+bg "bg/cmo_19",notrans,0
+`"[line=4]Một cảm giác như móng vuốt cào vào ngực tôi."@
+` "Đó là nơi sẹo từ vết thương cũ của tôi."@
+` "Một nơi vô cùng đau đớn, đáng sợ, và chỉ chứa đầy sự ghét bỏ."@
+` (Không có thay đổi do không phải tên riêng hoặc thuật ngữ đặc biệt)@
+br
+` [line=4][line=4]Hãy nhớ lại tám năm về trước, vào ngày hè ấy.@
+br
+` Vâng, nó thực sự rất ghê tởm.@
+` Không có chỗ cho nỗi đau hay sợ hãi.
+\
+playstop
+bg #000000,crossfade,400
+(Âm thanh lặp lại) se_02
+` Vâng. Tôi chỉ... ghét.@
+` Sau đó, những gì cần làm đã được quyết định.@
+br
+` [line=4]Nếu cậu định giết tôi, thì...
+br
+` Toàn bộ cơ thể tôi đã tê cứng.@
+` Cảm giác của con dao tôi từ chối buông ra vẫn còn đó trong tay phải tôi.
+\
+br
+` [line=4]Bị giết?@
+br
+` Ai?@
+` Bằng thứ gì?
+\
+`"[line=10]Ha ha, ha..."@
+br
+` Tôi cười to.@
+br
+` Đúng vậy, chính xác là như thế.@
+` Chạy trốn là điều hoàn toàn không thể.@
+` Trốn thoát là điều không thể.@
+` Chỉ còn một việc cần làm.
+\
+` Bị giết.@
+` Bị giết.@
+` Chắc chắn, không có nghi ngờ nào, bị giết.@
+br
+` Bằng không gì khác,
+!w500
+` Và bởi không ai khác.
+\
+br
+br
+br
+br
+br
+br
+br
+` [line=6]Anh ấy sẽ bị tôi giết.
+\
+wavestop
+monocro #ff0000
+bg "bg/bg_29c",lshutter,400
+`"Ha ha ha ha ha ha!"@
+` Thay vì la hét, tôi bắt đầu cười như một kẻ ngốc.@
+` Lạ thật.@
+` Kỳ lạ là tôi không thể ngừng cười.
+\
+br
+` Cắt. Cắt. Cắt. Cắt. Mỗi âm thanh đều khiến một sinh vật khác chết đi.@
+` Não bộ của tôi đang đau đớn.@
+` Toàn bộ cơ thể tôi: thần kinh, mạch máu, tế bào, máu; mọi thứ đều trở nên bất thường.
+\
+br
+` [line=4]Hình cầu đen biến mất.@
+` Tôi vừa giết khoảng bảy mươi con thú đang ăn thịt cơ thể tôi.@
+br
+`"[line=4]Điều gì?"@
+` Tôi có thể nghe thấy giọng của Nrvnqsr.@
+` [line=4]Tốt, tôi phải đứng dậy, nếu không tôi sẽ không thể giết thêm ai nữa.
+\
+monocro off
+bg "bg/bg_29c",crossfade,400
+` Tôi đứng dậy.@
+`"[line=4]..."@
+` Không vấn đề gì.@
+` Không có chỗ nào trên người tôi không bị thương, nhưng tôi vẫn có thể di chuyển trong một thời gian.@
+ld c,"tachi/nero_t02d",crossfade,400
+`"[line=4][line=2]Cái gì vậy?"@
+`"[line=4]À, tôi hiểu cảm giác của cậu, ma cà rồng."
+\
+` Não tôi như đang cháy rực.@
+` [line=4]Nó giống như khi tôi giết Arcueid, tôi không thể thở bình thường được.@
+` Cùng với cơn đau đầu và cái nóng khiến tôi gần như phát điên,
+!w500
+` gần như khiến tôi nôn mửa,
+!w500
+` [line=4]Thế giới này ngập tràn cái chết.
+\
+`"Vậy cậu muốn giết tôi, quái vật?"
+\
+br
+br
+br
+br
+br
+br
+br
+` Chúng ta có một điểm chung rồi.
+\
+`"[line=4]Được rồi. Hãy chiến đấu đến chết, Nrvnqsr Chaos..."!@
+bg #000000,notrans,0
+` Tay phải cứng nhắc của tôi di chuyển tự do.@
+` Tôi thay đổi cách cầm dao, lao về phía Nrvnqsr.
+\
+ld c,"tachi/kemo_t03",crossfade,400
+` Một sinh vật lớn hơn xuất hiện từ cơ thể anh ấy.@
+` Cuối cùng, anh ấy đang giải phóng thứ lớn nhất mà mình đã dùng cho Arcueid.
+\
+bg "bg/ima_14",crossfade,400
+`"[line=6]"@
+` Nhưng chúng không kéo dài lâu.
+\
+` Dù chúng lớn, nhanh hoặc tàn bạo đến đâu, chúng cơ bản không thể giết tôi trừ khi chạm vào tôi.@
+` Nếu chúng cố gắng chạm vào tôi,
+` Tôi sẽ cắt đứt phần nào đó của chúng.@
+` Cuối cùng, nó không còn quan trọng nữa liệu đó là con chó đen, sư tử hay hổ.
+\
+bg "bg/bg_29c",crossfade,400
+` Hai trong số những con lớn nhất sụp đổ và biến thành nước đen.@
+` Để đến được Nrvnqsr[line=2], vẫn còn khoảng cách cần lấp đầy.@
+ld c,"tachi/nero_t02e",crossfade,400
+br
+`"[line=4][line=4]Làm sao điều này có thể xảy ra? Những người thậm chí cả công chúa cũng không thể tiêu diệtđang trở lại vô hình."@
+br
+` Anh ấy... đang nói gì vậy.@
+br
+`"[line=4]Tôi không hiểu. Cậu đã làm gì?"@
+br
+` Tôi tập trung nhìn vào cơ thể của Nrvnqsr.
+\
+ld c,"tachi/nero_t02f",crossfade,400
+` Vô số điểm.@
+` [line=4]Nếu tôi muốn sống, tôi phải giết từng người trong số họ.@
+` Nếu tôi muốn giết cậu ấy,
+\
+`"…………@
+` Có lẽ không thể đâu.@
+` [line=4]Nhưng tôi không thể kết thúc như thế này.@
+` Arcueid bị nuốt chửng bởi chất lỏng đen.@
+` Tất cả những người hàng trăm bị giết.@
+br
+` [line=4]Và, cơ thể này gần như đã chết.@
+br
+`"...!"@
+` Tôi cắn chặt răng.@
+` Không có thời gian để nói những lời thù hận.
+\
+` Thật không may, việc di chuyển tiêu tốn toàn bộ sức lực của tôi. Tôi không có năng lượng dư thừa để đáp lại Nrvnqsr.
+\
+` [line=4]Không.@
+` [line=4]Nếu tôi có năng lượng như vậy, tôi sẽ làm điều đó càng nhanh càng tốt.
+br
+`"[line=4]Rất tốt. Tôi giờ đây công nhận bạn là một chướng ngại vật đối với tôi."
+\
+br
+br
+br
+br
+br
+br
+` [line=4]Việc giết con quái vật có mùi thú này sẽ tốt hơn nhiều.
+\
+bg #000000,notrans,0
+` Áo khoác đen của hắn mở rộng ra.@
+` Mùi hôi thối của thú vật.@
+` Cảm giác nguy hiểm trước đây chẳng là gì so với bây giờ.@
+br
+` Từ trong áo khoác, những thứ xuất hiện mà tôi đã nhìn thấy ít nhất một lần khi còn nhỏ.@
+` Giống như con ngựa có sừng trên trán, hay con lư ưng khổng lồ có cánh.@
+` Chúng thực sự là rắc rối.@
+` Không đơn giản để giết chúng,
+` bởi vì chúng có rất ít "phần dễ tổn thương trước cái chết".@
+br
+` [line=3]Nên tôi trở nên nghiêm túc hơn.
+\
+` Có phải vì tôi nói "giết" không?@
+` Nhịp đập của máu tôi đau đớn.@
+` Thần kinh của tôi đang va chạm với nhau.@
+` Mọi thứ trong cơ thể tôi kết nối để loại bỏ chướng ngại vật.
+\
+` Tôi cắt con ngựa sừng thành hai nửa cùng với chiếc sừng của nó.@
+` Tôi cắt con thằn lằn từ lưng nó đến vùng bụng dưới bên phải.@
+br
+`"[line=4]Không thể."@
+` Tôi nghe thấy tiếng của chướng ngại vật đó.@
+` Thật không may, tôi thậm chí còn không nhìn rõ bây giờ.@
+` Tất cả những gì tôi có thể thấy là những điểm đen và đường nét.@
+`"[line=4][line=4]Đồ vô dụng! Tại sao tôi phải tấn công một con người bình thường bằng toàn lực của mình?"
+\
+` Với âm thanh nhão nhoét,
+` Thân thể nửa người của Nrvnqsr trở lại hình dạng con người trước đó.@
+` [line=4]Dường như cậu cuối cùng đã đặt lại một nửa cơ thể đang trói buộc Arcueid.@
+bg "bg/bg_29c",crossfade,400
+br
+ld c,"tachi/nero_t03",crossfade,400
+`"[line=4][line=4]Tôi sẽ giết cậu. Cậu sẽ nhận ra rằng sự tồn tại vượt trội hơn cả của mình tồn tại bên trong tôi."
+\
+` Tay cậu xé toạc ngực chính mình.@
+` Như thể đang xé tan bóng tối,
+` cậu xé toạc ngực chính mình.@
+` Từ vết rách trên Nrvnqsr,
+` [line=4]Một thứ gì đó kỳ lạ xuất hiện.
+\
+bg #9c0120,crossfade,400
+` Nếu tôi phải mô tả nó đơn giản, nó giống một con nhện hình cua.@
+` Nó lớn hơn chút so với con voi khổng lồ mà Arcueid đã giết.@
+br
+`"[line=6]"@
+` Thị lực của tôi chuyển sang màu đỏ; tôi không thể nhìn rõ lắm. Tất cả những gì tôi thấy là những bóng ma kỳ lạ và cái chết của họ.
+\
+` Ngón tay tôi lạnh.@
+` Có lẽ tôi đã mất quá nhiều máu. Toàn bộ cơ thể tôi cứng ngắc.@
+` Nhưng vẫn [line=4]cơ thể tôi không kêu la.@
+` Nó ra lệnh cho tôi tiến lên, nói rằng nếu tôi có đủ sức mạnh để kêu la, hãy sử dụng năng lượng đó để giết Nrvnqsr nhanh hơn.@
+br
+` [line=4]Đau nhức dọc theo cột sống tôi.@
+`   Cơ thể tôi lạnh lẽo.@
+`   Các ngón tay tôi đã tê cứng.@
+`   Nhưng não bộ tôi vẫn cháy nóng như lửa.
+\
+` Những con nhện bò ra từ Nrvnqsr không ngừng.@
+` Nrvnqsr chỉ cách đây một khoảng nhỏ.@
+` Những thứ này cản trở tôi đến gần anh ấy.
+\
+bg "bg/bg_29c",notrans,0
+` Hiện tại, chỉ có ba kẻ này.@
+` Tôi hoàn toàn tiêu diệt những chướng ngại vật xuất hiện.
+\
+ld c,"tachi/nero_t02a",crossfade,400
+`"[line=4]Không thể."@
+` Như thể say xỉn, Nrvnqsr lùi lại.@
+`"[line=4]Không có cách nào một người nào đó có thể hủy diệt tất cả quái thú giết chóc của tôi. Một sự thật như vậy là không thể..."!@
+` Chúng tôi bất tử.@
+` Khi tôi còn sống, những quái thú bất tử quay trở lại hỗn loạn và tái sinh. [line=4]Vậy tại sao chúng lại quay trở về trạng thái ban đầu sau khi chỉ bị bạn đâm xuyên?[line=4]"@
+br
+` Tôi tiến về phía kẻ thù đang gào thét.@
+cl c,crossfade,400
+ld c,"tachi/nero_t04",crossfade,400
+` Nrvnqsr cố gắng lui lại, nhưng dừng lại.
+\
+`"[line=4]Khó chịu."@
+` Đôi mắt trước đây như máy móc của anh ấy cuối cùng cũng bắt đầu cháy với sự căm thù màu đỏ thẫm.@
+br
+` Tôi hiểu cảm giác của anh ấy.@
+` [line=4]Có lẽ,
+` kẻ giết người trong Nrvnqsr đang ra lệnh cho bản thân lui lại.@
+` Nhưng, con ma cà rồng trong anh ấy không cho phép thất bại trước một con người bình thường.@
+` Anh ấy không hiểu.@
+` Anh ấy thậm chí còn không cho phép bản thân rút lui.@
+` Anh ta không cho phép bản thân lùi bước dù chỉ một bước.@
+` Trí óc anh ta kiên quyết không chấp nhận sự vô lực của mình.
+\
+` Một bước tiến nữa.@
+` Từ đây, tôi có thể nhảy lên và cắt đứt cơ thể anh ta bằng con dao của mình.@
+br
+`"[line=4]Không, tuyệt đối không![line=4]"!@
+` Tên tôi là Nrvnqsr, vị bất tử được gọi là Bão loạn của chủng tộc ma cà rồng bất diệt! Không thể nào... tôi không thể để nhìn thấy cảnh này...!"@
+cl c,crossfade,800
+br
+` [line=4]Cơ thể anh ta bắt đầu định hình.@
+` Thân thể vốn chỉ là bóng tối bắt đầu biến đổi.
+\
+`"Cơ thể này bất tử.@
+` [line=4]Tôi đã vượt qua cái chết từ lâu rồi.@
+` Cơ thể cậu nhảy vọt về phía trước.@
+` Không phải những con thú của cậu.@
+` Cậu tập trung tất cả những con thú còn lại vào giới hạn tối đa, biến hình thành con thú mạnh nhất và tiến đến để giết tôi.
+\
+bg #000000,lshutter,400
+` Tốc độ của cậu nhanh như Arcueid vậy.@
+` Cậu vươn tay ra, những cánh tay có thể nghiền cổ tôi nếu chạm vào tôi.@
+bg #000000,lshutter,400
+bg "bg/ima_14",lshutter,400
+wave se_12
+` Tránh được cú đánh đó, tôi cắt 'dòng' trên cánh tay cậu."
+\
+bg "bg/bg_29c",crossfade,400
+` Anh ấy dường như không thể kiểm soát tốc độ của mình, anh ta lao qua tôi mà không dừng lại.@
+br
+` [line=3]Khoảng cách giữa chúng tôi lại một lần nữa được mở rộng.
+\
+bg #9c0120,notrans,0
+bg "bg/bg_29c",notrans,0
+br
+br
+br
+br
+br
+br
+` [line=3]Tôi cảm thấy choáng váng.@
+`   Tôi không ngừng run rẩy.
+\
+ld c,"tachi/nero_t04b",crossfade,400
+`"[line=6]Điều này là gì?"@
+` Nrvnqsr nhìn chằm chằm vào cánh tay bị cắt của mình với sự ngạc nhiên.@
+`"[line=4][line=2][line=6]Điều này là gì!? Tại sao phần bị cắt này lại không tái tạo!? Sao điều vô lý như thế lại xảy ra……!?" Anh ta không phải là một pháp sư hay một người chôn cất, làm sao anh ta có thể hủy diệt tôi chỉ bằng việc cắt tôi!?"@
+`"[line=4]Đừng ngốc nghếch. Nếu bạn quá lo lắng về vẻ bề ngoài như vậy, bạn sẽ bị giết, Nrvnqsr Chaos."@
+` Tôi nghe thấy một giọng nói quen thuộc gần Nrvnqsr.
+\
+cl c,crossfade,400
+`"[line=4]Em!"@
+` Với đôi mắt đỏ ngầu, Nrvnqsr nhìn chằm chằm vào Arcueid đứng thanh lịch bên cạnh.@
+br
+` [line=4]"Ồ, tôi hiểu rồi."@
+` Khi anh ta ngừng chỉ còn là một nửa cơ thể, cô ấy đã tự do.
+\
+ld c,"tachi/ark_t05d",crossfade,400
+`"Ôi, đừng lo cho tôi. Shiki sẽ chăm sóc bạn. Ngay lúc này, anh ấy thậm chí còn giết tôi nếu tôi cản đường."@
+` Một giọng nói cười khúc khích.@
+`"Đó là lỗi của em khi nghĩ rằng em nên giết anh ta một cách đau đớn."@
+` "Ngươi nên hạ gục kẻ thù nhanh chóng mà không cho phép chúng phản công, đúng không? Đó là sai lầm của ngươi."
+\
+cl c,notrans,0
+ld c,"tachi/nero_t04b",notrans,0
+`"[line=4]Im lặng. Tôi không mắc sai lầm. Tôi vẫn còn 560 sinh mạng.@
+` ... Chỉ cần chờ đã. Khi tôi giết hắn, tôi sẽ tìm đến ngươi một lần nữa."@
+cl c,notrans,0
+ld c,"tachi/ark_t01a",notrans,0
+`"Thật sao? Sẽ không xảy ra, nhưng tôi sẽ chờ đợi."
+\
+cl c,crossfade,400
+` Arcueid không đến gần anh ấy.@
+` Nrvnqsr chỉ nhìn chằm chằm vào tôi.@
+br
+` [line=4]Anh ấy đang đến gần.@
+br
+` Tôi nắm chặt bàn tay phải bằng bàn tay trái và siết chặt con dao.@
+br
+` Nrvnqsr cúi xuống.@
+` Đó là hành động của một kẻ săn mồi chuẩn bị lao vào con mồi.
+\
+`"Ồ, tôi quên kể cho cậu điều nữa, Nrvnqsr."@
+` Giọng nói của cô ấy trôi như gió trước đó.@
+`"Có thể đã muộn rồi, nhưng anh ta đã giết tôi một lần trước đó."@
+`"[line=4]Điều gì vậy?"@
+` Lần này, nó là thật.@
+` Trong sự ngạc nhiên của mình, Nrvnqsr mất đi nhận thức về bản thân.
+\
+` Trong khoảnh khắc,
+` những suy nghĩ mê sảng của anh ta chảy vào tâm trí tôi như một lời nguyền.
+\
+bg #ffffff,crossfade,400
+` [line=4]Đây có phải là một giấc mơ?@
+` Giết Arcueid Brunestud?@
+` Con quái vật này, mà ngay cả từ bất tử cũng không đủ để mô tả nó, đã bị giết bởi con người đó sao?@
+br
+` Không, điều đó không thể nào đúng được.@
+` Nhưng, chờ đã. Giả sử nếu điều đó là sự thật...
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+` [line=4]Vậy thì,
+` Ai trong chúng ta mới là kẻ kiêu ngạo?
+\
+bg "bg/bg_29c",notrans,0
+`"Đúng vậy. Có vẻ như kẻ kiêu ngạo chính là cậu, Nrvnqsr Chaos."@
+br
+`"[line=4]Khụ... Haha... Hahahahahaha!"@
+br
+` Ở cuối cùng của sự thù hận và hỗn loạn.@
+` Nrvnqsr cười thỏa thích từ tận đáy trái tim mình.
+\
+` [line=4]Tôi không thể chờ đợi thêm nữa.@
+`  Tôi bắt đầu chạy về phía mục tiêu bất động của mình.@
+br
+`"[line=4]Tôi hiểu rồi. Anh định giết tôi, phải không?"@
+br
+` [line=4]Con quái vật gầm lên.@
+`   Với một cánh tay,
+`   nó lao tới đâm xuyên qua trái tim tôi.
+\
+bg "event/nero_e04",crossfade,400
+br
+br
+br
+br
+br
+` Tốc độ của nó quá nhanh, không thể yêu cầu thêm được nữa.@
+!w750
+` Một cử động đơn giản,
+!w750
+` một hiệu ứng đáng kinh ngạc,
+!w750
+` để kết liễu tôi.@
+!w750
+` Một chuyển động quá đẹp.@
+!w750
+\
+`"[line=6]"@
+` Tôi cắt đứt cánh tay đang duỗi ra của hắn.@
+` Có hàng trăm "điểm chết" trên cơ thể hắn.@
+` Nhưng điều đó còn quan trọng hơn...
+` Trong sâu thẳm tâm hồn anh ấy, ở trung tâm nhất, tôi có thể nhìn thấy "Điểm Tối Hậu" của anh ấy.
+\
+` [line=4]Dù anh ấy có nhiều cuộc đời như thế nào đi chăng nữa thì cũng không quan trọng.@
+` Tôi chỉ sẽ tiêu diệt "sự tồn tại" của Nrvnqsr Chaos.@
+` Vì vậy, không phải là giết chết Nrvnqsr,
+` mà là sự hỗn loạn vốn là anh ấy.@
+` [line=7]Tôi sẽ hủy diệt một thế giới.
+\
+` Tôi tấn công anh ấy trực diện.@
+wave se_12
+` Một âm thanh ánh sáng va chạm.@
+br
+` [line=4]Con dao xuyên qua tâm điểm của hắn.@
+br
+` Với nụ cười nham hiểm, ma cà rồng cười khẽ không tiếng.
+\
+br
+br
+br
+br
+br
+br
+br
+`        "Điều này không thể."
+\
+` Cảm giác tê bì,
+` Quái thú đen bắt đầu tan rã giữa ngón tay anh ta.
+\
+br
+br
+br
+br
+br
+br
+br
+` "[line=6]Anh... là cái chết của tôi?"
+\
+` Nhiệt độ cơ thể anh ta giảm nhanh chóng.@
+` Kết thúc đến một cách tức thời như rèm buông xuống.@
+` Với cú đánh này,
+` Cùng với 560 con quái vật còn lại, Nrvnqsr Chaos bị tiêu diệt.
+\
+bg #000000,crossfade,800

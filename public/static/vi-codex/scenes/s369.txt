@@ -1,0 +1,23 @@
+play "*6"
+wavestop
+monocro #0000ff
+bg "bg/bg_33d",notrans,0
+` [line=6]Phải là cánh tây, tầng hai rồi.
+\
+bg #000000,lcartain,400
+bg "bg/bg_40d",tshutter,400
+`"[line=6]@"@
+` …… Chưa bao giờ trong đời tôi cảm thấy mình ngu xuẩn đến thế này.@
+` Phía tây tầng hai chỉ có duy nhất phòng tôi, những căn phòng còn lại hầu như đều để trống.@
+` Dẫu cùng một tầng, nhưng phòng của Akiha lại nằm ở cánh đông, đối diện hoàn toàn với phòng tôi[line=4]
+\
+bg #000000,lshutter,400
+` Tôi lao xuống hành lang.@
+` Luồng khí nóng bức cùng linh cảm bất tường bao trùm, trải dài suốt màn đêm đen đặc tựa thủy tinh.@
+br
+` [line=4]*hộc*, *hộc*, *hộc*.@
+br
+` Vừa thở dốc, tôi vừa lao nhanh qua dãy hành lang.@
+` Tấm lưng tôi... nhức nhối khôn nguôi.@
+` Luồng sát khí khủng khiếp trong không khí mỗi lúc một nặng nề hơn khi tôi tiến gần đến phòng Akiha.
+\

@@ -1,0 +1,672 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_40d",crossfade,400
+` "Chắc là Ciel-senpai chứ?"@
+br
+`"[line=4]Đó thật sự là ngớ ngẩn. Không thể bao giờ là senpai của tôi được."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Chào buổi tối, Tohno-kun."@
+`"[line=3]Ồ?"@
+` Tôi bật dậy trên giường.
+\
+play "*1"
+`"S-S-Senpai………!?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Đúng vậy. Tôi muốn gặp bạn, nên tôi đến đây."@
+` Senpai nói điều đó với nụ cười như thể đó là điều bình thường nhất thế giới.
+\
+`"[line=4]Anh đến để gặp tôi à? Không thể nào."@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Nhưng điều đó đang xảy ra. Trong thực tế, tôi ở đây ngay bây giờ."@
+`"Vì vậy tôi nói điều này không phải là thực...! Đã muộn quá rồi! Phòng này cũng là của tôi, nên anh không thể tự ý bước vào..."
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Tất cả đều có thể xảy ra. Bởi vì, đây là một giấc mơ."@
+`"[line=4]Ồ?"@
+br
+` "Giấc mơ? Hả?"@
+br
+`"[line=3]Một giấc mơ... Thầy ạ?"@
+`"Đúng vậy, đây là giấc mơ mà anh đang thấy. Hãy nghĩ về nó như thế."
+\
+` Cô ấy mỉm cười.@
+` ... Cô ấy như thường lệ.@
+` [line=3]Nhưng, tôi cảm thấy có điều gì đó [lẻi dòng=3]rất sai trái với cô ấy.@
+` Đôi mắt bình thường đầy tình yêu thương giờ đây trông như đang lên kế hoạch làm điều gì đó.@
+` Những lời nói lịch sự của cô ấy lại khiến tôi bất an.@
+br
+` [line=3][lẻi dòng=3]Không, điều kỳ lạ nhất là tình huống khi cô ấy ở trong phòng tôi.
+\
+` Tôi lén nhìn đồng hồ.@
+` Vẫn còn hơn ba giờ sáng.@
+` [line=3]Một điều như thế này...
+br
+`"Không, không thể có giấc mơ thực tế như vậy..."!@
+` Tôi ngồi dậy khỏi giường.@
+` Tôi cố gắng đi về phía Senpai đang đứng giữa phòng tôi.
+\
+bg #000000,crossfade,400
+bg "bg/bg_40d",crossfade,400
+`"H... ừm?"@
+` Chân tôi... Chân tôi hoàn toàn không thể di chuyển...!?@
+ld c,"tachi/cel_t12",crossfade,400
+`"Không được, tự động di chuyển như vậy là không ổn. Hãy ở lại đó, Tohno-kun."@
+`"[line=3]... Hãy ở đây? Chờ đã, Senpai. Tôi sẽ đến ngay."@
+` Chân tôi, sao lại không thể di chuyển...?
+\
+ld c,"tachi/cel_t08",crossfade,400
+`"Đó rõ ràng là vì đây là một giấc mơ. @Tohno-kun, cậu vẫn chưa tin tôi à?"@
+` Như bị sốc, cô ấy nâng đôi vai lên.@
+` Nhưng, chính tôi mới là người sốc hơn.
+\
+`"Một giấc mơ? [line=3]Dừng đùa đi!@ Sao lại đến phòng tôi vào giờ này, Senpai?!?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Cần hỏi sao? @ Chỉ có một lý do duy nhất để một cô gái đến phòng một chàng trai cả."@
+` Nổi đỏ mặt, cô ấy mỉm cười đầy ẩn ý.
+\
+`"Ừm... chỉ có một...  à, Senpai?"@
+` [line=3][line=3]Ồ, ừm, à... không phải là để nấu món ăn ngon hay chơi bài đâu, thế thì
+!w750
+ld c,"tachi/cel_t01a",crossfade,400
+br
+`"Đúng rồi. Hãy làm điều gì đó táo bạo đi."@
+br
+` Với giọng nói thoải mái như thường lệ,
+` Cô bạn cấp trên nói điều gì đó gây sốc.
+\
+`"[line=3]Này, cậu đang nói gì vậy, bạn cấp trên...!? À-à-a... Tại sao lại nghĩ thế đột nhiên...!"@
+` Tôi vung tay lên không trung một cách điên cuồng và mặt tôi đỏ bừng.@
+` Tôi không biết tình huống này đến từ đâu, nhưng những gì bạn cấp trên nói chắc chắn có điều gì đó không ổn.
+\
+` Đầu tiên, cô ấy là bạn cấp trên của tôi,
+` "À, chúng tôi không phải là người yêu nhau hay gì cả."
+` Chúng tôi giống như bạn bè hơn...
+` "[line=3]Ừm... Tôi thực sự rất vui khi cô ấy nói như vậy, nhưng tôi lại tức mình vì đã nghĩ như thế, và..."
+\
+`"Đủ rồi! Đừng nói nữa. Không phải điều này kỳ lạ sao? Tại sao cậu lại nói những điều đó với tôi...!?"@
+ld c,"tachi/cel_t08",crossfade,400
+`"……"@
+` "Thầy giáo thở dài. 'Tôi hiểu, cậu không muốn làm điều này vì là tôi.'"@
+`"[line=3]À, không, đó không phải là câu trả lời... ... ừm, tôi muốn nói đó chính là nó! Nhưng, điều này có kỳ lạ không?"@
+` Đối với tôi, cậu là một người bạn đồng hành quan trọng, và tôi nghĩ tình bạn của chúng ta không liên quan gì đến tình yêu. Tôi nghĩ sẽ tuyệt nếu cả ba chúng ta, bao gồm Arihiko, có thể vui chơi cùng nhau.@
+` [line=3]Ngay cả nếu đây là một giấc mơ, có điều gì đó không ổn.
+\
+ld c,"tachi/cel_t12",crossfade,400
+`"Ồ, tôi hiểu rồi. Tôi biết ý cô nói."@
+` Cô ấy nhìn đi nơi khác.@
+cl c,lshutter,400
+`"À..."@
+` Chân tôi, vốn không thể di chuyển trước đó, giờ đã có thể vận động.@
+` [line=3]Tôi không biết tại sao chúng lại không phản ứng trước đây, nhưng giờ tôi có thể đưa cô ấy ra khỏi nhà.
+\
+`"Tohno-kun."@
+` Giọng cô ấy sắc lạnh và nghiêm khắc đến mức không thể tin được.@
+`"[line=3]Ồ, vậy à?"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Tôi đã quyết định. Tôi sẽ trở nên tàn nhẫn hơn."@
+` Cô ấy mỉm cười.@
+` Senpai tiến lại gần tôi.@
+cl c,lshutter,400
+\
+`"[line=2]Này Senpai, đừng đùa nữa."@
+`"Tôi không đùa đâu.@
+` Chẳng phải đây là cách đùa cợt sao?"@
+` Cô ấy lắc ngón tay.@
+br
+` [line=3]Vào khoảnh khắc đó.@
+br
+`"[line=4]['[hàng 4]?!']"@
+[line=2200] Động đất cấp độ 2.200.
+` Tôi đột nhiên ngã xuống giường.
+\
+`"[line=4]Ôi trời!"@
+` Ôi, chuyện gì đang xảy ra vậy?@
+` [line=3]Hai bàn tay tôi bị buộc lại sau lưng. Có thứ gì đó giống như một chiếc dây da buộc chúng lại với nhau.@
+` Cả hai mắt cá chân tôi cũng bị buộc bằng dây và tôi không thể di chuyển chút nào.
+\
+`"Sao lại thế này? Tại sao đột nhiên xảy ra……!"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Đúng vậy, đây là giấc mơ, nên việc này chẳng khó khăn gì."@
+`"[line=4]Ôi!"@
+cl c,lshutter,400
+` Tôi cố gắng dùng sức mạnh để thoát ra.@
+` Dây đai rên rỉ dưới sức nặng, nhưng nó thậm chí còn không muốn bị tháo ra.@
+`"... Những thứ này là xích?@"@
+` Những sự thật này đột nhiên đè nặng lên tôi.
+\
+` Có vẻ như tay và chân tôi không thể được giải thoát.@
+` Người bạn cùng lớp Ciel trước mặt tôi không giống như bình thường.@
+` Tôi không cảm thấy mình đang gặp nguy hiểm[line=3], nhưng tôi thực sự cảm thấy lo lắng.
+\
+` Hãy làm điều gì đó, bẩn thỉu.@
+br
+` Đó là những gì cô ấy nói.@
+` Trong một căn phòng tối với hai chúng ta, khi cô ấy nói điều đó, nó còn kỳ lạ hơn cả việc không phấn khích.
+` Trên thực tế, trái tim tôi đập mạnh đến mức cảm thấy như sẽ nổ tung.@
+` [line=3]Nhưng vẫn có điều gì đó không đúng.@
+` [line=4]Có cảm giác như việc này không nên xảy ra với Senpai.
+\
+`"[line=7]..."@
+` Tôi chẳng quan tâm đến bất cứ thứ gì lúc này.@
+` [line=3]Miệng tôi không bị trói lại, nên nếu tôi hét lên, Hisui có lẽ sẽ đến!@
+ld c,"tachi/cel_t04",crossfade,400
+`"Không được. Nếu bạn hét lên, liệu ai đó có đến đây không? Và nếu họ đến, bạn sẽ nói gì với họ?"@
+cl c,lshutter,400
+\
+` Senpai ngồi lên giường.@
+` Giường khẽ rên dưới trọng lượng của hai người.@
+` Và sau đó,
+` âm thanh của một dải ruy băng được tháo gỡ.
+\
+(lướt qua 93)
+`"[line=4]Hả?"@
+` Không có thời gian để ngăn cô ấy,
+` ... hay có lẽ suy nghĩ của tôi về việc ngăn cô ấy đã bị đánh bại bởi khát vọng thấy điều đó của tôi...@
+` Và sau đó, tôi chỉ còn biết nuốt khí khi người hướng dẫn cởi bỏ quần áo, thậm chí cả đồ lót.@
+br
+bg #000000,crossfade,400
+play "*5"
+bg "event/cel_h01",lshutter,800
+` "... Senpai..."
+\
+`"[line=4]Xem nào, nó đã kết thúc rồi. Nếu ai đó đến bây giờ, chính bạn sẽ gặp rắc rối."@
+`"Với nụ cười gian tà, cô ấy trèo lên giường, bò về phía tôi như một con mèo.@
+` Với nụ cười hiểm ác, cô ấy leo lên giường, bò về phía tôi như một con mèo.
+\
+`"[line=7]Cổ họng tôi nóng bừng.@
+` Đầu tôi quay cuồng như say rượu, và tôi không nghĩ ra được điều gì để nói, hoặc nên làm gì, hay tôi đã làm gì trước đây.@
+` [line=5]
+\
+`"…… Ồ."@
+` Tôi nuốt nước bọt.@
+` Trước mặt tôi là Senpai, người không mặc dù chỉ một mảnh vải nào.@
+` Việc tôi nên làm ngay bây giờ là quay đi và cố gắng không nhìn thấy cơ thể trần trụi của cô ấy[line=3]nhưng cơ thể tôi không nghe theo lời khuyên của tâm trí tôi.
+\
+` …… Những ngực phát triển tốt, mềm mại trông có vẻ.@
+` Da trần trắng mịn của cô ấy thu hút tôi. Tôi gần như có thể ngửi thấy sự dâm đãng của nó.
+\
+` Trái tim tôi nổ tung vì phấn khích.@
+` Tôi biết mình không nên nhìn[line=3]nhưng cơ thể đầy đặn của cô ấy chiếm hữu cả tâm trí và đôi mắt tôi.
+\
+`"Hừm, tôi nên làm gì bây giờ? Tôi có thể chỉ cưỡng hiếp bạn ngay bây giờ, nhưng điều đó khá nhàm chán, phải không?"@
+` Với nụ cười kỳ lạ trên môi, cô ấy từ từ bò lại gần.
+\
+` ... Nó khác biệt.@
+` Tôi nói cô ấy trông như một con mèo trước đây, nhưng nó khác biệt.@
+` Điều rình rập đến gần tôi không phải là một con mèo, mà là một con báo săn mồi con mồi của nó.
+\
+`"S-Senpai! Dừng lại đi! Làm ơn mặc quần áo lại!"@
+` Tôi cố kiềm chế ham muốn của mình đủ lâu để đẩy những lời này ra ngoài miệng.
+\
+`"À, Tohno-kun. Có vẻ như cậu vẫn chưa hiểu tình hình của mình."@
+` Cô ấy phát ra âm thanh thất vọng và nhìn về phía tôi.@
+`"Hiện tại, chỉ có vài nơi bạn có thể di chuyển."@
+` Và khi cô nói những điều như vậy, nó khiến tôi muốn trêu chọc cô nhiều hơn."
+\
+bg #000000,crossfade,400
+bg "bg/bg_40c",crossfade,400
+`"[line=3]Ồ, Senpai?!"@
+` Bất ngờ, cô ấy biến mất.@
+` Không ai nằm trên giường.@
+` [line=3]Tôi không thể nhìn thấy cô ở đâu cả, và tất cả những gì tôi cảm nhận được là sự hiện diện của ai đó trong phòng.
+br
+`"Phew."@
+br
+`"Ồ...?"@
+` [line=3]Bất ngờ,
+` một làn gió thổi vào tai tôi từ phía sau.
+\
+`"Sê, Sê-se, Senpai...?"@
+`"Tôi làm ngươi bất ngờ à? Tôi không có ý định vậy, nhưng ngươi quá nhạy cảm nên có lẽ tôi đã khiến ngươi ngạc nhiên, Tohno."@
+` Nói xong,
+` cô ấy áp sát người vào lưng tôi.
+\
+bg #000000,lshutter,400
+bg "event/cel_h01",lshutter,400
+`"[line=5]!"@
+`"Đừng làm ồn nhiều như vậy. Trong đêm khuya như thế này, có ai đó có thể đến kiểm tra cậu."@
+br
+` ... Tôi nghe thấy giọng cô ấy ngay sau lưng tôi.@
+` Những ngón tay của cô ấy trượt dọc theo gáy tôi.@
+`"Nn..." [line=5] "...!"@
+` Một cơn rùng mình chạy dọc cơ thể tôi.@
+` Trái tim tôi đập mạnh mẽ trong lồng ngực.@
+` Đập.@
+` Giống như đang hòa nhịp với nhịp đập của tôi, tâm trí tôi ngập tràn ham muốn.
+\
+`"…… Dừng lại…… ơi, Senpai……!"@
+`"Thật tuyệt, cậu có ghét tôi đến mức đó, Tohno-kun?"@
+br
+` [line=3]Điều đó.@
+`  Đó không phải… nó… hoàn toàn không.@
+br
+` Từ cổ họng đến lưng.@
+` Từ lưng, như thể ôm lấy tôi, ngón tay cô ấy chạm vào ngực tôi.
+\
+` Một cảm giác mềm mại.@
+` Từ phía sau, tôi có thể cảm nhận được cảm giác của đôi vú mềm mại của cô ấy ép vào lưng tôi.
+\
+`"Tss………………!"@
+` Điều này không tốt.@
+` [line=3][line=3]Tôi không có ý định làm bất cứ điều gì, nhưng tôi là một chàng trai, nên...
+\
+`"Đó là lý do tôi đến đây như thế này. Ngay cả khi bạn kiên quyết, tôi nghĩ bạn sẽ trung thực trong giấc mơ của mình."@
+` Cô ấy thì thầm vào tai tôi.@
+` Đôi môi cô ấy rất gần, hơi thở của cô ấy lướt trên da tôi.
+\
+`"... Một giấc mơ... thực sự...?"@
+`"Đúng vậy. Nếu đây không phải là một giấc mơ, chúng ta sẽ không thể làm điều này."@
+`"...Ồ... ngay cả khi tôi hét lên... chẳng ai sẽ đến, phải không?"@
+` Tôi cố gắng chống lại áp lực ngày càng tăng ở vùng thắt lưng, nói lắp bắp.@
+br
+` "Cậu chủ khẽ cười vào tai tôi.
+\
+`"Họ sẽ đến. Nếu cậu hét lên, chị gái cậu sẽ nghi ngờ và kiểm tra xem chuyện gì đang xảy ra với cậu. Đây là MỘT giấc mơ như thế."@
+br
+` [line=3]Ý tôi là,
+` Có lẽ đó là một thực tại không thể gọi là giấc mơ thật sự?
+\
+` Cô ấy vuốt ve xuống ngực tôi.@
+` Ngón tay cô ấy di chuyển một cách khéo léo xuống ngực tôi, giống như những chân của con nhện, nhẹ nhàng quấy rối.@
+` Nhịp tim tôi tăng tốc.@
+` Trước khi nhận ra, tôi hoàn toàn trơ trụi và đã cương cứng hoàn toàn.@
+br
+` Dần dần và nhẹ nhàng.@
+` Những ngón tay của cô ấy tiếp tục hạ xuống.
+\
+`"Tốt rồi, trò đùa bắt đầu đây.@ Chuẩn bị tinh thần đi, Tohno-kun."@
+` Những ngón tay của cô ấy chạm vào thân dương vật trần trụi của tôi.@
+` Tôi cảm thấy một bàn tay khác ngoài bàn tay của mình bao quanh tôi.@
+` [line=3]Chỉ riêng điều đó đã đủ xấu hổ, nhưng vì là ngón tay của Senpai nên tôi cảm thấy xấu hổ đến mức muốn chết.
+\
+`"[line=2]Wow, cậu đã cứng rồi, Tohno-kun. Trong trường hợp này, tôi có thể mạnh dạn hơn một chút."@
+` Giọng cô ấy tràn ngập niềm vui.@
+` [line=2][line=2]Ngón tay cô ấy từ từ quấn lấy tôi cho đến giờ.@
+` Cô ấy siết chặt đến mức tôi cảm thấy như cô ấy sẽ kéo nó ra khỏi cơ thể.
+\
+bg #ffffff,notrans,0
+bg "event/cel_h01",notrans,0
+`"Nn……!"@
+` Tôi thốt lên một tiếng thở dài.@
+` Một cơn sốc lan nhanh từ vùng kín xuống não bộ của tôi.@
+`"Ồ, cậu bất ngờ à?"@
+` "Xin lỗi, cậu chưa ướt chút nào, Tohno-kun. Đừng lo lắng, tôi sẽ nhẹ nhàng hơn."@
+` Bàn tay cô ấy rút lại.@
+` Lần này, ngón tay cô ấy ôm lấy dương vật tôi một cách tinh tế.@
+`"[line=3][line=3]Ôi!"@
+` Cảm giác đó khiến tôi ngạt thở.
+\
+`"[line=3][line=3]Không, Senpai, điều đó... không được."@
+` Tôi... chỉ muốn... cô ấy... dừng lại.@
+` Tôi cố gắng di chuyển cánh tay mình.@
+br
+` [line=3]Nhưng tôi không thể. Tôi không có tự do.@
+br
+` [line=3]Với đôi mắt lấp lánh, Senpai quan sát những nỗ lực vô ích của tôi để kìm nén giọng nói.
+\
+`"Haha, tôi rất mong chờ điều này. Tò mò xem cậu có thể chống cự bao lâu, Tohno-kun."@
+` Cô ấy nói với giọng quyến rũ, rồi lưỡi đỏ thấm vào tai tôi.
+\
+`"... Nn!"@
+` Tôi nhắm mắt lại.@
+` ... Dưới cùng, một hình phạt trực tiếp hơn đang diễn ra.@
+`"[line=3]Sto... p[line=3]"@
+` Ba ngón tay của cô ấy di chuyển chậm rãi dọc theo thân cây tôi.
+\
+br
+` Lên.@ Xuống.@ Di trượt.@
+br
+` Tiếng da khô dần dần trở nên trơn tru.@
+` Chà xát.@
+` Ép chặt.@
+` Và kéo ra.
+\
+`"... Mm, Tohno-kun của tôi đang bẩn rất nhiều đấy.@
+` Này, đôi mắt của cậu vẫn còn tỉnh táo, phải không? Cậu có thể nhìn mình một cái không?"@
+`"[line=3]Hả" khiến tôi ngượng ngùng hơn nữa.@
+` Tiếng cô ấy vuốt ve khiến sự im lặng trở nên đầy ắp.
+\
+br
+` Lặp đi lặp lại, dương vật của tôi phồng lên ngày càng lớn khi cô ấy âu yếm nó.@
+br
+` Càng cố gắng kìm nén, tôi càng cảm thấy mình mất kiểm soát.@
+` [line=3]Chỉ bằng việc nhìn thấy... ngón tay cô ấy chu du trong những cái vuốt ve không ngừng.@
+br
+` "...làm tôi muốn phát điên."
+\
+`"[line=4][line=3]K, ha" — một tiếng thì thầm đầy ám ảnh.@
+` Tôi cố gắng hết sức nhưng vẫn không thể kìm nén được giọng nói của mình.@
+` [line=3]Tôi siết chặt răng, tự nhủ mình không cảm thấy điều đó, nhưng cơ thể tôi không nghe theo lời tôi.
+\
+` Dây dương vật tôi dựng đứng và tôi có cảm giác như sắp nổ tung vào bất cứ lúc nào.@
+` Chỉ bằng việc cô ấy chạm vào tôi, tôi đã mất hết suy nghĩ logic[line=3]nhưng cử chỉ của ngón tay cô ấy còn tàn nhẫn hơn nhiều.@
+` Chỉ bằng cách trượt ngón tay lên xuống,
+` Tôi gần như nổ tung, giải phóng toàn bộ nhiệt độ sôi sục bên trong.
+\
+`"[line=3][line=3]Hắc..."@
+` Khi tôi kìm giọng nói lại,
+` Tôi cố gắng thở lặng lẽ.@
+` Mỗi lần tôi làm điều đó,
+` "Người tiên sinh cười."@
+`"Tôi cảm thấy khá phấn khích. Giọng nói của cậu thật đầy đam mê, Tohno-kun."@
+`"[line=3]Đừng có khinh thường."@
+` Trước khi tôi có thể kết thúc, ngón tay của cô ấy di chuyển một lần nữa.
+\
+` Di chuyển của ngón tay cô ấy.@
+` Cơ thể tôi đang bị kiểm soát bởi một chuyển động ít hơn một inch.@
+br
+` Tôi không thể cưỡng lại cô ấy.@
+` Tôi bị ràng buộc và bị trêu chọc như vậy.@
+` Tôi thở gấp gáp, cố chống lại sự khoái cảm này.
+\
+` ... Nhưng... tôi không thể.@
+br
+` Thông thường, điều này sẽ khiến tôi tức giận.@
+` [line=2]Nhưng giờ đây, nó chỉ làm tâm trí tôi tê dại.
+\
+`"[line=3]Cậu chủ, chúng ta dừng lại nào. Điều này... sai lắm..."@
+` ... Vâng, nó thực sự sai.@
+` Điều này hoàn toàn không đúng chút nào.@
+` Tôi không yêu cô ấy, nên tôi không nên làm điều này.@
+` ... Tôi không yêu cô ấy...?@
+` Có phải là sự thật? Nếu đây thực sự là giấc mơ của tôi, nó có nghĩa là điều này là mong muốn của Tohno Shiki.
+\
+`"Hahaha... hahaha... ughhh..." [line=3]@
+br
+` "Không, tôi không thể nghĩ... rõ ràng."@
+` "[line=3]Nó cảm thấy quá tuyệt vời."@
+` "Tại sao tôi lại có ham muốn này?"@
+` "Đó không phải là lần đầu tiên tôi có ngón tay trượt dọc theo dương vật của mình."
+\
+` "Nhưng điều này hoàn toàn khác so với khi tôi tự làm."
+` "Tôi không thể kiềm chế như vậy."@
+` "Vì thế tôi muốn nó dừng lại... nhưng vì chúng không phải là ngón tay của tôi, chúng sẽ không nghe lời tôi."@
+` "Dương vật của tôi đã ướt sũng rồi."@
+` Tôi đang tràn ngập đến mức tinh dịch phủ kín toàn bộ đầu dương vật.@
+`"Ha... gah..."@
+` Nhưng những lý trí còn lại của tôi ngăn cản tôi vượt qua ranh giới.
+\
+`"... Thật tuyệt, bạn rất kiên định. Cơ thể bạn trung thực, sao tâm trí bạn lại cứng đầu đến vậy!"@
+` Cùng nhịp với giọng nói của cô ấy,
+` Những ngón tay dịu dàng của cô ấy đột nhiên chèn vào trong tôi.
+\
+bg #9c0120,notrans,0
+bg "event/cel_h01",notrans,0
+`"[line=8]!!!"@
+br
+` [line=4]"Aah!"@
+` Tôi cảm thấy lưng mình cong lại như phản ứng.@
+` Sự khao khát bên trong tôi bỗng chuyển thành mong muốn trốn thoát.@
+` Một sự va chạm giữa khoái cảm và đau đớn.@
+` Cảm giác này bắn từ vùng thắt lưng lên đến não tôi.
+\
+` Tay tôi giằng giật chống lại những xiềng xích.@
+` Tôi cố gắng hết sức, nín thở để thoát ra.@
+` Nhưng chúng không hề di chuyển.
+\
+`"[line=3][line=4]Ơn ơi!"@
+` Những móng tay của cô ấy vẫn cào vào tôi.@
+` Cô ta tra tấn dương vật của tôi như thể muốn ngăn chặn những gì tôi sắp giải phóng.
+\
+`"S-Sen… pai………!"@
+`"Ôi, cậu nên ngừng giãy giụa, Tohno-kun. Những xiềng xích ấy sẽ không rời đi, nên nếu cậu cố gắng quá sức, chỉ khiến bản thân bị thương thôi."@
+`"Không[line=2]không phải như vậy, móng tay của cậu[line=3]!"@
+`"Ôi? Tohno-kun, ngón tay của tôi có làm cậu thấy dễ chịu không?"@
+` Tôi không thể tin được cô ấy có thể nói những điều phi lý như vậy với giọng điệu đầy ác ý.
+\
+`"………………!"@
+` Tôi gầm ghè răng và chịu đựng cơn đau.@
+` Những ngón tay của cô ấy lui lại.@
+` Dấu vết móng tay vẫn còn đó.@
+` Nhờ vậy, dường như ham muốn của tôi đã tan biến.
+\
+`"... Senpai, xin hãy dừng lại... nếu cậu... tiếp tục... tôi sẽ tức giận." [line=3]@
+`"Đúng vậy, tôi biết. Tôi không làm gì nhiều hơn nếu cậu không muốn."@
+` Với đôi mắt như xuyên thấu trái tim tôi, cô ấy lại bắt đầu di chuyển ngón tay.
+\
+`"...! Cậu không hiểu gì cả, ngốc ạ!"@
+` Senpai không trả lời.@
+` Cô ấy chỉ bắt đầu vuốt ve tôi một lần nữa.@
+` Từ từ.@
+` Từ phần cơ bản đến đỉnh điểm.@
+` Cũng từ từ. Dịu dàng. Tạo ra những âm thanh ẩm ướt nhỏ.
+\
+` Lặp đi lặp lại.@
+` [line=3]Quá chậm đến mức tôi muốn cô ấy di chuyển nhanh hơn và kết thúc mọi thứ.
+\
+`"... Ah."@
+` Hơi thở của tôi dần trở nên bình tĩnh hơn.@
+` Tôi đã quen với những ngón tay ấy, và cuối cùng nó ổn định.@
+` Nhưng đã quá muộn.@
+` Nó di chuyển quá chậm, và cảm giác rất dễ chịu, nhưng tôi không thể chạm đến đỉnh điểm.@
+` Tôi đang chảy ra nhiều chất lỏng như một người phụ nữ.@
+` Nhưng tôi chưa từng đạt cực khoái lần nào.
+\
+`"... Ah... ..."@
+` Với những cử động chậm rãi của cô ấy.@
+` Chỉ có sự thấm trọn của sự tiền định của tôi.@
+`"Ồ... gah."@
+` Tôi muốn buông thả, nhưng tôi không thể.@
+` Tôi sẵn sàng đến, nhưng tôi quá quen với cảm giác mềm mại này, tôi không thể chạm đến đỉnh điểm.
+\
+` Tôi muốn đạt cực khoái.@
+` Nhưng tôi không thể.@
+` Tôi khao khát khoảnh khắc ấy.@
+` Nhưng tôi vẫn bị kìm hãm.@
+` Những ngón tay di chuyển chậm chạp của cô ấy,
+` [line=2]Cô ấy di chuyển quá chậm, không đủ nhanh để khiến tôi thỏa mãn... tại sao? Cô ấy đã tiến xa như vậy rồi.@
+` Tại sao cô ấy không siết chặt lấy tôi như trước và khiến tôi đạt cực khoái?
+\
+` [line=3]Nhanh lên!@
+br
+` Nhanh lên, nếu không tôi sẽ mất trí.@
+` Điều đang dâng trào bên trong tôi quá nặng nề và đau đớn đến mức nếu tôi không để nó thoát ra sớm[line=2]
+` Niềm vui này sẽ kéo dài mãi mãi và khiến tôi phát điên...!
+\
+`"... Đáng lẽ ra không."@
+` Não bộ của tôi sắp ngừng hoạt động.@
+` [line=2]Hãy vội đi, tôi không còn quan tâm lúc này.@
+` Tôi chẳng bận tâm đến Senpai hay lương tâm của mình, những thứ đó vô nghĩa.@
+` [line=3]Tôi không cố chấp đâu, nên hãy nhanh lên.
+\
+`"Này Tohno-kun. Anh có sắp tới không?"@
+` Theo phía tôi, Senpai nói với giọng nhẹ nhàng.@
+` Nó không còn mang niềm vui như trước, mà hoàn toàn nghiêm túc.
+\
+`"[line=3][line=3]Không... Tôi... không cảm thấy gì cả. Vì vậy mọi thứ này đều vô ích."@
+` Nhưng lời tôi nói không phản ánh cảm xúc của tôi.
+\
+` Cô ấy thở dài.@
+`"Được rồi, tôi thua. Vì tôi không thể đánh bại cậu, nên tôi sẽ dừng lại, Tohno-kun."@
+`"[line=4]Ồ?"@
+` Bàn tay cô ấy rút ra.@
+` Sự vuốt ve chậm rãi ngừng lại.
+\
+bg #000000,lshutter,800
+bg "bg/bg_40d",lshutter,800
+`"Xem nào, bây giờ cậu phải cảm thấy tốt hơn rồi, phải không, Tohno-kun?"@
+`"[line=4]Ừm..."@
+` [line=3]Điều này không thể đang xảy ra.@
+` Những ngón tay chậm chạp, mượt mà của cô ấy đã mất, và tôi cứng hơn bao giờ hết.@
+br
+` Thật khó khăn.@
+` Bảu tôi sưng phồng đến mức vẫn còn rỉ ra.
+\
+` Nhưng, tôi không thể đạt cực khoái.@
+` Ngón tay của cô ấy khiến tôi kích thích đến mức tôi đang ở trên bờ vực đạt cực khoái.@
+` Nhưng tôi vẫn bị trói buộc và cô ấy đã mất.
+\
+`"...Don...t..."@
+`"Có?@ Chuyện gì vậy, Tohno-kun?"
+\
+`"Đừng………"@
+`"Tôi đã dừng lại rồi chứ?@ Hay là có điều gì khác mà cậu muốn?"@
+` Giọng của Senpai tràn ngập niềm vui.@
+`"Cậu muốn gì?@ Nếu cậu không nói, tôi sẽ không biết, Tohno-kun."
+\
+`"...@"@
+` Tôi không thể nói ra được.@ Tôi không thể nói ra, dù cho bất cứ điều gì.@
+` Nhưng nếu tôi không làm thế, tôi thực sự sẽ phát điên[line=3].
+\
+`"…… Đừng…… dừng……"@
+`"Tôi không nghe thấy bạn, xin hãy nói to hơn."@
+` Giọng cô ấy bắn về phía tôi, đầy khoái cảm.@
+` …… Tôi không biết.@
+` Tôi không biết Thầy ơi là người tàn nhẫn đến vậy.
+\
+`"…… Xin đừng dừng lại.@ Tôi muốn…… bạn tiếp tục, Thầy ơi……"@
+` Tôi nói lắp bắp.@
+` Từ ngay bên cạnh tôi,@
+` Tôi có thể nghe thấy tiếng cười của cô ấy một lần nữa.@
+`"Tôi hiểu rồi. Sau đó... đây là phần thưởng cho sự trung thực của cậu, Tohno-kun."
+\
+bg #000000,lshutter,400
+` Cơ thể cô ấy lắc mình ra xa.@
+` Một âm thanh nhẹ nhàng va chạm.@
+` Ciel-senpai quỳ xuống trước mặt tôi.
+\
+bg "event/cel_h02",lshutter,800
+`"Se[line=3]Senpai………!?"@
+` Tôi rút hông lại vì ngạc nhiên.@
+` [line=3]Bởi vì Senpai quỳ xuống trước mặt tôi và... nhẹ nhàng hôn lên bộ phận nhạy cảm của tôi.
+\
+`"Ồ... lượng chất lỏng này thật đáng kinh ngạc. Tohno-kun, đó là vì cậu quá cố chấp."@
+` Cô ấy nắm lấy bộ phận của tôi bị dính dính và hít một hơi nhỏ.@
+` [line=3]Cô ấy đưa mặt quá gần với tôi.
+\
+` [line=4]Đột nhiên.@
+br
+`"... Ha... "@
+` Ngay cả khi cô ấy chưa làm gì, nhưng dương vật của tôi vẫn run rẩy.@
+` [line=3]Tôi không biết cảm giác này có phải là thể xác hay tâm trí, nhưng chỉ việc Senpai đưa mặt quá gần khiến những cảm giác nóng bỏng bắt đầu trở lại, vốn đã dần phai mờ.
+\
+` Mặt Senpai cũng đỏ bừng.@
+` Tôi nghĩ mình là người bị trêu chọc ở đây.@
+` [line=3]Nhưng, có phải khuôn mặt cô ấy luôn như vậy không?
+\
+` [line=3]Một tiếng đập mạnh.@
+br
+` Bây giờ, cảm xúc tôi dâng trào đến cổ họng.
+` "... Senpai, tôi... không thể giữ vững được."
+\
+`"... Tôi biết. Nhưng điều này thật tuyệt vời. Tohno-kun, cậu đang cháy rực lên."@
+`"[line=3]Cô ấy gần như nghe có vẻ ngưỡng mộ.@
+` "Cô ấy gần như nghe có vẻ ngưỡng mộ," - tôi thầm thì.@
+` Sau đó, Senpai lấy lưỡi... và từ từ liếm đầu của tôi.
+\
+`"[line=4]H!"@
+` Cảm giác này hoàn toàn khác với những ngón tay của cô ấy.@
+` Lưỡi cô ấy cảm thấy mềm mại nhưng lại chắc nịch.
+\
+`"[line=3]Haaah, ah."@
+` Ngón lưỡi cô ấy gãi ngứa da tôi.
+\
+`"[line=3]N!"@
+` Chỉ riêng khoảnh khắc đó đã đe dọa sẽ làm tôi ngạt thở, nhưng sau đó, những ngón tay của cô ấy bắt đầu di chuyển.@
+` Cô ấy nắm lấy đầu tôi bằng ngón tay và bắt đầu vuốt ve lên xuống.@
+` Các tĩnh mạch nổi bật trên thịt nóng của tôi, và cây gậy của tôi phản chiếu ánh sáng khi nó phủ mình bằng chất lỏng dính.
+\
+` Nhưng cô ấy tiếp tục chà xát thứ đồ quái dị đó.
+\
+` Cô ấy di chuyển như thể đang cố ép lấy thứ đang dâng lên bên trong tôi.@
+` Ngón cái của cô ấy nâng lên đến đầu tôi và ấn vào lỗ ở trên cùng.
+\
+`"Tôi sẽ..." [line=3] "đi" [line=3] "...nếu..." [line=2]@
+` Tôi chỉ có thể phát âm ra những từ đó một cách khó khăn. Tôi gần như không thể thở được.@
+` Cô ấy không rời đi.@
+` Lưỡi và ngón tay cô ấy vẫn di chuyển, phớt lờ lời cảnh báo của tôi.
+\
+`"[line=2][line=3]Tôi không thể kiềm chế được!"@
+` [line=3]Dù cố gắng thế nào đi chăng nữa... tôi cũng không thể chống lại vẻ mặt của cô ấy.@
+` Tôi cố gắng hết sức để kìm nén.@
+` [line=3]Tay tôi. Nếu tay tôi tự do, tôi sẽ có thể đẩy Senpai ra xa!
+\
+`"Tohno-kun, tại sao anh lại kiềm chế?"@
+` Không biết mình cảm thấy thế nào, cô ấy hỏi tôi như vậy.@
+`"... Tôi... Tôi không thể... để cảm xúc này hiện lên trên mặt bạn..."@
+` Tôi nói qua răng chặt.@
+` [line=3]Nhưng tôi không thể giữ vững được.
+\
+`"…… Anh thật đáng yêu, Tohno-kun."@
+br
+` Người lớn tuổi cười khẩy và…
+br
+!w750
+`"[line=3]Vì vậy, tôi sẽ trêu chọc anh nhiều hơn nữa."@
+!w750
+\
+` [line=3]Bằng bàn tay còn lại, cô ấy đẩy vào một vùng dưới đầu gậy của tôi ngay ở gốc của quả trứng.
+\
+`"[line=5]!?"@
+` Cơ thể tôi run rẩy không kiểm soát được.@
+` [line=2]Cảm giác như có ai đó khoan một lỗ vào sọ tôi.
+\
+`"Anh biết không, nếu em ấn vào chỗ này, một người đàn ông sẽ không thể xuất tinh."@
+`"[line=3]Ồ?"@
+` Cơ thể tôi co giật.@
+` Nhưng thứ vốn dĩ phải xuất ra bình thường lại không có, chỉ có những cơn co thắt.
+\
+`"Ừm, nếu em tiếp tục vuốt ve em như thế này, em có thể sẽ bị tổn thương."@
+` Liếm.@
+` Với lưỡi vẫn còn dính với chất dịch của tôi, cô ấy liếm môi.
+\
+`"[line=3]Nhưng, cậu đã nói với tôi rằng cậu muốn tôi khiến cậu mất trí. Vậy thì..."@
+`"Ồ... Sen... ơi..."@
+`"[line=3]Vậy là giờ tôi sẽ phá vỡ cậu, Tohno-kun."@
+` Nói xong,
+` Cô ấy đưa đầu lưỡi vào khe hở nhỏ ở trên đầu dương vật tôi.
+\
+`"[line=6]Ha!"@
+` [line=3]Xuống dưới...!@
+` Đến một nơi không ai nên chạm tới.@
+` Tôi cảm thấy như sẽ phát điên vì cảm giác lưỡi cô ấy ép sâu vào.@
+` Bị tấn công bởi cảm giác tuyệt vời nhất, dương vật tôi cố gắng hết sức để xuất tinh.@
+` Nhưng nó không thể.@
+` Ngón tay của cô ấy chặn đường, không cho phép tôi đạt cực khoái.
+\
+`"[line=3][line=3]Ôi trời ơi, ơi trời ơi!"@
+` Tôi quấy động trên giường.@
+` Tiếng rên rỉ của những xiềng xích rung chuyển trong phòng.@
+` [line=3]Tôi không quan tâm ai có thể thức giấc và đến xem chuyện gì sai sai.@
+` Nếu tôi chỉ nghĩ về điều gì đó như vậy, tôi sẽ phát điên.
+\
+` [line=3]Sl... ur... p
+br
+` Cảm giác thay đổi.@
+` Sự xâm nhập của lưỡi cảm giác lui lại.@
+` Shiki cảm thấy đôi môi của người bạn học kéo anh ta vào trong.
+\
+` Ngay cả khi cô ấy biết anh ta không thể phóng ra bất cứ điều gì, cô ấy vẫn hút như thể đang cố gắng kéo nó ra.@
+` Nó giống như thể cô ấy đang hút khô toàn bộ cơ thể anh ta.
+\
+bg #ffffff,crossfade,800
+`"[line=5]Ga!!!"@
+` Anh ta cảm thấy như ai đó đã đổ rượu vào lỗ hổng trong sọ của mình.@
+` Trí óc của anh ta trở nên trống rỗng như một tấm bảng trắng.
+\
+` Ngón tay của cô ấy lui lại.@
+` Ngón tay kìm giữ tinh dịch của anh ta buông ra, và những gì đã bị giam cầm lâu ngày cuối cùng cũng nổ tung.
+\
+` Tiếng đập mạnh.@
+` Tiếng đập liên tiếp, vang lên... rỗng không.
+\
+` Như thể tôi đang trút toàn bộ nhận thức và ký ức của mình ra ngoài, chất lỏng trắng bắn ra từ cơ thể tôi.@
+br
+` [line=3]Trí óc mơ hồ của tôi thậm chí cũng không còn nhận ra gương mặt của Senpai nữa.
+\
+` Tôi ngã xuống giường.@
+` Những xiềng xích trói buộc tôi tan biến như chưa từng tồn tại.@
+br
+`"[line=5]Ha..."@
+br
+` ...Tôi vẫn có thể cảm nhận được hơi thở và môi của cô ấy trên mình.@
+` Senpai vẫn tiếp tục hút, nuốt khô tinh dịch còn lại bên trong tôi.
+\
+`"[line=6]Ơ."@
+br
+` Nhưng điều đó đã khiến tôi kiệt sức.@
+` [line=4]Có vẻ như những mảnh ý thức cuối cùng còn lại của tôi đã bị Senpai nuốt trọn.
+\
+playstop
+!w3000

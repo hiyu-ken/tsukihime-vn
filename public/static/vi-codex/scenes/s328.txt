@@ -1,0 +1,21 @@
+play "*3"
+wavestop
+bg "bg/bg_04",notrans,0
+`"Cậu ta là bạn thân của anh từ thuở cấp hai mà[line=2]Akiha?"@`
+`"Dạ? Có việc gì thế anh Shiki?"@`
+`"Trông em bấy giờ dẫu đã lấy lại vẻ bình sinh nhanh chóng quá chừng.@ Tất thảy đống bối rối hỗn loạn lúc nãy ở nhà ăn dường như dẫu đã tịch mịch biến mất hệt như chưa từng nổ ra vậy."@`
+ld c,"tachi/aki_t01a",crossfade,400
+`"#[line=4]Ý anh Shiki muốn giãi bày điều gì ở đây ạ?"@`
+`"Không đâu, anh chỉ bận lòng nghĩ ngợi… có phải ban nãy em dẫu đã cố tình đóng kịch giả vờ ngây ngô để lừa anh đúng tịnh không?"@`
+` Khả năng cao sự tình quả thực đúng là như thế rồi.@`
+` "Thật ra, không có lý do nào cho Akiha lại đứng đó như một kẻ ngốc giữa đám đông như thế."
+\
+ld c,"tachi/aki_t18a",crossfade,400
+`"Ồ?@ Anh Shiki dẫu vậy dẫu vậy dẫu lại nhìn nhận về đứa em gái tự thân của mình nhường ấy sao?"@`
+` Akiha quét nhìn em từ đầu đến chân.@
+` ... Em biết rồi. Cô ấy chỉ đang giả vờ để lừa em thôi.@
+ld c,"tachi/aki_t21",crossfade,400
+`"Vâng ạ, xin anh cứ tự nhiên dệt mộng tưởng tượng theo ý thích của tự thân nhé.@ Em dẫu sao đâu có mưu cầu sự lo lắng bận lòng từ anh đâu cơ chứ."@`
+` Cô ấy phồng ngực và nhăn mặt.
+\
+cl c,crossfade,400

@@ -1,0 +1,12 @@
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+`"Yumizuka[line=4]Tớ..."@
+` Tôi... không thể trả lời nổi.@
+` Có lẽ chuyện này sẽ biến tôi thành một gã tồi tệ, thế nhưng đó lại chính là những cảm xúc chân thật nhất của lòng tôi.@
+` Tôi thực sự chưa từng dành bất kỳ thứ tình cảm đặc biệt nào cho cô bạn cùng lớp Yumizuka Satsuki cả.@
+` Việc tôi xuất hiện ở chốn này chỉ đơn thuần là vì sự kiện xảy ra trên đường đi học về hai ngày trước đã để lại ấn tượng quá đỗi sâu đậm trong tôi, khiến tôi tuyệt đối không cách nào gạt phắt nó ra khỏi đầu được[line=3]
+\
+ld c,"tachi/stk_t10",crossfade,400
+`"Tớ cũng nghĩ vậy rồi.@ Cậu thậm chí còn chẳng hề hay biết về sự tồn tại của tớ trên đời, nên làm sao có chuyện cậu có thể đem lòng yêu thương tớ được chứ."
+\

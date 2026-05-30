@@ -1,0 +1,53 @@
+monocro off
+wavestop
+play "*3"
+bg "bg/bg_11b",crossfade,1500
+` Tôi cùng Senpai bước dọc hành lang nhuộm đẫm ánh hoàng hôn.@
+` Vừa tán gẫu đủ chuyện không đâu, chúng tôi vừa bước đi chậm nhất có thể.@
+br
+` Bầu không khí ở nơi đây thật là tuyệt vời làm sao.@
+` [line=3]Nghĩ lại thì, tôi đã từng qua đêm trong phòng của Senpai.@
+` Khi ấy, tâm trí tôi ngập tràn trong nỗi ám ảnh rằng mình đã giết người, và rồi sau đó, tôi đã hoàn toàn quên đi điều đó khi ở bên cạnh Arcueid.
+\
+` …… Nếu không có đêm định mệnh ấy, tôi không nghĩ mình có thể đứng ở đây ngày hôm nay như thế này.@
+` Chị ấy không hề nhắc lại chuyện cũ, nhưng tôi cứ tự hỏi không biết chị ấy nghĩ gì về đêm đó nhỉ.@
+` …… Có lẽ đối với chị ấy, đó chỉ là việc giơ tay giúp đỡ một đứa đàn em khóa dưới đang suy sụp chăng?@
+` Giống như vô tình nhặt một chú chó con bị bỏ rơi tội nghiệp dưới trời mưa vậy?
+\
+`"…… Senpai này, ừm[line=2]"@
+ld c,"tachi/cel_t01a",crossfade,400
+`"Sao thế em?"@
+` Senpai quay sang nhìn tôi.@
+` …… Ngay đúng khoảnh khắc tôi định mở lời hỏi về đêm hôm đó,
+br
+` *Ẹooo~oo*@
+br
+` Bụng tôi bỗng phản chủ, réo lên một tiếng rõ to.@
+` Không, không phải réo đâu… phải gọi là gầm lên mới đúng, vang cả hành lang.
+\
+`"……………… Ựu."@
+ld c,"tachi/cel_t12",crossfade,400
+`"………………"@
+` Sự im lặng bao trùm lấy chúng tôi làm tôi ngượng ngùng muốn chết.@
+`"…… Tohno-kun, xem ra em đói bụng rồi hả."@
+`"[line=3]Chắc là vậy rồi ạ.@ Trời đất, sao dù chẳng thèm ăn gì mà bụng vẫn réo được thế này cơ chứ?"@
+` Tôi khẽ thở dài thườn thượt.@
+` Nhìn bộ dạng tôi lúc này, Senpai mỉm cười dịu dàng.
+\
+ld c,"tachi/cel_t01a",crossfade,400
+`"Đương nhiên rồi.@ Đã là con người thì phải ăn mới sống được chứ."@
+`"Đúng thật ạ.@ …… Cơ mà nghĩ lại thì em đói ngấu thật rồi."@
+` …… Tôi không hề nhận ra, nhưng việc bỏ cả bữa sáng lẫn bữa trưa thực sự đã khiến thể lực tôi kiệt quệ đi nhiều.@
+` Chắc tôi chẳng cầm cự nổi tới giờ ăn tối mất, nên phải ghé mua tạm cái bánh mì trên đường về thôi[line=5]
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Tohno-kun, cầm lấy này."@
+` Senpai chìa ra trước mặt tôi chiếc túi vải nhỏ mà chị ấy đang cầm trên tay.@
+` Tôi đồ rằng đó là phần cơm trưa của chị ấy.@
+ld c,"tachi/cel_t02",crossfade,400
+`"Chị ăn dở một nửa rồi, nhưng em có ngại không?"@
+` Senpai khẽ đỏ mặt, ngượng ngùng lên tiếng.@
+` …… Đúng rồi, hôm nay Senpai chỉ ăn hết có một nửa phần cơm trưa của mình thôi.@
+` Dù vậy, việc ăn nốt phần cơm ăn dở của người khác thực sự có chút ngượng ngùng.@
+` Tôi[line=4]
+\

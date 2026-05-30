@@ -1,0 +1,27 @@
+playstop
+wavestop
+bg "event/stk_e01a",notrans,0
+` ...Lạnh quá.@
+` Bạn có phải đang chịu đựng cái lạnh này một mình, Yumizuka?@
+` [line=4]Ngay cả khi tôi xin lỗi và cảm thông với bạn, tôi vẫn không hiểu được nỗi đau của bạn chút nào.@
+br
+` Nhưng điều đó đã qua rồi.@
+` Tohno Shiki sẽ sớm biến mất, và mọi thứ sẽ kết thúc.
+\
+playstop
+bg #000000,crossfade,800
+` [line=3]Nhịp tim tôi ngày càng xa cách.@
+br
+` Sự ấm áp của cơ thể, tất cả những gì còn sống, đều ngừng lại.@
+` Một cảm giác quen thuộc.@
+` Ngày hè ấy, tám năm trước, một cơn lạnh bỗng dưng xuất hiện.@
+br
+` ĐỘN
+br
+` Sau tiếng thét lớn, trái tim tôi ngừng đập.@
+` Và mọi thứ... Mọi thứ thuộc về Tohno Shiki đều biến mất.
+\
+!w3000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

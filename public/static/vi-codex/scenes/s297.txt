@@ -1,0 +1,511 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_27b",notrans,0
+` Nhưng, tôi muốn thấy cô ấy.@`
+` Tôi muốn nghe giọng nói của Ciel-senpai.@`
+` Người duy nhất mà tôi có thể trò chuyện, người duy nhất sẽ lắng nghe tôi.@`
+` Nếu chị ấy hiện diện tại đó, tôi tin rằng phần nhân tính "Tohno Shiki" bên trong mình vẫn có thể kiên cường giữ vững.`
+\
+bg #000000,crossfade,800
+bg "bg/bg_27b",crossfade,400
+`"………………"@`
+` Tôi chầm chậm quay số.@`
+` Sau ba tiếng chuông reo vang dài đằng đẵng, tôi nghe thấy đầu dây bên kia nhấc máy vang lên thanh âm ngọt ngào của chị Ciel.@`
+br
+`"Alô?@ Ai ở đầu dây thế ạ?"@`
+`"………………"@`
+` Thật kỳ lạ làm sao.@`
+` Giọng nói của chị ấy bấy giờ... vang lên thật ấm áp làm sao.`
+\
+`"Alô?@ Này, bạn có nghe thấy tôi nói không?"@`
+` Thanh âm dò hỏi đầy lo lắng.@`
+` Bản thân tuy chỉ mới ghé căn hộ của chị ấy đúng một lần duy nhất, tôi vẫn có thể dễ dàng mường tượng ra dáng vẻ chị đang nâng máy điện thoại đứng bên trong phòng.`
+\
+`"……………………"@`
+` Tôi nghẹn ứ không thể cất thành lời.@`
+` Bản thân thực sự chịu chết chẳng biết phải giãi bày thế nào lúc này nữa.@`
+` Tôi thừa hiểu bản thân ngay từ đầu vốn dĩ không nên gọi cuộc điện thoại này.@ Tôi tuyệt đối không được phép kéo chị ấy lâm vào vũng bùn tội lỗi này được.@`
+` Tôi nên[line=2]lẳng lặng cúp điện thoại mà tịnh không hé răng nửa lời thôi.`
+\
+`"Tohno-kun?@ Có phải em đấy không, Tohno-kun?"@`
+br
+`"A...[line=10]"@`
+` Nghe thấy chị ấy cất giọng lo lắng réo gọi tên mình, trong lòng tôi bỗng chốc dâng trào một nỗi chua xót muốn khóc nấc lên.@`
+br
+`"……… Vâng ạ."@`
+` Tôi thều thào đáp lời.@`
+`"A, chị biết ngay là em mà, Tohno-kun.@ Có chuyện gì mà em lại gọi điện cho chị muộn thế này?"`
+\
+`"………………"@`
+` Tôi tự dặn lòng phải lập tức dừng chuyện điên rồ này lại.@`
+` Tôi tự nhủ bản thân phải nhanh chóng bịa ra một lý do thoái thác nào đó, bảo chị hẹn gặp lại vào ngày mai rồi dứt khoát gác máy.@`
+` Thế nhưng, bản thân lúc này tuyệt đối không cách nào nhấc nổi cánh tay cúp máy xuống được.@`
+`"Chị Ciel ơi, em... em nghĩ bản thân mình không cách nào cứu vãn nổi nữa rồi."@`
+` Tôi thều thào bằng một giọng nói chầm chậm lịm đi.@`
+`"[line=4]Tohno-kun?"@`
+` Thanh âm của chị ấy bấy giờ bỗng chốc đông cứng lạnh ngắt lại.`
+\
+`"Tohno-kun, lời em nói là có ý gì vậy?@ Có chuyện gì đã xảy đến với em thế?"@`
+`"[line=4]Ý em là... em hết cách thật rồi.@`
+` Em đã làm hết sức mình để kiên cường kháng cự lại nó rồi.@ Thế nhưng dẫu vậy, mọi sự quả thực đều vô dụng cả rồi.@ Đúng như những gì gã ấy đã nói, hóa ra... bản thân em vốn dĩ chỉ là một kẻ sát nhân điên loạn mà thôi."@`
+br
+` Vả lại còn là thứ quái thai gớm ghiếc tồi tệ nhất nữa cơ.@`
+` Ngay cả vào lúc này, chỉ cần bản thân lơ là mất cảnh giác dù chỉ một tích tắc thôi, tôi lại điên cuồng muốn cắm lưỡi dao sắc lạnh cắt toạc yết hầu của Akiha hay Hisui mất.@`
+` Tuyệt nhiên không chỉ đối với những kẻ xa lạ ngoài phố, mà ngay cả những người thân cận ruột thịt bên cạnh tôi[line=2]Ý thức tự chủ của tôi bấy giờ sắp sửa vỡ vụn chấm dứt hoàn toàn rồi, đầu óc tôi lúc này thực sự đã lâm vào bước đường cùng điên loạn nhường ấy rồi.`
+\
+`"…… Em bắt buộc phải làm sao đây ạ?@ Bản thân em tuyệt đối không thể tự sát kết liễu đời mình được.@ Từ thuở nhỏ tới giờ, tịnh không một ai từng dạy cho em cách phải tự sát thế nào cả."@`
+`"…… Chị hiểu rồi.@ Hiện giờ em đang ở đâu thế?"@`
+`"Ở trong công viên ạ.@ Em đã cố chạy trốn đến một nơi hoang vắng không người qua lại, nhưng bao bọc xung quanh chốn này vẫn san sát quá nhiều nhà dân.@ Bản thân em... sắp sửa điên loạn thật rồi."@`
+`"…… Chị hiểu rồi.@ Chị sẽ lập tức hướng tới trường học của chúng ta, thế nên hãy cùng gặp nhau tại đó nhé.@ Nơi đó tịnh không có căn hộ dân cư nào sát kề bên, chắc chắn sẽ vô cùng yên tĩnh và cô tịch đúng không?"@`
+`"[line=3]Đúng vậy ạ[line=3]ở trường học bấy giờ tuyệt đối sẽ không có một ai qua lại cả."@`
+`"Được rồi chứ?@ Làm ơn hãy ngoan ngoãn đứng đợi chị tại sân trường nhé."@`
+br
+` Đường truyền đột ngột cúp đứt.`
+\
+`"[line=5]"@`
+` Tôi lững thững bước ra khỏi bốt điện thoại công cộng.@`
+` Chị Ciel[line=3]tôi sắp sửa được trông thấy chị Ciel rồi.@`
+` Bản thân tuy hiểu rõ việc gặp mặt chị ấy chẳng thể thay đổi nổi sự thật tàn khốc này, thế nhưng thâm tâm tôi vẫn vô cùng khát khao được trông thấy dáng hình chị.`
+br
+`"[line=4]Hực, ực."@`
+` Thân xác tôi lại bắt đầu nóng ran lên kịch liệt thêm lần nữa.@`
+` Ôm lòng thầm cầu nguyện bản thân tuyệt đối không chạm trán bất kỳ ai trên đường tới trường, tôi rời khỏi công viên với những bước chân run rẩy vô định.`
+\
+bg #000000,lcartain,1500
+bg "bg/bg_01c",lcartain,1500
+` Ngôi trường bấy giờ chìm trong sự im lặng tuyệt đối.@`
+` Xung quanh đây tịnh không có lấy một căn nhà dân nào, quả thực cô tịch và tĩnh lặng vô ngần.@`
+br
+` *Hộc...*[line=4]*hộc...*, *hộc...*[line=3]`
+` Tôi tháo bỏ cặp kính của mình ra, rồi dùng dao găm thô bạo chém đứt khóa xích cổng sắt nhà trường.`
+\
+`"Ah."@`
+` …… Tôi tuyệt đối không cách nào dung thứ nổi cho bản thân.@`
+` Dẫu cho đầu óc không hề chủ ý suy nghĩ đến, tôi bấy giờ hóa ra đã đút sẵn lưỡi dao sắc lạnh vào túi quần từ thuở nào rồi.@`
+br
+` Có lẽ là,`
+` để bản thân có thể lập tức vung dao sát hại ai đó bất kỳ lúc nào.`
+\
+bg "bg/bg_02a",crossfade,1500
+`"Ha………… hực."@`
+` Ngay khi vừa đặt chân bước hẳn vào sâu bên trong sân trường, đôi đầu gối tôi bỗng chốc đổ rạp hẳn xuống nền đất.@`
+` Tôi dùng cả hai tay chống chặt lấy mặt đất lạnh lẽo hòng giữ thăng bằng.`
+\
+bg #9c0120,notrans,0
+bg "bg/bg_02a",notrans,0
+`"……………………"@`
+` Toàn thân tôi bấy giờ nóng ran lên hệt như lửa đốt.@`
+` Thế nhưng, thâm tâm tôi lúc này lại tịnh không cảm giác bản thân sắp sửa bị nuốt chửng mất đi lý trí thêm lần nữa.@`
+` Có lẽ là,`
+br
+` việc xâm hại thân thể chị Kohaku trước đó,`
+br
+` đã tạm thời giải tỏa thứ xung năng điên cuồng nóng bỏng ngự trị bên trong tôi rồi chăng.`
+\
+`"[line=4]Ự."@`
+` Cơn buồn nôn dữ dội bỗng chốc dội ngược lên nơi cổ họng.@`
+` Khoang miệng tôi bấy giờ tràn ngập vị đắng nghét tê dại.@`
+` Từ sáng tới giờ bụng tôi tịnh không có lấy một hạt cơm lót dạ, thế nên thứ duy nhất bản thân tôi có thể nôn ra lúc này chỉ có thể là dòng dịch mật dạ dày chua loét đắng chát.`
+br
+`"Chị Kohaku……[line=3]"@`
+` Đó tuyệt đối là thứ tội lỗi nhơ nhuốc không thể nào gột rửa nổi chỉ bằng một lời xin lỗi đơn thuần.@`
+` Thế nên, tôi quả thực không cách nào mở lời xin lỗi chị ấy được nữa rồi.@`
+` Từ nay về sau, bản thân tôi biết lấy tư cách gì để có thể dâng hiến cuộc đời chuộc tội cho chị ấy đây chứ?`
+\
+` Dòng ký ức bỗng chầm chậm dội về cuộc trò chuyện cách đây ít ngày.@`
+` Vào thời khắc chị Ciel dang tay nâng đỡ, cứu rỗi cuộc đời tôi khỏi cõi sâu thẳm của sự tuyệt vọng tột cùng sau khi tôi nhẫn tâm sát hại Arcueid.@`
+` Người con gái ấy[line=3]chị ấy đã nhẹ nhàng dặn dò tôi rằng trên đời này vốn dĩ làm gì tồn tại kẻ mang tội và kẻ không mang tội, mà chỉ hiện diện duy nhất những người có thể và không thể chuộc lại tội lỗi của chính mình mà thôi.`
+br
+` Thế nhưng, bản thân tôi bấy giờ biết bắt đầu chuộc tội từ đâu đây?@`
+` Thứ tội ác gớm ghiếc mà tôi đã gây ra, vết thương lòng sâu hoắm đau đớn nhường ấy, liệu có thể dung thứ và chuộc tội nổi chăng[line=4]`
+\
+monocro #0000ff
+bg "bg/bg_02a",crossfade,400
+`"[line=3]?"@`
+` Không gian xung quanh bỗng chốc sụp tối hẳn lại.@`
+` Có tiếng bước chân nhẹ nhàng cất lên vang vọng.@`
+` Tôi bấy giờ vì mệt mỏi cúi gằm mặt xuống đất nên không hề hay biết, hóa ra đã có ai đó đang lẳng lặng tiến lại gần từ thuở nào.@`
+` Dưới ánh trăng khuyết dịu hiền cao vợi.@`
+` Phải chăng bóng hình người ấy đã che lấp cả ánh trăng khuya khiến nền trời bỗng chốc tối sầm lại chăng?`
+\
+`"Em đang điên cuồng muốn ăn ăn sám hối tội lỗi của mình sao, Tohno-kun?"@`
+br
+` Chị Ciel cất tiếng dò hỏi bằng một chất giọng lạnh lùng đến xương tủy.@`
+br
+`"[line=4]Chị... Ciel."@`
+` …… Chị ấy quả thực đã cất công tìm đến đây rồi.@`
+` Vô cùng khát khao muốn được ngắm nhìn gương mặt chị, tôi nhọc nhằn ngước đầu lên hệt như đang ngước nhìn lên vòm trời đêm cô tịch.`
+monocro off
+bg "event/cel_e06",crossfade,1500,bottom
+br
+`"[line=4]Ủa?"@`
+br
+` [line=3]Thế nhưng cảnh tượng trước mắt này.`
+\
+bg "event/cel_e06",tscroll,1500,top
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Đây tuyệt đối không phải là,`
+`   người chị Ciel dịu dàng mà tôi hằng biết bấy lâu nay.`
+\
+waveloop se_02
+` Trên đôi cánh tay trần của chị ấy hiện diện hình xăm một cây thánh giá đỏ thẫm rợn người.@`
+` Đôi mắt lạnh ngắt như băng tuyết trố mắt nhìn tôi, hệt như đang ngắm nhìn một kẻ xa lạ tịnh không quen biết.@`
+` …… Chị Ciel bấy giờ đang nâng trên tay một thứ vũ khí vô cùng đồ sộ gớm ghiếc, phả ra luồng sát khí lạnh lẽo thấu xương tuyệt đối không hề phù hợp với hình ảnh dịu dàng của chị.`
+\
+`"[line=7]A."@`
+` …… Tôi hiểu rõ thứ này.@`
+` Sâu thẳm trong đại não tôi bỗng tái hiện đầy đủ tri thức về món vũ khí hắc ám quỷ dị này.@ Đó chắc chắn phải là[line=3]thứ được xưng tụng là Thần Khí thứ Bảy, một trong những món thánh khí tối mật tuyệt đối không được phép tùy tiện tháo bỏ khỏi nơi phong ấn vĩnh hằng.@`
+br
+`"Chị... Ciel……?[line=3]"@`
+`"Đúng như những gì chị dự đoán, rốt cuộc em chính là Roa đời tiếp theo rồi, Tohno-kun."@`
+` Bằng đôi mắt lạnh lẽo thấu xương ấy,`
+` chị Ciel cất lời bằng một giọng nói lạnh ngắt hệt như băng tuyết mùa đông.`
+\
+`"[line=4]"@`
+` Một luồng ớn lạnh chạy dọc sống lưng tôi.@`
+` Tịnh không vì bất kỳ lý do gì.@ Không, toàn bộ bản năng sinh tồn và trí não tôi đang điên cuồng báo động nguy hiểm tột độ, khiến tôi vô thức nhảy lùi hẳn về phía sau.@`
+br
+`"[line=6]"@`
+` Lặng câm không hé răng nửa lời, chị ấy nhẹ nhàng tiến thêm một bước sát kề tôi cùng với món vũ khí hắc ám oai vệ kia.@`
+` …… Chị ấy hoàn hảo thủ thế, tịnh không hiển lộ ra lấy một chút sơ hở nào.`
+\
+` Nếu tôi vội vàng quay lưng bỏ chạy,`
+` nếu tôi dám sơ hở phơi bày tấm lưng trần trước mắt chị ấy, tôi thừa hiểu món vũ khí ấy sẽ lập tức đâm xuyên qua tim tôi và hủy diệt linh hồn tôi biến mất vĩnh viễn không còn cơ hội luân hồi chuyển kiếp thêm lần nào nữa.@`
+br
+` …… Cho dù bản thân tôi tịnh không hề có loại tri thức đáng sợ này trong ký ức tự thân từ trước.`
+\
+`"[line=3]Cớ sao chứ?@ Em chỉ...[line=3]"@`
+` Em chỉ... vô cùng khát khao được trông thấy chị Ciel thêm lần nữa mà thôi.@`
+br
+`"Chị hiểu rồi.@ Ý chí của Roa bấy giờ đã bắt đầu trỗi dậy ngự trị cơ thể em rồi đúng không?@ Vậy thì mọi chuyện đã quá đỗi muộn màng rồi."@`
+` Nhẹ nhàng nhấc gót,`
+` chị ấy lại bước thêm một bước vô cùng thanh thoát về phía trước.@`
+br
+` Dáng hình oai vệ ấy trông hệt như[line=4]`
+\
+`"[line=3]Chị đang làm cái gì thế hả chị Ciel?@`
+` [line=3]Dáng vẻ chị bấy giờ trông hệt như... chị đang điên cuồng muốn tự tay sát hại em vậy."@`
+`"[line=5]"@`
+` Chị ấy im lặng không đáp lời.@`
+` Độc nhất ánh mắt lạnh lùng nhìn xoáy vào tôi hệt như đang tính toán, tìm kiếm điểm chí mạng nào trên cơ thể để có thể tự tay kết liễu mạng sống của tôi một cách nhanh gọn nhất.`
+\
+`"[line=3]Chị... Ciel."@`
+` Chị ấy thực sự nghiêm túc.@`
+` Chị ấy thực sự điên cuồng, ôm giữ dứt khoát ý niệm sát hại cuộc đời tôi.@`
+br
+` [line=3]*Răng rắc*.@`
+` Mọi dây thần kinh trong tôi đang điên cuồng gào thét báo động cái chết cận kề.@`
+` Sống lưng tôi lạnh toát và vùng sau gáy hoàn toàn tê dại đi vì sợ hãi.@`
+br
+` Thế nhưng[line=3]vượt lên trên cả nỗi khiếp sợ cái chết chí mạng này,`
+` tôi tuyệt đối không cách nào tin nổi người con gái dịu dàng kia lại có thể nhẫn tâm thốt ra những lời tàn độc đến nhường ấy.`
+\
+`"[line=4]Cớ sao chứ?"@`
+` Tôi thực sự không cách nào thấu triệt nổi.@`
+`"Chị Ciel ơi, chính chị đã từng ân cần bảo rằng chị ở lại nơi này chỉ vì em cơ mà."@`
+`"[line=6]"@`
+` Giật mình khựng lại,`
+` đôi chân chị Ciel chầm chậm dừng hẳn bước.@`
+br
+` Chị ấy lặng lẽ nhìn trố mắt vào tôi rồi bất chợt nở một nụ cười nhạt nhẽo khinh bỉ.`
+\
+`"Sự ngây thơ ngớ ngẩn của em quả thực là một món bảo vật hiếm thấy trên đời.@ Việc đem lòng tin tưởng người khác là một điều tốt, thế nhưng dẫu cho bản thân em có tỉnh táo hơn một chút và suy nghĩ thấu đáo mọi sự, em cũng chẳng có lấy một cơ hội chạy trốn nổi khỏi tay chị đâu."@`
+`"Ủa...[line=3]"@`
+`"Trước hết, em chưa từng động não suy nghĩ xem cớ làm sao một kẻ như chị lại đặt chân tới ngôi trường này từ thuở ban đầu sao?@`
+` Chị tuyệt nhiên không hề rảnh rỗi làm ra chuyện đó chỉ vì sở thích cá nhân đâu, em biết mà.`
+\
+`"[line=6]Chị... Ciel?"@`
+`"Em vốn dĩ đã sớm biết mục tiêu độc nhất của chị chính là hủy diệt bằng được "Mãng Xà"[line=3]Roa rồi cơ mà.@`
+` Việc chị chuyển đến ngôi trường này chỉ đơn giản là vì chị đã nắm rõ thông tin vật chủ chuyển sinh tiếp theo của Roa đang hiện diện tại nơi này.@ Thế nhưng vì chưa thể xác định chính xác danh tính kẻ đó, chị bắt buộc phải lẩn trốn quan sát tình hình một thời gian mà thôi.`
+\
+wavestop
+`"Khoan đã, rốt cuộc chị đang điên cuồng lảm nhảm cái gì thế này[line=3]"@`
+` Chị ấy rốt cuộc đang lảm nhảm thứ tri thức quỷ dị gì thế?@`
+` Tôi thực sự chịu chết không hiểu nổi.@`
+` Tôi thực sự không cách nào dung nạp nổi những lời điên rồ phát ra từ miệng chị.@`
+` Chị ấy phớt lờ hoàn toàn sự hoang mang tột độ của tôi và tiếp tục lạnh lùng cất lời.`
+\
+play "*9"
+`"…… Chị đã từng giảng giải cho em nghe rồi đúng không, Tohno-kun.@ Roa vốn dĩ có những yêu cầu vô cùng khắt khe đối với gia tộc mà hắn lựa chọn để luân hồi chuyển sinh.@`
+` Nếu em tư duy ngược lại một chút, chị chỉ đơn giản là cần tìm kiếm những gia tộc sở hữu những đặc trưng tương thích ấy.@ Một khi đã nắm rõ tri thức đó, việc truy lùng ra hành tung của hắn quả thực vô cùng dễ dàng.@`
+` Việc tìm kiếm những gia tộc sở hữu năng lực đặc dị truyền kiếp qua huyết quản chỉ là chuyện nhỏ nhặt một khi em chịu khó cất công nghiên cứu tìm hiểu.@ Tại thành phố này, chỉ tồn tại duy nhất một gia tộc tương thích hoàn hảo với yêu cầu luân hồi của Roa.@`
+` Thế nên[line=3]chị đã sớm biết rõ kẻ mang danh Roa ngay từ thuở ban đầu rồi.`
+\
+`"[line=5]Cái... gì...[line=2]"@`
+` Thật kỳ lạ làm sao.@`
+` Nếu chị ấy đã sớm biết rõ ngay từ đầu, chị vốn dĩ đã có thể tự tay kết liễu hoặc bắt giữ gã ấy ngay từ thời khắc đó rồi chứ……@`
+` Ngay từ thuở ban đầu?@`
+` Chị ấy đã sớm biết rõ danh tính kẻ đó là ai rồi sao……?`
+\
+`"Đúng vậy.@ Đến tận lúc này mà em vẫn chưa chịu bừng tỉnh ngộ ra sao?@`
+` Em thừa hiểu mà, Tohno-kun.@ Việc chị cất công tìm đến ngôi trường này chỉ đơn giản là để tự tay bắt giữ em ngay từ thuở ban đầu mà thôi."@`
+br
+`"[line=14]"@`
+` Khoan đã.@`
+` Bản ngã tôi bấy giờ chỉ vô cùng khát khao muốn chị ấy hãy dừng lại.`
+\
+`"Thế nhưng, có một sai sót nhỏ đã xảy ra.@`
+` …… Chị đã lẳng lặng quan sát em từ phía xa để giữ cho linh hồn Roa bên trong em không bị kích thích trỗi dậy, thế nhưng chị lại đi đến kết luận ngớ ngẩn rằng có lẽ em tịnh không phải là vật chủ luân hồi mới của hắn.@`
+` Thế nhưng, trưởng nam của gia tộc Tohno bắt buộc phải là kẻ chứa đựng linh hồn luân hồi của Roa.@ Nhận định đó tuyệt đối không thể sai lệch được, thế nên thứ duy nhất cấu thành nên sai sót ở đây chỉ có thể là bản thân em mà thôi, Tohno-kun."@`
+` Chị Ciel cất lời bằng một chất giọng vô cùng thản nhiên hờ hững.@`
+` Tôi[line=3]chịu chết không cất nổi một lời phản bác.`
+\
+`"Cất công tra cứu thông tin, hóa ra em đã phải chịu một vết thương chí mạng vào tám năm trước và được nhận nuôi bởi họ hàng xa.@`
+` Những gì xảy đến sau đó hoàn toàn trùng khớp hiển hiện hiển nhiên hiển nhiên hiển nhiên hiển nhiên trùng khớp với những gì Tohno SHIKI đã vạch trần hai đêm trước.@`
+` Chị chịu chết không rõ biến cố kinh hoàng gì đã nổ ra trong nội bộ gia tộc Tohno tám năm trước, thế nhưng em thực sự đã bị kết liễu mạng sống bởi đứa trẻ mang tên SHIKI kia.@ Không, nói đúng hơn là sinh mệnh của em đã bị đoạt lấy mất.@`
+` Kết quả là, sinh mệnh của em bấy giờ đã vô tình liên kết chặt chẽ với SHIKI vốn dĩ là vật chủ luân hồi của Roa."
+\
+` Chất giọng trực diện, tịnh không đọng lại chút cảm xúc ấm áp nào.@`
+` Tôi thực sự không cách nào nhận diện nổi người chị Ciel trước mắt này nữa rồi.@`
+` Hay đây chính là…`
+` đây mới chính là chân tướng thực sự của chị Ciel, còn người chị dịu dàng ân cần ấm áp bấy lâu nay bộc lộ trước mắt tôi toàn bộ chỉ là[line=4]`
+\
+`"Từ trước tới giờ, chắc chắn đã có những thời khắc mảnh ký ức truyền kiếp của Roa vô tình truyền dẫn loang lổ vào tâm trí em thông qua SHIKI.@`
+` Hắn vốn dĩ là một kẻ ma cà rồng tàn tạ chuyên điên cuồng thao túng thứ vô hình vô dạng được xưng tụng là linh hồn.@ Đối với Roa, hai kẻ chia sẻ chung một sinh mệnh như hai em chính là một bản thể song trùng được chế tác vô cùng hoàn hảo.`
+\
+`"Đó chính là lý do vì sao[line=3]vào thời khắc thể xác của SHIKI bị hủy diệt hoàn toàn, Roa tịnh không cần phải cất công luân hồi chuyển kiếp thêm lần nữa.@ Hắn vốn dĩ đã có sẵn một chốn dung thân hoàn hảo để lẩn trốn: chính là em đấy."@`
+` Lạnh lùng.@`
+` Hệt như đang trố mắt nhìn vào kẻ thù truyền kiếp của cuộc đời, chị ấy căm phẫn ghê tởm nhìn xoáy vào tôi.`
+\
+`"Thế nhưng, tất thảy mọi sự bấy giờ đều kết thúc rồi.@ Chị vốn dĩ chưa kịp chuẩn bị chu đáo để kết liễu em ngay trong đêm hôm ấy, thế nhưng đêm nay thì hoàn toàn khác biệt rồi.@`
+` Bản thân chị thực sự đã vô cùng may mắn ở một khía cạnh nào đó.@ Nếu như Arcueid thẳng tay hủy diệt hoàn toàn Roa, hắn chắc chắn sẽ lại cất công luân hồi chuyển kiếp thêm lần nữa mất rồi."@`
+` …… Tôi tuyệt đối không thể.@ Tin nổi vào tai mình nữa.@`
+` [line=3]Chuyện đó... chuyện tàn khốc ấy...`
+`"[line=4]Điều đó tuyệt đối không phải là sự thật."`
+\
+`"Cứ tự nhiên, làm ơn hãy cứ điên cuồng phủ nhận sự thật và giả vờ ngu ngơ đi.@ Chuyện đó chỉ càng giúp công việc của chị trở nên dễ dàng và trơn tru hơn mà thôi.@ Dẫu vậy[line=3]"@`
+br
+` Tiếng kim loại lách cách mechanical phát ra khô khốc từ món vũ khí hắc ám.@`
+br
+`"Sự thật hiển nhiên là dẫu em có giãy giụa ra sao, chị vẫn có thể tự tay kết liễu cuộc đời em một cách quá đỗi dễ dàng, Roa."`
+\
+`"[line=7]"@`
+` Thanh âm cười nhạt khinh bỉ ấy rốt cuộc đã giúp tôi chầm chậm thấu triệt hoàn toàn chân tướng sự việc.@`
+` …… Chị ấy tuyệt đối không hề nói dối.@`
+` …… Đôi mắt lạnh lùng kia thực sự tịnh không hề ngắm nhìn bản thể "Tohno Shiki" này.`
+\
+` …… Tâm tư tình cảm của người con gái ấy ngay từ thuở ban đầu vốn dĩ chưa từng mảy may liên can tới bản thể "Tohno Shiki" này lấy một chút.`
+\
+`"…… Chuyện quái gì thế này?@`
+` Vậy nghĩa là, ngay từ thuở ban đầu, chị luôn trố mắt nhìn em hệt như nhìn vào tên Roa gớm ghiếc sao?@`
+` Chị Ciel ơi.@ Việc chị đem lòng làm bạn thân thiết kề cận bên em bấy lâu nay toàn bộ chỉ là……………!"@`
+br
+` [line=3]Tôi chịu chết không cất nổi thành lời.@`
+` Bản thân tuyệt đối không cách nào hoàn thành nổi câu hỏi ấy.@`
+` Nếu tôi dám hé môi giãi bày trọn vẹn, tôi cảm giác toàn bộ thế giới ấm áp ngọt ngào bấy lâu nay sẽ lập tức sụp đổ tan tành thành một trò lừa bịp nhơ nhuốc trong tích tắc.`
+\
+`"Tất nhiên rồi ạ.@ Sau khi SHIKI bị tiêu diệt hoàn toàn, lý do độc nhất khiến chị vẫn tiếp tục nán lại ngôi trường này chỉ đơn giản là vì linh hồn Roa vẫn chưa chịu tiêu biến sạch sẽ.@ Việc lẩn trốn dưới danh phận một học sinh tại chốn này quả thực vô cùng thuận tiện cho việc hành sự của chị."`
+\
+br
+` Em tuyệt đối sẽ không quay trở về Giáo Hội một khi còn bỏ lại em trơ trọi tại chốn này.@`
+br
+` Đó chính là những lời chị ấy từng dịu dàng mỉm cười thì thầm với tôi ngày trước.@`
+` Lời hứa ngọt ngào ấy, tuyệt nhiên không phải là vì bản thể tôi.@`
+` Chị ấy chấp nhận nán lại chốn này chỉ độc nhất một mục tiêu là tìm kiếm bằng được linh hồn Roa vẫn còn thoi thóp sinh tồn.@ Đó chính là lý do độc nhất chị trao tặng dãy số điện thoại riêng cho tôi bấy giờ.`
+\
+`"[line=4]Ha."@`
+bg #000000,crossfade,400
+monocro #ffffff
+bg "event/cel_e01",crossfade,400
+` Hóa ra, cả chuyện đó nữa.@`
+br
+`"Haha[line=3]"@`
+br
+bg "event/cel_e02a",crossfade,400
+` Và cả những khoảnh khắc ngọt ngào ấy nữa.@`
+br
+`"Haha[line=4]ha."@`
+br
+bg "event/cel_e03a",crossfade,400
+` Và cả khi chị dang tay cứu rỗi cuộc đời tôi trong đêm hôm ấy nữa.@`
+br
+`"Ah……… ha, ha."@`
+bg "event/cel_e05b",crossfade,400
+br
+` Và cả đôi mắt u sầu đau đớn nhường ấy nữa.@`
+bg #000000,crossfade,400
+\
+monocro off
+bg "bg/bg_02a",crossfade,400
+`"Haha[line=3]ha."@`
+` …… Đúng vậy đấy, Shiki ơi, chuyện này vốn dĩ chẳng có gì to tát cả.@ Muôn vàn dòng ký ức ấm áp ấy[line=3]toàn bộ chỉ là hư vô tịnh không mang chút ý nghĩa nào cả.`
+\
+` Bản thân tôi bấy giờ chỉ đơn thuần là tự ngộ nhận rằng mình đã đem lòng yêu thương sâu đậm người con gái ấy.@`
+` Và thầm tưởng tượng rằng chị ấy cũng đem lòng yêu thương tôi.@`
+` …… Thật nực cười làm sao.@`
+` Tất thảy mọi sự hóa ra chỉ là một vở kịch ảo ảnh méo mó do một tay chị dựng nên mà thôi.@`
+br
+` [line=4]Toàn bộ.@`
+` Toàn bộ chỉ là một câu chuyện cổ tích hoang đường được dệt nên bởi muôn vàn lời lừa dối xảo trá[line=3]`
+\
+`"[line=3]Em hiểu rồi.@ Thế nhưng, chị Ciel ơi.@`
+` Cớ làm sao chị lại có thể nắm rõ linh hồn Roa vẫn còn sống sót?@ Bằng cách nào, bằng cách nào chị lại thấu triệt việc Roa đã luân hồi chuyển sinh vào chính thể xác của Tohno Shiki này chứ?"@`
+ld c,"tachi/cel_t06c",crossfade,800
+`"Tất nhiên là chị phải biết rõ rồi.@ Bởi lẽ chuyện đó liên can trực tiếp tới bản thân chị cơ mà." Chị Ciel thản nhiên thốt ra lời nói khiến tôi chịu chết không hiểu nổi.`
+\
+`"…… Liên can tới... bản thân chị sao……?"@`
+ld c,"tachi/cel_t15",crossfade,800
+`"Phải.@ Kẻ cất công lùng sục thông tin của gia tộc Tohno và lựa chọn chốn này làm vật chủ luân hồi tiếp theo cho hắn chính là chị đấy.@`
+` …… Tuy nhiên, một khi ý thức thống trị của Roa chưa chịu thức tỉnh kịch liệt, chị cũng chịu chết không cách nào nhận diện nổi mảnh ký ức truyền kiếp ấy "hiện hình", thế nên đó quả thực là một dòng ký ức không mấy hữu dụng bấy lâu nay."@`
+`"Chị Ciel ơi, rốt cuộc[line=3]chị đang điên cuồng giãi bày thứ gì thế?"`
+\
+`"Chị đang giãi bày thứ gì sao?@ Đó chỉ là một câu chuyện xưa cũ rách nát mà thôi.@`
+` Một câu chuyện nổ ra từ tám năm trước, về một người con gái ngây thơ ngớ ngẩn tịnh không hề hay biết bất kỳ điều gì trên đời tương tự như em bấy giờ vậy.`
+\
+` Năm ấy cô gái vừa tròn mười sáu tuổi đầu, cũng chính là thời khắc thứ xung năng điên cuồng khát máu bắt đầu nhuộm đỏ trọn vẹn tâm hồn trong trắng của cô.@`
+` …… Nhưng trước thời khắc định mệnh ấy, cô tịnh không sở hữu bất kỳ điều gì đặc biệt.@ Cô không hề nắm giữ thứ năng lực đặc dị quỷ quái nào tương tự như em bấy giờ đâu, Tohno-kun.@ Cô thực sự đã sống một cuộc đời vô cùng bình lặng, ngây thơ tịnh không hay biết nổi ranh giới cái chết là gì.`
+\
+`"Hằng ngày đỡ đần cha việc nhà, ngoan ngoãn cắp sách tới trường học.@`
+` Tuy vô cùng lười biếng và cực kỳ ghét việc phải dậy sớm vào buổi sáng, nhưng cô luôn đon đả giúp đỡ cha trông nom cửa tiệm vào mỗi buổi tối.@ Cô thực sự đã từng thầm nghĩ bản thân sau này lớn lên chắc chắn sẽ tiếp quản công việc kinh doanh của cha mình cơ đấy."@`
+bg #ffffff,notrans,0
+bg "bg/cmo_11",notrans,0
+bg "bg/bg_02a",notrans,0
+`"Ủa...[line=3]"@`
+` Ngay vào thời khắc này.@`
+` Một cảnh tượng xa lạ mà bản thân tôi chưa từng chứng kiến bỗng chốc loang lổ tái hiện trong đại não tôi… thế nhưng thâm tâm tôi lại dâng trào cảm giác rõ ràng rằng mình đã từng bắt gặp cảnh tượng ấy ở một chốn nào đó rồi.@`
+` Câu chuyện của chị ấy[line=3]mang lại cảm giác tương đồng kỳ lạ đến độ rợn người với giấc mơ truyền kiếp mà tôi đã chứng kiến.`
+\
+ld c,"tachi/cel_t15",crossfade,800
+`"Thế nhưng, giấc mộng êm đềm của cô gái ấy đã tuyệt đối không cách nào thành hiện thực.@ Chính đôi bàn tay nhơ nhuốc của cô đã nhẫn tâm hủy diệt trọn vẹn niềm hạnh phúc bình dị ngọt ngào hiện diện xung quanh.@`
+` Bởi vì cô chính là vật chủ luân hồi tiếp theo của Roa."
+\
+`"Thể xác của cô sở hữu năng lực ma thuật vô cùng xuất chúng khiến linh hồn Roa cực kỳ hài lòng.@`
+` Cô đã điên cuồng làm hết sức mình để kiên cường kháng cự lại ý chí của hắn tương tự như em bấy giờ vậy, thế nhưng dẫu vậy, mọi sự quả thực đều vô dụng cả.@ Cuối cùng, cô đã thản nhiên kề răng hút cạn dòng máu của chính cha mẹ ruột thịt của mình, rồi chầm chậm tàn sát toàn bộ người dân trong thị trấn.@`
+` Người con gái ấy, có lẽ linh hồn cô đã hoàn toàn hóa điên dại vào chính thời khắc kinh hoàng đó mất rồi."
+\
+`"Em thừa hiểu mà đúng không, Tohno-kun?@`
+` Em tuyệt đối không cách nào ngăn chặn nổi thứ xung năng cuồng bạo ấy.@ Những ý niệm như "Dừng lại" hay "Tuyệt đối không được phép làm thế" thậm chí còn tịnh không thể len lỏi nổi vào tâm trí em lúc này.@`
+` Chuyện đó chẳng phải vô cùng quỷ dị hay sao?@ [line=3]Dẫu cho ý thức tự chủ của em lúc này tuy vẫn đang hoàn toàn tỉnh táo."@`
+`"[line=3]Chị... Ciel.@ Xin chị đừng bảo với em, câu chuyện ấy chính là..."@`
+`"Thế nhưng cơn ác mộng kinh hoàng của cô gái ấy đã nhanh chóng đi đến hồi kết kết thúc.@ Người đàn bà trong sắc phục trắng tinh khôi kia đã cất công tìm đến và thẳng tay đâm xuyên qua tim cô."`
+\
+br
+br
+br
+br
+br
+` [line=3]Đúng vậy, tôi đã sớm biết rõ rồi.@`
+` Thế nên người con gái ấy đã lìa đời, và linh hồn tà ác của Roa đã tiếp tục luân hồi chuyển sinh vào thể xác của Tohno SHIKI.@`
+` Thế nhưng, chuyện đó thì.`
+\
+`"Thế nhưng, người con gái ấy, cô tuyệt đối không cách nào yên lòng nhắm mắt xuôi tay chết đi được."@`
+` Lặng lẽ.@`
+` Bằng một chất giọng khẽ cười nhạt nhẽo điên dại, chị ấy chầm chậm thốt lên lời nói tàn độc.`
+\
+`"Thể xác đã tắt thở của cô lập tức bị áp giải về phía Giáo Hội và được bảo quản nghiêm ngặt hệt như một mẫu vật thí nghiệm độc nhất về loài ma cà rồng có thể quay trở lại hình dáng con người.@`
+` …… Thế nhưng, dẫu cho tịnh không ai thấu triệt nổi thứ số phận nghiệt ngã gì đã sắp đặt, thể xác của cô vốn dĩ là một thực thể vô cùng đặc biệt, sở hữu năng lực tái sinh bất trị và dị thường tột cùng.@`
+` Một ngày nọ vào ba năm sau, dẫu cho về mặt lý thuyết tuyệt đối không được phép xảy ra, cô đã thực sự bừng tỉnh sống lại từ cõi chết.@`
+` …… Thật nực cười làm sao đúng không?@ Dẫu cho thể xác ấy bấy giờ chỉ đơn thuần là một cái vỏ rỗng tuếch bị linh hồn Roa vứt bỏ lại sau khi luân hồi chuyển sinh, nó vẫn kiên cường bừng tỉnh sống lại từ cõi chết.`
+\
+`"Kể từ khoảnh khắc ấy, mọi sự quả thực chuyển biến vô cùng... gian nan tột độ.@ Giáo Hội lập tức phán quyết sự tồn tại sống lại của cô gái ấy chính là một tà thuyết dị đoan nhơ nhuốc và điên cuồng ra tay kết liễu mạng sống của cô, thế nhưng dẫu cho bọn họ có nhẫn tâm giết hại cô bao nhiêu lần đi chăng nữa, cô vẫn tuyệt đối không cách nào lìa đời nổi.@`
+ld c,"tachi/cel_t07c",crossfade,800
+` …… Em làm ơn cho phép chị cất lời oán thán đôi chút được không?@ Người con gái ấy, cô đã phải hứng chịu trọn vẹn một tháng trời sinh tồn chỉ để bị giết hại liên tiếp.@ Mỗi một ngày trôi qua, tịnh không có lấy một tích tắc ngắn ngủi để nghỉ ngơi thư giãn, cô chỉ bừng tỉnh sống lại từ cõi chết để rồi lập tức bị kết liễu thêm lần nữa.@ Suốt cả ngày, hằng ngày liên tục nhẫn tâm nhẫn tâm nhẫn tâm nhẫn tâm nhẫn tâm nhẫn tâm nhẫn tâm nhẫn tâm nhẫn tâm nhẫn tâm nhẫn tâm.""@`
+playstop
+cl c,crossfade,400
+\
+`"……………… Cái... gì..."@`
+` Một thể xác tuyệt đối không thể lìa đời.@`
+` Một cơ thể da thịt sẽ lập tức tái sinh nguyên vẹn về trạng thái ban đầu dẫu cho có bị tàn phá hủy hoại ra sao đi chăng nữa.@`
+` Roa, gã ma cà rồng luân hồi chuyển sinh vào thể xác của Tohno SHIKI, đã từng căm phẫn thốt lên những lời đó khi nói về người con gái này.`
+\
+` …… Nỗi đau đớn nhường ấy thật quá đỗi tàn khốc.@`
+` Chị Ciel bấy lâu nay dẫu cho có hứng chịu bất kỳ vết thương chí mạng nào đi chăng nữa thì cơ thể cũng sẽ lập tức tái sinh lành lặn trong tích tắc, thế nhưng mỗi một vết thương găm vào cơ thể đều khiến gương mặt thanh tú dễ thương ấy phải co rúm lại vì đau đớn tột cùng.@`
+` Suốt cả tháng trời liên tục như thế sao?@`
+` Hằng ngày, suốt cả ngày tịnh không có lấy một giây phút ngơi nghỉ, sống dậy chỉ để bị kết liễu dã man rồi lại tái sinh tái sinh tái sinh……?`
+\
+ld c,"tachi/cel_t15",crossfade,800
+`"Và rồi, giáo chúng của Giáo Hội bấy giờ cuối cùng cũng bàng hoàng nhận ra sự việc này thực sự quá đỗi dị thường vượt ngoài tầm kiểm soát.`
+\
+` Mọi rắc rối nan giải vượt ngoài khả năng xử lý hay giải quyết của người thường đều được đùn đẩy, bàn giao về cho Giáo khu Mai táng.@`
+` Tại nơi chốn tàn khốc ấy, cô gái mới được giảng giải đầy đủ về số phận nghiệt ngã đang xảy đến với bản thân mình.`
+\
+`"…… Nói một cách ngắn gọn, sự tồn tại của cô chính là một sự mâu thuẫn nghịch lý tột cùng.@`
+` Cô chính là một thực thể nhân loại sinh ra mang danh phận Roa.@ Dẫu cho nhân cách tự chủ trong mười lăm năm đầu đời hoàn toàn là của riêng cô, thế nhưng danh xưng ngự trị sâu thẳm trong linh hồn cô lại chính là Roa.@`
+` Trong khi cô là chính bản thân mình, cô đồng thời cũng chính là Roa.@`
+` Thế nên, thế giới bấy giờ sẽ lâm vào một sự mâu thuẫn nghịch lý tột độ nếu người con gái mang danh Roa kia chết đi trong khi linh hồn Roa thực sự vẫn đang sống sót luân hồi tại một chốn khác.@`
+` Thực thể luân hồi của Roa…… đứa con gái tội lỗi này của Roa tuyệt đối không được phép lìa đời trước khi gã tiêu vong hoàn toàn.`
+\
+`"Mỗi khi thế giới này vô tình hiển lộ ra lấy một chút sai sót nhỏ nhặt nào, thế giới sẽ tự động sửa chữa, hiệu chỉnh sai sót đó để bảo toàn trật tự sinh tồn tự thân.@`
+` Thế nên[line=2]người con gái ấy, chừng nào linh hồn tội lỗi của Roa vẫn còn hiện diện sinh tồn trên đời, cô sẽ tiếp tục tồn tại vĩnh hằng cùng năm tháng.@ Tuyệt đối không một ai khác ngoài chính bản thân thế giới tự động "sửa chữa" lỗi hệ thống cơ học này.`
+\
+`"Các giáo sĩ bấy giờ phán quyết đứa trẻ ấy chính là thực thể 'nằm ngoài vòng luân hồi'.@ Chừng nào Roa vẫn còn hít thở sinh tồn, vòng luân hồi của cô sẽ mãi mãi bị đóng băng đông cứng.@`
+` Cô không thể nào chết vì tuổi già một khi thể xác không cách nào lão hóa nổi, và dẫu cho có bị thiêu rụi hoàn toàn thành tro bụi đi chăng nữa, dòng chảy thời gian của thế giới sẽ tự động đảo ngược để tái sinh cơ thể cô về trạng thái ban đầu lành lặn."
+\
+`"Một thực thể quái thai gớm ghiếc nhường ấy…… lẽ thường chắc chắn sẽ bị phong ấn vĩnh hằng biệt lập khỏi nhân gian, thế nhưng cô lại vô tình thừa hưởng trọn vẹn kho tàng tri thức ma thuật xuất chúng của Roa.@`
+` Ban điều hành của Giáo khu Mai táng phán quyết rằng sự tồn tại của cô gái ấy sẽ vô cùng hữu dụng cho mục tiêu của bọn họ, thế nên đã dang tay thu nạp cô về dưới trướng Giáo Hội.`
+\
+`"Đã năm năm trôi qua kể từ thời khắc định mệnh ấy.@ Cô gái chấp nhận vứt bỏ hoàn toàn danh tính cũ của mình để sinh tồn dưới tư cách một sát thủ chuyên điên cuồng săn lùng loài ma cà rồng tàn độc.@`
+` [line=3]Vượt trội hơn cả chủ nhân Arcueid của Roa, chị có thể dễ dàng cảm nhận rõ ràng vị trí linh hồn Roa đang lẩn trốn sinh tồn trên đời.@`
+` Chân tướng của việc đó… chị thiết nghĩ bản thân tịnh không cần phải cất công giảng giải cho em nghe thêm làm gì nữa đúng không?"@`
+\
+`"[line=6]"@`
+` Đúng vậy, sự thật vốn dĩ tịnh không cần phải hé môi giảng giải thêm nữa.@`
+` Thế nhưng, thâm tâm tôi tuyệt đối không muốn dung nạp thừa nhận sự thật tàn khốc nhường ấy.`
+\
+`"Chị đã từng quả quyết với em rồi cơ mà, Tohno-kun.@ Mục tiêu độc nhất của Ciel bấy lâu nay từ đầu đến cuối chỉ tồn tại duy nhất một điều mà thôi."@`
+br
+` [line=2]Tôi chỉ muốn được nhắm mắt lìa đời dưới tư cách một con người bình thường[line=2]`
+br
+` Vào thời điểm ấy, tôi thực sự chịu chết không hiểu nổi ẩn ý sâu xa chứa đựng trong lời nói đó.@`
+` Thế nhưng bấy giờ.@`
+` Giờ đây[line=3]liệu tôi đã có thể thấu cảm được phần nào nỗi đau giằng xé tâm can ấy của chị chăng?`
+\
+`"[line=4]Em chịu chết không cách nào làm được."@`
+` Quả thực vô cùng đáng tiếc, nhưng tôi tuyệt đối không cách nào thấu cảm nổi.@`
+` Tôi không cách nào thấu hiểu nổi thứ khao khát muốn được nhắm mắt lìa đời ấy.@ Chừng nào bản thân vẫn còn được hít thở sinh tồn[line=3]tôi dẫu cho có từng nghĩ tới cái chết đi chăng nữa, thì thâm tâm cũng chưa từng chân chính nghiêm túc muốn tự tay kết liễu đời mình.@`
+br
+` Thế nhưng, đó lại chính là thứ tâm nguyện duy nhất mà chị Ciel ôm giữ khát khao.@`
+` Thứ nhân sinh quan méo mó đã bị nỗi đau tàn khốc nhào nặn thành hình thù đáng thương nhường ấy.@`
+` Thứ cuộc đời cô tịch khiến người ta chỉ có thể điên cuồng ôm giữ duy nhất một tâm nguyện muốn được chết đi.`
+\
+` Tôi vẫn chưa thể thấu triệt nổi.@`
+` Bằng chính đôi bàn tay nhơ nhuốc này.@`
+` Tôi chịu chết không hiểu nổi nỗi đau đớn tột cùng khi phải tự tay thảm sát những người thân cận ruột thịt bên cạnh mình dẫu cho đầu óc vẫn đang hoàn toàn tỉnh táo.@`
+` …… Và thâm tâm tôi cũng tuyệt đối tịnh không bao giờ muốn phải nếm trải nỗi đau đớn nhơ nhuốc ấy.@`
+` Thế nhưng người con gái trước mắt tôi bấy giờ đã phải cắn răng chống chọi vượt qua tất thảy mọi sự tàn khốc đó.@`
+` Phải chăng[line=3]đó chính là lý do độc nhất khiến chị chỉ khát khao duy nhất một tâm nguyện muốn được nhắm mắt lìa đời sao?`
+\
+`"Chuyện đó…… chuyện đó hoàn toàn sai lầm rồi."@`
+`"Tuyệt đối không sai lệch đâu.@ Chị chỉ đơn thuần muốn được nhắm mắt lìa đời dưới tư cách một con người bình thường mà thôi."@`
+` Thanh âm cất lên lạnh lùng băng giá hệt như tuyết mùa đông.`
+\
+`"……………… Em..."@`
+` …… Tôi chỉ có thể lặng câm khẽ gật đầu.@`
+` Cả thứ tâm nguyện khao khát ấy của chị,`
+` lẫn cả nỗi đau đớn giằng xé tâm can ấy, tôi bấy giờ đều đã chầm chậm thấu cảm hoàn toàn.`
+\
+`"………… Em tuyệt đối không muốn chuyện này xảy ra."@`
+` Tôi căm phẫn ghê tởm thứ số phận nghiệt ngã đang dày vò hai chúng tôi, lẫn cả thứ tâm nguyện muốn chết của chị Ciel.@ Tôi tuyệt đối không muốn tin cảnh tượng tàn khốc trước mắt bấy giờ chính là sự thật hiển nhiên.@`
+br
+` Thế nhưng, dòng chảy thời gian tuyệt đối tịnh không chờ đợi một ai.@`
+` Đi kèm với tiếng kim loại lách cách cơ học vang lên khô khốc,`
+` người sát thủ mang danh Ciel bấy giờ chầm chậm tiến sát kề bên để tự tay kết liễu mạng sống của tôi.`
+\
+bg #000000,lshutter,400
+bg "bg/bg_02a",lshutter,400
+` Hệt như muốn tuyên cáo đôi bên tuyệt đối tịnh không cần phải hé môi giãi bày thêm lời nào nữa,`
+` đôi bàn tay chị Ciel lạnh lùng nâng cao món vũ khí hắc ám oai vệ kia lên.`
+\
+` Thần Khí thứ Bảy.@`
+` Món vũ khí hắc ám tối mật được kiến tạo bởi chính Giáo Hội chuyên phủ quyết và bài trừ thuyết luân hồi chuyển sinh.@ Một bộ kinh điển thánh khí được chạm khắc đầy đủ mọi lời luận tội căm phẫn đối với tà thuyết luân hồi.@`
+` Một thực thể kỳ dị vừa là thánh kinh thiêng liêng vừa là thứ ngụy thư hắc ám.@ Vừa là món vũ khí tàn độc, đồng thời cũng chính là một bộ kinh văn thánh kinh oai nghiêm.@`
+br
+` Nếu tôi lỡ tay hứng trọn một nhát đâm từ món thần khí ấy, linh hồn tự thân tôi chắc chắn sẽ lập tức vỡ vụn tiêu biến thành hư vô vĩnh viễn.`
+\
+`"[line=6]"@`
+` Lưỡi lê hắc ám chầm chậm nâng cao.@`
+` Mũi nhọn sắc lạnh hướng thẳng về phía lồng ngực tôi.@`
+` Thế nhưng động tác bộc phát bấy giờ lại quá đỗi chậm rãi.@`
+` Nếu đó thực sự là chị Ciel[line=3]chị ấy vốn dĩ thừa khả năng đâm xuyên qua tim tôi trong chớp mắt mà bản thân tôi tịnh không cách nào nhận diện nổi cơ sự gì đã xảy đến cơ chứ.`
+\
+`"Ah...[line=4]"@`
+` Tuyệt đối không còn thời gian để động não suy nghĩ nữa.@`
+` Tôi[line=4]`
+\

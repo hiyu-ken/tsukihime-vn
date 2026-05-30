@@ -1,0 +1,30 @@
+monocro off
+wavestop
+bg "bg/bg_06c",notrans,0
+play "*7"
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` "...Lớp thứ ba thực sự là một câu chuyện buồn."@
+` "Thật tuyệt vời khi bạn cố gắng giải quyết mọi việc một mình, nhưng dường như điều đó đã thất bại lần này."@
+` "Hãy tìm kiếm người thầy đáng tin cậy của cậu và vượt qua khó khăn này."
+\
+` "[line=4] Và..."@
+` "Đối với những Tohno đến đây vì lý do khác..."@
+` "Thật đáng tiếc, dù bạn rất gần với cao trào, nhưng mối liên kết với Ciel không đủ sâu sắc."@
+` Tôi phải yêu cầu bạn gửi lại.@
+` Hãy quay lại rất lâu trước, và trở thành bạn tốt với Ciel-san.@
+` Có nhiều nơi cậu có thể làm điều này, nhưng điều quan trọng nhất xảy ra vào đêm thứ sáu.
+\
+` Tohno-kun, khi đến lúc chọn giữa Ciel-san hoặc Arcueid, cậu đã chọn người phụ nữ ngốc nghếch đó sao?@
+br
+` Đây là kết quả.@
+` Nếu cậu đã học được bài học của mình, hãy quay lại đêm ngày sáu và suy nghĩ lại về việc nên chọn ai.@
+br
+br
+br
+br
+` ……………… Được chứ?
+\
+bg #000000,crossfade,800
+playstop

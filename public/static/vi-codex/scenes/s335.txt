@@ -1,0 +1,94 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]Nếu cất bước xuống phòng khách, chắc hẳn dẫu dã có ai đó ở dưới đó.@`
+br
+` Việc tìm người bầu bạn chuyện trò thong thả chắc chắn dẫu sao dẫu dẫu vẫn dễ chịu hơn nhiều so với việc thui thủi lủi thủi cô tịch một mình trong phòng rồi.`
+\
+bg #000000,lcartain,400
+play "*3"
+bg "bg/bg_34c",lcartain,400
+` Tôi lẳng lặng cất bước bước vào phòng khách và trông thấy Kohaku-san bấy giờ đang ở đó.@`
+ld c,"tachi/koha_t02",crossfade,400
+`"A, cậu Shiki.@ Em dẫu dã có thể giúp gì được cho cậu sao?@ Vẫn còn cả tiếng đồng hồ nữa mới tới giờ dùng bữa tối cơ dẫu vậy."@`
+`"Không đâu, anh chỉ cất bước xuống đây thong thả nghỉ ngơi thư giãn chút thôi, chứ tịnh không phải tìm đồ ăn đâu dẫu vậy.@ Liệu anh dẫu dã có làm phiền em tịnh không đấy, Kohaku-san?"@`
+`"Ôi chao tịnh không đâu ạ, xin mời cậu cứ tự nhiên cất bước vào.@ Để em xem nào…"`
+\
+cl a,crossfade,400
+ld c,"tachi/his_t23",tshutter,800
+`"Chị Kohaku ơi, về căn nhà biệt lập kia dẫu vậy dẫu vậy dẫu"@`
+`"Chào em.@ Anh sám hối vì dẫu dã tự ý cất bước vào phòng mà tịnh không gõ cửa nhé, Hisui."@`
+ld c,"tachi/his_t01",crossfade,400
+`"…… Cậu Shiki dẫu dã về rồi ạ.@ Cầu xin cậu Shiki lượng thứ vì lúc nãy em dẫu dã chịu chết tịnh không thể ra tận cổng đón cậu quay trở về tòa dinh thự."@`
+`"Không sao đâu em, chớ có bận lòng lo nghĩ nhiều làm gì.@ Lẽ ra anh dẫu dã phải thốt lời chào hỏi hai đứa ngay khi mới đặt chân cất bước về nhà mới đúng."@`
+ld c,"tachi/his_t02",crossfade,400
+`"[line=7]"@`
+` Hai bên má tự thân của Hisui bỗng chốc ửng hồng nhè nhẹ trông vô cùng đáng yêu.@`
+` Từng chút chút một, tôi dẫu dã nhen nhóm khơi gợi được những nét biểu cảm e thẹn tự nhiên từ em ấy rồi.@ Cõi lòng tôi bấy giờ trào dâng một cảm giác vô cùng mãn nguyện vui sướng.`
+\
+cl a,crossfade,400
+ld l,"tachi/koha_t01a",crossfade,400
+`"Thật dẫu dã đúng lúc quá chừng.@ Hisui-chan ơi, em có thể cất công tự tay pha chế một ly nước uống thanh mát cho cậu Shiki được tịnh không?"@`
+ld r,"tachi/his_t01",crossfade,400
+`"Dạ vâng.@ Thưa cậu Shiki, cậu dẫu dã muốn dùng thức uống gì bấy giờ ạ?"@`
+`"Hừm.@ Vì dẫu dã sắp sửa dùng bữa tối rồi dẫu vậy nên anh thiết nghĩ chỉ dùng một chút trà nóng thanh đạm là ổn thôi.@ Anh cất bước xuống đây dẫu sao dẫu dẫu dã chỉ vì muốn thong thả chuyện trò cùng hai đứa thôi dẫu vậy, nên chớ có bận lòng chuẩn bị rườm rà nhọc nhằn làm chi nhé."@`
+`"Vậy xin cậu Shiki vui lòng thong thả đợi em trong chốc lát nhé."`
+\
+cl a,crossfade,400
+bg #000000,tshutter,800
+bg "bg/bg_34c",bshutter,800
+` Hisui lẳng lặng cất bước quay trở lại căn phòng với ba tách trà nghi ngút khói, và rồi thời gian chầm chậm lướt qua một cách vô cùng êm đềm bình lặng.@`
+br
+`"À, dẫu vậy dẫu vậy dẫu ban nãy Hisui dẫu dã giãi bày điều gì bận lòng về căn nhà biệt lập kia thế nhỉ?"@`
+ld c,"tachi/his_t01",crossfade,400
+`"Dạ vâng.@ Cậu Shiki dẫu dã có điều gì bận lòng thắc mắc về chốn đó sao ạ?"@`
+`"Ừm, cũng tịnh không hẳn dẫu vậy, chỉ là Akiha có dặn dò anh tuyệt đối chịu chết tịnh không ai được phép bén mảng tới chốn đó nữa.@ Lẽ nào trong suốt khoảng thời gian anh vắng nhà, nơi ấy dẫu dã có sự sự tình gì biến cố kinh hoàng xảy ra sao?"`
+\
+cl a,crossfade,400
+ld c,"tachi/koha_t02b",crossfade,400
+`"Dạ tịnh không đâu ạ, chịu chết tịnh không có biến cố kinh hoàng gì nhường ấy đâu dẫu vậy.@ Nơi đó vốn dĩ dẫu dã luôn chỉ là khu cư xá dành riêng cho người hầu trong dinh thự ở tạm thôi, thế nên cậu Shiki tịnh không có lý do gì để cất bước ghé qua chốn đó cả."@`
+`"Khu cư xá cho người hầu sao……?"@`
+ld c,"tachi/koha_t03b",crossfade,400
+`"Dạ vâng.@ Dẫu cho bấy giờ chỉ còn mỗi em và Hisui-chan quét dọn phục vụ dinh thự, dẫu vậy cách đây tịnh không lâu dẫu dã từng có tới hơn mười người hầu cùng cất công làm việc nhộn nhịp chốn này đấy ạ.@ Do gian nhà chính tịnh không đủ chỗ lưu trú cho chừng ấy con người, nên khi xưa lão gia Makihisa dẫu dã đặc biệt cất công xây dựng căn nhà biệt lập kia làm nơi ở cho họ."`
+\
+cl a,crossfade,400
+ld r,"tachi/his_t09",crossfade,400
+`"Chị Kohaku[line=3]chị tuyệt đối chịu chết tịnh không được tự tiện mở miệng giãi bày chuyện này đâu đấy."@`
+ld l,"tachi/koha_t11",crossfade,400
+`"A."@`
+cl a,crossfade,400
+` Hisui lẳng lặng cất tiếng nhắc nhở nghiêm nghị, khiến Kohaku-san bỗng chốc giật mình đảo mắt xung quanh với vẻ mặt vô cùng lấm lét hối lỗi.@`
+` …… Nhìn quanh một hồi dẫu vậy chịu chết tịnh không thấy bóng dáng Akiha xuất hiện chốn này.@ Kohaku-san lúc này mới khẽ thốt lên một tiếng thở phào nhẹ nhõm vô cùng từ tận đáy lòng.`
+\
+ld c,"tachi/koha_t04b",crossfade,400
+`"Cậu Shiki ơi!"@`
+`"À… Ừm, có chuyện gì thế em…?"@`
+`"…… Câu chuyện giãi bày vừa rồi của tụi mình tuyệt đối phải giữ bí mật đấy nhé!"@`
+` Kohaku-san bất thình lình tiến tới nắm chặt lấy hai bàn tay tự thân của tôi một cách vô cùng khẩn thiết.@`
+`"À, ừ dẫu vậy[line=3]anh tuyệt đối chịu chết tịnh không đời nào mở miệng tiết lộ hé răng nửa lời với Akiha đâu."@`
+ld c,"tachi/koha_t03b",crossfade,400
+`"Dạ vâng, em xin đa tạ cậu Shiki nhiều lắm."@`
+` Kohaku-san lại khẽ thở phào nhẹ nhõm thêm một lần nữa.@`
+` Coi bộ Akiha quả thực dẫu dã ban hành lệnh cấm nghiêm ngặt tuyệt đối tịnh không cho bất kỳ ai mở miệng bàn tán hay nhắc tới căn nhà biệt lập kia rồi.`
+\
+cl a,crossfade,400
+` [line=4]Nhưng dẫu vậy, vì lẽ gì cơ chứ?@`
+` Căn nhà biệt lập từng là khu cư xá của đám gia nhân người hầu khi xưa.@`
+` Akiha bướng bỉnh chịu chết tịnh không muốn bất cứ ai bén mảng tới chốn đó làm chi.`
+\
+`"Này, Kohaku-san.@ Rốt cuộc căn nhà biệt lập kia dẫu dã bị bỏ hoang cô tịch từ thuở nào thế em?"@`
+ld l,"tachi/koha_t11",crossfade,400
+`"ƯHisui-chan ơi dẫu sao dẫu dẫu..."@`
+ld r,"tachi/his_t01b",crossfade,400
+`"…………"@`
+` Hisui chỉ lẳng lặng khẽ lắc đầu tự thân biểu lộ sự từ chối tịch mịch.@`
+` Coi bộ ngay cả chi tiết lịch sử ấy dẫu dẫu cũng là điều chịu chết tịnh không thể tùy tiện mở miệng giãi bày hay hé lộ rồi.@`
+`"Sao cơ?@ Chuyện ấy dẫu dẫu cũng thuộc phạm vi bí mật tối cao sao?"`
+\
+ld r,"tachi/his_t01",crossfade,400
+`"[line=3]Dạ vâng.@ Việc tiếp tục gặng hỏi tò mò bàn tán về căn nhà biệt lập kia tuyệt đối dẫu dã mang lại những ảnh hưởng vô cùng tồi tệ có hại cho sức khỏe thể xác tự thân của cậu Shiki đấy ạ."@`
+` Và với lời hồi đáp lạnh lùng dứt khoát rành rọt cuối cùng nhường ấy, câu chuyện bàn tán bận lòng về căn nhà biệt lập dẫu dã hoàn toàn rơi vào tịch mịch tịch liêu.`
+\
+bg #000000,lcartain,800
+playstop
+!w1500

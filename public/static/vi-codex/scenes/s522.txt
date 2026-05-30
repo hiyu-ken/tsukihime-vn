@@ -1,0 +1,35 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Cảm ơn!@
+` Góc gợi ý cho Tohno-kun không may mắn bị kẹt trong Dead End khủng khiếp này,
+` Đã đến lúc "Hãy dạy tôi, Ciel-sensei!"@
+br
+` Và giờ đây, chúng ta sẽ bắt đầu bài học kỳ thứ hai.
+\
+` Tôi hiểu rồi, có lý do rõ ràng cho điều này.@
+` Con cá bỏ đi lần này rất to.  Nó là người thầy đáng kính của cậu, nên hãy cất tiếng đối thoại với nó và tìm lại hòa bình với nó.@
+` Ngay cả khi đó là một đối thủ mà cậu không thể đánh bại một mình, việc sử dụng sức mạnh của tình yêu giữa hai người thì dễ dàng.@
+` Cậu chẳng cần sự giúp đỡ của Arcueid chút nào!
+\
+ld l,"tachi/ark_t31a",lshutter,400
+`"Chuyện gì vậy? Không phải cậu đang kéo anh ta lại sao, Ciel?"@
+br
+` Im đi!@
+br
+ld l,"tachi/kemo_t05",lshutter,400
+`"Con hươu."@
+br
+cl l,lshutter,400
+`"Và meo meo cho loạt vật dụng chỉ dùng một lần,  nyaa, nyaa, nyaa…………"
+\
+` "Hãy dừng lại những cuộc trò chuyện riêng tư trong lớp!"@
+` "Bây giờ khi người gây ồn ào và phiền phức đã bị đuổi đi, hãy tiếp tục thưởng thức cốt truyện chính."
+\
+bg #000000,crossfade,800
+playstop

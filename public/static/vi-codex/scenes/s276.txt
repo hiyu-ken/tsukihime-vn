@@ -1,0 +1,26 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_01a",notrans,0
+"………"@
+   Không, tôi cảm giác dẫu có đợi ở đây cũng chẳng thể gặp được Senpai.@
+   Nếu Senpai đã không muốn gặp tôi, chị ấy sẽ quay đầu bỏ đi ngay khi vừa nhìn thấy tôi.@
+   …… Nếu đúng như vậy, chắc chắn chị ấy sẽ không đi học qua cổng chính rồi.@
+br
+"…… Nếu chị ấy có đến, chắc chắn sẽ đi lối cổng sau."@
+   Nghĩ vậy, tôi vội vã chạy thẳng ra khu vực cổng sau trường.
+\
+bg #000000,lcartain,800
+bg "bg/bg_05a",lcartain,800
+   [line=4]*Thở dài*@
+   Không một bóng người ở đây cả.@
+   Ngay cả những học sinh đi học muộn lẻ tẻ qua cổng sau cũng chẳng thấy đâu.@
+   …… Thế nhưng, tôi vẫn cố chấp đứng đợi bóng hình Senpai, người mà chắc chắn sẽ không xuất hiện.
+\
+bg #000000,lshutter,800
+bg "bg/bg_05a",lshutter,800
+   Tiếng chuông báo hiệu giờ học vang lên, báo hiệu cổng trường chuẩn bị đóng.@
+   …… Senpai thực sự đã không đến.@
+   Tôi nên quay lại lớp học trước khi giờ sinh hoạt bắt đầu.
+\
+bg #000000,lcartain,800

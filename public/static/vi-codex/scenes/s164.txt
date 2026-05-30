@@ -1,0 +1,12 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_32a",notrans,0
+ld c,"tachi/ark_t01a",lshutter,800
+`"Thế nào, Shiki? Đêm nay cậu định bắt đầu tìm kiếm từ đâu đây?"@
+ld c,"tachi/ark_t08",crossfade,400
+`"Từ đâu á... Thú thật tôi cũng chẳng biết nữa. Cậu có cảm nhận được sinh khí hay tàn tích ma thuật nào của hắn ở gần đây không?"@
+ld c,"tachi/ark_t06",crossfade,400
+cl c,crossfade,400
+` Cô ấy khẽ thở dài đầy bất lực.
+\

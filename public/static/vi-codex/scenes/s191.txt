@@ -1,0 +1,17 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",notrans,0
+` …… Tôi quyết định sẽ ở lại đây.@
+` Chúng tôi đã hứa rồi. Đã hứa là nhất định sẽ gặp lại nhau ở nơi này.@
+` Lời hứa của đêm nay vẫn chưa được thực hiện.@
+` Được gặp lại nhau, và cùng nhau chiến đấu.
+\
+` [line=4]Chính vì thế,
+` Nếu tôi kiên quyết giữ trọn lời hứa này, và nếu cô ấy cũng coi trọng nó...
+br
+` Arcueid nhất định sẽ quay trở lại đây. Tôi chỉ còn biết tiếp tục tin tưởng vào cô ấy và đứng đây chờ đợi.@
+` Nhưng tôi cũng phải đến căn hộ của Arcueid xem sao.
+\
+bg #000000,crossfade,800
+!w3000

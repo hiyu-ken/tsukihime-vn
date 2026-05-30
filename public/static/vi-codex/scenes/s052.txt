@@ -1,0 +1,83 @@
+phase #000000,l,ark,13a,epi
+bg #ffffff,crossfade,1500
+play "*2"
+` Shiki-sama, sáng rồi. Hãy thức dậy.`@
+br
+` Tôi nghe thấy một giọng quen thuộc.`
+\
+br
+` Shiki-sama…… Xin tỉnh dậy đi. Nếu trễ như hôm qua, cậu sẽ phá vỡ lời hứa với Akiha-sama.`@
+br
+` ... Một giọng nói vừa căng thẳng, vừa thư thái.`
+\
+` Shiki-sama. Có được không? Akiha-sama sẽ trách cậu lại.`@
+br
+` Không, hoàn toàn không được.`@
+br
+` “...... Tôi thức rồi. Tôi thức rồi, nên chờ đấy.”`@
+` Mới vừa tỉnh dậy, tôi lười biếng đáp lại khi đôi mắt dần hé mở.
+\
+bg "bg/bg_40a",crossfade,800
+ld c,"tachi/his_t01",crossfade,400
+` Chào buổi sáng, Shiki-sama.@
+` À, sáng rồi.@
+` Tôi đáp lại bằng một lời chào buồn ngủ và đeo kính lên.@
+` Đã qua bảy giờ sáng rồi.@
+` Hisui đến đúng giờ như thường lệ và đã thức tỉnh tôi.@
+br
+` Tôi sẽ chuẩn bị bữa sáng cho bạn. Sau khi thay đổi, vui lòng đi vào phòng ăn.@
+cl c,lshutter,800
+` Hisui biến mất khỏi phòng sau một cái cúi đầu.
+\
+` Tôi gáp lớn một cái.@
+` Sau khi duỗi người thật thoải mái, tôi đứng dậy khỏi giường.@
+` Tôi thay bộ đồng phục đi học và liếc nhìn bàn làm việc của mình.@
+` …… Trên đó là con dao mà tôi sẽ không bao giờ sử dụng nữa.
+\
+` rèm cửa lay động theo gió.@
+` Hisui chắc chắn đã mở cửa sổ; bầu trời thật trong lành.@
+` Tuy nhiên, nó hơi lạnh.@
+br
+` Tôi đến gần cửa sổ để đóng lại.
+\
+bg "bg/ima_03",lshutter,800
+br
+br
+br
+br
+br
+br
+` [line=4]Hóa ra,
+` Tôi đã thức dậy trong chính phòng của mình.
+\
+` Dường như Senpai đã mang tôi đến đây. May mắn thay, Akiha và những người khác không biết tôi đã rời đi.@
+` Đã một tuần kể từ đêm hôm đó.@
+` Cuộc sống của Tohno Shiki vẫn y như cũ so với trước đây.
+\
+` Mối quan hệ của tôi với Akiha đôi lúc hơi căng thẳng, nhưng đương nhiên chúng ta vẫn là anh em.@
+` Ngoại trừ đoạn đường đi bị sửa chữa, trường học không thay đổi gì cả.@
+br
+` …… Không, nó đã thay đổi.@
+` Tại trường, không có ai gọi Ciel là senpai, cũng chẳng ai nhớ đến cô ấy.@
+` Những vụ giết người liên tiếp chưa xảy ra lần nào kể từ đó. Vì chưa có ai bị bắt giữ chính thức nên đường phố thành phố vẫn tương đối vắng vẻ vào ban đêm, nhưng có lẽ sẽ trở lại bình thường trong một tháng.
+\
+` Còn tôi,
+` Tôi mang một khoảng trống vô tận trong lòng, nhưng tôi vẫn tiếp tục như trước.@
+` …… Hay là tôi có thể chịu đựng tất cả?@
+` Thỉnh thoảng, tôi bị ngập tràn khi bị những ký ức tấn công, nhưng tôi không nghĩ rằng mình sẽ điên loạn hay gì đó trong thời gian này.@
+br
+` Một ngày nào đó.@
+` Tôi có nên phát điên vì không thể chịu đựng những ký ức này, hay tôi chỉ trở lại sống bình thường sau khi quen với chúng?
+\
+` Có lẽ là một cơ hội 50/50.@
+` [line=3]Nhưng cho đến lúc đó,
+` ngay cả khi nó hơi nữ tính, tôi vẫn giữ lời hứa cuối cùng mà tôi đã trao cho cô ấy mỗi ngày.@
+br
+` [line=4]"Hè sắp kết thúc rồi, phải không?"@
+br
+` Bầu trời xanh lam bên ngoài đủ để khiến tôi say mê.@
+` Lấy một hơi thở sâu và lớn, tôi đóng cửa sổ lại.
+\
+bg #000000,crossfade,800
+playstop
+!w2000

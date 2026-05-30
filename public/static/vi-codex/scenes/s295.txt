@@ -1,0 +1,79 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_47",lcartain,800
+` Tôi tháo chạy khỏi tòa gia trang.@`
+` …… Chuyện quái gì đang xảy ra thế này?@`
+` Dẫu cho xung quanh tịnh không một bóng người, tôi vẫn có thể cảm nhận rõ ràng sự hiện diện của nhân loại.@ Những tòa nhà kia.@ Từ những căn hộ san sát xung quanh, tôi vẫn cảm nhận được hơi thở của họ.`
+\
+` *Hộc...*[line=4]*Hộc...*[line=6]`
+br
+` Giữa muôn vàn con người hiện diện nơi đây, bản thân tôi chắc chắn sẽ không cách nào kiềm chế nổi thứ xung năng khát máu ấy thêm lần nữa.@`
+` Một nơi nào đó[line=3]tôi bắt buộc phải tìm đến một nơi hoàn toàn hoang vắng không có người qua lại, bằng không tâm trí tôi tuyệt đối không cách nào bình tâm trở lại nổi.@`
+` Nơi không có lấy một bóng người.`
+\
+` Nơi tịnh không có bất kỳ căn hộ dân cư nào gần bên.@`
+br
+` …… Một nơi nào đó, nơi dẫu cho tôi có lại phát điên cuồng dại đi chăng nữa, thì cũng không cách nào gây liên lụy hay tổn hại tới bất kỳ ai.`
+\
+bg #000000,crossfade,1500
+bg "bg/bg_27b",crossfade,1500
+` …… *Hộc...*…… *hộc...*………`
+` Lúc này trong công viên tịnh không có một bóng người.@`
+` Xung quanh đây cũng không có căn nhà nào sát kề.@`
+` …… Lẽ ra nơi đây tuyệt đối cô tịch, thế nhưng tâm trí tôi vẫn không cách nào bình tâm lại nổi.@`
+` Cho dù khoảng cách có cách biệt vời vợi đến đâu, bao bọc xung quanh chốn này vẫn hiện diện tầng tầng lớp lớp những ngôi nhà.@ Tôi thậm chí còn có thể trông thấy ánh đèn neon rực rỡ của thị trấn ở phía xa kia nữa.`
+\
+`"Không hề... tồn tại."@`
+` Đúng vậy, trên đời này làm gì tồn tại một chốn như vậy chứ.@`
+` Tuyệt đối không có lấy một góc nhỏ nào trong lòng thành phố đô hội này mà bạn có thể hoàn toàn cô lập khỏi sự hiện diện của con người.@`
+` Quả thực làm gì có một chốn dung thân nào để tôi có thể chân chính cô tịch giữa lòng đô thị văn minh nhộn nhịp này.`
+\
+`"[line=5]Khốn... kiếp."@`
+` Bao bọc trọn vẹn xung quanh tôi.@`
+` Biết bao nhiêu con người hiện diện khắp nơi xung quanh tôi.@ Chỉ cần rảo bước một chút thôi, tôi có thể tha hồ săn tìm bất kỳ con mồi béo bở nào bản thân thèm khát.@`
+br
+bg #9c0120,notrans,0
+bg "bg/bg_27b",notrans,0
+`"[line=3]Câm... miệng."@`
+` Đầu tôi đau như búa bổ.@`
+` Cho dù bản thân bấy giờ cuối cùng đã tạm thời thoát khỏi việc phải nhìn thấy những đường "tử tuyến" chết chóc kia, cứ đà này chúng chắc chắn sẽ lại sớm hiện hình trước mắt tôi thêm lần nữa.`
+\
+`"[line=4]Ủa?"@`
+` Khoan đã, Shiki.@`
+` Chuyện này chẳng phải quá đỗi kỳ lạ hay sao?@`
+` Bởi lẽ sự thật vốn dĩ không phải là do tôi bị kích thích tinh thần nên mới trông thấy những đường "tử tuyến" ấy.@`
+` Những đường "tử tuyến" quỷ dị ấy là thứ mà bản thân tôi bắt buộc phải nhìn thấy mỗi khi tháo bỏ cặp kính của mình ra.@`
+` Thế nên dẫu cho tinh thần có hoàn toàn bình tâm trở lại, tôi vẫn bắt buộc phải trông thấy chúng nếu không đeo cặp kính ấy.@`
+` Thế nhưng rõ ràng tôi đã đánh rơi cặp kính của mình từ trước rồi mà[line=3]`
+\
+`"[line=4]Kính... vẫn ở đây."@`
+` Tôi đưa tay khẽ chạm lên gương mặt mình, để rồi bàng hoàng nhận ra cặp kính hóa ra vẫn luôn hiện diện sờ sờ trên sống mũi bấy lâu nay.@`
+` Nói cách khác,`
+` Dẫu cho tôi có đeo cặp kính mà cô Aoko trao tặng đi chăng nữa, bản thân lúc này tuyệt đối không cách nào kiểm soát nổi đôi mắt tử thần này được nữa rồi.`
+\
+`"Ha[line=3]haha."@`
+` Sự thật phũ phàng giáng thẳng vào tâm trí tôi.@`
+` Quả thực đúng như những gì Roa đã nói, chẳng qua bấy lâu nay bản thân tôi vốn dĩ vẫn luôn điên loạn mà không hề tự nhận thức nổi mà thôi.@`
+` Kể từ đêm định mệnh hôm ấy.@`
+` Kể từ thời khắc mà sâu thẳm trong thâm tâm mình, tôi điên cuồng muốn tự tay sát hại gã khốn nạn đã nhẫn tâm hành hạ chà đạp lên chị Ciel.`
+\
+`"…… Ồ…… hóa ra, cơn đau đầu khủng khiếp lúc ấy bộc phát chính là……"@`
+` Cơn đau đầu dữ dội nổ ra vào thời khắc tôi điên cuồng kháng cự lại ý chí thống trị của Roa.@`
+` Vào thời điểm mà tôi liên tục trông thấy những đường "tử tuyến" chết chóc dẫu cho bản thân hoàn toàn không hề nhớ là đã tháo kính ra, và khi tôi mở lời nhờ chị Ciel đi tìm giúp mình.@`
+br
+` Kể từ thời khắc ấy, tôi[line=3]dẫu cho có đeo kính đi chăng nữa, bất kể ý chí tự thân có muốn hay không, vẫn bắt buộc phải trông thấy những đường "tử tuyến" quỷ dị kia.`
+\
+`"…… Chị ấy…… đã sớm biết rõ rồi."@`
+` Không, có lẽ chỉ đơn thuần là chị ấy đã chọn cách giấu kính không hé răng nửa lời với tôi mà thôi.@`
+` Để giữ cho tôi không phải lo lắng suy sụp, chị ấy đã chấp nhận nói dối để bảo toàn thứ nhận thức sai lầm ngớ ngẩn của lòng tôi.@`
+`"…… Hóa ra là vậy…… chị…… Ciel."@`
+` Chị ấy từng ân cần dặn dò tôi hãy lập tức tìm đến trò chuyện với chị nếu có bất kỳ chuyện gì xảy đến.@`
+` Dãy số điện thoại riêng của chị ấy, tôi vốn dĩ đã sớm khắc sâu ghi nhớ trong đầu rồi.`
+\
+`"Điện thoại...[line=3]"@`
+` Gần đây có một bốt điện thoại công cộng.@`
+` Thế nhưng[line=3]dẫu cho có gọi điện cho chị ấy thì bản thân tôi có thể giải quyết được gì chứ?@`
+` Tuyệt đối không một ai trên đời có thể cứu chữa nổi cho thân xác tàn tạ này nữa rồi.@`
+` Ngay cả chị Ciel cũng tuyệt nhiên không cách nào cứu vãn nổi thứ ác quỷ đang gầm rú bên trong cơ thể tôi lúc này.`
+\

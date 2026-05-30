@@ -1,0 +1,89 @@
+playstop
+wavestop
+monocro #ff0000
+bg "bg/bg_54d",notrans,0
+` [line=4]Không có thời gian để lãng phí.@
+` Tôi phải giết anh ta trước khi vết thương của anh ấy lành lại, nếu không thì anh ta sẽ giết tôi.@
+br
+` Tôi hít một hơi thở cưỡng chế,
+` Và thúc đẩy cơ thể mệt mỏi của tôi sau Shiki.
+\
+bg #000000,lcartain,800
+monocro off
+bg #9c0120,crossfade,400
+bg "bg/bg_54d",crossfade,400
+` Hít thở gấp gáp [line=5]
+br
+` Hơi thở dốc vang vọng khắp cánh rừng tăm tối.@
+` Trong màn đêm tăm tối, vệt máu đỏ tươi tựa như đang soi tỏ lối đi.@
+` Tôi tịnh không thể để SHIKI chạy thoát lúc này.@
+` Vấn đề dẫu dã là: cơ thể tôi liệu có trụ nổi hay không?
+\
+` Tiếng thở dốc đầy nặng nhọc.
+` Tôi chạy vấp váp, lảo đảo chực ngã.@
+` Tôi cảm nhận được chuôi dao găm bên tay trái.@
+` Cảm giác lạnh lẽo khi siết chặt chuôi dao là điều duy nhất giữ cho tôi tịnh không ngất lịm đi.@
+br
+`"Hắn ta... có phải đang chạy về phía sân trong tịnh không?"@
+br
+` Dường như vệt máu đỏ đang dẫn về phía sân trong.@
+` Nơi của tám năm về trước.@
+` Nơi Nanaya Shiki bị sát hại bởi Tohno SHIKI.@
+` Khi nghĩ lại, không có nơi nào tốt hơn để kết thúc trận đấu của chúng ta.
+\
+`"[line=5]Được rồi, SHIKI. Ta sẽ..."@
+`"Sát hại ngươi."@
+wave se_07
+Một cơn chấn động 2,200
+bg "bg/ima_13b",lshutter,400
+br
+br
+br
+br
+br
+` Mọi thứ trở nên đỏ rực.
+\
+`"[line=7]Cái gì... thế này……?"@
+` Từng ngụm máu theo nhịp thở tuôn trào ra khỏi cơ thể.@
+` Máu phun xối xả từ lồng ngực tôi.@
+` [line=4]Ý thức bắt đầu mờ nhạt đi, và tôi ngã gục xuống sàn.@
+`"[line=4]Đã xảy ra... chuyện gì vậy?"@
+` Tôi tịnh không thể hiểu nổi.@
+` Chỉ có cơn đau đớn dữ dội xé rách cơ thể cùng một ngọn lửa thiêu đốt khắp da thịt.
+\
+`"[line=5]Gư... ư……"@
+` Tôi ngoái nhìn lại sau lưng.@
+` Ở đó, tôi kinh hoàng thấy vô số thanh kiếm cắm chi chít tựa như những đôi cánh.@
+` Chúng đâm xuyên qua cơ thể tôi, chĩa thẳng lên bầu trời.@
+` Điều đó có nghĩa là...
+` Vết thương này dẫu dã là chí tử rồi.@
+`"[line=5]Tại sao chứ?"@
+` Tôi tịnh không thể hiểu nổi.@
+` Tịnh không phải những thanh kiếm này bay từ ngoài tới đâm tôi.@
+` Mà chúng bỗng dưng đâm toạc, mọc ra từ tận sâu bên trong cơ thể tôi.
+\
+` Tiếng máu tuôn chảy róc rách.@
+` Nó chảy dọc theo những thanh kiếm đang cắm trên người tôi.@
+` [line=3]Nhưng luồng máu ấy... tịnh không phải của tôi.
+br
+`"[line=4]A... ra là vết máu khi đó."@
+br
+` ... Vết máu đã bắn lên người tôi khi tôi chém SHIKI.@
+` Nó vẫn còn bám chặt trên lồng ngực tôi.@
+` ... Một sai lầm ngu xuẩn đến tột cùng.@
+` [line=3]Tôi dẫu dã biết rõ những thanh kiếm huyết sắc ấy được rèn từ chính máu của hắn, vậy mà việc để máu hắn vương trên người chẳng khác nào tự dâng mạng cho hắn đâm bất cứ lúc nào tùy ý.
+\
+bg "bg/ima_01",crossfade,1500
+`"[line=6]A... ra vậy……"@
+` Tầm mắt tôi bắt đầu mờ lòa đi.@
+` Tôi ngửa mặt ngắm nhìn bầu trời, chìm đắm trong vũng máu của chính mình.@
+br
+` Vầng trăng xa xôi u tịch.@
+` Đêm đen tịch mịch cùng những tán cây cao vút.@
+` Rốt cuộc, tôi lại phải đối mặt với một cái chết vô nghĩa như tám năm về trước.
+\
+bg #000000,crossfade,1500
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000

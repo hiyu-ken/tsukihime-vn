@@ -1,0 +1,70 @@
+play "*3"
+wavestop
+bg "bg/bg_40b",notrans,0
+` ... Mặc dù hơi ích kỷ, nhưng tốt hơn là tôi nên xin cô Hakku nấu cho tôi một bữa.
+\
+bg #000000,lcartain,400
+bg "bg/bg_42b",lcartain,400
+ld c,"tachi/koha_t06",lshutter,400
+`"À, Shiki. Anh đã về rồi."@
+` Di chuyển chổi sang một bên, cô Hakku cúi chào.@
+`"Vâng, tôi đã quay lại. Nhưng mà, tôi có một việc nhỏ muốn xin cô."@
+ld c,"tachi/koha_t03",crossfade,400
+`"À? Có chuyện gì đặc biệt sao?"@
+`"Ờm... Tôi hơi ngượng ngùng, nhưng..."@
+` Trước khi tôi kịp cầu xin cô ấy làm cho tôi một bữa ăn, tiếng gầm gừ của dạ dày vang vọng khắp sân trong.
+br
+` Tiếng bụng tôi réo vang trong sân.
+\
+ld c,"tachi/koha_t09",crossfade,400
+`"[line=6]Khó tin, Kohaku-san chỉ há hốc miệng nhìn.@
+` "Ừm..."@
+`"[line=5] À."@
+` Mặt tôi đỏ lên... Tôi không nhận ra cơ thể mình thô lỗ đến vậy...
+`"... Ừm, thế thôi. Tôi không ăn gì nhiều từ sáng tới giờ, nên tôi rất đói chờ bữa tối..."@
+`"[line=6]"@
+` Kohaku-san nhìn tôi im lặng, rồi như nhớ lại, cô ấy bật cười nhẹ nhàng.
+\
+ld c,"tachi/koha_t05",crossfade,400
+`"Tôi hiểu. Vậy bạn muốn tôi chuẩn bị thứ gì đó nhẹ nhàng? Shiki-san, có điều gì đặc biệt bạn muốn không?"@
+`"Điều tôi muốn?"@
+` ... Để nói thật, tôi chỉ đói và tôi thậm chí còn không nghĩ về món gì cả.
+\
+`"Ừm... Tôi nghĩ một ít bánh rán cũng được."@
+` Tôi không biết tại sao, nhưng hình ảnh của những chiếc bánh kếp vàng bỗng xuất hiện trong đầu tôi.@
+ld c,"tachi/koha_t03",crossfade,400
+`"Bánh kếp...? Shiki-san, tôi nghe nói bạn không thích đồ ngọt, nhưng..."@
+` Kohaku-san ngẩng đầu lên với vẻ ngạc nhiên.@
+`"[line=3]À không, tôi không ăn nhiều đường, nhưng đó không phải là tôi không thích nó... Tôi đã ăn rất nhiều kẹo Nhật ở Arima's nữa..."
+\
+`"Thật sao? Nếu vậy, bạn nên nói với tôi sớm hơn.@
+` Tôi đã thắc mắc suốt thời gian này liệu có nên mua gì cho bạn trong giờ trà hay không.@
+` Nhưng từ bây giờ, tôi sẽ làm cho bạn những thứ giống như tôi làm cho Akiha-sama."@
+` Giọng của Kohaku-san bỗng sáng lên.@
+` "…… Nhưng ăn cùng Akiha, có nghĩa là tôi sẽ ăn những chiếc bánh quy nhỏ xinh từ bây giờ à?"
+\
+`"Nhưng, Shiki-san, tại sao bạn muốn ăn bánh rán? Nếu bạn muốn, tôi có thể làm cho bạn thứ gì đó ngon hơn một chút."@
+`"Ừm…… không có lý do gì cả, tôi nghĩ. Tôi thích chúng vì chúng rất đơn giản."@
+ld c,"tachi/koha_t18",crossfade,400
+`"Ha ha, Shiki-san, bạn vừa nói giống Hisui-chan đấy."@
+ld c,"tachi/koha_t01a",crossfade,400
+` "Đây là bí mật, nhưng tôi nghĩ Hisui-chan cũng rất thích bánh rán, quá. Mỗi khi cô ấy cố nấu gì đó, hầu như luôn là bánh rán."
+\
+`"Thật sao?…… Điều đó khá bất ngờ. Tôi nghĩ cô ấy sẽ thích thứ gì đó phức tạp hơn."@
+` "Như một chiếc bánh được trang trí cầu kỳ khiến bạn thắc mắc không biết cắt từ đâu."@
+`"Đúng vậy phải không? Tôi cũng thấy hơi lạ, nên tôi hỏi cô ấy. Cô ấy nói là vì tôi nói với cô ấy rằng chúng rất dễ làm."@
+` "Nhưng cô ấy nói rằng vẫn chưa thể làm cho nó thỏa mãn..."@
+`"...?@"@
+` "... À, vậy không phải là cô ấy thích bánh kếp, mà chỉ là cô ấy luyện tập làm chúng?"
+\
+ld c,"tachi/koha_t06",crossfade,400
+`"Ôi, xin lỗi Shiki-san. Tôi sẽ đi làm cho bạn một số, nên hãy chờ trong phòng khách."@
+cl c,lshutter,800
+` "Với cây chổi trong tay, Kohaku-san vội vã hướng tới lối vào sau."@
+`"[line=5]... Thôi được."@
+` "Tất nhiên, tôi sẽ sớm được ăn."@
+` "[line=4]Tôi sẽ có thể uống trà và bánh kếp rồi nghỉ ngơi cho đến bữa tối."
+\
+bg #000000,lcartain,800
+playstop
+!w2000

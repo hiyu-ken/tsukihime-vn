@@ -1,0 +1,999 @@
+play "*2"
+wavestop
+bg "bg/bg_34a",notrans,0
+ld c,"tachi/koha_t01a",lshutter,400
+`"Shiki-san, tôi xin lỗi vì phá hỏng tâm trạng của em, nhưng em có muốn ăn sáng không? Đang gần giờ nên tôi nghĩ nên chuẩn bị một chút."@
+`"Ồ, tôi quên mất... Nhưng thực ra tôi không quá đói, mà có lẽ là khát nước."@
+ld c,"tachi/koha_t04",crossfade,400
+`"Không được đâu, Shiki-san. Bạn đã ngất hôm qua, nên bạn cần ăn để lấy lại sức khỏe. Ngay cả khi cậu không muốn ăn, bạn cũng nên dùng một chút thức ăn."@
+` Thậm chí nếu cậu không muốn ăn, điều đó vẫn đúng, nhưng tôi chỉ không thấy mình có hứng thú vào lúc này.
+\
+cl c,lshutter,400
+`"Ưm..."@
+` Những gì cô ấy nói là đúng, nhưng tôi chỉ đơn giản là không muốn ăn vào lúc này.@
+` Sau khi thấy giấc mơ đó, tôi không thể tự buộc mình phải ăn được.
+\
+ld l,"tachi/his_t01",lshutter,400
+`"... Em gái ơi. Nếu cậu Shiki không cảm thấy tốt, em không nên ép anh ấy đâu."@
+ld r,"tachi/koha_t04",lshutter,400
+`"[line=4]Hisui-chan, em quá chiều chuộng Shiki-san rồi nhỉ?"@
+ld r,"tachi/koha_t09",crossfade,400
+`"Shiki-san, cậu không cảm thấy tốt vào buổi sáng này à?"@
+` Kohaku-san nhìn chằm chằm vào tôi.@
+` Như thể theo kịch bản, Hisui và Akiha cũng thêm những cái nhìn nghiêm túc hướng về tôi.@
+` ... Tôi nghĩ tôi thực sự không thể tiếp tục lừa dối bản thân nữa.
+\
+`"[line=3]Thực ra, tôi cảm thấy hơi mệt mỏi. Tôi có thể ăn, nhưng cậu có thể làm một thứ gì đó mà tôi không cần nhai? Tôi cảm thấy khá tệ và tôi cũng không thể nếm được gì."@
+cl r,lshutter,400
+` Sau khi nói ra sự thật, Kohaku-san nói "Ồ, tôi hiểu rồi," và trông có vẻ buồn rầu.@
+` ... Là người chịu trách nhiệm nấu ăn, cô ấy chắc chắn cảm nhận được điều tôi vừa nói.
+\
+ld l,"tachi/his_t04",crossfade,400
+`"..." Ừm, cậu Shiki? Tôi nghĩ cậu không cảm thấy tốt vì môi trường của cậu đã thay đổi.@
+` "Vậy nên, nếu biệt thự không phù hợp với cậu, có lẽ cậu nên quay lại và ở cùng gia đình Arima trong một thời gian……?"@
+` Dưới bầu trời đêm tịch mịch, tôi cất bước đi dọc con phố hoang vắng.@`
+` Ý kiến của Hisui xuất phát từ sự quan tâm chân thành đến sức khỏe của tôi.
+\
+cl l,lshutter,400
+` "... Kể từ khi tôi trở về, cuộc sống của tôi đã trở nên kỳ lạ."@
+` "Vì lời hứa tám năm trước dường như đã bị quên đi; có lẽ tốt hơn cho sức khỏe của tôi nếu tôi quay lại và ở cùng gia đình Arimas."
+\
+`"..." "Đúng vậy. ... Cũng hay đấy."@
+` "Mặc dù tôi chỉ ở đây một tuần, nếu tôi không sớm thích nghi, tôi sẽ tạm rời đi và lấy lại sức khỏe."@
+` "Ồ, có lẽ mình đang vội vàng một chút," tôi thêm vào.@
+br
+` Một cảm giác bất an tột độ dâng lên, dẫu dẫu đã muộn màng dẫu vậy tôi vẫn cất lực chạy về phía trước.`
+` Đột nhiên, Akiha đứng dậy từ chiếc ghế sofa của cô ấy.
+\
+ld c,"tachi/aki_t09",lshutter,400
+`"Ôi, không được đâu, anh trai. Anh cuối cùng cũng quay lại rồi, nên xin đừng rời đi nữa."@
+ld c,"tachi/aki_t08a",crossfade,400
+` "Nếu cậu nói rằng cậu sẽ rời đi một lần nữa, tôi sẽ giết cậu, anh trai."@
+cl c,lshutter,400
+` Akiha mỉm cười khi nói câu đùa đó và biến mất hướng về sảnh.
+\
+ld c,"tachi/koha_t03",lshutter,400
+`"Kohaku à. Đã đến lúc cho Hoàng tử Akiha đi học rồi, cậu có thể đi cùng cô ấy đến cửa không? Tôi sẽ lo bữa sáng cho Shiki-san."@
+` Với một lời đồng ý đơn giản, Hisui đi theo Akiha.@
+`"Tốt rồi, tôi sẽ làm cho cậu một món dễ ăn. Hãy chờ một chút nhé."@
+cl c,lshutter,400
+` Kohaku đi nhanh về phía nhà bếp.
+\
+`"[line=7]"@
+` Tôi ngồi trên ghế sofa, ngỡ ngàng.@
+br
+` [line=3]Tôi sẽ giết cậu, anh trai.@
+br
+` …… Những lời đó không rời khỏi đầu tôi.@
+` Có lẽ là vì dù đó chỉ là một câu đùa, nhưng đối với tôi, nó chẳng hề nghe giống một câu đùa.
+\
+bg #000000,crossfade,800
+playstop
+!w2000
+bg "bg/bg_06a",lcartain,800
+wave se_03
+` [line=3]Giờ trưa đến.@
+` Như thường lệ, Arihiko lại bỏ học.@
+br
+`"Tôi nghĩ tôi sẽ đi đến quán ăn."@
+` Tôi không muốn ăn một mình ở đây.@
+` Có lẽ nếu tôi đến quán ăn đông đúc hơn, cơn đói của tôi mới cải thiện.
+\
+bg #000000,lcartain,800
+bg "bg/bg_50",lcartain,800
+` Như dự đoán, quán ăn chật ních người.@
+` Sau khi chờ đợi trong một hàng dài, tôi mua bộ bữa ăn quen thuộc A và đi đến bàn.@
+` Nghe tiếng nói của mọi người xung quanh, tôi bắt đầu ăn.@
+br
+` [line=4]Và sau đó.@
+br
+` Trong chốc lát, tôi nhìn thấy hình ảnh kinh hoàng.
+\
+`"……?@ Có phải là màn hình tivi không?"@
+` Tôi ngước nhìn chiếc tivi lớn treo trên tường cuối nhà ăn.@
+` Ở trường tôi, họ ghi lại bản tin sáng và phát lại vào giờ trưa.@
+` Tôi chỉ đứng đó, ngơ ngác trước chương trình tin tức đã trễ vài tiếng đồng hồ.
+\
+play "*4"
+`"[line=4]Không thể nào..."@
+` Tôi xem tin tức với sự kinh hoàng khó tả.@
+` Trên tivi chiếu lại con hẻm mà tôi từng thấy trong giấc mơ đêm qua.@
+` Người dẫn chương trình đang cất tiếng đối thoại.@
+` Trên màn hình, những từ "Nạn nhân mới của Kẻ giết người hàng loạt ma cà rồng" xuất hiện bằng chữ đỏ rực.
+\
+bg #9c0120,notrans,0
+bg "bg/bg_50",notrans,0
+` ... Có vẻ như cô gái đã được cứu.@
+` Cô ấy đang nằm viện, hồi phục sau khi bị mất máu.@
+` Cô vẫn chưa tỉnh lại. Khả năng hồi phục là chưa biết.@
+` ... Danh tính kẻ tấn công và lấy đi máu của cô cũng là một điều bí ẩn.@
+` Hình ảnh cô gái trên tivi không thể nhầm lẫn được với cô gái từ đêm qua.@
+br
+` [line=3]Điều đó có nghĩa là có một điều không còn là bí ẩn nữa.@
+` Kẻ phạm tội đã tấn công cô ấy, không hề nghi ngờ gì[line=4]
+\
+bg #9c0120,notrans,0
+bg "bg/bg_50",notrans,0
+`"[line=6]Tôi bắt đầu cảm thấy choáng váng.@
+` "Làm sao... lại như vậy?"@
+`"Đó là một giấc mơ. Phải là một giấc mơ.@
+` Nhưng trong thực tế, người đó trong giấc mơ của tôi, máu của cô ấy cũng bị hút đi giống như trong giấc mơ.@
+` "Kẻ ma cà rồng đó chắc đã biến mất rồi."@
+`"Tôi đã giết Yumizuka bằng chính đôi tay mình.@
+` Những vụ giết người này, chúng không nên còn tiếp diễn nữa.@
+` (Shiki cảm thấy một nỗi đau sâu sắc, một sự thật đáng sợ mà cô cố gắng che giấu.)
+\
+`"[line=4]Tôi đã giết ai đó."@
+` Vâng, tôi đã giết.@
+` Giống như lần tôi giết Yumizuka vậy.@
+` [line=3]Khi hơi thở gấp gáp, đêm qua, người phụ nữ mà tôi chưa từng gặp...
+\
+bg "bg/ima_13",crossfade,800
+br
+br
+br
+br
+br
+br
+` Tôi đã nói với cậu, Shiki-kun?@
+` Không có nghĩa là gì khi chống lại nó.
+\
+br
+br
+br
+br
+br
+br
+` Cậu đang nói về điều gì vậy?@
+` Cậu thậm chí còn là một kẻ giết người hơn tôi.
+\
+bg "bg/bg_50",crossfade,800
+`"Ối trời ơi..." [line=3]@
+` Tôi kìm nén cơn buồn nôn và đứng dậy khỏi ghế.@
+bg #000000,lshutter,400
+br
+` Tôi không thể quay lại lớp học.@
+` Tôi thấy mình chạy vào thành phố.
+\
+!w2000
+bg "bg/bg_31a",lcartain,800
+` [line=3]Tôi đến nơi mà tôi đã thấy trong giấc mơ của mình.@
+br
+` Có vài cảnh sát đứng xung quanh khu vực này, và băng rôn đọc "Đường dây cảnh sát - Không được vượt qua" trải dài trên con hẻm.@
+`"[line=3]Chính xác như vậy."@
+` Không nghi ngờ gì nữa, đây chính là nơi tôi đã đến trong giấc mơ.@
+` [line=3]Không, đó không phải là giấc mơ.@
+` Tôi không thể lừa dối bản thân nữa rằng nó chỉ là một giấc mơ.
+\
+`"... ..."@
+` Ngay cả khi tôi ở lại đây lâu hơn, cảnh sát chỉ sẽ nhìn chằm chằm vào tôi.@
+` Tôi không thể quay lại trường học lúc này, nên tôi nghĩ mình sẽ trở về biệt thự.
+\
+bg #000000,crossfade,400
+playstop
+!w2000
+bg "bg/bg_33a",lcartain,800
+waveloop se_11
+` Vì chưa đến hai giờ chiều, Hisui chưa đợi ở sảnh.@
+`"... ..."@
+` Tôi có thể nói rằng mình may mắn. Tôi không muốn gặp ai vào lúc này.@
+` Tôi liếc nhìn hình ảnh phản chiếu trong cửa sổ.@
+` Mặt nhợt nhạt trông giống một Tohno Shiki hoàn toàn khác biệt.@
+br
+` Bản thân tôi như một người khác.@
+` Đó là giấc mơ dường như thuộc về một người khác.@
+` Những điều không thể nhận thấy,
+` Dấu vết của vụ giết người chỉ còn lại trong trí nhớ tôi.
+\
+bg #000000,crossfade,400
+br
+br
+br
+br
+br
+br
+` Tôi cảm thấy choáng váng.@
+` Trước mặt tôi, thị lực dần tối đi.
+\
+bg "bg/bg_33a",notrans,0
+`"[line=4]Không! Tôi không giống cha tôi…!"@
+` Trong sự tuyệt vọng, tôi cố gắng chống đỡ cảm giác choáng váng để giữ thăng bằng.@
+`"[line=6]Cha tôi."@
+` Tôi có thể đến phòng của cha mình và tìm hiểu về căn bệnh của ông ấy.@
+` Nếu tôi làm điều đó, tôi có thể xác nhận rằng tôi không giống như trước. Nếu tôi vẫn là bản thân[line=4]có lẽ có cách nào để giúp bản thân.
+\
+bg #000000,lcartain,800
+` ... Phòng của ông ấy nằm trên tầng một, ở phần phía tây của biệt thự, bên cạnh phòng của Kohaku-san.@
+` May mắn là tôi đã rời trường sớm.@
+` Lúc này, không ai khác xung quanh cả.@
+` Tôi lấy con dao ra và tháo kính râm xuống.@
+` Tôi cố cắt "dây" của ổ khóa cửa và đeo kính râm lại.@
+br
+` Phòng không bị khóa.
+\
+bg "bg/bg_41",lshutter,800
+` Phòng của bố tôi vẫn như xưa.@
+` Hầu hết các hàng sách là báo cáo giáo dục, không có thứ gì thu hút tôi.@
+` Tôi muốn lúc này là nhật ký hoặc ghi chú của bố.@
+` [line=3]Bố tôi rất tỉ mỉ. Chắc chắn phải có thứ gì đó ở đây.
+`"... Tất nhiên, chúng không chỉ nằm phơi ra như thế."@
+` Có thể chúng được khóa kín đâu đó.@
+` Tôi nên kiểm tra tủ đầu tiên.
+\
+bg #000000,lshutter,400
+bg "bg/bg_41",lshutter,400
+` Đây không phải lúc để đùa giỡn.@
+` Tôi tháo kính ra, nhìn vào những "dòng" trên đó.@
+` Dùng con dao của mình, tôi cắt những "dòng" trên ngăn kéo.@
+` Bên trong, có vẻ như là một tập giấy cũ được gấp lại và một cuốn nhật ký.
+\
+` Đầu tiên, tôi xem qua những tờ giấy cũ.@
+`"... Đây là cây phả hệ của gia đình tôi?"@
+` Đúng vậy.@
+` Ngay sau tên Tohno MAKIHISA là Tohno SHIKI và Tohno AKIHA.@
+` Và ngay sau đó, từ "Nanaya" xuất hiện.@
+br
+`"Ồ... bố tôi đã nhận nuôi một đứa con trai cách đây mười năm sao?..." @ ... "À, nhưng ông ấy qua đời không lâu sau đó." @
+` Cách đây mười năm, điều đó có nghĩa là tôi chỉ mới học tiểu học.@
+` Đã quá lâu như vậy, chẳng lạ gì nếu tôi không nhớ rõ.
+\
+`"[line=3]Ừm... các đầu gia đình đều có tuổi thọ khá ngắn. Bố tôi qua đời ở tuổi 50, trước đó ông gặp tai nạn và trước đó hơn nữa, khi mới 18 tuổi, tự tử..." @
+br
+` [line=4]Chờ đã...@
+` Dù nhìn dưới góc độ nào, điều này cũng kỳ lạ.
+\
+play "*6"
+wave se_01
+` Khi xem xét cây gia phả, tất cả thành viên trong gia tộc Tohno đều chết theo những cách kỳ lạ.@
+` Điên rồ. @ Tai nạn. @ Giết người. @ Biến mất. @ Chết non. @
+` Không một trong số họ sống lâu, hoặc thậm chí chết một cách bình yên.
+\
+wave se_01
+bg #000000,crossfade,400
+bg "bg/bg_41",crossfade,400
+br
+`"Thật không...?"@
+` Toàn bộ tài liệu này đầy ắp những kết cục khủng khiếp.@
+` Thậm chí còn tệ hơn, hầu hết nguyên nhân cái chết là do điên loạn.@
+` Hầu hết trong số họ đã tự kết liễu cuộc đời mình.
+\
+`"Đó là điều kỳ lạ... tất cả đều kỳ lạ." [line=3]@
+` Tôi không thể chính xác đặt ngón tay vào nó.@
+`"... tiếp theo là... nhật ký của bố tôi."@
+` Tôi cầm cuốn nhật ký có bìa mới hơn so với những cuốn khác.@
+br
+` [line=4]Tiếng đập mạnh.@
+br
+` Trái tim tôi bắt đầu rộn ràng.@
+` Có vẻ như trái tim tôi hiểu rằng tôi không nên mở cuốn nhật ký này.@
+` Nhưng giờ tôi không thể quay lại được.@
+` Nuốt nước bọt, tôi mở cuốn nhật ký của người cha già.
+\
+bg #000000,lshutter,400
+bg "bg/bg_41",lshutter,400
+br
+` [line=6]Một con quỷ đang lẩn trốn trong dòng máu gia tộc Tohno.@
+br
+` Câu mở đầu nằm ở những dòng đó.
+\
+` Đó không chỉ là một phép ẩn dụ đơn giản.@
+` Tổ tiên của gia tộc Tohno là một giống lai giữa "một thứ gì đó phi nhân tính" và con người. Chúng ta, là hậu duệ của họ, cũng mang trong mình một phần "thứ gì đó phi nhân tính" trong dòng máu.@
+br
+` Về dòng máu...
+` Có những người có lượng máu phi nhân tính mạnh mẽ, và những người có lượng yếu hơn.@
+` Những người có máu phi nhân tính yếu có thể sống cuộc đời như những người bình thường, nhưng những người có máu phi nhân tính mạnh thì không bao giờ có thể sống một cuộc đời bình thường.
+\
+` Những người mang dòng máu Tohno mạnh mẽ được sinh ra với những sức mạnh đặc biệt.@
+` Nó có thể là khả năng kháng tử, hoặc...
+` ...sức mạnh di chuyển vật thể mà không chạm vào chúng.
+` Những nanh sắc đó có thể được sử dụng để hút chất lỏng cơ thể từ những người khác.
+\
+br
+` Máu này.@
+` Khi máu trở nên quá mạnh, các thành viên trong gia tộc Tohno bắt đầu dần mất trí.@
+` Đa số họ trở thành những quỷ dữ ăn thịt người.@
+` Vì vậy, người đứng đầu gia tộc Tohno gánh vác trách nhiệm trừng phạt những kẻ đã biến thành quái vật như vậy.
+\
+`"[line=8]"@
+` Điên rồ.@
+` Cha tôi, ông cố gắng nói gì? Viết quá nghiêm túc về thứ giống như một câu chuyện cổ tích vậy.@
+br
+` [line=5]Nhật ký dần trở thành lời rên rỉ của người già.@
+br
+` Ngày ghi chép cách đây khoảng chín năm.@
+` Nét chữ bắt đầu trở nên bất thường.
+\
+monocro #ffff00
+bg "bg/bg_41",crossfade,400
+` Tôi không còn kiểm soát được cơn thịnh nộ trong người.@
+` Tôi đã thu nhận được một đứa trẻ mồ côi từ gia đình những người Đồng bộ hóa, điều này có lẽ sẽ giúp tôi củng cố tâm trí. Tuy nhiên, thật ra chỉ là vấn đề thời gian trước khi tôi rơi vào điên loạn.
+\
+` ... Điều này thật kinh khủng.@
+` Khi tỉnh lại, tôi phát hiện mình thậm chí còn không nhớ nổi nửa ngày hôm đó.@
+` Trong khoảng thời gian ấy, tôi đang ép buộc xung động đảo ngược với đứa trẻ đó.@
+br
+` Nếu tình hình này tiếp diễn,
+` nó chỉ là vấn đề thời gian trước khi tôi hoàn toàn mất trí và trở thành một con quái vật.@
+` Tôi thậm chí không biết còn bao nhiêu thời gian để giữ nguyên bản thân mình.
+\
+` Không. Nếu đứa trẻ đó ở đây, có lẽ tôi có thể trụ được vài năm nữa.@
+` Nhưng đứa trẻ đó sẽ không thể chịu đựng nổi. Sau khi đứa trẻ ấy tan vỡ, tôi sẽ phải tự kết liễu đời mình.@
+br
+` …… Thật là nghịch lý đến mức khó tin.@
+` Tôi đã loại bỏ rất nhiều thứ để bảo vệ bản thân, nhưng cuối cùng, có lẽ tôi sẽ phải tự tử.@
+` Hoặc có thể đây là lời nguyền của dòng Nanaya.@
+` Tôi nhận nuôi con trai của anh ấy, nhưng tôi nghĩ mình không thể xóa bỏ sự oán hận của họ bằng điều đó.
+\
+` Nhưng, tôi không thể chuộc lại những sự kiện trong quá khứ. Nếu cái chết đang chờ đợi tôi, thì khi thời gian đến, tôi phải chấp nhận nó.@
+` [line=3]Cho đến lúc đó, tôi phải bảo vệ con cái của mình.@
+` Máu của Akiha yếu đuối. Trừ khi cô ấy tự nguyện, cô ấy không cần phải chịu số phận tương tự.@
+br
+` Vấn đề là SHIKI. Cô bé quá gần gũi với tôi. Hơn bất cứ điều gì khác, tôi không muốn cô bé phải chịu số phận của tôi.@
+` [line=4]... Nếu dòng máu Tohno là bất tự nhiên, tôi cần giữ cậu ấy càng xa càng tốt khỏi tên Tohno và xem cậu ấy sẽ ra sao.
+\
+monocro off
+bg "bg/bg_41",crossfade,400
+` Tôi thở sâu và xua tan không khí trong phổi.@
+` Tôi tạm dừng việc đọc sách.@
+` Điều đó khiến tôi cảm thấy khó chịu.@
+` Nội dung trong nhật ký của bố tôi quá xa rời thực tế, có phần kỳ lạ.@
+br
+` Bố tôi không chỉ mắc chứng rối loạn lưỡng cực.@
+` Ngược lại, ông ấy trở nên bạo lực mà không hề hay biết.@
+` Giống như Tohno Shiki hiện tại vậy.
+\
+`"[line=4]Đó là điều kỳ lạ."@
+` Nhưng điều đó không phải là điều khiến tôi lo lắng.@
+` Ông ấy viết về SHIKI và AKIHA theo cách kỳ quặc.@
+` Nhìn lại cây họ, tôi thấy anh ấy viết "Akiha" bằng chữ Hán cho "Mùa thu lá", trong khi "SHIKI" được viết bằng chữ cho "Bốn mùa".@
+`"Chữ cho 'Bốn mùa' chắc chắn có thể phát âm là 'SHIKI', nhưng chữ trong tên tôi là 'Ý định' và 'Đáng kính'."@
+` Tôi có cảm giác rằng suy nghĩ quá nhiều về điều đó sẽ không tốt, nhưng dòng suy nghĩ của tôi không ngừng lại.@
+`"... Những 'Đồng bộ hóa' này là gì? Có phải là đứa con được nhận nuôi?"@
+` Nhưng, tôi cũng cảm thấy điều đó sai lầm.
+\
+` Này, tôi chỉ đọc đến giữa tất cả những điều này.@
+` Nếu tôi đọc hoàn toàn, có thể tôi sẽ tìm ra một giải pháp.@
+` Nhưng[line=3]tôi thực sự muốn biết?@
+wave se_01
+bg #9c0120,crossfade,400
+bg "bg/bg_41",crossfade,400
+`"………"@
+br
+` [line=6]Tôi cảm thấy như muốn nôn mửa.@
+br
+` Tôi không thể đứng vững được.@
+` Hãy vội lên.@
+` Tôi phải quay lại phòng và ngủ; có cảm giác đầu tôi bị điều gì đó sai lệch.
+\
+br
+` Nhưng vẫn, tôi quyết định trở lại đọc nhật ký.
+\
+` [line=3]Phần còn lại dường như là một bản ghi chép nào đó.@
+br
+` Ngày bắt đầu từ mùa hè 8 năm trước, và khoảng một tháng sau đó.
+\
+`"…………"@
+` Tôi chưa hiểu rõ, nhưng tôi vẫn tiếp tục xem qua nó.
+\
+monocro #ffff00
+bg "bg/bg_41",crossfade,400
+` ~ Ngày ~ Tháng
+br
+` Con trai tôi, SHIKI, đã đầu hàng dòng máu Tohno.@
+` SHIKI, cậu ấy đã giết con nuôi của tôi, người tình cờ ở đó.@
+` (Con nuôi là người thừa kế nhà Nanaya. Tôi nghĩ đó là một phước lành trong những sự kiện không may mắn rằng cậu ấy không cùng gia đình với những Đồng bộ hóa, như Kohaku và Hisui.)
+` Sự xung động đảo ngược của SHIKI thật khủng khiếp.@ Vì vậy đã quyết định rằng cậu ấy phải bị loại bỏ.@ Tôi có nghĩa vụ của mình là người đứng đầu gia tộc Tohno, nhưng giết con trai mình thật khó khăn.
+\
+` Dòng máu Tohno mạnh hơn ở SHIKI so với AKIHA.@
+` Khi nói về tiềm năng, tôi cảm nhận được một nguồn gốc già hơn trong dòng máu của Akiha, nhưng dòng máu Tohno của Shiki mạnh mẽ hơn nhiều.@
+` Tôi giả định đó là lý do Shiki đã đảo ngược trước khi trưởng thành.@
+` Sức mạnh của Shiki là "bất tử" và "hợp nhất".@
+` Shiki không kiểm soát được sức mạnh thức tỉnh và kết quả là, cậu ấy đã giết đứa trẻ được nhận nuôi là Nanaya, lấy đi sinh mạng của hắn.@
+` Tôi phải nói đó là một công việc xuất sắc khi sử dụng sức mạnh lần đầu tiên.
+\
+` ~ Ngày tháng năm
+br
+` Cả Shiki và đứa con trai được nhận nuôi đều thoát khỏi cái chết.
+\
+` ~ Ngày tháng ~ Năm
+br
+` Vấn đề duy trì hình ảnh trước xã hội bình thường vẫn còn tồn tại.@
+` Shiki đã giết đứa trẻ được nhận nuôi là Nanaya.@
+` Tôi đã che giấu sự việc này, nhưng Shiki không thể hiện ra trước công chúng. Wound mà tôi gây cho cậu ấy chưa lành và hình dạng của cậu ấy đã biến đổi.@
+` Cậu ấy không còn trong tình trạng có thể xuất hiện trước mặt mọi người như Tohno Shiki... cậu ấy cũng không còn là con người nữa.@
+br
+` Đứa trẻ Nanaya vẫn còn sống.@
+` Tôi đã quyết định sử dụng cậu ấy cho đến khi cậu ấy chết.@
+` Nếu có bất đồng, tôi muốn nghe chúng.
+\
+` Sự bổ sung.@
+` Những người Nanaya là một gia đình chuyên sản sinh ra những kẻ giết người.@
+` Nếu đứa con nuôi đó tình cờ sống sót, mối liên kết giữa nó và SHIKI có thể làm ô nhiễm tâm trí của SHIKI.@
+` Ngay cả khi SHIKI lấy lại được sự tỉnh táo, tôi không thể phủ nhận khả năng ảnh hưởng từ đứa trẻ Nanaya khiến anh ta trở thành một kẻ giết người.@
+br
+` Để ngăn điều này xảy ra, chúng ta phải giữ cậu ấy ở đâu đó mà chúng ta có thể giám sát. Nhưng cũng không được phép để cậu ấy gần với biệt thự Tohno.@
+` Tôi nên để cậu ấy được nuôi dưỡng bởi một chi nhánh phù hợp trong gia tộc.
+\
+` ~ Ngày tháng
+br
+` …… Dòng máu Tohno đã thức tỉnh bên trong SHIKI.@
+` Có lẽ vì anh ta quá gần với cái chết, nhưng anh ta đã lấy lại sự tỉnh táo như trước đây.@
+` Tôi không biết liệu có điều gì đó sẽ khiến anh ấy đảo ngược lại.@
+` Mặc dù nó làm tôi đau lòng, nhưng tôi cũng không thể để SHIKI đến gần biệt thự Tohno.@
+` Tôi giao anh ấy cho một người hầu đáng tin cậy.
+\
+` ~ Ngày tháng X
+br
+` Tôi đưa con trai nuôi từ gia đình Nanaya vào chăm sóc của chi nhánh khác trong gia tộc chúng ta.@
+` Akiha ghét tôi.@
+` Akiha đã mất cả hai anh trai cùng một lúc, nên có lẽ điều đó là bình thường.
+\
+` ~ Ngày tháng X
+br
+` Tôi bắt đầu nuôi dưỡng Akiha trở thành người đứng đầu gia tộc tiếp theo.@
+` Akiha sở hữu tài năng hơn là đủ để thực hiện trách nhiệm của người đứng đầu gia tộc.@
+` Shiki có thể có khả năng "Bất tử",
+` nhưng Akiha nắm giữ quyền lực "Lập hạ".@
+` Là anh em, cả hai đều có khả năng chia sẻ và lấy năng lượng sống từ nhau.
+` Thật đáng tiếc. Nếu cô ấy sinh ra sớm hơn mười năm, tôi có thể loại bỏ gia tộc Nanaya mà không cần sự giúp đỡ từ gia tộc Kishima.
+\
+` Nhưng tôi phải cẩn trọng.@
+` Khả năng "bắt giữ" của cô ấy là một thanh kiếm hai lưỡi. Cô ấy có thể lấy đi toàn bộ khái niệm của ai đó trong khi bắt giữ nhiệt huyết của họ.@
+` [line=2]Giống như tôi, tôi phải dạy cho cô ấy cách không thu hút lời nguyền của kẻ thù.
+\
+` ~ Ngày X Tháng
+br
+` Akiha cố gắng đến thăm gia tộc Arima.@
+` Tôi không thể để cô ấy và con nuôi của tôi gặp nhau.@
+` Tôi đã đưa cô ấy vào một trường nội trú để hạn chế tự do của cô ấy.
+\
+` ~ Ngày X tháng
+br
+` Gần đây, tình trạng sức khỏe của tôi ngày càng xấu đi.@
+` Có vẻ như con gái của những người Đồng bộ hóa không còn đủ nữa.
+\
+` ~ Ngày X tháng
+br
+` …… Lần đầu tiên sau một thời gian dài, tôi đã trở về bản thân mình.@
+` Bao lâu rồi kể từ khi tôi cầm lấy cây bút này lần cuối? Có lẽ sẽ không có lần tiếp theo nào. Tôi phải hoàn thành việc viết ở đây.@
+` Tôi đã để lại lời dặn rằng sau khi tôi qua đời, điều này nên được trao cho con gái tôi, AKIHA.@
+` Tôi không biết Akiha có bao giờ đọc những dòng này hay không, nhưng nếu cô ấy đọc được, thì hãy phá hủy chúng.@
+` Đó là yêu cầu duy nhất của tôi dành cho con gái mình.
+\
+monocro off
+bg "bg/bg_41",crossfade,400
+`"[line=7] Điều này là gì?"@
+` Cô bé được nhận nuôi cách đây mười năm.@
+` Tôi hoàn toàn đã quên điều đó.@
+` …… Tôi đã giết hắn?@
+` Ngày hè ấy, tám năm trước, khi tôi bị thương.@
+br
+bg "bg/cmo_05",notrans,0
+bg "bg/bg_41",notrans,0
+` …… Anh ta, đã giết tôi?@
+` Đó là ngày hè tám năm về trước, khi tôi nhận được vết thương này.
+\
+`"[line=5]"@
+` Một cảm giác buồn nôn dâng lên trong tôi.@
+` Tôi thấy mình không khỏe.@
+` Kí ức mà tôi đã quên đi cho đến lúc này đang chạy qua đầu tôi.
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_41",notrans,0
+br
+`"[line=6]"@
+` ... Tôi hiểu rồi.@
+` Mọi thứ đều được ghi chép lại, nên tôi phải chấp nhận nó.@
+` Ngoài ra, mọi thứ đều rơi vào chỗ đúng với nó.@
+` Lý do tôi được gia đình Arimas nhận nuôi.@
+` Lý do tôi bị tước quyền thừa kế là người con cả.@
+` Không có gì quan trọng.@
+` [line=3]Nói cách khác, tôi, Shiki, chỉ là sự thay thế cho SHIKI kia.
+\
+`"[line=3]Điều này là sao?"@
+` Tôi nguyền rủa bản thân và ném cuốn nhật ký sang một bên.@
+` …… Tôi không cần phải điều tra thêm nữa.@
+` Ở lại đây lâu hơn chỉ là lãng phí thời gian của tôi.
+\
+bg #000000,lcartain,800
+playstop
+!w2000
+bg "bg/bg_40b",crossfade,800
+` [line=3]Ngày kết thúc.@
+br
+` Ngã xuống giường, tôi cứ nghĩ về cùng một điều.@
+` …… Suy nghĩ bình tĩnh, tôi chỉ tìm ra hai điều từ cuốn nhật ký đó.@
+` Tôi không phải là một phần của gia tộc Tohno.@
+` Dòng dõi Nanaya dường như sinh ra nhiều kẻ giết người.
+\
+` Tôi không có mối quan hệ máu với Tohno Makihisa.@
+` Nói cách khác, những giấc mơ về giết người phải là của tôi.@
+` Nếu đó là sự thật, chỉ còn một việc phải làm.@
+br
+` [line=4]Tôi nghe thấy tiếng nói từ sảnh.@
+br
+`"... Tôi tự hỏi Akiha đã trở lại chưa."@
+` Tôi ngồi dậy khỏi giường.@
+` Tôi muốn nghe sự thật từ Akiha.
+\
+bg #000000,lcartain,800
+bg "bg/bg_46b",lcartain,800
+`"[line=5]"@
+` Tôi tập trung can đảm, gõ cửa.@
+`"Akiha, tôi muốn cất tiếng đối thoại."@
+`"Ồ, anh trai? Xin mời vào."@
+` Giọng cô ấy trong sáng và vui vẻ.@
+` Tôi hít một hơi để bình tĩnh lại và mở cửa.
+\
+bg #000000,lshutter,400
+bg "bg/bg_36c",lshutter,400
+ld c,"tachi/aki_t04b",lshutter,400
+`"Thật hiếm khi anh đến phòng tôi như thế này, anh trai ạ."@
+` Giống như buổi sáng nay, Akiha mỉm cười.@
+` Nhìn thấy điều đó, tôi chỉ đứng đó im lặng, muốn quay về.@
+` ... Tôi nghĩ cuối cùng,
+` Tôi nhận ra bản thân mình là Tohno Shiki và chị gái của tôi, Tohno Akiha, rất quan trọng với tôi.@
+br
+` [line=4]Nhưng vẫn còn một điều tôi cần hỏi cô ấy.@
+` Có một câu hỏi mà tôi muốn hỏi Akiha.
+\
+`"[line=4]Akiha"@
+`"Vâng, cậu muốn hỏi gì, anh trai?"@
+` Akiha dường như rất háo hức với cuộc trò chuyện này.@
+cl c,lshutter,400
+`"[line=6](Câu nói không rõ)@
+` Tôi gầm ghè răng, nhìn cô ấy thẳng vào mắt.
+\
+`"Làm ơn kể cho tôi nghe về gia tộc Nanaya. Tôi nghĩ mình có quyền biết."@
+`"[line=8]"@
+` Trong khoảnh khắc ấy, Akiha đóng băng như một con rối mà những sợi dây đã bị cắt đứt.
+\
+play "*8"
+ld c,"tachi/aki_t11b",lshutter,400
+`"[line=7]"@
+` Akiha nhìn tôi im lặng.@
+`"Nếu cậu không trả lời, tôi sẽ đặt lại câu hỏi của mình."@
+` [line=3]Cha tôi, Tohno Makihisa, có hai tính cách, phải không? Và không chỉ ông ấy. Hầu hết các thành viên trong gia tộc Tohno đều mắc một dạng bệnh tật nào đó. ... Tôi từng nghĩ rằng mình cũng vậy.@
+` Nhưng điều đó là sai. Bệnh thiếu máu của tôi xuất phát từ sự kiện tám năm trước. Vì...@
+`"Tôi biết. Bạn được gia đình Tohno nhận nuôi, phải không?"@
+cl c,lshutter,400
+` "Như vậy,"
+` Cô ấy mỉm cười vì một lý do nào đó.
+\
+`"[line=3]Akiha?"@
+` Akiha bước chậm rãi và uyển chuyển đến cửa sổ như thể cô đang diễn một vở kịch.@
+` Rèm cửa phất phới trong gió.@
+` Cô ấy đặt tay lên cửa sổ và quay lại.
+\
+bg "event/aki_e07a",lshutter,400
+`"Anh trai, anh được gia đình Tohno nhận nuôi. Tên thật của anh là Nanaya Shiki."@
+` Như cậu nói, tình trạng sức khỏe của cậu là do tai nạn tám năm trước đó. Bạn dường như đã biết rằng các thành viên trong gia tộc Tohno khác với hầu hết con người.@
+` Akiha nói ngắn gọn điều mà tôi khó lòng hỏi ra.
+\
+`"[line=4]...Akiha.@"@
+`"Đúng rồi. Chỉ là vấn đề thời gian, và tôi không thích che giấu nó. Bây giờ bạn biết rồi, không cần thiết nữa."@
+` "... Không, có lẽ chưa bao giờ có nhu cầu nào. Vậy thì không cần phải chịu đựng mọi thứ này."@
+br
+` "Không đúng à, anh trai?"@
+br
+` Akiha nói điều này với giọng tự tin.
+\
+`"[line=3]Akiha. Như tôi nghĩ, tôi..."@
+`"Đúng vậy. Bạn là người cha nhận nuôi cách đây mười năm, nhưng cậu không nhớ ra."@
+` "Anh/chị có nhớ SHIKI ngày xưa hay chơi với chúng ta không?"@
+`"[line=6]Không, tôi không nhớ."@
+`"Đúng vậy. Vì cha anh/chị đã thôi miên em ấy."
+\
+`"... SHIKI là người không thể chống lại dòng máu Tohno của mình. Anh/chị có thể không nhớ, nhưng vào ngày tám năm trước, em ấy đã bảo vệ tôi khỏi SHIKI. Em ấy hy sinh bản thân để bảo vệ tôi khỏi SHIKI máu lạnh."@
+` "Vì vậy, em ấy đã bị SHIKI giết và SHIKI cũng bị cha giết. Đó là bổn phận của người đứng đầu gia tộc Tohno phải loại bỏ những kẻ không còn là con người nữa."
+\
+`"...? Bị giết? Nhưng tôi vẫn còn sống, phải không?"@
+`"[line=3]Đúng vậy. Bằng một phép màu, em ấy đã sống sót. Em ấy nhớ lại những gì xảy ra sau đó, đúng không? Em ấy được đưa đến bệnh viện và vào ngày trở về, em ấy được gia đình Arima nhận nuôi."@
+` "Đó là lúc cha thôi miên em ấy. Trái tim và tâm trí em ấy chưa hồi phục hoàn toàn nên em ấy rất yếu. Vì vậy, em ấy dễ dàng tin những gì cha nói."
+\
+`"…… Tôi hiểu rồi.@ Vậy thì đủ rồi.@ Nếu cô hiểu, không cần nói thêm nữa.@
+` Tôi không phải là thành viên của gia tộc Tohno, đúng không?@
+` [line=3]Vậy thì, cậu không cần ép mình gọi tôi là anh trai."@
+` Sớm thôi.@
+` Sớm nào, một kẻ ngoài cuộc như tôi sẽ rời khỏi nơi này.
+\
+`"…… Đừng hiểu lầm, anh trai.@
+` Tôi không gọi anh là anh trai vì quy tắc xã hội.@
+` Anh có nhớ không? Ngay cả trước khi bị SHIKI giết, tôi vẫn gọi anh là anh trai.@ Điều đó chẳng liên quan gì đến việc anh được nhận nuôi.@
+` Tôi biết từ rất đầu tiên rằng cậu không phải là anh trai thật sự của tôi.@
+` Và cậu cũng chấp nhận điều đó.@
+` [line=3]Vì vậy, bất kể cậu nghĩ gì, cậu vẫn là Tohno Shiki. Vậy nên hãy ở lại trong lâu đài này nhé.
+\
+` Lời của Akiha khiến tôi vui mừng.@
+` Nhưng, tôi không hiểu.@
+` Tại sao cô ấy chấp nhận tôi, một người ngoài?
+\
+`"[line=3]Tại sao? Tôi chẳng phải là anh trai thật sự của cậu."@
+`"... Thật đáng thương, sau khi tôi đã nói tất cả những điều này, cậu vẫn không hiểu à?"@
+` Bạn là người duy nhất mà tôi gọi là anh trai. Ngay cả khi cậu không muốn, tôi chỉ muốn bạn ở bên cạnh tôi.@
+` Vì, tôi yêu bạn, anh trai.
+\
+wave se_01
+`"[line=6]Hả..."@
+` Akiha nói điều gì đó tịnh không thể tin được.@
+` Tôi vui mừng vì cô ấy thích tôi như một người anh trai.@
+` [line=4]Nhưng, miễn là tình huống này vẫn tồn tại, tôi không thể ở đây.
+\
+`"[line=3]... Không, tôi không phải là kiểu người mà bạn nghĩ. Bạn nhìn thấy SHIKI như một kẻ giết người, nhưng tôi... cũng chỉ là một kẻ giết người giống như anh ấy."@
+`"Kẻ giết người, cậu muốn nói điều gì?"@
+`"………………"@
+br
+` Tôi không thể giữ bí mật này lâu hơn nữa.@
+` [line=4]Mọi việc tôi đã làm cho đến nay - giấc mơ tôi có đêm qua, những vết máu tôi không thể giải thích, và giấc mơ nơi Akiha giết tôi.
+\
+`"…… Tôi không thể tin vào bản thân mình. Tôi nghĩ đó chỉ là giấc mơ."@
+` Nhưng cha tôi viết rằng gia tộc Nanaya là một dòng họ sinh ra những kẻ giết người. Nếu tôi trở thành SHIKI, tôi không biết mình sẽ làm gì với cậu, Akiha.@
+` Tôi nói hết mọi thứ từ tận đáy lòng mình.@
+` Nhưng sau khi ngạc nhiên chớp mắt, cô ấy cố gắng không cười.
+\
+`"Hả, điều gì hài hước vậy? Đây không phải là trò đùa. …… Bạn có thể không tin tôi, nhưng tôi thực sự có những giấc mơ hút máu người……!"@
+` Akiha vẫn đang cười khúc khích.@
+` ... Điều này là gì?@
+` Cô ấy khiến tôi trông ngốc nghếch, lo lắng về mọi thứ này.
+\
+`"Ừm, điều đó thật hài hước. Nhìn xem, cậu không thể là một ma cà rồng được. Bởi vì bạn đến từ gia tộc Nanaya, máu của cậu chỉ là máu người bình thường.@
+` Hơn nữa, những người Nanaya không phải là kẻ giết người.@
+` ... Từ quan điểm của cha tôi, họ có thể là như vậy, nhưng những người Nanaya chỉ cảm thấy xung động sát nhân với những sinh vật phi nhân loại.@
+` Vì vậy, điều mà bạn nhìn thấy chắc chắn chỉ là giấc mơ. Thậm chí cả những giấc mơ đó cũng có thể là SHIKI truyền tải cho cậu, nên không hẳn là cậu muốn nhìn thấy chúng.
+\
+` ... SHIKI truyền tải chúng?@
+` Đến nghĩ lại, cha tôi đã viết một số điều về nó.@
+` SHIKI đã lấy đi một phần cuộc đời của tôi, nên có một mối liên kết giữa chúng ta.
+\
+`"... Tôi hiểu rồi.@ Vậy thì ai đang giết người trên đường phố lúc này?@ Ngay cả khi những gì tôi thấy chỉ là một giấc mơ, vẫn có những nạn nhân xuất hiện trên đường phố trong thực tế[line=3]"@
+br
+` [line=3]Kẻ giết người là thật.@
+` Tôi cảm thấy như đã gặp anh ta trước đây.@
+` Hay đó cũng chỉ là một giấc mơ?@
+` Không, tôi sẽ gác lại điều đó sang một bên.@ Nếu có một kẻ giết người trên đường phố, thì[line=3]
+\
+`"... SHIKI vẫn còn sống...?"@
+`"Ồ?"@
+` Akiha, người vừa còn cười khúc khích, giờ đây trở nên nghiêm túc.
+\
+`"[line=3]Akiha. Trong nhật ký của ông nội tôi, ông viết rằng SHIKI vẫn còn sống. Ý tôi là như thế này."@
+`"Nhật ký của ông nội ư?"@
+` Akiha nghiêng đầu, tò mò.@
+`"Ông nội tôi viết rằng SHIKI và tôi có mối liên kết. Vậy nên những gì tôi nhìn thấy có thể chính là những giấc mơ của ông ấy."@
+` ... Không, có lẽ điều ông ấy thực sự đang làm là thế này.
+\
+`"... Có thể là như vậy. Cái chết của ông nội tôi rất đáng ngờ, và có vẻ như ai đó đang được nuôi dưỡng trong căn phòng ngầm."@
+`"…… Chờ một phút, Akiha. Có phải ở đây có phòng giam ngầm không?"@
+`"Ồ, tất nhiên rồi. Nhiều thành viên trong gia tộc Tohno mất trí, nên việc nhốt họ lại trước khi gây hại cho thế giới bên ngoài là điều tự nhiên, đúng không?"@
+` "À, nhưng đó không phải là mục đích duy nhất của nó. Khi tôi gặp rắc rối, cha tôi sẽ nhốt tôi ở dưới đó."@
+` "Lạ thật, Akiha nghe có vẻ vui vẻ kìa.@
+` "…… Một cơn lạnh chạy dọc sống lưng.
+\
+`"…… Tôi hiểu rồi. Chúng ta ngừng nói về điều này. Nhưng chúng ta vẫn cần làm gì đó về SHIKI."@
+` "Nếu SHIKI thực sự đang lang thang trên đường phố giết người, chúng ta phải ngăn anh ta."@
+`"Đúng vậy sao? Chúng ta thực sự không cần quan tâm đến anh ta, phải không? Công việc của cảnh sát là bắt những kẻ giết người, phải không?"
+\
+`"[line=4][line=3]Akiha, cậu nói gì vậy? Anh ta đang giết người, nhưng anh ta là em trai của cậu. Anh ta phải trả giá cho tội lỗi của mình, nhưng vẫn..."@
+`"... Tốt lắm, anh trai. Cậu thực sự quá tốt bụng."@
+` Sau một hơi thở sâu, cô ấy chải lại mái tóc.
+\
+`"Cậu là người thân duy nhất của tôi. Tôi không quan tâm đến SHIKI, nên cậu không cần lo lắng về anh ta."@
+`"Không, chúng ta không thể chỉ bỏ qua như vậy. Cậu nghĩ cảnh sát có thể bắt anh ta dễ dàng sao? Và trước khi đó, sẽ có nhiều nạn nhân khác!"@
+`"Tôi sẽ không làm gì. Đó không phải là trách nhiệm của chúng ta."@
+` Cô ấy nói thế và nhìn thẳng vào mắt tôi.
+\
+`"Này, đừng nói về những chuyện này nữa. Nói về giết người và kẻ giết người thật nhàm chán, phải không?"@
+`"Điều gì vậy?" [line=5]@
+` Tôi cố gắng nói với cô ấy rằng điều này liên quan đến gia đình chúng ta, nhưng tôi không thể.@
+` "Mắt cô ấy xuyên thấu vào tôi sâu sắc."@
+` Khi cô ấy nhìn chằm chằm vào tôi như vậy, đôi mắt của cô ấy dường như đã hút mất quyết tâm của tôi.
+\
+`"Có vẻ như cậu hiểu rồi. Vậy thì, cậu sẽ quay lại phòng của mình à? Tôi vừa đi học về nên có một số việc cần làm."@
+`"[line=5]"@
+` ... Như Akiha nói, không còn gì để nói thêm nữa.@
+` Nhưng tôi vẫn chưa thuyết phục được, tôi quay lưng lại với cô ấy.
+\
+bg "bg/bg_36c",lshutter,800
+` Tôi định rời khỏi phòng của cô ấy.@
+br
+` [line=4]Và đột nhiên,
+` một giọng nói từ phía sau tôi bảo tôi dừng lại.@
+`"…… Chuyện gì vậy? Chúng ta đã kết thúc cuộc trò chuyện với Akiha rồi phải không?"@
+ld c,"tachi/aki_t01b",lshutter,400
+`"[line=7]" @Akiha nhìn tôi im lặng.@
+` "Anh... em là điều quan trọng nhất đối với tôi. Nếu tôi đã mất đi ký ức về anh trong tám năm qua, tôi sẽ không trở thành người mà tôi là ngày hôm nay."
+\
+`"[line=3]... Vì anh ở đây, tôi mới có thể là chính mình. Anh quan trọng hơn bản thân tôi, nên tôi muốn em thích tôi, luôn như vậy."@
+` Sự chân thành thuần khiết.@
+` Akiha nhìn tôi như thể tôi là điều duy nhất cô thấy.@
+` "Nhưng đó chỉ là một yêu cầu ích kỷ, phải không? Gia đình này và tôi chỉ là gánh nặng cho em."
+\
+`"Vì vậy, tôi luôn sợ rằng em sẽ rời xa tôi.@
+` ... Đó là lý do tôi luôn lo sợ em sẽ bỏ tôi.@
+ld c,"tachi/aki_t09b",crossfade,400
+` "Nhưng đó chỉ là lo lắng của tôi thôi, phải không? Vì cậu đã quay lại đây. Vì cậu quay lại vì tôi."@
+br
+` Cô ấy cười hạnh phúc.@
+` ... Nhìn nụ cười của cô ấy, trái tim tôi như bị đâm đau.
+\
+`"... Đúng vậy. Tôi quay lại vì không thể để cô ấy một mình ở đây. Nhưng giờ, tôi bắt đầu nghĩ mình đã sai."@
+` Tôi quay lại vì muốn bảo vệ cô ấy.@
+` Nhưng, cô ấy sai.@
+` Đôi mắt cô ấy chân thành đến mức tôi không thể nói dối.
+\
+`"[line=3]Nhưng, Akiha. Đó không phải là lý do duy nhất tôi quay lại. Tôi..."@
+br
+` Tôi quay lại vì đứa trẻ mà tôi đã hứa.@
+` Đó là thứ quý giá hơn cả cảm xúc của tôi dành cho Akiha, và tôi không thể nói dối về điều này.
+\
+ld c,"tachi/aki_t06b",crossfade,400
+`"Dừng lại. Tôi không muốn nghe. Bạn đã quay lại, vậy thì được rồi."@
+` [line=3]Vì vậy, bất cứ điều gì khác như tình cảm của cậu, tôi thực sự không cần biết.@
+cl c,lshutter,400
+` Cô ấy quay mặt đi.@
+` [line=3]Akiha nhìn xuống như thế mà không có lý do rõ ràng, trông rất nguy hiểm.
+\
+`"Hãy trở về phòng của cậu. Xin đừng nhìn như vậy trước mặt tôi, anh trai ạ."@
+`"... ..."@
+` Không biết nói gì, tôi lặng lẽ rời khỏi phòng cô ấy.
+\
+bg #000000,lcartain,400
+playstop
+!w2000
+bg "bg/bg_40c",crossfade,400
+` Đêm dần trôi qua, gần như đã nửa đêm.@
+` Đã quá muộn so với giờ ngủ thường của tôi.@
+` Tôi nằm xuống và nhìn lên mặt trăng qua cửa sổ.@
+`"…………@
+` Đêm trôi qua mà tôi không thể ngủ.@
+` Không phải vì tôi sợ thấy một giấc mơ khác về vụ giết người.@
+` Kẻ giết người SHIKI lang thang trên đường phố.@
+` Akiha trông có vẻ nguy hiểm.@
+` Nghĩ về điều đó, tôi không thể ngủ và chỉ nhìn lên mặt trăng.
+\
+`"... Tôi quá khát."@
+` Lần cuối cùng tôi uống gì đó là khoảng bốn giờ trước khi ăn tối.@
+` Tôi không muốn chịu đựng nó, nên tôi đến bếp để lấy thứ gì đó để uống.
+\
+bg #000000,lcartain,800
+bg "bg/bg_35",lcartain,800
+` Tôi uống một cốc nước trong một hơi.@
+` Tại sao nó lại ngon như vậy?@
+`"... Điều này kỳ lạ." Tôi chỉ khát thôi.@
+` Cảm giác chất lỏng chảy xuống cổ họng tôi giống như đêm qua trong giấc mơ của tôi.
+\
+`"Hừm...? Ai đó đang đến."@
+` Tôi có thể nghe thấy những bước chân ngày càng gần hơn.@
+` Những bước chân mềm mại, nhỏ nhẹ hiếm khi vang vọng trong đêm sâu.@
+br
+ld c,"tachi/his_t01",lshutter,800
+`"... cậu Shiki? Cậu làm gì ở đây vào ban đêm thế?"@
+`"Hisui? Tôi chỉ khát nước nên nghĩ rằng mình sẽ lấy chút đồ uống."@
+ld c,"tachi/his_t17",crossfade,400
+`"cậu Shiki. Nếu đó là sự thật, hãy gọi tôi. Vào ban đêm, cậu nên nghỉ ngơi trong phòng của mình. ... Đi lại ở đây vào ban đêm không tốt đâu."@
+` Hisui nói một cách thẳng thắn.
+\
+`"……?"@
+` Có điều gì đó không ổn với lời cô ấy nói.@
+` Khi cô ấy bảo tôi không nên lang thang vào ban đêm, có nghĩa là cô ấy muốn tôi không ra khỏi phòng vào ban đêm.@
+` …… Không, thậm chí còn nhiều hơn thế.@
+` Hisui và Kohaku đã làm việc ở đây từ khi họ còn rất nhỏ.@
+` [line=3]Vì vậy, sẽ không ngạc nhiên nếu họ biết rằng tôi được nhận nuôi.
+\
+play "*1"
+`"…… Hisui. Có điều gì đó tôi muốn hỏi. Được không?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Đúng rồi. Nếu tình huống như thế, thì chúng ta hãy quay lại phòng của cô ấy. Đây không phải là nơi để trò chuyện."@
+`"Không, mọi thứ ổn thôi. Nó chỉ là một chuyện nhỏ mà."@
+`"[line=5]?"@
+` Hisui nghiêng đầu.
+\
+`"... "@
+` Tôi hít một hơi sâu.@
+` Nếu cô ấy không biết, thì hỏi cô ấy sẽ tiết lộ bí mật.@
+` Nhưng tôi chẳng có ý định che giấu điều này đâu.
+\
+`"Tôi sẽ nói ngắn gọn. Bạn có biết tôi là đứa được nhận nuôi không?"@
+`"[line=8]" @
+` Vai cô ấy run rẩy.@
+` ... Điều đó cho thấy cô ấy biết điều đó.
+\
+`"... Tôi hiểu rồi. Nếu cô ấy biết, thì Kohaku-san cũng phải biết mà."@
+` Chuyện gì vậy? Thực ra đây không phải là bí mật gì cả.@
+`"[line=3]cậu Shiki, điều đó là..." @
+ld c,"tachi/his_t17",crossfade,400
+` Cô ấy nói như vậy khi hạ thấp đôi mắt.
+\
+`"... Tôi vô cùng xin lỗi. Ngay cả khi bạn là con nuôi, cũng không có nghi ngờ nào rằng bạn là con trai cả của gia tộc Tohno. tiểu thư Akiha chấp nhận bạn là người thân và bạn là chủ nhân của tôi và chị Kohaku."@
+`"... Cảm ơn. Nếu cậu nói vậy, tôi tin rằng tôi có thể ở lại đây."
+\
+ld c,"tachi/his_t13",crossfade,400
+`"cậu Shiki... Đừng nói những điều như thế. Đây thực sự là ngôi nhà của cậu."@
+`"Tôi biết. Đó cũng là suy nghĩ của tôi. Mặc dù chỉ trong một thời gian ngắn, những gì xảy ra ở đây khi tôi còn nhỏ rất quan trọng với tôi. Tôi không thể bỏ qua nó."@
+ld c,"tachi/his_t04",crossfade,400
+` Hisui trông rõ ràng nhẹ nhõm.
+\
+`"... Nhưng tôi vẫn muốn biết."@
+` "Trước khi tôi đến đây, ừm... đó là Nanaya...? Nếu cậu biết, có thể kể cho tôi biết về loại trẻ em nào tôi từng là?"@
+`"... Tôi xin lỗi. Ngoài việc cậu là con trai cả của dòng họ Nanaya, tôi không biết gì khác. Makihisa-sama đã phá hủy hoàn toàn tất cả hồ sơ."@
+` "... Tôi hiểu rồi. Vậy ra nếu cậu khiến tôi trở thành Tohno Shiki, thì có lẽ những hồ sơ về tôi với danh tính Nanaya Shiki cũng đã bị phá hủy."
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Nhưng cậu Shiki, chị Kohaku có thể biết điều gì đó."@
+`"Hừ...? Hisui, tại sao Kohaku-san lại biết điều gì đó?"@
+`"chị Kohaku đã chăm sóc Makihisa-sama từ khi cô ấy còn nhỏ. Cô ấy có thể biết nhiều hơn về gia tộc Tohno so với ngay cả tiểu thư Akiha."@
+`"...?"
+\
+` (Nhớ lại), Kohaku-san từng nói rằng cô ấy là người hầu của Makihisa.@
+` Tôi nghĩ đó chỉ là việc thỉnh thoảng chăm sóc tình trạng sức khỏe của anh ta. ... Tôi không ngờ cô ấy đã là người hầu của anh ấy từ khi còn rất nhỏ.
+\
+`"... Cô ấy, Kohaku-san? ... Kể từ khi chơi với chúng tôi mỗi ngày, tôi không thể nào tưởng tượng ra cô ấy luôn ở gần cha tôi[line=6]"@
+` ... Thật lòng nói, Hisui có vẻ phù hợp hơn cho vai trò đó.@
+` Akiha và Kohaku-san luôn nhìn xuống tôi từ bên trong biệt thự.
+\
+`"... Có phải vậy? Nhưng điều đó thật lạ. Tại sao cha tôi lại nói với Kohaku-san những điều mà ngay cả Akiha cũng không biết?"@
+`"Không, tôi không nghĩ ông ấy đã kể trực tiếp cho cô ấy. Vì chị Kohaku luôn ở gần phòng của Makihisa-sama trong biệt thự, nên tôi tin rằng cô ấy có nhiều cơ hội nghe lén Makihisa-sama suy nghĩ to nhỏ."@
+`"[line=7]Luôn ở gần cha tôi?"@
+br
+playstop
+` Nhưng...@
+` [line=3]Nhưng đó là điều mà Hisui, người luôn ở lại biệt thự, đã làm.
+\
+`"Chờ đã. Kohaku-san lúc nào cũng ở bên cha tôi khi còn nhỏ à?@
+ld c,"tachi/his_t25",crossfade,400
+`"[line=4]Ừm..."@
+ld c,"tachi/his_t26",crossfade,400
+` Hisui nhìn xuống.@
+br
+` [line=3]Có vẻ như một điều gì đó vừa xảy ra sai.@
+br
+` Cảm giác bất nhất trở lại và mọi thứ rơi vào vị trí ban đầu.
+\
+` Kohaku-san biết về lời hứa mà chỉ Hisui mới được biết.@
+` Hisui đã quên lời hứa được làm tám năm trước.@
+` Nhưng có thể...
+` Tôi chỉ đơn giản đảo ngược vai trò trong ký ức của mình.@
+` [line=4]Nếu điều đó là sự thật thì...
+\
+`"…… Hisui. Tôi sẽ hỏi một lần nữa, nhưng cậu có nhớ khoảng tám năm trước không?"@
+ld c,"tachi/his_t17",crossfade,400
+`"[line=3]Đúng rồi. Về việc tôi đã tặng bạn chiếc băng đó, phải không?"@
+`"…… Đúng vậy. Sau khi tôi rời phòng của mình, cậu đã chặn tôi lại ở cửa và tặng tôi một chiếc nơ. Cậu có nhớ màu sắc của nó không?"@
+`"Nó là màu trắng, nhưng điều đó có quan trọng gì?"@
+br
+` Câu trả lời của cô ấy hoàn toàn hợp lý.@
+` Nhưng, cô ấy đã sai rồi.@
+`"[line=6]"@
+` Một âm thanh vang lên.@
+` Tôi cảm thấy sức lực rời khỏi đôi chân và tôi ngã xuống ghế.
+\
+play "*9"
+`"[line=5][line=2]Làm sao lại thế này?"@
+` Làm sao tôi có thể sai lầm đến vậy cho đến giờ?@
+ld c,"tachi/his_t23",crossfade,400
+`"cậu Shiki……?"@
+`"[line=3]Sai rồi, Hisui. Tôi được trao dải ruy băng dưới cây trong vườn. Không phải gần cổng."@
+`"[line=9]"@
+` Hisui hít một hơi sâu và rơi vào sự im lặng.
+\
+cl c,lshutter,400
+`"[line=4]Tại sao lại thế?"@
+` Tôi không hiểu.@
+` Tại sao Kohaku-san lại cố lừa tôi?@
+` [line=3]Tại sao cô ấy không chỉ nói với tôi rằng chính cô ấy là người tôi đã hứa hẹn?
+\
+ld c,"tachi/his_t26",lshutter,400
+`"[line=3]cậu Shiki, xin đừng nói với chị Kohaku về chuyện này. Nếu cô ấy biết được, sẽ không còn nơi nào để cô ấy đi."@
+` Bất ngờ,
+` Hisui nói như vậy.
+\
+`"Nếu cô ấy biết rằng tôi đã biết hai người đổi chỗ?"@
+` Cô ấy gật đầu lặng lẽ.
+\
+`"[line=3]... Rồi bạn là người chơi cùng chúng tôi, và Kohaku-san là người ở trong biệt thự, đúng không?"@
+` Cô ấy gật đầu im lặng.
+\
+`"Tại sao...? Tại sao cậu lại hành động như đã đổi chỗ với ai đó? Không có ý nghĩa gì. Hay các bạn chỉ đang đùa với tôi?"@
+ld c,"tachi/his_t21b",lshutter,400
+`"Không có ý định lừa gạt bạn, cậu Shiki. Chúng tôi cũng không thể giải thích đầy đủ cho chính mình về chuyện này đã xảy ra thế nào."
+\
+`"... Nó bắt đầu từ tám năm trước. Sau khi bạn được gia đình Arima nhận nuôi, tôi nghĩ bản thân tôi trở nên bình tĩnh hơn trước."@
+` chị Kohaku cố gắng làm tôi vui lên bằng cách tỏ ra rất hạnh phúc, và sau đó, chúng tôi dần đổi chỗ với nhau."@
+`"Nhưng tại sao... tại sao chuyện này lại xảy ra...? Hisui... bạn luôn tràn đầy năng lượng."@
+`"... Đó không phải là sự thật. Tôi vốn dĩ không hoạt bát. Nhưng khi bạn ở đó, tôi cố gắng theo kịp bạn hết sức có thể."@
+`"[line=10]"
+\
+bg #000000,crossfade,800
+bg "event/his_e01b",crossfade,800
+` "Tôi nhớ... Cô bé ấy luôn vui vẻ, luôn mỉm cười."@
+` "Người có tinh thần tự do nhất, người luôn lo lắng cho chúng tôi, người chịu đựng nhiều nhất, người hành xử giống Kohaku-san nếu cô ấy trẻ hơn."@
+` "... Thật sao? Tôi nghĩ bạn vẫn sẽ lạc quan ngay cả khi tôi không có ở đó. Đó là tính cách của cậu. Hãy tin tôi, vì tôi, người theo sau bạn, đang nói điều này."
+\
+bg #000000,crossfade,800
+bg "bg/bg_35",crossfade,400
+`"... Vâng. Những ngày đó rất vui vẻ. Tôi nghĩ đó là hai năm tốt nhất trong cuộc đời tôi."@
+ld c,"tachi/his_t04",crossfade,400
+`"Nhưng mọi thứ đã vỡ vụn sau khi bạn rời đi, cậu Shiki."
+\
+ld c,"tachi/his_t21b",crossfade,400
+`"tiểu thư Akiha bắt đầu ghét Makihisa-sama, và Makihisa-sama trở nên nghiêm khắc với chị Kohaku."@
+` "@
+` Những ngày hạnh phúc đã qua rồi. Tôi dần trở nên im lặng và thậm chí không thể làm việc nữa.
+\
+`"chị Kohaku đã tiếp quản thay cho tôi.@
+` Tôi mỉm cười như xưa, chạy nhảy như xưa. Sau đó, tôi đảm nhận vai trò cũ của chị Kohaku.@
+` ... Điều đó dễ dàng nhất với tôi. Đồng thời, nó cũng thực hiện ước nguyện duy nhất của chị Kohaku.
+\
+`"...... Ước muốn của Kohaku-san......?"@
+` Tôi không hiểu những gì cô ấy nói.@
+` Chỉ có điều Hisui thực sự quan tâm đến Kohaku-san.@
+` Đó là điều duy nhất tôi cảm nhận được.
+\
+`"Hisui. Chị ấy muốn nói điều gì bằng lời chúc nguyện của mình?"@
+ld c,"tachi/his_t17",crossfade,400
+`"... Chị luôn muốn trở thành giống em. Nhưng vì em, chị đã kìm nén."@
+` Tôi nghĩ đó chỉ là một hành động giả tạo để thay thế em.@
+` Chị giả vờ làm em và dập tắt ý chí của chính mình. Chị chỉ là một con búp bê chỉ biết đóng vai 'Hisui trong quá khứ'.
+\
+ld c,"tachi/his_t26",crossfade,400
+`"... Tôi sợ chị như vậy. Chị đã mất bản sắc và tôi nhận ra chị chỉ đang sống bằng cách hóa thân vào ai đó."@
+` ... Tôi nghĩ rằng nếu tôi quay lại thành con người cũ, chị sẽ trở về với bản chất thật của mình.@
+` "... Chị nói điều này khi chúng ta lần đầu tiên đổi chỗ."
+\
+bg #000000,crossfade,800
+bg "event/his_e02b",crossfade,800
+br
+br
+br
+br
+` Đừng lo, Hisui-chan.@
+` Cho đến khi cậu lại trở nên vui vẻ, tôi sẽ thay thế cậu.@
+` Nên dù vào lúc nào, khi cậu lại vui vẻ, tôi sẽ trả lại cho cậu vai trò của mình.
+\
+bg #000000,crossfade,800
+bg "bg/bg_35",crossfade,400
+ld c,"tachi/his_t17",crossfade,400
+`"[line=4]Tôi sợ những lời đó và nghĩ rằng tôi phải ngay lập tức quay về với bản thân mình.@
+` …… Nhưng sau đó, vô tình, tôi thấy cô ấy dạo bước hạnh phúc trong khu vườn.@
+ld c,"tachi/his_t21b",crossfade,400
+` “chị Kohaku thực sự trông rất vui vẻ.” …… Tôi không biết lúc đó mình trông ra sao, nhưng cô ấy thực sự rất vui. Và tất cả những gì cô ấy làm là đi dạo một mình."
+\
+`"chị Kohaku chỉ đang giả vờ là 'Hisui'. Ngay cả vậy, cô ấy vẫn trông rất hạnh phúc.@
+` Vì vậy[line=3]chị Kohaku không hề hay biết, nhưng tôi hiểu rằng chị Kohaku luôn muốn trở thành như vậy.@
+` Tôi chỉ không thể phá hủy điều đó."@
+cl c,crossfade,400
+` Hisui kìm nén nỗi buồn, im lặng cắn môi để không khóc.
+\
+ld c,"tachi/his_t17",lshutter,400
+`"cậu Shiki, xin hãy để em ấy ở lại như thế này. Nếu không, cô ấy sẽ mất đi chỗ đứng của mình."@
+` Tôi chỉ có thể gật đầu đồng ý với những lời đó.@
+` Nhưng đó chắc chắn không phải là lựa chọn đúng đắn.@
+` Kohaku-san phải giả vờ là Hisui từ quá khứ, và Hisui cũng phải đóng vai Kohaku-san từ quá khứ để bảo vệ điều đó.
+\
+` [line=3]Hisui đã quan sát Kohaku-san, người chỉ biết sống trong dối trá, nhưng vẫn nói rằng cô ấy sẽ ở bên cô ấy.@
+` [line=3]Điều đó chắc chắn rất khó khăn.
+\
+ld c,"tachi/his_t13",crossfade,400
+`"cậu Shiki. Xin hứa với tôi rằng cậu không nói gì với chị Kohaku."@
+`"... Được rồi. Nhưng Hisui, cậu có ổn với điều này không?"@
+`"... ..."@
+` Hisui không trả lời.@
+` ... Đầy những mâu thuẫn, tôi đứng dậy khỏi ghế.@
+` Tôi chỉ có thể để lại Hisui đang buồn bã trong bếp.
+\
+bg #000000,crossfade,800
+playstop
+bg "bg/bg_33d",lcartain,800
+`"[line=7]?"@
+` Khi quay về phòng, tôi nhận thấy cánh cửa mở.@
+`"…… Có ai đó đã ra ngoài à?"@
+` …… Hisui vẫn còn ở bếp chắc.@
+` Điều đó có nghĩa là Kohaku-san hoặc Akiha.
+\
+`"………………"@
+` Thật lòng nói, tôi muốn ngủ.@
+` Cơ thể và trái tim tôi mệt mỏi; tôi cảm thấy như thể mình sẽ ngất nếu không ngủ.@
+` Chỉ đêm nay. Tôi cảm thấy như thể nếu không ngủ, tôi sẽ vỡ vụn.@
+` Tôi nên [line=4]
+\

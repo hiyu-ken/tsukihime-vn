@@ -1,0 +1,384 @@
+playstop
+waveloop se_02
+bg "event/aki_e05a",notrans,0
+` *Hít thở gấp gáp* *Hít thở gấp gáp* *Hít thở gấp gáp*
+br
+` Tôi không thể thở đúng cách.@
+` Mắt của người cố vấn thậm chí còn không tỏ ra quan tâm đến cái chết của tôi.@
+` Con dao của cô ấy đang ngăm thẳng vào ngay trước tim tôi.@
+` Một tình huống mà tôi chỉ cách một giây nữa là bị giết.
+\
+`"Đó là kỳ lạ.@ Bạn đã giết rất nhiều người, vậy mà bạn lại sợ chết."@
+`"[line=8]"@
+` Hơi thở của cô ấy thổi vào mắt tôi.@
+` Lời nói của cô ấy khiến tôi choáng váng.
+\
+bg "event/aki_e05b",crossfade,400
+`"Tạm biệt. Nếu cậu không làm, Tohno-kun, tôi sẽ phải tự mình làm."@
+` Nói vậy mà,
+` Cô ấy siết chặt tay lại.@
+`"[line=9]"@
+` Đây là kết thúc.@
+` Tohno Shiki chết ở đây.@
+` Nếu tôi không muốn như thế.@
+` [line=3]Tôi phải đâm nhanh hơn cô ấy bằng con dao này!
+\
+wavestop
+bg #ffffff,notrans,0
+`"[line=4]Cảm giác sức mạnh lan tỏa khắp đầu ngón tay tôi."@
+` "Nhưng đó là tất cả những gì tôi có."@
+` "Cánh tay tôi hoàn toàn bất động."@
+` "Không một chút chuyển động nào."@
+` Tôi không muốn chết. Không phải vì tôi sẵn sàng hy sinh kể từ khi tôi là một kẻ giết người.@
+` Nhưng nếu tôi không giết Ciel-senpai, tôi sẽ bị giết.@
+` Vì vậy, lúc này, tôi hiểu rằng ngay cả khi tôi không muốn giết ai, tôi vẫn phải làm điều đó.@
+br
+` Tại sao?@
+` Tại sao cánh tay tôi lại không thể di chuyển[line=4]
+\
+play "*7"
+bg #000000,crossfade,400
+monocro #ffff00
+bg "event/stk_e01c",crossfade,400
+!w2000
+br
+` Bất ngờ.
+\
+br
+br
+br
+br
+br
+br
+` Tôi muốn nói chuyện thêm với bạn, Tohno-kun.@
+` Đó là lý do tại sao tôi thực sự không muốn chết lúc này.
+\
+br
+br
+br
+` Những lời đó.
+\
+br
+br
+br
+br
+br
+` Nhưng đây chắc chắn là cách tốt nhất.@
+` [line=3]Nên đừng khóc, Tohno-kun. Cậu đã làm đúng.
+\
+br
+br
+br
+br
+br
+` Chúng ép mình vào trí nhớ của tôi.
+\
+br
+br
+br
+br
+br
+br
+` Vâng, tạm biệt, Tohno-kun.@
+` [line=3]Cảm ơn và xin lỗi.
+\
+bg #000000,crossfade,400
+monocro off
+br
+br
+br
+br
+` [line=5]Vâng.@
+br
+` Tôi hiểu rồi.
+\
+bg "event/aki_e05b",crossfade,1500
+`"Tại sao cậu không chống cự?"@
+` Tôi nghe thấy giọng của Senpai.@
+` Con dao vẫn cắm vào ngực tôi; nó xé rách quần áo và cào vào da thịt.
+\
+`"Như thế này, cậu sẽ chết. Vì sao? Tại sao cậu không di chuyển con dao?"@
+br
+` Đó là bởi vì...@
+br
+`"... Tôi không thể."
+\
+br
+`"Tại sao không? Ngay cả khi cậu đã giết nhiều người cho đến nay?"@
+br
+` Không bao giờ nữa.@
+br
+`"…… Tôi không thể làm điều đó."
+\
+`"Anh vừa giết xác đó. Sau khi đã làm một lần, lần thứ hai hay thứ ba cũng chẳng thay đổi gì. Nếu anh không làm, tôi sẽ giết anh."@
+` …… Cô ấy nghiêm túc.@
+` Trong giây tiếp theo, kẻ giết người Tohno Shiki chắc chắn sẽ bị giết.@
+` Không phải tôi không sợ.@
+br
+` [line=3]Vâng, nhưng vẫn...
+\
+br
+br
+br
+br
+br
+br
+br
+`"[line=3]Tôi không thể... giết ai đó"
+\
+` Khi tôi nói, nước mắt chảy xuống.@
+` Không có gì buồn hay ai đó không hạnh phúc.@
+` Nhưng những giọt nước mắt chảy xuống má tôi không ngừng lại.
+\
+bg #ffffff,crossfade,800
+!w1000
+playstop
+bg "bg/bg_10f",crossfade,800
+play "*8"
+` Đã trôi qua bao lâu rồi?@
+` Tâm trí tôi, đã rơi vào trạng thái ngây dại...
+`"[line=3]Thở dài.@ Cậu cuối cùng cũng hiểu, Tohno-kun."@
+` ...lại trở về với lời của Senpai.
+\
+`"Ồ [line=3]Sen, pai…?"@
+ld c,"tachi/cel_t14",crossfade,400
+`"Xem này, cậu hài lòng không?@ Cậu không phải là kẻ giết người.@ Những lời đó là sự thật."@
+` "Vậy nên, tất cả chỉ là một giấc mơ thôi. Tohno-kun là Tohno-kun. Rất dịu dàng, suy tư và nhạy cảm đến mức khóc vì điều gì đó như thế này. Chỉ là cậu bé bình thường, hàng ngày mà tôi luôn khao khát."@
+br
+` Khi nói vậy, Senpai bỏ dao xuống.@
+` Giọng nói đáng sợ của cô ấy biến mất, và Senpai trở lại bản thân dịu dàng quen thuộc.
+\
+`"Tại sao...? Cậu không đến đây để giết tôi, Senpai...?"@
+ld c,"tachi/cel_t07d",crossfade,400
+`"Đúng rồi, tôi đến đây để giết đi sự tự hận trong trái tim cậu. Cậu không phải là kẻ giết người. Nhưng vì dường như cậu sẽ không tin rằng tôi nói dù tôi giải thích bao nhiêu, nên tôi buộc phải thuyết phục cậu bằng một cách cấp thể hơn."@
+`"[line=3]Thuyết phục tôi về mặt thể chất? Vậy thì...!?"
+\
+ld c,"tachi/cel_t14b",crossfade,400
+`"Không, tôi nghiêm túc. Tôi không thể hoàn toàn loại trừ khả năng cậu là kẻ giết người, Tohno-kun. Vì vậy tôi không thể kiềm chế được. Hơn nữa, nó thú vị hơn nhiều khi hết mình.@
+` Biết đâu như thế cậu sẽ thích nhạo báng ai đó mà cậu thích."@
+` Senpai nói điều gì đó rất đáng sợ với nụ cười trên môi.
+\
+`"[line=3]Ha"@
+br
+` [line=3]Và sau đó, tôi gục xuống.@
+` Tất cả những điều tôi đã suy nghĩ cho đến giờ dường như thật ngớ ngẩn.@
+`"[line=3]Haha, ha"@
+` Vì một lý do nào đó, nó lại khiến tôi thấy vui và tôi cười.@
+` Khi Senpai nói vậy, nỗi sợ rằng tôi có thể là một kẻ giết người trong tôi đã tan biến.
+\
+`"... Đúng rồi. Bạn nói đúng. Tôi cảm thấy như cuối cùng tôi cũng hiểu rồi. Nhưng điều đó thật khủng khiếp, Senpai. Bạn đã đi quá xa hôm nay."@
+ld c,"tachi/cel_t14",crossfade,400
+`"Có. Tôi đã giữ nhẹ nhàng với cậu cho đến giờ, nên tôi bù đắp điều đó nữa."@
+` Nụ cười, Senpai dui tay ra.@
+` Tôi nắm lấy.@
+` Với một tiếng rên, Senpai kéo tôi dậy.
+\
+bg #000000,tcartain,800
+!w500
+bg "bg/bg_02a",bcartain,400
+` Chúng ta rời tòa nhà ra sân trường.@
+` Senpai đã chữa lành những vết thương mà cô ấy gây ra. Bằng một thủ thuật nào đó, các vết thương đã đóng lại sau khi Senpai bôi thứ gì giống thuốc lên và đặt tay lên đó.
+\
+ld c,"tachi/cel_t14",crossfade,400
+`"Vậy thì, tôi hứa sẽ kể cho cậu biết điều tôi biết. Cậu muốn nghe gì, Tohno-kun?"@
+`"[line=3]À thì, điều đó rõ ràng rồi. Tôi muốn biết mọi thứ về những giấc mơ của mình. Tại sao tôi lại mơ thấy giết người... chính xác là ai... có rất nhiều điều tôi không hiểu."@
+ld c,"tachi/cel_t07c",crossfade,400
+`"À, tôi hiểu rồi. Vậy thì hãy bắt đầu với những giấc mơ của cậu, Tohno-kun.
+\
+`"Để nói ngắn gọn, tôi không nghĩ giấc mơ mà cậu thấy là giấc mơ của chính cậu.@
+` Cậu nói rằng cậu mơ về việc giết người, nhưng có lẽ giấc mơ giống như đang quan sát ai đó giết người khác hơn?@
+`"... Đúng vậy. Cậu nghĩ mình sẽ giết người trong giấc mơ nếu cậu có thể kiểm soát bản thân à?"
+\
+`"Xem ra, đó chính là điểm tôi muốn nói. Khi ngủ, cậu bước vào tâm trí của kẻ giết người. Không đúng là bước vào hoàn toàn mà giống như bị kéo vào hơn.@
+` Vì vậy, dù quan điểm của cậu là của kẻ giết người, cậu có cảm thấy mình đang quan sát mọi thứ từ xa không?"@
+`"...@
+` [line=3]Đúng thế."@
+` Ngay cả khi tôi đã có những giấc mơ về giết người trong một thời gian dài, chúng đều cảm thấy như thể tôi đang xem một "cảnh".
+\
+`"Nhưng, tại sao tâm trí tôi và tâm trí của kẻ giết người lại hòa hợp?@ Phải có lý do nào đó, phải không?"@
+`"... Có một lý do rất rõ ràng.@ Nhưng hãy tạm gác nó sang một bên trong lúc này.@ Đầu tiên, chúng ta cần thảo luận về điều bạn gọi là 'kẻ giết người'."
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"Chắc chắn rồi, có một kẻ giết người.@ Nhưng đặc điểm của nó giống như một ma cà rồng hơn."@
+`"... Điều đó hợp lý.@ Chắc chắn, bạn có thể gọi một kẻ như vậy là ma cà rồng."@
+` Tôi nhớ lại cảnh trong giấc mơ của mình.@
+` Người đó, khi tận hưởng việc giết người, đã ăn thịt và máu của họ.
+\
+`"Đúng vậy.@ Tôi là người đến thị trấn này để đối phó với ma cà rồng đó.@
+` Mặc dù tôi không thể tiết lộ chi tiết, thế giới này có nhiều cơ chế phòng thủ. Giống như có cảnh sát xử lý những kẻ vi phạm pháp luật, cũng có nhiều tổ chức đối phó với những dị giáo giả bất nhân.@
+` Hãy xem tôi như một thành viên của loại tổ chức đó.
+\
+`"Xử lý ma cà rồng?"@
+ld c,"tachi/cel_t07c",crossfade,400
+`"Đúng vậy. Đó là sinh vật hút máu sống để duy trì xác thịt của chính nó. Một cuộc sống ngừng lại để làm điều đó nhằm có sự bất tử."@
+` Vai trò của tôi là xóa sổ những dị giáo giả như thế.@
+` Đó là lý do tôi chiến đấu với ma cà rồng mỗi đêm trong giấc mơ của bạn.@
+`"[line=6]@
+` Không có gì để nói.@
+` Thật ra, tôi chẳng hiểu chút nào về thế giới mà cô ấy đang nói đến.
+\
+`"... Hừ? Cô đã chiến đấu với ma cà rồng vài lần rồi à?"@
+`"Hai lần rồi. Lần đầu nó trốn thoát, và lần thứ hai, cuộc gặp gỡ của chúng ta khá đau đớn."@
+`"Đúng vậy? Vậy cô đã thấy mặt hắn rồi, phải không? Vậy sao cô lại ngay lập tức không nhận ra tôi không phải là ma cà rồng?"@
+`"Không. Thật đáng tiếc, tôi không thể chắc chắn được. Vì một số ma cà rồng có thể thay đổi hình dạng tự do, nên bạn không thể dựa vào ngoại hình để nhận diện chúng."@
+`"... Thật sao? Vậy thì vấn đề lớn rồi."
+\
+`"Nhưng giờ thì rõ ràng rồi. Chúng ta đã lảng tránh chủ đề, nhưng ma cà rồng này chính là kẻ giết người hàng loạt phải không?"@
+ld c,"tachi/cel_t06c",crossfade,400
+`"Đúng vậy. Những thi thể được báo cáo là nạn nhân của kẻ giết người hàng loạt chỉ là thức ăn thừa."@
+` "Thông thường, xác thịt sẽ bị tiêu hóa hoàn toàn, hoặc máu được hút khô và họ cũng trở thành ma cà rồng, nên không nên để lại thi thể nào."@
+`"... Đợi đã. Nếu những người có máu bị hút sẽ biến thành ma cà rồng, vậy họ có bắt đầu nhân giống không?"
+\
+`"Không, có giới hạn đối với những người bị giết bằng cách hút máu nhưng 'vẫn tồn tại' mà không chết. Hầu hết con người không thể tách rời linh hồn khỏi cơ thể, nên linh hồn chết cùng với cái chết của cơ thể."@
+` "Có lẽ chỉ một trong hàng trăm người mới có thể 'tồn tại' mà không chết."@
+` "... Giống như Yumizuka Satsuki đã làm."@
+`"[line=3]Senpai, cậu biết về Yumizuka sao?"@
+ld c,"tachi/cel_t07c",crossfade,400
+`"Không. Khi tôi đến đó, cậu đã phá hủy cô ấy rồi."@
+` "... Tôi xin lỗi. Lúc đó, ngay cả khi tôi biết cậu đang đau khổ, tôi cũng không thể giúp cậu."
+\
+`"[line=4]Không, mọi thứ đều ổn. Tôi muốn tin rằng những gì xảy ra với Yumizuka là điều tốt nhất. Nhưng giờ tôi hiểu rồi. Yumizuka không phải là một ma cà rồng từ đầu. Cô ấy bị một ma cà rồng tấn công, và kết quả như thế này."@
+` "[line=3]Đúng vậy. Nhưng tôi không nghĩ có ai khác giống Yumizuka-san. Để trở thành một ma cà rồng hoạt động, cần nhiều năm. Nếu Yumizuka Satsuki có thể hoạt động ngay lập tức, cô ấy chắc chắn có một khái niệm tâm linh đáng kinh ngạc."@
+`"Ồ...? Khái niệm tâm linh? Chuyện đó là gì vậy?"@
+` "Nó liên quan đến phạm vi chức năng của não, được xác định khi một người còn là phôi thai - hoặc ít nhất là theo những gì tôi nghe nói. Giống như việc bạn sử dụng khả năng của mình, nó khai thác một phần não mà hầu hết mọi người không bao giờ dùng."@
+` "Với Yumizuka Satsuki cũng vậy. Cô ấy tự nhiên rất 'phù hợp'. Vì vậy, thay vì bị kiểm soát bởi ma cà rồng cha mẹ mình, cô ấy trở thành một ma cà rồng có thể hành động độc lập."
+\
+`"Ừm...? Điều đó có nghĩa là gì?"@
+`"[line=3]Nó đề cập đến phần não mà mọi người không sử dụng - một chức năng tiềm ẩn. Giống như việc bạn thức tỉnh một phần não bị lãng quên, điều này cho phép Yumizuka Satsuki trở thành một ma cà rồng."@
+` "Vậy nên, cô ấy đã tự nhiên trở nên phù hợp với vai trò của một ma cà rồng. Không cần phải tuân theo lệnh của cha mẹ mình, cô ấy có thể hành động theo ý muốn."@
+br
+` Tôi không hiểu lời giải thích của Senpai.@
+` Nhưng, một điều nào đó lóe lên trong đầu tôi.
+\
+`"Senpai, bạn nhắc đến khả năng của tôi... vậy nên bạn biết về đôi mắt của tôi...?"@
+ld c,"tachi/cel_t14",crossfade,400
+`"Đôi mắt? Không, tôi không biết loại mắt nào mà cậu có, Tohno-kun, nhưng tôi biết rằng cậu sở hữu một khả năng độc nhất."@
+` Máu của Tohno-kun rất đặc biệt. Không phải là một kỹ năng được rèn luyện như của tôi, mà là điều mà cậu sinh ra đã có.@
+` Những thứ đó được gọi là 'sức mạnh siêu nhiên'. Hầu hết mọi người chỉ mở một kênh trong tâm trí, nhưng cậu có một kênh khác mở mà chúng tôi không thể nhìn thấy, đúng không?
+\
+`"... Máu đặc biệt... bạn muốn nói đến dòng máu của gia tộc Tohno...?"@
+`"Đúng vậy, dòng dõi Tohno rất cổ xưa.@
+` Nhưng khi nhìn vào lịch sử gia tộc Tohno, ta thấy khả năng của các thành viên đa dạng. Như những người có thể nhận được cảm hứng thần thánh, những kẻ không giữ được hình dạng con người và trở thành sát thủ, hoặc những ai chưa bao giờ tỉnh thức với sức mạnh của mình.@
+` ... Khi thời gian trôi qua, dòng máu này ngày càng loãng, có lẽ hầu hết các khả năng này đã không còn xuất hiện nữa.
+\
+`"[line=4]"@
+` Tôi kinh ngạc.@
+` Nếu những gì Senpai nói là sự thật, thì không chỉ tôi, Akiha cũng sẽ có thứ gì đó "lỗi" giống như đôi mắt của tôi...?
+\
+ld c,"tachi/cel_t07c",crossfade,400
+`"Tôi có nên tiếp tục không?"@
+` Tohno-kun, cậu đã hỏi trước đó. Tại sao các giác quan của cậu lại hòa lẫn với những giác quan của ma cà rồng?@
+`"À... à, đúng rồi, tôi đã..."@
+`"Tôi nghĩ điều đó cũng liên quan đến khả năng của cậu.@
+` Não bộ của cậu có đường dẫn lớn hơn so với người khác.@ Vì vậy, khi cậu ngủ và nhận thức về bản thân mờ đi, tâm trí cậu bị thu hút bởi một ma cà rồng có não bộ dễ kết nối với cậu."
+\
+`"Hừ...?@ Senpai, ý cậu là não bộ dễ kết nối sao?@ Cậu không có nghĩa là chúng được tạo ra tương tự, phải không?"@
+`"Không, đó chính xác là điều tôi muốn nói.@
+` Cậu có bao giờ nghe về việc song sinh chia sẻ kinh nghiệm không?"@
+`"Song sinh chia sẻ kinh nghiệm...?"@
+`"Ví dụ, nếu anh trai bị thương, em trai ở cách xa hàng dặm cũng cảm nhận được nỗi đau tương tự.@ Tôi nghĩ giấc mơ của cậu giống như vậy.
+\
+`"Về cơ bản, song sinh cùng trứng là hai con người được sinh ra từ cùng một bộ gen."@
+` Họ là những bộ phận cơ thể được tạo ra từ cùng một chỉ dẫn, nên không phải là không thể để nỗi đau được cảm nhận bởi một não bộ truyền đến não bộ khác.
+\
+`"Não bộ là cơ quan quản lý việc tiếp nhận và truyền tải. Vì mỗi não bộ của mỗi người đều được tạo ra từ bản vẽ khác nhau, nên chúng ta phải giao tiếp cảm xúc thông qua ngôn ngữ. Nhưng nếu hai não bộ hoàn toàn giống nhau, tư duy sẽ được truyền tải mà không cần đến ngôn ngữ.@
+` Với cách nói theo thuật ngữ trước đó, vì kênh não bộ hoạt động trên cùng tần số, tín hiệu điện được nhận lấy.@
+` Vì não bộ của bạn vượt trội hơn những người khác, nên bạn kết nối với những cơ thể gần gũi với bạn.
+\
+`"... Không thể đâu. Tôi không có anh em song sinh."@
+`"Tôi biết rồi. Nhưng trong trường hợp của bạn, không cần phải là song sinh."@
+` Không giống như bạn hòa nhập với họ, mà hơn nữa, bạn có những não bộ tương tự. Vì não bộ của bạn có nhiều kênh, nên không cần bạn phải là đôi song sinh hoàn hảo.@
+` Chỉ đơn giản là cùng nguồn gốc, cơ thể tương tự... có lẽ đó là tất cả những gì cần thiết để bạn bị thu hút vào.@
+` Có thể là một người anh chị cùng cha mẹ... Dĩ nhiên, có thể làm ngoại lệ trong trường hợp ghép tạng; 'cơ thể' có thể tác động lên tâm trí bạn trong trường hợp này.
+\
+cl a,crossfade,400
+` [line=3]Có thể xảy ra với bất kỳ ai có quan hệ máu...?@
+` [line=3]Điều đó không thể nào!@
+` Akiha là người thân duy nhất còn lại của tôi bây giờ.@
+` Chỉ có Akiha.@
+` Có... không ai khác ngoài Akiha?
+\
+`"[line=4]Không thể đâu. Điều đó... điều đó sai lầm.@
+` ... Senpai không trả lời.@
+` Trong tâm trí tôi,
+` Tôi nhìn thấy hình bóng Akiha, đang uống máu của Kohaku-san.@
+`"Không thể nào. Tôi biết điều này, đó không phải là giấc mơ. Tôi là người đã giết người và uống máu họ."@
+` [line=4]Bởi vì, nếu tôi không...@
+` Tất cả khi ghép lại với nhau, nó trở nên hợp lý.
+\
+ld c,"tachi/cel_t07c",crossfade,400
+`"... Ban đầu tôi nghi ngờ bạn. Nhưng sau khi gặp bạn, tôi quyết định bạn không phải là kẻ đó."@
+` Có thể tôi chỉ đang lừa dối bản thân thôi. Vì vậy, đêm nay là một cuộc đánh cược với tôi.@
+` Nếu bạn đã giết tôi mà không do dự, tôi sẽ biết bạn là một ma cà rồng... Nhưng cuối cùng, bạn không phải như vậy.
+\
+`"[line=3][line=3]Không. Đó chỉ là..."@
+`"Tohno-kun. Tất cả những người trong gia tộc Tohno đều có một thứ gì đó 'không phải của con người' trộn lẫn trong máu họ. Mặc dù một số người hoàn toàn vô hại, nhưng thường chỉ có một người như vậy trong mỗi thế hệ."@
+` "Trong quá khứ, có rất nhiều thành viên trong gia tộc Tohno uống máu."@
+` "[line=4]Nhưng bạn không cần phải uống máu của người khác hay có ham muốn nào cả. Vì vậy..."@
+`"[line=3]Làm sao cậu biết điều đó, Senpai?"@
+`"...Tohno-kun, gia tộc Tohno có khả năng sinh ra một ma cà rồng. Nếu cậu không phải là người đó, thì...""
+\
+`"[line=7]Không! Tôi lắc đầu tuyệt vọng."@
+` "Tôi từ chối tin vào điều đó."@
+br
+` [line=3]Tôi không chấp nhận lời của Senpai.@
+`  Tôi không thể chấp nhận chúng.@
+br
+` ... Nhưng tôi nhớ ra.@
+` Trong tòa nhà bị bỏ hoang, khuôn mặt của Tohno Akiha đang uống máu Kohaku-san.
+\
+`"... Không phải là Akiha. Người có sức mạnh kỳ lạ... là tôi."@
+`"[line=2]Có thể cậu đúng. Chỉ bằng cái nhìn, Akiha-san dường như chưa thức tỉnh sức mạnh của mình. Cô ấy chắc chắn bị nhiễm nó, nhưng chỉ đến mức cô ấy vẫn có thể quay lại."@
+`"... Không! Không phải là Akiha...! Tôi là người duy nhất gặp phải những rắc rối này.@
+` Akiha đã chờ đợi tôi trong nhiều năm, và hôm nay, cô ấy mới nói lời tạm biệt một cách đúng đắn với tôi..."
+\
+ld c,"tachi/cel_t06c",crossfade,400
+`"Tôi chỉ săn lùng ma cà rồng. Bất kể là ai, tôi không thể bỏ qua họ."@
+cl a,crossfade,400
+`"[line=5]"@
+` Không thể nói gì, tôi chỉ cắn môi mình.@
+` "... Tôi không hiểu."@
+` Nếu... nếu Akiha là điều đó, tôi phải làm gì?@
+` Tôi có nên giả vờ không nhận ra, hay nên chiến đấu với Senpai để bảo vệ Akiha?@
+!w3000
+` ... Đừng vô ích.@
+` Dù tôi suy nghĩ nhiều như thế nào, tôi cũng không tìm thấy câu trả lời nào.
+\
+ld c,"tachi/cel_t07c",crossfade,400
+`"[line=3]Tôi hiểu rồi. Akiha-san là một người rất quan trọng đối với bạn. Có lẽ còn quan trọng hơn chính bản thân bạn."@
+`"... Dĩ nhiên rồi. Một em gái luôn là điều quan trọng với anh trai của mình."@
+`"Chúng ta có thể kết thúc bằng việc đánh nhau với nhau."@
+`"... "@
+` Không có gì để nói.@
+` ... Tôi hoàn toàn thất bại.@
+` Thượng cấp rõ ràng nói những điều tôi không muốn nói.
+\
+bg #000000,lcartain,800
+bg "bg/bg_01c",lcartain,800
+` ... Chúng ta đến cổng trường.@
+` Thượng cấp dường như đã đi đến một kết luận, vì cô ấy không nói gì cả.
+\
+ld c,"tachi/cel_t07c",crossfade,400
+`"[line=3]Tôi sẽ không hỏi bạn sẽ làm gì bây giờ. Chúng ta sẽ chia tay ở đây."@
+` Đôi mắt vô cảm, Thượng cấp giơ tay ra.@
+`"... ..."@
+` Không nói gì, tôi nắm lấy tay cô ấy.@
+br
+` Chỉ trong một khoảnh khắc ngắn ngủi.@
+` Tôi và Senpai trao nhau cái bắt tay trống rỗng.@
+cl a,lshutter,800
+` Với lời tạm biệt đơn giản, Senpai rời đi.
+\
+playstop
+bg #000000,lcartain,800
+` ... Tôi trở về căn nhà mà Akiha đang chờ đợi.@
+` Tôi biết từ cuộc trò chuyện với Senpai rằng những gì tôi thấy chỉ là giấc mơ.@
+` Nhưng vấn đề cốt lõi vẫn chưa được giải quyết.@
+br
+` [line=2]Người ma cà rồng - sự thật, thứ giết người mỗi đêm.@
+` Nếu đó thực sự là Akiha, tôi phải làm gì? Tôi nên làm gì?@
+`"Kuh..."@
+` Tôi không biết.@
+` Thật đáng tiếc, điều duy nhất tôi có thể làm là cắn môi.
+\
+!w4000

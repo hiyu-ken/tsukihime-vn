@@ -1,0 +1,35 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld c,"tachi/his_t16",tshutter,800
+`"Tôi vô cùng cáo lỗi.@ Ciel-sensei giờ dẫu dẫu đã đi nghỉ trưa mất rồi.@ Xin quý khách cất công chờ cho đến khi cô ấy quay lại."@`
+ld l,"tachi/ark_t31a",lshutter,400
+br
+`"Cô ta dẫu đã bỏ bê cả nhiệm vụ giảng dạy chỉ cất công để ăn bánh mì cà ri mà!"@`
+br
+ld r,"tachi/ark_t31b",lshutter,400
+`"Lết cái xác qua đây ngay, Ciel ngốc nghếch kia!"@`
+br
+ld c,"tachi/his_t01",crossfade,400
+`"Tớ dẫu dẫu đã nghĩ y hệt vậy, dẫu vậy cô ấy dẫu đã tịnh không có mặt ở đây thì chịu chết đành chịu mà thôi.@`
+` Cậu tịnh không thể làm gì một kẻ chịu chết tịnh không có mặt ở đây, và thật tịch mịch buồn bã làm sao khi chỉ cất lực phàn nàn về việc chị Kohaku tịnh không chịu dọn dẹp sạch sẽ đồ đạc.@`
+` Nào bấy giờ, chúng ta sẽ cất bước bắt đầu Góc Sửa Sai truyền thống nhé."`
+\
+ld c,"tachi/his_t17",crossfade,400
+`"…… Cậu Shiki,@`
+` che giấu sự tình chịu chết tịnh không đem lại kết quả tốt đẹp gì đâu.@`
+` Nếu cậu dẫu đã rút ra bài học sau trải nghiệm nhớ đời này, xin hãy cất lực tin tưởng Hisui vào lần tới nhé.@`
+ld c,"tachi/his_t01b",crossfade,400
+` …… Sự tình chỉ có bấy nhiêu thôi.@`
+` Em bấy giờ xin phép cất bước quay về biệt thự trước đây.@`
+` Chúc cậu tiếp tục cất công thưởng thức cốt truyện chính vui vẻ."`
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lscroll,800
+`"Nyaaa…… Cái ả đàn ông đó, ta ngửi thấy mùi của một nhân vật giống mèo khác lảng vảng quanh đây……"@`
+cl c,lscroll,800
+playstop

@@ -1,0 +1,62 @@
+monocro off
+play "*3"
+bg "bg/bg_03a",notrans,0
+wave se_03
+` Chuông báo mười phút reo vang.@
+`"[line=2]Ôi không, muộn mất!@ Vậy nhé Senpai, gặp lại sau!"@
+ld c,"tachi/cel_t04",crossfade,400
+`"Ừ, giờ nghỉ trưa tôi sẽ qua thăm cậu nhé."
+\
+bg #000000,lcartain,800
+bg "bg/bg_06a",lcartain,800
+play "*3"
+` Tôi lao vội vào lớp học.@
+` Vẫn còn năm phút trước giờ học, nên trong lớp khá ồn ào.@
+` Mọi người đang tán gẫu rôm rả trước khi giáo viên đến.
+`"[line=2] Thở phào."@
+` Tôi hít một hơi và đến chỗ ngồi của mình.@
+` Với thời gian còn lại như vậy, tôi thậm chí không cần phải chạy chút nào.@
+`"Ô, Tohno, lâu lắm không gặp! Mấy hôm rồi cậu đi đâu thế?"@
+`"Chào buổi sáng, Inui.@ Ừ, tôi hơi trục trặc tí xíu."@
+` Từ phía sau, tôi nghe thấy giọng nói mà tôi chẳng bao giờ mong đợi.
+`"Trục trặc? Sao, cậu bị ốm à?"@
+`"Gần như vậy.@ Nhưng bây giờ đã ổn rồi."@
+`"Tohno, sao anh lại bỏ học thế? Tôi chưa từng nghe nói anh là người bỏ lớp. Đó là một rắc rối lớn. Anh phải nói với tôi khi nào anh nghỉ học và đi chơi!"@
+`"Ồ, vậy hả.@ Tôi cứ tưởng cậu bỏ trốn luôn rồi chứ."@
+` Arihiko cười khì rồi quay trở lại chỗ ngồi của mình.@
+`"Tại sao tôi phải nói với anh khi tôi không đi học?"@
+` Tôi cũng ngồi xuống chỗ của mình.@
+` …… Tôi đã nghỉ học hai ngày liền.@
+` Ngoài chuyện bị Akiha mắng, chắc chắn sau giờ học sẽ bị giáo viên chủ nhiệm gọi lên nữa.
+`"Nhưng nghiêm túc[line=2]Điều gì đã xảy ra?@ Từ trung học, cậu đã bị thiếu máu, nhưng chưa bao giờ nghỉ học.@ Thật ra, cậu đã làm một trò đùa tuyệt vời vài lần, rời đi ngay khi vừa đến."@
+`"Nó giống như thế này.@ Tôi đến ngã tư và cảm thấy không tốt, nên quay về nhà."@
+`"Phù[line=2]"@
+` Tôi thở dài.@
+` [line=2]Xét cho cùng, dẫu đã giúp Arcueid đánh bại Nrvnqsr, cuộc sống thường ngày vẫn cứ tiếp tục quay.@
+` Thế nhưng,
+ld c,"tachi/ari_t01",crossfade,400
+` Có một sự vắng mặt dễ nhận ra trong lớp học.
+`"... ..."@
+` Chỗ ngồi của Yumizuka Satsuki vẫn trống trơn.@
+` Đó là điều tôi đã biết trước, nhưng nhìn thấy chiếc ghế trống đó, lòng tôi vẫn nhói lên.@
+wave se_03
+`"[line=2]"@
+` …… Yumizuka.@
+` Cô ấy vẫn chưa trở lại.@
+` Đêm hôm đó, Yumizuka đã nói rằng cô ấy sẽ trở thành ma cà rồng mạnh mẽ rồi quay lại.@
+` Tôitôi chẳng biết mình phải làm gì cả.
+\
+bg #000000,lshutter,800
+`"Tại sao[line=2]"@
+` Sao chuyện lại thành ra thế này?@
+` Yumizuka Satsuki.@
+` Rốt cuộc tôi phải đối mặt với cô ấy như thế nào đây?@
+` Câu trả lời đó…… tôi vẫn chưa tìm ra.
+ld c,"tachi/ari_t02",lshutter,400
+`"Này Tohno! Hãy ăn trưa đi!"@
+`"[line=3]"
+\
+` "Tôi phải làm gì đây?"@
+` Chuông báo bắt đầu tiết học vang lên.
+` [line=3]Nếu tôi ăn, có thể tôi sẽ nôn lại và gây rắc rối. Tôi nên...
+\

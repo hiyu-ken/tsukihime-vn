@@ -1,0 +1,47 @@
+monocro off
+wave se_03
+bg "bg/bg_06a",notrans,0
+play "*3"
+ld c,"tachi/osiete",lcartain,800
+!w1000
+cl c,lcartain,800
+ld r,"tachi/cel_t20",tshutter,800
+` Cảm ơn!@
+` Bây giờ, hãy đến phần gợi ý cho Tohno-kun bất hạnh đã đạt đến điểm chết đứng giữa cao trào,
+` "Giờ là lúc học với Ciel-sensei!"@
+` "Tốt hơn là nên từ bỏ, nhưng nơi này đã bước vào ngày thứ hai rồi."@
+` "Với tốc độ này, chúng ta có thể tiếp tục cho đến ngày thứ ba, khiến tôi cảm thấy hơi buồn nôn."@
+br
+` "Vậy thì, hãy bắt đầu buổi học đầu tiên."
+\
+` "Ôi trời ơi!"@
+` "Đó là lý do tôi nói với cậu, Tohno."@
+` "Cậu không nên tin Arcueid."@
+br
+ld l,"tachi/ark_t30",lshutter,400
+`"Không. Đó không phải lỗi của tôi."@
+br
+` Đó hoàn toàn là lỗi của cậu, bất kể bạn nhìn nó theo cách nào.@
+br
+`"Unyaa!"
+\
+cl l,lshutter,400
+` [line=4]Vậy thì...@
+br
+` Đối với Tohno-kun đã đến đây.@
+` Khó nói, nhưng bạn phải nộp lại từ một thời gian khá lâu trước đó.@
+` Cảm xúc dành cho cậu mà sinh ra bên trong Arcueid đáng tiếc là yếu hơn những ham muốn của cô ấy như một ma cà rồng.@
+` Hãy quay lại một hoặc hai ngày và thử tăng cường mối quan hệ với cô ấy.@
+br
+` À, và một điều nữa.@
+` Tohno-kun, dù ngươi bị mê hoặc, tôi không nghĩ là tốt khi dễ dàng mất trí.
+\
+bg #000000,crossfade,800
+ld c,"tachi/ark_t30",lshutter,400
+`"Đó là lỗi của ta……"@
+ld c,"tachi/ark_t31b",lshutter,400
+ld c,"tachi/ark_t31a",lshutter,400
+`"Shiki, ngốc nghếch! Ngốc giang! Đần độn!"
+\
+cl c,crossfade,800
+playstop

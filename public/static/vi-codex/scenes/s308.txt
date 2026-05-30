@@ -1,0 +1,1089 @@
+monocro off
+wavestop
+play "*8"
+bg "event/ark_e04b",notrans,0
+` ... Tôi nhớ lại những khoảnh khắc tôi đã dành bên Arcueid.@
+monocro #ffff00
+bg "event/ark_e01",crossfade,400
+` Lần đầu tiên nhìn thấy Arcueid, tôi chắc chắn mình đã mất trí.@
+` Tôi không biết điều gì đã kích hoạt sự thôi thúc đó.@
+` Nhưng dù sao, có một điều tôi chắc chắn.@
+br
+` Khi tôi, Tohno Shiki, nhìn thấy con ma cà rồng màu trắng đó, trái tim tôi như bị đánh cắp.
+\
+bg "event/ark_e02",crossfade,400
+` Dù cô ấy là một ma cà rồng, một Chân Tổ, cô ấy vẫn vô tội. Cô ấy thiếu sự khôn ngoan và chính cô ấy đã kéo tôi vào cuộc rắc rối này.@
+` ... Ngay cả khi tôi đã giết cô ấy, cô ấy vẫn tha thứ cho tôi bằng nụ cười.@
+br
+bg #000000,crossfade,800
+monocro off
+bg "event/ark_e06b",crossfade,400
+` Một hình ảnh bí ẩn từ quá khứ.@
+` Linh hồn ký sinh của mối liên kết giữa Roa và Arcueid Brunestud.@
+` [line=4]Dù nó đã tác động đến tôi, tôi vẫn phải
+\
+bg #000000,crossfade,800
+bg "event/ark_e04b",crossfade,400
+playstop
+`"Đây là cơ hội cuối cùng dành cho cậu đấy, Shiki.@ Mau làm theo lời tôi đi."@`
+` Giọng nói của Arcueid run rẩy.@
+`"[line=9]" @
+` Chất giọng run rẩy ngập tràn nỗi sợ hãi bị chối bỏ của cô ấy nói với tôi.@`
+` Người quan trọng nhất đối với tôi là Ciel. @
+` Nhưng điều đó không có nghĩa là tôi có thể ghét người này. @
+` Việc tôi luôn trân quý hình bóng Ciel là sự thật hiển nhiên, dẫu vậy tình cảm quyến luyến tôi dành cho Arcueid cũng chân thực tột cùng.@`
+` Điều này không liên quan gì đến ảnh hưởng của Roa. @
+` [line=4]Với tư cách là một Tohno Shiki bằng xương thịt, tôi đã thực sự bị người con gái ấy thu hút mất rồi.`
+\
+play "*5"
+`"…… Shiki.@ Hay là, cậu thực sự ghét bỏ tôi đến nhường ấy sao?"@`
+`"…… Đừng nói lời ngớ ngẩn thế chứ.@ Nếu bản thân tôi có thể dễ dàng căm ghét cậu nhường ấy, mọi sự bấy giờ đã tịnh không rơi vào bước đường này rồi."@`
+` Tôi xin lỗi Ciel khi nói điều đó trong đầu.
+\
+`"[line=4]Ồ?"@
+` Arcueid nghiêng đầu.@
+`"Chờ đã Shiki.@ Sự tình... sự tình ấy rốt cuộc nghĩa là sao cơ?"@`
+` …… Kẻ ngốc nghếch này.@ Khốn thật, người con gái ấy vốn dĩ chịu chết tịnh không cách nào thấu triệt nổi trừ phi bản thân tôi phải trực tiếp dõng dạc nói thẳng ra.@`
+`"[line=4]Arcueid, tôi"@
+` …… Xin lỗi Ciel. Tôi sắp nói điều tôi không nên nói.@
+`"Tớ tịnh không thể ghét cậu được.@`
+` [line=3]Có lẽ tớ…… đã thực sự bị cậu thu hút mất rồi."`
+\
+`"[line=9][Một sự im lặng căng thẳng]"@
+` Mắt Arcueid co lại.@
+` Sau một khoảng dừng đầy căng thẳng,
+br
+`"[line=6]Thật sao?"@
+br
+` Cô ấy hỏi bằng giọng nói cạn kiệt sức lực.@
+`"…… Này cậu kia.@ Trong nghịch cảnh ngặt nghèo này, có dối lòng dẫu vậy cũng vô ích mà thôi.@ Cho dẫu bản thân tịnh không muốn thừa nhận, tớ quả thực đã bị cậu thu hút mất rồi.@ Kể từ giây phút định mệnh đầu tiên đôi bên gặp gỡ, tớ vẫn luôn bị cậu thu hút nhường ấy đấy."@`
+`"[line=8]"@
+` Mặt Arcueid sáng lên.@
+` Những bàn tay vừa còn siết chặt tôi bỗng buông ra, và cô ấy vui vẻ cố đứng dậy.
+\
+`"Nhưng, tôi vẫn không thể làm theo lời cậu nói."@
+`"[line=8]"@
+` Cô ấy ngay lập tức đóng băng lại.@
+` Lấy lại những bàn tay vừa thả lỏng, cô ấy đặt chúng lên cánh tay tôi một lần nữa.@
+`"Shiki, cậu muốn nói gì? Nếu thích tôi, tại sao cậu không nghe lời tôi? Hay là cậu đang nói rằng cậu không tin vào những gì tôi nói?"
+\
+`"…… Tôi tin cậu. Cậu có rất nhiều bí mật, nhưng chưa bao giờ nói dối tôi. Và nếu cậu nói việc gì đó có thể được làm về Roa, thì có lẽ là sự thật."@
+`"Cậu hiểu rồi. Vậy sao? Đừng nói với tôi, cậu không muốn thoát khỏi sức mạnh của Roa à?"@
+` Cô ấy nhìn tôi với vẻ không hài lòng.@
+` …… Ồ trời ơi.@
+` Bất kể chúng ta ở trong tình huống nào, tôi nghĩ cô ấy luôn có chút gì đó khác biệt.
+\
+`"…… Này, tôi chỉ là một người bình thường. Tôi chẳng muốn có sức mạnh này ngay cả khi cậu đề nghị. Nếu tôi có thể, tôi sẽ ném nó vào thùng rác ngay bây giờ."@
+`"? Tại sao lại không muốn có nó? Nếu cậu trở thành hầu nhân của tôi, cậu có thể đánh bại Roa ngay lập tức. …… Shiki, cậu thật kỳ lạ."@
+`"Đừng nói là cậu mới kỳ lạ. Nghe này, Arcueid, tôi bị thu hút bởi cậu, nhưng người tôi thích nhất lại là ai khác.@
+` "[line=3]Vì vậy, tôi sẽ không bao giờ trở thành của cậu."
+\
+`"[line=4]Ồ? Tôi hiểu rồi. Shiki, cậu vẫn nghĩ người phụ nữ khác tốt hơn à?"@
+` Tiếng nói của Arcueid trở nên lạnh lùng.@
+` "... Điều này rất tệ. Tôi nghĩ mình đã làm cô ấy tức giận."
+\
+`"Đừng lo. Tôi không phiền nếu cậu thích ai khác."@
+` "Shiki, cậu là người đầu tiên tôi từng thích. Vì vậy, ngay cả khi cậu chỉ thích tôi một chút, thì mọi thứ khác đều không quan trọng."@
+` "Vì vậy, ngay cả khi cậu không nghĩ về tôi nhiều nhất, tôi cũng không sao. Bởi vì nếu cậu là số một của tôi, điều đó đã đủ rồi."@
+` Đôi mắt lạnh lùng chiếu sáng nụ cười của cô ấy.@
+` Một sự pha trộn giữa cảm giác lạnh lẽo và vô tội.
+\
+`"[line=4] Nhưng người phụ nữ đó khác biệt."@
+` Nếu cô ấy là người mang bạn rời xa tôi, tốt hơn là bạn ghét tôi.@
+` …… Ôi trời ơi, cuối cùng tôi nghĩ tôi phải dùng đến sức mạnh.@ Bạn có thể ghét tôi vì điều này, nhưng nếu tôi không làm thế, bạn sẽ không bao giờ thoát khỏi tôi."@
+` Arcueid cắn môi sau khi nói vậy.@
+` Giọt.@
+` Một giọt máu đỏ hình thành trên môi cô ấy.
+\
+`"Này[line=4]Arc, chờ đã……!"@
+` Tôi hét lên, cảm nhận được một mối nguy hiểm nào đó, nhưng Arcueid nhìn xuống và giả vờ không nghe thấy tôi.@
+` Tôi cố gắng giải thoát bản thân, nhưng đã quá muộn.@
+` [line=5]Giống như vậy...
+bg "bg/ima_10b",tshutter,800
+br
+` [line=4](Khi ấy)
+\
+playstop
+waveloop se_02
+`"[line=7]Mmph!"@
+` Đây không phải là nụ hôn.@
+` Arcueid chỉ đang cố gắng khiến tôi uống máu cô ấy.@
+`"[line=11]!"@
+` Có điều gì đó mách bảo tôi đây là một việc rất xấu và tôi cố chống lại mãnh liệt.@
+` [line=6]Nhưng những cánh tay cô ấy nắm lấy tay tôi rất mạnh mẽ, và... cảm giác đôi môi cô ấy chạm vào da tôi thật tuyệt vời, những nỗ lực của tôi ngày càng yếu đi.
+!w3000
+br
+`"Em... thứ kinh tởm này!!!!"@
+quakex 4,50
+br
+` [line=4]Rồi sau đó,
+` Thế giới xung quanh tôi đột nhiên rung chuyển.
+\
+wavestop
+bg "bg/bg_29b",tshutter,400
+play "*1"
+`"[line=7]Ồ?"@
+` Khi tôi mở mắt ra, tôi nhìn thấy cơ thể của Arcueid bay qua không trung.@
+` Arcueid bị trúng trực tiếp bởi vô số thanh kiếm bay qua không khí, và cô ấy bay theo con đường lát gạch, biến mất giữa những tán cây.
+\
+`"[line=7]Ồ?"@
+` Tôi nhìn về phía đối diện nơi Arcueid biến mất.@
+ld c,"tachi/cel_t06b",tshutter,400
+`"[line=7]Thật tệ."@
+` Tôi thấy Ciel-senpai ở đó, vai cô ấy run rẩy.@
+` [line=7]Tôi có thể cảm nhận được nhiệt độ của ánh nhìn sắc lạnh của cô ấy.@
+cl c,tshutter,400
+` Cô ấy nhìn tôi như kẻ thù, Ciel tiến lại gần với những bước chân sắc sảo.
+\
+ld c,"tachi/cel_t01b",rshutter,800
+` Cô ấy mỉm cười và duỗi tay ra về phía tôi.@
+` Tôi nắm lấy bàn tay cô ấy và cố gắng đứng dậy.@
+`"... À, Ciel... Anh họ ơi? Em... đã trở lại rồi sao?"@
+`"Đúng vậy, em lo lắng về anh nên vội vàng quay lại. Nhưng khi em về đến phòng, em ngạc nhiên. Em đã dặn anh không được rời khỏi phòng, nhưng anh lại không có ở đó."@
+`"Ồ, có một lý do lớn cho điều đó, và nó khá dài[line=6]"@
+`"Vậy thì xin mời, hãy kể cho em nghe. Em không biết anh đã làm gì với Arcueid, nhưng em sẽ ít nhất cũng lắng nghe lời giải thích của anh."
+\
+`"... Anh họ ơi. Em sẽ nói ngay bây giờ, nhưng đó không phải là điều mà anh đang nghĩ. Em chẳng có gì với Arcueid cả.@
+` Những gì anh đang suy nghĩ chỉ là một cáo buộc sai lầm."@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Tôi hiểu rồi. Vậy là cậu nói không có chuyện gì xảy ra, và tất cả chỉ là một sự hiểu lầm từ phía tôi sao?"@
+`"Đúng vậy! Cậu bạn Ciel-senpai của tôi, tôi biết cậu sẽ hiểu ngay lập tức!"@
+` Tôi giơ tay lên cao và reo hò cổ vũ.@
+ld c,"tachi/cel_t06b",crossfade,400
+`"... Ờm."@
+` Khi bị nhìn chằm chằm, tôi hạ thấp tay xuống.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"À... Dường như việc chăm sóc cô ấy hiện đang là ưu tiên hàng đầu. Nhưng Tohno-kun, tôi chắc chắn sẽ hỏi cậu về chuyện này sau này."@
+` Cô ấy quay lưng đi khỏi tôi và nhìn về phía những cây cối dày đặc.@
+playstop
+`"[line=10]!"@
+` Ngay cả tôi cũng cảm nhận được một thứ gì đó căng thẳng từ phía đó.@
+` Hãy bình tĩnh.@
+` Một sự khó chịu giống như một loại độc vô hình đang dần lấp đầy không khí.
+\
+play "*6"
+`"... Làm ơn rời đi, Tohno-kun."@
+cl c,lshutter,800
+` Ciel tiến về phía những bụi cây mà Arcueid đã biến mất.@
+`"Rời đi? Ciel! ..."@
+` Tôi không thể nghe được.@
+` Trước đây, Ciel và Arcueid đã chiến đấu trong công viên này. Ngay cả lúc đó, Ciel cũng không có cơ hội chống lại cô ấy, nên tôi không thể để cô ấy chiến đấu một mình với Arcueid.@
+` Nhưng, tôi không muốn thậm chí cũng nghĩ về việc tôi và Ciel cùng tấn công Arcueid.
+\
+`"Chờ đã, Senpai……!@ Arcueid chẳng làm gì cả.@ Cô ấy không phải là một con ma cà rồng xấu xa, nên[line=4]"@
+`"…… Tohno-kun.@ Khi nói đến ma cà rồng, tốt và xấu không quan trọng.@ Chúng là một sự tồn tại cần bị loại bỏ khi chúng xâm nhập vào xã hội loài người.@
+` Và, đã quá muộn rồi.@ Cô ấy đã định giết chúng tôi rồi."@
+`"Th[line=5]"@
+` Trước khi tôi có thể nói, "Đó không phải là sự thật,"@
+` Hình ảnh của Arcueid xuất hiện, lắc lư như đang gieo rắc hạt giống của cái chết.
+\
+waveloop se_02
+ld c,"tachi/ark_t23",crossfade,800
+`"[line=3]Một cuộc tấn công bất ngờ khác sao? Không phải vì bạn thiếu sáng tạo mà chỉ có một tính cách bệnh hoạn thôi."@
+cl c,crossfade,400
+ld c,"tachi/cel_t06b",crossfade,400
+`"Bạn nói nhiều quá. Đối thủ của bạn không bị thương tích nào, trong khi những ma cà rồng bình thường đã chết sáu lần bởi những Hắc Phím này, bất kỳ phương pháp nào cũng nên công bằng. Thật là ghê tởm khi một quái vật như bạn bình luận về tính cách tôi."
+\
+cl c,crossfade,400
+` Những tia lửa đang bay giữa hai người họ.@
+` ... Đó không phải là một ẩn dụ; không khí thực sự bị sạc điện.@
+` Sự thù địch của Arcueid xâm nhập không khí đến mức việc hít thở đơn giản cũng làm tổn thương phổi tôi.@
+` Ciel-senpai cũng giống vậy, và dường như áo choàng của cô ấy dày hơn bình thường.@
+` ... Có vẻ cô ấy chuẩn bị cho cuộc chiến toàn diện lần này, và có vẻ như cô ấy giấu nhiều loại vũ khí kỳ lạ dưới đó.
+\
+ld c,"tachi/ark_t23",crossfade,400
+`"[line=3]Ồ? Tôi tự hỏi bạn đã làm gì khi quay lại nhà thờ, nhưng rồi lại lôi ra Hắc Phím? Tôi đoán tin đồn rằng bạn truyền đạt kiến thức nhàm chán cho những người tăng cường là đúng."@
+cl c,crossfade,400
+ld c,"tachi/cel_t06b",crossfade,400
+`"Đó không phải là chuyện của cậu. ... Vậy thì, vì cậu sẽ bị phong ấn ở đây, chẳng có gì nữa sẽ khiến cậu lo lắng nữa."@
+cl c,crossfade,400
+ld c,"tachi/ark_t05c",crossfade,400
+`"[line=9]"@
+` ... Tay Arcueid hạ xuống.@
+` Cô ấy nghiêm túc.@
+` Trong khoảnh khắc tiếp theo, cô ấy có thể sẽ tấn công Ciel.@
+` Ciel sẽ phản kháng lại.@
+` …… Dù người chiến thắng là ai, tôi đã biết chắc chắn rằng ai đó sẽ bị tổn thương.
+\
+cl c,crossfade,400
+playstop
+`"[line=9]"@
+` Tôi, không thể để điều đó xảy ra.@
+` Tôi không thể ngăn chặn nó trước đây.@
+` Nhưng giờ đây, lần này, tôi phải ngăn chặn nó.@
+` Tôi là người đã tạo ra tình huống này.@
+` Ciel-senpai và Arcueid. Nếu tôi xem họ là vô cùng quan trọng đối với mình, thì...
+br
+`"... Các ngươi, những kẻ ngốc nghếch."@
+br
+` Tôi phải ngăn cản họ, ngay cả khi điều đó đòi đi đổi mạng sống của tôi.
+\
+` ... Không khí rung chuyển.@
+` Arcueid đang nhìn thẳng vào cổ Ciel.@
+` Trước đó, sau đó,
+br
+`"[line=6]Chờ đã!"@
+br
+` Tôi lao mình giữa hai người họ.
+\
+wavestop
+play "*8"
+ld l,"tachi/ark_t05c",lshutter,400
+`"Anh đang cản đường, im lặng đi Shiki."@
+ld r,"tachi/cel_t06b",lshutter,400
+`"Anh đang cản đường, xin hãy lùi lại Tohno-kun."@
+` Tôi bị xuyên thấu bởi ánh nhìn của cả hai người.@
+`"[line=9]!!"@
+` Một cơn đau đầu và cảm giác lạnh lẽo.@
+` Cả hai đều tin rằng tôi là người cản đường.@
+` Xương sống tôi rên rỉ khi gánh chịu toàn bộ sự thù hận của họ.@
+` Hơn nữa, cơn đau đầu của tôi ngày càng tồi tệ hơn.@
+` Nhìn sâu vào những đường nét của cái chết là một phản ứng.@
+` Có thể đây cũng là phản ứng của Roa khi tôi cố gắng giết Arcueid.
+\
+`"Dừng lại hai người. Không cần phải đánh nhau."@
+ld l,"tachi/ark_t05a",crossfade,400
+`"Đừng ngốc nghếch. Từ đầu không có lý do nào cả. Chỉ trả Shiki lại cho tôi. Ngay cả khi đó là bạn, tôi sẽ không để bạn đi nếu bạn cản đường tôi."@
+`"Như cô ấy nói. Điều này không liên quan đến bạn, Tohno-kun... Ngay cả khi bạn ở đó, chúng tôi vẫn sẽ đánh nhau."@
+` Họ chẳng nghe một từ nào tôi nói.@
+` Thôi thì. Tôi cũng đã chuẩn bị cho điều đó rồi.
+\
+`" ... Tôi hiểu rồi. Vậy thì không còn cách khác. Nếu các người quyết định đánh nhau bất kể điều gì, tôi sẽ phải làm điều đó."@
+ld l,"tachi/ark_t13",crossfade,400
+ld r,"tachi/cel_t07b",crossfade,400
+`"[line=5]Ồ?"@
+`"Không thể nào nếu cậu không nghe tôi nói. Nếu hai người định giết nhau, tôi sẽ ngăn cản, ngay cả khi phải dùng đến sức mạnh giết người."@
+` Tôi siết chặt con dao, nhìn thế giới xung quanh gần như đủ để đốt cháy não bộ của mình.
+\
+bg #9c0120,crossfade,400
+bg "bg/bg_29b",crossfade,400
+wave se_01
+` Một tiếng "thùng".@
+` Não bộ của tôi đập mạnh như thể nó đã trở thành trái tim thứ hai.@
+bg "bg/bg_29c",crossfade,800
+` Ngâm mình trong nỗi đau đến mức hít thở dường như làm gãy từng xương trong cơ thể, tôi nhìn xung quanh, nơi cái chết đang bao trùm mọi thứ.
+\
+ld r,"tachi/cel_t10b",crossfade,400
+`"Đến, Tohno-kun...! Cậu không nên làm thế! Nếu cậu sử dụng đôi mắt như vậy, các mạch máu não của cậu sẽ nổ tung..."@
+`"[line=3][line=3]Tôi không thể không làm điều này. Nếu tôi không hành động, tôi không thể ngăn Arcueid."@
+ld l,"tachi/ark_t06",crossfade,400
+`"……………………"@
+` Đối lập với Ciel đang hoảng loạn, Arcueid chỉ nhìn tôi bằng đôi mắt lạnh lùng.@
+` …… Đáng khóc, Arcueid đứng như vậy, dường như cô ấy biết tôi không thể nhìn thấy bất kỳ đường nét nào của cô ấy.
+\
+ld l,"tachi/ark_t07",crossfade,400
+`"[line=3] Dĩ nhiên rồi. Bạn chỉ đang mạo hiểm tính mạng, điều đó khiến bạn không thể nhìn thấy những điểm "chết" trên tôi. …… Thôi thì có lẽ bạn có thể tìm thấy một vài đường nét, nhưng điều đó cũng vô nghĩa thôi."@
+`"…………… Tại sao cô lại… Cô chẳng đáng yêu chút nào cả."@
+wave se_01
+bg #ffffff,crossfade,400
+bg "bg/bg_29c",crossfade,400
+`"[line=8]"@
+` …… Đi ạ. Tôi sắp ngất xỉu rồi.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Nếu bạn hiểu rồi, thì dừng lại. Nếu ý thức của bạn chết đi, Roa sẽ tiếp quản. Nếu điều đó xảy ra, ngay cả tôi cũng không thể giúp được bạn nữa, Shiki."@
+` Tôi có thể nghe thấy giọng nói của Arcueid.@
+` [line=4]Dù vậy, tôi đã quyết định ngăn chặn họ. Một việc như thế không thể xảy ra.
+br
+wave se_01
+bg #ffffff,crossfade,400
+bg "bg/bg_29c",crossfade,400
+` Ngừng tôi lại đi.
+\
+`"[line=3]Tohno-kun, cậu có thể nhìn thấy những đường nét trên Arcueid à?"@
+` Bất ngờ,
+` Giọng nói của Ciel-senpai vang lên.@
+`"[line=6]Tch."@
+` Arcueid lắc đầu thất vọng.@
+` Ciel vội vã tiến lại gần tôi, phớt lờ Arcueid đang đứng đó.
+\
+ld r,"tachi/cel_t06b",lshutter,400
+`"Hãy nói cho tôi biết, Tohno-kun, cậu có thể thấy những đường nét trên Arcueid chứ?"@
+` Tôi gật đầu đáp lại câu hỏi đầy lo lắng của Ciel.@
+`"[line=8]Tuyệt vời! Nếu cậu có thể nhìn thấy chúng, Tohno-kun...! Tôi đã mất hy vọng, nhưng với điều này, chúng ta thực sự có thể tách Roa ra khỏi cậu...!"@
+cl a,crossfade,400
+` Sự thù địch mà tôi cảm nhận từ Senpai tan biến.@
+br
+` ... Cảm ơn Chúa. Tôi không biết tại sao, nhưng dường như Ciel đã ngừng chống lại Arcueid.
+\
+`"... Tôi hiểu rồi. Senpai, cậu đã tìm ra cách loại bỏ Roa khỏi bên trong tôi ở nhà thờ."@
+`"[line=7]Đúng vậy..."@
+` Tiếng hào hứng của cô ấy đột ngột ngừng lại.@
+` Ciel hạ mắt, sau đó nâng đầu lên.@
+ld c,"tachi/cel_t07b",crossfade,400
+`"... Không, không có cách nào để giúp bạn ở nhà thờ. Tôi quay trở lại sớm như vậy vì đó là một con đường bế tắc."@
+`"[line=8]"@
+` Tôi thở dốc tự động.@
+` Vì điều đó có nghĩa là điều duy nhất còn lại cho tôi là bị Roa nuốt chửng.
+\
+`"Nhưng, Tohno-kun. Nếu bạn có thể nhìn thấy điều gì đó có thể gây ra cái chết của Arcueid, thì chuyện sẽ khác."@
+` Roa là Tử Đồ của Arcueid. Ngay cả khi anh ấy bị tách rời vào lúc này, mối liên kết với Arcueid như nguồn gốc sức mạnh của anh ấy vẫn không thay đổi.@
+` [line=4]Nếu cậu có thể tiêu diệt Arcueid, thì Roa sẽ phải yếu đi.@
+`"[line=10]Ồ?"@
+` Tôi không thể hiểu ngay những gì cô ấy nói.@
+ld c,"tachi/ark_t07",crossfade,400
+` Arcueid chỉ đứng đó, lắng nghe cuộc trò chuyện giữa Ciel và tôi.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Một mình... không, ngay cả với kho báu của Giáo Hội, tôi cũng không thể tiêu diệt Arcueid, một Chân Tổ. Việc tốt nhất tôi có thể làm là giam cầm cô ấy." Cô ấy nói như vậy.@
+` Nhưng nếu cậu có thể nhìn thấy những nguyên nhân dẫn đến cái chết trên người cô ấy, thì chuyện sẽ khác.@
+` Tohno-kun, cho tôi mượn sức mạnh của cậu. Nếu cậu giúp tôi, ngay cả tôi cũng có thể giết Arcueid...!@
+`"[line=11]..."@
+` Nơi hơi thở của tôi ngừng lại trong cổ họng.@
+` Tôi? Giúp giết Arcueid?@
+` Tôi phải làm điều đó để cứu bản thân khỏi Roa sao?
+\
+`"[line=4]Không. Tôi không thể làm điều đó."@
+br
+`"[line=9]Ồ?"@
+` Tiếng nói của họ chồng chéo lên nhau lần nữa.
+\
+ld c,"tachi/cel_t10b",crossfade,400
+`"[line=3]Anh nói gì vậy, Tohno-kun...! Nếu anh không làm thế, Roa sẽ chiếm lấy! Và... anh không đang tìm lời để giết cô ấy sao?"@
+` "... Không, anh hiểu sai rồi, Senpai."@
+`"…… Ciel. Tôi không muốn giết Arcueid chút nào. Tôi chỉ muốn hai cậu ngừng đánh nhau, và đây là cách duy nhất tôi nghĩ có thể ngăn chặn nó."@
+`"Đó... có thể là sự thật, nhưng...!"@
+` Nếu cậu không giết Arcueid, cậu sẽ biến mất, Tohno-kun! Tôi... tôi không muốn như vậy...! Tại sao...? Cậu có nghĩa là cuộc sống của Arcueid quan trọng hơn cả cuộc đời cậu sao?!"@
+`"[line=9]"@
+` "Senpai ơi đúng là như vậy, nhưng..."
+\
+`"…… Tôi không biết, nhưng tôi không thể làm tổn thương Arcueid."@
+` "Xin lỗi vì ích kỷ, Ciel."@
+` "Tôi không thể ghét cô ấy. Đó là lý do... ngay cả để cứu bản thân mình, tôi cũng không thể giết cô ấy."@
+`"…… Tohno-kun. @ Cậu có thích cô ấy không?"@
+`"[line=3]Dĩ nhiên là không. @ Tôi yêu cậu, Ciel."@
+` Đó không phải là lời nói dối.@
+` Có một người duy nhất mà tôi trân trọng nhất.@
+`"[line=9]"
+\
+cl c,crossfade,400
+playstop
+` Ciel đóng chặt miệng và hạ thấp đầu.@
+` …… Tôi không còn cảm nhận được bất kỳ sự thù địch hay ghét bỏ nào từ cô ấy nữa.@
+ld c,"tachi/ark_t06",crossfade,400
+` Bây giờ, nếu tôi có thể khiến người đang nhìn tôi với biểu cảm khó chịu đó biến mất, mọi thứ sẽ ổn thôi. [line=2]
+\
+`"... Arcueid. Xin hãy buông tay, được không? Tôi sẽ chắc chắn giành lấy Roa. ... Tôi không biết mình còn lại bao lâu, nhưng đến cuối cùng, tôi sẽ..."@
+` "[line=3]Nhấn vào điểm chết của bạn và 'giết' Roa?"
+ld c,"tachi/ark_t02",crossfade,400
+`"Arcueid đọc suy nghĩ của tôi."@
+` "Tôi từ chối. Đến cuối cùng có nghĩa là Roa sẽ đã chiếm lấy bạn gần như hoàn toàn."@
+`"Anh nghĩ mình có thể tự sát trong tình huống này, Shiki?"@
+` "U"@
+`"[line=8](Không nói rõ)"@
+` "Cô ấy ném ra những lời bình luận sắc bén."
+\
+`"Rồi thì cậu muốn tôi làm gì? Đi nói với Roa một lần nữa khi nó bắt đầu nuốt chửng tôi sao?"@
+ld c,"tachi/ark_t01a",crossfade,400
+`"Không, cậu không cần phải làm tất cả những điều đó. Nếu cậu tự sát ngay tại đây, mọi thứ sẽ ổn thôi."@
+play "*3"
+` Dễ dàng như vậy,
+` Với vẻ mặt quen thuộc, Arcueid nói một cách tàn nhẫn.
+\
+`"Ồ, cậu nói gì vậy!? Một điều như thế tôi sẽ không chấp nhận ngay cả khi Tohno-kun đồng ý……!"@
+`"Này, Ciel……!"@
+cl c,lshutter,400
+` Tôi ngăn chặn Senpai, người cố tấn công Arcueid.
+\
+`"Arcueid, có lẽ đó là điều tốt nhất cho cậu[line=3]nhưng cậu có thể buông bỏ nó không?"@
+ld c,"tachi/ark_t09",crossfade,400
+`"Không. Cậu hiểu rằng đó là cách tốt nhất, phải không Shiki? Vì vậy tôi sẽ không chờ đợi. Nếu cậu không giết Roa ngay bây giờ, mọi thứ sẽ trở nên khó khăn sau này."@
+`"Ồi, ừm, ừm...!"@
+` Tôi tuyệt vọng ôm chặt Ciel, người đang cuồng nộ trong vòng tay tôi.
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"…… Này, tôi muốn Shiki uống nhiều máu của tôi hơn, nhưng với Ciel ở đây, điều đó hơi khó."@
+` "Vậy nên tôi sẽ thỏa hiệp. Không phải tôi đã nói vậy từ đầu à, Shiki? Nếu em trở thành của tôi, em có thể thoát khỏi Roa ngay lập tức. Dù sao thì việc này cũng gần như đã hoàn tất một nửa."@
+cl c,crossfade,400
+ld r,"tachi/cel_t10b",crossfade,400
+`"Chuyện gì vậy... Tohno-kun, cậu đã uống một ít máu của Arcueid à??"@
+` Khi thoát ra, Ciel-lão sư nhìn chằm chằm vào tôi.
+\
+`"[line=3]À, ừm... Khi Arcueid giữ tôi lại trước đó, cô ấy ép tôi phải... Có vấn đề gì sao, Senpai?"@
+`"Ừm, vâng! Đó là một vấn đề to lớn! Với điều đó, bạn gần như hoàn toàn dưới sự chi phối của cô ấy! Nếu có máu của cô ấy trong người bạn, bạn sẽ chỉ giống như một phần mở rộng của cô ấy, như một cánh tay hay một chân..."@
+`"[line=7][line=2]Ồ, vậy là ý bạn là..."@
+`"Vâng, chẳng khác gì một Tử Đồ bị hút hết máu!"@
+` Tôi nhìn sang Arcueid.
+\
+ld l,"tachi/ark_t09",crossfade,400
+`"Haha~"@
+` [line=3]... Tại sao cô bé lại cười như vậy... Không ngạc nhiên[lên dòng 3]
+`"A, Arcueid...! Có phải đây là cách cô dùng sức mạnh không? Cái gì trong tình huống này cũng không làm tôi hài lòng sao?"@
+` Bạn đã hút máu tôi, kẻ nói dối to tướng...!"@
+ld l,"tachi/ark_t11",crossfade,400
+`"À, cậu hiểu sai rồi. Tôi không hút máu cậu ta. Tôi chỉ cho cậu ấy một ít máu của mình, đó là lý do tại sao cậu ấy không biến thành Tử Đồ."
+\
+ld r,"tachi/cel_t06b",crossfade,400
+`"Đó là cùng một điều...! Có máu của ai đó trong người có nghĩa là họ không thể chống lại lệnh của cậu...! Và nếu cậu đi quá xa, thông tin di truyền của cậu như một Chân Tổ sẽ xâm nhập và phá hủy thông tin di truyền của con người."@
+` "Nếu là máu của cậu ấy, chỉ một ít nhỏ thôi cũng đủ để hủy hoại cơ thể con người, phải không?"@
+ld l,"tachi/ark_t06",crossfade,400
+`"Làm sao lại thô lỗ thế! Tôi sẽ không mắc những sai lầm vụng về như vậy. Đầu tiên, cơ thể Shiki đã bị Roa xâm chiếm và gần như là cơ thể của một ma cà rồng rồi. Trong trường hợp này, tôi nghĩ máu của tôi sẽ hữu ích."
+\
+`"Thêm vào đó, Shiki sẽ không nghe theo lời tôi nói. Chỉ với một giọt máu, cậu ấy chỉ cần một chút ý chí để từ chối lệnh của tôi."@
+` "Thêm vào đó, tôi không hút máu Shiki, nên cơ thể anh ấy vẫn thuộc về anh ấy. Cậu biết rồi đấy, đúng không? Một ma cà rồng biến đối tượng thành mục tiêu bằng cách hút máu và trộn nó với máu của chính họ."@
+ld r,"tachi/cel_t10b",crossfade,400
+`"Nhưng... cậu vẫn ép Tohno uống máu mình...! Cậu nghĩ gì vậy...!"
+\
+ld l,"tachi/ark_t02",crossfade,400
+`"Đó là điều hiển nhiên, phải không? Tôi đã sắp xếp để Shiki có thể đánh bại Roa ngay cả khi cả hai đều chết cùng lúc."@
+` Bây giờ, Shiki đang dưới sự ảnh hưởng của tôi, bạn biết đấy. Ngay cả khi Roa và Shiki bằng nhau, nếu tôi hỗ trợ Shiki, thì tự nhiên Shiki sẽ sống sót.@
+`"[line=10]Ồ"@
+` Môi của Ciel-senpai mở to vì ngạc nhiên.
+\
+ld l,"tachi/ark_t05d",crossfade,400
+`"Bạn có hiểu không? Bạn nói sẽ giúp Shiki, nhưng phương pháp của tôi tốt hơn nhiều so với của bạn. Đến, nếu bạn hiểu, thì nhanh lên và rời xa Shiki."@
+`"[line=5]Ừm... ừm..."@
+` Môi của Ciel-senpai mở ra rồi lại đóng lại.@
+` ... Có vẻ mọi chuyện đã thay đổi đột ngột.
+\
+ld l,"tachi/ark_t03",crossfade,400
+`"Nói thật, tôi ban đầu định không nói với bạn về điều này... nhưng, có lẽ được rồi. Trước đó, Shiki nói anh ấy thích tôi."@
+ld l,"tachi/ark_t09",crossfade,400
+` "Hãy xem này. Nếu Shiki nói rằng cậu ấy thích tôi nhiều hơn Ciel, tôi sẽ giúp đỡ lần này."@
+` Arcueid mỉm cười. Không phải với tôi, mà là với Ciel-senpai.@
+`"N[line=15]"@
+` Vai của Ciel-senpai bắt đầu run rẩy dữ dội.
+\
+playstop
+wave se_01
+` [line=5]Và...
+` Chờ đã.
+\
+`"N[line=5]Không, không thể nào! Không có sự giúp đỡ của cậu, tôi vẫn sẽ cứu Tohno-kun! Tôi sẽ để cậu đi hôm nay, nên hãy quay về thôi..."!"@
+` "Tôi sẽ tự mình giải quyết chuyện này! Đừng lo lắng cho tôi, cứ đi đi..."!"@
+ld l,"tachi/ark_t03",crossfade,400
+`"Ừm. Tôi nghĩ tôi có thể quay lại, nhưng như vậy Shiki sẽ biến mất. Cậu nói rằng nếu Roa tiếp quản Shiki miễn là cơ thể Shiki vẫn còn thì được chứ?"
+\
+wave se_01
+br
+br
+br
+` [line=6]Cơ thể tôi...
+\
+`"Đừng ngốc nghếch! Tôi muốn Roa bị tiêu diệt nhiều hơn cậu. Tôi không thể chịu đựng thêm khi Roa cướp đi người mà tôi trân trọng nhất!"@
+`"Vậy thì đơn giản thôi. Shiki chỉ cần hứa là thích tôi nhiều hơn, và Roa sẽ bị tiêu diệt hoàn toàn. Tôi nghĩ điều đó thỏa mãn cả hai mục tiêu của chúng ta."
+\
+wave se_01
+br
+br
+br
+br
+br
+` [line=5]Cảm giác cơ thể tôi bắt đầu mờ nhạt...
+\
+`"Đó là hai vấn đề hoàn toàn khác nhau!@
+` Đầu tiên, không có lý do nào để chúng ta tin cậu. Tôi sẽ không cho phép Tohno-kun đi trên dây thừng như tự sát.@
+ld r,"tachi/cel_t06b",crossfade,400
+` Sau đó..." [line=5]
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+` [line=14]"Anh trông như thể muốn giết tôi. Dù sao, với Shiki như thế này, anh không thể làm được."
+\
+ld l,"tachi/ark_t06",crossfade,400
+`"Roa đã xâm nhập vào tâm trí anh ta đủ rồi, nên dễ thấy rằng nếu em khiến anh ta căng thẳng thêm nữa, tâm trí anh ta sẽ sụp đổ."
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=7]"Đó là..."
+\
+`"[line=12]Nếu Shiki không cố gắng ngăn chúng em, có lẽ anh ấy có thể chịu đựng được vài ngày nữa, nhưng với trạng thái hiện tại của mình, anh ấy không thể chống lại Roa lâu."@
+ld l,"tachi/ark_t02",crossfade,400
+`"Hãy nhìn xem, anh ấy đang tuyệt lực chống lại cơn đau đầu ngay bây giờ."@
+` "Như vậy, tối nay sẽ..."@
+` "[line=5], phải không?"
+\
+wave se_01
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+br
+` [line=2]"Đừng lo lắng, em sẽ tìm cách giải quyết."
+\
+ld l,"tachi/ark_t12",lshutter,400
+`"Này Shiki. Đừng nói với tôi rằng cậu đã đến giới hạn rồi!"@
+`"[line=6]Ồ, Tohno-kun?!"
+\
+wave se_01
+bg #ffffff,crossfade,400
+bg "bg/bg_29b",crossfade,400
+wave se_01
+bg #000000,crossfade,400
+monocro #0000ff
+bg "bg/bg_29b",crossfade,400
+play "*9"
+textcolor #0000ff
+br
+br
+br
+br
+br
+` "Nhận thức. Tôi vẫn còn nhận thức của mình."@
+` "Cơ thể tôi. Cơ thể tôi vẫn có thể di chuyển."@
+` Vì sao... tôi lại cảm thấy mình chẳng sống thật?@
+` Tôi đang mất kiểm soát với thực tại.
+\
+` Tohno Shiki đang dần tan biến.
+\
+wave se_01
+textcolor #ffffff
+`"['[line=5] Tohno-kun, cố gắng giữ vững tinh thần, Tohno-kun...']"@
+br
+` Giọng nói của Ciel. Ngay cả khi cô ấy đang giữ tôi, tôi chẳng cảm nhận được gì từ cô ấy cả.@
+br
+`"Shiki, nếu cậu có thể nghe thấy tôi, hãy vội lên. Không có thời gian để do dự hay suy nghĩ."@
+br
+` Tiếng nói của Arcueid. Cô nắm lấy bàn tay tôi.@
+br
+` "Đó là gì vậy? Đây là con dao của tôi."
+\
+`"Cô đã nói như vậy trước đây. Đó là điều cô sẽ giết Roa bằng chính đôi tay mình vào giây phút cuối cùng, nếu cô sẵn sàng, cô phải làm điều đó ngay bây giờ."@
+` "Cô là người duy nhất có thể giết anh ta, nên điều đó vô nghĩa trừ khi cô tự sát trong lúc vẫn còn ở đó."@
+`"...! Cô không thể, Tohno-kun. Nếu cô làm như vậy, cô chỉ sẽ chết...! Nếu cô chỉ tập trung, nếu cô có thể chống lại cơn đau đầu đó, cô có thể trở về, Tohno-kun...""
+\
+textcolor #0000ff
+br
+` [line=7]Đúng vậy.@
+` "Tôi đã chuẩn bị sẵn sàng."@
+br
+` Một tiếng đập mạnh.@
+` Nơi miệng Roa đã xuất hiện ngay đó.@
+` [line=3]Trước đó, tôi nhìn chằm chằm vào cơ thể mình.@
+` Điểm đó tồn tại chính xác trên vết sẹo của tôi.@
+br
+` ... Khi nghĩ lại, SHIKI từng nói điều tương tự.@
+` Cái chết của một ý chí là sự xuất hiện của một ý chí khác.
+\
+textcolor #ffffff
+`"[line=3][line=4]Đừng! Làm ơn đừng... Bạn không thể chắc chắn những gì Arcueid nói là sự thật, tại sao lại?"
+\
+textcolor #0000ff
+br
+br
+br
+br
+br
+` [line=4]"Đúng vậy, tôi hiểu tại sao Ciel lo lắng.@"@
+` "Nhưng những gì Arcueid nói là sự thật.@"@
+` "Bởi vì cô ấy chưa bao giờ nói dối tôi ngay cả một lần nào."
+\
+wave se_01
+` "Tôi đặt con dao lên ngực mình.@"@
+` "Nếu có hai ý chí trong một cuộc đời, @"
+` "thì với một cái chết, bằng một phép tính đơn giản, chỉ có một ý chí sẽ qua đời."@
+` "…… Vậy thì tôi nghĩ điều đó quá đơn giản, nhưng tôi sẽ tin nó."@
+` Ngay cả khi nó không diễn ra theo cách Arcueid nói, bất kể điều gì, Roa cuối cùng cũng sẽ nuốt chửng tôi.@
+` [line=3]Sau đó, tôi sẽ giết bạn ngay tại đây.@
+` Sự tái sinh của bạn đã kết thúc.@
+` Điều tôi nhìn thấy là cái chết của tôi và linh hồn Roa.
+\
+`"[line=13]Tôi cảm nhận được ai đó đang thở gấp."@
+` Sau khi tôi nắm bắt được hơi thở ấy,
+` Tôi siết chặt.@
+` Có ai đó nắm lấy tay tôi rất mạnh.@
+`"[line=11]"@
+` Tôi nghe thấy ai đó thì thầm.@
+` Máu nóng chảy qua cơ thể tôi và tôi cảm nhận được ai đó ôm lấy lưng tôi.@
+br
+` ... Tôi hiểu rồi.@
+` Điều này chẳng là gì cả.@
+` Tôi sẽ sống sót, chắc chắn như vậy, bất kể xảy ra điều gì.@
+` Tôi tin tưởng vững chắc và siết chặt nắm đấm quanh con dao của mình.
+\
+textcolor #ffffff
+playstop
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Nếu cái chết của một ý chí là một ý chí, thì...
+\
+br
+br
+br
+br
+br
+br
+br
+` @ Bạn cô đơn, và có ba chúng tôi.@
+` [line=5]@ Không có cách nào chúng tôi có thể thua!
+\
+quakey 1,400
+bg #000000,crossfade,800
+playstop
+!w4000
+waveloop se_11
+monocro #0000ff
+bg "bg/cmo_09",crossfade,1500
+monocro #ffff00
+bg "bg/cmo_09",crossfade,800
+monocro off
+bg "bg/cmo_09",crossfade,400
+` @ Sau khi đi theo con đường quen thuộc và bước vào ngõ hẻm quen thuộc, tôi đến một nơi lạ lẫm.@
+` @ Tôi chưa bao giờ biết nơi này nằm trên con đường trở về từ trường về tới dinh thự.@
+` @ Một khoảng trống.@
+` Không có bức tường nào xung quanh, nhưng tôi không cảm thấy ai khác ở đây.@
+` Nơi này quá yên tĩnh đến mức cảm giác như đây là nơi duy nhất trên thế giới, và trong đó, một người ngồi trên băng ghế đọc sách.
+\
+`"[line=8]"@
+` Một người đàn ông với mái tóc vàng dài và cặp kính tròn nhỏ.@
+` Với những đường nét sâu sắc, mái tóc vàng, không thể nhầm lẫn rằng anh ta là một người nước ngoài.@
+` Dù có vẻ cứng nhắc, nhưng trên khuôn mặt anh ta vẫn toát lên một bầu không khí mềm mại.@
+` Ngay cả khi trông lạnh lùng, đôi mắt anh ấy lại có vẻ dịu dàng.@
+` …… Có lẽ đó là lý do.@
+` Tôi đã trò chuyện với một người lạ.
+\
+` Sau khi ngước nhìn, anh ấy hỏi tôi muốn gì.@
+` Tôi hỏi anh ấy đang làm gì.@
+` Với nụ cười, anh ấy nói rằng giống như nó trông thấy, anh ấy đang đọc một cuốn sách.@
+` Tôi hỏi liệu nó có thú vị không.@
+` Với nụ cười vô cùng thân thiện, anh ấy tuyên bố không có điều gì thú vị cả.@
+br
+` Anh ấy đứng dậy.@
+` Anh ấy để lại cuốn sách cũ mà anh ấy đang đọc trên ghế đá.
+\
+` Tôi gọi tên cậu ấy.@
+` Tôi nói với cậu ấy rằng cậu quên cuốn sách.@
+` Qua vai cậu ấy, cậu ấy nói rằng cậu đã đọc xong nó.@
+br
+` Các trang của cuốn sách đang lật.@
+` Ngay cả khi không có gió.@
+` Các trang tách ra, và trang một trang, chúng bay đi xa như thể chúng đang biến mất vào không đâu.@
+br
+` Như thể ẩn mình trong cơn bão giấy, hình dáng của cậu ấy bắt đầu mờ dần.@
+` Tôi hỏi cậu ấy đang đi đâu, nhưng cậu ấy chỉ trả lời rằng cậu chưa bao giờ ở đâu cả từ đầu.
+\
+br
+br
+br
+br
+br
+br
+` Chỉ có một người quan sát đang đọc cuốn sách.@
+` Nếu cuốn sách ngừng tồn tại, người quan sát cũng sẽ không còn.
+\
+` Cuối cùng, tất cả các trang bay đi và cuốn sách trở thành không gì cả.@
+` Hình dáng của người đàn ông rõ ràng không đâu để tìm thấy.@
+bg #000000,crossfade,1500
+` Nếu đó là sự thật, thì chẳng đáng ngạc nhiên khi những ký ức không thuộc về tôi về nơi này cũng biến mất.@
+` Cuốn sách mang theo ký ức của nhiều kiếp tái sinh dài dần biến mất.@
+` Và con ma cà rồng tên Roa qua đời một cách thanh lịch sau tám trăm năm.
+\
+wavestop
+bg #ffffff,crossfade,1500
+!w4000
+phase "bg/ima_05",l,cel,13b,epi
+!w1000
+br
+br
+br
+br
+br
+br
+br
+` [line=3]Một tiếng động nhỏ đánh thức tôi.
+\
+bg #ffffff,crossfade,800
+` Tiếng rắc rắc...@
+` Tiếng rắc rắc...@
+` Giống như một tên trộm mở cửa sổ thầm lặng.@
+` Sau đó, những bước chân tiến lại gần tôi.@
+br
+`"Shiki... Đã sáng rồi, dậy đi."@
+br
+` Có ai đó lắc tôi.@
+`"... ..."@
+` Tôi cố kiềm chế cơn đau đầu, từ từ mở mắt ra.
+\
+bg "bg/bg_40a",crossfade,400
+ld c,"tachi/ark_t08",lshutter,400
+play "*3"
+`"Chào buổi sáng! Thời tiết hôm nay đẹp quá, Shiki!"@
+`"... Arcueid, bạn..."@
+` Giữ chặt cái đầu vẫn còn buồn ngủ, tôi nhìn kẻ xâm nhập trước mặt.@
+` Arcueid hành xử như việc ở đây là điều bình thường nhất, và tôi ngạc nhiên khi thấy mình cũng có cảm giác tương tự trong một khoảnh khắc ngắn ngủi.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Hừ? Cái gì? Nếu bạn có điều gì muốn nói, hãy nói thẳng ra đi. Bạn luôn trông có vẻ lo lắng gần đây."@
+`"... Này, ai là người gây ra vấn đề theo ý bạn? Đó là vì những việc bạn làm khiến đầu tôi đau từ sớm buổi sáng và gây căng thẳng cho tôi khi tôi không nên có nó.@
+` Đầu tiên, nếu Senpai phát hiện ra, cô ấy sẽ giết tôi trước khi giết bạn."@
+` Nếu Hisui xuất hiện ngay bây giờ, Akiha sẽ giết tôi trước khi Senpai làm điều đó.
+\
+ld c,"tachi/ark_t08",crossfade,400
+`"Ha ha. Nếu như vậy, cậu cuối cùng cũng sẽ chấm dứt mối quan hệ với Ciel chứ? Nhưng không sao, tôi sẽ nhận trách nhiệm và đưa cậu đi cùng tôi."@
+` Cô ấy cười như thể điều đó thật hài hước. Tất nhiên, tôi chẳng hề cười chút nào.@
+`"... Cậu nghiêm túc à?"@
+ld c,"tachi/ark_t11",crossfade,400
+`"Đúng vậy. Tôi không thường đùa cợt."@
+`"[line=4] Điều đó là sự thật. Sự tồn tại của cậu giống như một trò đùa."
+\
+ld c,"tachi/ark_t16",crossfade,400
+`"Này! Đó là phân biệt đối xử. Cậu rất tốt với mọi người khác, vậy sao lại nói những điều như vậy với tôi?"@
+` Cô ấy nhìn thẳng vào mắt tôi.@
+`"[line=8]Ah..."@
+` ... Tôi có chút lo lắng.@
+` Như thường lệ, Arcueid không do dự và không quan tâm đến trái tim của một người đàn ông.
+\
+`"Dĩ nhiên rồi. Bạn không thể tốt đẹp với ai đó lén lút đến thế, dù bạn đã khuyên họ bao nhiêu lần cũng vậy. Đi đi, tôi sẽ thay đổi."@
+cl c,crossfade,400
+` Nhìn sang Arcueid đang đứng ngay trước mặt tôi, tôi đứng dậy ở bên kia giường như thể đang chạy trốn cô ấy.@
+br
+` [line=4]Sau đó,
+wave se_04
+` có tiếng gõ cửa vang lên khắp căn phòng.
+\
+`"Shiki-sama, đã tỉnh chưa?"@
+` Tiếng của Hisui.@
+` [line=5]Đồng hồ chỉ 10 phút trước 7 giờ.@
+`"Chết tiệt...! Arcueid, nhanh lên, nhảy ra cửa sổ đi..."@
+` Tôi vội vã đến gần cửa sổ và cử chỉ cho cô ấy đến đây.@
+` Nhưng,
+ld c,"tachi/ark_t06",lshutter,800
+` Arcueid chỉ nhìn tôi như thể muốn nói điều gì đó và vẫn đứng giữa phòng tôi.
+\
+`"A, Arcueid...! Làm ơn, hãy nhảy ra ngoài đi..."@
+`"... ..."@
+` Cô ấy không nghe thấy gì cả.@
+`"Shiki-sama? Bạn thức rồi phải không?"@
+`"Uwaa! Chờ đã! Tôi đang thay đổi, nên hãy chờ một chút..."@
+`"Thay đổi? Tôi có đồng phục học sinh của bạn ở đây, nhưng."@
+`"Ờm, không, đó không phải là lý do[line=3]này, chỉ chờ đã! Tôi sẽ sớm xong, nên xin hãy chờ!"
+\
+ld c,"tachi/ark_t07",crossfade,400
+` ... Ừm.@
+` Có lẽ cô ấy không thích tôi nói rằng nó sẽ sớm xong khi Arcueid bắt đầu nhìn có vẻ giận dữ.
+\
+cl c,crossfade,400
+`"Bạn... điều gì khiến bạn không hài lòng, Arcueid...! Tôi không thể làm gì nếu bạn chỉ đến đây một mình và giận dỗi. Nếu có điều gì muốn nói, hãy nói thẳng ra."@
+` Tôi la mắng cô ấy, nhưng rất nhẹ nhàng.@
+br
+` [line=4]Và sau đó,
+br
+ld c,"tachi/ark_t14",crossfade,400
+`"... Vì gần đây cậu không chơi với tôi nữa. Nên tôi nghĩ mình nên làm phiền cậu một chút."@
+` Arcueid thì thầm.
+\
+`"... À, giờ thì. Tôi đã nói với cậu rồi, học sinh chúng tôi có kỳ thi và bận rộn cho đến khi kết thúc. Khi tôi rảnh, tôi sẽ dành cả ngày với cậu, nên cậu hãy về đi nhé?"@
+`"Thật sao? Cậu sẽ làm điều đó trước Ciel à?"@
+`"Ừm... Tôi sẽ cố gắng..."@
+ld c,"tachi/ark_t08",crossfade,400
+`"Tuyệt vời! Đó là một lời hứa, được chứ? Vậy thì tôi sẽ chờ ở ngoài cửa..."@
+cl c,lshutter,400
+` Arcueid nhảy ra khỏi cửa sổ với một bước nhảy nhẹ nhàng.
+\
+ld c,"tachi/his_t01",lshutter,800
+`"Xin lỗi."@
+` Hisui bước vào như thể chỉ đang đổi chỗ thôi.@
+`"Shiki-sama...? Tôi nghe thấy tiếng ai đó nói chuyện, có chuyện gì xảy ra không?"@
+`"[line=5]Ừm... Không, tôi chỉ đang suy nghĩ. Xin lỗi nếu khiến bạn bối rối..."@
+` Một bài thơ chưa có tên... không thực sự thú vị...
+ld c,"tachi/his_t17",crossfade,400
+`"... ..."@
+` Cô ấy nhìn tôi im lặng, không nói gì.@
+` Arcueid gần như mỗi ngày đều đến đây, Hisui có thể đã nhận ra điều đó.
+\
+`"Ôi trời, thời gian rồi. Tôi sẽ nhanh chóng thay đồ và đi đến phòng khách, nên hãy đi trước tôi, Hisui."@
+ld c,"tachi/his_t16",crossfade,800
+`"…… Tôi hiểu rồi. Vậy thì xin lỗi nhé, Shiki-sama."@
+cl c,lshutter,800
+` Cô ấy cúi đầu ngắn gọn và rời khỏi phòng.@
+` …… *thở dài*@
+` Có lẽ chỉ là vấn đề thời gian trước khi cô ấy phát hiện ra.@
+` [line=4]Tôi phải tìm cách nói với Arcueid đừng đến phòng tôi ít nhất là vào buổi sáng.
+\
+playstop
+bg #000000,lcartain,400
+bg "bg/bg_34a",lcartain,400
+play "*2"
+ld c,"tachi/aki_t01b",lshutter,400
+`"Chào buổi sáng, anh trai."@
+` Khi tôi bước vào phòng khách, Akiha chào tôi với một chút sắc sảo trong giọng nói.@
+`"Chào buổi sáng, Akiha. ... Bạn đang dành nhiều thời gian vào buổi sáng này đấy." Tôi nghĩ bạn cần phải rời đi sớm để kịp giờ.@
+` Trường nội trú của Akiha nằm ở tỉnh kế tiếp.@
+` Tôi mới nhận ra gần đây, nhưng Akiha sẽ không đến trường đúng giờ trừ khi cô ấy rời đi bằng xe hơi ba mươi phút trước tôi.
+\
+ld c,"tachi/aki_t03b",crossfade,400
+`"Anh trai, anh có quên những gì tôi nói với anh tối qua không? Mùa đông bắt đầu từ hôm qua đối với tôi. Vì tôi học ở trường tư, lịch trình của tôi khác với anh."@
+`"[line=6]Ồ."@
+` Bây giờ khi cô ấy nhắc lại, cô ấy đang mặc trang phục bình thường.@
+` Ý là chỉ có tôi mới bận rộn.@
+`"Nếu bạn hiểu rồi, hãy đi đến phòng ăn nhé. Bữa sáng của bạn đã sẵn sàng."@
+`"Được rồi. Vậy tôi sẽ ngay lập tức đến."@
+` Tôi để lại Akiha, người đang nghỉ học, và bước vào phòng ăn.
+\
+bg #000000,lshutter,800
+!w1000
+bg "bg/bg_34a",lshutter,800
+` Sau bữa sáng, tôi trở về phòng khách.@
+ld c,"tachi/aki_t03b",lshutter,400
+` Akiha nhìn tôi với ánh mắt lạnh lùng, như thể cô ấy rất bực bội.@
+`"Akiha...? Có chuyện gì không?"@
+`"Không, không thực sự đâu. Chỉ khi bạn đang ăn, có một vị khách đến thăm cậu, anh trai ạ."@
+`"Một vị khách...? Rất sớm thế này?"@
+`"Đúng rồi. Cô ấy dường như đến để đón bạn, một học sinh cao cấp của trường bạn. Tôi đã bảo cô ấy chờ ở cổng vào, nên bạn có lẽ nên vội vã."@
+` Cô ta nhìn chằm chằm vào tôi.@
+` …… Có vẻ như không chỉ là tưởng tượng của tôi, Akiha đang có tâm trạng khó chịu.@
+` Không, thậm chí còn nhiều hơn thế, phải là Senpai đã đến đây……
+\
+`"[line=4]Tôi tự hỏi đã xảy ra điều gì?@ Cậu Ciel đến đón tôi đột ngột hôm nay sao?"@
+` Tôi chắc chắn sẽ biết khi gặp cậu ấy.@
+`"Vậy thì tôi đi đây.@ Tôi có bài kiểm tra hôm nay, nên sẽ về sau trưa."@
+ld c,"tachi/aki_t04b",crossfade,400
+`"Tôi mong chờ điều đó.@ Khi cậu trở lại, tôi muốn nghe câu chuyện của cậu về cậu Ciel này."@
+` Với nụ cười rỗng không đáng sợ, Akiha nhìn tôi rời đi.
+\
+bg #000000,lcartain,800
+playstop
+bg "bg/bg_48a",lcartain,800
+play "*3"
+ld c,"tachi/cel_t01a",tshutter,400
+`"Chào buổi sáng, Tohno-kun."@
+` Như tôi nghĩ, người đang chờ tôi chính là cậu Ciel.@
+`"Ừm, chào buổi sáng... Chờ một chút, Senpai, tại sao cậu lại đến đón tôi hôm nay?"@
+` Tôi hỏi cô ấy một câu hỏi hoàn toàn bình thường.@
+` ... Nhưng cũng là một lý do cho Hisui, người đang quan sát mọi thứ từ phía sau.
+\
+ld c,"tachi/cel_t03",crossfade,400
+`"Không, tôi không có lý do gì rõ ràng.@ Nếu phải nói, tôi chỉ có cảm giác không tốt."@
+`"... Tôi hiểu rồi.@ Tôi vui vì bạn lo lắng cho tôi, nhưng điều đó có chút đáng lo ngại."@
+` Vậy là, tôi nghĩ về cách nên giới thiệu cô ấy với Akiha.@
+` Tôi không chắc tại sao, nhưng tôi có một linh cảm rằng Akiha và Ciel-senpai sẽ không hợp nhau chút nào.@
+` ... Không, tôi rất chắc chắn về điều đó.
+\
+`"Vậy thì chúng ta đi thôi?@ Chúng ta không có nhiều thời gian."@
+` Gật đầu đồng ý, tôi và Ciel-senpai bắt đầu đi bộ.@
+br
+bg "bg/bg_32a",lcartain,800
+ld c,"tachi/his_t16",notrans,0
+`"Chúng tôi đang chờ bạn trở lại, Shiki-sama."@
+cl c,crossfade,400
+` Hisui đưa tôi ra cổng.
+\
+bg #000000,lcartain,400
+bg "bg/bg_22a",lcartain,400
+ld c,"tachi/cel_t12",crossfade,400
+`"Tôi ngạc nhiên. Tohno-kun, cậu có một người giúp việc dễ thương đến tiễn cậu mỗi buổi sáng sao?"@
+`"Đúng vậy, nhưng điều đó không thực sự có ý nghĩa gì. Tôi đã bảo cô ấy không nên làm thế, nhưng Hisui chỉ quá chu đáo khi tiễn tôi thôi."@
+`"Ừm. Hisui-san quả thực rất tận tâm. Nhưng gia đình cậu chắc hẳn rất giàu có để có người giúp việc."@
+`"...@
+` Ciel thật sự rất tò mò.@
+` Cô ấy có nói chuyện với Hisui khi tôi đang ăn sáng không?
+\
+`"Cậu chủ. Tôi sẽ hỏi, nhưng cậu đã nói gì với Hisui?"@
+ld c,"tachi/cel_t02",crossfade,400
+`"Có, tôi nghe rất nhiều điều về cậu từ Hisui-san. Về cách cậu chiều chuộng em gái, về vẻ dễ thương và hơi ngây ngô của cậu vào buổi sáng, những chuyện như thế này."@
+`"... Ý cậu là sao? Tôi không thực sự chiều chuộng Akiha."@
+ld c,"tachi/cel_t04",crossfade,400
+`"Ồ, giống như Hisui-san nói. Cô ấy nói rằng cậu chắc chắn sẽ trả lời rằng cậu không chiều chuộng em gái."@
+`"Ừm... Không chỉ Kohaku-san, mà cả Hisui cũng nghĩ vậy sao?"@
+` "... Ờm. Tôi không cố ý chiều chuộng cô ấy, nhưng họ đều nghĩ như vậy.
+\
+`"Vậy thì được rồi. Tôi đoán đây là số phận, nên cậu có muốn đến nhà tôi sau giờ học không? Em gái tôi đang nghỉ trưa, nên tôi sẽ giới thiệu cậu với cô ấy."@
+`"[line=4]Vâng. Tôi cũng muốn gặp em gái của cậu, Tohno-kun."@
+` Cô ấy mỉm cười nhẹ nhàng.@
+` Nhưng nụ cười đó nhanh chóng biến thành sự thù địch.@
+ld c,"tachi/cel_t06a",crossfade,400
+`"…… Cô ơi……?"@
+`"[line=10]"@
+` Ciel vẫn giữ ánh nhìn sắc sảo, cô đang quan sát xung quanh chúng ta.@
+cl c,crossfade,400
+` Có gì đó ở đây. [line=8]
+\
+ld c,"tachi/ark_t08",tshutter,400
+`"Tôi đang chờ đợi, Shiki!"@
+quakey 4,50
+` Arcueid đột ngột lao về phía sau và đẩy tôi xuống.@
+ld c,"tachi/ark_t11",crossfade,400
+`"Ôi, bạn đã ngã rồi. Thật xấu hổ. Nếu bạn để mình quá lộn xộn vào buổi sáng như vậy, thì điều này sẽ xảy ra."@
+`"... ..."@
+` Điều đó là sai lầm. Một sai lầm nghiêm trọng.@
+` Ngay cả khi bạn chuẩn bị sẵn sàng hoặc cảnh giác, không ai có thể sống sót sau một cú đánh mạnh từ phía sau do một chiếc xe máy đang lao tới.
+\
+`"... ..."@
+` Tôi đứng dậy và chà xát người.@
+cl c,crossfade,400
+` [line=6]Bây giờ.@
+`"[line=5]Bạn đang làm gì vậy?"@
+ld c,"tachi/cel_t06a",lshutter,400
+`"[line=4]Bạn đang làm gì thế!!"@
+` Đồng thời,
+` Ciel-senpai hét to ngay bên cạnh tôi.
+\
+cl c,crossfade,400
+ld l,"tachi/ark_t03",crossfade,400
+`"Ồ? Cậu cũng ở đây à, Ciel?"@
+ld r,"tachi/cel_t07a",crossfade,400
+`"Dĩ nhiên rồi. Đừng giả vờ như không để ý được. Cậu đã lén lút theo chúng tôi một lúc, nên không thể nào cậu không để ý tới tôi."@
+ld l,"tachi/ark_t02",crossfade,400
+`"Điều đó thô lỗ, thật ra tôi chẳng để ý gì cả. Vì đối với Shiki và tôi, việc cậu ở đây hay không chẳng có nghĩa gì."@
+` Cô ấy đơn giản chỉ phớt lờ Ciel-senpai hoàn toàn.
+\
+ld r,"tachi/cel_t06a",crossfade,400
+`"Anh không học hỏi được gì cả, phải không? Tohno-kun đang đi học, nên đừng làm phiền chúng tôi."@
+` Trước tiên, chẳng có lý do nào để anh ở lại quốc gia này, đúng không? Roa đã mất và không còn Tử Đồ ở đây. Có hơn mười Tử Đồ lang thang tự do, nên anh nên tiến về phía họ."@
+ld l,"tachi/ark_t04",crossfade,400
+`"Vâng, tôi dự định làm điều đó mà không cần em nói với tôi. Nhưng tôi phải mang theo Shiki, nên tôi phải thu hút cậu ấy trước."@
+ld r,"tachi/cel_t10a",crossfade,400
+`"R, thu hút cậu ấy!? Tohno-kun sẽ không làm thêm bất kỳ việc nguy hiểm nào! Xin đừng kéo Tohno-kun vào hoàn cảnh ích kỷ của các người!"
+\
+cl a,crossfade,400
+ld c,"tachi/cel_t07a",lshutter,400
+`"Đi cùng tôi, Tohno-kun. Cậu sẽ trở nên kỳ lạ giống cô ấy nếu ở gần con ma cà rồng này quá lâu."@
+` Cô ấy nắm lấy tay tôi và bắt đầu đi xuống đồi.
+\
+cl c,lshutter,400
+ld c,"tachi/ark_t02",crossfade,400
+`"Ồ? Tôi không quan tâm đến những gì các người nói về tôi, nhưng vấn đề của Shiki không phải là thứ mà anh có thể quyết định."@
+` Không quan trọng bạn nghĩ gì, nhưng anh ấy không ghét tôi. Nếu anh ấy nói sẽ giúp tôi, thì chính bạn mới là người cản trở.@
+`"[line=11]"@
+` Ciel dừng lại bất ngờ.
+\
+ld c,"tachi/cel_t07a",crossfade,400
+`"... Tohno-kun. Đừng nói với tôi, cậu định giúp cô ấy à?"@
+` ... Ồ không. Được nhìn chằm chằm bởi đôi mắt vô cảm như vậy thật khó chịu.@
+`"Không... Tôi chưa bao giờ..."@
+`"Vậy thì hãy từ chối cô ấy. Thật ra, cậu nên nói với cô ấy đừng tiếp xúc với cậu nữa."@
+`"... Ừm, Senpai? Cậu thực sự nghĩ tôi nên làm thế à?"@
+` Tôi thì thầm vào tai Ciel.
+\
+`"Dĩ nhiên là cô ấy phải làm thế. Nếu cô ấy nói thẳng với cô ấy, ngay cả cô ấy cũng sẽ hiểu[line=4]."@
+`"Cô nghĩ cô ấy sẽ quay lại sao? Có thể cô đã quên, nhưng tôi được cứu nhờ Arcueid... ...Vậy nên, tôi không biết nói thế nào, nhưng... tôi thực sự không thể nghiêm khắc với Arcueid."@
+ld c,"tachi/cel_t09",crossfade,400
+`"[line=4]Đó có thể là sự thật, nhưng..."@
+` Ciel nhìn đi nơi khác, thất vọng.
+\
+ld c,"tachi/cel_t10d",crossfade,400
+`"B, nhưng tôi vẫn không muốn như vậy! Tohno-kun, chúng ta... ...tôi và cô là người yêu nhau, nên xin đừng để phụ nữ khác quyến rũ anh!"@
+cl c,crossfade,400
+` Cô ấy đỏ mặt đến tận tai, Ciel-senpai nói thẳng thắn.@
+`"[line=10]"@
+` Từ khi cô ấy quá thẳng thắn, tôi cảm thấy ngượng ngùng nhưng cũng vui mừng, và mặt tôi đỏ bừng lên.
+\
+` Dù vậy,
+ld l,"tachi/ark_t01a",crossfade,400
+`"Ồ?@ Cậu rất kiểm soát, Ciel."@
+` Vẫn còn một người nào đó chưa bị khóa chặt.
+\
+ld r,"tachi/cel_t10d",crossfade,400
+`"C-tôi có thể chứ?@ Không có quy tắc nào cấm tôi gắn kết cảm xúc với Tohno-kun cả."@
+ld l,"tachi/ark_t03",crossfade,400
+`"Thật sao?@ Tôi không thực sự quan tâm nếu Shiki thích ai khác.@
+` Nếu Shiki thích tôi, thì phần còn lại là vấn đề của tôi.@ Tôi chẳng phiền nếu cậu cũng thích người khác nữa."@
+`"[line=8]@Hả"@
+` Ciel lắc đầu đáp lại lời của Arcueid.
+\
+ld l,"tachi/ark_t05b",crossfade,400
+`"Này, tôi không thể nói thay cho cô. Để nói rằng tôi không phiền khi anh ấy chỉ thích tôi, điều đó đi kèm với điều kiện cuối cùng là anh ấy sẽ thuộc về tôi."@
+ld l,"tachi/ark_t09",crossfade,400
+` Theo khía cạnh đó, Shiki cũng thích tôi, nên có lẽ tôi giống như cô, Ciel.@
+` "Haha, tôi đoán chỉ yêu anh ấy thôi chưa đủ sớm."@
+`"Gah……!"@
+` Tôi ho to khi nghe điều đó.@
+` Arcueid nói với nụ cười [line=3]
+\
+`"Không được đâu! Đầu tiên, Tohno-kun và tôi, chúng tôi, ừm…… đã làm chuyện ấy rồi, nên không có chỗ cho cô nữa……!"@
+ld l,"tachi/ark_t01a",crossfade,400
+`"Làm chuyện ấy?@ Anh nói là sự kết nối giữa cơ thể các người?@ ... Ồ, tôi hiểu rồi.@ Shiki thích những thứ như thế này à?"@
+` Với nụ cười đầy ẩn ý, Arcueid liếc nhìn tôi.
+\
+`"[line=9]"@
+` Tôi cảm thấy một cơn lạnh chạy dọc sống lưng.@
+` Ngay khi tôi có linh cảm không tốt về điều này, Arcueid nắm lấy cánh tay tôi và[line=4]
+bg #ffffff,tshutter,800
+br
+` Không nói thêm gì, cô ấy áp môi mình vào môi tôi.
+\
+`"N, nn, nn[line=8]!"@
+` Tôi cố gắng chống lại.@
+` Ciel quan sát mọi thứ trong sự sốc.
+\
+`"[line=5][line=5]Không, không."@
+` Tiếng đập. Nhịp tim tôi.@
+` ... Điều này hoàn toàn khác so với lần cô ấy cố gắng khiến tôi uống máu của cô ấy.@
+` Đây thực sự là nụ hôn thể hiện tình yêu.
+\
+`"... Mm... mm..."@
+` Trước khi tôi nhận ra, tôi đáp lại lưỡi cô ấy kiên trì bằng lưỡi mình.@
+` Đập, đập.@
+` Nhịp thở và nhịp tim của chúng ta hòa hợp khiến tôi không còn quan tâm đến bất cứ điều gì.@
+br
+` ... Tôi không thể tin được.@
+` Trước mặt tôi là Ciel, nhưng, cái gì, tôi đang làm gì vậy? [line=4]
+\
+bg "bg/bg_22a",crossfade,400
+` Arcueid lùi lại.@
+`"Nhaa…………!" [line=5]@
+` Tôi hít vào hơi thở đã ngừng lại, và tôi thấy phấn khích trước điều kinh khủng như thế.
+\
+ld c,"tachi/ark_t01a",lshutter,400
+`"Xem nào, dễ ợt mà. Ciel, cậu thật ngốc nghếch khi nghĩ rằng mình được bảo vệ bằng hành động của ai đó mà bất kỳ ai cũng có thể làm được. Cậu đang suy nghĩ gì vậy, cố chống lại tôi chỉ bằng một cử chỉ yêu thương?"@
+cl c,crossfade,400
+` Với nụ cười lớn, Arcueid cười khanh khách trong lúc Ciel-senpai bắt đầu run rẩy.@
+` Ngay cả tôi cũng hiểu được.@
+` @ Ciel-cậu sắp phát điên mất, bất kể có ai gần đó.
+\
+`"Này Shiki, đứng ở đó khá nguy hiểm."@
+` @ Arcueid nắm lấy cánh tay tôi.@
+` Như vậy, cô ấy lao xuống đồi, kéo tôi theo sau.@
+br
+bg "bg/ima_05",lshutter,800
+`"[line=6][line=8]Đợi đã, ma cà rồng ngốc nghếch này!"@
+` Với một âm thanh đáng sợ khiến tôi không dám quay lại, Ciel-cậu chạy theo chúng tôi.
+\
+`"Ha ha ha, Ciel thực sự tức giận, Shiki!"`@
+` Arcueid vẫn nắm chặt tay tôi và chạy vui vẻ.@
+` ... Tôi không biết sẽ xảy ra gì nếu Ciel đuổi theo tôi ngay lúc này, nên có lẽ tôi nên tiếp tục chạy cho đến khi cô ấy bình tĩnh lại...
+\
+` [line=10]Ước...@
+` Với Arcueid nắm chặt tay và Ciel-senpai đuổi theo chúng tôi với sự giận dữ, tôi không thể kìm nén được một tiếng thở dài.@
+` Có lẽ cuộc đời từ bây giờ sẽ luôn như vậy mãi mãi.@
+` Nhưng... Tôi nghĩ tôi đã chuẩn bị sẵn sàng cho điều này rồi.@
+` Kể từ khi Ciel trở nên quý giá đối với tôi nhưng tôi vẫn bị thu hút bởi Arcueid, tôi nghĩ mình đã lờ mờ nhận ra mọi chuyện có thể kết thúc như thế này.
+\
+`"Tohno-kun! Tại sao cậu lại chạy cùng Arcueid[line=4]?!?"@
+` Cô ấy quấn tay mình bằng sự giận dữ và đuổi theo chúng tôi.@
+` ... Chỉ là vấn đề thời gian trước khi cô bắt kịp.@
+br
+` [line=5]
+\
+`Vậy thì.@
+br
+` Trước khi đó, tôi phải tìm ra một cách linh hoạt và hiệu quả để làm dịu Ciel xuống.@
+` Bởi từ bây giờ trở đi,
+` [line=7]Tôi sẽ rơi vào tình huống này lặp đi lặp lại.
+\
+bg #ffffff,crossfade,800
+!w2000
+playstop
+!w2000
+cl a,notrans,0
+bg "word/end",crossfade,1500
+wait 3000
+gosub *ending

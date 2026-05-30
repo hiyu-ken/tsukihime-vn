@@ -1,0 +1,108 @@
+`Lời dẫn Shiki: "Tôi đang nghĩ gì vậy?"
+bg #9c0120,notrans,0
+bg "bg/bg_40a",notrans,0
+play "*1"
+`"[line=3]Tự bản thân mình bấy giờ đang ôm đống suy nghĩ vớ vẩn điên khùng gì thế này?"@`
+` Tuyệt đối tịnh không phải như thế, chỉ dẫu dã là do thể xác tự thân quá mức kiệt quệ mệt mỏi dẫu dã thôi.@`
+` Sâu thẳm cõi lòng tôi bấy giờ dẫu dã vẫn chịu chết tịnh không cách nào xóa nhòa nổi đống ký ức kinh hoàng nổ ra kề bên Yumizuka chốn góc hẻm tối.@`
+` Bản thân tôi chịu chết tịnh không phải là một con ma cà rồng tàn ác.@ Tôi vẫn dẫu dã luôn là một con người bình thường đĩnh đạc như xưa nay dẫu dã chứ.@`
+br
+bg "bg/ima_13b",notrans,0
+bg "bg/bg_40a",notrans,0
+` Tuy dẫu dã vậy dẫu vậy dẫu, dột ngột dẫu dã luôn có một phần nhân cách tà ác ẩn nấp tự thân chốn sâu thẳm vẫn điên cuồng cất công cất bước đi lang thang săn mồi nốc máu tươi suốt đêm trường tịch mịch.@`
+br
+` Thế nên, lẽ nào…@`
+` Trong lúc bản thân tôi chịu chết tịnh không mảy may đề phòng thấu triệt dẫu vậy dẫu dẫu dã, tôi dẫu dã chầm chậm trượt dài đặt chân tới cái ranh giới tử địa chịu chết tịnh không thể quay đầu lại được nữa rồi sao[line=4]
+\
+wave se_04
+ld c,"tachi/his_t12",lshutter,400
+`"Hisui[line=3]?"@`
+` Hisui tịch mịch cất bước bước vào kề bên một diện mạo phảng phất vẻ quýnh quáng vô cùng khẩn trương tự thân.@`
+ld c,"tachi/his_t16b",crossfade,400
+`"…… Em xin sám hối vì tự ý quấy rầy.@ Cậu Shiki dẫu dã cất công thức giấc đĩnh đạc rồi đúng tịnh không ạ?"@`
+` Hisui khẽ khom mình cúi chào một cách vô cùng bình lặng nhẹ nhàng.@`
+cl a,crossfade,400
+` …… Dáng vẻ thanh tú thuần khiết dịu mát tự thân chốn ấy của em quả thực hoàn toàn đối lập nghịch ngợm kề bên bóng hình tàn ác đẫm máu tự thân chốn ác mộng cuồng loạn vừa rồi, lập tức cất công quét sạch đống bấn loạn nghẹn ngào khó chịu chốn lồng ngực tự thân tôi.@`
+\
+`"Tịnh không đâu em đừng lo lắng bận lòng, anh dẫu dã cất công thức dậy từ nãy rồi dẫu dã chứ.@ …… Buổi sáng tốt lành nhé, Hisui.@ Cảm ơn em dẫu dã cất công cất bước sang đây đánh thức anh hằng ngày chu đáo nhường này nhé."@`
+ld c,"tachi/his_t04",crossfade,400
+`"…… Dạ vâng.@ Kính chúc cậu một buổi sáng tốt lành ạ."@`
+` Tiếp tục khom mình khẽ cúi chào lịch sự xong, Hisui chầm chậm tịch mịch cất bước tiến lại gần mép giường ngủ tự thân.@`
+ld c,"tachi/his_t01",crossfade,400
+`"Em dẫu dã cất công chuẩn bị đĩnh đạc mang theo một ly nước mát mát tự thân cho cậu chốn này rồi đây ạ.@ Nếu thể xác tự thân của cậu bấy giờ dẫu dã dột ngột có phần tịnh không được đĩnh đạc đắc lực dẫu dã thế dẫu vậy dẫu dã ổn rồi, cầu xin cậu hãy lẳng lặng dùng tạm chút ít ạ."@`
+` Hisui trang trọng đưa hai tay nâng chiếc khay bạc thanh tú tự thân, trên mặt khay ngự một cốc nước lọc thanh mát chốn ấy.@ Kế bên cốc nước lọc dẫu sao dẫu dẫu cũng dẫu dã cất công bày sẵn một vài liều thuốc uống đắc lực đặc trị.`
+\
+`"……?@ Có chuyện gì oái oăm thế hả Hisui?@ Từ trước tới nay anh tịnh không thấy em cất công mang theo cả đống thuốc thang chữa trị nhường này mỗi sớm mai bao giờ cả dẫu dã chứ."@`
+ld c,"tachi/his_t17",crossfade,400
+`"…… Thưa cậu Shiki, liệu tình trạng thể xác tự thân của cậu bấy giờ vẫn dẫu dã đĩnh đạc bình ổn tốt đẹp tịnh không ạ?@ Diện kiến thấy cậu dẫu dã cất công gồng mình chịu trận dữ dội trong cơn ác mộng cuồng loạn điên cuồng kề bên một diện mạo vô cùng tái mét bấn loạn dẫu dã thế dẫu vậy dẫu dã ổn rồi, nên tự ý em dẫu dã cất công chuẩn bị đắc lực mang theo đống thuốc này sang chăm sóc cho cậu chốn này đây ạ."@`
+`"[line=4]Bản thân anh dẫu dã cất công gồng mình chịu trận dữ dội chốn ác mộng sao?"@`
+ld c,"tachi/his_t04",crossfade,400
+`"Dạ vâng đúng thế ạ.@ Em diện kiến thấy cơ thể tự thân của cậu bấy giờ vô cùng nóng bỏng sốt cao dẫu dã thế dẫu vậy dẫu dã ổn rồi, nên dẫu dã nhanh chóng nhờ cậy chị Kohaku kê đơn đắc lực bốc tạm liều thuốc hạ sốt điều hòa tự thân sang đây chăm bẵm cậu chốn này.@ Lẽ nào sự sự tình ấy dẫu dã quả thực chịu chết tịnh không thực sự cần thiết sao ạ?"@`
+`"Hoàn toàn tịnh không phải như thế đâu em, cảm ơn em dẫu dã cất công lo lắng bận lòng sâu sắc cho anh nhường này nhé."`
+\
+cl a,crossfade,400
+` Tôi lập tức lẳng lặng đón lấy liều thuốc đắc lực kề bên cốc nước mát tự thân từ tay em rồi nhanh chóng nuốt ực xuống cổ họng.@`
+` Tạm thời tịnh không mảy may màng tới đống thuốc đắng ngắt kia dẫu dã thế, dòng nước thanh mát tự nhiên tự thân dạt dào dẫu sao thực sự dẫu dã cứu rỗi thể xác tôi.@`
+` Quả đúng hệt như lời thỏ thẻ giãi bày tự thân của Hisui dẫu vậy dẫu dẫu dã, toàn thân tôi bấy giờ nóng hừng hực hệt như lò lửa thiêu đốt dữ dội dẫu dã thế dẫu vậy, cổ họng tự thân thì khô khốc rát bỏng nhọc nhằn vô cùng.@`
+` Dẫu dã dạt dào chỉ là một cốc nước lọc thuần túy dịu mát dẫu dã thế dẫu vậy dẫu dã ổn rồi, lúc này trôi qua cuống họng thực sự mang lại hương vị vô cùng ngọt ngào tuyệt hảo.`
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Nếu thể xác tự thân của cậu dẫu dã chầm chậm phục hồi đĩnh đạc dễ chịu hơn rồi dẫu dã thế dẫu vậy dẫu dã ổn rồi, xin cậu hãy thong thả tản bộ cất bước di chuyển xuống phòng ăn dùng điểm tâm sáng sớm dẫu dã ổn rồi ạ.@ Bằng tịnh không dẫu dã thế dẫu vậy, cầu xin cậu hôm nay hãy lẳng lặng nằm tịnh dưỡng nghỉ ngơi chịu chết tịnh không nên gượng gạo cất bước tới trường học đâu ạ."@`
+`"Tịnh không đâu, anh chịu chết tịnh không thể tự ý nghỉ học vô cớ nhường này được.@ Anh chịu chết tịnh không nên lười biếng cất bước trốn học chỉ vì đống mệt mỏi nhỏ nhặt tự thân nhường này."@`
+ld c,"tachi/his_t17",crossfade,400
+`"…… Nhưng dẫu dã thế dẫu vậy dẫu dã ổn dẫu dã ổn rồi, diện mạo thần sắc tự thân của cậu Shiki bấy giờ trông vẫn vô cùng tái mét cắt tịnh không còn giọt máu nhường kia kìa cậu ơi."@`
+`"Anh tự thấu triệt sức khỏe tự thân mà, ổn dẫu dã ổn rồi Hisui.@ Dẫu sao dẫu dẫu trường học của anh dẫu dã được lịch nghỉ nguyên ngày vào ngày mai rồi dẫu dã thế.@ Vì ngày mai dẫu sao dẫu dẫu dã được nghỉ ngơi thong thả trọn vẹn dẫu dã thế dẫu vậy, nên hôm nay dẫu có ráng cật lực gồng mình cất bước một chút dẫu dẫu cũng tịnh không dấy lên sự sự tình gì tồi tệ nổi đâu đúng tịnh không nào?"@`
+ld c,"tachi/his_t05",crossfade,400
+`"…………"@`
+` Hisui khẽ cúi mặt nhìn lướt xuống thềm phòng, dáng vẻ tự thân phảng phất nét do dự đăm chiêu hệt như đang bận lòng cất lực kìm nén lời lẽ gì muốn giãi bày thốt ra.@`
+` Liệu diện mạo thần sắc tự thân của mình sớm mai hôm nay thực sự dẫu dã tồi tệ điên dại đến mức nhường ấy sao chứ?`
+\
+`"Hisui ơi, anh cất công hỏi riêng em một sự sự tình này dẫu dã ổn dẫu dã ổn rồi nhé.@ Lẽ nào đêm qua tự thân anh thực sự dẫu dã cất lực co giật bấn loạn trong cơn ác mộng cuồng loạn dữ dội đến thế sao?"@`
+ld c,"tachi/his_t17",crossfade,400
+`"[line=3]…… Dạ vâng đúng thế ạ.@ Tự thân em chịu chết tịnh không thấu triệt sâu sắc thời khắc cậu cất bước quay trở về phòng ngủ tự thân là lúc nào đằng đẵng chốn ấy dẫu dã thế, dẫu vậy khi cậu về tới dẫu dã dạt dào dột ngột nằm vật ra gục rầm xuống chiếc giường ngủ ngủ say li bì vì kiệt sức tự thân rồi.@`
+` Lúc sớm mai khi em cất công cất bước sang phòng đánh thức cậu dậy kề bên việc nhẹ nhàng kéo rèm cửa đón ánh ban mai dẫu vậy dẫu dẫu dã, em dẫu dã vô cùng bàng hoàng diện kiến thấy cậu đang vật vã đau đớn dữ dội khôn xiết chốn ấy, nhịp thở lồng ngực tự thân dồn dập đứt quãng vô cùng tồi tệ."@`
+` …… Ra dẫu dã thế rồi.@ Ôm một giấc mộng điên cuồng ác độc chém giết dismemberment đẫm máu nhường ấy dẫu vậy dẫu dẫu dã dạt dào bảo sao cơ thể tự thân chịu chết tịnh không chịu cảnh đớn đau co thắt vật vã dạt dào lồng ngực cho đành cơ chứ…… Ơ kìa?@ Cậu hãy lẳng lặng khựng trí não suy ngẫm bận lòng kĩ lại một thoáng xem nào bấy giờ.`
+\
+`"[line=3]Hisui.@ Sự sự tình em vừa mở miệng thỏ thỏ thỏ thẻ giãi bày... dạt dào dẫu dã là thế nào cơ?"@`
+ld c,"tachi/his_t01",crossfade,400
+`"Dạ vâng, em giãi bày là thể trạng thể xác tự thân của cậu dẫu dã rơi vào tình cảnh vô cùng kém đắc lực từ sớm mai bấy giờ rồi ạ."@`
+`"Tịnh không phải câu ấy đâu em, cái câu giãi bày trước chốn ấy cơ!@ Em bảo anh dẫu dã cất bước quay trở về phòng ngủ sao?@ Rốt cuộc anh cất công cất bước đi chốn nào rồi quay về cơ chứ!?"@`
+`"[line=3]…… Dạ chuyện chốn ấy tự thân em chịu chết tịnh không cách nào thấu triệt rõ ràng được đâu ạ.@ Có điều chị Kohaku dẫu dã thong thả giãi bày kể lể kề bên em rằng tự mắt chị dẫu dã vô tình diện kiến bắt gặp bóng dáng tự thân của cậu cất bước ra ngoài dinh thự trong lúc làm nhiệm vụ tuần tra tuần tra dinh thự đêm hôm qua đấy ạ."@`
+`"…… Bản thân anh... dẫu dã cất bước ra ngoài thật sao...?"@`
+`"Dạ vâng đúng thế ạ.@ Bởi vì chị Kohaku kề bên em xưa nay vốn dĩ dẫu dã có lịch trình phân bổ túc trực siêng năng đi cất công tuần tra quanh dinh thự định kỳ ba tiếng một lần đằng đẵng dẫu dã thế.@ Khoảng thời khắc nửa đêm tịch mịch hôm qua lúc chị Kohaku cất bước đi tuần tra dạt dào dẫu vậy dẫu dẫu dã, tự mắt chị dẫu dã diện kiến thấu rõ bóng hình cậu Shiki lẳng lặng cất bước rời khỏi tòa dinh thự bề thế bấy giờ."@`
+\
+`"Cái... cái gì cơ chứ..."@`
+`"Tuy nhiên diện kiến thấy cậu dẫu dã cất công tản bộ quay trở về phòng ngủ tự thân đĩnh đạc an toàn trước thời điểm sớm mai bấy giờ dẫu dã thế dẫu vậy, nên chị Kohaku dẫu dã tịch mịch giữ kín bí mật chịu chết tịnh không mở miệng giãi bày kể lể nửa lời sự sự tình này kề bên tiểu thư Akiha đâu ạ.@`
+` …… Vốn dĩ xưa nay chị Kohaku lúc nào dẫu dẫu cũng vô cùng nuông chiều ưu ái đắc lực đối kề bên cậu Shiki dẫu dã thế, nên anh cứ lẳng lặng an tâm rằng sự sự tình này nhất định dẫu dã được lẳng lặng giấu kín đắc lực chốn ấy thôi ạ."@`
+cl a,crossfade,400
+`"[line=7]"@`
+` [line=3]Ch... chuyện quái đản oái oăm gì hiển hiện chốn này bấy giờ thế hả trời?@`
+` Bản thân mình thực sự dẫu dã cất bước ra ngoài giữa đêm hôm qua thật sao?@`
+` Chịu chết tịnh không thể có chuyện hoang đường điên rồ nhường ấy được.@ Bản thân tôi bấy giờ dẫu dã luôn lẳng lặng chìm sâu vào giấc ngủ say sưa tự thân trên giường ngủ, dạt dào độc nhất là trải qua một giấc mộng ảo ảnh dẫu dã thôi mà.@`
+` Trải qua cả một giấc mộng... vô cùng sống động chân thực... chém giết... uống máu tươi điên cuồng nhường ấy dẫu dã thế.`
+\
+`"Hự...[line=4]"@`
+` Thế dẫu vậy dẫu dẫu dã thế dẫu vậy, sự sự tình này quả thực vô cùng quái đản dị thường chốn ấy.@`
+` Vốn dĩ đống mộng mị bình thường dẫu dã nhanh chóng bị trí não xóa nhòa bay biến hoàn toàn ngay thời khắc bản thân vừa cất công tỉnh giấc dẫu dã thế, cớ làm sao lúc này tự thân tôi dẫu dã có thể lẳng lặng lẩm bẩm ghi khắc rõ mồn một từng chi tiết nhỏ nhặt tự thân chốn ác mộng ấy sinh động chân thực đến nhường này chứ...`
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Cậu Shiki ơi…?@ Diện mạo thần sắc tự thân của cậu bấy giờ trông vẫn vô cùng tái mét tệ hại quá chừng chốn ấy.@ Hiện thời thể trạng cậu dẫu dã thực sự bình ổn tốt đắc lực hơn chưa ạ?"@`
+`"À dẫu dã ổn rồi em, anh tịnh không sao đâu, tịnh không có gì bất ổn đớn đau bận lòng cả đâu.@ Thể xác anh vẫn đĩnh đạc khỏe khoắn đắc lực vô cùng chốn này dẫu dã ổn rồi dẫu dã ổn rồi, thế nên Hisui cứ cất công cất bước đi xuống trước dẫu dã ổn rồi nhé…… Anh dẫu dã sửa soạn xong xuôi rồi cất bước xuống sảnh ngay bấy giờ dẫu dã ổn thôi."@`
+ld c,"tachi/his_t16",crossfade,400
+`"Dạ vâng em đã thấu triệt rõ ràng rồi ạ.@ Em xin phép cất công cất bước đi xuống sảnh sảnh phòng ăn đứng túc trực chờ đợi cậu bấy giờ đây ạ."@`
+cl a,crossfade,400
+` Lẳng lặng khép cánh cửa gỗ tự thân lại phía sau lưng, Hisui tịch mịch cất bước bước ra khỏi phòng ngủ tự thân.@`
+br
+`"…… Đúng thế dẫu dã ổn rồi, tự bản thân mình bấy giờ vô cùng đĩnh đạc khỏe mạnh chốn này dẫu dã ổn dẫu dã ổn rồi.@ Tịnh không hề dấy lên bất cứ sự sự tình tồi tệ bệnh tật kinh hoàng nào cả chốn này.@ Bản thân mình dẫu sao dẫu dẫu vẫn vô cùng đĩnh đạc ổn thỏa…… ổn thỏa……"@`
+` Tôi chịu chết tịnh không ngừng liên tục lẩm nhẩm thốt lên hàng tá đống câu chữ ấy một mình tự thân, cật lực ráng chút tâm lực mỏng manh để trấn an cõi lòng tự thân đang bấn loạn run rẩy dữ dội.
+\
+bg #000000,crossfade,800
+!w2000
+bg "bg/bg_33a",lcartain,800
+playstop
+` Để cất bước di chuyển đặt chân tới gian phòng ăn dùng điểm tâm sớm mai dẫu dã thế dẫu vậy dẫu dã ổn rồi, bản thân tôi dột ngột buộc phải cất công cất bước băng ngang qua căn phòng khách chính chốn dinh thự chốn ấy.@`
+` …… Ôi chao quả thực vô cùng nản lòng nhụt chí quá chừng chốn ấy.@ Thực lòng mà giãi bày dạt dào bấy giờ dẫu dã thế dẫu vậy, trong thâm tâm tự thân tôi chịu chết tịnh không hề mưu cầu mong muốn diện kiến diện mạo của bất cứ ai ngự chốn này vào lúc này cả chốn ấy.@`
+` Từ bóng hình Hisui kề bên chị Kohaku-san dạt dào dẫu dã thế dẫu vậy dẫu dã ổn rồi, cho tới... cho tới cả diện mạo tự thân của Akiha nữa dẫu dã thế.@ Bản thân tôi bấy giờ chịu chết tịnh không mảy may dám tự tin khẳng định liệu có thể thong thả giữ vững phong thái hành xử tự nhiên thong thả như thường lệ trước mặt họ nổi tịnh không nữa chốn ấy.@`
+br
+` Mình sẽ phải[line=4]
+\

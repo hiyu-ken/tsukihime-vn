@@ -1,0 +1,25 @@
+play "*6"
+wavestop
+monocro #0000ff
+bg "bg/bg_33d",notrans,0
+` [line=4]phía đông, tầng một, tôi nghĩ vậy.
+\
+bg #000000,lcartain,400
+bg "bg/bg_34b",tcartain,400
+`"……… Huh?"@
+` [line=4]Tôi đang nghĩ gì vậy?@
+` Tất cả những gì ở cánh đông, tầng một chỉ là phòng khách và bếp, không phải là phòng của ai.@
+`"[line=4]Đông là đông, nhưng phòng của cô ấy ở tầng hai……!"@
+` Tôi tự trách mình, vội vàng chạy lên cầu thang.
+\
+bg #000000,lcartain,400
+` …… Tôi chạy lên cầu thang.
+\
+` Không khí nóng bức và cảm giác bất an dường như kéo dài qua màn đêm như tấm kính.@
+br
+` [line=4]*Hít thở gấp gáp*, *hít thở gấp gáp*, *hít thở gấp gáp*.@
+br
+` Tôi thở dốc, đến tận đầu cầu thang và đi dọc hành lang.@
+` ... Đau lưng tôi càng trở nên khó chịu.@
+` Cảm giác khủng khiếp trong không khí này càng nặng nề khi tôi tiến gần hơn đến phòng của Akiha.
+\

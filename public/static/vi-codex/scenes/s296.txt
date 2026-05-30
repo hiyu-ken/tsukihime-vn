@@ -1,0 +1,30 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_27b",notrans,0
+`"[line=6]"@`
+br
+` …… Tôi không thể làm được.@`
+` Tôi tuyệt đối không muốn chị ấy nhìn thấy mình trong bộ dạng gớm ghiếc thế này... hệt như một kẻ sát nhân tàn độc.@`
+` Không một ai có thể cứu rỗi cuộc đời tôi nữa rồi.@`
+` Bản thân tôi cũng tuyệt nhiên không thể mở lời cầu xin sự giúp đỡ của bất kỳ ai.`
+\
+` Thứ xung năng cuồng bạo này.@ Chỉ tồn tại độc nhất một phương cách để tiêu diệt tận gốc kẻ tên "Roa" đang ngự trị bên trong cơ thể tôi.@`
+` Tương tự như gã đàn ông xa lạ mà tôi đã chứng kiến trong mảnh ký ức truyền kiếp của giấc mơ trước đó.@`
+` Hoặc là tôi chấp nhận để nàng công chúa ma cà rồng kiều diễm trong sắc trắng tinh khôi kia kết liễu mạng sống, bằng không[line=4]để ngăn chặn việc xuất hiện thêm bất kỳ nạn nhân vô tội nào nữa, bản thân tôi phải tự mình hạ bức màn kết thúc cuộc đời.`
+\
+`"[line=3]Hực."@`
+` …… Không, chưa thể kết thúc lúc này được.@`
+` Bên trong cơ thể này, phần linh hồn của Tohno Shiki vẫn đang kiên cường chống chọi.@`
+` Bản thân tôi lúc này vẫn chưa hề nhẫn tâm tự tay sát hại bất kỳ ai cả.@`
+` Thế nên[line=3]chắc chắn phải tồn tại một lối thoát nào đó chứ.@`
+` Tôi tuyệt đối không thể cam chịu kết thúc cuộc đời một cách thảm hại nơi đây được.@`
+` Gã ma cà rồng tàn độc gieo rắc nỗi kinh hoàng cho thành phố này đã bị tiêu diệt rồi.@`
+` Và chị Ciel bấy giờ vẫn luôn kề cận bên tôi.@`
+` Bản thân tôi đã chạm tay tới hạnh phúc ngọt ngào, hệt như trong một giấc mơ êm đềm vậy.@`
+` Thế nên[line=3]tôi tuyệt đối không muốn bản thân phải sớm bừng tỉnh khỏi giấc mộng đẹp đẽ ấy lúc này.`
+\
+` Miễn là tôi vẫn còn được hít thở sinh tồn.@`
+` Chừng nào phần nhân tính ít ỏi bên trong tôi vẫn còn chưa tiêu biến sạch sẽ, tôi bắt buộc phải điên cuồng tìm kiếm phương cách để chế ngự con quái vật hung tàn đang ngự trị bên trong mình[line=3]`
+\
+bg #000000,lshutter,800

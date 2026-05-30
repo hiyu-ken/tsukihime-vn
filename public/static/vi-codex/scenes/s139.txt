@@ -1,0 +1,90 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_29b",lcartain,800
+ld c,"tachi/ark_t04",crossfade,400
+play "*1"
+`"Shiki, bạn muốn nói về điều gì?"@
+`"Về những kẻ ma cà rồng. Bạn đã nói về điều đó trước đây. Những vụ giết người hàng loạt gần đây là việc làm của một ma cà rồng,"@
+` Arcueid gật đầu.@
+`"Vậy thì bạn có biết tin tức buổi sáng không? Một nạn nhân khác được tìm thấy. Cô ấy bị giết vào đêm qua và máu cô ấy đã bị hút sạch."@
+ld c,"tachi/ark_t06",crossfade,400
+`"[line=5]"@
+` ... Mắt Arcueid khép lại.@
+` Có điều gì đó...
+` Một sự căng thẳng như đông cứng chạy dọc sống lưng tôi.
+\
+ld c,"tachi/ark_t07",crossfade,400
+`"Ồ? Và?"@
+`"[line=3]Và?... @
+` Tôi nuốt nước bọt. @
+` Cô ấy nhìn thẳng vào tôi. @
+` [line=3]Một cái nhìn gần như thách thức, thể hiện rằng cô ấy sẽ tấn công ngay lập tức nếu tôi di chuyển dù chỉ một chút.
+\
+`"[line=3]Không phải sao? Arcueid? @
+` [line=3]Nrvnqsr đã chết. Vậy tại sao những sự việc này vẫn tiếp diễn? Đừng nói với tôi, rằng... bạn?"@
+\
+ld c,"tachi/ark_t03",crossfade,400
+`"Đó không phải là tất cả. Đó không phải là tôi, mà là một con ma cà rồng khác."@
+` Arcueid đáp lại ngay lập tức, xua tan căng thẳng.@
+` Nhưng tôi vẫn chưa hài lòng.
+\
+`"Ý cậu là gì?@ Làm việc của một ma cà rồng khác sao?@ Vậy họ cứ tiếp tục xuất hiện?"@
+ld c,"tachi/ark_t01b",crossfade,400
+`"Đương nhiên không.@ Những vụ giết người hàng loạt luôn là việc làm của một ma cà rồng duy nhất từ đầu.@ Vì vậy không có ma cà rồng mới nào sẽ đến, và Nrvnqsr không liên quan đến những sự cố đó."@
+br
+` [line=4]"Ồ?@
+` Nrvnqsr không liên quan……?@
+br
+`"[line=3]Ý cậu là gì?"@
+`"Chỉ như tôi đã nói.@ …… Cậu thường rất sắc sảo, nhưng lại lạc đề ở một số điểm.@ Hãy nhớ lại, Shiki.@ Nrvnqsr là một ma cà rồng, nhưng có bao giờ anh ta hút máu con người không?"
+\
+cl c,crossfade,400
+`"[line=3]Hút máu?@ Anh ta ăn thịt con người và [...] oh."
+\
+br
+` Tôi hiểu rồi.@
+` Tại sao tôi lại không nhận ra sai lầm đơn giản này?@
+` Nạn nhân của những vụ giết người hàng loạt được tìm thấy với cơ thể cạn kiệt máu.
+\
+` Nhưng Nrvnqsr lại khác biệt.@
+` Anh ta không để lại xác chết nào. Anh ta không chỉ uống máu, mà còn ăn thịt, không để lại dấu vết nào.@
+` Để chứng minh điều đó, những người bị anh ta ăn trong khách sạn được xử lý như những người mất tích, chứ không phải là những người bị giết.@
+br
+` [line=3]Vậy có nghĩa là nó hoàn toàn khác biệt.
+\
+`"Chờ đã. Vậy vụ giết người hàng loạt đang diễn ra hiện tại là gì? Ai mới là kẻ thực hiện nó?@
+ld c,"tachi/ark_t03",crossfade,400
+`"Đó là một loài ma cà rồng khác so với Nrvnqsr. Để nói chính xác hơn, ma cà rồng mà tôi đến đây tìm là lý do tôi đến đây, và Nrvnqsr theo sau tôi. Nó giống như mối quan hệ như vậy."@
+`"[line=3] Ôi trời... Vậy kẻ mà cậu truy lùng không phải là Nrvnqsr sao!??"
+\
+ld c,"tachi/ark_t01a",crossfade,400
+`"Đúng vậy, tôi chưa bao giờ nói rằng anh ấy là mục tiêu ban đầu của tôi. Tôi là mục tiêu của anh ấy, nhưng anh ấy chưa bao giờ là mục tiêu của tôi; mục tiêu thực sự của tôi là kẻ được gọi là 'kẻ giết người hàng loạt' trong thành phố này."@
+` Shiki... Tôi không hoàn toàn tin điều này, nhưng đừng nói với tôi cậu đã mắc sai lầm quá đơn giản?"@
+ld c,"tachi/ark_t11",crossfade,400
+`" Ôi trời!"
+\
+cl c,crossfade,400
+`"[line=5]Tôi thốt lên đầy sốc.@
+` Nhưng nó thực sự đúng như cô ấy nói.@
+` "[line=3]Vậy là..."@
+` [line=4]Cô ấy nói mục đích của cô ấy là giết ma cà rồng, nên tôi chỉ nghĩ rằng Nrvnqsr là đối tượng mà cô ấy nhắm đến.
+\
+br
+`"... Vậy điều đó có ý nghĩa gì? Giết Nrvnqsr đêm qua, thật vô nghĩa..."!?"
+\
+ld c,"tachi/ark_t01b",crossfade,400
+`"Đó không phải là việc vô nghĩa, cậu đã chiến đấu thay cho tôi. Này, nếu cậu không giết tôi, có lẽ cậu cũng chẳng cần làm điều đó từ đầu."@
+br
+`"[line=6]"@
+` Tôi cảm thấy một chút choáng váng.
+\
+`"... Ý tôi là, những vụ giết ma cà rồng kia hoàn toàn không liên quan gì đến Nrvnqsr và đó là việc của một ma cà rồng khác..."?@
+`"Đúng vậy. Nhưng đó là vấn đề của tôi, nên cậu không cần lo lắng về nó. Hơn nữa, chuyện này còn quan trọng hơn thế."
+\
+playstop
+cl c,crossfade,400
+` Với nụ cười vô cùng hạnh phúc, Arcueid nhìn lên tôi khi tôi vẫn còn ngạc nhiên đứng đó.@
+br
+`"Đêm qua thế nào? Ai đến vậy?"
+\

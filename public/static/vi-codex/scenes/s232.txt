@@ -1,0 +1,74 @@
+monocro off
+play "*3"
+wavestop
+bg "bg/bg_11b",notrans,0
+br
+` Thôi kệ đi, cứ ăn trước đã.@
+` Tôi tin rằng tấm lòng của người khác thì mình nên đón nhận.
+\
+`"[line=3]Thế thì em xin nhận ạ.@ Em cũng đói lắm rồi, nên nếu Senpai không phiền thì em ăn nhé."@
+` Đúng vậy, dù cho đồ ăn có hơi quá hạn một chút thì tôi cũng chẳng bận tâm đâu.@
+ld c,"tachi/cel_t04",crossfade,400
+`"Vậy tụi mình đến phòng trà đạo đi.@ Đến đó chị sẽ pha trà cho em uống."@
+cl c,crossfade,800
+` Nói rồi Senpai thoăn thoắt bước đi dọc hành lang.
+\
+playstop
+bg #000000,lcartain,800
+!w500
+bg "event/cel_e02b",lcartain,800
+play "*2"
+`"Em xin phép dùng bữa ạ."@
+` Tôi chắp tay làm lễ rồi bắt đầu xử lý phần cơm trưa của Senpai.@
+` *Ngoàm, ngoàm.*@ Tôi ăn ngon lành chẳng chút giữ kẽ dưới ánh mắt chăm chú của Senpai.
+\
+` *Ngoàm, ngoàm.*
+\
+` *Nhai.*@ *Nhai.*@ *Nhai.*@
+` *Nhai.*@ *Nhai.*@ *Nhai.*@ *Nhai.*
+\
+`"[line=4]Ực."@
+` Tôi uống ực một ngụm trà.@
+` Senpai vẫn cứ chăm chăm nhìn tôi.
+\
+`"Có ngon không em?"@
+`"Ừm, nó lạnh ngắt và chẳng ngon lành gì cả."@
+` …… Chính tôi cũng tự thấy lời nhận xét đó hơi thẳng thắn quá đà, nhưng tính tôi vốn thế rồi, chẳng sửa được.@
+` Senpai khẽ bật cười rồi nhìn thẳng vào mắt tôi.@
+`"Tohno-kun này, nhìn em có vẻ trải đời ghê nhỉ."@
+` Chị ấy nói bằng giọng điệu hết sức dịu dàng.
+\
+`"…… Dạ?@ Em chẳng hiểu Senpai nói gì cả.@ Tự dưng lại bảo em thế."@
+`"Nhưng thật mà.@ Bình thường đâu có ai chịu ăn lại phần cơm ăn dở của người khác một cách tự nhiên như thế đâu.@ Em dường như chẳng hề bận tâm đến ánh mắt hay suy nghĩ của người khác về mình nhỉ?"@
+`"[line=3]?@ Thật thế ạ?@ Em cũng chẳng tự ý thức được thế đâu."@
+br
+` Tôi chỉ đơn thuần là sống thật với bản thân mình thôi.
+\
+` Nhưng, nếu sống bất cần đời như thế được coi là trải đời, thì người trước mặt tôi đây còn xứng danh nhà thông thái hơn tôi nhiều.@
+` Nếu là tôi[line=3], tôi chắc chắn sẽ chẳng bao giờ tự mình đi sửa đống hàng rào gỗ ngoài sân trường mà ai ai cũng ngó lơ như thế cả.
+\
+`"Theo em thấy thì chính Senpai mới là người trải đời hơn em nhiều ấy.@
+` Lúc nào Senpai cũng sống theo nhịp sống riêng của mình.@ Chỉ đứng nhìn thôi cũng thấy dễ chịu rồi."@
+` Tôi chia sẻ thật lòng.@
+` Dù rõ ràng đó là một lời khen, thế nhưng Senpai chỉ khẽ thở dài "Ồ, ra vậy à," rồi ỉu xìu đầy thất vọng.
+\
+`"Ơ…… Senpai?@ Em lỡ lời gì ạ?"@
+`"[line=2]Có chứ.@
+` Vì bình thường người ta chỉ dùng cụm từ đó cho mấy bà cô già ế chồng thôi.@ Chị là con gái mà nghe thế tổn thương sâu sắc luôn á."@
+` …… Hừm.@ Chắc đối với Senpai, từ đó mang nghĩa là "già cỗi" chứ chẳng liên quan gì đến triết lý cả.
+\
+`"Thế ạ?@ Vậy ra ý chị bảo là em đang hành xử giống như một ông cụ non đúng không?@ Xin lỗi chị nhé, em chỉ là một cậu học sinh cấp ba đang dũng cảm đối mặt với phong ba bão táp cuộc đời thôi."@
+`"Á, nhưng em đâu có chối được.@ Vì cái đệm ngồi với tách trà nóng hợp với em cực kỳ luôn ấy.@ Lúc nào cũng điềm đạm, trông em y hệt một ông cụ về hưu vậy."@
+` Senpai khúc khích cười trêu.@
+` …… Tôi thì muốn nghe chị khen mình là một chàng trai mặc đồ truyền thống Nhật Bản trông rất bảnh cơ, nhưng nếu Senpai đã bảo tôi giống một ông lão về hưu, thì có lẽ chuyện đó cũng không hẳn là tệ lắm.
+\
+`"Ồ.@ Thế thì thưa người bạn già, chúng ta làm chén trà rồi đàm đạo chuyện nhân sinh thế thái chứ nhỉ?"@
+`"Em rất sẵn lòng tiếp chuyện anh mà, Shiki-san."@
+` Nở nụ cười rạng rỡ, Senpai châm thêm nước trà vào tách của tôi.
+\
+bg #000000,lshutter,800
+` Một giờ đồng hồ trôi qua.@
+` Chúng tôi mải miết trò chuyện cho đến tận năm giờ rưỡi chiều, rồi vội bước ra cổng trường ngay trước khi nó đóng cửa, và tạm biệt nhau ở ngã tư đường.
+\
+!w1000
+playstop

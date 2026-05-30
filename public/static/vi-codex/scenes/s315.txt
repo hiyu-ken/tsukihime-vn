@@ -1,0 +1,128 @@
+bg #000000,notrans,0
+playstop
+wavestop
+!w3000
+bg "bg/bg_33d",crossfade,800
+`dòng âm thanh lặp lại` _se_11_
+` Cánh cửa mở ra với một âm thanh rắc rắc.@
+` Với một thể xác rệu rã rã rời và thần trí mỏi mệt tê dại, tôi nhọc nhằn lết bước chân quay trở về mansion.@`
+` Những bước chân của tôi chậm chạp theo sau tôi.@
+` Ánh trăng lạnh lẽo tịch mịch soi rọi bóng hình đơn độc gầy guộc của tôi bấy giờ trông hệt như một bóng ma kiệt quệ dật dờ.`
+\
+`"["[line=11]"]"@
+` …… Cánh tay trái của tôi buốt nhói dữ dội tại chính vết thương mà Yumizuka đã nhẫn tâm cào rách.@`
+` Dẫu cho máu tươi đã chầm chậm ngừng chảy, cơn đau buốt dịu đi dẫu vậy vẫn là bằng chứng hiển nhiên cho thấy vết cào ấy tuyệt đối tịnh không quá sâu.`
+\
+`"[line=11]" Tôi đã đến bậc thang.@
+` Tôi không quan tâm đến việc chăm sóc vết thương của mình.@
+` Lúc này, tôi chỉ muốn lắc mình và trở về phòng để ngủ như một tảng đá.@
+` Lúc này, tôi chỉ khao khát muốn lập tức stumble lết về phòng mình rồi gục đầu ngủ li bì như một tảng đá bất động[line=4]`
+\
+bg #000000,crossfade,800
+wavestop
+!w4000
+Tôi thức dậy từ một giấc ngủ dài.
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,400
+play "*2"
+` Ánh nắng mặt trời chiếu vào cửa sổ gần như là trưa hơn là sáng sớm.@
+` Có lẽ vì tôi đã về muộn đêm qua.@
+` Tôi dường như đã ngủ quá lâu.@
+` "... ..."
+\
+`"Tôi ngồi dậy, nhìn xuống bàn tay mình.@
+` Cảm giác khi tôi đâm Yumizuka vẫn còn đó.@
+` [line=4]Cảm giác ghê tởm dữ dội khi tự tay vung dao đâm xuyên qua Yumizuka bấy giờ dẫu vậy vẫn vẹn nguyên sờ sờ ở đầu ngón tay.`
+` Hai đêm trước.@
+` Khoảnh khắc định mệnh gặp gỡ Yumizuka và tận mắt chiêm ngưỡng giấc mộng tàn khốc đầy máu ấy.@`
+`"…… Giá như... thảm kịch ngày hôm qua…… chỉ là một giấc mộng ngọt ngào hư ảo thì tốt biết mấy."@`
+` Nhưng hy vọng không thể biến điều đó thành hiện thực.@
+` Tôi hoàn toàn chịu chết chịu chết tịnh không rõ nguyên cớ cớ sao Yumizuka lại hóa thành ma cà rồng tàn ác nhường ấy, và bản thân tôi bấy giờ dẫu vậy tịnh không cách nào dang tay cứu rỗi cuộc đời em ấy nổi.`
+\
+` [line=3]Không.@
+` Một khi Yumizuka đã lỡ sa chân vào nghịch cảnh tàn khốc ấy, có lẽ tuyệt nhiên tịnh không một ai trên đời có thể dang tay cứu rỗi nổi cuộc đời em nữa.@`
+` Em vốn dĩ đã lìa đời lạnh lẽo từ trước rồi.@`
+` Tất thảy những gì tôi vừa cắn răng làm chỉ đơn thuần là đưa cái xác không hồn đang di động quỷ dị kia quay trở lại trạng thái tịch mịch yên nghỉ vốn có của một tử thi mà thôi.@ Đó là cách thức duy nhất hòng xoa dịu lương tâm tự thân lúc này vậy.@`
+br
+` Dẫu vậy dẫu vậy, lòng tôi bấy giờ vẫn nhói đau[line=3]`
+br
+wave se_04
+`"Em xin phép mạo muội bước vào phòng ạ, cậu Shiki."@`
+` Với giọng nói quen thuộc của mình, Hisui bước vào phòng.
+\
+ld c,"tachi/his_t01",lcartain,800
+`"Chào buổi sáng, Shiki-sama. Anh cảm thấy thế nào hôm nay?"@
+`"Ừm...  À, tôi ngủ ngon nên không có cảm giác gì cả."@
+`"Dạ thế thì tốt quá ạ.@ Nghe cậu giãi bày như thế làm em thực sự nhẹ lòng đi nhiều lắm."@`
+` ...Dù cô ấy nói vậy, tôi vẫn không thấy cô ấy thả lỏng vai hay cho thấy bất kỳ dấu hiệu nào về sự thư giãn.
+\
+`"………"@
+` Nhưng tôi cũng cảm thấy nhẹ nhõm.@
+` Vì những gì đã xảy ra đêm qua, đêm dài đã kết thúc. Bởi vì tôi không còn phải bước vào thế giới bất tự nhiên đó nữa, trái tim tôi có thể thư giãn.@
+`"…… Cảm ơn em nhé, Hisui.@ Lúc nào em cũng cất công tới thăm nom đánh thức tôi từ sớm tinh mơ nhường này nhỉ?@ Sự ân cần chăm sóc ấy ngọt ngào ấy thực sự có ý nghĩa đối với tôi lắm."@`
+ld c,"tachi/his_t03",crossfade,400
+`"[line=4] Không có gì. Đó là nhiệm vụ của tôi để quan tâm đến phúc lợi của bạn."@
+` Có một chút hạnh phúc trong biểu cảm của Hisui.
+\
+` …… Hơn nữa, tôi cảm thấy như mình đã được giải cứu một phần.@
+` Trong khi tôi ngủ trên giường như vậy, Hisui đến như thường lệ để đánh thức tôi.@
+` Chỉ với điều nhỏ nhặt này, tôi thực sự cảm thấy như đã quay lại cuộc sống bình thường của mình.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"Ừm... Shiki-sama, chuyện này hơi khó nói cho tôi, nhưng... tôi có thể?"@
+`"...?@ Khó nói?@ Nếu là về việc tôi ngủ đến trưa, tôi thực sự chỉ biết xin lỗi."@
+ld c,"tachi/his_t23",crossfade,400
+`"Không, ý tôi không phải như vậy, nhưng có lẽ liên quan đến lúc bạn ngủ."@
+` Hisui nhíu mày, luồn ngón tay qua nhau trong lúc cố tìm từ ngữ thích hợp.
+\
+ld c,"tachi/his_t04",crossfade,400
+`"... Ừm, tôi chẳng nói gì, nhưng Akiha-sama đã biết về đêm qua."@
+`"Ồ... về đêm qua... cái gì?"@
+`"Tôi muốn nói khi bạn rời đi rất muộn vào đêm qua, Shiki-sama."@
+`"[line=4]Ôi..."@
+` Tôi vô thức quay mắt đi khỏi cô ấy.@
+` Tôi nghĩ mình đã lén lút thoát khỏi sự chú ý, nhưng tôi nên biết Hisui sẽ vẫn tìm ra.
+\
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, việc ngài về muộn vào ban đêm đã thu hút sự chú ý của Akiha-sama, vì vậy tôi tin rằng ngài sẽ phải giải thích sớm hoặc muộn."@
+` Cô ấy đang ở phòng khách và có thể sẽ tức giận, nên xin hãy chuẩn bị sẵn sàng.@
+`"... Tôi hiểu rồi. Thôi thì, tôi không thể phàn nàn, bởi tôi chính là người đã ra ngoài sau giờ giới nghiêm."
+\
+`"Về chuyện này, nó có xảy ra lại không? Tôi không thể ngăn cản ngài, nhưng nếu ngài tiếp tục làm thế, tôi phải báo cho Akiha-sama."@
+`"[line=4]Không, điều gì tương tự như đêm qua sẽ không tái diễn. Mọi thứ... đã kết thúc vào đêm qua... Không còn cuộc gọi nào nữa."
+\
+` [line=3]Có. Nó thực sự đã kết thúc.@
+` Với những lời nói này, mọi thứ quả thực là kết thúc.@
+` Yumizuka Satsuki không còn nữa.@
+` Kẻ ma cà rồng lẩn trốn trên đường phố đã biến mất. Tôi, bằng chính tay mình, đã đẩy đi một người bạn cùng lớp nói rằng cô ấy thích tôi, mãi mãi.
+\
+ld c,"tachi/his_t07",crossfade,400
+`"... ..."@
+` Hisui nhìn tôi với biểu cảm đau đớn trên mặt.@
+` Ồ, nếu Hisui có vẻ mặt như vậy, chắc tôi trông khủng khiếp lúc này.@
+`"[line=3]Này, tôi nên dậy sớm hay muộn cũng phải thức thôi. Hisui, Akiha còn ở đây không? Cô ấy là người bận rộn đến mức nào, nên cô ấy có lịch trình gì vào ngày nghỉ của mình?"@
+ld c,"tachi/his_t01",crossfade,400
+`"Vâng, cô ấy thực sự có kế hoạch trong ngày nghỉ của mình, nhưng hôm nay cô ấy vẫn ở trong biệt thự."@
+`"...?"@
+` "Cô ấy có kế hoạch, nhưng sao cô ấy lại ở đây...?"
+\
+`"Tôi không hiểu rõ, nhưng... tốt, tôi sẽ đi thay đồ, nên xin mời bạn đến phòng khách trước tôi."@
+`"Vâng. Vậy thì, xin lỗi nhé."@
+cl c,lshutter,800
+` Như thường lệ, Hisui rời đi mà không một tiếng động nào.@
+br
+` [line=3]Nhưng, tôi đã quên một điều rất quan trọng.@
+br
+`"Hisui."
+\
+ld c,"tachi/his_t01",lshutter,800
+`"Có?@ Chuyện gì vậy, Shiki-sama?"@
+`"Ừm, tôi quên nói điều này.@ Cảm ơn bạn đã đến đánh thức tôi.@ Có chút muộn nhưng chúc buổi sáng tốt lành, Hisui."@
+ld c,"tachi/his_t03",crossfade,400
+`"[line=3]Vâng.@ Chúc bạn có một ngày tốt lành, Shiki-sama."@
+cl c,lshutter,800
+` Vậy thì.@
+` Tôi nên vội vàng thay quần áo và đến phòng khách.
+\
+bg #000000,lcartain,800
+!w1000

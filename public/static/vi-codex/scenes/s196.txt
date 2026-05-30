@@ -1,0 +1,13 @@
+monocro off
+playstop
+wavestop
+bg "bg/bg_08b",notrans,0
+` [line=2]Tôi quyết định sẽ quay trở về biệt thự.@
+br
+` Tuyệt đối không phải là tôi đã cam lòng từ bỏ việc tìm kiếm Arcueid. Nhưng trong tình cảnh hoàn toàn không có lấy một manh mối nào thế này, việc chạy loạn vô định ngoài phố chỉ vô ích mà thôi. Thà rằng tôi tạm thời quay về phòng mình ở biệt thự để bình tâm suy nghĩ kỹ càng xem bản thân rốt cuộc có thể làm được gì lúc này.
+\
+`"... Rốt cuộc đây là tất cả những gì mình làm được sao?"@
+` Trái tim tôi thắt lại trước sự bất lực tột cùng của bản thân.@
+` Thế nhưng vào lúc này, đây thực sự là phương án khả dĩ duy nhất mà tôi nghĩ ra được.
+\
+bg #000000,lcartain,800

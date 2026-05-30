@@ -1,0 +1,150 @@
+monocro off
+play "*1"
+wavestop
+bg "bg/bg_31a",notrans,0
+` …… Kuhh!@
+` Không thể nào.@
+` Tôi gần như bị một con chó đen giết chết. Nếu tôi trở thành người canh cho cô ấy, ai biết chuyện gì sẽ xảy ra tiếp theo.
+\
+ld c,"tachi/ark_t03",crossfade,400
+` Này, mau trả lời đi. Tôi không nghĩ mình đang làm điều phi lý đâu.@
+` ……@
+` Cô ấy không hiểu. Rõ ràng là cô ấy không thể nhìn thấy rằng bản thân cô ấy là hóa thân của sự liều lĩnh.@
+` …… Nếu tôi tiếp tục dính vào cô ấy, cô ấy sẽ kéo tôi đi quá giới hạn.
+\
+` Tôi phải tìm cách trốn thoát.
+\
+playstop
+` …… Được. Tôi sẽ lắng nghe những gì cậu có để nói.@
+` Đặt tay lên tường, tôi somehow xoay sở đứng dậy một mình.@
+` …… Tôi phải đi qua con đường nhỏ đó nếu muốn đến đường chính từ đây.@
+` May mắn thay, nó xa hơn với cô ấy so với tôi.@
+` Nếu tôi bắt đầu giả vờ đang nói chuyện, tôi có thể đến đường chính.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` “Ồ, vâng. Chúng ta vẫn chưa biết tên nhau cả. Tôi đoán là hỏi cậu hợp tác với tôi quá nhanh.”`@
+` Cô gật đầu đồng ý.
+\
+` "Chẳng phải sao? Nếu cậu nói rõ hơn, tôi có thể đồng ý giúp đỡ."@
+ld c,"tachi/ark_t03",crossfade,400
+` “Thật vậy à? Vậy tôi nên nói về chuyện gì trước đây? [line=3]Có lẽ là vụ việc ma cà rồng khiến thị trấn này náo loạn? Hay tôi nên giải thích về những gì chúng ta sẽ làm từ bây giờ?”`@
+cl c,crossfade,400
+` Cô ta nhăn mặt suy nghĩ.@
+br
+` [line=4] Đây là cơ hội duy nhất của tôi.`
+\
+bg #000000,lshutter,400
+` [line=3]Tôi chạy thật nhanh.`@
+` Tôi chạy đến con đường dẫn ra đường chính trong một hơi thở.`@
+br
+` [line=3]"Ê?"@
+br
+` Tôi nghe thấy giọng cô từ phía sau.`@
+` Nhưng đã muộn rồi.`@
+` [line=3]Giờ tôi chắc chắn sẽ thoát ra được rồi.`
+\
+bg "bg/bg_31a",notrans,0
+wave se_05
+quakey 2,100
+` "`[line=3]Ờ?"`@
+` Đúng là kỳ lạ.`@
+` Khi tôi tiến một vài bước, tôi ngã xuống đất thật đau.
+\
+play "*3"
+ld c,"tachi/ark_t11",lshutter,800
+` "Ê, cậu đang làm gì đây?"@
+` Cô ấy tiến lại gần, ánh mắt tràn ngập sự kinh ngạc hơn cả lo lắng.`@
+` …… Không có gì cả. Tôi chỉ muốn chạy một chút.`@
+` … Chẳng lẽ cô ấy chưa nhận ra tôi đang cố trốn thoát?`
+\
+` Tôi đứng dậy.`@
+` Nhưng.@
+wave se_05
+quakey 2,100
+` ……"!`@
+` Ôi… @ Tôi cảm thấy đau dữ dội ở khớp chân, tôi không thể đứng dậy được![line=3]`
+\
+ld c,"tachi/ark_t03",crossfade,400
+` “À, tôi đoán mình hơi mạnh tay lúc nãy, xin lỗi. Nếu tôi nhẹ nhàng hơn khi đẩy cậu, cậu có thể không bị sprains chân như thế này.”`@
+` "Chắc chắn không đâu?[line=3] Ờ, nghe tôi nói đi.[line=4]"@
+` Tôi muốn than phiền về việc cô ấy đẩy tôi, nhưng nếu không có chuyện đó thì con chó đen đã đang cắn cổ tôi rồi và đó cũng là lúc kết thúc của tôi.`
+\
+` “ …… Được thôi. Tôi biết ơn.”`@
+ld c,"tachi/ark_t01a",crossfade,400
+` "Cảm ơn.`Nhưng tại sao cậu lại muốn chạy đi?`Chúng ta đang trò chuyện mà."`@
+` [line=3]"Không, ừm, cái đó là..."`@
+` Tôi cũng chẳng thể nói là do tiện lợi lắm đâu.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` "………… Hmmmn?"`@
+` Cô nhìn tôi.`@
+` …… Cái này tồi tệ đấy.@ Mày phải ngu thật mới chẳng hiểu ý tôi đang làm.`
+\
+ld c,"tachi/ark_t04",crossfade,400
+` "Ừm, lúc đó là ý muốn hợp tác với tôi, phải không?"@
+` ………`@
+` Tôi không thể trả lời.`@
+` Tôi nói sẽ nghe cô ấy, nhưng không đồng ý.@
+br
+` [line=3]Tôi không muốn nói dối.`@
+br
+` Trả lời câu hỏi của cô ấy đòi hỏi một 'không' chắc chắn.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` "Cậu nên biết, tôi biết loại người cậu là. Đừng đưa cho tôi một câu trả lời setengah tim."@
+` Nếu bây giờ cậu chạy trốn, tôi sẽ đến nhà cậu sau.@
+` "Wh[line=3]!?@
+` Nghĩa là cô ấy sẽ đến biệt thự ngay cả khi tôi trốn thoát khỏi đây!
+\
+` ……@
+` Cô ta đã bắt được tôi.@
+` Nếu điều đó xảy ra, nó sẽ không chỉ là vấn đề của tôi. Akiha, Hisui và Kohaku-san cũng có thể bị người điên này tấn công.@
+br
+` "Cr…!@
+` Một đống hỗn độn.@
+` Cũng như tôi chưa bao giờ có lựa chọn từ đầu[line=4]
+\
+ld c,"tachi/ark_t03",crossfade,400
+` "Chà, tôi không phiền gì cả. Hộ tể của ma cà rồng đã nhìn thấy cậu rồi, vì vậy cậu chắc chắn sẽ bị tấn công. Nếu đi một mình, cậu có thể trở thành mồi nhử.@
+` "Wh… chờ chút, đừng nói như thế…"@
+ld c,"tachi/ark_t01a",crossfade,400
+` "Vâng, con hộ tể đã nhận ra cậu là ở bên tôi.@
+` [line=8]@
+` Nghĩa là tôi sẽ bị tấn công bởi những thứ như vậy ngay cả khi tôi không giúp cô ấy.
+\
+ld c,"tachi/ark_t06",crossfade,400
+` "Vậy thì sao? Cậu có muốn canh giữ cho tôi ngủ hay tự mình đuổi những con hộ tể đi?@
+` …… Nếu kết quả sẽ như nhau, tôi không thể làm gì ngoài việc gật đầu.@
+br
+` [line=4]Cậu lừa đảo.@
+` Thở dài, tôi gật đầu để cho thấy tôi sẽ giúp cô ấy.
+\
+ld c,"tachi/ark_t01a",crossfade,400
+` Được rồi, hợp đồng của chúng ta đã được thiết lập.@
+` Lại đâu ra cơn giận dữ ấy chỉ chốc lát trước đây?@
+` Với giọng điệu vui vẻ, cô đưa tay ra với tôi.
+\
+` Tôi đoán bây giờ tôi có thể tự giới thiệu rồi.@
+` Tôi là Arcueid[line=3]Ừm… họ của tôi thật dài, nên chỉ gọi là Arcueid thôi cũng được.[ Tôi là một loại ma cà rồng True Chân Tổ. Còn bạn?@
+br
+` Tôi thở ra một hơi dài trước lời giới thiệu chưa từng thấy ấy.@
+` …… Đó là một tiếng thở dài của sự từ bỏ, bằng chứng cho thấy tôi đã quyết định chấp nhận tình huống vô lý này.
+\
+` Tôi là Tohno Shiki. Thật đáng tiếc, tôi chỉ là một học sinh bình thường. …… Tôi đã nói trước đây rồi, nhưng tôi thực sự không có ích gì nhiều.@
+` [line=3]Bắt tay côArcueid,tôi đứng dậy.@
+` Cô nhìn tôi kỹ một hồi, rồi lại đưa tay ra lần nữa.@
+ld c,"tachi/ark_t09",crossfade,400
+br
+` Rất vui được gặp bạn, Shiki.@
+` Tôi sẽ khiến bạn chịu trách nhiệm về việc giết chết tôi.@
+` Arcueid cười khi đưa tay trái ra.
+\
+` …… Có rất nhiều loại trách nhiệm trong thế giới này, nhưng đây có lẽ là lần đầu tiên và duy nhất ai đó nhận trách nhiệm bằng cách giúp đỡ người họ đã giết.
+\
+` …… Curses! Làm bất cứ điều gì bạn muốn.@
+` Nhưng tôi không có cách nào khác.@
+` Tôi miễn cưỡng đưa tay trái ra và bắt tay với người phụ nữ mặc trắng tự xưng là ma cà rồng.
+\
+bg #000000,lcartain,1500
+!w1500
+playstop

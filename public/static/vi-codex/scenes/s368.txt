@@ -1,0 +1,19 @@
+play "*6"
+wavestop
+monocro #0000ff
+bg "bg/bg_33d",notrans,0
+` [line=5]Đoạn cuối phía đông của tầng hai.@
+br
+` Đó là nơi có phòng của Akiha.
+\
+bg #000000,tshutter,400
+` …… Tôi chạy lên cầu thang.
+\
+` Luồng khí nóng bức cùng linh cảm bất tường bao trùm, trải dài suốt màn đêm đen đặc tựa thủy tinh.@
+br
+` [line=4]*hộc*, *hộc*, *hộc*.@
+br
+` Hít thở nặng nhọc, tôi đến đỉnh cầu thang và đi dọc hành lang.@
+` Tấm lưng tôi... nhức nhối khôn nguôi.@
+` Luồng sát khí khủng khiếp trong không khí mỗi lúc một nặng nề hơn khi tôi tiến gần đến phòng Akiha.
+\

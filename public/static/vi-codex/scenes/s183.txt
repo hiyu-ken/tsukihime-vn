@@ -1,0 +1,151 @@
+phase "bg/bg_31b",l,ark,10a,10
+bg #ffffff,crossfade,800
+bg "bg/bg_40a",crossfade,800
+play "*9"
+` [line=4]Buổi sáng đã đến.@
+` Tôi mở mắt và đeo chiếc kính ở cạnh giường.@
+` Nhìn ra cửa sổ, tôi thấy một bầu trời xanh không một gợn mây.@
+br
+\
+ld c,"tachi/ark_t01a",lshutter,800
+`"Chào buổi tối, Shiki! Đêm nay trông cậu có vẻ nhiều tâm sự thật đấy nhỉ."@
+` Cô ấy tươi cười rạng rỡ chào tôi hệt như mọi khi.@
+\
+` [line=4]Tôi gượng gạo mỉm cười chào lại.@
+`"Tất nhiên rồi! Tôi đã hứa là sẽ không bao giờ nuốt lời nữa mà cơ mà."@
+` Cô ấy kiêu hãnh tuyên bố đầy tự hào.
+\
+ld c,"tachi/ark_t14",crossfade,400
+\
+`"Sao thế Shiki? Có chuyện gì xảy ra lúc ban ngày sao? Sắc mặt cậu trông cực kỳ tồi tệ đấy."@
+`"Không có gì đâu mà. Chỉ là... tôi vừa nói chuyện với Ciel-senpai lúc trưa nay thôi."@
+`"Ciel-senpai? Ý cậu là ả Hành Pháp Giả của Táng Nghi Xã cứu mạng cậu đêm hôm kia sao?"@
+br
+[line=4]\
+\
+br
+[line=4]ld c,"tachi/ark_t06",crossfade,400
+br
+` Cô ấy trừng mắt nhìn tôi đầy giận dỗi, vẻ mặt phụng phịu hệt như một chú mèo bị cướp mất đồ chơi vậy.@
+`"Không đời nào. Tôi đã bảo với chị ấy rằng cậu tuyệt đối không phải là loại quái vật tàn bạo chuyên đi hút máu người như họ nghĩ đâu."@
+br
+[line=4]\
+\
+bg #000000,lcartain,1500
+bg "bg/bg_34a",lcartain,1500
+` Nhìn nụ cười hồn nhiên không chút bụi trần đó của cô ấy dưới ánh trăng mờ ảo, tôi tự nhủ dẫu Giáo Hội có coi cô ấy là ác quỷ đi chăng nữa, tôi cũng quyết định sẽ tin tưởng và đồng hành bảo vệ cô ấy đến cùng.
+\
+br
+bg #000000,crossfade,1500
+playstop
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_01a",lcartain,1500
+` Dòng sinh viên đang đổ ra cổng đều rạng rỡ và vui vẻ.@
+br
+`"Ừm... Hôm nay là thứ Bảy."@
+` Từ khi Arcueid xuất hiện trong cuộc đời tôi, cảm giác về thời gian của tôi hoàn toàn biến mất.@
+` Lần đầu tiên tôi gặp cô ấy là vào thứ Sáu.@
+` Một tuần trước, vào buổi sáng, cô ấy đang chờ tôi tại ngã tư trước trường học.
+\
+`"... Cô ấy đang mỉm cười, tôi nghĩ vậy."@
+` Khi nhớ lại, cô ấy thực sự đang mỉm cười.@
+` Ngay cả khi cô ấy đang chờ người đã giết cô ấy, cô ấy vẫn chờ Tohno Shiki, kẻ sát nhân, với ánh mắt đầy háo hức.@
+br
+`"... Tôi tự hỏi tại sao? Nếu cô ấy đến tối nay, có lẽ tôi sẽ hỏi cô ấy."@
+` Sau khi nói to, tâm trạng tôi càng rơi xuống sâu hơn.@
+` Cô ấy có lẽ sẽ không đến công viên.@
+` Cảm giác rằng đêm qua là buổi gặp cuối cùng lướt qua tâm trí tôi.
+\
+` Trái tim tôi nặng trĩu và mọi thứ khác chỉ đơn giản là trống rỗng.@
+` [line=4]Có thể tôi sẽ không bao giờ thấy cô ấy nữa.@ Sự hối tiếc quấn quanh tôi như một xiềng xích chì.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_06a",lcartain,1500
+` Tôi ngồi ở bàn học.@
+` Khoảng năm phút nữa là bắt đầu giờ học.@
+` Tôi nhìn ra ngoài ngẩn ngơ, không muốn làm gì cả.@
+ld c,"tachi/ari_t01",lshutter,400
+`"Này, kẻ lang thang.@ Cậu đã bỏ học hôm qua.@ Tohno-kun, cậu đã làm gì thế?"@
+`"………`@
+` Tôi thở dài nặng nề.@
+` Thông thường tôi sẽ làm thế, nhưng hôm nay tôi chẳng muốn nói chuyện với Arihiko chút nào.
+\
+ld c,"tachi/ari_t03",crossfade,400
+`"…… Cậu sao vậy? Cậu chẳng nhìn thật vui vẻ chút nào. Cậu không đến trường hôm qua và giờ quay lại như một vỏ rỗng. Nếu cậu cứ thế này, trường học sẽ chẳng còn thú vị nữa."@
+` Arihiko uốn vai một cách kịch tính.@
+br
+`"[line=5] Arihiko. Xin lỗi, nhưng cậu có thể để tôi một mình ngày hôm nay được không? Nếu cậu cần nói chuyện, cậu luôn có thể tìm Senpai. Thực ra, điều đó có lẽ tốt hơn cho cậu."@
+`"[line=4]Hả? Cô chủ? Tôi không biết có học sinh năm thứ ba nào cả."
+\
+`"…… Anh nói gì vậy? @ Ciel-cậu học năm ba, không phải năm hai. @ …… Ừm, đôi khi em thấy cậu ấy trẻ hơn, nhưng cậu ấy vẫn là trưởng nhóm mà."@
+`"Senpai Shiel? ... Ai thế? Có học sinh nước ngoài nào ở trường chúng ta không?"@
+` Anh ta nghiêng đầu suy nghĩ nghiêm túc.
+\
+`"Anh nói Senpai là người Nhật à..."@
+br
+` "Chờ đã."@
+` "Không ai từng nói cô ấy là người Nhật cả."@
+br
+`"... Dẫu sao thì, không ai nói cô ấy là người Nhật, nhưng mọi người vẫn gọi cô ấy là Ciel-senpai."
+\
+`"Đó chính là điểm tôi muốn nói, Senpai này là ai? Tohno, cậu có việc gì sao? Có bệnh à?"@
+` Tôi không thể nghe thấy những lời đùa giỡn của anh ta.@
+cl c,crossfade,400
+\
+`"Hả………"@
+` Đúng vậy. Tại sao tôi lại không nhận ra sự bất nhất rõ ràng này?@
+` Tên Ciel chẳng phải là tên Nhật Bản chút nào.@
+` Ngay cả khi tôi biết cô ấy, tôi cũng không biết tên đầy đủ của cô ấy. Tôi thậm chí còn không biết cô ấy thuộc lớp nào.@
+br
+` Đầu tiên,
+` Khi lần đầu tiên gặp cô ấy, tại sao tôi lại có cảm giác như đã quen cô ấy từ lâu……?
+\
+`"[line=6]!"@
+` Ghế của tôi lắc lư khi tôi vội vã đứng dậy.@
+ld c,"tachi/ari_t03",crossfade,400
+`"Có chuyện gì vậy, Tohno? Cậu cư xử thật kỳ lạ."@
+`"Tôi đi đến văn phòng. Xin lỗi, nhưng hãy nói rằng tôi đang có mặt trong buổi kiểm điểm."@
+cl c,crossfade,400
+` Tôi quay lưng lại với Arihiko, người đang ngả đầu bối rối, rồi vội vã rời khỏi lớp học.
+\
+bg #000000,lcartain,800
+!w1000
+` Tôi tra bảng danh sách sinh viên năm thứ ba để tìm tên Ciel, nhưng như dự kiến, nó không xuất hiện ở đâu cả.
+\
+` Để chắc chắn, tôi hỏi các giáo viên trong văn phòng, nhưng không ai trong số họ nhớ đến Ciel-senpai.
+\
+!w1000
+bg "bg/bg_06a",crossfade,800
+` Kết thúc buổi học.@
+` Vì là thứ Bảy, ngay sau giờ học toàn bộ bạn cùng lớp tan rã và chạy ra khỏi lớp.@
+br
+`"[line=4]"@
+` Cuối cùng thì thứ Bảy cũng đến, nhưng tôi chẳng muốn làm gì cả.@
+` Cảm thấy như người chết, tôi đi về một mình.
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_33b",lcartain,1500
+ld c,"tachi/his_t01",lshutter,400
+`"Chào mừng trở lại, Shiki-sama."@
+` Hisui chào đón tôi khi tôi trở về.@
+` Ngay cả khi cô ấy đã chờ đợi suốt thời gian này, tôi chẳng thể trả lời và tôi lên phòng.
+\
+bg #000000,lcartain,1500
+!w1000
+bg "bg/bg_40c",crossfade,800
+` [line=4]Sau bữa tối, tôi trở về phòng.@
+` Gần đến thời gian hứa hẹn với Arcueid.@
+`"…… Tôi có nên đi không?"@
+` Tôi chẳng biết cô ấy có đến hay không.@
+` Nhưng tôi vẫn thề sẽ không bao giờ phá vỡ một lời hứa nữa, nên tôi phải đi.
+\
+bg #000000,lcartain,1500
+bg "bg/bg_29b",lcartain,1500
+playstop
+` Tôi đến công viên ngay trước mười giờ.@
+` Không ai ở đây cả.@
+` Ngồi trên băng ghế, tôi nhìn đồng hồ và chờ Arcueid xuất hiện.
+\

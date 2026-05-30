@@ -1,0 +1,55 @@
+playstop
+wavestop
+bg "bg/bg_40b",notrans,0
+` [line=3]Tôi sẽ đến thăm Hisui.@
+br
+`"…… Nhưng Hisui tịnh không chịu để tôi phụ giúp, vả lại tôi dẫu dã tịnh không muốn làm vướng chân em ấy……"@
+` ... Tôi phải làm gì đây?@
+` Tôi tịnh không muốn mình trở thành gánh nặng cho em ấy.@
+` Thế nhưng tịnh không hiểu vì lẽ gì, cõi lòng tôi vẫn cất lực muốn gặp em.
+\
+`"... À."@
+` À phải rồi.@ Tôi vẫn chưa cất công trả lại chiếc ruy-băng cho em ấy.@
+` Hisui nói rằng cô ấy đã quên chuyện này, nhưng dải ruy băng là của cô ấy. Không có lý do gì để tôi giữ nó lại, nên tôi nên trả lại cho cô ấy.
+\
+bg #000000,lshutter,800
+bg "bg/bg_41",lshutter,800
+play "*8"
+` Trong căn phòng cũ của cụ già, Hisui đang sắp xếp sách.@
+` Mặc dù không còn được sử dụng, phòng của ông vẫn được dọn dẹp như trước đây.
+\
+`"Hisui, có thể em dành một phút?"@
+ld c,"tachi/his_t01",lshutter,400
+`"[line=3]À... Shiki-sama. Vâng, chuyện gì vậy?"@
+`"Tôi biết chúng ta đã nói về điều này trước đó, nhưng tôi nghĩ mình nên trả lại thứ này."@
+br
+` Tôi lấy ra dải ruy băng mà Hisui đã tặng tôi tám năm trước.@
+br
+ld c,"tachi/his_t04",crossfade,400
+`"... ..."@
+`"Hisui à... Cậu thực sự không muốn nó sao..."?@
+ld c,"tachi/his_t17",crossfade,400
+`"... Không, tôi sẽ lấy nó. Nó quan trọng với tôi mà."@
+` Khi cầm lấy dải ruy băng, Hisui im lặng.
+\
+`"... ..."@
+` Tôi không thể nói chuyện với cô ấy.@
+` Người Hisui hiện tại trước mặt tôi trông rất giống người Hisui tám năm trước, cách biệt so với những người xung quanh.@
+ld c,"tachi/his_t01",crossfade,400
+`"Shiki-sama, đây là tất cả những gì cậu đến để làm sao?"@
+` Tôi không thể nói nên chỉ gật đầu.@
+`"Trong trường hợp này, xin hãy quay lại phòng của bạn. Tôi vẫn còn một số công việc cần hoàn thành."@
+cl c,lshutter,400
+` Hisui đi về phía trung tâm của căn phòng.
+\
+`"... Hisui."@
+` Dây ruy băng đó có ý nghĩa đặc biệt nào không?@
+` Thời gian tám năm này. Tôi nghĩ tôi cuối cùng cũng đã thực hiện được lời hứa, dù quá muộn.@
+br
+`"..." Rồi tôi sẽ đi về phòng của mình. Gặp lại sau, Hisui."@
+br
+` Nói rồi, tôi rời khỏi căn phòng.
+\
+bg #000000,crossfade,800
+playstop
+!w1500

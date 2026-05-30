@@ -1,0 +1,961 @@
+bg #000000,crossfade,1500
+br
+br
+br
+br
+` Cảnh báo.@
+` Câu chuyện phụ này chứa nhiều spoiler về cốt truyện chính của Tsukihime.@
+` Hãy đọc nó chỉ khi bạn nghĩ, 'À, tôi sẽ không bao giờ chơi Tsukihime nữa.'
+\
+bg "word/pd_tea",crossfade,1500
+wait 3000
+play "*03"
+bg "bg/bg_59",rcartain,800
+ld l,"tachi/ark_t03",notrans,0
+` "Chào Ciel."@
+` "Dường như có điều gì đang bắt đầu. Đây là gì?@
+ld r,"tachi/cel_t01a",notrans,0
+` "Đây là một buổi tiệc trà để ăn mừng việc hoàn thành trò chơi."@
+` Do hạn chế về ngân sách nên nó rất nhỏ bé, nhưng tôi nghe nói chúng ta phải trò chuyện và suy ngẫm về những gì đã làm.@
+ld l,"tachi/ark_t11",notrans,0
+` "Ồ, là thật?"@
+` ... Chết tiệt, nếu biết như vậy tôi sẽ không đến đâu.@
+` Thứ nhất, tại sao lại là tôi và anh?@
+` Tôi không thích lắm sự kết hợp này.@
+ld r,"tachi/cel_t12",notrans,0
+` "Vâng, tại sao vậy? Tôi cũng ghét bạn"
+\
+ld l,"tachi/ark_t04",notrans,0
+` "Chà, bố cục của nó giống như góc ở Tsukihime, phải không?"@
+` Cậu có may mắn hơn đấy vì được vẽ một hình minh họa mới.@
+` Nhưng cậu đã thấy tôi nhận được cái gì?@
+` Tôi bị đối xử tệ quá mà khiến tôi tự hỏi liệu tôi có thực sự là nữ chính. Tôi rất không hài lòng, cậu biết chứ?@
+ld r,"tachi/cel_t03",notrans,0
+` Tôi hiểu...@
+` Nghe nói góc đó khá nổi tiếng.@
+` Tôi tự hỏi liệu có ai nhìn thấy toàn bộ mọi chuyện bằng cách giống như Roa không?@
+ld l,"tachi/ark_t01a",notrans,0
+` Tôi không nghĩ vậy.@
+` Ngòi bút kịch bản thậm chí còn than phiền rằng anh ta không thể đến được giai đoạn thứ hai của Shakes 'n Shivers Animal Land trừ khi sử dụng một biểu đồ流程.
+\
+ld r,"tachi/cel_t08",notrans,0
+` ...... Ôi trời.@
+` Đây là thất bại như một trò chơi.@
+ld l,"tachi/ark_t03",notrans,0
+` Chà, góc này không liên quan gì đến cốt truyện chính, nên chúng ta nên chấp nhận... Chờ tí, có vẻ như có khách hàng ở đây, Ciel.@
+ld r,"tachi/cel_t12",notrans,0
+` Ê?@
+` [line=4]Điều đó thật kỳ lạ. Tôi nghe nói nơi này được đặt chỗ cho chúng ta hôm nay
+\
+cl a,notrans,0
+ld c,"tachi/aki_t15b",rshutter,400
+br
+br
+br
+br
+br
+br
+br
+` [line=7]A.
+\
+cl c,rshutter,800
+` ..................@
+` ..................@
+` ..................@
+ld l,"tachi/ark_t04",notrans,0
+` ...... Ê?@
+` Cái 'a' đó là gì?@
+ld r,"tachi/aki_t04b",notrans,0
+` .........@
+ld l,"tachi/ark_t16",notrans,0
+` Ê.@
+` Đừng ngồi như thể chẳng có chuyện gì đâu.@
+` Cậu đang làm gì ở đây, em gái? Cậu còn mang cả ghế sofa vào?
+\
+ld r,"tachi/aki_t01b",notrans,0
+` 'Cậu đang làm gì ở đây?' Đó là lời của tôi.@
+` Tôi đến đây vì nghe có một bữa tiệc trà, vậy tại sao hai người lại ở đây?@
+` Tôi không muốn nói điều này, nhưng hai người không phù hợp với nơi yên tĩnh này.@
+ld l,"tachi/cel_t01a",notrans,0
+` [line=3]À.@
+` Tôi hiểu rồi.@
+` Vì điều này không thể tiến triển chỉ với tôi và Arcueid, Akiha-san sẽ đảm nhận vai trò chủ tịch lớp để thúc đẩy mọi thứ.
+\
+ld l,"tachi/ark_t30",notrans,0
+` Này-nya!?@
+` Tôi chưa nghe gì về điều này-nya!@
+` Cậu có nhiều xuất hiện nhất trong cốt truyện chính, em gái!@
+` Sự hiện diện của cô chỉ là sự độc tài-nya!@
+ld r,"tachi/aki_t03b",notrans,0
+` 'Arcueid-san.@
+` Cậu có thể ngừng gọi tôi là em gái không?@
+` Tôi là chị gái của Tohno Shiki, nhưng tôi không có quan hệ gì với cậu.@
+` Cho dù tương lai có xảy ra điều gì đi nữa, cậu cũng sẽ không bao giờ là một phần của gia đình tôi.@
+` 'Thật sự?@
+` Nhưng sau khi Shiki và tôi kết hôn, cậu sẽ là em gái của tôi.
+\
+ld r,"tachi/aki_t15b",notrans,0
+` [line=6]Cậu đang nói bậy!@
+ld r,"tachi/aki_t06b",notrans,0
+` Ngươi là một sinh vật bí ẩn như thế này thì không thể tham gia vào hôn nhân của con người, vì vậy xin đừng làm phiền đến anh em của người khác.@
+` Một ma cà rồng nên hành động như một ma cà rồng và đi hút máu của những kẻ vô danh trong bóng tối!@
+ld l,"tachi/ark_t06",notrans,0
+` Hừm.@
+` Chẳng phải tôi là người đang hút máu đâu.@
+` Mà chính ngươi cần nó thường xuyên nên ngươi mới là người không thể sống như một con người bình thường.@
+` Thực ra thì gốc rễ của chúng ta đều giống nhau.
+\
+ld r,"tachi/aki_t18b",notrans,0
+` Hah, tuyệt đối không!@
+` Tôi chỉ đơn thuần hưởng thụ máu như một loại thức ăn khác thôi.@
+` Tôi chỉ là một cô gái tinh nghịch với một giác quan thưởng thức tinh tế hơn người khác.@
+` Tôi cơ bản khác xa với một sinh vật không phải con người như ngươi, vì vậy xin đừng đối xử với tôi như thể chúng ta cùng loại.@
+ld l,"tachi/ark_t05d",notrans,0
+` [line=4]Ồ?@
+` Nhưng lúc đó trông cậu vui lắm mà.@
+` Cậu còn giống như một Ma cà rồng chết chóc hơn cả những Ma cà rồng chết chóc khi tóc đỏ và đang uống máu.@
+ld r,"tachi/aki_t07b",notrans,0
+` T-tức là... Đó chỉ là một sai lầm!@
+` Trước hết, anh trai tôi và tôi gần như bị giết bởi vì cậu đã đuổi theo một kẻ như Roa.@
+` Nếu hắn không xuất hiện thì tôi vẫn sẽ không thay đổi!
+\
+` Ồ, là thật sao?@
+` Chậc, nếu cậu nói vậy thì em gái bé bỏng.@
+ld r,"tachi/aki_t29",notrans,0
+` ......!@
+` Cái gì có vẻ hài hước thế, con ma cà rồng trộm cắp!?@
+ld l,"tachi/cel_t01a",notrans,0
+`  Bây giờ bình tĩnh đi, Akiha-san.@
+` Chúng ta không thể đánh nhau hôm nay.@
+` Đây là quán cà phê yêu thích của mọi người.@
+ld r,"tachi/aki_t05b",notrans,0
+` ... Tôi biết.@
+` Bạn không cần phải nói với tôi, Senpai.@
+`  Đúng chứ?@
+` Ôi trời ơi, hai người giống nhau như vậy nên nên hợp nhau đấy.@
+` Cốt truyện là chúng ta là bạn bè hôm nay, hãy quên đi thực tế rằng chúng ta là kẻ thù.@
+` Vậy chúng ta đặt một số bánh ngọt bây giờ. Xin lỗi, chúng ta có thể đặt hàng không?
+\
+cl a,crossfade,400
+wait 2000
+ld l,"tachi/his_t01",rshutter,400
+`  Xin lỗi vì đã làm bạn chờ lâu.@
+ld r,"tachi/koha_t03b",rshutter,400
+` Được rồi, hãy đặt hàng!@
+cl a,notrans,0
+ld l,"tachi/ark_t13",notrans,0
+` [line=8]@
+ld r,"tachi/cel_t07a",notrans,0
+` [line=8]@
+ld l,"tachi/aki_t15b",notrans,0
+` [line=8]@
+cl a,notrans,0
+wait 1000
+ld l,"tachi/aki_t03b",notrans,0
+`  ...... Ê.@
+` Hai người đang làm gì ở đây?@
+ld r,"tachi/koha_t03b",notrans,0
+` Heehee.@
+` Chúng tôi chỉ làm một công việc bán thời gian để kiếm thêm tiền.@
+` Đó là một công việc nhỏ mà chúng ta chỉ cần làm khoảng một giờ và chỉ duy nhất hôm nay.@
+ld r,"tachi/his_t05",notrans,0
+` [line=6]
+\
+cl a,crossfade,400
+ld l,"tachi/cel_t08",notrans,0
+` ... Ngạc nhiên thật.@
+` Chắc do chăm chỉ nên càng thu hút fan, họ không bao giờ thua vì chưa bao giờ lộ điểm yếu.@
+` Gì như cái tia hào quang này vậy.@
+ld r,"tachi/ark_t06",notrans,0
+` ...... Tôi cũng thế.@
+` Tôi đã vượt qua giai đoạn tức giận và giờ đây tôi cảm thấy rất xúc động.@
+` Chắc phải làm đến vậy mới có thêm nhiều fan.
+\
+cl a,crossfade,400
+ld l,"tachi/aki_t11b",notrans,0
+` Cậu thật liều lĩnh, Kohaku.@
+` Nội dung chính không đủ cho cậu sao? Cậu lại muốn đối đầu với tôi trong một câu chuyện phụ như thế này nữa à?@
+ld r,"tachi/koha_t03b",notrans,0
+` Không, không phải vậy.@
+` Chúng tôi chỉ là nhân viên phục vụ thôi.@
+` Chúng tôi sẽ im lặng lắng nghe cuộc trò chuyện của các cậu ở phía sau, nên xin đừng lo lắng về chúng tôi.@
+` ............@
+ld l,"tachi/his_t15",notrans,0
+` (N-Nee-san... Akiha-sama tức giận, vậy không nên im lặng sao...?)@
+ld r,"tachi/koha_t08",notrans,0
+` [line=7](Bùm)@
+cl l,bshutter,400
+` Au[line=6]!?@
+ld r,"tachi/koha_t03b",notrans,0
+` Okay, tôi có thể phục vụ các cậu.@
+` Ngày hôm nay, món bánh gato dâu tây đặc biệt lớn là khuyến mãi.
+\
+ld l,"tachi/aki_t01b",notrans,0
+` Tôi hiểu.@
+` Vậy xin mang cho chúng tôi một phần.@
+` Ngay lập tức.@
+` Tôi sẽ đi đây.@
+cl r,rshutter,800
+ld l,"tachi/cel_t09",notrans,0
+` ... Ôi... Kohaku kéo Hisui vào bếp.@
+` Chẳng khác gì xem phim kinh dị đâu...@
+` Như bộ phim Delikatessen ấy.@
+ld r,"tachi/ark_t11",notrans,0
+` 'De Lick A Tessen' ?@
+` ... Không sao cả.@
+` Nhưng đây là quán cà phê này chứ?@
+` Anh biết về nó không, Akiha-san?@
+ld r,"tachi/aki_t18b",notrans,0
+` Tôi chỉ nghe nói về nó.@
+` Còn anh, Senpai? Tôi chắc chắn anh đến đây với Nii-san chứ?
+\
+ld l,"tachi/cel_t02",notrans,0
+` Thực ra thì không bao giờ xảy ra.@
+` Luôn xuất hiện trong cuộc trò chuyện, nhưng chúng ta không thể đến đây trong cốt truyện chính.@
+ld r,"tachi/ark_t02",notrans,0
+` Ôi, điều đó không thể tránh được.@
+` Đây là một nơi không nên tồn tại trong thế giới 'Tsukihime'. Nó giống như ở đường ranh giới.@
+` Đó là lý do tại sao những người có nhiều liên quan đến một trong các thế giới không thể đến đây. Chỉ những người không phải là nhân vật chính mới có thể đến đây.@
+ld l,"tachi/aki_t17b",notrans,0
+` Huh?@
+ld r,"tachi/ark_t16",notrans,0
+` 'Shiki' từ Tsukihime gặp 'Shiki' từ Kara no Kyoukai thì sao? Nó sẽ không tốt đâu phải không?@
+` Tohno Shiki và Asagami Fujino có lẽ không thành vấn đề, nhưng nếu Tohno Shiki gặp Ryougi Shiki hoặc tôi gặp Touko thì sẽ tạo ra những bất nhất. Đó là lý do tại sao chúng ta không thể gặp nhau trong trục thời gian chính thức.
+\
+cl a,crossfade,400
+ld c,"tachi/koha_t03b",notrans,0
+` Cảm ơn vì đã đợi.@
+` ...... Đang xảy ra chuyện gì vậy?@
+` Mọi người đều có vẻ lo lắng.@
+cl a,notrans,0
+ld l,"tachi/aki_t01b",notrans,0
+` Ê?@
+` Ôi, chuyện này không liên quan đến cậu đâu.@
+` Hai người có thể đến quán cà phê này ngay cả trong cốt truyện chính vì được coi như những nữ anh hùng phụ.@
+ld r,"tachi/his_t07",notrans,0
+` ......?@
+ld l,"tachi/aki_t04b",notrans,0
+` Quên đi. Chúng ta chỉ uống trà bây giờ.@
+` Chuyện là, Hisui.@
+ld r,"tachi/his_t04",notrans,0
+` [line=4]Vâng?@
+` Cái gì, Akiha-sama?@
+ld l,"tachi/aki_t16b",notrans,0
+` Kohaku có làm gì không?@
+` Ví dụ như pha những thứ kỳ quặc vào trà hay...
+\
+bg #000000,crossfade,1500
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/aki_t04b",notrans,0
+` [line=4]Ừ.@
+` Bây giờ thức ăn đã được chia hết rồi, tôi muốn chuyển sang chủ đề chính.@
+cl a,notrans,0
+ld l,"tachi/ark_t03",notrans,0
+` Một cuộc họp đánh giá?@
+` Được thôi, nhưng tôi không có gì cần suy nghĩ.@
+ld r,"tachi/cel_t07a",notrans,0
+` Tôi cũng vậy.@
+` .... Chắc là tôi nên suy nghĩ xem mình đã làm thế nào để không giết được con ma cà rồng đang lang thang trong thị trấn vào ban ngày.@
+ld l,"tachi/aki_t04b",notrans,0
+` Senpai, tôi cũng có điều cần suy nghĩ, nhưng điều này sẽ không sử dụng đến thực tế là đây là một câu chuyện phụ, phải không?@
+` Hisui và Kohaku đang lắng nghe, nên tôi muốn biến cuộc họp này thành một buổi thảo luận về cảm nhận của chúng ta.
+\
+ld r,"tachi/his_t04",notrans,0
+` Cảm nhận...?@
+` Tôi xin lỗi, Akiha-sama. Tôi không hiểu ý của ngài… ngài có muốn nói về một thứ gì như một bản khảo sát?@
+` Ừm, nó giống như đưa ra những câu hỏi mà chúng ta đều có.@
+` Xem này, tôi chắc chắn rằng ngay cả bạn cũng có những lúc của mình trong cốt truyện chính, Hisui.@
+` Ví dụ như khi bạn nghiêng đầu ngạc nhiên về những gì đang xảy ra.@
+` Chúng tôi muốn thử trả lời những câu hỏi đó.@
+ld r,"tachi/ark_t01a",notrans,0
+` Phải là những câu hỏi chứ?@
+` Tôi có một vài điều muốn nói thay vào đó.@
+` Được rồi. Xin mời, Ciel-Senpai.
+\
+cl a,crossfade,400
+ld l,"tachi/cel_t08",notrans,0
+` Tôi được bắt đầu…!?@
+` Ừm, nó không liên quan gì đến cốt truyện chính, nhưng tôi muốn hỏi về hoàn cảnh tài chính của Tohno-kun.@
+` Tohno-kun thường than phiền rằng anh ấy muốn làm việc. Tôi đang tự hỏi mỗi tháng anh ấy được nhận bao nhiêu tiền trợ cấp.@
+ld r,"tachi/aki_t04b",notrans,0
+` Không.@
+` Huh?@
+` Nii-san không nhận tiền trợ cấp.@
+` Tôi không biết nó như thế nào ở gia đình Arima, nhưng kể từ khi anh ấy đến đây, tôi đã không cho anh ấy tiền trợ cấp.@
+` Anh ấy không cần điều đó, phải không?
+\
+ld l,"tachi/cel_t10a",notrans,0
+` Không cần? Ờm, vậy Tohno-kun có thẻ tín dụng hay thứ gì đó không?@
+ld r,"tachi/koha_t03b",notrans,0
+` Ahaha, không, không, Ciel-san.@
+` Akiha-sama đang nói rằng cô ấy cho Shiki-san chẳng có gì cả.@
+ld l,"tachi/cel_t09",notrans,0
+` … Ờm, Tohno-kun sống như thế nào?@
+` Nếu anh ấy không được cho tiền tiêu vặt, thì sao có thể mua đồ ăn nhẹ sau giờ học hay bánh mì cà ri?@
+ld r,"tachi/aki_t11b",notrans,0
+` Những thứ đó là không cần thiết.@
+` Anh ta chỉ nhận đủ thức ăn cần thiết, nên tiền thừa không cần thiết.
+\
+ld l,"tachi/cel_t08",notrans,0
+` ...... Tôi hiểu.@
+` Nhưng tôi nghĩ anh ấy có những thứ khác mà anh ấy muốn.@
+ld r,"tachi/aki_t04b",notrans,0
+` Tôi cũng nghĩ vậy.@
+` Nếu anh ấy hỏi tôi, tôi sẽ mua những thứ đó.@
+` Tôi sẽ mua bất cứ thứ gì cho Nii-san nếu anh ấy thực sự cần, nhưng vì một lý do nào đó, anh ấy chưa bao giờ hỏi.@
+` Sự vị tha của anh ta gần như là một bệnh tật.@
+` Bạn không nghĩ vậy, Kohaku?@
+ld l,"tachi/koha_t15",notrans,0
+` Vâng.@
+` Nhưng anh ta vẫn muốn làm việc, nên anh ta chắc chắn yêu thích công việc.@
+ld r,"tachi/his_t17",notrans,0
+` ...... Nee-san, tôi nghĩ không phải vậy...
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",tshutter,1500
+ld l,"tachi/ark_t01a",notrans,0
+` Ồ, tôi sẽ đến lượt sau.@
+` Điều này chắc chắn là điều khiến tôi phiền lòng.@
+` Làm thế nào để xác định hai người này.@
+ld r,"tachi/his_t23",notrans,0
+` ......?@
+ld r,"tachi/koha_t02b",notrans,0
+` Huh?@
+` Bạn đang nói về tôi và Hisui-chan?@
+` Yup.@
+` Hai người thường xuyên bị *đánh ghen* phải không?@
+` Không thể đoán được từ bề ngoài, nên phải phán đoán dựa vào tình huống. Nhưng có cách nào để biết chính xác không?@
+` Ví dụ như màu mắt khác nhau, hay kiểu gì đó.
+\
+ld r,"tachi/cel_t01a",notrans,0
+` “Ồ, tôi cũng muốn hỏi điều đó.”@
+` Có phải có một cái gì đó giống như một dấu hiệu không?@
+ld l,"tachi/aki_t02b",notrans,0
+` “Thực ra, sao hai người lại giấu chuyện này khỏi tôi?”@
+` ... Tôi biết Kohaku tinh ranh, nhưng tôi chưa bao giờ nghĩ Hisui cũng tham gia vào.
+\
+ld r,"tachi/his_t21",notrans,0
+` “Ồ.........”@
+ld r,"tachi/koha_t17",notrans,0
+` “Sai rồi.”@
+` Tất cả đều do tôi.@
+` Hisui-chan không có liên quan gì đến chuyện này.@
+` Tôi đang đeo kính áp tròng màu cho mắt và chỉ hành động như cô ấy sau khi cho cô ấy uống thuốc ngủ.@
+ld l,"tachi/cel_t08",notrans,0
+` “Vậy ngay cả chị gái của bạn cũng không an toàn với bạn, Kohaku-san?”@
+ld r,"tachi/koha_t02b",notrans,0
+` “Ôi, xin đừng nói như vậy.”@
+` Nếu chưa đánh bại được đường riêng của Hisui-chan thì mọi người sẽ hiểu nhầm.@
+ld l,"tachi/aki_t18b",notrans,0
+` “Không có gì để hiểu lầm vì mọi thứ đều là sự thật.”
+\
+ld r,"tachi/koha_t08",notrans,0
+` “Ôi, thật đáng tiếc, Akiha-sama!”@
+` Tôi đã cung cấp những gợi ý cho Shiki-san một cách chính xác.@
+ld r,"tachi/koha_t02b",notrans,0
+` Tôi nghĩ rằng một số người đã biết rồi, nhưng đó là 'Nee-san' và 'chị gái'.@
+` Tất cả các bé trai và cô gái ngoan đều hiểu đúng chứ?@
+` Nếu bạn chơi lần thứ hai, nó khá rõ ràng nếu bạn để ý.@
+ld l,"tachi/ark_t03",notrans,0
+` Ừm... À, đúng rồi.@
+` Tôi hiểu. Tôi chưa bao giờ chú ý nhiều đến điều đó vì tôi nghĩ đó là một lỗi đánh máy bình thường.@
+ld r,"tachi/his_t04",notrans,0
+` ... Vâng.@
+` Thậm chí cả họa sĩ gốc cũng hỏi, 'chúng ta không nên dùng Nee-san ở đây sao?'
+\
+ld l,"tachi/aki_t06b",notrans,0
+` Đó là lỗi của anh ấy.@
+` Anh ta mất niềm tin vào chính tác phẩm của mình sau khi nghĩ ra quá nhiều từ mới.@
+ld r,"tachi/his_t18",notrans,0
+` [line=3]Vâng, đúng như vậy.@
+ld l,"tachi/koha_t03b",notrans,0
+` Hm?@
+` Có chuyện gì đâu, Hisui-chan? Bỗng nhiên trông cậu thật đáng sợ.@
+` Là về những từ anh ta nghĩ ra.@
+` Tôi có thể biết được DNM là Dark Night Moon và origami có nghĩa là 'Tóc dài', nhưng 'Moe-Body' là gì?
+\
+ld l,"tachi/ark_t08",notrans,0
+` Ahaha.@
+ld r,"tachi/cel_t04",notrans,0
+` Heehee.@
+` ?@
+` Cậu hai có biết điều gì không?@
+ld l,"tachi/ark_t01a",notrans,0
+` Ừm, vâng.@
+` Vậy.@
+` Tôi nghĩ cậu nên bỏ qua chuyện này.@
+` Có vẻ ngay cả anh ta cũng hối tiếc về việc đó.@
+ld r,"tachi/cel_t01a",notrans,0
+` Nó viết như thể đang viết điều gì đó một cách không thể hiểu được.@
+cl a,crossfade,400
+ld c,"tachi/his_t18",notrans,0
+` Đó không phải là câu trả lời thật sự.@
+` Vì đây là góc hỏi đáp, xin hãy trả lời tôi.
+\
+cl a,crossfade,400
+ld l,"tachi/ark_t03",notrans,0
+` Hm... thôi kệ vậy.@
+` Tôi đoán cách đọc những ký tự đó khác là 'thân thể đang cháy'.@
+ld r,"tachi/cel_t08",notrans,0
+` Vâng.@
+` Nếu nó đến từ người học từ vựng chính xác, những cụm từ được tạo ra như vậy sẽ dẫn đến việc bị trừng phạt.@
+` Xem này, 'moe' có nghĩa là cháy.@
+` Anh ta bỏ qua ý nghĩa của từ chỉ để truyền tải hình ảnh và cảm giác.@
+ld l,"tachi/aki_t15b",notrans,0
+` [line=5](Sự kinh ngạc)
+\
+ld r,"tachi/koha_t02b",notrans,0
+` À, tôi hiểu rồi.@
+` Vậy thì anh ta không nên dừng giữa chừng... anh ta nên sử dụng ý nghĩa khác của 'moe'.@
+` Trong câu chuyện đó, Hisui-chan chăm sóc anh ấy một cách tận tâm, vậy nên có phải là phù hợp hơn không?@
+` Đúng không, Hisui-chan?@
+` Bạn trông thật hạnh phúc khi được chăm sóc Shiki-san.@
+ld l,"tachi/his_t02",notrans,0
+` ............
+\
+wait 2000
+cl a,crossfade,400
+ld l,"tachi/ark_t03",notrans,0
+` Ồ, vâng. Tôi nhớ họ đang nghĩ đến việc thêm phụ đề tiếng Anh cho mỗi tựa đề. Bạn có nhớ nghe điều đó không, Ciel?@
+ld r,"tachi/cel_t01a",notrans,0
+` Vâng.@
+` Có những thứ như...
+` Prologue / Glass Moon
+` Quái Vực Đen / Sáu Lục Lục
+` Nguyệt Hồng Vermillion / Không Khí Crimson
+` Giấc Ngủ Im Lặng / cizumu
+` Giấc Ngủ Sâu / cizumu
+\
+ld l,"tachi/koha_t15",notrans,0
+` Ô!@
+` Tôi hiểu rồi, vậy cậu đọc cả hai đều là 'cizumu' à!?@
+ld r,"tachi/his_t20",notrans,0
+` Ừ... Tôi nghĩ nó đọc là... ừm...@
+ld l,"tachi/koha_t03b",notrans,0
+` Ê?@
+` Sao vậy, Hisui-chan?@
+` Cậu nghĩ nó đọc như thế nào?@
+ld r,"tachi/his_t21",notrans,0
+` ...... Ừm...... Tôi đọc là 'Chinmu'...@
+ld r,"tachi/aki_t03b",notrans,0
+` Kohaku đừng trêu Hisui quá nhiều.
+\
+ld l,"tachi/koha_t12",notrans,0
+` Được rồi, được rồi...@
+` Nhưng Arcueid-san và Ciel-san chắc chắn biết rất nhiều câu chuyện bên trong.@
+` Tại sao vậy?@
+ld r,"tachi/ark_t01a",notrans,0
+` 'Vì chúng tôi là người già nhất.@
+` Em gái út cũng đã ở đây một thời gian rồi, nhưng chúng tôi sinh ra trước và là một phần của Tsukihime trong nửa năm đầu tiên.
+\
+ld l,"tachi/cel_t12",notrans,0
+` Ừ.@
+` Tôi biết tất cả những điều tốt đẹp và xấu xa về Tsukihime.@
+` Kết thúc của tôi thậm chí còn được viết lại hai lần, kết thúc của Akiha-san được viết lại ba lần, và kết thúc của phiên bản thử nghiệm và phiên bản hoàn chỉnh hoàn toàn khác nhau.@
+` Hầu hết, kết thúc của Akiha-san trong phiên bản thử nghiệm hiện nay thực sự có giá trị.@
+` Không nhiều lắm, nhưng tôi giải thích tại sao Tohno-kun là ****.@
+` Nếu bạn có phiên bản thử nghiệm (chỉ có mười bản), xin vui lòng gỡ cài đặt trò chơi ngay bây giờ và phá hủy đĩa CD.@
+ld r,"tachi/his_t01",notrans,0
+` ...... Vậy chúng ta đang loại bỏ bằng chứng?@
+ld l,"tachi/koha_t15",notrans,0
+` Ồ, thế giới của người lớn hé lộ mặt tối của nó.
+\
+bg #000000,bshutter,800
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/aki_t04b",notrans,0
+` Ahem.@
+` Vậy để tôi đặt câu hỏi tiếp theo.@
+ld c,"tachi/aki_t01b",notrans,0
+` Điều này hơi nghiêm trọng, nhưng tại sao anh vẫn ở lại thị trấn này, Senpai?@
+cl a,crossfade,400
+ld l,"tachi/cel_t12",notrans,0
+` Huh...?@
+` À, haha, um, vâng... Tại sao vậy?@
+ld r,"tachi/ark_t04",notrans,0
+` Bạn đúng.@
+` Roa đã biến mất, vì vậy không có lý do gì để bạn ở lại đây.
+\
+ld l,"tachi/cel_t10a",notrans,0
+` 'Có lý do!@
+` Một khu vực nơi một con ma cà rồng ẩn náu cần phải được điều tra ngay cả sau khi con ma cà rồng đó bị tiêu diệt.@
+` Ma cà rồng tạo ra nhiều ma cà rồng hơn.@
+` Bạn biết ý nghĩa của điều này phải không?@
+` Hầu hết những con ma cà rồng trẻ chết khi cha mẹ chúng chết.@
+` Nhưng những 'con' được đối xử đặc biệt như 'người thừa kế' có thể sống sót ngay cả sau khi cha mẹ chết.@
+` Kết quả là việc thanh tẩy khu vực thực sự bắt đầu sau khi con ma cà rồng cha mẹ bị giết.@
+` Tôi chỉ... chỉnh sửa một chút giấy tờ để được nhận việc...
+\
+ld r,"tachi/ark_t06",notrans,0
+`  Vậy là mày lạm dụng quyền hành đấy à?@
+` "Cậu cứ như vậy đấy. Không có phương pháp nào là thấp kém nếu đạt được mục đích."@
+ld l,"tachi/cel_t12",notrans,0
+` "Ê, nói đi."`@
+` "Có ích gì của quyền lực nếu không lạm dụng nó?"@
+ld l,"tachi/koha_t03b",notrans,0
+` "À, câu nói đó có vấn đề đấy, Ciel-san.`@
+` Phải làm việc một cách nghiêm túc và chân thành. Không được có bất kỳ động cơ nào khác.`@
+ld r,"tachi/aki_t16b",notrans,0
+` "Tôi có nghe thấy cái gì đó không?"@
+` [line=3]Tôi nghĩ tôi nghe thấy người không phù hợp nhất cố giảng dạy tôi.`
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/koha_t02b",notrans,0
+` "À, tôi có thể hỏi câu hỏi mà tôi đã nghĩ ra được không?"`@
+ld r,"tachi/aki_t04b",notrans,0
+` "Hãy đi trước."`@
+` "Sao cậu không ngồi xuống với cái ghế này?"@
+` "Không đâu, chúng tôi chỉ là những cô phục vụ đang nghe trộm thôi."`@
+ld l,"tachi/his_t04",notrans,0
+` "..................(Ngồi)"`@
+ld r,"tachi/ark_t01a",notrans,0
+` "`Ừ?"@
+` "Cậu có định ngồi cạnh tôi không?"@
+` ".................."`@
+` (Gật đầu)`
+ld r,"tachi/koha_t16",notrans,0
+` "Ôi, cậu thật tệ hại, Hisui-chan!"`@
+` Tôi tưởng chúng ta đã đồng ý đứng ở bên cạnh để ủng hộ mọi người chứ. Cậu là kẻ phản bội!`
+\
+ld l,"tachi/aki_t18b",notrans,0
+` "... Kohaku.`@
+` Về bản demo tại Comiket mùa đông.@
+ld r,"tachi/koha_t14",notrans,0
+` Huh[line=3]?@
+` Như tôi đã nói, bản demo tại Comiket mùa đông.@
+ld r,"tachi/koha_t11",notrans,0
+` À... ừm[line=4]Akiha-sama... Anh... thấy đấy chứ?@
+ld l,"tachi/aki_t04b",notrans,0
+` Không phải lo lắng.@
+` l'Arc và Ciel-san chưa nhìn thấy nó.@
+` Chờ một chút, tùy vào cách anh hành động, tôi có thể giấu nó khỏi họ.
+\
+ld r,"tachi/koha_t12",notrans,0
+` Auu[line=3]Vậy là anh đã nhìn thấy rồi, à? ... Ồ, tôi hứa sẽ trung thành hơn từ bây giờ.@
+ld l,"tachi/aki_t28",notrans,0
+` Cứ như vậy là được.@
+` Bây giờ những người không phải anh hùng có thể ra ngoài và bắt đầu quét sân như những người không phải anh hùng nên.@
+ld l,"tachi/aki_t04b",notrans,0
+` Vậy, câu hỏi của bạn là gì?
+\
+ld r,"tachi/koha_t03b",notrans,0
+` Có.@
+` Khi Arcueid và Shiki-san đang vui vẻ, năm cái Tử Giả-san xuất hiện, đúng không?@
+` Cái đó là gì?@
+` Đó xảy ra vào ngày thứ mười trong đoạn của Arcueid.@
+ld l,"tachi/ark_t03",notrans,0
+` Huh?@
+` Điều đó không được giải thích trong câu chuyện?@
+ld r,"tachi/his_t01",notrans,0
+` Không, nó không.@
+ld l,"tachi/ark_t09",notrans,0
+` Tôi hiểu.@
+` ... Chà, tôi không quan tâm vì nó đã kết thúc rồi.@
+` Đúng rồi, Ciel?@
+ld r,"tachi/cel_t09",notrans,0
+` [line=6]Uhm.@
+` Tốt thôi, tôi không quan tâm.@
+` Tôi chỉ là một người tiện dụng để làm mọi việc.@
+` Vâng, tôi thậm chí không bận tâm nếu bị gọi là ác quỷ. Tôi coi đó như lời khen ngợi!
+\
+` ......?@
+` À, vậy là do cậu, Ciel-san?@
+ld l,"tachi/ark_t01a",notrans,0
+` Đúng thế.@
+` Cô ấy đã bảo quản xác những kẻ chết chóc mà tôi giết vào ngày thứ chín và điều khiển chúng bằng dây từ trên ngọn đèn đường.@
+` Nghi thức necromancy thật dễ dàng với con gái của Roa phải không?@
+ld r,"tachi/cel_t12",notrans,0
+` .... Nó không dễ chút nào, nhưng cậu nói phần lớn là đúng.@
+ld l,"tachi/his_t23",notrans,0
+` À... Bây giờ khi nhắc đến, tôi nhớ Roa gọi Ciel-sama là con gái mình...@
+ld r,"tachi/cel_t07a",notrans,0
+` ... Đó là bởi vì tất cả những người được chọn để tái sinh cơ thể của Roa đều là hậu duệ của Roa, dù chúng ta có phải là họ hàng máu hay không. Nói cách khác, chúng ta là con cái của hắn.
+\
+` ...Roa thích tôi hơn nên hắn gắn bó với tôi nhiều hơn bất kỳ chủ thể nào khác.@
+ld r,"tachi/aki_t08b",notrans,0
+` ... À, bây giờ tôi hiểu rồi.@
+` Vậy cậu cũng có giai đoạn hư hỏng đấy, Senpai?@
+ld l,"tachi/koha_t15",notrans,0
+` À, thật tuyệt!@
+` Chúng ta sẽ sử dụng điều đó cho câu chuyện phụ tiếp theo.@
+` Những ngày tham nhũng và lười biếng của cô ma cà rồng đã chinh phục một thị trấn!@
+` Điều gì chờ đợi cô gái đã sa ngã vào những ham muốn của mình?
+` Tiếp theo, trong Tsukihime 2, 'Tôi sẽ không tin vào tình yêu!'@
+` Hoặc là điều gì đó như vậy.@
+` Kyaa, cậu thật tuyệt vời, Ciel-san!
+\
+ld r,"tachi/cel_t06a",notrans,0
+` “[line=3]T-không có chuyện như thế đâu!@
+` Đã có mười câu chuyện phụ được quyết định cho đĩa fan tiếp theo rồi!@
+ld l,"tachi/koha_t16",notrans,0
+` “Ồ, thật tiếc.@
+ld r,"tachi/his_t05",notrans,0
+` Tiếc quá.
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/aki_t16b",notrans,0
+` “Vâng.@
+` Mọi người đều có câu trả lời cho các câu hỏi của mình rồi, nhưng có vẻ như còn thiếu cái gì đó.@
+` Cậu có điều gì khác không, Arcueid-san?@
+ld r,"tachi/ark_t01a",notrans,0
+` “Vậy thì sao giờ?@
+` Điều này xảy ra sau cốt truyện chính, nên tôi đang tự hỏi đây là đường nào của ai.@
+` Chúng ta đều ở đây, vì vậy nó phải là kết thúc của tôi hoặc Ciel.@
+ld l,"tachi/aki_t01b",notrans,0
+` “… Vâng.@
+` Tôi ghét phải thừa nhận điều này, nhưng kết thúc của tôi, Hisui và Kohaku không được gọi là 'lý tưởng'.
+\
+ld r,"tachi/cel_t03",notrans,0
+` “Cũng không phải với tôi.@
+` Điều này được cho là diễn ra sau kết thúc tốt của Arcueid.@
+` Ngay cả khi Tohno-kun, Arcueid, Roa và tôi đang chiến đấu, Tohno-kun vẫn thuận tiện có thể trải qua các sự kiện của Kohaku-san, Hisui-san và Akiha-san.@
+` Vâng, nhưng anh ấy chưa trải qua cốt truyện chính.@
+` “… Vậy chúng ta nên coi kết thúc của Arcueid-san là kết thúc thật sự cho Tsukihime?@
+ld l,"tachi/ark_t08",notrans,0
+` Ahihi.
+\
+ld r,"tachi/cel_t07a",notrans,0
+` Vâng. (Giận)@
+` Nhưng đó là kết thúc thật sự của câu chuyện gọi là 'Tsukihime'.@
+` Kết thúc thật sự của câu chuyện về Tohno Shiki thiên về phía Akiha-san.@
+` Tohno-kun ban đầu không liên quan gì đến con ma cà rồng ngốc nghếch kia và tôi.@
+ld l,"tachi/aki_t11b",notrans,0
+` … Vậy có khả năng Kohaku, Hisui hoặc tôi sẽ xuất hiện trong kết thúc thật sự, phải không?@
+ld r,"tachi/koha_t08",notrans,0
+` ......@
+ld l,"tachi/his_t01",notrans,0
+` ......@
+wait 1000
+cl a,crossfade,400
+ld l,"tachi/ark_t01b",notrans,0
+` … Hé, Ciel.@
+` Dường như ba người đó đang nhìn nhau với ánh mắt gắt.@
+ld r,"tachi/cel_t04",notrans,0
+` Họ đang cố gắng suy nghĩ xem nên ai là người ra tay trước hay đợi.@
+` Chúng ta không quấy rầy họ bây giờ.
+\
+bg #000000,crossfade,800
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/stk_t01",rshutter,400
+` [line=6]Được rồi, được rồi, được rồi!@
+cl c,notrans,0
+ld l,"tachi/ark_t11",notrans,0
+` Ôi, là Sacchin.@
+ld r,"tachi/stk_t01",notrans,0
+` Ừm, tôi vẫn sẽ được đối xử như trước đây chứ!?@
+` Các người không nghĩ nó quá khủng khiếp sao!?@
+ld l,"tachi/cel_t08",notrans,0
+` … Ừm… Theo tác giả kịch bản, có một tuyến đường của Yumizuka-san trong giai đoạn lên kế hoạch.@
+ld r,"tachi/aki_t01b",notrans,0
+` Đó là câu chuyện tập trung vào những gì đã cố tình bỏ qua trong Tsukihime, phải không?@
+` Nhưng tôi chắc chắn nó rất khó.@
+` Quá dài để đưa vào đĩa fan.@
+ld l,"tachi/koha_t17",notrans,0
+` Và vì chúng ta đã phát hành phiên bản hoàn chỉnh rồi, nên không thể tạo ra một phiên bản hoàn chỉnh thật sự hay bất cứ điều gì như vậy...@
+ld r,"tachi/his_t01",notrans,0
+` ... Nên thật tiếc, nhưng dường như Yumizuka-san sẽ mãi là nhân vật phụ.
+\
+cl a,notrans,0
+ld c,"tachi/stk_t09",notrans,0
+` Ôi trời ơi! Quá nhiều rồi, Chúa ơi!@
+` Người tôi yêu chính là kẻ ngốc nghếch nhất trường, và hơn nữa, tôi chết vào nửa đầu câu chuyện!@
+` Ngay cả Kohaku-san cũng có riêng mình đường đi cuối cùng, thế này quá nhiều rồi!@
+` Waaaaah!@
+cl c,notrans,0
+ld l,"tachi/ark_t11",notrans,0
+` Nhưng cậu vẫn sống tốt mà.@
+` Thể loại chính của câu chuyện là ma cà rồng, nhưng cậu là người duy nhất là ma cà rồng chân chính.@
+` Cậu là nhân vật chính bí mật.@
+ld r,"tachi/koha_t15",notrans,0
+` Cô ấy không thể ra sân khấu sáng sủa vì là ma cà rồng, phải không?@
+ld l,"tachi/cel_t05",notrans,0
+` Ô, vậy là tốt rồi.@
+cl a,notrans,0
+ld c,"tachi/stk_t12",notrans,0
+` Đần Tohno-kun!!!!@
+` Được thôi, tôi sẽ trả thù cậu trong 'Sự phá hủy giấc mơ và thực tại'!!!
+\
+cl c,rcartain,400
+wait 2000
+ld r,"tachi/cel_t07a",notrans,0
+` Yumizuka-san đã rời đi.@
+` ... Akiha-san, nói về Yumizuka-san...@
+` Bạn có xem câu chuyện phụ trên đĩa này không?@
+ld l,"tachi/aki_t10b",notrans,0
+` ......@
+ld r,"tachi/cel_t08",notrans,0
+` 'Sau đó, hãy theo tôi', phải không?@
+` Tohno-kun tốt với những người trẻ tuổi gấp ba lần, phải không?@
+ld r,"tachi/koha_t15",notrans,0
+` Vậy là chỉ là phản xạ tự nhiên, đúng không?@
+ld l,"tachi/aki_t05b",notrans,0
+` ... Vậy là thế nào.@
+` Nhưng tôi nhận ra rằng làm điều tốt vô thức thực sự rất tội lỗi.@
+ld r,"tachi/cel_t08",notrans,0
+` Ừm, đúng vậy.@
+` Tôi giờ hiểu Tohno-kun là người tội lỗi như thế nào rồi.@
+` Tôi chắc Yumizuka-san đã yêu anh ấy vì điều đó.
+\
+` Chắc chắn vậy!@
+` Ôi trời ơi, những cô gái trong sáng hiểu lầm bởi anh ta đối xử như thế với mọi người.@
+ld l,"tachi/aki_t28",notrans,0
+` ... Tôi cần phải giam Nii-san vào ngục tối để dạy cho anh ta một bài học... Huhuhu.@
+ld r,"tachi/his_t07",notrans,0
+` P-xin đừng nói những điều đáng sợ, Akiha-sama.@
+ld l,"tachi/cel_t09",notrans,0
+` Ừm... Tôi nghĩ Akiha-san vẫn còn bị ám ảnh một chút.@
+` Cô ấy đang tỏa ra luồng khí đen...@
+ld r,"tachi/koha_t03b",notrans,0
+` Không, điều đó không đúng.@
+` Akiha-sama đã hoàn toàn bình phục.@
+` Đây là bản chất thật sự của cô ấy.@
+ld l,"tachi/his_t17",notrans,0
+` Makihisa-sama bị rối loạn nhân cách kép di truyền cho Akiha-sama...
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/aki_t04b",notrans,0
+` Vậy, về sở thích của chúng ta.@
+ld r,"tachi/ark_t06",notrans,0
+` Đột ngột quá.@
+ld l,"tachi/aki_t08b",notrans,0
+` Có.@
+` Nếu tôi không nói thì chẳng ai nói cả, phải không?@
+` Đây là điều tôi được yêu cầu nhắc đến, nên mọi người có thể cho tôi biết bài hát yêu thích của mình được không?@
+` Nhưng nó phải là bài hát tiếng Nhật.@
+` Không được là tiếng Anh, thánh ca hay bài hát của một bộ lạc nào ở Amazon.
+\
+cl a,crossfade,400
+ld c,"tachi/ark_t08",notrans,0
+` Bài hát à?@
+` Tôi đoán tôi thích 'Crazy Dream' của Nav Katze.@
+ld c,"tachi/cel_t08",notrans,0
+` … À, 'Basement Melody'.@
+ld c,"tachi/his_t02",notrans,0
+` 'Parade' của SOFT BALLET-sama rất hay.@
+ld c,"tachi/koha_t03b",notrans,0
+` 'Soft Scar' của Cocco-san là một bài hát tuyệt vời.@
+ld c,"tachi/aki_t04b",notrans,0
+` 'Satetsu Tower' của SWINGING POPSICLE rất hay.@
+cl a,notrans,0
+ld c,"tachi/stk_t03",rshutter,400
+` Ô!@
+` Tôi thích bài hát của Harada Tomoyo được sử dụng trong 'Bungaku to ifu koto'!
+\
+cl c,rshutter,400
+ld l,"tachi/cel_t11",notrans,0
+` Hay quá, bạn thích Parade à, Hisui-san!?@
+` Tốt, tốt! SOFT BALLET tuyệt vời!@
+` Khi nghe giọng hát nặng trĩu thế giới hạng nhất của Ryoichi-san, tôi cảm thấy như đang nghe thánh ca trong nhà thờ!@
+ld r,"tachi/his_t20",notrans,0
+` ......@
+ld l,"tachi/aki_t16b",notrans,0
+` … Bạn có nghĩa là… 'Parade'…?@
+ld r,"tachi/koha_t11",notrans,0
+` Có.@
+` Hisui-chan dùng bài hát này để thức dậy mỗi sáng và nghe nó.@
+` Tôi đôi lúc sợ Hisui-chan có thể hơi điên rồ.
+\
+bg #000000,bshutter,400
+bg "bg/bg_59",rshutter,800
+ld c,"tachi/aki_t04b",notrans,0
+` … Chà, có một vài trở ngại, nhưng mọi người đều đã nói về bài hát yêu thích của họ, phải không?@
+` Vậy[line=3] tôi đoán đó sẽ là những bài hát đại diện của bạn.@
+cl c,notrans,0
+` Ê!@
+ld r,"tachi/cel_t10a",notrans,0
+` Chờ tí! Tôi chưa nghe nói về điều đó đâu!@
+ld l,"tachi/aki_t04b",notrans,0
+` Ôi, Senpai.@
+` Có chuyện gì không?@
+` Dĩ nhiên rồi!@
+` Tôi chọn 'Basement Melody'!@
+` Đó là một bài hát chỉ lặp lại lời ca: 'tôi ở đâu? Tôi là ai?'
+\
+ld l,"tachi/aki_t08b",notrans,0
+` Không phải hay lắm sao?@
+` Tôi nghe nói người viết kịch bản đã thấy lời ca trong bệnh viện khi còn là sinh viên. Có một truyền thuyết rằng anh ta sợ đến nỗi không thể mở hộp đĩa CD được khoảng nửa năm.@
+` A-auuuu!@
+` Nếu đó là bài hát của tôi thì giống như một bộ phim kinh dị vậy!@
+ld l,"tachi/ark_t08",notrans,0
+` Chạy, chạy, chạy, chạy, mở cửa!@
+ld r,"tachi/cel_t06a",notrans,0
+` Ê!@
+` Đừng hát bài hát này!@
+` Run to the daylight! Ôi!@
+ld l,"tachi/ark_t20",crossfade,400
+` Gaa!@
+cl a,notrans,0
+` Heeeeeee!@
+` Ô trời ơi, quá nhiều rồi!
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/ark_t01a",notrans,0
+` Chà, thật vui.@
+` Nhưng 'Crazy Dream' của Nav Katze là một bài hát dễ thương về ma cà rồng.@
+` Đó chính là bài hát chủ đề của Tsukihime (của Arcueid) theo lời người viết kịch bản, nên những ai quan tâm thì hãy nghe thử đi.@
+ld r,"tachi/his_t01",notrans,0
+` Đó là một mini-album có tên gọi là 'OUT'.@
+` Giá khoảng 2000 yên.@
+` … Nhưng Arcueid-san… Quảng cáo như thế này được phép không?@
+ld l,"tachi/ark_t09",notrans,0
+` Được rồi, được rồi. Không có vấn đề gì đâu!
+\
+bg #000000,bshutter,1500
+bg "bg/bg_59",rshutter,1500
+ld l,"tachi/ark_t01a",notrans,0
+` À.@
+` Bên ngoài đang dần tối.@
+ld r,"tachi/cel_t01a",notrans,0
+` Bạn đúng đấy.@
+` Tôi đoán chúng ta nên kết thúc chuyện này rồi.@
+ld l,"tachi/aki_t01b",notrans,0
+` Ồ, thật sự?@
+` Tuy nhiên, tôi còn muốn hỏi thêm một điều nữa.@
+` Đây là câu hỏi cuối cùng, nhưng các bạn nghĩ ai là người 'ác độc nhất' trong Tsukihime?@
+cl a,crossfade,400
+` ....................@
+` ....................@
+` ....................@
+` ....................@
+` ....................
+\
+ld l,"tachi/ark_t03",notrans,0
+` Hãy nói đi, Ciel.@
+ld r,"tachi/cel_t12",notrans,0
+` Bạn có thể nói trước.@
+` Tôi sẽ đi sau bạn.@
+ld l,"tachi/aki_t01b",notrans,0
+` Kohaku?@
+` Cậu cũng muốn đi sau cùng chứ, Hisui?@
+ld r,"tachi/koha_t12",notrans,0
+` Heehee, nói trước hơi ngại.@
+ld l,"tachi/his_t20",notrans,0
+` ............(Gật đầu)@
+cl a,crossfade,400
+ld c,"tachi/ark_t01a",notrans,0
+` Tôi hiểu.@
+` Vậy chúng ta cùng nói lúc này đi. Ba, hai, một, không.
+\
+ld c,"tachi/ark_t03",notrans,0
+` Tôi nghĩ là Shiki.@
+ld c,"tachi/cel_t01a",notrans,0
+` Tohno-kun, chắc chắn rồi.@
+ld c,"tachi/aki_t21b",notrans,0
+` Phải là Nii-san.@
+ld c,"tachi/his_t17",notrans,0
+` ... Tôi xin lỗi, Shiki-sama.@
+ld c,"tachi/koha_t15",notrans,0
+` Tôi không nghĩ ra ai khác ngoài Shiki-san.
+\
+cl a,crossfade,400
+ld l,"tachi/ark_t12",notrans,0
+` ... Sao vậy?@
+` Mọi người ghét Shiki à?@
+ld r,"tachi/cel_t02",notrans,0
+` Ừm, tôi không ghét anh ấy, nhưng anh ấy thật tệ...... Cũng giống như anh ấy quá dễ thương nên tôi lại ghét anh ấy.@
+ld l,"tachi/aki_t16b",notrans,0
+` Tôi thật lòng nghĩ Nii-san rất tệ.@
+` Tôi luôn phải chịu đựng vì anh ấy.@
+` Anh ta hoàn toàn không để ý đến cảm xúc của tôi đối với anh ta, thật ác độc.@
+ld r,"tachi/his_t22",notrans,0
+` ............@
+ld l,"tachi/koha_t03b",notrans,0
+` Đúng vậy.@
+` Cậu không mệt sau khi quan hệ với Shiki-san vì anh ấy rất kiên trì à?@
+` Tôi tự hỏi anh ấy có thể kiên trì như vậy được không.
+\
+ld r,"tachi/cel_t11",notrans,0
+` ...... Tôi đồng ý.@
+` Tohno-kun là vô tận.@
+ld l,"tachi/ark_t14",notrans,0
+` Thật sao...?@
+` Tôi không thể chắc chắn lắm vì tôi chỉ biết Shiki...@
+ld r,"tachi/his_t21",notrans,0
+` ............(Dường như đang đồng ý)@
+ld l,"tachi/aki_t16b",notrans,0
+` Chắc là vậy, anh ấy hơn mọi thứ tôi từng nghe về rất nhiều, nhưng...@
+ld l,"tachi/aki_t07b",notrans,0
+` Ôi trời ơi, tại sao chúng ta lại nói chuyện này!?@
+` Chúng ta đang nói về những lỗi của Nii-san, phải không!?@
+ld r,"tachi/cel_t12",notrans,0
+` À, chẳng phải đây là điều xấu về Tohno-kun sao?@
+ld l,"tachi/ark_t08",notrans,0
+` Ừ.@
+` Tôi cũng tò mò về điều này.@
+` Tại sao em lại cứng đầu như vậy?@
+` Chúng ta nên thư giãn ở đây.
+\
+ld l,"tachi/aki_t16b",notrans,0
+` [line=6]Vâng, được rồi.@
+` Tôi cũng tò mò một chút... chắc không có hại gì.@
+ld r,"tachi/his_t13",notrans,0
+` Gì...? Quá kinh khủng để nói về điều đó khi Shiki-sama vắng mặt.@
+ld r,"tachi/koha_t15",notrans,0
+` Ừ.@
+` Thật đáng tiếc là Shiki-san không ở đây.@
+` Bạn biết trò chơi mà mọi người đều có kiếm và đâm một tên hải tặc trong thùng rơm chứ?@
+` Chúng ta có thể tấn công hắn từ mọi phía và khiến hắn khó chịu.@
+` Thật là đáng tiếc. Nếu Shiki-san ở đây thì tuyệt vời rồi.@
+ld l,"tachi/aki_t24",notrans,0
+` Ừ...@
+ld l,"tachi/aki_t25",notrans,0
+` K-Kohaku... điều cậu vừa nói thật... thật phi thường...
+\
+bg #000000,bshutter,800
+bg "bg/bg_59",rshutter,800
+wave pd/se02
+ld l,"tachi/ark_t03",notrans,0
+` Huh?@
+` Tiếng động này là gì?@
+ld r,"tachi/koha_t02b",notrans,0
+` À, giờ đóng cửa rồi.@
+` Chúng ta nói chuyện rất nhiều hôm nay đấy.@
+ld l,"tachi/aki_t04b",notrans,0
+` ...Vâng.@
+` Tôi không chắc kết quả sẽ như thế nào, nhưng mọi sự thù địch và ganh đua của chúng ta đã nhanh chóng biến mất và chúng ta có thể trò chuyện vui vẻ.@
+ld r,"tachi/cel_t04",notrans,0
+` Ba người chúng ta là một sự cân bằng tốt.@
+` Tôi cũng thích ngày hôm nay.@
+ld l,"tachi/koha_t03b",notrans,0
+` Huhu, đó là sự cân bằng có thể nghiêng về bất kỳ hướng nào vào lúc này...@
+ld r,"tachi/his_t04",notrans,0
+` ...Chớ nói như vậy, Nee-san...
+\
+cl a,crossfade,400
+ld c,"tachi/aki_t08b",notrans,0
+` À, tôi về nhà đây.@
+` Tôi sẽ để hai người dọn dẹp.@
+cl c,rshutter,800
+ld c,"tachi/cel_t04",notrans,0
+` Tôi cũng đi rồi.@
+` Giờ là lúc tôi tuần tra.@
+cl c,rshutter,800
+ld c,"tachi/ark_t03",notrans,0
+` Tôi đoán tôi cũng nên về.@
+` Tôi đã ở đây quá lâu rồi.@
+cl a,crossfade,400
+ld l,"tachi/koha_t03b",notrans,0
+` “Được rồi.”@
+` Xin hãy cẩn thận, Arcueid-san.`@
+ld r,"tachi/ark_t01a",notrans,0
+` "Hẹn gặp lại."@
+` À, nhưng tôi đoán tối nay sẽ gặp Hisui.`@
+ld l,"tachi/his_t17",notrans,0
+` "... Arcueid-sama.`@
+` Xin đừng trốn vào phòng của SHIKI.`
+\
+` "Ừ, ừ, tôi chỉ đùa thôi."`@
+` "Ừm, gặp lại hai người sau này."@
+cl r,rshutter,800
+ld r,"tachi/koha_t15",notrans,0
+` "Vâng, chúng ta hãy gặp lại sau Tết mới! "`@
+@
+cl a,crossfade,800
+playstop
+wait 1000
+bg #000000,bshutter,1500
+bg "word/pd_fin",crossfade,1500
+wait 2000

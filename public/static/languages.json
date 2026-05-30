@@ -45,7 +45,7 @@
     "last-update": "2026-05-12",
     "fallback": "en-mm"
   },
-   "zh-yueji_yeren_hanhua_zu": {
+  "zh-yueji_yeren_hanhua_zu": {
     "locale": "zh-CN",
     "display-name": "🇨🇳 简体中文",
     "authors": "Hawkwin",
@@ -72,9 +72,9 @@
   "vi": {
     "locale": "vi-VN",
     "display-name": "🇻🇳 Tiếng Việt",
-    "authors": "Fandom Type-Moon Việt Nam",
-    "dir": "./vi",
-    "last-update": "2026-05-28",
+    "authors": "Codex + Antigravity (local)",
+    "dir": "./vi-codex",
+    "last-update": "2026-05-31",
     "fallback": "en-mm"
   }
 }

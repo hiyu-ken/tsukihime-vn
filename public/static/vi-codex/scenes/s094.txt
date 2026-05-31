@@ -1,4 +1,4 @@
-phase "bg/bg_28b",r,ark,04a,4
+[Hình nền: bg/bg_28b], r, ark, 04a, 4
 bg "bg/bg_15a",crossfade,800
 ` Phòng của Arcueid không giống với những gì bạn mong đợi từ một ma cà rồng.@
 ` ... Khi đó, tôi chỉ lo lắng cho Arcueid nên không thực sự để ý, nhưng nhìn lại bây giờ, phòng của cô ấy hoàn toàn bình thường.@

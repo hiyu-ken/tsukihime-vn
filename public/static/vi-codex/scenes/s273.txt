@@ -1,121 +1,121 @@
 phase "bg/bg_11c",l,cel,09a,9
 bg #000000,notrans,0
 bg "bg/cmo_14",crossfade,400
-   Tôi đang ở một nơi tăm tối.@
-   Đã tám năm kể từ khi tôi tỉnh giấc.@
-   Tôi vẫn luôn nín thở trong bóng tối suốt thời gian qua.
+    Tôi đang ở một nơi tăm tối.@
+    Đã tám năm kể từ khi tôi tỉnh giấc.@
+    Tôi vẫn luôn nín thở trong bóng tối suốt thời gian qua.
 \
-   Tôi thậm chí còn chẳng biết lý do vì sao.@
-   Ký ức ấy từ lâu đã bị bào mòn.@
-   Nơi đây chỉ tồn tại một màn đêm vô tận.@
-   Thế nhưng, tôi biết có một việc mà mình bắt buộc phải làm.
+    Tôi thậm chí còn chẳng biết lý do vì sao.@
+    Ký ức ấy từ lâu đã bị bào mòn.@
+    Nơi đây chỉ tồn tại một màn đêm vô tận.@
+    Thế nhưng, tôi biết có một việc mà mình bắt buộc phải làm.
 \
-   Tôi không biết tại sao mình lại tồn tại.@
-   Nhưng tôi biết rõ sứ mệnh của mình.@
-   Những xiềng xích trói buộc tôi đã hoàn toàn biến mất.@
-   Không còn điều gì có thể cản bước tôi được nữa.@
+    Tôi không biết tại sao mình lại tồn tại.@
+    Nhưng tôi biết rõ sứ mệnh của mình.@
+    Những xiềng xích trói buộc tôi đã hoàn toàn biến mất.@
+    Không còn điều gì có thể cản bước tôi được nữa.@
 !w500
 br
-   Việc duy nhất còn lại,
+    Việc duy nhất còn lại,
 !w500
 br
-   chính là tiêu diệt ngươi.
+    chính là tiêu diệt ngươi.
 \
 bg #ffffff,crossfade,1500
 bg "bg/bg_40e",crossfade,400
 br
-   *Chíp chíp*@ *Chíp chíp*@ *Líu lo*@ *Líu lo*@
+    *Chíp chíp*@ *Chíp chíp*@ *Líu lo*@ *Líu lo*@
 br
-   Cửa sổ đang mở sao?@
-   Tôi có thể nghe thấy tiếng chim lượn hót líu lo vọng vào từ phía sân vườn.@
+    Cửa sổ đang mở sao?@
+    Tôi có thể nghe thấy tiếng chim lượn hót líu lo vọng vào từ phía sân vườn.@
 br
-   Một làn gió mát lành mơn man lướt qua khuôn mặt tôi.@
-   Ánh nắng ban mai rực rỡ chiếu rọi vào mắt tôi.@
-   Một sắc mai thanh bình, dịu nhẹ.@
+    Một làn gió mát lành mơn man lướt qua khuôn mặt tôi.@
+    Ánh nắng ban mai rực rỡ chiếu rọi vào mắt tôi.@
+    Một sắc mai thanh bình, dịu nhẹ.@
 br
-   Một buổi sáng ghé thăm thật khẽ khàng.
+    Một buổi sáng ghé thăm thật khẽ khàng.
 \
 bg "bg/bg_40a",crossfade,400
 play "*2"
-   Sáng rồi sao?@
-   Có vẻ như tôi đã ngủ thiếp đi cho đến tận bây giờ sau khi được Akiha trị thương.@
-   Cơ thể tôi vẫn còn cảm giác hơi nặng nề.@
-   Nhưng dù sao tôi vẫn thấy khỏe hơn nhiều so với đêm qua.@
-   Mở mắt ra, tôi khẽ ngồi dậy.
+    Sáng rồi sao?@
+    Có vẻ như tôi đã ngủ thiếp đi cho đến tận bây giờ sau khi được Akiha trị thương.@
+    Cơ thể tôi vẫn còn cảm giác hơi nặng nề.@
+    Nhưng dù sao tôi vẫn thấy khỏe hơn nhiều so với đêm qua.@
+    Mở mắt ra, tôi khẽ ngồi dậy.
 \
 wave se_01
 bg #9c0120,crossfade,400
 bg "bg/bg_40a",crossfade,400
 "Ugh…………"
-   Một cảm giác buồn nôn lập tức ập đến.@
-   Cơn thiếu máu từ hôm qua vẫn chưa dứt sao?@
-   Lồng ngực tôi đau thắt lại và đầu óc quay cuồng.@
+    Một cảm giác buồn nôn lập tức ập đến.@
+    Cơn thiếu máu từ hôm qua vẫn chưa dứt sao?@
+    Lồng ngực tôi đau thắt lại và đầu óc quay cuồng.@
 br
 ld c,"tachi/his_t01",lshutter,400
 "Em xin phép vào ạ."@
-   Hisui khẽ khàng bước vào phòng tôi.@
-   Chắc cô ấy nghĩ tôi vẫn còn đang ngủ nên trông hơi ngạc nhiên khi thấy tôi đã thức dậy.
+    Hisui khẽ khàng bước vào phòng tôi.@
+    Chắc cô ấy nghĩ tôi vẫn còn đang ngủ nên trông hơi ngạc nhiên khi thấy tôi đã thức dậy.
 \
 "Chào buổi sáng cậu chủ Shiki. Cậu chủ đã thức giấc rồi ạ."@
 "[line=4]"@
-   Không hiểu vì sao,
-   phản ứng của Hisui lại khiến tôi cảm thấy bực bội vô cớ.
+    Không hiểu vì sao,
+    phản ứng của Hisui lại khiến tôi cảm thấy bực bội vô cớ.
 \
 "Chào buổi sáng.@ Đến giờ ăn sáng rồi phải không?@ Tôi sẽ xuống ngay, cô ra ngoài trước đi.@ Tôi chuẩn bị thay quần áo."@
 ld c,"tachi/his_t04",crossfade,400
 "…… Vâng, em xin phép ra ngoài trước ạ."@
 cl c,lshutter,800
 "……………"
-   Cho dù tâm trạng có tồi tệ đến thế nào đi nữa, trút giận lên Hisui như vậy…… đầu óc mình thực sự có vấn đề rồi.
+    Cho dù tâm trạng có tồi tệ đến thế nào đi nữa, trút giận lên Hisui như vậy…… đầu óc mình thực sự có vấn đề rồi.
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_40a",crossfade,400
 "[line=4]"@
-   Khó chịu quá.@
-   Có đến trường với bộ dạng này thì tôi cũng chẳng thể học hành gì nổi.@
+    Khó chịu quá.@
+    Có đến trường với bộ dạng này thì tôi cũng chẳng thể học hành gì nổi.@
 br
 "…… Hay là hôm nay mình nghỉ học nhỉ."@
-   Nhưng tôi bắt buộc phải đi.@
-   Nếu đến trường, biết đâu tôi sẽ lại được gặp Senpai.
+    Nhưng tôi bắt buộc phải đi.@
+    Nếu đến trường, biết đâu tôi sẽ lại được gặp Senpai.
 \
-   …… Dù có thể chị ấy không còn là "Senpai" mà tôi mong mỏi nữa[line=3]nhưng biết đâu chị ấy vẫn ở đó.@
+    …… Dù có thể chị ấy không còn là "Senpai" mà tôi mong mỏi nữa[line=3]nhưng biết đâu chị ấy vẫn ở đó.@
 br
 "[line=5]*Phù*."@
-   Hít một hơi thật sâu, tôi cố trấn tĩnh lại lòng mình.@
-   Gượng sức chống lại cơn chóng mặt đang hành hạ, tôi bước ra khỏi phòng.
+    Hít một hơi thật sâu, tôi cố trấn tĩnh lại lòng mình.@
+    Gượng sức chống lại cơn chóng mặt đang hành hạ, tôi bước ra khỏi phòng.
 \
 bg #000000,lcartain,800
 bg "bg/bg_34a",lcartain,800
 ld c,"tachi/aki_t16a",lshutter,800
 "A, anh Shiki.@ …… Chào buổi, sáng anh."@
-   …… Ngay khi tôi vừa bước vào phòng khách, Akiha đã cất lời chào tôi bằng chất giọng mệt mỏi trống rỗng.
+    …… Ngay khi tôi vừa bước vào phòng khách, Akiha đã cất lời chào tôi bằng chất giọng mệt mỏi trống rỗng.
 \
 "…… Ừm, chào buổi sáng Akiha.@ Em dậy sớm thế."@
 "Em lúc nào cũng dậy sớm vào giờ này mà…… Nhưng anh Shiki?"@
 ld c,"tachi/aki_t12a",crossfade,400
 "…… Anh có sao không ạ?@ Sắc mặt anh trông vẫn nhợt nhạt lắm.@ Nếu thấy không khỏe, anh cứ nghỉ ở nhà đi[line=3]"@
 "Không, anh ổn mà.@ Khỏe hơn nhiều rồi, em không cần phải lo lắng đâu."@
-   Tôi nhanh nhảu đáp lời rồi lướt qua cô em gái.@
-   Tôi đi thẳng về hướng nhà ăn, vì nếu không nạp chút gì vào bụng thì chắc tôi sẽ ngất xỉu giữa đường mất.
+    Tôi nhanh nhảu đáp lời rồi lướt qua cô em gái.@
+    Tôi đi thẳng về hướng nhà ăn, vì nếu không nạp chút gì vào bụng thì chắc tôi sẽ ngất xỉu giữa đường mất.
 \
 "Anh đi trước nhé.@ Sắp đến giờ đi học của em rồi phải không?"@
 ld c,"tachi/aki_t17a",crossfade,400
 「……………… Dạ vâng.@ Vậy thì em xin phép đi trước đây ạ.」@
-   Akiha nói bằng chất giọng ngập ngừng rồi lặng lẽ đứng dậy ra về.@
+    Akiha nói bằng chất giọng ngập ngừng rồi lặng lẽ đứng dậy ra về.@
 cl c,lshutter,800
-   Akiha rời khỏi phòng khách.@
-   Dõi mắt nhìn theo bóng lưng em gái qua khóe mắt, tôi bước vào nhà ăn.
+    Akiha rời khỏi phòng khách.@
+    Dõi mắt nhìn theo bóng lưng em gái qua khóe mắt, tôi bước vào nhà ăn.
 \
 playstop
 bg #000000,lcartain,800
 bg "bg/bg_23a",lcartain,800
-   Tôi rời khỏi biệt thự và rảo bước đến trường.@
-   Từng bước chân vẫn nặng như đeo chì, tôi chậm rãi bước xuống dốc với cảm giác kỳ lạ như thể đang mượn tạm thể xác của một ai khác.
+    Tôi rời khỏi biệt thự và rảo bước đến trường.@
+    Từng bước chân vẫn nặng như đeo chì, tôi chậm rãi bước xuống dốc với cảm giác kỳ lạ như thể đang mượn tạm thể xác của một ai khác.
 \
 bg "bg/bg_01a",lcartain,800
-   Lúc này đã là bảy giờ bốn mươi phút.@
-   Cổng trường bắt đầu đông nghịt học sinh đang vội vã chạy đua với thời gian để kịp giờ vào lớp.@
+    Lúc này đã là bảy giờ bốn mươi phút.@
+    Cổng trường bắt đầu đông nghịt học sinh đang vội vã chạy đua với thời gian để kịp giờ vào lớp.@
 br
 "………………"@
-   Tôi không nghĩ Senpai sẽ xuất hiện, nhưng đứng đợi ở đây biết đâu vẫn tốt hơn là ngồi ngẩn ngơ trong lớp học?
+    Tôi không nghĩ Senpai sẽ xuất hiện, nhưng đứng đợi ở đây biết đâu vẫn tốt hơn là ngồi ngẩn ngơ trong lớp học?
 \

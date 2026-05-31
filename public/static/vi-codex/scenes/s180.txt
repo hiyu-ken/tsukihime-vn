@@ -2,13 +2,13 @@ monocro off
 playstop
 wavestop
 bg "bg/bg_25b",notrans,0
-[line=4]play "*2"
+play "*2"
 br
 ` Hôm nay là một ngày nắng ấm tươi đẹp.@
 ` Tôi nhanh chóng chuẩn bị sách vở và mặc đồng phục để đến trường.@
 ` Dù cơ thể vẫn còn chút mệt mỏi từ chứng thiếu máu hôm qua, nhưng tinh thần tôi đã phấn chấn hơn rất nhiều.
 \
-[line=4]bg #000000,lcartain,800
+bg #000000,lcartain,800
 bg "bg/bg_01a",lcartain,800
 br
 ` [line=6]Sân trường náo nhiệt tiếng cười nói của các học sinh khác làm tôi cảm nhận được nhịp sống bình thường thường nhật mà tôi hằng mong muốn.@
@@ -43,7 +43,7 @@ cl c,lshutter,800
 ` Không thể nào.@ Người vừa trò chuyện vui vẻ dịu dàng với tôi chính là Senpai tốt bụng thường ngày mà.@
 \
 br
-[line=4]bg #000000,lcartain,1000
+bg #000000,lcartain,1000
 br
 wave se_12
 mov %flushcount,0
@@ -62,7 +62,7 @@ if (%flushcount>=0) skip -5
 ` [line=4]Tôi nhận lấy ly trà, khẽ nhấp một ngụm. Vị trà ấm áp lan tỏa khắp cơ thể làm tôi thấy dễ chịu vô cùng.@
 ` Đứng bên cạnh Senpai thế này, tôi quyết định phải gặng hỏi để làm rõ những hoài nghi trong lòng mới được.@
 `"Này, Senpai... Cho em hỏi một chuyện hơi kỳ lạ nhé."@
-[line=4]ld c,"tachi/cie_t12a",crossfade,400
+ld c,"tachi/cie_t12a",crossfade,400
 br
 ` [line=4]Cô ấy khẽ mỉm cười đầy tò mò.
 \
@@ -76,11 +76,11 @@ br
 `"À không có gì đâu ạ. Chắc do em ngủ mơ thấy chuyện kỳ lạ thôi."@
 ` Tôi khẽ thở phào nhẹ nhõm, thầm cười cho sự hoài nghi ngớ ngẩn của mình.@
 \
-[line=6]\
+\
 cl c,lshutter,800
 bg #000000,crossfade,1500
 br
-[line=6]!w3000
+!w3000
 ` Như thể một con dao đang cắt chậm nhưng chắc chắn qua cột sống của tôi,
 ` một cơn đau từ bên trong tôi len lỏi ra ngoài.@
 ` Bản thân tôi như bị tiếng thét của trực giác xé nát.@
@@ -139,7 +139,7 @@ br
 ` Mắt Arcueid đột nhiên chuyển hướng.@
 playstop
 ld c,"tachi/ark_t20b",notrans,0
-waveloop se_02
+[lời bài hát]
 ` Mắt cô ấy không còn màu đỏ thường thấy, mà là một chớp sáng vàng.@
 ` Không phải vì chúng tôi đã gặp nhau.@
 ` Chỉ đơn giản là tôi nhìn vào đôi "mắt" đó.
@@ -299,14 +299,14 @@ wave se_01
 ` Thị lực tôi mờ mịt và không rõ ràng.@
 ` Lửa bên trong tôi đang bùng cháy[line=4]Tôi phải giải phóng nó ngay lập tức.
 \
-eroskip 26
+(nhảy qua 26 dòng)
 wave se_01
 ` Tôi thở dốc.@
 ` Tôi bắt đầu di chuyển chậm rãi.@
 ` Tôi di chuyển hông xuống bụng cô ấy.@
 ` Cô ấy mở rộng chân, tôi ép mình giữa hai chân cô ấy.
 \
-waveloop se_02
+Âm thanh lặp lại se_02
 `"Chẳng... biết nữa."@
 ` Cô ấy nhìn tôi với vẻ không chắc chắn.@
 ` Nhìn như vậy khiến đầu tôi đau nhức.@

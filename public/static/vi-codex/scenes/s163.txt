@@ -2,7 +2,7 @@ monocro off
 play "*2"
 wavestop
 bg "bg/bg_40a",notrans,0
-[line=4]\
+\
 bg "bg/bg_12a",lcartain,800
 ` Chúng tôi đi bộ đến khu phố mua sắm phía trước nhà ga.@
 ` [line=3]Dưới ánh nắng ban ngày, Arcueid trông vô cùng nổi bật giữa đám đông.@
@@ -17,7 +17,7 @@ ld c,"tachi/ark_t16",crossfade,400
 \
 `"………… Thật là."@
 ` Tôi thở dài ngao ngán. Đúng là tính cách tùy hứng của ma cà rồng mà.
-[line=4]\
+\
 \
 `"Được rồi. Thế chúng ta cứ đi dạo quanh khu mua sắm này trước nhé. Cậu có muốn ăn gì hay mua gì không?"@
 `"[line=6]Ăn á? Tôi không cần ăn đồ ăn của con người đâu. Nhưng đi dạo thì được đấy!"@
@@ -26,7 +26,7 @@ cl c,crossfade,400
 br
 ` Thế là chúng tôi cùng nhau dạo bước qua các con phố mua sắm náo nhiệt. Arcueid tỏ ra vô cùng phấn khích trước mọi thứ xung quanh hệt như một đứa trẻ lần đầu được đi hội chợ vậy.
 \
-[line=4]bg #000000,lcartain,800
+bg #000000,lcartain,800
 \
 ` Chúng tôi dừng chân tại một công viên nhỏ ven đường.@
 ` [line=4]Đi bộ suốt một buổi sáng làm đôi chân tôi có chút mỏi mệt, nhưng Arcueid trông vẫn tràn đầy năng lượng không hề có chút mệt mỏi nào.
@@ -50,7 +50,7 @@ cl c,crossfade,400
 ` Nhìn bóng lưng năng động và nụ cười rạng rỡ của cô ấy dưới ánh nắng ban trưa, tôi bỗng cảm nhận được một sự bình yên kỳ lạ. Nếu không biết thân phận thực sự của cô ấy, có lẽ tôi đã nghĩ đây chỉ là một cô gái bình thường, năng động và vô cùng dễ thương mà thôi.
 \
 br
-bg "bg/bg_05a",lcartain,1000
+bg "bg/bg_05c",lcartain,1000
 \
 ` Ánh hoàng hôn nhuộm đỏ cả góc trời, bừng sáng lên mái tóc vàng của Arcueid.
 \

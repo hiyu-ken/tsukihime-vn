@@ -1,8 +1,8 @@
-phase "bg/bg_31b",l,ark,10a,10
+monocro off
 bg #ffffff,crossfade,800
 bg "bg/bg_40a",crossfade,800
 play "*9"
-` [line=4]Buổi sáng đã đến.@
+play "*9"
 ` Tôi mở mắt và đeo chiếc kính ở cạnh giường.@
 ` Nhìn ra cửa sổ, tôi thấy một bầu trời xanh không một gợn mây.@
 br
@@ -21,15 +21,15 @@ ld c,"tachi/ark_t14",crossfade,400
 `"Không có gì đâu mà. Chỉ là... tôi vừa nói chuyện với Ciel-senpai lúc trưa nay thôi."@
 `"Ciel-senpai? Ý cậu là ả Hành Pháp Giả của Táng Nghi Xã cứu mạng cậu đêm hôm kia sao?"@
 br
-[line=4]\
+\
 \
 br
-[line=4]ld c,"tachi/ark_t06",crossfade,400
+ld c,"tachi/ark_t06",crossfade,400
 br
 ` Cô ấy trừng mắt nhìn tôi đầy giận dỗi, vẻ mặt phụng phịu hệt như một chú mèo bị cướp mất đồ chơi vậy.@
 `"Không đời nào. Tôi đã bảo với chị ấy rằng cậu tuyệt đối không phải là loại quái vật tàn bạo chuyên đi hút máu người như họ nghĩ đâu."@
 br
-[line=4]\
+\
 \
 bg #000000,lcartain,1500
 bg "bg/bg_34a",lcartain,1500

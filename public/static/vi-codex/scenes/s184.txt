@@ -9,5 +9,5 @@ bg "bg/bg_29b",lcartain,1500
 ` Tiếng hét thất thanh của Arcueid vang lên bên tai.@
 \
 bg #9c0120,notrans,0
-[line=2]wave se_06
+wave se_06
 \

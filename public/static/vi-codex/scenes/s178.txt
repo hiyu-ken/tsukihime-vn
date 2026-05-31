@@ -20,7 +20,7 @@ ld c,"tachi/ark_t02",crossfade,400
 \
 ld c,"tachi/ark_t08",crossfade,400
 `"Tôi biết rồi. Cảm ơn cậu đã lo lắng cho tôi nhé, Arcueid."@
-[line=4]ld c,"tachi/ark_t08",crossfade,400
+ld c,"tachi/ark_t08",crossfade,400
 ld c,"tachi/ark_t11",crossfade,400
 ` Vẫy tay chào đầy năng lượng, ma cà rồng váy trắng thoăn thoắt bước đi rồi nhanh chóng hòa mình biến mất vào bóng đêm tịch mịch.@
 cl c,lshutter,800

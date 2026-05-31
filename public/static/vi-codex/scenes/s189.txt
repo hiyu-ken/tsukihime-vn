@@ -43,7 +43,7 @@ bg "bg/bg_29b",lshutter,400
 ld c,"tachi/ark_t18",lshutter,800
 ` Arcueid đứng đó, gương mặt bàng hoàng thất thần.@
 ` Tôi cũng đứng đờ người ra, không biết phải làm gì tiếp theo.
-[line=3]\
+\
 \
 `"Ả ta định hút máu cậu đấy."@
 ` Một giọng nói lạnh lùng, khinh bỉ cất lên.@
@@ -54,7 +54,7 @@ ld c,"tachi/ark_t18",lshutter,800
 bg #000000,crossfade,400
 bg "event/cel_e04",crossfade,400
 ` Có một bóng người mặc áo choàng đứng trên cột đèn, hệt như đêm hôm kia.@
-[line=3]br
+br
 br
 ` [line=4]Không thể lầm lẫn vào đâu được.@
 ` Dẫu nhìn từ góc độ nào, đó vẫn chính là Ciel-senpai.@
@@ -66,19 +66,19 @@ br
 br
 ` Không có chút ấm áp thường ngày, cũng không có vẻ nghiêm khắc đùa giỡn.@
 ` Một chất giọng vô cảm lạnh lẽo đến mức khiến tôi run sợ vì thiếu đi chút tính nhân bản tối thiểu.
-[line=3]\
+\
 \
 bg "bg/bg_29b",lshutter,400
 ld l,"tachi/cel_t06b",lshutter,400
 ld l,"tachi/cel_t06b",lshutter,400
 ` "Tôi vốn không có ý định giao chiến với cô lúc này... nhưng nếu cô vẫn muốn tiếp tục, tôi sẵn sàng giải quyết nợ nần ngay tại đây."@
-[line=3]ld r,"tachi/ark_t15",crossfade,400
+ld r,"tachi/ark_t15",crossfade,400
 ld r,"tachi/ark_t15",crossfade,400
 ` [line=2][line=3]Cô ấy nhìn Senpai với ánh mắt đầy vẻ thù địch và ghét bỏ.
 \
 \
 `"Lời nói đó chẳng có chút trọng lượng nào cả. Lẽ nào cô không nhận ra mình vừa làm gì sao? Và cả tiếng hét kinh hoàng của cậu ấy khi nhìn thấy cô nữa."@
-[line=3]ld r,"tachi/ark_t05c",crossfade,400
+ld r,"tachi/ark_t05c",crossfade,400
 ld r,"tachi/ark_t05c",crossfade,400
 `"[line=5]Tôi không quan tâm cô có ghét tôi hay không. Nhưng cô đã trút cơn điên loạn của mình lên cậu ấy. Hay là hãy hỏi chính cậu ấy xem cậu ấy cảm thấy thế nào?"@
 ` Nói rồi,
@@ -96,11 +96,11 @@ br
 \
 ld c,"tachi/cel_t07b",crossfade,400
 `"Chị sai rồi!"@
-[line=4]br
+br
 br
 ` "Vì... chính tôi là người muốn ở bên cạnh cô ấy!"@
 ` "Đúng là Arcueid là ma cà rồng, nhưng cô ấy chưa từng uống một giọt máu nào cả!"@
-[line=4][line=3]\
+\
 \
 ld c,"tachi/cel_t06b",crossfade,400
 `"[line=4]Làm ơn im lặng đi, Tohno-kun. Cô ấy chưa từng uống máu người? Đúng vậy, trong suốt tám trăm năm qua, Giáo Hội không hề ghi nhận bất kỳ nạn nhân nào của cô ấy. Thế nhưng..."
@@ -118,7 +118,7 @@ ld c,"tachi/cel_t07b",crossfade,400
 ` [line=3]Arcueid vẫn đứng lặng người, quay mặt đi không dám nhìn tôi hay Senpai.
 cl c,crossfade,400
 ` Cô ấy mím chặt môi, im lặng không nói lời nào.@
-[line=3]ld l,"tachi/cel_t07b",crossfade,400
+ld l,"tachi/cel_t07b",crossfade,400
 \
 ld r,"tachi/ark_t10",crossfade,400
 ` Arcueid vẫn im lặng không đáp.@
@@ -126,10 +126,10 @@ ld l,"tachi/cel_t07b",crossfade,400
 cl r,lshutter,400
 br
 ` Tôi định vội vã đuổi theo cô ấy.@
-[line=3]br
+br
 cl r,lshutter,400
 \
-[line=3]br
+br
 `"Em đi đâu chứ?"@
 br
 quakey 1,100
@@ -155,11 +155,11 @@ ld c,"tachi/cel_t01b",crossfade,400
 `"Tôi biết chứ. Tôi không hề ghét cô ấy, nhưng việc này thực sự là vì lợi ích của cả hai đứa đấy. Tôi sẽ sớm giải thuật cho em thôi, nên hãy bình tĩnh nghe tôi nói một chút đã."
 ` [line=4]Cô ấy ngước nhìn đầy do dự.@
 ` Lúc này, giọng điệu của cô ấy đã trở lại vẻ thư thái, dịu dàng của người chị Senpai mà tôi hằng quen thuộc ở trường học.@
-[line=3]br
+br
 \
 ld c,"tachi/cel_t10b",crossfade,400
-[line=3]play "*1"
-[line=3]ld c,"tachi/cel_t07b",crossfade,400
+play "*1"
+ld c,"tachi/cel_t07b",crossfade,400
 ld c,"tachi/cel_t01b",crossfade,400
 ` "Tôi rất tiếc vì phải kiềm chế em bằng cách thô bạo thế này."@
 \
@@ -262,7 +262,7 @@ cl c,crossfade,400
 `"... Đúng vậy, nhưng đây không phải là hai linh hồn cùng chia sẻ một thể xác đâu.@ Đứa trẻ được sinh ra như một con người bình thường đó thực chất chính là hắn.@"@
 ` "Tùy thuộc vào môi trường nuôi dưỡng, đứa trẻ đó có thể là một người tốt hoặc một kẻ xấu... Nhưng dẫu thế nào, ngay khi bản ngã chuyển sinh thức tỉnh, nhân cách ban đầu của đứa trẻ sẽ bị xóa sổ hoàn toàn."
 \
-[line=6]\
+\
 ld c,"tachi/cel_t07b",crossfade,400
 `""@
 ` "Chuyện này..."@
@@ -278,7 +278,7 @@ ld c,"tachi/cel_t07b",crossfade,400
 `"Thế nhưng..."@
 \
 \
-[line=4]\
+\
 `"Nếu chỉ đơn giản chọn một cơ thể ngẫu nhiên, thì sức mạnh của cơ thể chuyển sinh đó sẽ quá yếu ớt." @
 ` Chính vì vậy, ngay khi còn sống ở kiếp trước, hắn đã tính toán cực kỳ kỹ lưỡng để chọn lựa gia tộc cho kiếp sau. @
 cl c,crossfade,400
@@ -305,7 +305,7 @@ ld c,"tachi/cel_t07b",crossfade,400
 br
 ` [line=8]Nhưng cô ấy hoàn toàn không hề tỏ ra nao núng hay tức giận.@
 ` Ánh mắt cô ấy nhìn tôi chỉ ngập tràn sự đồng cảm và thương xót sâu sắc.
-[line=3]\
+\
 \
 ` Rắn là biểu tượng của sự vô hạn và vòng lặp tuần hoàn. Việc lột da để mang một thể xác mới hoàn toàn trùng khớp với bản chất của hắn.@
 ` Trong ghi chép của Giáo Hội, hắn được định danh là 'Kẻ chuyển sinh vô hạn'. Tên con người của hắn ở kiếp đầu tiên là Michael Roa Valdamjong. Người ta thường gọi hắn ngắn gọn là 'Roa'.@
@@ -313,7 +313,7 @@ br
 \
 ld c,"tachi/cel_t07b",crossfade,400
 `"... Nói tóm lại, Senpai đến ngôi trường này là vì biết chắc chắn Roa đang ẩn mình ở đây?"@
-[line=3]ld c,"tachi/cel_t01b",crossfade,400
+ld c,"tachi/cel_t01b",crossfade,400
 `"Đúng vậy. Bằng một sợi dây liên kết vô hình, tôi có thể cảm nhận được kiếp hiện tại của Roa đang hiện diện ngay tại ngôi trường này."@
 \
 cl c,crossfade,400
@@ -322,18 +322,18 @@ br
 ` Giọng nói của chị ấy đột ngột dừng lại.@
 \
 ` Senpai vẫn lặng lẽ nhìn tôi với ánh mắt đượm buồn đầy thương cảm hệt như lúc nãy.
-[line=3]\
 \
-[line=3]play "*9"
+\
+play "*9"
 `"... Như tôi đã giải thích đấy, Roa luôn chọn những dòng máu ưu việt và thể xác hoàn hảo nhất để làm vật chủ tiếp theo cho mình."@
 cl c,crossfade,400
 \
 playstop
-[line=7]cl c,crossfade,400
+cl c,crossfade,400
 \
 br
 br
-[line=3][line=4]br
+br
 \
 br
 ld c,"tachi/cel_t07b",crossfade,400
@@ -342,7 +342,7 @@ br
 ` Chính vì thế tôi mới nói cuộc trò chuyện này thực sự quá điên rồ và kỳ quặc.
 br
 `"Ha..."@
-[line=3]br
+br
 \
 br
 `"Hahaha... ha..."@
@@ -428,14 +428,14 @@ cl c,crossfade,400
 `"Có liên quan mật thiết đấy chứ.@ Những ma cà rồng Chân Tổ mang trong mình cơn khát máu nguyên thủy mãnh liệt và tàn bạo hơn lũ Tử Đồ gấp vạn lần."@
 \
 ` [line=5]Hệt như hai tấm gương lạnh lẽo, phản chiếu gương mặt đầy hoang mang lo sợ của tôi.
-[line=3]\
+\
 `"Em hiểu chưa, Tohno-kun?@ Chân Tổ hoàn toàn có thể sinh tồn mà không cần một giọt máu người nào.@
 ld c,"tachi/cel_t07b",crossfade,400
 \
 `"... Và một khi con người bị họ hút máu, kẻ đó sẽ vĩnh viễn không bao giờ có thể trở lại làm người được nữa."@
 ` Chân Tổ tồn tại ở một đẳng cấp sinh mệnh hoàn toàn khác biệt so với nhân loại. Khi nguồn sinh lực khổng lồ của Chân Tổ chạm vào dòng máu con người, sự chênh lệch quá lớn về cấp độ sinh mệnh sẽ phá hủy hoàn toàn cấu trúc nhân tính của nạn nhân.@
 \
-[line=3]\
+\
 `"Vấn đề cốt lõi là, cơn khát máu của họ hoàn toàn không có bất kỳ nguyên nhân sinh lý nào cả.@"@
 ` "Không có nguyên nhân, nên cũng chẳng có cách nào chữa trị hay ngăn chặn.@
 \
@@ -445,7 +445,7 @@ ld c,"tachi/cel_t07b",crossfade,400
 br
 `"... Bằng việc không ngừng áp chế chính bản thân mình, họ kìm hãm bản năng khát máu của ma cà rồng.@"@
 \
-[line=2]cl c,crossfade,400
+cl c,crossfade,400
 br
 ` "... Nếu có tác động ngoại cảnh khiến họ mất đi sức mạnh...?@"@
 ` "Chẳng hạn như phải tiêu tốn một lượng lớn năng lượng để chữa trị vết thương hiểm nghèo, hoặc tái tạo lại toàn bộ cơ thể sau khi bị sát hại hoàn toàn."
@@ -453,7 +453,7 @@ br
 ` "... Giả sử cô ấy sở hữu mười phần sức mạnh.@"@
 ` "Và cô ấy bắt buộc phải dùng đến bảy phần để không ngừng đàn áp cơn khát máu bên trong.@"@
 ` "Thế nhưng, nếu vì lý do nào đó mà cô ấy bị tiêu hao mất năm phần sức mạnh, dẫu có dùng toàn bộ năm phần sức mạnh còn lại, cô ấy cũng chỉ có thể đàn áp được năm phần cơn khát mà thôi.@"@
-[line=3]br
+br
 \
 ` Và khi phong ấn bị phá vỡ, điều gì sẽ xảy ra tiếp theo? 
 \
@@ -487,7 +487,7 @@ ld c,"tachi/cel_t07b",crossfade,400
 cl c,crossfade,400
 br
 ` "Một ma cà rồng được tạo ra chỉ để làm công cụ giảm đau cho Chân Tổ... Và đó chính là bản chất của kẻ đang hoành hành trong thành phố này."
-[line=3]\
+\
 \
 ` "…… Không, nói đúng hơn là từ trước đến nay cô ấy chưa từng cần đến nó.@"@
 ` "Trong số các Chân Tổ, cô ấy là một trường hợp dị biệt vô cùng đặc biệt, kẻ có thể dùng ý chí sắt đá của mình để đơn độc chống chọi lại cơn khát máu suốt hàng trăm năm qua."@
@@ -518,12 +518,12 @@ br
 `"[line=4]Những lời đó..."@
 br
 ` Ngay cả khi biết rõ mình đã chạm đến giới hạn cuối cùng, cô ấy vẫn đơn độc chiến đấu săn lùng ma cà rồng ở thành phố này vì chúng ta sao?@
-` …… Ừ, cô ấy sợ.@
+br
 ` Vì một khi đã làm vậy, cô ấy biết mình sẽ không thể dừng lại.
 \
 ld c,"tachi/cel_t07b",crossfade,400
 `"…… Nếu có điều gì có thể gọi là cứu rỗi, thì đó là xung động ấy chỉ diễn ra trong khoảnh khắc.@
-` Các Chân Tổ chỉ giữ một thuộc hạ bên mình khi xung động vượt quá khả năng kiềm chế.@ Đó là khởi đầu của những kẻ được gọi là Tử Đồ.@
+ld c,"tachi/cel_t07b",crossfade,400
 ` Họ là những thứ vốn đã chết rồi.@
 ` Một ma cà rồng được giữ cho tồn tại để xoa dịu nỗi đau của Chân Tổ.@ Đó chính là hình dạng của ma cà rồng trong thành phố này."
 \
@@ -532,40 +532,40 @@ ld c,"tachi/cel_t07b",crossfade,400
 `"[line=3]Vậy thì không có vấn đề gì.@ Khi vết thương lành, khi cơ thể cô ấy trở lại bình thường, cô ấy có thể chống lại nó, đúng không……?"
 \
 `"…… Về mặt lý thuyết là vậy, nhưng vẫn có giới hạn, Tohno-kun.@
-` Xung động hút máu không có điểm dừng, và nó sẽ không biến mất.@ Những xung động bị kìm nén, tích tụ hết lần này đến lần khác, cuối cùng sẽ tràn khỏi vật chứa.@
-` Càng sống lâu, xung động hút máu trong họ càng lớn.@
-` Và khi họ không còn có thể tự kiềm chế bằng sức mình[line=2]khi xung động lấn át sức mạnh của họ, mạng sống của họ sẽ bị người khác kết thúc.@
-` Đó là tuổi thọ của những kẻ vốn không có tuổi thọ."
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_29b",crossfade,400
+br
 \
 `"[line=2]Nhưng Arcueid thì không sao.@ Cô ấy chỉ yếu đi vì tôi, nên chỉ vài ngày nữa cô ấy sẽ[line=3]"@
-`"…… Có lẽ vậy.@ Nhưng cô ấy đã chạm đến giới hạn rồi.@
+br
 ` ... Xin chị hãy ngừng nói về cô ấy bằng giọng điệu đó đi.@
 ` Cô ấy là một con người bằng xương bằng thịt. Việc chị nói về cô ấy hệt như một món vũ khí vô tri khiến lồng ngực tôi trào dâng một cơn thịnh nộ tột cùng.
-[line=3]\
+\
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_29b",crossfade,400
 br
 br
 br
-` [line=3]Thịch.@
+br
 br
 ` Hử?@
 ` Chờ đã.@
 \
-[line=5]\
+\
 `"Bởi vì cô ấy hoàn toàn không được phép làm bất kỳ việc gì dư thừa ngoài sứ mệnh chém giết.@"@
 ` "Suốt hàng trăm năm qua, cô ấy đã luôn sống một cuộc đời như thế. Kể từ khi được sinh ra trong tòa lâu đài cổ lạnh lẽo giữa núi rừng phương Tây, mọi thứ vẫn vĩnh viễn không hề thay đổi."
 br
-[line=3]bg #ffffff,crossfade,400
+bg #ffffff,crossfade,400
 \
-[line=3]br
+br
 \
 ` ... Rốt cuộc chuyện gì đang xảy ra thế này?@
 ` Một cảnh tượng vô cùng xa lạ, những dòng ký ức chưa từng tồn tại trong tâm trí tôi, bỗng chốc tràn ngập và lấp đầy tầm nhìn của tôi.@
 ld c,"tachi/cel_t07b",crossfade,400
 \
-[line=3]bg #ffffff,crossfade,800
+bg #ffffff,crossfade,800
 \
 br
 br
@@ -593,10 +593,10 @@ br
 br
 `"[line=5]After hoàn thành việc thanh trừng mục tiêu và trở về lâu đài, toàn bộ tri thức và ký ức tạm thời của cô ấy sẽ bị tẩy sạch hoàn toàn, và cô ấy lại bị đưa vào ngủ."@
 ` "Cô ấy không hề biết đến bất cứ điều gì khác trên đời, ngoại trừ việc chém giết ma cà rồng."
-[line=3]\
+\
 \
 br
-[line=3]br
+br
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_29b",crossfade,400
@@ -659,7 +659,7 @@ br
 ` …… Nhưng tôi đã nhầm to mất rồi.@
 ` Cô ấy thực sự đang vô cùng trân trọng và tận hưởng những điều bình dị đơn giản đó.@
 \
-[line=2]\
+\
 br
 br
 \
@@ -668,7 +668,7 @@ br
 br
 br
 br
-[line=2]br
+br
 \
 br
 br
@@ -698,7 +698,7 @@ br
 br
 br
 `""@
-[line=3]br
+br
 ` Tôi... thực sự là một kẻ vô tâm, chẳng nhận ra điều gì cả.@
 \
 br
@@ -775,7 +775,7 @@ br
 ` [line=4]Tiếng bước chân biến mất hoàn toàn vào hư không. Tôi kiên định bước về phía thị trấn trong đêm đen tĩnh mịch mà không một lần ngoái đầu nhìn lại.
 br
 bg #000000,lcartain,1500
-[line=4]playstop
+playstop
 \
 ` [line=5]Con phố chính ban đêm hoàn toàn vắng bóng người.@"@
 br
@@ -793,7 +793,7 @@ br
 br
 bg "bg/bg_52",lcartain,1500
 \
-[line=5]bg "bg/bg_12b",lcartain,1500
+bg "bg/bg_12b",lcartain,1500
 br
 bg #000000,crossfade,1500
 br
@@ -803,7 +803,7 @@ br
 br
 ` Vết sẹo cũ trên ngực bỗng nhói buốt, co bóp dữ dội theo từng nhịp tim đập.@"@
 ` Từ thuở cha sinh mẹ đẻ đến giờ, tôi chưa từng oán ghét cơ thể ốm yếu, mong manh này của mình đến nhường này.
-[line=4]\
+\
 \
 !w2000
 bg "bg/bg_29b",crossfade,1500

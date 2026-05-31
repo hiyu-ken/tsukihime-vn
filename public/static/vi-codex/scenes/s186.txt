@@ -27,12 +27,12 @@ bg "bg/bg_40d",lcartain,1500
 \
 cl c,lshutter,800
 bg #000000,crossfade,1500
-[line=4]playstop
+playstop
 \
 bg #000000,crossfade,1500
-phase "bg/bg_06a",l,ark,11b,12
+... trở thành một giai đoạn mới.
 bg #000000,crossfade,400
-waveloop se_02
+Chơi âm thanh se_02 lặp lại.
 ` Nhịp đập, nhịp đập, nhịp đập.
 !w1000
 ` Tiếng đập, tiếng đập, tiếng đập.

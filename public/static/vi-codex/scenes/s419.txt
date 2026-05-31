@@ -173,7 +173,7 @@ bg #000000,crossfade,400
 playstop
 !w2000
 bg "bg/bg_33a",lcartain,800
-waveloop se_11
+Vòng lặp âm thanh se_11
 ` Vì chưa đến hai giờ chiều, Hisui chưa đợi ở sảnh.@
 `"... ..."@
 ` Tôi có thể nói rằng mình may mắn. Tôi không muốn gặp ai vào lúc này.@

@@ -1209,7 +1209,7 @@ waveloop pd/se08
 ` ............@
 wave pd/se17
 ` Tôi theo Shiki-san vào xe taxi.@
-wavestop pd/se08
+dừng nhạc nền pd/se08
 ` Tôi đã nói với Shiki rằng học ở trường vào ban đêm rất nguy hiểm.@
 ` Anh ta chắc chắn phải có kế hoạch nào đó để đến nơi đó bất chấp điều đó.
 \
@@ -1234,7 +1234,7 @@ bg "bg/bg_03c",rcartain,800
 wave pd/se01
 bg #000000,rcartain,800
 bg "bg/bg_61",rcartain,800
-waveloop pd/se02
+lặp lại nhạc nền pd/se02
 ` [line=4]Không thể nào.@
 ` Tôi biết nơi này.@
 ` Ờm, Shiki-san...@

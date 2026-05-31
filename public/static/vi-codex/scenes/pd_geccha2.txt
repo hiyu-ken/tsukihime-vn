@@ -111,7 +111,7 @@ ld r,"tachi/ark_t31a",crossfade,200
 ` Vậy thì để tôi giới thiệu chương trình hôm nay cho bạn.
 \
 cl a,crossfade,400
-textbox nvl
+hộp thoại trống
 wait 800
 br
 br
@@ -126,7 +126,7 @@ br
 \
 wait 800
 ld l,"tachi/stk_t12",bshutter,400
-textbox adv
+hộp thoại nâng cao
 ` Tôi xuất hiện ở đâu!? Tôi không có trong đó chút nào!
 \
 ld r,"tachi/ark_t30",crossfade,200
@@ -151,7 +151,7 @@ ld r,"tachi/ark_t30",crossfade,200
 \
 cl a,crossfade,800
 wait 800
-textbox nvl
+hộp thoại trống
 br
 br
 br

@@ -9,7 +9,7 @@ play "*9"
 ` "Bọn họ giam cầm tôi bên trong một căn phòng đá lạnh buốt, phong ấn mọi cử động và bắt tôi phải chìm vào giấc ngủ sâu vô thức suốt hàng chục, hàng trăm năm liền cho đến lần đi săn tiếp theo."@
 ` "Tôi không có sở thích cá nhân, không có bạn bè, không biết hương vị đồ ăn thế nào, và cũng chưa bao giờ được tự do dạo bước dạo chơi ngắm nhìn thế giới ban ngày như hôm nay cả."@
 \
-[line=3]ld c,"tachi/ark_t17",lshutter,400
+ld c,"tachi/ark_t17",lshutter,400
 ` Giọng điệu của cô ấy nhỏ dần, run run đượm vẻ xót xa tủi hờn vô hạn.@
 br
 ` [line=4]Hai hàng nước mắt trong vắt khẽ lăn dài trên gò má trắng ngần nần nà của cô ấy dưới ánh trăng mờ ảo.@
@@ -30,7 +30,7 @@ play "*3"
 \
 ` [line=3]Cô ấy vui sướng khóc nghẹn rồi nhào thẳng vào ôm chầm lấy tôi đầy ấm áp.@
 ` Ôm lấy thân hình mảnh mai kiều diễm của cô ấy dưới ánh trăng rực rỡ, tôi tự nhủ dẫu bản thân có phải đánh đổi cả mạng sống này, tôi cũng quyết định sẽ bảo vệ nụ cười hạnh phúc trọn vẹn này của cô ấy đến tận cùng thế giới.
-[line=3]\
+\
 cl c,lshutter,800
 ld c,"tachi/ark_t04",crossfade,400
 playstop
@@ -214,7 +214,7 @@ br
 \
 bg "bg/ima_13",crossfade,400
 wave se_10
-quakex 2,100
+Động đất 2,100
 `"Aha" [line=4]@
 ` Xé nát.@
 ` Từ phía sau, giống như tư thế nâng đỡ nhau.@

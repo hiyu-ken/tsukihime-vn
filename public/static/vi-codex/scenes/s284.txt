@@ -1,4 +1,4 @@
-   Tôi giật mình thức giấc, vung chăn ra rồi bật dậy ngồi trên giường.
+    Tôi giật mình thức giấc, vung chăn ra rồi bật dậy ngồi trên giường.
 bg #000000,notrans,0
 bg "bg/bg_40a",bcartain,1500
 play "*2"

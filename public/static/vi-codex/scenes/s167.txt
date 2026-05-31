@@ -40,7 +40,7 @@ playstop
 bg "bg/bg_24a",lcartain,800
 bg #000000,crossfade,400
 bg "bg/bg_24a",crossfade,400
-[line=4]\
+\
 bg #000000,crossfade,1500
 playstop
 !w3000

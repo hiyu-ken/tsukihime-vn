@@ -24,7 +24,7 @@ ld c,"tachi/ark_t01b",crossfade,400
 ld c,"tachi/ark_t03",crossfade,400
 \
 cl c,lshutter,800
-[line=4]bg #000000,crossfade,1500
+bg #000000,crossfade,1500
 cl c,crossfade,400
 !w3000
 \

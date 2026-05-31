@@ -1,5 +1,7 @@
 playstop
-waveloop se_11
+@
+[line=1] 
+Shiki: Cái mùi tan chảy... giống như máu đông bị đun nóng.
 bg "bg/bg_40d",notrans,0
 ` Tiếng gào thét vẫn vang vọng.@
 ` Không thể nào tôi ngủ như thế này.`@

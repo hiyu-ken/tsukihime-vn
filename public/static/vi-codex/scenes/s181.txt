@@ -1,6 +1,6 @@
 monocro off
 playstop
-waveloop se_02
+wavestop
 bg "event/ark_h03",notrans,0
 ` [line=4]Giờ nghỉ trưa ở sân thượng trôi qua thật yên bình.@
 ` Tôi ngồi uống trà trò chuyện cùng Senpai, tận hưởng bầu không khí trong lành ấm áp.@
@@ -13,7 +13,7 @@ bg #ffffff,crossfade,800
 wavestop
 bg "bg/bg_31b",crossfade,400
 play "*9"
-[line=4]\
+\
 cl c,lshutter,800
 bg #000000,crossfade,1500
 playstop

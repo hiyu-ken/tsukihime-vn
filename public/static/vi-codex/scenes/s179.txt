@@ -18,7 +18,7 @@ ld c,"tachi/ark_t08",crossfade,400
 ` Cô ấy tự tin cười rạng rỡ, để lộ chiếc răng nanh nhỏ nhắn xinh xắn đầy đáng yêu.@
 ` Nhìn vẻ hoạt bát năng động đó của cô ấy dưới ánh trăng mờ ảo, lòng tôi bỗng trào dâng một cảm giác yên bình đến lạ kỳ.
 br
-[line=4]cl c,lshutter,800
+cl c,lshutter,800
 br
 playstop
 !w3000
@@ -33,7 +33,7 @@ bg "bg/bg_15b",lcartain,800
 ` …… Không có hồi đáp.@
 ` Có lẽ cô ấy chẳng khóa nó từ đầu? Không ai xung quanh cả.@
 `"Cô ta nghĩ mình đang đi đâu trong tình trạng này……!?"@
-quakex 1,300
+Tôi đập mạnh nắm tay vào tường.
 ` "... Grr."@
 `"... Tôi đang làm gì vậy?@
 ` Nếu tôi có thời gian để giải tỏa sự giận dữ này, tôi phải ra ngoài và tìm cô ấy.@

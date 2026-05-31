@@ -1,4 +1,4 @@
-phase "bg/bg_36d",l,ark,09a,9
+bg "bg/bg_36d",lcartain,800
 wavestop
 bg #ffffff,crossfade,800
 play "*9"

@@ -2,18 +2,18 @@ monocro off
 playstop
 wavestop
 bg "bg/bg_06a",notrans,0
-   [line=3]Cứ ngồi lỳ trong lớp học vậy thôi.@
+    [line=3]Cứ ngồi lỳ trong lớp học vậy thôi.@
 br
-   Dù tôi có đi đâu đi chăng nữa, Senpai cũng sẽ không ở đó.@ Cho dù tôi có cố gắng thế nào, chị ấy cũng sẽ chẳng bao giờ quay lại[line=3]
+    Dù tôi có đi đâu đi chăng nữa, Senpai cũng sẽ không ở đó.@ Cho dù tôi có cố gắng thế nào, chị ấy cũng sẽ chẳng bao giờ quay lại[line=3]
 \
 bg #000000,lshutter,1500
 bg "bg/bg_06b",lshutter,1500
-   Tiết sinh hoạt cuối ngày cuối cùng cũng kết thúc.@
-   Các bạn học xung quanh vui vẻ rủ nhau đứng dậy ra về.@
-   Sau một hồi đờ đẫn dõi theo họ, tôi lầm lũi đứng dậy chuẩn bị trở về biệt thự.
+    Tiết sinh hoạt cuối ngày cuối cùng cũng kết thúc.@
+    Các bạn học xung quanh vui vẻ rủ nhau đứng dậy ra về.@
+    Sau một hồi đờ đẫn dõi theo họ, tôi lầm lũi đứng dậy chuẩn bị trở về biệt thự.
 \
-   [line=3]Trở về biệt thự sao.@
-   Nhưng có về đó thì cũng chẳng có điều gì đang chờ đón tôi cả.@
+    [line=3]Trở về biệt thự sao.@
+    Nhưng có về đó thì cũng chẳng có điều gì đang chờ đón tôi cả.@
 br
 bg #000000,crossfade,400
 monocro #ffff00
@@ -21,23 +21,23 @@ bg "event/cel_e05a",crossfade,400
 monocro off
 bg "bg/bg_06b",crossfade,400
 "…………"@
-   Dẫu biết bản thân vĩnh viễn không thể với tới chị ấy nữa, nhưng tôi vẫn không thể cam lòng từ bỏ.@
+    Dẫu biết bản thân vĩnh viễn không thể với tới chị ấy nữa, nhưng tôi vẫn không thể cam lòng từ bỏ.@
 "Chết tiệt thật[line=3]mình rốt cuộc phải làm gì bây giờ cơ chứ……!"@
 br
-   Tự lẩm bẩm một mình đầy tức tối, tôi bước chân ra khỏi lớp học.
+    Tự lẩm bẩm một mình đầy tức tối, tôi bước chân ra khỏi lớp học.
 \
 bg "bg/bg_11b",lcartain,800
-   …… Ngước mặt lên, tôi thảng thốt nhận ra mình đang đứng trước cửa phòng trà đạo.@
-   Dẫu biết thừa chị ấy chắc chắn sẽ không có ở bên trong, nhưng đôi chân tôi vẫn vô thức tự bước vào.
+    …… Ngước mặt lên, tôi thảng thốt nhận ra mình đang đứng trước cửa phòng trà đạo.@
+    Dẫu biết thừa chị ấy chắc chắn sẽ không có ở bên trong, nhưng đôi chân tôi vẫn vô thức tự bước vào.
 \
 bg "bg/bg_09b",lcartain,800
 "[line=7]*Ha*."@
-   Quả nhiên, bên trong vắng lặng không một bóng người.@
-   Dẫu vốn chẳng dám kỳ vọng điều gì, nhưng khi đối diện với thực tại phũ phàng này, tầm nhìn của tôi bỗng chốc nhòe đi và quay cuồng.@
+    Quả nhiên, bên trong vắng lặng không một bóng người.@
+    Dẫu vốn chẳng dám kỳ vọng điều gì, nhưng khi đối diện với thực tại phũ phàng này, tầm nhìn của tôi bỗng chốc nhòe đi và quay cuồng.@
 br
 bg #ffffff,crossfade,400
 bg "bg/bg_09b",crossfade,400
-   Cả thế giới xung quanh tôi bắt đầu đảo điên điên cuồng.
+    Cả thế giới xung quanh tôi bắt đầu đảo điên điên cuồng.
 \
 play "*4"
 bg #ffffff,notrans,0
@@ -48,37 +48,37 @@ br
 br
 br
 br
-               Và rồi, điều đó đột ngột xảy ra.
+                    Và rồi, điều đó đột ngột xảy ra.
 \
 bg "bg/bg_09b",notrans,0
 quakey 1,100
-   Mặt đất dưới chân rung chuyển dữ dội.@
-   Tôi cứ ngỡ vừa có một trận động đất cực mạnh xảy ra[line=3]nhưng rồi tôi bừng tỉnh nhận ra đó chẳng phải là mặt đất rung chuyển, mà chỉ là cảm giác chấn động khi cơ thể tôi đổ sụp xuống mặt sàn gỗ mà thôi.
+    Mặt đất dưới chân rung chuyển dữ dội.@
+    Tôi cứ ngỡ vừa có một trận động đất cực mạnh xảy ra[line=3]nhưng rồi tôi bừng tỉnh nhận ra đó chẳng phải là mặt đất rung chuyển, mà chỉ là cảm giác chấn động khi cơ thể tôi đổ sụp xuống mặt sàn gỗ mà thôi.
 \
 "A[line=4]ơ?"@
-   Tôi không thể cất thành tiếng rõ ràng.@
+    Tôi không thể cất thành tiếng rõ ràng.@
 br
-   Hơi thở dồn dập đứt quãng.@
-   Những tiếng thở dốc đứt hơi nghẹn ngào này chắc chắn chẳng thể là của ai khác ngoài tôi.@
-   Nhưng tôi không hề cảm thấy đau đớn hay khó chịu.@
-   Đúng hơn là tôi chẳng còn cảm giác gì nữa cả, toàn thân tê liệt như thể mọi giác quan đã biến mất.
+    Hơi thở dồn dập đứt quãng.@
+    Những tiếng thở dốc đứt hơi nghẹn ngào này chắc chắn chẳng thể là của ai khác ngoài tôi.@
+    Nhưng tôi không hề cảm thấy đau đớn hay khó chịu.@
+    Đúng hơn là tôi chẳng còn cảm giác gì nữa cả, toàn thân tê liệt như thể mọi giác quan đã biến mất.
 \
-   Tiếng thở gấp gáp điên cuồng vang vọng.@
+    Tiếng thở gấp gáp điên cuồng vang vọng.@
 br
-   Dù cơ thể chẳng hề vận động kiệt sức, nhưng cuống họng tôi vẫn đau đớn co thắt để hít lấy từng ngụm khí.@
-   Tôi hoàn toàn không cảm nhận thấy gì nữa.@
-   Cảm giác như thể thân xác đang nằm sóng xoài trên nền đất kia chẳng phải là của tôi vậy.
+    Dù cơ thể chẳng hề vận động kiệt sức, nhưng cuống họng tôi vẫn đau đớn co thắt để hít lấy từng ngụm khí.@
+    Tôi hoàn toàn không cảm nhận thấy gì nữa.@
+    Cảm giác như thể thân xác đang nằm sóng xoài trên nền đất kia chẳng phải là của tôi vậy.
 \
-   Tiếng thở khò khè đứt quãng.@
+    Tiếng thở khò khè đứt quãng.@
 br
- [line=3]Có điều gì đó…… rất kỳ lạ.@
-   Trong lúc tôi đang nằm thở dốc điên cuồng trên sàn gỗ, máu tươi bỗng nhiên không ngừng tuôn tràn và loang rộng trên những tấm chiếu tatami[line=4]
+  Có điều gì đó…… rất kỳ lạ.@
+    Trong lúc tôi đang nằm thở dốc điên cuồng trên sàn gỗ, máu tươi bỗng nhiên không ngừng tuôn tràn và loang rộng trên những tấm chiếu tatami[line=4]
 \
 monocro #ff0000
 quakey 1,100
 "[line=4]Hự."@
 br
-   Đột ngột,
-   một cơn đau buốt nhói như ngàn mũi kim đâm ập đến xé rách lồng ngực tôi.
+    Đột ngột,
+    một cơn đau buốt nhói như ngàn mũi kim đâm ập đến xé rách lồng ngực tôi.
 \
 monocro off

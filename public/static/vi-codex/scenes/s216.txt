@@ -56,7 +56,7 @@ ld c,"tachi/koha_t01a",crossfade,400
 ` [line=2]Liệu bấy giờ tôi có thể gồng mình chạy nhanh để kịp thời đuổi theo em ấy không đây?@`@
 ` Nếu chạy thục mạng bấy giờ, may ra tôi vẫn còn cơ hội đuổi kịp em ấy.@
 \
-[line=3]ld c,"tachi/koha_t03",crossfade,400
+ld c,"tachi/koha_t03",crossfade,400
 `"[line=3]Dạ em đã hiểu rõ rồi ạ. Cậu chủ hãy đi nhanh lên đi nhé, nếu chuyện này lỡ để tiểu thư Akiha phát hiện ra thì dứt khoát cô ấy sẽ tuyệt đối không chịu để yên cho Shiki-san đâu ạ."@
 ` Khẽ gật đầu chào Kohaku-san bấy giờ vẫn đang nở một nụ cười rạng rỡ ấm áp, tôi lập tức lao mình chạy nhanh xuống con dốc dài, hòa mình vào màn đêm tĩnh lặng buốt giá bên ngoài biệt thự.
 ld c,"tachi/koha_t03",crossfade,400
@@ -66,7 +66,7 @@ playstop
 bg #000000,crossfade,800
 playstop
 bg "bg/bg_24c",lcartain,800
-[line=4][line=4]bg #000000,lcartain,800
+bg #000000,lcartain,800
 bg "bg/bg_25b",lcartain,800
 br
 bg #000000,lcartain,800
@@ -118,7 +118,7 @@ br
 br
 ` [line=4]Tôi bàng hoàng sững sờ, thậm chí đã hoài nghi chính đôi mắt của mình trong một giây lát.@
 br
-[line=4]\
+\
 wave se_01
 bg #000000,notrans,0
 \
@@ -128,11 +128,11 @@ bg "bg/bg_25b",notrans,0
 `"Yumizuka-san! Làm ơn hãy đứng lại chờ tớ một lát đi!"@
 ` Tôi căm phẫn hét lớn hết cỡ trong lúc điên cuồng chạy nhanh đuổi theo.
 \
-[line=3]ld c,"tachi/stk_t10",lshutter,400
+ld c,"tachi/stk_t10",lshutter,400
 `"... ... ... "@
 \
 ld c,"tachi/stk_t10",lshutter,400
-[line=6]bg #000000,notrans,0
+bg #000000,notrans,0
 bg "bg/bg_25b",notrans,0
 wave se_01
 bg #000000,notrans,0
@@ -140,12 +140,12 @@ bg "bg/bg_25b",notrans,0
 `"Ơ... kìa..."@
 ` Tôi bỗng cảm nhận thấy một cơn ớn lạnh buốt giá chạy dọc khắp sống lưng mình bấy giờ.
 \
-[line=4]br
+br
 wave se_01
 \
 br
 wave se_01
-[line=3]br
+br
 `"Cảm giác nóng rực này... thực sự vô cùng kỳ lạ và bất thường..."@
 ` Toàn bộ huyết quản và tế bào bên trong thể xác tôi đang điên cuồng rát cháy dữ dội.@
 br
@@ -186,11 +186,11 @@ br
 `"Không thể nào có chuyện điên rồ như thế được! Làm sao tôi có thể đã điên cuồng chạy thục mạng suốt một quãng thời gian dài đằng đẵng đến nhường ấy được chứ!"@
 ` [line=2]... Dẫu cho sự thật phi lý đó có khó tin đến mức nào đi nữa, thì chiếc kim đồng hồ kia dứt khoát tuyệt đối không bao giờ biết nói dối.@
 \
-[line=4]\
+\
 `"Bản thân mình bấy giờ... tốt nhất nên quay trở về biệt thự thôi..."@
 ` Dẫu cho lòng có lo lắng bận lòng cho an nguy của Yumizuka đến phát điên đi chăng nữa, lý trí bấy giờ lạnh lùng mách bảo tôi rằng dứt khoát tuyệt đối không còn bất kỳ hy vọng khả dĩ nào để có thể tìm thấy bóng dáng em ấy trong đêm tối lạnh lẽo này nữa rồi.@
 \
-[line=3]br
+br
 ` Buông xuôi một tiếng thở dài thườn thượt đầy bất lực và u sầu, tôi đành cam chịu cất bước chậm rãi quay trở về biệt thự gia tộc Tohno.
 \
 br

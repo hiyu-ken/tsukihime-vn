@@ -22,10 +22,10 @@ ld c,"tachi/ark_t14",crossfade,400
 `"[line=3]Đêm nay, chúng ta nhất định phải tìm ra tung tích của hắn trước khi hắn kịp hoàn tất việc hồi phục sức mạnh hoàn toàn."@
 br
 \
-[line=4]cl c,lshutter,800
+cl c,lshutter,800
 \
 playstop
-[line=4]!w3000
+!w3000
 cl c,crossfade,400
 `"[line=4]Tên?"@
 `"Đúng vậy, tên của hắn."@

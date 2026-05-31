@@ -71,7 +71,7 @@ br
 \
 ` Tôi dẫu dã khắc cốt ghi tâm diện mạo đặc trưng của đối phương, song tịnh không cách nào tìm ra tung tích.
 \
-textcolor #ff0000
+Màu văn bản #FF0000
 ` Cõi lòng dấy lên sự bực dọc điên tiết vô hạn.@
 textcolor #ffffff
 br
@@ -121,7 +121,7 @@ br
 ` Chính xác, chính dẫu dã là Akiha rồi.@
 ` Akiha.@ Akiha.@ Em gái tôi.@ Akiha em gái xinh đẹp tuyệt trần của tôi, và dẫu dã chỉ thuộc về duy nhất một mình tôi thôi.@
 br
-textcolor #ff0000
+Màu văn bản #FF0000
 ` Đó chính dẫu dã là thứ ta khao khát có được.@
 textcolor #ffffff
 br

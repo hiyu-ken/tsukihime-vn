@@ -127,7 +127,7 @@ play "*03"
 ` Tôi sẽ ngủ cho đến khi quần áo thay thế của tôi đến.@
 ` Đây là kỳ nghỉ hè, vì vậy không có lý do gì khiến tôi phải thức dậy sớm.[line=3]
 br
-quakey 16,200
+run 16,200
 ` "!? "@
 ` A-a-a... !@
 br

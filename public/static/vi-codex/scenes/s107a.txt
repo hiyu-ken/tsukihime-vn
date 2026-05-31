@@ -127,7 +127,7 @@ wave se_01
 ` Tiếng đập của trái tim tôi.@
 ` Và một cảm giác lạnh lẽo chạy dọc sống lưng.
 \
-waveloop se_02
+Vòng lặp âm thanh se_02
 wave se_08
 ` "Thump."@ "Tap."
 \

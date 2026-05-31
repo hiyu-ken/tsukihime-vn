@@ -3,17 +3,17 @@ playstop
 wavestop
 bg "bg/bg_01a",notrans,0
 "……"@
-   Tôi sẽ đứng đợi ở đây.@
-   Dù nghĩ là Senpai sẽ không đến…… nhưng biết đâu chị ấy vẫn đi học bình thường như hôm qua thì sao.
+    Tôi sẽ đứng đợi ở đây.@
+    Dù nghĩ là Senpai sẽ không đến…… nhưng biết đâu chị ấy vẫn đi học bình thường như hôm qua thì sao.
 \
 bg #000000,lshutter,800
 !w1000
 bg "bg/bg_01a",lshutter,800
-   [line=3]Đã đến giờ rồi.@
+    [line=3]Đã đến giờ rồi.@
 br
-   Vào khoảng mười phút trước giờ sinh hoạt lớp, cổng chính của trường sẽ đóng lại.@
+    Vào khoảng mười phút trước giờ sinh hoạt lớp, cổng chính của trường sẽ đóng lại.@
 "……"@
-   Senpai thực sự không đến.@
-   Khẽ thở dài ngao ngán, tôi uể oải lê từng bước chân nặng nề hướng về phía lớp học.
+    Senpai thực sự không đến.@
+    Khẽ thở dài ngao ngán, tôi uể oải lê từng bước chân nặng nề hướng về phía lớp học.
 \
 bg #000000,lcartain,800

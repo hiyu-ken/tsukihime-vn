@@ -10,7 +10,7 @@ bg "bg/bg_28b",notrans,0
 `"... Ánh trăng sao..."@
 ` Nếu đêm hôm kia bầu trời cũng trong trẻo và sáng rõ thế này, có lẽ tôi đã không bị gã quấn băng kia dồn vào thế hiểm nghèo đến vậy.@
 br
-[line=10]ld c,"tachi/ark_t01a",lshutter,400
+ld c,"tachi/ark_t01a",lshutter,400
 br
 ` Cô ấy tò mò quay sang hỏi tôi.@
 \

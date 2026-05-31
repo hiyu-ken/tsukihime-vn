@@ -1,4 +1,4 @@
-phase #000000,l,ark,08a,8
+[line=0] Màn hình chuyển sang màu đen hoàn toàn.
 bg #ffffff,crossfade,800
 ` [line=3]Trắng.@
 ` Sắc trắng gợi nhớ về một ký ức xa xưa.@
@@ -191,7 +191,7 @@ ld c,"tachi/his_t01",crossfade,400
 ld c,"tachi/his_t08",crossfade,400
 ld c,"tachi/his_t08",crossfade,400
 \
-[line=4]\
+\
 `"Hả?"@
 ` Câu hỏi của em ấy hoàn toàn chệch hướng... làm tôi bối rối.@
 br
@@ -199,7 +199,7 @@ br
 `"Không phải thế đâu! Ngay cả khi nguội lạnh, món ăn Kohaku nấu vẫn rất ngon mà."@
 \
 ld c,"tachi/his_t01",crossfade,400
-[line=3]ld c,"tachi/his_t01",crossfade,400
+ld c,"tachi/his_t01",crossfade,400
 `"Em xin phép từ chối. Thưa cậu chủ Shiki, em từ chối nấu ăn cho cậu."@
 ` Ánh mắt em ấy đột nhiên trở nên nghiêm nghị.@
 \
@@ -218,7 +218,7 @@ cl c,crossfade,400
 ` [line=3]Nói rồi, tôi bắt đầu bước ra khỏi phòng khách.@
 \
 ld c,"tachi/his_t01",crossfade,400
-[line=3]ld c,"tachi/his_t01",crossfade,400
+ld c,"tachi/his_t01",crossfade,400
 `"Cậu chủ Shiki."@
 `"Hửm?"@
 `"Tuy có hơi thất lễ, nhưng em muốn thực hiện yêu cầu của cậu theo cách tốt nhất có thể."@
@@ -240,11 +240,11 @@ cl c,lshutter,400
 `"……… Hả?"@
 ` Tôi bị bỏ lại một mình, ngơ ngác đứng trơ ra.@
 br
-[line=3]br
+br
 br
 br
 \
-[line=3]\
+\
 `"Đó... chính là lời cằn nhằn theo yêu cầu của tôi sao?"@
 ` Đúng vậy, không sai vào đâu được.@
 br
@@ -293,7 +293,7 @@ bg #000000,lcartain,800
 bg "bg/bg_48a",lcartain,800
 bg "bg/bg_48a",lcartain,800
 br
-[line=3]br
+br
 br
 br
 ` Khác với tôi, Akiha luôn ngoan ngoãn vâng lời cha, nên con bé chỉ được phép ra ngoài chơi khoảng ba mươi phút mỗi ngày.@
@@ -306,7 +306,7 @@ br
 \
 bg #000000,lcartain,800
 bg "bg/bg_42a",lcartain,800
-[line=3]bg "bg/bg_42a",lcartain,800
+bg "bg/bg_42a",lcartain,800
 ` Tôi đi đến sân trong.@
 br
 br
@@ -335,7 +335,7 @@ bg "bg/bg_54a",lcartain,800
 ` Em ấy đang định đi đâu mà lại tiến sâu vào khu rừng rậm kia nhỉ?@
 `"?"@
 br
-[line=4]br
+br
 br
 br
 br
@@ -343,7 +343,7 @@ br
 `"…… Hả? Có một khoảng trống ở nơi đó sao?"@
 ` Tôi nghiêng đầu cố nhớ lại, nhưng vì lý do nào đó, ký ức của tôi về khu vực này vô cùng mờ nhạt.@
 \
-[line=3]\
+\
 ` Không, "nhìn thấy" không hoàn toàn chính xác.@
 ` Nếu chỉ đi qua bình thường, có lẽ bạn sẽ chẳng bao giờ nhận ra nó.@
 br
@@ -358,7 +358,7 @@ br
 br
 br
 br
-[line=4]br
+br
 !w1500
 \
 \
@@ -369,7 +369,7 @@ bg "bg/bg_53",lcartain,800
 bg "bg/bg_53",lcartain,800
 ` …… Khu rừng rậm rạp cũng không có gì quá bất thường.@
 br
-[line=3]br
+br
 `"Cái gì thế nàychỉ là một khoảng đất trống thôi sao."@
 ` Tôi bước vào giữa khoảng trống.@
 ` Quả thực nơi đây chỉ là một khoảng không trống trải.@
@@ -395,7 +395,7 @@ bg "bg/bg_53",crossfade,400
 wave se_01
 bg #ffffff,crossfade,400
 bg "bg/bg_53",crossfade,400
-[line=4]bg "bg/bg_53",crossfade,400
+bg "bg/bg_53",crossfade,400
 `"Hự..."@
 !w500
 !w500
@@ -408,15 +408,15 @@ br
 !w500
 !w500
 !w500
-[line=4]!w500
+!w500
 br
 br
 br
-[line=4]br
 br
 br
 br
-[line=4]br
+br
+br
 \
 wave se_01
 br
@@ -431,10 +431,10 @@ br
 !w500
 \
 !w500
-[line=2]!w500
+!w500
 \
 wave se_01
-[line=4]wave se_01
+wave se_01
 br
 br
 !w500
@@ -443,7 +443,7 @@ br
 \
 bg "bg/ima_13",notrans,0
 bg "bg/cmo_06",crossfade,400
-waveloop se_02
+bg "bg/cmo_06",crossfade,400
 br
 br
 ` ... Bóng dáng gục ngã của ai đó.@
@@ -468,12 +468,12 @@ br
 br
 br
 br
-[line=3]br
+br
 ` À. @ Những tiếng kêu cố xé rách màng nhĩ của tôi,
 \
 bg #ffffff,crossfade,1500
 bg "bg/bg_53",notrans,0
-[line=4]bg "bg/bg_53",notrans,0
+bg "bg/bg_53",notrans,0
 `"Á h." @
 ` Ngực tôi đau quá. @
 ` Khó thở quá. @
@@ -483,7 +483,7 @@ bg "bg/ima_13",crossfade,800
 ` Trái tim tôi như vỡ vụn.@
 \
 br
-[line=3]br
+br
 ` Chuyện gì thế này?@
 \
 br
@@ -578,7 +578,7 @@ br
 ` Vì Hisui đang buồn bã, tôi phải cố gắng tỏ ra bình thường nhất có thể.
 ld c,"tachi/aki_t17b",crossfade,400
 `"Thật tình, lại cãi nhau vì tôi. Trông thì lớn tướng rồi đấy mà cư xử vẫn như trẻ con vậy."@
-[line=3]ld c,"tachi/aki_t17b",crossfade,400
+ld c,"tachi/aki_t17b",crossfade,400
 `"Nhưng... anh đã ngất đi hoàn toàn đấy, Nii-san. Anh đã bất tỉnh suốt hơn mười tiếng đồng hồ liền, chuyện này chưa từng xảy ra trước đây. Nếu anh không tỉnh lại thì em biết phải làm sao đây?"@
 \
 ld c,"tachi/aki_t12b",crossfade,400

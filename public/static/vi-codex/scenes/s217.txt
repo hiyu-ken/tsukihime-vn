@@ -325,7 +325,7 @@ ld c,"tachi/stk_t04",lshutter,400
 `"[line=4]Đau... đau đớn quá đi mất... Xem ra dẫu cho bụng có đói cồn cào đi chăng nữa, tớ dứt khoát cũng tuyệt đối không được tùy tiện hút bừa máu của bất kỳ ai.@ Nếu đó không phải là dòng máu thuần khiết, tươi đẹp và chất lượng nhất, thể xác tớ dứt khoát sẽ phản phệ kịch liệt thế này đây……"@
 ` Em ấy bỗng chốc bị một cơn ho khan dữ dội ập đến hành hạ bần bật.@
 ` Cứ mỗi lần cất tiếng ho rũ rượi là em ấy lại nghẹn ngào nuốt ngược từng ngụm máu đỏ tươi.
-[line=3]\
+\
 `"N-Không... dừng lại đi... á……!!!"@
 ` Toàn bộ thể xác khẳng khiu của Yumizuka liên tục co giật dữ dội.@
 ` …… Bản thân tôi bấy giờ thực sự hoàn toàn bất lực chẳng thể thấu hiểu nổi chuyện gì đang diễn ra.@
@@ -348,7 +348,7 @@ ld c,"tachi/stk_t04",lshutter,400
 `"Yumizuka... tớ sẽ bước qua đó giúp đỡ cậu nhé, được không cậu?"@
 ` Tôi nhẹ nhàng cất giọng điệu vô cùng dịu dàng, ấm áp hòng xoa dịu em ấy.@
 ` Thế nhưng Yumizuka lại kiên quyết lắc đầu nguầy nguậy tỏ ý từ chối vô cùng dữ dội kịch liệt.
-[line=3]\
+\
 `"Tại sao chứ hả cậu!? Nếu cậu bấy giờ đang phải chịu đựng cơn đau đớn hành hạ dữ dội đến thế thì hai đứa chúng ta bắt buộc phải lập tức đi tìm bác sĩ cứu chữa chứ……!"@
 `"Shiki-kun dứt khoát hoàn toàn không thể thấu hiểu nổi đâu.@ Cậu từ trước đến nay vốn dĩ thực sự có bao giờ chịu thấu hiểu cho tớ dẫu chỉ một chút đâu chứ……"@
 `"Ngốc nghếch quá đi mất! Tớ vốn dĩ đã cất lời thú nhận với cậu từ trước rồi cơ mà, bản thân tớ thực sự là một kẻ vô cùng ngu ngội và vụng về nên dứt khoát chẳng thể thấu hiểu nổi những chuyện phức tạp đó đâu……!"@
@@ -360,7 +360,7 @@ cl c,lshutter,800
 ` Em ấy vừa thở dốc dồn dập đầy hổn hển khó nhọc, vừa không ngừng ho rũ rượi nôn ra từng vệt máu đỏ tươi.@
 `"…… Thực sự vô cùng đau đớn, vô cùng lạnh lẽo, và tớ bấy giờ thực lòng đang cảm thấy vô cùng lo sợ tột cùng.@
 ` Sâu trong lòng tớ lúc này thực sự đang vô cùng khao khát có được sự dang tay bảo bọc, cứu giúp của cậu biết mấy, Shiki-kun."@
-[line=3]br
+br
 ` [line=3]"Thế nhưng bấy giờ mọi chuyện vẫn còn quá sớm."@
 br
 ` Nói lời u uất xong xuôi,@
@@ -373,14 +373,14 @@ cl a,lcartain,800
 \
 playstop
 bg #000000,lshutter,400
-[line=6]bg "bg/bg_30b",lshutter,400
+bg "bg/bg_30b",lshutter,400
 `"" @
 ` Bóng dáng của Yumizuka đã hoàn toàn biến mất biệt tăm biệt tích.@
 ` Dẫu cho bản thân tôi có điên cuồng sải bước chân lao nhanh đuổi theo đi chăng nữa, thì em ấy thực chất đã biến mất từ lâu trước đó rồi.@
 ` [line=3][line=3]…… Tốc độ di chuyển phi lý đến mức dị thường đó dứt khoát tuyệt đối không thể thuộc về loài người được, nó hệt như tốc độ của một loài dã thú hoang dã hoang dại vậy.@
 `"…… Yumizuka, cậu... cậu bấy giờ rốt cuộc……"@
 ` Tôi thực sự vô cùng khao khát được biết rõ rốt cuộc cái biến cố kinh hoàng gì đã xảy ra với em ấy!
-[line=3]\
+\
 `"Gah! Khực……"@
 bg #9c0120,notrans,0
 bg "bg/bg_30b",notrans,0
@@ -396,7 +396,7 @@ bg "bg/bg_30b",notrans,0
 \
 bg #000000,crossfade,800
 !w2000
-[line=4]bg "bg/bg_32d",lcartain,800
+bg "bg/bg_32d",lcartain,800
 `""@
 ` Đến thời khắc tôi giật mình bừng tỉnh khôi phục lại nhận thức bấy giờ, thì bản thân đã thấy mình đang đứng ngơ ngác ngay phía trước cánh cổng sắt sừng sững của biệt thự tự bao giờ rồi.@
 ` Vết thương sâu hoắm trên bả vai tôi bấy giờ vẫn không ngừng nhói buốt đau nhức dữ dội.@
@@ -416,7 +416,7 @@ br
 ` ... Akiha bấy giờ đang đứng phăng phắc ngay trên các bậc cầu thang dẫn lên tầng hai.
 \
 play "*1"
-[line=3]ld c,"tachi/aki_t03b",crossfade,800
+ld c,"tachi/aki_t03b",crossfade,800
 `"Anh bấy giờ rốt cuộc đang nghĩ cái chuyện gì trong đầu thế hả anh trai? Việc tự ý đi lang thang ngoài đường rồi trở về biệt thự vào thời khắc muộn màng thế này, anh có còn coi gia quy gia tộc ra gì nữa không……"@
 ` Gương mặt nghiêm nghị của Akiha vừa sải bước nhanh xuống tới chân cầu thang bỗng nhiên đột ngột khựng lại phăng phắc, lời trách mắng của em ấy lập tức tắt ngấm hoàn toàn.
 \
@@ -459,7 +459,7 @@ ld c,"tachi/aki_t01b",lcartain,800
 cl a,crossfade,400
 ` Akiha lặng lẽ di chuyển ra phía sau lưng tôi rồi bắt đầu cẩn thận tỉ mỉ xử lý vết thương.@
 ` Bộ đồng phục học sinh phẳng phiu đẫm máu của tôi khẽ bị kéo cắt bỏ rộng ra, để lộ hoàn toàn phần vai bị thương sâu hoắm ra ngoài để tiến hành sát trùng cẩn thận.
-[line=3]\
+\
 `"Khực... á...!!!"@
 ` Tôi chặt nắm chặt hai bàn tay lại kịch liệt, răng nghiến chặt khi một cơn đau rát buốt dữ dội tựa như kim châm điên cuồng càn quét qua khắp thể xác tôi.@
 ` …… Thế nhưng kỳ diệu thay, ngay sau thời khắc cơn đau buốt đó qua đi, cảm giác nhói buốt hành hạ bấy giờ bỗng chốc bắt đầu giảm dần rồi tan biến hoàn toàn.@
@@ -498,14 +498,14 @@ ld c,"tachi/aki_t16b",crossfade,400
 ` Mang vẻ mặt kiệt quệ đầy mệt mỏi sao... Phải chăng bấy giờ biểu cảm trên gương mặt của tôi trông thực sự vô cùng tồi tệ và thảm hại đến nhường ấy sao?@
 ld c,"tachi/aki_t03b",crossfade,400
 `"Em sẽ kiên nhẫn lắng nghe câu chuyện của anh sau khi thể xác anh đã hoàn toàn hồi phục nhé, anh trai. @ Chỉ cần anh chịu ngoan ngoãn đi ngủ nghỉ ngơi tĩnh dưỡng suốt đêm nay thì sức khỏe của anh chắc chắn sẽ tiến triển tốt hơn vào ngày mai thôi mà."@
-[line=6]cl a,crossfade,400
+cl a,crossfade,400
 `"……"@
 ` Cảm giác áy náy dâng trào khiến tôi khẽ ngoảnh mặt đi tránh ánh nhìn của Akiha bấy giờ.@
 ` …… Việc em ấy thấu hiểu bao dung chịu không gặng hỏi cho đến khi tôi khỏe lại thực sự khiến tôi nhẹ lòng vô cùng, thế nhưng đồng thời nó lại vô tình khiến nỗi tội lỗi dằn vặt trong lòng tôi tăng lên gấp bội, đến mức tôi tự cảm thấy có lẽ dẫu cho ngày mai có đến đi nữa tôi cũng chẳng bao giờ đủ can đảm để mở lời chia sẻ sự thật kinh hoàng này với em ấy.@
 br
 ` Đến cuối cùng, tôi vẫn tuyệt đối hoàn toàn bất lực chẳng thể cất lời chia sẻ dẫu chỉ một câu chuyện nhỏ nhặt với Akiha.@
 ` Sự tội lỗi dằn vặt quá lớn khiến tôi thậm chí chẳng còn dũng khí để dõi mắt đối diện trực tiếp với gương mặt xinh đẹp, dịu dàng của em ấy bấy giờ.
-[line=3]\
+\
 `"…… Akiha này, tôi..."@
 ld c,"tachi/aki_t06b",crossfade,400
 `"Trời đất ơi, làm ơn xin anh đừng có tiếp tục mang cái vẻ mặt dằn vặt đáng thương đó để nhìn em nữa được không hả! @ Em đã cất lời bảo rồi cơ mà, hôm nay dứt khoát là một ngày ngoại lệ đặc biệt, thế nên xin anh làm ơn hãy mau chóng đi về phòng ngủ của mình để nghỉ ngơi tĩnh dưỡng cho em nhờ đi nhé!"@
@@ -516,22 +516,22 @@ cl a,lcartain,800
 br
 ` Và rồi ngay sau đó, một dòng suy nghĩ hiếu kỳ bỗng chốc trỗi dậy trong tâm trí tôi.@
 ` Liệu có phải Akiha bấy giờ thực chất vẫn luôn kiên nhẫn túc trực ở tiền sảnh rộng lớn để chực chờ đón tôi trở về an toàn hay không? Phải chăng chính vì lẽ đó nên ngay khi tôi vừa cất bước đẩy cửa bước chân vào sảnh là em ấy đã có thể lập tức xuất hiện ngay lập tức như thế không……?
-[line=3]\
+\
 `"…… Akiha."@
 ld c,"tachi/aki_t01b",lcartain,800
 `"Lại có chuyện gì nữa thế hả anh trai?"@
 `"…… Thực lòng vô cùng biết ơn em vì đã tận tình chăm sóc vết thương giúp tôi nhé.@ Và... tôi thực sự vô cùng xin lỗi vì đã vô tình khiến em phải lo lắng bận lòng nhiều đến thế."@
-[line=4]ld c,"tachi/aki_t19b",crossfade,400
+ld c,"tachi/aki_t19b",crossfade,400
 `"Ơ……"@
 ` Bước chân của Akiha bỗng đột ngột khựng lại phăng phắc, em ấy đứng phăng phắc giữa sảnh hành lang không một tiếng động.@
-[line=3]br
+br
 ` …… Và rồi ngay sau đó, em ấy khẽ xoay nhẹ bóng lưng ngoảnh nhìn lại tôi.@
 br
 ld c,"tachi/aki_t05b",crossfade,400
 `"E-Em... em dứt khoát tuyệt đối đâu có lo lắng bận lòng gì vì anh đâu chứ, anh trai! @ Nếu anh bấy giờ vẫn còn thừa thãi năng lượng để cất lời trêu ghẹo em như thế, thì tốt nhất anh nên tập trung toàn bộ tâm trí vào việc chăm sóc tốt cho bản thân mình đi nhé!"@
 cl a,lshutter,400
 ` Với một tiếng động rầm lớn vang lên kịch liệt vang dội, em ấy căm phẫn đóng sầm cánh cửa phòng khách lại ngay sau lưng mình để bỏ đi mất.
-[line=3]\
+\
 `"…… Quả thực là chịu chết chẳng thể hiểu nổi tính khí của em ấy mà."@
 ` Thế nhưng dẫu em ấy có cố tình hành xử bướng bỉnh đi chăng nữa, sâu trong thâm tâm tôi vẫn thấu hiểu vô cùng rõ ràng tấm lòng lo lắng chân thành của em ấy bấy giờ.@
 `"…… Có vẻ như tôi thực sự dứt khoát không hề đi làm chuyện gì quá mức hiểm nghèo hiểm ác đúng không em chứ nhỉ."@
@@ -540,7 +540,7 @@ cl a,lshutter,400
 \
 ` Những mảnh xác người la liệt vương vãi khắp nơi giữa con hẻm đẫm máu.@
 ` Và đứng sừng sững ngay giữa biển máu đó chính là hình bóng u ám của Yumizuka, đôi bàn tay khẳng khiu của em ấy bị nhuốm trọn trong một sắc đỏ lòm ghê rợn.@
-[line=3]br
+br
 `"Guh! Khực……"@
 br
 ` Chỉ cần một dòng suy nghĩ mập mờ mách bảo tái hiện lại khoảnh khắc kinh hoàng đó thôi cũng đủ khiến toàn bộ cơ thể tôi trào dâng một cơn rùng mình ớn lạnh buốt giá chạy dọc khắp sống lưng bấy giờ.@
@@ -557,7 +557,7 @@ br
 br
 br
 br
-[line=3]br
+br
 ` [line=3]Chính tay tớ đã ra tay tàn sát toàn bộ những người này đấy.
 \
 ` Yumizuka bấy giờ đã thản nhiên thốt ra lời thú nhận gớm ghiếc đó bằng một giọng điệu vô cùng nhẹ nhàng, tự nhiên hệt như đang nói về một chuyện vô thưởng vô phạt thường nhật vậy.
@@ -567,7 +567,7 @@ br
 br
 br
 br
-[line=3]br
+br
 ` [line=3]Chỉ đơn giản là vì tớ đang vô cùng cần máu tươi của họ để duy trì sự sống thôi.
 \
 ` Vì mục đích sinh tồn đó, em ấy đã dứt khoát ra tay sát hại dã man toàn bộ họ.@
@@ -578,7 +578,7 @@ br
 br
 br
 br
-[line=3][line=3]br
+br
 ` [line=3][line=3]Cậu hãy kiên nhẫn chờ đợi tớ nhé, được không cậu? Tớ nhất định sẽ tu luyện để trở thành một con ma cà rồng vô cùng hùng mạnh...
 \
 ` …… Bản thân tôi bấy giờ thực sự chịu chết chẳng thể nhớ nổi.@
@@ -601,7 +601,7 @@ br
 br
 br
 br
-[line=3][line=3]br
+br
 ` [line=3][line=3]…… Có lẽ... bản thân mình bấy giờ thực sự đã hoàn toàn bị lệch lạc và điên rồ mất rồi.
 \
 ` [line=3]Yumizuka rõ ràng sờ sờ đã biến chuyển thành một kẻ sát nhân hàng loạt gớm ghiếc, thế nhưng từng lời nói rên rỉ u uất đầy đau đớn của em ấy bấy giờ vẫn điên cuồng ám ảnh, đeo bám lấy đại não tôi không chịu buông tha.@

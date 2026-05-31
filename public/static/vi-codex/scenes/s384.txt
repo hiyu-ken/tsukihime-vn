@@ -44,7 +44,7 @@ br
 bg #000000,crossfade,800
 playstop
 !w4000
-phase #000000,l,aki,13b,epi
+[line=13] Giai đoạn đen tối, Akiha, 13B, Epi
 bg #ffffff,crossfade,1500
 monocro off
 bg "bg/ima_03",crossfade,800

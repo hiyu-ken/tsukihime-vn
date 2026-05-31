@@ -338,7 +338,7 @@ br
 \
 bg "bg/bg_31a",lcartain,800
 wave se_05
-quakey 3,100
+null
 ` Ah![line=3]@
 ` Một cách bi thảm, tôi ngã xuống đất.@
 ` Tôi ngã về phía trước, không phải vì tôi té ngã, mà là bởi vì tôi đơn giản không thể di chuyển cơ thể thêm một bước nữa.@

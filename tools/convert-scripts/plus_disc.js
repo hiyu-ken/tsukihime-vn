@@ -14,7 +14,6 @@ import { generateScenes, splitBlocks, writeScenes } from './utils/nscriptr_conve
 const outputPathPrefix = '../../public/static/'
 const outputDir = 'scenes'
 const langs = [
-  'jp',
   'en-mm',
   'es-tohnokun',
   'it-riffour',

@@ -15,7 +15,6 @@ import { processVarName, processCondition, isSceneLabel } from './common.js';
 const outputPathPrefix = '../../public/static/'
 const outputDir = 'scenes'
 const fullscripts = [
-	['jp', 'fullscript_jp.txt'],
 	['en-mm', 'fullscript_en-mm.txt'],
 	['es-tohnokun', 'fullscript_es-tohnokun.txt'],
 	['it-riffour', 'fullscript_it-riffour.txt'],

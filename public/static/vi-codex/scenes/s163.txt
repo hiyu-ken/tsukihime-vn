@@ -2,95 +2,95 @@ monocro off
 play "*2"
 wavestop
 bg "bg/bg_40a",notrans,0
-`"Đã quá chín giờ rồi."[line=4]@
-` Tôi liếc đồng hồ.@
-` Nó đã vượt quá giờ học.@
-` Ngay cả nếu tôi đến trường bây giờ, tôi vẫn sẽ muộn[line=3]và thành thật mà nói, ở bên Arcueid vui hơn là đi học...
+`"[line=4]"@
+` Tôi liếc nhìn đồng hồ.@
+` Đã hơn chín giờ.@
+` Giờ có đi học thì cũng muộn[line=3]mà nói thật, đi với Arcueid vui hơn đi học……
 \
-`"Được rồi.@ Tôi sẽ dành ngày hôm nay với cậu.@ Nhưng nếu chúng ta vào thành phố trong ban ngày, tôi nghĩ không có Tử Giả nào quanh đây?"@
+`"Được rồi.@ Tôi sẽ dành ngày hôm nay với cậu.@ Nhưng nếu vào thành phố giữa ban ngày, tôi nghĩ chẳng có Tử Giả nào quanh đây đâu?"@
 ld c,"tachi/ark_t01b",crossfade,400
-`"...Tôi chẳng quan tâm lắm.@ Tôi chỉ muốn dạo chơi, nên ngay cả khi là ban ngày, cũng không sao."@
-`"……? Chẳng phải chúng ta đang bù đắp cho đêm qua và đi tìm ma cà rồng à?"
+`"Tôi không quan tâm điều đó.@ Tôi chỉ muốn đi dạo thôi, nên dù là ban ngày cũng không sao."@
+`"……?@ Sao, chúng ta không đang bù đắp cho đêm qua và đi tìm ma cà rồng à?"
 \
-`"Đúng vậy, tất nhiên là chúng ta sẽ tìm kiếm vào đêm nay. Nhưng để tôi giúp đỡ cả ngày lẫn đêm sẽ rất vất vả, nên trong ngày tôi nghĩ chúng ta có thể thư giãn."@
-`"Tôi cũng nghĩ như vậy. Nhưng chỉ có hai chúng ta đi dạo, đó……"
+`"Đúng, đêm nay tất nhiên chúng ta sẽ đi tìm.@ Nhưng để cậu giúp tôi cả ngày lẫn đêm sẽ khó, nên ban ngày tôi nghĩ chúng ta có thể thư giãn."@
+`"Tôi cũng nghĩ vậy thì vui hơn.@ Nhưng chỉ có hai chúng ta đi dạo, đó……"
 \
-` giống như một buổi hẹn hò trong thế giới thực.@
-` …… Có lẽ bạn không thể nói điều đó với một ma cà rồng như Arcueid, nhưng tôi đoán cô ấy đang bảo tôi đưa cô ấy ra ngoài chơi.@
-` [line=4]Đối với tôi, tôi cần chuẩn bị tinh thần và……
+` giống như cái mà thế giới thực gọi là buổi hẹn hò.@
+` …… Có lẽ không thể nói thế với một ma cà rồng như Arcueid, nhưng tôi đoán cô ấy đang bảo tôi đưa cô ấy đi chơi.@
+` Với tôi, tôi[line=4]tôi cần chuẩn bị tâm lý và…
 \
-`"……? Có chuyện gì vậy, Shiki? Mặt cậu đỏ rực lên."@
-`"[line=6]Ừm."@
+`"……?@ Sao thế, Shiki?@ Mặt cậu, đỏ lên kìa."@
+`"[line=6]Ờ."@
 ` Tôi che mặt bằng tay và nhìn đi nơi khác.@
 cl c,crossfade,400
 br
-` ... Đúng vậy, chúng ta đã ở một mình nhiều lần trước đây.@
-` Nhưng, đó là tình huống khẩn cấp, và nó giống như một thỏa thuận hợp tác hơn là bất cứ điều gì giữa một người đàn ông và phụ nữ.@
-` Vì vậy[line=4] dù tôi nghĩ cô ấy rất xinh đẹp, tôi vẫn cố không để ý đến điều đó.
+` …… Đúng là chỉ có hai chúng tôi nhiều lần trước đây.@
+` Nhưng đó là những tình huống khẩn cấp, và nó giống như một hợp tác chiến đấu hơn là chuyện giữa một nam và một nữ.@
+` Vì thế[line=4]dù tôi nghĩ cô ấy xinh đến đâu, tôi vẫn cố không để ý.
 \
-` Nhưng, nếu...
-` Không có nguy hiểm nào, không có mục đích nào, nếu chúng ta chỉ đi dạo, tôi có thể nhận ra điều gì đó mà trước đây tôi chưa từng để ý, và nó khiến tôi do dự[line=4]
+` Nhưng, nếu…
+` Không có nguy hiểm, không có mục đích, nếu hai chúng tôi chỉ đi dạo, tôi có thể nhận ra điều gì đó mà tôi chưa từng nhận ra, và điều đó khiến tôi do dự[line=4]
 \
 ld c,"tachi/ark_t11",crossfade,400
-`"Shiki?@ Chào, cậu cuối cùng cũng đi học chứ..."?"@
-`"... Không thể.@ Tôi đã nói rằng tôi sẽ làm thế, nên tôi sẽ làm.@ Tôi không biết cậu đang nghĩ gì, nhưng việc đi dạo không phải là vấn đề."@
+`"Shiki?@ Này, rốt cuộc cậu đi học à……?"@
+`"…… Không đời nào.@ Tôi đã nói sẽ đi cùng nên sẽ đi.@ Tôi không biết cậu đang nghĩ gì, nhưng đi dạo thì đâu có gì là vấn đề."@
 ld c,"tachi/ark_t08",crossfade,400
-`"Đã quyết định rồi.@ Rồi chúng ta hãy đi thôi."@
+`"Vậy thì quyết định rồi.@ Đi nào."@
 cl c,lshutter,400
-` Cô ấy bước về phía cửa sổ mà mình đã lén vào trước đó.
+` Cô ấy bước về phía cửa sổ mà cô ấy đã lẻn vào trước đó.
 \
-`"Chờ một chút.@ Tôi sẽ thay quần áo, nên cậu có thể nhìn ra ngoài một lúc được không?"@
+`"Khoan đã.@ Tôi sẽ thay đồ, cậu nhìn ra ngoài một lát được không?"@
 ld c,"tachi/ark_t01a",crossfade,400
-`"Ồ, vậy à? Không!@ Chỉ đi ra ngoài đi, tôi sẽ đến sớm thôi."@
-`"Được rồi, tôi sẽ chờ ở ngoài.@ Tôi đã đợi lâu như thế này, nên đừng khiến tôi phải đợi thêm nữa, Shiki..."@
-`"Cô nhảy ra khỏi cửa sổ với sự nhẹ nhàng của một con mèo.@
+`"Sao, cậu gọi tôi à?"@
+`"À, ừ, không!@ Cứ ra ngoài đi, tôi sẽ ra ngay."@
+`"Được, tôi sẽ đợi bên ngoài.@ Tôi đã đợi lâu thế này rồi, nên đừng bắt tôi đợi thêm nữa, Shiki…"@
 cl c,lshutter,400
 \
-` Tôi nghe thấy tiếng lá cây xào xạc bên ngoài.@
-` (Tôi)@
-` Cô ấy không nhảy xuống mặt đất, mà di chuyển dọc theo cành cây.@
+` Cô ấy nhảy ra ngoài cửa sổ nhẹ như một con mèo.@
+` Tôi nghe tiếng lá cây xào xạc bên ngoài.@
+` Cô ấy không nhảy xuống đất, mà đu theo các cành cây.@
 br
-` ... Với cơ thể như vậy, lẽ ra cô ấy nên dễ dàng lén lút vào đây mà không bị phát hiện.
+` …… Với một cơ thể như vậy, đáng lẽ cô ấy phải vào đây dễ dàng mà không bị phát hiện chứ.
 \
-`"…… Đây không phải lúc để ngạc nhiên.@ Tôi cũng phải lén lút ra ngoài mà không để Hisui chú ý."@
-` Tôi thay đổi sang quần áo bình thường.@
-` Mở cửa một chút, tôi nhìn xung quanh để chắc chắn không có ai trong hành lang và bước nhẹ nhàng ra ngoài.
+`"…… Giờ không phải lúc để ngạc nhiên.@ Tôi cũng phải lẻn ra mà không để Hisui phát hiện."@
+` Tôi thay sang một bộ đồ bình thường.@
+` Mở cửa hé một chút, tôi nhìn quanh để chắc chắn không có ai trong hành lang rồi nhón chân ra ngoài.
 \
 bg #000000,lcartain,800
 playstop
 bg "bg/bg_32a",lcartain,800
 play "*3"
-` May mắn là không ai thấy tôi khi tôi rời đi.@
-` Arcueid đang nhìn đi nơi khác khi cô ấy thì thầm với chính mình.@
+` May mắn, không ai thấy tôi khi tôi đi ra.@
+` Arcueid đang nhìn về hướng khác, lẩm bẩm với chính mình.@
 ld c,"tachi/ark_t22",crossfade,400
-`"Cảm ơn vì đã chờ đợi.@ Đi thôi, Arcueid.@ Nếu chúng ta ở lại đây, Kohaku-san sẽ tìm ra chúng ta."@
+`"Cảm ơn vì đã chờ.@ Đi nào Arcueid.@ Nếu cứ ở đây, Kohaku-san sẽ tìm thấy chúng ta."@
 ld c,"tachi/ark_t14",crossfade,400
-`"Ồ? Ừm, chúng ta nên đi thôi."@
-` Khác hẳn trước đây, lời cô ấy nghe rất trống rỗng.
+`"Hả?@ À, ừ, đi thôi."@
+` Hoàn toàn khác trước đó, lời cô ấy nghe rất trống rỗng.
 \
-`"Chuyện gì vậy? Không giống bạn chút nào. Có chuyện gì vừa xảy ra không?"@
-`"... Không, chẳng có gì cả."@
-` Tôi nhấn mạnh từ "lại một lần nữa" nhưng giọng nói của cô ấy vẫn trống rỗng.@
+`"Có chuyện gì vậy?@ Không giống cậu chút nào.@ Lại có chuyện gì xảy ra à?"@
+`"…… Không, chẳng có gì."@
+` Tôi nhấn mạnh từ 'lại' nhưng lời cô ấy vẫn rỗng.@
 br
-` [line=4]Có vẻ như cô ấy đang lên kế hoạch điều gì đó. Tôi cảm thấy hơi sợ.@
+` [line=4]Có vẻ cô ấy đang lên kế hoạch gì đó.@ Tôi thấy hơi sợ.@
 br
-`"... Bạn có bị ốm vì trời còn sáng không? Không cần phải ép bản thân ra ngoài. Nếu khó chịu, chúng ta có thể dừng lại."
+`"…… Cậu thấy mệt vì là ban ngày à?@ Cậu không cần ép mình đi ra.@ Nếu khó khăn, chúng ta dừng cũng được."
 \
 ld c,"tachi/ark_t03",crossfade,400
-`"Ừm, tôi cảm thấy ổn lúc này. Nhưng nhìn bức tường này làm tôi nhớ lại đêm qua."@
-`"...?@ Về đêm qua, cậu muốn nói khi cậu chờ tôi ở công viên à?"@
+`"Ừm, giờ thì tôi thấy ổn.@ Nhưng nhìn bức tường này làm tôi nhớ lại đêm qua."@
+`"……?@ Đêm qua, ý cậu là lúc cậu đợi tôi ở công viên à?"@
 ld c,"tachi/ark_t04",crossfade,400
-` "Đúng vậy," Arcueid gật đầu ngượng ngùng.
+` "Đúng," Arcueid khẽ gật đầu.
 \
 ld c,"tachi/ark_t03",crossfade,400
-`"Tôi chạy đến đây hết sức và lén vào phòng cậu... nhưng giờ nghĩ lại thấy lạ."@
-` "Tại sao lúc đó tôi lại tức giận?@ Chỉ là một lời hứa nhỏ thôi mà."@
-` "Nói rằng cô ấy không hiểu, Arcueid chéo tay suy nghĩ."
+`"Tôi đã chạy đến đây hết sức và lẻn vào phòng cậu…… nhưng giờ nghĩ lại thấy kỳ lạ.@
+` Sao lúc đó tôi lại tức giận đến vậy?@ Chỉ là một lời hứa nhỏ thôi mà."@
+` Nói rằng cô ấy không hiểu, Arcueid khoanh tay suy nghĩ.
 \
 ld c,"tachi/ark_t02",crossfade,400
-`"Ừm, đúng rồi.@ Có lẽ cậu hiểu, Shiki?@ Cậu luôn nói với tôi rằng tôi thật ngốc nghếch, nên có lẽ cậu có thể hiểu được?"@
-`"Này..."@
-` "Nếu cô ấy không tự hiểu được, thì làm sao tôi có thể hiểu được?"@
-` [line=4]Tôi không thể hiểu được, nhưng nếu tôi phải trả lời:
+`"À đúng rồi.@ Có lẽ cậu hiểu được, Shiki?@ Cậu lúc nào cũng bảo tôi ngốc, nên có lẽ cậu hiểu được chứ?"@
+`"Này……"@
+` Nếu chính cô ấy còn không hiểu, thì sao cô ấy mong tôi hiểu được?@
+` Không đời nào tôi hiểu được, nhưng nếu phải trả lời[line=4]
 br
 cl c,crossfade,400

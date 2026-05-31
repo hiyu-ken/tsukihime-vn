@@ -2,84 +2,84 @@ monocro off
 playstop
 waveloop se_02
 bg "event/ark_h03",notrans,0
-` [line=4]Tôi không thể làm điều đó.@
+` [line=4]Tôi không thể.@
 ` Tôi không thể làm bất cứ điều gì cô ấy không muốn nữa.@
-` Một lần, tôi đã nhượng bộ trước cơn đau đầu này và tôi đã giết cô ấy.@
+` Một lần, tôi đã nhượng bộ cơn đau đầu này và đã giết cô ấy.@
 br
-` Đó là lý do, tôi sẽ không bao giờ làm thế nữa.@
-` [line=4]Tôi không thể thua chính bản thân mình và khiến Arcueid khóc. Ngay cả khi cơn đau đầu này làm tôi tan vỡ, tôi vẫn sẽ không làm điều đó.
+` Đó là lý do, không bao giờ nữa.@
+` Tôi không thể thua chính mình và làm Arcueid khóc.@ Dù cơn đau đầu này có xé nát tôi, tôi vẫn sẽ không làm điều đó[line=4]
 \
 bg #ffffff,crossfade,800
 wavestop
 bg "bg/bg_31b",crossfade,400
 play "*9"
-`"[line=4]Ha!"@
+`"Ha[line=4]á!"@
 ` Tôi rút lui khỏi cơ thể cô ấy.@
 ` Cơn đau đầu biến mất và trái tim tôi trở lại bình thường.@
-` Những khát vọng cuồng nộ bên trong tôi cũng đã tan biến, và cuối cùng tôi bắt đầu hiểu được những gì mình vừa làm.
+` Những thôi thúc cuồng nộ bên trong tôi cũng đã tan biến, và cuối cùng tôi bắt đầu hiểu được những gì mình vừa làm.
 \
-`"[line=4][line=4]Tôi... đã làm gì vậy?"@
-` Tôi không thể tin được điều này.@
-` Nhưng ký ức vẫn quá rõ ràng.@
-` Làm thế nào mà tôi đẩy cô ấy xuống đất.@
-` Làm thế nào tôi siết cổ cô ấy và giơ dao lên đầu cô ấy.@
-` ...và những hành động đáng xấu hổ sau đó.
+`"[line=4]Tôi[line=4]đã làm gì…"@
+` Tôi không thể tin được.@
+` Nhưng ký ức quá rõ ràng.@
+` Cách tôi đẩy cô ấy xuống.@
+` Cách tôi siết cổ cô ấy và giơ dao lên trên cô ấy.@
+` …… và những việc đáng xấu hổ tôi đã làm sau đó.
 \
-`"[line=6]@
+`"[line=6]"@
 ` Tôi không biết phải nói gì.@
-` Arcueid chỉnh lại trang phục và đứng dậy.@
-` [line=4]Tôi không biết phải xin lỗi như thế nào.@
-` Chỉ nói lời xin lỗi... Làm sao điều đó có thể bù đắp được?@
-`"[line=4][line=4]Arcueid, tôi..."@
+` Arcueid chỉnh lại quần áo và đứng dậy.@
+` Tôi[line=4]không biết phải xin lỗi thế nào.@
+` Chỉ nói xin lỗi… làm sao có thể bù đắp?@
+`"[line=4]Arcueid, tôi[line=4]"@
 ld c,"tachi/ark_t10",crossfade,400
-`"Đừng lo lắng... Tôi là người cần xin lỗi."@
-` Cô ấy liếc mắt đi nơi khác, tỏ ra không thoải mái.
+`"Đừng lo về chuyện đó…… Tôi mới là người nên xin lỗi."@
+` Cô ấy nhìn đi chỗ khác đầy ngượng ngùng.
 \
-`"[line=2][line=4]Chuyện gì vậy? Tôi là người đã làm điều sai trái. Nếu như tôi mạnh mẽ hơn, thì chuyện này chưa bao giờ xảy ra."@
+`"Cá[line=2]cậu đang nói gì vậy?@ Tôi mới là người đã làm điều sai.@ Giá như[line=4]tôi mạnh mẽ hơn, chuyện đó đã không bao giờ xảy ra."@
 ld c,"tachi/ark_t17",crossfade,400
-`"Không số 1, tôi không nghĩ đó là điều mà bạn có thể đã chống lại vì bạn đã thấy 'Mắt Thần Bí' của tôi."@
-`"[line=4]Ồ? Mắt Thần Bí? Giống như mắt của Nrvnqsr...?"
+`"Không.@ Tôi không nghĩ đó là điều cậu có thể kháng cự, vì cậu đã nhìn vào 'Ma Nhãn' của tôi."@
+`"Hả[line=4]?@ Ma Nhãn?@ Giống như mắt của Nrvnqsr……?"
 \
 ld c,"tachi/ark_t10",crossfade,400
-`"... Đúng vậy. Tôi không tỉnh táo lúc trước. Tôi quá khát khao, không kiểm soát được bản thân."@
-` "[line=4]Vì vậy [lối đi 4], tôi tìm thấy một số người Chết và cố gắng thay thế cơn khát đó bằng ý chí hủy diệt để ngăn chặn nó."@
-` "[line=4]Vào thời điểm đó, tôi không thể kiềm chế nên bạn đã thấy Mắt Thần Bí của tôi khi bạn đến."@
-`"[line=4][line=2]... Đúng là tôi cảm thấy kỳ lạ từ lúc tôi nhìn thấy đôi mắt vàng của bạn [lối đi 4]nhưng đó chỉ là như vậy. Tôi, với ý chí của chính mình..."
+`"…… Đúng vậy.@ Lúc nãy tôi không tỉnh táo.@ Tôi quá khát, không thể kiểm soát bản thân.@
+` Đó là lý do[line=4]tôi tìm vài Tử Giả, và cố thay thế cơn khát đó bằng thôi thúc hủy diệt để cầm cự.@
+` Lúc đó, tôi không thể kìm chế bản thân[line=4]nên đó là lý do cậu thấy Ma Nhãn của tôi khi cậu đến."@
+`"…… Đúng là tôi cảm thấy kỳ lạ từ lúc nhìn thấy đôi mắt vàng của cậu[line=4]nhưng chỉ có thế thôi.@ Tôi, với ý chí của chính tôi[line=2]"
 \
-`"Không, điều đó sai lầm.@
-` Shiki, Mắt Thần Bí của tôi hoàn toàn mê hoặc bất cứ ai nhìn vào chúng. ... Tôi nghĩ đó là lý do tại sao bạn bắt đầu cảm thấy những ham muốn tình dục như vậy."@
-`"[line=2][line=4]Đó không thể đúng."@
-` Vì ngay cả khi cô ấy không kiểm soát tôi.@
-` Tôi, tôi có thể vẫn còn yêu cô ấy.
+`"Không, không phải vậy.@
+` Shiki, Ma Nhãn Mê Hoặc của tôi hoàn toàn quyến rũ bất cứ ai nhìn vào.@ …… Tôi nghĩ đó là lý do cậu bắt đầu cảm thấy tất cả những ham muốn xác thịt đó."@
+`"[line=2]Không[line=4]không thể đúng được."@
+` Vì kể cả khi cô ấy không điều khiển tôi.@
+` Tôi, tôi có lẽ, vẫn thích cô ấy.
 \
-`"Dù sao thì tất cả cũng là do sự lơ là của tôi. ... Tôi xin lỗi, Shiki. Tôi đã thao túng cơ thể cậu mà không quan tâm đến cảm xúc của cậu."@
+`"Dù sao, tất cả là do sự bất cẩn của tôi.@ …… Tôi xin lỗi, Shiki.@ Tôi đã điều khiển cơ thể cậu mà không quan tâm đến cảm xúc của cậu."@
 cl c,crossfade,400
-` Cô ấy quay mắt đi khi nói điều này.@
-` "Việc được xin lỗi như vậy làm tổn thương trái tim tôi."@
-` Vì tôi cảm thấy mình hoàn toàn không bị thao túng.@
-` Thay vì [line=4] có vẻ như tôi đã dùng nó để thỏa mãn ham muốn của chính mình.
+` Ánh mắt cô ấy nhìn đi chỗ khác khi nói điều này.@
+` …… Bị xin lỗi như thế làm trái tim tôi đau.@
+` Vì tôi không hề cảm thấy mình bị điều khiển.@
+` Mà[line=4]có vẻ như tôi đã lợi dụng nó để tuân theo dục vọng của chính mình.
 \
-`"[line=4]Arcueid, tôi..."@
+`"Arcueid, tôi[line=4]"@
 ld c,"tachi/ark_t17",crossfade,400
-`"Đừng xin lỗi. ... Shiki, điều này chỉ là một tai nạn. Tôi sẽ quên đi, nên cậu cũng vậy."@
+`"Đừng xin lỗi.@ …… Shiki, đây là một tai nạn.@ Tôi sẽ quên đi, nên cậu cũng quên đi.@ Tôi nghĩ thế tốt cho cả hai chúng ta."@
 cl c,lshutter,800
-` "Nói xong, cô ấy bắt đầu bước đi thầm lặng."
+` Nói thế, cô ấy bắt đầu lặng lẽ bước đi.
 \
-`"... Arcueid...?"@
+`"…… Arcueid……?"@
 ld c,"tachi/ark_t22",crossfade,400
-`"[line=4]Tôi nghĩ điều này đã đủ cho đêm nay. Tôi đã giết hết những Tử Giả tối nay, nên có lẽ không cần tìm kiếm thêm nữa."@
-`"... Được rồi, nhưng chúng ta sẽ xử lý hàng đống xác chết này như thế nào? Nếu ai đó phát hiện ra, sẽ gây rắc rối."@
-`"Không cần lo lắng. Khi một sinh vật trở thành ma cà rồng và chết đi, nó sẽ không để lại dấu vết. Những kẻ từ chối quay về Trái Đất sẽ tan thành tro và bay theo gió sau khi chết."
+`"[line=4]Tôi nghĩ thế này đủ cho đêm nay rồi.@ Tôi đã giết hết những Tử Giả tối nay, nên có lẽ tìm thêm cũng vô ích."@
+`"…… Vậy cũng được, nhưng đống xác chết kia thì sao?@ Nếu có ai đó tìm thấy, sẽ rắc rối lắm."@
+`"Không cần lo.@ Khi thứ gì đó trở thành ma cà rồng rồi chết đi, nó không để lại dấu vết.@ Những kẻ từ chối trở về với Đất sẽ thành tro bụi bay theo gió khi chúng chết.@ Chúng sẽ tự trở về và tan biến trong chốc lát."
 \
 cl c,lshutter,800
-` Cô ấy biến mất khỏi con hẻm với những bước chân yếu ớt, không quay đầu lại.@
-`"………"@
+` Không quay lại, cô ấy biến mất khỏi con hẻm với những bước chân yếu ớt.@
+`"………………"@
 ` Tôi không thể ngăn cô ấy lúc này.@
-` Tôi vẫn cảm nhận được sự hiện diện của Arcueid trên cả hai bàn tay tôi.
+` Tôi vẫn cảm thấy cảm giác của Arcueid trên cả hai bàn tay mình.
 \
-`"[line=4]Đồ ngốc.@ Thật là một kẻ ngốc ngu ngơ."@
-` Tôi thầm than thở.@
-` Trong con hẻm biến thành sân khấu bi kịch, tôi ngước nhìn mặt trăng với sự hối tiếc.
+`"[line=4]Đồ ngốc.@ Mình đúng là đồ ngốc."@
+` Tôi tự lẩm bẩm.@
+` Trong con hẻm đã trở thành sân khấu của bi kịch, tôi ngước nhìn mặt trăng đầy hối tiếc.
 \
 bg #000000,crossfade,1500
 playstop

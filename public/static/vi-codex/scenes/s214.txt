@@ -64,7 +64,7 @@ br
 `"[line=4]Hisui..."@
 ` Bản thân tôi bấy giờ thực sự hoàn toàn bất lực chẳng thể làm gì ngoài việc lặng người đứng ngắm nhìn hình bóng em ấy một cách vô cùng mê hoặc và say đắm.@
 ` Cảm giác chấn động mãnh liệt dâng trào khiến tôi hoàn toàn không thể cất lời nói chuyện rõ ràng, thậm chí đến cả việc chớp mắt nhẹ nhàng tôi cũng không thể nổi. Tôi chỉ biết đứng yên bất động, đôi mắt chăm chú khóa chặt vào hình bóng u uẩn của em ấy.
-\
+br
 ` [line=4]Và rồi ngay sau đó.@
 ` Đôi mắt trong vắt phẳng lặng hệt như đôi mắt của một cô búp bê pha lê thượng hạng của em ấy bỗng chốc xoay nhẹ, lẳng lặng hướng thẳng về phía tôi.
 \

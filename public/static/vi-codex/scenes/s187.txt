@@ -2,39 +2,39 @@ monocro off
 playstop
 wavestop
 bg "bg/bg_29b",lshutter,400
-play "*9"
-` Arcueid khẽ thở hắt ra một hơi dài, lẳng lặng ngắm nhìn ánh trăng mờ ảo.@
-`"[line=3]Cậu biết không Shiki... Tôi thực sự chẳng có bất kỳ ký ức tươi đẹp nào về quá khứ cả."@
-` "Nhiệm vụ của tôi chỉ là chém giết. Mỗi khi hoàn thành việc thanh trừng một mục tiêu, tôi lại bị đưa trở lại tòa lâu đài cổ lạnh lẽo ở phương Tây."@
-` "Bọn họ giam cầm tôi bên trong một căn phòng đá lạnh buốt, phong ấn mọi cử động và bắt tôi phải chìm vào giấc ngủ sâu vô thức suốt hàng chục, hàng trăm năm liền cho đến lần đi săn tiếp theo."@
-` "Tôi không có sở thích cá nhân, không có bạn bè, không biết hương vị đồ ăn thế nào, và cũng chưa bao giờ được tự do dạo bước dạo chơi ngắm nhìn thế giới ban ngày như hôm nay cả."@
-\
-ld c,"tachi/ark_t17",lshutter,400
-` Giọng điệu của cô ấy nhỏ dần, run run đượm vẻ xót xa tủi hờn vô hạn.@
+` ... Đồng hồ chỉ mười hai giờ.@
+` Đã muộn hai tiếng so với thời gian hứa hẹn.@
+`"[line=3] Thở dài."@
+` Tôi cúi người trên băng ghế và thở dài.@
+`"... Có lẽ cô ấy sẽ không đến đâu."@
+` Tôi không biết.@
+` Tôi không biết, nhưng tôi chẳng muốn quay lại.@
+`"[line=3] Vâng, tôi sẽ chờ đến sáng. Đáng khóc thật."@
+`  Tôi nằm ngổn ngang trên băng ghế, bực bội.@
 br
-` [line=4]Hai hàng nước mắt trong vắt khẽ lăn dài trên gò má trắng ngần nần nà của cô ấy dưới ánh trăng mờ ảo.@
+` [line=4]Và sau đó...
 \
-` Nhìn giọt nước mắt lăn dài và gương mặt đượm buồn đầy cô độc thương tâm đó của cô ấy, lồng ngực tôi bộc phát một cảm xúc mãnh liệt vô cùng.@
-` Tôi không thể chịu đựng nổi việc nhìn thấy cô gái xinh đẹp tốt bụng này phải tiếp tục chịu đựng số phận bi thảm cô độc đó thêm nữa.@
-` Tôi vội vàng tiến lại gần, nắm chặt lấy đôi bàn tay mềm mại nhưng lạnh ngắt của cô ấy đầy chân thành.@
+`"... Hừm?"@
+` Chờ một phút.@
+` Tôi nghĩ mình đã thấy một tia sáng trắng sau khu vực nghỉ ngơi.@
+` ... Hơn nữa, nó quay lại ngay khi tôi nhìn thấy nó.
 \
-\
-`"[line=6]Shiki...?"@
-` Cô ấy trố mắt nhìn tôi đầy ngạc nhiên bàng hoàng.@
-`"Tôi hứa với cậu! Dẫu thế giới này có quay lưng lại với cậu đi chăng nữa, tôi quyết định sẽ luôn ở bên cạnh tin tưởng và bảo vệ cậu! Tôi sẽ là bạn của cậu, và từ nay về sau, tôi sẽ đưa cậu đi chơi khắp mọi nơi để bù đắp lại tất cả những năm tháng cô độc trước đây!"@
+`"[line=6]"@
+` Tôi đứng dậy khỏi băng ghế và bước về phía khu vực nghỉ ngơi.@
+` ... Như thể nó biết mình không còn thể giấu giếm, hình ảnh trắng bỗng hiện ra.@
 br
 ld c,"tachi/ark_t08",lshutter,400
 play "*3"
-` Nghe tôi nói thế, giọt nước mắt trên má cô ấy bỗng chốc bốc hơi tan biến hoàn toàn, thay vào đó là một nụ cười hớn hở rạng rỡ và hạnh phúc tột cùng.@
-`"Thật chứ Shiki? Cậu hứa sẽ luôn là bạn của tôi và đưa tôi đi chơi suốt đời chứ?"@
+`"Ha ha ha, cậu tìm được tôi rồi~"@
+` Arcueid xuất hiện vui vẻ hơn bao giờ hết.
 \
-` [line=3]Cô ấy vui sướng khóc nghẹn rồi nhào thẳng vào ôm chầm lấy tôi đầy ấm áp.@
-` Ôm lấy thân hình mảnh mai kiều diễm của cô ấy dưới ánh trăng rực rỡ, tôi tự nhủ dẫu bản thân có phải đánh đổi cả mạng sống này, tôi cũng quyết định sẽ bảo vệ nụ cười hạnh phúc trọn vẹn này của cô ấy đến tận cùng thế giới.
-\
-cl c,lshutter,800
+`"[line=3]Arcueid, cậu đến rồi à?"@
+`"Hả? Cậu nói gì vậy?"@
+`"[line=3]Cậu... thực sự đã đến ư?"@
+` Tôi nói ra vì tôi vẫn không thể tin được.@
 ld c,"tachi/ark_t04",crossfade,400
-playstop
-!w3000
+`"Dĩ nhiên rồi, chúng ta đã hứa. Tôi đến khoảng mười phút trước cậu."@
+` Cô ấy quay mặt đi.@
 `"[line=3]... Mười phút trước, nhưng..."@
 ` Tôi đến trước mười giờ, và cô ấy lại còn sớm hơn?
 \
@@ -214,7 +214,7 @@ br
 \
 bg "bg/ima_13",crossfade,400
 wave se_10
-Động đất 2,100
+quakex 2,100
 `"Aha" [line=4]@
 ` Xé nát.@
 ` Từ phía sau, giống như tư thế nâng đỡ nhau.@

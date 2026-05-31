@@ -234,7 +234,7 @@ br
 ` Tôi nhìn thấy cơ thể đen của nó chuyển động về phía tôi, nhưng tôi thậm chí không có thời gian để nghĩ đến việc né tránh nó.
 \
 bg #000000,notrans,0
-[line=4] Sự rung chuyển mạnh độ 4.1 trên thang đo Richter.
+quakex 4,100
 ` Đùng!@
 br
 ` Tôi cảm thấy một cú sốc vào cơ thể.@

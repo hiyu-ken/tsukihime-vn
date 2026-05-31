@@ -47,7 +47,7 @@ wave se_01
 br
 ` [line=3]Cho đến khi cánh cửa này đóng lại, cô ấy không thể giết được tôi.
 \
-Chơi âm thanh se_02
+waveloop se_02
 `"[line=9]"@
 ` ... Rồi tôi chẳng quan tâm nữa.@
 ` Nếu cô ấy cố mở cửa, cũng tốt thôi. Nó sẽ chỉ là một trận đấu giữa tốc độ: khả năng "cắt" của tôi hay khả năng "nhìn" của cô ấy.@
@@ -64,7 +64,7 @@ wave se_08
 ` Một tiếng va đập từ cửa sổ vang lên.@
 wave se_10
 bg #9c0120,notrans,0
-Động đất 3,5.
+quakex 3,50
 `"[line=5]Hả?"@
 ` Não tôi như bị đóng băng.@
 ` Tôi đột nhiên mất hết cảm giác ở tay và chân.@

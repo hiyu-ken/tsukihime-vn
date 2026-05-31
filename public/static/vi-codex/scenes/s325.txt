@@ -1,4 +1,4 @@
-[phần nền - bg/bg_54a], l, aki, 05a, 5
+phase "bg/bg_54a",l,aki,05a,5
 bg #ffffff,crossfade,400
 wave se_01
 !w1500
@@ -233,7 +233,7 @@ br
 wave se_05
 bg #ffffff,notrans,0
 bg "bg/bg_03a",notrans,0
-Đột nhiên, một cú đá mạnh từ đối thủ khiến tôi ngã xuống đất và lăn đi ba lần.
+quakex 3,100
 ` Tôi nghe thấy một tiếng động lớn, "………."@
 br
 `"Tôi không thể tin được điều này.@
@@ -414,7 +414,7 @@ br
 wave se_01
 bg #000000,crossfade,400
 bg "bg/bg_06a",crossfade,400
-Chuyển vòng âm thanh se_02
+waveloop se_02
 `"Ôi..."[line=4]@
 ` "Đau lại rồi."@
 ` "Cơn đau sắc nhọn ở cổ tôi."

@@ -1,4 +1,4 @@
-[hình nền/hình nền_47], l, arc, 07a, 7
+phase "bg/bg_47",l,ark,07a,7
 bg "bg/cmo_05",crossfade,800
 ` Ngày đó, toàn bộ căn biệt thự như một khu vui chơi khổng lồ.@
 br

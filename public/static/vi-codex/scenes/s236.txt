@@ -12,7 +12,7 @@ br
 ` Nó giúp tôi nhận ra rằng trời bây giờ đã sáng.
 \
 bg "bg/bg_40a",crossfade,1500
-[màn âm thanh se_11]
+waveloop se_11
 `"[line=5]"@
 ` Tôi mệt mỏi mở to mắt.@
 ` There isn't anyone else in my room.@

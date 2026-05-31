@@ -58,7 +58,7 @@ br
 ` ... Đó là lý do tôi cảm thấy ổn.@
 ` …… Thế nên, thâm tâm em lúc này thực sự đã vô cùng mãn nguyện rồi.@`
 ` Cho dẫu đối với chị tất thảy ngọt ngào bấy lâu nay toàn bộ chỉ là ảo ảnh dối trá nhơ nhuốc xảo trá đi chăng nữa,`
-` thì việc linh hồn tôi được cứu rỗi che chở bởi chính người con gái ấy vẫn luôn là sự thật hiển nhiên bất biến không thể gột rửa nổi.`
+\
 `"[line=3]Độc nhất vì nguyên cớ ngọt ngào ấy, tất thảy mọi sự bấy giờ đều ổn thỏa rồi."@`
 ` Những tuần lễ ngắn ngủi bên nhau ấy thực sự đã mang lại cho cuộc đời em niềm hạnh phúc dịu hiền tột cùng.@`
 ` Nếu bản thân em bấy giờ lại ôm lòng căm ghét oán hận chị tại chốn này, tôi chắc chắn sẽ tự tay đánh mất đi cả báu vật ngọt ngào trân quý ấy mất.@`
@@ -126,7 +126,7 @@ br
 ` Nhưng, hơn thế nữa.@
 ` Và quan trọng hơn tất thảy mọi sự trên đời.@`
 ` Nếu bản ngã tôi hèn nhát lết sống tại chốn này, điều đó đồng nghĩa với việc tôi sẽ vĩnh viễn đánh mất đi Senpai quý giá của cuộc đời mình.`
-` Bản thân tôi tuyệt đối tịnh không cách nào cắn răng cam chịu nổi một kiếp sinh tồn cô độc đầy nhơ nhuốc nhường ấy.`
+\
 `"…… Senpai ơi, tất thảy muôn vàn ký ức đôi bên kề cạnh bên nhau bấy lâu nay thực sự đã vô cùng hạnh phúc ngọt ngào vui vẻ vô ngần.@`
 ` Khoảng thời gian em được kề vai sát cánh bên chị cùng Arihiko tuyệt nhiên tịnh không tồi chút nào.@ Ngay cả muôn vàn khoảnh khắc giờ nghỉ giải lao đôi bên lẳng lặng cùng nhau sẻ chia dẫu vậy dẫu vậy cũng vô cùng thú vị ấm áp, trông hệt như một giấc mộng dịu hiền ngọt ngào ngọt ngào vậy.@`
 ` [line=3]... Đó có lẽ chính là giấc mộng ngọt ngào nhất cuộc đời em. Dẫu cho chịu chết tịnh không bao giờ có thể trở thành hiện thực đi chăng nữa, em dẫu vậy dẫu vậy thực tâm vô cùng mong muốn kiếp sống ngọt ngào ấy cứ mãi mãi tiếp diễn hoài."@`
@@ -305,7 +305,7 @@ br
 \
 bg #9c0120,crossfade,800
 wave se_10
-Lắc đầu 3,100 lần.
+quakey 3,100
 !w3000
 bg #ffffff,crossfade,1500
 !w3000
@@ -744,7 +744,7 @@ br
 ` ... Như Ciel-senpai nói, cơ thể tôi bẩn thỉu.@
 ` Có bùn phủ khắp cánh tay và cổ họng tôi, và cơ thể tôi ngửi thấy mùi mồ hôi.
 \
-(Trượt 8)
+eroskip 8
 `"Tôi hiểu rồi... Tôi đã khóa mình trong phòng từ hôm qua. Và nó giống như tôi bị kích thích suốt thời gian đó..."@
 br
 ` "...?"@

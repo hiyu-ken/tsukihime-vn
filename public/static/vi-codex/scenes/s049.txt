@@ -1,5 +1,5 @@
 playstop
-` [center]Cái chết của tôi là một sự thật hiển nhiên. Tôi có thể cảm nhận được nó mỗi khi tim đập, mỗi khi hơi thở trôi qua.`
+waveloop se_11
 bg "bg/bg_40d",notrans,0
 ` Tiếng gào thét vẫn vang vọng.@
 ` Tôi không thể ngủ như thế này.`@

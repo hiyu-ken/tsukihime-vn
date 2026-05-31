@@ -3,9 +3,9 @@ wavestop
 bg "bg/bg_40a",notrans,0
 ` [line=8]Không đủ.@
 br
-(màu đỏ)
+textcolor #ff0000
 ` *Hít thở gấp gáp* *Hít thở gấp gáp* *Hít thở gấp gáp*
-(màu trắng)
+textcolor #ffffff
 br
 ` Tôi không còn hơi sức, nhưng...
 ` Không gần đủ.@
@@ -27,9 +27,9 @@ br
 ` [line=4]Đột nhiên một tiếng động vang lên.@
 ` Trái tim tôi đập nhanh.@
 ` Tất cả các mạch máu trong tôi đang ra lệnh cho tôi.@
-(màu đỏ)
+textcolor #ff0000
 ` VIỆC PHÁ VỊN NÓI CHẾT CỦA HỌ
-(màu trắng)
+textcolor #ffffff
 ` Làm đi.@
 ` Những lời này vang vọng trong đầu tôi.
 \
@@ -50,9 +50,9 @@ br
 br
 ` Tất cả... đều là những hành động của Hisui dành cho tôi.
 \
-Màu chữ đỏ rực.
+textcolor #ff0000
 ` [line=4]Tôi thở dốc, nhịp tim đập mạnh.
-Màu chữ trắng.
+textcolor #ffffff
 br
 bg #9c0120,notrans,0
 bg "bg/bg_40a",notrans,0
@@ -64,7 +64,7 @@ bg #9c0120,crossfade,400
 ` Và chỉ như vậy thôi,
 ` Tôi trèo lên giường và ngăn cô ấy trốn thoát.
 \
-Tôi bỏ qua giai đoạn dạo đầu trong lúc kích động.
+eroskip 30
 play "*6"
 bg "event/his_h03",crossfade,800
 `"N, Hwa……!"@
@@ -162,10 +162,10 @@ bg "event/his_h03",crossfade,400
 ` Chỉ tạm thời,
 ` Tôi đang thực sự đuối trong cơ thể Hisui.
 \
-(Màu đỏ)
+textcolor #ff0000
 br
 ` *Hít thở gấp* *Hít thở gấp* *Hít thở gấp* *Hít thở gấp*
-(Màu trắng)
+textcolor #ffffff
 bg "event/his_h14",notrans,0
 bg "event/his_h03",notrans,0
 br
@@ -220,7 +220,7 @@ bg "event/his_h03",notrans,0
 `"... Tôi... xin lỗi... hãy tha thứ... cho tôi..."@
 ` Một giọng nói yếu nhược, chập chờn.@
 ` Và sau đó,
-Màu chữ #FF0000 (màu đỏ)
+textcolor #ff0000
 ` Ha ha ha ha ha ha ha ha ha ha!
 textcolor #ffffff
 ` Tôi rùng mình.@

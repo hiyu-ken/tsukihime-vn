@@ -121,7 +121,7 @@ br
 ` Tôi bất lực buông xuôi một tiếng thở dài thườn thượt.@
 ` ... Sự tận tụy và trung thành tuyệt đối này của em ấy quả thực khiến lòng tôi trào dâng một cảm giác vô cùng ấm áp và vui sướng, thế nhưng dẫu vậy tôi nghĩ mọi chuyện sẽ tốt đẹp hơn biết mấy nếu em ấy chịu thừa hưởng dẫu chỉ một nửa sự tươi tắn, rạng rỡ và lém lỉnh của Kohaku-san.@
 ` Bản thân em ấy vốn dĩ luôn sở hữu một khí chất vô cùng thanh cao và xinh đẹp bao quanh, thế nên giá như em ấy chịu thả lỏng bản thân ra đôi chút thì mọi chuyện chắc chắn sẽ... 
-\
+`\
 \
 ld c,"tachi/his_t01",lshutter,800
 `"À... dạ không đâu em, tôi chỉ đang bận đứng suy nghĩ vẩn vơ về một vài chuyện nhỏ nhặt thôi mà."@
@@ -130,22 +130,22 @@ ld c,"tachi/his_t01",lshutter,800
 ` ... Tôi đoán em ấy thực sự đang vô cùng muốn tôi trao chiếc cặp này cho em ấy mang giúp lên phòng ngủ.@
 ` Em ấy dẫu đã cất công đứng chực chờ đón tôi suốt nửa tiếng đồng hồ gió lạnh ngoài cổng sắt, thế mà giờ đây khi bước vào nhà lại vẫn kiên trì khao khát được mang chiếc cặp sách này giúp tôi nữa.@
 ` Phớt lờ ánh nhìn đượm buồn đầy mong mỏi ái ngại đó của em ấy, tôi vội vã rảo bước nhanh chân đi thẳng về phía phòng ngủ của mình.
-\
+`\
 \
 bg #000000,lcartain,400
 bg "bg/bg_40b",lcartain,400
 ld c,"tachi/his_t01",lshutter,400
 `"... Hisui này, em bảo một mình em chịu trách nhiệm dọn dẹp toàn bộ căn biệt thự khổng lồ này sao? Vậy thì tôi thực sự thắc mắc không biết bấy giờ Akiha và Kohaku-san đang bận rộn làm chuyện gì thế em?"@
 `"Dạ tiểu thư Akiha bấy giờ đang túc trực trong phòng khách rộng lớn để giải quyết các thủ tục pháp lý liên quan đến công ty gia đình và các vấn đề thừa kế tài sản khổng lồ do Makihisa-sama để lại ạ. Còn chị Kohaku bấy giờ có lẽ đang quét lá rụng dọn dẹp ngoài sân vườn phía sau ạ."
-\
+`\
 \
 `"Dạ đúng vậy ạ thưa cậu chủ. Có vẻ như tiểu thư bấy giờ đang phải tiếp nhận các buổi báo cáo cặn kẽ về toàn bộ chính sách quản lý và vận hành của công ty gia đình, thế nên tiểu thư chắc chắn sẽ vô cùng bận rộn tối tăm mặt mũi cho đến tận giờ dùng bữa tối đấy ạ thưa cậu chủ."@
 `"……"@
 ` Đúng vậy nhỉ, cha tôi bấy giờ đã đột ngột trút hơi thở cuối cùng vì bệnh tật, thế nên có lẽ ông ấy lúc sinh thời tuyệt đối chưa từng mảy may chia sẻ dẫu chỉ một chút thông tin nào về cách quản lý vận hành công ty cho Akiha biết cả.@
 `"Tôi biết rồi, xin chân thành cảm ơn em đã tận tình thông báo nhé Hisui. Tôi hứa sẽ lập tức rung chuông gọi em nếu có bất kỳ chuyện gì xảy ra, thế nên em hãy cứ yên tâm quay trở lại dọn dẹp biệt thự đi nhé."@
+`ld c,"tachi/his_t16",crossfade,400
 ld c,"tachi/his_t16",crossfade,400
-ld c,"tachi/his_t16",crossfade,400
-\
+`\
 \
 cl c,crossfade,400
 bg #000000,lshutter,800
@@ -153,5 +153,5 @@ bg "bg/bg_40b",lshutter,800
 playstop
 ` Chiếc kim đồng hồ bấy giờ khẽ chỉ thời gian vừa bước qua năm giờ chiều.@
 ` Nếu cứ tiếp tục nằm lười rúc đầu trong phòng ngủ thế này thì thực sự vô cùng lãng phí dòng thời gian tươi đẹp ban chiều. Thiết nghĩ giờ đây tôi nên... 
-\
+`\
 \

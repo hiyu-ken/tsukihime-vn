@@ -1,43 +1,43 @@
-monocro off
+phase "bg/bg_31b",l,ark,10a,10
 bg #ffffff,crossfade,800
 bg "bg/bg_40a",crossfade,800
 play "*9"
-play "*9"
+`play "*9"
 ` Tôi mở mắt và đeo chiếc kính ở cạnh giường.@
 ` Nhìn ra cửa sổ, tôi thấy một bầu trời xanh không một gợn mây.@
 br
-\
-ld c,"tachi/ark_t01a",lshutter,800
+`\
+`ld c,"tachi/ark_t01a",lshutter,800
 `"Chào buổi tối, Shiki! Đêm nay trông cậu có vẻ nhiều tâm sự thật đấy nhỉ."@
 ` Cô ấy tươi cười rạng rỡ chào tôi hệt như mọi khi.@
 \
 ` [line=4]Tôi gượng gạo mỉm cười chào lại.@
 `"Tất nhiên rồi! Tôi đã hứa là sẽ không bao giờ nuốt lời nữa mà cơ mà."@
 ` Cô ấy kiêu hãnh tuyên bố đầy tự hào.
-\
-ld c,"tachi/ark_t14",crossfade,400
+`\
+`ld c,"tachi/ark_t14",crossfade,400
 \
 `"Sao thế Shiki? Có chuyện gì xảy ra lúc ban ngày sao? Sắc mặt cậu trông cực kỳ tồi tệ đấy."@
 `"Không có gì đâu mà. Chỉ là... tôi vừa nói chuyện với Ciel-senpai lúc trưa nay thôi."@
 `"Ciel-senpai? Ý cậu là ả Hành Pháp Giả của Táng Nghi Xã cứu mạng cậu đêm hôm kia sao?"@
 br
-\
+`\
 \
 br
-ld c,"tachi/ark_t06",crossfade,400
+`ld c,"tachi/ark_t06",crossfade,400
 br
 ` Cô ấy trừng mắt nhìn tôi đầy giận dỗi, vẻ mặt phụng phịu hệt như một chú mèo bị cướp mất đồ chơi vậy.@
 `"Không đời nào. Tôi đã bảo với chị ấy rằng cậu tuyệt đối không phải là loại quái vật tàn bạo chuyên đi hút máu người như họ nghĩ đâu."@
 br
-\
+`\
 \
 bg #000000,lcartain,1500
 bg "bg/bg_34a",lcartain,1500
 ` Nhìn nụ cười hồn nhiên không chút bụi trần đó của cô ấy dưới ánh trăng mờ ảo, tôi tự nhủ dẫu Giáo Hội có coi cô ấy là ác quỷ đi chăng nữa, tôi cũng quyết định sẽ tin tưởng và đồng hành bảo vệ cô ấy đến cùng.
-\
+`\
 br
-bg #000000,crossfade,1500
-playstop
+`bg #000000,crossfade,1500
+`playstop
 \
 bg #000000,lcartain,1500
 !w1000

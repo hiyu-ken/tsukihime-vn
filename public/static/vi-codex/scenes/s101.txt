@@ -104,7 +104,7 @@ bg "bg/ima_14",crossfade,400
 `"[line=4]Ôi trời!"@
 ` Một tiếng động mạnh!@
 ` Chó đen đập đầu vào bụng tôi.@
-Tôi bị đẩy lùi vài mét và rơi xuống đất.
+quakex 4,100
 \
 `"[line=5]Ồi!"@
 ` Lực mạnh quá!@

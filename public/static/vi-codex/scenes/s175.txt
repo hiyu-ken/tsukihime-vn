@@ -2,31 +2,31 @@ monocro off
 wavestop
 bg "bg/bg_56",notrans,0
 play "*3"
-` [line=4]Mmm...@
+` [line=4]Ừm...@
 br
-` Có lẽ đây là lần cuối cùng tôi có cơ hội được thảnh thơi ngồi trò chuyện cùng Arcueid trong một cửa hàng thức ăn nhanh giữa ban ngày thế này, nên tôi quyết định không hỏi về ma cà rồng hay chém giết nữa, mà hỏi về điều gì đó bình thường hơn trong cuộc sống của cô ấy.
+` Có lẽ đây là lần cuối cùng tôi có cơ hội nói chuyện với Arcueid trong một nhà hàng thức ăn nhanh giữa ban ngày như thế này, nên tôi sẽ hỏi không phải về những con ma cà rồng, mà về điều gì đó bình thường hơn.
 \
-`"Vậy thì tôi sẽ hỏi chuyện này nhé. Arcueid này, ngày thường khi không đi săn ma cà rồng, cậu thường làm những việc gì để giết thời gian vậy?"@
+`"Vậy thì tôi sẽ hỏi cô. Arcueid, cô có thể kể cho tôi nghe một chút về sở thích, quá khứ và ba kích cỡ của cô không?"@
 ld c,"tachi/ark_t03",crossfade,400
-`"Hử? Ngày thường á?"@
-` Cô ấy khẽ nghiêng đầu đầy ngơ ngác hệt như không hiểu câu hỏi của tôi.@
+`"Cô muốn biết à? Cô chắc là hỏi những chuyện lạ lùng rồi đấy, Shiki."@
+`"Không lạ lùng đâu. Tôi không biết gì về cô, nên tự nhiên muốn tìm hiểu về cô."
 \
 ld c,"tachi/ark_t01a",crossfade,400
-`"[line=4]À, chuyện đó thì không có đâu. Ngày thường khi không có mục tiêu săn lùng, tôi chỉ việc nằm ngủ sâu suốt hàng chục năm liền bên trong tòa lâu đài cổ của mình ở phương Tây thôi mà. Tôi đâu có khái niệm thời gian rảnh rỗi như con người các cậu đâu chứ."@
+`"[line=4]Ừm, tôi cũng vậy, có lẽ... trong trường hợp này, tôi không ngại trả lời cả."@
 ld c,"tachi/ark_t03",crossfade,400
-\
-`"Chỉ... ngủ suốt hàng chục năm thôi sao? Nghe cô đơn và tẻ nhạt quá đi mất."@
+`"Nhưng sở thích và quá khứ... Tôi chẳng có thứ nào trong số đó. Tôi cũng chưa bao giờ đo kích cỡ bản thân nên không thể nói cho cô biết ba kích cỡ của tôi. Tôi chẳng từng ghi lại tuổi tác hay chiều cao như các bạn đâu."@
+`"Cô muốn nói gì vậy? Cô chưa từng tự hỏi về chính mình à?"
 \
 ld c,"tachi/ark_t01b",crossfade,400
-`"Hì hì, nhưng bây giờ có Shiki ở bên cạnh đi chơi cùng thế này làm tôi vui lắm đấy! Đây là lần đầu tiên tôi được tận hưởng một ngày đi chơi vô bổ thú vị thế này mà."@
-` Cô ấy nở nụ cười rạng rỡ đầy hạnh phúc, làm tan biến hoàn toàn bầu không khí ảm đạm vừa rồi.
+`"Không, không phải thế, nhưng nó cũng không phải là điều tôi từng ưu tiên. Tất cả những gì tôi cần là khả năng săn lùng Tử Đồ... ma cà rồng."@
+`"Nhưng vẫn còn những chuyện xảy ra trước khi cậu đến thành phố này, phải không? Tôi muốn nghe về những chuyện đó."
 \
 ld c,"tachi/ark_t03",crossfade,400
-\
-cl c,lshutter,800
-bg #000000,crossfade,1500
+`"Trước khi tôi đến đây... ừm, có lẽ là khoảng tám năm trước rồi. Khi ấy, tôi không ở trong nước này, mà đang ở một quốc gia khác săn lùng một ma cà rồng."@
+` "Một ma cà rồng đã lập căn cứ tại một ngôi làng nhỏ ở vùng nông thôn Pháp biến thành thị trấn ma. Sau hai ngày, tôi tìm thấy 'kẻ thù' và đối phó với nữ Tử Đồ kiểm soát ngôi làng." @
+` "[line=4]Như đang nhớ lại điều gì đó kinh khủng, Arcueid nhắm mắt và ngừng nói."@
 cl c,crossfade,400
-!w3000
+` "Tám năm trước? Vậy từ lúc đó đến nay, cậu đã làm gì, Arcueid?"
 \
 `"Cái gì? Tôi chỉ trở về lâu đài và ngủ. Nhiệm vụ của tôi là săn lùng Tử Đồ. Tôi không có ý nghĩa tồn tại nào khác, nên cho đến khi xuất hiện một Tử Đồ khác, chẳng còn việc gì để làm ngoài việc tiếp tục ngủ, phải không?"@
 ld c,"tachi/ark_t01b",crossfade,400

@@ -112,7 +112,7 @@ br
 \
 playstop
 bg #000000,crossfade,400
-(Âm thanh lặp lại) se_02
+waveloop se_02
 ` Vâng. Tôi chỉ... ghét.@
 ` Sau đó, những gì cần làm đã được quyết định.@
 br

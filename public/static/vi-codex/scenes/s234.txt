@@ -34,7 +34,7 @@ bg "bg/bg_40d",bshutter,800
 bg #000000,crossfade,800
 playstop
 !w3000
-[hình nền/bg_06g], r, aki, 03b, 3
+phase "bg/bg_06g",r,aki,03b,3
 bg #ffffff,crossfade,800
 bg "bg/bg_40a",crossfade,800
 play "*2"
@@ -314,7 +314,7 @@ bg #9c0120,crossfade,400
 monocro #0000ff
 bg "bg/bg_06c",crossfade,400
 ` [line=4]Chuyện này không ổn chút nào.@
-` Ở một góc sâu thẳm trong tâm trí, có thứ gì đó đang gào thét cảnh báo tôi dữ dội.@
+br
 ` Ở một nơi nào đó trong tâm trí tôi, một điều gì đó cảnh báo tôi bằng tiếng gào thét.@
 br
 ` [line=4]Nhưng mà dẫu thế thì sao chứ…?@

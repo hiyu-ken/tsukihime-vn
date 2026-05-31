@@ -1,4 +1,4 @@
-(hình nền "bg/ima_02", l, aki, 12a, 12)
+phase "bg/ima_02",l,aki,12a,12
 bg #000000,crossfade,800
 play "*7"
 ` [line=3]Tôi đã mơ thấy điều gì đó.@
@@ -381,7 +381,7 @@ br
 cl c,lshutter,400
 `"Chuyện gì vậy?"@
 wave se_10
-Tôi khiến cô ấy run rẩy vì sợ hãi, sau đó kéo cổ áo cô ấy và đẩy cô ấy vào tường.
+quakex 2,200
 ` "Tôi phải làm điều này để bảo vệ mọi người."@
 ` Sự giận dữ này không hướng về cô ấy.@
 ` Nhưng, cô ấy không nên nói về Akiha một cách thoải mái như vậy.
@@ -699,14 +699,14 @@ wave se_01
 ` Tôi cần đến ít nhất một nơi nào đó để tôi có thể ẩn mình và tấn công cậu ta từ phía sau. [line=5]
 \
 wave se_15
-rung chuyển 2,50
+quakex 2,50
 `"[line=8]"@
 ` Sau đó,
 ` một thanh kiếm như dính vào cây tôi đang dựa vào.@
 `"[line=7]!"@
 ` Tôi nhảy sang bên.@
 wave se_15
-Lắc lư 2,5 giây
+quakex 2,50
 ` Hai lần.@
 ` Thanh kiếm bay tới xuyên qua cây một cách dễ dàng.
 \

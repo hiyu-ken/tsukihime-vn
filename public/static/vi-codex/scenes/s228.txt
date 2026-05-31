@@ -9,79 +9,79 @@ bg "bg/bg_06b",crossfade,1500
 br
 `"[line=5]"@
 ` Tôi nhìn ra ngoài cửa sổ.@
-` Bầu trời nhuộm sắc cam đỏ.@
-` …… Một ngày bình thường trôi qua.
+br
+bg #000000,crossfade,800
 bg "bg/ima_07",crossfade,800
-` Buổi sáng, bị Akiha truy hỏi.@
+wave se_01
 ` [line=3]Bữa sáng không ăn được vì buồn nôn.@
 ` Đến trường gặp Senpai.@
-` Bữa trưa cũng không nuốt nổi.@
+\
 ` [line=6]Và rồi, giờ đây tôi ngồi một mình trong lớp học vắng tanh.
 ` Tuy vậy, tôi không thực sự muốn quay về nhà.@
 ` Tôi nhìn chằm chằm ra cửa sổ một cách trống rỗng.@
-` …… Một ngày bình thường, nhưng tôi cảm thấy mọi thứ đều sai sai.@
+br
 ` Như thể có thứ gì đó nằm sâu bên trong bản thân đã thay đổi.
 ` Màu của hoàng hôn.
-`"[line=3]Yumizuka[line=3]"@
-` Tôi chẳng thể nào ngừng nghĩ về em ấy.@
-` Về cảnh tượng đêm qua.@
-` Về đôi bàn tay nhuộm đỏ máu tươi.@
-` Về nụ cười trên gương mặt em ấy khi thú nhận mình đã giết họ.@
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+wave se_01
+br
 ` [line=4]Về lời hứa sẽ trở thành ma cà rồng mạnh mẽ rồi quay lại.
 br
 `""@
-` …… Tôi phải làm gì đây?@
-` Nếu Yumizuka thực sự quay trở lại, tôi sẽ đối xử với em ấy ra sao?@
-` Em ấy đã giết người.@
-` Đó là sự thật không thể chối cãi.@
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
+wave se_01
 ` Nhưng
 ` Có thứ gì đó... màu đỏ.@
 ` Em ấy vẫn là Yumizuka Satsuki mà tôi quen biết.@
 ` Cô bạn cùng lớp vui vẻ, hay cười, luôn chào hỏi tôi bằng giọng nói trong trẻo.@
-` Cô bạn từng thú nhận thích tôi, rồi chạy đi trong bẽn lẽn.
+\
 bg #000000,crossfade,400
-`"Làm ơn[line=3]"@
-` Bất giác tôi thì thầm.@
+bg "bg/ima_07",crossfade,400
+wave se_01
 ` [line=4]Tôi muốn cứu em ấy.@
-` Nhưng tôi không biết làm cách nào.@
+br
 ` Tôi thậm chí không biết "cứu" nghĩa là gì trong trường hợp này.
 ` Kính của tôi đeo trên đầu, nhưng đầu tôi vẫn đau.@
 br
 ` Ánh hoàng hôn dần tắt.@
-` Căn phòng chìm trong bóng tối.@
-` Tôi nên về nhà.@
-` Tôi đã hứa với Akiha sẽ về sớm hôm nay.
+\
+bg #000000,crossfade,400
+bg "bg/ima_07",crossfade,400
 br
-`"[line=2]Phải rồi."@
-` Tôi đứng dậy, khoác chiếc cặp lên vai.@
+br
+wave se_01
 ` …… Mọi thứ đã kết thúc.@
 ` Nrvnqsr đã bị tiêu diệt, và Arcueid chắc đã rời khỏi thành phố.@
 ` Cuộc sống bình thường của tôi đã trở lại.
 ` Tại sao?@
 ` Thế nhưng,@
 ` [line=4]sâu thẳm trong lồng ngực, có thứ gì đó vẫn đang cháy âm ỉ.@
-` Ký ức về hai ngày ấy.@
-` Về ánh trăng, về dòng máu, về đôi mắt đỏ rực rỡ của cô ấy.
+!w750
+\
 bg #000000,crossfade,400
-` Và giọng nói của Yumizuka trong đêm tối.@
-` "Đau lắm, Shiki-kun."@
-` Tôi lắc đầu, xua đi những suy nghĩ u ám.
+bg "bg/ima_07",crossfade,400
+quakey 3,100
+wave se_10
 wave se_05
-`"[line=3]Mình phải về thôi."@
-` Tôi bước ra khỏi lớp học.@
-` Hành lang trường đã vắng tanh.@
-` Chỉ có tiếng bước chân đơn độc của tôi vang vọng.
+quakey 3,100
+bg "bg/bg_06b",crossfade,1500
+br
+br
 br
 ` Cảm giác này khiến tôi khó chịu.@
-` Khi bước ra khỏi cổng trường,@
-` không khí chiều tối ùa vào phổi.@
+br
+br
 ` Mát lạnh, và mang theo mùi hương nhẹ nhàng của cỏ cây.
 ` [line=4]Nhưng những suy nghĩ ấy vẫn quay cuồng trong đầu.@
 ` [line=4]…… Thành phố về đêm.@
-` Chính nơi đây, đêm qua, Yumizuka đã[line=3]@
+\
 ` [line=2]Tôi gạt bỏ suy nghĩ đó ngay lập tức.
 ld c,"tachi/cel_t07a",crossfade,1500
-`"Đừng nghĩ nữa."@
+play "*3"
 ` [line=4]Tôi tự nhủ, rồi nhanh bước về phía biệt thự.@
 ` …… Hôm nay tôi sẽ ăn tối nghiêm chỉnh, rồi đi ngủ sớm.@
 ` Ngày mai sẽ tốt hơn.@
@@ -91,15 +91,15 @@ ld c,"tachi/cel_t07a",crossfade,1500
 \
 ` [line=2]Tôi đi bộ trên con đường quen thuộc dẫn về biệt thự Tohno.@
 ` Bóng tối dần phủ xuống thành phố.@
-` Và trong bóng tối ấy, tôi cảm nhận được[line=3]@
+ld c,"tachi/cel_t10a",crossfade,400
 ` Một ánh mắt đang dõi theo mình từ đâu đó.@
-` Nhưng khi quay lại nhìn, chẳng có ai cả.
+cl c,crossfade,400
 br
 ` Người hướng dẫn bắt đầu sắp xếp bàn ghế.@
 `""@
-` …… Chắc là tôi quá nhạy cảm thôi.@
+\
 ` Tôi quay lại, tiếp tục bước đi.@
-` Biệt thự Tohno đã hiện ra trước mắt.
+ld c,"tachi/cel_t08",crossfade,400
 `"Ừm. Tohno-kun, cậu đang cư xử kỳ lạ đấy. Cậu đã ngơ ngác trong mưa trước đó, và hôm nay cậu lại ngơ ngác giữa đống bàn ghế lộn xộn này."@
 `"[line=2]Ừm... có lẽ tôi mệt mỏi và điều đó khiến tôi trở nên kỳ quặc."@
 ` Tôi hít một hơi sâu.@

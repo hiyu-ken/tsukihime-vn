@@ -2,26 +2,26 @@ monocro off
 playstop
 wavestop
 bg "bg/bg_25b",notrans,0
-` [line=4]Thời gian lẳng lặng trôi qua trong đêm tối tĩnh mịch.@
+` [line=4]Tôi sẽ đến căn hộ của Arcueid.@
 br
-` Ánh trăng rực rỡ, trong vắt như gương chiếu rọi khắp nơi, bừng sáng lên bóng dáng kiều diễm của Arcueid.
-\
+` Tôi không biết điều gì đang xảy ra, nhưng cô ấy đang thở đau đớn.@
+` Có thể thay vì cố gắng săn lùng những Người Tử Thần, cô ấy chỉ đơn giản là quay về phòng của mình.
 \
 bg #000000,lcartain,800
 bg "bg/bg_12b",lcartain,800
 bg "bg/bg_13b",lcartain,800
-`"Sao thế Shiki? Trông cậu cứ thẫn thờ ra thế kia hả?"@
-` Cô ấy tò mò quay sang hỏi tôi.@
-`"[line=4]Không có gì đâu mà. Chỉ là ngắm nhìn ánh trăng đêm nay làm tôi chợt nhớ lại trận chiến kinh hoàng đêm hôm kia thôi."@
-ld c,"tachi/ark_t08",crossfade,400
+` Tôi nhấn chuông cửa.@
+` Không có vẻ như ai đang ra mở cửa.@
+`"[line=4]Chúa ơi, cô ấy không trở về à?"@
+` Dù tôi nhấn nút bao nhiêu lần, cánh cửa vẫn không mở.
 \
-` Cô ấy tự tin cười rạng rỡ, để lộ chiếc răng nanh nhỏ nhắn xinh xắn đầy đáng yêu.@
-` Nhìn vẻ hoạt bát năng động đó của cô ấy dưới ánh trăng mờ ảo, lòng tôi bỗng trào dâng một cảm giác yên bình đến lạ kỳ.
+`"...@
+` Cô ấy không trở về hay là chỉ không ra mở cửa?@
 br
-cl c,lshutter,800
+` [line=4]Sau một lúc do dự, tôi quyết định bước vào bên trong.@
 br
-playstop
-!w3000
+` Dễ dàng lắm, chỉ cần cắt những đường kẻ trên cửa thôi.@
+` Nhưng, tôi nên kiểm tra công tắc trước đã.
 \
 `"…… Hừ?"@
 ` Nó không bị khóa.@
@@ -33,7 +33,7 @@ bg "bg/bg_15b",lcartain,800
 ` …… Không có hồi đáp.@
 ` Có lẽ cô ấy chẳng khóa nó từ đầu? Không ai xung quanh cả.@
 `"Cô ta nghĩ mình đang đi đâu trong tình trạng này……!?"@
-Tôi đập mạnh nắm tay vào tường.
+quakex 1,300
 ` "... Grr."@
 `"... Tôi đang làm gì vậy?@
 ` Nếu tôi có thời gian để giải tỏa sự giận dữ này, tôi phải ra ngoài và tìm cô ấy.@

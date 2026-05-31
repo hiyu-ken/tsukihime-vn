@@ -102,7 +102,7 @@ br
 `"Cậu Shiki…… Xin cậu cất lực giữ gìn, vết thương dẫu dẫu đã hở ra rỉ máu loang lổ rồi."@`
 ` Cô ấy đã chuẩn bị sẵn sàng, nên tôi không thể chỉ ngồi đây và lo lắng.
 \
-` Giọng của Hisui nhỏ dần rồi tan biến vào sảnh biệt thự tịch mịch tăm tối.`
+eroskip 164
 `"…… Tôi hiểu rồi. Ồ, có được không?"@
 ` Tôi kéo xuống khóa quần và hạ thấp quần lót xuống.@
 ` Khi thấy dương vật của tôi dựng đứng hoàn toàn, Ciel-hiền sinh đột nhiên đóng băng.
@@ -117,7 +117,7 @@ br
 ` Cô ấy đối mặt với dương vật của tôi đến mức tôi có thể cảm nhận hơi thở của cô ấy trên người mình.
 \
 bg #000000,lshutter,400
-` Dẫu cho bước đường phía trước dẫu dẫu đã bị bao phủ bởi tịch mịch tăm tối, tôi vẫn chịu chết tịnh không cách nào ngăn mình tiếp tục cất bước dấn sâu.`
+bg "bg/bg_18c",lshutter,400
 ` Khi ngón tay cô ấy chạm vào tôi.@
 ` Cô ấy dùng một bàn tay, nhẹ nhàng đưa những ngón tay do dự dọc theo cơ thể tôi.@
 `"Tohno-kun, cảm giác như thế nào? Hãy nói với tôi khi nó thật dễ chịu."@

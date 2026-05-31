@@ -1,8 +1,8 @@
-Dòng hình nền `bg/bg_47` với màu chủ đề là **màu xanh lá số 06A (6)**
+phase "bg/bg_47",l,aki,06a,6
 bg #ffffff,notrans,0
 !w500
 bg "bg/bg_40a",crossfade,800
-`"Chơi lặp sóng se_02"
+waveloop se_02
 `"…!"@`
 ` Chịu chết tịnh không thể khống chế nổi bản thân thêm nữa, tôi điên cuồng bật người bật dậy khỏi giường.@`
 ` Lồng ngực tôi phập phồng thở dốc vô cùng dữ dội.@`

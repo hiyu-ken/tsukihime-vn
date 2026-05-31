@@ -191,132 +191,132 @@ ld c,"tachi/ark_t02",crossfade,400
 cl c,crossfade,400
 br
 `"[line=6]……"
-\
-ld c,"tachi/ark_t04",crossfade,400
+`\
+`ld c,"tachi/ark_t04",crossfade,400
 \
 ld c,"tachi/ark_t04",crossfade,400
 ` Theo lý thuyết, nếu thực sự muốn, cậu vẫn có thể nhìn thấy 'đường tử vong' của những vật vô tri vô giác.@
 ` Nhưng để làm được điều đó, bộ não của cậu buộc phải mở rộng và tái cấu trúc các mạch nhận thức từ phạm vi sinh vật sống sang cả phạm vi phi sinh vật để có thể tiếp nhận thông tin.@
 ` Đó là một quá trình nhận thức vốn dĩ không thể xảy ra ở người thường.@
 ` Hậu quả là nó sẽ làm bộ não của cậu bị quá tải hoàn toàn, và cậu sẽ biến thành một kẻ tàn phế vô dụng đấy."
-\
-cl c,crossfade,400
+`\
+`cl c,crossfade,400
 \
 cl c,crossfade,400
 `"[line=3]Dĩ nhiên là không rồi.@ Này Shiki, chuyện gì sẽ xảy ra với một động cơ bị hoạt động quá công suất dẫn đến nổ tung?"@
 ld c,"tachi/ark_t06",crossfade,400
-br
+`br
 ` [line=4]Ồ, ra là vậy.@
 br
-\
+`\
 `""@
 \
 `"[line=6]Cậu đã hiểu chưa?@ Nếu chỉ nhìn thấy những đường tự nhiên hiện ra thì không sao.@ Nhưng tuyệt đối đừng cố công thấu thị những thứ nằm ngoài tầm nhận thức của cậu.@ Các mạch máu trong não của cậu sẽ vỡ tung ra, và mọi chuyện sẽ chấm dứt ngay lập tức đấy."@
 ld c,"tachi/ark_t02",crossfade,400
 ` …… Tôi hoàn toàn câm nín.@
 br
+`\
+`ld c,"tachi/ark_t01b",crossfade,400
 \
 ld c,"tachi/ark_t01b",crossfade,400
-\
-ld c,"tachi/ark_t01b",crossfade,400
-cl c,crossfade,400
-\
+`cl c,crossfade,400
+`\
 cl c,crossfade,400
 \
 ` [line=5]Có vẻ như đó chính là lý do tôi ở đây.@
 br
-br
+`br
 ` Cô ấy (Aoko-sensei) đã nói như vậy và trao cho tôi chiếc kính này.@
 br
 ` Người thầy đó, theo rất nhiều nghĩa khác nhau, thực sự đã cứu rỗi cuộc đời tôi
-\
-playstop
+`\
+`playstop
 \
 playstop
 bg #9c0120,crossfade,400
 bg "bg/bg_29b",crossfade,400
 wave se_01
 ` [line=3]Không hẳn là đau đớn, mà là một cảm giác kỳ lạ, ngứa ngáy khó tả.@
-ld c,"tachi/ark_t03",crossfade,400
+`ld c,"tachi/ark_t03",crossfade,400
 `"Shiki?"@
 ld c,"tachi/ark_t03",crossfade,400
 ` Chỉ diễn ra trong một khoảnh khắc cực ngắn, nhưng tôi cảm nhận rõ ràng có thứ gì đó đang trào ra trong lồng ngực mình.@
-cl c,notrans,0
-\
+`cl c,notrans,0
+`\
 cl c,notrans,0
 \
 wave se_01
-br
+`br
 ` Cảm giác ẩm ướt.@
 br
-waveloop se_02
+`waveloop se_02
 br
-bg "bg/bg_29b",crossfade,400
+waveloop se_02
 bg #9c0120,crossfade,400
 bg "bg/bg_29b",crossfade,400
-\
+`\
 `"Cái gì thế này…… ướt sũng thế này?"@
 \
 ` Trên lòng bàn tay đang xòe ra của tôi,
+`bg "bg/ima_13b",notrans,0
+`bg "bg/bg_29b",notrans,0
 bg "bg/ima_13b",notrans,0
 bg "bg/bg_29b",notrans,0
-bg "bg/ima_13b",notrans,0
-bg "bg/bg_29b",notrans,0
-bg "bg/bg_29b",notrans,0
+`bg "bg/bg_29b",notrans,0
 bg "bg/ima_13b",notrans,0
 bg "bg/bg_29b",notrans,0
 ` [line=6]Lại là một cảm giác kỳ lạ khác.@
 ` Tôi phải mất một khoảng thời gian dài đến đáng sợ mới nhận ra rằng vệt máu đó đang trào ra từ vết sẹo cũ trên ngực mình.
+`\
+`ld c,"tachi/ark_t13",crossfade,400
 \
 ld c,"tachi/ark_t13",crossfade,400
-\
-ld c,"tachi/ark_t13",crossfade,400
-br
+`br
 ` [line=4]Màu đỏ của nó tươi rói đến lạ lùng.@
 br
-br
+`br
 `"Mà thôi, không đau đớn gì thì chắc chắn là không sao rồi.@ Vết máu có vẻ cũng đã ngừng chảy, nên cậu không cần phải"@
 br
-\
+`\
 ld c,"tachi/ark_t06",crossfade,400
 \
 ` she stares at the red blood coating my hand.@
 `"Arcueid?"@
 `"……"@
-cl c,crossfade,400
+`cl c,crossfade,400
 ` [line=8]Arcueid không hề đáp lời.@
 cl c,crossfade,400
 ` Hộc, hộc.@ Gương mặt cô ấy nhăn lại như thể đang phải gồng mình chịu đựng một nỗi đau đớn tột cùng.
-\
+`\
 `"Này, Arcueid……!@ Cậu sao thế?@ Vết thương của cậu lại đau sao……!?"@
 \
 ` Thế rồi,
 ` she jumps back as if she was trying to escape.
-\
-wavestop
+`\
+`wavestop
 \
 wavestop
 ld c,"tachi/ark_t20",crossfade,400
 cl c,crossfade,400
 `"[line=4]…… Ar…… cueid?"@
-ld c,"tachi/ark_t07",crossfade,800
+`ld c,"tachi/ark_t07",crossfade,800
 `"Shiki?"@
 ld c,"tachi/ark_t07",crossfade,800
 ` [line=6]Ngắn gọn, nhát gừng.@ Giọng nói của cô ấy thậm chí còn chứa đựng sự căm ghét lạnh lùng.@
 br
-ld c,"tachi/ark_t10",crossfade,800
+`ld c,"tachi/ark_t10",crossfade,800
 br
 ld c,"tachi/ark_t10",crossfade,800
 ` [line=4]She averts her gaze awkwardly.
-\
+`\
 `"Có chuyện gì vậy? Cậu cư xử lạ quá.@ Vết thương vẫn chưa hồi phục hẳn sao?"@
 \
 `"À, ừm.@ Vậy đêm nay chúng ta nghỉ sớm ở đây thôi."@
 `"…… Ừm.@ Tối mai tôi vẫn sẽ đợi cậu ở chỗ này."@
-cl c,crossfade,1500
+`cl c,crossfade,1500
 ` Tuyệt nhiên không dám nhìn thẳng vào mắt tôi, Arcueid vội vã quay người rời đi rất nhanh.
 cl c,crossfade,1500
-bg #000000,crossfade,800
+`bg #000000,crossfade,800
 \
 bg #000000,crossfade,800
 !w3000

@@ -1,6 +1,6 @@
 playstop
 bg "bg/bg_11c",notrans,0
-(Lặp lại âm thanh)
+waveloop se_02
 `"[line=4]Hee!"@
 ` SHIKI lao tới với một tiếng kêu.@
 ` Hình dạng đen của cậu nổ ra như một pháo hoa.
@@ -302,7 +302,7 @@ br
 bg #000000,crossfade,800
 playstop
 !w3000
-[bg/ima_05], l, his, 14b, epi
+phase "bg/ima_05",l,his,14b,epi
 bg #ffffff,crossfade,1500
 bg "bg/ima_03",crossfade,800
 play "*2"
@@ -664,7 +664,7 @@ bg "event/his_f02",crossfade,400
 \
 playstop
 bg #000000,crossfade,400
-`"Tôi lấy con dao ra."
+waveloop se_02
 ` "Ừ."@
 ` Kính của tôi đã tháo rồi.@
 ` [line=3]Chỉ còn lại những mảnh vỡ.

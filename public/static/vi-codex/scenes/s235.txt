@@ -243,7 +243,7 @@ ld c,"tachi/aki_t02",crossfade,400
 `"Anh định tiếp tục con đường của mình, phải không? Anh trai à?"@
 `"Vậy ra anh quyết định từ nay sẽ tự đi theo con đường riêng của mình, ý anh là vậy đúng không thưa anh?"@
 `"……………"@
-`"Em hiểu rồi.@ Được thôi, tùy anh.@ Nếu đó đã là mong muốn của anh, thì em cũng sẽ làm như vậy."@
+\
 cl c,lshutter,400
 ` Akiha đứng bật dậy rồi dứt khoát bước thẳng ra sảnh ngoài.
 ld c,"tachi/his_t01",crossfade,400

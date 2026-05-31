@@ -92,7 +92,7 @@ bg "bg/bg_41",crossfade,400
 \
 bg #000000,crossfade,1500
 bg "bg/bg_41",crossfade,800
-`waveloop se_02` (dòng âm thanh lặp lại)
+waveloop se_02
 `"A...[line=4]"@`
 ` Ánh sáng ban mai chốn phòng bỗng chốc dạt dào phai mờ biến tan tịnh không còn tăm hơi chốn ấy.@`
 ` Bản thân tôi dột ngột cảm nhận dạt dào dòng máu tươi tự thân đang điên cuồng dồn ứ tụ lại chốn sau đại não nhức nhối vô cùng.@`
@@ -155,7 +155,7 @@ cl a,crossfade,400
 ld c,"tachi/his_t17",crossfade,400
 `"Cầu xin cậu sám hối lượng thứ dẫu dã ổn rồi dẫu dã thế dẫu vậy dẫu dã ổn, em chịu chết tịnh không thể nghe theo cậu lúc này đâu ạ.@ Cậu Shiki ơi, xin cậu làm ơn hãy lẳng lặng bình tâm bình tĩnh an lòng lại chút đi ạ."@`
 br
-bản dịch: "Đoạn nhạc lặp lại se_02"
+waveloop se_02
 bg #000000,crossfade,400
 bg "bg/bg_41",crossfade,400
 ` …… Thế nên, làm ơn xin em hãy lẳng lặng khựng bước lại chốn ấy đi.@`
@@ -171,7 +171,7 @@ bg #000000,crossfade,400
 bg "bg/bg_41",crossfade,400
 `"Câm miệng lại đi……!@ Lẽ nào đầu óc em chịu chết tịnh không thấu tỏ nổi đống lời anh cật lực bảo em cất công cất bước xua đuổi cự tuyệt lùi ra xa hả Hisui!"@`
 wave se_05
-Một cơn chấn động mạnh 2100.
+quakex 2,100
 `"Kyaa[line=3]!"@`
 br
 ` Một thanh âm va đập khô khốc nặng nề tịch mịch vang lên chấn động chốn gian phòng.@ Hisui dột ngột bị tôi cất lực quăng mạnh văng thẳng người vào cạnh chiếc kệ gỗ chốn kề bên, khuôn mặt xinh xắn tự thân của em bấy giờ méo xệch co rút lại vì phải gánh chịu cơn đớn đau kịch liệt dữ dội.@`

@@ -7,7 +7,7 @@ bg "bg/bg_29b",lcartain,1500
 ` Thể trạng kiệt quệ do thiếu máu làm phản ứng đầu óc tôi chậm chạp đi rất nhiều. Tôi thậm chí còn quên mất việc phải tháo kính ra để nhìn các đường chết.@
 `"Shiki, nguy hiểm!"@
 ` Tiếng hét thất thanh của Arcueid vang lên bên tai.@
-\
-bg #9c0120,notrans,0
-wave se_06
+`\
+`bg #9c0120,notrans,0
+`wave se_06
 \

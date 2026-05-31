@@ -31,7 +31,7 @@ br
 `"... Bình tĩnh lại, bình tĩnh lại."@
 ` Tôi lặp đi lặp lại như một lời chú.@
 ` Trong lúc tôi làm điều đó, Ciel-senpai bước ra từ phòng tắm.
-` Dưới bầu trời đêm tịch mịch, tôi cất bước lang thang vô định dọc con phố tịch mịch tăm tối.@`
+\
 bg "event/cel_h03b",lshutter,800
 `"[line=6]" @
 ` Cánh môi tôi sập xuống.@
@@ -100,7 +100,7 @@ br
 ` "... Tôi hiểu rồi. Senpai cũng thấy ngượng ngùng phải không?"@
 ` Cô ấy đã chuẩn bị sẵn sàng, nên tôi không thể chỉ ngồi đây và lo lắng.
 \
-(Nhảy sang trang 164)
+eroskip 164
 `"…… Tôi hiểu rồi. À, có được không?"@
 ` Tôi kéo xuống khóa quần và hạ thấp quần lót xuống.@
 ` Khi tôi nhìn thấy dương vật của mình đang dựng đứng, Ciel-lãnh đạo đột nhiên đóng băng.

@@ -316,7 +316,7 @@ br
 \
 bg "bg/bg_10c",lshutter,400
 `"[line=9](Lắc đầu mạnh)@
-2,50 giây rung chuyển.
+quakex 2,50
 br
 ` [line=9]Chuyện gì vậy?@
 ` Tay tôi ngừng chuyển động.@
@@ -399,7 +399,7 @@ br
 bg #000000,crossfade,800
 playstop
 !w3000
-(sự kiện/koha_f03), l, koha, 12a, epi
+phase "event/koha_f03",l,koha,12a,epi
 !w2000
 bg #ffffff,crossfade,800
 `"cậu Shiki, xin hãy tỉnh lại. cậu Shiki."@
@@ -559,7 +559,7 @@ br
 ld c,"tachi/his_t01",crossfade,400
 `"cậu Shiki."@
 `"Uwaaa!"@
-Rung chuyển 1,50
+quakey 1,50
 br
 ` …… Tim tôi như bỏ lỡ một nhịp.@
 ` Tôi ước Hisui sẽ ngừng lén lút đến gần và đột nhiên nói như vậy.

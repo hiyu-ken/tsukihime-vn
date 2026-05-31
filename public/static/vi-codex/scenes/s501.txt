@@ -1,5 +1,5 @@
 playstop
-[dòng âm thanh]
+waveloop se_02
 bg "event/aki_e05a",notrans,0
 ` *hộc* *hộc* *hộc*`
 br
@@ -148,11 +148,11 @@ bg "bg/ima_18",lshutter,400
 br
 br
 br
-[màu đỏ] Hoặc mọi thứ chỉ là một lời nói dối hài hước từ đầu?
+textcolor #ff0000
 ` @Hoặc là mọi thứ chỉ là một trò đùa lớn?@
 ` Hãy để mọi thứ biến mất vào ngày mai trong trường hợp đó.
 \
-(Màu văn bản trắng)
+textcolor #ffffff
 br
 br
 br

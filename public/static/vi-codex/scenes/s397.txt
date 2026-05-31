@@ -114,7 +114,7 @@ br
 \
 bg #000000,crossfade,800
 !w3000
-Chơi âm thanh se_11
+waveloop se_11
 bg "bg/bg_26a",notrans,0
 ` *Hít thở nặng nhọc* [line=3] *Hít thở sâu* [line=4] *Hít thở dìu dịu*
 \
@@ -138,10 +138,10 @@ br
 br
 br
 br
-(Màu đỏ)
+textcolor #ff0000
 `      Tôi bắt đầu cảm thấy khó chịu.
 \
-(Màu trắng)
+textcolor #ffffff
 ` Tôi thở dốc.
 \
 ` Tôi nên đổi vị trí.@
@@ -158,17 +158,17 @@ br
 br
 br
 br
-(Màu đỏ)
+textcolor #ff0000
 `             "Đừng nhìn!"
 \
-(Màu trắng)
+textcolor #ffffff
 `"[line=4]Đó rồi."@
 ` Tôi thấy một người đang đi bộ một mình.@
 ` Một người phụ nữ.@
 ` Lần này, không thể có sai lầm nào...
 ` Thật tuyệt nếu đó là Akiha.
 \
-(màu đỏ)
+textcolor #ff0000
 br
 br
 br
@@ -178,7 +178,7 @@ br
 br
 `        Đừng nhìn tôi.
 \
-(màu trắng)
+textcolor #ffffff
 ` Không, điều đó thực sự không quan trọng.@
 ` Một lần nữa.@
 ` [line=4]Một lần nữa, tôi muốn nếm trải cảm giác tuyệt vời đó.
@@ -203,7 +203,7 @@ br
 ` Người giả mạo.@
 ` Kẻ giả mạo này khiến tôi bực mình.
 \
-(Màu đỏ)
+textcolor #ff0000
 br
 br
 br
@@ -213,7 +213,7 @@ br
 br
 `         Đừng nhìn tôi!
 \
-(Màu trắng)
+textcolor #ffffff
 ` [line=4] *hít sâu* [line=4] *hít sâu* [line=4] *hít sâu*
 br
 ` Tôi đã tiêu hao năng lượng dự trữ.@

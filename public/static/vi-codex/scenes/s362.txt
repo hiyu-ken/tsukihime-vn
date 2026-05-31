@@ -179,7 +179,7 @@ br
 ` …… bạn? Tôi thậm chí còn không có thời gian để kết thúc câu.
 \
 wave se_10
-3,50 giây sau, một tiếng động lớn xảy ra.
+quakex 3,50
 bg #000000,tshutter,400
 `"[line=4]Ôi trời!"@
 ` Có một tiếng va chạm.@
@@ -318,7 +318,7 @@ wave se_09
 ` [line=4]Tiếng ồn chỉ là do máy rung của tôi.
 ld c,"tachi/man_t01",notrans,0
 wave se_10
-2,100 lần rung động.
+quakey 2,100
 bg #000000,notrans,0
 !w1000
 bg "bg/bg_10f",lshutter,400
@@ -660,7 +660,7 @@ bg "bg/ima_14",lshutter,400
 ` Nhưng tôi không có thời gian để nghĩ về điều đó.@
 ` Chân cô ấy vang lên rõ ràng trên mặt đất.
 \
-Lắc lư 1,50
+quakey 1,50
 wave se_10
 `"Ha, guh………!?"@
 ` Không khí bị đẩy ra khỏi tôi.@
@@ -672,7 +672,7 @@ br
 ` Không hề chần chừ, đòn tấn công thứ hai của cô ấy bắt đầu.
 \
 wave se_12
-Động tác run rẩy 1,100 lần.
+quakey 1,100
 ` Con dao của cô ấy vung lên từ dưới.@
 ` Bằng một cách nào đó, tôi chặn nó bằng con dao của mình, nhưng tôi không thể ngăn được động lực của nó.@
 br
@@ -719,7 +719,7 @@ br
 ` Cô ấy tung ra một cú đá vòng tròn như một mũi tên vào bụng tôi.
 \
 bg "bg/bg_10f",tshutter,400
-Tôi run rẩy, mất thăng bằng.
+quakey 4,50
 `"[line=4]Ha... ha...!!!!!"@
 ` Tôi ngã ngược xuống sàn hành lang.@
 ` Tôi không có thời gian để cảm nhận nỗi đau.@

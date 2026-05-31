@@ -1,4 +1,4 @@
-`Lời dẫn Shiki: "Tôi đang nghĩ gì vậy?"
+waveloop se_02
 bg #9c0120,notrans,0
 bg "bg/bg_40a",notrans,0
 play "*1"

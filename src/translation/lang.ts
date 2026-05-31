@@ -130,8 +130,8 @@ async function updateLanguage(id: TranslationId, forceUpdate = false) {
 
 function setDefaultlanguage() {
   if (settings.language == "default") {
-    // pick the language that best matches the browser's locales, default to english
-    settings.language = pickDefaultTranslation(languages, [...navigator.languages, "en"])
+    // Prefer Vietnamese for this local web build, then fall back to browser locale/English.
+    settings.language = pickDefaultTranslation(languages, ["vi-VN", ...navigator.languages, "en"])
   }
 }
 

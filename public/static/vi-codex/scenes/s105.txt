@@ -34,7 +34,7 @@ play "*8"
 bg #000000,crossfade,1500
 ` Ý thức của tôi bắt đầu mờ dần.@
 ` Và sau đó,
-một trận động đất mạnh 2,100
+quakey 2,100
 bg "bg/bg_29b",notrans,0
 ` Đột nhiên! Arcueid đánh tôi vào đầu và buộc tôi tỉnh lại.
 \

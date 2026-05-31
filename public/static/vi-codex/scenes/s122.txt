@@ -304,7 +304,7 @@ cl c,crossfade,400
 ` Sau khi nói vậy,
 ` Kohaku-san bắt đầu cởi quần áo của tôi.
 \
-Tôi bỏ qua những giọt nước mắt.
+eroskip 64
 ` Cô ấy ngồi lên tôi khi bắt đầu công việc của mình.@
 ` Trong tư thế đó, cô ấy từ từ bấm nút áo sơ mi của tôi, một cái một cái.@
 ` Khi nhiệm vụ hoàn thành, ngón tay cô ấy di chuyển xuống quần tôi.@

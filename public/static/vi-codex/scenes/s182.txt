@@ -2,19 +2,19 @@ monocro off
 playstop
 waveloop se_02
 bg "bg/bg_31b",crossfade,400
-[line=4]play "*1"
+`[line=4]play "*1"
 ` Nhưng rốt cuộc, lý trí tôi vẫn không thể chấp nhận sự trùng hợp kỳ lạ này được.@
 \
 ` Tôi quyết định phải nói thẳng thắn để làm rõ mọi chuyện.@
 `"Senpai... Em biết chuyện này rất khó tin, nhưng đêm hôm kia, chính em đã nhìn thấy một Hành Pháp Giả của Giáo Hội dùng Hắc Phím cứu mạng em."@
 br
-[line=4]\
-ld c,"tachi/cie_t01a",lshutter,800
+`[line=4]\
+`ld c,"tachi/cie_t01a",lshutter,800
 ` Nụ cười dịu dàng trên môi cô ấy bỗng chốc đông cứng lại.@
 \
 ` Cô ấy lặng im nhìn tôi hồi lâu, ánh mắt không còn chút ấm áp thường ngày mà đanh lại lạnh lẽo.
-\
-ld c,"tachi/cie_t05a",crossfade,400
+`\
+`ld c,"tachi/cie_t05a",crossfade,400
 \
 ` [line=4]Giọng nói của cô ấy cất lên nghe trầm ấm nhưng cực kỳ nghiêm nghị, hoàn toàn khác hẳn giọng điệu nhí nhảnh của Senpai thường ngày.@
 `"Senpai... Vậy ra người cứu em đêm đó thực sự là chị sao?"@
@@ -22,12 +22,12 @@ ld c,"tachi/cie_t05a",crossfade,400
 \
 eroskip 20
 bg "event/ark_h03",lshutter,400
-[line=4]ld c,"tachi/cie_t06a",crossfade,400
+`[line=4]ld c,"tachi/cie_t06a",crossfade,400
 `"Và tôi nghiêm túc cảnh báo em chuyện này, Tohno-kun. Mau tránh xa ả ma cà rồng đó ra."@
 `"Ý chị là Arcueid sao?"@
 \
 ` Cô ấy nhìn thẳng vào mắt tôi với ánh mắt vô cùng nghiêm nghị và lạnh lẽo.
-\
+`\
 `"[line=4]Giáo Hội luôn xem tất cả các sinh vật phi nhân loại là dị giáo cần phải thanh trừng. Nếu em cứ tiếp tục đồng hành cùng ả ta, em cũng sẽ bị coi là đồng phạm và bị thanh trừng đấy."@
 `"Nhưng Arcueid không hề hút máu người! Cô ấy tuyệt đối không phải là quái vật tàn bạo như chị nghĩ đâu!"@
 ` Tôi lớn tiếng bênh vực cô ấy.@
@@ -35,10 +35,10 @@ bg "event/ark_h03",lshutter,400
 bg #000000,crossfade,400
 bg "event/ark_h04",crossfade,400
 ` [line=4]Dứt lời, bóng dáng của cô ấy bỗng chốc biến mất không tăm tích tựa như một làn khói, để lại tôi một mình đứng trơ trọi giữa sân thượng lộng gió với muôn vàn cảm xúc hỗn độn trong lòng.
-\
-bg #000000,crossfade,1500
-playstop
-!w3000
+`\
+`bg #000000,crossfade,1500
+`playstop
+`!w3000
 \
 `"[line=4][line=4]Đừng, nó đau Shiki………"@
 ` Cô ấy đẩy vào cơ thể tôi trong nỗ lực ngăn chặn tôi.@

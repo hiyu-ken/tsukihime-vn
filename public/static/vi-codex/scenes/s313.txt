@@ -66,10 +66,10 @@ br
 br
 br
 br
-(màu đỏ)
+textcolor #ff0000
 `      Giết cô ta đi.
 \
-(màu trắng)
+textcolor #ffffff
 wave se_01
 ` Tất cả đều giống nhau.@
 ` Từ một nơi nào đó vượt ra ngoài nhận thức của tôi, máu bắt đầu sôi sục trong người.@
@@ -198,7 +198,7 @@ cl c,lshutter,800
 wave se_01
 bg #9c0120,notrans,0
 bg "bg/bg_29b",notrans,0
-(màu đỏ)
+textcolor #ff0000
 br
 br
 br
@@ -208,7 +208,7 @@ br
 br
 `         Nếu như vậy,
 \
-(màu trắng)
+textcolor #ffffff
 ` Máu này.@
 ` Chất lạ đang lơ lửng trong cơ thể tôi.@
 ` Tôi không nhìn thấy nó.@
@@ -217,7 +217,7 @@ br
 wave se_01
 bg #9c0120,notrans,0
 bg "bg/bg_29b",notrans,0
-...được thể hiện lần đầu tiên. [màu trắng]
+textcolor #ff0000
 br
 br
 br
@@ -227,14 +227,14 @@ br
 br
 `          Trước tiên,
 \
-...tôi cần phải hiểu rõ hơn.
+textcolor #ffffff
 ` Do tôi bò trên mặt đất, kính của tôi đã rơi xuống.@
 ` Những đường nét. Tôi có thể nhìn thấy điểm của chất ngoại lai đó...
 \
 wave se_01
 bg #9c0120,notrans,0
 bg "bg/bg_29c",notrans,0
-(màu đỏ)
+textcolor #ff0000
 br
 br
 br
@@ -244,7 +244,7 @@ br
 br
 `       Sau đó là giết,
 \
-(màu trắng)
+textcolor #ffffff
 playstop
 ` Tôi đâm điểm bằng con dao của mình.@
 ` Tôi đẩy con dao vào cơ thể tôi. Nhưng nó không cắt bất kỳ phần thịt nào của tôi.@
@@ -274,12 +274,12 @@ wave se_01
 bg #9c0120,notrans,0
 bg "bg/bg_29c",notrans,0
 play "*4"
-Màu văn bản #FF0000
+textcolor #ff0000
 br
 br
 `         Hủy diệt.
 \
-Màu văn bản trắng (`#ffffff`)
+textcolor #ffffff
 br
 br
 ` Tiếng kêu bối rối của Yumizuka.@
@@ -293,7 +293,7 @@ br
 wave se_01
 bg #9c0120,notrans,0
 bg "bg/bg_29c",notrans,0
-[màu đỏ]
+textcolor #ff0000
 br
 br
 br
@@ -303,7 +303,7 @@ br
 br
 `         Hãy giết...
 \
-[màu trắng]
+textcolor #ffffff
 ` *thở dốc... thở dốc...*
 ` Cảm giác này.@
 ` Nó giống như suy nghĩ của tôi thuộc về một người hoàn toàn khác biệt.@
@@ -326,9 +326,9 @@ br
 wave se_01
 bg #9c0120,notrans,0
 bg "bg/bg_29c",notrans,0
-Màu đỏ
+textcolor #ff0000
 `         Hãy giết.@
-Màu trắng
+textcolor #ffffff
 br
 ` Tiếng đập mạnh của trái tim tôi,
 ` giống như một mệnh lệnh lặp đi lặp lại, ra hiệu cho tôi phải... giết người... giết.
@@ -344,7 +344,7 @@ ld c,"tachi/stk_t09",crossfade,400
 ` Mắt nhìn chằm chằm vào tôi đầy ngạc nhiên.
 \
 wave se_01
-(màu đỏ)
+textcolor #ff0000
 br
 br
 br
@@ -354,21 +354,21 @@ br
 br
 ` "Hãy biến mất, Yumizuka... Tôi không hiểu tại sao, nhưng... nếu cậu ở lại đây, tôi sẽ giết cậu."
 \
-(màu trắng)
+textcolor #ffffff
 `"[line=2]... Làm ơn biến mất, Yumizuka... Tôi không hiểu tại sao, nhưng..."@
 br
 wave se_01
-(màu đỏ)
+textcolor #ff0000
 `         "Hãy chết đi."@
-(màu trắng)
+textcolor #ffffff
 br
 `"[line=4]Tôi muốn giết ai đó."
 \
 br
 wave se_01
-Màu chữ đỏ
+textcolor #ff0000
 `         Giết.@
-Màu chữ trắng
+textcolor #ffffff
 br
 `"[line=2][line=4]Tôi không muốn giết ai cả."
 \
@@ -400,18 +400,18 @@ ld c,"tachi/stk_t02",crossfade,400
 bg #ffffff,crossfade,400
 `"Kẻ nói dối. Cậu đã nói... cậu sẽ giúp tôi."@
 wave se_01
-màu đỏ đậm
+textcolor #ff0000
 br
 `     Tôi không biết gì về chuyện đó.@
-Màu chữ trắng.
+textcolor #ffffff
 br
 `"... Được rồi. Nếu cậu không hợp tác, tôi sẽ giết cậu trước. Sau đó sẽ có đủ thời gian để tôi cho cậu máu của mình..."!@
 wave se_01
-Màu chữ đỏ.
+textcolor #ff0000
 br
 `     Ồ, nói rất tốt, đối với một kẻ thất bại đáng thương.
 \
-Màu chữ trắng.
+textcolor #ffffff
 ` "... Tôi chỉ nghe thấy tiếng nói.@
 ` Không có suy nghĩ nào cả."@
 ` Cơ thể tôi giết chết cơ thể của Yumizuka như một sự trả đũa, người đang cố gắng giết chết tôi.
@@ -483,16 +483,16 @@ playstop
 br
 ` [line=5]Điều gì đã xảy ra?@
 br
-màu chữ đỏ
+textcolor #ff0000
 `        Đó là sự thật.@
-màu chữ trắng
+textcolor #ffffff
 br
 ` [line=5]Tôi không thể hiểu được.@
 br
-màu chữ đỏ
+textcolor #ff0000
 `       Đừng lo lắng.
 \
-Màu chữ trắng.
+textcolor #ffffff
 `"[line=6]Ha."@
 ` ... Tôi thở gấp hơn.@
 ` Con dao vẫn còn trong tay, nội tâm tôi dâng lên cổ họng.@

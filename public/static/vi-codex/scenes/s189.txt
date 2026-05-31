@@ -2,372 +2,372 @@ monocro off
 playstop
 waveloop se_02
 bg "event/ark_e05b",lshutter,800
-` Đôi tay Arcueid choàng ra, ôm siết lấy thân hình tôi.@
-` Cô ấy giữ chặt lấy tôi không buông.@
+` Tay Arcueid duỗi ra, ôm lấy cơ thể tôi.@
+` Như vậy, cô ấy giữ chặt lấy tôi.@
 `"[line=3]Arcueid" [lối viết in đậm]@
-` Hơi thở tôi như nghẹn lại nơi cổ họng khi cất tiếng gọi tên cô ấy.
+` Lòng thở của tôi ngừng lại trong cổ họng khi tôi gọi tên cô ấy.
 \
-` Cặp răng nanh nhọn hoắt kề sát cổ tôi.@
-` Áp lực nghẹt thở khiến ý chí phản kháng trong tôi hoàn toàn tiêu biến.@
-` Sinh vật đáng sợ đang chực chờ cắn đứt cuống họng tôi lúc này hoàn toàn không phải là Arcueid mà tôi từng biết.
+` Đôi mắt đỏ ngầu của cô ấy.@
+` Những chiếc răng sắc nhọn như một con thú.@
+` Áp lực nghẹt thở khiến tôi mất hết ý chí chống cự.@
+` Cái sinh vật với những chiếc răng gần như cắn vào cổ tôi không phải là người mà tôi biết.
 \
+` Tôi không thể làm gì cả.@
+` Tôi thậm chí còn không thể cử động ngón tay nào.@
+br
+` Tôi sắp bị ăn thịt rồi.@
+` Đây chính là ý nghĩa của việc trở thành con mồi.@
+br
+` Những chiếc răng của cô ấy đẩy vào cổ tôi.@
+` Điều duy nhất lấp đầy tâm trí tôi là nỗi sợ hãi.
 \
-` Tôi thậm chí còn không thể cử động nổi dù chỉ là một ngón tay.@
+`"Hiii!" [line=4]@
+` Một tiếng thét vang lên.@
+` Tôi gần như nghĩ trong một khoảnh khắc, thật đáng thương khi tôi phát ra âm thanh này.@
 br
+` Có thể chỉ là tưởng tượng của tôi, nhưng...
 br
-` Đây chính là cảm giác của con mồi trước dã thú.@
-br
-br
-` Nỗi sợ hãi tột cùng bao trùm lấy toàn bộ tâm trí tôi.
-\
-\
-` [line=4]Một tiếng thét kinh hoàng vang lên.@
-` Trong một khoảnh khắc, tôi bỗng thấy thật đáng thương khi chính mình lại phát ra thứ âm thanh yếu ớt ấy.@
-br
-br
-br
-br
-\
+` Cô ấy dường như đóng băng tại chỗ.
 \
 wavestop
 bg #000000,lshutter,400
 wave se_10
-` "Bùm!" Một vụ nổ dữ dội chấn động ngay trước mắt tôi, hất văng cơ thể Arcueid sang một bên.
-\
+` Nhưng trước khi tôi kịp xác nhận điều đó,
+` "Bùm!" Một vụ nổ dữ dội xảy ra ngay trước mặt tôi và cơ thể Arcueid bị ném sang một bên.
 \
 bg "bg/bg_29b",lshutter,400
-` [line=4]Cô ấy bị hất bay xa vài mét như thể vừa bị một chiếc xe tải đâm trực diện.@
-` Nhưng cô ấy lập tức đứng dậy như thể chưa từng có chuyện gì xảy ra.
-\
+`"[line=4]"@
+` Cô ấy bị hất văng như vừa bị xe đâm, bay về vài mét.@
+` Cô ấy đứng dậy như thể chẳng có gì xảy ra cả.
 \
 ld c,"tachi/ark_t18",lshutter,800
-` Arcueid đứng đó, gương mặt bàng hoàng thất thần.@
-` Tôi cũng đứng đờ người ra, không biết phải làm gì tiếp theo.
+`"Tôi... Tôi"@
+` Arcueid đứng đó, sốc.@
+` [line=3]Tôi không thể nghĩ ra phải làm gì.
 \
-\
-`"Ả ta định hút máu cậu đấy."@
-` Một giọng nói lạnh lùng, khinh bỉ cất lên.@
-`"Đó mới chính là bản chất thực sự của cô, Arcueid Brunestud."@
-` Tiếng nói vô tình dội xuống từ phía trên cao.
-\
+` Và ở đó,
+`"Cô định hút máu anh ta."@
+` Một giọng nói lạnh lùng, khinh bỉ.@
+`"Đó là bản chất thực sự của cô, Arcueid Brunestud."@
+` Tiếng nói vô tình từ trên cao vang lên.
 \
 bg #000000,crossfade,400
 bg "event/cel_e04",crossfade,400
-` Có một bóng người mặc áo choàng đứng trên cột đèn, hệt như đêm hôm kia.@
+` Tôi ngước nhìn mặt trăng.@
+` [line=3]Có một hình bóng mặc áo choàng xuất hiện, giống như đêm ấy.@
 br
-br
-` [line=4]Không thể lầm lẫn vào đâu được.@
-` Dẫu nhìn từ góc độ nào, đó vẫn chính là Ciel-senpai.@
-` Cô ấy thậm chí không thèm liếc nhìn tôi, mà chỉ chăm chăm chĩa ánh mắt sắc lạnh về phía Arcueid đang lùi lại phía xa.
+`"[line=4]Chào cậu, người bạn"@
+` Không có sai lầm nào cả.@
+` Bất kể tôi nhìn nó từ góc độ nào, đó vẫn là Ciel-senpai.@
+` Cô ấy thậm chí không nhìn về phía tôi, nhưng vẫn liếc xéo Arcueid đang ngồi cách xa.
 \
-\
-` "... Tôi không hiểu tại sao cô lại lôi kéo cậu ta vào chuyện này, nhưng cô thực sự nghĩ mọi chuyện sẽ kết thúc yên ổn thế này sao?"@
+`"Ngay cả khi bạn hủy diệt dòng dõi của mình, bạn không thể thay đổi thực tế rằng bạn chính là một ma cà rồng."@
+` "... Tôi không biết tại sao bạn lại kéo anh ta gần với bạn, nhưng liệu bạn có nghĩ điều này sẽ kết thúc như thế này?"@
 br
-br
-` Không có chút ấm áp thường ngày, cũng không có vẻ nghiêm khắc đùa giỡn.@
-` Một chất giọng vô cảm lạnh lẽo đến mức khiến tôi run sợ vì thiếu đi chút tính nhân bản tối thiểu.
-\
+` Giọng nói của cô ấy hoàn toàn khác thường.@
+` Không nghiêm khắc cũng không ấm áp.@
+` Giọng nói vô cảm[line=3]của cô ấy đáng sợ đến mức thiếu đi bất kỳ tính nhân loại nào.
 \
 bg "bg/bg_29b",lshutter,400
+` Không làm ồn ào, người bạn (Senpai) từ đèn đường xuống đất.@
 ld l,"tachi/cel_t06b",lshutter,400
-ld l,"tachi/cel_t06b",lshutter,400
-` "Tôi vốn không có ý định giao chiến với cô lúc này... nhưng nếu cô vẫn muốn tiếp tục, tôi sẵn sàng giải quyết nợ nần ngay tại đây."@
+`"Thông thường, đó không phải là thứ tôi can thiệp, nhưng tôi sẽ không bỏ qua việc cậu cố giết một người bình thường."@
+` Nó không thuộc về kế hoạch đánh nhau với cậu[line=3]nhưng nếu có nhu cầu, chúng ta có thể giải quyết điểm này."@
 ld r,"tachi/ark_t15",crossfade,400
-ld r,"tachi/ark_t15",crossfade,400
-` [line=2][line=3]Cô ấy nhìn Senpai với ánh mắt đầy vẻ thù địch và ghét bỏ.
+`"[line=2][line=3]Đừng ngốc nghếch. Tôi không muốn có bất cứ mối quan hệ nào với cậu. Và"@
+` Cô ấy nhìn người bạn (Senpai) với ánh mắt đầy ghét bỏ.
 \
-\
-`"Lời nói đó chẳng có chút trọng lượng nào cả. Lẽ nào cô không nhận ra mình vừa làm gì sao? Và cả tiếng hét kinh hoàng của cậu ấy khi nhìn thấy cô nữa."@
+`"Tôi chẳng bao giờ định giết anh ta."@
+`"[line=3]Điều đó nghe chẳng thuyết phục chút nào. Không giống như cậu không nhận ra những gì mình đã làm trước đó, và tiếng hét anh ấy phát ra khi nhìn thấy cậu."@
 ld r,"tachi/ark_t05c",crossfade,400
-ld r,"tachi/ark_t05c",crossfade,400
-`"[line=5]Tôi không quan tâm cô có ghét tôi hay không. Nhưng cô đã trút cơn điên loạn của mình lên cậu ấy. Hay là hãy hỏi chính cậu ấy xem cậu ấy cảm thấy thế nào?"@
-` Nói rồi,
-` Senpai quay sang nhìn tôi lần đầu tiên kể từ khi xuất hiện.
-\
+`"[line=5]"@
+`"Tôi không quan tâm nếu cậu ghét tôi. Nhưng cậu đã lấy sự điên rồ của mình và hướng nó về phía anh ấy. Chúng ta hãy hỏi anh ấy cảm giác như thế nào?"@
+` Với một chuyển động đầu,
+` Cô bạn cùng lớp quay sang nhìn tôi lần đầu tiên.
 \
 ld r,"tachi/ark_t10",crossfade,400
-` [line=7]Arcueid đau đớn lánh mặt đi, tránh né ánh nhìn.@
-` Sự im lặng chết chóc bao trùm khắp công viên.@
+`"[line=7]"@
+` Arcueid lánh mắt đau đớn.@
+` Im lặng bao trùm công viên.@
 cl a,crossfade,400
-cl a,crossfade,400
 br
-` Senpai khoác áo choàng tiến lại gần tôi một bước.
-\
+` Một bước chân.@
+` Người bạn cùng lớp mặc áo choàng chỉ tiến lại gần tôi một bước.
 \
 ld c,"tachi/cel_t07b",crossfade,400
-`"Chị sai rồi!"@
+`"Trở lại đi, ma cà rồng. Cậu không có quyền ở bên anh ấy từ đầu."@
+`"[line=4]Điều đó không đúng."@
 br
-br
-` "Vì... chính tôi là người muốn ở bên cạnh cô ấy!"@
-` "Đúng là Arcueid là ma cà rồng, nhưng cô ấy chưa từng uống một giọt máu nào cả!"@
+` "Tôi không biết Senpai là ai hay chuyện gì đã xảy ra với Arcueid trước đây, nhưng tôi ít nhất có thể tuyên bố điều này."@
+` "Vì... Tôi muốn ở bên cô ấy."@
+` "[line=4][line=3]Đúng là Arcueid là một ma cà rồng, nhưng cô ấy chưa từng uống máu một lần nào!" Đó có lẽ chỉ là một trò đùa, và cậu không có quyền...
 \
-\
+`"Cậu sai rồi! Tại sao cậu lại xuất hiện từ đâu, mặc quần áo kỳ quặc, và nói như thể cậu hiểu mọi thứ vậy!?@
+` "[line=4]Arcueid chắc chắn là ma cà rồng, nhưng cô ấy chưa từng uống máu một lần nào!" Có lẽ đó chỉ là một trò đùa, và cậu không có quyền...@
 ld c,"tachi/cel_t06b",crossfade,400
-`"[line=4]Làm ơn im lặng đi, Tohno-kun. Cô ấy chưa từng uống máu người? Đúng vậy, trong suốt tám trăm năm qua, Giáo Hội không hề ghi nhận bất kỳ nạn nhân nào của cô ấy. Thế nhưng..."
-ld c,"tachi/cel_t06b",crossfade,400
-`"[line=4]Im đi! Tôi không muốn nghe thêm bất kỳ lời nào từ chị nữa...!"@
+`"[line=4]Làm ơn im lặng đi, Tohno-kun. Cô ấy chưa từng uống máu một lần nào? Vâng, chắc chắn trong tám trăm năm qua, không có hồ sơ nào về việc cô ấy có nạn nhân nào cả. Tuy nhiên..."
 \
-` "Tôi tự nguyện giúp cô ấy vì tôi muốn thế. Đây không phải việc của chị!"@
+`"Chỉ im đi! Tôi không muốn nghe câu chuyện kỳ lạ nào từ cậu..."@
+` "Này, nếu cậu cố ngăn cô ấy, tôi cũng sẽ không tha cho cậu."@
+` "[line=3][line=2]Sau cùng, tôi giúp cô ấy vì tôi muốn như vậy. Không phải việc của cậu để can thiệp!"@
 ld c,"tachi/cel_t07b",crossfade,400
-`"[line=3][line=2]Tohno-kun, em..."@
-ld c,"tachi/cel_t07b",crossfade,400
-`"[line=3][line=3]Tôi hiểu rồi. Nếu em đã quyết chí như vậy, tôi sẽ không cản em nữa."@
-` Thế nhưng...@
+`"[line=3][line=3]Tohno-kun, cậu..."@
+` Một chút cảm xúc lóe lên trong giọng nói của cô ấy.
 \
-` [line=3]Senpai dời ánh nhìn sắc lạnh sang phía Arcueid.@
-` [line=3]Arcueid vẫn đứng lặng người, quay mặt đi không dám nhìn tôi hay Senpai.
+`"[line=3]Tôi hiểu rồi. Nếu cậu nói thế, tôi sẽ không làm gì khác."@
+` [line=3]Tuy nhiên...@
 cl c,crossfade,400
-` Cô ấy mím chặt môi, im lặng không nói lời nào.@
-ld l,"tachi/cel_t07b",crossfade,400
+` Senpai chuyển ánh nhìn sang Arcueid.@
+` [line=3]Arcueid quay mặt đi, không nhìn tôi hay Senpai.
 \
 ld r,"tachi/ark_t10",crossfade,400
-` Arcueid vẫn im lặng không đáp.@
+`"Cô ấy im lặng, không nói gì.@
 ld l,"tachi/cel_t07b",crossfade,400
-cl r,lshutter,400
+`"Như anh ấy đã nói, Arcueid Brunestud. Anh vẫn muốn ở bên anh ta sau khi chuyện này xảy ra ạ?"@
 br
-` Tôi định vội vã đuổi theo cô ấy.@
-br
+` Arcueid không trả lời.@
+` [line=3]Cô nâng đầu nhìn tôi một lần, rồi chạy mất vào đêm tối.@
 cl r,lshutter,400
 \
-br
-`"Em đi đâu chứ?"@
+`"[line=3]Tại sao cô lại rời đi, Arcueid...!?"@
+` Tôi bắt đầu đuổi theo cô ấy.@
 br
 quakey 1,100
-cl l,crossfade,400
+` Nhưng.@
 br
-`"[line=4]Tôi không thể để em đi theo cô ấy. Tôi không thể trơ mắt nhìn em bị sát hại được, Tohno-kun."@
-br
-` Trong tay cô ấy xuất hiện những lưỡi dao mảnh dài như những chiếc lông vũ.@
+`"[line=4]Chắc chắn rồi?"@
+` Chân tôi không thể rời khỏi mặt đất.@
+` Người bạn cùng lớp tiến lại gần tôi chậm rãi.
 \
 cl l,crossfade,400
 ld c,"tachi/cel_t07b",crossfade,400
-` Tôi điên cuồng cúi xuống định nhổ lưỡi dao dưới chân ra.@
+`"Tôi sẽ không để cậu theo cô ấy. Tôi không thể để cậu bị giết, Tohno."@
 br
-`"Tôi quên chưa nói, thuật thức này chỉ có tôi mới giải trừ được, nên xin em hãy bỏ cuộc đi."@
-` [line=3]Nói rồi, cô ấy dừng lại ngay trước mặt tôi.@
+` Trong tay cô ấy là những lưỡi dao mảnh như que.@
+` Một trong số chúng đứng ở chân tôi [line=3] giữ bóng hình tôi gắn chặt vào mặt đất.
 \
-` Tôi trừng mắt giận dữ nhìn cô ấy.@
-` [line=4]Cô ấy khép hờ mắt nhìn tôi rồi khẽ thở dài bất lực.
+`"Cậu không thể di chuyển cho đến khi nó được lấy đi. Dù cố gắng thế nào, bóng hình cậu sẽ đấu tranh không kém để không rời khỏi cậu."@
+`"[line=4]Đừng đùa nữa, tôi sẽ mất cô ấy!"@
+` Tôi nắm lấy lưỡi dao dưới chân mình.@
+` Nhưng không sao cả, tôi không thể rút nó ra được.
+\
+`"Tôi quên nói điều này, nhưng chỉ có tôi mới có thể tháo nó ra, nên xin hãy bỏ cuộc."@
+` Nói xong, cô ấy dừng lại trước mặt tôi.@
+`"[line=4]"@
+` Tôi nhìn chằm chằm vào cô ấy.@
+` Cô ấy ngắm nhìn ánh mắt tôi [line=3]rồi thở dài.
+\
 ld c,"tachi/cel_t10b",crossfade,400
-`"Thật là... Sao em lại bướng bỉnh và kích động đến thế hả, Tohno-kun."@
-\
+`"[line=3]Chà, thật là... Tại sao cậu lại quá khích như vậy, Tohno-kun."@
+`"[line=3]Ờ? ... À, vâng, Thầy ạ?"@
 ld c,"tachi/cel_t01b",crossfade,400
-`"Tôi biết chứ. Tôi không hề ghét cô ấy, nhưng việc này thực sự là vì lợi ích của cả hai đứa đấy. Tôi sẽ sớm giải thuật cho em thôi, nên hãy bình tĩnh nghe tôi nói một chút đã."
-` [line=4]Cô ấy ngước nhìn đầy do dự.@
-` Lúc này, giọng điệu của cô ấy đã trở lại vẻ thư thái, dịu dàng của người chị Senpai mà tôi hằng quen thuộc ở trường học.@
-br
+`"Tôi biết. Tôi không ghét cô ấy đâu, nhưng điều này là vì lợi ích của cả hai chúng ta. Tôi sẽ sớm thả cậu ra, nên hãy nghe tôi nói một lúc."
 \
-ld c,"tachi/cel_t10b",crossfade,400
+` Cô ấy ngước nhìn do dự.@
+` Đây chính là Thầy thư giãn, thoải mái như trong trường học mà tôi quen biết.@
+br
+` [line=3]"Vậy là vì thế ư?"@
+` Mặc dù tôi vẫn chưa hiểu rõ tình hình, nhưng tôi bắt đầu cảm thấy bình tĩnh hơn.
+\
 play "*1"
 ld c,"tachi/cel_t07b",crossfade,400
-ld c,"tachi/cel_t01b",crossfade,400
-` "Tôi rất tiếc vì phải kiềm chế em bằng cách thô bạo thế này."@
+`"... Việc này đột ngột nên tôi đoán cậu sẽ ghét tôi. Nhưng tôi có điều gì đó muốn nói với cậu."@
+` "Tôi rất xin lỗi khi phải kiềm chế cậu như vậy."@
+` Cô ấy cúi đầu.@
+` ... Cô ấy ăn mặc kỳ lạ, nhưng cô ấy vẫn là người thầy của tôi.
 \
-` ... Dẫu ăn mặc kỳ lạ, cô ấy vẫn là vị Senpai tốt bụng của tôi.
-`"Không sao đâu ạ. Em không giận chị đâu, nên Senpai không cần phải xin lỗi đâu. Chị đã cứu mạng em một lần rồi, và em cũng có vài điều muốn hỏi chị."@
-br
-`"[line=3]Nghe em nói vậy tôi nhẹ cả người... Vậy em muốn hỏi tôi điều gì nào, Tohno-kun?"@
-`"... Có lẽ điều này hơi thừa thãi, nhưng... Senpai thực sự là ai vậy ạ?"@
-\
-play "*1"
-ld c,"tachi/cel_t07b",crossfade,400
-`"... Ưm. Em chỉ nghe Arcueid kể qua loa vài điều về Giáo Hội và các tổ chức trừ tà thôi."@
+`"[line=3] Đừng lo lắng. Tôi không giận nên đừng cần xin lỗi. Cậu đã giúp tôi một lần rồi, người thầy, và tôi cũng muốn hỏi cậu vài điều."@
 ld c,"tachi/cel_t01b",crossfade,400
-`"Đúng vậy. Như em đoán đấy, tôi là một đặc vụ Hành Pháp Giả của Giáo Hội, chuyên trách việc thanh trừng ma cà rồng."@
-` "Tôi không thể tiết lộ thêm gì nữa, nhưng tôi nghĩ chừng đó thông tin đã đủ để em hiểu rồi chứ."
+`"[line=3] Điều đó rất hữu ích. ... Nhưng, cậu muốn hỏi tôi điều gì, Tohno-kun?"@
+`"... À, có lẽ điều đó hiển nhiên? Chỉ đơn giản là, người thầy, cậu là ai?"@
+` Cô ấy ăn mặc như vậy và đập tan Arcueid, và tôi là người duy nhất nhớ cô ấy ở trường."@
+` Người thầy thở dài đáp lại.
 \
-`"[line=3]Không đâu, tôi có lý do riêng để thâm nhập vào ngôi trường này, Tohno-kun. @ À... đúng rồi, vì điều này liên quan mật thiết đến câu chuyện tôi sắp kể, nên từ bây giờ tôi sẽ đặt câu hỏi nhé."
+`"Rồi thì để tôi hỏi, @Tohno-kun, cậu nghĩ gì về tôi?"@
+`"... Ừm. Tôi chỉ nghe Arcueid nói một vài điều về Giáo Hội và những chuyện đó."@
 ld c,"tachi/cel_t01b",crossfade,400
-`"[line=3]Tohno-kun, em dường như đang hợp tác với cô ấy, nhưng em có biết mục tiêu thực sự của cô ấy là ai không?"@
-`"Ưm... Tôi nghe nói hắn là một ma cà rồng cổ xưa, chuyên hút máu người để bành trướng thế lực."
-`"Có vẻ em đã nắm được hai phân loại lớn của ma cà rồng rồi nhỉ.@ Vậy chắc em cũng hiểu rằng hắn không thực sự bất tử, đúng không?"@
-`"Đúng vậy.@ Hắn vẫn cần hút máu để duy trì sự sống của cơ thể.@ Nhưng đổi lại, miễn là có máu người, hắn sẽ không bao giờ già đi và chết đúng không?"
+`"Đúng vậy. Như các cậu biết, tôi là một linh mục trừ tà của Giáo Hội. Chuyên môn của tôi là săn lùng ma cà rồng."@
+` "Tôi không thể trả lời bất cứ điều gì khác, nhưng tôi nghĩ điều đó đã đủ cho các cậu."
 \
-` "Một sự tồn tại dễ dàng bị chấm dứt như thế không thể coi là bất tử được."
-`"Tất nhiên rồi, hắn cũng không thể tránh khỏi cái chết."@
-ld c,"tachi/cel_t01b",crossfade,400
-`"Chuyện này có liên quan gì đến lý do chị đến trường của em sao?"@
-ld c,"tachi/cel_t01b",crossfade,400
-\
-`"[line=2]... Vâng, nhưng nếu chị có thể tóm tắt ngắn gọn thì tốt quá."@
-`"... Thật sao? Nếu vậy, tôi sẽ giải thích một cách thẳng thắn và dễ hiểu nhất nhé."@
+`"Đủ? @[line=2] À, tại sao một người như cậu lại đến trường của các cậu? Nếu cậu muốn tiêu diệt ma cà rồng, chẳng phải cậu sẽ tìm kiếm khắp thành phố như Arcueid sao?"@
+`"Không, có lý do riêng tôi đến trường này, Tohno-kun. @ À... đúng rồi, vì nó liên quan đến bài nói chuyện mà tôi muốn trình bày, từ bây giờ tôi sẽ đặt câu hỏi."
 \
 ld c,"tachi/cel_t06b",crossfade,400
-`"Nói một cách đơn giản nhé. Sự bất tử của lũ ma cà rồng Tử Đồ thực chất rất mong manh và không hoàn thiện. Đối với chúng, đó chỉ là việc kéo dài tuổi thọ gấp nhiều lần so với người thường bằng cách cướp đoạt sinh mệnh của kẻ khác mà thôi."@
-` "Đối với chúng, đó chỉ đơn thuần là sự kéo dài thời gian sống một cách cưỡng cầu."
+`"Tohno-kun, cậu dường như đã hợp tác với cô ấy, nhưng cậu có biết gì về mục tiêu của cô ấy không?"@
+`"Ừm... Tôi nghe nói hắn là loại ma cà rồng cổ xưa, uống máu người để mở rộng lãnh thổ."
 \
-`"[line=3]Thực ra là không. Những siêu năng lực đó vốn là những nghiên cứu ma thuật mà chúng đã dày công thực hiện khi còn là con người, sau đó được cường hóa suốt hàng trăm năm mà thành."@
-` "Những nghiên cứu từ thời còn là nhân loại đã mang lại cho chúng những dị năng khủng khiếp đó."
+`"[line=3]Có vẻ như cậu biết về hai phân loại chính của ma cà rồng.@ Vậy thì chắc chắn cậu cũng hiểu rằng anh ấy không thực sự bất tử, phải không?"@
+`"Đúng vậy.@ Về việc anh ấy cần uống máu để duy trì cơ thể.@ Nhưng mặt khác, miễn là anh ấy có thể uống máu, anh ấy sẽ không bao giờ già đi, đúng không?"
 \
-` "Và trong số đó, có một kẻ đã điên cuồng nghiên cứu về bản chất của sự bất tử thực sự."@
-`"...? Hắn đã thành ma cà rồng rồi mà vẫn muốn nghiên cứu về sự bất tử sao?"@
+`"Đúng rồi.@ Nhưng cậu không thể gọi điều gì đó có thể chết như thế là bất tử được, phải không?@ Ngoài ra, còn những ma cà rồng mà việc uống máu không duy trì cơ thể họ hoàn toàn, và một số khác thì bị chúng ta tiêu diệt."@
+` "Cậu không thể gọi thứ gì đó có thể chết như vậy là bất tử."
 \
-` "[line=4][line=3]Thế nhưng, kẻ đó lại cho rằng đó chỉ là một sự thoái hóa thảm hại. Hắn không chấp nhận một sự bất tử khiếm khuyết và tạm bợ như thế, mà khao khát tìm ra một hình thức bất tử hoàn hảo tuyệt đối."
+`"[line=4]Tất nhiên rồi[line=3], anh ấy cũng không miễn dịch với cái chết."@
+` "Tôi không biết Senpai muốn nói điều gì ở đây.@
+`"Điều này có liên quan đến lý do cậu đến trường của tôi à?"@
+ld c,"tachi/cel_t01b",crossfade,400
+`"Tất nhiên rồi.@ Đừng vội, chờ tôi kết thúc đã."
+\
+`"[line=3]... Được rồi, nhưng nếu cậu có thể tóm tắt lại thì tôi sẽ rất biết ơn."@
+`"... Thật sao? Nếu vậy, tôi sẽ giải thích một cách thẳng thắn nhất có thể."@
+` "Senpai dường như hơi thất vọng."@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Vậy thì một lời giải thích đơn giản. Ừm, dù sao, sự bất tử của những ma cà rồng được gọi là Tử Đồ rất không ổn định. Đối với họ, đó chỉ là việc kéo dài tuổi thọ của mình nhiều lần so với người bình thường."@
+` "Đối với họ, nó chỉ đơn giản là kéo dài thời gian sống của họ nhiều lần so với người bình thường."
+\
+`"... Một câu hỏi. Không chỉ có tuổi thọ dài, mà họ còn sở hữu những sức mạnh phi tự nhiên. Có mối liên hệ gì không?"@
+`"Không thực sự. Sức mạnh cá nhân của họ là những thứ họ đã có khi còn là con người, được tăng cường sau hàng trăm năm."@
+` "Tiếp tục nghiên cứu từ thời kỳ con người của họ sẽ mang lại cho họ những sức mạnh phi thường này."
+\
+`"Các Tử Đồ mỗi người đều có mục tiêu khác nhau. Những gì họ quyết định nghiên cứu là khác biệt."@
+` "Vì vậy, có một người đã nghiêm túc nghiên cứu về sự bất tử."@
+`"...? Anh ấy đã trở nên bất tử nhưng vẫn tiếp tục tìm hiểu nó?"@
+`"Đúng vậy. Khi các Tử Đồ biến thành ma cà rồng, họ cho rằng đã đạt đến giới hạn của sự bất tử ở dạng con người."@
+` "Tuy nhiên, anh ấy cảm thấy đó chỉ là sự thoái hóa. Anh ấy không muốn thứ gì đó hoàn toàn không hoàn hảo, và anh ấy muốn tìm ra một hình thức bất tử hoàn thiện hơn."
+\
 !w1000
 `"... ..."@
-ld c,"tachi/cel_t01b",crossfade,400
-`"Thế nhưng, dẫu là thứ gì đi chăng nữa, miễn là có thực thể, nó đều không thể tránh khỏi sự suy tàn theo thời gian. Không một sinh vật nào có thể chống lại dòng chảy của năm tháng."@
+` "Senpai dường như tập trung hơn."
 \
-` "[line=3]Trốn tránh cái chết thực chất chính là tìm đến cái chết."@
-` "Sự mâu thuẫn mang tính nghịch lý này là một bài toán không thể có lời giải."
-`"Đúng vậy. Mầm mống của cái chết luôn nằm sẵn trong mỗi sinh vật. Nếu có thứ gì đó hoàn toàn không có cái chết, thì..."@
-ld c,"tachi/cel_t07b",crossfade,400
-` Ngay cả Arcueid cũng có thể bị tiêu diệt vào ban ngày.@
-` Trên thế gian này làm gì có thứ gì hoàn toàn miễn nhiễm với cái chết cơ chứ.
+`"Nhưng, miễn là thứ gì đó có hình dạng, nó không thể tránh khỏi sự suy tàn. Không có gì có thể chống lại dòng chảy của thời gian."@
+` Những kẻ ma cà rồng chỉ có mức kháng cự cao hơn người bình thường. Bất cứ sinh vật sống nào cũng tiếp nhận cái chết ngay khi mới ra đời. Ngay cả khi sở hữu một cơ thể không già nua, miễn là nó tồn tại, thì vẫn không thể tránh khỏi cái chết.@
+` Tránh được cái chết chính là chết.@
+` Sự mâu thuẫn này là một vấn đề không thể giải quyết.
 \
-`"Chính vì thế, kẻ đó đã đi đến một kết luận điên rồ: nếu có thể bảo toàn được sự tồn tại của nhận thức sau khi cơ thể vật lý bị tiêu diệt, thì đó mới chính là sự bất tử thực sự."@
-` "Dẫu Giáo Hội không công nhận học thuyết này, nhưng người ta thường gọi đó là thuật 'Chuyển sinh' (Luân hồi)."@
-` "Dẫu cơ thể có bị tiêu diệt hoàn toàn, chỉ cần giữ nguyên vẹn linh hồn và ký ức để tái sinh vào một cơ thể con người mới, kẻ đó sẽ vĩnh viễn trốn thoát khỏi cái chết thực sự."@
-\
-`"Chuyển sinh... Ý chị là mỗi khi chết đi, hắn lại đầu thai thành một đứa trẻ sơ sinh sao?"@
-ld c,"tachi/cel_t07b",crossfade,400
-`"Đúng vậy. Khi còn sống, hắn sẽ chọn trước một vật chủ tiếp theo. Và ngay khi đứa trẻ đó được sinh ra, hắn sẽ truyền toàn bộ 'thông tin bản ngã' của mình vào đó."@
-` "Thông tin đó sẽ ẩn sâu bên trong linh hồn đứa trẻ, hoàn toàn ngủ yên cho đến khi đứa trẻ lớn lên và đạt đến độ tuổi trưởng thành nhất định."@
-` "Ngay khi vật chủ đạt đến độ chín muồi về mặt trí tuệ, ý thức của hắn sẽ thức tỉnh hoàn toàn, nuốt chửng linh hồn đứa trẻ và biến nó thành một ma cà rồng chuyển sinh mới chính là hắn."
-\
-!w1000
-`"Lúc nãy tôi dùng từ 'thông tin bản ngã', nhưng để dễ hình dung, em cứ nghĩ đó chính là 'linh hồn' của hắn đi."@
-` "Nói linh hồn hắn bay lơ lửng trong không trung rồi chiếm đoạt cơ thể kẻ khác thì không hoàn toàn chính xác, hãy tưởng tượng nó giống như một dạng sóng điện từ vậy. Bộ não của vật chủ chính là thiết bị tiếp nhận làn sóng đó."@
-\
-`"... Xin lỗi Senpai, nhưng em thực sự vẫn chưa hiểu chuyện này thì có liên quan gì đến việc chị thâm nhập vào trường của em chứ?"@
-`"Có liên quan rất lớn đấy chứ. Vì kẻ chuyển sinh mà tôi đang truy lùng, và mục tiêu săn đuổi của Arcueid, chính là cùng một kẻ."
-`" Cái gì cơ?!"@
-ld c,"tachi/cel_t07b",crossfade,400
-\
-` [line=3][line=3]Mặc dù Arcueid chỉ gọi hắn đơn giản là "kẻ thù".
-cl c,crossfade,400
-`"……"@
-` Tôi im lặng gật đầu.@
+`"[line=3]Vâng. Mọi người đều có cái chết trong lòng họ. Nếu có ai đó không có, thì[line=3]"@
+` Có lẽ là điều gì đó chưa từng tồn tại từ đầu.@
+` Ngay cả Arcueid cũng có thể chết vào ban ngày.@
+` Không có thứ gì trong thế giới này có thể không bị chết.
 \
 ld c,"tachi/cel_t01b",crossfade,400
-`"Sứ mệnh duy nhất của cô ấy là tiêu diệt ma cà rồng, nhưng kể từ khi kẻ đó xuất hiện, cô ấy chỉ tập trung truy đuổi một mình hắn."@
-` "Hắn đã chuyển sinh thành công mười tích lũy rồi."@
-` "And Arcueid đã tự tay tiêu diệt hắn cả mười bảy lần đó."@
-`"Cả mười bảy lần... Nhưng dẫu hắn có bị tiêu diệt bao nhiêu lần đi chăng nữa, hắn vẫn sẽ tiếp tục chuyển sinh đúng không? Vậy thì việc tiêu diệt hắn có ý nghĩa gì chứ?"
+`"Đó là lý do, nhưng anh ấy kết luận rằng nếu có thể bảo tồn sự tồn tại sau khi chết, thì anh ta sẽ bất tử."@
+` "Đó không phải là giáo lý của chúng tôi, nhưng bạn gọi nó là tái sinh."@
+` Ngay cả khi bạn chết, nếu bạn có thể giữ được nhận thức về bản thân và bắt đầu lại từ đầu dưới dạng một con người mới, đó sẽ là cách trốn tránh cái chết.@
+` "Vậy thì, khi anh ta chưa bị tiêu diệt hoàn toàn, anh ta vẫn còn sống, vì vậy nó thực sự không phải là trốn tránh cái chết hoàn toàn."
 \
-` [line=3]Hắn bị cô ấy giết chết, rồi lại chuyển sinh, rồi lại bị giết. Một vòng lặp vô tận đã kéo dài suốt hàng trăm năm qua.@
+`"[line=3]Tái sinh — bạn có nghĩa là nếu anh ấy chết, anh ấy sẽ tái sinh làm một đứa trẻ sơ sinh à?"@
 ld c,"tachi/cel_t07b",crossfade,400
-cl c,crossfade,400
-` Gương mặt Senpai thoáng vẻ đăm chiêu, cô ấy khẽ mím chặt môi đầy căm phẫn.@
-` Tôi không rõ nguyên nhân tại sao.@
+`"Đúng vậy. Trong khi anh ấy còn sống, anh ấy chọn người chủ tiếp theo và khi đứa bé được sinh ra, anh ấy truyền tất cả thông tin về 'tự' mình."@
+` Thông tin của anh ấy vẫn ẩn sâu bên trong đứa bé cho đến khi nó trưởng thành hoặc đạt được trí tuệ riêng của nó.@
+` Ngay khi đứa bé có đủ trí tuệ để tiếp nối 'tự' mình, đứa bé trở thành một con ma cà rồng mới là anh ấy."
 \
-`"[line=3]…… Senpai. Kẻ thù đó thực chất là loại ma cà rồng thế nào vậy?"@
+`"[line=3]Chờ đã — điều đó có nghĩa là gì? Đừng nói với tôi rằng anh ta phẫu thuật trên nó trong bụng mẹ hay điều gì tương tự thế."
 \
-`"Ban đầu hắn là một nam giới, nhưng giới tính và diện mạo có thể hoàn toàn thay đổi tùy thuộc vào cơ thể vật chủ mà hắn chọn để chuyển sinh."@
+`"Không, đó không phải là vấn đề y khoa. Vì ngay khi cơ thể anh ta bị phá hủy, linh hồn của anh ta tái sinh trong thân thể mà anh ta chọn làm thân thể tiếp theo."
 \
-` Vì hắn được sinh ra một cách hoàn toàn bình thường trong một gia đình nhân loại và có cha mẹ đàng hoàng.@ Hắn chỉ chính thức thức tỉnh bản ngã ma cà rồng khi đã trưởng thành và hòa nhập sâu sắc vào xã hội.
-`"Trước khi thức tỉnh, cơ thể vật chủ hoàn toàn là một con người bình thường, không hề có bất kỳ dấu hiệu ma cà rồng nào.@ Nhưng ngay khi thức tỉnh, hắn sẽ lợi dụng tất cả các mối quan hệ xã hội đã xây dựng trước đó để ẩn mình hoàn hảo."@
-` "Giáo Hội thường chỉ phát hiện ra sự tồn tại của hắn sau khi cả một thị trấn đã bị hắn biến thành vùng đất chết của lũ Tử Giả."
+`"Tôi đã nói về 'thông tin của anh ấy' trước đây, nhưng để nói đơn giản hơn, hãy nghĩ đến nó như 'linh hồn' của anh ấy."@
+` "Không chính xác lắm khi nói rằng linh hồn của anh ấy lan truyền trong không khí và chiếm lấy cơ thể ai đó, nhưng nó tương tự như một sóng điện từ. Trong trường hợp này, não bộ con người thực hiện việc truyền tải và tiếp nhận."@
+` "Điểm đặc biệt của anh ấy là anh ấy đã thu nhận linh hồn này, điều không thể tính toán được và tan biến ngay khi rời khỏi bao bọc cơ thể, và xử lý nó như một thứ có thể truyền tải."
 \
-`"... Đúng vậy, nhưng đây không phải là hai linh hồn cùng chia sẻ một thể xác đâu.@ Đứa trẻ được sinh ra như một con người bình thường đó thực chất chính là hắn.@"@
-` "Tùy thuộc vào môi trường nuôi dưỡng, đứa trẻ đó có thể là một người tốt hoặc một kẻ xấu... Nhưng dẫu thế nào, ngay khi bản ngã chuyển sinh thức tỉnh, nhân cách ban đầu của đứa trẻ sẽ bị xóa sổ hoàn toàn."
+`"... Xin lỗi, Senpai. Tôi không hiểu làm thế nào điều này liên quan đến việc cậu đến trường của tôi."@
+`"Nó liên quan. Vì quái vật tái sinh mà tôi đang truy lùng và quái vật Arcueid đang truy lùng là cùng một con."
 \
-\
+`"[line=6] Ôi trời!"@
 ld c,"tachi/cel_t07b",crossfade,400
-`""@
-` "Chuyện này..."@
-\
-cl c,crossfade,400
-`"... Thật khó tin. Em thực sự không hiểu rõ lắm, nhưng chuyện này kỳ lạ quá."@
-` "Vì theo như chị nói, ma cà rồng không thể đột nhiên xuất hiện giữa đêm như thế được đúng không?"@
-` "Hơn nữa, dẫu linh hồn kiếp trước có thức tỉnh đi chăng nữa, thể xác của vật chủ ban đầu vẫn là con người mà..."@
-\
-ld c,"tachi/cel_t07b",crossfade,400
-`"Không đâu, thuật chuyển sinh không phải là truyền tải nhân cách, mà là truyền tải bản chất linh hồn. Một khi linh hồn đã bị vấy bẩn bởi ma cà rồng, nó sẽ vĩnh viễn mang thuộc tính phi nhân loại."@
-` "Khi bản ngã ma cà rồng thức tỉnh hoàn toàn, cơ thể vật lý của vật chủ cũng sẽ bị biến đổi sinh học để trở thành ma cà rồng thực sự..."@
-`"Thế nhưng..."@
-\
-\
-\
-`"Nếu chỉ đơn giản chọn một cơ thể ngẫu nhiên, thì sức mạnh của cơ thể chuyển sinh đó sẽ quá yếu ớt." @
-` Chính vì vậy, ngay khi còn sống ở kiếp trước, hắn đã tính toán cực kỳ kỹ lưỡng để chọn lựa gia tộc cho kiếp sau. @
-cl c,crossfade,400
-` Sinh ra trong một gia tộc danh gia vọng tộc sẽ giúp hắn dễ dàng thao túng quyền lực và biến cả một khu vực thành thuộc địa của ma cà rồng sau khi thức tỉnh.
-\
-`"Và điều kiện thứ hai..." @ Đây là điều cốt lõi nhất. Trong thế giới loài người, đôi khi xuất hiện những cá nhân mang trong mình những dị năng phi thường bẩm sinh. @
-\
-`"Những năng lực đặc biệt đó di truyền trực tiếp qua dòng máu." @ Hắn chọn những gia đình có "một thứ không phải là con người" trong lịch sử của họ. @
-ld c,"tachi/cel_t07b",crossfade,400
-cl c,crossfade,400
-\
-\
-`""@
-\
-` Câu chuyện này... thực sự quá điên rồ.@
-br
-\
-\
-`"... Tên của hắn."@
-ld c,"tachi/cel_t07b",crossfade,400
-\
-`"Tên của hắn...! Chị cứ liên tục gọi hắn là 'kẻ thù' và 'kẻ chuyển sinh', nhưng làm sao tôi có thể tin được chứ! Làm sao có chuyện hắn lại mang danh tính của tôi...!"@
-\
-br
-` [line=8]Nhưng cô ấy hoàn toàn không hề tỏ ra nao núng hay tức giận.@
-` Ánh mắt cô ấy nhìn tôi chỉ ngập tràn sự đồng cảm và thương xót sâu sắc.
-\
-\
-` Rắn là biểu tượng của sự vô hạn và vòng lặp tuần hoàn. Việc lột da để mang một thể xác mới hoàn toàn trùng khớp với bản chất của hắn.@
-` Trong ghi chép của Giáo Hội, hắn được định danh là 'Kẻ chuyển sinh vô hạn'. Tên con người của hắn ở kiếp đầu tiên là Michael Roa Valdamjong. Người ta thường gọi hắn ngắn gọn là 'Roa'.@
-`"Roa..."@
-\
-ld c,"tachi/cel_t07b",crossfade,400
-`"... Nói tóm lại, Senpai đến ngôi trường này là vì biết chắc chắn Roa đang ẩn mình ở đây?"@
-ld c,"tachi/cel_t01b",crossfade,400
-`"Đúng vậy. Bằng một sợi dây liên kết vô hình, tôi có thể cảm nhận được kiếp hiện tại của Roa đang hiện diện ngay tại ngôi trường này."@
+`"Quái vật mà tôi đang truy đuổi và quái vật Arcueid đang truy đuổi là một."@
+` Mặc dù có lẽ cô ấy chỉ gọi anh ta là "kẻ thù".
 \
 cl c,crossfade,400
+`"……@
+` Tôi gật đầu im lặng.@
+` Chắc chắn cô ấy chỉ dùng từ "kẻ thù", nhưng cô ấy không kể cho tôi biết gì về anh ta cả.
+\
+ld c,"tachi/cel_t07b",crossfade,400
+`"Nhiệm vụ của cô ấy là tiêu diệt ma cà rồng, nhưng kể từ khi anh ta xuất hiện, cô ấy chỉ theo đuổi anh ta.@
+` Anh ta đã tái sinh mười bảy lần rồi.@
+` Cô ấy đã phá hủy anh ta mỗi lần.@
+`"Mỗi lần…… Nhưng, ngay cả khi anh ta chết, anh ta sẽ chỉ tái sinh lại, phải không? Không có ý nghĩa gì sao?"
+\
+`"Vâng. " [line=4]@
+` Anh ấy bị cô ấy giết, rồi tái sinh lại, và một lần nữa bị cô ấy giết. Đó là chu kỳ đã lặp đi lặp lại vô số lần.@
+` "Nếu cô ấy... nếu Arcueid có sức mạnh để giết không phải là 'cơ thể' mà là 'ý nghĩa', thì có lẽ điều này sẽ không xảy ra."@
+cl c,crossfade,400
+` Shiki nhìn xuống một chút, và có vẻ như cô ấy đang gầm gừ răng.@
+` Tôi không biết tại sao.@
+` Tuy nhiên, dường như Senpai cũng có một mối hận với "kẻ thù" giống như Arcueid.
+\
+`"…… Senpai. Anh ấy là loại ma cà rồng nào vậy?"@
+ld c,"tachi/cel_t07b",crossfade,400
+`"Ban đầu anh ấy là một người đàn ông, nhưng điều đó có thể thay đổi tùy thuộc vào cơ thể mà anh ấy tái sinh."@
+` Phần rắc rối của Tử Đồ này là việc tái sinh của hắn khó tìm thấy.
+\
+` Vì hắn được sinh ra đúng cách như một đứa trẻ con người và có cha mẹ.@ Hắn chỉ biến thành ma cà rồng khi đạt đến tuổi có thể làm mọi thứ ở mức độ thỏa đáng.
+\
+`"Cho đến lúc đó, con người đó không cho thấy bất kỳ dấu hiệu nào là ma cà rồng.@ Nhưng khi hắn thức tỉnh, hắn sử dụng mối quan hệ mà hắn đã xây dựng cho đến lúc đó để hòa nhập hoàn hảo vào xã hội."@
+` Tôi nghe nói rằng Giáo Hội phát hiện sự tồn tại của hắn thường xuyên sau khi cả một thị trấn bị biến thành Tử Giả.
+\
+`"Chờ một chút.@ Ừm, ừm, vậy thì chủ thể mới này, hắn sẽ không bao giờ nhận ra mình là ma cà rồng cho đến khi thức tỉnh sao?"@
+`"... Vâng, nhưng đó không phải là hai người chia sẻ một cơ thể.@ Đứa trẻ được sinh ra như con người vẫn là hắn.@"@
+` Tùy thuộc vào môi trường xung quanh, nó có thể là một kẻ tốt hay xấu.@ ... Nhưng ngay cả điều đó, ngay khi hắn thức tỉnh, nó biến mất.
+\
+`"Ừm, tóm lại, khi hắn chết, hắn tái sinh vào cơ thể tiếp theo, và khi cơ thể đó đạt được trí tuệ, nó nhận lấy 'tự' của cuộc đời trước đó và trở thành ma cà rồng."
 \
 br
-` Giọng nói của chị ấy đột ngột dừng lại.@
+`"[line=8]"@
+` "Chuyện gì vậy?"@
+` "[line=3]Chỉ nghe thấy điều này... thật đáng sợ."@
 \
-` Senpai vẫn lặng lẽ nhìn tôi với ánh mắt đượm buồn đầy thương cảm hệt như lúc nãy.
+`"... Đáng ngạc nhiên. Tôi không thực sự hiểu, nhưng nó thật kỳ lạ."@
+` "Vì những gì bạn gọi là ma cà rồng... họ không đơn giản trở thành ma cà rồng giữa đêm khuya, phải không?"@
+` "Vậy, ngay cả khi linh hồn cũ của họ thức tỉnh, cơ thể vẫn sẽ giữ nguyên hình dạng con người...""@
 \
+ld c,"tachi/cel_t07b",crossfade,400
+`"Không, tái sinh không phải là truyền tải tính cách, mà là truyền tải linh hồn. Khi bị một Chân Tổ cắn, không chỉ cơ thể, mà cả linh hồn cũng bị ô uế vĩnh viễn."@
+` "[line=3]Anh ta truyền tất cả thông tin của mình, gọi là linh hồn, cho kiếp sau, nên khi thức tỉnh, cơ thể trở thành ma cà rồng nhưng...""@
+`"Nhưng điều gì vậy?"
 \
-play "*9"
-`"... Như tôi đã giải thích đấy, Roa luôn chọn những dòng máu ưu việt và thể xác hoàn hảo nhất để làm vật chủ tiếp theo cho mình."@
+`"Theo như cậu nói, chỉ có thế là quá yếu." @
+` Vì vậy, khi còn sống, hắn chọn chủ nhân tiếp theo của mình. @
+` Gia đình mà hắn được sinh ra phải đáp ứng hai điều kiện, điều đầu tiên là về sự giàu có. @
+` Sinh ra trong một gia đình có địa vị xã hội cao, tài sản và tiền bạc giúp việc biến toàn bộ thị trấn thành ma cà rồng sau này dễ dàng hơn.
+\
+`"Và còn một yêu cầu khác." @ Đây là điều quan trọng, nhưng giữa những người bình thường như chúng ta, cũng có những người sở hữu sức mạnh đặc biệt. @
+` [line=3]Không giống như phép thuật, đó là một quyền năng huyền bí có thể học được, mà là những khả năng đặc biệt bẩm sinh. @ Những người này thường được gọi là Trẻ quỷ hoặc tâm linh.
+\
+`"[line=3]Những khả năng đặc biệt này di truyền, do đó chúng được truyền qua dòng máu." @ Hắn chọn những gia đình có "một thứ không phải là con người" trong lịch sử của họ. @
+` Một gia đình giàu có, có quyền lực và sức mạnh phi thường. Đó là những điều kiện cần thiết cho người chủ nhà của cậu, Tohno Shiki.@
 cl c,crossfade,400
 \
 playstop
-cl c,crossfade,400
+`"[line=7]"@
+` Có điều gì đó kỳ lạ còn tồn tại.@
+` Tôi nghĩ câu chuyện này khá kỳ lạ.@
+br
+` [line=3][line=4]Điều kỳ lạ là Senpai kể cho tôi nghe câu chuyện này.
 \
-br
-br
-br
-\
-br
+`"... Tên của cậu ấy."@
 ld c,"tachi/cel_t07b",crossfade,400
+`"Vâng? Cậu nói điều gì vậy?"@
+`"Tên...! Cậu cứ nói 'kẻ thù' và 'cậu ấy', nhưng làm sao tôi có thể hiểu được! Không thể nào cậu không kể cho tôi biết tên của cậu ấy...!"@
+` Tôi la hét với cô ấy, dù tôi cũng không biết tại sao mình lại tức giận.@
 br
-` Chính vì thế.@
-` Chính vì thế tôi mới nói cuộc trò chuyện này thực sự quá điên rồ và kỳ quặc.
-br
-`"Ha..."@
-br
+` Cô ấy hoàn toàn không tỏ ra lo lắng.@
+` [line=3]Cô ấy chỉ nhìn tôi với vẻ đồng cảm.
 \
-br
-`"Hahaha... ha..."@
-br
-` [line=3]Tôi bật cười thành tiếng một cách điên dại.
+`"Không có gì đâu. Trong số các Tử Đồ, cậu ấy được biết đến là Rắn của Akasha."@
+` Điều này là do rắn là biểu tượng của sự vô hạn và chu kỳ. Lột da và lấy một cơ thể mới, nó rất phù hợp với tên của hắn.@
+` Mặt khác, hắn được ghi lại trong Giáo Hội như là 'Người tái sinh vô hạn'. Tên con người của hắn là Michael Roa Valdamjong. Hắn cũng chỉ đơn giản được gọi là 'Roa'.@
+`"[line=3]Ro,"@
+` Tôi chưa từng nghe đến điều đó. ... Đương nhiên rồi. Không có gì ngạc nhiên khi tôi chưa bao giờ gặp hắn.
 \
-\
-br
+`"... Nói ngắn gọn, cậu đến trường của tôi vì biết rằng Roa này ở đây?"@
 ld c,"tachi/cel_t01b",crossfade,400
-` Ánh mắt im lặng của cô ấy hệt như đang ngầm khẳng định...
-` Rằng chính tôi là kẻ mang trong mình linh hồn tà ác của Roa.
+`"Đúng vậy. Thật là một cảm giác kỳ lạ, nhưng tôi biết rằng kiếp hiện tại của Roa đang có mặt ở đây."@
+` Tôi có thể cảm nhận được Roa rõ ràng hơn Arcueid. Đó là lý do tôi đến đây sớm hơn Arcueid và đã tìm ra chủ nhân mới của hắn.@
 cl c,crossfade,400
 \
 br
-` [line=6]Nó sở hữu thứ dị năng tiềm ẩn và thể chất phi thường mà Roa hằng khao khát.@
+` [line=6].@
 br
-` Chính vì thế vật chủ chuyển sinh của Roa ở kiếp này, chắc chắn chính là em, Tohno Shiki."@
-br
+` Tiếng nói đột nhiên ngừng lại vì một lý do nào đó.@
+` Senpai nhìn tôi với sự đồng cảm như trước đây.
 \
 ld c,"tachi/cel_t07b",crossfade,400
 play "*9"
-\
-`"... Tại sao chứ?@ Tại sao chị lại dám khẳng định chắc chắn như vậy hả, Senpai?!"@
-`"[line=6]Tại sao ư?@ Bởi vì chính tôi là người đã an bài và chứng kiến tất cả những chuyện này từ đầu."@
-` [line=3]Cô ấy lại thốt ra một câu nói nằm ngoài tầm hiểu biết của tôi.
+`"... Tôi đã giải thích điều này trước đây, nhưng Roa chọn những dòng dõi xuất sắc và cơ thể tuyệt vời cho người chủ tiếp theo của mình."@
+` Vì vậy, khi bạn biết rằng Roa ở nơi này, câu trả lời sẽ tự nhiên xuất hiện khi bạn điều tra các gia đình đáp ứng tiêu chí của hắn.@
+`"[line=6]"@
+`"Trong khu vực này, chỉ có một gia đình già duy nhất đáp ứng tiêu chí của hắn. Tôi không cần phải nói thêm gì nữa, phải không, Tohno [line=3]Shiki-kun?"@
 cl c,crossfade,400
 \
 br
@@ -377,153 +377,153 @@ br
 br
 br
 br
-`"[line=4]"@
-`"Đó là tất cả những gì tôi muốn truyền đạt lại cho em. Lựa chọn thế nào từ bây giờ là quyền quyết định của em, Tohno-kun."@
+` [line=4]Đó là lý do.@
+` Vì vậy tôi nói cuộc trò chuyện này thật kỳ lạ.
 \
-ld c,"tachi/cel_t01b",crossfade,400
+`"Ha."@
 br
-` "Bởi vì... một người ấm áp như em đáng lẽ ra không nên tồn tại trong thế giới đầy rẫy máu và bóng tối của tôi."@
+`"Ha."@
 br
+`"Hahaha, ha."@
+br
+` Tôi là người cười khanh khách.
 \
+`"... Cậu nói gì vậy, Senpai? Không thể nào!"@
 br
-` "Hành động đó hệt như lời tuyên cáo rằng cô ấy đã trở lại thân phận Hành Pháp Giả lạnh lùng, đứng ở một thế giới hoàn toàn xa cách mà tôi không bao giờ có thể chạm tới nữa."
+` Senpai không trả lời.@
+` Như thể...
+` Cô ấy đang nói rằng tôi là chủ nhân của Roa này.
 \
-`""@
-br
-` "Nếu tôi không đuổi theo cô ấy ngay bây giờ, tôi có cảm giác mình sẽ vĩnh viễn mất đi cô gái ấy."@
 ld c,"tachi/cel_t07b",crossfade,400
-`"Em vẫn quyết định đuổi theo cô ấy sao, Tohno-kun?"@
-\
-ld c,"tachi/cel_t07b",crossfade,400
-\
-`"Phải. Vì chị là đặc vụ của Giáo Hội, tôi biết Arcueid là kẻ thù cần thanh trừng của chị.@
-` Nhưng tôi đã hứa sẽ đồng hành và giúp đỡ cô ấy, nên tôi phải đi tìm cô ấy. Tôi không biết cô ấy sẽ làm ra chuyện điên rồ gì nếu bị bỏ lại một mình trong tình cảnh kiệt quệ thế này nữa."@
-` [line=4]Khẽ gượng cười để xua đi bầu không khí căng thẳng, tôi nói lời tạm biệt rồi quay người bước đi.
+`"... Nhưng, không thể nghi ngờ được.@ Gia tộc Tohno có 'một thứ gì đó khác biệt' trong dòng máu của họ.@
+` Nó sở hữu sức mạnh và khả năng siêu nhân tiềm ẩn mà Roa cần.@
+` Sức mạnh bạn đã dùng để đánh bại Tử Giả trước đây không phải là của người bình thường.@
+` Vì vậy[line=4] lần này, chủ thể của Roa rõ ràng là Tohno Shiki."@
 br
-`"[line=3]Đứng lại. Nếu em đi theo cô ấy lúc này, em chỉ có con đường chết mà thôi. Em tuyệt đối không được gặp lại Arcueid Brunestud nữa."@
+` "[line=3] Tôi không hiểu.
 \
-`"... Tôi biết chứ. Tôi biết cô ấy chưa từng uống một giọt máu người nào. Thế nhưng, mọi chuyện đã kết thúc rồi. Một Chân Tổ một khi đã để bản năng ma cà rồng trỗi dậy dẫu chỉ một lần, họ sẽ vĩnh viễn rơi xuống vực sâu không lối thoát."@
+` Tôi không hiểu điều gì cô ấy nói cả.
 \
-` Bước chân tôi bỗng chốc khựng lại, đông cứng tại chỗ.
+`"... Tại sao?@ Tại sao bạn lại chắc chắn như vậy, Senpai?"@
+`"Điều gì?@ Vì tôi là người đã quyết định tất cả những điều này."@
+` Cô ấy nói một điều tôi không thể hiểu được lần nữa.
 \
-`"... Senpai? Chân Tổ và bản năng ma cà rồng... Ý chị là sao cơ?"@
-\
-` "Tohno-kun. Những ma cà rồng được gọi là Tử Đồ thực chất chỉ trở thành ma cà rồng sau khi bị kẻ khác hút máu. Để duy trì sự tồn tại của thể xác mục nát, chúng bắt buộc phải liên tục uống máu người."@
-` "Nói cách khác, đối với Tử Đồ, hút máu là nhu cầu sinh lý bắt buộc để sinh tồn."
-\
+`"Ồ, cái gì?!"@
+`"... Nhưng nó khác biệt. Bạn là người bị giết, nhưng bạn là người sống sót. Người bị giết đã sống sót và người đã giết thì chết. Tôi nghĩ tất cả sai lầm bắt đầu từ đó."@
+` Cô ấy nói như thể mình đang ở ranh giới tâm lý vậy.@
 br
-` "Tử Đồ vốn dĩ ban đầu là con người giống như chúng ta, nên về mặt nguồn gốc, ta vẫn có thể coi chúng là cựu nhân loại."@
-` "Thế nhưng, đối với một sinh vật sinh ra đã là ma cà rồng như Chân Tổ, liệu có thể gọi họ là con người được không?"@
+` Senpai kéo "con kiếm" từ mặt đất dưới chân tôi.@
+` "Ồ..."
 \
 playstop
-`"[line=3]Đây chính là câu chuyện của cô ấy đấy."@
-` "Tôi không tin là em chưa từng hoài nghi về điều này dẫu chỉ một lần."@
-` "[line=3]Nếu Tử Đồ được tạo ra từ những ma cà rồng khác, thì chắc chắn phải tồn tại một nguồn gốc sơ khai, một sinh vật là ma cà rồng ngay từ thuở ban đầu."
+`"[line=3]"@
+`"Đó là tất cả những gì tôi muốn nói với bạn. Tôi sẽ để phần còn lại cho bạn tự quyết định, Tohno-kun."@
+`"[line=3]Để việc này cho tôi? Nhưng theo câu chuyện của bạn, tôi..."@
 ld c,"tachi/cel_t01b",crossfade,400
-` "Họ không cần hút máu người để sinh tồn, đồng thời sở hữu sức mạnh phi thường vượt xa lũ Tử Đồ."@
-` "[line=3]Họ là những thực thể huyền bí tồn tại từ thời cổ đại, mang trong mình quyền năng tối thượng vượt qua mọi giới hạn thông thường."@
+`"...thật lòng, tôi cũng không biết. Bạn là một người vô cùng bình thường, giống như một học sinh mà bạn có thể gặp ở bất cứ nơi đâu. Trực giác của tôi chắc chắn sai lầm."@
+` "[line=3]Vì...bạn là người không nên xuất hiện trong thế giới như của tôi."@
 cl c,crossfade,400
 \
-`"Vậy thì sao chứ, Senpai?@ Câu chuyện đó thì có liên quan gì đến em cơ chứ?!"@
-`"Có liên quan mật thiết đấy chứ.@ Những ma cà rồng Chân Tổ mang trong mình cơn khát máu nguyên thủy mãnh liệt và tàn bạo hơn lũ Tử Đồ gấp vạn lần."@
+` "Với nụ cười buồn bã, Senpai nhảy một khoảng cách đáng kinh ngạc từ tôi."@
+` "Như thể cô ấy đang cố gắng nói với tôi rằng cô ấy đã trở thành một người khác giờ đây, ở một khoảng cách không thể chạm tới."
 \
-` [line=5]Hệt như hai tấm gương lạnh lẽo, phản chiếu gương mặt đầy hoang mang lo sợ của tôi.
-\
-`"Em hiểu chưa, Tohno-kun?@ Chân Tổ hoàn toàn có thể sinh tồn mà không cần một giọt máu người nào.@
+`"[line=5]"@
+` "[line=3]Tôi vẫn không thể rời Arcueid đi được."@
+` "Trừ khi tôi đuổi theo cô ấy ngay bây giờ, tôi cảm thấy như tôi sẽ không bao giờ gặp lại cô ấy nữa."@
 ld c,"tachi/cel_t07b",crossfade,400
+`"Anh đang theo cô ấy, Tohno-kun?"@
+` Giọng Senpai trở lại như lúc cô đuổi Arcueid đi.@
+` Một giọng nói không có sắc thái, không mang chút cảm xúc nào.
 \
-`"... Và một khi con người bị họ hút máu, kẻ đó sẽ vĩnh viễn không bao giờ có thể trở lại làm người được nữa."@
-` Chân Tổ tồn tại ở một đẳng cấp sinh mệnh hoàn toàn khác biệt so với nhân loại. Khi nguồn sinh lực khổng lồ của Chân Tổ chạm vào dòng máu con người, sự chênh lệch quá lớn về cấp độ sinh mệnh sẽ phá hủy hoàn toàn cấu trúc nhân tính của nạn nhân.@
+`"[line=3]Vâng. Vì anh là thành viên của Giáo Hội, tôi biết cô ấy là kẻ thù của anh.@
+` Nhưng nhiều chuyện đã xảy ra và tôi đồng ý giúp cô ấy, nên tôi phải tìm cô ấy. Tôi không biết cô ấy sẽ làm gì nếu tôi bỏ mặc cô ấy."@
+` Cười như thể đó là một trò đùa, tôi nói "Sau rồi" và quay người lại.
 \
-\
-`"Vấn đề cốt lõi là, cơn khát máu của họ hoàn toàn không có bất kỳ nguyên nhân sinh lý nào cả.@"@
-` "Không có nguyên nhân, nên cũng chẳng có cách nào chữa trị hay ngăn chặn.@
-\
-` [line=3]Chính vì thế, cả cuộc đời của Chân Tổ là một chuỗi ngày dài dùng toàn bộ sức mạnh tinh thần để chống chọi lại cơn khát máu điên cuồng đó.@"@
-` "[line=3]Không phải chỉ đơn giản là dùng ý chí chịu đựng đâu."@
-` "Họ phải dùng phần lớn năng lượng khổng lồ của mình để không ngừng đàn áp và phong ấn cơn khát đó sâu tận đáy lòng."
+`"[line=3]Chờ đã. Nếu anh đi theo cô ấy, chỉ có thể bị giết thôi. Anh không được nhìn thấy Arcueid Brunestud lần nữa."@
+`"[line=3]Chỉ bị giết? À, có lẽ anh không tin tôi, nhưng cô ấy thực sự không hút máu. Cô ấy là một người tốt, thực ra."@
+`"... Tôi biết. Chắc chắn cô ấy không uống máu người. Tuy nhiên, điều đó đã kết thúc. Một Chân Tổ đầu hàng bản năng ma cà rồng một lần chỉ có thể rơi xuống từ đó."@
 br
-`"... Bằng việc không ngừng áp chế chính bản thân mình, họ kìm hãm bản năng khát máu của ma cà rồng.@"@
+` Chân tôi đóng băng tại chỗ.
 \
+`"[line=2]... Senpai? Chân Tổ về bản năng ma cà rồng, cậu muốn nói gì?"@
+`"... Tôi muốn nói là ham muốn uống máu.@
+` Tohno-kun. Các ma cà rồng được gọi là Tử Đồ chủ yếu trở thành ma cà rồng sau khi một ma cà rồng hút máu họ. Để bảo tồn cơ thể, họ cần máu của người.@
+` Nói cách khác, nếu họ muốn sống, họ không thể tránh khỏi việc uống máu."
+\
+`"Nhưng những kẻ vốn là ma cà rồng từ đầu thì khác.@
+` ... Tử Đồ ban đầu là con người giống chúng ta. Vì vậy có lẽ cậu vẫn có thể gọi họ là con người."@
+` "Tuy nhiên, nếu ai đó sinh ra là ma cà rồng, có thể gọi họ là người không?"@
+`"[line=3]Chuyện gì vậy, Senpai? Tôi đang hỏi về Arcueid."
+\
+`"Đây là chuyện của cô ấy."@
+` "Tôi sẽ không để bạn nói rằng bạn chưa từng nghĩ về điều này."@
+` "Nếu những Tử Đồ trở thành ma cà rồng từ những ma cà rồng khác, thì phải có một nguồn gốc, một sự tồn tại là ma cà rồng ngay từ đầu."
+` "Những ma cà rồng hoàn toàn khác biệt với chúng ta, chúng ta gọi họ là Chân Tổ."@
+` "Những kẻ không cần máu người và sở hữu sức mạnh đặc biệt tương đương, thậm chí vượt trội hơn những Tử Đồ."@
+` "Họ là những thực thể bí ẩn, tồn tại từ thời xa xưa, mang trong mình sức mạnh vượt qua giới hạn của loài ma cà rồng bình thường."@
+` Cô ấy là thành viên của hoàng tộc Chân Tổ. ... mặc dù họ thực sự không có bất kỳ cấu trúc cấp bậc nào, nên nói "hạ đẳng" không hoàn toàn chính xác."
+\
+`"[line=3] Vậy sao, Senpai?@ Cuộc trò chuyện này[line=3]không liên quan gì đến tôi......!"@
+`"Nó có liên quan.@ Những ma cà rồng được gọi là Chân Tổ có một động lực sâu sắc hơn để uống máu so với Tử Đồ."@
+` Đôi mắt cô ấy hoàn toàn không biểu cảm.@
+` Giống như gương, chúng phản chiếu khuôn mặt tôi đầy hồi hộp.
+\
+`"Hiểu chưa, Tohno-kun?@ Chân Tổ có thể sống mà không cần máu người.@
+` Tuy nhiên, có lẽ một sai lầm đã xảy ra trong quá trình tiến hóa của họ, hoặc có lẽ không tồn tại sự tồn tại hoàn hảo nào, nhưng dù sao, có một khoảng thời gian khi họ khao khát máu của con người.
+\
+`"... Khi một con người bị họ uống máu, anh ta không còn là con người nữa."@
+` Các Chân Tổ tồn tại trên một quy mô khác biệt so với con người như những sinh vật. Khi sức sống mạnh mẽ của một Chân Tổ chạm vào máu của con người, sự chênh lệch quá lớn khiến con người không thể giữ nguyên hình dạng con người sau khi tiếp xúc.@
+` [line=2]Giống như một sóng nhỏ bị hấp thụ vào một sóng lớn hơn, người đó trở thành một phần của Chân Tổ để đơn giản hóa, nó trở thành một con búp bê.
+\
+`"Vấn đề là, không có lý do nào cho những khát khao ma cà rồng của họ.@
+` Không có lý do, nên cũng không có cách nào ngăn chặn nó.@
+` Điểm yếu chết người trong một sự tồn tại hoàn hảo khác. Bạn có thể gọi nó là căn bệnh nan y.@
+` Dù sao, họ sống bằng việc chống lại cơn khát uống máu của mình.@
+` Không phải là vấn đề sử dụng tâm trí để chịu đựng nó.@
+` Họ dùng toàn bộ sức mạnh của mình để chống lại cơn khát và ép chặt nó trong lòng bằng lực lượng.
+\
+`"... Bằng cách sử dụng sức mạnh khổng lồ của họ lên chính mình, họ đang kìm nén bản năng trở thành ma cà rồng.@
+` [line=2]Nhưng nếu có thứ gì đó bên ngoài khiến họ mất sức mạnh, bạn nghĩ điều gì sẽ xảy ra với khả năng kìm nén nó của họ?"@
 cl c,crossfade,400
 br
-` "... Nếu có tác động ngoại cảnh khiến họ mất đi sức mạnh...?@"@
-` "Chẳng hạn như phải tiêu tốn một lượng lớn năng lượng để chữa trị vết thương hiểm nghèo, hoặc tái tạo lại toàn bộ cơ thể sau khi bị sát hại hoàn toàn."
+` "... Nếu thứ gì đó bên ngoài khiến họ mất sức mạnh...?@
+` "[line=3]Như nhận một vết thương cần sức mạnh để chữa lành, hoặc sử dụng sức mạnh để tái tạo sau khi bị giết hoàn toàn."
 \
-` "... Giả sử cô ấy sở hữu mười phần sức mạnh.@"@
-` "Và cô ấy bắt buộc phải dùng đến bảy phần để không ngừng đàn áp cơn khát máu bên trong.@"@
-` "Thế nhưng, nếu vì lý do nào đó mà cô ấy bị tiêu hao mất năm phần sức mạnh, dẫu có dùng toàn bộ năm phần sức mạnh còn lại, cô ấy cũng chỉ có thể đàn áp được năm phần cơn khát mà thôi.@"@
+` "... Vậy giả sử cô ấy có mười đơn vị sức mạnh.@
+` Và giả sử cô ấy dùng bảy đơn vị để chống lại sự thôi thúc uống máu bên trong.@
+` [line=3]Nhưng nếu vì lý do nào đó cô ấy mất năm đơn vị trong mười đơn vị, ngay cả khi cô ấy dùng toàn bộ sức mạnh còn lại, cô ấy chỉ có thể dùng năm đơn vị sức mạnh để chống lại.@
 br
+` "Đó không đủ."@
+` Sau đó, điều gì sẽ lấy đi từ cô ấy? [line=3]
 \
-` Và khi phong ấn bị phá vỡ, điều gì sẽ xảy ra tiếp theo? 
-\
-`"... Và rồi sao nữa?@ Chuyện gì sẽ xảy ra với những Chân Tổ không thể kiềm chế nổi cơn khát đó nữa hả Senpai?"@
+`"... Và?@ Điều gì xảy ra với những Chân Tổ không thể chống lại, Senpai?"@
 ld c,"tachi/cel_t07b",crossfade,400
-`"Họ sẽ đầu hàng bản năng và điên cuồng hút máu người, tất nhiên rồi.@ Một khi đã sa ngã, họ sẽ vĩnh viễn không bao giờ có thể quay đầu lại được nữa."@
-` "Một khi một Chân Tổ đã nếm trải vị ngọt của máu người, tôi nghe nói cơn khát máu của họ sẽ lập tức nhân lên gấp bội và trở nên đau đớn dữ dội hơn trước gấp vạn lần. Do đó, họ hoàn toàn mất đi khả năng chống chọi lại bản năng nữa."
+`"Họ uống máu người, tất nhiên rồi.@ Sau đó, chẳng có gì khác.@ Khi họ đầu hàng, họ chỉ có thể tiếp tục rơi xuống."@
+` Một khi một Chân Tổ biết vị đắng của máu, tôi nghe nói cơn khát trở nên đau đớn nhiều lần hơn trước.@ Do đó, họ không còn khả năng chống lại cơn khát nữa.
 \
-\
-` [line=3][line=3]Chân Tổ quả thực là một chủng tộc tối thượng, nhưng kể từ khi tự trói buộc bản thân để chống lại cơn khát máu, họ chưa bao giờ có thể phát huy được toàn bộ sức mạnh vốn có của mình.@
-` Nhưng một khi đã sa ngã thành Ma Vương, không còn cần phải kiềm chế bản năng nữa, họ sẽ trở thành những con quỷ tàn bạo nhất, tàn sát và hút máu loài người chỉ để thỏa mãn thú vui bệnh hoạn."@
-cl c,crossfade,400
-\
-\
-` ... Tôi bỗng rùng mình nhớ lại dáng vẻ của Arcueid ban nãy.@
-` Đôi mắt đỏ ngầu vằn tia máu.@
-\
-` Làn hơi nóng hổi của cô ấy kề sát bên cổ tôi.
-\
-`"[line=2]... Nói dối."@
-\
-` Bởi vì,
-` Cô ấy đã nói với tôi rằng cô ấy vô cùng sợ hãi việc uống máu cơ mà.
-br
-`"Phải."@
-` …… Đúng vậy, cô ấy rất sợ.@
-` Bởi vì cô ấy biết rõ hơn ai hết, một khi đã uống máu dẫu chỉ một lần, cô ấy sẽ vĩnh viễn không bao giờ có thể dừng lại được nữa.
-\
-ld c,"tachi/cel_t07b",crossfade,400
-`"[line=2]…… Nếu có điều gì có thể coi là sự cứu rỗi duy nhất, thì đó là việc cơn khát máu điên cuồng đó chỉ bộc phát trong một khoảnh khắc ngắn ngủi.@"@
-cl c,crossfade,400
-br
-` "Một ma cà rồng được tạo ra chỉ để làm công cụ giảm đau cho Chân Tổ... Và đó chính là bản chất của kẻ đang hoành hành trong thành phố này."
-\
-\
-` "…… Không, nói đúng hơn là từ trước đến nay cô ấy chưa từng cần đến nó.@"@
-` "Trong số các Chân Tổ, cô ấy là một trường hợp dị biệt vô cùng đặc biệt, kẻ có thể dùng ý chí sắt đá của mình để đơn độc chống chọi lại cơn khát máu suốt hàng trăm năm qua."@
-`"[line=3]Nếu vậy thì đâu có vấn đề gì chứ!@ Khi vết thương của cô ấy lành lại, khi cơ thể phục hồi hoàn toàn, cô ấy sẽ lại có thể áp chế được cơn khát đó đúng không...?!"
-br
-`"…… Về mặt lý thuyết thì là vậy, nhưng mọi thứ đều có giới hạn của nó, Tohno-kun.@"@
-` "[line=3]Cơn khát máu nguyên thủy đó không bao giờ biến mất, mà chỉ không ngừng tích tụ theo năm tháng. Những khát khao bị đè nén suốt hàng trăm năm qua hệt như một dòng nước lũ, cuối cùng sẽ tràn qua bờ đê và phá hủy vật chứa.@"@
-\
-` "Và khi họ không còn đủ sức tự kiềm chế bản thân nữa khi cơn khát hoàn toàn lấn át sức mạnh áp chế, cuộc đời của họ sẽ bị chấm dứt bởi móng vuốt của đồng loại hoặc Giáo Hội.@"@
-ld c,"tachi/cel_t07b",crossfade,400
-\
-`"Nhưng Arcueid chắc chắn sẽ không sao đâu!@ Cô ấy yếu đi chỉ là vì bảo vệ tôi mà thôi, nên chỉ cần vài ngày nữa là cô ấy sẽ..."@
-\
-` "Nhưng cô ấy thực sự đã chạm đến giới hạn chịu đựng cuối cùng của mình rồi.@"@
-` "Dẫu cô ấy có gắng gượng hoạt động thêm vài năm nữa đi chăng nữa, thì kết cục bi thảm vẫn không thể thay đổi.@"@
-` "Cơn khát máu đang không ngừng gào thét bên trong sẽ sớm nuốt chửng hoàn toàn lý trí của cô ấy. Chuyện sa ngã chỉ còn là vấn đề thời gian mà thôi.@"@
+`"Và khi điều đó xảy ra, họ trở thành những Chúa tể Quỷ đáng sợ."@
+` Chân Tổ chắc chắn là một chủng tộc cao cấp, nhưng kể từ khi họ ràng buộc bản thân phải chống lại sự thôi thúc trở thành ma cà rồng, họ không bao giờ có thể khai thác hết sức mạnh của mình.@
+` Nhưng một khi họ rơi xuống, không còn cần kiềm chế nữa.@ Sau đó, họ chỉ trở thành những con quỷ hút máu người vì niềm vui riêng."@
 cl c,crossfade,400
 \
 play "*8"
-bg "bg/bg_29b",crossfade,400
-br
-br
-br
+` ... Tôi nhớ lại cách Arcueid xuất hiện trước đây.@
+` Mắt cô ấy đỏ ngầu.@
+` Hơi thở hoang dại của cô ấy.@
+` Hơi thở cô ấy chạm vào cổ tôi.
 \
+`"... Lời nói dối."@
+` Đó là lời nói dối.@
+` Vì,
+` [line=4]Cô ấy chắc chắn đã nói rằng cô ấy sợ uống máu.
 br
-` Lần đầu tiên trong đời... Không phải do chứng thiếu máu mãn tính tái phát, mà là vì những lời nói của một người khác.@
-` Mọi thứ xung quanh bỗng chốc quay cuồng, nhạt nhòa đi trong một cơn chóng mặt dữ dội.
-`"[line=4]Những lời đó..."@
-br
-` Ngay cả khi biết rõ mình đã chạm đến giới hạn cuối cùng, cô ấy vẫn đơn độc chiến đấu săn lùng ma cà rồng ở thành phố này vì chúng ta sao?@
-br
+`"Ừm."@
+` …… Ừ, cô ấy sợ.@
 ` Vì một khi đã làm vậy, cô ấy biết mình sẽ không thể dừng lại.
 \
 ld c,"tachi/cel_t07b",crossfade,400
 `"…… Nếu có điều gì có thể gọi là cứu rỗi, thì đó là xung động ấy chỉ diễn ra trong khoảnh khắc.@
-ld c,"tachi/cel_t07b",crossfade,400
+` Các Chân Tổ chỉ giữ một thuộc hạ bên mình khi xung động vượt quá khả năng kiềm chế.@ Đó là khởi đầu của những kẻ được gọi là Tử Đồ.@
 ` Họ là những thứ vốn đã chết rồi.@
 ` Một ma cà rồng được giữ cho tồn tại để xoa dịu nỗi đau của Chân Tổ.@ Đó chính là hình dạng của ma cà rồng trong thành phố này."
 \
@@ -532,79 +532,79 @@ ld c,"tachi/cel_t07b",crossfade,400
 `"[line=3]Vậy thì không có vấn đề gì.@ Khi vết thương lành, khi cơ thể cô ấy trở lại bình thường, cô ấy có thể chống lại nó, đúng không……?"
 \
 `"…… Về mặt lý thuyết là vậy, nhưng vẫn có giới hạn, Tohno-kun.@
-\
-bg #ffffff,crossfade,400
-bg "bg/bg_29b",crossfade,400
-br
+` Xung động hút máu không có điểm dừng, và nó sẽ không biến mất.@ Những xung động bị kìm nén, tích tụ hết lần này đến lần khác, cuối cùng sẽ tràn khỏi vật chứa.@
+` Càng sống lâu, xung động hút máu trong họ càng lớn.@
+` Và khi họ không còn có thể tự kiềm chế bằng sức mình[line=2]khi xung động lấn át sức mạnh của họ, mạng sống của họ sẽ bị người khác kết thúc.@
+` Đó là tuổi thọ của những kẻ vốn không có tuổi thọ."
 \
 `"[line=2]Nhưng Arcueid thì không sao.@ Cô ấy chỉ yếu đi vì tôi, nên chỉ vài ngày nữa cô ấy sẽ[line=3]"@
-br
-` ... Xin chị hãy ngừng nói về cô ấy bằng giọng điệu đó đi.@
-` Cô ấy là một con người bằng xương bằng thịt. Việc chị nói về cô ấy hệt như một món vũ khí vô tri khiến lồng ngực tôi trào dâng một cơn thịnh nộ tột cùng.
-\
+`"…… Có lẽ vậy.@ Nhưng cô ấy đã chạm đến giới hạn rồi.@
+` Ngay cả khi cô ấy chỉ hoạt động trong vài năm, thời gian tồn tại của cô ấy không thay đổi.@
+` Cảm giác đang lớn dần bên trong cô ấy sẽ sớm nuốt chửng cô ấy. Không thể phủ nhận rằng thời điểm này không phải là lúc thích hợp.@
+` "[line=3]Cuộc đời của Arcueid không thể cứu vãn được."
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_29b",crossfade,400
 br
 br
 br
+` [line=3]Thịch.@
 br
+` Lần đầu tiên... Không phải vì bệnh thiếu máu của tôi, mà là do lời nói của ai đó khác.@
+` Mọi thứ bắt đầu mờ nhạt trong một cơn chóng mặt.
+\
+`"[line=5][Lời nói]..."@
+` Điều đó có ý nghĩa gì?@
+` Ngay cả khi cô ấy biết mình đã vượt quá giới hạn, cô ấy vẫn săn lùng ma cà rồng ở đây?@
 br
-` Hử?@
-` Chờ đã.@
+` [line=3]Điều này thật kỳ lạ.
 \
+` [line=3]Bất kể tôi suy nghĩ thế nào, nó vẫn là điều kỳ lạ.
 \
-`"Bởi vì cô ấy hoàn toàn không được phép làm bất kỳ việc gì dư thừa ngoài sứ mệnh chém giết.@"@
-` "Suốt hàng trăm năm qua, cô ấy đã luôn sống một cuộc đời như thế. Kể từ khi được sinh ra trong tòa lâu đài cổ lạnh lẽo giữa núi rừng phương Tây, mọi thứ vẫn vĩnh viễn không hề thay đổi."
-br
-bg #ffffff,crossfade,400
-\
-br
-\
-` ... Rốt cuộc chuyện gì đang xảy ra thế này?@
-` Một cảnh tượng vô cùng xa lạ, những dòng ký ức chưa từng tồn tại trong tâm trí tôi, bỗng chốc tràn ngập và lấp đầy tầm nhìn của tôi.@
+`"... Tất cả đều là dối trá."@
+` Vì nếu cô ấy biết mình đã đến giới hạn, thì tại sao cô ấy lại săn lùng ma cà rồng vì chúng ta?@
 ld c,"tachi/cel_t07b",crossfade,400
+`"Cô ấy đối phó với họ không phải vì chúng ta, mà bởi vì đó là sứ mệnh của cô ấy."@
+`"Sứ mệnh [line=3] ai đã quyết định điều đó?"
 \
-bg #ffffff,crossfade,800
-\
-br
-br
-br
-br
-br
-` Một bãi cỏ hoang vu không chút sắc màu bên trong tòa lâu đài cô tịch.@
-\
-bg #ffffff,crossfade,400
-bg "bg/bg_29b",crossfade,400
-br
-` "[line=3]Chỉ khi mục tiêu được xác định, cô ấy mới được phép bước chân ra thế giới bên ngoài.@"@
-` "Mọi thông tin nạp vào đầu cô ấy chỉ là làm sao để tiêu diệt kẻ thù một cách hiệu quả và tàn bạo nhất."
-br
-br
-br
-\
-br
-br
-br
+`"Có lẽ là những Chân Tổ khác. Cô ấy được sinh ra vào thế kỷ 12 khi có nhiều Chân Tổ thất bại."@
+` Những Chân Tổ không thể phớt lờ những người thân đã ngã xuống hay sự gia tăng của Tử Đồ.@
+` Vì vậy, họ tạo ra thứ gì đó chỉ dành cho việc giết chóc.@
+` Không cần bất cứ điều gì khác, Chân Tổ thuần khiết nhất tạo ra một thứ để trừng phạt.@
+` Đó là Chân Tổ mang tên Arcueid.@
+` Cô ấy giống như một tên đạn hạt nhân không có ý thức riêng, khi rời lâu đài, mục tiêu của cô ấy chắc chắn sẽ bị hủy diệt."
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_29b",crossfade,400
 br
+` [line=3]Đập một cái.@
+` Cảm giác choáng váng này lại xuất hiện.@
 br
-`"[line=5]After hoàn thành việc thanh trừng mục tiêu và trở về lâu đài, toàn bộ tri thức và ký ức tạm thời của cô ấy sẽ bị tẩy sạch hoàn toàn, và cô ấy lại bị đưa vào ngủ."@
-` "Cô ấy không hề biết đến bất cứ điều gì khác trên đời, ngoại trừ việc chém giết ma cà rồng."
+` ... Cô ấy nên ngừng nói như vậy.@
+` Cô ấy là một người. Nói về cô ấy như thể cô ấy chỉ là một loại vũ khí khiến tôi tức giận.
 \
-\
-br
-br
+`"Không, cô ấy là một vũ khí. Đầu tiên, cô ấy tồn tại chỉ vì mục đích đó.@
+` ... Vậy nên dường như giờ có điều gì đó sai với cô ấy.@
+` Đây là lần đầu tiên tôi thấy cô ấy nói như vậy. Cô ấy chưa bao giờ nói bất kỳ lời nào trước đây.
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_29b",crossfade,400
 br
-` [line=3]Cô ấy bị tước đoạt hoàn toàn khỏi tất cả những điều bình dị đó.
+br
+` [line=5]Hừ?@
+` Chờ đã.@
+` Không bao giờ nói [line=3]đó là lạ.
 \
-`"Sức mạnh của cô ấy quá đỗi khủng khiếp, đủ để tiêu diệt sạch lũ Chân Tổ sa đọa... Nhưng chính điều đó lại tạo nên một nghịch lý bi thảm. Quyền năng quá lớn khiến cô ấy bị chính đồng loại Chân Tổ ghét bỏ và xa lánh.@"@
-` "Dẫu ngoài miệng ca tụng cô ấy là Công chúa, nhưng tuyệt đối không một ai dám lại gần cô ấy dẫu chỉ một bước.@"@
+`"Vì cô ấy không bao giờ làm điều gì dư thừa.@
+` [line=3]Từ rất lâu trước, trong hàng trăm năm qua, cô ấy đã sống như vậy. Kể từ khi sinh ra trong lâu đài cổ giữa núi, không bao giờ thay đổi.
+\
+bg #ffffff,crossfade,400
+bg "bg/bg_29b",crossfade,400
+br
+` [line=3]Tiếng đập mạnh của trái tim tôi, và cảm giác choáng váng này.@
+` ... Điều gì đây?@
+` Cảnh quan lạ lẫm này, những ký ức mà tôi chưa từng có, bắt đầu lấp đầy tầm nhìn của tôi.@
+` Sân rộng của lâu đài.
 \
 bg #ffffff,crossfade,800
 bg "event/ark_e06b",crossfade,400
@@ -613,41 +613,13 @@ br
 br
 br
 br
-br
-` Sự tồn tại đó...
-` Thực sự quá đỗi bi thảm và đáng thương. Một bản thể sống chỉ chuyên dùng cho mục đích chém giết vô hồn.@
+` Một cánh đồng cỏ không trang trí bên trong lâu đài cô đơn.@
+` Cô gái trắng ngây ngô nhìn lên bầu trời.@
+` (Không có thay đổi vì dòng này chủ yếu là mô tả hình ảnh.)
 \
-\
-`"Rõ ràng cô ấy không hề có tiếng nói riêng, cũng như thời gian cá nhân của mình. Lũ Chân Tổ chỉ đối xử với cô ấy như một món vũ khí vô tri không hơn không kém.@"@
-` "Một món vũ khí thì làm gì cần đến những chức năng dư thừa như nướng bánh, dạo chơi hay giặt quần áo chứ.@"@
-\
-br
-br
-br
-br
-br
-br
-` "Tôi luôn được dạy là không được phép làm những việc dư thừa."
-\
-br
-br
-\
-` Đúng vậy, cô ấy đã từng nói với tôi câu đó với đôi mắt trống rỗng đến vô hồn.@
-` Lý do cô ấy tự mình quyết định mọi chuyện, chính là vì đôi mắt trống rỗng phản chiếu sự cô độc tột cùng đó.@
-\
-br
-br
-br
-br
-` "Chính vì thế cô ấy hoàn toàn trống rỗng. Không nói đến những triết lý cao siêu như ý nghĩa cuộc sống, ngay cả những niềm vui bình dị nhỏ bé nhất của một cuộc sống thường nhật, cô ấy cũng chưa từng được nếm trải dẫu chỉ một lần."
-\
-br
-br
-\
-br
-br
-` Thế nhưng cô ấy lúc nào cũng tỏ ra vô cùng lạc quan và rạng rỡ.@
-` Ngay cả những điều tầm thường, nhỏ bé nhất cũng có thể khiến cô ấy vui sướng và hạnh phúc tột cùng.@
+`"Cô ấy không có kiến thức hay tự do nào vượt quá những gì cần thiết cho mục đích của mình.@"@
+` "Cô chỉ bước ra ngoài khi mục tiêu đã được xác định."@"@
+` "Chỉ được học những thông tin cần thiết để tiêu diệt kẻ thù một cách chắc chắn."
 \
 br
 br
@@ -655,32 +627,27 @@ br
 br
 br
 br
-br
-` …… Nhưng tôi đã nhầm to mất rồi.@
-` Cô ấy thực sự đang vô cùng trân trọng và tận hưởng những điều bình dị đơn giản đó.@
+` "Không ai ở đó."
 \
+` Không ai để nói chuyện.@
+` Ngay không có một khuôn mặt khác để nhìn thấy.
 \
-br
-br
-\
-br
-br
-br
-br
-br
-br
+`"Sau khi giết mục tiêu của mình và khi cô ấy trở lại lâu đài, kiến thức được truyền đạt của cô ấy bị rửa sạch và cô ấy bị đưa vào ngủ."@
+` Không biết bất cứ điều gì, ngoài việc giết ma cà rồng."
 \
 br
 br
 br
-` Hệt như một giấc mơ hoang đường mà cô ấy chưa từng dám nghĩ tới,
-` Căn phòng học ngập tràn ánh hoàng hôn đỏ rực, nơi cô ấy khẽ nghiêng đầu hỏi tôi những điều ngớ ngẩn...
 br
-br
-br
+` Không có gì cả.@
+` Như niềm vui của việc nói chuyện với người khác.@
+` Những khoảnh khắc quý giá của việc nhìn thấy người khác và chào hỏi họ.@
+` Cô ấy bị loại trừ khỏi tất cả những điều đó.
 \
-br
-` Giữa thế giới tĩnh lặng và cô độc tột cùng đó,
+`"Sức mạnh của cô ấy đủ để đánh bại những Chân Tổ đã ngã xuống. ... Nhưng điều đó lại là một sự nghịch lý. Cô ấy quá mạnh mẽ đến mức bị các Chân Tổ khác xa lánh.@
+` Ngay cả khi ca ngợi cô ấy là công chúa, không ai dám đến gần.@
+` Thậm chí khi ban cho cô ấy một lâu đài, thế giới của cô ấy chỉ là một căn hầm tối tăm.@
+` Vì vậy, chẳng có gì để dành cho cô ấy khiến cô ấy cảm thấy được gì cả.
 \
 br
 br
@@ -688,75 +655,95 @@ br
 br
 br
 br
-br
-br
-br
+` Đó là,
+` Gần như đủ để làm tôi thương hại cô ấy vì sự tồn tại của mình. Một bản sao nhái của cuộc sống.@
+` Một trò đùa của số phận.
+\
+`"[line=2]Rõ ràng, cô ấy không có lời nói hay thậm chí thời gian riêng. Các Chân Tổ đối xử với cô ấy chỉ như một vũ khí.@
+` Một vũ khí không cần những chức năng dư thừa như nướng bánh hay giặt quần áo.@
+` "Nếu cậu muốn thêm chức năng, thì nên chọn thứ gì đó phù hợp hơn với một vũ khí, phải không?"
 \
 br
 br
 br
 br
 br
-`""@
+` [line=2]Tôi luôn được dạy không làm việc dư thừa.
+\
 br
-` Tôi... thực sự là một kẻ vô tâm, chẳng nhận ra điều gì cả.@
+br
+br
+` Vâng, cô ấy đã nói như vậy trước đây.@
+` Lý do cô ấy tự quyết định mọi thứ, vì có đôi mắt trống rỗng đó.@
+br
+` Đó là lý do cô ấy không bao giờ cần đến ai khác.@
+` Không, có thể cô ấy chưa từng biết điều đó.
+\
+`"Tất cả những gì họ mong muốn từ cô ấy chỉ là một cỗ máy giết người siêu việt."@
+` "Đó là lý do cô ấy không biết gì cả. Tôi không nói về điều gì đó lớn lao như ý nghĩa của cuộc sống, mà thậm chí còn không phải là niềm vui nhỏ bé chỉ đơn giản là sống bình thường."
 \
 br
 br
 br
 br
 br
-`"[line=3]Hóa ra là thế..."@
+` Cô ấy luôn rất lạc quan.@
+` Ngay cả những thứ tầm thường cũng khiến cô ấy vô cùng hạnh phúc.@
 br
+` Vì vậy tôi nghĩ cô ấy luôn như vậy.
 \
 br
 br
 br
 br
 br
-\
-br
-\
-br
-br
-br
-` Đối với cô ấy, tất cả những điều tầm thường vô giá trị đó lại chính là những khoảnh khắc hạnh phúc vô giá nhất cuộc đời.
+` …… Nhưng tôi đã sai thảm hại.@
+` [line=3]Cô ấy thực sự chỉ đang tận hưởng những điều đơn giản đó.@
+` Cô ấy chắc chắn đã rất thích thú với những thứ đó.
 \
 br
 br
 br
 br
 br
+` [line=3]Vì nó thật vui vẻ.@
+` Tôi chưa bao giờ nghĩ rằng cuộc sống có thể trở nên vui vẻ chỉ bằng việc tồn tại.
+\
 br
-`"[line=3]Tất cả đều là dối trá!"@
+br
+br
+br
+br
+` Giống như một sự bất an mà cô ấy không thể hiểu được,
+` Phòng học tràn ngập ánh hoàng hôn đỏ rực, nơi cô ấy hỏi tôi những câu hỏi với giọng nói kiềm chế.
+\
+`"Dù Arcueid đã tồn tại từ lâu, cô ấy biết ít hơn chúng ta về cách sống."@
+` Nếu chuyển đổi nó thành khoảng thời gian cô ấy được phép tự do di chuyển, thì thật ngắn ngủi đáng ngạc nhiên.@
+` Cuộc đời cô ấy gần như hoàn toàn dành cho giấc ngủ.@
+` Có lẽ là một giấc ngủ sâu và tối tăm.
+\
+br
+br
+br
+br
+br
+br
+` [line=3]Thật sao?@ Tôi đã có đủ niềm vui chỉ bằng việc trò chuyện, bạn biết đấy.@
 !w1000
 \
-` "Tôi biết chứ. Tôi biết cô ấy đã trân trọng và hạnh phúc đến nhường nào từ những niềm vui nhỏ bé nhất.@"@
-` "Nếu tôi có thể bù đắp và mang lại cho cô ấy một cuộc đời ấm áp, nơi cô ấy có thể tự do tận hưởng những điều bình dị đó hằng ngày, thì dẫu có phải đánh đổi bất cứ giá nào, tôi cũng cam lòng."
+`"Sau khi đối phó với tất cả các Chân Tổ đã ngã xuống, cô ấy không rời khỏi lâu đài.@ Khi hoàn thành sứ mệnh của mình, các Chân Tổ muốn giáo dục cô ấy đúng cách.@
+` Tuy nhiên, cô ấy không thể tự do.@ Vì một sai lầm nhỏ, cô ấy kết thúc bằng việc giết hết các Chân Tổ còn lại trong lâu đài.
 \
 br
 br
 br
 br
 br
+` Có lẽ người đã được dạy cách giết ma cà rồng thực sự đã hoàn thành công việc của mình cho đến tận cùng.@
+` Cuối cùng, cô ấy bị bỏ lại một mình.
 \
-`"Em sao thế? Đột nhiên im lặng rồi đờ người ra vậy. Em có nghe thấy tôi nói gì không?"@
-\
-` Tôi khẽ gật đầu, cố xua đi sự bối rối.
-\
-\
-br
-br
-br
-br
-br
-br
-br
-` Tôi biết những lời Senpai nói xuất phát từ niềm tin chân thành của chị ấy.@
-\
-\
-`"Chuyện đó không phải là sự thật.@ Bởi vì cô ấy đã dùng toàn bộ sức lực để dừng lại ngay sát cổ em rồi.@"@
-`"Không đâu!@ Nếu tôi không kịp thời ngăn cản, cô ấy chắc chắn đã hút máu em rồi!"@
+`"Sau khi giết hết tất cả các Chân Tổ, cô ấy phong ấn bản thân trong lâu đài.@ Trong lâu đài trống rỗng của các Chân Tổ, bị trói buộc bằng ngàn sợi xích.@
+` Mỗi khi Roa tái sinh, cô ấy thức giấc từ giấc ngủ và di chuyển trong một khoảng thời gian ngắn.
 \
 br
 br
@@ -764,52 +751,65 @@ br
 br
 br
 br
-`"Đúng vậy. Xin lỗi chị, Senpai."@
-` Senpai không đáp lại lời nào.@
+` Giữa thế giới tĩnh tại đó,
+` Cô ấy không bao giờ nói lên một từ nào.
+\
+`"Đó là lý do cô ấy trở thành một kẻ giết người đến từ tận cốt lõi.@
+` Ngay cả khi những Chân Tổ ràng buộc cô ấy đã mất, cô ấy vẫn lang thang với mục đích duy nhất là giết các ma cà rồng.@
+` Có lẽ cô ấy không có niềm vui nào khác.
+\
+br
+br
+br
+br
+br
+br
+` "Đó... là một lời nói dối."@
+` Điều đó không làm cô ấy hạnh phúc.
 \
 bg #ffffff,crossfade,800
-`"[line=4] Chúng ta có thể sẽ phải đối đầu sinh tử đấy, em biết chứ?"@
+`"[line=4]"@
 br
-`"……"@
+` Tôi... không quan sát điều gì cả.@
 br
-` [line=4]Tiếng bước chân biến mất hoàn toàn vào hư không. Tôi kiên định bước về phía thị trấn trong đêm đen tĩnh mịch mà không một lần ngoái đầu nhìn lại.
+`"[line=4]đúng vậy."@
 br
-bg #000000,lcartain,1500
-playstop
+` Như lời nói và nụ cười của cô ấy.@
+` [line=4]Nếu tôi chỉ nhìn gần hơn, tôi sẽ biết được.
 \
-` [line=5]Con phố chính ban đêm hoàn toàn vắng bóng người.@"@
+`"[line=5]Của nó."@
 br
-`"Khốn kiếp thật chứ!"@
+` Tôi chưa bao giờ nhận ra cô ấy lại cô đơn đến thế cho đến bây giờ.@
 br
-` Tôi hoàn toàn không có bất kỳ manh mối nào để tìm ra nơi ẩn náu của cô ấy.@
-` Ngay lúc này, dẫu lòng tôi có đang gào thét muốn gặp cô ấy đến nhường nào, tôi vẫn hoàn toàn bất lực.@"@
+` Tất cả những điều mà chúng ta cảm nhận và coi là lẽ đương nhiên.@
+` Như trò chuyện với một người bạn về những thứ vô nghĩa hoặc niềm vui giúp bạn quên đi thời gian.@
 br
-` Cô ấy...
+` Vào cuối ngày, nằm trên giường và sự bình yên của việc chỉ nhìn lên trần nhà.
 \
 br
 br
 br
 br
 br
-bg "bg/bg_52",lcartain,1500
+` Đối với cô ấy, những điều không quan trọng đó là những khoảnh khắc hạnh phúc vô giá.
 \
-bg "bg/bg_12b",lcartain,1500
+`"[line=5]Tất cả nó."@
 br
-bg #000000,crossfade,1500
+` "Sự bất hạnh là gì? Đó là khi cô ấy thậm chí còn không biết mình đang vô cùng bất hạnh."@
 br
-` [line=2]Hơi thở của tôi trở nên vô cùng đau đớn.@"@
+` "[line=2]Một sự cô đơn khủng khiếp, gần như hài hước, không nên tồn tại."
 \
-` [line=6]Thể xác tôi đã kiệt quệ đến cực hạn, lồng ngực đau nhói như không thể hít thở nổi chút dưỡng khí nào nữa.@"@
+`"[line=6]Lời dối trá, tất cả nó."@
 br
-` Vết sẹo cũ trên ngực bỗng nhói buốt, co bóp dữ dội theo từng nhịp tim đập.@"@
-` Từ thuở cha sinh mẹ đẻ đến giờ, tôi chưa từng oán ghét cơ thể ốm yếu, mong manh này của mình đến nhường này.
-\
+` "... Đủ rồi những điều khó khăn này."@
+` "Tôi chưa bao giờ biết rằng cô ấy tìm thấy niềm vui từ những điều nhỏ nhặt."@
+` "[line=4]Nếu tôi có thể cho cô ấy biết rằng những thứ này là những điều mà cô ấy luôn có thể tận hưởng, đó sẽ là một điều tuyệt vời."
 \
 !w2000
 bg "bg/bg_29b",crossfade,1500
 ld c,"tachi/cel_t07b",crossfade,400
-` [line=4]Nếu... nếu thực sự còn có một cơ hội mỏng manh nào đó để tìm ra cô ấy, thì đó chỉ có thể là...
-\
+`"[line=4]? Tohno-kun?"@
+` Tiếng cô ấy đưa thị giác của tôi trở lại bình thường.@
 `"Có chuyện gì vậy? Bạn đột nhiên im lặng và ngơ ngác. Bạn có nghe thấy gì không?"@
 `"[line=3]Không, xin lỗi, tôi không nhớ. Tôi nghe thấy bạn nói chuyện, nhưng cảm giác như có người khác đang nói thay bạn."@
 ` Anh ấy gật đầu nghi ngờ.

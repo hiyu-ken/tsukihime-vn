@@ -8,328 +8,328 @@ br
 br
 br
 br
-`  Tôi không thể.@
-`  Tôi tuyệt đối không thể để điều đó xảy ra.
+` Tôi không thể.@
+` Tôi không thể cho phép điều đó xảy ra.
 \
-`"[line=3]Dừng lại đi, đồ ngốc nghếch kia……!"@
+`"[line=3]Dừng lại, ngốc nghếch!...""@
 br
 bg #000000,lshutter,400
 bg "bg/bg_29b",lshutter,400
-`  Tôi điên cuồng lao về phía Senpai.@ Arcueid thình lình đứng khựng lại ngay trước mặt chị ấy.
+` Tôi chạy đến Senpai với sự hoảng loạn. Arcueid đột nhiên dừng lại trước mặt cô ấy.
 \
 playstop
 ld c,"tachi/ark_t13",lshutter,400
-`"Shiki!?"@
-`  Sát ý của Arcueid lập tức tan biến không dấu vết, cô ấy trở lại vẻ ngoài thường nhật.@
-`  Cô ấy trông vô cùng kinh ngạc và thẫn thờ khi thấy tôi đang dang tay bảo vệ Senpai.
+`"Shiki!"@
+` Ý định giết người của Arcueid tan biến ngay lập tức, và cô ấy trở lại vẻ ngoài ban đầu.@
+` Cô ấy dường như hoàn toàn bất ngờ khi tôi bảo vệ Senpai.
 \
 ld c,"tachi/ark_t12",crossfade,400
-`"Tại sao chứ?@ Sao cậu lại bảo vệ cô ta……!?"@
-`"…… Chẳng phải lúc nãy tôi đã nói rồi sao?@ Senpai là một người vô cùng quan trọng đối với tôi.@ Cho dù là cậu đi chăng nữa[line=3]tôi cũng không cho phép cậu làm tổn hại chị ấy."@
-`  Tôi siết chặt cán con dao găm trong túi quần, trừng mắt lườm Arcueid đầy cảnh giác.
+`"Tại sao? Làm sao anh lại bảo vệ cô ấy……!"?@
+`"... Tôi đã nói rõ rồi đấy. Senpai là một người rất thân thiết với tôi. Ngay cả với cậu[line=3]tôi cũng không cho phép cậu làm điều đó."@
+` Tôi siết chặt nắm đấm trên con dao trong túi và nhìn chằm chằm vào Arcueid.
 \
 ld c,"tachi/ark_t07",crossfade,400
 `"…… Shiki, cậu[line=3]"@
-`  Ánh mắt cô ấy một lần nữa lại vấy lên vẻ thù địch.@
-`"Tránh ra đi, tôi sẽ bỏ qua cho cậu lần này.@
-`  Ngay bây giờ.@ Hãy thôi bảo vệ cô ta, và đừng chĩa con dao đó về phía tôi nữa."@
+` Đôi mắt cô ấy lại tràn ngập sự thù địch.@
+`"Nhường đường cho tôi và tôi sẽ tha thứ cho cậu lần này."@
 ` "Bây giờ, ngừng bảo vệ cô ấy và đừng dùng con dao đó chống lại tôi."@
-\
+` Đôi mắt đỏ của cô ấy lắc lư như những ngọn nến đang cháy.
 \
 waveloop se_02
+` Ý định giết người của cô ấy sắp chuyển hướng sang tôi thay vì Senpai.@
 br
-br
-`  Tôi nuốt nước bọt cái ực.@
-`  Lý trí không ngừng gào thét cảnh báo rằng nếu tôi không lập tức tránh ra thì mọi chuyện sẽ chấm dứt.@
+` Tôi nuốt một ngụm nước bọt.@
+` Trí óc tôi cảnh báo rằng tất cả đã kết thúc nếu tôi không nhanh chóng nhường đường.@
+` [line=3]Nhưng, ngay cả vậy...
 \
-\
+`"...Tôi không thể. Tôi sẽ không lùi lại cho đến khi cô ấy nói sẽ không làm gì đến Senpai."@
 ld c,"tachi/ark_t05a",crossfade,400
-ld c,"tachi/ark_t05a",crossfade,400
-`"[line=3]Tránh ra đi, Shiki!"@
-`"Không, cậu mới phải tránh ra đấy, Arcueid……!@ Chẳng phải cậu từng bảo tôi rằng cậu tuyệt đối không giết con người sao?@
+`"[line=3]Hãy đứng sang một bên, Shiki!"@
+`"Không, cậu phải đứng sang bên này, Arcueid...! Cậu không nói với tôi rằng cậu không giết người bình thường à?"@
+` "Hay đó chỉ là lời nói dối...?!"
 \
 ld c,"tachi/ark_t05b",crossfade,400
-\
-ld c,"tachi/ark_t05b",crossfade,400
-`"[line=4]Không, tôi không giết con người.@
-br
-`  Chẳng hạn như cậu, hoặc người phụ nữ đằng kia vậy."@
+`"[line=4]Không, tôi không giết người. Nhưng tôi tôn vinh những ai vượt quá khả năng của con người."@
 ` "Vì vậy, tôi không ngại giết họ như một thứ bằng đồng với tôi."@
-\
+` "Như cậu hay người phụ nữ kia ở đó."@
 br
-br
-`  Arcueid lừ lừ tiến lại gần.
+` "Một bước."@
+` "Arcueid tiến lại gần hơn."
 \
-\
+`"Tôi thấy rõ[line=3]bạn đang cầm con dao đó chống lại tôi một lần nữa."@
 br
-`  Thêm một bước nữa.@
-br
+` Một bước nữa.@
+` Cô ấy tiến gần hơn.
 \
-`"Tôi đã bỏ qua cho cậu lần đầu tiên rồi.@ Nhưng tôi không nghĩ mình có thể dung thứ cho cậu đến lần thứ hai đâu.@ …… Mà ngay từ đầu, tôi cũng không nghĩ con dao của cậu có thể làm tôi bị thương được đâu.@
+`"Tôi đã tha thứ cho bạn lần đầu tiên. Nhưng tôi không nghĩ mình có thể tha thứ cho bạn lần thứ hai. ... Trước hết, tôi không nghĩ mình có thể bị tổn thương bởi con dao của bạn."@
+` Ngay cả với Đôi Mắt Nhận Thức Chết Thần Thánh của bạn, bạn không nên nhìn thấy cái chết của tôi ngay lúc này."@
+br
+` Từ chính phía trước mặt tôi,
+` đôi mắt vàng của cô ấy xuất hiện trong tầm nhìn của tôi.
 \
 bg #9c0120,crossfade,400
 br
-`  Ngay trước mắt tôi lúc này,
-`  đôi đồng tử vàng rực như hổ phách của cô ấy choán lấy toàn bộ tầm nhìn.
-` đôi mắt vàng của cô ấy xuất hiện trong tầm nhìn của tôi.
-\
+`"Ah."[line=4]@
+` Trái tim tôi như đã ngừng đập.@
+` Một cơn lạnh chạy dọc sống lưng tôi.@
+` Nỗi tuyệt vọng nghẹt thở này, khiến mọi thứ như đè nặng lên tôi, lớn hơn bất kỳ điều gì trong trận chiến với Nrvnqsr.@
 br
-br
-`"[line=4]A."@
+` ... Tôi không thể, làm được gì.@
+` Đây là[line=3] ý nghĩa của việc chiến đấu, Arcueid?[line=3]
 \
 bg "bg/bg_29b",crossfade,400
 ld c,"tachi/ark_t23b",crossfade,400
+`"Shiki, đây là cơ hội cuối cùng của cậu. Trong khi tôi vẫn còn suy nghĩ, quay lại."@
+` Tôi không muốn mất người đầu tiên tôi yêu mến chỉ vì người phụ nữ đó.@
 br
- …… Tôi hoàn toàn không thể nhúc nhích nổi.@
-br
+` [line=4]Những cơn lạnh tụ tập ở cổ tôi.
 \
-\
-ld c,"tachi/ark_t23b",crossfade,400
-`"Shiki, đây là cơ hội cuối cùng của cậu.@ Trong lúc tôi vẫn còn giữ được lý trí, hãy lùi lại đi.@
-`  Tôi không muốn phải tự tay định đoạt số phận của người đầu tiên tôi đem lòng yêu quý, chỉ vì người đàn bà đó đâu."@
+` Arcueid ở vị trí hoàn hảo để giết tôi.@
+` Nếu cánh tay đó di chuyển, cô ấy có thể xé cổ tôi trước khi tôi kịp rút con dao.@
+` Ngay cả như vậy[line=3]cũng sai.
 \
 wavestop
- [line=4]Cơn lạnh toát dồn tụ lại nơi cổ họng.
-\
+`"... Tại sao, tôi chỉ không hiểu, Arcueid. Tại sao em lại là người vô cùng tàn nhẫn chỉ với Senpai?"@
+` Tôi biết em không phải là người có đạo đức cao, nhưng em không nên nói về việc giết người một cách dễ dàng như vậy...!"@
 cl c,crossfade,800
-`  Chỉ cần cánh tay đó khẽ vung lên, cô ấy có thể bẻ gãy cổ tôi trước khi tôi kịp vung dao.@
-`  Thế nhưng, cho dù là vậy…… chuyện này thật quá sai trái.
-\
+`"[line=4]Shiki"@
+` Sự thù địch của Arcueid bắt đầu giảm dần.@
+` Cô ấy bước ra khỏi hai chúng tôi.
 \
 ld c,"tachi/ark_t07",crossfade,400
-`  Tôi biết cậu vốn không quá bận tâm đến luân thường đạo lý thông thường, nhưng cậu đâu phải hạng người có thể thản nhiên mở miệng nói chuyện giết chóc dễ dàng đến thế……!"@
+`"Tôi hiểu rồi. Nếu cậu ủng hộ cô ấy đến mức này, thì tôi không biết cậu nữa."@
 cl c,lshutter,400
-cl c,crossfade,800
-`"Shiki[line=4]"@
-`  Sát khí ngút trời của Arcueid thốt nhiên bắt đầu dịu xuống.@
-`  Cô ấy lẳng lặng bước lùi xa khỏi cả hai chúng tôi.
-\
-ld c,"tachi/ark_t07",crossfade,400
-`"Tôi hiểu rồi.@ Nếu cậu đã một mực bênh vực cô ta đến mức này, thì tôi không còn lời nào để nói với cậu nữa."@
-cl c,lshutter,400
-`"A[line=3]Arcueid……?"@
-\
-`  Người đàn bà mà cậu đang ra sức bảo vệ kia, hoàn toàn không phải hạng người như cậu vẫn tưởng đâu."@
+`"[line=3]Akiha...?"@
+`"Chỉ cần cẩn thận, Shiki."@
 ` "Người phụ nữ mà cậu đang bảo vệ, cô ấy không phải là người mà cậu nghĩ đâu."@
-`"Cậu…… cậu đang nói cái gì thế?"
-br
-`"Hừm.@ Rồi cậu sẽ bị cô ta dối lừa và hút cạn máu cho mà xem.@
-br
+`"[line=3]Chuyện gì vậy?"
+\
+`"Hmph. Cậu có thể bị lừa và để cô ấy hút máu mình đấy."@
 ` "Tạm biệt! Đừng quay lại tìm tôi khóc lóc!"@
-br
-`  Giữa không gian tĩnh lặng, giờ đây chỉ còn lại tôi và Senpai đang nằm bất động với đầy vết thương trên người.
+` Arcueid bước đi, không hề ngoái nhìn lại.@
+` Chỉ còn tôi và Senpai bị thương, gục xuống.
 \
-\
-`  Toàn thốt ra những lời vô lý ngớ ngẩn.@
-`  Senpai mà lại đi hút máu tôi sao……?@
+`"[line=5][line=4]Cô ấy là ai vậy?"@
+` Nói những điều ngớ ngẩn như thế.@
+` Senpai muốn hút máu tôi à?@
 br
-`"[line=3]Thật là một lời bịa đặt nực cười."@
+`"[line=3]Đó là một lời nói dối vô lý."@
 br
-`  Nghe cứ như thể……@
+` Điều đó nghe có vẻ...@
 br
+`"[line=3]Senpai là ma cà rồng hay gì đó sao?"@
+` Nói vậy, tôi bật cười.
 \
-`  Thốt lên câu đó, tôi tự dưng bật cười thành tiếng.
+` Vì điều đó là không thể.@
+` Người bạn cùng lớp đi dạo vào ban ngày.@
+` Này, Arcueid là một ma cà rồng đi lại vào ban ngày, nhưng ngay cả cô ấy cũng yếu đi lúc đó.@
+` Nhưng đối với người bạn cùng lớp, cô ấy không thay đổi dù đêm hay ngày.@
+br
+` Đầu tiên, người bạn cùng lớp không phải là thành viên của Giáo Hội sao?@
+` Đối với một ma cà rồng để tham gia vào một tổ chức có mục đích chấm dứt các ma cà rồng thì thật mâu thuẫn.
 \
-`  Bởi vì chuyện đó làm sao có thể xảy ra được chứ.@
+`"[line=4]!@ Quan trọng hơn, người bạn cùng lớp!"@
+` Tôi quay lại kiểm tra người bạn cùng lớp.@
+` Mặt đất nhuộm đỏ máu, nên tôi phải đưa cô ấy đến bệnh viện...
 \
 play "*8"
-`  Còn với Senpai, bất kể ngày hay đêm, chị ấy vẫn hoàn toàn bình thường chẳng có chút khác biệt.@
+`"Hả?"@
 br
-`  Vả lại, chẳng phải Senpai vốn là thành viên của Giáo hội sao?@
-`  Thật là mâu thuẫn tột cùng khi một ma cà rồng lại gia nhập vào một tổ chức chuyên đi săn lùng ma cà rồng.
+` [line=3]Máu đã biến mất.@
+` Tóc đen của cô ấy, nhuộm đỏ bởi dòng máu đang chảy, giờ đây sạch sẽ không một vết.
 \
 ld c,"tachi/cel_t07b",crossfade,400
-`  Tôi vội quay ngoắt lại để kiểm tra tình trạng của Senpai.@
-`  Mặt đất xung quanh đầm đìa máu tươi, tôi bắt buộc phải lập tức đưa chị ấy đến bệnh viện gấp……
+`"[line=4]..."@
+` Senpai đứng dậy như thể chẳng có chuyện gì xảy ra và vẻ ngoài của cô ấy hoàn toàn không bị tổn thương.
 \
-play "*8"
-`"……………… Hử?"@
-br
-`  Vệt máu loang lổ[line=3]đã hoàn toàn biến mất.@
+`"[line=2]Senpai, chuyện gì vậy?"@
+`"... Tohno-kun. Tại sao cậu bảo vệ tôi? Cậu không biết cô ấy gần như đã giết cậu à?"@
+` Đôi mắt cô ấy hoàn toàn không có chút cảm xúc nào.@
+` Với đôi mắt trống rỗng như một con búp bê vô hồn, cô ấy thậm chí còn không nghe thấy câu hỏi của tôi.
 \
-\
-ld c,"tachi/cel_t07b",crossfade,400
-`"[line=4]"@
-`  Senpai ung dung đứng dậy như thể chưa từng có chuyện gì xảy ra, cơ thể chị ấy hoàn toàn lành lặn không một vết xước.
-br
-`"Senpai[line=2]chuyện này rốt cuộc là sao ạ?"@
-`"…… Tohno-kun.@ Tại sao em lại bảo vệ chị chứ?@ Chẳng lẽ em không biết cô ta thực sự đã chuẩn bị lấy mạng em sao?"@
-\
-`  Với đôi đồng tử trống rỗng tựa như một con búp bê vô hồn, chị ấy dường như chẳng hề nghe thấy câu hỏi của tôi.
-\
-`"Chị hỏi tại sao á?@ Bởi vì lúc đó chị sắp chết rồi.@ Gặp tình huống nguy cấp như thế thì ai mà chẳng làm vậy cơ chứ."@
-`"Kể cả phải đánh đổi bằng chính mạng sống của mình sao?@ Tohno-kun, sự tận hiến không đồng nghĩa với việc vứt bỏ cuộc sống của mình đâu.@
-`  Hy sinh tính mạng để cứu người khác không phải là sự tận hiến hay cao thượng, đó thực chất chỉ là lòng vị kỷ tự thỏa mãn bản thân mà thôi.@
-\
+`"Anh hỏi tại sao?@ Vì cô ấy sắp chết.@ Bất kỳ ai trong tình huống đó cũng sẽ làm như vậy."@
+`"Ngay cả khi điều đó có nghĩa là tự mình giết mình?@ Tohno-kun, sự tận tâm không phải là ném bỏ mạng sống của chính mình.@
 ` Giao nộp mạng sống để cứu người khác không phải là sự tận tâm hay hy sinh, mà chỉ là tình yêu bản thân."@
-` "Tại saocô ấy lại"@
+` "Tại sao[line=3]cô ấy lại[line=4]"@
 br
-`  Giọng nói của chị ấy trở nên vô cùng đanh thép và nghiêm nghị.@
-`  Chị ấy lên giọng khiển trách tôi một cách gay gắt.
+` Giọng cô ấy rất nghiêm nghị.@
+` Cô ấy trách móc tôi rất nặng nề.
 \
-\
- …… Nói thẳng ra, việc đó chỉ mang lại sự phiền toái tột cùng cho chị mà thôi.@
-`  Chủ nghĩa lý tưởng là một điều tốt đẹp, nhưng làm ơn đừng kéo chị vào cái gọi là công lý ích kỷ của em."@
+`"Bạn chỉ làm thế để tránh hối tiếc sau này. Và bạn hài lòng với điều đó.@
 ` ... Để nói thẳng ra, điều đó rất phiền phức đối với tôi.@
 ` Chủ nghĩa lý tưởng là một điều tốt đẹp, nhưng xin đừng kéo tôi vào công lý ích kỷ của bạn."@
-`"Cái…… chị đang nói cái gì thế ạ?@ Em chỉ là không muốn nhìn thấy Senpai phải chết mà thôi……!@
+`"[line=3]Anh nói gì vậy? Tôi chỉ không muốn anh chết, Senpai...!"@
+` "[line=3]Anh có nghĩa là điều đó phiền phức sao? Anh có nghĩa là nếu Arcueid giết anh như thế thì cũng được à?"
 \
-` "[line=3][line=3]Anh có nghĩa là điều đó phiền phức sao? Anh có nghĩa là nếu Arcueid giết anh như thế thì cũng được à?"
-\
-`"Đúng vậy.@ Đó là mạng sống của chị, nên nó hoàn toàn chẳng có chút liên quan gì đến em cả.@
-\
+`"Đúng. Cuộc sống của tôi, nên nó không liên quan đến anh."@
 ` "... Sống sót nhờ lòng thương của một ma cà rồng thật đáng buồn quá."@
 `"[line=5]!"@
+` Tôi tức giận.@
+` Phần vì cô ấy từ chối tôi ngay cả khi tôi đã bảo vệ cô ấy.@
+` Nhưng, điều đó không chỉ đơn giản như vậy[line=3]
 \
-`  Một phần là bởi chị ấy phũ phàng gạt phăng mọi nỗ lực bảo vệ của tôi dành cho chị ấy.@
-`  Nhưng phần nhiều hơn thế[line=3]
-\
-`"Chị đừng có đùa cợt kiểu đó nữa……!@ Chị coi…… chị coi mạng sống của mình là cái gì thế hả!?@
-`  Chị không hiểu sao?@ Một khi đã chết đi thì tất cả mọi thứ đều sẽ chấm dứt!@
-\
-`  Chị bắt buộc phải tiếp tục sống…… bởi vì ngoài sự sống ra chúng ta chẳng còn lại gì cả.@
-`  Bị sỉ nhục thảm hại thì đã sao chứ?@ Điều đó vẫn còn tốt hơn gấp vạn lần so với việc vĩnh viễn chẳng còn cảm giác gì trên đời này nữa………!"
-\
+`"Đừng ngu ngốc...!@ Điều gì[line=2]đó mà bạn nghĩ cuộc đời của mình là gì!?@
+` Bạn không thấy sao?@ Nếu bạn chết, tất cả sẽ kết thúc!@
 ` Dù bạn đã làm những điều kinh khủng, đáng sợ đến mức nào, nếu bạn không tiếp tục sống, tất cả đều sẽ là một lời nói dối!@
-\
+` Bạn phải tiếp tục sống... bạn phải tiếp tục sống vì không còn gì khác.@
 ` Vậy dù bạn có bất hạnh thì sao?@ Điều đó tốt hơn nhiều so với việc không thể cảm nhận điều đó chút nào...!"
 \
-br
-`  Đôi mắt của chị ấy lúc này hoàn toàn trống rỗng không chút ánh sáng.@
-br
+`"[line=3][line=3]Đúng vậy. Cậu là người đã nếm trải cái chết cách đây tám năm. Đó là lý do tại saocậu có thể hài lòng với cách suy nghĩ đơn giản như vậy."@
+` Đôi mắt cô hoàn toàn trống rỗng.@
+` Cô ấy nói mà không nhìn tôi, như thể cô ấy thậm chí còn không thể thấy chính mình.
 \
-`"Em thật là hạnh phúc biết bao.@ Còn chị thì không thể thốt ra những lời lẽ thanh thản như thế được."@
-`  Vừa nói, chị ấy vừa lẳng lặng bước lùi lại phía sau.
+`"Rất vui mừng vì cậu được như vậy. Tôi không thể nói ra những lời này."@
+` Khi nói, cô ấy lùi lại.
+\
+`"... Tohno-kun. Những gì cô ấy nói trước đó là đúng."@
+`"... Sao cậu lại... tại sao cậu lại...?"@
+`"Như Arcueid đã nói, tôi không thể được gọi là con người. Tôi không có trái tim, cũng không có cảm xúc."@
+` Bạn không thấy nó, Tohno-kun? Tất cả máu đổ ra biến mất như chưa từng tồn tại.@
+`"[line=4]Đó là..."
+\
+`"Không sao. Tôi là một quái vật."@
+` "Tôi không phải là ma cà rồng, nhưng cơ thể tôi thì khác xa so với người bình thường."
+\
+` Cô ấy nhìn xuống khi nói.
+\
+`"... Cái gì... bạn đang nói, cô? Cơ thể không giống người bình thường? Bạn trông bình thường với tôi..."!@
+`"Ngay cả khi nó như thế này?"@
+br
+` Cô ấy từ từ rút thanh kiếm và đặt nó lên cổ mình.@
+br
+`"Thế, Senpai..."@
+` Tôi chẳng có thời gian để ngăn cô ấy.@
+` Với âm thanh trong veo, nó cắt xuyên qua cổ họng của cô ấy.
 \
 bg #000000,crossfade,400
 bg "event/cel_e05a",crossfade,400
-`"Đúng như những gì Arcueid nói, chị không thể được coi là con người nữa rồi.@
-`  Em chẳng phải đã tận mắt chứng kiến rồi sao, Tohno-kun?@ Toàn bộ dòng máu tuôn tràn lúc nãy đã biến mất sạch trơn như thể chưa từng tồn tại."@
+` "Chụm."@
+` Máu tươi như vẽ trên đôi mắt tôi, văng khắp nơi.
 \
 monocro #ff0000
 bg "event/cel_e05a",notrans,0
 br
-`  Chị không phải là ma cà rồng, thế nhưng cơ thể này…… nó hoàn toàn không giống với một con người bình thường."
+` "Rìu."@
+!w1000
+` "Rìu rìu."@
+!w1000
+` "Rìu rìu. Rìu. Rìu."@
 !w1000
 \
-!w1000
-\
-!w1000
-\
-br
-`  Senpai chậm rãi rút lưỡi kiếm của mình ra và đặt áp sát vào cổ họng chị ấy.@
-br
-`"Se, Senpai……!"@
+` Đẹp quá.@
+` Nó thu hút tầm nhìn tôi, thậm chí cả nhận thức của tôi, máu thấm vào bộ đồ đen của cô ấy.@
+` Dưới lớp áo choàng,
+` Da trắng của Senpai có lẽ lẫn với những đường nét đẹp đỏ rực[line=3]
 \
 monocro off
 bg "event/cel_e05a",notrans,0
-bg #000000,crossfade,400
-bg "event/cel_e05a",crossfade,400
- *Phụt*@
-`  Như thể nhuộm đỏ toàn bộ nhãn quan của tôi, dòng máu tươi nóng hổi bắn tung tóe khắp nơi.
-\
-monocro #ff0000
-\
-br
- *Tách*@
-!w1000
- *Tách tách*@
-\
-bg "event/cel_e05b",crossfade,1500
-br
-br
-br
-br
-br
-br
-` Da trắng của Senpai có lẽ lẫn với những đường nét đẹp đỏ rực[line=3]
-\
-\
-bg "event/cel_e05a",notrans,0
-`  Một giọt máu tươi bắn ra và đậu lại ngay trên đầu ngón tay tôi.@
-`  Nó lập tức kéo tôi ra khỏi cơn mê muội nhất thời và đưa tôi trở lại với thực tại phũ phàng.@
-\
+` Một giọt máu bay ra và rơi xuống ngón tay tôi.@
+` Nó giải phóng tôi khỏi sự giam cầm tạm thời và đưa tôi trở lại thực tại.@
+` Trước mặt tôi là hình ảnh Senpai bị nhuộm máu.@
 `"Senpai……!"@
-`  Tôi tức tốc nhào về phía chị ấy.@
-br
+` Tôi nhanh chóng chạy đến bên cô ấy.@
+`"Không cần phải hoảng loạn. Nhìn này."
 \
-`  Chị ấy giữ tôi lại và khẽ chỉ tay vào cổ họng mình.@
-\
-`  Và toàn bộ những vệt máu đầm đìa xung quanh cũng trôi sạch như chưa từng xuất hiện.@
-`  Giống hệt như một đoạn băng video đang được tua ngược lại, mọi thứ lập tức quay trở lại trạng thái ban đầu một cách hoàn hảo.
+` Cô ấy ngăn tôi lại và chỉ vào cổ mình.@
+` ... Chấn thương đã biến mất.@
+` Và cả máu trước đó cũng không còn nữa.@
+` Giống như một đoạn video đang được quay lại, mọi thứ trở về như ban đầu.
 \
 bg "event/cel_e05b",crossfade,1500
 br
-\
-br
-\
 br
 br
- [line=3]Hiện tượng ấy,
- thật quá đỗi kỳ dị, và quả thực chỉ có từ "tua ngược thời gian" mới có thể lột tả chính xác bản chất của nó, chứ hoàn toàn không phải trị thương hay tái tạo cơ thể thông thường.
+br
+br
+br
+` [line=3]Đó là,
 ` kỳ lạ, và từ "quay lại" thực sự mô tả nó tốt hơn là chữa lành hay tái tạo.
 \
+`"……………"@
+` Tôi không thể nói ra.@
+` [line=3]Sau khi thấy điều đó, tôi không điên đến mức nói với cô ấy rằng cô ấy vẫn bình thường.
+\
+`"…… Đó là cách nó xảy ra.@ Nếu có thể ngăn chặn được, tôi chẳng muốn bạn biết, Tohno-kun."@
+` Senpai mỉm cười buồn bã.@
 br
-`  Tôi hoàn toàn á khẩu.@
+` Tôi
+` không biết phải nói gì.
+\
+`"…… Giống như cậu nói, Tohno-kun."@
+` "Tôi đã lừa dối cậu suốt thời gian này. Vì vậy, nếu cậu giận tôi cũng không thể tránh được."@
+`"... À..."@
+` Nhưng, tôi không thể trách cô ấy.@
+` "[line=3]Một điều như thế [lẻ 3] ngay cả khi tôi muốn cô ấy che giấu nó khỏi tôi mãi mãi."
+\
+` Tôi muốn cô ấy... ở lại như Senpai cũ.
+\
+`"Nhưng, tôi không hối tiếc về những gì đã xảy ra vào buổi sáng nay."@
+` Tôi rất vui khi cô ấy nói rằng chúng ta đã có một thời gian vui vẻ và cô ấy muốn bảo vệ tôi nếu có thể.@
+`"[line=3]Senpai."@
+` Nhưng, đó là...
+` Những khoảnh khắc bình yên thực sự mà tôi muốn kéo dài mãi mãi.
+\
+br
+`"Tạm biệt."@
 !w2000
 \
 bg #000000,crossfade,800
 bg "bg/bg_29b",crossfade,800
+` Cho đến tận cùng, cô ấy luôn mỉm cười và biến mất trước mắt tôi.@
+`"[line=6]" @
+` Tâm trí tôi hoàn toàn hỗn loạn.@
 br
- Tôi
- chẳng biết phải nói lời nào nữa.
+` Tôi không thể theo sau cô ấy.@
+` Arcueid nói rằng Senpai là một ma cà rồng.@
 br
+` Senpai không phủ nhận và thậm chí còn cho tôi xem bằng chứng, rồi sau khi nói lời tạm biệt, cô ấy biến mất.
 \
-`"…… Đúng như những gì em nói đấy, Tohno-kun.@
-br
-` "Tôi đã lừa dối cậu suốt thời gian này. Vì vậy, nếu cậu giận tôi cũng không thể tránh được."@
-\
-`  Nhưng, tôi làm sao có thể trách móc chị ấy được chứ.@
-`  Một bí mật tàn nhẫn như thế[line=3]ngay cả bản thân tôi cũng ước gì chị ấy hãy cứ giấu nhẹm đi mãi mãi.
+` Ngay cả nếu đó là một lời dối trá.@
+` Ngay cả nếu đó là một lời dối trá dễ dàng nhìn thấy qua, nếu cô ấy chỉ đơn giản nói rằng nó không phải vậy, mọi thứ sẽ ổn thôi.
 \
 bg #000000,crossfade,400
 bg "event/cel_e05b",crossfade,400
 bg "bg/bg_29b",crossfade,400
-`  Chị thực sự đã vô cùng hạnh phúc khi nghe em nói rằng khoảng thời gian ở bên nhau rất vui vẻ, và em thực lòng muốn bảo vệ chị nếu có thể."@
-` Tôi rất vui khi cô ấy nói rằng chúng ta đã có một thời gian vui vẻ và cô ấy muốn bảo vệ tôi nếu có thể.@
-`"[line=3]Sen, pai."@
-`  Bởi vì, những khoảnh khắc ấy,
+` Tôi không thể quên đi vẻ mặt buồn bã của cô ấy.@
+` Người bạn cùng lớp, một người tốt đến thế,
+` Chỉ là một học sinh năm cuối trong trường tôi,
+` Tôi không muốn biết cô ấy lại khác biệt đến vậy.
 \
 br
 br
+` [line=3]Tạm biệt.@
 br
-br
-!w2000
-\
-bg #000000,crossfade,800
-bg "bg/bg_29b",crossfade,800
-`  Cho đến khoảnh khắc cuối cùng, chị ấy vẫn trao cho tôi nụ cười dịu dàng quen thuộc ấy rồi thốt nhiên biến mất hoàn toàn ngay trước mắt tôi.@
+` Những lời cuối cùng của cô ấy.@
+` Không cần phải suy nghĩ về ý nghĩa của chúng.@
+` Tôi đã biết về cô ấy và thậm chí còn làm tổn thương cô ấy. Nhưng cô ấy vẫn đến gặp tôi.@
+` Nhưng mọi thứ đã kết thúc.@
+` [line=3]Tôi không muốn tin rằng tôi sẽ không bao giờ thấy cô ấy nữa.
 \
 wave se_01
+`"[line=4]Không, điều này không thể xảy ra."@
+` Đầu tôi như ngừng hoạt động.@
+` Nó chỉ đang ở trạng thái sốc.@
+` Nó quá sốc đến mức không thể nói rõ lý do tại sao nó lại sốc.@
 br
-`  Tôi chẳng thể cất bước đuổi theo chị ấy nữa rồi.@
-`  Arcueid khẳng định chắc nịch rằng Senpai là một ma cà rồng.@
-br
-br
-\
+` Tôi rời công viên với những ký ức không chắc chắn và bước đi lúng túng.
 \
 bg #000000,lcartain,800
 bg "bg/bg_24c",lcartain,800
 br
-bg "event/cel_e05b",crossfade,400
+` [line=3]ĐỊA THẤP.
 \
 bg #000000,lcartain,800
 bg "bg/bg_47",lcartain,800
 br
 br
-`  tôi thực sự không bao giờ muốn biết rằng chị ấy lại thuộc về một thế giới hoàn toàn dị biệt và xa vời đến thế.
+` [line=3]ĐỊA TẠM ĐỘ.
 \
 bg #000000,lcartain,800
 bg "bg/bg_48d",lcartain,800
 br
 br
 br
-`  Chẳng cần phải suy nghĩ sâu xa làm gì về ý nghĩa của nó nữa.@
+` [line=3]Nhịp tim đập mạnh trong tôi, khiến tôi mệt mỏi đến mức không thể chịu nổi.
 \
 bg #000000,lcartain,800
 bg "bg/bg_33d",lcartain,800
@@ -337,7 +337,7 @@ br
 br
 br
 br
-` [line=3]Nó chỉ đang ở trạng thái sốc.@
+` [line=3]Cái đau đầu này thật kinh khủng.
 \
 bg #000000,lcartain,800
 bg "bg/bg_40d",lcartain,800
@@ -348,60 +348,60 @@ br
 br
 br
 br
-bg "bg/bg_47",lcartain,800
+` Tôi muốn ngủ, hơn bất cứ điều gì khác, ngay cả khi không nghĩ về Senpai hay Arcueid hay bất cứ thứ gì khác.
 \
-br
- [line=3]*Thình thịch*.
+` Ngày hè nóng bức.@
+` Bầu trời xanh thẳm và những đám mây mùa hè khổng lồ.
 \
 bg #000000,crossfade,1500
 playstop
 !w3000
-br
+phase #000000,l,cel,08a,8
 bg #ffffff,crossfade,1500
 bg "bg/cmo_05",crossfade,800
 br
-bg #000000,lcartain,800
+` Tôi cảm thấy như thể cơ thể mình tan chảy dưới ánh nắng.@
 br
+` Những đám mây trôi qua, che khuất mặt trời, nhưng không làm giảm bớt cái nóng bức.@
+` Làn gió thoảng qua,
+` và tiếng rì rầm của chuông chích.@
 br
-br
-br
-br
- [line=3]*Thình thịch*.
+` Tiếng chuông chích.
 \
 br
-bg "bg/bg_40d",lcartain,800
-bg #9c0120,crossfade,400
-bg "bg/bg_40d",crossfade,400
+` "Chirp. Chirp."@
+` "Chirp. Chirp."@
+` "Chirp. Chirp."@
 br
-br
+` [line=4]Tiếng quá lớn, tôi muốn chết.
 \
+` Trong khoảng trống, vỏ của chuông chích bị bỏ lại.@
+` Khi mặt trời như ở ngay bên cạnh tôi,
+` Nơi rừng mở cháy với một ngọn nhiệt dữ dội.@
 br
-br
- …… Tôi kiệt sức, rã rời hoàn toàn.
-br
-`  Cơn đau đầu nhức buốt này như đang muốn lấy mạng tôi vậy.@
-`  Hơn bất cứ điều gì hết, lúc này tôi chẳng muốn nghĩ ngợi về Senpai, Arcueid hay bất cứ chuyện gì nữa cả.@ Tôi chỉ muốn chìm sâu vào giấc ngủ.
+` Một ngày hè nóng bức.@
+` Như thể cả thế giới trở thành chảo rán.
 \
-bg #000000,crossfade,1500
+` Waah, u, uwaa.
 \
-!w3000
-[Màu đen, l, Ciel, 08a, 8]
+` Waah, u, uwaa.@
+` Waah, u, uwaa.
 \
 bg "bg/cmo_06",crossfade,800
 br
-`  Một ngày hè oi bức, nóng nực.@
+` Akiha đang khóc.@
+` Có một đứa trẻ nằm gục tại chân cô ấy.@
 br
-br
-`  Làn gió nóng hầm hập khẽ lướt qua,
+` Áo sơ mi trắng của hắn nhuộm đỏ bằng máu và hắn không hề di chuyển chút nào.
 \
-` và tiếng rì rầm của chuông chích.@
+` Nhìn xuống hắn,
+` Tay tôi đỏ ngầu, giống như đứa trẻ trên mặt đất.@
 br
-br
-\
+` Không, điều đó không đúng.@
 !w500
- *Ve ve*@ *Ve ve*@
+` Những bàn tay này,
 !w500
- *Ve ve*@ *Ve ve*@
+` Đỏ ngầu với máu của đứa trẻ đó.
 \
 bg "bg/cmo_07",notrans,0
 bg "bg/cmo_11",notrans,0
@@ -416,318 +416,285 @@ bg #000000,crossfade,400
 bg "event/ark_e06b",crossfade,400
 play "*9"
 br
- Oa, oa, oa.
-\
+` Một đồng cỏ xanh mướt bị che khuất khỏi ánh mặt trời.@
+` Được nuôi dưỡng chỉ bằng ánh trăng, những bông hoa trắng kiêu hãnh.@
 br
-br
-`  Akiha đang khóc nức nở.@
+` Dưới ánh trăng trong suốt.@
+` Một người phụ nữ cô độc với bộ trang phục trắng tinh khiết.
 \
+` Ngay cả khi không biết từ ngữ.@
+` Cô ấy thậm chí còn không nhận thức được chính mình.@
+` Chỉ được xem như một phương pháp giết chóc.@
 br
-`  Chiếc áo sơ mi trắng của đứa trẻ ấy đẫm máu đỏ tươi và tuyệt nhiên không hề nhúc nhích.
+` Người phụ nữ trắng nhuốm máu tươi hoàn toàn không bị thương.@
+` Màu đỏ rực trên bộ đồ của cô ấy chỉ là máu của kẻ thù.
 \
-br
- hai bàn tay tôi cũng nhuốm một màu đỏ lòm, giống hệt như đứa trẻ đang nằm trên đất kia.@
-` Tay tôi đỏ ngầu, giống như đứa trẻ trên mặt đất.@
-\
-`  Không, không phải thế.@
-!w500
- Bàn tay này,
+` Thời gian duy nhất cô ấy được phép tồn tại là khoảng thời gian ngắn ngủi sau những lần trở về đầy máu me.@
+` Điều chờ đợi cô ấy sau đó chỉ là một giấc ngủ mà cô ấy không thể tự tỉnh lại.@
+` ... Cô gái trắng thậm chí còn không biết số phận của mình, và chỉ nhìn lên bầu trời với đôi mắt xa xăm.
 \
 br
 br
 !w1000
-bg "bg/cmo_07",notrans,0
+` [line=3]Tôi nghĩ, tôi đã thấy vĩnh hằng ở đó.@
 !w1050
 br
-bg "bg/cmo_09",notrans,0
-bg "bg/ima_01",notrans,0
-bg "bg/cmo_08",notrans,0
-bg "bg/cmo_13",notrans,0
+` Có phải một ảo ảnh?@
+` Có lẽ là vậy.@
+` Nhưng tôi không quan tâm.@
+` [line=3]Sự thật là hình bóng của cô ấy đã vĩnh viễn in sâu vào ký ức của tôi thực sự
 \
 playstop
 bg #ffffff,crossfade,1500
 bg "bg/bg_40a",crossfade,1500
 play "*2"
+` Tôi có cảm giác như vừa trải qua một giấc mơ hoài niệm và tôi thức dậy từ giấc ngủ.@
 br
-br
-`  Những đóa hoa trắng kiêu hãnh chỉ sinh trưởng dưới ánh trăng thanh khiết.@
-br
-`  Dưới vầng trăng sáng trong veo chiếu rọi.@
+`"[line=4]À..."@
+` Giống như trước đó tôi không thở, đột nhiên tôi hít một hơi thật sâu.@
+` Điều đó khiến tôi tỉnh táo hoàn toàn.
 \
-\
-`  Nàng thậm chí còn không biết đến ngôn từ.@
-`  Không hề có nhận thức về bản ngã của chính mình.@
+`"... ..."@
+` Tôi ở trong phòng của mình.@
+` [line=3]Sau sự tách biệt với Senpai ở công viên, tôi dường như đã trở về phòng này một cách nào đó.
 \
 bg "event/cel_e05b",crossfade,800
 bg "bg/bg_40a",crossfade,800
-`  Sắc đỏ thẫm đẫm trên tà váy trắng tinh khôi của nàng chỉ là máu của những kẻ thù mà nàng đã tiêu diệt.
-\
-`  Khoảng thời gian tự do duy nhất nàng được ban phát chính là khoảnh khắc ngắn ngủi sau mỗi lần trở về từ chiến trường đẫm máu.@
-`  Đợi chờ nàng sau đó chỉ là một giấc ngủ ngàn thu mà nàng chẳng thể tự mình tỉnh giấc được.@
- …… Cô gái màu trắng ấy thậm chí còn chẳng hề hay biết số phận bi thảm của mình, nàng chỉ biết lặng lẽ ngước mắt dõi nhìn vầng trăng xa xoài bằng đôi đồng tử sâu thẳm.
+`"[line=3][line=3]Ciel, Senpai..."@
+` Tôi không thể quên đi vẻ mặt của cô ấy.@
+` Tại sao tôi lại không nói gì vào lúc đó?@
+` Tôi vẫn bị thu hút bởi Arcueid, mặc dù tôi biết cô ấy là một ma cà rồng.@
+` Vì vậy, ngay cả khi Senpai là một ma cà rồng, tôi cũng không nên ngạc nhiên như vậy.@
 br
-br
-br
+` …… Tôi nên cười.@
+` Nếu tôi cười như thể đó là một trò đùa, có lẽ cô ấy sẽ cười cùng tôi như mọi khi.
 \
- [line=3]Tôi ngỡ như mình đã nhìn thấy sự vĩnh hằng ở đó.@
-!w1050
-br
-`  Liệu đó chỉ là một ảo ảnh?@
-`  Chắc chắn là như vậy rồi.@
-`  Nhưng tôi cũng chẳng bận tâm nữa.@
+`"… Không.@ [line=3]"@
+` Tôi thực sự muốn cô ấy ở lại làm Senpai.@
+` Thời gian yên bình và vui vẻ mà tôi dành cùng Senpai ở trường rất quý giá.@
+`"[line=4]Chết tiệt."@
+` Nhưng giờ mọi thứ đã kết thúc.@
+` Cô ấy sẽ không bao giờ đến trường với vai trò Senpai nữa.
 \
-\
-playstop
-bg #ffffff,crossfade,1500
-bg "bg/bg_40a",crossfade,1500
-play "*2"
-\
-br
-`"Hự[line=4]"@
-`  Như thể vừa nín thở suốt một thời gian dài, tôi đột ngột hít một hơi thật sâu dồn dập.@
-`  Nó giúp tôi hoàn toàn bừng tỉnh khỏi cơn mê.
-br
-`"………………"@
-`  Tôi đang ở trong phòng của mình.@
-\
-bg #ffffff,crossfade,400
-bg "bg/bg_40a",crossfade,400
-bg "bg/bg_40a",crossfade,800
-`"Chị Ciel, Senpai[line=3]"@
-`  Tôi không thể nào quên nổi gương mặt lúc đó của chị ấy.@
-`  Tại sao lúc đó tôi lại im hơi lặng tiếng không nói năng gì cơ chứ?@
-`  Tôi rõ ràng vẫn bị Arcueid thu hút dẫu thừa biết cô ấy là ma cà rồng.@
-`  Vậy thì kể cả Senpai có thực sự là ma cà rồng đi chăng nữa, tôi đáng lẽ cũng không nên tỏ ra bàng hoàng kinh sợ đến thế.@
-br
-\
-`  Nếu tôi coi đó chỉ là một lời đùa cợt và bật cười, chắc chắn chị ấy cũng sẽ mỉm cười hưởng ứng cùng tôi như mọi khi rồi.
-\
-`"…… Không.@ Tôi[line=3]"@
-\
-bg #000000,lcartain,800
-bg "bg/bg_33a",lcartain,800
-`  Thế nhưng, tất cả mọi thứ đã thực sự chấm dứt rồi.@
-`  Chị ấy sẽ vĩnh viễn không bao giờ xuất hiện ở trường dưới danh nghĩa Senpai thêm một lần nào nữa.
-\
-`"…… Mình nên làm gì bây giờ?"@
-\
-ld c,"tachi/his_t01",lshutter,400
-`  Mối liên kết giữa tôi và Arcueid đã đứt đoạn, còn tôi với Senpai hiện tại lại đang rơi vào tình cảnh bất hòa gay gắt.@
- …… Không, thậm chí tôi sẽ chẳng bao giờ còn cơ hội được nhìn thấy Senpai nữa rồi.
+`"…… Tôi phải làm gì đây?"@
+` Tôi không biết.@
+` Tôi muốn tìm hang ổ của ma cà rồng và giết hắn, nhưng tôi thậm chí còn không thể tìm kiếm một mình.@
+` Tôi đã cắt đứt mối quan hệ với Arcueid, và hiện tại tôi và Senpai đang tranh cãi.@
+` Không, tôi chẳng thể gặp Senpai lần nữa.
 \
 `"[line=7]"@
+` Tôi đeo kính và ngồi dậy khỏi giường.@
+` Đã quá tám giờ sáng.@
+` Đã lâu lắm rồi tôi không ăn sáng theo thói quen, nhưng hôm nay là ngày nghỉ học.@
 br
-`  Lúc này đồng hồ đã chỉ hơn tám giờ sáng.@
-\
-br
-`"Hisui…… không có ở đây sao?"@
-\
+`"Hisui... chẳng có mặt sao?"@
+` Hình bóng quen thuộc của cô ấy đứng trước cửa như một bóng ma đã biến mất.
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_40a",crossfade,400
-`"Hự……"@
-`  Cơn đau đầu nhè nhẹ quen thuộc lại bắt đầu bám lấy tôi.@
+`"M..."@
+` Một lần nữa, cơn đau đầu nhẹ nhàng của tôi trở lại.@
+` Ngoài cuộc sống mới, lạ lẫm tại căn biệt thự này, những sự kiện trong vài ngày qua cũng rất căng thẳng.@
+` ... *thở dài*@
+` Tôi thở sâu một hơi.@
+` Tôi không biết mình nên làm gì, nhưng có nhiều việc tôi phải làm.@
+` Nếu lo lắng về Senpai, tôi có thể đến căn hộ của cô ấy.
+\
+`"[line=2]Được rồi. Nếu có chuyện gì, bữa sáng trước."@
+` Bạn không thể làm việc khi bụng rỗng.@
+` Tôi lắc những cảm giác ngủ khỏi não và cơ thể, tôi tiến về phòng khách.
+\
+bg #000000,lcartain,800
+bg "bg/bg_33a",lcartain,800
+` Hisui đang ở sảnh, làm gì đó.@
+` Cô ấy chắc chắn đang sửa đổi vì cô ấy cầm một chiếc ghế.@
+`"Hisui."@
+` Như thể đột nhiên nhận ra tôi ở đây, cô ấy nhanh chóng tiến lại gần tôi với những bước chân nhẹ nhàng quen thuộc.
+\
+ld c,"tachi/his_t01",lshutter,400
+`"Chào buổi sáng, Shiki-sama."@
+`"... Vâng, chào buổi sáng.@ Xin lỗi vì tỉnh dậy một cách ích kỷ như vậy."@
+`"Tôi xin lỗi vì không ở đó khi bạn thức dậy.@ Xin hãy tha thứ cho tôi."@
+` Hisui cúi đầu im lặng.@
+br
+` ... Sau khi ra ngoài đêm qua và thậm chí không nhớ làm thế nào để trở về phòng của mình, việc được xin lỗi như vậy khiến cô cảm thấy như một người đáng ghét.
+\
+`"Không cần phải xin lỗi, tôi chỉ thức dậy khi muốn.@ Nếu bạn muốn phàn nàn thì cũng được."@
+` Giống như lúc này, trừ khi cô ấy nghiêm khắc với tôi, tinh thần của tôi có thể sẽ dao động một chút.
+\
+`"Shiki-sama......?"@
+`"À, không có gì, đừng lo lắng về điều đó.@ Này, tôi muốn ăn sáng, đã được chuẩn bị chưa?"@
+`"... Nee-san đang ở bên ngoài.@ Nếu bạn muốn ăn sáng, nó đã được chuẩn bị sẵn trong phòng ăn."@
+`"Ôi.@ Tôi sẽ đi ăn rồi.@ Xin lỗi vì đã ngắt quãng công việc của cô."@
+` Sau khi nói rằng tôi sẽ gặp lại cô ấy sau, tôi đi về phía phòng ăn.
 \
 bg #000000,lcartain,800
 !w1000
 playstop
 bg "bg/bg_33a",lcartain,800
-\
-`"[line=2]Được rồi.@ Dù có chuyện gì đi nữa, trước tiên vẫn phải nạp năng lượng ăn sáng đã."@
+` Sau khi ăn sáng xong, tôi trở lại sảnh.@
+` ... Tôi nên quay lại phòng và thay đồ nếu quyết định đến căn hộ của Senpai.@
 br
-`  Rũ bỏ cơn ngái ngủ còn sót lại trong đầu óc và toàn thân uể oải, tôi sải bước hướng về phía phòng khách biệt thự.
-\
-bg #000000,lcartain,800
-bg "bg/bg_33a",lcartain,800
-`  Hisui đang cặm cụi làm việc gì đó ở đại sảnh.@
-`  Có vẻ như em ấy đang sắp xếp lại đồ đạc vì trên tay đang bê một chiếc ghế gỗ.@
-br
-`  Như thể chợt nhận ra sự hiện diện của tôi, Hisui nhanh chóng rảo bước tiến lại gần với những bước chân khẽ khàng dịu nhẹ thường ngày.
-\
-\
-wave se_01
-bg #9c0120,notrans,0
-bg "bg/bg_33a",notrans,0
-`  Hisui lặng lẽ cúi đầu tạ lỗi.@
-br
-br
-wave se_01
-bg #9c0120,notrans,0
-bg "bg/bg_33a",notrans,0
-\
-`"Cậu chủ Shiki……?"@
-`"À không, không có gì đâu, em đừng bận tâm.@ Dù sao thì anh cũng muốn ăn chút gì đó, bữa sáng đã chuẩn bị xong chưa em?"@
-\
-wave se_01
-bg #9c0120,notrans,0
-bg "bg/bg_33a",notrans,0
-br
-!w1000
-playstop
-br
-`  Dùng xong bữa sáng, tôi quay trở lại sảnh chính biệt thự.@
- …… Có vẻ như tôi nên về phòng thay quần áo trước rồi mới lên đường ghé qua căn hộ của Senpai.@
-br
-\
-wave se_01
-bg #9c0120,notrans,0
-bg "bg/bg_33a",notrans,0
-br
+quakey 1,100
+`"[line=4] Ôi!"@
+` Ngón chân tôi va vào một chiếc ghế.@
+`"... Ôi. Tại sao có một chiếc ghế ở đây..."@
+` Đúng vậy, đó là chiếc ghế mà Hisui đã mang theo trước đó.@
 ` Tôi thường không để ý đến nó, nên khi đi bộ bình thường mà vô tình đụng phải nó, tôi chỉ cảm thấy ngạc nhiên.@
 br
 `"... Đáng lẽ tôi phải cẩn thận hơn chứ. Tôi thật ngu ngốc khi lại va vào thứ gì đó như thế này."@
-br
-\
-wave se_01
-br
-bg "bg/bg_33a",notrans,0
-` Nhưng, Hisui luôn như vậy, không thể đoán trước được. Tại sao cô ấy lại đặt ghế ở đây?@
+` Tôi thở dài.
 \
 wave se_01
 bg #9c0120,notrans,0
 bg "bg/bg_33a",notrans,0
-bg "bg/bg_33a",notrans,0
+` [line=3]Nhưng, Hisui luôn như vậy, không thể đoán trước được. Tại sao cô ấy lại đặt ghế ở đây?@
+` Tôi tự hỏi cô ấy ban đầu định làm gì mà lại đặt ghế ngay giữa lối đi?@
 br
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_33a",notrans,0
+` Ngón chân tôi vẫn còn đau sau khi vô tình đụng vào ghế.@
 ` Đau đến mức khó chịu.@
 ` Một cơn đau không đáng có nếu như chiếc ghế ấy không tồn tại.
 \
-\
-ld c,"tachi/his_t08",notrans,0
+wave se_01
+bg #9c0120,notrans,0
 bg "bg/bg_33a",notrans,0
-wavestop
+br
 ` [line=3]Đúng là phiền phức.@
 ` Tôi định gặp Senpai, thế mà điều này lại cản đường tôi như thế này?@
 br
 ` Chai này thật khó chịu.@
 ` Tại sao thứ này lại ở đây?@
-\
+` Nó không bao giờ nên xuất hiện ở đây. Nếu nó không có ở đây, tôi chẳng bao giờ bị nghẹt chân.
 \
 wave se_01
-ld c,"tachi/his_t07",crossfade,400
+bg #9c0120,notrans,0
 bg "bg/bg_33a",notrans,0
 br
 ` Tôi giận dữ và đá ghế.@
-` [line=4]Đau nhức.@
+` Đau nhức.@
+` Ngay khi tôi làm vậy, ngón chân tôi đá đau hơn nữa.@
+br
+` Nhịp tim đập, nhịp tim đập.@
+` Nhịp tim đập, đập liên tục, nhịp tim đập.@
+br
+`"[line=7] Tại sao bạn lại làm thế!"@
+` "Thật là một điều phiền toái."
+\
+wave se_01
+bg #9c0120,notrans,0
+bg "bg/bg_33a",notrans,0
+waveloop se_02
+br
+` "Hãy biến mất."@
+` "Ghế này thật ghê tởm."@
+` "Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này!"
+\
+ld c,"tachi/his_t08",notrans,0
+`"Shiki-sama……!?"@
+wavestop
+`"[line=3] Ôi, Hisui? Tại sao cậu lại vội vã đến đây đột ngột vậy?"@
+` Tôi nói như vậy, thực sự bất ngờ.@
+` …… Tôi đang thở gấp gáp.@
+` Ngực tôi lên xuống mạnh mẽ.@
+` Tôi cảm thấy như vừa chạy một cuộc đua marathon.
+\
+`"Huh? …… Tại sao tôi lại thở dốc như vậy?"@
+` Tôi hít một hơi không khí sâu, thèm khát.@
+ld c,"tachi/his_t07",crossfade,400
+`"[line=3]Thưa Shiki," - Arcueid nhìn chằm chằm vào Shiki, cảm thấy có điều gì đó không ổn.@
+`"[line=3]Ồ, tại sao cậu lại nhìn tôi như vậy? Có chuyện gì xảy ra à?" - Arcueid tỏ vẻ ngây thơ.@
+`"…… Shiki-sama, cậu có chắc là không biết mình đang làm gì không……?" - Akiha hỏi với giọng đầy nghi ngờ.@
+`"[line=4]Tôi đang làm gì? Nhưng mà, tôi chẳng làm gì cả." - Shiki trả lời, cố gắng che giấu điều gì đó.@
 cl c,crossfade,400
 bg #9c0120,crossfade,400
 !w3000
 bg "bg/bg_33a",crossfade,400
 \
-`"[line=3] Tại sao bạn lại làm thế!"@
-` "Thật là một điều phiền toái."
-\
-br
-bg #9c0120,notrans,0
-bg "bg/bg_33a",notrans,0
-\
-br
-br
-` "Ghế này thật ghê tởm."@
-` "Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này... Ghế này!"
-\
-ld c,"tachi/his_t08",notrans,0
-ld c,"tachi/his_t01",crossfade,400
-wavestop
-`"[line=6] Ôi, Hisui? Tại sao cậu lại vội vã đến đây đột ngột vậy?"@
-\
-` …… Tôi đang thở gấp gáp.@
-` Ngực tôi lên xuống mạnh mẽ.@
-br
-\
-\
-ld c,"tachi/his_t04",crossfade,400
-ld c,"tachi/his_t07",crossfade,400
-`"[line=4]Thưa Shiki," - Arcueid nhìn chằm chằm vào Shiki, cảm thấy có điều gì đó không ổn.@
-br
-`"…… Shiki-sama, cậu có chắc là không biết mình đang làm gì không……?" - Akiha hỏi với giọng đầy nghi ngờ.@
-\
-cl c,crossfade,400
-\
-!w3000
-bg "bg/bg_33a",crossfade,400
-cl c,lshutter,400
-br
+`"Gah[line=3]"@
 ` Đau đầu của tôi trở lại.@
 ` Tôi lắc đầu để xua tan nó và đột nhiên nhận ra điều gì đó dưới chân mình.@
+br
+` "Những điều nằm chờ ở phía trước là... "
+` những mảnh vỡ của chiếc ghế bị rạn nứt.
 \
-bg #000000,lcartain,400
-bg "bg/bg_40a",lcartain,400
-\
-bg #9c0120,notrans,0
-bg "bg/bg_40a",notrans,0
+`"[line=6]Hả?"@
+br
 ` Một âm thanh đập mạnh.@
 ` Tim tôi đập mạnh hơn.
 \
-`"Tôi đã làm điều này sao?"@
-\
-`"Vâng. Đó là kết quả của việc bạn nắm lấy chiếc ghế và đập nó xuống sàn nhiều lần."@
-`"Tại sao?"
+`"[line=3][line=3]Tôi đã làm điều này sao?"@
+ld c,"tachi/his_t01",crossfade,400
+`"[line=3]Vâng. Đó là kết quả của việc bạn nắm lấy chiếc ghế và đập nó xuống sàn nhiều lần."@
+`"[line=6]Tại sao?"
 \
 ` Tại sao tôi lại làm thế?@
+` Tôi nghĩ là ngón chân tôi bị đau vì va vào ghế khi chạy.@
 br
-br
-` Nhưng tại sao tôi lại làm đến mức đó? Tại sao tôi lại tức giận với điều nhỏ nhặt như vậy và phá vỡ nó như một đứa trẻ đang có cơn thịnh nộ...?
+` [line=3]Nhưng tại sao tôi lại làm đến mức đó? Tại sao tôi lại tức giận với điều nhỏ nhặt như vậy và phá vỡ nó như một đứa trẻ đang có cơn thịnh nộ...?
 \
 ld c,"tachi/his_t04",crossfade,400
-\
-`"Không, không có gì. Thật không có gì. Xin lỗi Hisui, tôi... chỉ cảm thấy kỳ lạ thôi."@
+`"Shiki-sama, bạn có khỏe không? Nếu bạn bị ốm, tôi có thể gọi bác sĩ."@
+`"[line=4]Không, không có gì. Thật không có gì. Xin lỗi Hisui, tôi... chỉ cảm thấy kỳ lạ thôi."@
 br
 ` Tôi lùi lại khỏi cô ấy.
 \
 ` Tôi lùi lại khỏi những mảnh vỡ của chiếc ghế mà tôi vừa phá hủy.
 \
-br
+`"Shiki-sama, xin hãy bình tĩnh lại. @Hít thở như vậy không tốt cho cơ thể bạn."@
 `"Tôi ổn, để tôi yên! @Tôi muốn ở một mình, chỉ để tôi được..."!"@
-!w1000
+cl c,lshutter,400
 br
-!w1000
+` Tôi hét lên điều đó và chạy lên cầu thang.@
 ` Tôi thầm nhận ra rằng tôi dường như đang bỏ chạy khỏi cô ấy.
-!w1000
-bg #000000,lcartain,400
 \
-waveloop se_11
+bg #000000,lcartain,400
+bg "bg/bg_40a",lcartain,400
+` Tôi trở về phòng và quấn lấy giường.@
 bg #9c0120,notrans,0
 bg "bg/bg_40a",notrans,0
-br
+` Một lần nữa.@
 ` Đền thờ của tôi lại bắt đầu đau nhức.@
-br
+` Nó đập mạnh, đập liên tục.@
 ` Cảm giác như một trái tim mới vừa nảy sinh trong não tôi, khiến đầu tôi đau nhức dữ dội.
 \
-br
+`"... Haha."@
 ` Nó đau.@
-br
+` Thật đau.@
 ` Đau quá.@
-\
 br
+` Có lẽ nỗi đau này là nguyên nhân khiến tôi có hành vi bạo lực trước đó.@
 ` Xem nhiều cảnh "chết" trong vài ngày qua đang khiến não tôi rối loạn.@
-br
+` [line=3]Đầu tiên, tôi cần bình tĩnh lại ngay bây giờ.@
 ` Dành khi tôi đeo kính, cơn đau đầu này sẽ không tồi tệ hơn.
 \
+`"...Tôi đang làm gì vậy? ... Tôi phải đi gặp Senpai... nhanh lên."@
 br
-br
-br
+` Nhưng nếu tôi nhìn thấy cô ấy trong trạng thái như thế này, tôi chỉ khiến cô ấy tổn thương.@
 ` Tôi cần bình tĩnh lại.@
+` Yên tĩnh. Nếu tôi ngồi yên lặng, cơn đau đầu sẽ tan biến.
 \
-\
-wavestop
 br
-br
-br
-br
-br
+` ...
+!w1000
+` ...
+!w1000
+` ...
 !w1000
 ` ... Xem đi? Nó đang biến mất.
 \
 waveloop se_11
 ` Phòng của tôi rất yên tĩnh.@
 ` Trong căn phòng chỉ có tiếng đồng hồ kêu, tôi nên có thể bình tĩnh lại nhanh chóng.@
-\
-bg #000000,crossfade,800
-!w1000
-play "*3"
-bg "bg/bg_48a",lcartain,800
 br
-bg "bg/ima_03",crossfade,800
+` Tick... Tick... Tick... Tick... Tick... Tick... Tick...@
+br
+` ... Tiếng đồng hồ kêu.
+\
+br
+` Tiếng đồng hồ báo giờ vang lên một cách đều đặn.@
 br
 ` "Làm ơn im lặng đi," tôi thì thầm, cố gắng kiềm chế sự bất an đang lan tỏa trong cơ thể.
 \
@@ -736,35 +703,35 @@ br
 br
 ` "Này," một giọng nói đột ngột cắt ngang sự tĩnh lặng.
 \
-bg #000000,lcartain,800
-bg "bg/bg_42a",lcartain,800
+br
+` Tôi quay lại, nhìn thấy một hình bóng mờ nhạt xuất hiện từ bóng tối.@
 br
 ` "Tôi đã bảo cậu im đi..." Tôi cảnh báo, giọng đầy kiên quyết.
 \
-br
+quakex 1,100
 wavestop
 br
 br
 br
+br
+br
+` [line=3]Nó dừng lại... [dòng được đánh số 3]@
+` Đồng hồ dừng lại với một tiếng vang.
 \
-playstop
-bg #000000,lcartain,800
-bg "bg/bg_54a",crossfade,400
-ld r,"tachi/his_t09",crossfade,400
-bg "bg/bg_54a",crossfade,400
+`"[line=3] Im lặng. "@
 ` Vâng, tốt hơn thế này. "@
 ` Bây giờ tôi có thể đến gặp Senpai.
 \
 bg #000000,crossfade,800
 !w1000
-\
+play "*3"
 bg "bg/bg_48a",lcartain,800
 ` Tôi bước ra khỏi cánh cửa chính. "@
-br
-` [line=4]Trời xanh thẳm. "@
-br
+bg "bg/ima_03",crossfade,800
+` Trời xanh thẳm. "@
+` Tôi đi về phía cổng. "@
 ` Trong khoảnh khắc ấy, tôi nghe thấy tiếng ồn từ khu vườn. "@
-\
+`"………?"@
 ` Đó là điều kỳ lạ. Hisui đang ở sảnh, nhặt những mảnh vỡ của chiếc ghế.@
 ` Kohaku đang ở ngoài, còn Akiha thì ở trường học.@
 ` "Không nên có ai khác ở đây trong biệt thự."
@@ -772,268 +739,301 @@ br
 bg #000000,lcartain,800
 bg "bg/bg_42a",lcartain,800
 ` Tôi bước vào khu vườn.@
-\
+` "Nếu nghĩ lại, phần lớn thời gian chúng ta dành cho việc chơi đùa là ở khu vườn."@
 ` Từ khi quay lại đây, tôi đã bận rộn với nhiều việc nên chưa có cơ hội dạo quanh khu vườn.@
 br
-\
+` Rustle.@
 br
-`  Lại là âm thanh sột soạt đó.@
-br
+` Âm thanh ấy lại vang lên.@
+` Có vẻ như ai đó vừa đi qua.
 \
 playstop
+bg #000000,lcartain,800
+bg "bg/bg_54a",crossfade,400
+ld r,"tachi/his_t09",crossfade,400
+bg "bg/bg_54a",crossfade,400
+`"Hả?@ Hisui...?"@
+` Đó là Hisui.@
+` ... Cô ấy dường như không hay biết đến tôi, Hisui đang tiến về phía rừng.@
+` Cô ấy không hề để ý đến tôi.@
+` Có việc gì đó cô ấy phải làm?@ Cô ấy bước vào rừng.
+\
+`"?"@
+` Tôi hơi tò mò, nên theo dõi cô ấy từ khoảng cách gần.@
+br
+` [line=4]Và... ở nơi Hisui đang đi, có vẻ như là một khoảng trống nhỏ.@
+br
+` "...Có một khoảng trống ở đó...?"
+\
+`"Tôi nghiêng đầu, cố nhớ lại, nhưng vì lý do nào đó, ký ức của tôi khá mờ nhạt.@
+` Trong khu rừng của biệt thự, tôi nhìn thấy một khoảng trống như thể những cây cối đã bị chặt ở đó.@
+` Không, "nhìn thấy" không phải là từ thích hợp.
+\
+` [line=3]Nếu bạn đi qua bình thường, có lẽ sẽ chẳng bao giờ để ý đến nó.@
+` @
+` Nếu Kohaku không đi đó, ẩn mình đủ giữa những cây xung quanh như vậy, tôi sẽ chẳng để ý ngay cả khi sống ở đây suốt đời.
+\
+`"... Có một khoảng trống ở đó?@ ... Nếu có, chúng ta có lẽ đã chơi ở đó khi còn nhỏ."@
+` Ít nhất, tôi không nhớ từng chơi với Akiha trong khoảng trống.
+\
+br
+` [line=4]Tôi cảm thấy như chưa bao giờ đến đó trước đây.@
+br
+`"... "@
+` Sau một lúc suy nghĩ, tôi quyết định bước vào khoảng trống.
 \
 bg #000000,lcartain,800
 bg "bg/bg_53",lcartain,800
-bg "bg/bg_54a",crossfade,400
-`"Ủa?@ Hisui sao……?"@
+` ... Khoảng trống chẳng khiến tôi nhận ra điều gì bất thường.@
+` Không có dấu hiệu của Kohaku, người đã vào trước tôi.
 \
- …… Có vẻ như em ấy không nhận ra sự hiện diện của tôi, Hisui đang lẳng lặng rảo bước hướng về phía rặng rừng rậm rạp.@
-`  Em ấy dường như hoàn toàn không hề hay biết tôi đang ở đây.@
-`  Em ấy đang có công chuyện gì sao?@ Nói rồi, bóng dáng nhỏ nhắn của em ấy khuất dần sau rặng cây cối um tùm.
-\
-`"?"@
+`"[line=3]Đây chỉ là một không gian trống rỗng."@
+` Tôi bước đến giữa vùng đất trống.@
+` Vùng đất trống này quả thực chỉ là một khoảng không vô nghĩa.@
+` Mặt đất bằng phẳng, mở rộng vô tận.@
+` Rừng sâu bao quanh khu vực này.@
 br
 bg #ffffff,crossfade,400
 bg "bg/bg_53",crossfade,400
-br
-`  Nơi Hisui đang hướng tới, hóa ra là một khoảng đất trống nhỏ nằm ẩn khuất giữa rừng sâu.
-\
+waveloop se_02
+` Tiếng kêu của những con chuông bọ cạp.@
+` [line=6]Và ánh nắng mùa hè mạnh mẽ, như thể có thể tan biến...
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_53",crossfade,400
-\
- [line=3]Không, dùng từ "nhìn thấy" có vẻ không hoàn toàn chính xác.@
+`"Ồ..."@
+` [line=3]Nắng hè, ánh nắng mặt trời...?@
 bg #ffffff,crossfade,400
 bg "bg/bg_53",crossfade,400
 br
-`"…… Ở đó thực sự có một khoảng đất trống sao?@ …… Nếu vậy, hồi nhỏ chắc chắn bọn tôi đã từng chơi đùa ở đó rồi."@
-`  Thế nhưng, ít nhất là trong ký ức của tôi, tôi chưa từng nhớ mình đã từng chơi đùa cùng Akiha tại khoảng đất trống này.
-\
-br
+`"[line=4]Au..."@
+` Vết thương trên ngực tôi bắt đầu đau.@
+`        Cảm giác như bị đâm.@
+` Đau này... giống như một con dao bếp đâm vào ngực tôi vậy.
 \
 bg #ffffff,crossfade,800
 br
-`  Trầm ngâm một lát, tôi quyết định rảo bước tiến vào khoảng đất trống.
-\
-bg #000000,lcartain,800
+` Chíp chíp.@
+` Chíp chíp.@
+` [line=5]Tiếng ve rì rầm từ đâu đó.
 br
- …… Khoảng đất trống hiện ra trước mắt trông chẳng có gì đặc biệt hay kỳ lạ cả.@
+` [line=4]Nhưng giờ là mùa thu rồi.@
 br
-\
+` Mặt trời mùa hè chiếu rọi mọi thứ bằng ánh trắng.@
 br
-`  Tôi chậm rãi bước vào chính giữa khoảng đất trống.@
+` [line=4]Những cột mây mùa hè trải dài trên bầu trời xa xăm.
 \
 bg "bg/cmo_05",crossfade,800
-`  Bao bọc xung quanh là rặng cây rừng rậm rạp tối tăm.
-br
-bg #ffffff,crossfade,400
-bg "bg/bg_53",crossfade,400
+` Tôi gần như có thể nghe thấy tiếng ve.@
+` Dưới chân tôi, những vỏ ve đã bị bỏ lại.@
+` Một vỏ ve bị bỏ rơi. Của ai đó...@
+` [line=2]Vỏ ve.
 \
 br
-`  Và ánh nắng mùa hè chói chang gay gắt như muốn thiêu rụi cả thế giới này[line=6]
+`"[line=6]………"@
 br
-bg #ffffff,crossfade,400
-bg "bg/bg_53",crossfade,400
+` [line=3]"Tôi lại đang nổi giận."@
+` Tôi đã bình tĩnh lại vào lúc trước, nhưng cảm giác khó chịu này lại trỗi dậy.
 \
-`  Mùa hè, ánh nắng chói chang sao[line=3]?@
+` Tôi phải gặp Senpai.
 \
-bg "bg/bg_53",crossfade,400
+` Tôi cần vội vã đến gặp cô ấy và nói rằng tôi chẳng hề quan tâm nếu cô ấy là ma cà rồng.
 \
-`"Hự[line=4]đau quá………"@
+` ...
 !w750
-        Tựa như / bị đâm xé.@
+` ...
 !w750
-\
+` ...
+!w750
+` ... ……………………
 !w750
 br
-!w750
-br
- *Ve ve*@ *Ve ve*[line=5]
-br
+` ... ………………… nhưng, điều gì là sự thật?@
+` [line=3]Tôi có thể nói thẳng rằng tôi có thể mỉm cười như trước đây với cô ấy, ngay cả khi cô ấy là một ma cà rồng.
 \
 bg "bg/cmo_06",crossfade,800
 br
+` ... Hình bóng ai đó cúi xuống.@
+`   ... Bước chân của một cô gái trẻ đang đến gần.@
+`   ... Những cột mây trên bầu trời xa xôi. ... Vỏ của những con chuồn chuồn bị bỏ lại.@
+`   Khi tôi nhận ra điều đó,
 br
- [line=4]Ánh nắng hè chói chang nhuộm trắng xóa toàn bộ không gian cảnh vật.
+`   có một thứ,
+`   Cơ thể tôi bị xuyên thủng và chết đi.
 \
-bg "bg/cmo_05",crossfade,800
-br
-`  Tôi gần như có thể cảm nhận rõ rệt từng tiếng ve sầu đang gào thét.@
-`  Dưới chân tôi lúc này, ngổn ngang những chiếc xác ve sầu rỗng tuếch.@
-\
 br
 br
 br
 br
 br
 br
-\
-`  Tôi bắt buộc phải đi gặp Senpai ngay lập tức.
+`     Nhìn xuống xác mình trong ngạc nhiên,
+`     hình dạng của tôi cũng vậy.
 \
 bg #ffffff,crossfade,1500
 bg "bg/bg_53",notrans,0
 wavestop
 play "*4"
- …………
-!w750
- ………………
-!w750
+`"[line=5]Ôi trời."@
+` Ngực tôi đau nhức.@
+` Tôi cảm thấy như muốn nôn mửa.@
+` Wound của tôi đã lành từ lâu, nhưng tại sao nó lại đau đến thế?
 \
 bg #9c0120,crossfade,800
+` Ngực tôi vỡ nát.@
+` vết thương cũ mở ra, máu chảy ra từ vết mở.@
 br
- ………………… nhưng mà, sự thật rốt cuộc là gì?@
-br
-\
-bg "bg/cmo_06",crossfade,800
-\
-br
-br
-   Những đám mây cuồn cuộn nơi chân trời xa xăm.@ Những chiếc xác ve sầu rỗng tuếch dưới đất.@
-   Đến khi tôi chợt bừng tỉnh,
-\
-br
-   chính là thi thể của bản thân tôi bị đâm xuyên qua lồng ngực và đã chết từ lâu.
+` [line=3]"Điều này là gì?"@
+` Chấn thương của tôi vẫn chưa lành chút nào.
 \
 br
 br
+` Đau quá.@
+`   Tôi sợ.
+\
+br
+` [line=3]Tôi bị choáng váng.
+\
 br
 br
 br
 br
+`       Đây là...
+`        Đó là sự thúc đẩy được gọi là Chết.
 \
 bg #000000,crossfade,400
 br
-bg #ffffff,crossfade,1500
-bg "bg/bg_53",notrans,0
+` Ý thức của tôi đang lụi tàn.@
+`  Vết thương của tôi vẫn còn đau đớn.@
 br
-play "*4"
+` Tôi nghe thấy âm thanh cơ thể mình sụp đổ trên mặt đất.
 \
 !w3000
 playstop
 bg "bg/bg_40c",crossfade,1500
 play "*9"
 br
-`  Lồng ngực tôi   như vỡ vụn.@
+` ... Tôi có thể nghe thấy những giọng nói đang trò chuyện.@
 br
-br
- [line=3]Chuyện gì thế này?@
+`"Akiha-sama, cô không gọi bác sĩ sao?"@
+`"Đừng ngốc thế, Hisui. Không thể nào tôi làm điều đó được, vì vết thương của Nii-san chẳng bình thường chút nào!"
 \
-\
+` Akiha và Hisui đang trò chuyện.@
+` Đây là phòng của SHIKI.@
+` Tôi dường như đang ngủ trên giường.@
 br
-br
-br
-   Đáng sợ quá.
-\
-br
+` Tôi định hét lên "Xin chào!" và ngồi dậy, nhưng tôi không thể di chuyển chút nào.@
+` Ngực tôi không còn đau nữa, nhưng cơ thể tôi nặng như chì.@
+` Tôi chỉ có thể di chuyển mắt và miệng.
 \
 ld l,"tachi/aki_t10",crossfade,400
-br
+`"Chuyện gì thế này, Hisui? Bạn biết rằng không được để Shiki đến gần nơi đó……!"@
 ld r,"tachi/his_t05",crossfade,400
-br
+`"Làm ơn…… tha thứ cho tôi."@
 ld l,"tachi/aki_t07",crossfade,400
-       Đây chính là,
+`"Việc này không thể giải quyết bằng lời xin lỗi. Bạn được giao nhiệm vụ phục vụ Nii-san để tránh tình huống này. Vậy bạn đã làm gì……?!"
 \
+` Khác hẳn với tính cách thường ngày, Akiha trút hết cơn giận của mình.@
+` Hisui im lặng chấp nhận sự trách mắng, nhìn xuống đất.
 \
-bg #000000,crossfade,400
-\
-`  Ý thức của tôi dần dần chìm sâu vào bóng tối.@
-`  Vết thương buốt nhói dữ dội.@
+` Tôi không chắc chuyện này bắt đầu như thế nào.@
+` Nhưng ít nhất tôi cũng biết rằng Hisui đang bị la mắng vì tôi.
 \
 ld l,"tachi/aki_t11a",crossfade,400
-\
+`"Trả lời tôi, Hisui. Anh hỏi anh ấy đã làm gì và ở đâu suốt cả ngày?"@
 br
-playstop
-bg "bg/bg_40c",crossfade,1500
-play "*9"
+` Hisui không trả lời.@
+` Không khí trở nên căng thẳng giữa họ.@
+` Akiha cắn môi, bước lại gần Hisui.@
 cl a,crossfade,400
 \
-br
-`"Thưa tiểu thư Akiha, cô thực sự không định gọi bác sĩ tới sao?"@
+` Ngay cả tôi cũng hiểu rằng Akiha định đánh cô ấy.@
+` Hisui dường như cũng biết điều này, nhưng cô ấy chỉ đứng đó với đầu ngả xuống trong xấu hổ, sẵn sàng đón nhận nó.
 \
-\
+`"[line=4]Dừng lại đi, Akiha."@
 ld c,"tachi/aki_t15a",crossfade,400
-`  Nơi đây  chính là   phòng của tôi.@
-`  Có vẻ như   tôi   đang  nằm  trên giường bệnh.@
-br
+`"[line=2]Anh trai ơi! Em tỉnh rồi!"@
+`"Ừm, em la to đến mức tôi thức giấc đấy."@
+`"Ah…………"@
 ld c,"tachi/aki_t16a",crossfade,400
-`  Lồng ngực tôi đã không còn cảm thấy đau đớn nữa, thế nhưng cơ thể lại nặng trịch tựa như đeo chì.@
-`  Thứ duy nhất tôi có thể nhúc nhích lúc này chỉ là đôi mắt và vòm miệng.
+` Akiha liếc nhìn khó chịu rồi lại quay đi.@
+` Hisui vẫn cúi đầu, thậm chí không cố gắng nhìn vào mắt tôi.
 \
-ld l,"tachi/aki_t10",crossfade,400
-`"Rốt cuộc ngươi định làm cái gì thế hả Hisui?@ Ngươi thừa biết là tuyệt đối không được phép để anh Shiki bén mảng tới gần khu vực đó cơ mà……!"@
+`"Bạn biết đấy, bạn không nên đổ lỗi cho Hisui. Tôi không biết hoàn cảnh cụ thể thế nào, nhưng chuyện này liên quan đến tôi bị ngất, đúng không? Không phải lỗi của cô ấy, tôi chỉ tự ngất đi thôi."@
+` Tôi cố gắng hết sức và bất ngờ được nâng nửa người trên khỏi giường.@
 br
-`"Cầu xin tiểu thư…… rộng lòng tha thứ cho em."@
-ld l,"tachi/aki_t07",crossfade,400
+` Nhưng đó là tất cả những gì tôi có thể làm, và tôi nghĩ mình chẳng thể di chuyển thêm chút nào nữa.@
+` Tuy nhiên, vì Hisui đang buồn bã, tôi buộc bản thân phải tỏ ra bình tĩnh nhất có thể.
 \
-\
+`"…… Thật sự, cãi nhau vì tôi. Ngay cả khi bạn trông như người lớn, bạn vẫn chỉ là đứa trẻ."@
 ld c,"tachi/aki_t17a",crossfade,400
-`  Trái ngược với cô em gái, Hisui chỉ biết lặng lẽ cúi gục đầu cam chịu nhận lấy những lời trách mắng gay gắt.
+`"[line=4]Nhưng... anh trai ngươi đã ngất hoàn toàn rồi. Ngươi đã bất tỉnh hơn mười giờ, và chưa bao giờ có chuyện như vậy xảy ra trước đây. Nếu ngươi không bao giờ tỉnh lại, ta sẽ làm gì...!?"@
+`"Ngốc ạ, đừng nói những điều như thế. Đó chỉ là thiếu máu thôi. ... Hừm? Đã mười giờ rồi!"
 \
-\
-`  Thế nhưng, ít nhất tôi cũng có thể nhận thức được rằng Hisui đang bị mắng nhiếc thậm tệ hoàn toàn là vì lỗi của bản thân tôi.
-\
-\
-`"Trả lời ta mau, Hisui.@ Ngươi đã làm gì và đi những đâu suốt cả ngày hôm nay?"@
-br
-`  Hisui vẫn im hơi lặng tiếng không đáp lời.@
-`  Bầu không khí trong phòng ngày càng trở nên ngột ngạt và căng thẳng tột độ.@
-\
-cl a,crossfade,400
-br
- …… Đến cả tôi cũng thừa hiểu rằng Akiha đang chuẩn bị giơ tay tát em ấy.@
-`  Hisui dường như cũng nhận thức rõ điều đó, nhưng em ấy vẫn chỉ đứng yên im lặng cúi đầu, sẵn sàng cam chịu nhận lấy đòn phạt.
-\
-ld c,"tachi/aki_t12a",crossfade,400
-ld c,"tachi/aki_t15a",crossfade,400
-`"Anh Shiki[line=2]Anh tỉnh rồi sao!?"@
-`"Ừ, hai người ồn ào quá làm anh tỉnh giấc luôn đây này."@
-`"A…………"@
-\
-`  Akiha bối rối ngoảnh mặt đi chỗ khác đầy ngượng ngùng.@
-`  Còn Hisui vẫn cúi gục mặt khép nép, tuyệt đối không dám ngước lên nhìn tôi lấy một lần.
-\
-`"Anh nói này, em không nên trút giận lên đầu Hisui như thế.@ Dù anh chẳng rõ đầu đuôi câu chuyện, nhưng chuyện này liên quan đến việc anh thình lình ngất xỉu đúng không?@ Đó hoàn toàn không phải lỗi của em ấy, là tự anh lăn ra ngất thôi mà."@
-`  Tôi dồn hết sức lực tàn và cuối cùng cũng gượng chống được nửa thân trên ngồi dậy khỏi giường.@
-\
-`  Thế nhưng đó cũng là giới hạn tối đa rồi, tôi cảm giác mình không thể nhúc nhích thêm nổi một phân nào nữa.@
-`  Tuy nhiên, nhìn thấy vẻ mặt ủ rũ đầy tội nghiệp của Hisui, tôi bắt buộc phải gồng mình tỏ ra hoàn toàn khỏe khoắn để em ấy yên lòng.
-ld c,"tachi/aki_t17a",crossfade,400
-`"…… Thật là, vì chuyện của anh mà hai người lại lao vào cãi vã đấu đá nhau sao.@ Dẫu bề ngoài trông em có chững chạc như người lớn, nhưng tính khí thì rõ ràng vẫn chỉ là một đứa trẻ thôi Akiha ạ."@
-ld c,"tachi/aki_t17a",crossfade,400
-`"Nhưng…… anh đã hoàn toàn bất tỉnh nhân sự đấy anh Shiki.@ Anh đã hôn mê suốt hơn mười tiếng đồng hồ liền, trước đây chưa từng có chuyện kinh hoàng như thế xảy ra.@ Nếu[line=4]nếu anh vĩnh viễn không tỉnh lại nữa, thì em biết phải làm sao đây cơ chứ……!?"@
-`"Ngốc thế, đừng nói gở kiểu đó chứ.@ Chẳng phải chuyện này chỉ là do cơn thiếu máu mãn tính thôi sao?@ …… Hả?@ Đã mười giờ đêm rồi cơ á!?"
-\
-ld c,"tachi/aki_t12a",crossfade,400
-`  Akiha nói bằng chất giọng ngập ngừng lo lắng.
+`"... Vâng, ngươi đã bất tỉnh từ trưa đến giờ."@
+` Akiha nói do dự.
 \
 `"[line=6]"@
-`  Toàn bộ sức lực trong người tôi thốt nhiên tan biến sạch trơn.@
+` Tất cả sức lực đang cạn kiệt khỏi cơ thể ta.@
+` Ta chắc là đã ngủ suốt thời gian đó.@
+` Ta không thể đến căn hộ của Senpai và chỉ ngủ vùi thiếp đi.
 \
-`  Vậy là tôi đã lỡ hẹn chẳng thể ghé qua căn hộ của Senpai, chỉ biết nằm ngủ say như chết phí hoài cả ngày trời.
-\
+`"…… Thật ra, tôi chưa từng ngất đến thế từ thời tiểu học. Ừm, tôi thường xuyên ngất lúc đó vì không quen với cuộc sống tại gia Arimas và tôi cũng căng thẳng."@
 br
-br
+` Mọi thứ vẫn quay cuồng như thể tôi đang mơ.@
+` Tôi ngáp dài, nhìn lên trần nhà và nhớ lại một phần quá khứ của mình.
 \
-`  Nằm đờ đẫn một chỗ, tôi ngước mắt nhìn lên trần nhà gỗ cao vút khi những ký ức tuổi thơ xa xưa khẽ tràn về.
-ld c,"tachi/aki_t01a",crossfade,400
 ld c,"tachi/aki_t12a",crossfade,400
-`"…… Đúng là như vậy thật.@ Mới chỉ có một tuần kể từ khi anh dọn trở về căn biệt thự này thôi.@ Anh hẳn đã phải kiệt sức và căng thẳng nhiều lắm rồi."@
-`"[line=2]Ừm.@ Hôm nay anh đã thực sự thấm thía điều đó rồi."@
+`"…… Đúng vậy. Chỉ mới một tuần kể từ khi cậu trở về đây. Anh trai, chắc chắn cậu mệt mỏi lắm."@
+`"[line=2]Ngày hôm nay."@
+`"Cậu có cảm thấy như thế chứ? Vậy thì hãy nghỉ ngơi ngày hôm nay đi. Sức khỏe của cậu yếu hơn người bình thường, nên cơ thể sẽ nhanh chóng kiệt sức nếu không dành thời gian nghỉ ngơi đôi khi."@
+` Cô ấy nhìn tôi với vẻ mặt nghiêm túc.
 \
-`  Akiha đăm đăm nhìn tôi bằng vẻ mặt vô cùng nghiêm nghị và lo lắng thực lòng.
+`"………"@
+` "…… Như cô ấy nói vậy."@
+` "Tôi nên quên hết mọi thứ."@
+` "Không được nghĩ về Senpai hay những kẻ ma cà rồng và chỉ nghỉ ngơi, nếu không tôi sẽ thực sự kiệt sức."@
+` "Lên cơn thịnh nộ như thế và đập vỡ chiếc ghế, chắc chắn có điều gì đó sai với tôi."
 \
-`"………………"@
- …… Đúng như những gì em ấy khuyên nhủ.@
-`  Có vẻ như tốt nhất tôi nên tạm thời vứt bỏ mọi suy nghĩ ưu tư ra khỏi đầu.@
-`  Tôi không nên tiếp tục bận lòng suy nghĩ về Senpai hay lũ ma cà rồng tàn ác nữa, thay vào đó hãy tập trung tĩnh dưỡng, bằng không cơ thể này thực sự sẽ đình công mất.@
-`  Tự dưng lại nổi đóa điên cuồng lên rồi đập phá tan tành chiếc ghế gỗ lúc nãy, đầu óc mình thực sự đang có chuyển biến vô cùng tồi tệ rồi.
-\
-`"…… Au, nghe lời em vậy, anh sẽ ngủ tiếp đây."@
-`  Tôi khẽ thả người nằm xuống gối ngủ.@
+`"…… Vâng, giống như bạn nói, tôi sẽ đi ngủ thôi."@
+` Tôi nằm lại.@
 ld c,"tachi/aki_t17a",crossfade,400
+`"Thật sao……? Bạn không định lén lút ra khỏi phòng sau này chứ?"@
+`"Ồ, bạn không tin tôi à?"@
+` Tôi đoán không.@
+` Vì những ngày qua, tôi đã bỏ mặc và rời đi cô ấy.
+\
+ld c,"tachi/aki_t12a",crossfade,400
+`"Hisui, nói với Kohaku rằng anh trai thức giấc."@ Anh trai, còn bữa tối thì sao?@
+`"…… Ừm, có.@ Không, xin lỗi Kohaku-san, nhưng tôi nghĩ mình không thể ăn lúc này.@ Tôi chỉ muốn đi ngủ thôi."@
+`"…… Tôi hiểu rồi.@ Vậy thì Hisui, hãy nói với cô ấy."@
+` Với vẻ mặt vẫn buồn bã, Hisui gật đầu và rời phòng.
+\
+` Vậy là...@
+` Nằm trên giường, tôi lại bắt đầu thấy buồn ngủ.@ Chắc chắn như vậy, tôi có thể ngủ thiếp đi trong một phút nữa...@
+br
+` [line=3]Nhưng trước đó.
+\
+`"Akiha. Có một nơi như vậy trong vườn à?"@
+ld c,"tachi/aki_t01a",crossfade,400
+`"Vâng. Khi chúng tôi còn nhỏ, chúng tôi thường chơi ở đó."@
+`"Ồ. Vì một lý do nào đó, tôi không nhớ nó rõ lắm."@
+` "Ừm... Tôi thực sự đã quên hết mọi thứ về nó."
+\
+`"Và một điều nữa. ... Đó là một câu hỏi kỳ lạ, nhưng khi chúng ta còn nhỏ[line=4]có không phải có một đứa trẻ khác ở bên cạnh chúng ta?"@
+`"Hả?"@
+` Cô ấy nghiêng đầu, như thể không hiểu tôi đang nói gì.@
+` Tôi đoán là vậy. Không thể có đứa trẻ nào khác.@
+` Đó chỉ là một giấc mơ.@
+` Cái khu rừng đó. Bản thân tôi khi còn nhỏ, bị giết bởi ai đó trông giống hệt tôi. Có điều gì đó không ổn ở chỗ này.@
+` Nếu điều đó là sự thật, thì tôi đang làm gì ở đây lúc này?
+\
+`"Không, chẳng có gì cả. Chỉ là nói về một giấc mơ thôi."@
+`"Thật sao? Vậy thì chúc ngủ ngon anh trai. Hãy nghỉ ngơi tốt nhé."@
+`"Đúng vậy, tôi sẽ làm thế."@
 bg #000000,crossfade,800
-`"Cái gì, em không tin tưởng anh đến thế sao?"@
- …… Nhưng ngẫm lại thì cũng phải thôi.@
+` Ngay khi tôi trả lời cô ấy,
+` Tôi ngủ đi như thể vừa ngất lịm vậy.
 \
 playstop
 !w3000

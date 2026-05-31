@@ -17,12 +17,12 @@ ld c,"tachi/cel_t01b",crossfade,400
 br
 `  Dõi mắt nhìn ra xa, chị ấy hoàn toàn ngó lơ những gì tôi nói.@
 br
- …… Vì một lý do nào đó,
+`…… Vì một lý do nào đó,
 `  có cảm giác như chị ấy đang cố tình làm thế chỉ vì muốn trêu đùa tôi.
 \
 `"…… Senpai.@ Đừng bảo là chị vẫn còn găm hận chuyện hồi sáng đấy nhé……?"@
 `  Chị ấy chỉ mỉm cười mà chẳng nói lời nào.@
- …… Chị ấy đang giận thật rồi.@
+`…… Chị ấy đang giận thật rồi.@
 `  Biểu cảm gương mặt đó chắc chắn là đang ghi hận.
 \
 `"…… Em biết rồi, mọi chuyện sáng nay hoàn toàn là lỗi của em.@ Em vô cùng xin lỗi chị.@
@@ -78,131 +78,131 @@ ld l,"tachi/ark_t05b",lshutter,400
 `"Bất ngờ thật đấy.@ Ta đi theo tiếng giọng của Shiki đến đây và rồi lại bắt gặp ngươi ở chỗ này.@
 `  Chẳng phải hôm qua chúng ta đã trao đổi xong thông tin rồi sao?@ Ta không nghĩ ngươi còn bất kỳ việc gì liên quan đến ta nữa đâu đấy."@
 ld r,"tachi/cel_t07b",crossfade,400
-ld r,"tachi/cel_t07b",crossfade,400
+`ld r,"tachi/cel_t07b",crossfade,400
 \
-\
+`\
 `"Ồ, thật thế sao?@ Hay ngươi đang có ý định cướp cộng sự của ta đấy?"@
 cl c,crossfade,400
 \
-\
+`\
 br
-br
+`br
 `  Là kẻ đứng kẹt giữa hai người, tôi tuyệt đối không thể đứng yên trơ mắt nhìn.@
- …… Nhìn vào vị trí lúc này, thứ tự đứng đang là Senpai, tôi, rồi đến Arcueid.@
+`…… Nhìn vào vị trí lúc này, thứ tự đứng đang là Senpai, tôi, rồi đến Arcueid.@
 \
-\
+`\
 ld l,"tachi/ark_t05a",crossfade,400
-ld l,"tachi/ark_t05a",crossfade,400
+`ld l,"tachi/ark_t05a",crossfade,400
 ld r,"tachi/cel_t06b",crossfade,400
-ld r,"tachi/cel_t06b",crossfade,400
+`ld r,"tachi/cel_t06b",crossfade,400
 `"Làm ơn im lặng đi Tohno-kun!"@
 `"[line=7]"@
- …… Thôi xong, tôi thất bại thảm hại rồi.@
+`…… Thôi xong, tôi thất bại thảm hại rồi.@
 \
 ld l,"tachi/ark_t05a",crossfade,400
-ld l,"tachi/ark_t05a",crossfade,400
+`ld l,"tachi/ark_t05a",crossfade,400
 `"[line=2]Được thôi.@ Vì Shiki có vẻ quan tâm đến ngươi, nên ta sẽ tha cho ngươi lần này.@
 `  Ta sẽ không tấn công ngươi đâu, nên mau biến đi cho khuất mắt ta."@
 ` Tôi sẽ không tấn công cậu, nên hãy biến mất đi.@
 \
 ld l,"tachi/ark_t05c",crossfade,400
 ` [line=6]Tôi không nghĩ Arcueid Brunestud lại bận tâm vào việc gì khác ngoài việc giết các ma cà rồng.
-\
-ld l,"tachi/ark_t05c",crossfade,400
+`\
+`ld l,"tachi/ark_t05c",crossfade,400
 ld l,"tachi/ark_t10",crossfade,400
 `"Đối với cô, việc thao túng con người dễ như trở bàn tay mà.@
 `  Nếu thực sự muốn tìm kiếm sự trợ giúp, đáng lẽ cô nên biến cậu ấy thành nô bộc của mình mới phải chứ Arcueid? Tại sao cô lại không làm vậy?"@
 ` Nếu cậu muốn có sự giúp đỡ, tốt hơn là cậu nên biến anh ta thành nô lệ, Arcueid, nhưng tại sao cậu chưa làm thế?"@
-ld l,"tachi/ark_t10",crossfade,400
+`ld l,"tachi/ark_t10",crossfade,400
 \
 `  Ngay cả khi ta không làm điều đó, cậu ấy vẫn tự nguyện bảo sẽ giúp đỡ ta."@
 ld l,"tachi/ark_t07",crossfade,400
 ld r,"tachi/cel_t07b",crossfade,400
 `  Sát khí ngút ngàn lúc nãy dường như đã tạm thời lắng xuống.
-\
+`\
 `"[line=3]Arcueid.@ Đừng bảo là cô..."@
 \
-ld r,"tachi/cel_t07b",crossfade,400
+`ld r,"tachi/cel_t07b",crossfade,400
 `"Thực sự…… muốn hút máu cậu ấy đấy chứ?"@
- *Keng*@
+`*Keng*@
 `  Từ phía Senpai, tôi nghe thấy một âm thanh kim loại đanh thép vang lên.
 \
 `"…… Tôi hiểu rồi.@ Dù khá bất ngờ khi cô lại có hứng thú với con người, nhưng chuyện đó cũng chẳng còn quan trọng nữa rồi.@
 ld r,"tachi/cel_t06b",crossfade,400
 ` "Nếu cậu muốn máu của loài người, thì chỉ còn một việc phải làm."@
- *Keng* Tiếng kim loại sắc bén lại bật ra từ tay chị ấy.@
+`*Keng* Tiếng kim loại sắc bén lại bật ra từ tay chị ấy.@
 `  Vô số thanh kiếm tựa như những chiếc đinh dài đâm ra giữa các kẽ ngón tay chị ấy.
 \
 ld l,"tachi/ark_t05c",crossfade,400
-ld r,"tachi/cel_t06b",crossfade,400
+`ld r,"tachi/cel_t06b",crossfade,400
 `"Tohno-kun, làm ơn lùi lại đi.@
 `  Vừa rồi, chị đã xác nhận rõ ràng rằng cô ta thực sự là một ma cà rồng khát máu.@ Dẫu cho cô ta là một Chân Tổ hợp tác với Giáo hội đi chăng nữa, một khi đã thèm khát máu người, cô ta sẽ trở thành kẻ thù của chúng ta.@
 `  Trước khi có bất kỳ nạn nhân nào xuất hiện, chị sẽ tiêu diệt cô ta ngay tại đây."
 \
 wave se_01
-\
-ld l,"tachi/ark_t05c",crossfade,400
+`\
+`ld l,"tachi/ark_t05c",crossfade,400
 br
 `  Được thôi, nếu ngươi đã chán sống đến thế, ta sẽ toại nguyện và tiễn ngươi đi luôn.@ Dù sao thì cũng chẳng mấy khi ta được tự tay giết cùng một kẻ tới hai lần đâu."@
 ` Tốt rồi, nếu cậu muốn chết, tôi sẽ thực hiện ước nguyện của cậu và giết cậu. Không thường xuyên gì tôi được giết cùng một người hai lần.@
 \
 `  Senpai nghênh đón ánh mắt chết chóc của Arcueid trong tư thế chiến đấu thủ thế, những lưỡi kiếm trong tay sẵn sàng xuất kích.
-\
+`\
 ld l,"tachi/ark_t07",crossfade,400
 ld r,"tachi/cel_t07b",crossfade,400
 `  Bầu không khí như đông cứng lại, khiến tôi gần như không thể thở nổi.@
-br
- [line=3]Không ổn rồi.@
+`br
+`[line=3]Không ổn rồi.@
 cl a,lshutter,400
 \
 `"…… Chờ đã hai người ơi, làm ơn đi.@ Em đã bảo là hãy bình tĩnh lại cơ mà……!"@
 br
-ld l,"tachi/ark_t07",crossfade,400
+`ld l,"tachi/ark_t07",crossfade,400
 br
 `"[line=4]"@
 \
 bg #000000,lshutter,400
-cl a,lshutter,400
-\
+`cl a,lshutter,400
+`\
 `  Thế rồi ngay sau đó, tiếng hai bóng người đạp mạnh lên mặt đất vang lên vang dội.@
-br
+`br
 \
-br
+`br
 `  Hai bóng đen trắng lập tức lao vào nhau như hai cực nam châm trái dấu hút nhau điên cuồng.
 br
-bg #000000,lshutter,400
+`bg #000000,lshutter,400
 `  Cuộc chiến giữa hai người họ đã vượt xa khỏi tầm hiểu biết của tôi.@
 \
 `  Tất cả những gì tôi có thể nhìn thấy chỉ là một bóng trắng mờ ảo vút đi trong màn đêm.@
 `  Điều đáng ngạc nhiên là Senpai hoàn toàn không hề tỏ ra lép vế trước tốc độ kinh hoàng của Arcueid.
-\
+`\
 \
 bg "bg/bg_29b",lcartain,400
-br
+quakey 4,375
 wave se_05
 `  Tuy nhiên, đúng như những gì Senpai đã nói, sức mạnh của Arcueid dường như là vô tận.
-\
+`\
 \
 ld c,"tachi/cel_t06b",lshutter,400
 `  Lúc đầu, Senpai còn có phần áp đảo cô ấy, nhưng Arcueid đã nhanh chóng bắt kịp nhịp độ và giờ đây đang dễ dàng vượt trội hơn hẳn sức mạnh của chị ấy[line=3]
-\
-bg "bg/bg_29b",lcartain,400
+`\
+`bg "bg/bg_29b",lcartain,400
 wave se_10
 cl c,tshutter,400
 wave se_05
 `  Cơ thể Senpai bị hất văng nhẹ lên không trung rồi đập mạnh xuống đất lăn lộn, tựa như một mảnh rác không hơn không kém.
-\
-ld c,"tachi/cel_t06b",lshutter,400
+`\
+`ld c,"tachi/cel_t06b",lshutter,400
 \
 wave se_01
 `  Nhưng đó hoàn toàn là một nỗ lực vô ích.
-wave se_10
-cl c,tshutter,400
-wave se_05
+`wave se_10
+`cl c,tshutter,400
+`wave se_05
 \
 `  Chị ấy nằm bất động ở đó.@
 `  Máu tươi không ngừng tuôn chảy dọc theo lối đi lát gạch của công viên.
-\
-wave se_01
+`\
+`wave se_01
 `"Sen[line=3]pai?"@
 \

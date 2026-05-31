@@ -44,7 +44,7 @@ bg "bg/bg_11d",tshutter,400
 ` Nhưng tôi không còn cần chúng nữa.@
 ` Cơ thể tôi đã có tốc độ mình cần.@
 ` [line=4]Như thế này...
-Lắc lư 3,50
+quakey 3,50
 br
 `"[line=8]Kyaa?!"@
 br

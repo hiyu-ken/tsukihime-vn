@@ -2,74 +2,74 @@ monocro off
 play "*2"
 wavestop
 bg "bg/bg_40a",notrans,0
+`"Đã quá chín giờ rồi."[line=4]@
+` Tôi liếc đồng hồ.@
+` Nó đã vượt quá giờ học.@
+` Ngay cả nếu tôi đến trường bây giờ, tôi vẫn sẽ muộn[line=3]và thành thật mà nói, ở bên Arcueid vui hơn là đi học...
 \
-bg "bg/bg_12a",lcartain,800
-` Chúng tôi đi bộ đến khu phố mua sắm phía trước nhà ga.@
-` [line=3]Dưới ánh nắng ban ngày, Arcueid trông vô cùng nổi bật giữa đám đông.@
-\
-` Đi bên cạnh một mỹ nhân nổi bật như vậy làm tôi thấy vô cùng ngượng ngùng và áp lực.
+`"Được rồi.@ Tôi sẽ dành ngày hôm nay với cậu.@ Nhưng nếu chúng ta vào thành phố trong ban ngày, tôi nghĩ không có Tử Giả nào quanh đây?"@
 ld c,"tachi/ark_t01b",crossfade,400
-ld c,"tachi/ark_t02",lshutter,800
-`"Này Shiki, chúng ta đi đâu bây giờ?"@
+`"...Tôi chẳng quan tâm lắm.@ Tôi chỉ muốn dạo chơi, nên ngay cả khi là ban ngày, cũng không sao."@
+`"……? Chẳng phải chúng ta đang bù đắp cho đêm qua và đi tìm ma cà rồng à?"
 \
-`"Đi đâu là đi đâu cơ chứ... Chẳng phải cậu là người đòi tôi đi chơi cùng sao? Đáng lẽ cậu phải có kế hoạch trước rồi chứ."@
-ld c,"tachi/ark_t16",crossfade,400
+`"Đúng vậy, tất nhiên là chúng ta sẽ tìm kiếm vào đêm nay. Nhưng để tôi giúp đỡ cả ngày lẫn đêm sẽ rất vất vả, nên trong ngày tôi nghĩ chúng ta có thể thư giãn."@
+`"Tôi cũng nghĩ như vậy. Nhưng chỉ có hai chúng ta đi dạo, đó……"
 \
-`"………… Thật là."@
-` Tôi thở dài ngao ngán. Đúng là tính cách tùy hứng của ma cà rồng mà.
+` giống như một buổi hẹn hò trong thế giới thực.@
+` …… Có lẽ bạn không thể nói điều đó với một ma cà rồng như Arcueid, nhưng tôi đoán cô ấy đang bảo tôi đưa cô ấy ra ngoài chơi.@
+` [line=4]Đối với tôi, tôi cần chuẩn bị tinh thần và……
 \
-\
-`"Được rồi. Thế chúng ta cứ đi dạo quanh khu mua sắm này trước nhé. Cậu có muốn ăn gì hay mua gì không?"@
-`"[line=6]Ăn á? Tôi không cần ăn đồ ăn của con người đâu. Nhưng đi dạo thì được đấy!"@
-` Cô ấy rạng rỡ gật đầu đồng ý.
+`"……? Có chuyện gì vậy, Shiki? Mặt cậu đỏ rực lên."@
+`"[line=6]Ừm."@
+` Tôi che mặt bằng tay và nhìn đi nơi khác.@
 cl c,crossfade,400
 br
-` Thế là chúng tôi cùng nhau dạo bước qua các con phố mua sắm náo nhiệt. Arcueid tỏ ra vô cùng phấn khích trước mọi thứ xung quanh hệt như một đứa trẻ lần đầu được đi hội chợ vậy.
+` ... Đúng vậy, chúng ta đã ở một mình nhiều lần trước đây.@
+` Nhưng, đó là tình huống khẩn cấp, và nó giống như một thỏa thuận hợp tác hơn là bất cứ điều gì giữa một người đàn ông và phụ nữ.@
+` Vì vậy[line=4] dù tôi nghĩ cô ấy rất xinh đẹp, tôi vẫn cố không để ý đến điều đó.
 \
-bg #000000,lcartain,800
-\
-` Chúng tôi dừng chân tại một công viên nhỏ ven đường.@
-` [line=4]Đi bộ suốt một buổi sáng làm đôi chân tôi có chút mỏi mệt, nhưng Arcueid trông vẫn tràn đầy năng lượng không hề có chút mệt mỏi nào.
+` Nhưng, nếu...
+` Không có nguy hiểm nào, không có mục đích nào, nếu chúng ta chỉ đi dạo, tôi có thể nhận ra điều gì đó mà trước đây tôi chưa từng để ý, và nó khiến tôi do dự[line=4]
 \
 ld c,"tachi/ark_t11",crossfade,400
-`"Vui thật đấy, Shiki! Đi dạo ban ngày thế này thú vị hơn tôi nghĩ nhiều."@
-` Cô ấy tươi cười rạng rỡ.@
+`"Shiki?@ Chào, cậu cuối cùng cũng đi học chứ..."?"@
+`"... Không thể.@ Tôi đã nói rằng tôi sẽ làm thế, nên tôi sẽ làm.@ Tôi không biết cậu đang nghĩ gì, nhưng việc đi dạo không phải là vấn đề."@
 ld c,"tachi/ark_t08",crossfade,400
-` Tôi ngồi bệt xuống chiếc ghế băng công viên, thở dốc.@
+`"Đã quyết định rồi.@ Rồi chúng ta hãy đi thôi."@
 cl c,lshutter,400
-`"Ơ, cậu yếu ớt thế Shiki? Mới đi có một chút mà đã mệt rồi sao?"@
+` Cô ấy bước về phía cửa sổ mà mình đã lén vào trước đó.
 \
-`"Tôi là con người bình thường, lại đang bị thiếu máu nữa, làm sao so bì thể lực với ma cà rồng như cậu được chứ."@
+`"Chờ một chút.@ Tôi sẽ thay quần áo, nên cậu có thể nhìn ra ngoài một lúc được không?"@
 ld c,"tachi/ark_t01a",crossfade,400
-\
-ld c,"tachi/ark_t08",crossfade,400
-`"Hì hì, thế thì cậu cứ ngồi nghỉ ngơi đi nhé. Tôi sẽ đứng canh gác cho cậu!"@
+`"Ồ, vậy à? Không!@ Chỉ đi ra ngoài đi, tôi sẽ đến sớm thôi."@
+`"Được rồi, tôi sẽ chờ ở ngoài.@ Tôi đã đợi lâu như thế này, nên đừng khiến tôi phải đợi thêm nữa, Shiki..."@
+`"Cô nhảy ra khỏi cửa sổ với sự nhẹ nhàng của một con mèo.@
 cl c,lshutter,400
 \
-cl c,crossfade,400
-` Nhìn bóng lưng năng động và nụ cười rạng rỡ của cô ấy dưới ánh nắng ban trưa, tôi bỗng cảm nhận được một sự bình yên kỳ lạ. Nếu không biết thân phận thực sự của cô ấy, có lẽ tôi đã nghĩ đây chỉ là một cô gái bình thường, năng động và vô cùng dễ thương mà thôi.
-\
+` Tôi nghe thấy tiếng lá cây xào xạc bên ngoài.@
+` (Tôi)@
+` Cô ấy không nhảy xuống mặt đất, mà di chuyển dọc theo cành cây.@
 br
-bg "bg/bg_05c",lcartain,1000
+` ... Với cơ thể như vậy, lẽ ra cô ấy nên dễ dàng lén lút vào đây mà không bị phát hiện.
 \
-` Ánh hoàng hôn nhuộm đỏ cả góc trời, bừng sáng lên mái tóc vàng của Arcueid.
-\
-ld c,"tachi/ark_t01a",lshutter,800
+`"…… Đây không phải lúc để ngạc nhiên.@ Tôi cũng phải lén lút ra ngoài mà không để Hisui chú ý."@
+` Tôi thay đổi sang quần áo bình thường.@
+` Mở cửa một chút, tôi nhìn xung quanh để chắc chắn không có ai trong hành lang và bước nhẹ nhàng ra ngoài.
 \
 bg #000000,lcartain,800
 playstop
 bg "bg/bg_32a",lcartain,800
 play "*3"
-`"Phải rồi. Đêm nay chúng ta phải tìm ra tung tích của Roa. Vết thương của hắn chắc chắn đã lành lại kha khá rồi, hắn sẽ sớm bắt đầu hành động tiếp thôi."@
-` Vẻ nhí nhảnh thường ngày của cô ấy lập tức biến mất, thay vào đó là nét nghiêm nghị vốn có của một thợ săn ma cà rồng.
+` May mắn là không ai thấy tôi khi tôi rời đi.@
+` Arcueid đang nhìn đi nơi khác khi cô ấy thì thầm với chính mình.@
 ld c,"tachi/ark_t22",crossfade,400
-`"Được rồi. Đêm nay tôi sẽ đồng hành cùng cậu đến cùng."@
+`"Cảm ơn vì đã chờ đợi.@ Đi thôi, Arcueid.@ Nếu chúng ta ở lại đây, Kohaku-san sẽ tìm ra chúng ta."@
 ld c,"tachi/ark_t14",crossfade,400
+`"Ồ? Ừm, chúng ta nên đi thôi."@
+` Khác hẳn trước đây, lời cô ấy nghe rất trống rỗng.
 \
-cl c,lshutter,800
-\
-playstop
-!w3000
+`"Chuyện gì vậy? Không giống bạn chút nào. Có chuyện gì vừa xảy ra không?"@
+`"... Không, chẳng có gì cả."@
 ` Tôi nhấn mạnh từ "lại một lần nữa" nhưng giọng nói của cô ấy vẫn trống rỗng.@
 br
 ` [line=4]Có vẻ như cô ấy đang lên kế hoạch điều gì đó. Tôi cảm thấy hơi sợ.@

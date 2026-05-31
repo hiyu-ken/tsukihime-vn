@@ -4,25 +4,25 @@ wavestop
 bg "bg/bg_32a",notrans,0
 ` Cô ấy hào hứng gật đầu đồng ý.
 br
-cl c,lshutter,800
+`cl c,lshutter,800
 \
 ld c,"tachi/ark_t10",crossfade,400
 ` [line=4]Chúng tôi tiến vào những con hẻm nhỏ hẹp của khu phố cũ.@
 cl c,crossfade,800
 ` Arcueid bước đi nhẹ nhàng không hề phát ra tiếng động, mắt liên tục đảo quanh cảnh giác.
 ld c,"tachi/ark_t14",crossfade,400
-ld c,"tachi/ark_t05a",lshutter,800
+`ld c,"tachi/ark_t05a",lshutter,800
 br
 ` Cô ấy đột nhiên dừng bước, thì thầm sát tai tôi.@
 \
 ` [line=4]Tôi vội vàng siết chặt cán dao trong túi áo.@
-ld c,"tachi/ark_t07",crossfade,400
+`ld c,"tachi/ark_t07",crossfade,400
 `"Mùi máu. Rất nhạt, nhưng chắc chắn là mùi máu tươi của con người. Nó phát ra từ phía cuối con hẻm kia kìa."@
 ` [line=4]Chỉ tay về phía ngã rẽ tối tăm phía trước, cô ấy khẽ nhíu mày.
-\
+`\
 \
 ld c,"tachi/ark_t03",crossfade,400
-\
-cl c,lshutter,800
+`\
+`cl c,lshutter,800
 cl c,crossfade,400
 \

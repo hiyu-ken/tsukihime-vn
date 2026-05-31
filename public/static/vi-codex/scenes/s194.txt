@@ -1,4 +1,4 @@
-[Hình nền/cmo_14], l, arc, 11a, 11
+phase "bg/cmo_14",l,ark,11a,11
 bg "bg/bg_40a",crossfade,1500
 ` Tôi thức giấc bởi tiếng gọi dịu dàng của Hisui.@
 ` [line=4]Đêm qua, sau khi lầm lũi quay trở về biệt thự, tôi dường như đã tự động tìm về phòng mình rồi đổ sụp xuống giường ngủ thiếp đi.

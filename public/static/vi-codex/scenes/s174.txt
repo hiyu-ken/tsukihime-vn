@@ -3,29 +3,29 @@ wavestop
 bg "bg/bg_56",notrans,0
 play "*1"
 ` …… Đúng vậy.@
-` Tôi đã đồng ý giúp Arcueid săn lùng kẻ thù này, dẫu bản thân tôi thậm chí còn chưa rõ hắn là loại quái vật như thế nào.@
+` Tôi đã giúp Arcueid tìm kiếm kẻ thù này, nhưng tôi thậm chí còn không biết hắn là loại người gì.@
 br
-`"Thế thì tôi hỏi đây. Arcueid này, kẻ thù mà cậu đang truy đuổi suốt bấy lâu nay, hắn rốt cuộc là loại ma cà rồng như thế nào vậy? Cậu đã theo dấu hắn lâu như thế, chắc chắn cậu phải biết rõ ngoại hình và năng lực của hắn chứ."
+`"Rồi tôi sẽ hỏi. Arcueid, kẻ thù của cô, hắn là loại ma cà rồng nào? Cô đã theo đuổi hắn lâu như vậy, nên cô phải biết ngoại hình của hắn, đúng không?"@
 ld c,"tachi/ark_t10",crossfade,400
-`"[line=4][line=4]Ồ, cậu muốn biết về Roa sao?"@
-ld c,"tachi/ark_t01a",crossfade,400
+`"[line=4][line=4]Ừm..."@
+` Arcueid quay mặt đi.
 \
-`"Hắn ta là một Tử Đồ cực kỳ đặc biệt, kẻ được mệnh danh là 'Tử Đồ Rắn' (Xà Akasha of Akasha). Hắn sở hữu khả năng chuyển sinh luân hồi vô hạn bằng cách nhập hồn vào cơ thể của những thế hệ con cháu có dòng máu tương thích ngay khi cơ thể cũ bị tiêu diệt."@
+`"Chuyện gì vậy? Không phải cậu vừa nói là sẽ không giấu tôi điều gì sao?"@
 ld c,"tachi/ark_t14",crossfade,400
-` Cô ấy giải thích với giọng điệu trầm ngâm đầy nghiêm nghị.
+`"Đúng vậy, nhưng xin cậu hãy lắng nghe mà không nổi giận. Tôi mới chỉ biết gần đây rằng có một ma cà rồng ở thành phố này."@
+` Tôi đến đây ngay khi biết được 'kẻ thù' đang ở trong thành phố này, trong nước này, nhưng tôi chưa bao giờ gặp hắn.@
+` Vì vậy, để nói thật, tôi không biết gì về 'kẻ thù' lần này cả.@
+`"[line=4]Cậu không biết à? Cậu chẳng nhận ra Nrvnqsr ngay từ cái nhìn đầu tiên sao?"
 \
-`"Chuyển sinh luân hồi vô hạn sao... Một năng lực gian lận đáng sợ thật đấy."@
-` [line=4]Tôi rùng mình kinh hãi trước sự tồn tại quái dị của hắn.@
-\
-` Cô ấy nắm chặt bàn tay nần nà của mình lại đầy quyết tâm.
-\
-`"[line=3]Đêm nay, chúng ta nhất định phải tìm ra tung tích của hắn trước khi hắn kịp hoàn tất việc hồi phục sức mạnh hoàn toàn."@
+`"Nrvnqsr nổi tiếng và ngoại hình của cậu ấy không bao giờ thay đổi.@
+` Trong khi 'kẻ thù' mà tôi đang truy lùng không mạnh bằng ma cà rồng, những đặc điểm và kỹ năng của hắn lần này lại rất đa dạng, tôi hoàn toàn không biết gì về chúng cả."@
+` "[line=3]Tôi thực sự xin lỗi Shiki, nhưng tôi chỉ có thể nói với bạn điều này thôi."@
 br
+` "... Tôi biết cô ấy không nói dối. Tôi biết, nhưng vẫn cảm thấy như cô ấy đang giấu giếm điều gì đó."@
+` "[line=4]Như..."
 \
-cl c,lshutter,800
-\
-playstop
-!w3000
+`"Đừng lo. Bạn không thể biết nếu không được thông báo."@
+` "[line=4]Nhưng ít nhất bạn cũng biết tên của kẻ thù này, phải không?"@
 cl c,crossfade,400
 `"[line=4]Tên?"@
 `"Đúng vậy, tên của hắn."@

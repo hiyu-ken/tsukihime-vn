@@ -470,7 +470,7 @@ br
 wave se_05
 bg #ffffff,notrans,0
 bg "bg/bg_03a",notrans,0
-3,100 rung chuyển
+quakex 3,100
 ` Nổ vang, lăn, lăn, lăn, rồi một tiếng thét.@
 br
 `"... ..."@

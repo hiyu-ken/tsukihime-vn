@@ -281,7 +281,7 @@ br
 \
 monocro #ff0000
 bg "bg/bg_20b",crossfade,400
-Động đất 2,100
+quakey 2,100
 wavestop
 playstop
 ` Tôi ngã xuống sàn.@

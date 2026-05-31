@@ -32,7 +32,7 @@ br
 br
 bg #ffffff,crossfade,400
 bg "bg/bg_40d",crossfade,400
-1200 rung chuyển.
+quakey 1,200
 ld c,"tachi/ark_t01a",crossfade,400
 ` [line=4]Nhưng...
 ` Cơ thể tôi bắt đầu nghiêng và tôi ngã trở lại trên giường.
@@ -79,7 +79,7 @@ br
 ` Tiếng đập.@
 ` Mặc dù trái tim tôi như đã ngừng đập, một nhịp điệu vẫn vang vọng sâu trong lồng ngực tôi.
 \
-(Bỏ qua dòng 47)
+eroskip 47
 `"Trái tim cậu đang đập mạnh như sắp vỡ ra, Shiki."@
 ` Tiếng cô ấy kéo căng màng nhĩ của tôi.@
 ` Không, thực ra[line=4] đôi môi quyến rũ của cô ấy đang cắn vào tai tôi.@

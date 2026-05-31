@@ -65,7 +65,7 @@ br
 ` "[line=3]Đầu tôi đau quá đi! Tôi chẳng quan tâm nếu mình có thấy những giấc mơ xấu đó hay không."
 \
 !w4000
-Dòng ảnh nền số 07B, 7.
+phase "bg/cmo_14",l,his,07b,7
 !w1000
 bg "bg/bg_25b",tshutter,800
 play "*6"
@@ -133,7 +133,7 @@ bg #000000,crossfade,400
 \
 playstop
 bg "bg/bg_31b",crossfade,400
-[âm thanh vòng lặp: se_02]
+waveloop se_02
 `"[line=9]Ồ?"@
 ` Hình bóng đen nghiêng đầu, bối rối.@
 ` Người đàn ông cúi xuống trước thi thể đang co giật nhìn tôi, như thể so sánh hai chúng tôi.@

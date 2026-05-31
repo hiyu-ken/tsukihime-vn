@@ -34,7 +34,7 @@ br
 `"[line=5]Được rồi, SHIKI. Ta sẽ..."@
 `"Sát hại ngươi."@
 wave se_07
-Một cơn chấn động 2,200
+quakex 2,200
 bg "bg/ima_13b",lshutter,400
 br
 br

@@ -333,7 +333,7 @@ br
 ` Chậm rãi, tôi tháo kính ra.
 \
 bg #000000,crossfade,800
-lặp lại âm thanh se_02
+waveloop se_02
 br
 ` Tôi nhìn thấy những đường đen.@
 ` Và không chỉ những đường đó.@

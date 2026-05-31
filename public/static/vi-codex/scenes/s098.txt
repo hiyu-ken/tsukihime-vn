@@ -1,4 +1,4 @@
-phase "bg/bg_28b", r, ark, 04a, 4
+phase "bg/bg_28b",r,ark,04a,4
 bg #ffffff,crossfade,1500
 br
 br

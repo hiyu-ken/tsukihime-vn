@@ -213,7 +213,7 @@ wave se_01
 bg #ffffff,crossfade,400
 monocro #ff0000
 bg "bg/bg_31b",crossfade,400
-Âm thanh lặp lại se_02
+waveloop se_02
 ` Trước mặt tôi là con mồi đêm nay.@
 br
 ` Hơi thở của tôi ngạt ngào không khí xung quanh.@

@@ -17,7 +17,7 @@ br
 \
 bg #9c0120,crossfade,400
 bg "bg/bg_48d",crossfade,400
-[loop âm thanh se_02]
+waveloop se_02
 `"[line=5]Ồ?"@
 ` Một tiếng đập mạnh bất ngờ vang lên trong ngực tôi.@
 ` Tiếng đập.@
@@ -222,7 +222,7 @@ bg #000000,crossfade,1500
 ` Tôi ngất đi.
 \
 !w4000
-[Hình nền: Phòng của Kohaku - Buổi sáng]
+phase "bg/bg_36d",l,koha,08a,8
 bg #ffffff,crossfade,800
 bg "bg/bg_40a",crossfade,400
 play "*2"
@@ -271,7 +271,7 @@ ld c,"tachi/koha_t03",lshutter,400
 \
 `"Này, tôi nên dậy thôi. Nếu ngủ thêm nữa, Akiha sẽ" [line=3]@
 ` Tôi ngồi thẳng dậy trên giường.@
-rung chuyển nhẹ, 1,300 lần.
+quakey 1,300
 `"[line=5]Tôi không thể thực sự di chuyển được."@
 ` Cơ thể tôi như bị đóng băng, không chịu nghe lệnh.@
 ` Tôi cố gắng nhấc mình lên bằng tay nhưng chúng chẳng có sức mạnh nào.

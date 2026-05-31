@@ -17,7 +17,7 @@ bg "bg/bg_33d",crossfade,400
 \
 bg #000000,crossfade,400
 bg "bg/bg_33d",crossfade,400
-Lắc đầu 2,300 lần.
+quakey 2,300
 `"[line=6]Hừm?"@
 ` Tôi bắt đầu quay lại và gục xuống thảm.@
 `"[line=5]H, chào."@
@@ -139,7 +139,7 @@ ld c,"tachi/koha_t03",crossfade,400
 \
 `"[line=3]Này, tôi nên dậy thôi. Nếu ngủ thêm nữa, Akiha sẽ..."@
 ` Tôi ngồi dậy trên giường.@
-Độ rung đất: 2,300
+quakey 2,300
 `"[line=5]Hả? Tôi... thực ra thì không thể."@
 ` Cơ thể tôi không thể di chuyển.@
 ` Tôi cố gắng dùng tay nâng mình lên, nhưng chúng chẳng có sức mạnh nào cả.

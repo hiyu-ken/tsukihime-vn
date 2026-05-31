@@ -12,7 +12,7 @@ waveloop se_02
 ` Shiki lao tới không phải Akiha mà là Kohaku, người đang đứng bên cạnh cô ấy.@
 br
 ` [line=3]Anh ta biết điều đó.@
-` Tiền sảnh biệt thự lúc này chìm sâu trong tịch mịch tăm tối.`
+br
 ` Giống như tôi có thể di chuyển ngay lúc này nhờ sức mạnh của Hisui, anh ta biết rằng sức mạnh áp đảo của Akiha là nhờ sự giúp đỡ của Kohaku-san.
 ` "Kohaku......!"
 \
@@ -21,7 +21,7 @@ br
 `"[line=2]Shiki nâng cao giọng nói, và với cánh tay vung lên như một ngọn giáo, anh ta nhắm vào mặt Kohaku.@
 ` Âm thanh của da bị xuyên thủng.@
 br
-`"Cậu Shiki, dẫu cho có chuyện gì xảy ra, em vẫn sẽ cất lực ở bên cạnh giúp đỡ cậu."@`
+wavestop
 bg #9c0120,crossfade,400
 bg #000000,notrans,0
 wave se_06

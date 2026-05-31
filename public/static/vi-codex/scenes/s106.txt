@@ -262,7 +262,7 @@ br
 ` [line=3]Bây giờ, nếu tôi chỉ đọc một cuốn sách chán, có lẽ tôi sẽ ngủ thiếp đi.
 \
 bg "bg/cmo_15",lshutter,800
-Chơi âm thanh se_11
+waveloop se_11
 br
 br
 br

@@ -219,7 +219,7 @@ br
 `"Tớ… đã luôn lặng lẽ dõi theo cậu.@
 ` Dù biết chắc chắn cậu sẽ chẳng bao giờ thèm đoái hoài gì đến sự tồn tại của tớ, nhưng tớ vẫn cứ thích nhìn về phía cậu như thế đấy."@
 `"[line=4]"@
-` Ờ thì[line=2]thành thật mà nói, nghe những lời thú nhận đó tôi thấy rất hạnh phúc, nhưng…
+br
 ` [line=2]Thật ra, tôi rất vui, nhưng...
 br
 `"Cậu có thích tớ không, Shiki-kun?"@

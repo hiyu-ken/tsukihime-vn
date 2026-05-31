@@ -11,21 +11,21 @@ ld c,"tachi/cel_t08",crossfade,400
 `"À, xin chờ chút ạ."@
 ` Nghĩ kỹ lại thì,
 ` Tôi không thể nhìn rõ mặt cô ấy vì trời tối, và khí quyển của cô ấy hoàn toàn khác biệt.
-` đêm hôm đó trời tối đen như mực.@
+\
 ` Cô ấy đang đứng từ xa, và bóng tối dày đặc đến mức chỉ nhìn thấy đường viền bóng dáng mờ mờ.@
 ` Nếu vậy, cô ấy hẳn cũng không thể nhìn rõ mặt tôi.@
 ` Thậm chí nếu cô ấy có nhìn thấy, trong bóng tối như vậy thì tuyệt đối chẳng thể nhận diện được.
 br
 ` …… Đương nhiên rồi.@
 `"Không, chẳng có gì cả.@ Tôi chỉ muốn hỏi xem sáng nay Senpai có khỏe không thôi ạ."@
-` Tôi quyết định giữ im lặng.@
+\
 ` Cô ấy không nhìn thấy mặt tôi, và tôi cũng không nhìn rõ mặt cô ấy.@
 ` [line=2]Đó là điều tốt nhất.
 ` Cô ấy vẫn nhìn thẳng vào mặt tôi.@
 `"Ừm... à, ừm."@
 `"Vâng, tôi khỏe.@ Cảm ơn cậu đã hỏi thăm."@
 ` Cô ấy nở nụ cười dịu dàng.@
-` …… Ừ, đúng vậy.@
+\
 ` Nếu phải nói rằng cô ấy là ai thì cũng chẳng để làm gì.
 `"... Một người giống tôi à?"@
 ` Tôi vẫn chưa biết tại sao Senpai lại ở đó đêm hôm đó, nhưng dẫu cho có hỏi cũng chẳng ích gì.@

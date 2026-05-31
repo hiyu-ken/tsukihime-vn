@@ -1,6 +1,6 @@
 bg "bg/bg_40d",notrans,0
 playstop
-(Lặp âm thanh) se_11
+waveloop se_11
 ` Thậm chí Akiha và những người khác cũng không thể ngủ với tiếng ồn như thế này.@
 ` Vì tôi là người đàn ông duy nhất trong nhà, nên tôi nghĩ mình không còn lựa chọn nào khác ngoài việc đi điều tra.
 \

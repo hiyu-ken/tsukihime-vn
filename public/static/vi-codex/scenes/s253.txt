@@ -491,7 +491,7 @@ br
 br
 br
 ` [line=6]Và rồi,
-` *Cốc!*@
+quakey 1,100
 br
 ` Tôi bỗng bị ăn một cú đấm cốc đầu đau điếng từ Arcueid.
 \

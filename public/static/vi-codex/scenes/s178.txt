@@ -16,18 +16,18 @@ ld c,"tachi/ark_t03",crossfade,400
 ` Cô ấy khẽ thở dài đầy hụt hẫng.@
 `"Vậy sao... Thế thì đêm nay chúng ta đành ra về tay trắng rồi."@
 ` [line=4]Tôi nhún vai đứng dậy khỏi ghế băng công viên, phủi bụi trên quần áo.@
-ld c,"tachi/ark_t02",crossfade,400
+`ld c,"tachi/ark_t02",crossfade,400
 \
 ld c,"tachi/ark_t08",crossfade,400
 `"Tôi biết rồi. Cảm ơn cậu đã lo lắng cho tôi nhé, Arcueid."@
-ld c,"tachi/ark_t08",crossfade,400
+`ld c,"tachi/ark_t08",crossfade,400
 ld c,"tachi/ark_t11",crossfade,400
 ` Vẫy tay chào đầy năng lượng, ma cà rồng váy trắng thoăn thoắt bước đi rồi nhanh chóng hòa mình biến mất vào bóng đêm tịch mịch.@
-cl c,lshutter,800
+`cl c,lshutter,800
 ld c,"tachi/ark_t03",crossfade,400
-bg #000000,crossfade,1500
+`bg #000000,crossfade,1500
 \
-!w3000
+`!w3000
 ` Tôi trả lời một cách nghiêm túc.@
 ` Đôi khi, tôi hơi thẳng thắn quá mức.
 \

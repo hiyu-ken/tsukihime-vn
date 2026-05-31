@@ -117,7 +117,7 @@ br
 ` [line=3]Vào khoảnh khắc đó.@
 br
 `"[line=4]['[hàng 4]?!']"@
-[line=2200] Động đất cấp độ 2.200.
+quakey 2,200
 ` Tôi đột nhiên ngã xuống giường.
 \
 `"[line=4]Ôi trời!"@
@@ -159,7 +159,7 @@ cl c,lshutter,400
 ` Và sau đó,
 ` âm thanh của một dải ruy băng được tháo gỡ.
 \
-(lướt qua 93)
+eroskip 93
 `"[line=4]Hả?"@
 ` Không có thời gian để ngăn cô ấy,
 ` ... hay có lẽ suy nghĩ của tôi về việc ngăn cô ấy đã bị đánh bại bởi khát vọng thấy điều đó của tôi...@

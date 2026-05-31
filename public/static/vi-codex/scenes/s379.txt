@@ -67,7 +67,7 @@ br
 ` Cơ hội đây rồi.@
 ` Ngay lúc này, tôi sẽ[line=5]
 \
-rung chuyển 1,200 lần.
+quakey 1,200
 monocro #ff0000
 bg "bg/bg_53b",notrans,0
 br

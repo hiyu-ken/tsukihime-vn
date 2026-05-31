@@ -117,7 +117,7 @@ ld c,"tachi/koha_t09b",crossfade,800
 ` Cô ấy đứng im như một con búp bê, chỉ nhìn ngắm thán phục chiếc nơ trong tay.@
 br
 `"... Bạn biết, Shiki-san?"@
-` Dẫu cho bước đường phía trước dẫu dẫu đã bị bao phủ bởi tăm tối tịch mịch, tôi vẫn chịu chết tịnh không thể dừng cất bước chân dấn sâu hơn nữa.`
+br
 `"... Không ngay từ đầu. Nó chỉ mới xảy ra gần đây. ... Tôi lẽ ra phải nhận ra điều đó ngay khi trở về."
 \
 cl c,crossfade,800

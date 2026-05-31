@@ -2,14 +2,14 @@ monocro off
 play "*7"
 wavestop
 bg "bg/bg_54a",notrans,0
-`"…… Tịnh không đúng.@"
-` Đúng thế, việc đó có lẽ dẫu dã hoàn toàn sai lầm.@
-` Dẫu biết rằng nếu cất lực hy sinh mạng sống này thực sự dẫu dã cứu rỗi được Akiha, tôi dẫu dã tịnh không tiếc nuối.@
-` Song chẳng hề có một bằng chứng nào cho điều đó cả, và hơn hết dẫu dã…
+`"Sai lầm."@
+` Vâng, có lẽ là sai.@
+` Thôi thì, nếu tôi thực sự có thể cứu Akiha bằng cách chết đi, cũng không sao.@
+` Nhưng không có bằng chứng nào cho điều đó, và ngoài ra...
 br
-` Tôi tịnh không tin cái chết dẫu dã là phương cách để cứu rỗi bất kỳ một ai.@
+` [line=3]Tôi không nghĩ cái chết có thể là cách để cứu ai đó.@
 br
-` Dẫu cho Akiha dẫu dã được cứu sống nhờ cái chết của tôi, em ấy sẽ phải sống tiếp những ngày tháng sau đó với nỗi dằn vặt khôn nguôi thế nào đây?@
+` Ngay cả khi Akiha được cứu bởi cái chết của tôi, cô ấy sẽ cảm thấy thế nào sau đó?@
 ` Nếu cô ấy chỉ buồn vì điều đó, thì cũng tốt, nhưng sai lầm nếu cô ấy phải cảm thấy tội lỗi trong suốt cuộc đời.@
 ` Tôi không nghĩ lựa chọn cái chết là dũng cảm hay đáng kính.@
 ` [line=3]Tôi nghĩ... đó chỉ là cách để trốn tránh thực tại.
@@ -44,7 +44,7 @@ br
 bg #000000,crossfade,800
 playstop
 !w4000
-[line=13] Giai đoạn đen tối, Akiha, 13B, Epi
+phase #000000,l,aki,13b,epi
 bg #ffffff,crossfade,1500
 monocro off
 bg "bg/ima_03",crossfade,800

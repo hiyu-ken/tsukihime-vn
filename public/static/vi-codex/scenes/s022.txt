@@ -191,18 +191,18 @@ ld c,"tachi/ari_t04",crossfade,400
 ld c,"tachi/ari_t01",crossfade,400
 `"Hơ hơ… Tôi cũng thấy thế thật.@ Xem ra việc đến trường đúng giờ không chỉ xảy ra mỗi khi tôi vô tình thức dậy sớm đâu nhỉ."@
 `"…… Tôi không rảnh bình luận về sở thích của cậu, nhưng cái tôi muốn hỏi là tại sao cậu lại thức dậy sớm như thế?"@
-ld c,"tachi/ari_t01",crossfade,400
+`ld c,"tachi/ari_t01",crossfade,400
 \
 cl c,crossfade,400
-cl c,crossfade,400
+`cl c,crossfade,400
 br
-br
+`br
 `"…… À ra vậy.@ Nghĩ lại thì đúng là tôi cũng có nghe loáng thoáng về chuyện đó."@
 ` Trong lòng dấy lên một chút tự trách khi phải để tên Arihiko này nhắc nhở.@
 \
-\
+`\
 ld l,"tachi/ari_t04",notrans,0
-ld l,"tachi/ari_t04",notrans,0
+`ld l,"tachi/ari_t04",notrans,0
 `"There's more to it.@ So far, all the victims have been young girls.@ Nạn nhân thứ tám vừa mới bị hạ sát cách đây hai ngày thôi đấy!@ Và điều kinh khủng nhất là, họ đều bị… khoan đã, rốt cuộc họ bị làm sao ấy nhỉ?"@
 `"……"@
 ` Tôi thật là ngốc mới đi hỏi hắn ta.@
@@ -233,17 +233,17 @@ wave se_03
 cl l,lshutter,400
 `"Chào tạm biệt cậu nhé, Tohno-kun."@
 `"À… ừm.@ Xin lỗi vì đã làm mất thời gian của cậu nhé, Yumizuka-san."@
+`cl r,lshutter,400
 cl r,lshutter,400
-cl r,lshutter,400
-\
+`\
 \
 ` Cho đến nay tôi vẫn thắc mắc tại sao cô bạn ấy lại tham gia cuộc trò chuyện của tụi tôi nữa.@ Rõ ràng hai đứa chỉ là bạn cùng lớp bình thường thôi mà nhỉ.
-\
+`\
 \
 playstop
 bg #000000,lshutter,1500
 !w1000
 bg "bg/bg_06a",lshutter,800
 ` Giờ thì, mình nên đi ăn trưa ở đâu bây giờ nhỉ?
-\
+`\
 \

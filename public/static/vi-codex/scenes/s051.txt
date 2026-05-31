@@ -1,4 +1,4 @@
-` [center]Cái chết...[/center]`
+phase "bg/bg_22b",r,ark,02a,2
 bg #ffffff,crossfade,800
 ` Thầy bảo tôi.`@
 ` Mắt tôi có thể nhìn thấy những điểm dễ bị gãy vỡ.`@

@@ -241,7 +241,7 @@ br
 bg #000000,lshutter,400
 wave se_12
 bg "bg/bg_11c",notrans,0
-quake 2,100
+quakey 2,100
 waveloop se_02
 `"[line=4]Hự... !?"@
 ` Thân hình SHIKI bỗng bị đánh văng mạnh sang một bên.@

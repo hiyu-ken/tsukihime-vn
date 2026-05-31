@@ -116,7 +116,7 @@ br
 br
 br
 br
-[line=3]br
+`[line=3]br
 \
 br
 br
@@ -124,7 +124,7 @@ br
 br
 br
 br
-[center]br
+`[center]br
 `[center]Một người lạ đang tiến lại gần.@
 \
 br
@@ -132,7 +132,7 @@ br
 br
 br
 br
-[line=3]br
+`[line=3]br
 \
 br
 br
@@ -140,7 +140,7 @@ br
 br
 br
 br
-[center]br
+`[center]br
 `[center]Thế nhưng, có một người khác, một người em không quen biết… đã bước ra chắn trước mặt em,
 \
 br
@@ -150,7 +150,7 @@ br
 br
 br
 br
-[line=3]br
+`[line=3]br
 \
 bg "bg/ima_13b",crossfade,400
 br
@@ -158,7 +158,7 @@ br
 br
 br
 br
-[center]br
+`[center]br
 `[center]Một tiếng "bộp" vang lên.@
 `[center]Một thứ gì đó ấm nóng và ẩm ướt bắn thẳng vào mặt em.@
 `[center]Một màu đỏ…
@@ -168,7 +168,7 @@ br
 br
 br
 br
-[center]br
+`[center]br
 `[center]Người bị xé xác ấy,
 `[center]người mà em vẫn gọi là "mẹ",
 \
@@ -181,7 +181,7 @@ br
 br
 br
 br
-[line=5]br
+`[line=5]br
 \
 br
 br
@@ -189,7 +189,7 @@ br
 br
 br
 br
-[center]br
+`[center]br
 `[center]Nhưng cảnh tượng ấy mới tàn nhẫn làm sao…
 \
 bg #000000,crossfade,1500
@@ -199,7 +199,7 @@ br
 br
 br
 br
-[center]br
+`[center]br
 `[center]Sắc đỏ ấm áp làm mờ đi tầm mắt em.@
 `[center]Thấm vào sâu trong đôi mắt.@
 `[center]Thế nhưng, điều đó chẳng mảy may làm em bận tâm.@
@@ -212,7 +212,7 @@ br
 br
 br
 br
-[center]br
+`[center]br
 `[center]Thật kỳ lạ.@
 \
 br
@@ -222,7 +222,7 @@ br
 br
 br
 br
-[line=3]br
+`[line=3]br
 \
 br
 br
@@ -231,7 +231,7 @@ br
 br
 br
 br
-[center][line=3]br
+`[center][line=3]br
 \
 br
 br
@@ -240,7 +240,7 @@ br
 br
 br
 br
-[center]br
+`[center]br
 \
 br
 br
@@ -249,6 +249,6 @@ br
 br
 br
 br
-[center][line=6][line=4]br
+`[center][line=6][line=4]br
 \
 playstop

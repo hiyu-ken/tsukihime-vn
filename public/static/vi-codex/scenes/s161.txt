@@ -174,7 +174,7 @@ ld c,"tachi/ark_t05b",crossfade,400
 \
 `"Thế nào, Arcueid? Gã quấn băng gạc đó, và người phụ nữ mặc áo choàng tu sĩ kia, họ có phải là kẻ thù của cậu không?"@
 ld c,"tachi/ark_t07",crossfade,400
-`play "*1"
+play "*1"
 `"…… Phải. Cả hai đều là 'kẻ thù'. Tôi chưa rõ danh tính thực sự của gã quấn băng kia là ai, nhưng người phụ nữ mặc áo choàng Công giáo đó thì tôi có manh mối rồi."@
 ` Cô ấy cắn môi tỏ vẻ bực dọc.@
 ` Không hẳn là bực dọc, mà trông cô ấy giống như đang bị kích động dữ dội thì đúng hơn.

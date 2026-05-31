@@ -1,4 +1,4 @@
-[hình nền/ima_02], Ciel, 09b, 10
+phase "bg/ima_02",l,cel,09b,10
 bg #000000,notrans,0
 bg "bg/ima_01",crossfade,800
 play "*9"

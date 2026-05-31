@@ -70,7 +70,7 @@ ld c,"tachi/aki_t07b",crossfade,400
 cl c,lshutter,400
 ` Akiha la lên rồi bước đi lảo đảo chệnh choạng.@`
 ` Tiếng nói của cô ấy khiến cô ấy choáng váng, vậy phần nào trong đó không phải là say xỉn?
-`"…… Thôi được rồi.@ Em ngồi xuống đây đi, hai anh em mình đàm đạo chút chuyện dẫu vậy dẫu vậy dẫu cũng được."@`
+\
 `"…… Ồ, được rồi. Ngồi xuống đi, chúng ta có thể trò chuyện một chút, tôi nghĩ thế."@
 ` Tôi vuốt ve chiếc sofa bên cạnh mình.@
 ld c,"tachi/aki_t13b",lshutter,400
@@ -321,9 +321,9 @@ ld c,"tachi/aki_t01b",lshutter,400
 `"Say? ...Đã say từ lâu rồi sao?"@
 `"Anh đang nói gì vậy? Tôi say, nên dĩ nhiên tôi sẽ không rõ ràng."@
 ` Cô đặt cốc xuống bàn nhanh chóng.
-` Em ấy thốt ra những lời tự giễu nhường ấy,`
+\
 ` rồi cơ thể khẽ đổ gục chao đảo ngã nhào vào lồng ngực tôi.`
-`"K-Kìa Akiha……!?@ Em bấy giờ bấy giờ đang làm cái trò[line=4]"`
+cl c,lshutter,400
 ` "Với điều đó,"
 ` Cô ấy ngã về phía tôi.
 \

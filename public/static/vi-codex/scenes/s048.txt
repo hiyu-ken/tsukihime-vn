@@ -1,76 +1,74 @@
 playstop
-@
-[line=1] 
-Shiki: Cái mùi tan chảy... giống như máu đông bị đun nóng.
+waveloop se_11
 bg "bg/bg_40d",notrans,0
 ` Tiếng gào thét vẫn vang vọng.@
-` Không thể nào tôi ngủ như thế này.`@
-` …… Tôi không ngủ được, nhưng cũng bình thường thôi.`@
-` “…… Tôi buồn ngủ nên thôi.”`@
-` Đeo tấm chăn lên người, tôi duỗi thẳng người ra trên giường.`@
-` Tôi chỉ nghĩ tiếng gào thét kia như tiếng xe chạy trên đường thôi.
+` Tôi không thể ngủ như thế này.@
+` ... Tôi không ngủ được, nhưng đó chỉ là điều bình thường thôi.@
+`"... Tôi buồn ngủ, nên tôi sẽ bỏ qua."@
+` Tôi kéo chăn che phủ mình và nằm xuống giường.@
+` Chỉ nghĩ đến tiếng gào thét như âm thanh của những thứ tầm thường, chẳng hạn như xe cộ đi qua đường phố.
 \
-` *DIPSETTING*: (thở dài)@
-` Hôm nay thật dài.`@
-` Tôi mệt về tinh thần sau bữa tối trong ngôi biệt thự xa lạ này và những cuộc trò chuyện với Akiha cùng mọi người. Sau tất cả, tiếng gào thét chỉ là tiếng động nền.@
-` Tôi nhắm mắt lại và ngủ say một cách nhẹ nhàng.
+` *thở dài*@
+` Ngày hôm nay thực sự rất dài.@
+` Tôi mệt mỏi về tinh thần sau bữa tối tại lâu đài này và những cuộc trò chuyện với Akiha cùng mọi người khác. Sau tất cả, tiếng sủa của chó chỉ là âm thanh nền.@
+` Tôi nhắm mắt và nhẹ nhàng chìm vào giấc ngủ.
 \
 bg #000000,crossfade,800
 !w3000
 wave se_09
 bg "bg/bg_40d",crossfade,400
-` [line=3]Nng.@
-` Tôi nghĩ tôi vừa nghe thấy cái gì đó.@
-` Nửa tỉnh nửa mê, tôi nhìn đồng hồ. Vừa qua hai giờ.@
-` …… Đã hơn hai tiếng kể từ khi tôi nghe chó sủa.@
-` Tiếng sủa của chó đã ngừng.@
-` Ngôi biệt thự im lặng đến mức tôi có thể nghe thấy tiếng đồng hồ chạy trong sự yên tĩnh.
+`"[line=3]Ng."@
+` Có lẽ tôi vừa nghe thấy điều gì đó.@
+` Bán tỉnh, tôi nhìn đồng hồ. Đã quá hai giờ kể từ khi tôi nghe thấy tiếng chó sủa.@
+` …… Đã khoảng hai giờ kể từ khi tôi nghe thấy tiếng chó sủa.@
+` Tiếng sủa của chó đã ngừng lại.@
+` Lâu đài quá yên tĩnh, tôi có thể nghe thấy tiếng đồng hồ đập trong sự im lặng.
 \
 wave se_08
-` [line=6]?@
-` Tôi nghe lại.@
-` …… Bên trong biệt thự… từ sảnh chính?@
-` [line=5]Có thể là tên trộm?@
-` Điều đó không phải là không thể.@
-` Nội dung của biệt thự vô cùng quý giá. Bên cạnh đó, bây giờ chỉ có Kohaku-san, Hisui, Akiha và tôi ở đây, nên rất bất an.@
-` ……@
-` Lấy mình ra khỏi giường, tôi nhẹ nhàng rời khỏi phòng.
+`"[line=6]Tôi nghe thấy nó một lần nữa.@
+` ... Trong biệt thự... từ sảnh?@
+` "Có thể là kẻ trộm cắp?"@
+`"[line=5]Không phải là không thể.@
+` Nội dung trong biệt thự có giá trị vô cùng lớn. Thêm vào đó, với chỉ Kohaku-san, Hisui, Akiha và tôi ở đây lúc này, nơi này quá dễ bị xâm nhập.@
+` ...@
+`"Lên khỏi giường, tôi lén lút rời khỏi phòng.@
+` (Bản dịch giữ nguyên ngữ cảnh và cảm xúc của các nhân vật)
 \
 bg #000000,lcartain,800
 play "*6"
 bg "bg/bg_46c",lcartain,800
-` Nếu là tên trộm, Akiha và mọi người sẽ bị nguy hiểm, nên tôi không thể để nó qua.@
-` Tôi chỉ nhìn xuống từ tầng hai vào sảnh chính; điều đó nên đủ an toàn.
+` Nếu đó là một tên trộm, Akiha và mọi người sẽ gặp nguy hiểm, nên tôi không thể để chuyện này qua.@
+` Tôi chỉ nhìn xuống từ tầng hai vào sảnh; điều đó nên an toàn đủ.
 \
 bg #000000,lcartain,800
 bg "bg/bg_33d",lcartain,800
-` Không có gì sai trái ở đó.@
+` Không có gì sai ở đó.@
 wave se_08
-` …… !@
-` Không, có ai đó ở đây.`@
-` [line=3]Cánh cửa mở ra, một bóng người bước vào, lảo đảo qua sảnh.
+`"...!"@
+` Không, có ai đó ở đó.@
+` [line=3]Hình bóng bước vào từ cửa chính và băng qua sảnh với những bước chập chững, do dự, là...
 br
 ld c,"tachi/aki_t19b",crossfade,800
 cl a,crossfade,800
-` Aki… ha?`@
-` Cô ấy không lên phòng của mình ở tầng hai mà đi xuống tầng một của khu phía tây.@
-` Chỉ có phòng của Kohaku-san và phòng ông già tôi thôi.`
+`"Aki… ha?"@
+` Cô ấy không đi lên phòng của mình ở tầng hai, mà đến tầng một của cánh tây.@
+` Phòng của Kohaku-san và phòng của bố tôi là những thứ duy nhất ở đó.
 \
-` “Cô ấy đang làm cái gì lúc này?”`@
-` Mình có thể lẩm bẩm bao nhiêu tùy ý, nhưng cũng chẳng ai trả lời đâu.`@
-` Sau một hồi ngắm nhìn sảnh chờ, tôi quyết định quay trở lại phòng mình.
+`"…… Cô ấy đang làm gì vào ban đêm này?"@
+` Tôi có thể thì thầm bất cứ điều gì, nhưng sẽ không nhận được câu trả lời nào.@
+` Sau khi ngắm nhìn sảnh một lúc, tôi quyết định quay lại phòng mình.
 \
 bg #000000,lcartain,800
 playstop
 bg "bg/bg_40d",lcartain,800
-` Ừm, cô ấy chắc có việc bận hoặc đi gặp Kohaku.`@
-` Tôi thấy mình thật tồi tệ khi lén lút quan sát cô ấy và tôi cũng chẳng muốn hỏi về mọi việc cô ấy làm.@
-` “...... Ngủ đi, ngủ đi. Hôm sau còn phải đi học.”`@
-` Tôi chui vào giường rồi nhắm mắt lại.`@
+` …… Có lẽ cô ấy có việc cần làm, hoặc đến thăm Kohaku-san.@
+` Tôi cảm thấy tội lỗi khi lén lút quan sát cô ấy và không muốn chỉ hỏi về mọi hành động của cô ấy.@
+`"…… Ngủ đi, ngủ đi. Ngày mai còn phải đi học."@
+` Tôi cuộn mình vào giường và nhắm mắt lại.@
 br
 bg #000000,crossfade,800
-` [line=3] Khi tôi chìm vào giấc ngủ,
+` [line=3]Khi tôi chìm vào giấc ngủ,
 br
-` Tôi cứ nghĩ mãi về hình bóng hốc mắt của Akiha ở trong sảnh... và cảm giác như có điều gì đó không ổn.`
+` Những suy nghĩ của tôi cứ quay lại một cách lặp đi lặp lại với hình ảnh của Akiha trong hành lang, với đôi mắt trống rỗng... và có điều gì đó không ổn.
 \
 !w3000

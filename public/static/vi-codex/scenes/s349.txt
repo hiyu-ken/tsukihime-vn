@@ -15,7 +15,7 @@ ld l,"tachi/aki_t04a",crossfade,400
 `"Sự sự tình ấy quả thực dẫu dã vô cùng kinh ngạc bàng hoàng chốn này chốn ấy nhỉ.@ Liệu có phải tự ý Inui-kun bấy giờ chịu chết tịnh không có thiện cảm đắc lực đối kề bên bộ đồng phục học sinh của trường mình đúng tịnh không ạ?"@`
 `"Hửm, chịu chết tịnh không phải là tớ cự tuyệt tịnh không ưa thích gì nó đâu dẫu dã thế dẫu vậy dẫu dã ổn rồi dẫu dã thế, dẫu sao chỉ là trông nó chịu chết tịnh không được khơi gợi quyến rũ tự thân cho lắm chốn ấy chốn ấy, hay ít nhất dẫu dã dột ngột là có phần hơi tẻ nhạt đơn điệu dẫu dã chứ.@ Cứ diện kiến cảnh vô số các bạn nữ sinh xinh xẻo đĩnh đạc chốn trường này bị ép buộc nhét chung vào một kiểu đồng phục rập khuôn dẫu vậy dẫu dã, ai nấy dẫu dã dạt dào dường như đều cất công hóa thành đống bản sao giống hệt nhau kề bên á-á-á-á-á-á-auuuu!?"`
 \
-rung chuyển 3,100
+quakex 3,100
 ld l,"tachi/cel_t04",crossfade,400
 `"A, em vô cùng sám hối bận lòng nhé, Inui-kun.@ Tự thân em bấy giờ vô tình lỡ tay cất công trượt khuỷu tay chút đỉnh chốn ấy dẫu dã thôi ạ."@`
 ` Ciel-senpai nhẹ nhàng cất công nở nụ cười hiền hậu ngọt ngào tự thân chốn ấy dẫu dã thế, trong khi tay trần cật lực thục thẳng một cú cùi chỏ hiểm hóc găm ngập sâu hoắm vào mạn sườn tự thân của Arihiko một góc vô cùng nhọn.@`

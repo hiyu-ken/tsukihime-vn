@@ -74,7 +74,7 @@ wave se_04
 \
 `"... Shiki-sama, tôi sẽ đặt thức ăn của bạn ở đây. Sau khi tôi rời đi, hãy mở cửa và ăn nó."@
 wave se_08
-[loop âm thanh se_11]
+waveloop se_11
 ` ... Sự hiện diện của Hisui dần mờ nhạt.@
 `"..."@
 ` Tôi đập đầu vào tường.@

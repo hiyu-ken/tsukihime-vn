@@ -99,7 +99,7 @@ cl c,lshutter,800
 bg #000000,lshutter,800
 playstop
 !w2000
-Chơi âm thanh se_02
+waveloop se_02
 !w3000
 monocro #fffff0
 bg "bg/bg_40b",crossfade,1500

@@ -6,18 +6,18 @@ br
 br
 br
 br
-` Nhà hát Thí nghiệm Kiệt tác của Kinoko.
+` Nhà hát Tác phẩm Kỳ diệu của Kinoko.
 wait 1000
 \
 bg #000000,crossfade,800
 wait 750
 br
 br
-` Câu chuyện này được tạo ra khi phiên bản trăng khuyết hoàn thành.@
-` Một số cài đặt có thể hoàn toàn khác biệt với cốt truyện chính, vì vậy vui lòng xem đây là một câu chuyện hoàn toàn khác.@
-` Và chúng tôi sẽ từ chối mọi yêu cầu đòi bồi thường thời gian và công sức bạn đã bỏ ra để thưởng thức câu chuyện này.@
+` Câu chuyện này được sáng tác khi phiên bản nửa trăng hoàn thành.@
+` Một số bối cảnh có thể hoàn toàn khác với cốt truyện chính, nên hãy thưởng thức nó như một câu chuyện hoàn toàn mới.@
+` Chúng tôi không chấp nhận bất kỳ yêu cầu bồi thường nào cho thời gian và công sức bạn đã lãng phí để thưởng thức câu chuyện này.@
 br
-` Bây giờ, vui lòng thưởng thức câu chuyện phụ với 0 phút lên kế hoạch và 60 phút sản xuất.
+` Bây giờ, hãy tận hưởng câu chuyện phụ với không có kế hoạch phút nào và 60 phút sản xuất.
 \
 ld c,"tachi/kemo_t01",bshutter,400
 br
@@ -69,317 +69,317 @@ play "*02"
 br
 ` Ánh sáng buổi sáng đánh thức tôi.@
 br
-`  "Hm......"@
-` Sự thức tỉnh của tôi dường như tràn ngập cảm giác bất an.@
-` Tôi cảm thấy hơi sốt và chóng mặt do thiếu máu có thể xảy ra vào lúc nào đó.@
-` "... Nhưng buổi sáng trong phòng này chắc chắn không thay đổi."@
-` Tôi nói điều gì đó mà tôi không nên nói.@
-` Tôi thấy tiếc là mọi thứ cứ giống nhau như thế này, nhưng chỉ có một hình nền buổi sáng thôi, nên xin lỗi nhé.
+` "Ừm......"@
+` Sự thức tỉnh này của tôi dường như tràn ngập một cảm giác bất an.@
+` Tôi có chút sốt và chóng mặt, có lẽ do thiếu máu, có thể xảy ra bất cứ lúc nào.@
+` "... Nhưng những buổi sáng trong phòng này chắc chắn không thay đổi."@
+` Tôi nói điều mà tôi không bao giờ nên nói.@
+` Tôi cảm thấy tiếc là nó vẫn như vậy mỗi lần, nhưng chỉ có một hình nền buổi sáng, nên xin hãy bỏ qua.
 \
-` ... Không thể nào khác được.@
-` Đã có rất nhiều hình nền rồi, nên tôi không thể yêu cầu thêm một cái riêng cho buổi sáng.@
-` Có giới hạn về việc có thể giải thích bằng lời với chỉ một hình ảnh[line=3]@
-` Tôi than vãn. Akiha chắc chắn sẽ mắng tôi phải làm gì đó vì tôi là nhân vật chính.@
-` Rồi.@
+` "... Không thể giúp được."@
+` Có quá nhiều hình nền rồi, nên tôi không thể đi yêu cầu một hình dành riêng cho buổi sáng.@
+` Có giới hạn về việc giải thích bằng lời với chỉ một hình ảnh[line=3]@
+` Tôi phàn nàn. Akiha có lẽ sẽ trách móc tôi phải làm điều gì đó về vấn đề này vì tôi là nhân vật chính.@
+` Sau đó.@
 bg #000000,bcartain,800
 playstop
-` Những tấm rèm che bắt đầu hạ xuống để che kín cửa sổ.
+` Rèm cửa cuộn xuống che kín cửa sổ.
 \
-` [line=4]Đang xảy ra chuyện gì!?@
-` Căn phòng lập tức chìm vào bóng tối.@
-` Tôi chạm vào cửa sổ, nhưng nó không hề di chuyển.@
-` ... Căn phòng này giờ đây giống như một nhà tù.@
-` Đây là gì?@
-` Đừng bảo đây là một loại thiết bị chống trộm.@
-` ... Trên thực tế.@
-` Akiha sẽ làm điều này.@
-` Không phải để ngăn cản bọn trộm mà là để ngăn Arcueid vào.@
-` Và tất nhiên, Kohaku-san đã đề xuất ý tưởng này cho Akiha.
+` "[line=4]Làm sao vậy?!?"@
+` Phòng lập tức chìm trong bóng tối.@
+` Tôi sờ vào cửa sổ, nhưng nó không nhúc nhích chút nào.@
+` ... Phòng này giờ giống như một nhà tù.@
+` "Điều gì đang xảy ra đây?!"@
+` "Đừng nói với tôi điều này là một cơ chế chống cướp nào đó."@
+` "... Thực ra..."@
+` "Akiha sẽ làm điều gì đó như vậy."@
+` "Không phải để ngăn chặn những tên cướp, mà để giữ Arcueid ở ngoài."@
+` "Và tất nhiên, Kohaku-san sẽ đã đề xuất ý tưởng này với Akiha."
 \
-` ... Nhưng tại sao?@
-` Có phải họ muốn tôi làm như thế này bởi vì tôi hết từ để miêu tả cảnh đẹp buổi sáng...?@
-` Chà, tôi không phiền lòng, nhưng chuyện này thật vô vọng.@
-` Không.@
-` Tôi nghĩ đó chỉ là bởi vì bạn thiếu tài năng thơ ca.@
+` "... Nhưng tại sao?"@
+` "Họ muốn tôi làm điều này vì tôi cạn từ vựng để miêu tả khung cảnh buổi sáng...?"@
+` "Thật ra, tôi không phiền, nhưng điều này vô vọng về mặt cốt truyện."@
+` "Tôi nghĩ điều đó chỉ vì cậu thiếu tài năng thơ ca."@
+` "Hisui!!!!?"@
 ld c,"tachi/his_t09",tscroll,800
-` H-Hisui!!!!?@
+` "Đúng vậy."@
 ld c,"tachi/his_t01",crossfade,400
-` Vâng.@
-` Chào buổi sáng, Shiki-sama.@
-` À... vâng, sáng rồi, Hisui.@
-` Ừm... bạn ra ngoài thật dữ dội hôm nay.@
+` "Chào buổi sáng, Shiki-sama."@
+` "Ôi... buổi sáng tốt lành, Hisui."@
+` "À... chắc là cậu thức dậy với tâm trạng khá mạnh mẽ vào buổi sáng này."@
+` "... "@
 ld c,"tachi/his_t08",crossfade,400
 `  "......"
 \
 cl c,rscroll,800
-` À, cô ấy chạy đi rồi.@
-` Ê, Hisui!@
-` Áo ganti của tôi đâu?@
-` Tôi hét lên, nhưng không có hồi âm.@
-` Hisui ra khỏi phòng như thể cô ấy có động cơ phản lực.@
+` Ôi, cô ấy chạy đi.@
+` "Này, Hisui!"@
+` "Ở đâu là bộ quần áo thay của tôi?"@
+` Tôi hét lên, nhưng không có lời trả lời nào.@
+` Hisui rời khỏi phòng như thể cô ấy có động cơ phản lực vậy.@
 bg "bg/bg_40a",tcartain,800
-` À, đã trở lại bình thường.
+` Ôi, mọi thứ trở lại bình thường.
 \
 play "*03"
-` ... Điều này tồi tệ.@
-` Akiha khiển trách tôi dữ dội khi tôi đi ra ngoài hành lang với bộ pijama trước...@
-` ... Vâng.@
-` Tôi sẽ ngủ cho đến khi quần áo thay thế của tôi đến.@
-` Đây là kỳ nghỉ hè, vì vậy không có lý do gì khiến tôi phải thức dậy sớm.[line=3]
+` "... Điều này rất tệ."@
+` Akiha đã nghiêm khắc trách móc tôi khi tôi bước ra hành lang trong bộ đồ ngủ trước...@
+` Có.@
+` Tôi sẽ ngủ cho đến khi quần áo mới của tôi đến.@
+` [line=3]Đây là kỳ nghỉ hè, nên không có lý do gì để tôi thức dậy sớm.
 br
-run 16,200
+quakey 16,200
 ` "!? "@
-` A-a-a... !@
+` "Chuyện gì vậy...!"@
 br
 quakey 24,150
-` Cái này là chuyện gì vậy!?`
+` "Điều gì đang xảy ra đây!"
 \
 ld c,"tachi/koha_t06",rshutter,400
-` "Được rồi, hãy đứng dậy và đi.""@
-` "Đã đến lúc dọn phòng rồi."@
-` Rồi.`@
-` Kohaku bước vào phòng, vung chổi.`@
-` … Dường như trận động đất là hậu quả của việc cô ấy dọn dẹp.`
+` "Đáng rồi, hãy đứng dậy và rời đi."@
+` "Đã đến lúc dọn dẹp phòng của cậu rồi."@
+` Sau đó...@
+` Kohaku-san bước vào phòng, tay cầm chổi quét bụi.@
+` ... Có vẻ như trận động đất là hậu quả của việc dọn dẹp của cô ấy.
 \
 ld c,"tachi/koha_t04",crossfade,400
-` "Ờ! Cậu đừng lười biếng chỉ vì đang nghỉ ngơi, Shiki!"`@
-` "Bữa sáng đã sẵn sàng rồi, mau vào phòng ăn đi! "@
-` "... Tôi không phiền đâu, nhưng tôi không có bộ quần áo thay mới."@
-` Từ sáng nay Hisui có vẻ lạ thường và chạy đi ngay sau khi thức dậy.`@
+` "Chà! Cậu không thể lười biếng chỉ vì đang nghỉ mát, Shiki-san!@
+` Bữa sáng đã sẵn sàng, vậy nên hãy đi ăn ở phòng ăn ngay đi!"@
+` "... Tôi không phiền, nhưng tôi không có bộ quần áo sạch để thay.@
+` Hisui đã có hành vi kỳ lạ vào buổi sáng này và cô ấy chạy đi sau khi đánh thức tôi.@
 ld c,"tachi/koha_t05",crossfade,400
-` "Ồ, là thật à?"`@
-` Tôi biết Hisui-chan sớm muộn cũng hết kiên nhẫn và để lộ bản chất thật của mình. Vậy là cô cuối cùng nổ tung rồi, à?`@
-` "... Ồ."@
-` "Bốc cháy à?"
+` "Ồ, thật sao?"@
+` Tôi biết Hisui-chan cuối cùng cũng sẽ hết kiên nhẫn và để bản thân thực sự của cô ấy lộ ra. Vậy nên cô ấy cuối cùng đã phát nổ, phải không?@
+` "...Ừm."@
+` "Phát nổ, hả?"
 \
 ld c,"tachi/koha_t02",crossfade,400
-` "Vâng."`@
-` Chắc là do cô ấy ăn thử thức ăn của cậu tối qua.`@
-` Tôi luôn cho thuốc vào thức ăn của cậu, nhưng Hisui đã nếm thử thức ăn của cậu tối qua khi tôi không nhìn thấy.`@
-` ... Chà.@
-` Vậy thói quen pha thuốc vào thức ăn của tôi vẫn chưa hết à?@
-` Không. Tôi biết đó là một thói quen xấu, nhưng tôi đã pha nó vào trước khi tự ý thức được.@
-` Nhưng thật nhàm chán vì bạn đang kháng lại nó nên tác dụng rất nhỏ.@
-` Kohaku-san vẫn luôn điên rồ như mọi khi.
+` "Đúng vậy."@
+` Có lẽ là vì cô ấy đã nếm thử thức ăn của tôi đêm qua.@
+` Tôi luôn thêm thuốc mới vào thức ăn của bạn nhưng Hisui-chan đã nếm thử thức ăn của bạn đêm qua khi tôi không để ý.@
+` "... Ôi trời. @
+` "Nghe này, thói quen của cậu pha thuốc vào thức ăn của tôi vẫn chưa biến mất, phải không?"@
+` "Không. Tôi biết đó là thói quen xấu, nhưng tôi trộn nó vào ngay cả trước khi tôi nhận ra."@
+` "Nhưng nó nhàm chán vì cậu đang miễn dịch với nó nên hiệu ứng rất yếu."@
+` Kohaku-san vẫn điên rồ như thường lệ.
 \
 ld c,"tachi/koha_t06",crossfade,400
-` Tôi sẽ dọn phòng của cậu, nên ra ngoài đi.@
-` Tôi sẽ xong trong khoảng một giờ, nên cậu hãy đi ăn trước nhé.@
+` "Tôi sẽ dọn phòng của cậu, nên cậu hãy ra ngoài đi."@
+` "Tôi sẽ xong trong khoảng một giờ, nên xin hãy đi ăn trước nhé."@
 cl c,crossfade,400
-` Kohaku-san thúc giục tôi bằng cách dùng chổi gõ vào mặt tôi.@
-` [line=6]@
-` Mặc dù cảm giác khó chịu này không biến mất, nhưng tôi vẫn quyết định rời đi.
+` Kohaku-san thúc giục tôi bằng cách chọc mặt tôi với cây chổi.@
+` "[line=6]"@
+` Dù cảm giác xấu này không tan biến, tôi vẫn quyết định rời đi.
 \
 bg #000000,rcartain,800
 wait 1000
 bg "bg/bg_34a",rcartain,800
-` Akiha đang ở phòng khách như mọi khi.@
+` Akiha ngồi ở phòng khách như thường lệ.@
 ld c,"tachi/aki_t04a",crossfade,400
-` Chào buổi sáng, anh trai.@
-` Cơm đã sẵn sàng rồi.@
-` Ừ, tôi biết rồi.@
-` Tôi sẽ đi ăn sáng.@
+` "Chào buổi sáng, anh trai.@"@
+` "Đã chuẩn bị bữa ăn của cậu rồi."@
+` "Ừm, tôi biết mà."@
+` Tôi sẽ đi ăn chút thức ăn sáng.@
 ld c,"tachi/aki_t03a",crossfade,400
-` Chà, bao nhiêu lần tôi phải nói với cậu?@
-` Cậu là con trai cả của gia đình Tohno, nên hãy chú ý ngôn ngữ của mình [line=4]@
+` "Thật là, tôi phải nói với cậu bao nhiêu lần?@"@
+` Bạn là con trai lớn của gia tộc Tohno, nên hãy chú ý cách nói của mình.[line=4]@
 cl c,crossfade,400
-` Rồi.@
-` Lời trách mắng của Akiha bị một tiếng động lớn cắt ngang.
+` Sau đó...@
+` Lời trách mắng của Akiha bị ngắt quãng bởi một tiếng ồn lớn.
 \
-` Tiếng bước chân mạnh mẽ vang vào phòng, lấp đầy không khí.@
+` Tiếng bước chân mạnh mẽ vang dội vào trong phòng, lấp đầy không gian.@
 ld l,"tachi/nero_t03",rshutter,400
 br
-` Akiha-kun!!!!!@
+` "Akiha-kun!!!!!"@
 br
-` [line=3]What?@
-` Một người đàn ông lạ mặc áo khoác đen bước vào.
+` "[line=3] "Chuyện gì vậy?"@
+` Một người đàn ông lạ mặc áo choàng đen bước vào.
 \
 ld r,"tachi/aki_t08a",crossfade,400
-` À, là cậu, chú.@
-` Sao mặt cậu lại như vậy?@
+` "Ôi, vậy là cậu, chú ạ."@
+` "Tại sao có biểu cảm khó chịu như vậy?"@
 br
-` Gì!?@
+` "Điều gì!?@"@
 br
-` Chờ tí, Akiha!@
-` Cậu gọi ai là 'Chú' chứ!?@
+` "Chờ đã, Akiha!"@
+` Ai mà cậu gọi là "Chú"!?@
 ld r,"tachi/aki_t04a",crossfade,400
-` Ôi, xin đừng nói như vậy, anh trai. Anh ấy không phải là chú của chúng ta sao?@
+` "Xin đừng nói thế, anh trai. Ông ấy không phải là chú của chúng ta sao?"@
 ` Tôi xin lỗi, chú Nrvnqsr.@
-` Anh trai tôi đôi lúc quên chuyện.@
+` "Anh trai thỉnh thoảng lại mất trí nhớ đấy."@
 ld l,"tachi/nero_t02c",crossfade,400
-` 'Tôi không phiền.'@
-` Những chuyện nhỏ nhặt như vậy thì chẳng quan tâm đến tôi.
+` "Tôi chẳng phiền gì cả.@
+` Những chuyện nhỏ nhặt như vậy không liên quan đến tôi."
 \
 ld l,"tachi/nero_t03",crossfade,400
 playstop
-` 'Bên cạnh đó, Akiha-kun,@
-` Cậu có biết puding mà tôi đã mong đợi từ đêm qua đi đâu không?@
-` Là puding-a-la-mode tôi mua ở Fujiya với giá 700 yên.@
+` "À, mà Akiha-kun,@
+` Bạn có biết món pudding mà tôi mong chờ từ đêm qua đi đâu không?@
+` Đó là món pudding-a-la-mode tôi mua ở Fujiya với giá 700 yen."@
 ld r,"tachi/aki_t09",crossfade,400
-` 'Ôi.'@
-` Anh trai ăn nó vào tối qua như gấu trúc ăn cỏ.@
-` [line=6]What!?@
-` D-dừng nói dối, Akiha!@
-` Tôi chưa bao giờ ăn nó, và trước hết, tôi thích đồ ăn vặt Nhật Bản hơn đồ ăn vặt phương Tây...!@
+` "Ồ."@
+` "Anh trai ăn thứ đó tối qua như một con gấu trúc ăn cỏ trúc vậy."@
+` "[line=6]Chuyện gì thế?!"@
+` "Dừng nói dối, Akiha!"@
+` "Tôi chẳng bao giờ ăn nó, và trước hết, tôi thích đồ ăn Nhật Bản hơn đồ ăn phương Tây..."@
 play "*04"
 ld l,"tachi/nero_t04",crossfade,400
-` Nuuuuuuuu!!!!!@
-` Tôi sẽ đánh ngươi 666 lần!@
-` Heeeeee, đó là cáo buộc sai lầm!!
+` "Nuuuuuuuu!!!!!"@
+` "Tôi sẽ đánh anh 666 lần!"@
+` "Heeeeee, cáo buộc này sai đấy!!"
 \
 bg #000000,rcartain,400
 wait 2000
 bg "bg/bg_53",rcartain,800
 play "*03"
-` ............ Aaaah.@
-` Tôi đã thoát được.@
-` Tôi đã thoát được, nhưng...
+` Phải... tôi đã thoát được.@
+` Tôi đã trốn thoát, nhưng...@
+` "Cậu có thấy nó không?!"
 ld c,"tachi/roa_t03a",rshutter,400
 br
-` Bạn có nhìn thấy nó không!?@
+` "... Một gã đàn ông trông rất đáng ngờ đang lén lút vào sân chúng ta.@
 br
-` ... Một người đàn ông trông rất đáng ngờ đang xâm nhập vào sân của chúng ta.
+` "... Chào.@
 \
-` ... Ê.@
-` Bạn là tên trộm sao?@
-` Bạn có nhìn thấy nó không!?@
-` Bạn đã nhìn thấy nó, đúng chứ!?@
-` ... Chết tiệt.@
-` Tại sao hôm nay tôi lại gặp phải tất cả những người điên rồ này?
+` "Cậu có phải là tên trộm không?@
+` "Cậu đã thấy nó chưa!?@
+` "@"@
+` "Anh/chị thấy rồi đấy!"@
+` "... Chuyện này... thật bất ngờ."@
+` "Tại sao hôm nay tôi lại gặp phải những người kỳ quặc như thế này?"
 \
-` Bạn đang nói về cái gì?@
-` Tại sao là bạn, tại sao là bạn, tại sao là bạn!@
-` Làm thế nào mà dám nhìn vào bài tập thể dục đài phát thanh của tôi!@
-` Bạn luôn cản trở tôi!@
-` Đừng đến đây trước tôi!@
-` Đừng kết thúc bài tập trước tôi!@
-` Đừng có được nhiều tem hơn tôi!@
-` Chúa ơi, đừng trốn vào đầu tôi!@
-` ............@
-` ... Tôi ghét điều này.@
-` Tôi thường không thể theo dõi những thứ như thế này.
+` "Anh/chị nói gì vậy?"`@
+` "Tại sao lại là anh/chị? Tại sao lại là anh/chị!"`@
+` "Làm sao anh/chị dám nhìn trộm bài tập thể dục của tôi!"@
+` "Luôn luôn cản đường tôi!"@
+` "Đừng đến đây trước khi tôi!"@
+` Đừng hoàn thành bài tập trước mặt tôi!@
+` Đừng có thu thập nhiều dấu hơn tôi!@
+` "Này, đừng nhìn vào đầu tôi!"@
+` "... "@
+` "... Tôi ghét điều này."@
+` Tôi thường không thể theo kịp những thứ như thế này.
 \
-` Tôi không nhìn trộm.@
-` Tôi không nhìn trộm, vì vậy xin cứ thoải mái tập luyện nhé.@
-` Tôi sẽ đi đây.@
-` Vì vậy xin đừng làm phiền tôi nữa.@
+` "Tôi không hề lén lút."@
+` Tôi không lén lút gì cả, nên hãy thoải mái tập luyện nhé.@
+` "Tôi sẽ bắt đầu thôi."@
+` "Nên đừng quấy rầy tôi nữa nhé."@
 ld c,"tachi/roa_t04a",crossfade,400
-` Whaaat?@
-` Người đàn ông nghiêng đầu với vẻ khó chịu.@
-` Vậy...@
+` "Chuyện gì vậy?"@
+` Người đàn ông lắc đầu biểu hiện không hài lòng.@
+` "Ở đây..."@
 cl c,crossfade,400
 ld c,"tachi/ark_t08",rshutter,400
-` Ê!@
-` Tôi ở đây để chơi với Shiki.@
-` Một người phiền phức hơn xuất hiện.
+` "Này!"@
+` "Tôi đến đây là để chơi với cậu, Shiki."@
+` Một người gây rắc rối khác xuất hiện.
 \
-` ... Arcueid.@
-` Tôi xin lỗi, nhưng hôm nay tôi không muốn.@
+` "Arcueid à?@
+` Tôi xin lỗi, nhưng hôm nay tôi không muốn giao tiếp."@
 cl c,crossfade,400
 ld r,"tachi/ark_t11",rshutter,400
-` Whaaat?@
-` Tôi muốn ở một mình ngay cả khi cô ấy làm ra cái mặt như vậy.@
-` ... Chơi với anh ta nếu bạn nhàm chán.@
-` Các cậu có thể hợp nhau đấy.@
+` "Chuyện gì vậy?"@
+` "Tôi muốn ở một mình, ngay cả khi cô ấy nhíu mày như thế."@
+` "... Nếu chán, thì chơi với gã kia đi."@
+` "Các cậu có thể hợp tác khá tốt đấy."@
 ld l,"tachi/roa_t04a",crossfade,400
-` Whaaat?@
-` ... Các cậu dường như rất ăn ý.@
-` Tôi chóng mặt sau khi nói điều đó.@
-` Đầu này đang làm tôi buồn nôn... Tôi có thể chết vì ói mửa nếu liên kết với họ thêm nữa.
+` "Chuyện gì vậy?"@
+` "... Các cậu dường như rất ăn ý."@
+` Tôi thấy choáng váng sau khi nói vậy.@
+` Đầu tôi đau đến mức... Có lẽ tôi sẽ chết ngạt nếu phải gắn bó với họ thêm nữa.
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_53",crossfade,400
-` Xem đi.@
-` Thường như vậy.@
-` Chúa ơi! Tập thể dục bằng đài phát thanh, múa dân gian, làm bất cứ điều gì bạn muốn!@
-` Tôi quay lại phòng mình, đừng theo tôi!@
+` Hãy xem.@
+` Đó là chuyện thường ngày thôi.@
+` "Ồ, tập thể dục nghe nhạc, nhảy múa dân gian, làm gì cũng được!@
+` Tôi về phòng, nên đừng theo tôi!"@
 ld l,"tachi/roa_t03a",rshutter,400
-` Huhahahaha, tôi cũng đến!@
+` "Hahaha, tôi cũng đi cùng!"@
 ld r,"tachi/ark_t08",rshutter,400
-` Vậy.@
-` Tại sao không ai bao giờ nghe tôi?
+` Vậy thôi.@
+` Tại sao chẳng ai từng lắng nghe tôi?
 \
 bg #000000,rcartain,800
 playstop
 wait 2000
 bg "bg/bg_54a",lcartain,800
-` ...Haa... Haa... Haa...@
-` Tôi đã thoát khỏi họ, nhưng tôi hết sức.@
-` Khi tôi lùi lại và suy nghĩ một cách bình tĩnh, mọi chuyện đã điên rồ kể từ sáng nay.
+` "...Haa... Haa... Haa..."@
+` Tôi đã khiến chúng mất tích, nhưng tôi hết sức rồi.@
+` Khi tôi lùi lại và suy nghĩ bình tĩnh, mọi thứ từ sáng nay đã điên rồ.
 \
 play "*10"
 ld c,"tachi/kemo_t05",crossfade,400
-` Vậy cuối cùng cậu cũng nhận ra rồi, à?@
-` Ê! Cậu là ai!?@
-` Điều này? Con ngựa nói chuyện, Eto.@
-` Đối tượng kỳ lạ xuất hiện từ đầu.@
-` Chờ chút?@
-` Vật gì đó nói điều gì đó kỳ lạ.@
-` Ê... Anh là thần nai không?@
-` Không.@
-` Chà, anh chẳng giống bất cứ thứ gì khác cả.
+` "Vậy là cậu cuối cùng cũng nhận ra à, cậu bé?"@
+` "Ôi trời! Cậu là ai vậy?!"@
+` "Điều này? Con ngựa nói, Eto."@
+` Vật thể kỳ lạ xuất hiện từ đầu."@
+` "Xin lỗi?"@
+` Đối tượng kỳ lạ nói điều kỳ lạ.@
+` "Ồ... Cậu có phải là thần hươu không?"@
+` "Không."@
+` Thật ra, cậu cũng chẳng giống ai khác cả.
 \
-` Vậy thần nai này đang làm gì trong vườn nhà tôi?@
-` Anh có định cứu tôi khỏi tình huống kỳ lạ này không?@
-` Tôi là người muốn được cứu, ngốc ạ!@
-` Anh tức giận với tôi rồi.@
-` Tôi không hiểu gì cả.
+` "Vậy thì vị thần hươu này đang làm gì trong sân nhà tôi vậy?"@
+` "Cậu có cứu tôi thoát khỏi tình huống kỳ lạ này không?"@
+` "Tôi là người muốn được cứu, ngốc ạ!"@
+` Anh ấy đang tức giận với tôi lúc này.@
+` Tôi không hiểu chuyện gì đang xảy ra chút nào.
 \
-` Đừng gây thêm phiền toái cho tôi khi tôi đang bận rộn chuẩn bị cho lễ hội mùa hè!@
-` Nếu anh nghĩ điều này kỳ lạ, anh nên thức dậy ngay lúc đó!@
-` ......?@
-` À, vậy là giấc mơ như tôi nghĩ?
+` "Đừng gây thêm rắc rối cho tôi khi tôi đã bận rộn chuẩn bị cho lễ hội mùa hè!@"@
+` "Nếu anh nghĩ điều này kỳ lạ, anh nên thức dậy ngay lúc đó!"@
+` "...?@"@
+` "Ừm... Vậy đây là một giấc mơ như tôi nghĩ?"
 \
-` Tất nhiên.@
-` Từ điển thuật ngữ cũng nói vậy.@
-` Giấc mơ là một thứ tiện lợi.@
-` Chỉ có thể làm những câu chuyện điên rồ như thế nếu chúng kết thúc là giấc mơ.@
-` Vậy là tôi nghĩ đúng rồi nhỉ?@
-` Tôi hiểu.@
+` "Tất nhiên rồi."@
+` "Từ điển thuật ngữ cũng nói vậy."@
+` Một giấc mơ là thứ hữu ích.@
+` Chỉ có thể kể những câu chuyện điên rồ như vậy nếu chúng chỉ là giấc mơ.@
+` Vậy thì, nó đúng như tôi nghĩ, phải không?@
+` "Tôi hiểu rồi."@
 ` Nhưng tôi muốn biết tại sao nó lại như thế này.@
-` Bạn có thể mong đợi mùa hè sắp tới.@
-` Hehehe, bạn sẽ được thưởng thức một chiếc kaleidoscope của những điều vô lý. Bạn thật là người may mắn.@
+` "Bạn có thể mong đợi mùa hè sắp tới.@
+` Hì hì, bạn sẽ được thưởng thức một bức tranh đa sắc của những điều vô lý. Bạn thật may mắn đấy."@
 ` Nó cười.
 \
 bg #000000,tshutter,400
-` [line=3]À.@
-` Vậy thì bạn nên quay lại với buổi sáng bình thường của mình bây giờ.@
-` Hãy cố gắng hết sức để đến ngày hôm sau một cách đúng đắn, nhé?@
-` Thần hươu chạy theo tôi.@
-` 'Thư viện vào thứ Ba!'@
-` Con hươu nói điều gì đó không thể hiểu được và đẩy lưng tôi.
+` "[line=3]Ôi."@
+` "Sau đó, cậu nên quay lại với buổi sáng bình thường của mình.@
+` Hãy chắc chắn rằng cậu nỗ lực hết mình để bắt đầu ngày mới một cách thích hợp, được chứ?"@
+` Thần nai chạy sau tôi.@
+` "Lập phòng thí nghiệm thứ Ba!"@
+` Con nai nói điều gì đó không hiểu nổi và đẩy lưng tôi.
 \
 playstop
-` Noooooooooooooooo.@
-` Tôi rơi xuống như một màn hình cuộn raster.@
+` "Không! Không! Không!"@
+` Tôi ngã như cuộn giấy rách.@
 ` Cuộn.@
-` Cuộn.@
-` Cuộn.@
-` ... Ugh, tôi bắt đầu ngất đi.@
-` Tôi cá là khi tôi thức dậy sẽ là một buổi sáng bình thường.@
-` Chết tiệt, bao giờ tôi mới có thể hẹn hò xem pháo hoa với **** (Hãy chèn nhân vật nữ yêu thích của bạn vào đây)......
+` Tôi cảm thấy mình bắt đầu ngất đi.@
+` Chắc chắn khi tôi tỉnh lại, ngày mới sẽ như mọi khi.@
+` Ôi, khi nào tôi mới có thể đi xem màn bắn pháo hoa cùng... (nhập tên nhân vật chính của bạn)???@
+` Ánh sáng buổi sáng đánh thức tôi.@
+` "Ừm..."
 \
 wait 1000
 bg #ffffff,crossfade,1500
 play "*02"
 bg "bg/bg_40a",crossfade,800
 br
-` Ánh sáng ban mai thức tỉnh tôi.@
+` ...@
 br
-` Hm......@
-` Sự thức tỉnh của tôi dường như tràn ngập cảm giác bất an.@
-` Tôi cảm thấy hơi sốt và chóng mặt, có lẽ do thiếu máu.@
-` ... À, đã sáng rồi.@
-` Ừm, tôi đoán là kỳ nghỉ hè như vậy mà.@
-` Không có trường học, nên thật ra mỗi ngày đều giống nhau.
+` "(Không có lời đối thoại)@
+` Sự thức tỉnh này của tôi dường như tràn ngập một cảm giác bất an.@
+` Tôi có cảm giác sốt nhẹ và chóng mặt, có lẽ do thiếu máu, có thể xảy ra bất cứ lúc nào.@
+` "... Ôi, đã là sáng rồi."@
+` Ồ, tôi đoán kỳ nghỉ hè luôn như thế này.@
+` Không có trường học, nên mỗi ngày đều giống nhau là một sự thật trong cuộc sống của tôi.
 \
 br
 br
 br
 br
 br
-` Ờ.@
-` [line=3]Chương trình bắn pháo hoa là ngày mai, vậy tôi nên đi học hay ở lại lâu đài hôm nay?
+` Vậy mà...@
+` [line=3]Đánh lửa diễn ra ngày mai, vậy tôi nên đi học hay ở lại lâu đài hôm nay?
 \
 bg #000000,crossfade,1500
 playstop

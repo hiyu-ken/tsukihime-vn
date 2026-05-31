@@ -1,4 +1,4 @@
-(Hiển thị hình nền: 42a)
+phase "bg/bg_42a",l,his,07a,7
 !w3000
 bg #000000,notrans,0
 ` "Tôi không thể tỉnh dậy."@

@@ -1,4 +1,4 @@
-Tôi thức dậy dưới ánh nắng chói chang rực rỡ.
+phase "bg/bg_54a",r,aki,04a,4
 bg #ffffff,crossfade,1500
 play "*2"
 bg "bg/bg_40a",crossfade,800
@@ -213,7 +213,7 @@ br
 ` Cuộc trò chuyện dường như đã kết thúc.@
 ` Có lẽ tôi sẽ lại ngủ thiếp đi khi nào cảm thấy thích.
 \
-`"Này, Hisui ơi, chị thắc mắc một chút được không?"@`
+ld l,"tachi/aki_t01b",crossfade,400
 `"Này, Hisui, có chuyện gì không?"@
 `"Dạ, tiểu thư muốn hỏi gì em ạ?"@`
 ld l,"tachi/aki_t13b",crossfade,400
@@ -244,7 +244,7 @@ cl a,crossfade,400
 `"... ..."@
 ` Không khí trở nên nặng nề một chút.
 \
-`"Rất xin lỗi vì đã để mọi người phải chờ đợi lâu ạ! Cậu Shiki ơi, bữa sáng phẳng phiu của cậu đã sẵn sàng phẳng phiu phẳng phiu rồi đây ạ!"`
+ld c,"tachi/koha_t01a",lshutter,800
 ` Chất giọng trong veo rạng rỡ của chị Kohaku lập tức dang tay giải cứu bầu không khí ngượng ngùng bấy giờ.@`
 ` Một giọng nói trong veo cứu vãn tình thế.@
 `"A, cảm ơn chị nhiều nhé.@ Được rồi, tôi sẽ ăn ngay đây!"@`
@@ -271,7 +271,7 @@ ld r,"tachi/aki_t18b",crossfade,400
 `"Kohaku ơi, chị tịnh không nên chìu chuộng nuông chiều Nii-san quá mức nhường ấy đâu.@`
 ` Anh ấy bấy lâu nay đã sống một cuộc đời lười biếng ườn thây vô kỷ luật tại gia đình Arima suốt bao năm trời rồi cơ mà, thế nên việc giữ cho tinh thần anh ấy có chút căng thẳng nề nếp vào thời gian đầu quả thực là chuyện vô cùng tốt lành dẫu vậy."`
 \
-`"Hì hì.@ Tiểu thư Akiha bấy lâu nay lúc nào cũng cực kỳ nghiêm khắc đối với cậu Shiki, có đúng không ạ?"@`
+ld l,"tachi/koha_t05b",crossfade,400
 `"Em tịnh không hề muốn nghiêm khắc vô lý với anh ấy đâu.@ Chỉ đơn thuần là vì anh ấy lúc nào cũng trưng ra bộ dạng lơ đãng spaced out vô hồn nhường ấy, thế nên bản năng em bắt buộc phải luôn luôn để mắt canh chừng hộ anh ấy mà thôi."`
 ld r,"tachi/aki_t03b",crossfade,400
 `"... Hừm?"
@@ -281,7 +281,7 @@ cl a,crossfade,400
 ` Tôi khẽ giật mình sững sờ.@`
 ` Vào thời khắc Akiha mở lời trò chuyện cùng Kohaku-san, tuyệt nhiên tịnh không hề đọng lại lấy một chút khí chất lạnh lùng băng giá thường nhật thường lệ nào.@`
 ` (Bản dịch giữ nguyên ngữ cảnh và cảm xúc, tránh thêm từ không cần thiết.)@`
-` Có lẽ vì hai em ấy sở hữu độ tuổi khá tương đồng sát kề bên nhau, thế nên đôi bên bấy giờ thực sự trông hệt như một cặp bạn thân thiết ngọt ngào vậy.`
+\
 `"... ..." @
 ` Tôi liếc qua nhìn Hisui. @
 ld c,"tachi/his_t01",crossfade,400
@@ -331,7 +331,7 @@ cl a,crossfade,400
 \
 `"…… Không sao đâu chị Kohaku ơi, tất thảy mọi sự bấy giờ đều ổn thỏa rồi.@ Từ nay về sau tuyệt đối tịnh không còn bóng dáng ma cà rồng tàn độc nào lảng vảng ngoài phố nữa đâu.@ …… Muôn vàn vụ thảm kịch kinh hoàng ấy… vĩnh viễn vĩnh viễn tịnh không bao giờ nổ ra thêm lần nào nữa đâu."@`
 ` Bởi vì Yumizuka Satsuki…… bấy giờ đã thực sự không còn tồn tại trên cõi đời này nữa rồi.@`
-`"Ơ? Cậu Shiki vừa giãi bày sự thực hiển nhiên chăng, thưa tiểu thư Akiha?"@`
+ld l,"tachi/koha_t02b",crossfade,400
 `"Ồ? Đúng vậy sao, Akiha-sama?"@
 ld r,"tachi/aki_t12b",crossfade,400
 `"Chị tịnh không nghe thấy bất kỳ thông tin nào về sự tình ấy cả.@ Thực thể duy nhất có thể giải đáp nghi vấn này chỉ có thể là Nii-san mà thôi, bởi lẽ trông anh ấy dường như nắm rõ chân tướng sự việc lắm dẫu vậy.@`

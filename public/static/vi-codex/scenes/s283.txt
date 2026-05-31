@@ -68,10 +68,10 @@ br
 ` Chẳng hiểu chuyện gì đang xảy ra, tôi cố gắng gượng dậy.@
 ` Cơ thể tôi thậm chí còn không co giật.@
 ` Nhưng thân xác tôi dẫu chỉ một ngón tay cũng chẳng thể động đậy.@
-` Không phải là tôi đang bị trói chặt, cũng chẳng phải do toàn thân tê dại.@
+br
 ` Nếu tôi phải dùng một phép ẩn dụ,
 ` Nếu phải dùng một hình ảnh để so sánh,
-` thì tựa như thể thể xác này đã chết từ lâu rồi, nhưng tâm trí tôi vẫn đang ngộ nhận mà lưu luyến vương vấn bên trong vậy.
+\
 `"[line=6]"@
 ` Trong năm giác quan, giờ đây chỉ còn duy nhất thị giác là còn hoạt động.@
 ` …… Căn phòng chìm trong bóng tối.@

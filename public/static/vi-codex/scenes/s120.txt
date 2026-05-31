@@ -139,7 +139,7 @@ br
 ` [line=3]Tôi thực sự... sẽ cảm thấy... choáng váng.
 \
 playstop
-Chơi âm thanh se_02
+waveloop se_02
 ld c,"tachi/aki_t18b",crossfade,400
 `"Không, đó không chỉ là tưởng tượng của cậu. Cơ thể cậu đã lạ thường từ khi chúng ta bước vào, nhưng cậu đơn giản chưa bao giờ nhận ra điều đó, anh trai ạ."@
 ` Này xem này, Kohaku cười trước vì cậu thậm chí còn không để ý đến điều đó đâu.@
@@ -304,7 +304,7 @@ cl c,crossfade,400
 ` Cô ấy nói xong,
 ` Kohaku-san bắt đầu cởi quần áo của tôi.
 \
-(Bỏ qua dòng 77)
+eroskip 77
 ` Cô ấy ngồi lên tôi khi bắt đầu hành động.@
 ` Trong tư thế đó, cô ấy từ từ bung từng nút áo sơ mi của tôi ra.@
 ` Khi nhiệm vụ này hoàn thành, ngón tay cô ấy di chuyển xuống quần tôi.

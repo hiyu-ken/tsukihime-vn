@@ -105,7 +105,7 @@ bg #000000,crossfade,400
 `" Ánh sáng ban mai chốn phòng bỗng chốc dạt dào phai mờ biến tan tịnh không còn tăm hơi chốn ấy.@`
 ` Bản thân tôi dột ngột cảm nhận dạt dào dòng máu tươi tự thân đang điên cuồng dồn ứ tụ lại chốn sau đại não nhức nhối vô cùng."`
 \
-`"Dạ vâng đúng thế đấy cậu Shiki ạ.@ Tự ý em dẫu dã cất công siêng năng túc trực đảm nhận trách nhiệm trông nom chăm bẵm đắc lực sức khỏe tự thân kề bên việc điều hòa thuốc thang trị liệu cho lão gia Makihisa-sama suốt hai năm ròng rã đằng đẵng trước thời điểm lão gia tịch mịch viên tịch chốn này dẫu dã thế."@`
+bg "bg/bg_45b",crossfade,400
 ld c,"tachi/koha_t01a",crossfade,400
 `"Đúng vậy. Tôi đã chăm sóc tình trạng của Makihisa-sama hai năm trước khi ông qua đời."@
 `"Trong suốt khoảng thời khắc đằng đẵng tự thân lão gia Makihisa-sama tịch mịch cư ngụ chốn biệt dinh kề bên gia đình Arima chốn lân bang ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi, tinh thần thần trí tự thân của lão gia lúc nào dẫu dẫu cũng rơi vào tình cảnh vô cùng sầu muộn bấn loạn tồi tệ điên loạn chốn ấy dẫu dã thế dẫu vậy, và bản thân em bấy giờ dẫu dã liên tục cật lực chuẩn bị đon đả chuẩn trị đống thuốc an thần đắc trị đặc biệt tự thân để cất công an ủi xoa dịu chõi lòng bấn loạn cho lão gia chốn ấy ạ."`
@@ -127,9 +127,9 @@ bg #000000,crossfade,800
 !w500
 playstop
 bg "bg/bg_45b",crossfade,800
-(Một rung động nhẹ lan tỏa qua cơ thể Shiki.)
+quakey 1,200
 wave se_05
-(Âm thanh lặp lại từ xa, tạo nên một bầu không khí căng thẳng.)
+waveloop se_02
 ld c,"tachi/koha_t09",lshutter,400
 `"Cậu Shiki ơi……!?@`
 ` ... Tôi nghe thấy giọng của Kohaku-san.@
@@ -137,7 +137,7 @@ ld c,"tachi/koha_t09",lshutter,400
 ` Bản thân tôi chịu chết tịnh không thấu triệt sâu sắc chốn chốn thời điểm sự sự tình này cất công nổ ra tự thân lúc nào chốn ấy dẫu dã thế dẫu vậy dẫu dã ổn rồi, dẫu vậy thể xác tự thân tôi bấy giờ dẫu dã tịch mịch quỳ sụp vật vã xuống thềm chiếu tatami cũ kỹ chốn ấy rồi chốn ấy.`
 `"Cậu Shiki ơi, diện mạo diện mạo bấy giờ tự thân của cậu dạt dào trông vô cùng tệ hại nhọc nhằn quá chừng chốn này rồi đấy cậu ạ.@ Nếu thể trạng cậu dẫu dã rơi vào tình cảnh kiệt quệ rệu rã nhường ấy dẫu dã thế dẫu vậy, cầu xin cậu bấy giờ hãy lẳng lặng tĩnh dưỡng nhàn hạ nhàn nhã chốn phòng nghỉ ngơi đi ạ……!"!@`
 ` Chị Kohaku-san vừa tha thiết thốt lời khuyên răn dẫu dã thế dẫu vậy, vừa lẳng lặng chầm chậm đưa tay trần vội vã đỡ nhẹ lấy bờ vai tự thân của tôi bấy giờ chốn ấy.@`
-` Kề bên sự phụ trợ nâng đỡ tinh tế ấm áp dịu hiền tự thân của chị ấy chốn chốn phòng dẫu dã ổn rồi dẫu vậy dẫu dẫu dã dẫu sao, thể xác tự thân rã rời của tôi dột ngột dẫu dã có thể cật lực gượng đứng thẳng dậy đĩnh đạc.`
+\
 `"[line=3]…… Ừm…… anh dẫu dã ổn thỏa đĩnh đạc chốn này dẫu dã ổn dẫu dã ổn rồi…… thế dẫu vậy dẫu dẫu dã dạt dào……"@`
 ` Tôi cật lực ráng chút thần trí mỏng manh tự thân chốn đại não để chầm chậm khôi phục lại thần trí tỉnh táo đĩnh đạc tự thân chốn ấy dẫu dã ổn rồi.@`
 ` Dẫu vậy cõi lòng chao đảo bấn loạn của cơn choáng váng choáng váng dữ dội chốn ấy bấy giờ chịu chết tịnh không mảy may chịu suy giảm chút nào nổi chốn ấy chốn ấy.`
@@ -190,7 +190,7 @@ ld c,"tachi/koha_t04",crossfade,400
 wave se_01
 bg #000000,crossfade,400
 bg "bg/bg_45b",crossfade,400
-`Lặp lại âm thanh se_02`
+waveloop se_02
 ` …… Thế nên, làm ơn xin chị hãy lẳng lặng khựng bước lại chốn ấy đi.@`
 ` Rất nguy hiểm dị biến bất ổn dột ngột nếu chị cứ cật lực cất công cất bước tiến lại gần bên anh bấy giờ chốn ấy.@`
 ` Bản thân anh dẫu dã thốt lời căn dặn chị cấm chịu chết tịnh không được phép cất bước lại gần anh rồi cơ mà.@`
@@ -216,7 +216,7 @@ wave se_01
 bg "bg/bg_45b",notrans,0
 `"Câm miệng lại đi……!@ Lẽ nào đầu óc chị chịu chết tịnh không thấu tỏ nổi đống lời tôi cật lực bảo chị cất công cất bước xua đuổi cự tuyệt lùi ra xa hả Kohaku!"@`
 wave se_10
-rung chuyển 2,100
+quakex 2,100
 `"Kyaa[line=4]!"@`
 ` Một âm thanh nặng nề vang lên.@
 ` Một thanh âm va đập khô khốc nặng nề tịch mịch vang lên chấn động chốn gian phòng biệt lập.@ Chị Kohaku-san dột ngột bị tôi cất lực quăng mạnh văng thẳng người vào diện vách tường gỗ chốn kề bên, khuôn mặt tự thân của chị bấy giờ co rút lại vì phải gánh chịu cơn đớn đau kịch liệt dữ dội chốn ấy.@`
@@ -471,8 +471,8 @@ br
 bg #000000,crossfade,800
 monocro off
 !w3000
-phase "bg/ima_19", l, aki, 07a, 7
-` waveloop se_02
+phase "bg/ima_19",l,aki,07a,7
+waveloop se_02
 bg #ffffff,crossfade,800
 `"Cậu Shiki ơi[line=4]?"@`
 br

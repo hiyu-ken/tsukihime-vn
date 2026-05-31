@@ -25,7 +25,7 @@ br
 ` Ở trường tôi, họ ghi lại bản tin sáng và phát lại vào giờ trưa.@
 ` Tôi chỉ đứng đó, ngơ ngác trước chương trình tin tức đã trễ vài tiếng đồng hồ.
 \
-[mã âm thanh=02]
+waveloop se_02
 `"[line=4]Không thể nào..."@
 ` Tôi theo dõi bản tin với sự kinh hoàng ngạc nhiên.@
 ` Trên tivi chiếu ra con hẻm mà tôi thấy trong giấc mơ đêm qua.@
@@ -113,7 +113,7 @@ br
 ` [line=7]Làm sao?@
 `      Ai mới là Tohno Shiki thực sự?
 \
-Màu chữ đỏ đậm
+textcolor #ff0000
 br
 br
 br
@@ -123,10 +123,10 @@ br
 br
 ` Bạn thực sự phải hỏi à?
 \
-Màu chữ trắng
+textcolor #ffffff
 ` ... Lại là giọng nói ấy.
 \
-Màu chữ đỏ đậm
+textcolor #ff0000
 br
 br
 br
@@ -136,10 +136,10 @@ br
 br
 ` Đi thôi, tiếp tục đi, Shiki.
 \
-Màu chữ trắng
+textcolor #ffffff
 ` ... Giọng nói vang vọng trong đầu tôi.@ Giọng tôi.
 \
-Màn đêm đến mỗi ngày.
+textcolor #ff0000
 br
 br
 br
@@ -148,7 +148,7 @@ br
 ` Chắc chắn, chúng ta sẽ tìm thấy người mà chúng ta muốn một ngày nào đó, phải không?@
 ` Màu chữ trắng.
 \
-`"Im đi!"
+textcolor #ffffff
 ld c,"tachi/aki_t01c",notrans,0
 !w250
 bg "bg/bg_40a",notrans,0

@@ -5,8 +5,8 @@ ld c,"tachi/koha_t01a",lshutter,400
 `"Shiki-san, tôi xin lỗi vì phá hỏng tâm trạng của em, nhưng em có muốn ăn sáng không? Đang gần giờ nên tôi nghĩ nên chuẩn bị một chút."@
 `"Ồ, tôi quên mất... Nhưng thực ra tôi không quá đói, mà có lẽ là khát nước."@
 ld c,"tachi/koha_t04",crossfade,400
-`"Không được đâu, Shiki-san. Bạn đã ngất hôm qua, nên bạn cần ăn để lấy lại sức khỏe. Ngay cả khi cậu không muốn ăn, bạn cũng nên dùng một chút thức ăn."@
-` Thậm chí nếu cậu không muốn ăn, điều đó vẫn đúng, nhưng tôi chỉ không thấy mình có hứng thú vào lúc này.
+`"Không được đâu, Shiki-san. Bạn đã ngất hôm qua, nên bạn cần ăn để lấy lại sức khỏe. Ngay cả khi bạn không muốn ăn, bạn cũng nên dùng một chút thức ăn."@
+` Thậm chí nếu bạn không muốn ăn, điều đó vẫn đúng, nhưng tôi chỉ không thấy mình có hứng thú vào lúc này.
 \
 cl c,lshutter,400
 `"Ưm..."@
@@ -14,24 +14,24 @@ cl c,lshutter,400
 ` Sau khi thấy giấc mơ đó, tôi không thể tự buộc mình phải ăn được.
 \
 ld l,"tachi/his_t01",lshutter,400
-`"... Em gái ơi. Nếu cậu Shiki không cảm thấy tốt, em không nên ép anh ấy đâu."@
+`"... Em gái ơi. Nếu Shiki-sama không cảm thấy tốt, em không nên ép anh ấy đâu."@
 ld r,"tachi/koha_t04",lshutter,400
 `"[line=4]Hisui-chan, em quá chiều chuộng Shiki-san rồi nhỉ?"@
 ld r,"tachi/koha_t09",crossfade,400
-`"Shiki-san, cậu không cảm thấy tốt vào buổi sáng này à?"@
+`"Shiki-san, bạn không cảm thấy tốt vào buổi sáng này à?"@
 ` Kohaku-san nhìn chằm chằm vào tôi.@
 ` Như thể theo kịch bản, Hisui và Akiha cũng thêm những cái nhìn nghiêm túc hướng về tôi.@
 ` ... Tôi nghĩ tôi thực sự không thể tiếp tục lừa dối bản thân nữa.
 \
-`"[line=3]Thực ra, tôi cảm thấy hơi mệt mỏi. Tôi có thể ăn, nhưng cậu có thể làm một thứ gì đó mà tôi không cần nhai? Tôi cảm thấy khá tệ và tôi cũng không thể nếm được gì."@
+`"[line=3]Thực ra, tôi cảm thấy hơi mệt mỏi. Tôi có thể ăn, nhưng bạn có thể làm một thứ gì đó mà tôi không cần nhai? Tôi cảm thấy khá tệ và tôi cũng không thể nếm được gì."@
 cl r,lshutter,400
 ` Sau khi nói ra sự thật, Kohaku-san nói "Ồ, tôi hiểu rồi," và trông có vẻ buồn rầu.@
 ` ... Là người chịu trách nhiệm nấu ăn, cô ấy chắc chắn cảm nhận được điều tôi vừa nói.
 \
 ld l,"tachi/his_t04",crossfade,400
-`"..." Ừm, cậu Shiki? Tôi nghĩ cậu không cảm thấy tốt vì môi trường của cậu đã thay đổi.@
+`"..." Ừm, Shiki-sama? Tôi nghĩ bạn không cảm thấy tốt vì môi trường của bạn đã thay đổi.@
 ` "Vậy nên, nếu biệt thự không phù hợp với cậu, có lẽ cậu nên quay lại và ở cùng gia đình Arima trong một thời gian……?"@
-` Dưới bầu trời đêm tịch mịch, tôi cất bước đi dọc con phố hoang vắng.@`
+`"... ..."@
 ` Ý kiến của Hisui xuất phát từ sự quan tâm chân thành đến sức khỏe của tôi.
 \
 cl l,lshutter,400
@@ -42,7 +42,7 @@ cl l,lshutter,400
 ` "Mặc dù tôi chỉ ở đây một tuần, nếu tôi không sớm thích nghi, tôi sẽ tạm rời đi và lấy lại sức khỏe."@
 ` "Ồ, có lẽ mình đang vội vàng một chút," tôi thêm vào.@
 br
-` Một cảm giác bất an tột độ dâng lên, dẫu dẫu đã muộn màng dẫu vậy tôi vẫn cất lực chạy về phía trước.`
+` [line=3]Và rồi.@
 ` Đột nhiên, Akiha đứng dậy từ chiếc ghế sofa của cô ấy.
 \
 ld c,"tachi/aki_t09",lshutter,400
@@ -55,7 +55,7 @@ cl c,lshutter,400
 ld c,"tachi/koha_t03",lshutter,400
 `"Kohaku à. Đã đến lúc cho Hoàng tử Akiha đi học rồi, cậu có thể đi cùng cô ấy đến cửa không? Tôi sẽ lo bữa sáng cho Shiki-san."@
 ` Với một lời đồng ý đơn giản, Hisui đi theo Akiha.@
-`"Tốt rồi, tôi sẽ làm cho cậu một món dễ ăn. Hãy chờ một chút nhé."@
+`"Tốt rồi, tôi sẽ làm cho bạn một món dễ ăn. Hãy chờ một chút nhé."@
 cl c,lshutter,400
 ` Kohaku đi nhanh về phía nhà bếp.
 \
@@ -98,7 +98,7 @@ play "*4"
 `"[line=4]Không thể nào..."@
 ` Tôi xem tin tức với sự kinh hoàng khó tả.@
 ` Trên tivi chiếu lại con hẻm mà tôi từng thấy trong giấc mơ đêm qua.@
-` Người dẫn chương trình đang cất tiếng đối thoại.@
+` Người dẫn chương trình đang nói chuyện.@
 ` Trên màn hình, những từ "Nạn nhân mới của Kẻ giết người hàng loạt ma cà rồng" xuất hiện bằng chữ đỏ rực.
 \
 bg #9c0120,notrans,0
@@ -521,7 +521,7 @@ bg #000000,lcartain,800
 bg "bg/bg_46b",lcartain,800
 `"[line=5]"@
 ` Tôi tập trung can đảm, gõ cửa.@
-`"Akiha, tôi muốn cất tiếng đối thoại."@
+`"Akiha, tôi muốn nói chuyện."@
 `"Ồ, anh trai? Xin mời vào."@
 ` Giọng cô ấy trong sáng và vui vẻ.@
 ` Tôi hít một hơi để bình tĩnh lại và mở cửa.
@@ -553,7 +553,7 @@ play "*8"
 ld c,"tachi/aki_t11b",lshutter,400
 `"[line=7]"@
 ` Akiha nhìn tôi im lặng.@
-`"Nếu cậu không trả lời, tôi sẽ đặt lại câu hỏi của mình."@
+`"Nếu bạn không trả lời, tôi sẽ đặt lại câu hỏi của mình."@
 ` [line=3]Cha tôi, Tohno Makihisa, có hai tính cách, phải không? Và không chỉ ông ấy. Hầu hết các thành viên trong gia tộc Tohno đều mắc một dạng bệnh tật nào đó. ... Tôi từng nghĩ rằng mình cũng vậy.@
 ` Nhưng điều đó là sai. Bệnh thiếu máu của tôi xuất phát từ sự kiện tám năm trước. Vì...@
 `"Tôi biết. Bạn được gia đình Tohno nhận nuôi, phải không?"@
@@ -568,7 +568,7 @@ cl c,lshutter,400
 \
 bg "event/aki_e07a",lshutter,400
 `"Anh trai, anh được gia đình Tohno nhận nuôi. Tên thật của anh là Nanaya Shiki."@
-` Như cậu nói, tình trạng sức khỏe của cậu là do tai nạn tám năm trước đó. Bạn dường như đã biết rằng các thành viên trong gia tộc Tohno khác với hầu hết con người.@
+` Như bạn nói, tình trạng sức khỏe của bạn là do tai nạn tám năm trước đó. Bạn dường như đã biết rằng các thành viên trong gia tộc Tohno khác với hầu hết con người.@
 ` Akiha nói ngắn gọn điều mà tôi khó lòng hỏi ra.
 \
 `"[line=4]...Akiha.@"@
@@ -580,7 +580,7 @@ br
 ` Akiha nói điều này với giọng tự tin.
 \
 `"[line=3]Akiha. Như tôi nghĩ, tôi..."@
-`"Đúng vậy. Bạn là người cha nhận nuôi cách đây mười năm, nhưng cậu không nhớ ra."@
+`"Đúng vậy. Bạn là người cha nhận nuôi cách đây mười năm, nhưng bạn không nhớ ra."@
 ` "Anh/chị có nhớ SHIKI ngày xưa hay chơi với chúng ta không?"@
 `"[line=6]Không, tôi không nhớ."@
 `"Đúng vậy. Vì cha anh/chị đã thôi miên em ấy."
@@ -592,9 +592,9 @@ br
 `"[line=3]Đúng vậy. Bằng một phép màu, em ấy đã sống sót. Em ấy nhớ lại những gì xảy ra sau đó, đúng không? Em ấy được đưa đến bệnh viện và vào ngày trở về, em ấy được gia đình Arima nhận nuôi."@
 ` "Đó là lúc cha thôi miên em ấy. Trái tim và tâm trí em ấy chưa hồi phục hoàn toàn nên em ấy rất yếu. Vì vậy, em ấy dễ dàng tin những gì cha nói."
 \
-`"…… Tôi hiểu rồi.@ Vậy thì đủ rồi.@ Nếu cô hiểu, không cần nói thêm nữa.@
+`"…… Tôi hiểu rồi.@ Vậy thì đủ rồi.@ Nếu bạn hiểu, không cần nói thêm nữa.@
 ` Tôi không phải là thành viên của gia tộc Tohno, đúng không?@
-` [line=3]Vậy thì, cậu không cần ép mình gọi tôi là anh trai."@
+` [line=3]Vậy thì, bạn không cần ép mình gọi tôi là anh trai."@
 ` Sớm thôi.@
 ` Sớm nào, một kẻ ngoài cuộc như tôi sẽ rời khỏi nơi này.
 \
@@ -611,24 +611,24 @@ br
 \
 `"[line=3]Tại sao? Tôi chẳng phải là anh trai thật sự của cậu."@
 `"... Thật đáng thương, sau khi tôi đã nói tất cả những điều này, cậu vẫn không hiểu à?"@
-` Bạn là người duy nhất mà tôi gọi là anh trai. Ngay cả khi cậu không muốn, tôi chỉ muốn bạn ở bên cạnh tôi.@
-` Vì, tôi yêu bạn, anh trai.
+` Bạn là người duy nhất mà tôi gọi là Nii-san. Ngay cả khi bạn không muốn, tôi chỉ muốn bạn ở bên cạnh tôi.@
+` Vì, tôi yêu bạn, Nii-san.
 \
 wave se_01
 `"[line=6]Hả..."@
-` Akiha nói điều gì đó tịnh không thể tin được.@
+` Akiha nói điều gì đó hoàn toàn không thể tin được.@
 ` Tôi vui mừng vì cô ấy thích tôi như một người anh trai.@
 ` [line=4]Nhưng, miễn là tình huống này vẫn tồn tại, tôi không thể ở đây.
 \
 `"[line=3]... Không, tôi không phải là kiểu người mà bạn nghĩ. Bạn nhìn thấy SHIKI như một kẻ giết người, nhưng tôi... cũng chỉ là một kẻ giết người giống như anh ấy."@
-`"Kẻ giết người, cậu muốn nói điều gì?"@
+`"Kẻ giết người, bạn muốn nói điều gì?"@
 `"………………"@
 br
 ` Tôi không thể giữ bí mật này lâu hơn nữa.@
 ` [line=4]Mọi việc tôi đã làm cho đến nay - giấc mơ tôi có đêm qua, những vết máu tôi không thể giải thích, và giấc mơ nơi Akiha giết tôi.
 \
 `"…… Tôi không thể tin vào bản thân mình. Tôi nghĩ đó chỉ là giấc mơ."@
-` Nhưng cha tôi viết rằng gia tộc Nanaya là một dòng họ sinh ra những kẻ giết người. Nếu tôi trở thành SHIKI, tôi không biết mình sẽ làm gì với cậu, Akiha.@
+` Nhưng cha tôi viết rằng gia tộc Nanaya là một dòng họ sinh ra những kẻ giết người. Nếu tôi trở thành SHIKI, tôi không biết mình sẽ làm gì với bạn, Akiha.@
 ` Tôi nói hết mọi thứ từ tận đáy lòng mình.@
 ` Nhưng sau khi ngạc nhiên chớp mắt, cô ấy cố gắng không cười.
 \
@@ -637,10 +637,10 @@ br
 ` ... Điều này là gì?@
 ` Cô ấy khiến tôi trông ngốc nghếch, lo lắng về mọi thứ này.
 \
-`"Ừm, điều đó thật hài hước. Nhìn xem, cậu không thể là một ma cà rồng được. Bởi vì bạn đến từ gia tộc Nanaya, máu của cậu chỉ là máu người bình thường.@
+`"Ừm, điều đó thật hài hước. Nhìn xem, bạn không thể là một ma cà rồng được. Bởi vì bạn đến từ gia tộc Nanaya, máu của bạn chỉ là máu người bình thường.@
 ` Hơn nữa, những người Nanaya không phải là kẻ giết người.@
 ` ... Từ quan điểm của cha tôi, họ có thể là như vậy, nhưng những người Nanaya chỉ cảm thấy xung động sát nhân với những sinh vật phi nhân loại.@
-` Vì vậy, điều mà bạn nhìn thấy chắc chắn chỉ là giấc mơ. Thậm chí cả những giấc mơ đó cũng có thể là SHIKI truyền tải cho cậu, nên không hẳn là cậu muốn nhìn thấy chúng.
+` Vì vậy, điều mà bạn nhìn thấy chắc chắn chỉ là giấc mơ. Thậm chí cả những giấc mơ đó cũng có thể là SHIKI truyền tải cho bạn, nên không hẳn là bạn muốn nhìn thấy chúng.
 \
 ` ... SHIKI truyền tải chúng?@
 ` Đến nghĩ lại, cha tôi đã viết một số điều về nó.@
@@ -675,7 +675,7 @@ br
 `"Đúng vậy sao? Chúng ta thực sự không cần quan tâm đến anh ta, phải không? Công việc của cảnh sát là bắt những kẻ giết người, phải không?"
 \
 `"[line=4][line=3]Akiha, cậu nói gì vậy? Anh ta đang giết người, nhưng anh ta là em trai của cậu. Anh ta phải trả giá cho tội lỗi của mình, nhưng vẫn..."@
-`"... Tốt lắm, anh trai. Cậu thực sự quá tốt bụng."@
+`"... Tốt lắm, Nii-san. Cậu thực sự quá tốt bụng."@
 ` Sau một hơi thở sâu, cô ấy chải lại mái tóc.
 \
 `"Cậu là người thân duy nhất của tôi. Tôi không quan tâm đến SHIKI, nên cậu không cần lo lắng về anh ta."@
@@ -729,12 +729,12 @@ br
 \
 ld c,"tachi/aki_t06b",crossfade,400
 `"Dừng lại. Tôi không muốn nghe. Bạn đã quay lại, vậy thì được rồi."@
-` [line=3]Vì vậy, bất cứ điều gì khác như tình cảm của cậu, tôi thực sự không cần biết.@
+` [line=3]Vì vậy, bất cứ điều gì khác như tình cảm của bạn, tôi thực sự không cần biết.@
 cl c,lshutter,400
 ` Cô ấy quay mặt đi.@
 ` [line=3]Akiha nhìn xuống như thế mà không có lý do rõ ràng, trông rất nguy hiểm.
 \
-`"Hãy trở về phòng của cậu. Xin đừng nhìn như vậy trước mặt tôi, anh trai ạ."@
+`"Hãy trở về phòng của bạn. Xin đừng nhìn như vậy trước mặt tôi, anh trai ạ."@
 `"... ..."@
 ` Không biết nói gì, tôi lặng lẽ rời khỏi phòng cô ấy.
 \
@@ -768,10 +768,10 @@ bg "bg/bg_35",lcartain,800
 ` Những bước chân mềm mại, nhỏ nhẹ hiếm khi vang vọng trong đêm sâu.@
 br
 ld c,"tachi/his_t01",lshutter,800
-`"... cậu Shiki? Cậu làm gì ở đây vào ban đêm thế?"@
+`"... Shiki-sama? Cậu làm gì ở đây vào ban đêm thế?"@
 `"Hisui? Tôi chỉ khát nước nên nghĩ rằng mình sẽ lấy chút đồ uống."@
 ld c,"tachi/his_t17",crossfade,400
-`"cậu Shiki. Nếu đó là sự thật, hãy gọi tôi. Vào ban đêm, cậu nên nghỉ ngơi trong phòng của mình. ... Đi lại ở đây vào ban đêm không tốt đâu."@
+`"Shiki-sama. Nếu đó là sự thật, hãy gọi tôi. Vào ban đêm, cậu nên nghỉ ngơi trong phòng của mình. ... Đi lại ở đây vào ban đêm không tốt đâu."@
 ` Hisui nói một cách thẳng thắn.
 \
 `"……?"@
@@ -801,15 +801,15 @@ ld c,"tachi/his_t01",crossfade,400
 \
 `"... Tôi hiểu rồi. Nếu cô ấy biết, thì Kohaku-san cũng phải biết mà."@
 ` Chuyện gì vậy? Thực ra đây không phải là bí mật gì cả.@
-`"[line=3]cậu Shiki, điều đó là..." @
+`"[line=3]Shiki-sama, điều đó là..." @
 ld c,"tachi/his_t17",crossfade,400
 ` Cô ấy nói như vậy khi hạ thấp đôi mắt.
 \
-`"... Tôi vô cùng xin lỗi. Ngay cả khi bạn là con nuôi, cũng không có nghi ngờ nào rằng bạn là con trai cả của gia tộc Tohno. tiểu thư Akiha chấp nhận bạn là người thân và bạn là chủ nhân của tôi và chị Kohaku."@
+`"... Tôi vô cùng xin lỗi. Ngay cả khi bạn là con nuôi, cũng không có nghi ngờ nào rằng bạn là con trai cả của gia tộc Tohno. Akiha-sama chấp nhận bạn là người thân và bạn là chủ nhân của tôi và Nee-san."@
 `"... Cảm ơn. Nếu cậu nói vậy, tôi tin rằng tôi có thể ở lại đây."
 \
 ld c,"tachi/his_t13",crossfade,400
-`"cậu Shiki... Đừng nói những điều như thế. Đây thực sự là ngôi nhà của cậu."@
+`"Shiki-sama... Đừng nói những điều như thế. Đây thực sự là ngôi nhà của cậu."@
 `"Tôi biết. Đó cũng là suy nghĩ của tôi. Mặc dù chỉ trong một thời gian ngắn, những gì xảy ra ở đây khi tôi còn nhỏ rất quan trọng với tôi. Tôi không thể bỏ qua nó."@
 ld c,"tachi/his_t04",crossfade,400
 ` Hisui trông rõ ràng nhẹ nhõm.
@@ -820,9 +820,9 @@ ld c,"tachi/his_t04",crossfade,400
 ` "... Tôi hiểu rồi. Vậy ra nếu cậu khiến tôi trở thành Tohno Shiki, thì có lẽ những hồ sơ về tôi với danh tính Nanaya Shiki cũng đã bị phá hủy."
 \
 ld c,"tachi/his_t01",crossfade,400
-`"Nhưng cậu Shiki, chị Kohaku có thể biết điều gì đó."@
+`"Nhưng Shiki-sama, Nee-san có thể biết điều gì đó."@
 `"Hừ...? Hisui, tại sao Kohaku-san lại biết điều gì đó?"@
-`"chị Kohaku đã chăm sóc Makihisa-sama từ khi cô ấy còn nhỏ. Cô ấy có thể biết nhiều hơn về gia tộc Tohno so với ngay cả tiểu thư Akiha."@
+`"Nee-san đã chăm sóc Makihisa-sama từ khi cô ấy còn nhỏ. Cô ấy có thể biết nhiều hơn về gia tộc Tohno so với ngay cả Akiha-sama."@
 `"...?"
 \
 ` (Nhớ lại), Kohaku-san từng nói rằng cô ấy là người hầu của Makihisa.@
@@ -833,7 +833,7 @@ ld c,"tachi/his_t01",crossfade,400
 ` Akiha và Kohaku-san luôn nhìn xuống tôi từ bên trong biệt thự.
 \
 `"... Có phải vậy? Nhưng điều đó thật lạ. Tại sao cha tôi lại nói với Kohaku-san những điều mà ngay cả Akiha cũng không biết?"@
-`"Không, tôi không nghĩ ông ấy đã kể trực tiếp cho cô ấy. Vì chị Kohaku luôn ở gần phòng của Makihisa-sama trong biệt thự, nên tôi tin rằng cô ấy có nhiều cơ hội nghe lén Makihisa-sama suy nghĩ to nhỏ."@
+`"Không, tôi không nghĩ ông ấy đã kể trực tiếp cho cô ấy. Vì Nee-san luôn ở gần phòng của Makihisa-sama trong biệt thự, nên tôi tin rằng cô ấy có nhiều cơ hội nghe lén Makihisa-sama suy nghĩ to nhỏ."@
 `"[line=7]Luôn ở gần cha tôi?"@
 br
 playstop
@@ -872,7 +872,7 @@ play "*9"
 `"[line=5][line=2]Làm sao lại thế này?"@
 ` Làm sao tôi có thể sai lầm đến vậy cho đến giờ?@
 ld c,"tachi/his_t23",crossfade,400
-`"cậu Shiki……?"@
+`"Shiki-sama……?"@
 `"[line=3]Sai rồi, Hisui. Tôi được trao dải ruy băng dưới cây trong vườn. Không phải gần cổng."@
 `"[line=9]"@
 ` Hisui hít một hơi sâu và rơi vào sự im lặng.
@@ -884,7 +884,7 @@ cl c,lshutter,400
 ` [line=3]Tại sao cô ấy không chỉ nói với tôi rằng chính cô ấy là người tôi đã hứa hẹn?
 \
 ld c,"tachi/his_t26",lshutter,400
-`"[line=3]cậu Shiki, xin đừng nói với chị Kohaku về chuyện này. Nếu cô ấy biết được, sẽ không còn nơi nào để cô ấy đi."@
+`"[line=3]Shiki-sama, xin đừng nói với Nee-san về chuyện này. Nếu cô ấy biết được, sẽ không còn nơi nào để cô ấy đi."@
 ` Bất ngờ,
 ` Hisui nói như vậy.
 \
@@ -894,12 +894,12 @@ ld c,"tachi/his_t26",lshutter,400
 `"[line=3]... Rồi bạn là người chơi cùng chúng tôi, và Kohaku-san là người ở trong biệt thự, đúng không?"@
 ` Cô ấy gật đầu im lặng.
 \
-`"Tại sao...? Tại sao cậu lại hành động như đã đổi chỗ với ai đó? Không có ý nghĩa gì. Hay các bạn chỉ đang đùa với tôi?"@
+`"Tại sao...? Tại sao bạn lại hành động như đã đổi chỗ với ai đó? Không có ý nghĩa gì. Hay các bạn chỉ đang đùa với tôi?"@
 ld c,"tachi/his_t21b",lshutter,400
-`"Không có ý định lừa gạt bạn, cậu Shiki. Chúng tôi cũng không thể giải thích đầy đủ cho chính mình về chuyện này đã xảy ra thế nào."
+`"Không có ý định lừa gạt bạn, Shiki-sama. Chúng tôi cũng không thể giải thích đầy đủ cho chính mình về chuyện này đã xảy ra thế nào."
 \
 `"... Nó bắt đầu từ tám năm trước. Sau khi bạn được gia đình Arima nhận nuôi, tôi nghĩ bản thân tôi trở nên bình tĩnh hơn trước."@
-` chị Kohaku cố gắng làm tôi vui lên bằng cách tỏ ra rất hạnh phúc, và sau đó, chúng tôi dần đổi chỗ với nhau."@
+` Nee-san cố gắng làm tôi vui lên bằng cách tỏ ra rất hạnh phúc, và sau đó, chúng tôi dần đổi chỗ với nhau."@
 `"Nhưng tại sao... tại sao chuyện này lại xảy ra...? Hisui... bạn luôn tràn đầy năng lượng."@
 `"... Đó không phải là sự thật. Tôi vốn dĩ không hoạt bát. Nhưng khi bạn ở đó, tôi cố gắng theo kịp bạn hết sức có thể."@
 `"[line=10]"
@@ -908,22 +908,22 @@ bg #000000,crossfade,800
 bg "event/his_e01b",crossfade,800
 ` "Tôi nhớ... Cô bé ấy luôn vui vẻ, luôn mỉm cười."@
 ` "Người có tinh thần tự do nhất, người luôn lo lắng cho chúng tôi, người chịu đựng nhiều nhất, người hành xử giống Kohaku-san nếu cô ấy trẻ hơn."@
-` "... Thật sao? Tôi nghĩ bạn vẫn sẽ lạc quan ngay cả khi tôi không có ở đó. Đó là tính cách của cậu. Hãy tin tôi, vì tôi, người theo sau bạn, đang nói điều này."
+` "... Thật sao? Tôi nghĩ bạn vẫn sẽ lạc quan ngay cả khi tôi không có ở đó. Đó là tính cách của bạn. Hãy tin tôi, vì tôi, người theo sau bạn, đang nói điều này."
 \
 bg #000000,crossfade,800
 bg "bg/bg_35",crossfade,400
 `"... Vâng. Những ngày đó rất vui vẻ. Tôi nghĩ đó là hai năm tốt nhất trong cuộc đời tôi."@
 ld c,"tachi/his_t04",crossfade,400
-`"Nhưng mọi thứ đã vỡ vụn sau khi bạn rời đi, cậu Shiki."
+`"Nhưng mọi thứ đã vỡ vụn sau khi bạn rời đi, Shiki-sama."
 \
 ld c,"tachi/his_t21b",crossfade,400
-`"tiểu thư Akiha bắt đầu ghét Makihisa-sama, và Makihisa-sama trở nên nghiêm khắc với chị Kohaku."@
+`"Akiha-sama bắt đầu ghét Makihisa-sama, và Makihisa-sama trở nên nghiêm khắc với Nee-san."@
 ` "@
 ` Những ngày hạnh phúc đã qua rồi. Tôi dần trở nên im lặng và thậm chí không thể làm việc nữa.
 \
-`"chị Kohaku đã tiếp quản thay cho tôi.@
-` Tôi mỉm cười như xưa, chạy nhảy như xưa. Sau đó, tôi đảm nhận vai trò cũ của chị Kohaku.@
-` ... Điều đó dễ dàng nhất với tôi. Đồng thời, nó cũng thực hiện ước nguyện duy nhất của chị Kohaku.
+`"Nee-san đã tiếp quản thay cho tôi.@
+` Tôi mỉm cười như xưa, chạy nhảy như xưa. Sau đó, tôi đảm nhận vai trò cũ của Nee-san.@
+` ... Điều đó dễ dàng nhất với tôi. Đồng thời, nó cũng thực hiện ước nguyện duy nhất của Nee-san.
 \
 `"...... Ước muốn của Kohaku-san......?"@
 ` Tôi không hiểu những gì cô ấy nói.@
@@ -957,16 +957,16 @@ ld c,"tachi/his_t17",crossfade,400
 `"[line=4]Tôi sợ những lời đó và nghĩ rằng tôi phải ngay lập tức quay về với bản thân mình.@
 ` …… Nhưng sau đó, vô tình, tôi thấy cô ấy dạo bước hạnh phúc trong khu vườn.@
 ld c,"tachi/his_t21b",crossfade,400
-` “chị Kohaku thực sự trông rất vui vẻ.” …… Tôi không biết lúc đó mình trông ra sao, nhưng cô ấy thực sự rất vui. Và tất cả những gì cô ấy làm là đi dạo một mình."
+` “Nee-san thực sự trông rất vui vẻ.” …… Tôi không biết lúc đó mình trông ra sao, nhưng cô ấy thực sự rất vui. Và tất cả những gì cô ấy làm là đi dạo một mình."
 \
-`"chị Kohaku chỉ đang giả vờ là 'Hisui'. Ngay cả vậy, cô ấy vẫn trông rất hạnh phúc.@
-` Vì vậy[line=3]chị Kohaku không hề hay biết, nhưng tôi hiểu rằng chị Kohaku luôn muốn trở thành như vậy.@
+`"Nee-san chỉ đang giả vờ là 'Hisui'. Ngay cả vậy, cô ấy vẫn trông rất hạnh phúc.@
+` Vì vậy[line=3]Nee-san không hề hay biết, nhưng tôi hiểu rằng Nee-san luôn muốn trở thành như vậy.@
 ` Tôi chỉ không thể phá hủy điều đó."@
 cl c,crossfade,400
 ` Hisui kìm nén nỗi buồn, im lặng cắn môi để không khóc.
 \
 ld c,"tachi/his_t17",lshutter,400
-`"cậu Shiki, xin hãy để em ấy ở lại như thế này. Nếu không, cô ấy sẽ mất đi chỗ đứng của mình."@
+`"Shiki-sama, xin hãy để em ấy ở lại như thế này. Nếu không, cô ấy sẽ mất đi chỗ đứng của mình."@
 ` Tôi chỉ có thể gật đầu đồng ý với những lời đó.@
 ` Nhưng đó chắc chắn không phải là lựa chọn đúng đắn.@
 ` Kohaku-san phải giả vờ là Hisui từ quá khứ, và Hisui cũng phải đóng vai Kohaku-san từ quá khứ để bảo vệ điều đó.
@@ -975,7 +975,7 @@ ld c,"tachi/his_t17",lshutter,400
 ` [line=3]Điều đó chắc chắn rất khó khăn.
 \
 ld c,"tachi/his_t13",crossfade,400
-`"cậu Shiki. Xin hứa với tôi rằng cậu không nói gì với chị Kohaku."@
+`"Shiki-sama. Xin hứa với tôi rằng bạn không nói gì với Nee-san."@
 `"... Được rồi. Nhưng Hisui, cậu có ổn với điều này không?"@
 `"... ..."@
 ` Hisui không trả lời.@

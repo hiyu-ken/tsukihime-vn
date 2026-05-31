@@ -3,7 +3,7 @@ playstop
 wavestop
 !w3000
 bg "bg/bg_33d",crossfade,800
-`dòng âm thanh lặp lại` _se_11_
+waveloop se_11
 ` Cánh cửa mở ra với một âm thanh rắc rắc.@
 ` Với một thể xác rệu rã rã rời và thần trí mỏi mệt tê dại, tôi nhọc nhằn lết bước chân quay trở về mansion.@`
 ` Những bước chân của tôi chậm chạp theo sau tôi.@
@@ -21,7 +21,7 @@ bg "bg/bg_33d",crossfade,800
 bg #000000,crossfade,800
 wavestop
 !w4000
-Tôi thức dậy từ một giấc ngủ dài.
+phase "bg/bg_54b",r,his,04a,4
 bg #ffffff,crossfade,800
 bg "bg/bg_40a",crossfade,400
 play "*2"

@@ -75,7 +75,7 @@ br
 bg #000000,crossfade,1500
 playstop
 !w4000
-[hình nền "bg/cmo_05b", l, aki, 13a, epi]
+phase "bg/cmo_05b",l,aki,13a,epi
 bg #ffffff,crossfade,800
 play "*2"
 ` [line=5]Ánh nắng ấm áp.@

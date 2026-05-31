@@ -29,7 +29,7 @@ wave se_01
 bg #000000,lcartain,800
 play "*6"
 bg "bg/bg_10c",lcartain,800
-(Chuyển cảnh: se_02)
+waveloop se_02
 br
 ` [line=4]Không ai trên tầng một.
 \

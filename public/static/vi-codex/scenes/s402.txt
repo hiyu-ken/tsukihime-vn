@@ -80,7 +80,7 @@ br
 bg #000000,crossfade,1500
 playstop
 !w2000
-[âm thanh lặp lại] se_11
+waveloop se_11
 monocro #0000ff
 bg "bg/bg_06c",crossfade,800
 ` ... Anh ở trong một nơi tối tăm.@
@@ -120,7 +120,7 @@ br
 ` Anh nắm lấy cánh tay. Anh không quan tâm nếu nó bị đứt, nên anh không giữ lại gì.@
 ` Anh kéo cơ thể và tiếp tục xâm phạm con con rối/con búp bê.
 \
-Nhảy qua 9 khung hình.
+eroskip 9
 br
 br
 br
@@ -214,7 +214,7 @@ br
 br
 `"[line=3]Sớm, anh sẽ quay lại."
 \
-Màu chữ đỏ rực
+textcolor #ff0000
 br
 br
 br
@@ -224,7 +224,7 @@ br
 br
 `   "Anh sẽ giết em và chiếm lấy chỗ của em."
 \
-Màu chữ trắng
+textcolor #ffffff
 `"[line=3]Nếu điều đó xảy ra, em sẽ trở nên vô dụng."@
 br
 ` "Haha, điều đó thật hài hước."@
@@ -243,7 +243,7 @@ br
 bg #000000,crossfade,800
 wavestop
 !w4000
-`"[line=5]"
+phase "bg/cmo_05b",l,his,08a,8
 bg #ffffff,crossfade,1500
 bg "bg/bg_40a",crossfade,400
 `"[line=6]Anh tỉnh giấc và nhận ra đã quá mười giờ đồng hồ.@
@@ -447,7 +447,7 @@ br
 ` [line=5]Lồng ngực anh dẫu dã nhuộm một màu đỏ thẫm nhuốm máu; huyết lộ đen kịt loang lổ ướt đẫm cả đôi bàn tay anh.
 \
 bg "bg/cmo_06",crossfade,800
-Dòng nhạc lặp lại se_02
+waveloop se_02
 br
 br
 br
@@ -855,7 +855,7 @@ br
 bg #000000,crossfade,800
 playstop
 !w4000
-(Bước chuyển cảnh "bg/cmo_17", l, his, 09a, 9)
+phase "bg/cmo_17",l,his,09a,9
 monocro #ff0000
 bg "bg/ima_01",notrans,0
 ` ... ... ... ... Một cánh cửa khép nhẹ và ý thức anh tách rời khỏi ký ức.@
@@ -906,7 +906,7 @@ bg "bg/bg_40a",crossfade,400
 bg #ffffff,crossfade,400
 bg "bg/bg_40a",crossfade,400
 wave se_05
-Động đất 3,200
+quakey 3,200
 ` Bất ngờ, tất cả sức mạnh trong cơ thể anh bị cạn kiệt và anh ngất đi.@
 ` Nó cảm thấy giống như chóng mặt bình thường[line=3], nhưng anh không thể đứng dậy được.@
 ` Anh không thể đưa bất kỳ sức mạnh nào vào tay hoặc chân mình.@
@@ -1213,7 +1213,7 @@ br
 \
 bg #000000,crossfade,800
 !w3500
-[Dòng âm thanh lặp lại] se_11
+waveloop se_11
 ` [line=3]Bỗng dưng, anh thấy mình ở một nơi không quen thuộc.
 \
 ` [line=3]Nơi này... trông giống như một tầng hầm đã bị bỏ hoang từ lâu.@
@@ -1225,22 +1225,22 @@ br
 ` Anh ngồi trên bàn, gập người ôm lấy đầu gối.@
 ` Cơ thể một người phụ nữ mới bị hạ xuống sàn nhà.
 \
-(Màu đỏ)
+textcolor #ff0000
 br
 ` Tiếng thở của chính anh.@
-(Màu trắng)
+textcolor #ffffff
 br
 ` Nó... không đều.@
 ` Cái thứ đó nghĩ là nó chưa có đủ máu.@
 ` Nó muốn ăn thịt tươi.@
-(Màu đỏ)
+textcolor #ff0000
 ` Anh... anh muốn giết người.@
 br
 ` *(Hít thở gấp)*
 \
 br
 ` *(Hít thở gấp)*
-(Màu trắng)
+textcolor #ffffff
 ` Tiếng thở nặng nhọc, anh nhìn xung quanh.
 br
 ` Hô hấp của chúng ta hòa nhịp.@
@@ -1249,11 +1249,11 @@ br
 ` Anh nâng giọng, quét mắt khắp nơi.@
 ` Trong căn hầm này, không ai khác cả.@
 br
-**Màu đỏ rực**
+textcolor #ff0000
 ` Tiếng thở nặng nhọc, anh nhìn xung quanh.
 \
 ` Tiếng thở nặng nhọc, anh cảm thấy cô đơn.
-Màu chữ trắng.
+textcolor #ffffff
 ` Anh ta thở dốc, *thở dốc*, *thở dốc*.
 br
 `"Chết tiệt, lại là anh!"@
@@ -1380,7 +1380,7 @@ bg "bg/bg_40d",crossfade,800
 bg #000000,crossfade,800
 playstop
 !w3000
-phase "bg/cmo_18", l, his, 10a, 10
+phase "bg/cmo_18",l,his,10a,10
 bg "bg/bg_40a",crossfade,800
 play "*2"
 ` Ánh sáng từ cửa sổ đánh thức anh.@
@@ -1633,7 +1633,7 @@ play "*6"
 ` Những đường nét... Anh có thể nhìn thấy những đường nét.@
 `"[line=3]Kính mắt của anh đang đeo đấy, vậy tại sao lại như vậy?
 \
-(Màu đỏ)
+textcolor #ff0000
 br
 br
 br
@@ -1641,12 +1641,12 @@ br
 br
 ` [line=4][line=4][line=4]Anh di chuyển đầu mình.
 \
-Màu chữ trắng.
+textcolor #ffffff
 `"[line=4]Ai vậy?!"@
 ` Trong phòng chỉ có anh thôi.@
 ` Màu chữ đỏ.
 \
-(Hít thở sâu)
+textcolor #ff0000
 br
 br
 br
@@ -1656,11 +1656,11 @@ br
 br
 ` [line=4][line=4][line=4](Thở dài)
 \
-Màu chữ trắng.
+textcolor #ffffff
 ` Anh có thể nghe thấy ai đó đang thở.@
 ` Một âm thanh giống như hơi thở của một con chó hoang khát đạt đến tai anh.
 \
-(màu đỏ)
+textcolor #ff0000
 br
 br
 br
@@ -1672,7 +1672,7 @@ br
 br
 ` [line=4][line=4][line=4]*thở gấp* [làn da=4] *thở gấp* [làn da=4] *thở gấp* [làn da=4]
 \
-Màu văn bản trắng (`#ffffff`)
+textcolor #ffffff
 `"[line=4][line=2]['Dòng số 2']"@
 ` Anh xoay đầu được.@
 ` Nhưng không ai đứng sau anh.@
@@ -1681,7 +1681,7 @@ Màu văn bản trắng (`#ffffff`)
 ` No.@
 ` Đó là một ảo giác, nhưng nó là thực.
 \
-Màu chữ đỏ đậm.
+textcolor #ff0000
 br
 br
 br
@@ -1696,14 +1696,14 @@ br
 br
 ` [line=4][line=4][line=4]*Anh không nghe thấy tiếng vang nào trong phòng.*
 \
-Màu chữ trắng.
+textcolor #ffffff
 ` Tiếng vọng này... nó không vang lên trong phòng của anh.@
 ` Nó đang vang lên bên trong đầu anh.@
 ` Nếu như vậy,
 ` Sự thở này... chắc chắn là từ bên trong não bộ của anh.
 ` (Anh)
 \
-Màu chữ đỏ đậm
+textcolor #ff0000
 br
 br
 br
@@ -1711,7 +1711,7 @@ br
 br
 br
 ` *Pant* [line=4] *Pant* [line=4] *Pant* [line=4]
-Màu chữ trắng
+textcolor #ffffff
 ` *Pant* [line=4] *Pant* [line=4] *Pant* [line=4]
 \
 ` Trộn lẫn.@
@@ -1721,7 +1721,7 @@ br
 bg #9c0120,notrans,0
 bg "bg/bg_40e",notrans,0
 bg "bg/ima_19",notrans,0
-Loop âm thanh se_02
+waveloop se_02
 ` Điều này là gì?@
 ` Chuyện này là sao vậy?@
 ` Anh sắp hòa hợp với anh ấy.@
@@ -1770,7 +1770,7 @@ bg "bg/ima_20",notrans,0
 ` Anh đang bị nghiền nát.@
 ` Tường tan chảy. Ý nghĩa có thể giải quyết. Bản thân có thể giải thích. Sự mượt mà của tính thẩm thấu thay đổi. Thời gian chuyển tiếp. Quan sát cuộc sống và chức năng thực thi. Tay thiếu ngón út. Mắt không có đầu. thảm cuộn tròn. Một lần. Hai lần. Ba lần. 777 lồng. Quả bóng vỡ. Ước mơ không thể thực hiện. Luật không thể bảo vệ. Hợp đồng tử thần. Độc dược và mật ngọt. Đỏ và sau sinh. Đèn thủy ngân và đèn côn trùng. Ánh sáng khúc xạ đến vô số chiều không gian. Cá bơi, hát ở đáy đại dương. Công cụ, công cụ, công cụ. Hướng tới những ngôi sao vô nghĩa, vô ý chí nhân tạo vô tận. Tốt hơn cả ước muốn. Một bản thân khác. Xâm thực đại dương sâu thẳm. Sự mâu thuẫn từ sinh vật vi mô. Quan sát chi tiết một quark. Từ chối mọi thứ. Hình dạng không hình dạng. Một phôi thai trong quan tài. Anh nguyền rủa và chúc mừng sự tồn tại của họ.
 \
-màu đỏ
+textcolor #ff0000
 br
 br
 br
@@ -1780,12 +1780,12 @@ br
 br
 ` Ha ha ha ha.
 \
-Màu chữ trắng.
+textcolor #ffffff
 `"[line=4]Chuyện gì vậy?"@
 br
 ` Sự ngừng nghỉ là sự phớt lờ. Trái đất đang chảy máu. Trao đổi máu của em cho độc tố và em sẽ đạt được sự bất tử. Hoa hồng. Hoa hồng. Hoa hồng. Hoa hồng. Vinh quang của em không kéo dài mãi mãi. Con đường đến đền thờ Lohan, ăn chiếc bánh này. Sự lây lan của sự ô uế. Tháng Tư xa hơn tháng Năm, sự đảo ngược chi tiết, thức tỉnh trong đền thờ cân bằng vượt qua rắn và bọ cạp song sinh. Lớp vỏ của trái cây thối rữa. Búp bê cháy làm từ nhựa. Cần sa của Quân đoàn. Xay và ma sát. Mặt trời và mặt trăng. Con đường dốc va chạm. Nữ và sư tử. Đồng hồ cát bị vỡ. Mây cuộn tròn. Anh là không ai sánh kịp. Cát rơi xuống. Tám năm trước. Bị giết. Bị giết. Bị giết. Bị giết. Bị giết. Bị giết. Bị giết. Nii-san đã giết!
 \
-Màu chữ đỏ.
+textcolor #ff0000
 br
 br
 br
@@ -1795,9 +1795,9 @@ br
 br
 ` "Ha ha ha... Ha ha ha ha ha ha ha ha ha!"
 \
-Màu chữ trắng.
+textcolor #ffffff
 `"[line=2][line=4]Im đi!"@
-Lắc 2,100 lần.
+quakex 2,100
 wave se_10
 playstop
 bg "bg/bg_40a",notrans,0
@@ -1827,11 +1827,11 @@ bg "bg/bg_40a",notrans,0
 ` Một lần nữa.@
 ` [line=3]Một lần nữa, nếu cơn đau đầu không giải thích được ấy trở lại. Theo tốc độ này, trí óc anh chắc chắn sẽ vỡ trước khi cơ thể anh làm điều đó.
 \
-Chơi âm thanh se_02
+waveloop se_02
 bg #9c0120,notrans,0
 bg "bg/bg_40e",notrans,0
 bg "bg/ima_19",notrans,0
-Màu chữ đỏ
+textcolor #ff0000
 br
 br
 br
@@ -1841,7 +1841,7 @@ br
 br
 ` "Ha ha ha ha"
 \
-Màu chữ trắng
+textcolor #ffffff
 `"[line=4]Chừng nào?"@
 bg "bg/bg_40e",crossfade,400
 br
@@ -1852,18 +1852,18 @@ br
 ` Quá trình hợp nhất giữa anh và hắn đã bắt đầu.@
 ` Đó là tám năm trước. Ngày mùa hè trắng. Rỗng không những vỏ chuồn chuồn. Con kiến đang no nê. Sự ra đi đột ngột của ai đó. Lực hấp dẫn kéo đến nỗi đau cực độ, máu chảy ròng ròng, rơi vào trạng thái sốc. Khu vực tầm nhìn thu hẹp lại. Chỉ có bóng tối. Chỉ có màu đỏ. Cuộc khủng hoảng về cái chết. Sự phá thai. Cắt bỏ người phụ nữ đang sinh khi đứa bé vẫn còn trong bụng, trong thế giới đói khát này, nếm thử thịt của những em bé.
 \
-(Màu đỏ)
+textcolor #ff0000
 br
 br
 br
 ` Vô nghĩa tất cả.
 \
-(Màu trắng)
+textcolor #ffffff
 br
 br
 `"[line=3]Dừng lại."
 \
-Màu đỏ đậm
+textcolor #ff0000
 br
 br
 br
@@ -1880,7 +1880,7 @@ br
 br
 ` Anh sẽ hòa làm một với em.
 \
-Màu trắng
+textcolor #ffffff
 wavestop
 `"[line=5] Ch!"@
 bg #000000,lshutter,400
@@ -1908,7 +1908,7 @@ br
 ` Với đôi mắt vẫn còn nhắm lại, anh ngủ thiếp đi.
 \
 !w3000
-**Dòng âm thanh lặp lại se_11**
+waveloop se_11
 ` [line=3]"Ôi, anh đã đến đây một lần nữa."@
 br
 ` Dưới tầng hầm tối tăm. Mùi ẩm mốc lan tỏa từ bóng tối.@
@@ -2037,21 +2037,21 @@ bg #000000,crossfade,400
 ` Người đó xuất hiện trong giấc mơ của anh.@
 ` Người đó biết anh, những thần kinh của họ hòa quyện với anh.@
 ` Người giết người mỗi đêm.@
-(Màu đỏ)
+textcolor #ff0000
 ` "Điều này là gì?"@ Bạn chưa chịu thừa nhận sao?@
-(Màu trắng)
+textcolor #ffffff
 `"... Thừa nhận đi, điều gì?"@
-(Màu đỏ)
+textcolor #ff0000
 ` Anh là em.@
-Màu chữ trắng.
+textcolor #ffffff
 `"Không thể nào."@
-Màu chữ đỏ.
+textcolor #ff0000
 ` "Bạn giống anh đấy."@
-Màu chữ trắng.
+textcolor #ffffff
 `"Không... Anh vẫn bình thường."@
-Màu chữ đỏ.
+textcolor #ff0000
 ` "Trong một thời gian dài, em đã mất trí rồi."@
-Màu chữ trắng.
+textcolor #ffffff
 `"... Anh đã nói không đấy!"
 \
 playstop
@@ -2261,7 +2261,7 @@ br
 \
 playstop
 !w4000
-[hình nền #cmo_19], l, his, 11a, 11
+phase "bg/cmo_19",l,his,11a,11
 bg "bg/bg_40a",crossfade,400
 bg #000000,notrans,0
 bg "bg/bg_40a",crossfade,800
@@ -2495,33 +2495,33 @@ bg "bg/bg_40a",notrans,0
 ` Nếu việc nhìn thấy làn da cô ấy gần gũi và ngửi thấy hương thơm nhẹ nhàng của cô ấy khiến anh muốn có tất cả cô ấy, thì anh chẳng khác gì hắn ta.
 \
 waveloop se_02
-màu chữ #ff0000
+textcolor #ff0000
 ` Vì vậy anh nói chúng ta giống nhau.@
-màu chữ #ffffff
+textcolor #ffffff
 `"Lại nữa[line=3]"@
-Màu chữ đỏ đậm
+textcolor #ff0000
 ` Vì anh và anh là một người.@
-Màu chữ trắng
+textcolor #ffffff
 `"[line=3]Im đi!"@
-Màu chữ đỏ đậm
+textcolor #ff0000
 ` Đúng vậy, chúng ta giống nhau, cũng như anh bị giam cầm suốt thời gian này, anh cũng vậy.@
-Màu chữ trắng
+textcolor #ffffff
 `"[line=3]Im lặng đi."@
-Màu chữ đỏ rực.
+textcolor #ff0000
 ` Trong căn phòng này, anh bị giam cầm suốt đời.@
-Màu chữ trắng.
+textcolor #ffffff
 `"[line=3]Không thể thoát khỏi nơi tù đày này."@
-Màu chữ đỏ rực.
+textcolor #ff0000
 ` Anh không thể rời khỏi ngục tối này mãi mãi.@
-Màu chữ trắng.
+textcolor #ffffff
 `"[line=3]Đó là sự thật."@
-Màu chữ đỏ rực.
+textcolor #ff0000
 ` Nơi bí mật vĩnh cửu...!@
-Màu chữ trắng.
+textcolor #ffffff
 `"Anh nói, im đi!"
 \
 wave se_10
-Lắc đầu 2,5 lần.
+quakex 2,50
 ` Anh đập đầu vào tường.@
 ` Tiếng nói ngừng lại.@
 ` ... Nhưng như một cái giá, ý thức của anh mờ dần.@
@@ -2750,7 +2750,7 @@ br
 wave se_01
 `"Xin lỗi Shiki-sama...!"
 \
-[line=2] Động đất với cường độ 2,200.
+quakex 2,200
 bg "bg/bg_40a",lcartain,800
 play "*2"
 ` *hít vào khò khè* *hít vào khò khè* *hít vào khò khè* *hít vào khò khè*
@@ -2851,7 +2851,7 @@ br
 `"[line=6]Đi đi!"
 \
 bg "bg/bg_40a",notrans,0
-Hai, mười
+quakex 2,10
 wave se_10
 `"Kyaa!"@
 ` *Nhập nhằng*
@@ -2944,7 +2944,7 @@ bg "bg/bg_40a",crossfade,400
 br
 ` "[line=5]Huh?"
 \
-Lắc đầu 2,100 lần.
+quakey 2,100
 wave se_05
 ` "Cơ thể anh rơi xuống giường."@
 ` Anh không thể đưa bất kỳ sức mạnh nào vào những chuyển động của mình.@

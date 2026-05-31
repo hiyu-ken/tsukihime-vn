@@ -1,4 +1,4 @@
-[line=9]
+phase "bg/bg_11c",l,cel,09b,9
 bg #000000,notrans,0
 bg "bg/ima_01",crossfade,800
 play "*9"

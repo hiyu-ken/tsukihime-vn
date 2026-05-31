@@ -71,10 +71,18 @@
   },
   "vi": {
     "locale": "vi-VN",
-    "display-name": "🇻🇳 Tiếng Việt",
-    "authors": "Codex + Antigravity (local)",
+    "display-name": "Tiếng Việt",
+    "authors": "Codex local",
     "dir": "./vi-codex",
-    "last-update": "2026-06-01",
+    "last-update": "2026-06-01-hallucination-fix",
+    "fallback": "en-mm"
+  },
+  "vi-codex": {
+    "locale": "vi-VN",
+    "display-name": "Tiếng Việt (vi-codex)",
+    "authors": "Codex local",
+    "dir": "./vi-codex",
+    "last-update": "2026-06-01-hallucination-fix",
     "fallback": "en-mm"
   }
 }

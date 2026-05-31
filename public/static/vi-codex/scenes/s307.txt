@@ -1,4 +1,4 @@
-(Hiển thị hình nền)
+phase "bg/ima_02",l,cel,12a,12
 bg "bg/bg_18a",crossfade,400
 ` Căn phòng bỗng chốc trở nên trống trải và cô tịch làm sao khi vắng bóng Ciel-senpai tại chốn này.@`
 ` Đã hơn bảy giờ sáng rồi.@
@@ -93,7 +93,7 @@ br
 ` [line=14]Nhịp đập!
 \
 br
-Lắc lư 4,100 lần
+quakex 4,100
 `"[line=3]Chúa ơi!"@
 br
 ` [line=3]"Điều gì vậy? Đầu tôi đau quá!"@
@@ -108,7 +108,7 @@ bg "bg/bg_18e",crossfade,1500
 ` Nó đau. Tôi chưa bao giờ cảm thấy nỗi đau như thế này trước đây.@
 ` Đầu tôi... Đầu tôi như đang bị đánh bằng một cái búa.
 \
-2,100 rung chuyển
+quakey 2,100
 `"[line=3]Ôi trời...!"@
 ` Tôi cố đứng yên, nhưng cơ thể tôi run rẩy.
 ` Nếu tình trạng này tiếp diễn, nó sẽ khiến tôi tan vỡ.@
@@ -120,7 +120,7 @@ bg "bg/bg_18e",notrans,0
 \
 bg #000000,notrans,0
 bg "bg/bg_18e",notrans,0
-Cảm giác rùng mình lan tỏa khắp cơ thể.
+quakey 2,100
 `"[line=5]Gi!"@
 ` Cơ thể tôi co giật.@
 ` Nó đau. Liệu nó có bao giờ ngừng lại không?
@@ -128,7 +128,7 @@ Cảm giác rùng mình lan tỏa khắp cơ thể.
 !w2000
 bg #000000,notrans,0
 bg "bg/bg_18e",notrans,0
-Cảm giác rùng mình tăng lên mức 3,100.
+quakey 3,100
 `"[line=4]Hya..."@
 ` Đau đến mức tôi phải đập đầu vào bàn.@
 br
@@ -141,7 +141,7 @@ br
 !w1000
 bg #000000,notrans,0
 bg "bg/bg_18e",notrans,0
-run rẩy dữ dội hơn 3,100 lần
+quakey 3,100
 `"[line=7],t"@
 ` Không thể chịu đựng được.@
 ` Tôi không thể ngất đi được.@
@@ -150,7 +150,7 @@ run rẩy dữ dội hơn 3,100 lần
 !w1000
 bg #000000,notrans,0
 bg "bg/bg_18e",notrans,0
-Run rẩy, tim đập mạnh 2.100 lần.
+quakey 2,100
 `"[line=3]Giúp tôi."@
 ` Nó đau.@
 ` Tôi cố gắng làm điều gì đó, tôi đâm tay mình bằng con dao.@
@@ -159,7 +159,7 @@ Run rẩy, tim đập mạnh 2.100 lần.
 !w1000
 bg #000000,notrans,0
 bg "bg/bg_18e",notrans,0
-Run rẩy, tim đập mạnh 3.100 lần.
+quakey 3,100
 `"[line=7]" @
 ` Ciel... Ciel-senpai, vẫn chưa trở lại. @ Tôi nhìn đồng hồ, đã không đến giờ trưa.@
 ` Chưa đầy một tiếng kể từ khi tôi thức dậy.
@@ -167,11 +167,11 @@ Run rẩy, tim đập mạnh 3.100 lần.
 !w750
 bg #000000,notrans,0
 bg "bg/bg_18e",notrans,0
-4,100 rung chuyển.
+quakey 4,100
 ` Có thêm hai mươi giờ nữa mới đến sáng mai. @ Chỉ biết điều đó gần như khiến tôi phát điên.
 \
 bg #000000,crossfade,800
-Waveloop se_02
+waveloop se_02
 !w5000
 monocro #0000ff
 bg "bg/bg_18e",crossfade,1500
@@ -573,7 +573,7 @@ ld c,"tachi/ark_t09",crossfade,400
 `"Không, tôi không đợi."@
 cl c,notrans,0
 \
-Độ rung đất: 4,375
+quakey 4,375
 bg #000000,crossfade,400
 wave se_05
 `"[line=4]Lao lên!"@

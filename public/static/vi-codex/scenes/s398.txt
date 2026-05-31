@@ -124,10 +124,10 @@ br
 br
 br
 br
-[màu văn bản #ff0000]
+textcolor #ff0000
 `      Tôi bắt đầu cảm thấy khó chịu.
 \
-Màu chữ trắng.
+textcolor #ffffff
 ` Tôi thở dốc.
 \
 ` Tôi nên đổi vị trí.@
@@ -144,17 +144,17 @@ br
 br
 br
 br
-Màu chữ đỏ.
+textcolor #ff0000
 `             Đừng nhìn!
 \
-Màu chữ trắng.
+textcolor #ffffff
 `"[line=4]Có một người đang đi một mình."@
 ` Tôi nhìn thấy một phụ nữ.@
 ` Lần này, không thể có sai lầm nào...@
 ` Thật tuyệt nếu đó là Akiha.
 ` (Đừng) Nhìn tôi.
 \
-Màu chữ đỏ.
+textcolor #ff0000
 br
 br
 br
@@ -164,7 +164,7 @@ br
 br
 `        Hãy giữ khoảng cách với tôi.
 \
-Màu chữ trắng.
+textcolor #ffffff
 ` Không, điều đó thực sự không quan trọng.@
 ` Một lần nữa.@
 ` [line=4]Một lần nữa, tôi muốn nếm trải cảm giác tuyệt vời đó.
@@ -189,7 +189,7 @@ br
 ` Người giả mạo.@
 ` Kẻ giả mạo này khiến tôi phẫn nộ.
 \
-Màu chữ đỏ đậm
+textcolor #ff0000
 br
 br
 br
@@ -199,7 +199,7 @@ br
 br
 `         Dừng lại việc nhìn tôi!
 \
-Màu chữ trắng
+textcolor #ffffff
 ` [line=4][line=4][line=4]*(hít sâu)* *Hít thở* *Hít sâu* *Hít thở*
 br
 ` Tôi đã tiêu hao năng lượng dư thừa.@

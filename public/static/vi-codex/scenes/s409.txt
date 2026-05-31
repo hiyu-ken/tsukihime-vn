@@ -820,7 +820,7 @@ bg #000000,crossfade,800
 ` Đồng thời, tôi nghe thấy tiếng quần áo được cởi ra.@
 ` Có lẽ cô ấy đã quen với điều này, vì cô dễ dàng cởi bộ đồng phục nữ hầu.
 \
-[line=129]
+eroskip 129
 bg "bg/bg_40d",crossfade,400
 play "*5"
 bg "event/his_h12",crossfade,800
@@ -2206,7 +2206,7 @@ wave se_01
 bg #9c0120,notrans,0
 bg "bg/bg_53b",notrans,0
 `"[line=4]¡G!"@
-Shiki-sama! Hisui vội vã đến gần tôi.
+quakey 3,100
 ld c,"tachi/his_t25",crossfade,400
 `"Tôi tách mình ra khỏi Hisui, người đang nhìn chằm chằm với vẻ lo lắng trên mặt, và hít một hơi sâu.@
 ` "... Ồ trời ơi. Tôi vừa được giúp đỡ bởi cậu, Hisui, nhưng những cơn đau đầu này vẫn chưa dứt."@

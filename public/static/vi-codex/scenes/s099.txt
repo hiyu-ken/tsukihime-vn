@@ -1,6 +1,6 @@
 monocro off
 playstop
-Loop âm thanh bắt đầu.
+waveloop se_02
 bg "bg/bg_29c",notrans,0
 ` Chưa, còn quá sớm. Nrvnqsr vừa đến.@
 ` Arcueid, chú ý của cậu ấy dần tập trung vào cô ấy, tôi chưa thể tấn công bất ngờ.@

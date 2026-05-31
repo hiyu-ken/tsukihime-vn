@@ -5,7 +5,7 @@ bg "bg/bg_40d",notrans,0
 ` Lẳng lặng trườn mình rời khỏi chiếc giường êm ái, tôi nhẹ nhàng rón rén cất bước ra khỏi phòng ngủ tự thân trong tịch mịch.
 \
 playstop
-Loop âm thanh se_11
+waveloop se_11
 bg #000000,lcartain,800
 bg "bg/bg_33d",lcartain,800
 bg #000000,lcartain,800

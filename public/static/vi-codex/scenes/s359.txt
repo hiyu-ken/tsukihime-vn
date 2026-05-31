@@ -285,7 +285,7 @@ wave se_01
 ` Cơn đau này / cảm giác như / một con dao bếp đâm vào ngực tôi.
 \
 bg #ffffff,crossfade,800
-Tiếng chuông reo vang, một âm thanh nhẹ nhàng và trong veo.
+waveloop se_02
 br
 br
 ` "Chíp chíp.@ Chíp chíp chíp chíp."@

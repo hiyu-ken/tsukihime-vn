@@ -1,7 +1,7 @@
-[hình nền - 47]
+phase "bg/bg_47",l,his,06a,6
 bg "bg/bg_40a",tshutter,400
-Chơi âm thanh vòng lặp se_02
-Lắc 2,10
+waveloop se_02
+quakey 2,10
 `"[line=7]Ôi!"@
 br
 ` Hộc[line=7]!@

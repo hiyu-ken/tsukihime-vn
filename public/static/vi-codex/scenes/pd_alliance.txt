@@ -32,7 +32,7 @@ br
 ` Shiki-san thở phào nhẹ nhõm.
 \
 wait 3000
-`  "Oh[line=5]"@
+` "Oh[line=5]"@
 ` Anh ta[line=3], không, kẻ giết người nằm bất động trên mặt đất.@
 ` Nhưng anh ta không chết. Tôi có thể cảm nhận được anh ta chỉ bị bất tỉnh.@
 ` Tôi không nhìn rõ từ xa, nhưng dường như Shiki-san đã đánh gục tên sát nhân cùng lúc cắt tay hắn.@
@@ -158,122 +158,122 @@ br
 ` Chắc cô ấy chẳng thèm để ý mình trông kỳ quái khi cứ kêu la những điều lạ lùng như vậy.
 \
 ` ......@
-` Chắc đây là số phận vậy.`@
-` Tôi suy nghĩ xem sẽ nói gì với cô ấy khi đi đến gần.`
+`  Tôi đoán đây là một số phận nào đó.@
+`  Khi tôi đi đến gần cô ấy, tôi đã suy nghĩ sẵn những gì mình sẽ nói.
 \
 wavestop pd/se08
 bg #000000,rshutter,800
 bg "bg/bg_27a",rcartain,800
 ld r,"tachi/akira_01",crossfade,800
-` Tôi gọi cô bé đến nơi vắng vẻ hơn.`@
-` “Ừm...... ”@
-` Cô bé nhìn tôi với vẻ lo lắng.`@
-` Cô ấy có mái tóc đen ngắn. Ngay cả trong khoảnh khắc ngắn ngủi, cô ấy cũng trông giống như một cậu bé.`@
-` Cô mặc những bộ quần áo đơn giản, trên cổ là một chiếc khăn lụa xinh xắn.`@
-` Có lẽ vì chiếc khăn quàng màu cáo mà tôi có cảm giác cô ấy trông như một con cáo nhỏ.
+`  Tôi gọi tên cô gái và đưa cô ấy đến một nơi ít người hơn.@
+`  "Ừm......"@
+`  Cô gái nhìn lên tôi với vẻ lo lắng.@
+`  Tóc cô ấy ngắn, màu đen. Trong khoảnh khắc, cô ấy thậm chí còn trông giống một cậu bé.@
+`  Cô ấy mặc trang phục đơn giản, và một chiếc khăn đẹp được quấn quanh cổ.@
+`  Có lẽ là vì chiếc khăn quàng có màu cáo, nhưng tôi có cảm giác cô ấy trông giống một chú cáo nhỏ.
 \
-` À, để tôi sửa lại.@
-` Tôi nói rằng cô ấy không phiền về việc nhìn kỳ quặc, nhưng dường như không phải vậy.@
-` Mặt cô ấy đỏ như táo và cơ thể vẫn run lên vì lo lắng.@
-` Cô ấy có đôi mắt khiêm nhường, do dự và thân hình nhỏ bé gợi nhớ đến một con vật nhỏ.@
-` Tôi thậm chí không thể tưởng tượng cô ấy có gan để hét lên giữa phố.
+`  Ồ, để tôi sửa lại.@
+`  Tôi nói rằng cô ấy không ngại nhìn kỳ lạ, nhưng dường như không phải vậy.@
+`  Mặt cô ấy đỏ bừng và cơ thể vẫn run rẩy vì lo lắng.@
+`  Cô ấy có đôi mắt e dè, do dự và thân hình nhỏ nhắn gợi nhớ đến một con vật nhỏ.@
+`  Tôi thậm chí còn không thể tưởng tượng ra rằng cô ấy có đủ can đảm để bắt đầu hét lên giữa phố.
 \
-` Ừm......@
-` Sau khi nói câu đó một lần nữa...@
+`  "Ừm......"@
+`  Sau khi nói lại câu đó...@
 br
-` 'Bạn là người định phạm tội?'@
+`  "Anh có phải là kẻ sắp thực hiện một vụ giết người không?"@
 br
-` Câu hỏi của cô thật sâu sắc.
+`  Câu hỏi của cô ấy đầy sâu sắc.
 \
 bg #000000,bshutter,800
 bg "bg/bg_59",tshutter,800
 waveloop pd/se23
 ld r,"tachi/akira_01",crossfade,800
-` Tôi phải nói là tôi giờ đây rất tò mò.@
-` Tôi quyết định đi nơi khác để nghe cô nói.
+`  Tôi phải nói rằng tôi giờ đây rất tò mò.@
+`  Tôi quyết định đi đâu đó khác để lắng nghe cô ấy.
 \
-` '...Ờm.@
-` Trường tôi không cho phép đến những nơi như thế này.@
-` Cô nhìn xung quanh trong khi nói lắp bắp.@
-` Cô ấy thật sự trông như một con cáo nhỏ.@
-` Vì người bảo vệ của cậu ở đây nên đừng lo lắng.@
-` Đừng chỉ đứng đó mà ngồi xuống đi.@
-` Cô ấy trả lời một cách dè dặt rồi ngồi xuống.
+`  "...Ừm...@
+`  Trường tôi không cho phép tôi đến những nơi như thế này."@
+`  Cô ấy nhìn xung quanh với vẻ do dự.@
+`  Cô ấy thật sự trông giống một con cáo nhỏ.@
+`  "Vì người bảo vệ của cô ở bên cạnh, đừng lo lắng về điều đó."@
+` Đừng chỉ đứng đó, hãy ngồi xuống.@
+`  Cô ấy trả lời một cách dè dặt và ngồi xuống.
 \
-` Bánh pie dâu tây ở đây thật ngon.@
-` Nhưng, cậu biết đấy, là đàn ông lại gọi bánh pie cho mình thì hơi xấu hổ phải không?@
-` Tôi luôn nghĩ đến việc sẽ đến đây với một cô gái và ăn bánh pie.@
-` Tôi chỉ tiếp tục nói chuyện với cô bé im lặng.@
-` Tôi không mong đợi bất kỳ câu trả lời nào.@
-` Tôi chỉ nói vì muốn vậy thôi.
+`  "Torta dâu tây ở đây thực sự rất ngon."@
+` Nhưng, bạn biết không, đáng xấu hổ đối với một chàng trai khi đặt một chiếc bánh cho riêng mình, phải không?@
+` Tôi luôn nghĩ về việc đến đây với một cô gái và thưởng thức một ít bánh."@
+`  Tôi chỉ tiếp tục nói chuyện với cô gái im lặng.@
+`  Tôi không mong đợi bất kỳ câu trả lời nào.@
+` Tôi chỉ nói chuyện vì tôi muốn vậy.
 \
-` "Tôi sẽ thanh toán hóa đơn."@
-` Nếu bạn muốn ăn gì, cứ gọi là tôi trả.@
-` Nhưng thật ra...@
-` Bạn không được phép vào quán cà phê? Bạn học ở đâu?@
-` [line=6]@
-` Cô bé chỉ cúi đầu nhìn tôi với vẻ lo lắng.@
-` À, phải.@
-` Làm cho cô ấy nói là như lôi kéo răng ra.
+`  "Tôi sẽ trả tiền bữa ăn."@
+` Nếu bạn có thứ gì đó muốn ăn, hãy tự do đặt hàng nó.@
+` Nhưng mà...@
+`   Bạn không được phép vào quán cà phê? Trường học của bạn ở đâu?@
+`  "[line=6]"@
+`  Cô gái chỉ cúi đầu và nhìn tôi với vẻ lo lắng.@
+`  Thật là mệt mỏi.@
+` Khiến cô ấy nói chuyện giống như kéo răng.
 \
-` Chắc bạn không phiền nếu ăn cùng tôi phải không?@
-` Tôi thích trà nên không nên mời thứ gì không phù hợp với khẩu vị của bạn.@
-` Tôi ra hiệu cho nhân viên và đặt hai bánh kem dâu tây to, hai tách trà chanh, một chiếc bánh ngọt đặc biệt tôi đã nhìn thấy khi vào cửa hàng, và một chiếc bánh kem việt quất.@
-` ......@
-` Sau đó.@
-` Cô ngưng che mặt bằng menu và nhìn tôi.@
-` Cô ấy có vẻ muốn cái gì đó.@
-` Tôi hiểu rồi.@
-` Không phải là điều để tự hào, nhưng tôi giỏi đọc những yêu cầu im lặng.
+`  "Ồ, cô không phiền nếu ăn cùng thứ với tôi sao?"@
+` Tôi thích trà, nên tôi không nên đặt món gì đó không phù hợp với khẩu vị của cô ấy.@
+`  Tôi gọi phục vụ và đặt hai chiếc bánh pie dâu tây to, hai ly trà chanh, một loại bánh tarte đặc biệt thu hút sự chú ý của tôi khi tôi bước vào cửa hàng, và một chiếc bánh cheesecake mâm xôi.@
+`  "... "@
+`  Rồi.@
+`  Cô ấy ngừng che giấu khuôn mặt sau thực đơn và nhìn về phía tôi.@
+`  Cô ấy trông như thể muốn điều gì đó.@
+`  Tôi hiểu rồi.@
+` Không phải là điều để khoe khoang, nhưng tôi giỏi trong việc đọc những yêu cầu im lặng.
 \
-` “Ờ, chờ chút.”@
-` Bạn có thể làm hai chiếc bánh cheesecake không?”@
-` Nhân viên phục vụ nói là được và quay lại.@
+`  "Ồ, chờ đã."@
+` "Có thể làm hai chiếc bánh cheesecake được không?"@
+`  Người phục vụ nói rằng không sao và rời đi.@
 br
-` “Ồ, bạn thích bánh cheesecake à?”@
-` “Vâng, tôi thích mâm xôi.”@
+`  "Ồ, bạn thích bánh cheesecake à?"@
+`  "Vâng, tôi thích dâu tây."@
 br
-` ......@
-` Cô ấy nói rất rõ ràng.@
-` Ừm.@
-` Giờ thì tôi cần tập trung và vào vấn đề chính.
+`  "......"@
+`  Cô ấy nói điều đó rất rõ ràng.@
+`  Ừm.@
+`  Đã đến lúc tôi tập trung và đi thẳng vào vấn đề chính.
 \
-` "Cho phép tôi hỏi... Vừa rồi là chuyện gì?"@
-` Anh không có vẻ như sẽ làm điều đó ngay cả khi chỉ là trò đùa.@
-` [line=3]Anh đúng.@
-` Tôi không giỏi nói đùa.@
-` Tôi đã nghĩ vậy.@
-` Đó không phải là một trò đùa buồn cười.@
-` À... Nó không phải?@
-` Không.@
-` Đây không phải là chủ đề vui vẻ. Trước hết, ánh mắt của cậu trông quá nghiêm túc.@
-` Tôi không biết tại sao, nhưng cậu rất nghiêm túc.@
-` Nếu ai đó có thể chỉ vào cậu và cười, thì đó cũng là một trò đùa tồi.@
-` ......@
-` Cô ấy nhìn tôi.@
-` Có vẻ cô ấy đang cố gắng để xem liệu tôi có đáng tin cậy hay không.
+`  "Hãy để tôi hỏi bạn... Mọi chuyện trước đó là về chuyện gì vậy?@"@
+`   Bạn không giống người sẽ làm điều như thế, ngay cả khi đó chỉ là một trò đùa."@
+`  "[line=3]Bạn đúng rồi.@"@
+` Tôi không giỏi nói đùa."@
+`  "Tôi nghĩ vậy. "@
+` "Đó không phải là một trò đùa vui vẻ."@
+`  "Ồ... Nó không phải sao?"@
+`  "Không. "@
+` "Nó không phải là một chủ đề dễ chịu. Và trước hết, đôi mắt của cậu nhìn quá nghiêm túc."@
+` "Tôi không biết tại sao, nhưng cậu thật sự nghiêm túc."@
+` "Nếu có ai đó chỉ vào cậu và cười nhạo, cũng sẽ là một trò đùa tệ hại."@
+`  "..."@
+`  Cô ấy nhìn chằm chằm vào tôi.@
+`  Có vẻ như cô ấy đang cố gắng xác định liệu tôi có đáng tin cậy hay không.
 \
-` Sự im lặng tiếp tục.@
-` Sau khi bánh pie dâu tây đến, tôi cắt nó làm đôi và ăn một miếng.@
-` Vỏ giòn và độ ngọt dịu dàng của dâu tây[line=3]chắc chắn nó tốt như quảng cáo.
+`  Sự im lặng vẫn tiếp diễn.@
+`  Sau khi chiếc bánh pie dâu tây đến, tôi cắt nó làm đôi và ăn một miếng.@
+`  Vỏ bánh giòn tan và vị ngọt nhẹ nhàng của quả dâu[line=3]thật sự ngon như quảng cáo.
 \
-` " [line=4]Ừm."@
-` "Gì?"@
-` Tôi dừng đũa và nhìn lại cô ấy.@
-` [line=3]"Tôi có thể thật sự"@
-` Vâng, tôi biết rồi.`@
-` "Cậu muốn nói là cậu có thể nhìn thấy tương lai, phải không?”@
-` [line=4]"Ờ?"@
-` Cô hít một hơi ngạc nhiên.`@
-` Chả là tôi chỉ nói bừa thôi mà, nhưng dường như tôi đúng rồi.`
+`  "[line=4]Ừm."@
+`  "Điều gì?"@
+`  Tôi dừng lại, cầm nĩa và nhìn lại cô ấy.@
+` "[line=3]Tôi thực sự có thể nhìn thấy tương lai" @
+`  "Ừm, tôi biết mà." @
+` "Anh muốn nói là anh có thể nhìn thấy tương lai sao?" @
+` "[line=4]Huh?" @
+`  Cô ấy ngạc nhiên. @
+`  "... Tôi chỉ nói ra điều đầu tiên xuất hiện trong tâm trí tôi, nhưng có vẻ như tôi đã đúng."
 \
-` "Ừ."`@
-` Cậu có thể cho tôi biết tên cậu là gì ít nhất không?@
-` Tôi là Tohno Shiki.`@
+`  "Ừm..." @
+` "Anh có thể ít nhất nói cho em biết tên anh được không?" @
+`   "Tên tôi là Tohno Shiki."@
 ld r,"tachi/akira_02",crossfade,400
-` [line=3]“Ồ.”@
-` Tôi là Seo Akira.`@
-` Cô ấy hẳn thật ngạc nhiên khi tôi đoán đúng. Cô gái`[line=3] Seo Akira`đang đỏ mặt trả lời.
+` "[line=3]Ừm, đúng vậy."@
+` "Tôi tên là Seo Akira."@
+` "[line=3]Cô ấy chắc hẳn rất sốc khi tôi đoán đúng. Cô gái Seo Akira đang đỏ mặt khi trả lời."
 \
 wavestop pd/se23
 bg #000000,crossfade,800
@@ -284,522 +284,522 @@ bg "bg/bg_59",crossfade,800
 waveloop pd/se24
 ld r,"tachi/fake_01",crossfade,800
 br
-` Cậu muốn nói là có thể nhìn thấy tương lai, phải không?@
+`  "Cô muốn nói rằng cô có thể nhìn thấy tương lai, phải không?"@
 br
-` Anh trai tôi gặp lần đầu tiên (tôi đoán tên là Tohno Shiki) nói như thể đó là điều tự nhiên nhất thế giới.`
+`  "Người đàn ông mà tôi gặp lần đầu tiên (tôi nghĩ tên anh ấy là Tohno Shiki) nói điều đó như thể đó là điều bình thường nhất trên thế giới."
 \
-` U-um, làm sao cậu biết...?@
-` Tôi nhìn Tohno-san một cách dè dặt.@
-` Tohno-san mỉm cười thật thân thiện.
-` Chỉ đơn giản là thế thôi.@
-` Tôi đã quen với những chuyện như vậy rồi.@
-` Giọng cậu rất dịu dàng.@
-` Tôi không chắc có nên nói thế này hay không, nhưng ấn tượng đầu tiên của tôi về cậu là giống như một chú chó con dễ thương.
+`  "Ừm... cậu biết... sao?"@
+`  Tôi e dè nhìn Tohno-san.@
+`  Tohno-san mỉm cười thân thiện.
+`  "Chỉ đơn giản là vậy."@
+` "Tôi quen với những chuyện như thế này."@
+`  Giọng cậu rất tử tế.@
+`  Tôi không biết nên nói thế nào, nhưng ấn tượng đầu tiên về cậu ấy là một chú chó con dễ thương.
 \
-` [line=5] 'Những chuyện như vậy'?@
-` Ừ.@
-` Nhưng, cũng phải nói, đây là lần đầu tiên ai hỏi tôi có định giết người không.@
-` Điều đó thật sự khiến tôi ngạc nhiên.@
-` Anh ta cười.@
-` Có phải vì kính mắt viền đen của anh ta không?@
-` Khi cười, anh ta giống như một đứa trẻ con vậy, và điều đó khiến tôi cảm thấy bình yên.@
-` À[line=4]@
-` Bỗng nhiên điều đó khiến tôi xấu hổ.@
-` Anh ấy không đến nói chuyện với tôi vì anh ta chỉ quan tâm đến tôi hay muốn tán tỉnh tôi.
+`  "[line=5]'Những chuyện như thế'?"@
+`  "Ừm.@
+` Nhưng, tốt, có lẽ đây là lần đầu tiên ai đó hỏi tôi có định giết người không.@
+`   Điều đó thực sự khiến tôi bất ngờ.@
+`  Anh ấy cười.@
+`  Có phải vì cặp kính đen khung của anh ta?@
+`  Khi anh ấy cười, anh ấy giống một cậu bé nhỏ và điều đó làm tôi bình tĩnh lại.@
+`  "Ồ[line=4]"@
+`  Bỗng nhiên điều đó khiến tôi xấu hổ.@
+`  Anh ấy không đến nói chuyện với tôi vì anh ấy chỉ quan tâm đến tôi hoặc cũng không cố gắng bắt chuyện với tôi.
 \
-` "Ờ... cậu có ngạc nhiên không?"@
-` Anh ta không tỏ ra ác ý khi gật đầu.@
-` "Tôi... xin lỗi!@
-` Tôi không biết đó là ai nên tôi nghĩ có lẽ cậu, Tohno-san.@
-` ... Huh?@
-` Có điều gì đó làm tôi khó chịu khi nói "Tohno-san"... Tôi tự hỏi đó là gì.
+`  "Ồ... anh có ngạc nhiên không?"@
+`  Anh ta gật đầu mà không hề có ác ý.@
+`  "Tôi-Tôi xin lỗi!"@
+` Tôi không biết là ai, nên tôi nghĩ bạn có thể là người đó, Tohno-san."@
+`  "...Hừm?"@
+` Có điều gì đó làm tôi bực mình khi nói "Tohno-san"... Tôi tự hỏi là chuyện gì.
 \
-` "Cậu không cần phải xin lỗi.@
-` Nhưng tôi mời cậu đến đây để muốn biết điều gì khiến cậu nói như vậy.@
-` Ừm... Tôi có thể gọi cậu là Akira-chan không?@
-` [line=6]@
-` Tôi gật nhẹ.@
-` ... Tôi cảm thấy một chút vui... nhưng cũng có phần ngượng nghịu.@
-` Đây là lần đầu tiên một người đàn ông khác cha tôi gọi tôi như vậy.@
-` Ừm, vì chúng ta không có nhiều thời gian nên tôi sẽ thẳng thắn vào vấn đề.@
-` Ừm, xin đừng cười.@
-` Điều đó sẽ cho phép tôi kết thúc câu chuyện nhanh hơn.
+`  "Không cần phải xin lỗi."@
+` Tôi mời cậu đến đây vì tôi muốn biết tại sao cậu lại nói như vậy.@
+` "Ừm... Có thể gọi tôi là Akira-chan được không?"@
+`  "[line=6]"@
+`  Tôi gật đầu lặng lẽ.@
+`  ... Tôi cảm thấy khá vui, nhưng cũng hơi ngượng ngùng.@
+` Đây là lần đầu tiên một người đàn ông khác ngoài bố tôi gọi tôi bằng cái tên đó.@
+`  "Ừm, tôi sẽ nói thẳng vào vấn đề vì chúng ta không có nhiều thời gian."@
+`   "Ừm, xin đừng cười."@
+` "Nó sẽ giúp tôi hoàn thành câu chuyện nhanh hơn."
 \
-` Được rồi.@
-` Ngắn gọn là tốt.@
-` ... Được rồi.@
-` Như bạn nói, có lúc tôi nhìn thấy tương lai của người ta, hoặc giống như một sự kiện sắp xảy ra.@
-` ... Ừm, chỉ xảy ra thỉnh thoảng thôi, nhưng tôi sẽ chóng mặt lắm, không thể mở mắt được, rồi một hình ảnh xuất hiện trong đầu. Nhưng tôi lại không nhớ nổi, nên chỉ có 'biết' thôi.
+`  "Được rồi."@
+` "Việc súc tích là tốt."@
+`  "... Được ạ."@
+` "Như bạn nói, có lúc tôi thấy được tương lai của người khác, hoặc chính xác hơn là một sự kiện sắp xảy ra gần đây.@
+`   "... À, nó chỉ xảy ra thỉnh thoảng, nhưng tôi sẽ bị choáng váng đến mức không thể mở mắt và một hình ảnh xuất hiện trong đầu tôi. Nhưng tôi không thể nhớ lại nó, nên tôi chỉ biết nó."
 \
-` Hm?@
-` Vậy là nghĩa là bạn không thể xem lại những gì mình đã nhìn thấy trong đầu, nhưng vẫn biết tất cả chi tiết, phải không?@
-` ... Tôi không biết vì tôi không phải là chuyên gia, nhưng có phải là tương lai không được định sẵn như quá khứ?@
-` Thông tin từng phần đều có, nhưng chắc hẳn bức tranh toàn bộ vẫn chưa được xác định.@
-` Tohno uống trà trong khi suy nghĩ với vẻ mặt khó chịu.@
-` [line=3]Huh?@
-` W-anh ấy là người như thế nào?@
-` Đó không phải là phản ứng bình thường.@
-` Thông thường mọi người sẽ cười.@
-` Điều này quá kỳ quặc.@
-` Nhìn tôi như thế thật kỳ quái.
+`  "Hừm?"@
+` "Ý là bạn không thể tái hiện lại trong tâm trí những gì mình đã thấy, nhưng bạn biết rõ mọi chi tiết, phải không?"@
+`   "Tôi không phải là chuyên gia nên không biết liệu điều này có phải vì tương lai không được xác định như quá khứ không?"@
+` "Thông tin dưới dạng các mảnh riêng lẻ đều có, nhưng chắc chắn bức tranh tổng thể vẫn chưa được quyết định."@
+`  "Tohno uống trà trong khi tự nhủ với vẻ mặt khó xử."@
+`  "[line=3] Hừ?"@
+`  "Anh ta là loại người nào vậy?"@
+`  "Đó không phải là phản ứng bình thường."@
+` "Thông thường, mọi người sẽ cười."@
+` "Điều này quá kỳ lạ."@
+` Nhìn tôi với ánh mắt đầy thiện chí thật kỳ lạ.
 \
-` Ờ...@
-` Bạn tin tôi?@
-` Chắc chắn chẳng ai tự dưng nghĩ ra chuyện như thế này chứ?@
-` Nói dối về việc có thể nhìn thấy tương lai là quá nguy hiểm.@
-` Trả lời thật trực tiếp ghê...@
-` ... Tôi hiểu rồi.@
-` Ừ nhỉ, đúng như vậy mà.@
-` Không ai lại nói dối về điều đó.@
-` Tohno-san gật đầu đồng ý.@
+`  "Ừm..."@
+` "Cô tin tôi à?"@
+`  "Không ai lại nói dối như vậy, phải không?"@
+` "Việc nói dối về khả năng nhìn thấy tương lai quá mạo hiểm."@
+`  "Một câu trả lời thẳng thắn quá..."@
+`  "... Tôi hiểu rồi."@
+` "Bây giờ mà nói ra, cô đúng đấy."@
+`   Không ai sẽ nói dối về điều đó."@
+`  Tohno-san gật đầu đồng tình.@
 `  ... Ừm.@
-` Tôi đoán là không có ý nghĩa gì khi nghi ngờ anh ta.
+` Tôi đoán việc nghi ngờ anh ta không có ý nghĩa gì.
 \
-` Vậy?@
-` Khi gặp chuyện như thế này thì làm sao?@
-` Xem trước tương lai hữu ích hơn nhiều so với xem quá khứ.@
-` Có điều gì tốt nào đến từ việc đó không?@
-` Shiki kỳ lạ hỏi tôi một câu kỳ lạ.`@
-` [line=3]"Ờ... cái gì?`@
-` "Điều tôi muốn hỏi là..."@
-` Nói cho coi, cậu thấy một tương lai mà người bạn của cậu sắp bị thương.`@
-` "Cậu có muốn giúp người bạn đó không?"
+`  "Vậy thì...@
+` Bạn sẽ làm gì khi một sự kiện như vậy xảy ra?@
+` Nhìn thấy tương lai hữu ích hơn nhiều so với nhìn thấy quá khứ.@
+` Có điều tốt đẹp nào đến từ nó không?"@
+`  Tohno-san, người luôn có những câu hỏi kỳ lạ, hỏi tôi một điều cũng không khác gì.@
+` "[line=3]Ừm... gì vậy?"@
+`  "Điều tôi muốn hỏi là..."@
+` "Hãy tưởng tượng bạn nhìn thấy một tương lai mà người bạn của mình sẽ bị tổn thương."@
+` "Bạn có cố gắng giúp họ không?"
 \
-` [line=3]Vâng.`@
-` Tôi đã làm được như vậy vài lần trước đấy.`@
-` Mọi người thường nói tôi xen vào chuyện của họ. Nhưng kết quả tương lai có thể thay đổi nếu nỗ lực thật nhiều.`@
-` Tohno nhìn ngạc nhiên, nhưng có vẻ cậu hiểu.`@
-` "Vâng."`@
-` "Ngươi là cô bé tốt đấy, Akira-chan."@
-` [line=8]" "`@
-` Tim tôi đập nhanh hơn.`@
-` Tohno-san nụ cười thật tốt bụng, nhưng thực ra nó trông thật [line=4]
+`  "[line=3]Vâng."@
+` "Tôi đã làm điều đó nhiều lần trước đây."@
+` "Họ thường nói tôi đang can thiệp, nhưng kết quả tương lai có thể thay đổi bằng nỗ lực."@
+`  Tohno nhìn có vẻ ngạc nhiên, nhưng có vẻ như cậu ấy hiểu rồi.@
+`  "Đúng vậy."@
+` "Em là một cô gái tốt, Akira-chan."@
+`  "[line=8]@
+`  Trái tim tôi đập nhanh hơn.@
+` [line=4]Nụ cười của Tohno rất tử tế, nhưng thực ra nó có vẻ...
 \
-` “...Nhưng tôi thấy.”@
-` Xem trước tương lai quả thật hữu ích.`@
-` Tôi nghĩ tương lai không thể thay đổi dù thế nào đi nữa.`@
-` Nó giống như con mèo trong hộp.@
-` Nếu cậu xác định nó đã chết, con mèo phải chết.`@
-` “... Cậu đúng.”@
-` Tôi nghĩ vậy lúc đầu.@
-` Nhưng tôi dần nhận ra nó khác.@
-` Tôi nghĩ mình không nhìn thấy tương lai của người, mà có thể đang nhìn thấy quá khứ của họ.@
-` [line=5]?@
-` Sau khi nghiêng đầu suy nghĩ một lát, Tohno-san gật đầu tỏ ra hiểu.@
-` “Ồ. Chắc cậu thông minh nhỉ?@
-` Tôi đoán cậu giỏi về khoa học.
+`  "... Nhưng, tôi hiểu rồi."@
+` Nhìn thấy tương lai quả thực rất hữu ích.@
+` Tôi nghĩ tương lai không thể thay đổi dù bằng mọi cách.@
+` Nó giống như con mèo trong hộp vậy.@
+` Nếu bạn xác định nó đã chết, con mèo phải chết theo.@
+`  "... Anh đúng rồi.@
+` Tôi nghĩ như vậy ban đầu.@
+` Nhưng tôi dần nhận ra rằng nó khác biệt.@
+` Tôi nghĩ tôi không nhìn thấy tương lai của người đó, nhưng có thể tôi đang nhìn thấy quá khứ của họ.@
+`  "[line=5]?"@
+`  Sau khi ngả đầu ngạc nhiên, Tohno-san gật đầu hiểu biết.@
+`  "Ồ. Cậu phải thông minh, phải không?@
+` Tôi cá là cậu giỏi khoa học."
 \
-` “Không phải đâu.@
-` Tôi không giỏi nhớ.@
-` “Thật vậy?@
-` Điều đó thật lạ. Có nghĩa là cậu đang tập trung vào điều gì khác chứ?@
-` Bối cảnh của người [line=3]... ừm, có thể gọi là lịch sử hoặc ký ức của họ. Nhưng nhìn thấy điều đó có nghĩa là cậu đang nhìn thấy quá khứ, phải không?@
-` Cái này cũng giống với trường hợp của cậu, nhưng cậu làm xa hơn.@
-` Cậu tính toán từ quá khứ mà cậu đọc và vạch ra 'dự đoán' tương lai.@
-` Đó là lý do tại sao cậu có thể thay đổi tương lai mà cậu nhìn thấy, khác với những người khác nhìn thấy.@
-` ... Điều đó thật tuyệt vời. Cậu khác hẳn một kẻ thất bại như tôi.
+`  "Đó không phải sự thật.@
+` "Tôi không giỏi nhớ."@
+`  "Thật sao?"@
+` "Đó là điều kỳ lạ. Có lẽ có nghĩa là bạn đang dùng khả năng của mình cho thứ gì đó khác."@
+`   "Bối cảnh của con người[line=3]này, tôi đoán bạn có thể gọi nó là lịch sử hay ký ức của họ. Nhưng khi nhìn thấy điều đó, có nghĩa là bạn đang nhìn vào quá khứ, phải không?"@
+` "Nó giống như vậy trong trường hợp của bạn, nhưng bạn đi xa hơn một bước."@
+`   "Bạn tính toán từ quá khứ mà bạn đọc và thực sự 'nhận biết' tương lai."@
+` "Đó là lý do tại sao bạn có thể thay đổi tương lai mà bạn nhìn thấy, khác với những dự đoán thông thường của người khác."@
+`   "... Điều đó thật tuyệt vời. Bạn khác xa so với một kẻ thất bại như tôi."
 \
-` “Ồ [line=3]vâng.@
-` Tôi nghĩ điều đó có lẽ là đúng.@
-` Sau khi tôi nói xong, tôi nhận ra mình đang nhìn Tohno-san một cách mơ hồ.@
-` ... Thật ngạc nhiên, sau cùng.@
-` Người này vừa đoán ra điều mà tôi chưa thể tìm ra được trong khoảng một năm.
+` "[line=3]Ừm, có lẽ là như vậy."@
+` Tôi nghĩ điều đó có vẻ đúng."@
+`  Sau khi nói thế, tôi nhận ra mình đang vô tâm quan sát Tohno.@
+`  ... Thật bất ngờ, cuối cùng.@
+`  Người này vừa đoán ra điều mà tôi đã cố gắng tìm hiểu trong khoảng một năm.
 \
-` "Vậy là lý do tại sao cậu lại hét lên những thứ đó lúc trước?"@
-` Nhưng đó là quá thiếu suy nghĩ.@
-` Tohno-san dùng nĩa chọc vào bánh cheesecake và đưa cả miếng vào miệng.@
-` "Cậu đã nhìn thấy tương lai của ai đó khi đang đi qua đám đông?"@
-` Tương lai mà cậu nhìn thấy trái ngược với đạo đức con người và nó là điều cậu không thể bỏ qua.@
-` Nhưng có quá nhiều người, nên cậu không thể biết tương lai của ai.@
-` Cậu đã hét lên mặc dù xấu hổ, nhưng những kẻ vô tâm không nghe cậu... Đó là câu chuyện của cậu phải không?"
+`  "Vậy là lý do cậu hét lên những thứ đó trước đây sao?"@
+` Nhưng hành động đó thật thiếu suy nghĩ."@
+`  Tohno đâm một miếng bánh cheesecake bằng thìa và nhai cả miếng vào miệng.@
+`  "Anh đã nhìn thấy tương lai của ai đó khi anh đi giữa đám đông đó.@
+` Tương lai mà anh nhìn thấy trái với đạo đức con người và nó không phải là điều mà anh có thể bỏ qua.@
+`   Nhưng có quá nhiều người, nên anh không thể xác định được thuộc về ai trong số họ.@
+`   Anh gọi to bất chấp sự ngượng ngùng, nhưng không ai trong số những kẻ vô tâm đó nghe anh... Đó là câu chuyện của anh, đúng không?"
 \
-` "Đúng thế, nhưng cậu sai.@
-` Cậu đã nghe tôi.@
-` "Chắc chắn rồi, bởi vì tôi là một người tò mò.@
-` Nhưng tôi muốn nói về người mà cậu nhìn thấy tương lai của họ.@
-` ... Dù sao đi nữa, tôi cá rằng người đó sẽ không để cho cậu yên.@
-` Biểu cảm của anh ta thay đổi từ hiền lành sang đáng sợ.
+`  "Đúng vậy, nhưng anh sai rồi.@
+` Anh đã lắng nghe tôi."@
+`  "Ồ, tôi không tính vì tôi chỉ là một người tò mò.@
+`   Nhưng tôi muốn nói về người mà anh nhìn thấy tương lai của họ."@
+` Dù sao đi nữa, tôi chắc người đó sẽ không cho phép bạn được như vậy."@
+`  Biểu cảm của anh ta chuyển từ thân thiện sang đáng sợ.
 \
-` "Ừm... Cậu có nghĩa là 'dù sao đi nữa'...?"@
-` "Tôi có nghĩa là, ngay cả khi người đó đã phạm tội hoặc chưa phạm tội.@
-` [line=8]@
-` Tim tôi đập nhanh hơn.@
-` Tohno-san biết.@
-` Anh ta biết những gì tôi đã nhìn thấy và nó sẽ mang lại điều gì cho tôi.
+`  "Ồ... Ý cậu là 'dù sao' thế nào...?"@
+`  "Tôi muốn nói, ngay cả khi người đó đã làm điều đó hoặc chưa từng làm."@
+`  "[line=8]"@
+`  Tim tôi lại nhảy một nhịp.@
+`  Tohno-san biết.@
+` Anh ấy biết những gì tôi thấy và những gì nó sẽ mang đến cho tôi.
 \
-` Đúng chứ?@
-` Cậu nói 'chúng ta không nên giết người'.@
-` Điều đó không đáng để nghe cho một người bình thường, nhưng đối với ai đã hoặc sắp làm điều đó thì lại không thể bỏ qua.@
-` [line=4]Nếu người đó sắp làm điều đó, tôi chắc chắn người đó sẽ tìm đến cậu ngay bây giờ.@
-` [line=5]!@
-` Tôi nhanh chóng nhìn xung quanh quán cà phê.@
-` ... Chờ tí, tôi không thể biết được ai có theo dõi tôi đến đây hay không.
+`  "Đúng không?@
+` Bạn nói rằng 'bạn không nên giết người.'@
+` Đối với một người bình thường, điều đó không đáng để lắng nghe, nhưng đối với ai đó đã hoặc sắp làm điều như vậy, nó không thể bị bỏ qua.@
+`   Nếu [line=4]người đó sắp làm điều đó, tôi chắc chắn rằng họ đang tìm cách đến gần bạn ngay lúc này."@
+` "[line=5]!"@
+`  Tôi nhanh chóng nhìn quanh quán cà phê.@
+`  ... Chờ đã, tôi sẽ không thể biết nếu ai đó theo dõi tôi đến đây.
 \
-` Và tôi nghĩ điều đó cũng tồi tệ ngay cả khi người đó chưa giết ai.@
-` Biểu diễn của cậu là thứ mà không dễ dàng quên được.@
-` Tôi không nghĩ cậu cần phải lo lắng, nhưng chúng ta phải nhớ về loại người này, phải không?@
-` Có khả năng sau khi giết người, người đó sẽ nhớ đến cậu và tìm kiếm cậu.@
-` Giọng điệu của anh bây giờ lạnh lùng.@
-` Tôi chắc chắn anh tức giận vì sự thiếu suy nghĩ của tôi.
+`  "Và tôi nghĩ điều này rất tệ ngay cả khi người đó chưa giết ai."@
+` Đó là màn trình diễn của bạn không dễ để quên.@
+`   Tôi không nghĩ bạn cần lo lắng, nhưng chúng ta phải nhớ rõ loại người này như thế nào, đúng không?@
+` Có khả năng người đó sẽ nhớ lại bạn sau khi giết ai đó và rồi tìm kiếm bạn.@
+`  Giọng nói của anh ấy giờ đây lạnh lùng.@
+`  Tôi chắc chắn anh ấy giận tôi vì sự thiếu suy nghĩ.
 \
-` Ừm.... Tôi, tôi....@
-` Cậu không nghĩ về điều đó?@
-` ......@
-` Tôi đã nghĩ về nó.@
-` Nhưng những gì tôi nhìn thấy thật kinh tởm đến nỗi...@
-` ... Vậy cậu quan tâm hơn đến những người có thể bị giết thay vì bản thân mình, phải không?@
-` Ôi trời ơi, loại chuyện đó là điểm yếu của tôi.@
-` Shiki nhìn lên trần nhà.
+`  "Ừm... tôi... tôi..."@
+`  "Bạn không nghĩ về điều đó à?"@
+`  "..."@
+`  Tôi đã suy nghĩ về điều đó.@
+` Nhưng những gì tôi thấy quá xấu xí đến mức...@
+`  "... Vậy nên bạn quan tâm hơn đến những người có thể bị giết thay vì bản thân mình, huh?@"@
+` "Ôi trời, thứ này là điểm yếu của tôi."@
+`  Tohno-san ngước nhìn trần nhà.
 \
-` T-Shiki[line=9]@
-` Tôi run rẩy khi nghe từ 'chết' phát ra từ miệng Shiki.@
-` Tôi là kẻ hèn nhát.@
-` Hình ảnh cái chết là điều khá phổ biến mà người ta thường thấy trong tương lai của họ...
+`  "T-Tohno-san" [line=9]@
+`  Tôi run rẩy khi nghe từ "giết" thoát ra từ miệng Tohno-san.@
+`  Tôi là kẻ hèn nhát.@
+`  Một tầm nhìn về cái chết là một điều khá phổ biến trong tương lai của con người...
 \
-` Tôi đoán không thể nào tránh được.@
-` Tôi muốn giúp cậu. Tôi sẽ chẳng phiền phức gì đâu, phải không?@
-` 'Huh? Giúp tôi...?'@
-` 'Đừng giả ngu.'@
-` Cậu định đi tìm kẻ giết người đó một mình phải không?@
-` [line=7]@
-` ... Anh ấy thật tuyệt vời.@
-` Người này trông bình tĩnh, nhưng thực ra rất đáng sợ.@
-` Tôi hoàn toàn sai khi gọi anh ấy là chú chó dễ thương.@
-` Tôi cá chắc anh ấy là sói khi tháo kính mắt.
+`  "Tôi nghĩ không có cách nào khác được."@
+` "Tôi muốn giúp cậu. Tôi sẽ không làm phiền, phải không?"@
+`  "Huh? Giúp tôi...?"@
+`  "Đừng ngốc nghếch."@
+` "Cậu định tự mình đi tìm kẻ giết người này, phải không?"@
+`  "[line=7]@
+`  "... Anh ấy thật tuyệt vời."@
+`  Người này trông bình tĩnh, nhưng thực ra rất đáng sợ.@
+`  Tôi sai lầm khi gọi anh ta là chú chó dễ thương.@
+` Tôi cá là khi anh ta tháo kính, anh ta sẽ trở thành một con sói.
 \
-` 'Ừm... Tôi rất muốn thế, nhưng không thể được đâu.@
-` Không thể nào người bình thường tìm kiếm ai đó mà họ thậm chí chưa biết mặt của họ.@
-` [line=4]Tôi không phải là người bình thường.@
-` Mắt của tôi không đặc biệt như của cậu, nhưng tôi cũng có mắt đặc biệt.@
-` Và vì chúng yếu ớt nên tôi có thể kiểm soát khả năng của chúng.@
-` Tôi nghĩ họ thích hợp để tìm kiếm người.@
-` [line=3]Không thể nào. Cậu có thể nhìn thấy tương lai được chứ?@
-` Hey now.@
-` Tôi vừa nói rồi mà, người ta không bao giờ nói dối về những chuyện như vậy.@
-` Chắc là mắt tôi không chắc chắn bằng của cậu.@
-` Tohno-san chạm vào kính râm của mình bằng ngón tay.
+`  "Ồ... Tôi mong điều đó, nhưng không thể đâu."@
+` Đối với những người bình thường, tìm kiếm ai đó mà họ thậm chí chưa từng thấy mặt là điều không thể.@
+`  "[line=4]Tôi không phải là người bình thường."@
+` Chúng không đặc biệt như của cậu, nhưng tôi cũng có đôi mắt đặc biệt.@
+` Và vì chúng yếu đuối, nên tôi có thể kiểm soát sức mạnh của chúng.@
+` Tôi nghĩ họ phù hợp để tìm kiếm người khác.@
+`  "[line=3] Không thể nào. Cậu cũng có thể nhìn thấy tương lai à?"@
+`  "Ồ, thế thôi."@
+` "Tôi vừa nói với cậu rồi, mọi người không nói dối về chuyện này."@
+` "À, đôi mắt tôi không chắc chắn như của cậu."@
+`  Tohno-san gõ nhẹ vào chiếc kính bằng ngón tay.
 \
-` ......@
-` Tôi hiểu rồi... Đó là lý do anh ta nghe tôi và tin những gì tôi nói.@
-` Nếu như vậy, anh ta chắc chắn là người đáng tin cậy và có thể tìm thấy người 'đó'.@
-` Khi tôi nhìn thấy tương lai, nó thường chỉ là một ngày sau.@
-` Tôi đã gần như từ bỏ rồi, nhưng nếu Tohno-san giúp tôi, tôi có thể thay đổi tương lai.
+`  "..."@
+`  "Tôi hiểu rồi... Có lẽ đó là lý do anh ấy nghe lời tôi và tin vào những gì tôi nói."@
+`  Nếu điều đó xảy ra, anh ta chắc chắn đáng tin cậy và có thể tìm thấy người đó.@
+`  Khi tôi nhìn vào tương lai, nó thường chỉ là một ngày sau.@
+`  Tôi đã từ bỏ một phần, nhưng nếu Tohno-san giúp tôi, có lẽ tôi có thể thay đổi tương lai.
 \
-` Vậy là đã quyết định.@
-` Tôi có một yêu cầu. Cậu có thể gọi tôi là Shiki-san được không?@
-` Tôi đã nói tên của mình rồi, vậy xin cậu gọi bằng tên.@
-` Ồ, được rồi.@
-` Nếu như vậy, Shiki-san[line=4]@
-` Khi tôi nói 'Shiki-san', tôi cuối cùng cũng nhận ra điều gì đã làm phiền tôi.
+`  "Vậy thì đã quyết định rồi."@
+` "Tôi đã nói tên tôi cho bạn nghe, nên hãy gọi tôi bằng tên của tôi."@
+` "Tôi đã nói rõ tên mình rồi, vậy nên hãy gọi tôi bằng tên."@
+`  "Ồ, được thôi."@
+` "[line=4]Nếu bạn nói vậy, Shiki-san."@
+`  Khi tôi gọi "Shiki-san", tôi cuối cùng cũng nhận ra điều đã làm phiền tôi.
 \
-` [line=4]Cậu có thể là anh trai của Tohno-Senpai không?@
-` [line=4]?@
-` Anh ta trông thật ngạc nhiên khi gục xuống vai.
+` "[line=4]Ồ, có thể cậu là anh trai của Tohno-Senpai?"@
+` "[line=4]Ồ?"@
+`  Cậu ấy trông thực sự ngạc nhiên khi gạt vai.
 \
-` Cứ tím... 'Anh trai Tohno'?@
-` Shiki nhìn tôi với vẻ ngạc nhiên.@
-` Vậy cô là học sinh trường Asagami Academy chứ...?@
-` Có. Tôi đang học năm thứ hai trung học cơ sở.@
-` Anh trai Tohno đã giúp tôi rất nhiều chuyện.@
-` [line=3]Ừm... nhưng Tohno Akiha học cấp ba rồi.@
-` Cậu học trung học cơ sở đúng không?@
-` Có. Nhưng trường chúng tôi, trung học cơ sở và cao trung không cách nhau xa lắm.@
-` Anh trai Tohno và tôi đều là thành viên hội đồng học sinh nên thường xuyên gặp nhau tại các cuộc họp.@
-` Shiki che mặt bằng tay.
+`  "Chờ đã... Tohno-senpai?"@
+`  Shiki-san nhìn tôi với vẻ ngỡ ngàng.@
+`  "Vậy thì cậu là học sinh của Học viện Asagami...?"@
+`  "Đúng vậy. Tôi đang học năm thứ hai trung học."@
+` "Tohno đã giúp tôi rất nhiều thứ."@
+` "[line=3]Và đúng là Tohno Akiha đang học trung học."@
+`   "Bạn đang học trung học, phải không?"@
+`  "Vâng. Nhưng các cấp trung học cơ sở và phổ thông ở trường chúng ta không bị tách biệt lắm."@
+` "Tohno và tôi đều là thành viên hội học sinh nên chúng tôi thường gặp nhau trong các buổi họp."@
+`  Shiki che mặt bằng đôi tay.
 \
-` Anh ta im lặng một lúc.@
-` ...... Ừm.@
-` Dạ?@
-` Có thể giữ bí mật này cho Akiha được không?@
-` À, là... tôi đã nói chuyện với cậu như thế này.@
-` Tôi không biết cô ấy sẽ làm gì với tôi nếu phát hiện ra tôi đã đón một cô gái ở thị trấn.@
-` Shiki nghe thật sự lo lắng.@
-` Tôi không sao đâu.@
-` Nhưng cậu có thấy anh trai Tohno khó đối phó lắm không?@
-` Câu hỏi vừa nãy bỗng nhiên ló vào đầu tôi nên đã lỡ miệng ra.
+`  Anh ấy im lặng trong một lúc.@
+`  "...... Ừm."@
+`  "Có chứ?"@
+`  "Làm ơn đừng nói với Akiha chuyện này nhé?"@
+` "Ừm... Tôi đã nói chuyện với cậu như vậy."@
+` "Tôi không biết cô ấy sẽ làm gì nếu phát hiện ra tôi đã đưa một cô gái về thị trấn."@
+`  "Shiki-san nghe có vẻ rất lo lắng."@
+`  "Tôi ổn thôi."@
+` "Nhưng cậu thấy Tohno-Senpai khó đối phó lắm à?"@
+`  Câu hỏi vừa lóe lên trong đầu tôi đã vô tình thoát ra.
 \
-` Ừm. Chả có gì lắm...@
-` Shiki trả lời mơ hồ.
+`  "Ừm. À, không, không thực sự..."@
+`  Shiki-san đưa ra một câu trả lời mơ hồ.
 br
-` Ôi, cậu muốn thử chiếc bánh này không?@
-` Cậu thích mâm hương, phải không?@
+`  "Ồ, cậu muốn miếng bánh này sao?"@
+` "Cậu thích dâu tây phải không?"@
 br
-` Anh đưa cho tôi đĩa như thể đang hối lộ.
+`  Anh ấy đưa cho tôi đĩa như thể đang hối lộ tôi.
 \
 bg #000000,crossfade,800
 bg "bg/bg_59",crossfade,800
 ld r,"tachi/fake_01",crossfade,800
-` Vậy tương lai mà cậu nhìn thấy là gì?@
-` Huh?@
-` Uhm, đó là... mmph[line=3]@
-` Ôi, cậu cứ ăn tiếp đi.@
-` Tôi thích cách cậu ăn. Không hề kiêng dè.@
-` Auu... Tôi không phải người thô lỗ như vậy đâu.@
-` Ừ, đúng rồi.@
-` Tôi không biết làm sao để trả lời câu đó.@
-` Tôi lau miệng bằng khăn giấy và nhìn vào mắt anh.
+`  "Vậy thì, tương lai mà cậu nhìn thấy là gì?"@
+`  "Hả?!"@
+` "[line=3]Àm... àm... phm..."@
+`  "Anh có thể tiếp tục ăn thôi.@"@
+` "Tôi thích cách anh ăn. Không có sự do dự nào."@
+`  "Ồ... Tôi không phải là người thô lỗ như thế."@
+`  "Đúng vậy, em nói đúng."@
+`  "Tôi không biết phải phản ứng ra sao với điều đó."@
+`  "Tôi lau miệng bằng khăn và nhìn sâu vào đôi mắt anh ấy."
 \
-` … Những gì tôi thấy chỉ là những mảnh vỡ.@
-` Tôi thấy một vài người nằm trong bồn máu và một người có khuôn mặt đáng sợ đang cầm dao.@
-` Bóng tối quá nên không thể nhận biết được địa điểm.@
-` Nhưng tôi chỉ thấy một người mỗi lúc, vì vậy tôi nghĩ họ không bị giết ở cùng một nơi.@
-` Một người mỗi lúc, hả?@
-` Vậy tổng cộng có bao nhiêu người?@
-` ... Có ba người.@
-` Người đầu tiên là một cô gái tầm tuổi tôi. Cô ấy rám nắng với mái tóc nhuộm dài khoảng thế này.@
-` Shiki-san im lặng hỏi tôi tiếp tục.
+`  "...Những gì tôi thấy chỉ là những mảnh vỡ.@"@
+` "Tôi đã nhìn thấy vài người nằm ngổn ngang trong vũng máu và một người có vẻ mặt đáng sợ cầm dao."@
+`   Nó rất tối, nên không có gì giúp tôi nhận diện địa điểm.@
+` Nhưng tôi chỉ nhìn thấy một người mỗi lúc, nên tôi nghĩ họ không bị giết cùng một nơi.@
+`  "Một người mỗi lúc, hả?"@
+` Vậy tổng cộng có bao nhiêu người?"@
+`  "... Có ba người.@
+` Người đầu tiên là một cô gái khoảng tuổi tôi. Cô ấy da rám nắng với mái tóc nhuộm dài đến đây.@
+`  Shiki-san lặng lẽ yêu cầu tôi tiếp tục.
 \
-` Người thứ hai khoảng ba mươi tuổi. Tôi nghĩ anh ta thấp hơn bạn một chút.@
-` Anh ta hơi mũm mĩm và có khuôn mặt hiền lành.@
-` Anh ta mặc quần áo đặc biệt... là bộ overalls màu vàng.@
-` À, cái đó rất đặc trưng.@
-` Chỉ có hai nơi quanh đây có bộ overalls màu vàng làm đồng phục.@
-` Shiki-san trả lời rồi tiếp tục hỏi thêm về người đàn ông này.@
-` Anh ta hỏi tôi về đặc điểm của anh ta, ấn tượng của tôi về anh ta, thậm chí là cách anh ta bị giết.
+`  "Người thứ hai khoảng ba mươi tuổi. Tôi nghĩ anh ta thấp hơn bạn một chút."@
+` Anh ấy mập mạp và có một khuôn mặt trông tử tế.@
+` Anh ấy mặc trang phục đặc trưng... quần áo màu vàng."@
+`  "Ồ, điều đó rất đặc trưng.@
+` Chỉ có hai nơi quanh đây sử dụng quần áo màu vàng làm đồng phục làm việc."@
+`  Shiki-san trả lời rồi tiếp tục hỏi thêm thông tin về người đàn ông này.@
+`  Anh ấy hỏi tôi về đặc điểm của anh ta, ấn tượng của tôi với anh ta, và thậm chí cả cách anh ta bị giết.
 \
-` ... Tôi hiểu.@
-` Tôi không nghĩ mình có đủ manh mối, nhưng việc tìm kiếm anh ta sẽ đáng giá.@
-` Ê...?@
-` Bạn định đi tìm nạn nhân thứ hai?@
-` Ừ. Thực tế là tìm kiếm người sắp bị tấn công còn hữu ích hơn việc tìm kẻ giết người mà chúng ta chẳng biết gì về anh ta.@
-` Đó là đúng, nhưng...@
-` Được rồi, hãy kể cho tôi xem người thứ ba trông như thế nào.@
-` Bạn nên nói ra khi trí nhớ còn rõ ràng.
+`  "... Tôi hiểu rồi.@
+` Tôi không nghĩ mình có đủ manh mối, nhưng vẫn đáng để đi tìm anh ta."@
+`  "Hừ...?"@
+` "Cậu định đi tìm nạn nhân tiếp theo à?"@
+`  "Đúng vậy. Thực tế hơn là tìm kiếm ai đó có khả năng bị tấn công thay vì kẻ giết người mà chúng ta chẳng biết gì cả."@
+`  "Đúng là như vậy, nhưng..."@
+`  "Được rồi, kể cho tôi biết người thứ ba trông như thế nào."@
+` "Cậu nên nói với tôi khi ký ức vẫn còn tươi mới."
 \
-` [line=8]@
-` ... Mặc dù Shiki-san nói thế, nhưng ký ức của tôi sẽ không phai nhòa đi bao giờ dù thời gian trôi qua.@
-` Vì tôi chỉ nhớ nó bằng lời nói nên thông tin này sẽ không phai mờ.@
-` ... Chắc là vậy, nhưng tôi thấy hình ảnh chẳng mấy thú vị lắm.@
-` Tôi thích âm thanh hơn.@
-` Nghe một người bán hàng qua điện thoại có giọng nói hay cũng khiến tim tôi đập nhanh.@
-` ... Quay trở lại chủ đề chính.
+`  "[line=8]"@
+`  "Dù Shiki-san nói thế nào đi chăng nữa, ký ức của tôi sẽ không mờ nhạt dù bao lâu trôi qua."@
+`  Khi tôi chỉ có thể nhớ lại bằng lời nói, thông tin sẽ không phai mờ.@
+`  ... Dường như đó không phải là lý do duy nhất, nhưng tôi thấy hình ảnh không thực sự thu hút tôi.@
+`  Trong trường hợp của tôi, tôi bị thu hút bởi âm thanh.@
+` Trái tim tôi thậm chí còn nhảy lên nếu một người bán hàng qua điện thoại có giọng nói hay.@
+` ... Này, quay lại chủ đề chính.
 \
-` "Người thứ ba là một phụ nữ, nhưng cô ấy không có nhiều đặc điểm nổi bật."@
-` Tôi chỉ biết rằng cô ấy có mái tóc dài...@
-` ... Điều đó thật phiền toái.@
-` Trong trường hợp này, tôi không thể tìm kiếm cô ấy được.@
-` Shiki-san suy nghĩ với một biểu cảm khó khăn.@
-` "Có lẽ là không nên suy nghĩ quá nhiều."@
+`  "Ừm, người thứ ba là một phụ nữ, nhưng cô ấy không có nhiều đặc điểm nổi bật.@
+` Tôi chỉ biết rằng cô ấy có mái tóc dài..."@
+`  "... Điều đó thật đáng lo ngại.@
+` "Tôi không thể tìm kiếm cô ấy trong trường hợp này."@
+`  Shiki-san suy nghĩ với một biểu hiện khó xử.@
+`  "Ồ, tôi đoán là không có lợi gì khi suy nghĩ quá nhiều."@
 ` Vậy người này bị giết như thế nào?@
-` ... Cũng giống như trước.@
-` Chiếc tay và chân của cô ấy bị cắt đứt. Trong trường hợp này, cô ấy thiếu cả hai bàn tay.
+`  "... Giống như trước.@
+` Các chi của cô ấy bị cắt đứt. Trong trường hợp của cô ấy, cả hai bàn tay đều mất."
 \
-` ... Ừm... Người đầu tiên chỉ nằm trong một bồn máu, người thứ hai thiếu một cánh tay và một chân, còn người thứ ba thì thiếu cả hai bàn tay, à?@
-` Người này chắc chắn đang mang vũ khí nguy hiểm.@
-` Khó có thể chặt xác người trừ khi anh ta có một chiếc cưa hoặc thứ gì đó tương tự.@
-` ... Vậy thì anh ta không thể chỉ là kẻ giết người ngẫu nhiên.@
-` Kẻ sát nhân phải từ từ tháo rời xác người ở một nơi mà mọi người không nhìn thấy được.@
-` Shiki-san thì thầm điều gì đó nguy hiểm và hoàn toàn không phù hợp với khuôn mặt hiền lành của anh ta.
+`  "... Ừm... Người đầu tiên chỉ nằm trong một vũng máu, người thứ hai mất một cánh tay và chân, còn người thứ ba thì mất cả hai bàn tay, huh?@
+` Chắc chắn gã này đang mang theo một vũ khí nguy hiểm.@
+` "Sẽ rất khó cắt một sinh vật người ra trừ khi anh ta có một con dao hoặc thứ gì đó tương tự."@
+` "... Rồi hắn không thể chỉ là một kẻ giết người bừa bãi."@
+` "Kẻ giết người phải tháo rời cơ thể dần dần ở một nơi mà người khác không thể nhìn thấy."@
+`  "Shiki-san thì thầm điều gì đó nguy hiểm và hoàn toàn không phù hợp với vẻ mặt hiền lành của hắn."
 \
-` Vậy người đàn ông mà cậu gặp lần cuối là ai?@
-` Cậu nói anh ta cầm dao nhưng không chết sao?@
-` [line=3]Không.@
-` Anh ta chỉ đang cầm dao thôi.@
-` … Nhưng anh ta trông thật đáng sợ.@
-` Anh ta giống như kẻ sát nhân mà cậu thấy trong phim vậy.@
-` … Ôi. Tôi tự hỏi anh ta là ai đây?@
-` Vậy anh ta trông như thế nào?@
-` Ừm[line=3]@
-` Tôi nhìn xuống sau khi nhìn anh ta.@
-` … Tôi không thể nói được.@
-` Tôi nghĩ người đàn ông cầm dao trông giống Shiki-san.@
-` Nhưng người đàn ông cầm dao không đeo kính và tôi chắc chắn anh ta trẻ hơn Shiki-san.
+`  "Vậy thì chàng trai cuối cùng cậu thấy là ai?@
+` Cậu nói cậu ấy có con dao, nhưng cậu ấy không chết à?@
+`  "[line=3] Không.@
+` Chỉ là cậu ấy cầm một con dao thôi.@
+` ... Nhưng trông cậu ấy khá đáng sợ.@
+` Giống như kẻ giết người trong phim vậy.@
+`  "... Ồ, tôi tự hỏi chàng trai này là ai.@
+` Vậy, cậu ấy trông như thế nào?"@
+` "[line=3]Tôi nhìn xuống sau khi nhìn anh ấy.@
+`  ... Tôi không thể nói ra được.@
+`  Tôi nghĩ người cầm con dao trông giống như Shiki-san.@
+`  Nhưng người cầm con dao không đeo kính, và tôi chắc chắn anh ấy trẻ hơn Shiki-san.@
+` "Tôi không nhớ rất rõ."
 \
-` Tôi không nhớ rõ lắm.@
-` Nhưng tôi nghĩ anh ta có thể là kẻ sát nhân.@
-` Gì?@
-` Vậy kẻ sát nhân đã nhìn thấy mình trong gương sau khi giết những người đó sao?@
-` Ừm… Tôi không thể nhìn thấy những thứ bình thường như vậy.@
-` Tôi chỉ nhìn thấy những thứ bất thường và tất cả mọi người liên quan.@
-` Tôi không phải là người tham gia, chỉ là một người quan sát.@
-` [line=3]Tôi thấy.@
-` Vậy là tốt... À, khoan lại, không phải đâu.@
-` Anh không nhớ anh ta trông như thế nào, đúng không?@
-` Tôi lắc đầu.@
-` Shiki-san thở phào nhẹ nhõm.
+`  "Nhưng tôi nghĩ anh ấy có thể là kẻ giết người.@
+` "Chuyện gì vậy?"@
+`  "Không... không thể nào!"@
+` "Vậy nên kẻ giết người đã nhìn thấy chính mình trong gương sau khi hắn giết những người đó?"@
+`  "Ừm... Tôi không thể nhìn thấy những thứ bình thường như thế.@
+` Tôi chỉ nhìn thấy những thứ bất thường và tất cả mọi người liên quan."@
+` "Tôi không phải là một người tham gia, mà chỉ là một người quan sát."@
+`  "[line=3] Hiểu rồi."@
+` "Đó là tốt... Chờ đã, nó không tốt đâu."@
+` "Các bạn không nhớ vẻ mặt của hắn à?"@
+`  Tôi lắc đầu.@
+`  Shiki thở phào nhẹ nhõm.
 \
-` Có lẽ chúng ta chỉ có thể tiếp tục tìm kiếm.@
-` Tôi sẽ đi tìm người thứ hai bây giờ.@
-` Cậu nên...... Ừm, tôi nghĩ cậu không nên làm gì cả.@
-` Đây là một tên sát nhân sắp ra đời.@
-` Anh ta có thể đang theo dõi và quan sát cậu.@
-` !@
-` Tôi nhìn xung quanh một lần nữa.@
-` ... Dù vậy, tôi vẫn không thể xác định được tên sát nhân.
+`  "Chắc là chúng ta chỉ còn biết tiếp tục tìm kiếm thôi."@
+` Tôi sẽ đi tìm người thứ hai ngay bây giờ.@
+`   Bạn nên... Ừm, tôi nghĩ bạn không nên làm gì cả.@
+` Đây là một gã có vẻ sẽ trở thành kẻ giết người.@
+` Anh ấy có thể đã theo dõi và quan sát bạn từ lâu rồi."@
+`  "!"@
+`  Tôi lại nhìn quanh một lần nữa.@
+`  Ngay cả vậy, tôi không thể xác định được kẻ giết người.
 \
-` Rủi ro cho một cô gái đi một mình.@
-` Hãy để tôi đảm đương việc tìm kiếm, còn cậu hãy nghĩ về tương lai mà cậu đã nhìn thấy.@
-` Nhưng... Chẳng phải cũng nguy hiểm cho anh ta sao?@
-` Không đâu.@
-` Nếu tên sát nhân đang theo dõi chúng ta và nghĩ rằng tôi là đồng minh của cậu thì sẽ rất đơn giản.@
-` Tôi khá tự tin vào kỹ năng của mình, nên cậu không cần lo lắng.@
-` Shiki-san đứng dậy.
+`  "Đi một mình là điều nguy hiểm với một cô gái."@
+` Để tôi lo việc tìm kiếm, và cậu chỉ cần suy nghĩ về tương lai mà cậu đã thấy."@
+`  "Nhưng... Không phải cũng nguy hiểm với cậu sao?"@
+`  "Không.@
+` Nếu kẻ giết người đang theo dõi chúng ta và nghĩ rằng tôi ở bên cậu, mọi thứ sẽ đơn giản hơn.@
+` Tôi rất tự tin vào kỹ năng của mình, nên cậu không cần lo lắng."@
+`  Shiki-san đứng dậy.
 \
-` Nếu mọi chuyện tốt đẹp, tôi sẽ liên lạc với cậu ngày mai.@
-` Cậu có thể cho tôi biết số điện thoại của cậu được không?@
-` Ừm[line=3]uhm...@
-` Tôi đang nghỉ phép lúc này.@
-` Shiki dường như ngạc nhiên.@
-` Năm nay có một cái gì đó tôi muốn đến vào cuối năm, nhưng ký túc xá đang được sửa chữa.@
-` Mọi người đều trở về với gia đình của họ, nhưng nhà tôi xa lắm.@
-` Vì vậy tôi ở lại đây một mình cho đến khi công việc hoàn thành...
+`  "Tôi sẽ liên lạc với cậu vào ngày mai nếu mọi việc tiến triển tốt đẹp."@
+` "Cậu có thể cho tôi biết số điện thoại của cậu không?"@
+` "[line=3]Ừm... thực ra..."@
+` "Tôi đang nghỉ phép lúc này."@
+`  Shiki-san trông có vẻ ngạc nhiên.@
+`  "Có một sự kiện gì đó tôi muốn tham gia vào cuối năm, nhưng họ đang tái thiết ký túc xá năm nay. Mọi người đều trở về nhà, nhưng nhà tôi lại ở rất xa.@
+` Vì vậy tôi sẽ ở lại đây một mình cho đến khi công việc đó kết thúc..."@
+`   (Không có câu tiếp theo trong đoạn văn bản này)
 \
-` Ở lại đây... Cậu có nghĩa là cậu ở lại nhà bạn hay sao?@
-` Không, tôi ở khách sạn gần đây.@
-` Tôi đoán đã xảy ra chuyện gì đó ở đó hai tháng trước, nhưng nó thật rẻ.@
-` Tôi đã lên kế hoạch này từ khi biết mình có thể ở lại đây một tuần với giá như vậy.@
-` [line=3]Khách sạn[line=3]à, khách sạn đó.@
-` ?@
-` Shiki tái nhợt rồi lắc đầu.
+`  "Ở lại đây... Có nghĩa là cậu ở nhà bạn bè à?"@
+`  "Không, tôi ở khách sạn gần đây. "@
+` "Tôi đoán có chuyện gì đó xảy ra ở đó hai tháng trước, nhưng giá cả thực sự rẻ."@
+`   "Tôi đã lên kế hoạch từ khi biết mình có thể ở đây một tuần với mức giá này."@
+`  "[line=3]Khách sạn[line=3]Ôi, khách sạn đó à."@
+`  "?"@
+`  Shiki-san bỗng nhợt màu mặt, sau đó lắc đầu.
 \
-` Ừm, tôi ở phòng hai trên tầng mười một, nên tôi nghĩ cậu có thể gọi thẳng cho khách sạn.@
-` Tôi hiểu.@
-` Được rồi. Nếu tôi tìm ra điều gì, tôi sẽ liên lạc với cậu.@
-` Tôi sẽ trả tiền, nên cậu có thể ở lại đây bao lâu tùy thích.@
+`  "Ờm, tôi ở phòng hai trên tầng mười một, nên tôi nghĩ cậu có thể gọi trực tiếp cho khách sạn."@
+`  "Tôi hiểu rồi."@
+` "Được rồi. Nếu tôi tìm ra điều gì, tôi sẽ liên lạc với cậu."@
+`   "Tôi sẽ trả tiền bữa ăn, nên cậu có thể ở lại đây càng lâu càng tốt."@
 cl r,rshutter,1500
-` ... Shiki vẫy tay chào và rời đi.@
-` "Chắc cậu ấy thật kỳ lạ."@
-` Tôi nhìn anh qua cửa sổ.`@
+`  "... Shiki-san vẫy tay chào và rời đi."@
+`  "... Anh ấy quả thực rất kỳ lạ."@
+`  "Tôi quan sát anh ấy qua cửa sổ."@
 br
 wavestop pd/se24
 bg #000000,notrans,0
 bg #ffffff,notrans,0
 bg "bg/bg_59",notrans,0
 waveloop pd/se02
-` Vậy.`@
-` Bỗng nhiên tôi nhận ra.`
+`  Rồi.@
+`  Đột nhiên, tôi nhận ra điều đó.
 \
-` [line=8]"Agh"@
-` Ồ.`@
-` Mỗi tháng một lần thì cũng là kỷ lục rồi, nhưng hai lần một ngày ư? Tôi có đang lãng phí tài năng của mình không nhỉ [line=3]?`
+`  "Agh!" [line=8]@
+`  Wow.@
+` Nếu tôi có được nó một lần mỗi tháng, thì hai lần mỗi ngày là một kỷ lục mới. Có phải tôi đang sử dụng tài năng của mình ở những nơi sai không? [line=3]
 \
 bg #000000,notrans,0
 bg "bg/ima_14",crossfade,400
 br
 br
-` Trời tối đen như mực.`@
-` Bên cạnh một tòa nhà trống.`@
-` Một bức tường cao vút bên này.`@
-` Tôi nghĩ đó là phòng tập thể dục của trường.`@
-` Hai người đối mặt nhau.`@
-` Một là Shiki-san và một là cậu bé cầm dao.@
-` [line=3]Sau một hồi nói chuyện, họ tấn công lẫn nhau và`
+`  Đêm tối đen.@
+`  Bên cạnh một tòa nhà trống.@
+` Có một bức tường lớn ở một bên.@
+`  Tôi nghĩ đây là một phòng tập thể dục trong trường học.@
+`  Hai người đang đối mặt với nhau.@
+`  Một người là Shiki-san, còn người kia cầm con dao.@
+` [line=3]Sau một hồi trò chuyện, họ lao vào tấn công nhau và...
 \
 bg #ffffff,notrans,0
 bg "bg/bg_59",notrans,0
 wavestop pd/se02
-` Không thể nào.@
-` Shiki bị đâm...`@
-` Tôi ngạc nhiên với những lời mình vừa nói.`@
-` Nhưng chắc chắn là "tương lai".@
-` [line=9]"Shiki-san! "`@
+`  Không thể nào!@
+`  "Shiki-san bị đâm..."@
+`  Tôi ngạc nhiên trước lời nói của mình.@
+`  Nó chắc chắn là "tương lai".@
+` "[line=9]Akiha-san!"@
 bg #000000,rshutter,400
 waveloop pd/se08
-` Tôi chạy theo Shiki.`@
-` Nhưng tôi không tìm thấy anh đâu.@
-` , Dù tôi cố gắng tìm kiếm thật kỹ nhưng anh vẫn đâu có bóng dáng, nên tôi quay trở lại khách sạn mà không biết phải làm gì.`
+`  Tôi đuổi theo Akiha-san.@
+`  Nhưng tôi không tìm thấy cô ấy ở đâu cả.@
+`  Không kể tôi tìm kiếm chăm chỉ đến mức nào, cô ấy vẫn không xuất hiện, nên tôi quay lại khách sạn trong sự bối rối không biết phải làm gì.
 \
 wavestop pd/se08
 wait 2000
 bg "bg/bg_19d",rcartain,800
 play "*01"
-` [line=4]"À, vâng!"@
-` Tôi có thể gọi anh trai!`@
-` Tôi chợt nghĩ ra cách đơn giản khi trở lại.`
+` "[line=4]Ồ, đúng rồi!"@
+` "Tôi có thể gọi cho Senpai!"@
+`  Giải pháp đơn giản đến với tôi khi tôi trở lại.
 \
-` "Ừm... Số điện thoại của anh trai là..."`@
-` Tôi tìm thấy số điện thoại của cô trong danh bạ.`@
-` Hầu hết học sinh trung học đều biết số điện thoại của cô ấy, nhưng tôi cá là chẳng ai bao giờ gọi cho cô ấy.`@
-` Mọi người bảo chỉ có hai bạn cùng phòng là Souka và Hanei mới có thể nói chuyện với cô một cách tự nhiên.`@
-` Tôi nghĩ chẳng ai lại được tin tưởng và sợ hãi như cô ấy.`@
-` Trên trường, mọi người bảo chúng ta sung sướng vì được tin tưởng cô ấy mà không phải đối mặt với cô ấy.`
+`  "Ừm... Số điện thoại của Senpai là..."@
+`  Tôi tìm thấy số điện thoại của cô ấy trong sổ địa chỉ.@
+`  Hầu hết học sinh trung học đều biết số điện thoại của cô ấy, nhưng tôi dám cá là không ai từng gọi cho cô ấy cả.@
+`  Họ nói chỉ có những người bạn cùng phòng Souka và Hanei mới có thể trò chuyện thoải mái với cô ấy.@
+`  Tôi không nghĩ có ai khác được tin tưởng đến vậy nhưng lại bị sợ như cô ấy.@
+`  Những người học cao cấp nói chúng tôi may mắn vì có thể tin tưởng cô ấy, nhưng không phải đối mặt với cô ấy.
 \
-` [line=8]"U..."`@
-` Tôi nghĩ tôi đã gọi cô ấy quá nhiều rồi.`@
-` Nhưng cuộc sống của Shiki đang bị đe dọa, nên tôi không thể sợ hãi.@
-` Ừ a.`@
-` Tôi quen biết với anh trai của Tohno-senpai nổi tiếng.@
-` Thật may mắn! Tôi sẽ khoe với mọi người khi học kỳ mới bắt đầu[line=3]
+`  "Ồ chà"[line=8]@
+`  Tôi bắt đầu nghĩ có lẽ tôi không nên gọi cô ấy nữa.@
+`  Nhưng cuộc đời của Shiki-san đang bị đe dọa, nên tôi không thể sợ hãi.@
+`  ... Đúng vậy.@
+`  Tôi đã quen biết với anh trai của Tohno-senpai nổi tiếng.@
+` [line=3]Thật may mắn cho tôi. Tôi sẽ khoe với mọi người khi học kỳ mới bắt đầu.
 br
 wave pd/se09
-` "Đây là gia đình Tohno. Xin hỏi ai đang gọi?@
+`  "Đây là gia đình Tohno. Tôi có thể hỏi ai đang gọi?"@
 br
-` Ê!@
-` Tôi đoán tôi đã vô tình bấm nhầm số.
+`  Này!@
+` Tôi dường như đã vô thức gọi số điện thoại đó.
 \
-` "À... à[line=4]?@
-` Sự thật đột ngột khiến giọng nói của tôi ngừng hoạt động đúng cách.@
-` "Đây là gia đình Tohno.@
-` Hãy bình tĩnh.@
-` Tôi nghe thấy một giọng nói nhẹ nhàng qua điện thoại.@
-` "À[line=4]Vâng, tôi bình tĩnh rồi.@
-` Tôi hít một hơi thật sâu.@
-` "Tôi... xin lỗi vì gọi muộn quá!@
-` Tôi là Seo Akira. Tohno-senpai có ở đó không?
+` "[line=4]Ồ, ừm..."@
+`  Sự nhận thức đột ngột khiến giọng nói của tôi ngừng hoạt động đúng cách.@
+`  "Đây là gia đình Tohno."@
+` "Xin hãy bình tĩnh lại."@
+`  Tôi nghe thấy một giọng nói nhẹ nhàng từ điện thoại.@
+` "[line=4]Ừm, vâng, tôi rất bình tĩnh."@
+`  Tôi hít một hơi thật sâu.@
+`  "Tôi... xin lỗi đã gọi muộn như vậy!@
+` Tôi là Seo Akira. Có Tohno-senpai ở nhà không?"
 \
-` "Vâng. Xin chờ một chút.@
-` Sau một câu trả lời lịch sự và một khoảng lặng ngắn...@
-` "Vâng? Đây là Tohno.@
-` Tôi nghe thấy giọng nói quen thuộc mà tôi chưa bao giờ quen được.@
-` "U-um... Chào buổi tối, Senpai!@
-` ... Tôi ghét bản thân mình vì dễ bị hồi hộp quá.@
-` ...@
-` Chỉ có im lặng.@
-` Chắc chắn Senpai đang ngạc nhiên lắm đây.
+`  "Có chứ. Chờ một chút."@
+`  Sau một câu trả lời lịch sự và khoảng lặng ngắn...@
+`  "Có? Đây là Tohno."@
+`  Tôi nghe thấy giọng nói quen thuộc mà tôi chẳng bao giờ có thể quen được.@
+`  "Ừm... Chào buổi tối, Senpai!"@
+`  ... Tôi ghét điều mình dễ bị kích động như vậy.@
+`  "........................"@
+`  Chỉ có sự im lặng.@
+` Chắc chắn là Senpai đang ngạc nhiên.
 \
-` ...@
-` À, vâng!@
-` Là tôi, Senpai!@
-` Tôi hiểu.@
-` Thật bất ngờ khi cậu gọi tôi.@
-` Senpai nghe như đang vui vẻ đấy.@
-` ... Ugh@
-` Chắc chắn có điều gì đó ẩn sau những lời của cô ấy.@
-` Senpai có thói quen trêu chọc những người yếu đuối nên tôi thường bị trêu trong các cuộc họp.@
-` Tôi đoán với người khác thì cô ấy trông như đang chăm sóc tôi, nhưng khi cô ấy cười nhìn tôi, tôi lại thấy lạnh sống lưng.
+`  "................ Seo?"@
+`  "Ôi, vâng!@
+` Tôi, Senpai!"@
+`  "Tôi hiểu rồi.@
+` Thật bất ngờ khi cậu gọi tôi."@
+`  Senpai nghe có vẻ đang vui vẻ.@
+`  ... Ồ, không thích lắm.@
+` Tôi đoán có điều gì đó ẩn sau lời nói của cô ấy.@
+` Senpai có thói quen xấu là trêu chọc người yếu thế, nên tôi thường xuyên bị trêu chọc trong các buổi họp.@
+`  Có lẽ đối với mọi người, nó trông giống như cô ấy đang chăm sóc tôi, nhưng khi cô ấy mỉm cười với tôi, tôi cảm thấy rùng mình.
 \
-` Vậy mục đích của cậu là gì?@
-` Tôi nghĩ rằng bây giờ còn sớm để gửi lời chúc mừng năm mới.@
-` [line=3]À, um, không...um... Shiki-san đã về chưa?@
+`  "Vậy việc của cậu là gì?"@
+` Tôi nghĩ đây còn quá sớm để chúc mừng năm mới.@
+` "[line=3]Ờm... ừm... Không... Shiki-san đã về nhà chưa?"@
 wave pd/se12
-` Bụp!@
-` Nghe như cô ấy vừa đập vỡ máy nghe đài.
+`  Một tiếng nứt vang lên.@
+`  Nó gần như nghe thấy cô ấy giập chiếc máy nhận cuộc gọi.
 \
-` Seo@
-` [line=3]Cậu có nghĩa là 'Shiki-san'?@
-` Tôi về.@
-` Tôi nghe thấy giọng đàn ông từ phía sau Tohno-senpai.@
-` Ôi, Shiki-san về rồi!?@
-` Tôi đã đến!@
-` Senpai, tôi có thể nói chuyện với Shiki-san một chút được không!?@
-` Tôi có điều cần phải nói với anh ấy!@
-` Tôi hỏi vội vàng.@
-` Sau một tiếng thở dài, cô ấy dường như đã đưa điện thoại cho Shiki-san.
+`  "Seo."@
+` "Chị nghĩa gì bằng 'Shiki-san'?" [line=3]@
+`  "Tôi về rồi."@
+`  Tôi nghe thấy giọng nói của một người đàn ông sau lưng Tohno-senpai.@
+`  "Ôi, Shiki-san về rồi à!"@
+` Tôi đã đến rồi!@
+` "Senpai, tôi có thể nói chuyện với Shiki-san một chút được không?!"@
+` "Tôi có điều gì đó cần nói với cậu ấy!"@
+`  "Tôi hỏi khẩn trương."@
+`  "Sau một hơi thở dài, cô ấy dường như đưa điện thoại cho Shiki-san."
 \
-` Alo?@
-` [line=12]@
-` Tim tôi đập nhanh hơn.@
-` Có lẽ giọng nói của anh ấy có một sắc thái khác qua điện thoại, hoặc có lẽ tôi quá tập trung vào việc quan sát khuôn mặt của anh ấy trước đây...@
-` Nhưng[line=4]tôi nghĩ anh ấy có giọng nói rất hay.@
-` Tôi bị thu hút bởi âm thanh, và giọng nói của Shiki-san như một quả bóng ném nhanh với tốc độ 100 mph.
+`  "Chào?"@
+`  "[line=12]"@
+`  "Trái tim tôi nhảy lên khi nghe giọng nói đó."@
+`  "Có thể là do giọng nói khác trên điện thoại, hoặc có lẽ tôi quá tập trung quan sát mặt cậu ấy trước đó..."@
+` [line=4]Anh ấy có giọng nói hay lắm.@
+`  Tôi bị thu hút bởi âm thanh, và giọng của Shiki-san giống như một quả bóng nhanh bay với tốc độ 100 dặm/giờ.
 \
-` À-à-um, đây là Seo!@
-` Hm?@
-` Crap[line=3]tim tôi đập rất nhanh.@
-` À, tôi quên chưa nói một điều! Xin đừng đi lại vào ban đêm!@
-` Đặc biệt là xung quanh phòng tập thể dục, nhé!?@
-` Được rồi.@
-` [line=4]Nhưng mà "phòng tập" là phòng tập ở trường tôi à?`@
+`  "Ưm... đây là Seo!"@
+`  "Hả?"@
+` [line=3]Ôi không, tim tôi đập nhanh quá.@
+`  "À... có một điều tôi quên kể cho cậu! Đừng đi lang thang vào ban đêm nhé!"@
+` Đặc biệt là xung quanh phòng tập thể dục, được chứ?@
+`  "Được rồi."@
+` "[line=4]Nhưng mà, bạn nói là phòng tập thể dục ở trường tôi chứ?"@
 br
 wave pd/se10
-` Chín.
+`  "Ching."
 \
-` "Haa... haa... haa... Ồ, thật bất ngờ.""`@
-` Tôi gục xuống sàn và hít một hơi thật sâu.`@
-` "Nhưng... bây giờ ổn rồi..."`@
-` Shiki hiểu rồi, nên tôi đoán tương lai đó sẽ không xảy ra.`@
-` [line=3]Nếu có vấn đề về cuộc gọi này, thì tôi chẳng biết Tohno-senpai sẽ làm gì với tôi tại buổi họp hội đồng học sinh năm sau.`@
-` Chết người… tôi sợ năm sau…
+`  "Haa... haa... haa... wow, thật bất ngờ."@
+`  Tôi sụp xuống sàn và hít một hơi sâu khác.@
+`  "Nhưng... giờ thì ổn rồi..."@
+`  "Shiki-san hiểu rồi, nên tôi nghĩ tương lai đó sẽ không xảy ra."@
+` [line=3]Nếu có vấn đề về cuộc gọi điện này, thì đó là không biết Tohno-senpai sẽ làm gì với tôi trong buổi họp hội đồng học sinh năm sau.@
+` Ôi trời, tôi sợ năm sau lắm...
 \
 bg #000000,crossfade,800
 playstop
@@ -809,41 +809,41 @@ wait 2000
 bg #ffffff,crossfade,800
 bg "bg/bg_60",rshutter,800
 waveloop pd/se11
-` [line=9]"Người."@
-` Tôi thấy buồn khi nhìn thấy bài báo trong tờ báo sáng nay.@
-` 'Một người đàn ông, tìm thấy chết và bị tách rời!' "Nạn nhân là Nakayama Minato, làm việc cho Công ty vận tải Hashido..."`@
-` Công ty vận tải Hashido là nơi tất cả nhân viên đều mặc đồng phục màu vàng sáng.`@
-` Theo bài viết thì chưa nói rõ, nhưng nếu tìm thấy hắn bị tách rời tay chân thì chắc chắn là mất cả hai rồi.`
+`  "[line=9]Con người.""@
+`  Tôi cảm thấy khó chịu khi đọc bài báo trên tờ báo buổi sáng.@
+`  "'Một người đàn ông đơn độc, được tìm thấy đã chết và bị tháo rời!' Nạn nhân là Nakayama Minato, làm việc cho Hashido Transportation..."@
+`  Hashido Transportation là nơi tất cả nhân viên đều mặc đồng phục màu vàng rực rỡ.@
+`  Không có thông tin cụ thể trong bài báo, nhưng tay và chân của anh ấy chắc chắn đã bị mất nếu anh ấy được tìm thấy trong tình trạng bị tháo rời.
 \
-` "......Chán thật."`@
-` Cái kết như thế này ư? Sau khi tôi cố gắng hết sức rồi chia tay cô bé Seo Akira.@
-` "Nhưng mà đã xuất hiện trên báo rồi… Tôi thắc mắc Akira-chan có đang đọc nó không…"`@
-` Tôi thấy tội cho cô ấy nếu cô ấy đã làm.`@
-` Tôi nên nói cho cô ấy một cách nhẹ nhàng nhất có thể.`
+`  "...Chúa ơi."@
+`  Đây là cách mọi thứ kết thúc sau khi tôi cố gắng hết sức sau khi chia tay với cô gái Seo Akira đó.@
+`  "Nhưng đã xuất hiện trên báo chí rồi... Tôi tự hỏi Akira-chan có đang đọc nó không..."@
+`  Tôi cảm thấy thương cho cô ấy nếu đó là sự thật.@
+`  Tôi nên nói với cô ấy một cách nhẹ nhàng nhất có thể.
 \
-` "Nhưng người đầu tiên vẫn chưa được tìm thấy.`@
-` Tôi đoán cái thứ hai chết nhanh hơn.`@
-` Nghĩ lung tung cũng chẳng có ích.`@
+`  "...Nhưng điều đó có nghĩa là người đầu tiên vẫn chưa được tìm thấy. "@
+`   Tôi đoán người thứ hai đã bị giết một cách nhanh chóng hơn nhiều.@
+`  Không có ý nghĩa gì khi suy nghĩ về điều đó.@
 wave pd/se14
-` Tôi vứt tờ báo sáng nay ra và đi đến máy điện thoại công cộng.`@
-` Tôi gọi điện cho khách sạn rồi yêu cầu họ chuyển tôi qua phòng hai trên tầng mười một.`@
-` [line=3]"À, Akira-chan?"@
-` Tôi ở gần đây. Cậu có thể ra ngoài được không? Tôi có thể mua cho cậu bữa trưa.`
+`  Tôi vứt tờ báo buổi sáng tôi nhặt trước đó và đi đến một chiếc điện thoại công cộng.@
+`  Tôi gọi khách sạn và yêu cầu họ kết nối tôi với phòng hai ở tầng mười một.@
+`  "[line=3]Ôi, Akira-chan?@
+` Tôi ở gần đây. Có thể ra ngoài không? Tôi có thể mua bữa trưa cho cậu."
 \
 wavestop pd/se11
 bg #000000,crossfade,800
 bg "bg/bg_60",rshutter,800
 waveloop pd/se08
-` Seo Akira đến ngay lập tức.`@
-` Cô ấy trông như thể chưa ngủ ngon đêm qua.`@
+`  Seo Akira đến ngay lập tức.@
+`  Cô ấy trông như thể đã không ngủ ngon đêm qua.@
 ld r,"tachi/akira_03",rshutter,800
-` "Chào buổi sáng, Shiki! "`@
-` Cô ấy chào tôi thật năng động, đáng yêu mà, dù có vẻ mệt mỏi như vậy.`@
-` "Đi dạo một chút nào."`@
-` Tôi là người mời cậu đến, nên tôi sẽ đãi cậu món ngon.`@
-` [line=3]"Ồ, vâng, cảm ơn."`@
-` Chắc cô ấy đã rất yêu thích chiếc bánh từ hôm qua, nhìn tôi với ánh mắt đầy mong đợi.@
-` Tôi sẽ mời cô ấy ăn một bữa cơm Nhật lớn thật xứng đáng với kỳ vọng đó.`
+`  "Chào buổi sáng, Shiki-san!"@
+`  Thật đáng yêu khi cô ấy chào hỏi tôi đầy năng lượng bất chấp điều đó.@
+`  "Chúng ta đi dạo một chút."@
+` "Tôi là người mời bạn, nên tôi sẽ mua cho bạn một thứ gì đó ngon."@
+` "[line=3]Ừm... Cảm ơn bạn."@
+`  Có lẽ cô ấy rất thích chiếc bánh ngày hôm qua, vì cô ấy nhìn lên tôi với ánh mắt đầy hy vọng.@
+`  Tôi sẽ mời cô ấy một bữa ăn Nhật Bản thịnh soạn phù hợp với kỳ vọng đó.
 \
 bg #000000,crossfade,800
 wavestop pd/se08
@@ -851,187 +851,187 @@ wait 1500
 bg "bg/bg_59",crossfade,800
 waveloop pd/se25
 ld r,"tachi/akira_03",crossfade,800
-` Chúng ta kết thúc bữa ăn và đến quán cà phê giống như ngày hôm qua.`@
-` Khi chúng ta ngồi xuống lần đầu tiên, Akira-chan nói: 'Cháo nóng thật tuyệt vời vào một ngày lạnh!'@
-` Cô ấy dường như không thích ý tưởng này lúc đầu, nhưng có vẻ cô ấy thích nồi cá lóc.@
-` [line=8]@
-` Ừ.@
-` Bây giờ khi tôi đã bình tĩnh lại, tôi nên nói cho cô ấy về tin tức tôi tìm ra sáng nay.@
-` Nhưng không tốt nếu chỉ thẳng thừng nói rằng tương lai mà cô ấy nhìn thấy đã thành hiện thực.@
-` Tôi nên nói chuyện với cô ấy thêm một chút và để cô ấy thư giãn.
+`  Sau khi kết thúc bữa ăn, chúng tôi đến quán cà phê như ngày hôm qua.@
+`  Khi vừa ngồi xuống, Akira-chan nói, "Nước hầm chắc chắn rất ngon trong ngày lạnh!"@
+`  Ban đầu cô ấy không thích ý tưởng này, nhưng dường như cô ấy thích nồi câu cá.@
+`  "[line=8]"@
+`  Ừm...@
+` Sau khi bình tĩnh lại, tôi nên nói với cô ấy về tin tức tôi phát hiện ra vào buổi sáng nay.@
+`  Nhưng không tốt khi chỉ thẳng thắn nói với cô ấy rằng tương lai mà cô ấy nhìn thấy đã trở thành hiện thực.@
+` Tôi nên trò chuyện thêm một chút và giúp cô ấy thư giãn.
 \
-`  "Akira-chan.@
-` Tôi có thể hỏi cậu một điều không?@
+`  "Akiha-chan."@
+` "Tôi có thể hỏi bạn điều gì đó?"@
 ld r,"tachi/akira_02",crossfade,800
-`  "Uh[line=3]okay.@
-` ... Trên thực tế, bạn không cần phải hỏi tôi như vậy mỗi lần vì bạn lớn hơn tôi nhiều.@
-` "Thật sao?@
-` Vậy cho phép tôi hỏi. Bạn nghĩ gì về đôi mắt của mình?@
-` Bạn có thấy nó phiền phức không?@
-` Akira-chan nhìn tôi với vẻ ngạc nhiên trống rỗng.
+` "[line=3]Ừm..."@
+` "... Thực ra, không cần phải hỏi tôi như vậy mỗi lần vì bạn lớn hơn tôi rất nhiều."@
+`  "Thật sao?"@
+` "Vậy thì ta hỏi ngươi. Ngươi nghĩ gì về đôi mắt của mình?"@
+` "Không thấy phiền phức sao?"@
+`  "Akira nhìn ta với vẻ kinh ngạc trống rỗng."
 \
 ld r,"tachi/akira_01",crossfade,800
-` "Ừm. Tôi thấy nó khó chịu vào lúc nào đó, nhưng tôi chưa bao giờ nghĩ về nó như một sự phiền toái.@
-` Điều này đã là một phần của tôi kể từ khi tôi còn nhỏ.@
-` Tôi có buồn bã khi nhìn thấy những điều xấu xa, nhưng tôi có thể thay đổi tương lai nếu nó là một tương lai tồi tệ, phải không?@
-` Vì vậy, tôi nghĩ chúng có lợi ích của chúng.@
-` "Tôi hiểu.@
-` Bạn nhìn thấy quá khứ của ai như một kỷ niệm và sử dụng nó để dự đoán tương lai.@
-` Nhưng quá khứ đó chỉ là biến số được dùng để tính toán tương lai, vì vậy bạn không thể trực tiếp nhìn thấy quá khứ trừ khi đó là điều rất gần đây.@
-` … Vậy chắc chắn nghĩa là bạn có thể 'nhìn thoáng qua' tương lai mà không bị ảnh hưởng bởi quá khứ của người khác.
+`  "Ừm... Ta thực sự thấy nó khó chịu lúc nào đó, nhưng ta chưa bao giờ xem nó là một phiền toái.@
+` "Điều này đã trở thành một phần của ta từ khi còn nhỏ."@
+`   "Ta đôi khi cảm thấy chán nản khi chứng kiến những điều xấu xa, nhưng nếu tương lai trở nên tồi tệ, ta có thể thay đổi nó, phải không?"@
+` "Vậy nên, ta nghĩ chúng cũng có lợi ích nhất định."@
+`  "Hiểu rồi."@
+` Bạn nhìn thấy quá khứ của ai đó dưới dạng ký ức và sử dụng nó để dự đoán tương lai.@
+`   Nhưng quá khứ ấy chỉ là một biến số dùng để tính toán tương lai, nên bạn không thể nhìn thấy rõ quá khứ trừ khi nó rất gần đây.@
+`   ... Như vậy có nghĩa là bạn có thể "liếc nhìn" tương lai mà không bị ảnh hưởng bởi quá khứ của người đó.
 \
 cl a,crossfade,400
-` Đó là lý tưởng.@
-` Tương lai chỉ là kết quả bạn nhận được khi cộng thêm quá khứ và hiện tại.@
-` Vì vậy để nhìn thấy tương lai của người khác, bạn phải có kiến thức đầy đủ về quá khứ và hiện tại của họ.@
-` Để tính toán một điều gì đó như tương lai, bạn phải biết họ bằng cách bạn hiểu cuộc sống của chính mình.@
-` Nhưng có những bất tiện khi biết quá nhiều về quá khứ hoặc hiện tại của người khác.@
+`  Đó là lý tưởng.@
+`  Tương lai chỉ là kết quả bạn thu được từ việc cộng dồn quá khứ và hiện tại.@
+`  Để thấy tương lai của ai đó, bạn phải nắm rõ quá khứ và hiện tại của họ.@
+`  Để tính toán một điều gì đó là tương lai, bạn phải hiểu họ sâu sắc như bạn hiểu chính cuộc đời mình.@
+`  Nhưng có những bất tiện nảy sinh khi biết quá nhiều về quá khứ hoặc hiện tại của ai đó.@
 br
-` Ví dụ như sự riêng tư của người bị nhìn thấy.@
-` Ví dụ như sự thay đổi giá trị đối với người nhìn thấy nó.
+`  Thích sự riêng tư của người bị nhìn thấy.@
+`  Thích sự thay đổi giá trị đối với người đã nhìn thấy nó.
 \
 ld r,"tachi/akira_02",crossfade,400
-` "Shiki-san...?"@
-` "Bạn có nghĩa là gì?"@
-` "Ê?"@
-` À, cậu nghe thấy tôi rồi?@
-` Tôi chỉ đang nghĩ xem điều gì sẽ xảy ra nếu bạn chỉ có thể nhìn thấy quá khứ.@
-` Mắt của bạn tiện lợi được tạo ra để chỉ nhìn thấy tương lai. Nhưng tôi đang nghĩ xem thật khủng khiếp như thế nào đối với những người chỉ có thể nhìn thấy quá khứ.@
-` Đây là một ví dụ, nhưng giả sử bạn muốn sống ở một đất nước xa lạ.@
-` Nhưng bạn không thể làm được điều đó nếu muốn bảo vệ môi trường hiện tại của mình.@
-` Vậy giả sử bạn 'nhìn thấy' quá khứ của một người từng sống ở một đất nước xa lạ.
+`  "Shiki-san...?"@
+` "Ý cậu là sao?"@
+`  "Huh?"@
+` "Cậu nghe tôi rồi à?"@
+` "Tôi chỉ đang nghĩ nếu cậu chỉ có thể nhìn thấy quá khứ thì sẽ ra sao."@
+`   "Mắt của cậu được tạo ra một cách thuận tiện để chỉ nhìn thấy tương lai. Nhưng tôi đang nghĩ điều khủng khiếp như thế nào đối với những người chỉ có thể nhìn thấy quá khứ."@
+`   Đây chỉ là một ví dụ, nhưng giả sử bạn muốn sống ở nước ngoài.@
+` Nhưng bạn không thể làm điều đó nếu muốn bảo vệ môi trường hiện tại của mình.@
+`   Vậy nên, hãy tưởng tượng bạn "nhìn thấy" quá khứ của ai đó từng sống ở nước ngoài.
 \
-` Nói chung, giống như trộn lẫn quá khứ của bạn với quá khứ của người khác.@
-` Người nhìn thấy quá khứ chắc cảm thấy như mình đã trải qua nó, nghĩ rằng chẳng có gì khó khăn cả, và không gặp vấn đề gì khi chuyển đến một đất nước xa lạ.`
+`   Tốt lắm, tôi nghĩ nó giống như trộn lẫn quá khứ của bạn với quá khứ của người khác.@
+` Vì vậy, người đã nhìn thấy quá khứ sẽ cảm thấy như họ thực sự trải nghiệm nó, cho rằng không có gì khó khăn, và không gặp vấn đề khi di chuyển đến nước ngoài."
 \
 ld r,"tachi/akira_01",crossfade,400
-` "Ờ,[line=3] bỏ lại mọi thứ như nhà và bạn bè của cậu?"`@
-` "Vâng."@
-` Chúng ta tự nhốt mình vào một tập hợp hoàn cảnh, một môi trường cụ thể để bảo vệ những hoàn cảnh đó.@
-` Mọi người đều muốn phiêu lưu.`@
-` Mọi người đều có thể phiêu lưu nếu muốn.`@
-` Nhưng chúng ta không thể, và chúng ta cũng không muốn.@
-` Chúng ta tạo ra môi trường của chính mình.`@
-` Tất nhiên, phải là nơi chúng ta dễ sống.`@
-` Chẳng ai muốn rời bỏ môi trường quen thuộc để phiêu lưu vào một cuộc hành trình khó khăn đâu.`
+`  "Ừm... [line=3]để lại mọi thứ như nhà cửa và bạn bè sau lưng?"@
+`  "Đúng vậy."@
+` Chúng ta tự phong tỏa bản thân trong một bộ hoàn cảnh nhất định, một môi trường cụ thể để bảo vệ những hoàn cảnh đó.@
+`   Mọi người đều muốn trải qua một cuộc phiêu lưu.@
+` Và bất kỳ ai cũng có thể bắt đầu một cuộc phiêu lưu nếu họ thực sự mong muốn.@
+` Nhưng chúng ta không làm thế, và cũng không muốn làm vậy.@
+`   Chúng ta tạo ra môi trường của chính mình.@
+` Tự nhiên, nó phải là một nơi dễ dàng cho chúng ta sinh sống.@
+` Không ai muốn rời khỏi không gian thoải mái ấy để bắt đầu một cuộc phiêu lưu không dễ dàng đối với họ.
 \
-` Chúng ta như những sinh vật chạy trên đường đua tròn, sống dựa vào những thứ như mơ ước, tự do và tình yêu.`@
-` Xem này, nó giống như một con ngựa với một củ cà rốt treo trước mặt.`@
-` Nhưng cũng có người sẽ nhảy qua hàng rào và ra khỏi đường đua mà họ đang chạy vòng.@
-` Những người có thể nhìn thấy quá khứ và kẻ giết người mà cậu đã nhìn thấy trùng với những người này.@
-` Một kẻ trốn thoát khỏi bọn chúng phải chết.`@
-` Không có sinh vật nào tự nhân lên được, phải không?@
-` Không thể nhân lên thì nó đã không còn tồn tại nữa.`@
-` [line=3]Nhưng đâu có ý nghĩa khi cứ mãi nhân lên từ đầu@
-` "Có lẽ sinh vật đẹp hơn khi xa rời đám đông và chết một cách cô đơn."
+`   Chúng ta giống như những sinh vật chạy trên đường đua hình vòng cung, nuôi dưỡng bằng những thứ như giấc mơ, tự do và tình yêu lãng mạn.@
+` Hãy nhìn nó như một con ngựa đang chạy với một củ cà rốt treo trước mặt.@
+`   Có những người sẽ nhảy qua hàng rào và thoát khỏi đường đua mà họ đang vòng quanh.@
+`   Những người có thể nhìn thấy quá khứ và kẻ mà bạn đã thấy tương ứng với những người này.@
+`   Một sinh vật trốn thoát khỏi nhóm phải chết.@
+` Không có sinh vật sống nào có thể tự nhân giống, đúng không?@
+` Không thể nhân giống có nghĩa là nó không còn tồn tại nữa.@
+` [line=3]Nhưng không có ý nghĩa gì trong việc nhân giống ngay từ đầu.@
+` Có lẽ sinh vật sống đẹp hơn khi chúng rời xa nhóm và chết một cái chết cô đơn.
 \
-` [line=7]" "@
-` Akira-chan trả lời một cách mơ hồ.@
-` ... À, tôi đã lạc đề rồi.@
-` Nói về kẻ giết người thì...@
-` Cậu không đọc báo sáng nay à?@
+`  "[line=7]"@
+`  Akira-chan trả lời một cách mơ hồ.@
+`  ... À, tôi đã lạc chủ đề rồi.@
+`  "Này, nói về kẻ giết người thì...@
+` Cậu không đọc báo buổi sáng à?@
 ld r,"tachi/akira_02",crossfade,400
-` “Ôi[line=3]xin lỗi.”@
-` “Báo nói rằng họ tìm thấy một người chết đêm qua.@
-` Anh ta bị chặt xác và là người của công ty mặc đồng phục vàng như cậu nói.@
+` "[line=3]Ồ, không, xin lỗi."@
+`  "Báo hôm nay viết rằng họ tìm thấy một thi thể vào đêm qua.@
+` Thi thể bị cắt thành nhiều mảnh, và anh ta đến từ công ty mặc đồng phục màu vàng mà cậu nói đến."@
 ld r,"tachi/akira_01",crossfade,400
-` ![line=10]!@
+` "[line=10]!"@
 wave pd/se13
-` Lắc cái bàn, Akira-chan đứng dậy.@
-` ![line=12]!@
-` Mặt cô đỏ lên khi bắt đầu run rẩy. Dường như cô muốn nói điều gì đó nhưng không tìm thấy lời.
+`  Shiki lắc bàn, cô ấy đứng dậy.@
+`  "[line=12]@
+`  Mặt cô ấy ửng đỏ khi bắt đầu lắc lư. Có vẻ như cô ấy muốn nói điều gì đó, nhưng không tìm được từ ngữ.
 \
-` ... Ngồi xuống.@
-` Chúng ta không thể chắc chắn vì không có ảnh.@
-` Cách nói này hơi tệ, nhưng chúng ta nên chờ xem vì cảnh sát không phải là kẻ ngu xuẩn.@
-` Chỉ tội phạm duy nhất mà họ không tìm thấy hung thủ là những vụ 'không ai biết rằng một tội ác đã xảy ra'.@
-` Đó là định nghĩa duy nhất của một vụ án hoàn hảo.@
-` Đúng vậy.@
-` Mãi cho đến khi nó được báo cáo là một tội ác, hung thủ sẽ bị bắt.@
-` Tuy nhiên, tôi không thể nói gì về thời điểm đó xảy ra.
+`  "... Ngồi xuống."@
+` Chúng ta không thể chắc chắn vì không có ảnh nào.@
+` Đó là cách diễn đạt không tốt, nhưng chúng ta nên chờ xem vì cảnh sát không phải là người ngốc nghếch.@
+` Chỉ có tội phạm mà họ không tìm thấy thủ phạm là những vụ 'không ai thậm chí biết rằng một tội phạm đã được thực hiện'.@
+` Đó là định nghĩa duy nhất về một tội phạm hoàn hảo."@
+`  Đúng vậy.@
+` Cho đến khi nó được báo cáo là một tội phạm, kẻ giết người sẽ bị bắt.@
+`  Tôi không thể nói gì về thời gian nó sẽ xảy ra, tuy nhiên.
 \
-` “Ngồi xuống.@
-` Không phải lỗi của bạn.@
-` Người có lỗi là người đã làm điều đó, nên không có lý do gì để trách bạn.@
-` Bạn không nên hiểu lầm về điều đó.@
-` Nghe thử xem, nếu như không thể ngăn chặn được một việc khi biết trước thì mọi người đang xem tin tức về vụ giết người đều có tội.@
-` [line=16]`,@
-` Cô chỉ đứng đó im lặng.@
-` Sau một lúc, cô miễn cưỡng ngồi xuống.
+`  "Ngồi xuống."@
+` Bạn không có trách nhiệm cho điều này.@
+` Người chịu trách nhiệm là người đã làm điều này, nên không có lý do nào để tự trách mình.@
+` Bạn không nên nhầm lẫn về điều đó.@
+`   Này, nếu việc không thể ngăn chặn nó khi bạn biết về nó là một tội phạm, mọi người xem tin tức về vụ giết người đều sẽ bị kết tội."@
+`  "[line=16]" @
+`  Cô ấy chỉ đứng đó im lặng.@
+`  Sau một lúc, cô ấy ngần ngại ngồi xuống.
 \
-` "A~"@
-` Nếu bạn cứ đứng như vậy thì tôi không thể trở lại nơi này được.@
-` ...... Đúng vậy, nhưng cậu nói những điều thật đáng sợ.@
-` "Huh?"@
-` Cậu có nghĩa là gì khi nói là đáng sợ?@
-` ...... Không có gì.@
-` Nhưng tôi chắc chắn nghĩ rằng cậu đúng.@
-` Akira-chan tiếp tục thì thầm trong khi nhìn xuống.
+`  "Ừm... Thở một hơi sâu."@
+` "Tôi chẳng thể quay lại nơi này nếu cậu cứ đứng đó."@
+`  "...... Đúng vậy, nhưng cậu nói những điều rất đáng sợ."@
+`  "Ồ?!"@
+` "Anh định nói gì về những thứ đáng sợ vậy?"@
+`  "... Không có gì cả.@
+` Nhưng tôi chắc chắn cậu nói đúng.@
+`  Akira tiếp tục thì thầm khi nhìn xuống.
 \
-` "Shiki-san,"@
-` Tại sao người mà tôi thấy đã phạm tội giết người?@
-` "Đó là một vấn đề đáng lo ngại."@
-` Tôi không thể nói cho cậu... Chà, nếu phải trả lời thì tôi nghĩ nó giống như một cơn ham muốn tình dục.@
+`  "Shiki-san.@
+` Tại sao người mà tôi thấy đã giết người?@
+`  "Đó là một điều đáng lo ngại.@
+` Tôi không thể nói với cậu... Này, nếu tôi phải trả lời, tôi nghĩ nó giống như một ham muốn tình dục."@
 ld r,"tachi/akira_02",crossfade,400
-` [line=3]Cơn ham muốn[line=4]`@
-` Mặt cô đỏ bừng.@
-` Cô buồn nhưng điều đó không thay đổi thực tế là cô dễ xấu hổ.@
-` Nhưng!!@
+`  "[line=3]Ham muốn tình dục[line=4]"@
+`  Mặt cô ấy bỗng đỏ rực.@
+` Cô ấy buồn bã, nhưng điều đó không thay đổi thực tế rằng cô ấy dễ xấu hổ.@
+`  "Nhưng!!@
 ` Có thể kẻ giết người phải phạm tội để cứu ai đó.@
-` Tôi nghĩ có những hành động mà bạn không muốn làm, nhưng phải...
+` Tôi nghĩ có những hành động mà bạn không muốn làm, nhưng vẫn phải...
 \
-` Tôi chắc chắn có.@
-` Mọi người đều có lý do của mình.@
-` Nhưng khi đến lúc sống chết, nó sẽ trở về bản năng dục vọng.@
-` Điều gì làm nên con người là khả năng xây dựng những thứ.@
-` Đối với mọi thứ khác, chúng ta chỉ là động vật.@
-` Đối với động vật, sống chết chẳng là gì ngoài bản năng của chúng.@
-` Trước hết, lý trí con người sẽ không hoạt động khi chúng ta quyết định giết hay không.@
+`  "Tôi chắc chắn như vậy.@
+` Mọi người đều có lý do của họ.@
+`   Nhưng khi nói đến sự sống và cái chết, nó sẽ thu hẹp xuống ham muốn tình dục.@
+`   Điều làm nên bản chất con người chính là khả năng tạo dựng những thứ mới.@
+` Đối với mọi thứ khác, chúng ta chỉ là loài động vật.@
+`   Đối với động vật, sự sống và cái chết chỉ đơn giản là bản năng của chúng.@
+` Trước tiên, lý trí con người sẽ không hoạt động khi chúng ta quyết định giết chóc hay không.@
 ` Chúng ta được tạo ra như vậy.@
-` Điều đó chỉ là tự nhiên, phải không?@
-` Bởi vì nếu chúng ta dùng lý trí và suy nghĩ một cách hợp lý, chúng ta sẽ không thể giết người.@
-` Không bao giờ có gì thay đổi được, ngay cả khi chúng ta có lý do. Trong khoảnh khắc đó, lý trí của chúng ta không còn kiểm soát hành động của chúng ta.
+`   Đó chỉ là điều tự nhiên thôi.@
+` Vì chúng ta sẽ không thể giết người nếu sử dụng lý trí và suy nghĩ một cách hợp lý.@
+`   Dù cho có lý do gì, trong khoảnh khắc đó, lý trí sẽ không còn chi phối hành động của chúng ta.
 \
 ld r,"tachi/akira_01",crossfade,400
-` .........@
-` Tôi xin lỗi.@
-` Tôi nghĩ đó là một chút bi quan.@
-` Tôi từng trải qua điều như vậy trước đây, vì vậy tôi thẳng thắn về 'cái chết'.@
-` Nhưng, Akira-chan.@
-` Có nhiều lý do khiến con người giết người, nhưng tôi nghĩ tất cả đều bắt nguồn từ mong muốn 'thay đổi' bản thân.@
-` Ví dụ, giả sử bạn có một người mà bạn ghét cay ghét đắng.@
-` Nếu anh ta còn sống, tôi chỉ có thể ghét.@
-` Tôi không muốn như vậy.@
-` Thật khó chịu.@
-` Vì vậy, để trở thành người không ghét, tôi sẽ giết anh ta, nguyên nhân khiến tôi ghét.@
-` Lihat, ngay cả trong trường hợp này, lý do chỉ đơn giản là muốn thay đổi.
+`  "........."@
+`  "Tôi xin lỗi.@
+` Tôi nghĩ điều đó hơi bi quan.@
+` Tôi đã trải qua điều tương tự trước đây, nên tôi thẳng thắn về cái chết.@
+`   Nhưng, Akira-chan.@
+` Có nhiều lý do khiến con người giết chóc, nhưng tôi nghĩ tất cả đều xuất phát từ mong muốn 'thay đổi' bản thân.@
+`   Ví dụ, hãy tưởng tượng bạn có một người mà bạn ghét bỏ rất nhiều.@
+` Nếu anh ta còn sống, tôi chỉ có thể ghét bỏ.@
+` Tôi không muốn điều đó.@
+` Nó thật khó chịu.@
+` Vì vậy, để trở thành một người không ghét bỏ, tôi sẽ giết hắn, nguyên nhân của sự ghét bỏ này.@
+`   "Nhìn xem, ngay cả trong trường hợp này, lý do chỉ đơn giản là muốn thay đổi."
 \
-` … Vậy sao?@
-` Chỉ là một cái cớ thôi.@
-` Nếu bạn muốn thay đổi, bạn nên tìm những cách khác để làm điều đó.@
-` Tôi gật đầu.@
-` Lý luận của Akira-chan là tự nhiên.@
-` Trước hết, không ai sẽ chọn biện pháp cuối cùng là 'giết người' trừ khi họ hết cách để thay đổi bản thân.
+`  "... Vậy sao?@
+` Đó chỉ là một cái cớ.@
+` Nếu bạn muốn thay đổi, bạn nên tìm những cách khác để làm điều đó."@
+`  Tôi gật đầu.@
+`  Lập luận của Akira-chan rất tự nhiên.@
+`  Đầu tiên, không ai sẽ chọn giải pháp cuối cùng là "giết người" trừ khi họ thực sự cạn kiệt mọi cách để thay đổi bản thân.
 \
-` … Nhưng điều bạn nói cũng đúng.@
-` Tôi không biết chắc, nhưng thế giới xung quanh anh ta chắc chắn phải thay đổi sau khi anh ta giết người.@
-` Để mượn lời của bạn, 'môi trường sống' mà bạn đã nỗ lực tạo ra đã bị phá hủy bởi một hành động đó.@
-` [line=5]@
-` Tôi mỉm cười vì tôi rất vui.@
-` Cô bé này thật thông minh.@
-` Tôi nghĩ nếu cô ấy là em gái của tôi thì tôi sẽ yêu thương cô ấy từ tận đáy lòng.`
+`  "... Nhưng những gì cậu nói cũng có lý."@
+`   Tôi không biết, nhưng thế giới xung quanh cậu ấy chắc chắn sẽ thay đổi sau khi cậu giết ai đó.@
+`   Để mượn lời cậu, 'môi trường sống' mà cậu đã cố gắng tạo ra bị phá hủy bởi hành động đó."@
+`  "[line=5]"@
+`  Tôi mỉm cười vì tôi rất hạnh phúc.@
+`  Cô gái này thực sự thông minh.@
+`  Tôi tự nhủ rằng nếu cô ấy là chị gái tôi, tôi sẽ yêu cô ấy từ tận đáy lòng mình.
 \
 bg #000000,crossfade,800
 wavestop pd/se25
 bg "bg/bg_60",crossfade,800
-` Tôi chia tay Seo Akira như thể chỉ hôm qua.`@
+`  Tôi chia tay Seo Akira giống như ngày hôm qua.@
 br
-` Chắc cô ấy sợ, nên tôi bảo cô ấy đừng rời khỏi khách sạn.`@
-` [line=4]"Vậy thì người thứ ba là một phụ nữ chẳng có điểm đặc biệt nào, à?"`@
-` Tôi không biết nó dễ tìm hay khó tìm...@
-` Tôi cọ xát đầu mình.@
-` Khó lắm để tìm được người phụ nữ thứ ba chỉ với thông tin đó, nhưng Akira-chan cũng chẳng ở khách sạn mãi đâu.`@
-` Tôi nên đáp lại mong đợi của cô ấy nhanh nhất có thể.`
+`  Cô ấy có vẻ sợ hãi, nên tôi bảo cô ấy đừng rời khỏi khách sạn.@
+`  "Vậy thì [line=4]người thứ ba là một người phụ nữ không có đặc điểm nổi bật nào, phải không?"@
+` Tôi không biết việc tìm kiếm cô ấy có dễ hay khó...@
+`  Tôi gãi đầu.@
+`  Sẽ rất khó để tìm ra người phụ nữ thứ ba chỉ dựa vào thông tin này, nhưng Akira-chan sẽ không ở lại khách sạn đó mãi mãi.@
+`  Tôi cần đáp ứng kỳ vọng của cô ấy càng nhanh càng tốt.
 \
 bg #000000,crossfade,800
 wait 2500
@@ -1043,257 +1043,257 @@ br
 br
 br
 br
-` 'Nghe nói, nếu là tội lỗi khi không ngăn được nó khi đã biết trước thì mọi người xem tin về vụ giết người đều phạm tội rồi.'`
+`  "Nhìn này, nếu không ngăn chặn điều này khi biết đến nó là một tội phạm, mọi người xem tin tức về vụ giết người đều sẽ phải chịu trách nhiệm."
 \
-` Những lời ấy khiến tôi nghĩ Shiki là người đáng sợ.`@
-` Không, nghiêm khắc hơn là sợ hãi.`@
-` Tôi nghĩ rất nhiều người sẽ nhìn thấy tin tức về ai đó bị giết và cảm thông.`@
-` Nhưng họ sẽ quên đi chuyện đó vào ngày hôm sau, và ngay cả khi nhớ ra nó cũng chẳng có tác dụng gì nếu họ chỉ đơn thuần là "xem" thôi, nếu tất cả những gì họ làm chỉ là bày tỏ sự đồng cảm.@
-` Tôi nghĩ Shiki nói rằng cậu nên hành động nếu biết điều gì đó, bất kể nó là hiện tại hay quá khứ.`
+`  Những lời đó khiến tôi nghĩ Shiki-san là một người đáng sợ.@
+`  Không, cô ấy còn nghiêm khắc hơn thế.@
+`  Tôi nghĩ nhiều người sẽ đồng cảm khi nghe tin ai đó bị giết.@
+` Nhưng họ sẽ quên đi vào ngày hôm sau, và ngay cả khi nhớ lại, điều đó cũng không thay đổi được thực tế rằng họ chỉ đang "xem" và chỉ dừng ở mức đồng cảm.@
+`  Tôi nghĩ Shiki-san muốn nói rằng bạn nên hành động nếu biết về điều gì đó, dù nó xảy ra trong tương lai hay quá khứ.
 \
-` Vậy là...@
-` Cũng như anh ta đang nói rằng chúng ta là những sinh vật vô nghĩa chỉ tồn tại, khi chúng ta chỉ ngồi xem tin tức mà không làm gì để thay đổi điều mình tìm ra [line=5]`
+`  Điều đó có nghĩa là...@
+`  Nói như thể anh ta đang nói rằng chúng ta chỉ là những sinh vật vô nghĩa tồn tại, chỉ xem tin tức và không làm gì về những điều mình tìm hiểu ra[line=5]
 \
 wavestop pd/se11
 wait 2000
 bg #ffffff,crossfade,800
 bg "bg/bg_19b",crossfade,400
-` Khi tôi thức dậy, đã trưa rồi.`@
-` ".........."`@
-` Vì tôi thức trắng đêm cho đến khi bình minh ló dạng nên cơ thể muốn ngủ thêm.`@
-` "... Tôi phải đọc báo."`@
-` Tôi dụi mắt say giấc rồi gọi phòng để đặt bữa sáng và một tờ báo.`@
-` Tôi uống cà phê của khách sạn (SHIKI nghĩ tôi thích trà, nhưng thực ra tôi thích cà phê) và xem qua tờ báo.
+`  Khi tôi thức dậy, đã quá trưa rồi.@
+`  "............"@
+`  Vì không thể ngủ đến bình minh, cơ thể tôi muốn ngủ thêm.@
+`  "... Tôi phải đọc báo."@
+`  Tôi chà mắt buồn ngủ và gọi dịch vụ phòng để đặt bữa sáng và báo.@
+`  Tôi nhấm nháp cà phê khách sạn (Shiki-san nghĩ tôi thích trà, nhưng thực ra tôi thích cà phê) và lật qua báo.
 \
 wave pd/se14
-` [line=4]" "@
-` Đúng như dự đoán, tôi tìm thấy một bài viết về người thứ ba.`@
-` Chỉ nói là có một người phụ nữ bình thường bị giết tại nhà của cô ấy.`@
-` Tôi không có bằng chứng, nhưng tôi hiểu cô ấy chắc chắn là người thứ ba.`
+`  "[line=4]@
+`  Như dự đoán, tôi tìm thấy một bài viết về người thứ ba.@
+`  Nó chỉ nói rằng một phụ nữ không có đặc điểm gì nổi bật đã bị giết trong nhà của mình.@
+`  Tôi không có bằng chứng nào, nhưng tôi hiểu rằng cô ấy phải là người thứ ba.
 \
 wave pd/se15
-` "Ây... Điện thoại đang reo."`@
-` Tôi bấm máy điện thoại một cách vô thức.`@
+`  "Ôi... Điện thoại đang reo."@
+`  Tôi nhặt máy điện thoại một cách vô tâm.@
 wave pd/se09
-` Nhân viên khách sạn nói tôi có cuộc gọi từ Tohno Shiki, nên anh ấy nối máy cho tôi.@
-` "À, tôi cuối cùng cũng có thể chạm đến cậu."@
-` Chào buổi sáng, Akira-chan.`@
-` Tôi biết là đột ngột, nhưng cậu có thể ra ngoài được không?`@
-` Shiki nói như hôm qua vậy.`
+`  Nhân viên khách sạn nói với tôi rằng tôi có một cuộc gọi từ Tohno Shiki, nên anh ta kết nối tôi.@
+`  "Ôi, cuối cùng tôi cũng có thể liên lạc được với cậu."@
+` Chào buổi sáng, Akiha-chan.@
+`   Tôi biết điều này đột ngột, nhưng cậu có thể ra ngoài không?@
+`  Shiki-san nói như vậy chính xác là hôm qua.
 \
 bg #000000,rcartain,800
 bg "bg/bg_59",rcartain,800
 waveloop pd/se26
 ld r,"tachi/fake_01",crossfade,400
-` Gần bốn giờ chiều khi tôi đến quán cà phê.`@
-` Shiki đang ngồi ở vị trí quen thuộc, tôi cúi đầu chào rồi ngồi đối diện anh.@
-` ... Chắc cậu đã đọc báo, nhìn ra vẻ mặt cậu ta.@
-` [line=3]Vâng.@
-` Bạn nghĩ như vậy cũng được, Shiki?@
-` Ừ... Nhưng tôi không biết.@
-` Dường như là một trường hợp riêng biệt với thông tin này.@
-` Shiki nghe có vẻ không vui.@
-` Hắn dường như không mấy lo lắng hôm qua, nhưng như dự kiến, hôm nay hắn không bình tĩnh.
+`  "... Tôi nghĩ cậu đã xem báo, dựa theo vẻ mặt như thế này."@
+` "Đúng vậy."@
+`  "Cậu có nghĩ đó là tất cả không, Arcueid-san?"@
+` "[line=3]Ừm... Nhưng tôi cũng không biết nữa."@
+` "Có vẻ như đây là một vụ riêng biệt với thông tin này."@
+`  "Vâng..."@
+` "Nhưng nó lại khiến tôi nghi ngờ nhiều hơn."@
+`  Shiki có vẻ không hài lòng.@
+`  Anh ấy không tỏ ra quá lo lắng ngày hôm qua, nhưng như mọi người dự đoán, anh ấy không bình tĩnh ngày hôm nay.
 \
-` …Bạn giận dữ, Shiki?@
-` Ừ.@
-` Anh gật đầu và thở dài thật to.
+`  "...Anh có tức giận, Shiki-san không?"@
+`  "Đúng vậy."@
+`  Anh gật đầu và thở dài.
 \
-` Ôi thôi, chuyện gì xảy ra với bài báo nhỏ bé này?@
-` Chỉ có hai dòng mà người ta đã chết rồi.@
-` Không thể biết ai bị giết và cô ấy bị giết như thế nào.@
-` Ờ…@
-` Bạn nghĩ vụ việc này không liên quan?@
-` Tôi không nghĩ vậy, nhưng cũng không thể chắc chắn, phải không?@
-` … Ôi trời, tôi đoán họ đang kiểm soát thông tin vì nó giống vụ án mạng hôm qua. Chúng ta sẽ không biết chuyện gì đã thực sự xảy ra như thế này.
+`  "Chuyện này sao lại thế?@
+` Chỉ hai dòng văn mà có người đã chết.@
+` Không thể biết được ai là nạn nhân hay cách họ bị giết."@
+`  "Ừm... Có nghĩ vụ này không liên quan không?"@
+` "Tôi không nghĩ thế, nhưng cậu cũng không thể biết được, phải không?"@
+`  "... Đúng là phiền phức, tôi đoán họ đang kiểm soát thông tin vì nó giống như vụ giết người ngày hôm qua. Chúng ta sẽ chẳng bao giờ biết được sự thật."@
+` "... Shiki-san."
 \
-` … Shiki?@
-` Vậy bây giờ bạn sẽ làm gì?@
-` Tôi không nghĩ sẽ có thêm nạn nhân nữa.@
-` Có lẽ là vậy.@
-` Nhưng cậu muốn bắt kẻ giết người, phải không?@
-` Tôi gật đầu.@
-` Không phải là một cảm giác công bằng hay điều gì đó. Tôi chỉ nghĩ rằng kẻ giết người không nên được tha hồ.
+`  "Vậy cậu định làm gì bây giờ?"@
+` "Tôi không nghĩ sẽ có nạn nhân nào khác nữa."@
+`   "Có thể là thế."@
+`  "Đúng là có thể như vậy."@
+` "Nhưng cậu muốn bắt kẻ giết người, phải không?"@
+`  Tôi gật đầu.@
+`  Không phải vì cảm giác công lý hay gì đó. Tôi chỉ nghĩ rằng một kẻ giết người không nên lang thang tự do.
 \
-` Tôi hiểu.@
-` ... Nhưng điều này thật phiền lòng.@
-` Cậu biết 'người đàn ông cầm dao' như một thông tin, nhưng tôi không biết gì về hắn cả.@
-` Tôi thậm chí không thể hình dung ra khi cậu nói với tôi những gì cậu đã nhìn thấy.@
-` Bây giờ tôi hết ý tưởng rồi.@
-` Ừm... Tôi có điều muốn nói về điều đó.@
-` Shiki-san, cậu, um[line=7]@
-` Tôi không thể nói với anh ta rằng anh ta sẽ bị 'cậu bé cầm dao' giết chết.@
-` Trước hết, đó chỉ là tương lai có khả năng xảy ra cao nhất, vì vậy thứ tự ưu tiên của nó có thể giảm xuống với những điều nhỏ nhặt.
+`  "Tôi hiểu rồi."@
+` ... Nhưng điều này khiến tôi lo lắng.@
+` Cậu biết về 'người đàn ông cầm dao' như một thông tin, nhưng tôi chẳng biết gì về hắn cả.@
+` Tôi thậm chí còn không thể hình dung ra khi cậu kể cho tôi nghe những gì cậu đã thấy.@
+`   "Tôi cũng không còn ý tưởng nào nữa."@
+`  "Ồ... Tôi có một điều muốn nói về chuyện này."@
+` "[line=7]Shiki-san, tôi... ừm."@
+`  "Tôi không thể nói với anh ấy rằng cậu bé cầm con dao này sẽ giết hắn."@
+`  "Đầu tiên, đó chỉ là tương lai có khả năng xảy ra nhất, nên nó có thể bị giảm bớt tầm quan trọng so với những thứ nhỏ nhặt."
 \
-` 'Hm? Còn tôi thì sao?'@
-` 'Ừm... Tôi đang nghĩ đến việc đi dạo qua thị trấn để tìm kiếm hắn.'@
-` Ừm, tôi ích kỷ nghĩ rằng[line=4]nó sẽ an tâm hơn nếu cậu có thể đi cùng tôi...@
-` Shiki-san búng tay.@
-` 'Cậu đúng. Chúng ta nên làm như vậy.'@
-` Tôi nghĩ tôi có thể giúp cậu theo cách đó.@
-` 'Ồ...... Tôi rất vui khi cậu nói như vậy, nhưng chúng ta có lẽ sẽ không tìm thấy hắn.'@
-` Ít khả năng chúng ta sẽ tìm thấy hắn chỉ bằng cách tìm kiếm qua thị trấn.
+`  "Ồ? Còn tôi thì sao?"@
+`  "Ừm... Tôi đang nghĩ đến việc đi lang thang khắp thị trấn để tìm anh ấy."@
+` "[line=4]À, tôi ích kỷ nghĩ rằng... sẽ an ủi nếu cậu có thể đi cùng tôi..."@
+`  Shiki-san gõ ngón tay vào nhau.@
+`  "Đúng rồi. Chúng ta nên làm thế.@"@
+` "Tôi nghĩ mình có thể giúp cậu như vậy."@"@
+`  "Ôi...... Tôi vui vì cậu nói thế, nhưng có lẽ chúng ta sẽ không tìm thấy anh ấy."@
+` "Không có khả năng nào chúng ta sẽ tìm thấy anh ấy chỉ bằng cách tìm kiếm trong thị trấn này."
 \
-` "Nhưng chúng ta cũng không thể nói là nó sẽ không xảy ra.`@
-` Cho dù cơ hội nhỏ đến mấy, nó cũng không phải là không.`@
-` " Nó sẽ không kết thúc cho đến khi cậu từ bỏ."@
-` Nói như thế với vẻ vui vẻ, Shiki đứng dậy.`@
-` "Thôi, chúng ta nên đi thôi."`@
-` "Cùng đi tìm kiếm khắp thị trấn khi còn có nhiều người xung quanh.""`
+`  "Nhưng chúng ta không thể nói rằng điều đó sẽ không xảy ra."@
+` "Dù cơ hội có nhỏ đến đâu, nó cũng không phải là không tồn tại."@
+` "Nó sẽ không kết thúc cho đến khi cậu từ bỏ."@"@
+`  "Nói với nụ cười vui vẻ, Shiki-san đứng dậy."@
+`  "Này, chúng ta nên bắt đầu thôi."@
+` "Hãy cùng đi khám phá thị trấn này trong lúc còn đông người."
 \
 wavestop pd/se26
 bg #000000,rcartain,800
 wait 2000
 bg "bg/bg_52",crossfade,400
 waveloop pd/se08
-` Chúng tôi đi dạo trên những con phố chính suốt ba giờ, nhưng không tìm thấy thứ gì hữu ích.`@
-` Shiki không than phiền mà còn mua cho tôi một ly nước nóng khi tôi lạnh.`
+`  Chúng tôi dạo bước trên những con phố chính trong ba giờ, nhưng không tìm thấy thứ gì hữu ích.@
+`  Shiki-san chẳng phàn nàn gì và còn mua cho tôi một ly đồ uống nóng khi tôi cảm thấy lạnh.
 \
-` "... Mấy giờ này thì sắp ăn tối rồi.`@
-` Cậu muốn ăn gì?@
-` "Ê? Có cái gì tôi muốn ăn à?"`@
-` Nói thật thì lời đề nghị của cậu rất hợp thời vì tớ chưa ăn gì từ khi thức giấc lúc trưa.@
-` "Ừm... Hôm qua đi nhà hàng nên lần này có lẽ nên chọn chỗ vui vẻ hơn một chút..."`@
-` Shiki dừng lại, suy nghĩ một lát.`@
-` [line=6]" "@
-` Tôi sẽ im lặng.@
-` Lúc như thế này, Shiki thường đưa ra quyết định tốt hơn tôi.[line=3]`
+`  "... Đang gần đến giờ ăn tối."@
+` "Cậu có muốn ăn gì không?"@
+`  "Hả? Có thứ gì đó muốn ăn à?"@
+`  Thật ra, đề nghị của cậu ấy rất hợp thời điểm vì tôi chưa ăn gì kể từ khi thức dậy vào buổi trưa.@
+`  "Ừm... Chúng ta đã đi nhà hàng hôm qua, nên lần này có thể chọn một nơi thoải mái hơn..."@
+`  Shiki-san dừng lại và bắt đầu suy nghĩ.@
+`  "[line=6]@
+`  Tôi sẽ im lặng.@
+` [line=3]Trong những lúc như thế này, Shiki-san thường đưa ra quyết định tốt hơn tôi.
 \
 wavestop pd/se08
 bg #ffffff,crossfade,400
 wave pd/se01
 bg #9c0120,crossfade,400
 bg "bg/bg_52",crossfade,400
-` "À"[line=10]@
-` Rồi.`@
-` Tôi thấy hai người đang đi cùng nhau qua đường.`@
-` Một người trông như giáo viên trường tôi và`'chàng trai'`đang đi cùng nhau.`@
-` ... Tôi không thể chắc chắn lắm vì chúng nó quá xa.`@
-` Tôi không thể nhìn rõ lắm, nhưng chắc chắn điều đó là thật.`
+` "[line=10]Ôi..."@
+`  Sau đó...@
+`  Tôi thấy hai người đi cùng nhau qua đường.@
+`  Một người trông giống như giáo viên ở trường tôi và 'chàng trai' đang đi bên nhau.@
+`  ... Tôi không thể phân biệt rõ lắm vì họ quá xa.@
+`  Tôi không thể nhận ra chính xác, nhưng điều đó là chắc chắn.
 \
 waveloop pd/se08
-` “... Ừm?”@
-` "Có chuyện gì thế, Akira-chan?”@
-` "[line=3][line=4]Shiki-san, người đó"@
-` Tôi chỉ vào`cậu bé`.@
-` Sau khi nhìn vào nơi tôi chỉ, anh ta cứng đờ.@
-` “... Anh ấy đeo kính, nhưng...”@
-` "Cậu nghĩ sao về hắn?"`@
-` “Anh ta là người tấn công cậu.”@
-` "Ờ?"`@
-` Shiki nhìn tôi với vẻ ngạc nhiên.
+`  "... Hừm?..."@
+` "Có chuyện gì vậy, Akira-chan?"@
+` "[line=3][line=4]Shiki-san, người đó..."@
+`  Tôi chỉ vào 'chàng trai' đó.@
+`  Sau khi nhìn theo hướng tôi chỉ, anh ta đóng băng lại.@
+`  "... Anh ấy đeo kính, nhưng..."@
+`  "Anh ấy thế nào?"@
+`  "Đó là người đã đâm bạn."@
+`  "Ồ?"@
+`  Shiki nhìn tôi với vẻ ngạc nhiên.
 \
-` [line=5]"À."@
-` Ôi không!`@
-` Tôi thề mình sẽ không nói chuyện đó với anh ấy, nhưng lúc này… thật là bối rối!@
-` Akira-chan.@
-` Cậu có nghĩa là anh ta định đâm tôi?@
-` Â... À, tôi đã nhìn thấy nó.@
-` Hai người đang đối mặt với nhau và cầm dao.@
-` Đó là lý do tôi gọi cậu để cảnh báo đừng đi dạo vào ban đêm.@
-` [line=15]Cậu gọi tôi?@
-` Shiki-san gật đầu như thể bây giờ anh hiểu rồi.
+`  "[line=5] Ôi."@
+`  Không thể tin được!@
+` Tôi đã thề là sẽ không nói với anh ấy về chuyện đó, nhưng tôi quá mất tập trung...!!@
+`  "Akiha-chan."@
+` Ý anh ấy là anh ta định đâm tôi à?@
+`  "À... À... Tôi thấy nó."@
+` Hai người các bạn đối mặt nhau với con dao trong tay.@
+` "Vì vậy tôi gọi cậu lại để cảnh báo không nên lang thang vào ban đêm."@
+` "[line=15]Gọi tôi?"@
+`  Shiki gật đầu như thể giờ cậu mới hiểu.
 \
-` ... Tôi hiểu.@
-` Tôi đoán đó cũng là một khả năng.@
-` Ôi trời ơi, tôi nghĩ chúng ta có thể làm bạn vì đó là điều cuối cùng cậu đã nhìn thấy.@
-` ... Tôi hiểu. Tương lai mà cậu nhìn thấy thật mơ hồ.@
-` Với điều đó, Shiki-san nắm chặt vai tôi.@
-` Tôi biết hung thủ là ai rồi.@
-` Anh ta là Sensei của tôi.@
-` [line=8]!?@
-` Chúng ta hãy rời khỏi đây trước đã.@
-` Chúng ta sẽ đến trường mà tôi học, được không?@
-` Shiki-san bắt một chiếc taxi.
+`  "... Tôi hiểu rồi."@
+` "Tôi đoán đó cũng là một khả năng khác nữa."@
+` "Ôi trời, tôi nghĩ chúng ta có thể trở thành bạn bè kể từ điều cuối cùng cậu nhìn thấy."@
+` "... Tôi hiểu rồi. Tương lai mà cậu nhìn thấy quả thực rất mơ hồ."@
+`  Với lời nói đó, Shiki gắt chặt vào vai tôi.@
+`  "Tôi biết ai là kẻ giết người bây giờ.@
+` Anh ấy là thầy tôi.@
+`  "[line=8]?!"@
+`  "Chúng ta nên rời khỏi đây tạm thời.@
+` Chúng ta sẽ đến trường mà tôi theo học, được không?@
+`  Shiki-san bắt một chiếc taxi.
 \
-` ............@
+`  "...@
 wave pd/se17
-` Tôi theo Shiki-san vào xe taxi.@
-dừng nhạc nền pd/se08
-` Tôi đã nói với Shiki rằng học ở trường vào ban đêm rất nguy hiểm.@
-` Anh ta chắc chắn phải có kế hoạch nào đó để đến nơi đó bất chấp điều đó.
+`  Tôi theo Shiki-san vào trong chiếc taxi.@
+wavestop pd/se08
+`  Tôi đã nói với Shiki-san rằng ở trường vào ban đêm rất nguy hiểm.@
+`  Dù vậy, anh ấy chắc chắn đã có kế hoạch để đến đó.
 \
 bg #000000,rcartain,800
 wait 2000
 bg "bg/bg_01c",rcartain,800
 wave pd/se01
 play "*06"
-` [line=7]Ê?@
-` Tôi cảm thấy chóng mặt sau khi bước ra khỏi taxi.@
-` Điều làm tôi khó chịu là tên trường khiến tôi run lạnh sống lưng.
+` "[line=7]Hừ?"@
+`  Tôi cảm thấy choáng váng sau khi xuống xe taxi.@
+`  Điều khiến tôi khó chịu là cái tên của trường học khiến tôi cảm thấy rờn rợn.
 \
 ld r,"tachi/fake_01",crossfade,400
-` Chúng ta đã đến đây rồi.@
-` Shiki đi tới trường và mở ổ khóa cổng (một cái khóa).@
+`  "Chúng ta ở đây."@
+`  Shiki đi bộ đến trường và mở khóa cổng (khóa dây).@
 wave pd/se18
-` Theo đường này.@
-` Anh ta nắm tay tôi và bước vào khuôn viên trường.
+`  "Hãy đi theo con đường này."@
+`  Anh ta nắm lấy tay tôi và dẫn tôi vào sân trường.
 \
 bg #000000,rcartain,800
 bg "bg/bg_03c",rcartain,800
 wave pd/se01
 bg #000000,rcartain,800
 bg "bg/bg_61",rcartain,800
-lặp lại nhạc nền pd/se02
-` [line=4]Không thể nào.@
-` Tôi biết nơi này.@
-` Ờm, Shiki-san...@
-` Tiếng tôi run rẩy.@
-` Kể từ khi bắt đầu kéo tay tôi, Shiki chưa nhìn tôi.@
+waveloop pd/se02
+` "[line=4]Không, không thể nào!"@
+`  Tôi quen thuộc với nơi này.@
+`  "Ừm... Shiki-san..."@
+`  Giọng tôi run rẩy.@
+`  Từ khi Shiki bắt đầu kéo tay tôi, anh ấy chưa bao giờ đối mặt với tôi.@
 br
-` [line=3]Sao vậy?@
+`  "[line=3]Chuyện gì vậy?"@
 br
-` Anh ta trả lời một cách thẳng thừng.@
-` Sự ngu ngốc của tôi đập vào sau đầu.
+`  Anh ấy trả lời thẳng thắn.@
+`  Sự nhận thức về sự ngốc nghếch của mình đập mạnh vào sau đầu tôi.
 \
-` Shiki-san.@
-` Tôi có thể hỏi cậu một điều được không?@
-` Gì?@
-` À... Đây là trường trung học phải không?@
-` Nhưng mà cậu vừa rồi bảo đang học ở đây chứ?@
-` Tôi đã. Có gì lạ sao?
-\
-br
-br
-br
-br
-br
-` Lạ lắm!@
-` [line=4]Bởi vì
-\
-` À...@
-` Cậu lớn hơn tôi nhiều phải không?@
-` Ừ.@
-` Tôi sẽ tròn 22 tuổi vào năm nay.@
-` À, tôi hiểu rồi.@
-` Cậu là giáo viên ở đây, Shiki-san phải không?@
-` Không. Cậu có nghĩ điều đó có thể xảy ra không?
+`  "Shiki-san."@
+` "Tôi có thể hỏi bạn một điều không?"@
+`  "Chuyện gì?"@
+`  "Ờ... Đây là trường trung học, phải không?"@
+` Nhưng anh vừa nói rằng anh học ở đây à?"@
+`  "Tôi đã làm. Điều đó có kỳ lạ không?"
 \
 br
 br
 br
 br
 br
-br
-` Không. Điều đó không thể.
+`  Thật kỳ lạ!@
+` [line=4]Vì...
 \
-` À... Vậy...@
+`  "Ừm...@
+` Cậu lớn hơn tôi rất nhiều, phải không?@
+`  "Đúng vậy."@
+` Tôi sẽ 22 tuổi năm nay.@
+`  "Ồ, tôi hiểu rồi."@
+` "Cô là giáo viên ở đây, Shiki-san?"@
+`  "Không. Cô nghĩ điều đó có thể xảy ra không?"
+\
 br
-` Akira-chan@
-` Tôi không phải là học sinh cũng chẳng phải là giáo viên ở đây.@
-` Nhưng thật sự Tohno Shiki đang học ở trường này.@
 br
-` … Cậu là ai?@
 br
-` "Ai biết được?"`@
-` Ừ, chắc chắn tôi không phải là Tohno Shiki.`
+br
+br
+br
+`  "Không. Điều đó không thể nào."
+\
+`  "Ừm... Vậy thì..."@
+br
+`  "Akira-chan."@
+` "Tôi không phải là học sinh cũng không phải giáo viên ở đây."@
+` "Nhưng điều đó đúng là Tohno Shiki đang theo học tại trường này."@
+br
+`  "... Cô là ai?"@
+br
+`  "Ai biết được?"@
+` "Này, chắc chắn tôi không phải là Tohno Shiki."
 \
 ld r,"tachi/fake_02",rshutter,400
-` Và rồi anh quay lại.`@
-` Anh ấy trông vô cơ, như đeo mặt nạ vậy.`@
-` Ôi trời ơi, tôi xin lỗi, tôi xin lỗi, tôi thật sự xin lỗi!@
-` Curses, tại sao tôi lại nghĩ hắn như một con chó dễ thương hay sói!@
-` Dù tôi nhìn thế nào, anh cũng chỉ giống như một con côn trùng săn mồi[line=4]!`
+`  Và anh ta quay lại.@
+`  Anh ta trông vô cơ, như thể đeo một mặt nạ vậy.@
+`  Ồ, tôi rút lại lời nói, tôi rút lại, tôi thực sự rút lại!@
+`  Trời ơi, tại sao tôi lại nghĩ anh ta giống chú chó dễ thương hay con sói!?@
+` [line=4]Bất kể tôi nhìn anh ta theo cách nào, anh ta cũng giống một con nhện!
 \
 playstop
 wavestop pd/se02
@@ -1301,354 +1301,354 @@ bg #000000,bshutter,800
 bg "bg/bg_61",bshutter,800
 ld r,"tachi/fake_02",crossfade,400
 play "*04"
-` [line=4]"Ồ"`@
-` Tôi cố gắng rút tay ra khi hắn vẫn đang nắm chặt nó.@
-` Nhưng hắn vẫn nítido tay, còn một con dao ở tay kia.`@
-` Không chỉ là con dao bình thường mà còn là con dao ghê rợn được làm bởi công ty thợ rèn... cái tên ấy.`
+` "[line=4]Ôi..."@
+`  Tôi cố thoát ra trong khi anh ấy vẫn nắm chặt tay tôi.@
+`  Nhưng anh ấy không buông, và anh ấy còn cầm một con dao trong tay kia.@
+` Không chỉ là một con dao bình thường, mà là một con dao đáng sợ được làm bởi công ty Smith-and-something đó.
 \
-` [line=4]"Ừm, tại sao"`@
-` Tôi run giọng.`@
-` Tôi không thể cử động.`@
-` Tôi biết mình nên hét lên và đá anh ta, nhưng cơ thể tôi chỉ rụt lại.@
-` Tôi chắc chắn sẽ chết nếu con dao đó nhắm vào tôi.`@
-` Tôi nghĩ tôi hiểu cảm giác của những người trong phim khi có súng nhắm vào đầu.`
+` "[line=4]Ờm, tại sao..."@
+`  Giọng tôi run rẩy.@
+`  Tôi không thể di chuyển.@
+`  Tôi biết mình nên hét lên và đá anh ấy, nhưng cơ thể tôi chỉ đang co rụt lại.@
+`  Nếu con dao đó di chuyển, tôi có lẽ đã chết rồi.@
+`  Tôi nghĩ mình hiểu cảm giác của những người trong phim, khi một khẩu súng chĩa vào đầu họ.
 \
-` Tại sao?@
-` Ừm, tôi thật sự thắc mắc tại sao.@
-` Tôi muốn chia tay cậu hôm nay, nhưng có vẻ tôi sẽ bị Shiki-kun đâm nếu không làm gì cả.@
-` Cậu là mối liên kết duy nhất giữa Shiki-kun và tôi, vì vậy tôi phải giết cậu, đúng chứ?@
-` Tay anh siết chặt hơn.@
-` Anh không vội vàng khi đẩy tôi gần mình hơn.@
-`  "Ugh[line=4]"@
-` Tôi vùng vẫy, nhưng vô hiệu.
+`  "Tại sao?"@
+` Vâng, tôi thực sự thắc mắc tại sao.@
+`   Tôi muốn chia tay với cậu ngày hôm nay, nhưng có vẻ như tôi sẽ bị Shiki-kun đâm nếu không làm gì cả.@
+` Cậu là mối liên kết duy nhất giữa Shiki-kun và tôi, nên tôi phải giết cậu, đúng không?@
+`  Nắm chặt lấy tôi.@
+`  Anh ta không vội vã khi từng chút một đưa tôi gần hơn với mình.@
+`  "Ối chao[line=4]"@
+`  Tôi cố gắng vùng vẫy, nhưng vô ích.
 \
-` Ôi giời ơi.@
+`  "Trời ơi."@
 ` Đó là lý do tôi bảo cậu giữ bí mật này khỏi Tohno Akiha.@
-` Tôi đoán không có gì đáng tin tưởng ít hơn lời hứa của một cô gái.@
-`  "Oh[line=4]!"@
-` Anh đang kéo tôi vào.@
-` Anh thật đáng sợ....@
-` "Đừng nhìn như thế.@
-` Trước hết, một phần lỗi là của cậu vì kết thúc như vậy.@
-` Tôi đã nói với cậu, đúng không?@
-` Nếu ai vừa phạm tội giết người nghe ai đó gọi họ là kẻ giết người thì họ sẽ không để yên cho cậu.@
-` "B-nhưng... vụ sát hại đó chưa xảy ra[line=3]"
+` "Tôi nghĩ không có gì đáng tin ít hơn lời hứa của một cô gái."@
+` "[line=4]Ôi!"@
+`  Anh ta đang kéo tôi vào.@
+` Anh ta thực sự đáng sợ...@
+`  "Đừng có vẻ mặt đó."@
+` Đầu tiên, đây là lỗi của bạn khi kết thúc như thế này.@
+`   Tôi đã nói với bạn rồi mà.@
+` Nếu một kẻ vừa giết người nghe ai đó gọi hắn là kẻ giết người, hắn sẽ không để yên cho bạn.@
+` "[line=3]Nhưng... vụ giết người đó chưa xảy ra đâu."
 \
-` "Vào lúc đó, không phải là lần thứ hai hay thứ ba.@
-` Tôi đã giết cô gái đầu tiên khoảng một giờ trước khi gặp cậu.@
-` Tôi tò mò nên tôi lắng nghe. Và hóa ra, tôi phải giết thêm hai người nữa.@
-` Vậy nên tôi đã tìm kiếm những người phù hợp với mô tả của cậu và giết chúng.@
-` Không phải là dự đoán của cậu chính xác đâu. Tôi đã biến dự đoán của cậu thành hiện thực. Nhưng tôi đoán đó cũng là một loại tiên tri.@
-` Bùm!@
-` Anh ta kéo tôi mạnh và tôi ngã lên ngực anh.
+`  "Vào lúc đó, không phải là giây thứ hai cũng không phải là giây thứ ba."@
+` Tôi đã giết cô gái đầu tiên khoảng một giờ trước khi tôi gặp bạn.@
+`   Tôi tò mò nên đã lắng nghe bạn. Và kết quả là, tôi phải giết thêm hai người nữa.@
+`   Vì vậy, tôi đã tìm kiếm những người phù hợp với mô tả của bạn và giết họ.@
+` Đó không chỉ là dự đoán của cậu đúng. Tôi đã khiến dự đoán của cậu trở thành hiện thực. Có lẽ đó là một dạng tiên tri.@
+`  "Ôi trời! "@
+`  Anh ta kéo tôi mạnh mẽ, và tôi rơi xuống ngực anh ấy.
 \
-` Không được cử động nhiều quá.@
-` Cậu cảm thấy con dao trên cổ cậu, phải không?@
-` Nếu cậu cử động sẽ rất tồi tệ.@
-` Sẽ khó che giấu máu chảy ra từ động mạch cảnh.@
-` Ha[line=3]@
-` Tôi nuốt nước bọt.@
-` Tôi cảm thấy một cơn đau nhói, nên tôi đoán da tôi đã bị trầy xước một chút rồi.
+`  "Đừng di chuyển quá nhiều.@
+` Cảm thấy con dao ở cổ họng của bạn, phải không?@
+`   Sẽ rất tệ nếu bạn di chuyển.@
+` Sẽ khó che giấu máu chảy từ động mạch cảnh.@
+`  "Hah" [line=3]@
+`  Tôi nuốt một ngụm nước bọt.@
+`  Tôi cảm thấy một cơn đau sắc nhọn, nên tôi đoán da của tôi đã bị cào xước một chút rồi.
 \
-` Ừm, còn gì khác tôi nên nói với cậu?@
-` À, vâng, tôi chỉ muốn làm rõ rằng tôi chưa bao giờ lừa dối cậu.@
-` Tôi tin rằng cậu có thể nhìn thấy tương lai, và điều đó cũng đúng với tôi. Tôi có đôi mắt đặc biệt.@
-` Khác với cậu, tôi nhìn thấy quá khứ của mọi người.@
-` Chà, thuật ngữ 'nhìn' không chính xác lắm.@
-` Tôi đồng cảm với họ, nên nó có thể gần giống như sự thôi thúc tâm lý.@
-` Vậy mà tôi biết về Tohno Shiki.[line=3]@
-` Ô...!@
-` À[line=3]hình như anh ta đã vặn cổ tay tôi và ép tôi vào tường[line=3]
+`  "Ừm, còn điều gì khác tôi nên nói với bạn?"@
+` Ừm, tôi chỉ muốn làm rõ là tôi không lừa cậu.@
+`   Tôi tin rằng cậu có thể nhìn thấy tương lai, và cũng đúng là tôi có đôi mắt đặc biệt.@
+`   Khác với cậu, tôi nhìn thấy quá khứ của mọi người.@
+` Này, từ "nhìn thấy" không chính xác lắm.@
+` Tôi đồng cảm với họ, nên nó có thể gần giống với sự gợi ý tâm trí.@
+`   Nên đấy[line=3]là lý do tôi biết về Tohno Shiki."@
+`  "Ồ..."@
+`  Ồ[line=3]có vẻ như cậu đã vặn tay tôi và giữ tôi lại tường[line=3]
 \
-` Đó là đúng một tháng trước.@
-` Cả chuyện bắt đầu khi tôi vô tình nhìn thấy Shiki-kun trên cùng con phố mà tôi đã nhìn thấy cậu và nhìn thấy quá khứ của anh ấy.@
-` Quá khứ mà anh ấy trải qua thật khủng khiếp đến nỗi nó khiến tôi tự nhốt mình trong một căn phòng một thời gian.@
-` Tôi cũng biết về vụ việc xảy ra tại khách sạn nơi cậu đang ở.@
-` Anh ấy là người duy nhất sống sót ở đó.
+`  "Đúng một tháng trước."@
+` Mọi thứ bắt đầu khi tôi vô tình nhìn thấy Shiki-kun trên con phố mà tôi cũng đã nhìn thấy bạn và chứng kiến quá khứ của anh ấy.@
+`   Kinh nghiệm quá khứ mà anh ấy trải qua là quá lớn đến mức khiến tôi phải giam mình trong phòng một thời gian.@
+` Tôi cũng biết về sự kiện xảy ra tại khách sạn nơi cậu đang ở.@
+` "Anh ấy là người sống sót duy nhất ở đó."
 \
-` Làm thế nào tôi nên diễn tả đây?@
-` Tôi đoán đó là định mệnh chúng ta gặp nhau.@
-` Tôi tìm ra cách làm nó và thật đơn giản để thay đổi nó.@
-` Đó là lý do tại sao bây giờ mọi thứ tuyệt vời như vậy.@
-` Cuộc sống vô nghĩa giờ đây dường như có ý nghĩa.@
-` Con dao của anh ta di chuyển từ cổ xuống ngực tôi.
+`  "Làm thế nào để tôi nói điều này?"@
+` Tôi nghĩ đó là định mệnh mà chúng ta gặp nhau.@
+` Tôi đã tìm ra cách làm điều đó, và việc thay đổi nó rất đơn giản.@
+`   Đó là lý do tại sao nó tuyệt vời đến vậy ngay bây giờ.@
+` Thế giới vô nghĩa này giờ đây lại có vẻ có ý nghĩa.@
+`  Con dao của hắn di chuyển xuống từ cổ tôi đến ngực tôi.
 \
-` Chào tạm biệt.@
-` Tương lai của bạn sẽ không như thế này nếu bạn đã hỏi ý kiến Tohno Shiki thật sự.@
-` Con dao di chuyển.@
-` Tôi phải chạy trốn, nhưng tôi không thể rời mắt khỏi con dao.@
-` [line=5]Con dao được đâm vào ngực tôi
+`  "Tốt, tạm biệt."@
+` Tương lai của cậu sẽ không như thế này nếu cậu tham khảo Tohno Shiki thật sự.@
+`  Con dao di chuyển.@
+`  Tôi phải bỏ chạy, nhưng tôi không thể rời mắt khỏi con dao.@
+`  Con dao được đẩy sâu vào ngực tôi. [line=5]
 \
-` Chà, tôi đoán nó vẫn sẽ kết thúc như vậy ngay cả với Tohno Shiki thật sự.@
-` [line=3]Anh ta là một người bất thường giống như tôi!@
+`  "Dù có thực sự là Tohno Shiki thì kết cục này cũng sẽ đến."@
+` "[line=3]Anh ấy cũng là một người bất thường giống như tôi."@
 playstop
 cl r,rshutter,400
-` Con dao đâm vào.@
+`  Con dao đâm xuống.@
 wave pd/se05
-` Sau một tiếng kêu khô ráo...@
+`  Sau âm thanh khô khốc...@
 br
-` [line=3]Ê,@
-` Cậu thử ngừng nói những chuyện kỳ quái như vậy được không?@
+`  "[line=3] Này, dừng lại đi."@
+` "Hãy ngừng nói những điều kỳ quặc này, được không?"@
 br
-` Tôi nghe thấy một giọng nói.
+`  Tôi nghe thấy một giọng nói.
 \
-` ......!@
-` Anh ta đang cầm tay mình và nhìn xung quanh.@
-` Con dao không ở trong tay anh ta, và dường như anh ta đang tìm nó.@
-` Và@
-` Tôi nhìn thấy một cậu bé đeo kính đứng đó.@
-` Cậu bé có con dao trong tay, và dù tôi nhìn thế nào đi nữa, anh ta vẫn là cậu bé cầm dao mà tôi đã nhìn thấy[line=6]
-` Uh[line=7]gì?@
-` Tôi ngã xuống đất với bức tường vẫn còn phía sau tôi.
+`  "...!"@
+`  Anh ta đang giữ tay mình và nhìn xung quanh.@
+`  Con dao không ở trong tay anh ta, và có vẻ như anh ta đang tìm kiếm nó.@
+`  Và...@
+` Tôi thấy một cậu bé đeo kính đứng đó.@
+` [line=6]Cậu bé cầm con dao trong tay, và bất kể tôi nhìn anh ta thế nào, anh ta chính là cậu bé cầm dao mà tôi đã thấy.
+`  "Ồ?" [line=7]@
+`  Tôi sụp xuống đất với bức tường vẫn đằng sau lưng.
 \
 play "*08"
 ld c,"tachi/shiki_02",rshutter,400
-` Tôi nghe hết câu chuyện.@
-` Bạn là người đã bắt chước tôi chứ?@
-` [line=7]@
-` Anh ta không trả lời.@
-` Cậu bé cầm dao[line=3]không, Shiki-san thật sự, nhìn anh ta im lặng.@
-` Ê, thật là phiền phức.@
-` Cảm ơn cậu, vì thế mà Senpai đã canh chừng tôi suốt mấy ngày qua.@
-` Cậu sẽ chịu trách nhiệm về việc tôi bị đối xử tệ hại bởi vì cô ấy nghĩ tôi là kẻ giết người?@
-` Shiki-san than phiền.@
-` Giọng nói của anh thật giống như cái giọng kinh ngạc mà tôi nghe khi gọi điện cho anh trai Tohno.
+`  "Tôi đã nghe toàn bộ câu chuyện."@
+` "Anh có phải là người đã bắt chước tôi không?"@
+`  "[line=7]"@
+`  Anh ấy không trả lời.@
+`  Cậu bé cầm con dao [line=3]không, chính là Shiki-san, quan sát anh ta trong im lặng.@
+`  "Ồ, thật phiền phức.@
+` Nhờ anh, Senpai đã giám sát tôi trong vài ngày qua.@
+` Làm sao anh có thể chịu trách nhiệm cho việc tôi bị đối xử tệ hại kể từ khi cô ấy nghĩ rằng tôi là kẻ giết người?"@
+`  Shiki-san than thở.@
+`  Giọng nói của anh ấy giống như tiếng sấm vang trong đầu tôi khi tôi gọi đến nhà của Tohno-senpai.
 \
-` [line=4]Vậy.@
-` Anh định làm gì?@
-` Anh có ý đầu hàng cảnh sát hay tiếp tục trốn?@
-` Nếu anh muốn tiếp tục, tôi nghĩ người ẩn náu trong bóng tối sẽ không tha cho anh.@
-`  ...?@
-` Cành cây kêu.@
-` ... Nghĩ lại, tôi không nghĩ là Shiki-san đã đánh bật dao của anh.[line=5]
+`  "[line=4]"Vậy thì."@
+` "Bạn định làm gì?"@
+`   "Bạn sẽ đầu hàng cảnh sát hay tiếp tục tiến về phía trước?"@
+`   "Nếu bạn muốn tiếp tục, tôi nghĩ người đang ẩn mình trong bóng tối sẽ không tha thứ cho bạn."@
+`  "...?"@
+`  Những cành cây phát ra âm thanh.@
+`  "... Khi nghĩ lại, tôi không nghĩ đó là Shiki-san đã đánh bay con dao của anh ấy."[line=5]
 \
-` Anh đang trêu tôi chứ?@
-` Anh nhặt dao từ mặt đất.@
-` ... Anh không nhìn tôi nữa.@
-` Có vẻ anh chỉ nhìn thấy Shiki-san bây giờ.@
-` Anh nói vậy?@
-` Khi anh đã phá hủy nhiều con người hơn tôi?@
-` Tôi không nhớ giết bất kỳ ai. Nếu nó có vẻ như vậy với anh, thì đó là vấn đề của anh.@
-` Với điều đó...@
-` Shiki-san bước về phía anh.
+`  "Anh đùa à?"@
+`  Anh ta nhặt con dao từ mặt đất.@
+`  ... Anh ta không còn nhìn vào tôi nữa.@
+` Có vẻ như giờ đây anh ta chỉ nhìn thấy Shiki-san.@
+`  "Anh nói thế à?"@
+` "Khi đã tháo rời nhiều sinh mạng hơn cả tôi?"@
+`  "Tôi không nhớ đã giết hại bất kỳ ai. Nếu điều đó khiến anh hiểu sai, đó là vấn đề của anh."@
+`  Với những lời đó...@
+`  Shiki tiến lại gần anh ấy.
 \
-` H-chờ một chút!@
-` Chúng ta không phải là cùng một loại người sao?@
-` Cuộc sống của chúng ta vô nghĩa.@
-` Anh nhận ra rằng chúng ta chỉ đang chạy cuộc đua đã được định trước này, phải không?@
-` Vậy là tôi trốn khỏi cuộc đua.`@
-` Anh đã chỉ cho tôi cách làm rồi.`@
-` Cái chết là điều cần thiết để tái sinh.`@
-` Nhưng chết chẳng có ý nghĩa gì đâu.@
-` [line=4]Giết người là cách để lật ngược giá trị của bạn khi bạn còn sống, phải không?@
-` Cậu là người làm cho tôi nhận ra đấy là cách dễ dàng nhất!`@
-` "... Tôi thấy."@
-` "Cậu chán cuộc sống rồi?"
+`  "Dừng lại!"@
+` Chúng ta cùng một loài sao?@
+` Sống chỉ là vô nghĩa đối với chúng ta.@
+` Anh có nhận ra rằng chúng ta chỉ đang chạy theo cuộc đua định sẵn này không?@
+`   Đó là lý do tôi bỏ cuộc đua.@
+` Anh đã cho tôi thấy cách làm điều đó.@
+` Cái chết là điều cần thiết để được tái sinh.@
+` Chết chẳng có ý nghĩa gì cả.@
+` [line=4]Vậy thì giết người mới là cách đảo ngược những giá trị của bạn trong khi bạn vẫn còn sống, phải không?@
+`   Bạn chính là người giúp tôi nhận ra điều đó là con đường dễ nhất!@
+`  "... Tôi hiểu rồi."@
+` Bạn đã chán cuộc sống rồi sao?
 \
-` "Chắc chắn rồi!"`@
-` Cái thú vị ở việc cứ tiếp tục nhân lên và xây dựng những thứ đó là gì nhỉ?@
-` Không có mục tiêu rõ ràng hay một cái kết, nhưng chúng cứ mọc lên vô nghĩa.`@
-` Xem này, cậu thấy kỳ lạ chứ?@
-` Con người đã quay cái bánh xe vô nghĩa ấy hàng trăm năm rồi!@
-` Cuộc sống chẳng có ý nghĩa.`@
-` Tôi không thể ở bên những kẻ ngu xuẩn mà tiêu thụ mọi thứ mà chẳng nhận ra điều đó.`@
-` Chúng ta nên tiêu diệt những con vật tham lam như vậy!`
+`  "Tất nhiên rồi!"@
+` Điều gì thú vị ở việc chỉ nhân lên và xây dựng những thứ vô nghĩa?@
+` Không có mục tiêu rõ ràng hay kết thúc nào, chúng chỉ lớn lên một cách vô nghĩa.@
+`   Thấy rồi, không nghĩ là nó kỳ lạ sao?@
+` Con người đã quay vòng vô nghĩa đó hàng trăm năm rồi!@
+`   Không có ý nghĩa nào trong cuộc sống.@
+` Tôi không thể ở bên những kẻ ngốc nghếch tiêu thụ mọi thứ mà không nhận ra điều đó.@
+`   Chúng ta nên tiêu diệt những con vật tham lam như vậy!
 \
-` [line=3]"Đó là cái gì?"@
-` "Cái đó có ích lợi gì đâu?"@
-` Shiki thầm thì tức giận.`
+`  "[line=3] Điều gì thế này?@
+` Điều tốt đẹp nào có thể đến từ điều đó?"@
+`  Shiki-san thì thầm giận dữ.
 \
-` “Ê, tôi không muốn nói điều hiển nhiên như thế...”@
-` Nhưng nếu cậu ghét thế giới này đến vậy thì tại sao lại không tự tử?”@
-` Cậu nói giết người là phương pháp dễ nhất, nhưng tự sát có phải là cách dễ dàng hơn để bỏ cuộc đua đã định sẵn không?”@
-` “Ê-gì?”
+`  "Này, tôi không muốn nói với cậu điều gì đó quá rõ ràng...@"@
+`  "Nhưng nếu cậu ghét thế giới này đến vậy, tại sao cậu không đơn giản là tự kết liễu bản thân?"@
+` "Cậu nói giết người là phương pháp dễ nhất, nhưng có phải tự tử là cách thoát khỏi cuộc đua định sẵn này dễ dàng hơn nhiều?"@
+`  "W-tôi nói gì vậy?"
 \
-` Nhưng cậu không thể làm được chứ?@
-` Đó là lý do tại sao tất cả những gì cậu có thể làm chỉ là trút giận lên người khác.”@
-` Cuộc sống chẳng vui?”@
-` Cuộc sống vô nghĩa?”@
-` Thật đáng thương.”@
-` Cậu chính là người đang sống một cách vô nghĩa.”@
-` Cậu đã sống hàng chục năm, nhưng không tìm thấy điều gì có giá trị…!”@
-` Một bước nữa.”@
-` Với lưỡi kiếm trong tay, Shiki-san tiến về phía chúng ta.
+`  "Nhưng cậu biết mà, đúng không?"@
+` "Đó là lý do cậu chỉ có thể trút giận lên người khác."@
+`   "Cuộc sống không vui vẻ sao?"@
+` "Cuộc sống vô nghĩa sao?"@
+` Thật đáng thương.@
+` Bạn là người duy nhất sống vô nghĩa.@
+`   Bạn đã sống qua nhiều năm, nhưng bạn không tìm thấy điều gì có giá trị...!"@
+`  Một bước nữa.@
+`  Với con dao trong tay, Shiki-san tiến về phía chúng tôi.
 \
-` “Cậu đổ lỗi cho người khác, và trên hết, cậu giết để thay đổi giá trị của mình?@
-` Thật là một sự xúc phạm khủng khiếp.”@
-` Không có gì cho những người bị cậu giết.@
-` “Tôi không đáng thương.”[line=3]@
-` Thế giới đã thay đổi.”@
-` Đó là lý do tại sao tôi cảm thấy mình sống động đến thế. Xem[line=3] cơ thể tôi đang căng thẳng và tràn đầy sinh lực ngay bây giờ.
+`  "Bạn đổ lỗi cho người khác, và trên cùng, bạn giết chóc để thay đổi giá trị của mình?@
+`   Thật là sự xúc phạm khủng khiếp.@
+` Không có gì cho những người bị bạn giết chết."@
+` "[line=3]Tôi không yếu đuối."@
+` Thế giới đã thay đổi.@
+` [line=3]Đó là lý do tôi cảm thấy rất sống động lúc này. Hãy nhìn, cơ thể tôi đang căng thẳng và tràn đầy sức sống ngay bây giờ.
 \
-` “Điều đó chỉ có nghĩa là cậu là một kẻ hèn nhát.”@
-` Bây giờ cậu sợ rồi vì đã giết người, phải không?@
-` Cậu chỉ lo lắng vì không thể quay trở lại nơi vui vẻ mà cậu tưởng chừng như không vui.@
-` [line=3]Ờ, tại sao tôi phải nói cho cậu điều hiển nhiên vậy?@
-` Thế giới của cậu vẫn y như cũ.@
-` Chỉ là kết thúc thôi.@
-` Shiki chạm vào kính mắt.@
-` Không một tiếng động.@
-` Anh cởi chúng ra.
+` "Chỉ có nghĩa là cậu là một kẻ hèn nhát."@
+` Cậu sợ bây giờ vì đã giết người, phải không?@
+` Chỉ lo lắng rằng cậu không thể quay trở lại nơi vui vẻ mà cậu tin là không vui thôi.@
+`   Ôi trời ơi[line=3]tôi phải nói cho cậu điều hiển nhiên này sao?@
+`   Thế giới của cậu chẳng thay đổi chút nào.@
+`   "Chỉ vừa kết thúc."@
+`  Shiki chạm vào đôi kính của mình.@
+`  Không một âm thanh nào...@
+`  Anh ta tháo chúng ra.
 \
 ld c,"tachi/shiki_03",crossfade,400
-` [line=6]@
-` Khó thở lắm.@
-` Trong đêm tối...@
-` Mắt Shiki sáng lên màu xanh lam[line=3] quá đáng sợ, nó khiến tôi nghĩ rằng ngay cả khi bị giết, cũng chẳng sao.
+`  "[line=6]"@
+`  Khó thở.@
+`  Trong đêm đen tối...@
+` [line=3]Đôi mắt của Shiki lấp lánh màu xanh, nó quá đáng sợ, khiến tôi nghĩ rằng ngay cả khi tôi bị giết, cũng không thể làm gì được.
 \
-` “Chờ[line=4]đây.”@
-` Anh nhìn Shiki như thể anh đang nhìn người mình yêu.@
-` Được rồi.@
-` Tôi hiểu.@
-` Tôi phải sống để chuộc tội cho những lỗi lầm của mình.@
+` "[line=4]Giữ lại.@
+`  Anh ta nhìn Shiki-san như thể đang nhìn một người yêu.@
+`  "Tốt lắm.@
+` Tôi hiểu rồi.@
+` Tôi phải sống để chuộc lỗi cho những tội ác của mình.@
 ` Vậy...@
-` Dường như anh muốn nói đừng giết anh.@
-` “Ừ. Tôi không thể giết cậu nếu mục tiêu của cậu là chuộc tội cho những lỗi lầm.”@
-` Shiki dừng lại.`@
-` Người đàn ông mỉm cười và siết chặt con dao trong tay.`
+`  Có vẻ như anh ấy muốn nói đừng giết hắn.@
+`  "Đúng vậy. Tôi không thể giết cậu nếu mục tiêu của cậu là chuộc lỗi cho những tội ác."@
+`  Shiki dừng lại.@
+`  Người đàn ông mỉm cười và siết chặt con dao.
 \
-` [line=4]"Sau đó"`@
-` "Nhưng đối với cậu, tôi là kẻ giết người, phải không?"`@
-` [line=3]Một kẻ sát nhân thì chẳng có đạo đức người như cho tội phạm được chuộc lỗi.`@
-` "Gì vậy?`[line=5]AAAAAAAAaaah!"`
+` "[line=4]Vậy thì..."@
+`  "...dành cho cậu, tôi là một kẻ giết người, phải không?"@
+` "[line=3]Một kẻ giết người không có lương tâm nhân loại như tha thứ cho một tội phạm."@
+` "[line=5]Ồ gì? AAAAaaaaahhh!"
 wave pd/se20
-` Sau một cái bước chân nhẹ nhàng đẩy ra khỏi mặt đất...@
-` Lưỡi dao của Shiki xuyên qua không khí, né tránh kẻ tấn công.
+`  Sau một bước chân nhẹ nhàng đẩy khỏi mặt đất...@
+`  Con dao của Shiki bay qua không khí và xuyên qua kẻ tấn công.
 \
 playstop
 bg #000000,rshutter,400
 bg "bg/ima_14",crossfade,400
 wave pd/se03
-` Một tiếng động nhẹ, như cái gì đang lắc lư.@
+`  Một âm thanh lắc nhẹ vang lên.@
 br
 wave pd/se04
-` , Sau đó, người đàn ông ngã xuống đất. SHIKI thở phào nhẹ nhõm và đeo lại kính "@
-` [line=8]" "@
-` [line=3]Anh ta, kẻ sát nhân, nằm bất động trên mặt đất.`@
-` Nhưng anh ấy chưa chết. Tôi có thể cảm nhận được anh chỉ bất tỉnh.`@
-` Thực ra...`@
-` Tôi biết từ đầu Shiki không có ý giết ai đâu.
+`  Sau đó, người đàn ông rơi xuống đất. Shiki-san thở phào nhẹ nhõm và đeo kính trở lại.@
+`  "[line=8]"@
+` [line=3]Anh ta... kẻ giết người, nằm bất động trên mặt đất.@
+`  Nhưng anh ta không chết. Tôi có thể thấy rằng chỉ là ngất đi thôi.@
+`  ... Thật ra...@
+` Tôi biết Shiki-san chẳng có ý định giết ai từ đầu.
 \
 bg "bg/bg_61",crossfade,400
 play "*10"
 ld c,"tachi/shiki_04",crossfade,400
-` "Akira-chan?"`@
-` Anh ấy có vẻ do dự.`@
-` Lời anh khiến tim tôi đập loạn như sắp ngã xuống.`@
-` "Cậu là Seo Akira-chan phải không?"@
-` Tôi nghe từ Akiha.`@
-` Shiki đưa tay ra.
+`  "Akira-chan?"@
+`  Anh ta nghe có vẻ do dự.@
+`  Giọng nói của anh khiến trái tim tôi nhảy nhót đến mức tôi gần như ngã xuống.@
+`  "Em là Seo Akira-chan, phải không?"@
+` Tôi nghe từ Akiha."@
+`  Shiki giơ tay ra về phía tôi.
 \
-` [line=3]"À, vâng, xin lỗi! "`@
-` Tôi nắm tay Shiki và đứng dậy.@
-` , Vẫn còn sốc vì chuyện vừa rồi, chân tôi run rẩy. Không thể đứng thẳng được nên tôi túm lấy cánh tay Shiki.`@
-` Chết tiệt, thật xấu hổ quá.`
+` "[line=3]Ồ, xin lỗi!"@
+`  Tôi nắm lấy bàn tay Shiki và đứng dậy.@
+`  Vẫn còn sốc vì chuyện vừa xảy ra, đôi chân tôi yếu đi. Tôi không thể đứng thẳng, nên tôi nắm chặt cánh tay Shiki.@
+`  Thật là xấu hổ.
 \
-` [line=4]"Ờ... Ừm, ừ..."`@
-` Tôi không thể nói rõ ràng lúc này nên lắc đầu.`@
-` , Tôi muốn nói là tôi ổn, tôi không muốn nhìn thấy người đàn ông trên mặt đất, tôi bối rối vì tôi chưa bao giờ ôm một người đàn ông trước đây… Dù sao, mọi thứ trong đầu tôi đều hỗn loạn.`@
-` "Vâng."`@
-` "Chúng ta đi đâu khác nào?"@
-` Anh hẳn đã đoán được ý tôi muốn nói, khi bắt đầu đi cùng tôi với tay anh nắm lấy tay tôi.`
+` "[line=4]Ừm... À... ừm..."@
+`  Tôi lắc đầu, không thể nói rõ lúc này.@
+`  Tôi muốn nói rằng mình ổn, không muốn thấy người đàn ông đó nằm trên mặt đất, tôi bối rối vì chưa bao giờ ôm một người đàn ông trước đây... Nói chung, mọi thứ trong đầu tôi là một mớ hỗn độn.@
+`  "Vâng."@
+` "Chúng ta có nên đi đâu khác không?"@
+`  Anh ấy chắc chắn đã đoán được điều tôi muốn nói, vì anh ấy bắt đầu đi cùng với tay tôi trong tay.
 \
 wave pd/se07
 bg #000000,rcartain,800
 bg "bg/bg_03c",rcartain,800
-` "Ờ... Chúng ta có thể để anh ấy như thế này được không?"@
-` "Ừ. Anh trai nên chăm sóc cậu ấy."`@
-` Với điều đó, SHIKI đi về phía cổng.`
+`  "Ờ... Chúng ta có thể để anh ấy như vậy không?"@
+`  "Vâng. Senpai nên chăm sóc cậu ấy."@
+`  Với điều đó, Shiki-san tiến về phía cổng.
 \
 bg #000000,rcartain,800
 bg "bg/bg_01c",rcartain,800
-` Và như vậy, mọi chuyện kết thúc thật đơn giản.`@
-` Thực ra, tôi đoán phần lớn những chuyện sắp xảy đến với tôi sẽ đơn giản như thế này.`@
+`  Và như vậy, mọi thứ kết thúc một cách đơn giản.@
+`  Thực ra, tôi tin rằng hầu hết những chuyện sẽ xảy ra với tôi sẽ đơn giản như thế này.@
 br
-` Shiki không hỏi tôi bất cứ điều gì, nhưng có một chuyện tôi không hiểu và muốn hỏi anh ấy.`
+`  Shiki không cố gắng hỏi tôi điều gì, nhưng tôi có một điều không rõ ràng và muốn hỏi cô ấy.
 \
-` "Ừm, Shiki?"@
-` "Cậu đang tìm tôi à?"@
-` Shiki gật đầu.`@
-` Tôi càng không hiểu nữa.@
-` Tại sao?@
-` Tôi chỉ gọi bạn một lần thôi.@
-` Và đó là cuộc gọi một chiều nghe như trò đùa, vậy tại sao?@
+`  "Ừm, Shiki-san?@
+` Cô ấy có đang tìm kiếm tôi không?"@
+`  Shiki gật đầu.@
+`  ... Tôi càng không hiểu hơn bây giờ.@
+`  "Tại sao?@
+` Tôi chỉ gọi cho cô ấy một lần.@
+` Và đó là cuộc gọi đơn phương nghe như một trò đùa, vậy tại sao?"@
 ld c,"tachi/shiki_04",crossfade,400
-` Haha. Cuộc gọi đó nghe thật giống trò đùa.@
-` Nhưng giọng của bạn thật nghiêm túc.@
-` Tôi không thể bỏ qua bạn được, nên tôi muốn nghe bạn nói rõ.@
-` ... Chà, tôi không ngờ nó lại đưa tôi đến kẻ giết người mà tôi đang tìm kiếm từ hôm qua.@
-` Anh ấy nghe như đang xấu hổ.
+`  "Ha ha. Gọi điện đó thực sự giống như một trò đùa.@
+` Nhưng giọng nói của cậu rất nghiêm túc.@
+` Tôi không thể đơn giản là phớt lờ cậu, nên tôi muốn lắng nghe cậu.@
+`   ... Tôi không ngờ nó sẽ dẫn tôi đến kẻ giết người mà tôi tìm kiếm từ hôm qua."@
+`  Anh ta có vẻ xấu hổ.
 \
-` [line=4]Ừ.@
-` Tôi sẽ đưa bạn về nhà.@
-` Bạn ở khách sạn ở thị trấn bên cạnh phải không?@
-` À[line=6]@
-` C đúng lúc tôi định trả lời bằng một 'vâng'...@
-` Bụng tôi gào thét đáng yêu (hoặc ít nhất là tôi muốn tin như vậy).@
-` [line=12]!@
-` !@
-` !@
-` !@
-` Tôi ngu xuẩn, ngu xuẩn, ngu xuẩn, ngu xuẩn!
+`  "[line=4]À.@
+` Tôi sẽ đưa cậu về nhà.@
+` Cậu ở khách sạn ở thị trấn lân cận, phải không?"@
+`  "Ôi..." [line=6]@
+`  Ngay khi tôi cố gắng trả lời bằng một lời khẳng định...@
+`  "Bụng tôi rên rỉ một cách dễ thương (hoặc ít nhất là điều mà tôi muốn tin)."@
+`  "[line=12]"@
+` `!@`@
+` `!@`@
+`"!"@
+`  "Tôi thật ngốc nghếch! Ngốc nghếch đến mức nào vậy!"
 \
-` Tôi đang làm gì mà cảm thấy nhẹ nhõm và quên cả việc mình đói!?@
-` [line=10]`@
-` Shiki-san có vẻ lo lắng, và...@
-` "Được rồi."@
-` Chúng ta đi ăn cái gì nào."@
-` Tôi sẽ mời cậu để đổi lấy việc đừng nói về chuyện này.@
-` Anh ấy nói điều gì đó khiến tôi vui lòng.
+` Tôi đang làm gì vậy, cảm thấy nhẹ nhõm và quên mất rằng mình đói!@
+`  "[line=10]"@
+`  Shiki-san trông có vẻ lo lắng, và...@
+`  "Tốt thôi."@
+` Chúng ta hãy đi ăn điều gì đó.@
+` Tôi sẽ mời bạn một món gì đó như là một khoản hối lộ để bạn không nói về chuyện này.@
+`  Anh ấy nói điều gì đó khiến tôi vui mừng.
 \
-` "Ôi, chờ chút."@
-` Trước khi làm thế[line=4]@
-` Shiki-san rút ví ra và mở nó ra."@
-` Tôi ngạc nhiên khi nhìn vào nó vì tò mò."@
-` ... Thật kinh ngạc là ví của anh ấy cũ đến thế, nhưng tôi nghĩ điều kinh ngạc hơn là chỉ có một đồng xu 500 yên trong đó.
+`  "Ồ, chờ đã."@
+` Trước đó, [line=4]@
+`  Shiki-san lấy ví ra và mở nó.@
+`  Tôi ngạc nhiên khi nhìn vào vì tò mò.@
+`  ... Thật đáng kinh ngạc là ví của anh ấy đã cũ đến thế, nhưng điều khiến tôi ngạc nhiên hơn là chỉ có một đồng 500 yen trong đó.
 \
-` "...... Anh thích phở hàng rong không?"@
-` Anh ấy thì thầm yếu ớt."@
-` [line=7]Tôi nghĩ vậy.`@
-` Tôi biết rằng con gái không thích phở hàng rong.@
-` "Uh[line=3]um[line=4]@
-` Tôi bối rối nghĩ xem mình nên nói gì."@
-` Tôi không thể nói 'Tôi có nhiều tiền hơn, tôi sẽ mời cậu'."@
-` Nhưng tôi không tìm thấy bất cứ điều gì hay để nói, vì một lý do nào đó...@
+`  "...... Anh có thích súp mì quầy không?"@
+`  Anh ấy thì thầm yếu ớt.@
+`  "[line=7] Tôi nghĩ vậy."@
+` Tôi biết rằng các cô gái không thích súp mì quầy.@
+` "[line=3][line=4]Ừm..."@
+`  Tôi vội vàng suy nghĩ xem mình nên nói gì.@
+`  Tôi không thể nói, "Tôi có nhiều tiền hơn, nên tôi sẽ mời cậu."@
+` Nhưng tôi không tìm ra điều gì tốt đẹp để nói, vì một lý do nào đó...@
 br
-` Tôi, tôi yêu mì soba!!@
+`  "Tôi... tôi yêu soba!"@
 br
-` Tôi đã nói như vậy chứ?
+`  Tôi thực sự đã nói như vậy?
 \
-` [line=6]Ồ.@
-` Tôi cảm thấy mặt mình đang đỏ lên.@
-` Shiki-san trông ngơ ngác.
+` "[line=6]Ồ..."@
+`  Tôi có thể cảm nhận mặt mình đang đỏ bừng.@
+`  Shiki nhìn có vẻ ngạc nhiên.
 br
-` Ồ.@
-` Rồi, hãy theo tôi.@
+`  "Ồ."@
+` "Hãy theo tôi."@
 br
-` Anh ta nghe vui vẻ khi bắt đầu đi.@
+`  Anh ta nghe có vẻ vui vẻ khi bắt đầu đi.@
 bg #000000,rshutter,400
 bg "bg/ima_22",rshutter,400
-` [line=7]@
-` Tôi kìm nén cảm giác sung sướng của mình khi theo sau anh ta.@
-` ... Chà, Tết Nguyên Đán sắp đến rồi.@
-` Có lẽ ăn mì soba vào đêm như thế này cũng tốt.
+`  "[line=7]"@
+`  Tôi kìm nén cảm giác hạnh phúc khi theo anh ta.@
+`  ... Vậy là đêm giao thừa sắp đến rồi.@
+` Có lẽ ăn mì soba vào đêm như thế này là một ý tưởng tốt.
 \
-` [line=6]Hả?@
-` Rồi.@
-` Tôi bị chóng mặt quen thuộc tấn công khi tiếp tục nhìn vào lưng Shiki-san.@
-` Trong tầm mắt tôi đang quay cuồng...@
-` Tôi thấy một ảo giác hạnh phúc rằng mình ở bên Tohno-senpai, Shiki-san và một số người tôi không biết.
+` "[line=6]Hả?"@
+`  Sau đó.@
+` Tôi bị tấn công bởi cảm giác chóng mặt quen thuộc khi tiếp tục nhìn vào lưng của Shiki-san.@
+`  Trong tầm nhìn quay cuồng của tôi...@
+`  Tôi thấy một ảo ảnh hạnh phúc như thể tôi đang ở cùng với Tohno-senpai, Shiki-san, và một số người tôi không biết.
 \
-` Akira-chan?@
-` Ồ, tôi đang đến...!@
-` Tôi trả lời khi bắt đầu chạy lại gần anh ta.@
-` Tôi thấy.@
-` Rất nhiều chuyện đã xảy ra, nhưng một cuộc gặp gỡ như thế này vẫn có thể xảy ra, phải không?@
+`  "Akira-chan?"@
+`  "Ôi, tôi đang đến đấy!"@
+`  Tôi trả lời khi tôi bắt đầu chạy đến gần anh ấy.@
+`  Tôi hiểu rồi.@
+` Nhiều chuyện đã xảy ra, nhưng một cuộc gặp gỡ như thế này vẫn có thể, phải không?@
 wave pd/se22
-` Sau khi đuổi kịp Shiki-san, tôi vỗ tay cầu nguyện về phía sau lưng của Shiki-san.@
+`  Sau khi bắt kịp Shiki-san, tôi vỗ tay chào cầu nguyện sau lưng cô ấy.@
 br
-` Tôi cầu nguyện ước nguyện cuối cùng của năm.@
-` Chà, Shiki-san. Dường như tôi sẽ gây phiền toái cho bạn rất nhiều, nhưng xin hãy gửi lời chào tốt đẹp đến tôi.
+`  Tôi cầu nguyện ước cuối cùng của năm nay.@
+`  Này, Shiki-san. Có vẻ như tôi sẽ gây ra nhiều rắc rối cho cô, nhưng xin hãy truyền đạt lời chào tốt nhất từ tôi.
 \
 bg #000000,crossfade,1500
 playstop

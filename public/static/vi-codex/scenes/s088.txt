@@ -181,7 +181,7 @@ bg "bg/bg_19d",notrans,0
 play "*6"
 ` [line=8]Đột nhiên
 br
-Lắc động mạnh 5,100
+quakex 5,100
 ` Bùm!@
 ` Với tiếng động lớn, căn phòng rung chuyển dữ dội.@
 ` Không, để chính xác hơn,

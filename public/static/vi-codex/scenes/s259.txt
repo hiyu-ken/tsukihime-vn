@@ -286,17 +286,17 @@ ld c,"tachi/ark_t01a",crossfade,400
 `"……?@ Ma cà rồng bình thường là thế nào?"
 \
 `"Ý tôi là những gì loài người các cậu thường nghĩ về ma cà rồng ấy.@ Bất tử, không bao giờ già đi, hút máu người, biến nạn nhân thành đồng loại, và bị tiêu diệt bởi ánh sáng mặt trời, đại loại thế.@
-  `'Kẻ thù' của tôi chính là kiểu ma cà rồng cổ điển đó."@
+``'Kẻ thù' của tôi chính là kiểu ma cà rồng cổ điển đó."@
 `"…… Ừm, ý cậu là 'kẻ thù' của cậu chính là thủ phạm đứng sau những vụ giết người hàng loạt gần đây sao?"@
 ld c,"tachi/ark_t06",crossfade,400
 `"…… Có lẽ vậy.@ Nhưng chuyện sát hại bằng cách hút máu tất cả những người đó nhiều khả năng là do lũ 'Tử Giả' như kẻ cậu vừa thấy làm.@
-  `Shiki, cậu còn nhớ cơ thể Nrvnqsr được cấu thành từ vô số quyến thuộc đúng không?"
+``Shiki, cậu còn nhớ cơ thể Nrvnqsr được cấu thành từ vô số quyến thuộc đúng không?"
 \
 `"[line=3]Ừ, chuyện đó có muốn tôi cũng chẳng thể nào quên được."@
 ld c,"tachi/ark_t02",crossfade,400
 `"Tử Giả cũng tương tự như vậy.@ Khi con người bị ma cà rồng hút máu, họ cũng đồng thời nhận lấy một lượng máu của chúng.@
-  `Họ sẽ chết đi, nhưng vẫn tồn tại ở thế giới này như một tôi tớ của ma cà rồng.@ Họ được gọi là Tử Giả và đóng vai trò như quyến thuộc của ma cà rồng đó.@
-  `À, chắc dùng từ zombie thì cậu sẽ dễ hình dung hơn nhỉ.@ Bản chất của chúng gần với đức tin Voodoo ở Haiti hơn, nơi người ta triệu hồi thần rắn trắng Damballah để hồi sinh và điều khiển tử thi, nhưng cứ tạm hiểu một cái xác biết đi là zombie đi nhé?"@
+``Họ sẽ chết đi, nhưng vẫn tồn tại ở thế giới này như một tôi tớ của ma cà rồng.@ Họ được gọi là Tử Giả và đóng vai trò như quyến thuộc của ma cà rồng đó.@
+``À, chắc dùng từ zombie thì cậu sẽ dễ hình dung hơn nhỉ.@ Bản chất của chúng gần với đức tin Voodoo ở Haiti hơn, nơi người ta triệu hồi thần rắn trắng Damballah để hồi sinh và điều khiển tử thi, nhưng cứ tạm hiểu một cái xác biết đi là zombie đi nhé?"@
 br
 `[line=3]Ừm, ví dụ thế thì dễ hình dung hơn thật.
 \
@@ -304,7 +304,7 @@ br
 ld c,"tachi/ark_t01a",crossfade,400
 `"Đúng thế, đúng thế," Arcueid vui vẻ gật đầu liên lịa.@
 `"[line=3]Nhưng tôi vẫn thấy thắc mắc.@ Tại sao ma cà rồng lại làm vậy chứ?@
- `[line=3]Giết người…… rồi không cho họ yên nghỉ mà lại điều khiển họ, thật là một sở thích tồi tệ."
+``[line=3]Giết người…… rồi không cho họ yên nghỉ mà lại điều khiển họ, thật là một sở thích tồi tệ."
 \
 ld c,"tachi/ark_t02",crossfade,400
 `"Cậu nói đúng, lũ ma cà rồng đó quả là có sở thích tồi tệ thật.@ Nhưng đó chỉ là việc của lũ Tử Đồ thôi.@ Những kẻ ngay từ đầu đã là ma cà rồng thì tuyệt đối không làm trò đó."@
@@ -313,56 +313,56 @@ br
 `Ngay từ đầu đã là ma cà rồng……?@
 br
 `"[line=3]Tôi nhớ rồi.@ Cậu từng nói có hai loại ma cà rồng, một loại vốn là ma cà rồng từ đầu, và loại còn lại vốn là con người.@
-  `…… Lúc nghe chuyện đó trước đây, tôi cứ suy nghĩ mãi và thấy có chút kỳ lạ.@ Vậy chính xác ý cậu là thế nào khi nói về những kẻ vốn không phải là ma cà rồng?"
+``…… Lúc nghe chuyện đó trước đây, tôi cứ suy nghĩ mãi và thấy có chút kỳ lạ.@ Vậy chính xác ý cậu là thế nào khi nói về những kẻ vốn không phải là ma cà rồng?"
 \
 `"Đơn giản thôi, tôi chỉ muốn nói rằng Tử Đồ vốn từng là con người.@ Họ hoặc đạt được bất tử nhờ ma thuật, hoặc trở thành thuộc hạ của các Chân Tổ đã hút máu họ.@
-  `…… Shiki, cậu bảo dùng xác người chết là sở thích tồi tệ, nhưng đó mới chỉ là chuyện nhỏ nhặt thôi.@ Ngoài kia có những ma cà rồng còn nghĩ ra những trò chơi bệnh hoạn hơn nhiều."@
+``…… Shiki, cậu bảo dùng xác người chết là sở thích tồi tệ, nhưng đó mới chỉ là chuyện nhỏ nhặt thôi.@ Ngoài kia có những ma cà rồng còn nghĩ ra những trò chơi bệnh hoạn hơn nhiều."@
 `"[line=3][line=3]Trò chơi…… là sao chứ?@ Lũ ma cà rồng các cậu giết người chỉ để tiêu khiển, rồi đem tử thi của họ ra làm đồ chơi sao……!?"
 \
 `"…… Tôi không phủ nhận chuyện đó.@
-  `Đối với ma cà rồng, 'tiêu khiển' cũng giống như việc hít thở vậy.@ Với những kẻ từng là con người nhưng lại đạt được sự bất tử không hoàn thiện, kẻ thù lớn nhất của chúng chính là sự chán chường.@
-  `Ngay từ đầu chúng đã không có mục đích rõ ràng khi trở nên bất tử, nên khi đã có được nó rồi, chúng cũng mất đi mọi ham muốn thông thường.@
-  `Bản thân sự bất tử chính là mục tiêu duy nhất của chúng, nên tôi đoán mọi chuyện cứ thế diễn ra thôi."
+``Đối với ma cà rồng, 'tiêu khiển' cũng giống như việc hít thở vậy.@ Với những kẻ từng là con người nhưng lại đạt được sự bất tử không hoàn thiện, kẻ thù lớn nhất của chúng chính là sự chán chường.@
+``Ngay từ đầu chúng đã không có mục đích rõ ràng khi trở nên bất tử, nên khi đã có được nó rồi, chúng cũng mất đi mọi ham muốn thông thường.@
+``Bản thân sự bất tử chính là mục tiêu duy nhất của chúng, nên tôi đoán mọi chuyện cứ thế diễn ra thôi."
 \
 `"[line=4]Chán quá nên muốn kiếm trò chơi sao?@ Đừng có đùa.@ Không già đi, không chết đi chưa đủ sao chứ?@ Chúng còn đòi hỏi cái gì nữa?"
 \
 `"Thì tôi nói rồi đó, chúng đã có được tất cả những gì mình muốn.@ Sau đó, sự tồn tại của chúng chẳng còn ý nghĩa gì nữa.@
- `[line=3]Ngay khi một kẻ nhận ra bản thân không còn giá trị gì…… rằng cuộc đời mình đã dừng lại, thì ý nghĩa tồn tại của chúng cũng biến mất.@
-  `Sự bất tử, suy cho cùng, cũng chỉ là một cái tên khác của cái chết."
+``[line=3]Ngay khi một kẻ nhận ra bản thân không còn giá trị gì…… rằng cuộc đời mình đã dừng lại, thì ý nghĩa tồn tại của chúng cũng biến mất.@
+``Sự bất tử, suy cho cùng, cũng chỉ là một cái tên khác của cái chết."
 \
 `"Thế là tâm trí chúng bắt đầu mục ruỗng và chúng tự bày ra các trò tiêu khiển, như để tự huyễn hoặc bản thân rằng mình vẫn có thể vui vẻ chừng nào còn sống.@ [line=3]Đó là khởi nguồn của tất cả.
 \
 ld c,"tachi/ark_t01b",crossfade,400
 `"Chúng bắt chước con người, tự biến mình thành những chúa tể lâu đài đang bành trướng lãnh địa trong một trò chơi.@
-  `Cậu có thể gọi đó là một vương quốc của Tử Giả.@ Có vẻ như chúng tìm thấy nhiều niềm vui từ việc đó hơn là chúng tưởng tượng."@
+``Cậu có thể gọi đó là một vương quốc của Tử Giả.@ Có vẻ như chúng tìm thấy nhiều niềm vui từ việc đó hơn là chúng tưởng tượng."@
 br
 `…… Cô ấy nói như thể đang kể chuyện của ai khác vậy.@
 `Arcueid lẽ ra cũng thuộc nhóm đó, nhưng cô ấy rõ ràng chẳng có vẻ gì là có cái sở thích kiểu ấy cả.
 \
 `"Thôi, ta đổi chủ đề nhé, tóm lại thì các Tử Đồ vốn dĩ ban đầu là con người.@
-  `Có một vài trường hợp trở thành ma cà rồng nhờ tự nghiên cứu ma thuật, nhưng đa số vẫn là những con người bị hút máu.@
-  `Họ bất tử, nhưng không thể duy trì điều đó mãi mãi.@ Họ chỉ có thể giữ được sự bất tử bằng cách uống máu của kẻ khác.@
-  `Tôi đã nói sự bất tử của họ là không hoàn thiện rồi đúng không?@ Nếu không thể ăn thịt hay hút máu con người, sự bất tử của họ sẽ tiêu tan."
+``Có một vài trường hợp trở thành ma cà rồng nhờ tự nghiên cứu ma thuật, nhưng đa số vẫn là những con người bị hút máu.@
+``Họ bất tử, nhưng không thể duy trì điều đó mãi mãi.@ Họ chỉ có thể giữ được sự bất tử bằng cách uống máu của kẻ khác.@
+``Tôi đã nói sự bất tử của họ là không hoàn thiện rồi đúng không?@ Nếu không thể ăn thịt hay hút máu con người, sự bất tử của họ sẽ tiêu tan."
 \
 `"Nhưng nếu chúng công khai hút máu người, sự tồn tại của 'ma cà rồng' sẽ bị bại lộ.@ Kể cả không làm thế, chỉ riêng việc chúng hiện diện ở đó cũng đủ để bóp méo thế giới xung quanh rồi.@ Điều đó sẽ thu hút sự chú ý của các hành giả Giáo Hội, như Ciel chẳng hạn."@
 `"…… Ừm, nghĩa là ma cà rồng không thể thích làm gì thì làm sao?"
 \
 `"Đúng vậy, nếu chúng phá vỡ giao kèo với Giáo Hội mà tự do hành động, chúng sẽ bị phát hiện và tiêu diệt ngay lập tức.@
-  `Thế nên phần lớn các Tử Đồ đều tạo ra các thuộc hạ để mang máu về cho chúng trong lúc chúng ngủ.@
-  `Bằng cách hút máu rồi truyền lại một phần máu của mình vào tử thi, chúng tạo ra các tay sai để làm việc cho mình.@ Chúng tôi đơn giản gọi bọn họ là 'Tử Giả'."
+``Thế nên phần lớn các Tử Đồ đều tạo ra các thuộc hạ để mang máu về cho chúng trong lúc chúng ngủ.@
+``Bằng cách hút máu rồi truyền lại một phần máu của mình vào tử thi, chúng tạo ra các tay sai để làm việc cho mình.@ Chúng tôi đơn giản gọi bọn họ là 'Tử Giả'."
 \
 `"…… Hừm…… Vậy kẻ cậu tiêu diệt lúc nãy giống như một binh lính của Tử Đồ sao?"@
 ld c,"tachi/ark_t02",crossfade,400
 `"Không hẳn là binh lính, nói là con rối thì đúng hơn.@ Các Tử Đồ điều khiển những tử thi đó mà không cần qua quá trình biến đổi thành ma cà rồng thực sự.@ Các Tử Giả hoàn toàn kết nối trực tiếp với ma cà rồng chủ quản của chúng.@
-  `Để sinh tồn, chúng tấn công kẻ khác để ăn thịt, nhưng hơn một nửa nguồn năng lượng thu được sẽ truyền về cho chủ nhân.@
-  `Giống như ong chúa được nuôi dưỡng bởi ong thợ, các Tử Đồ có thể lợi dụng Tử Giả để gia tăng sức mạnh của mình ngay cả trong khi ngủ."
+``Để sinh tồn, chúng tấn công kẻ khác để ăn thịt, nhưng hơn một nửa nguồn năng lượng thu được sẽ truyền về cho chủ nhân.@
+``Giống như ong chúa được nuôi dưỡng bởi ong thợ, các Tử Đồ có thể lợi dụng Tử Giả để gia tăng sức mạnh của mình ngay cả trong khi ngủ."
 \
 ld c,"tachi/ark_t06",crossfade,400
 `"…… 'Kẻ thù' của tôi rất khó bị phát hiện vì hắn đang sử dụng một lượng lớn Tử Giả.@
-  `Hắn chỉ tự nhúng tay trực tiếp đúng một lần duy nhất.@ Sau đó, hắn chỉ việc ngủ và điều khiển lũ Tử Giả bành trướng lãnh địa.@
-  `[line=3]Người ta nói tìm thấy rất nhiều thi thể trong các vụ án mạng hàng loạt gần đây, nhưng thực chất đó chỉ là những sản phẩm lỗi mà thôi.@
-  `Thực tế mà nói, số nạn nhân trong thành phố này đã vượt quá một trăm người rồi.@
-  `But only a small amount, the ones discovered, are the victims in the news."
+``Hắn chỉ tự nhúng tay trực tiếp đúng một lần duy nhất.@ Sau đó, hắn chỉ việc ngủ và điều khiển lũ Tử Giả bành trướng lãnh địa.@
+``[line=3]Người ta nói tìm thấy rất nhiều thi thể trong các vụ án mạng hàng loạt gần đây, nhưng thực chất đó chỉ là những sản phẩm lỗi mà thôi.@
+``Thực tế mà nói, số nạn nhân trong thành phố này đã vượt quá một trăm người rồi.@
+``But only a small amount, the ones discovered, are the victims in the news."
 \
 playstop
 cl a,crossfade,400
@@ -389,8 +389,8 @@ br
 \
 ld c,"tachi/ark_t10",crossfade,400
 `"Tôi biết cậu sẽ tức giận mà, Shiki.@
- `[line=3]…… Tôi từng không muốn kể chuyện này, vì đối với con mồi…… tức là loài người các cậu, đây là một tội ác không thể dung thứ.@
-  `Đây chắc chắn không phải là những lời cậu muốn nghe đúng không?"@
+``[line=3]…… Tôi từng không muốn kể chuyện này, vì đối với con mồi…… tức là loài người các cậu, đây là một tội ác không thể dung thứ.@
+``Đây chắc chắn không phải là những lời cậu muốn nghe đúng không?"@
 `"…… Đúng thế.@ Nghe xong chuyện này, tôi thực sự chẳng biết phải làm sao nữa."@
 `…… Phải rồi.@
 `Tôi không tài nào tiếp tục sống bình yên như trước đây được nữa, khi biết rằng một người quen của mình rất có thể sẽ trở thành nạn nhân vào ngày mai.@
@@ -409,8 +409,8 @@ bg "bg/bg_28b",crossfade,400
 ld c,"tachi/ark_t01a",crossfade,400
 play "*9"
 `"Ồ, Shiki, cậu lại bày ra vẻ mặt đó rồi.@
-  `Cậu có thể yên tâm.@ Dù những kẻ thù không đội trời chung của ma cà rồng không có mặt ở đất nước này, nhưng vẫn còn có tôi ở đây mà.@
-  `Chẳng phải lúc nãy tôi đã nói mục tiêu của tôi là hành quyết ma cà rồng sao?"@
+``Cậu có thể yên tâm.@ Dù những kẻ thù không đội trời chung của ma cà rồng không có mặt ở đất nước này, nhưng vẫn còn có tôi ở đây mà.@
+``Chẳng phải lúc nãy tôi đã nói mục tiêu của tôi là hành quyết ma cà rồng sao?"@
 `Bầu không khí nặng nề lúc nãy bỗng chốc tan biến sạch trơn khi Arcueid ngay lập tức lấy lại vẻ vui tươi hớn hở.
 \
 `"Ừ, tôi nhớ rồi.@ …… Nhưng cậu cũng là ma cà rồng mà, đúng chứ?@ Tại sao cậu lại đứng về phía con người chúng tôi?"@
@@ -421,7 +421,7 @@ play "*9"
 \
 ld c,"tachi/ark_t08",crossfade,400
 `"Thế nên bây giờ tôi có thể quay lại kế hoạch ban đầu và tiêu diệt 'kẻ thù' của mình rồi.@
-  `Từ giờ cậu có thể quay lại cuộc sống bình thường của mình, và không cần phải dính dáng gì đến tôi nữa đâu."@
+``Từ giờ cậu có thể quay lại cuộc sống bình thường của mình, và không cần phải dính dáng gì đến tôi nữa đâu."@
 `Cô ấy nở nụ cười, trông có vẻ vô cùng đắc ý vì điều gì đó.
 \
 `"……………"
@@ -477,14 +477,14 @@ ld c,"tachi/ark_t11",crossfade,400
 `"Thì chuyện tôi đứng về phe Senpai hay phe cậu ấy."@
 ld c,"tachi/ark_t06",crossfade,400
 `"Chờ đã, nghe tôi nói hết đã.@
- `[line=3]Cậu thấy đấy, ừm…… cậu rõ ràng là chẳng có chút thường thức nào, lại còn ích kỷ và cực kỳ khó chiều nữa."@
+``[line=3]Cậu thấy đấy, ừm…… cậu rõ ràng là chẳng có chút thường thức nào, lại còn ích kỷ và cực kỳ khó chiều nữa."@
 ld c,"tachi/ark_t05b",crossfade,400
 `Arcueid lập tức lườm tôi với vẻ mặt cau có.@
 `Phớt lờ phản ứng đó, tôi giãi bày lòng mình.
 \
 cl a,crossfade,400
 `"…… Nhưng mà, ở bên cậu thực sự không chán chút nào.@ Tôi thích cậu.@
-  `Nên là, tôi có thể đi cùng cậu cho đến khi cậu tiêu diệt được tên kẻ thù này không…… Ý tôi muốn nói là, tôi sẽ không đứng về phía Senpai, mà sẽ là đồng minh của cậu…"@
+``Nên là, tôi có thể đi cùng cậu cho đến khi cậu tiêu diệt được tên kẻ thù này không…… Ý tôi muốn nói là, tôi sẽ không đứng về phía Senpai, mà sẽ là đồng minh của cậu…"@
 `Tôi hé mắt liếc nhìn biểu cảm trên khuôn mặt Arcueid.@
 ld c,"tachi/ark_t12",crossfade,400
 `"[line=6]Thật sao?"@
@@ -493,7 +493,7 @@ ld c,"tachi/ark_t12",crossfade,400
 `"…… Thì, ừ chứ sao.@ Ngay cả tôi cũng thấy đầu óc mình có vấn đề rồi, nhưng tôi đã lỡ dính vào chuyện này mất rồi.@ Với cả, tôi không thể làm ngơ trước những hiểm họa đang rập rình ngay tại thành phố mình sống được."@
 `"Vậy ý cậu là……"[line=3]@
 `"Phải.@ Nếu cậu vẫn còn yếu, và nếu cậu bảo cậu cần đến sức mạnh của tôi, tôi sẽ sát cánh cùng cậu.@
-  `…… Ừm, có khi tôi chỉ làm vướng chân cậu thôi, nhưng mà…"
+``…… Ừm, có khi tôi chỉ làm vướng chân cậu thôi, nhưng mà…"
 \
 ld c,"tachi/ark_t09",crossfade,400
 `"[line=3][line=3]Đúng thế……!@ Nếu có cậu giúp sức, chúng ta sẽ vô địch thiên hạ luôn……!"@
@@ -501,7 +501,7 @@ ld c,"tachi/ark_t09",crossfade,400
 ld c,"tachi/ark_t01a",crossfade,400
 `"Nhưng thế có ổn không?@ Shiki, cậu có thể sẽ phải đối mặt với cái chết một lần nữa đấy."@
 `"Tôi chuẩn bị tinh thần rồi.@ Vả lại, tôi nghĩ đó chính là lý do tôi sở hữu đôi mắt này từ thuở sơ khai.@[line=4]Hồi tôi còn nhỏ, có người từng nói với tôi thế này.@
-  `Rằng nếu tôi có thứ năng lực mà người khác không có, tôi nên làm những việc mà người khác không thể.@ Tôi nghĩ việc này chính là loại chuyện như thế."
+``Rằng nếu tôi có thứ năng lực mà người khác không có, tôi nên làm những việc mà người khác không thể.@ Tôi nghĩ việc này chính là loại chuyện như thế."
 \
 ld c,"tachi/ark_t03",crossfade,400
 `"Ồ?@ …… Tôi không rõ hoàn cảnh của cậu cho lắm."@
@@ -514,15 +514,15 @@ playstop
 `"Nhưng giờ chúng ta phải làm gì đây?@ Cậu có muốn tiếp tục truy lùng lũ Tử Giả giống như lúc nãy không?"@
 ld c,"tachi/ark_t01a",crossfade,400
 `"Phải, tôi nghĩ hiện tại chúng ta chỉ có thể làm thế thôi.@ Tên lúc nãy đã là kẻ thứ mười hai rồi, nên tôi đoán không còn lại nhiều đâu.@ Một khi toàn bộ tay chân bị tiêu diệt, tên ma cà rồng chủ mưu buộc phải lộ diện, nên trước mắt ta cứ phải săn lùng những kẻ còn sót lại đã.@
-  `Như vậy có ổn không?", cô ấy hỏi.
+``Như vậy có ổn không?", cô ấy hỏi.
 \
 `"Sao cũng được hết, tôi đi cùng cậu mà.@ Cậu dẫn đường đi đâu tôi theo đó.@ [line=2]Thế nào, chúng ta bắt đầu lại chứ?"@
 `"À không, đêm nay thế là đủ rồi.@ Chúng thường di chuyển theo lộ trình cố định, và lũ Tử Giả khác có lẽ sẽ không xuất hiện trong đêm nay nữa đâu.@
-  `Vì số lượng của chúng có hạn, tôi nghĩ hắn sẽ không dại gì tung hết ra cùng một lúc đâu."@
+``Vì số lượng của chúng có hạn, tôi nghĩ hắn sẽ không dại gì tung hết ra cùng một lúc đâu."@
 `"[line=3]Thật vậy sao?@ Nhưng như thế chẳng phải tên 'kẻ thù' kia sẽ cố tình giấu lũ Tử Giả đi để tránh mặt cậu sao, Arcueid?"
 \
 `"Về cơ bản là thế.@ Nhưng vì tên 'kẻ thù' này là ma cà rồng, hắn buộc phải chiếm đoạt máu và năng lượng từ người khác để duy trì tồn tại.@
-  `Do đó, dẫu biết thừa tôi đang lùng sục khắp nơi, hắn vẫn bắt buộc phải phái lũ Tử Giả ra ngoài để thu thập lượng máu tối thiểu mà hắn cần."@
+``Do đó, dẫu biết thừa tôi đang lùng sục khắp nơi, hắn vẫn bắt buộc phải phái lũ Tử Giả ra ngoài để thu thập lượng máu tối thiểu mà hắn cần."@
 br
 `[line=3]*Thở dài*@
 `Vậy ra, lượng Tử Giả tối thiểu mà hắn phái đi chính là người đàn ông lúc nãy hả.
@@ -536,7 +536,7 @@ cl c,lshutter,800
 `"Arcueid……?"@
 ld c,"tachi/ark_t01a",crossfade,400
 `"Đêm nay tạm biệt ở đây nhé.@ Ngày mai chúng ta lại hẹn gặp nhau.@
-  `Với những bước chân uyển chuyển như đang khiêu vũ, cô ấy vừa lùi xa dần vừa chăm chú dõi theo tôi.@
+``Với những bước chân uyển chuyển như đang khiêu vũ, cô ấy vừa lùi xa dần vừa chăm chú dõi theo tôi.@
 `"[line=3]Ngày mai…… chờ đã, chúng ta gặp nhau ở đâu đây……!?"@
 ld c,"tachi/ark_t08",crossfade,400
 `"[line=3]Ở đây luôn đi.@ Còn thời gian…… ừm, khoảng mười giờ đêm là đẹp đấy."@

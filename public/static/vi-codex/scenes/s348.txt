@@ -16,7 +16,7 @@ ld c,"tachi/aki_t16a",crossfade,400
 cl a,crossfade,400
 ld c,"tachi/ari_t01",crossfade,400
 `"Tớ thấu triệt sâu sắc rồi… Hèn chi cái thằng nhóc Tohno nhà cậu xưa nay chịu chết tịnh không hề có mắt nhìn thưởng thức nữ nhân đĩnh đạc chốn này dẫu dã chứ.@ Bởi lẽ dẫu dã thế, hằng ngày được diện kiến ngắm nghía bóng dáng kiều diễm Akiha-chan như vậy dẫu dã thế dẫu vậy, đống nữ sinh tầm thường chốn trường này làm sao cất công so sánh compaaaaaaa-á-á-á-á!!?"@`
-(Động đất 2,150)
+quakex 2,150
 cl a,lshutter,400
 ld c,"tachi/cel_t04",lshutter,400
 `"A, em vô cùng sám hối bận lòng nhé, Inui-kun.@ Tự thân em bấy giờ vô tình lỡ tay cất công trượt khuỷu tay chút đỉnh chốn ấy dẫu dã thôi ạ."@`

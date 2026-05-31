@@ -2,37 +2,37 @@ monocro off
 playstop
 wavestop
 bg "bg/bg_29b",notrans,0
-play "*1"
-` Chúng tôi ngồi lặng lẽ bên nhau trên chiếc ghế băng công viên lộng gió.@
-` [line=4]Ánh trăng mờ ảo dịu nhẹ chiếu rọi khắp nơi, bao trùm lên bóng dáng kiều diễm của Arcueid.@
+` "Arcueid không đến."@
+` Đó là điều tự nhiên thôi.@
+` [line=4]Sau khi làm vậy, sau khi dẫm đạp lên mọi thứ mà cô ấy tin tưởng giao cho tôi, tôi đã cưỡng ép vi phạm cơ thể cô ấy.
 \
-`"Arcueid này... Cậu từng bảo cậu là ma cà rồng Chân Tổ, vậy Chân Tổ rốt cuộc có nguồn gốc từ đâu thế? Và tại sao cậu lại phải đơn độc săn lùng Roa suốt hàng trăm năm nay vậy?"@
-\
+` Cô ấy có lẽ sẽ không đến.@
+` Đây là điều cô ấy muốn nói khi yêu cầu cả hai chúng ta quên đi chuyện này.@
 br
-` Arcueid lặng im ngắm nhìn ánh trăng hồi lâu, vẻ mặt đượm buồn đầy suy tư chín chắn.@
-`"Chân Tổ chúng tôi... thực chất là những tinh linh tự nhiên của Trái Đất, được tạo ra từ buổi sơ khai như một cơ chế phòng vệ của hành tinh để kiềm chế sự bành trướng thái quá của loài người."@
+`"Chết tiệt……!"@
+` Trái tim tôi tràn ngập hối tiếc, tôi rời công viên.
 \
 bg #000000,lcartain,800
 bg "bg/bg_47",lcartain,800
-\
-`"Ra là vậy sao... Thế còn cậu thì sao, Arcueid?"@
+` …… Tôi quay trở về biệt thự.@
+` Mở cửa sau, tôi bước vào trong.
 \
 bg "bg/bg_33d",lcartain,1500
 bg "bg/bg_46c",lcartain,1500
 bg "bg/bg_40d",lcartain,1500
-` Đôi mắt đỏ ngầu vằn tia máu của cô ấy ngước nhìn bầu trời đêm, đượm vẻ tịch mịch cô đơn khôn tả.
+` Tôi yawn.@
+` Tôi ngồi xuống giường mà không suy nghĩ.@
+` Tiếng đồng hồ vang lên đều đặn trong phòng.
 \
-` Nghe những lời tâm sự chân thành chứa đầy sự xót xa của cô ấy, trái tim tôi bỗng nhói đau dữ dội.@
+`"...@
+` Chỉ cần ngủ đi thôi.@
+` Khi tôi thức dậy ngày mai, mọi thứ sẽ khác biệt.@
+` Về Arcueid, về con ma cà rồng lang thang trong thành phố này, khi bình minh đến, tất cả sẽ... [line=4]
 \
-\
-cl c,lshutter,800
 bg #000000,crossfade,1500
-playstop
-\
-bg #000000,crossfade,1500
-... trở thành một giai đoạn mới.
+phase "bg/bg_06a",l,ark,11b,12
 bg #000000,crossfade,400
-Chơi âm thanh se_02 lặp lại.
+waveloop se_02
 ` Nhịp đập, nhịp đập, nhịp đập.
 !w1000
 ` Tiếng đập, tiếng đập, tiếng đập.
@@ -80,7 +80,7 @@ br
 \
 ` ...Tôi không thể nhớ ra được.
 \
-` Giấc mơ thường phai mờ khi ta thức dậy.@
+`  Giấc mơ thường phai mờ khi ta thức dậy.@
 ` Nhưng, vẫn còn điều gì đó.@
 ` Tôi có cảm giác như có một hình ảnh mờ nhạt về điều gì đó mà tôi đã quên đi.
 \

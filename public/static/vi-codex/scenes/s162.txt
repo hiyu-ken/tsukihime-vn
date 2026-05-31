@@ -1,4 +1,4 @@
-bg "bg/bg_36d",lcartain,800
+phase "bg/bg_36d",l,ark,09a,9
 wavestop
 bg #ffffff,crossfade,800
 play "*9"
@@ -119,14 +119,14 @@ br
 ` Tôi ôm đầu khẽ thở dài ngao ngán.@
 \
 ` Tôi nhìn thẳng vào đôi mắt đỏ ngầu vằn tia máu của cô ấy đầy chân thành khi tuyên bố như vậy.
-\
+`\
 `"Cậu chắc chứ?"@
 \
 ` Vẫn nằm ngửa trên giường, tôi giơ hai tay lên đầu hàng đầy bất lực.
-\
+`\
+`br
 br
-br
-\
+`\
 \
 playstop
 bg "bg/bg_40a",crossfade,800
@@ -135,18 +135,18 @@ play "*2"
 ` Vừa cằn nhằn, tôi vừa gượng ngồi dậy trên giường.@
 ` Arcueid đứng giữa phòng, thích thú quan sát tôi đang chậm chạp bước xuống giường.@
 `"…… Này, cậu đang định làm cái gì thế?"
-\
+`\
 \
 ld c,"tachi/ark_t01a",crossfade,400
 `"Ờ thì đúng là không ai mặc đồ ngủ ra đường cả... Khoan đã, Arcueid?"@
 `"Phải rồi, hôm nay tôi muốn cậu dành cả ngày đi chơi cùng tôi, Shiki. Chẳng phải cậu vừa bảo sẽ bù đắp cho việc thất hứa đêm qua sao?"@
 ` Arcueid thản nhiên tuyên bố như thể đó là điều hiển nhiên nhất trên đời.
+`\
 \
-\
-ld c,"tachi/ark_t16",crossfade,400
+`ld c,"tachi/ark_t16",crossfade,400
 ld c,"tachi/ark_t16",crossfade,400
 `"Ừm... "@
 ` Câu hỏi của cô ấy làm tôi cứng họng hoàn toàn.@
 ` ...
-cl c,crossfade,400
+`cl c,crossfade,400
 cl c,crossfade,400

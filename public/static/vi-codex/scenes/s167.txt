@@ -3,29 +3,29 @@ play "*2"
 wavestop
 bg "bg/bg_40a",notrans,0
 ` [line=4]Ba cái xác người nằm la liệt dưới đất, máu tươi lênh láng khắp mặt đường nhựa. Nhưng đáng sợ hơn là, những cái xác đó đang khẽ co giật và từ từ bò dậy hệt như những con rối bị giật dây.@
-\
-ld c,"tachi/ark_t05a",lshutter,800
+`\
+`ld c,"tachi/ark_t05a",lshutter,800
 `"Là Tử Giả (Tử Giả / Lũ thây ma ma cà rồng). Chúng vừa mới bị cắn không lâu đâu, Shiki!"@
 \
 `"Lại là tay chân của Roa sao...!"@
 ld c,"tachi/ark_t04",crossfade,400
-\
-cl c,crossfade,400
+`\
+`cl c,crossfade,400
 \
 `"Tránh ra sau tôi, Shiki!"@
 ` Arcueid nhanh như cắt lao lên chắn trước mặt tôi. Đôi bàn tay cô ấy bỗng chốc mọc ra những móng vuốt sắc nhọn dài hệt như dã thú.@
-\
+`\
 \
 ld c,"tachi/ark_t06",crossfade,400
 ` Đầu của hai con thây ma Tử Giả lập tức bay lìa khỏi cổ, dòng máu đen kịt phun ra tung tóe trước khi cơ thể chúng sụp xuống đất và lập tức phân hủy thành tro bụi.@
 cl c,crossfade,400
-\
+`\
 ld c,"tachi/ark_t03",crossfade,400
 ` Tôi gầm lên, tháo kính ra để nhìn rõ các "đường chết" trên cơ thể nó.@
 cl c,lshutter,400
 br
-\
-wave se_06
+`\
+`wave se_06
 \
 ` Tôi thở dốc, vội vàng đeo chiếc kính sát ma nhãn trở lại.@
 `"Phù... Hết rồi sao?"@
@@ -40,10 +40,10 @@ playstop
 bg "bg/bg_24a",lcartain,800
 bg #000000,crossfade,400
 bg "bg/bg_24a",crossfade,400
-\
-bg #000000,crossfade,1500
-playstop
-!w3000
+`\
+`bg #000000,crossfade,1500
+`playstop
+`!w3000
 ` Chỉ hơi choáng váng một chút. Tôi có thể thư giãn khi ngồi xuống bàn học ở trường.@
 ` Tôi tập trung tinh thần và chạy đến trường.
 \

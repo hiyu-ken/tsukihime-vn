@@ -1,4 +1,4 @@
-| (hình nền "bg/cmo_06", l, aki, 08a, 8)
+phase "bg/cmo_06",l,aki,08a,8
 bg #000000,notrans,0
 !w1000
 bg #ffffff,notrans,0
@@ -146,12 +146,12 @@ wave se_01
 wave se_01
 bg #000000,notrans,0
 bg "bg/bg_46a",notrans,0
-Chu kỳ âm thanh se_02
+waveloop se_02
 ` Hành lang trống rỗng.@
 ` Từ lâu rồi.@
 ` Rất lâu trước, tôi không thể nhớ hay không cần nhớ. Giống như tàn tích trong phim, rất yên tĩnh.
 \
-Chu kỳ âm thanh se_02
+waveloop se_02
 bg #000000,notrans,0
 bg "bg/bg_36a",notrans,0
 bg #000000,notrans,0
@@ -519,7 +519,7 @@ br
 ` Thật ra, tôi chẳng biết đó là gì.
 \
 bg #9c0120,crossfade,400
-(Lặp lại âm thanh) se_02
+waveloop se_02
 monocro #ff0000
 bg "event/aki_e03",crossfade,400
 ` Tóc đen của Akiha,
@@ -885,7 +885,7 @@ bg #000000,crossfade,1500
 !w4000
 phase "bg/bg_11c",l,aki,09a,9
 bg "bg/bg_40a",bshutter,400
-Chơi âm thanh se_11 lặp lại
+waveloop se_11
 `"[line=4]!"@
 ` Tôi bật dậy khỏi giường.@
 ` Đã gần sáu giờ sáng.@
@@ -918,7 +918,7 @@ wave se_04
 ld c,"tachi/his_t01",lshutter,400
 `"Xin lỗi."@
 ` Hisui bước vào mang theo đồng phục học đường của tôi.@
-Chơi âm thanh se_11
+waveloop se_11
 `"Chào buổi sáng, Shiki-sama."@
 `"…… Vâng, buổi sáng, Hisui."@
 ` Tôi trả lời, cố xua tan cảm giác còn lại của sự ấm áp từ người thầy.@

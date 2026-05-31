@@ -219,7 +219,7 @@ bg "bg/bg_40d",lcartain,800
 bg #000000,crossfade,800
 playstop
 !w3000
-Tôi thức dậy từ một giấc ngủ dài.
+phase "bg/bg_54b",r,his,04a,4
 bg #ffffff,crossfade,800
 bg "bg/bg_40a",crossfade,400
 play "*2"

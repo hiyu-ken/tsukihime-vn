@@ -4,14 +4,14 @@ wavestop
 bg "bg/bg_32a",notrans,0
 ` Cô ấy vui vẻ đồng ý ngay lập tức.
 ld c,"tachi/ark_t16",crossfade,400
-cl c,lshutter,800
+`cl c,lshutter,800
 \
-bg "bg/bg_06c",lcartain,800
+`bg "bg/bg_06c",lcartain,800
 ld c,"tachi/ark_t04",crossfade,400
 ` Ngôi trường vào ban đêm tĩnh mịch đến đáng sợ. Những dãy nhà học cao lớn sừng sững trông hệt như những bóng ma khổng lồ dưới ánh trăng mờ ảo.@
 ` Cả hai chúng tôi bước đi lặng lẽ dọc theo hành lang tối om.
 cl c,crossfade,800
-ld c,"tachi/ark_t05a",lshutter,800
+`ld c,"tachi/ark_t05a",lshutter,800
 \
 ` Arcueid bất ngờ giật mình dừng lại, khẽ lầm bầm.@
 \

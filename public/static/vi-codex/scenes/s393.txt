@@ -127,7 +127,7 @@ br
 bg #000000,lcartain,800
 !w1000
 bg "bg/bg_33a",lcartain,800
-[loop âm thanh: se_11]
+waveloop se_11
 ` Vì chưa đến hai giờ, Hisui không chờ ở sảnh.@
 `"……"@
 ` Tôi có thể nói mình may mắn. Tôi không muốn gặp ai vào lúc này.@
@@ -148,31 +148,31 @@ br
 ` [line=6]Làm sao để biết…
 `      Ai mới chính là Tohno Shiki?
 \
-Màu chữ đỏ đậm
+textcolor #ff0000
 br
 br
 ` Bạn thực sự phải hỏi à?
 \
-Màu chữ trắng
+textcolor #ffffff
 br
 br
 ` ... Lại là giọng nói ấy.
 \
-Màu chữ đỏ đậm
+textcolor #ff0000
 br
 br
 br
 br
 ` Đi thôi, tiếp tục đi, Shiki.
 \
-Màu chữ trắng
+textcolor #ffffff
 br
 br
 br
 br
 ` ... Giọng nói vang vọng trong đầu tôi.@ Giọng tôi.
 \
-Màu chữ #FF0000 (đỏ)
+textcolor #ff0000
 br
 br
 br
@@ -181,7 +181,7 @@ br
 ` Đêm đến mỗi ngày.@
 ` Chắc chắn rồi, chúng ta sẽ tìm thấy người mà chúng ta muốn vào một ngày nào đó, phải không...?
 \
-Màu văn bản trắng (`#ffffff`)
+textcolor #ffffff
 ld c,"tachi/aki_t09",notrans,0
 bg "bg/bg_40a",notrans,0
 wavestop

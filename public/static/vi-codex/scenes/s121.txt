@@ -10,7 +10,7 @@ waveloop se_11
 \
 wave se_09
 ` ... Tiếng chân bước không ngừng lại.@
-`waveloop se_11`
+waveloop se_11
 ` Tiếng chân ồn ào này không giống Hisui.@
 ` Cô ấy luôn cố gắng lịch sự che giấu sự hiện diện của mình, nên điều này rất lạ.
 \
@@ -149,7 +149,7 @@ br
 ` tôi tự hỏi, tôi có muốn Hisui không?
 \
 bg #ffffff,crossfade,400
-(lặp sóng se_02)
+waveloop se_02
 bg "bg/bg_40d",crossfade,400
 ` ... Nhịp tim tôi tăng tốc.@
 ` ... Lý trí của tôi đang mờ dần.@
@@ -180,7 +180,7 @@ ld c,"tachi/his_t22",crossfade,800
 `"Xin… hãy nhìn xem, Thưa Ngài Shiki."@
 ` Khi tôi thoáng thấy ngón tay cô ấy siết chặt váy, tôi không thể rời mắt được nữa.
 \
-(Bỏ qua đoạn 46)
+eroskip 46
 wavestop
 play "*5"
 bg "event/his_h15",bshutter,800
@@ -560,7 +560,7 @@ br
 playstop
 if (%flgE>=1) skip 3
 phase "bg/bg_06g",l,ark,06a,6
-Nhảy cảnh 2 dòng
+skip 2
 phase "bg/bg_27b",l,cel,06a,6
 bg #ffffff,crossfade,1500
 bg "bg/bg_40a",lcartain,400
@@ -614,7 +614,7 @@ br
 ld c,"tachi/his_t01",lshutter,400
 `"Shiki-sama."@
 `"Uwaaaaaaa!"@
-Động đất mạnh 2.100
+quakey 2,100
 br
 ` [line=3]Hisui xuất hiện với biểu cảm quen thuộc.
 \

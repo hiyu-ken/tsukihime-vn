@@ -20,7 +20,7 @@ br
 `"[line=4]!"@
 ` Tôi nắm lấy cô ấy từ phía sau, nhưng [line=4]
 wave se_05
-cơ thể tôi run rẩy mạnh mẽ.
+quakex 4,375
 ld c,"tachi/cel_t06a",crossfade,400
 ` …… trước khi tôi nhận ra mình đang nằm trên mặt đất.
 \

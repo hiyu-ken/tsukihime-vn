@@ -1,4 +1,4 @@
-Dòng ảnh nền "bg/bg_36d", loại (l), với Akiha, thời gian 10 giây, tốc độ 10.
+phase "bg/bg_36d",l,aki,10a,10
 bg "bg/cmo_20",crossfade,1500
 play "*7"
 ` Đó là nhiều năm trước.@

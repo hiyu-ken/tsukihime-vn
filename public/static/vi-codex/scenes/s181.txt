@@ -1,22 +1,22 @@
 monocro off
 playstop
-wavestop
+waveloop se_02
 bg "event/ark_h03",notrans,0
-` [line=4]Giờ nghỉ trưa ở sân thượng trôi qua thật yên bình.@
-` Tôi ngồi uống trà trò chuyện cùng Senpai, tận hưởng bầu không khí trong lành ấm áp.@
-` Nhưng trong thâm tâm tôi vẫn luôn có một cảm giác bất an mơ hồ nào đó.@
+` [line=4]Tôi không thể làm điều đó.@
+` Tôi không thể làm bất cứ điều gì cô ấy không muốn nữa.@
+` Một lần, tôi đã nhượng bộ trước cơn đau đầu này và tôi đã giết cô ấy.@
 br
-`"Này Tohno-kun, em vẫn còn bận tâm chuyện gì sao?"@
-` [line=4]Cô ấy dịu dàng hỏi khi thấy tôi cứ đăm chiêu nhìn về phía xa.@
+` Đó là lý do, tôi sẽ không bao giờ làm thế nữa.@
+` [line=4]Tôi không thể thua chính bản thân mình và khiến Arcueid khóc. Ngay cả khi cơn đau đầu này làm tôi tan vỡ, tôi vẫn sẽ không làm điều đó.
 \
 bg #ffffff,crossfade,800
 wavestop
 bg "bg/bg_31b",crossfade,400
 play "*9"
-\
-cl c,lshutter,800
-bg #000000,crossfade,1500
-playstop
+`"[line=4]Ha!"@
+` Tôi rút lui khỏi cơ thể cô ấy.@
+` Cơn đau đầu biến mất và trái tim tôi trở lại bình thường.@
+` Những khát vọng cuồng nộ bên trong tôi cũng đã tan biến, và cuối cùng tôi bắt đầu hiểu được những gì mình vừa làm.
 \
 `"[line=4][line=4]Tôi... đã làm gì vậy?"@
 ` Tôi không thể tin được điều này.@

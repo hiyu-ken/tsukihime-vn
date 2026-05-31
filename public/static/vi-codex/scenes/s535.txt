@@ -16,7 +16,7 @@ br
 ` "Này, đừng nói những thứ kỳ quặc."@
 ` "Đúng vậy. Ít nhất cậu có phẩm giá hơn tôi, nhân vật làm mọi thứ."@
 br
-` Cậu tịnh không thể làm gì một kẻ tịnh không có mặt ở đây, và thật tịch mịch buồn bã làm sao khi chỉ cất lực phàn nàn về việc chị Kohaku tịnh không chịu dọn dẹp sạch sẽ đồ đạc.@`
+ld l,"tachi/ark_t31b",lshutter,400
 ld l,"tachi/ark_t31a",lshutter,400
 `"Tịnh không phục!!@ Thế dẫu dẫu đã là tịnh không thỏa đáng rồi!@ Tớ dẫu dẫu đã muốn được mặc trang phục đáng yêu như cậu và được cất tiếng khen thông minh cơ!!"@`
 \

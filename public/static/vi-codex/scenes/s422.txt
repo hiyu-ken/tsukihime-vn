@@ -21,7 +21,7 @@ wave se_01
 ` Cơ thể tôi vẫn còn nặng nhọc và sốt nhẹ tăng thêm.@
 ` Tôi vẫn có thể đến phòng ăn và lấy một ít nước, đúng không?
 \
-Chơi âm thanh se_02
+waveloop se_02
 bg #000000,lshutter,400
 bg "bg/bg_46a",lshutter,400
 ` Hành lang trống rỗng.@
@@ -380,7 +380,7 @@ br
 ` Lần đầu tiên,
 ` Tôi muốn tự kết liễu bản thân bằng năng lực của mình.
 \
-Đúng 1.400 lần rung chuyển.
+quakey 1,400
 !w1000
 playstop
 !w2000
@@ -470,7 +470,7 @@ br
 bg #000000,crossfade,800
 playstop
 !w3000
-[hình nền "bg/ima_07"], bình tĩnh, koha, 09a, 9
+phase "bg/ima_07",l,koha,09a,9
 bg #ffffff,crossfade,800
 play "*7"
 ` [line=4]Tại sao có quá nhiều nỗi buồn?@
@@ -719,7 +719,7 @@ ld c,"tachi/aki_t04b",crossfade,400
 playstop
 ` [line=3]Vì nếu điều đó là sự thật... Từ khi Kohaku-san tám hoặc chín tuổi, Tohno Makihisa đã
 \
-bắt đầu [trên dòng=3]
+waveloop se_02
 bg #9c0120,crossfade,400
 bg "bg/bg_40a",crossfade,400
 ` nứt.@
@@ -1336,7 +1336,7 @@ cl c,lshutter,400
 bg #000000,crossfade,800
 playstop
 !w3000
-[hình nền/cmo_14], l, koha, 10a, 10
+phase "bg/cmo_14",l,koha,10a,10
 bg "bg/ima_02",crossfade,800
 play "*9"
 ` [line=4]Tôi nghe thấy tiếng hót của chim chuông cỏ. @
@@ -1908,11 +1908,11 @@ cl c,lshutter,800
 br
 ` [line=3]Đôi mắt cô ấy trở thành những dòng sông băng.@
 ` Trong khoảnh khắc đó,
-Cơ thể tôi run rẩy mạnh mẽ,
+quakey 1,500
 playstop
 ` Nỗ lực sụp đổ xuống sàn nhà vang dội.
 \
-`"Ôi trời ơi... không thể nào..."
+waveloop se_02
 bg #9c0120,crossfade,400
 bg "bg/bg_36c",crossfade,400
 `"[line=4]Hít một hơi sâu. Tôi không thể thở được.@

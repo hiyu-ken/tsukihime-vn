@@ -3,7 +3,7 @@ playstop
 wavestop
 bg "event/ark_e05b",lshutter,800
 play "*4"
-bg "word/end",crossfade,1500
+`bg "word/end",crossfade,1500
 \
 br
 ` Tay cô ấy lạnh lẽo trên vai tôi và nhiệt độ thấp của cơ thể cô ấy khiến tôi nghe thấy một âm thanh rắc rắc, đóng băng.

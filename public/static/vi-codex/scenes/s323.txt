@@ -111,7 +111,7 @@ br
 ` Có lẽ vì dồn hết tâm khí gắng gượng uống cạn ly rượu vang ban nãy, em bấy giờ dẫu vậy dẫu vậy vẫn chìm sâu vào giấc ngủ mê mệt tịnh không hề hay biết gì.@`
 `"…… Mà.@ Bấy giờ bản thân mình nên làm gì tiếp theo đây[line=3]"`
 \
-Tim tôi đập mạnh với nhịp độ 1.250 lần/phút.
+quakey 1,250
 wave se_05
 `"Ơ?"@`
 ` Có phải do dốc hết sức bế cơ thể Hisui suốt một quãng đường dài mà tôi dẫu đã kiệt sức chăng?@ Thể xác tôi đột ngột đổ gục xuống tấm thảm sàn phòng.@`

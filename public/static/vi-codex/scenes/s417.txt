@@ -117,7 +117,7 @@ ld c,"tachi/koha_t02b",crossfade,400
 playstop
 bg #000000,crossfade,400
 bg "bg/bg_45b",crossfade,400
-Chờ một chút.
+waveloop se_02
 ` [line=5]Đợi đã.@
 ` Có điều gì đó đáng sợ trong lời cô ấy nói.@
 ` Chỉ nghe thấy chúng, tầm nhìn của tôi bắt đầu biến dạng.@
@@ -194,7 +194,7 @@ bg #000000,crossfade,400
 bg "bg/bg_45b",crossfade,400
 playstop
 wave se_05
-(Ciel cảm thấy một cơn run rẩy lan tỏa khắp cơ thể)
+quakey 1,300
 ld c,"tachi/koha_t10",crossfade,400
 `"Shiki-san...?! "@
 ` Tôi nghe thấy giọng của Kohaku-san.@
@@ -222,7 +222,7 @@ br
 `   Vị ngọt của máu ấm.
 \
 bg "bg/bg_45b",crossfade,400
-Lắc lư 2,300
+quakey 2,300
 `"[line=10]Ồ."@
 ` Một tiếng đập mạnh.@
 ` Tôi chợt nhận ra đó là âm thanh của cơ thể mình va vào sàn nhà.@
@@ -473,7 +473,7 @@ playstop
 !w4000
 bg "bg/bg_24c",crossfade,400
 bg #000000,crossfade,800
-Chơi âm thanh se_02
+waveloop se_02
 br
 br
 !w1000
@@ -604,7 +604,7 @@ wavestop
 bg #000000,crossfade,800
 playstop
 !w4000
-| Bối cảnh "bg/ima_09", loại koha, phiên bản 07a, khung hình 7
+phase "bg/ima_09",l,koha,07a,7
 bg #ffffff,notrans,0
 !w2000
 bg "bg/bg_40a",crossfade,800
@@ -639,7 +639,7 @@ wavestop
 ` Nhưng, trong một khoảnh khắc,
 ` Tôi thấy cả hai bàn tay mình bị phủ đầy màu đỏ.
 \
-`waveloop se_02`
+waveloop se_02
 ` [line=3]Thật sao? Ngay cả bạn cũng vậy à?` @
 br
 ` "Hừm...?"@

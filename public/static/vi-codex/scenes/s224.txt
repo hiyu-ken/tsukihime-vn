@@ -12,25 +12,25 @@ ld c,"tachi/cel_t09",crossfade,400
 ld c,"tachi/cel_t08",crossfade,400
 ` ……"Hả?" Senpai nghiêng đầu ngạc nhiên.@
 ` Tôi cũng ngạc nhiên vì chính bản thân mình.@
-` Rốt cuộc mình vừa nói cái gì thế này?
+\
 `"Ờm, tôi không hiểu rõ lắm, nhưng cô đang nói rằng hai đêm trước, tôi đứng gần nhà cô với bộ dạng như vậy sao?"@
 `"Đúng rồi. Anh... có phải là em đúng không?"@
-`"Ah[line=3]không, xin lỗi, quên câu vừa rồi đi ạ.@ Đêm qua, Senpai có ở trong công viên gần khu trường không ạ?"@
+ld c,"tachi/cel_t10a",crossfade,400
 `"Công viên à?@ Không, tôi chẳng ở đó đâu."@
 ` [line=3]Thầy giáo thực sự tức giận.@
 ` Senpai trả lời bình thản.@
-` …… Có vẻ cô ấy không nói dối.@
+\
 ` [line=4][line=3]Thực ra mà nói, tôi cũng chẳng nhìn rõ mặt người đó.@
 ` Trong bóng tối dày đặc, mình chỉ nhìn thấy đường viền bóng dáng mờ ảo thôi.@
-` Nếu nghĩ lại, cô gái đó không nhất thiết phải là Senpai.
+ld c,"tachi/cel_t01a",crossfade,400
 `"Tohno-kun, đó không phải là tôi. Tôi chẳng có sở thích như vậy đâu."@
 `"[line=3]À... Vâng, tôi biết. Tôi chỉ muốn hỏi thôi."
-`"Vâng, xin lỗi vì hỏi chuyện kỳ lạ."@
+\
 `"Không sao đâu, chuyện vặt mà.@ …… Nhưng, chuyện gì đã xảy ra đêm qua vậy?@ Cậu hỏi có phải là tôi không, nghĩa là cậu đã gặp ai đó trông giống tôi ở công viên sao?"@
 ` Ciel-senpai và người đó vào đêm nay hoàn toàn không có liên quan.@
 ` [line=3]Senpai bỗng tỏ ra quan tâm.@
 ` …… Hừm, có vẻ Senpai vẫn không biết gì về chuyện đêm qua.@
-` Thôi, chắc đó chỉ là nhầm lẫn của mình thôi.
+\
 `"... Xin lỗi, xin hãy quên đi. Tôi nghĩ đó chỉ là người khác."@
 ld c,"tachi/cel_t09",crossfade,400
 `"Không, có lẽ tôi nhầm.@ Chắc là nhìn ai đó giống Senpai thôi."@

@@ -1,4 +1,4 @@
-[hình nền: bg_42b], koha, 05a, 5
+phase "bg/bg_42b",l,koha,05a,5
 bg #000000,notrans,0
 wave se_01
 monocro #00ffff
@@ -785,7 +785,7 @@ cl c,lshutter,400
 bg #ffffff,crossfade,800
 playstop
 !w5000
-[line=5] Màu đen đậm, koha, 06b, 0
+phase #000000,l,koha,06b,0
 monocro #0000ff
 bg #ffffff,notrans,0
 !w1000
@@ -906,18 +906,18 @@ bg "bg/bg_01c",notrans,0
 `"[line=8]!"@
 ` Tôi cảm nhận được một làn nhiệt không thể diễn tả phía sau mình.@
 ` Tôi quay lại xem điều gì đang ở đó.@
-(màu đỏ)
+textcolor #ff0000
 ` Một thứ gì đó giống như nhiệt độ đỏ rực.@
-(màu trắng)
+textcolor #ffffff
 ` Tôi thấy có thứ gì đó di chuyển về phía tôi.
 \
 `"Chết tiệt!" [line=6]@
 ` Nó theo đuổi tôi.@
 ` "Đó thực sự là một phiền toái, nên tôi sẽ chỉ giết nó đi. Tôi nắm chặt con dao."
 \
-Màu văn bản #FF0000
+textcolor #ff0000
 ` Lửa đỏ lan rộng.@
-Màu chữ trắng (`#ffffff`)
+textcolor #ffffff
 ` Có ai đó đang tiến lại gần tôi.@
 ` Một cất bước thiếu cẩn thận.@
 ` Tôi không biết nó là gì, nhưng tôi liếm môi trong sự mong đợi.
@@ -997,9 +997,9 @@ bg "bg/bg_10c",notrans,0
 \
 `"Chuyện gì đang xảy ra vậy?"@
 ` Dừng lại, tôi nhảy lùi.@
-Màu chữ đỏ rực.
+textcolor #ff0000
 ` Tôi chỉ tránh được cái nhiệt đỏ đó một cách khó khăn.@
-Màu chữ trắng.
+textcolor #ffffff
 `"[line=4]Em, điều gì ở đằng sau [lối] tay này?"@
 ` Không có gì vượt quá khuỷu tay của tôi.@
 ` Nó không gây đau đớn.@
@@ -1011,10 +1011,10 @@ Màu chữ trắng.
 ` Đối thủ chẳng làm gì cả. Nó chỉ nhìn vào cánh tay tôi, giờ đã mất tích.@
 ` Nói cách khác [line=3] chỉ một cái nhìn cũng có thể giết người.
 \
-màu đỏ
+textcolor #ff0000
 ` Không, điều đó không đúng.
 \
-màu trắng
+textcolor #ffffff
 ` Tiếng chân khô khốc vang vọng trong không khí.@
 ` Kẻ thù đang đến gần.@
 ` Đó là một hành động ngớ ngẩn.@
@@ -1032,19 +1032,19 @@ bg "bg/bg_07b",lshutter,400
 ` Cách duy nhất để giết một thứ như thế là qua một cuộc tấn công bất ngờ.@
 ` Hiện tại, tôi phải trốn thoát và giết kẻ thù sau.
 \
-[màu đỏ]
+textcolor #ff0000
 ` Bên ngoài cửa sổ,
 ` Đây là một mạng lưới vô số những sợi chỉ đỏ.
 \
-Màu chữ: trắng
+textcolor #ffffff
 ` Tôi đưa thân thể mình ra ngoài cửa sổ.@
 `"[line=3]Ôi trời ơi!..."@
 ` Bất ngờ, cơ thể tôi bị thiêu cháy.@
 ` Trước khi tôi biến thành ngọn lửa, tôi lăn lại về phía hành lang.@
 `"[line=4]Chuyện gì vậy...?"@
-Màu chữ: đỏ
+textcolor #ff0000
 ` Những sợi chỉ đỏ quấn quanh tòa nhà trường học.@
-Màu chữ trắng.
+textcolor #ffffff
 ` Tôi không hiểu.@
 ` Không có gì bên ngoài tòa nhà, nhưng nếu tôi bước ra ngoài, tôi sẽ bị thiêu cháy.
 \
@@ -1059,9 +1059,9 @@ bg #000000,crossfade,400
 bg "bg/bg_07b",lshutter,400
 ` Tôi vượt qua tầng ba đến tầng hai.@
 ` ... Tôi có thể làm được. Tôi nhanh hơn kẻ thù.@
-(Màu đỏ)
+textcolor #ff0000
 ` Không. Đằng sau tôi đã có mái tóc đỏ rồi.@
-(Màu trắng)
+textcolor #ffffff
 `"...!"@
 ` Tôi lăn.@
 ` Bỗng nhiên, chân tôi tan biến.@
@@ -1073,13 +1073,13 @@ bg "bg/bg_07b",lshutter,400
 \
 bg #000000,crossfade,400
 bg "bg/bg_11c",lshutter,400
-Lắc lư 2,100
+quakey 2,100
 `"G... Chuyện này là sao? Ôi không,...!"@
 ` Tôi hét lên.@
 ` Ngay cả khi kẻ thù vẫn đứng ở chân cầu thang, cơ thể tôi vẫn cảm thấy lạnh lẽo.@
-(Màu đỏ)
+textcolor #ff0000
 ` Ở cuối hành lang, một ngọn lửa đỏ rực.@
-(Màu trắng)
+textcolor #ffffff
 ` Hành lang nóng đến mức đổ mồ hôi, nhưng cơ thể tôi vẫn mát mẻ.@
 ` Và rồi, phần còn lại cảm giác mát mẻ cũng tan biến.
 \
@@ -1093,13 +1093,13 @@ bg "bg/bg_06g",crossfade,400
 br
 ` Tiếng chân ngày càng gần.@
 ` ... Tôi không biết kẻ thù làm thế nào.@
-(Màu đỏ)
+textcolor #ff0000
 ` Không, điều đó không đúng.@
-(Màu trắng)
+textcolor #ffffff
 ` Kĩ năng giết chóc của kẻ thù, bất kể tôi suy nghĩ thế nào, cũng vượt trội hơn tôi nhiều lần.@
-(màu đỏ)
+textcolor #ff0000
 ` Có lẽ là nhiệt độ đỏ đó.@
-(màu trắng)
+textcolor #ffffff
 ` [line=4]Nhưng người điều khiển sức mạnh thật đáng sợ.@
 ` Nó không thể che giấu sự hiện diện của mình, và thậm chí còn không nhận biết được kẻ thù.
 \
@@ -1134,7 +1134,7 @@ br
 ` Đối thủ quay lại đối mặt tôi với đôi mắt vô tình.
 \
 bg "event/koha_e04",crossfade,800
-`waveloop se_02` (dòng âm thanh lặp lại)
+waveloop se_02
 `"[line=3]Tôi ngạc nhiên. Cậu vẫn có thể di chuyển với cơ thể đó."@
 br
 ` Đối phương nói.@
@@ -1144,25 +1144,25 @@ br
 ` Kẻ thù này không cần cảm nhận sự hiện diện của bất kỳ ai hay bảo vệ bản thân.
 \
 !w1000
-(màu đỏ)
+textcolor #ff0000
 ` Môi trường xung quanh kẻ thù tràn ngập nhiệt độ.@
-(màu trắng)
+textcolor #ffffff
 !w1000
 ` [line=3]Chỉ khi tôi đến gần, da tôi như bị cháy và khiến tôi không thể di chuyển.
 \
-(màu đỏ)
+textcolor #ff0000
 !w1000
 ` Vì mái tóc đỏ ấy quấn quanh các chi của tôi.
 \
-(màu trắng)
+textcolor #ffffff
 !w1000
 `"[line=6]Haa."@
 ` Tôi nhìn lên.@
 ` Những đám mây tan vỡ. Ánh trăng tự do chiếu sáng kẻ thù.@
-(màu đỏ)
+textcolor #ff0000
 ` Kẻ thù có tự tin rằng mọi thứ đã kết thúc? Làn tóc bay phất xuống.
 \
-(màu trắng)
+textcolor #ffffff
 bg "bg/bg_11c",crossfade,1500
 ld c,"tachi/aki_t11c",lshutter,400
 br
@@ -1176,18 +1176,18 @@ ld c,"tachi/aki_t27",crossfade,800
 `"Tạm biệt anh trai. Anh đã dẫn dắt tôi vào cuộc truy đuổi kỳ lạ này, nhưng giờ nó đã kết thúc."@
 cl c,lshutter,400
 ` Cô ấy nhìn thẳng vào tôi.@
-(Màu chữ đỏ)
+textcolor #ff0000
 ` Tóc đỏ bừng lóe lên.@
-(Màu chữ trắng)
+textcolor #ffffff
 ` Tôi không thể thoát khỏi ánh nhìn của cô ấy.@
-Màu chữ đỏ đậm
+textcolor #ff0000
 ` Không, đó là sai lầm.@
-Màu chữ trắng
+textcolor #ffffff
 ` Cảm giác lạnh buốt xuyên qua sống lưng và sau đó là cảm giác mọi thứ đang bị lấy đi.@
-Màu chữ đỏ đậm
+textcolor #ff0000
 ` Vậy nên đây là... sai lầm. Tôi vẫn có thể làm được. Cắt nó. Cắt mái tóc đó. Hoặc...
 \
-Màu chữ trắng
+textcolor #ffffff
 br
 br
 br
@@ -1195,10 +1195,10 @@ br
 br
 br
 ` Không thể làm gì, ý thức của tôi dần mờ nhạt.@
-Màu chữ đỏ đậm
+textcolor #ff0000
 ` Đây chỉ là giấc mơ, nên tôi không thể nhìn thấy nó vào lúc này.
 \
-Màu chữ trắng
+textcolor #ffffff
 `"Tại sao, nó lại kết thúc như thế này?"@
 ` Akiha thì thầm như một lời nguyền.@
 ` Sau đó...@
@@ -1214,7 +1214,7 @@ br
 \
 wavestop
 bg #000000,crossfade,800
-(Bối cảnh chuyển sang hình nền 32d, Koha)
+phase "bg/bg_32d",l,koha,06a,6
 bg "bg/bg_40a",notrans,0
 play "*2"
 br
@@ -1539,7 +1539,7 @@ bg #000000,lcartain,400
 bg "bg/bg_22b",lcartain,400
 bg #000000,lcartain,400
 bg "bg/bg_32b",lcartain,400
-[chuyển vòng se_11]
+waveloop se_11
 ` [line=4]Tôi đến lâu đài.@
 br
 ` Những điều tôi không nghĩ đến trong trường học lại xuất hiện trong tâm trí tôi.@

@@ -144,7 +144,7 @@ bg #000000,lshutter,400
 bg "bg/bg_10f",lshutter,400
 ` Tôi bước vào hành lang.@
 ` Ngay cả ở tầng hai, mái tóc đỏ vẫn lấp đầy không khí... Chúng giống như các mạch máu sống.@
-2,50 (Độ rung chuyển)
+quakey 2,50
 `"[line=5]?"@
 ` Cảm giác trong chân tôi biến mất và tôi ngã xuống đất.@
 `"Tôi nhìn xuống" [line=5]@

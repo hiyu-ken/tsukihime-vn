@@ -2,48 +2,48 @@ monocro off
 playstop
 wavestop
 bg "bg/bg_25b",notrans,0
-play "*2"
+` [line=4]Tôi sẽ tìm kiếm khu mua sắm.@
 br
-` Hôm nay là một ngày nắng ấm tươi đẹp.@
-` Tôi nhanh chóng chuẩn bị sách vở và mặc đồng phục để đến trường.@
-` Dù cơ thể vẫn còn chút mệt mỏi từ chứng thiếu máu hôm qua, nhưng tinh thần tôi đã phấn chấn hơn rất nhiều.
+` Ngay cả khi cô ấy đang đau đớn nhiều đến thế, cô ấy không phải là người loại bỏ nghỉ ngơi vì điều đó.@
+` Cô ấy bảo tôi quay lại.  @ Ý nghĩa khác, cô ấy nói rằng cô ấy sẽ không quay lại.@
+` Tôi nghĩ cô ấy dự định tìm kiếm ma cà rồng một mình.
 \
-bg #000000,lcartain,800
-bg "bg/bg_01a",lcartain,800
+` [line=4]Sau đó, tôi sẽ đến khu mua sắm và tìm kiếm ma cà rồng hoặc Tử Giả trước khi cô ấy làm.@
+` Arcueid không tìm thấy chúng, nhưng tôi có thể nhận ra những Người Chết nếu tôi tháo kính ra.@
 br
-` [line=6]Sân trường náo nhiệt tiếng cười nói của các học sinh khác làm tôi cảm nhận được nhịp sống bình thường thường nhật mà tôi hằng mong muốn.@
-` Nhưng trong lòng tôi vẫn không khỏi bận tâm về bóng dáng tu sĩ cứu mạng tôi đêm hôm kia.@
+`"[line=6]Được rồi."@
+` Tôi tháo kính ra và nhíu mày vì đau đầu nhẹ, rồi chạy đến khu mua sắm.
 \
 bg #000000,lcartain,800
 monocro #ff00ff
 bg "bg/bg_26a",lcartain,800
-` [line=4]Tôi bước vào hành lang lớp học.@
-` Bỗng nhiên, từ phía góc hành lang phía trước, một bóng người quen thuộc bước ra.@
-ld c,"tachi/cie_t01a",lshutter,800
+`"[line=4]Ối chao!"@
+` Đau nhức lan tỏa trên trán tôi.@
+` ... Tôi không tập trung tìm kiếm những "dấu hiệu" lắm, nhưng dường như việc chạy quanh thị trấn mà không có kính thật là một gánh nặng lớn cho não bộ của tôi.@
 br
-`"[line=4]A, chào buổi sáng, Tohno-kun!"@
-` Ciel-senpai rạng rỡ vẫy tay chào tôi hệt như mọi ngày.
+`"[line=4]Đáng ghét! Nhưng tôi vẫn không tìm thấy gì."@
+` ... Mọi người đi lại trong khu mua sắm đều có những "dấu hiệu" bình thường trên người.@
+` Tôi không nhìn thấy ai bị vẽ với những nét chữ rối loạn mà tôi từng thấy trước đó.
 \
-\
-` Tôi ngơ ngác đứng trân trân nhìn cô ấy.@
-` Sự dịu dàng ngọt ngào tỏa ra từ cô ấy hoàn toàn khác hẳn với vẻ lạnh lùng, tàn bạo của vị Hành Pháp Giả găm hắc kiếm phóng hỏa đêm hôm kia.@
-`"Sao thế Tohno-kun? Trông mặt em cứ ngơ ngác hệt như vừa nhìn thấy ma vậy đó."@
-` [line=2]Cô ấy khẽ nghiêng đầu cười khúc khích trêu chọc.
-\
+`"... Ồ" (một tiếng thốt đau nhẹ)@
+` Tôi xoa trán bằng ngón tay.@
+` Khi nào tôi còn không đeo kính, cơn đau đầu này chỉ sẽ càng tồi tệ hơn.@
+` [line=2]Tôi vẫn không thể buông bỏ dễ dàng như vậy.@
+` Hít một hơi sâu, tôi lại chạy qua khu mua sắm một lần nữa.
 \
 bg #000000,lshutter,800
 !w1000
 bg "bg/bg_26a",lshutter,800
-ld c,"tachi/cie_t02a",crossfade,400
-`"Thế thì tốt quá rồi. Em nhớ phải biết giữ gìn sức khỏe của mình đấy nhé."@
-` Cô ấy mỉm cười dịu dàng rồi lẳng lặng bước đi về phía lớp học của mình.
-\
-cl c,lshutter,800
-` [line=4]Nhìn theo bóng lưng cô ấy khuất dần sau ngã rẽ, lòng tôi trào dâng một cảm giác hỗn loạn vô cùng.@
-` Không thể nào.@ Người vừa trò chuyện vui vẻ dịu dàng với tôi chính là Senpai tốt bụng thường ngày mà.@
+` Tôi bắt đầu thở khò khè vì mệt mỏi.@
+` Mệt nhoài từ việc chạy cùng với cơn đau đầu khiến tôi muốn nôn mửa.@
+` Dù chạy quanh bao nhiêu lần, tôi vẫn không tìm thấy xác chết nào hay bất cứ điều gì bất thường.@
+` Đặt tay lên trán, tôi cảm nhận được một cái nóng sốt.@
+` Thật ra, tôi có vẻ như bị sốt cao.@
+`"[line=4]... Chết tiệt, tôi chưa xong đâu!"@
+` Tôi tự nhủ như vậy khi bắt đầu chạy lại một lần nữa.
 \
 br
-bg #000000,lcartain,1000
+` [line=4]Và sau đó...@
 br
 wave se_12
 mov %flushcount,0
@@ -53,34 +53,34 @@ bg "bg/bg_26a",notrans,0
 wait 16
 dec %flushcount
 if (%flushcount>=0) skip -5
-`"Vâng. Trên này lộng gió và yên tĩnh thật đấy."@
-` Tôi bước lại gần và ngồi xuống chiếc ghế băng bên cạnh cô ấy.@
-`"Nào, uống chút trà nóng cho ấm người đi em."@
-` Cô ấy dịu dàng rót một ly trà ấm từ chiếc bình giữ nhiệt rồi đưa cho tôi.
+`"... À."@
+` Không ở đây, mà ở nơi xa hơn.@
+` Trong một con hẻm hẹp giữa hai tòa nhà, tôi thấy những tia sáng bay lượn trong không khí.@
+` Không, chính xác hơn,
+` nó giống như những "điểm" của cái chết đang bắn ra và biến mất.
 \
-\
-` [line=4]Tôi nhận lấy ly trà, khẽ nhấp một ngụm. Vị trà ấm áp lan tỏa khắp cơ thể làm tôi thấy dễ chịu vô cùng.@
-` Đứng bên cạnh Senpai thế này, tôi quyết định phải gặng hỏi để làm rõ những hoài nghi trong lòng mới được.@
-`"Này, Senpai... Cho em hỏi một chuyện hơi kỳ lạ nhé."@
-ld c,"tachi/cie_t12a",crossfade,400
+`"[line=4]Đó là...""@
+` "Không có sai lầm nào."@
+` "Nó hoàn toàn giống như khi Arcueid đánh bại Tử Giả trước đây."@
+` "Cô ấy [line=4]trong tình trạng đó, đang chiến đấu một mình..."!"@
 br
-` [line=4]Cô ấy khẽ mỉm cười đầy tò mò.
-\
+`"[line=4]Tìm thấy cô ấy...""@
+` "Tôi quên đi nỗi đau và mệt mỏi của mình, lao vào con hẻm."
 \
 monocro off
 bg #000000,lcartain,800
 play "*6"
-` Cô ấy nghiêng đầu ngơ ngác hệt như không hiểu tôi đang nói gì.@
-` Vẻ mặt tự nhiên không chút gượng gạo hay che giấu đó của cô ấy làm tôi bỗng cảm thấy vô cùng nhẹ lòng.
+` "Cổng vào con hẻm."@
+` "Tôi chạy dọc theo con đường hẹp giữa các tòa nhà."@
 br
-`"À không có gì đâu ạ. Chắc do em ngủ mơ thấy chuyện kỳ lạ thôi."@
-` Tôi khẽ thở phào nhẹ nhõm, thầm cười cho sự hoài nghi ngớ ngẩn của mình.@
+`"Chết" đang bay lượn trong không khí và tan biến đi.@
+` ... Cô ấy đang chiến đấu với bao nhiêu? Có một lượng khổng lồ.
 \
-\
-cl c,lshutter,800
-bg #000000,crossfade,1500
+`"[line=6] Gh."@
+` Tôi gần như không thể chịu đựng được.@
+` Khi tôi chạy vào ngõ hẻm, cột sống của tôi rên rỉ phản đối.@
 br
-!w3000
+`"Haa[line=6]agh."@
 ` Như thể một con dao đang cắt chậm nhưng chắc chắn qua cột sống của tôi,
 ` một cơn đau từ bên trong tôi len lỏi ra ngoài.@
 ` Bản thân tôi như bị tiếng thét của trực giác xé nát.@
@@ -139,7 +139,7 @@ br
 ` Mắt Arcueid đột nhiên chuyển hướng.@
 playstop
 ld c,"tachi/ark_t20b",notrans,0
-[lời bài hát]
+waveloop se_02
 ` Mắt cô ấy không còn màu đỏ thường thấy, mà là một chớp sáng vàng.@
 ` Không phải vì chúng tôi đã gặp nhau.@
 ` Chỉ đơn giản là tôi nhìn vào đôi "mắt" đó.
@@ -154,8 +154,8 @@ br
 ` Tôi không nên ở đây.@
 ` Tôi không nên đứng trước thứ đó.@
 br
-` Nó sẽ giết bạn.@
-` Bạn không thể chống lại nó.@
+`   Nó sẽ giết bạn.@
+`   Bạn không thể chống lại nó.@
 br
 ` "Sinh vật" đó ở một cấp độ hoàn toàn khác biệt.@
 ` Không phải là vấn đề cao hơn hay thấp hơn, mà là điều vượt ra ngoài sự đánh giá.@
@@ -299,14 +299,14 @@ wave se_01
 ` Thị lực tôi mờ mịt và không rõ ràng.@
 ` Lửa bên trong tôi đang bùng cháy[line=4]Tôi phải giải phóng nó ngay lập tức.
 \
-(nhảy qua 26 dòng)
+eroskip 26
 wave se_01
 ` Tôi thở dốc.@
 ` Tôi bắt đầu di chuyển chậm rãi.@
 ` Tôi di chuyển hông xuống bụng cô ấy.@
 ` Cô ấy mở rộng chân, tôi ép mình giữa hai chân cô ấy.
 \
-Âm thanh lặp lại se_02
+waveloop se_02
 `"Chẳng... biết nữa."@
 ` Cô ấy nhìn tôi với vẻ không chắc chắn.@
 ` Nhìn như vậy khiến đầu tôi đau nhức.@

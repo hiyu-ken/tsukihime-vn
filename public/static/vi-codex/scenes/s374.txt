@@ -1,4 +1,4 @@
-[hình nền/hình nền_45c], l, aki, 11a, 11
+phase "bg/bg_45c",l,aki,11a,11
 bg "bg/bg_33c",lcartain,800
 play "*1"
 ` Nhường phần chăm sóc Akiha lại cho Kohaku-san, tôi bước xuống tầng một.@
@@ -406,7 +406,7 @@ br
 br
 ` [line=3]Tôi muốn ôm lấy cơ thể run rẩy của cô ấy và khiến cô ấy trở thành của tôi.
 \
-(Bỏ qua dòng 94)
+eroskip 94
 bg #000000,lshutter,800
 !w1500
 bg "bg/bg_45c",lshutter,800
@@ -1094,7 +1094,7 @@ br
 `"[line=6]Tại sao bạn lại phải..."@
 ` [line=4]Cơn giận với chính bản thân mình vì không hứa với cô ấy, ngay cả khi đó chỉ là một lời dối trá.
 \
-Eros vượt qua giới hạn 42
+eroskip 42
 bg #000000,crossfade,800
 bg "event/aki_h07",crossfade,800
 `"[line=4]Ừm...?!@"@
@@ -1580,7 +1580,7 @@ br
 bg #9c0120,notrans,0
 bg "bg/bg_54b",notrans,0
 wave se_06
-[line=1] Sự rung chuyển mạnh độ 1,200.
+quakey 1,200
 ` Tôi ngã xuống đất.
 \
 wave se_01
@@ -1600,7 +1600,7 @@ wave se_01
 ` Shiki giữ cơ thể bất tỉnh của cô ấy và nhìn xuống tôi với vẻ khinh bỉ.
 \
 ld c,"tachi/hal_t02",lshutter,800
-[chuyển cảnh: se_02]
+waveloop se_02
 `"... Anh đã làm được. Anh thực sự đã lấy đi tất cả từ tôi."@
 ` Nếu lời nguyền có thật, chúng có lẽ sẽ nghe giống như vậy.@
 br

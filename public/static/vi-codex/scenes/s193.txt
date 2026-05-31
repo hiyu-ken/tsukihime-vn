@@ -8,12 +8,12 @@ bg "bg/bg_29b",crossfade,800
 ` Lồng ngực tôi nghẹn lại như đang chìm nghỉm dưới nước sâu.@
 ` Cơ thể tôi bồn chồn, không thể kiên nhẫn chờ đợi thêm dẫu chỉ một phút.@
 ` Việc ngồi yên một chỗ chờ đợi thế này thực sự là một sự ngu xuẩn tột cùng, lòng tôi chỉ muốn lập tức lao đi tìm cô ấy thêm lần nữa.
-
+\
 `"[line=8]"@
 ` Nhưng, trái tim tôi bình tĩnh.@
 ` Ngay cả khi cơ thể thúc giục tôi vội vã, trái tim vẫn giữ bình tĩnh.@
 ` Tôi tiếp tục kiên nhẫn đứng đợi dưới ánh trăng rạng rỡ.
-
+\
 br
 ` [line=4]Đêm quá yên tĩnh.@
 ` Không có âm thanh nào, như thể đêm đã đông cứng mọi thứ.@
@@ -23,11 +23,11 @@ br
 br
 ` Vì vậy, lúc này,
 ` Tôi đang đắm chìm trong hạnh phúc.
-
+\
 ` Chỉ có thời gian trôi qua.@
 ` Chỉ còn hai giờ nữa là bình minh.@
 ` Nếu mặt trời mọc lên, tôi và Arcueid có lẽ sẽ vĩnh viễn không bao giờ có thể gặp lại nhau nữa.
-
+\
 !w4000
 br
 br
@@ -37,7 +37,7 @@ br
 ` Và thời gian cứ thế trôi đi.@
 ` Và sau đó, giống như một con thỏ trắng trên tuyết,
 ` Cô ấy bất ngờ xuất hiện trong công viên.
-
+\
 bg #000000,crossfade,800
 bg "event/ark_e10",crossfade,800
 play "*7"
@@ -47,46 +47,46 @@ play "*7"
 `"[line=4]Arcueid."@
 ` Tôi gọi tên cô ấy.@
 ` Cô ấy không phản hồi cũng không nhìn về phía tôi.
-
+\
 `"……………………"@
 ` Tôi không thể nói chuyện.@
 ` Tôi hoàn toàn bế tắc, chẳng biết phải thốt lên lời nào để có thể nhìn thấy nụ cười rạng rỡ của cô ấy thêm lần nữa.@
 ` Vào lúc này, tôi cảm giác bất kỳ lời lẽ nào thốt ra cũng chỉ khiến trái tim cô ấy thêm trĩu nặng u sầu.
-
+\
 ` ………@
 ` ………………@
 ` ………………………@
 ` Thời gian dường như kéo dài vô tận.@
 ` Trong thực tế, tiếng chuông đồng hồ vang lên chỉ có thể là khoảng một ngàn lần.@
 ` Arcueid nâng đầu lên, như thể đang quan sát một giấc mơ.
-
+\
 `"Cậu không chịu về nhà gì cả, Shiki. Thế nên tôi mới phải đến đây vì không thể bỏ mặc cậu một mình được. ... Dẫu cho trong lòng tôi thực sự đã định quay về phòng của mình nghỉ ngơi rồi."@
 ` Cô ấy ngập ngừng nói từng lời, nhưng vẫn cố gượng giữ lấy vẻ nhí nhảnh, vui tươi thường ngày.
-
+\
 `"... Tất nhiên là tôi sẽ không quay về rồi. Tôi đã hứa là sẽ giữ trọn lời thề mà. Đêm nay tôi vẫn chưa giúp ích gì được cho cậu cả. Tôi chưa giúp được gì đêm nay."@
 `"[line=4]Đủ rồi. Cậu không cần phải làm những việc này vì tôi nữa đâu."@
 `"Đủ? [line=2]Điều gì mới đủ, Arcueid?!?"
-
+\
 `"Chuyện đó đâu cần tôi phải nói rõ ra chứ. Bản chất tôi là ma cà rồng, còn cậu là con người mà, Shiki."@
 ` Tôi vốn không có quyền nhận sự giúp đỡ từ cậu. Trước đây tôi đã quá ích kỷ không nhận ra điều đó, dẫu biết rằng nếu cứ tiếp tục ở bên nhau, tôi sẽ phá hủy hoàn toàn cuộc đời cậu mất.@
 ` [line=4]Vì vậy...@
 ` "Đủ rồi," cô thì thầm.
-
+\
 ` [line=4]Cậu nói gì đột ngột vậy?@
 br
 ` Tôi đã chuẩn bị cho điều đó từ khi tôi đồng ý giúp đỡ cậu.@
 ` Tôi hiểu rõ hơn cậu nhiều rằng cậu là một ma cà rồng.@
 ` Mặc dù biết điều đó, tôi vẫn nói rằng tôi sẽ giúp cậu.@
 ` [line=4]Điều này... tôi không thể đồng ý!
-
+\
 `"... Arcueid, đừng lo lắng về chuyện trước đó. Cậu chỉ mệt mỏi và yếu ớt thôi.@
 ` Tôi thực sự là một gã ngốc vô tâm, nên đã không nhận ra lời nói dối đầy gượng gạo của cậu.@
 ` Cậu không hề đau đớn vì vết thương, mà thực chất là đang phải chịu đựng cơn khát máu điên cuồng của ma cà rồng đúng không?@
 ` "... Senpai đã kể cho tôi nghe toàn bộ sự thật rồi."
-
+\
 `"... Ả đàn bà đó... Từ khi nào lũ đặc vụ của Táng Nghi Xã lại trở nên nhiều lời như thế chứ?@
 ` Không còn vẻ căm ghét thường ngày, gương mặt Arcueid chỉ ngập tràn sự mệt mỏi, cô khẽ thở hắt ra một hơi dài tủi hờn.
-
+\
 `"... Tôi đã nghe toàn bộ câu chuyện từ Senpai rồi. Nên tôi sẽ nói thẳng luôn nhé.@
 ` Tôi không thấy có vấn đề gì to tát cả, Arcueid à."@
 ` Cậu đang phải chịu đựng nỗi đau lúc này, nhưng chỉ cần vài ngày nữa cơ thể cậu sẽ phục hồi lại bình thường đúng không? Thế thì đâu có gì phải lo lắng chứ.@ Vậy nên bạn không cần lo lắng.@
@@ -94,20 +94,20 @@ br
 ` Vậy thì cũng được.@ Chúng ta cứ tiếp tục đồng hành bên nhau hệt như chưa từng có chuyện gì xảy ra từ trước đến nay đi."@
 `"... ..."@
 ` Với chút khó khăn, Arcueid mỉm cười yếu ớt.
-
+\
 `"…… Shiki, bạn hoàn toàn không hiểu.@ Làm thế này là vô ích.@ Ngay cả bây giờ, tôi vẫn muốn uống máu của bạn."@
 `"[line=4]Nhưng bạn chỉ nghĩ như vậy.@ Hãy cố gắng và chống lại nó.@ …… Bạn đã từng cố gắng rất nhiều như vậy phải không?"@
 `"..."@ "Đúng vậy... từ trước đến nay tôi luôn có thể kiềm chế được bản năng, tôi đã luôn làm được điều đó."@
 ` Nhưng giờ đây tôi nghĩ mọi cố gắng đều đã vô dụng rồi. Chỉ vì tò mò muốn biết cuộc sống vui vẻ của con người ra sao, tôi đã làm quá nhiều việc dư thừa mất rồi. Ngay cả khi mục đích duy nhất của sự tồn tại là săn lùng những ma cà rồng khác, tôi vẫn làm nhiều việc dư thừa.@
 ` Nếu ngay từ đầu tôi hoàn toàn trống rỗng không biết gì cả, tôi sẽ chẳng bao giờ nảy sinh lòng tham muốn có được hạnh phúc. Nếu tôi không ỷ lại vào cậu mà tự mình đi săn Roa, mọi chuyện đã không đi đến bước đường này. Nếu tôi không dựa vào bạn và tự mình truy đuổi kẻ thù, mọi thứ sẽ ổn thôi.
-
+\
 `"[line=6]"@
 ` Thật ra cô ấy một mình cũng ổn...?@
 ` Cô ấy nghiêm túc à? Cô ấy thực sự tin điều đó sao?@
 ` Với vẻ mặt buồn bã như vậy?@
 ` Với giọng nói buồn bã như vậy?@
 ` Với vẻ ngoài cô đơn và trên bờ vực sụp đổ?
-
+\
 `"[line=4]Thật sự điều đó khiến tôi bực mình! Hãy tỉnh lại đi, ngốc ạ..."@
 bg #000000,tshutter,400
 bg "bg/bg_29b",bshutter,400
@@ -120,33 +120,33 @@ br
 ` "Đừng có biểu cảm như vậy."@
 br
 `"[line=4]Đừng nói những chuyện đó."
-
+\
 ` "... Cuối cùng."@
 ` Nếu bạn cuối cùng cũng nhận ra cuộc sống là vui vẻ,
 ` xin đừng đơn giản từ bỏ hạnh phúc như vậy.
-
+\
 ld c,"tachi/ark_t13",crossfade,400
 `"[line=4]Shiki... anh ơi... cậu đang khóc đấy à...?"@
 `"Làm gì có chứ! Tại sao tôi lại phải khóc vì cậu cơ chứ...!"@
 br
 ` Chỉ là... cô ấy nói những điều ngốc nghếch như vậy.@
 ` Nó khiến tôi rất tức giận, đến mức cảm xúc của tôi đang mất kiểm soát.
-
+\
 `"Tóm lại là, chúng ta sẽ tiếp tục săn lùng tên ma cà rồng Roa đó đúng không? Chỉ cần tiêu diệt được hắn, cậu sẽ có thể yên tâm nghỉ ngơi điều dưỡng. Mọi bi kịch sẽ hoàn toàn được giải quyết ổn thỏa. Không có vấn đề gì cả...!"@
 cl c,crossfade,400
 ` Với đôi mắt vô cùng bình yên, cô ấy gật đầu thầm lặng.
-
+\
 ld c,"tachi/ark_t01b",crossfade,400
 `"[line=4]Nhưng bây giờ mọi chuyện đã quá muộn đối với tôi rồi, Shiki à. Cậu bảo tôi đã luôn kiềm chế bản thân rất tốt, nhưng thực ra hoàn toàn không phải vậy đâu."@
 ` "Trước kia, tôi chỉ dừng lại vì bạn sợ tôi. Nhiều người đã sợ tôi, giống như một con quái vật." Vì vậy, tôi không cảm thấy gì khi bị ghét hoặc sợ hãi.@
 ` "... Nhưng chuyện này thực sự kỳ lạ lắm cậu biết không? Tôi tuyệt đối không muốn Shiki nhìn tôi bằng ánh mắt sợ hãi như nhìn một con quái vật tàn bạo. Thế nhưng... dẫu cậu có yêu quý tôi thế nào đi nữa, bản chất của tôi vẫn vĩnh viễn là một con quái vật hút máu người."@
 ` "Ha ha."
-
+\
 `"Cô ấy cố gắng cười khô khốc.@
 ` "... Nó chỉ xảy ra quá nhanh, tôi chỉ bị sốc thôi."@
 ` (Một nụ cười gượng gạo)@
 cl c,crossfade,400
-
+\
 `"[line=4][line=4]Không... nó chỉ xảy ra tự nhiên, tôi không ngờ lắm."@
 ` "Đó là một lời nói dối. Tôi thậm chí còn không thể lừa bản thân mình với điều đó."@
 ` Arcueid đau đớn quay mặt đi.@
@@ -154,7 +154,7 @@ br
 ` "Thầy đã bảo tôi trước đó."@
 ` "Bạn sẽ chỉ làm tổn thương người khác khi nói những lời dối trá mà bạn thậm chí còn không thể lừa bản thân mình."@
 ` "... Vì vậy tôi sẽ không gặp bạn nữa."
-
+\
 ld c,"tachi/ark_t10",crossfade,400
 `"Tôi sợ hãi tột cùng cái khoảnh khắc cậu nhìn tôi bằng ánh mắt sợ sệt đó. Tôi chắc chắn sẽ hoàn toàn tan vỡ nếu kiếp sau cậu tiếp tục nhìn tôi như thế mất."@
 ` "[line=4]Không bao giờ nữa."@
@@ -164,29 +164,29 @@ ld c,"tachi/ark_t22",crossfade,400
 ` Chúng ta có lẽ đã gắn bó quá nhiều với nhau."@
 ` Cô ấy quay người nhanh chóng.@
 ` Cô ấy nói thế trong khi cố không nhìn vào tôi.
-
+\
 ` ……gắn bó quá nhiều, phải không?@
 ` Có thể là như vậy.@
 ` Đối với cả tôi và Arcueid.@
 ` Nếu chúng ta không biết nhiều về nhau, chuyện này sẽ không bao giờ xảy ra.@
 ` Tôi chỉ muốn quay lại cuộc sống bình thường của mình, và cô ấy có lẽ sẽ tiếp tục một mình.
-
+\
 `"... Cậu nói đúng đấy. Có lẽ hai chúng ta đã gắn bó quá sâu sắc rồi."@
 ` Thế nhưng, tôi nghĩ chuyện đó hoàn toàn tốt đẹp mà. Chẳng phải việc sống cô độc một mình suốt hàng trăm năm qua mới là điều cô đơn nhất sao?@
 `"[line=4]"@
 ` Arcueid không trả lời.@
 ` Cô ấy trông thật mong manh.@
 ` Tôi muốn ôm cô ấy và ủng hộ cô ấy.
-
+\
 `"Thực lòng mà nói, tôi vô cùng trân trọng những ngày tháng qua cùng cậu. Dẫu tôi đã suýt chết dưới lưỡi dao của cậu, nhưng ký ức đó lại không hề tệ chút nào."@
 ` "Vậy thì hãy để tôi đồng hành bên cạnh cậu cho đến tận giây phút cuối cùng đi. Làm sao tôi có thể thanh thản ngủ ngon khi biết mình đã bỏ mặc cậu đơn độc chiến đấu chứ?"
-
+\
 `"…… Không, cậu không cần lo lắng cho tôi."@
 ` "Tôi chắc chắn sẽ tiêu diệt Roa dẫu có phải đánh đổi bằng cả mạng sống này đi chăng nữa. ... Cậu đã làm quá đủ rồi, Shiki. Thành phố này sẽ sớm bình yên trở lại thôi, nên cậu không cần phải bận tâm thêm nữa đâu."@
 ` Khi cô ấy quay lưng lại với tôi, giọng nói của cô ấy không còn ánh sáng thường thấy.@
 ` Tôi không thể chịu đựng điều này nữa.@
 ` Tôi sẽ ngừng cư xử như vậy.
-
+\
 `"…… Đồ ngốc này... Đó hoàn toàn không phải là điều tôi đang lo lắng đâu."@
 ` "Cất lời dịu dàng, tôi bước chậm rãi lại gần cô ấy."@
 cl c,crossfade,400
@@ -197,16 +197,16 @@ ld c,"tachi/ark_t10",crossfade,400
 `"[line=4]Shiki."@
 `"Bởi vì cậu sẽ chẳng bao giờ chịu hiểu nếu tôi không nói thật lòng, nên tôi sẽ nói hết cho cậu nghe..."@
 ` "... Nhìn này, tôi không đồng ý giúp đỡ cậu ngăn chặn ma cà rồng trong thành phố này. Tôi thực sự không có những lý tưởng cao cả như bảo vệ thành phố mà tôi đang sống."
-
+\
 ` Đúng vậy, tôi chỉ đang tự lừa mình. Lý do chẳng gần gũi gì với sự cao quý ấy.@
 ` Tôi chỉ...
-
+\
 `"Đơn giản là vì tôi đã yêu cậu mất rồi. Tôi muốn bảo vệ cậu nên mới đồng ý sát cánh cùng cậu."@
 ` [line=4]Vì vậy giờ đây tôi không thể bỏ mặc cậu được."@
 br
 ` Tôi sẽ nói tất cả mọi thứ.@
 ` Và tôi ôm lấy Arcueid một cách thẳng thắn.
-
+\
 playstop
 bg #000000,crossfade,800
 bg "bg/ima_01",crossfade,800
@@ -216,39 +216,39 @@ play "*8"
 ` Cô ấy chỉ đứng đó, ngạc nhiên, chấp nhận cái ôm của tôi.@
 br
 ` Một tiếng động vang lên.
-
+\
 `"Nếu cậu muốn uống máu của tôi... thì chuyện đó cũng chẳng có gì sai cả."@
 br
 ` Một tiếng đập mạnh.
-
+\
 `"[line=4][line=4]... Shiki... anh ơi... vòng tay anh siết chặt quá... em hơi đau..."@
 br
 ` Tiếng đập khác.
-
+\
 `"[line=4]Đó là sự cân bằng. Vì tôi..."@
 br
 ` Một âm thanh đập lại.
-
+\
 `"[line=4]Anh thực sự luôn khao khát có được em. Ngay cả lúc này, nghe tiếng tim em đập liên hồi, tâm trí anh đã hoàn toàn bị cuốn vào cơn cuồng si."@
 br
 ` Tiếng đập cuối cùng.@
 ` Từ đôi tay cô ấy, tôi ôm lấy, cơ thể cô ấy áp vào người tôi,
 ` Tôi có thể cảm nhận nhịp đập của trái tim cô ấy.
-
+\
 `"... Không đâu, Shiki... anh ơi... Chuyện này... chỉ là... phút bốc đồng nhất thời của anh thôi..."@
 br
 ` Tiếng đập, đập.@
 ` Chỉ cần lắng nghe nhịp tim thổn thức này thôi [line=4] cũng đủ khiến tôi muốn ôm siết lấy cô ấy cho đến lúc chết.
-
+\
 `"[line=4]Dẫu tương lai có ra sao đi chăng nữa, tình yêu anh dành cho em lúc này chính là sự thật duy nhất của đời anh. Anh bất chấp tất cả những gì sẽ xảy đến mai sau."@
 br
 ` Mặt trăng, ánh sáng mờ ảo.
-
+\
 `"[line=4]Lẽ nào... em ghét anh sao?"@
 br
 ` Nhịp tim bỏ lỡ.@
 ` "…… Không. Tôi không thể trả lời điều đó."
-
+\
 `"Nhịp tim ngừng lại.@
 br
 ` (Đôi mắt huyền bí lướt qua, để lại một cảm giác rờn rợn.)@
@@ -258,13 +258,13 @@ br
 ` Ban đầu, chỉ nhẹ nhàng.@
 ` Rồi sau đó, mạnh mẽ như đang đáp lại tôi.@
 ` Cô ấy siết chặt cơ thể tôi vào trong vòng tay mình.
-
+\
 bg #000000,crossfade,800
 bg "bg/bg_29b",crossfade,800
 ` Sự ôm ấp của chúng tôi kéo dài chỉ một khoảnh khắc.@
 ` Tôi thậm chí còn không biết ai trong số chúng tôi tách ra trước.@
 ` Nhưng như thể đã được sắp đặt, cả hai chúng tôi đều buông tay.
-
+\
 ld c,"tachi/ark_t17",crossfade,400
 `"………" @
 ` Cô ấy đỏ bừng mặt vì ngượng ngùng rồi vội vã quay mặt nhìn đi chỗ khác. @
@@ -273,7 +273,7 @@ ld c,"tachi/ark_t17",crossfade,400
 ` Khi đêm qua đi, thời gian của Arcueid cũng kết thúc. @
 ` [line=4]Nhưng tôi không thể chịu đựng được việc phải chia tay cô ấy nữa. @
 ` [line=4]Nếu sự ích kỷ này được thần linh dung thứ, ngay vào khoảnh khắc này, tôi thực sự muốn... @
-
+\
 `"[line=4]Về... phòng của em nhé." @
 `"Ồ?"@
 `"[line=4]... Ưm, chúng ta... có thể về phòng của em được không...? Nếu anh đã hứa sẽ luôn bảo vệ em... em tuyệt đối không muốn anh quay về biệt thự nữa."@
@@ -281,7 +281,7 @@ ld c,"tachi/ark_t17",crossfade,400
 br
 ` "... Thậm chí tôi cũng hiểu ý cô ấy."@
 ` Im lặng gật đầu đồng ý, tôi lẳng lặng theo chân Arcueid trở về căn hộ của cô ấy.
-
+\
 bg #000000,crossfade,800
 !w2000
 bg "bg/bg_15b",crossfade,800
@@ -292,7 +292,7 @@ bg "bg/bg_15b",crossfade,800
 br
 ` Tôi không thực sự hiểu điều này,
 ` đó chính là sự giằng xé đầy ngọt ngào giữa lý trí tỉnh táo và cơn cuồng si điên dại mà tình yêu đôi lứa mang lại.
-
+\
 `"[line=4]Arcueid."@
 ` Tôi cố quay lại.@
 ` [line=4]Trước khi tôi hoàn thành, tôi cảm thấy bàn tay cô ấy nhẹ nhàng đặt lên lưng tôi.@
@@ -300,40 +300,40 @@ br
 `"Anh đừng quay lại vội... Xin hãy cứ đứng yên như thế một lát thôi."@
 ` …… Giọng nói của cô ấy vô cùng bình tĩnh.@
 ` Bàn tay ấm áp đặt trên lưng tôi vẫn giữ nguyên không dịch chuyển, hệt như cô ấy đang cố gắng xác thực một điều gì đó vô cùng thiêng liêng.
-
+\
 `"... Này Shiki... anh ơi... Anh còn nhớ cái lần đầu tiên em đứng đợi anh ở công viên không?"@
 `"Anh nhớ chứ. Cô gái mà anh đã nhẫn tâm hạ sát lại đang đứng đợi anh với nụ cười rạng rỡ trên môi. Làm sao anh có thể quên được hình ảnh ấy chứ."@
 `"Ừ[line=4]thực ra lúc đó... em đã ghét anh lắm đấy."@
 ` Dẫu lời nói mang vẻ trách móc, nhưng giọng điệu của cô ấy lại vô cùng dịu dàng, tràn đầy yêu thương.
-
+\
 `"... Arcueid?"@
 `"[line=2]Em biết rõ bản thân đã chạm đến giới hạn chịu đựng cuối cùng, không thể tự mình đàn áp bản năng khát máu được nữa. Em nghĩ đây là cơ hội cuối cùng của đời mình nên mới điên cuồng săn đuổi Roa.@"@
 ` Tôi nghĩ cuối cùng tôi đã tìm thấy anh ấy, và sau đó ai đó mà tôi thậm chí còn không biết đã giết tôi và phá hủy mọi thứ.@
 ` "Vào khoảnh khắc đó, lồng ngực em chỉ ngập tràn sự căm phẫn và thù hận tột cùng."
-
+\
 `"Thế nên em đã đi tìm kẻ đã nhẫn tâm giết mình và kiên nhẫn đứng đợi ở con đường đó suốt một thời gian dài.@
 ` Trong lòng em thầm nghĩ anh hãy mau chóng xuất hiện đi. Hãy mau chạy đến đây. Ngay khi nhìn thấy anh, em sẽ tự tay xé xác anh để đòi lại món nợ huyết hải đó."@
 ` "... Em thực sự đã vô cùng oán ghét anh. Ghét anh đến mức lồng ngực tưởng như muốn nổ tung vì căm hận trong suốt những ngày dài chờ đợi."@
 br
 ` "Lực ấn từ bàn tay đặt trên lưng tôi bỗng chốc siết chặt hơn."
-
+\
 `"... Ar... cu... eid...?"@
 `"Nhưng dẫu vậy... trước đây chưa từng có ai có thể hạ sát được em một cách dễ dàng như thế. Thế nên sâu trong lòng, em lại nảy sinh sự tò mò muốn biết anh rốt cuộc là người thế nào."@
 ` "[line=4]Và rồi từ lúc nào không hay... em chưa từng dành nhiều sự quan tâm và suy nghĩ cho bất kỳ ai khác trên đời ngoài anh cả."
-
+\
 `"Ban đầu thực sự chỉ là sự căm hận tột cùng. Nhưng rồi sự căm hận đó dần bị lu mờ trước nỗi tò mò không dứt về con người anh."@
 ` "[line=4]Em khao khát được gặp anh để hiểu rõ hơn về kẻ đã nhẫn tâm hạ sát mình, để rồi lần đầu tiên trong đời... em hoàn toàn mất đi sự kiểm soát đối với bản thân và liên tục thắc mắc về anh."
-
+\
 `"[line=4]Shiki... anh ơi... những lời anh nói lúc nãy. Về việc sống cô độc một mình suốt hàng trăm năm qua thực sự rất cô đơn."@
 ` "Thực ra em đã từng nghĩ điều đó hoàn toàn sai lầm."@
 ` "Thế nhưng [line=4] trong suốt những ngày dài đứng đợi anh ở công viên, không ngừng suy nghĩ về anh, em bỗng nhận ra lòng mình tràn ngập cảm giác hạnh phúc ngọt ngào."
-
+\
 `"Em muốn lập tức được gặp anh, nhưng cảm giác kiên nhẫn chờ đợi đó lại vô cùng tuyệt diệu. Nó thực sự rất thú vị và ngọt ngào."@
 ` "Lòng em tràn ngập sự phấn khích, đầu óc liên tục vẽ ra hình ảnh về con người của anh."@
 br
 ` "... Cô ấy nhẹ nhàng rút bàn tay ấm áp khỏi tấm lưng tôi."@
 ` [line=4]Nhìn lại quá khứ, hóa ra em đã bắt đầu khao khát có một người bên cạnh chia sẻ từ chính khoảnh khắc đó, và không còn muốn tiếp tục sống cuộc đời cô độc một mình nữa.
-
+\
 `"[line=4]Bạn nói rằng bạn thích tôi,@
 ` ... nhưng tôi nghĩ tôi đã yêu bạn trước khi chúng ta gặp nhau.
 ` [line=4]Giọng nói thì thầm ngọt ngào của cô ấy... thực sự... vô cùng êm dịu, khiến tâm hồn tôi như bay bổng.@
@@ -341,7 +341,7 @@ br
 ` ... Không cần do dự.@
 ` Quay người lại, tôi lập tức ôm chặt lấy cô ấy vào lòng.@
 ` "N..."
-
+\
 playstop
 bg #000000,lshutter,800
 bg "event/ark_h05",lshutter,800
@@ -352,7 +352,7 @@ play "*5"
 br
 ` Chúng ta chỉ nhẹ nhàng thực hiện điều đó.@
 ` Chúng tôi hôn nhau đắm đuối để cảm nhận hơi ấm và sự hiện diện của đối phương rõ ràng hơn.
-
+\
 br
 ` [line=4]Hha…… ah.@
 br
@@ -362,16 +362,16 @@ br
 ` Thân hình mảnh mai của cô ấy khẽ run rẩy đầy e thẹn.@
 ` Nhưng cô ấy dường như không hề sợ hãi chút nào.@
 ` Đôi mi nhắm chặt, đôi gò má ửng hồng quyến rũ của cô ấy thực sự vô cùng đáng yêu.
-
+\
 ` …… Tôi thực sự không thể tin được.@
 ` Đây chính là Arcueid, cô gái mà tôi hết lòng yêu thương.@
 ` [line=4]Tôi chưa từng ngờ rằng chỉ bằng một nụ hôn nồng cháy thế này lại có thể khiến tình yêu trong lòng tôi trở nên mãnh liệt và sâu sắc đến nhường này.
-
+\
 bg #000000,crossfade,400
 bg "bg/bg_15b",crossfade,800
 ` Chúng tôi khẽ buông nhau ra một chút.@
 ` Hai tay vẫn đan chặt vào nhau, chúng tôi ngượng ngùng nhìn sâu vào mắt đối phương.
-
+\
 `"…… Đó là một… nụ hôn… phải không?" @
 ` Cô ấy ngượng ngùng thì thầm, đôi gò má đỏ bừng lên đầy quyến rũ. @
 ` Đôi mắt đỏ của cô ấy nhìn lên tôi đầy khẩn cầu. @
@@ -383,7 +383,7 @@ br
 ` Chắc chắn rồi, tim cô ấy đang đập rất to. @
 ` [line=4]Có phải là do nhịp tim của chính tôi đang đập dồn dập quá chăng?@
 ` Cô ấy nhìn thẳng vào mắt tôi.
-
+\
 `"Nhưng chuyện này thực sự khiến em lo lắng quá... Em tự hỏi, liệu hai chúng ta làm thế này có thực sự ổn không?"@
 `"Điều gì mới ổn?"@
 `"Bởi vì... làm gì có ma cà rồng nào lại đi hôn con người cơ chứ."@
@@ -393,20 +393,20 @@ br
 `"[line=8][Đoạn kết]"@
 ` "Động tác đó là nước đi cuối cùng."@
 ` Tôi tháo chiếc kính cận ra, dang tay ôm chặt lấy cô ấy thêm lần nữa.
-
+\
 eroskip 130
 bg #000000,lshutter,400
 bg "event/ark_h06",lshutter,400
 ` [line=4]Một lần nữa.@
 ` Không phải là nụ hôn trao đổi như trước đây.@
 ` Tôi trao cho cô ấy một nụ hôn cuồng nhiệt, đói khát, đắm say nuốt chửng lấy đôi môi mềm mại.
-
+\
 `"Ừm..." [line=4]@
 ` Arcueid hít một hơi sâu.@
 ` Tôi không quan tâm.@
 ` Lúc này tôi hoàn toàn không thể áp chế nổi ngọn lửa cuồng si trong lòng mình nữa.@
 ` Tôi hôn cô ấy một cách vô cùng sâu đậm và cuồng nhiệt.
-
+\
 `"N, mm………!"@
 ` Arcueid khẽ hé bờ môi định hít thở lấy chút không khí.@
 ` Nhưng tôi lập tức cướp đoạt lấy cả hơi thở ngọt ngào ấy của cô.@
@@ -414,51 +414,51 @@ bg "event/ark_h06",lshutter,400
 ` Áp chặt bờ môi mình lên đôi môi mềm của cô ấy, quấn quýt lấy chiếc lưỡi ngọt ngào của cô ấy đầy cuồng si.@
 br
 ` Lòng tôi chỉ khao khát được hòa làm một thể xác và tâm hồn cùng cô ấy.
-
+\
 `"[line=3][line=4]Ha... n" (Arcueid cố thoát ra)@
 br
 ` Tôi nhẹ nhàng hé bờ môi cô ấy ra, đưa đầu lưỡi lướt nhẹ qua làn môi mềm mại.@
 ` Chiếc lưỡi của tôi dễ dàng tiến sâu vào khoang miệng ngọt ngào của cô ấy.@
 ` Cảm giác hai chiếc lưỡi quấn quýt, chạm vào nhau đầy ướt át tạo nên những thanh âm ngọt ngào làm say đắm cả tâm hồn.
-
+\
 ` Ngay khi chiếc lưỡi nhỏ của cô ấy rụt rè định rút lại, tôi lập tức quấn chặt lấy nó không buông.@
 br
 ` Quấn quýt, đan xen, đắm đuối hút lấy mật ngọt của nhau.@
 br
 ` Cảm giác kích thích ở đầu lưỡi ngọt ngào đến mức khiến lồng ngực tôi ngứa ngáy dữ dội.@
 ` Nhưng cảm giác hút ở phía sau lưỡi tôi giống như nhiệt độ tuyệt đối không.
-
+\
 `"N... ah, n..."@
 ` Dẫu hô hấp bị nghẹn lại vì ngạt thở, cổ họng hai chúng tôi vẫn liên tục chuyển động nuốt lấy mật ngọt tình ái.@
 ` Cổ họng cô ấy chuyển động đau đớn, khát khao oxy.@
 ` Đồng thời[line=4], miệng cô ấy hút lưỡi tôi, và hai lưỡi chúng tôi hòa lẫn sâu hơn nữa.@
 br
 ` Khi di chuyển lưỡi, tôi kéo môi cô ấy vào sâu hơn.
-
+\
 ` Nhịp thở của chúng tôi,
 ` Sự khám phá của chúng tôi,
 br
 ` Thanh âm rên rỉ ngọt ngào, đắm say của hai chúng tôi hòa quyện vào nhau, lấp đầy cả căn phòng tĩnh mịch.@
 ` Tuyệt đối không có bất kỳ ranh giới nào nữa, khoái cảm cuồng nhiệt mãnh liệt đến mức khiến linh hồn tôi hệt như muốn bay lên không trung.
-
+\
 ` Có phải vì miệng và lưỡi chúng ta gần não quá?@
 ` Khi hai cơ thể hòa quyện sát bên nhau thế này, tâm trí tôi hoàn toàn trống rỗng, không còn chút tạp niệm nào.@
 ` Sóng khoái cảm điên cuồng kích hoạt mọi dây thần kinh đại não, đe dọa sẽ nuốt chửng hoàn toàn lý trí của tôi.@
 ` "Ah... ừm...!"@
 ` Anh... anh thực sự không thể kiềm chế nổi nữa rồi...!
-
+\
 `"@
 ` Chúng tôi ngắt hơi.@
 ` [line=2][line=2]Từ lúc nào không hay, bờ môi ngọt ngào đang khát khao dưỡng khí của cô ấy đã chủ động quấn lấy chiếc lưỡi của tôi.@
 ` Hai chiếc lưỡi quấn chặt lấy nhau, mơn trớn khắp khoang miệng tôi.
-
+\
 `"Ha... ah."@
 ` Tôi nhận ra đó là giọng nói của chính tôi.@
 ` Tôi thực sự không dám tin vào sự thật ngọt ngào này.@
 ` [line=4]Chiếc lưỡi mềm mại, ngọt ngào của cô ấy đang chủ động thâm nhập vào khoang miệng tôi.@
 br
 ` [line=6]Cảm giác ướt át ngọt ngào đó mang lại một nỗi kích thích vô bờ bến. Và trên hết là niềm vui sướng ngập tràn hệt như có thể khiến tôi chết vì sung sướng.
-
+\
 `"Hừ... mm, mm, ừm..."@
 ` [line=6]Chúng tôi cố gắng hít thở gấp gáp trong khi hai chiếc lưỡi vẫn không ngừng quấn quýt đắm đuối lấy nhau. "Hwa... ah, mm"@
 ` Tôi chưa từng ngờ rằng việc hai chiếc lưỡi chạm vào nhau lại có thể mang lại một nỗi khoái cảm điên cuồng đến nhường này.@
@@ -466,7 +466,7 @@ br
 ` Chỉ đơn thuần là sự mơn trớn da thịt cũng đủ khiến hai chúng tôi hoàn toàn kiệt sức, thở dốc liên hồi.@
 ` Hít hà hơi ấm, nếm trải vị ngọt của đối phương.@
 ` [line=2]Chỉ chừng đó thôi cũng đủ khiến tôi phát điên lên vì cuồng si, đầu óc hoàn toàn bị lấp đầy bởi hình bóng quyến rũ của cô ấy.
-
+\
 `"[line=4]Mm..."@
 ` Arcueid nhắm nghiền đôi mi, khẽ rên rỉ dịu dàng để đáp lại nụ hôn của tôi.@
 ` Nụ hôn cuồng nhiệt này hoàn toàn khác biệt so với nụ hôn rụt rè, nhẹ nhàng lúc nãy của hai chúng tôi.@
@@ -475,21 +475,21 @@ br
 ` Mật ngọt tình yêu khẽ tràn ra nơi khóe môi cô ấy.@
 ` Hòa quyện từ khoang miệng tôi sang cô ấy, rồi lại từ cô ấy truyền sang tôi.@
 ` Nhưng [line=4]nó không phải là thô tục, và giống như chất kích thích tình dục mạnh nhất trên thế giới, nó khiến tất cả suy nghĩ tan biến.
-
+\
 ` Và như vậy...
 ` Không chỉ lưỡi tôi, mà còn mong muốn mọi thứ hòa quyện lại, tôi rút ra khỏi miệng Arcueid.
-
+\
 bg "bg/bg_15b",crossfade,800
 ` Tôi cố hít một hơi thật sâu để điều hòa lại nhịp thở.@
 ` Lồng ngực tôi đau nhói vì ngạt thở.@
 ` Chính tôi cũng chẳng rõ hai chúng tôi đã quấn quýt lấy nhau như thế suốt bao lâu rồi.@
 ` Đến cả việc hít thở lúc này cũng trở nên vô cùng khó nhọc.@
 ` Thế nhưng, vượt lên trên tất cả, tôi khao khát được mơn trớn cơ thể ngọc ngà của cô ấy, được cảm nhận hơi ấm da thịt của người con gái tôi yêu.
-
+\
 `"... Shiki?"@
 ` Arcueid lo âu dõi mắt nhìn thẳng vào gương mặt tôi.@
 ` Một nụ cười gượng gạo đầy ngượng ngùng thoáng hiện trên gương mặt kiều diễm của cô.
-
+\
 `"Ar…… cueid……" @
 ` Tôi không thể dừng lại. @
 ` Tôi dang rộng vòng tay, ôm siết lấy thân hình cô ấy chặt hơn nữa. @
@@ -498,25 +498,25 @@ bg "bg/bg_15b",crossfade,800
 ` Ban đầu, cô ấy không trả lời. @
 ` Sau đó, giữ gìn đầu thấp, @
 ` Mọi biểu cảm trên mặt cô ấy đỏ bừng khi gật đầu.
-
+\
 !w2000
 ` Arcueid mộc mạc trút bỏ xiêm y trên người, một cử chỉ vô cùng tự nhiên và thanh thoát.@
 ` Cử chỉ trút bỏ xiêm y đó tạo nên một cảnh tượng vô cùng lộng lẫy và thiêng liêng, khiến lồng ngực tôi hoàn toàn ngạt thở vì kinh ngạc.@
 ` Bộ y phục màu trắng của cô nhẹ nhàng trút xuống sàn nhà không một tiếng động. Nội y che phủ bầu ngực tuyết trần quyến rũ cùng nét nữ tính của cô ấy khẽ buông lơi như một dòng nước mềm mại.
-
+\
 ` Ngắm nhìn trọn vẹn thân hình khỏa thân tuyệt mỹ của Arcueid dưới ánh trăng, ngọn lửa cuồng loạn trong lòng tôi bỗng chốc lắng dịu đi.@
 ` "Không phải vì lòng tôi đã nguội lạnh, mà là bởi tôi đã tìm thấy sự bình yên trọn vẹn trong tâm hồn mình."
 ` [line=4]Nhưng bởi vì cô ấy quá đỗi xinh đẹp, tôi hoàn toàn quên mất mọi suy nghĩ lý trí trên đời.@
 `"[line=4]"@
 ` Tôi không thể nói được.@
 ` Cô ấy ngượng ngùng khẽ khom người ngồi xuống mép giường.
-
+\
 `"Shiki... anh ơi...?"@
 ` Ánh mắt e thẹn của cô ấy hệt như đang ngầm hỏi xem tôi có chuyện gì không ổn.@
 `"[line=4][line=4]Không có gì cả."@
 ` Làn da trắng ngần của cô ấy lúc này đã nhuốm một sắc hồng nhạt vô cùng quyến rũ.@
 ` Sắc hồng quyến rũ tột cùng đó lập tức quét sạch mọi suy nghĩ lý tính cuối cùng của tôi.
-
+\
 `"[line=4]Ưm... Shiki... anh ơi... Em trông không kỳ quặc chứ...?"@
 `"Tuyệt đối không đâu. Chỉ là anh đã hoàn toàn bị mê hoặc bởi vẻ đẹp thuần khiết, lộng lẫy của em mất rồi."@
 `"Đúng vậy."@
@@ -524,7 +524,7 @@ bg "bg/bg_15b",crossfade,800
 ` Khi hai tay e thẹn che phủ đi nơi tư mật phía dưới, cặp tuyết lê căng tròn đầy đặn của cô lại càng trở nên nổi bật hơn bao giờ hết.@
 `"[line=4]Em thực sự vô cùng xinh đẹp, Arcueid. Bầu ngực của em thực sự hoàn hảo quá đỗi."@
 ` Cất lời ngọt ngào, tôi khẽ vươn tay, mơn trớn đôi gò bồng đảo căng tròn của cô ấy bằng những ngón tay run rẩy vì kích động.
-
+\
 bg "event/ark_h07",lshutter,800
 `"[line=4]Ah."@
 ` Arcueid run rẩy.@
@@ -532,75 +532,75 @@ bg "event/ark_h07",lshutter,800
 `"Điều gì? Tại sao chứ...? Anh đã nguyện trao trọn cuộc đời này để yêu em rồi... Đây mới chỉ là khởi đầu thôi mà."@
 `"[line=4]Ưm... Em biết chứ, thế nhưng..."@
 ` Có lẽ cô ấy vẫn còn vô cùng ngượng ngùng trước cử chỉ thân mật. Cô ấy dõi mắt nhìn tôi đầy vẻ bối rối.
-
+\
 `"... Không có gì phải e thẹn đâu em yêu. Đôi gò bồng đảo của em thực sự vô cùng hoàn hảo, và cơ thể em thực sự rất tuyệt mỹ."@
 `"[line=4]Ôi trời!"@
 ` Thân hình ngọc ngà của Arcueid khẽ run rẩy lên từng đợt.@
 ` Có lẽ là do đôi tay tôi vô ý mơn trớn đôi bồng đảo của cô ấy hơi mạnh.
-
+\
 ` Tôi khẽ cúi đầu xuống, nhẹ nhàng ngậm lấy đóa nhũ hoa hồng hào phía bên phải của cô ấy.@
 ` Tôi nhẹ nhàng mơn trớn khắp bầu ngực căng tròn mềm mại, cảm nhận làn da thịt căng mọng hệt như một trái đào chín ngọt ngào trong lòng bàn tay.@
 `"[line=4]Ôi..."@
 ` Gương mặt kiều diễm của cô ấy bấy giờ lại càng đỏ bừng lên dữ dội.@
 ` Có lẽ cô ấy hoàn toàn chưa từng được trải nghiệm nỗi kích thích ngọt ngào này trong đời, cô ngơ ngác nhìn đôi bàn tay tôi đang mơn trớn ngực mình đầy kinh ngạc.
-
+\
 `"…… Chúng thực sự rất căng đầy... Anh không thể ngờ được ẩn sau lớp y phục kia lại là một cơ thể nhạy cảm đầy quyến rũ đến nhường này của em..."@
 `"[line=4]Mmph."@
 ` Arcueid không trả lời.@
 ` Cô ấy chỉ biết thở dốc dồn dập từng hơi ngắn trong khi tôi tiếp tục mơn trớn bầu ngực tuyết trần thật chậm rãi.
-
+\
 ` "[line=4]Mm, ah, ahn"
 br
 ` Làn hơi nóng hổi của cô ấy bắt đầu thở dốc theo từng nhịp điệu gợi cảm.
-
+\
 `"Ưm... Shiki... anh ơi... chờ em một chút..."[line=4]@
 ` Tôi hoàn toàn phớt lờ lời thỉnh cầu ngọt ngào đó.@
 ` Ban đầu chỉ là những cái vuốt ve vô cùng nhẹ nhàng, êm ái.@
 ` Và rồi sau đó, từng chút, từng chút một...@
 ` Một cách vô cùng khéo léo để cô ấy không kịp nhận ra, tôi bắt đầu siết chặt đôi tay mơn trớn hơn.
-
+\
 ` Tôi cố tình tránh chưa chạm trực tiếp vào đóa nhũ hoa nhạy cảm, bởi tôi sợ cô ấy sẽ hoảng sợ mà lùi lại nếu tôi hành động quá vội vàng.
-
+\
 ` Thế nên vào lúc này, tôi chỉ mơn trớn thật chậm rãi, dịu dàng.@
 ` Để đến khi cô ấy nhận thức được thì mọi chuyện đã quá muộn để có thể lùi lại rồi.@
 ` Tôi tiếp tục đắm đuối mơn trớn bầu tuyết lê đầy đặn, hoàn mỹ tuyệt đối của cô ấy.
-
+\
 `"Ah…… mm, mm" [line=4]@
 ` Hơi thở của cô ấy bấy giờ đã trở nên vô cùng dồn dập, nặng nề.@
 ` Vờ như không nhận ra sự kích thích đó, tôi càng ra sức mơn trớn cơ thể ngọc ngà của cô ấy hơn nữa.@
 ` Dẫu bản thân đã cố tự dặn lòng phải giữ thật bình tĩnh, nhưng chính nỗi kích thích da thịt này đang khiến huyết quản tôi rực cháy.
-
+\
 `"[line=4][line=4]Ưm... Shiki... anh ơi... em cảm thấy..."@
 ` Giọng nói của cô ấy lúc này đã trở nên vô cùng ngọt ngào, ấm áp.@
 ` Giọng nói run rẩy đầy khát khao, hoang dại.
-
+\
 `"[line=4]A... ah... em... cảm thấy... cơ thể mình... đang nóng bừng lên khắp nơi..."@
 ` Những lời thì thầm của Arcueid liên tục bị đứt quãng bởi những tiếng rên rỉ mềm mại, vô cùng gợi cảm.
-
+\
 `"Cơ thể em thực sự đang nóng bừng lên và đổ mồ hôi rồi này.@ Chỉ mới mơn trớn một chút thôi mà toàn thân em đã nóng rực lên thế này rồi sao?@ Em thực sự cũng đang vô cùng khao khát anh đúng không, Arcueid."@
 `"Nhưng Shiki, nó... vì... anh... cứ làm... như vậy[line=3]!"@
 ` Tôi siết chặt hơn nữa.@
 ` Gương mặt cô ấy khẽ căng lên vì e thẹn và sướng run.
-
+\
 `"[line=4][line=4]Hà... hà... Anh thực sự không giỏi ăn nói đâu. Chỉ riêng việc được mơn trớn em thế này thôi cũng đủ khiến anh hoàn toàn phát điên rồi, Arcueid à."@
 ` Hít một hơi thật sâu để nén lòng, tôi bắt đầu mơn trớn bầu ngực cô ấy mạnh bạo hơn.
-
+\
 `"Ah... ừm."@
 ` Thanh âm rên rỉ vô cùng ngọt ngào, gợi cảm của cô.@
 ` Nó rất tự nhiên khi cô ấy nóng bừng khi bị sờ soạng.@
 ` Nhưng... điều gì vậy?@
 ` Tôi chỉ đang sờ vào ngực cô ấy,
 ` nhưng cảm giác bầu ngực mềm mại, căng đầy đặn của cô ấy tràn qua kẽ tay thực sự đã hoàn toàn nuốt chửng lý trí của tôi.
-
+\
 ` [line=4]Cơ thể cô ấy quả thực mang một sức hút ma mị vô cùng kỳ lạ.@
 br
 ` Chỉ đơn thuần là sự va chạm da thịt dịu nhẹ thế này thôi...
 ` Cũng đủ để truyền một làn sóng kích thích điên cuồng dội ngược thẳng vào huyết quản tôi.
-
+\
 ` Hơi thở của tôi bấy giờ cũng đã trở nên vô cùng dồn dập, nặng nề.@
 ` Trước khi tôi nhận ra,
 ` Tôi thở dốc liên hồi, hoàn toàn chìm đắm trong cơn cuồng si trước cơ thể khỏa thân tuyệt mỹ của cô.
-
+\
 ` Cơ thể Arcueid lúc này đã hoàn toàn nóng rực, sẵn sàng.@
 ` Hai đóa nhũ hoa hồng hào quyến rũ khẽ dựng đứng, săn cứng lại đầy mời gọi.@
 ` Cô ấy thở gấp.@
@@ -608,12 +608,12 @@ br
 `"Ah" [line=4]@
 ` Arcueid ngượng ngùng ngoảnh mặt nhìn đi chỗ khác vì xấu hổ.@
 ` Tôi phớt lờ sự e thẹn đó, khẽ đưa đầu lưỡi ra.
-
+\
 ` Tôi nhẹ nhàng liếm láp đóa nhũ hoa săn cứng, cảm nhận vị ngọt ngào đầu lưỡi.@
 `"Mmm... ừm..."@
 ` Tôi khẽ nghe thấy tiếng rên rỉ dịu dàng thoát ra từ Arcueid.@
 ` Đóa nhũ hoa của cô ấy đã săn cứng đến cực hạn, đầu lưỡi tôi mơn trớn xung quanh đầy kích thích.
-
+\
 `"[line=4]Ừm..."@
 ` Vì lý do nào đó, đại não tôi bỗng nhói đau dữ dội.@
 ` Chính những luồng kích thích da thịt quá đỗi mãnh liệt đã gây ra cơn đau đầu đó.@
@@ -621,10 +621,10 @@ br
 `"[line=4][line=4]Ưm... A... ah...!"@
 ` Lồng ngực tuyết trần của cô ấy khẽ nhấp nhô phập phồng theo từng nhịp thở dồn dập.@
 ` Sau một hồi đắm say liếm mút đóa nhũ hoa mềm mại, tôi bắt đầu di chuyển nụ hôn của mình xuống vùng bụng phẳng lì quyến rũ phía dưới.
-
+\
 `"[line=4][line=2]Ashi..."@
 ` Một vệt mật ngọt tình ái mỏng manh khẽ kéo dài dọc theo làn da trắng ngần, mịn màng của cô ấy.
-
+\
 `"[line=2]Ki..."@
 ` Những âm thanh phát ra từ cổ họng cô ấy bấy giờ hoàn toàn chỉ còn là những tiếng rên rỉ đứt quãng vô nghĩa.@
 ` Ngón tay tôi tiếp tục mơn trớn, khám phá khắp cơ thể ngọc ngà của cô ấy.@
@@ -634,11 +634,11 @@ br
 ` Đó là một hương thơm vô cùng ấm áp, dịu ngọt và đầy nữ tính.@
 ` Nơi tư mật phía dưới được che phủ bởi đôi bàn tay e thẹn của cô bấy giờ đã hoàn toàn ẩm ướt.@
 ` Những ngón tay thon dài của cô ấy đã đẫm ướt nhựa sống tình yêu trào dâng.
-
+\
 `"…… Chuyện này là thế nào đây...? Chỉ mới mơn trớn đôi gò bồng đảo thôi mà em đã nhạy cảm đến nhường này rồi sao... Em thực sự nhạy cảm hơn anh tưởng tượng nhiều đấy, Arcueid à."@
 ` ... Nhưng lại, tôi không phải là người thích nói chuyện.@
 ` Tôi thậm chí còn không thể cất lời nói chuyện một cách trôi chảy nổi nữa.
-
+\
 `"[line=4]Shiki... anh ơi... em... có một... thỉnh cầu..."@
 `"[line=4]?@ Chuyện gì vậy?@ Một yêu cầu?"@
 `"Xin anh... đừng đối xử thô bạo với em... như cái lần ở con hẻm tối kia..."@
@@ -646,39 +646,39 @@ br
 ` ... Lần trước sao.@
 ` Cái lần tôi điên cuồng đẩy cô ấy ngã xuống con hẻm tối năm xưa.@
 ` Tại sao cô ấy lại nhắc lại ký ức đau buồn đó vào lúc này chứ? Dẫu cô ấy có không cầu xin, tôi tuyệt đối cũng không bao giờ làm tổn thương cô ấy thêm lần nào nữa.
-
+\
 `"…… Sao lại thế?@ Em... không thích sự mạnh bạo sao?"@
 `"Ưm... Ưm... Bởi vì đây là lần đầu tiên của em, nên..."@
 ` Cô ấy ngượng ngùng đỏ mặt, cố gắng kìm nén lại tiếng thở dốc dồn dập.@
 ` Giọng nói thì thầm e thẹn của cô ấy nghe thực sự vô cùng đáng yêu.
-
+\
 `"[line=6]Ồ?"@
 `"…… Thực ra... em vẫn còn cảm thấy vô cùng sợ hãi... Thế nên, Shiki... anh ơi... xin anh... hãy thật nhẹ nhàng với em nhé...[line=4]"@
 br
 ` [line=8]Đã quá đủ rồi.@
 br
 ` Đó chính là giới hạn chịu đựng cuối cùng của tôi.
-
+\
 `"[line=4]Tại sao em lại có thể đáng yêu đến nhường này chứ hả em yêu?"@
 ` Tôi nhẹ nhàng ôm siết lấy bầu ngực căng tròn của cô ấy.@
 ` Mọi suy nghĩ, lý trí và ranh giới đạo đức trong đầu tôi hoàn toàn tan biến sạch sẽ. Đến cả nhịp thở cũng như ngừng lại.
-
+\
 `"[line=2][line=4]Shiki... anh ơi... anh sao thế? Trông anh lạ quá... gương mặt anh trông đáng sợ quá... anh... anh sao vậy..."@
 ` Tất nhiên là trông tôi phải vô cùng kỳ lạ rồi.@
 ` Bởi vì đầu óc tôi bấy giờ đã hoàn toàn bị cơn cuồng si nuốt chửng.@
 ` Nhưng chính vẻ quyến rũ chết người của em đã biến anh thành thế này cơ mà.
-
+\
 `"Ối...!"@
 ` Tôi nhẹ nhàng đẩy cô ấy ngã nhào xuống chiếc giường êm ái.@
 `"[line=4][line=4]Shiki... anh ơi... em đau quá! Em vẫn chưa..."@
 `"Ngoan nào, im lặng nào em yêu!"@
 ` Tôi lập tức trườn lên, đè chặt lên cơ thể mềm mại của cô.
-
+\
 bg #000000,lshutter,800
 ` Tôi vội vã ngậm chặt lấy bờ môi ngọt ngào của cô ấy bằng môi mình.@
 br
 ` ... Tim tôi đập thình thịch.
-
+\
 ` Dồn hết sức mạnh nam tính rực cháy, tôi chuẩn bị tiến vào bên trong cơ thể cô ấy.@
 ` (Tôi cảm thấy) mọi ý chí kháng cự yếu ớt cuối cùng của cô ấy hoàn toàn biến mất.@
 `"Ah......!"@
@@ -688,7 +688,7 @@ br
 ` Chính anh cũng biết rõ điều đó mà.@
 ` Nhưng... anh thực sự hoàn toàn không thể kiềm chế bản thân được nữa rồi.@
 ` Tohno Shiki đã hoàn toàn bị cuốn vào cơn cuồng si tột cùng bởi những lời thì thầm ngọt ngào của cô ấy.
-
+\
 ` Khó thở lấp đầy không khí.@
 ` Hơi thở của tôi mất kiểm soát.@
 ` Thật sao?@
@@ -697,7 +697,7 @@ br
 br
 ` Bây giờ chẳng còn gì khác nữa.@
 ` Tôi nhẹ nhàng nhưng kiên quyết tiến sâu vào bên trong cơ thể cô.
-
+\
 bg "event/ark_h08",crossfade,800
 `"Ah………!"@
 ` Toàn thân cô gái khẽ căng cứng lại vì bất ngờ.@
@@ -708,16 +708,16 @@ br
 br
 ` Nhựa sống dâng trào đã giúp nơi tư mật của cô ấy đủ ướt át để đón nhận tôi một cách vô cùng trơn tru.@
 ` Nhưng đó chỉ là lúc đầu.
-
+\
 ` Cô ấy thực sự co thắt.@
 ` Ngay cả khi chúng tôi đều ẩm ướt,
 ` Chỉ có phần đầu của tôi mới đi vào trơn tru, và phần còn lại sẽ không đi vào trừ khi tôi ép buộc.
-
+\
 `"[line=5][line=4]Đau quá... Shiki... anh ơi... Em thực sự đau lắm...!"@
 ` Tiếng kêu e thẹn của cô ấy khẽ vang lên hệt như một tiếng thét nhỏ.@
 `"[line=4]Ngoan nào, cố chịu đựng một chút nhé em yêu. Nếu cứ la hét thế này, em có thể vô ý cắn phải lưỡi mình đấy."@
 ` Tôi nhẹ nhàng giữ chặt lấy thân hình đang khẽ quằn quại của cô ấy và tiếp tục tiến sâu vào trong.
-
+\
 `"[line=4]A... Ưm... A... ah...!"@
 ` Giọng rên rỉ của cô ấy vẫn ngập tràn vẻ đau đớn.@
 `"[line=4]Haa..."@
@@ -726,27 +726,27 @@ br
 ` Nhưng dẫu vậy, sự co thắt ôm siết chặt chẽ từ nơi thầm kín của cô ấy thực sự mang lại nỗi kích thích vượt ngoài sức tưởng tượng của nhân loại.@
 ` Có lẽ là vì tôi chưa dành nhiều thời gian cho cô ấy trước khi quan hệ, nhưng cô ấy không quá ẩm ướt bên trong.@
 ` Tôi chỉ cảm nhận được những thành vách ấm nóng đầy mềm mại đang ôm trọn lấy toàn bộ cơ thể mình.
-
+\
 `"Gghh……!"@
 ` Cảm giác này thực sự vô cùng kỳ diệu.@
 ` Lẽ nào mọi dây thần kinh của tôi đã hoàn toàn bị tê liệt, hay là vì cảm giác được hòa làm một bên trong cơ thể cô ấy thực sự quá đỗi tuyệt vời chứ?@
 ` Chỉ riêng sự ôm siết ấm nóng của cô ấy cũng đủ khiến tôi cảm giác như toàn bộ sinh lực trong người đang bị hút cạn sạch sẽ.@
 ` Chỉ mới tiến vào một chút thôi mà khoái cảm mãnh liệt đã lập tức dâng trào, khiến tôi không thể kìm nén được việc tiếp tục đẩy sâu vào trong.
-
+\
 `"[line=5]Cảm giác này... thực sự quá đỗi tuyệt vời...!"@
 ` Tôi vội vã cắn chặt môi mình để kiềm chế cơn khoái cảm đang chực chờ bùng nổ.@
 ` Đôi bàn tay tôi tự động mơn trớn đôi bồng đảo căng tròn, rồi trượt xuống vòng eo thon gọn và bờ vai mềm mại của cô.
-
+\
 ` Đường cong cơ thể của cô ấy mỹ lệ hệt như một tác phẩm nghệ thuật được điêu khắc từ ngà voi tôn quý.@
 ` Làn da cô ấy nóng rực khi tôi chạm vào, nhưng lại vô cùng mềm mại mịn màng đến mức tạo cho tôi cảm giác cô ấy sẽ tan chảy ngay lập tức nếu tôi lỡ tay ôm quá mạnh.@
 ` Chỉ một cái chạm.@
 ` Chỉ một cái chạm nhẹ vào da thịt cô ấy cũng đủ khiến tâm trí tôi hoàn toàn trống rỗng.
-
+\
 `"[line=4]Arcueid... Anh yêu em...!"@
 ` Trái ngược với nỗi đau đớn bỡ ngỡ ban đầu của cô ấy, linh hồn tôi lúc này đã hoàn toàn chìm đắm trong cơn mê say.@
 ` Nếu tôi tiếp tục đi sâu hơn,
 ` Nếu tôi tiếp tục sờ vào cô ấy nhiều hơn nữa, tôi cảm thấy như mình sẽ bước vào một thế giới khoái lạc quá mãnh liệt đến mức tôi sẽ không bao giờ trở về.
-
+\
 `"[line=5]Gha!"@
 ` Điều này rất tệ.@
 ` Tôi thừa lý trí để hiểu rõ việc quá bạo lực lúc này là không tốt.@
@@ -755,11 +755,11 @@ br
 ` Thế nhưng chỉ riêng cử động rút ra nhẹ nhàng đó cũng đã mang lại nỗi kích thích quá đỗi khủng khiếp.@
 ` Chỉ việc làm như vậy mang lại cho tôi khoái cảm vượt khỏi thế giới,
 ` và Arcueid gần như thét lên vì đau đớn.
-
+\
 `"[line=4]Shiki... anh ơi..."@
 ` Arcueid gọi tên tôi.@
 ` [line=4]Cô ấy nhắm nghiền đôi mi, đôi bàn tay thon nhỏ siết chặt lấy tấm ga trải giường để cố gắng chịu đựng nỗi đau đớn.
-
+\
 `"[line=4]...Arcueid, cô ấy..."@
 ` ...đang chịu đựng.@
 ` Cô ấy cố gắng chịu đựng khi tôi thỏa mãn sự tự ích của mình, và gánh chịu nỗi đau lần đầu tiên của mình.@
@@ -768,14 +768,14 @@ br
 ` Tại sao vào khoảnh khắc này tôi lại phải do dự chứ?@
 ` [line=4]Tôi thương cô ấy, tôi yêu cô ấy sâu sắc, nên tôi khát khao được trọn vẹn sở hữu cô ấy.@
 ` [line=4][line=4]Dẫu tương lai có ra sao đi nữa, tôi chỉ muốn thể xác và linh hồn hai chúng tôi vĩnh viễn hòa làm một.
-
+\
 `"... Arcueid... Anh biết em đang đau lắm, nhưng em cố chịu đựng một chút nữa nhé..."@
 `"[line=6]..."@
 ` Cô ấy nhẹ nhàng gật đầu, đôi mi vẫn đẫm lệ.@
 `"Vậy thì anh sẽ tiến sâu vào nhé. Nếu đau quá, em cứ cắn chặt lấy vai anh... như thế sẽ giúp em vơi bớt phần nào nỗi đau đấy."@
 ` Tôi lại hạ thân thể xuống.@
 ` Tất cả những gì còn lại là tôi phải chôn mình vào sâu thẳm của cô ấy.
-
+\
 bg "event/ark_h10",lshutter,800
 `"[line=4] Ôi trời!"@
 ` Chiếc giường gỗ khẽ rung lên cọc cạch.@
@@ -783,28 +783,28 @@ bg "event/ark_h10",lshutter,800
 ` Chỗ tôi sưng phồng và cứng lại chọc lên.@
 ` Có cảm giác như giấy đang bị rách.@
 ` Gương mặt kiều diễm của Arcueid đỏ bừng lên vì ngượng ngùng và sung sướng, những giọt lệ nóng hổi khẽ đọng lại nơi khóe mi vì nỗi đau xé rách da thịt.
-
+\
 `"[line=4]A... Shiki... A... ah...!"@
 ` Đau đớn quá.@
 ` Càng tiến sâu vào bên trong cơ thể cô ấy, linh hồn tôi lại càng hệt như bị tan vỡ ra thành trăm mảnh vì sung sướng.@
 ` Nỗi khoái cảm cuồng nhiệt vượt lên trên tất cả đau đớn, tạo thành những con sóng sung sướng điên cuồng dội thẳng vào đại não tôi.@
 ` Một ngọn lửa rực cháy chạy dọc sống tủy, thiêu rụi hoàn toàn lý trí của tôi.
-
+\
 `"[line=4]Ha... gh."@
 ` Không có sự tha thứ trong cô ấy.@
 ` Nơi tư mật ấm nóng của cô ấy quấn chặt lấy tôi. Ôm ấp, vuốt ve, siết chặt lấy không một kẽ hở.@
 ` Mọi dây thần kinh nhạy cảm của tôi bị siết chặt như đang được mơn trớn bởi những bàn tay mềm mại nhất thế gian.
-
+\
 `"[line=3][line=2]Ôi trời ơi!"@
 ` Nhưng tôi vẫn tiếp tục tiến về phía trước.@
 ` Những làn sóng khoái cảm khiến tôi suýt ngất đi.@
 ` Mặc dù tôi sợ hãi, nhưng tôi cũng muốn nhiều hơn.
-
+\
 `"[line=4]Mmph... nn..."!@
 ` Arcueid khẽ ngửa đầu ra phía sau, phơi bày chiếc cổ trắng ngần, mịn màng quyến rũ.@
 ` Cơ thể cô ấy cong lại vì đau đớn.@
 ` Việc đó chỉ khiến cô ấy siết chặt lấy tôi, khiến tôi phải điên loạn.
-
+\
 `"[line=4]A... Shiki... đau quá... nơi sâu đó..."@
 `"[line=4][line=4]Ngoan nào em yêu, hai chúng ta sắp hòa làm một rồi..."@
 ` Tôi nhẹ nhàng đẩy mạnh hông thêm lần nữa.@
@@ -813,14 +813,14 @@ bg "event/ark_h10",lshutter,800
 ` Làn nước.@
 ` Tiếng chất lỏng của chúng trộn lẫn vào nhau.@
 ` Theo từng nhịp di chuyển nhịp nhàng, nhựa sống ngọt ngào của cô ấy khẽ tràn ra tràn trề.
-
+\
 `"A... ưm... đau quá anh ơi...!"@
 ` Giọng nói của cô ấy vẫn còn mang theo nỗi đau.@
 ` Nhưng, mặt khác...
 ` Cơ thể cô ấy, từng cố gắng thoát ra trước đó, bắt đầu phản ứng lại.@
 ` Điều đó có nghĩa là,
 ` Cô ấy đang bắt đầu cảm thấy khoái cảm.
-
+\
 `"[line=4]!"@
 ` Tôi đẩy hông tiến sâu vào thêm chút nữa.@
 br
@@ -831,52 +831,52 @@ br
 ` Sự khép lại trở nên chặt chẽ hơn.@
 ` Bên trong Arcueid không có tận cùng nào,
 ` Và khoái cảm cứ tiếp tục tấn công tôi.
-
+\
 bg "event/ark_h09",crossfade,400
 `"[line=2]A... ưm... a... ah...!"@
 ` Arcueid than thở.@
 ` Tôi vẫn kiên trì tiến sâu vào bên trong cô ấy.@
 ` Nỗi đau đớn ngọt ngào của cô ấy, cơn cuồng si rực cháy của tôi, nhịp chuyển động hông của hai chúng tôi... tất cả mọi thứ bấy giờ đã hòa quyện hoàn hảo, di chuyển cùng nhau hệt như một sinh mệnh duy nhất.
-
+\
 `"[line=2]Sâu quá... anh ơi... đau lắm...!"@
 ` Tôi không thể trả lời.@
 ` Hiện tại, nỗi đau vẫn lớn hơn khoái cảm với cô ấy.@
 ` Nếu tôi không kiềm chế cho đến khi nó đảo ngược, điều đó sẽ vô nghĩa.
-
+\
 `"[line=4][line=2][line=2]Shiki ơi... đau quá... em đau lắm...!"@
 ` Cô ấy thút thít van nài tôi trong khi những giọt lệ nóng hổi khẽ lăn dài trên gò má ửng hồng.@
 ` Còn đau đớn, nhưng nàng không thể nghĩ về nó.@
 ` Nàng không còn ngăn cản tôi nữa.
-
+\
 `"[line=6][line=4]Ngoan nào... anh tiến vào sâu hơn nhé."@
 ` Tôi tập trung sức mạnh, bắt đầu đẩy.@
 ` Lặp đi lặp lại.@
 ` Cho đến khi tôi có thể tập trung, cho đến khi nàng mất hết suy nghĩ logic, tôi sẽ tiếp tục.
-
+\
 `"[line=6]A... ưm... a... ah... ư... a...!"@
 ` Hơi thở của cô ấy hòa nhịp với sự run rẩy của cơ thể.@
 ` Da cô ấy nóng bỏng.@
 ` Mặt cô ấy nhuốm màu khoái cảm lẫn đau đớn.@
 ` Chỉ chạm vào chúng cũng khiến lý trí của tôi tan biến.
-
+\
 `"[line=4]Ồ, Shiki... anh ơi... Shiki... anh ơi... Shiki!"@
 ` Cô ấy gọi tên tôi như thể không còn nhớ điều gì khác.@
 ` Để đáp lại, tôi đẩy mạnh hơn.
-
+\
 `"[line=4]Ưm... Em không sao đâu... Anh cứ... tiến sâu vào nữa đi..."@
 `"[line=4]Ggh………!"@
 ` Tôi cảm giác như toàn bộ cơ thể mình đang dần tan chảy hoàn toàn bên trong cơ thể ấm nóng của cô.@
 ` Không chỉ đơn giản là tôi phóng tinh vào cô ấy nữa.@
 ` Nó giống như toàn bộ cơ thể, toàn bộ tâm trí tôi, đều cố gắng giải phóng bản thân trong khoái cảm.@
 ` Giữ lại lâu đến vậy có thể được gọi là một kỳ tích.
-
+\
 ` Nhưng, tôi gần như đã đến giới hạn.@
 ` Khoái cảm tăng lên không ngừng. Khi nỗi đau ở Arcueid giảm bớt, khoái cảm lại tăng lên.@
 `"[line=3][line=4]Hah!"@
 ` Tôi siết chặt bụng mình.@
 ` Một ngọn lửa cháy bùng lên bên trong tôi.@
 ` Đó là tất cả những gì tôi cần làm.
-
+\
 ` Dồn toàn bộ sức lực nam tính cuối cùng, tôi đẩy mạnh tiến sâu vào tận cùng cơ thể cô ấy thêm một lần cuối.@
 `"Ô...!"@
 ` Thân hình ngọc ngà của Arcueid khẽ cong vút lên để đón nhận.@
@@ -885,40 +885,40 @@ br
 ` Nổ ra.@
 br
 ` Tôi bắt đầu giải phóng tất cả.
-
+\
 ` Dòng thác ấm nóng không ngừng phun trào dạt dào.@
 br
 `"N[line=3], ừm, hừ, ừm[line=4]"@
 ` Arcueid thở dốc dồn dập đầy mệt mỏi.@
 ` Sau một thời gian chờ đợi dài như thế này, chỉ có một hay hai giọt không thể làm thỏa mãn.
-
+\
 ` Dòng thác ấm nóng không ngừng phun trào dạt dào.@
 ` Dòng thác ấm nóng, rực cháy của tôi hoàn toàn lấp đầy nơi sâu thẳm nhất trong cơ thể cô.@
 ` Sau những gì dường như là vĩnh cửu,
 ` Arcueid nằm ngổn ngang trên giường, hoàn toàn kiệt sức.
-
+\
 bg #ffffff,crossfade,1500
 !w750
 bg "bg/bg_15b",lshutter,1500
 ` Chỉ có âm thanh của hơi thở chúng ta vang vọng trong căn phòng ánh trăng.@
 ` Thân hình ngọc ngà lấp lánh những giọt mồ hôi của Arcueid nằm lặng lẽ bên cạnh tôi, một vệt hồng mỏng manh minh chứng cho trinh tiết khẽ lăn dài trên đùi cô ấy.
-
+\
 ` Chúng tôi nằm đó, thở dốc.@
 ` Kết quả của lần đầu tiên của cô ấy.@
 ` Cô ấy chắc chắn rất mệt mỏi.
-
+\
 ` Tôi cố gắng lấy lại hơi thở.@
 ` Nhưng đối với tôi,
 ` Ngay cả sau khi đã đến mức đó, và đẩy bản thân vượt qua giới hạn như vậy, nó vẫn không đủ.@
 ` Niềm vui sướng quá nhiều đến mức tôi không thể chịu nổi.@
 ` Nhưng tâm trí tôi vẫn muốn giữ cô ấy thêm nữa.@
 ` Mặc dù tôi đã kiệt sức, bình thường tôi vẫn cương cứng hoàn toàn, như thể đang nói với tôi rằng mọi thứ mới chỉ bắt đầu.
-
+\
 `"Ha." [line=6]@
 ` Arcueid phải ở giới hạn tối đa của mình.@
 ` Cô ấy đã cố gắng chịu đựng suốt từ nãy đến giờ dẫu đây là lần đầu tiên được trải nghiệm chuyện này.@
 ` Tôi cá là sau tất cả những đau đớn và chuyển động đó, cô ấy chẳng thể di chuyển được nữa.
-
+\
 ` Nơi lưng cô ấy không được bảo vệ.@
 ` Vẻ hoàn hảo tuyệt đối đó.@
 ` Đường cong nhẹ nhàng của hông cô ấy.@
@@ -927,34 +927,34 @@ bg "bg/bg_15b",lshutter,1500
 ` ...
 ` Làn tóc trên cổ tôi dựng lên.@
 ` [line=4]Chuyện này thực sự không ổn chút nào... Vẫn chưa đủ, hoàn toàn chưa thể làm tôi thỏa mãn được.
-
+\
 `"……… Shiki?"@
 ` Arcueid hỏi với giọng tò mò.@
 `"[line=4]Arcueid"@
 ` Tôi thì thầm gọi tên cô ấy, vòng đôi tay ôm chặt lấy hông cô ấy từ phía sau.
-
+\
 `"[line=4]Hyaa?!?"@
 ` Cô ấy khẽ phát ra một tiếng rên rỉ vô cùng đáng yêu.@
 `"[line=4]S... Shiki... anh định làm gì thế...?"@
 ` Cô ấy ngơ ngác quay đầu lại nhìn tôi đầy vẻ kinh ngạc.
-
+\
 `"A" [line=4]@
 ` Cô ấy đỏ bừng mặt khi nhìn xuống phía dưới cơ thể tôi.@
 ` Tất nhiên, cô ấy nghĩ rằng tôi đã có đủ rồi.@
 ` Ngắm nhìn nơi rực nóng của tôi vẫn đang dựng đứng hoàn toàn đầy dũng mãnh, đôi mắt cô ấy thoáng hiện vẻ kinh ngạc vô bờ bến.
-
+\
 `"Shiki... anh ơi... bạn rất sống động."@
 `"…… Chính anh cũng phải kinh ngạc đấy chứ. Bình thường đến mức này anh đã phải đầu hàng rồi [line=4] nhưng cơ thể anh lúc này vẫn khao khát được hòa làm một cùng em thêm lần nữa."@
 ` Vì vậy tôi không muốn nó kết thúc ngay bây giờ.@
 ` "Vừa dứt lời, tôi ghé sát khuôn mặt mình vào nơi sâu thẳm giữa hai đùi cô ấy."
-
+\
 `"Si... Shiki... anh ơi..."@
 `"Nếu chúng ta dừng lại bây giờ, có phải là một sự lãng phí không? Bạn cuối cùng đã bắt đầu quen với tất cả những điều này, nên lần này là lúc bạn cảm nhận niềm vui mà thôi."@
 `"[line=3]Ồh?"@
 ` Tôi phớt lờ giọng nói đầy lo lắng của cô ấy.@
 ` Với một cử động nhanh nhẹn của lưỡi,
 ` Tôi bắt đầu nhẹ nhàng liếm láp đóa hoa hồng hào đang khẽ sưng đỏ của cô.
-
+\
 `"Đừng mà Shiki... Anh đang làm gì thế...!"@
 `"Anh chỉ đang chuẩn bị cho lần tiếp theo thôi mà. Phải giúp em làm sạch cơ thể chứ."@
 `"[line=5]Ư... vâng... nhưng chuyện đó... chẳng phải rất... xấu hổ sao...?"@
@@ -962,14 +962,14 @@ bg "bg/bg_15b",lshutter,1500
 ` Khuôn mặt kiều diễm ngập tràn sự ngượng ngùng e thẹn xen lẫn nỗi kích thích ngọt ngào.@
 br
 ` [line=4]Dáng vẻ đó... thực sự đáng yêu đến mức không thể tin nổi.
-
+\
 `"…… Tôi bỏ cuộc. Tôi không thể chịu đựng nhịp độ này được."@
 ` Tôi ngẩng đầu lên, đặt đôi bàn tay mơn trớn vòng ba căng tròn tuyệt mỹ của cô.@
 `"Ồ? Shiki, chuyện gì vậy!??"@
 `"[line=6]"@
 ` Tôi không buồn cất lời đáp lại nữa.@
 ` Đặt chặt tay lên hông cô ấy, tôi bắt đầu tiến vào từ phía sau lưng.
-
+\
 `"Khoan... chờ đã Shiki... Em... thực sự đã chạm giới hạn chịu đựng [line=4] rồi mà..."@
 `"Đã chạm giới hạn rồi sao em yêu?"@
 ` "[line=4]Nhưng anh đã chỡ sẵn bên trong cơ thể em quá lâu rồi cơ mà."@
@@ -977,35 +977,35 @@ br
 `"[line=4]Mmm!"@
 ` Em nhìn lên với vẻ ngạc nhiên.@
 ` Cô ấy khẽ khom người xuống để đón nhận từng nhịp tiến vào dũng mãnh từ phía sau lưng.
-
+\
 bg #000000,crossfade,400
 bg "event/ark_h11",crossfade,400
 `"[line=3]Ahm, mm……!"@
 ` Tiếng rên rỉ ngọt ngào của cô ấy bấy giờ đã hoàn toàn sạch bóng nỗi đau đớn thể xác.@
 ` Tôi kiên quyết tiến sâu vào bên trong cơ thể cô.@
 ` Nỗi kích thích ngọt ngào này hoàn toàn khác biệt so với lần đầu tiên bỡ ngỡ ban nãy.
-
+\
 ` Nhựa sống dạt dào từ lần trước đã tạo nên một chất bôi trơn vô cùng mượt mà.@
 ` Nhưng nỗi sung sướng tôi cảm nhận được hoàn toàn không hề giảm sút. Không, thậm chí lần này còn đê mê dữ dội hơn gấp bội.@
 ` Nơi sâu thẳm ấm nóng của cô ôm siết chặt chẽ lấy tôi, không chừa ra dẫu chỉ một kẽ hở tự do nhỏ.@
 ` Dẫu cho cơ thể cô ấy đang nóng rực như một lò lửa, cô vẫn không hề cảm thấy đau đớn chút nào nữa.
-
+\
 `"[line=3][line=2]Anh đừng dừng lại... Em xin anh..."@
 ` Trước khi cô ấy kịp dứt lời cầu xin ngọt ngào, tôi đã thúc mạnh tiến sâu vào tận cùng.@
 `"[line=4]NaAaa!!"@
 ` Phản ứng của cô ấy thực sự vô cùng thuần khiết, gợi cảm.@
 ` Chỉ riêng từng nhịp tiến vào cũng mang lại cho cô ấy nỗi kích thích dồn dập gấp bội so với cử động của tôi.
-
+\
 `"... Em vẫn chưa đạt đến đỉnh điểm đúng không em yêu?@ Thật không công bằng nếu chỉ có mình anh được sung sướng, thế nên hãy ngoan ngoãn đón nhận đi nào."@
 `"[line=4]Đón nhận... nếu anh đã nói thế, em cũng không từ chối đâu, thế nhưng...""@
 `"Nhưng điều gì?"@
 `"... Ư... thực sự... em cũng muốn được yêu thương... "@
 ` ... Cô ấy e thẹn khẽ lắc đầu, mái tóc vàng óng mượt xõa tung trên gối.
-
+\
 ` ... Mọi cử chỉ ngượng ngùng của cô ấy thực sự quá đỗi đáng yêu.@
 ` Lần sau lần khác,
 ` Cô ấy dường như có thể khiến tôi mất trí vì cô ấy.
-
+\
 `"[line=6]"@
 ` Tôi tiếp tục tiến sâu vào tận cùng cơ thể cô ấy.@
 `"Hừm... ..."@
@@ -1013,17 +1013,17 @@ bg "event/ark_h11",crossfade,400
 ` Có vẻ như cô ấy đã hoàn toàn thích nghi và không còn cảm thấy đau đớn khi tôi tiến vào từ phía sau lưng nữa.@
 ` Lẽ nào đây chính là nhờ khả năng phục hồi siêu phàm hay cơ thể thích nghi dị biệt của một Chân Tổ chứ?@
 ` Lúc này đây cô ấy chỉ còn cảm thấy xấu hổ e ấp vì tư thế từ phía sau lưng, và ngập tràn trong nỗi khoái cảm tột đỉnh của hành động ân ái.
-
+\
 `"[line=4]Anh sắp... đạt đến giới hạn rồi em yêu..."@
 ` Tôi đẩy mạnh hông tiến sâu vào tận cùng cơ thể cô.@
 `"[line=4]Ưm... mm...!"@
 ` Theo từng nhịp chuyển động mạnh mẽ, tiếng rên rỉ đê mê của cô ấy lại càng cao vút lên đầy gợi cảm.@
 ` Nhịp thở và nhiệt độ cơ thể vừa mới ổn định bấy giờ lại một lần nữa tăng vọt lên dữ dội.
-
+\
 `"[line=4]Ưm... mm... mm...!"@
 ` Cô ấy thở dốc liên hồi, hệt như đang thầm thúc giục tôi hãy tiến nhanh hơn nữa.@
 ` Mọi phản ứng cơ thể của cô ấy bấy giờ đã vô cùng nhiệt liệt, ngập tràn trong cơn say tình ái.
-
+\
 `"Ôi... Shiki... anh ơi... ấm quá..."@
 ` Những lời thì thầm ngọt ngào liên tục bị đứt quãng bởi những tiếng thở dốc dồn dập.@
 ` Tiếng nói nũng nịu của cô ấy như đang cầu xin tôi hãy yêu thương cô nhiều hơn.@
@@ -1031,7 +1031,7 @@ bg "event/ark_h11",crossfade,400
 `"Arcueid!"@
 ` Tôi cũng tha thiết gọi vang tên cô ấy đáp lại.@
 ` Cùng lúc đó [line=4] nơi sâu thẳm của cô ấy khẽ ôm siết chặt cứng lấy cơ thể tôi.
-
+\
 `"[line=4]Anh... yêu em...!"@
 ` Tôi dồn toàn bộ sức hông đâm mạnh vào cơ thể cô ấy.@
 `"A-h...!!!!"@
@@ -1041,7 +1041,7 @@ bg "event/ark_h11",crossfade,400
 ` Tôi tiếp tục chuyển động hông dồn dập, tiến sâu vào bên trong cô ấy đầy mãnh liệt.@
 ` Nóng bỏng quá đỗi...@
 ` Tôi khao khát được mơn trớn làn da rực nóng của cô ấy đến mức đầu óc muốn nổ tung.
-
+\
 ` [line=4]Tôi hoàn toàn không thể dừng lại được nữa rồi.@
 br
 `"[line=3]Nhận ra, hwaa, ah..."!@
@@ -1056,51 +1056,51 @@ br
 br
 `"Ồ, ừm, aha, aah, ah..."@
 ` Hành động ân ái cuồng nhiệt này có lẽ chính là sự ngọt ngào mãnh liệt nhất cuộc đời tôi.
-
+\
 `"[line=4][line=3]À, ừm, ừ... Ah, Shiki, em muốn anh nhiều hơn, Shiki... anh ơi...!"@
 ` Thanh âm van nài ngọt ngào đó càng tiếp thêm ngọn lửa kích thích tôi chiếm đoạt lấy cô.@
 ` Tôi hoàn toàn chìm đắm bên trong cơ thể ấm nóng của cô.@
 ` Tôi choàng đôi tay ôm chặt lấy thân hình ngọc ngà,
 ` và nhẹ nhàng liếm láp những giọt mồ hôi mịn màng dọc theo tấm lưng trần quyến rũ.
-
+\
 `"[line=4]Àh!"@
 ` Tôi thực sự yêu cô ấy sâu sắc.@
 ` [line=4]Dẫu cho hai cơ thể có đang quấn lấy nhau đầy hoang dại như dã thú, tình yêu tôi dành cho cô ấy vẫn vô cùng thiêng liêng.@
 br
 ` Tôi hoàn toàn không thể lý giải nổi.@
 ` Không cần hiểu, tôi chỉ biết tiếp tục yêu thương người con gái này bằng cả sinh mệnh mình.
-
+\
 bg #000000,crossfade,400
 ` Mọi giới hạn áp chế trong lồng ngực tôi đã hoàn toàn tan biến sạch sẽ.@
 ` Lần này tôi quyết không thể kìm nén thêm dẫu chỉ một khắc.@
 ` Ngay khi tiến sâu vào bên trong cô ấy, một làn sóng sung sướng rực nóng lập tức chạy dọc khắp cơ thể tôi.
-
+\
 bg "event/ark_h12",crossfade,400
 `"Gh……!"@
 ` Tôi quyết định sẽ tiếp tục yêu thương cô ấy cho đến khi cơ thể rã rời không thể cử động nổi nữa mới thôi.@
 ` Khao khát được thỏa mãn trọn vẹn người con gái mình yêu, tôi liên tục chuyển động mạnh mẽ, ôm siết lấy cô.
-
+\
 `"[line=4][line=4][line=4]A... Shiki... anh đang chuyển động sâu bên trong em..."@
 ` Trong tiếng thở dốc dồn dập, đôi bàn tay cô ấy khẽ mơn trớn cơ thể tự kích thích.@
 ` Hệt như để giúp tôi tiến sâu vào dễ dàng hơn, cô ấy khẽ dang rộng đùi e ấp.
-
+\
 `"[line=4][line=4]Ư... a...!"@
 ` Dẫu có chút bỡ ngỡ hay do nỗi sung sướng quá đỗi mãnh liệt, cô ấy khẽ đưa tay tự mơn trớn, những giọt nước mắt hạnh phúc khẽ lăn dài trên gò má.@
 `"Hua... ư... ừ, ừm... ơ..."@
 ` Những ngón thon dài của cô ấy đã ẩm ướt nhựa sống.
-
+\
 ` Hòa quyện cùng dòng dịch ấm nóng ngọt ngào, đôi bàn tay cô trở nên vô cùng lấp lánh quyến rũ.
-
+\
 `"[line=4]Arcueid... ngoan nào... hãy chạm vào đây này..."@
 ` Tôi ân cần dẫn dắt đôi bàn tay cô ấy trong khi vẫn giữ nhịp chuyển động hông dũng mãnh.@
 `"Ưm... ở nơi này sao anh...?@
 ` Đôi bàn tay e thẹn của cô khẽ chạm vào nơi nhạy cảm tột cùng của cơ thể mình.
-
+\
 `"[line=6]A... ah...!"@
 ` Thân hình ngọc ngà của cô ấy khẽ cong vút lên đầy đê mê.@
 ` Cử chạm vào nơi nhạy cảm đó khiến toàn thân cô sướng run bần bật.@
 ` Tiếng thở dốc của cô ấy lại càng trở nên hoang dại, dồn dập hơn gấp bội sau khi tự mơn trớn nơi nhạy cảm tột đỉnh.
-
+\
 `"[line=5][line=6]Cảm giác này... thực sự không thể tin nổi...!"@
 ` Cô ấy ngẩng đầu lên thở dốc, đôi tay vẫn không ngừng mơn trớn cơ thể.@
 ` Khi tôi vẫn tiếp tục xâm nhập vào cô ấy,
@@ -1112,62 +1112,62 @@ bg "event/ark_h12",crossfade,400
 ` Mỗi nhịp chuyển động cơ thể của cô ấy khiến đầu óc tôi hoàn toàn đông cứng.@
 ` Như thể tôi hoàn toàn kết nối với Arcueid vậy,
 ` Niềm vui của cô ấy dường như truyền vào tôi.
-
+\
 `"Mm, ừm, ha... ah, mm..."@
 ` Cơ thể cô ấy càng lúc càng trở nên nóng rực khi cơn cuồng si đạt đến đỉnh điểm.@
 ` Toàn thân cô gái lấp lánh những giọt mồ hôi mịn màng đầy gợi cảm.@
 `"[line=4][line=4]Ôi, Shiki... anh ơi... cô ấy nóng bỏng hơn cả một khu rừng nhiệt đới."@
 ` Cảm giác ấm nóng sâu thẳm bên trong cô ấy quả thực hệt như một vùng nhiệt đới rực cháy.@
 `"[line=2]Hãy tiến sâu vào nữa đi... Hãy yêu em trọn vẹn đi anh...!"
-
+\
 `"[line=4]Gah!"@
 ` Tôi đã hoàn toàn bị vẻ quyến rũ của cô ấy hớp hồn.@
 ` Cứ đà này, tôi chắc chắn sẽ chết vì sung sướng mất thôi.@
 ` Cảm giác được bao bọc sâu thẳm bên trong cô ấy tuyệt vời đến mức, việc được chết vì sung sướng lúc này chính là cái chết hạnh phúc nhất thế gian.
-
+\
 ` Nhịp thở dồn dập của tôi hệt như một cỗ máy tự động đang chạy hết công suất.@
 ` Tôi dồn lực đẩy mạnh hông thêm lần nữa.@
 ` Nếu cô ấy cứ quyến rũ thế này, tôi quyết định sẽ giải phóng toàn bộ tình yêu của mình vào sâu bên trong cô.@
 `"Ar…… cueid……!"@
 ` [line=4]Tôi tiếp tục tiến sâu vào bên trong cơ thể cô.@
 ` Lý trí của tôi thực sự đã hoàn toàn bị tê liệt từ lâu.
-
+\
 `"Shi……… ki[line=4]!"@
 ` Cô ấy bấy giờ chỉ có thể rên rỉ gọi tên tôi một cách vô thức.
-
+\
 ` Như thể tôi đang ở giới hạn của ý thức mình,
 ` Cô ấy cũng dường như đang ở trên bờ vực của sự cực khoái.
-
+\
 ` Tiến vào... Tiến sâu... Tiến sâu hơn nữa...!!!@
 `"[line=4][line=4]A... Shiki... Ôi... em sướng quá...!"@
 ` Tôi tiếp tục chuyển động mạnh mẽ dồn dập, phớt lờ những tiếng rên rỉ đê mê ngọt ngào của cô.@
 ` Một lực hông vô cùng dũng mãnh hệt như muốn khảm chặt hình bóng cô vào sâu trong tim.
-
+\
 `"HA, ha, ha, haa..."@
 ` Tôi vẫn tiếp tục tiến sâu vào bên trong cô ấy.
-
+\
 bg #ffffff,crossfade,800
 bg "event/ark_h13",crossfade,800
 `"[line=4][line=4][line=4]A... Shiki... Ôi... anh Shiki ơi...!"@
 ` Cơ thể cô run rẩy,
 ` Tay cô siết chặt quanh tôi.
-
+\
 `"[line=4]Em... em sắp... đạt đến giới hạn rồi..."@
 ` Cô ấy nức nở rên rỉ, khóe mắt ẩm ướt những giọt lệ hạnh phúc tột đỉnh.@
 ` Tôi dồn toàn bộ sức lực tiến sâu vào tận cùng.@
 br
 ` Cô ấy căng cứng lại.@
 ` Cơ thể cô uốn cong thành một cung.
-
+\
 ` Giống như cô ấy,
 ` Tôi cũng sắp đến giới hạn cuối cùng.@
 ` Tôi cảm nhận vô cùng rõ rệt ngọn lửa đam mê rực cháy đang chực chờ bùng nổ dâng trào trong lồng ngực.
-
+\
 `"[line=4]!"@
 `"[line=4][line=6]Shiki... Yêu em... Yêu em trọn đời...!"@
 ` Dồn hết chút lý trí và sức lực cuối cùng, tôi đẩy mạnh tiến sâu vào tận cùng cơ thể cô ấy.@
 ` Toàn bộ nhựa sống nóng rực của tôi lập tức bùng nổ, phun trào dữ dội vào nơi sâu thẳm nhất của cô.
-
+\
 bg #ffffff,crossfade,400
 bg "event/ark_h13",crossfade,400
 `"Ôi... ấm áp quá..."@
@@ -1182,7 +1182,7 @@ br
 `"[line=4][line=6]Shiki... anh ơi..." @
 br
 ` [line=4]Cô ấy vội vã ôm chặt lấy bờ vai tôi, bao dung nuốt trọn lấy toàn bộ tình yêu rực cháy đó. @
-
+\
 bg #ffffff,crossfade,800
 !w2000
 bg "bg/bg_15b",crossfade,800
@@ -1190,64 +1190,64 @@ bg "bg/bg_15b",crossfade,800
 ` Thân hình ngọc ngà của cô ấy khẽ đổ sụp xuống giường. @
 ` Cô ấy nằm im lìm đón nhận dòng nhựa sống ấm áp của tôi, cơ thể khẽ co giật nhẹ đầy thỏa mãn.@
 ` Hoàn toàn bị nuốt chửng bởi cơn sóng khoái cảm tột đỉnh, cô ấy nằm xoài trên giường thở dốc.
-
+\
 ` ... Đôi mi cô ấy khẽ khép chặt.@
 ` Với những giọt lệ hạnh phúc vẫn còn đọng lại trên gương mặt ngập tràn vẻ thỏa mãn ngọt ngào, cô ấy nhẹ nhàng chìm sâu vào giấc ngủ yên bình.
-
+\
 bg #000000,crossfade,800
 playstop
 bg "bg/bg_15b",crossfade,800
 `"... Anh... thực sự... mệt lử rồi..."@
 ` Tôi lẳng lặng ngắm nhìn cô ấy trong khi hơi thở của mình vẫn còn đang dồn dập khó nhọc.@
 ` Cô ấy đang có một giấc ngủ vô cùng yên bình, nhịp thở đều đặn đáng yêu.
-
+\
 `"... Ưm."@
 ` Nhớ lại cảnh tượng cuồng nhiệt ban nãy, lồng ngực tôi bỗng thoáng chút ngượng ngùng đỏ mặt.@
 ` Tôi tuyệt đối không hề có lấy một chút hối tiếc nào về việc đã hòa làm một cùng cô ấy đêm nay.@
 ` Ồ, có lẽ chỉ một chút thôi.@
 ` Thực lòng tôi chỉ muốn bản thân lúc đó có thể bình tĩnh hơn một chút, để có thể mơn trớn làn da mịn màng và ngắm nhìn gương mặt e thẹn, đáng yêu của cô ấy kỹ hơn.
-
+\
 `"... Tôi nghĩ tôi vẫn chưa thể.@ Tôi đang cố gắng theo kịp cô ấy mà."@
 ` Nhưng thực tế, tôi cũng chẳng dám chắc liệu sau này có ngày nào tôi giữ nổi sự bình tĩnh trước cơ thể ngọc ngà của Arcueid hay không nữa.@
 ` Đến cả đêm nay, tôi cũng chẳng còn nhớ rõ mình đã làm những gì nữa.@
 ` Ký ức duy nhất còn đọng lại chỉ là cảm giác đê mê ngọt ngào đến mức không tưởng.@
 ` Nếu sự kiệt quệ thể xác là thước đo cho nỗi sung sướng đó, thì lúc này đây tôi thực sự đã mệt lử đến mức không thể nhấc nổi chân bước đi nữa rồi.
-
+\
 `"[line=4]Hwah."@
 ` Khẽ nuốt nước bọt, tôi dịu dàng ngắm nhìn gương mặt say ngủ của cô gái tôi yêu.@
 ` …… Tôi thực sự yêu cô gái này sâu sắc.@
 ` Cô ấy đã bao dung đón nhận và đáp lại tình yêu có phần ích kỷ, cuồng nhiệt của tôi.@
 ` Dẫu tình cảm của cô ấy dành cho tôi có mang một hình thái khác biệt đi chăng nữa, thì rõ ràng Arcueid cũng đang vô cùng cần đến sự hiện diện của tôi.
-
+\
 ` Chỉ như vậy thôi.@
 ` Chỉ điều đó khiến tôi vô cùng hạnh phúc.@
 ` Không phải vì tôi được cần đến.@
 ` Bởi vì đối với một cô gái [line=4] đã phải sống cuộc đời đơn độc lạnh lẽo suốt hàng trăm năm qua như cô ấy, việc cô ấy biết mở lòng khát khao sự sẻ chia của người khác thực sự khiến tôi vui mừng khôn xiết.
-
+\
 `"[line=4]Và cậu biết không... kể từ khoảnh khắc này trở đi, cậu sẽ không bao giờ phải cô độc một mình nữa đâu, Arcueid à."@
 br
 ` Mọi thứ bắt đầu lắc nhẹ một chút.@
 ` …… …… Có vẻ như cơn buồn ngủ cũng đã bắt đầu ập đến với tôi rồi.@
 ` Nằm ngửa lặng lẽ bên cạnh cô ấy, tôi khẽ hít một hơi dài thanh thản.@
 ` Và cứ thế, tôi nhẹ nhàng chìm sâu vào một giấc ngủ vô cùng bình yên.
-
+\
 bg #000000,crossfade,1500
 ` Trong giấc ngủ sâu,
 ` Trong giấc chiêm bao màng màng, tôi mơ thấy Arcueid đã thức giấc từ lúc nào, đang lặng lẽ ngồi nhìn tôi đầy trìu mến.
-
+\
 ` Arcueid khẽ nghiêng đầu ngắm nhìn tôi.@
 ` "Bạn đang làm gì?" - Tôi hỏi.@
 br
 `"Ơ. Cậu thức giấc rồi sao, Shiki?"@
 br
 ` "Cũng chưa hẳn đâu, cơ thể tôi mỏi nhừ đến mức chẳng thể cử động nổi nữa rồi, tất cả là tại cậu đấy nhé."
-
+\
 `"[line=4]Tôi hiểu rồi."@
 ` "Nghe cậu nói vậy tôi thấy tự hào lắm đấy, nhưng cũng hơi ngượng ngùng nữa."@
 br
 ` "... Arcueid nở một nụ cười hồn nhiên hệt như một cô bé nhỏ."@
 ` Dẫu mắt đang nhắm nghiền nhưng tôi vẫn cảm nhận vô cùng rõ rệt gương mặt ngập tràn hạnh phúc của cô ấy, nên tôi quyết định bỏ qua sự nghịch lý nhỏ nhặt này.
-
+\
 `"Này Shiki..."@
 br
 ` "Có chuyện gì thế em? Em chắc chắn cũng đã mệt lử rồi, nên hãy ngoan ngoãn ngủ một giấc thật sâu cho đến tối đi nhé."@
@@ -1257,19 +1257,19 @@ br
 ` "... Sao tự dưng em lại hỏi một câu kỳ lạ thế chứ."@
 ` Nhưng chuyện đó tuyệt đối không bao giờ có thể xảy ra được đâu.@
 ` Bởi vì cậu vốn dĩ vô cùng sợ hãi việc uống máu người đúng không nào?
-
+\
 `"[line=4]Thế nên tôi mới bảo đây chỉ là một câu hỏi giả định 'nếu như' mà lị.@
 ` Trong thế giới tự nhiên hoang dã, việc tước đoạt sinh mệnh của kẻ khác để sinh tồn vốn là quy luật vô cùng hợp lý đúng không nào?@ Vậy nên[line=4]đây chỉ đơn thuần là một câu chuyện giả thuyết 'nếu như một ngày tôi biến chất thành như vậy' mà thôi."@
 br
 ` ... Dừng lại.@
 ` [line=4]Điều đó sẽ không bao giờ xảy ra và tôi không thích nói về "nếu như".@ Tôi đã nói điều đó trước đây rồi sao?
-
+\
 `"Thật sao?@ Nhưng tôi lại vô cùng thích những câu hỏi giả định 'nếu như' đấy.@ Dẫu không biết kết quả tương lai thế nào, nhưng ít nhất vào chính khoảnh khắc đặt câu hỏi, lòng ta vẫn ngập tràn hy vọng đúng không nào."@
 br
 ` ... Đúng vậy, cậu cũng từng nói điều tương tự trước đây, Arcueid.
-
+\
 `"Ừm... Vậy... Tôi tự hỏi mình sẽ làm gì nếu cậu là một kẻ độc ác."
-
+\
 ` "Arcueid...?@"@
 br
 `"[line=4]Em thực sự yêu anh, Shiki."@
@@ -1277,7 +1277,7 @@ br
 br
 ` "Tại sao chứ...? "@
 ` Tại sao... tại sao Arcueid lại đang khóc cơ chứ?
-
+\
 br
 `"Này Shiki... em xin phép được rời đi trước khi anh thức giấc nhé."@
 ` "Em xin lỗi vì không thể dũng cảm đối diện để nói lời tạm biệt trực tiếp với anh, bắt buộc phải dùng cách hèn nhát thế này."@
@@ -1287,7 +1287,7 @@ br
 ` Một tiếng khép cửa phòng khè khẽ vang lên.@
 ` Tôi vẫn đang ngủ,
 ` và nghe thấy nó khép lại.
-
+\
 bg #ffffff,crossfade,1500
 !w1000
 bg "bg/bg_15a",crossfade,800
@@ -1295,12 +1295,12 @@ bg "bg/bg_15a",crossfade,800
 ` Tôi tỉnh giấc.@
 ` Những tia nắng ban trưa rực rỡ chiếu rọi qua khe rèm cửa sổ.@
 ` Ngước nhìn lên đồng hồ, tôi giật mình nhận ra lúc này đã là giữa trưa.
-
+\
 `"Chết rồi! Trễ học mất rồi...!"@
 ` Tôi vội vàng ngồi bật dậy khỏi giường.@
 ` ... Nhưng nghĩ lại, hôm nay là chủ nhật.@
 ` Nhưng rồi tôi chợt nhận ra hôm nay là ngày Chủ nhật, đâu cần phải đến trường học. Nếu thực sự có điều gì đáng lo, thì đó là việc tôi đã qua đêm ở ngoài mà không hề gọi điện thông báo cho biệt thự một lời.
-
+\
 `"[line=6]@
 ` Ngẫm nghĩ kỹ lại, tôi nhận ra mình vừa trải qua một giấc mơ vô cùng kỳ lạ.@
 ` Một giấc chiêm bao ngọt ngào nơi tôi và Arcueid trò chuyện thâu đêm, rồi hai đứa trao nhau những nụ hôn và cái ôm nồng cháy cuối cùng.@
@@ -1312,7 +1312,7 @@ br
 `"[line=4]Cậu cũng nghĩ thế đúng không, Arc?"@
 ` Tôi mỉm cười quay người nhìn sang phía bên kia giường.@
 ` Và rồi, mọi thanh âm trong cổ họng tôi bỗng chốc khựng lại, đông cứng.
-
+\
 `"[line=4]Arc... ueid...?"@
 ` Tôi bàng hoàng đứng trơ trân nhìn chiếc giường trống rỗng.@
 ` Hoàn toàn trống trơn, không có một bóng người.@
@@ -1322,7 +1322,7 @@ br
 br
 ` Trong giấc mơ của tôi,
 ` Arcueid đã nói điều đó.
-
+\
 `"Này... hãy đợi đã chứ..."@
 ` Tôi hoang mang dáo dác nhìn quanh căn phòng trống trải.@
 ` Nhưng dĩ nhiên, cô ấy đã thực sự rời đi rồi.@
@@ -1331,11 +1331,11 @@ br
 `"[line=4]Hả..."@
 ` Tôi không rõ đây là một trò đùa tinh nghịch hay là gì...
 ` nhưng trên mảnh giấy thực sự chỉ vỏn vẹn đúng hai chữ "Tạm biệt".
-
+\
 `"[line=4]Tại sao chứ...?"@
 ` Tôi tuyệt đối không muốn tin vào sự thật phũ phàng này.@
 ` [line=4]Nhưng hơn ai hết, sâu trong thâm tâm, tôi hoàn toàn thấu hiểu được nguyên nhân đằng sau hành động đó của Arcueid.
-
+\
 br
 `"[line=4]Tại sao chứ...?"@
 br
@@ -1344,17 +1344,17 @@ br
 ` Chúng tôi thậm chí còn đã lập bao lời hẹn ước bên nhau cơ mà.@
 ` Đã hứa là nhất định sẽ luôn đồng hành bên nhau. Tôi đã thề là sẽ kiên quyết sát cánh giúp đỡ cô ấy cho đến tận giây phút cuối cùng cơ mà.@
 ` [line=5][line=4]Tại sao... tại sao cậu lại một lần nữa tàn nhẫn bỏ rơi tôi để ra đi đơn độc chứ hả Arcueid?!
-
+\
 `"[line=4]Tại sao chứ, Arcueid...?!"@
 br
 ` Tôi căm phẫn hét lên thật lớn rồi điên cuồng vò nát, xé mảnh giấy ly biệt kia thành trăm mảnh vụn.
-
+\
 bg #000000,crossfade,800
 !w3000
 br
 ` [line=4]Sau đó,
 ` Tôi bay ra khỏi phòng và tìm kiếm khắp nơi như thể tôi đã mất trí.
-
+\
 bg "bg/bg_29b",crossfade,800
 ` Tôi hoàn toàn không thể tìm thấy bóng dáng Arcueid đâu.@
 ` Tôi biết.@
@@ -1365,25 +1365,25 @@ br
 ` Tôi sợ mình sẽ thực sự phát điên lên nếu không thể tìm thấy cô ấy để mắng mỏ cô ấy vì sự ngớ ngẩn đó, nhưng dẫu có chạy rã rời chân, cô ấy vẫn bặt vô âm tín.@
 br
 ` Tôi thực sự... sẽ vĩnh viễn không bao giờ được gặp lại cô ấy nữa sao.
-
+\
 `"[line=8]"@
 br
 ` Mọi hy vọng cuối cùng bấy giờ đã hoàn toàn đổ vỡ, kết thúc trong tuyệt vọng.@
 br
 ` Cô ấy chắc chắn sẽ tự mình đi giải quyết ân oán sinh tử với Roa rồi lặng lẽ tan biến một mình trong bóng tối.@
 ` ... Không, tôi nghĩ cô ấy đã hoàn thành rồi và rời khỏi thành phố.
-
+\
 `"[line=6]"@
 ` Tôi bắt buộc phải ép đầu óc mình ngừng suy nghĩ trước khi bản thân thực sự phát điên.@
 ` ... Tôi nghe thấy những tiếng chuông gió lạnh lùng vang vọng bên tai.@
 ` Hệt như một chiếc vỏ ve sầu trống rỗng bị bỏ lại sau mùa hè.@
 ` Cơ thể tôi bỗng chốc trở nên nhẹ bẫng hệt như một cái xác rỗng tuếch không còn linh hồn, đầu óc hoàn toàn tê liệt không thể suy nghĩ được gì thêm nữa.@
 ` Đây... chính là cảm giác của sự trống rỗng, vô hồn đích thực.
-
+\
 ` Đến cả những giọt nước mắt căm phẫn lúc này cũng không thể tuôn rơi nổi nữa.@
 ` Tôi chỉ còn là một cái xác không hồn trôi dạt vô định, nhưng đôi chân vẫn đang lặng lẽ bước đi.@
 ` Có lẽ đó chỉ là phản xạ bản năng sinh học của loài vật để tìm đường quay trở về tổ ấm của mình mà thôi.@
 ` [line=4]Dẫu cho tâm hồn đã hoàn toàn trống rỗng không còn sót lại dẫu chỉ một mảnh tình cảm, tôi vẫn đang lững thững lê bước chân quay trở về biệt thự gia tộc Tohno.
-
+\
 bg #000000,lcartain,1500
 !w3000

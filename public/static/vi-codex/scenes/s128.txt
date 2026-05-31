@@ -1,6 +1,6 @@
 if (%flgE>=1) skip 3
-phase "bg/bg_06g", l, arc, 06a, 6
-Bỏ qua 2 giây.
+phase "bg/bg_06g",l,ark,06a,6
+skip 2
 phase "bg/bg_27b",l,cel,06a,6
 bg #ffffff,crossfade,1500
 bg "bg/bg_40a",lcartain,400
@@ -77,7 +77,7 @@ br
 ld c,"tachi/his_t01",lshutter,400
 `"Shiki-sama."@
 `"Uwaaaaaa!"@
-Tôi giật mình khỏi giường như đang cố trốn thoát.
+quakey 2,100
 ` Không, thực ra tôi đang cố trốn thoát, nhưng kết quả là tôi rơi xuống sàn với những tấm chăn quấn quanh người.@
 ` "[line=2]Này, Hihi, Hisui...?! H, cậu đã ở đó từ bao lâu rồi?"
 \

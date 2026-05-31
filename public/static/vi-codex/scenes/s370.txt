@@ -13,7 +13,7 @@ br
 bg #000000,lcartain,800
 bg "bg/bg_36d",tshutter,800
 playstop
-Chơi âm thanh se_11
+waveloop se_11
 ` [line=5]Tối đen như mực.@
 br
 ` Ánh trăng xuyên qua cửa sổ chỉ chiếu sáng đủ để nhìn thấy.@
@@ -35,7 +35,7 @@ bg #000000,notrans,0
 bg "bg/bg_36d",notrans,0
 ` Tôi nghe thấy một âm thanh.@
 br
-Chơi âm thanh se_11
+waveloop se_11
 `"[line=6]!"@
 ` Tôi quay lại.@
 ` [line=3]Từ hướng phát ra tiếng động[line=3]nơi bậu cửa sổ ngập tràn ánh trăng, có một bóng người đang lặng lẽ đứng đó.
@@ -52,7 +52,7 @@ Chơi âm thanh se_11
 \
 wave se_01
 ` Tim tôi đập mạnh.@
-[chơi: se_11]
+waveloop se_11
 ` Nó đập nhanh hơn.@
 ` Đầu óc tôi tê dại, tựa hồ như bản thân dẫu dã đã cận kề cái chết.@
 ` Cảm giác này.@
@@ -254,7 +254,7 @@ ld c,"tachi/hal_t03",crossfade,400
 cl c,lcartain,400
 bg #ffffff,notrans,0
 bg "bg/bg_36d",notrans,0
-Động đất 2,100
+quakey 2,100
 bg #000000,lshutter,400
 bg "bg/bg_46c",lshutter,400
 ` Chỉ với một cú đánh từ SHIKI, tôi đã bị hất văng thẳng ra dãy hành lang ngoài.@

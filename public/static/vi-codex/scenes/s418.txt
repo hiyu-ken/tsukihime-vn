@@ -218,7 +218,7 @@ playstop
 !w4000
 bg "bg/bg_24c",crossfade,400
 bg #000000,crossfade,800
-Chơi âm thanh se_02
+waveloop se_02
 br
 br
 !w1000
@@ -349,11 +349,11 @@ wavestop
 bg #000000,crossfade,800
 playstop
 !w4000
-[hình nền "bg/ima_09", loại koha, 07a, 7
+phase "bg/ima_09",l,koha,07a,7
 bg #ffffff,notrans,0
 !w2000
 bg "bg/bg_40a",crossfade,800
-lặp âm thanh se_11
+waveloop se_11
 `"[line=6]! "@
 ` Tôi nhảy ra khỏi giường không thể chịu đựng được.@
 `"[line=3][line=4]Ahaa, ha... Ah."@
@@ -384,7 +384,7 @@ wavestop
 ` Nhưng, trong một khoảnh khắc,
 ` Tôi nhìn thấy cả hai bàn tay tôi bị phủ bởi màu đỏ.
 \
-`waveloop se_02` (dòng âm thanh lặp lại)
+waveloop se_02
 ` [line=3]"Chuyện gì vậy? Cậu cũng sao?"@
 br
 ` "Hả?..."@

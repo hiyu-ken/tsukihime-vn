@@ -177,7 +177,7 @@ br
 bg #ffffff,crossfade,1500
 playstop
 !w3000
-[Hình nền/hình nền_30a], l, his, 05a, 5
+phase "bg/bg_30a",l,his,05a,5
 bg #ffffff,crossfade,400
 bg "bg/bg_40a",crossfade,800
 play "*2"

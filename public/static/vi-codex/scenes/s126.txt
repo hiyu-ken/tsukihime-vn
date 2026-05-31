@@ -1,6 +1,6 @@
 if (%flgE>=1) skip 3
 phase "bg/bg_06g",l,ark,06a,6
-Nhảy qua 2 khung
+skip 2
 phase "bg/bg_27b",l,cel,06a,6
 bg #ffffff,crossfade,1500
 bg "bg/bg_40a",crossfade,800
@@ -63,7 +63,7 @@ br
 ld c,"tachi/his_t01",lshutter,400
 `"Shiki-sama."@
 `"Uwaaaaaa!"@
-Cơ thể tôi run rẩy mạnh đến mức tôi như cố thoát khỏi giường.
+quakey 2,100
 ` Tôi vung vãi trên giường như đang cố trốn chạy.@
 ` [line=2]Tôi chỉ cố gắng trốn thoát, nhưng cuối cùng lại ngã xuống sàn với những tấm chăn quấn quanh người.
 \

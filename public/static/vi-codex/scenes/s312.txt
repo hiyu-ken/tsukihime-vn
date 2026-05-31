@@ -301,7 +301,7 @@ wave se_01
 \
 `"[line=2]Làm sao tôi có thể giúp bạn, Yumizuka?"@
 br
-(Âm thanh lặp lại)
+waveloop se_02
 `"Chỉ cần trở thành bạn của tôi là đủ..."@
 ld c,"tachi/stk_t02",tshutter,400
 `"[line=3]Chờ đã!"@
@@ -323,7 +323,7 @@ br
 ` Tốc độ của cô ấy giống như một viên đạn.@
 ` Nhưng theo cách nào đó, tôi nhìn thấy nó hoàn hảo [line=3] hoặc cảm thấy như tôi đã nhìn thấy nó hoàn hảo và tôi ngã xuống đất.
 \
-Rung chuyển 2,50
+quakey 2,50
 `"[line=3]Guh…!"@
 ` Tôi vặn đầu một cách tuyệt vọng, và ném mình xuống đất.@
 ` Với một tiếng rít,
@@ -451,7 +451,7 @@ br
 ` Yumizuka trở thành một quái vật giết người, và uống máu họ[line=4]
 \
 wave se_10
-rung chuyển 1,50
+quakey 1,50
 bg "bg/bg_25b",tcartain,400
 `"!"[line=4]?@
 ` Bỗng nhiên có thứ gì đó đánh vào lưng tôi, và tôi bị ngã xuống đất.@
@@ -552,7 +552,7 @@ waveloop se_02
 ` Tôi chấp nhận tầm nhìn này để giết ai đó.
 \
 `"[line=3]Tôi hiểu rồi.@ Vậy thì tôi rất vui vì bạn đã quyết tâm, Shiki-kun.@ Nhưng đã muộn rồi.@ Cuộc đua này đã kết thúc."@
-Lắc địa chấn 2,50
+quakex 2,50
 monocro off
 bg #000000,crossfade,400
 `"[line=5]Làm sao thế này?"
@@ -592,7 +592,7 @@ ld c,"tachi/stk_t02",crossfade,400
 \
 cl a,lshutter,400
 wave se_15
-Lắc lư 4,50
+quakey 4,50
 waveloop se_02
 bg #000000,lshutter,400
 `"[line=4]Kuh...@
@@ -651,8 +651,8 @@ br
 wave se_15
 bg #9c0120,notrans,0
 bg #000000,notrans,0
-Lắc đầu, 1500 lần.
-Chơi lại âm thanh se_02.
+quakey 1,500
+waveloop se_02
 `"[line=6]Ồ."@
 ` Cơ thể tôi... nổi lên.@
 ` Tôi bị tấn công từ phía trước và bay qua không trung.

@@ -3,223 +3,223 @@ wavestop
 play "*1"
 bg "bg/bg_28b",lshutter,800
 play "*1"
-` Kim chỉ giờ của đồng hồ cứ lẳng lặng dần trôi qua.@
-` Đã hơn hai tiếng đồng hồ trôi qua kể từ khi hai chúng tôi đến đài phun nước công viên này túc trực.@
+` Kim đồng hồ vẫn lặng lẽ tích tắc trôi qua.@
+` Đã hai tiếng kể từ khi chúng tôi đến đây.@
 br
-`"[line=4] *Thở dài*."@
-` Tôi bắt đầu cảm thấy mỏi mệt, không khí xung quanh lạnh dần và tuyệt đối không còn bóng dáng một ai qua lại nữa.@
-` Đêm càng lúc càng về sâu thẳm tịch mịch hơn.
+`"[line=4]Phù."@
+` Tôi bắt đầu thấy thoải mái và xung quanh giờ chẳng còn ai.@
+` Đêm bắt đầu sâu dần.
 \
-`"Arcueid này, liệu cứ đứng chờ thế này có ổn không đấy?"@
+`"Arcueid này, giờ ổn rồi chứ?"@
 ld c,"tachi/ark_t03",crossfade,400
-`"Tôi cũng không chắc nữa. Nhưng hiện tại tôi hoàn toàn không cảm nhận được chút sinh khí ma lực nào của Roa ở gần đây cả. Có vẻ đêm nay hắn quyết định ẩn nấp dưỡng thương không chịu ra mặt rồi."@
-` Cô ấy khẽ thở dài đầy hụt hẫng.@
-`"Vậy sao... Thế thì đêm nay chúng ta đành ra về tay trắng rồi."@
-` [line=4]Tôi nhún vai đứng dậy khỏi ghế băng công viên, phủi bụi trên quần áo.@
-`ld c,"tachi/ark_t02",crossfade,400
+`"Ừ, ổn rồi."@
+` Cô ấy đồng tình với tôi, nhưng có vẻ không thực sự hào hứng.@
+`"Cậu cứ kỳ kỳ từ nãy giờ, Arcueid.@ Có chuyện gì à?"@
+`"[line=4]Cũng không hẳn.@ Tôi chỉ đang bận tâm về cái gã quấn băng cậu kể cho tôi."@
+` Arcueid thở dài, trầm tư suy nghĩ.
 \
 ld c,"tachi/ark_t08",crossfade,400
-`"Tôi biết rồi. Cảm ơn cậu đã lo lắng cho tôi nhé, Arcueid."@
-`ld c,"tachi/ark_t08",crossfade,400
+`"À đúng rồi.@ Shiki, đêm qua có một gã tán tỉnh tôi ở đây."@
+`"[line=4]Hả?"@
 ld c,"tachi/ark_t11",crossfade,400
-` Vẫy tay chào đầy năng lượng, ma cà rồng váy trắng thoăn thoắt bước đi rồi nhanh chóng hòa mình biến mất vào bóng đêm tịch mịch.@
-`cl c,lshutter,800
+`"Ý tôi là, có một gã bắt chuyện với tôi ở đây."@
+`"…… Không, tôi nghe rồi.@ Tôi tưởng cậu đang nghĩ về gã quấn băng kia mà."@
 ld c,"tachi/ark_t03",crossfade,400
-`bg #000000,crossfade,1500
+`"Đúng vậy, vì thế tôi mới nhớ ra.@ Giống như khi cậu bị tấn công, có ai đó bắt chuyện với tôi."
 \
-`!w3000
-` Tôi trả lời một cách nghiêm túc.@
-` Đôi khi, tôi hơi thẳng thắn quá mức.
+`"…… Ra vậy.@ Ừ, vậy là tốt rồi.@ Nhìn từ ngoài, cậu là cô gái xinh đẹp nên nếu cứ đứng một mình thì việc một gã bắt chuyện cũng hoàn toàn bình thường."@
+` Tôi đưa ra phản ứng nghiêm túc.@
+` Đôi khi, tôi thật thà hơi quá đà.
 \
 ld c,"tachi/ark_t01a",crossfade,400
-`"Bạn nghĩ sao? Ban đầu tôi tưởng là kẻ thù, nhưng tôi nhớ ra bạn từng nói rằng tôi luôn nổi bật. Vì vậy sau khi quan sát anh ta một lúc, tôi nhận ra anh ta chỉ là con người bình thường."@
-`"Chờ đã. Bạn có làm gì với gã cố tình làm quen với bạn không?"@
+`"Cậu nghĩ vậy à?@ Lúc đầu tôi tưởng là kẻ thù, nhưng tôi nhớ ra trước đây cậu nói rằng tôi lúc nào cũng nổi bật.@ Nên sau khi quan sát gã một lúc, tôi thấy gã chỉ là con người thôi."@
+`"…… Khoan đã.@ Đừng nói là cậu đã làm gì cái gã bắt chuyện đó đấy nhé?"@
 ld c,"tachi/ark_t14",crossfade,400
-`"Không, tôi chẳng làm gì cả. Tôi chỉ nói chuyện với anh ta một chút và khiến anh ta quên đi. …… Nhưng nếu tôi không nhớ ra những gì bạn nói, có lẽ tôi cũng sẽ làm điều đó."
+`"Không, tôi chẳng làm gì cả.@ Chỉ nói chuyện với gã một chút và làm gã quên đi.@ …… Nhưng nếu tôi không nhớ ra những gì cậu nói, tôi đã có thể làm thật."
 \
-`"Tôi hiểu rồi. Công việc này của cậu rất tốt, Arcueid. Có lẽ chỉ có cậu mới khiến tôi bực mình."@
+`"Ra vậy.@ Tốt lắm, Arcueid.@ Hóa ra cậu cũng biết phân biệt."@
 ld c,"tachi/ark_t01a",crossfade,400
-`"Đương nhiên rồi. Một người như cậu mới có thể làm tôi tức giận."@
-` Cô ấy nói vậy với một chút hài hước.@
-` "... Dĩ nhiên là bình thường khi ai đó giận dữ nếu họ bị giết, phải không?"@
+`"Tất nhiên.@ Phải là người như cậu mới làm tôi nổi giận được."@
+` Cô ấy có vẻ nói câu đó với chút thích thú.@
+` …… Ừ, ai bị giết thì giận là chuyện thường.@
 cl c,crossfade,400
 \
 ` Tôi thở dài, nhìn quanh công viên.@
-` "... Cách đây một tháng."@
-` Nếu những vụ giết người hàng loạt không xảy ra, vẫn còn nhiều cặp đôi trẻ tuổi và những học sinh tụ tập ở đây.@
-` "Nhưng giờ đây, chỉ có tôi và Arcueid nói chuyện ở đây thôi."@
+` …… Một tháng trước.@
+` Nếu những vụ giết người hàng loạt không xảy ra, ở đây vẫn còn các cặp đôi trẻ và bóng dáng học sinh tụ tập.@
+` Nhưng giờ, chỉ có tôi và Arcueid đang nói chuyện ở đây.@
 br
-` Tôi bình tĩnh suy nghĩ về tình huống hiện tại của mình.@
-` [line=4]Từ khi nào Tohno Shiki bước lên con đường thế giới này?
+` Tôi bình tĩnh suy nghĩ về tình cảnh hiện tại của mình.@
+` Tohno Shiki đã bước chân vào con đường thuộc về thế giới này từ khi nào[line=4]?
 \
 playstop
 ld c,"tachi/ark_t08",crossfade,400
-`"À. Chào, xem này."@
-` Arcueid đột nhiên gọi tên tôi.@
-`"Có chuyện gì vậy?"@
+`"À.@ Này, nhìn kìa."@
+` Arcueid đột nhiên gọi tôi.@
+`"Sao thế, có chuyện gì à?"@
 ld c,"tachi/ark_t09",crossfade,400
-`"Đúng vậy. Xem đi. Đi nhìn đồng hồ." Nói rồi, cô ấy mỉm cười.@
-` Cô ấy chỉ vào chiếc đồng hồ ở công viên.@
-` [line=4]Bây giờ đã mười giờ rồi.@
+`"Ừ.@ Thấy không?@ Nhìn đồng hồ kìa.@ Đến giờ rồi."@
+` Cô ấy chỉ vào đồng hồ công viên, mỉm cười rạng rỡ.@
+` Nhìn xem[line=4]bây giờ là mười giờ tối.@
 cl c,crossfade,400
 \
 play "*8"
-` Thời gian hứa hẹn.@
-` Một lời hứa chỉ dựa vào lời nói, gặp nhau lúc mười giờ tối qua.@
+` Thời gian đã hứa.@
+` Lời hứa chỉ bằng lời nói, gặp nhau ở đây lúc mười giờ tối.@
 br
 ` …… Đêm qua.@
-` Thời gian tôi không thể giữ được.
+` Cuộc hẹn mà tôi đã không thể giữ.
 \
 `"[line=8]"@
-` Lời nói của tôi kẹt lại trong cổ họng.@
-` Tại sao một điều vô nghĩa đột nhiên khiến ngực tôi thắt chặt?@
+` Lời nói nghẹn lại trong cổ họng tôi.@
+` Sao một chuyện nhỏ nhặt như vậy lại đột nhiên khiến lồng ngực tôi thắt lại?@
 br
-` Tại sao... một điều vô nghĩa lại làm cô ấy hạnh phúc đến vậy?
+` Sao… một chuyện nhỏ nhặt như vậy lại khiến cô ấy hạnh phúc đến thế?
 \
-` Tôi thực sự không hiểu.@
-` Tôi đã ở bên cô ấy suốt cả ngày hôm nay.@
-` Nhưng nó chưa bao giờ cảm thấy như thể cô ấy thực sự là một ma cà rồng.
+` …… Tôi thực sự không hiểu.@
+` Hôm nay tôi dành cả ngày bên cô ấy.@
+` Nhưng chưa bao giờ cảm thấy cô ấy thực sự là một ma cà rồng.
 \
-`"...Tôi muốn hỏi cô một điều."@
+`"…… Tôi muốn hỏi cậu một chuyện."@
 br
-` [line=4]Ngừng lại đi, Shiki.@
+` [line=4]Dừng lại đi, Shiki.@
 br
 ld c,"tachi/ark_t09",crossfade,400
-`"Ừm, chuyện gì vậy?"@
-`"... Cô ấy là...?"@
+`"Ừ, chuyện gì?"@
+`"…… Cậu có……"@
 br
-` [line=4]Đừng hỏi cô ấy như thế.@
+` [line=4]Đừng hỏi cô ấy điều đó.@
 br
 ld c,"tachi/ark_t01a",crossfade,400
-`"À, tôi là một ma cà rồng à?"@
-`"... Thật sao? Tại sao đột nhiên lại như vậy, Shiki?"@
+`"Ừm, tôi có gì cơ?"@
+`"…… Thật sự là ma cà rồng à?"@
 br
-` [line=4]Loại câu trả lời nào mà cô đang tìm kiếm?
+` [line=4]Cậu đang mong nhận được câu trả lời nào?
 \
 ld c,"tachi/ark_t12",crossfade,400
-`"Một ma cà rồng? [line=2]Sao đột nhiên lại hỏi thế, Shiki?"@
-`"Không đột ngột đâu. Tôi chỉ đang suy nghĩ."@
-` Tôi liếc đi chỗ khác.@
+`"Ma cà rồng?[line=2]Sao tự dưng lại hỏi vậy, Shiki?"@
+`"Không phải tự dưng đâu.@ Tôi chỉ đang suy nghĩ thôi."@
+` Tôi nhìn đi chỗ khác.@
 ld c,"tachi/ark_t11",crossfade,400
-`"Hả? Tôi không biết cậu có cố tình cứng đầu hay không. Không sao cả, nhưng điều đó khá xúc phạm. Nói cho tôi biết lý do tại sao cậu hỏi vậy."@
+`"Hả?@ Tôi không biết cậu cố tỏ ra cứng đầu hay sao.@ Tôi không phiền lắm, nhưng nghe khá xúc phạm đấy.@ Nói tôi nghe lý do cậu hỏi thế đi."@
 cl c,crossfade,400
-` Không có lý do gì.@
-` [line=4]Nhưng đồng thời, cũng chẳng có bằng chứng cụ thể nào chứng minh cô ấy là ma cà rồng cả.@
-` [line=4]Vậy nên...
+` Không có lý do nào.@
+` Nhưng[line=4]đồng thời, cũng chẳng có bằng chứng thực sự rằng cô ấy là ma cà rồng.@
+` Nên[line=4]
 \
-`"Chà, cậu nói là cậu không thích nhìn thấy máu. Loại ma cà rồng nào thế? Cậu thậm chí còn nói mình không phải là ma cà rồng hoàn toàn, nhưng một ma cà rồng chưa từng hút máu thì có còn là ma cà rồng nữa không?"@
+`"…… Ừm, cậu nói thậm chí còn không thích nhìn máu.@ Loại ma cà rồng gì vậy?@ Cậu cũng nói cậu không phải ma cà rồng hoàn toàn, nhưng một ma cà rồng chưa từng hút máu thì có còn là ma cà rồng nữa không?"@
 br
-` [line=4]Đó không phải là vấn đề.@
-` Tohno Shiki, sâu thẳm trong lòng, thực ra chỉ mong mình không phải là một ma cà rồng sao?
+` [line=4]Không phải vậy đâu.@
+` Có phải chỉ là sâu thẳm bên trong, Tohno Shiki ước cô ấy không phải là ma cà rồng?
 \
 ld c,"tachi/ark_t06",crossfade,400
-`"Shiki, hãy đứng lên."@
-` Arcueid tiến lại gần chiếc ghế đá trong công viên.@
+`"Shiki.@ Đứng dậy."@
+` Arcueid tiến lại gần chiếc ghế băng.@
 ` Tôi đứng dậy.@
 br
-`"[line=4]@
-` Đôi mắt chúng ta giao nhau.@
-` Chúng ta cách nhau khoảng hai mét.@
+`"[line=4]"@
+` Ánh mắt chúng tôi giao nhau.@
+` Hai chúng tôi cách nhau khoảng hai mét.@
 br
-` Arcueid thở dài sâu rồi bỗng mỉm cười.
+` Arcueid thở dài thật sâu, rồi đột nhiên cười nhếch mép.
 \
 ld c,"tachi/ark_t08",crossfade,400
-`"Tôi nghĩ cậu đúng. Thậm chí tôi cũng đã tự suy nghĩ về điều này. Tôi tự hỏi, Arcueid Brunestud có thực sự là một ma cà rồng không?@
-` "Ha ha," cô ấy cười.
+`"Tôi nghĩ cậu nói đúng.@ Bản thân tôi cũng đã nghĩ về điều đó.@ Tôi tự hỏi, Arcueid Brunestud có thực sự là ma cà rồng?@
+` Hahaha," cô ấy cười.
 \
 br
-` ... Đó là một sự nhẹ nhõm.@
-` [line=4]Tôi nghĩ câu hỏi này sẽ xúc phạm cô ấy, nhưng may mắn thay, cô ấy dường như đã xem nó như một trò đùa.@
+` …… Thật nhẹ nhõm.@
+` Tôi tưởng câu hỏi này sẽ xúc phạm cô ấy[line=4]nhưng may mắn, cô ấy có vẻ đã xem nó như một câu đùa.@
 br
-`"[line=4]Vâng. Cậu thực sự không giống một ma cà rồng chút nào."@
-` "Ha ha," Arcueid cười lần nữa.
+`"[line=4]Ừ.@ Cậu thực sự không hề trông giống ma cà rồng chút nào."@
+` "Hahaha," Arcueid lại cười.
 \
-`"Vậy thì chúng ta thử đi?"@
+`"Vậy thì, thử xem nhé?"@
 br
 ` Cô ấy nói vậy, vẫn mỉm cười.@
-`"[line=4]Thử xem?" - Shiki mỉm cười thách thức.@
+`"Thử[line=4]hả?"@
 ld c,"tachi/ark_t01a",crossfade,400
-`"Ta muốn biết liệu mình có thể uống máu thực sự không? Nếu có, cậu có thể trao cho ta một phần thưởng nào đó, Shiki?"@
-`"[line=4]Ồn ào..." - Một tiếng cười nhẹ nhàng thoát ra từ môi cô.@
-` Với nụ cười vẫn còn đó, cô tiến lại gần hơn.@
+`"Thử xem tôi có thực sự uống được máu không?@ Nếu được, cậu có thưởng cho tôi không, Shiki?"@
+`"Cá[line=4]"@
+` Vẫn với nụ cười đó trên môi, cô ấy bước một bước về phía tôi.@
 cl c,crossfade,400
 playstop
 \
 bg "bg/ima_02",crossfade,400
-` "Đập, đập." - Tiếng chân cô vang lên trong không gian.@
-` Tiếng bước chân ấy phản chiếu trên mặt đất.@
+` Cộp, cộp.@
+` Tiếng bước chân cô ấy vang vọng trong không khí.@
 br
-` Ta biết cô chỉ đùa thôi.@
-` [line=4]Dù vậy, tôi vẫn bất động, hoàn toàn không thể di chuyển.
+` Tôi biết cô ấy đang đùa.@
+` Vậy mà[line=4]tôi không thể nhúc nhích, chút nào.
 \
-`"Wa[line=4]"@
-` [line=2]Nhưng tôi không thể hoàn thành được.@
-` [line=4]Không phải là sức mạnh của cô ấy, mà chính tôi đã ngăn cản.@
+`"Khoa[line=4]"@
+` [line=2]n.@ Nhưng tôi cũng không nói được hết câu.@
+` Không phải sức mạnh của cô ấy[line=4]mà chính tôi đã đứng yên.@
 br
-` Gần hơn một chút.@
-` Một bước nữa.@ Một bước nữa.@
-` Nhìn xuống từ từ.@
-` Tôi [line=4]không thể di chuyển ngón tay nào, bị thu hút bởi đôi môi của cô ấy[line=4]
+` Gần hơn.@
+` Một bước.@ Một bước nữa.@
+` Cúi xuống, từng chút một.@
+` Tôi[line=4]không thể nhấc nổi một ngón tay, hoàn toàn bị thu hút bởi đôi môi cô ấy[line=4]
 \
 bg #000000,crossfade,800
-`"Shiki, cậu nói tôi không phải là một ma cà rồng hoàn chỉnh, nhưng……"@
+`"Shiki, cậu nói tôi không phải ma cà rồng hoàn chỉnh, nhưng……"@
 br
-` Một giọng nói ngọt ngào như vang vọng ở phía sau đầu tôi.@
-` Một bước chân nữa, và tiếng chân dừng lại.@
+` Một giọng nói ngọt ngào dường như vọng lại từ phía sau gáy tôi.@
+` Thêm một bước nữa, và tiếng bước chân dừng lại.@
 br
-` [line=3]Bạn biết không, việc uống máu rất đơn giản.@
+` [line=3]Cậu biết không, uống máu rất dễ.@
 br
-` Tôi nghe thấy giọng nói ấy ngay bên tai mình.
+` Tôi nghe giọng đó ngay sát tai mình.
 \
 bg "event/ark_e05a",lshutter,800
 waveloop se_02
-` Cơ thể cô ấy ép vào tôi.@
+` Trọng lượng cơ thể cô ấy ép vào tôi.@
 br
 `"[line=6]"@
 br
-` Cổ họng tôi đóng băng và tôi không thể nói được gì.@
-` Tôi chỉ có thể cảm nhận được hơi thở của cô ấy trên cổ tôi.@
+` Cổ họng tôi đông cứng và tôi không thể nói được gì.@
+` Tôi chỉ có thể cảm nhận hơi thở cô ấy trên cổ.@
 br
-` [line=4]Không khí nóng như lửa cháy.
+` [line=4]Nóng như lửa cháy.
 \
-`"Arcueid [line=5]"@
+`"Ar[line=5]"@
 ` Tôi ngừng gọi tên cô ấy.@
-` Với ý chí của chính tôi, tôi dừng lại.@
-` Vì tôi biết nếu tôi gọi tên cô ấy, cô ấy sẽ đẩy tôi ra.
+` Bằng ý chí của chính tôi, tôi dừng lại.@
+` Vì tôi biết nếu tôi gọi tên cô ấy, cô ấy sẽ rút lui.
 \
 `"[line=6]"@
-` Hơi thở của cô ấy quá gần gũi.@
-` Những ngón tay trắng của cô ấy đang run rẩy trên vai tôi.@
+` Hơi thở cô ấy quá gần.@
+` Những ngón tay trắng của cô ấy trên vai tôi đang run rẩy.@
 br
-` [line=4]Cô ấy sợ hãi.@
+` [line=4]Cô ấy đang sợ.@
 br
-` Trí óc tôi trống rỗng và tôi không hề sợ hãi chút nào.@
-` Nhưng, Arcueid là người duy nhất đang run rẩy.
+` Đầu óc tôi trống rỗng và tôi chẳng hề sợ.@
+` Nhưng Arcueid là người duy nhất đang run.
 \
-` Tôi không thể nhìn thấy gương mặt cô ấy.@
-` Chỉ có hơi thở của cô ấy xoay vòng quanh cổ tôi, và cảm giác cơ thể cô ấy run rẩy áp vào người tôi.@
+` Tôi không nhìn thấy mặt cô ấy.@
+` Chỉ có hơi thở cuồn cuộn quanh cổ tôi, và cảm giác cơ thể cô ấy run rẩy áp vào tôi.@
 br
-` Nó thay đổi từ một cơn gió yếu thành những hơi thở nặng nề.
+` Nó chuyển từ một làn gió nhẹ thành hơi thở nặng nề.
 \
-`"[line=3]Arcueid?"@
-`"[line=6]Đó chỉ là một trò đùa."@
+`"Ar[line=3]cueid?"@
+`"Đáng lẽ[line=6]chỉ là một câu đùa."@
 ` Giọng cô ấy run rẩy.@
-` Các ngón tay trên vai tôi ngừng run rẩy.@
+` Những ngón tay trên vai tôi ngừng run.@
 br
-` [line=4]Thay vào đó, chúng cào vào vai tôi như móng vuốt của chim.
+` Thay vào đó[line=4]chúng cắm vào vai tôi như móng vuốt chim.
 \
-`"[line=5]Ôi trời!"@
-` Một tiếng thở đau thoát ra khỏi tôi.@
-` Nhưng những móng vuốt của cô ấy không buông lỏng.@
-` Chúng đâm sâu như không cho phép tôi trốn thoát.
+`"Á[line=5]!"@
+` Tiếng thở dốc đau đớn thoát khỏi tôi.@
+` Nhưng móng vuốt cô ấy không buông.@
+` Chúng cắm sâu như không cho tôi thoát.
 \
-`"[line=4][line=4]Arcueid, tôi xin lỗi, có lẽ tôi đã nói quá nhiều. Tôi xin lỗi, vậy cậu có thể buông tay không?"@
-`"[line=4]Shiki."@
-` Chừng nào ngón tay cô ấy vẫn không nhúc nhích.@
+`"Arc[line=4]tôi xin lỗi, tôi đùa hơi quá đà rồi.@ Tôi xin lỗi[line=4]nên, cậu thả ra được không?"@
+`"Shi[line=4]ki."@
+` Những ngón tay cô ấy không động đậy.@
 br
-` [line=4]Điều này không tốt.@
-` Tâm trí tôi hét lên cảnh báo và tôi tập trung hết sức lực.@
-` Tay tôi di chuyển để đẩy cô ấy ra xa.
+` [line=4]Không ổn rồi.@
+` Đầu óc tôi hét lên cảnh báo và tôi gom hết sức lực.@
+` Hai tay tôi cử động để đẩy cô ấy ra.
 \
 br
 br
@@ -227,74 +227,74 @@ br
 br
 br
 br
-` Trước khi làm vậy,
-` Một cơn đau xuyên qua vai tôi.
+` Trước khi tôi kịp,
+` Cơn đau xuyên qua vai tôi.
 \
-`"………!!!"@
-` Tay tôi không thể di chuyển chút nào.@
-` Sự siết chặt mạnh mẽ của cô ấy vào vai khiến tay tôi tê bì.@
-`"[line=4][line=4][line=8]"@
-` …… Tôi có thể cảm nhận hơi thở ngày càng cuồng nhiệt của cô ấy trên cổ tôi.@
+`"………………!!!"@
+` Hai tay tôi không thể cử động.@
+` Bàn tay siết như gọng kìm của cô ấy trên vai tôi khiến tay tôi tê liệt.@
+`"[line=4],[line=4],[line=8]"@
+` …… Tôi có thể cảm thấy hơi thở cô ấy càng cuồng nhiệt hơn trên cổ.@
 ` Điên rồ.@
 ` Răng cô ấy gần như chạm vào cổ tôi.
 \
 bg #ffffff,crossfade,400
-`"[line=4]Không……!"@
+`"K[line=4]Không……!"@
 br
-` Sau khi sức nắm của cô ấy tăng lên một lần nữa từ những ngón tay trắng của cô,
-` Arcueid bay trở lại, gần như đang hét lên.
+` Sau khi bàn tay siết một lần nữa từ những ngón tay trắng đó,
+` Arcueid bay ngược lại, gần như đang la hét.
 \
 wavestop
 bg "bg/bg_28b",notrans,0
 play "*9"
-` Hơi thở nặng nhọc lấp đầy không khí.@
+` Tiếng thở dốc tràn ngập không khí.@
 br
-` Hơi thở nặng nhọc vang vọng khắp công viên.@
-` Hơi thở khò khè của tôi[line=5]Những hơi thở run rẩy của Arcueid.
+` Hơi thở nặng nề vang vọng khắp công viên.@
+` Tiếng thở hổn hển của tôi[line=5]Hơi thở run rẩy của Arcueid.
 \
-`"[line=6]Shiki."@
-` Cả cơ thể cô ấy run rẩy, cô ấy hít một hơi dài như muốn hút lấy toàn bộ bầu khí quyển, và nhìn chằm chằm vào hai bàn tay của mình với vẻ ngạc nhiên.@
+`"Shi[line=6]ki."@
+` Cả cơ thể run lên, cô ấy hớp hơi như muốn hút cả bầu không khí khi nhìn chằm chằm vào hai bàn tay mình với vẻ không tin được.@
 br
-` Những ngón tay trắng của cô ấy giờ đây đang thấm đẫm máu tôi.@
-` Màu đỏ lan từ ngón tay đến lòng bàn tay và dọc theo cánh tay của cô ấy.
+` Những đầu ngón tay trắng của cô ấy giờ đẫm máu của tôi.@
+` Sắc đỏ chảy từ những ngón tay xuống lòng bàn tay, rồi dọc theo cánh tay.
 \
-`"[line=4]A..."@
-` Cô ấy nhìn nó, như thể đang đứng bên bờ vực sụp đổ.@
-`"... Arcueid, chỉ vừa giờ, [line=4]tôi thấy mình..."@
-` Tôi gọi tên cô ấy.@
-` Khi cô ấy ngước nhìn khỏi máu trên tay, ánh mắt của chúng tôi gặp nhau.
+`"A[line=4]"@
+` Cô ấy nhìn nó, và có vẻ sắp sụp xuống.@
+`"…… Arcueid, vừa nãy, là[line=4]"@
+` Tôi gọi cô ấy.@
+` Ngước nhìn lên khỏi máu trên tay mình, cô ấy bắt gặp ánh mắt tôi.
 \
 ld c,"tachi/ark_t18",crossfade,400
-`"[line=4]Shiki?"@
-`"[line=4]... Vâng, tôi ở đây. Chỉ vừa giờ, đó chỉ là một trò đùa, nhưng dường như nó đã đi quá xa."@
-` Tôi nói điều này như một trò đùa để kết thúc nó.@
-` Nhưng có vẻ như nó không thành công.@
-`"[line=4][line=4]Shiki, chỉ..."@
+`"Shi[line=4]ki?"@
+`"…… Ừ, tôi đây.@ Vừa nãy, là[line=4]một câu đùa, nhưng có vẻ đi hơi xa."@
+` Tôi nói thế, muốn để chuyện này kết thúc như một câu đùa.@
+` Nhưng có vẻ không thành.@
+`"Shiki[line=4]tôi, vừa[line=4]"@
 ` Đôi mắt cô ấy mất đi sự tỉnh táo.@
-`"[line=4][line=4]Cô ấy khát nước quá mức, thậm chí ngay cả bây giờ cô ấy vẫn trông như thể sẽ sụp đổ xuống đất.@
-` "[line=4]Xin hãy về nhà, Shiki."
+`"Bị[line=4]khát quá[line=4]"@
+` Cơn co giật của cô ấy sâu hơn, và ngay cả lúc này[line=4]cô ấy trông như sắp sụp xuống đất.
 \
-`"[line=4]Ồ, Arcueid...?"@
+`"Xin cậu[line=4]về nhà đi, Shiki."@
 cl c,crossfade,800
-`"...!"@
-` Cô ấy bắt đầu chạy khi nói vậy.@
+`"Này, Arcueid……!?"@
+` Nói thế xong, cô ấy bắt đầu chạy.@
 ` Cô ấy biến mất nhanh chóng.@
-` Không giống như lần trước cô ấy chạy, lúc đó cô ấy đã tính đến tôi.@
-` Với tốc độ mà ngay cả nếu tôi chạy hết sức cũng không thể theo kịp, cô ấy tan biến vào đêm hướng về thành phố.
+` Không giống như lần trước cô ấy chạy, khi cô ấy còn chiếu cố tôi.@
+` Với tốc độ mà ngay cả tôi chạy hết sức cũng không bắt kịp, cô ấy tan vào màn đêm hướng về thành phố.
 \
-`"[line=4]Hả…"@
-` Cô ấy nghĩ tôi có thể quay lại sau khi thấy cô ấy như vậy?@
-`"Kẻ ngốc đó[line=4]cô ấy đang đi đâu khi cô ấy đau đến thế này……!"@
-` Tôi không thể chỉ quay về nhà.@
+`"[line=4]Cá…"@
+` Cô ấy nghĩ tôi có thể chỉ việc về nhà sau khi thấy cô ấy như thế à?@
+`"Đồ ngốc đó[line=4]cô ấy đi đâu khi đang đau đến vậy……!?"@
+` Tôi không thể chỉ về nhà.@
 br
-` Ngay cả khi tôi không biết phải tìm cô ấy ở đâu, tôi vẫn bắt đầu chạy theo cô ấy vào thị trấn.
+` Dù không biết tìm cô ấy ở đâu, tôi vẫn bắt đầu chạy theo cô ấy vào thành phố.
 \
 bg #000000,lcartain,400
 playstop
 bg "bg/bg_25b",lcartain,400
-` [line=4]Tôi không thấy cô ấy ở đâu cả.@
-` Thành phố quá lớn, và gần như không thể cho một người đơn độc theo dõi cô ấy khi cô ấy để lại không dấu vết nào.@
-` Tôi sẽ có nhiều khả năng tìm thấy cô ấy hơn nếu tôi dự đoán nơi cô ấy sẽ đi thay vì tìm kiếm mù quáng.@
+` [line=4]Tôi không thấy cô ấy ở đâu.@
+` Thành phố quá lớn, và gần như không thể cho một người đơn độc theo dấu cô ấy khi cô ấy không để lại dấu vết nào.@
+` Tôi có nhiều khả năng tìm được cô ấy hơn nếu dự đoán cô ấy sẽ đi đâu thay vì tìm mù quáng.@
 br
-` [line=4]Sau đó...
+` Vậy thì[line=4]
 \

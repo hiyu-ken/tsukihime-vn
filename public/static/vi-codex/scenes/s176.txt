@@ -2,294 +2,294 @@ monocro off
 playstop
 wavestop
 bg "bg/bg_24b",lcartain,800
-` Sau bữa ăn, chúng tôi dạo chơi mua sắm trên đường chính và vô tình hướng tới trường học của tôi.@
+` Sau bữa trưa, chúng tôi đi dạo xem hàng dọc theo con phố chính và chẳng hiểu sao lại rảo bước về phía trường tôi.@
 ` Mặt trời bắt đầu lặn.@
-` Thực ra, là vì Arcueid đột nhiên thốt lên "Chúng ta hãy đến trường cậu đang theo học", và tôi không thể từ chối cô ấy.
+` Thực ra là vì Arcueid bỗng dưng reo lên "Đi xem cái trường cậu đang học đi!", và tôi thì không thể từ chối cô ấy.
 \
 bg #000000,lcartain,800
 bg "bg/bg_01b",lcartain,800
 play "*3"
-`"Tôi đã nói với cậu trước rồi, nhưng chúng ta không thể vào bên trong. Tôi đã nghỉ học hôm nay sau tất cả, và cậu là người ngoài."@
+`"Tôi đã nói trước rồi đấy, hai chúng ta không thể vào bên trong.@ Hôm nay tôi đã trốn học, còn cậu thì là người ngoài."@
 ld c,"tachi/ark_t01a",lshutter,400
-`"Tôi biết. Tôi sẽ không gây rắc rối nào cho cậu, nên chỉ cần thư giãn thôi."@
-` Arcueid nhìn chằm chằm vào trường học từ cổng.@
+`"Biết rồi.@ Tôi sẽ không gây phiền cho cậu đâu, cậu cứ thả lỏng đi."@
+` Arcueid nhìn chăm chú vào trường từ phía cổng.@
 ld c,"tachi/ark_t11",crossfade,400
-`"Huh………?"@
-` Arcueid nghiêng đầu.@
+`"Hửm………?"@
+` Arcueid khẽ nghiêng đầu.@
 cl c,crossfade,400
-`"Có chuyện gì không? Có xảy ra điều gì không?"@
-` Tôi nhìn sân trường từ phía sau cô ấy.
+`"Sao thế?@ Có chuyện gì à?"@
+` Tôi nhìn sân trường qua vai cô ấy.
 \
-`"H…… uh?"@
-` Tôi là người nghiêng đầu lần này.@
-` Không có dấu hiệu của ai trên sân trường.@
-` Chưa đến sáu giờ tối đâu.@
-` [line=4]Vào thời điểm này, các câu lạc bộ thể thao vẫn đang tập luyện.
+`"H…… ử?"@
+` Lần này đến lượt tôi nghiêng đầu.@
+` Chẳng có một bóng người nào trên sân trường.@
+` Chưa đến sáu giờ tối.@
+` Giờ này lẽ ra phải có một đống câu lạc bộ thể thao vẫn còn đang tập[line=4]
 \
 ld c,"tachi/ark_t11",crossfade,400
-`"Shiki, dường như không có ai ở đây."@
-` Ừm, tôi không chắc tại sao, nhưng thực sự không có ai ở đây cả.@
-` Tôi cũng không nhìn thấy ai trong tòa nhà.@
+`"Shiki, hình như chẳng có ai ở đây cả."@
+` Ừm, không hiểu sao, nhưng quả thực chẳng có một ai.@
+` Trong toà nhà tôi cũng không thấy ai.@
 ld c,"tachi/ark_t01b",crossfade,400
-`"Shiki, không có ai bên trong mà cậu biết đấy."@
-` Arcueid nhìn lên tôi với vẻ chắc chắn.@
+`"Shiki, bên trong không có ai đâu nhé."@
+` Arcueid ngước nhìn tôi.@
 br
-` ... Tôi có thể chắc chắn cô ấy đang cố nói điều gì đó.
+` …… Không hiểu sao, tôi mơ hồ đoán được cô ấy đang định nói gì.
 \
-`"Không thể nào."@
-` Tôi thẳng thắn từ chối cô ấy.@
-` Nhưng, cô ấy không nghe tôi.@
+`"Đừng có hòng."@
+` Tôi gạt phăng đi.@
+` Nhưng cô ấy không nghe.@
 ld c,"tachi/ark_t08",crossfade,400
-`"Nếu chẳng có ai ở đó, thì tôi cũng không bị rắc rối khi vào. Chúng ta đến đúng lúc nhỉ?"@
-`"Tôi đã nói rồi, tôi không muốn."@
+`"Nếu chẳng có ai ở đó thì tôi vào cũng đâu có sao.@ Đúng là đến lúc rất hợp, phải không?"@
+`"Đã bảo không là không."@
 cl c,lshutter,400
-`"Wow, nó lớn hơn tôi tưởng trong bên trong. Tòa nhà trường học cũng rất rộng lớn, dường như phù hợp với mục đích của nó."@
+`"Ô, bên trong rộng hơn tôi tưởng nhỉ.@ Toà nhà cũng to lắm đấy, có vẻ rất hợp với chức năng của nó."@
 br
-` Điều kỳ lạ.@
-` Tiếng của Arcueid không đến từ gần tôi, mà từ bên trong trường học.
+` …… Lạ thật.@
+` Giọng Arcueid không phát ra từ chỗ tôi đứng, mà từ trong sân trường.
 \
-`"Shiki, cánh cửa này không mở được, có thể tôi phá nó đi được không?"@
-` Tốc độ mờ mắt!@
-` Arcueid đã đứng ngay cạnh một cánh cửa kính, tay cô ấy giơ ra để phá vỡ nó.@
+`"Shiki, cánh cửa này không mở được, tôi đập nó ra nhé?"@
+` Tốc độ chóng cả mặt!@
+` Arcueid đã đứng cạnh một cánh cửa kính, tay đã giương lên sẵn sàng đập nát.@
 br
-`"Y…… cậu, sao cậu không nghe những gì mọi người đang nói[line=2]?!?"@
-` Với tất cả sức mạnh của mình, tôi lao về phía cánh cửa kính để ngăn nó bị một kẻ ngốc lớn phá vỡ.
+`"C…… cậu, sao cậu chẳng bao giờ chịu nghe người khác nói thế[line=2]!?"@
+` Vận hết tốc lực, tôi lao về phía cánh cửa kính trước khi nó bị một kẻ ngốc to đùng đập tan.
 \
 bg "bg/bg_03b",lcartain,800
 ld c,"tachi/ark_t08",notrans,0
-`"À, cậu đã đến rồi."@
-` Cô ấy mỉm cười như thể mình đang tận hưởng điều này.
+`"À, cậu đến rồi."@
+` Cô ấy cười như thể đang tận hưởng tình huống.
 \
-`"... Đến trường trung học của tôi vui như vậy sao? Có rất nhiều địa điểm tốt hơn mà tôi có thể đưa bạn đến, nên hãy rời khỏi đây thôi."@
+`"…… Đến trường cấp ba của tôi mà vui đến thế sao?@ Có nhiều chỗ hay hơn tôi có thể dẫn cậu đến, nên thôi chúng ta ra khỏi đây đi."@
 ld c,"tachi/ark_t01a",crossfade,400
-`"Tôi không nghĩ thế. Nơi mà bạn luôn đến, nó dường như khá vui vẻ."@
-` Arcueid cười nham hiểm và mỉm cười quỷ quyệt.@
-`"Shiki, tôi muốn vào đây.@ Anh có thể phá vỡ ổ khóa này không?"@
-`"[line=4]Ừm, phá vỡ nó?@ Anh nói nhé."
+`"Tôi không nghĩ thế.@ Nơi cậu vẫn đến hằng ngày, có vẻ vui ra phết."@
+` Arcueid cười nghịch ngợm, một nụ cười tinh quái.@
+`"Shiki, tôi muốn vào trong đây.@ Cậu có thể 'giết' cái ổ khóa này không?"@
+`"G, giết nó?@ Cậu[line=4]"
 \
-`"Không phải sẽ sạch sẽ hơn nếu tôi làm vậy sao?@ Cách anh cắt thứ gì đó không để lại bất kỳ mặt cắt nào giống như hành động của lưỡi dao.@ Nếu ai đó tìm thấy sau này, nó chỉ trông như tự vỡ ra thôi.@ Đi thôi, đi thôi."@
-` Cô ấy chỉ vào cửa sổ bằng kính bên hành lang.@
+`"Như thế chẳng phải sạch sẽ hơn là tôi tự đập sao?@ Cái cách cậu cắt mọi thứ không để lại vết cắt như lưỡi dao đâu.@ Sau này nếu có ai phát hiện, cũng chỉ trông như nó tự rơi ra thôi.@ Nào nào, đi đi."@
+` Cô ấy chỉ vào cánh cửa sổ kính bên hành lang.@
 cl c,crossfade,400
-`"…… Ồ, cậu đang cư xử như một đứa trẻ vậy."@
-` Tôi hạ thấp đôi kính xuống nửa mặt.
+`"…… Trời ạ, cậu cư xử y như một đứa trẻ."@
+` Tôi hạ kính xuống nửa mặt.
 \
 monocro #ff00ff
 bg "bg/bg_03b",lcartain,400
-` …… Bây giờ thì, một cửa sổ có đường kẻ ở ổ khóa hình lưỡi liềm sẽ là…
+` …… Nào, một cửa sổ có "đường" ở chốt khóa hình lưỡi liềm sẽ là…
 br
-`"…… Ôi trời, may mà có một cái như thế."@
-` Tôi lấy con dao ra khỏi túi và cắt vỡ ổ khóa.@
-` ... Không, không phải là cắt vỡ. Thật ra là 'giết chết' nó.
+`"…… Mẹ kiếp, tiện là có thật."@
+` Rút con dao ra khỏi túi, tôi cắt đứt cái khóa.@
+` …… Không, không phải cắt.@ Đúng hơn là 'giết' nó.
 \
 monocro off
 bg "bg/bg_03b",lcartain,400
-`"Đã sẵn sàng. Chúng ta hãy vào đây."@
-` Tôi nâng cửa sổ kính lên và bước vào tòa nhà trường học.
+`"Xong rồi đấy.@ Vào trong nào."@
+` Đẩy cửa sổ kính lên, hai chúng tôi bước vào toà nhà.
 \
 bg #000000,crossfade,800
 bg "bg/bg_06f",crossfade,800
-` ... *thở dài*@
+` …………………… *thở dài*@
 br
-` Tôi biết rồi.@
-` Arcueid tuyên bố rằng cô ấy muốn tôi dẫn đường cho cô ấy đến lớp học của tôi trước tiên.
+` Tôi biết ngay mà.@
+` Arcueid tuyên bố muốn tôi dẫn cô ấy đến lớp tôi học trước.
 \
 ld c,"tachi/ark_t01a",crossfade,400
-`"Này, Shiki. Cậu học gì ở đây?"@
-`"[line=4]Chuyện gì vậy? Học trung học bình thường thôi. Lịch sử và nghiên cứu sâu về văn hóa đất nước mình. Để hiểu cách mọi thứ vận hành, chúng tôi học vật lý và toán học. Và có thể một ngày nào đó chúng tôi sẽ đi nước ngoài, nên chúng tôi cũng học tiếng Anh."@
-`"Ồ, thật sao? Theo như tôi biết, tôi nghĩ cậu đang học những thứ như cách cắt người tốt nhất hay cách sử dụng nhiều loại dao khác nhau."@
-` Cô ấy nói điều gì đó khá hài hước.
+`"Này, Shiki.@ Ở đây cậu học gì?"@
+`"Hả?[line=4]Mấy thứ học sinh bình thường thôi.@ Lịch sử, và nghiên cứu sâu về văn hoá nước mình.@ Để hiểu các nguyên lý hoạt động thì học vật lý và toán.@ Và có thể một ngày nào đó sẽ đi nước ngoài, nên cũng học cả tiếng Anh."@
+`"Ồ thật à?@ Nhìn cậu, tôi cứ tưởng cậu học mấy thứ kiểu cách chém người gọn gàng nhất, hay cách dùng đủ loại dao chứ."@
+` Cô ấy nói câu gì khá buồn cười.
 \
-`"Arcueid, cậu nói rằng ngay cả khi cậu đã biết nơi này là gì rồi, phải không?"@
+`"Arcueid, cậu biết rõ đây là loại nơi gì rồi mà còn nói thế à?"@
 ld c,"tachi/ark_t08",crossfade,400
-`"Haha, làm tốt lắm!"@
+`"Hahaha, giỏi lắm!"@
 ` Cô ấy bắt đầu vỗ tay.@
 cl c,crossfade,400
 playstop
-` …… Luôn khó hiểu suy nghĩ của cô ấy, nhưng hôm nay thực sự khiến tôi ngạc nhiên.@
-` Cậu kéo tôi đến đây, vậy cậu định lập kế hoạch gì?
+` …… Lúc nào cũng khó đoán cô ấy đang nghĩ gì, nhưng hôm nay thực sự khó hiểu nhất.@
+` Lôi tôi đến đây, rốt cuộc cô ấy đang định làm gì?
 \
 ld c,"tachi/ark_t01b",crossfade,400
 play "*7"
 `"Shiki."@
-`"Chuyện gì vậy? Bỗng dưng nghiêm túc như thế. Cậu thực sự có lý do để đưa tôi đến đây, phải không?"@
-`"Không, chẳng có lý do nào cả. Tôi chỉ muốn biết về nơi này thôi."@
-`"... Nơi này? Về trường học?"@
-`"Đúng vậy, bạn dành khoảng một nửa thời gian ở đây, đúng không? Có ích gì cho những kiến thức và kinh nghiệm bạn thu thập được ở đây? Bạn có đang lãng phí thời gian học những thứ không cần thiết cho bản thân không?"@
-`"[line=4]Huh?"@
-` Câu hỏi của cô ấy là ít hiểu nhất cho đến nay.
+`"Sao?@ Bỗng dưng nghiêm túc thế.@ Cậu có lý do thật khi lôi tôi đến đây, đúng không?"@
+`"Không, không có lý do nào hết.@ Tôi chỉ muốn nghe về loại nơi này thôi."@
+`"…… Loại nơi này?@ Về trường học á?"@
+`"Ừ, cậu dành cả nửa ngày ở đây, đúng không?@ Những kiến thức và kinh nghiệm thu được ở đây có ích gì cho cậu không?@ Hay cậu chỉ đang lãng phí thời gian học những thứ không cần thiết?"@
+`"Hử[line=4]?"@
+` Câu hỏi của cô ấy đến giờ là khó hiểu nhất.
 \
 ld c,"tachi/ark_t02",crossfade,400
-`"Ví dụ, có một số kỹ năng bạn học ở đây sẽ chẳng bao giờ được sử dụng. Có phải điều đó là lãng phí?"@
-`"... Vâng, có thể là một sự lãng phí. Tôi học toán, nhưng chúng ta chỉ dùng những phép tính đơn giản nhất trong cuộc sống hàng ngày. Tôi học về lịch sử nước này và tiếng Anh, nhưng tôi không biết liệu mình có bao giờ dùng đến nó hay không."@
+`"Ví dụ, có những kỹ năng cậu học ở đây sẽ không bao giờ dùng đến.@ Chẳng phải đó là lãng phí sao?"@
+`"…… Ờ, cũng có thể coi là lãng phí.@ Tôi học toán, mà trong cuộc sống hàng ngày chỉ dùng những phép tính đơn giản nhất.@ Tôi học lịch sử nước này và tiếng Anh, mà cũng không biết có khi nào dùng đến không."@
 ld c,"tachi/ark_t06",crossfade,400
-`"Ôi, vậy cậu nhận ra điều đó rồi à? Nhưng... thì tại sao cậu lại làm những việc vô nghĩa như thế? Thời gian của cậu rất ngắn, cậu không có thời gian để lãng phí."
+`"À, cậu cũng nhận ra à.@ Nhưng…… vậy tại sao cậu vẫn làm những việc vô nghĩa đó?@ Thời gian của cậu rất ngắn, cậu không có thời gian để lãng phí đâu."
 \
-`"Không có thời gian để lãng phí? Vâng, chúng ta không có mục tiêu cụ thể nào, nên chúng ta sống vô nghĩa như vậy cho đến khi tìm ra một điều gì đó."@
+`"Không có thời gian để lãng phí?@ Ờ, chúng tôi không có mục tiêu cụ thể, nên cứ sống vô nghĩa như vậy cho đến khi tìm ra điều gì đó."@
 ld c,"tachi/ark_t10",crossfade,400
-`"Tôi không thể tin được. Ngay cả khi cậu biết nó vô nghĩa, cậu vẫn biến nó thành điều mà cậu sống vì nó.@
-` "... Thật khó tin, phải không?"@
-` Giọng nói của cô ấy quá khàn khàn.@
-` Tôi không biết tại sao, tất nhiên là.
+`"Tôi không hiểu nổi.@ Biết rõ là vô nghĩa nhưng cậu vẫn coi đó là lẽ sống.@
+` …… Ừ, tôi thực sự không hiểu nổi."@
+` Giọng cô ấy trầm hẳn xuống.@
+` Tất nhiên là tôi không biết tại sao.
 \
-`"... Một điều gì đó để sống cho, huh? Có thể đúng vậy. Nhưng những thứ vô dụng có thực sự tệ đến thế không?"@
+`"…… Lẽ sống à?@ Có thể đúng vậy.@ Nhưng những thứ vô dụng có tệ đến vậy không?"@
 ld c,"tachi/ark_t11",crossfade,400
 `"[line=4]Hả?"@
-`"Có sao đâu nếu ta làm thêm những việc khác? Ngay cả khi tôi chỉ sử dụng những điều học được ở đây, nó vẫn nhắc nhở tôi về những ngày tháng ở đây."@
-` "Một vài năm sau, sẽ có lúc tôi chỉ nghĩ lại. Và tôi sẽ nhớ lại và nói 'Đúng vậy, đó là cách nó từng thế' và mỉm cười đắng cay. Vì vậy nó vẫn có ý nghĩa."@
-` "…… Tôi không hiểu. Những ký ức ấy vô nghĩa, nhưng cậu nói rằng có niềm vui trong việc nhớ lại chúng, Shiki?"
+`"Làm thêm những việc dư thừa thì có sao?@
+` Dù tôi chỉ dùng những gì học được ở đây cho riêng nơi này, thì nó vẫn trở thành kỷ niệm của những ngày tháng tôi ở đây.@
+` Vài năm sau, sẽ có lúc tôi chỉ ngồi nghĩ.@ Rồi tôi sẽ nhớ lại và nói 'À, hồi đó nó như thế đấy' và mỉm cười chua chát.@ Vậy là nó có ý nghĩa rồi."
 \
 ld c,"tachi/ark_t10",crossfade,400
-`"Ừm, cũng được. Con người được tạo ra không phải để nhớ những chuyện đau buồn.@
-`"Nhưng đầu tiên, cuộc sống của con người đầy rẫy những điều vô nghĩa. Thậm chí, liệu cuộc sống chính nó không vô nghĩa?"@
-` "Vì vậy tôi không suy nghĩ quá nhiều về nó. Tôi nghĩ tốt nhất là chỉ tự lừa dối và sống như thể mình không nhận ra rằng cuộc sống không có ý nghĩa."@
-` "Và đó là cách tôi sống."
+`"…… Tôi không hiểu.@ Bản thân những ký ức đó là vô nghĩa, mà cậu lại nói có niềm vui trong việc nhớ lại chúng à, Shiki?"@
+`"Ừ, vậy là tốt rồi.@ Con người được tạo ra để không nhớ những chuyện đau buồn.@
+` Mà nói trước đã, cuộc đời con người vốn đầy những thứ vô nghĩa.@ Nghĩ kỹ ra, chẳng phải bản thân cuộc sống cũng vô nghĩa sao?@
+` Nên tôi không nghĩ sâu xa.@ Tôi thấy tốt nhất là tự lừa mình, sống như thể không nhận ra rằng cuộc đời chẳng có nghĩa lý gì."
 \
 ld c,"tachi/ark_t17",crossfade,400
-`"Bạn biết rằng điều này vô nghĩa mà vẫn làm. ... Tôi thực sự không hiểu. Tôi không thể làm bất cứ điều gì vô nghĩa. Ngay cả bây giờ, tôi chưa từng làm điều gì đó không cần thiết."@
-`"Bạn đang nói gì vậy? Ngày hôm nay đầy rẫy những hành động vô nghĩa? Mục đích của bạn là săn lùng ma cà rồng? Vậy thì thực sự không cần phải đi dạo cùng tôi nữa."
+`"Biết là vô nghĩa mà vẫn làm.@ …… Tôi thực sự không hiểu nổi.@ Tôi không thể làm bất cứ điều gì vô nghĩa.@ Ngay cả lúc này, tôi cũng chưa từng làm điều gì không cần thiết."@
+`"Cậu nói gì thế?@ Cả ngày hôm nay chẳng phải toàn những thứ vô nghĩa sao?@ Mục đích của cậu là săn ma cà rồng cơ mà?@ Vậy thì hoàn toàn không cần thiết phải đi dạo cùng tôi mới đúng."
 \
 ld c,"tachi/ark_t10",crossfade,400
-`"... Đúng vậy. Tôi cũng không hiểu điều đó. Tôi muốn hỏi bạn vì bạn dường như chỉ làm những việc vô nghĩa, nhưng giờ tôi hoàn toàn bối rối."@
+`"…… Đúng vậy.@ Tôi cũng không hiểu nổi.@ Tôi muốn hỏi cậu vì cậu trông như chẳng làm gì khác ngoài những chuyện vô nghĩa, nhưng giờ tôi hoàn toàn rối tung."@
 br
 ` [line=4]Này.@
 br
-`"Vâng, vâng. Xin lỗi, tôi chỉ là một kẻ vô dụng hoàn toàn."@
+`"Vâng vâng.@ Xin lỗi, tôi chỉ là một kẻ hoàn toàn vô nghĩa thôi."@
 ld c,"tachi/ark_t13",crossfade,400
-`"[line=4]... Vâng."
+`"………… À[line=4]ừ."
 \
 ld c,"tachi/ark_t17",crossfade,400
-`"Xin lỗi. Tôi hiểu điều bạn đang cố nói, Shiki."@
-` "Con người là một tập thể, nên giá trị của họ không được xác định bởi cá nhân mà bởi toàn bộ nhóm. Ngay cả khi một cá nhân sai lầm, nếu nhóm đúng thì điều đó được tha thứ."@
-` Chúng tôi là những sinh vật cô độc, nên không thể để bản thân bị nhầm lẫn. Chúng tôi không thể để ý chí của mình bị ảnh hưởng bởi người khác.@
-` [line=4]Vì vậy, tôi luôn được dạy dỗ không nên làm những việc dư thừa.@
+`"Xin lỗi.@ Tôi hiểu cậu đang cố nói gì, Shiki.@
+` Con người là một tập thể, nên giá trị của họ không được quyết định bởi cá nhân mà bởi cả nhóm.@ Dù một cá nhân có sai lầm, nếu cả nhóm đúng thì vẫn được tha thứ.@
+` Nhưng với chúng tôi, chúng tôi là sinh vật đơn độc nên không thể cho phép mình sai lầm.@ Ý chí của chúng tôi không thể để bị ảnh hưởng bởi bất kỳ ai khác.@
+` Nên[line=4]vì thế mà tôi luôn được dạy là không bao giờ được làm những điều dư thừa."@
 br
-` ... Yên lặng.@
-` Cô ấy nói như thể đang ở trong một nhà nguyện thú tội.
+` …… Lặng lẽ.@
+` Cô ấy nói như đang trong phòng xưng tội.
 \
 ld c,"tachi/ark_t10",crossfade,400
-`"[line=4]... Nhưng giờ đây, tôi không còn biết nữa. Chỉ trong một khoảnh khắc ngắn... thực sự, chỉ bảy ngày.@
-` ... Tôi bắt đầu tự hỏi liệu mình có đúng không?@
-` Vì nó rất vui. Làm điều này, sống như vậy, tôi chưa bao giờ nghĩ rằng nó lại mang lại cho tôi niềm hạnh phúc lớn đến thế.
+`"[line=4]Nhưng giờ thì tôi không còn biết nữa.@ Chỉ trong một thời gian ngắn ngủi… thật ra chỉ bảy ngày thôi.@
+` …… Tôi bắt đầu tự hỏi liệu mình có thực sự đúng không?@
+` Vì nó vui đến vậy.@ Làm thế này, sống như thế này, đến giờ tôi mới biết được nó có thể khiến tôi hạnh phúc đến mức nào."
 \
-`"Ar... cuid?"@
+`"Ar…… cueid?"@
 ld c,"tachi/ark_t17",crossfade,400
-`"Có thể tôi... đã sụp đổ.@
-` [line=4]Tôi chưa bao giờ thức liên tục lâu như vậy cho đến bây giờ. Có lẽ tôi đã ngủ say trong giấc mơ về tất cả những điều này."@
-` ... Với đôi mắt trống rỗng, Arcueid thì thầm những lời đó.
+`"Có lẽ tôi… đã hỏng rồi.@
+` Tôi chưa bao giờ tỉnh táo lâu đến thế này[line=4]Có lẽ tôi đã ngủ say và đang mơ về tất cả những điều này."@
+` …… Với đôi mắt trống rỗng, Arcueid thì thầm những lời đó.
 \
-`"[line=4]Hả?"@
-` Tôi không thể nói được gì.@
-` Hình ảnh của cô ấy lơ lửng như một hình ảnh hologram chiếu ra.
+`"Cậu[line=4]"@
+` Tôi không thể nói gì.@
+` Hình ảnh cô ấy chập chờn như một ảnh chiếu hologram.
 \
-`"... Bị vỡ? Ý bạn là sao? Em trông hoàn toàn bình thường với tôi."@
-`"Có lẽ bên ngoài, nhưng bên trong em khác rồi. ... Niềm vui và nỗi đau, tất cả những cảm xúc dư thừa này đang trở nên mạnh mẽ hơn. Tôi không thể bỏ qua những điều mà trước đây tôi vẫn có thể làm được. Vậy tôi đã vỡ rồi phải không?"@
+`"…… Hỏng rồi?@ Ý cậu là gì?@ Nhìn cậu cũng bình thường mà."@
+`"Có thể bên ngoài thì thế, nhưng bên trong thì khác.@ …… Hạnh phúc và đau khổ, tất cả những cảm xúc dư thừa này đang lớn lên.@ Tôi không thể bỏ qua những thứ mà trước đây tôi vẫn bỏ qua được.@ Vậy nên tôi hỏng rồi, đúng không?@
 ld c,"tachi/ark_t09",crossfade,800
-` "Và cũng vậy, tôi không bình thường. Tôi khác với cậu, Shiki. Tôi là một ma cà rồng."@
+` Mà nữa, tôi không bình thường đâu.@ Tôi khác cậu, Shiki.@ Tôi là ma cà rồng."@
 cl c,crossfade,400
 \
-` Nói như vậy, cô ấy dường như cười.@
-` Rất yếu ớt, như thể đang trốn mình trong ánh đỏ của mặt trời lặn.@
+` Nói thế, cô ấy như đang mỉm cười.@
+` Mờ nhạt, như thể đang ẩn mình trong sắc đỏ của hoàng hôn.@
 br
-`"[line=8]Thật-"@
-` Điều đó... kỳ lạ.@
-` Chỉ... lạ lùng.@
+`"[line=8]Như-"@
+` Đó… kỳ lạ thật.@
+` Chỉ là… kỳ lạ.@
 br
-` Lớp học lúc hoàng hôn.@
-` Ngâm mình trong ánh nắng đỏ, một cô gái trông rất yếu đuối.@
-` Cảnh này...
+` Lớp học lúc chiều tà.@
+` Trong ánh nắng hoàng hôn đỏ rực, một cô gái trông yếu đuối.@
+` Cảnh tượng này, nó…
 \
-`"[line=2]Đó không phải là cách mà cô thường làm cả."@
+`"Đó[line=2]chẳng giống cậu chút nào."@
 br
-` Vâng, nó không giống cô chút nào.@
-` [line=4]Bạn là một ma cà rồng nên đừng tỏ ra dễ bị tổn thương như một cô gái bình thường.
+` Ừ, chẳng giống cô ấy chút nào.@
+` Cậu là ma cà rồng[line=4]nên đừng nhìn yếu đuối thế, như thể chỉ là một cô gái bình thường.
 \
-`"[line=4]Những thứ mà bạn không thể bỏ qua, buộc phải làm những việc vô nghĩa, nếu điều đó không gây rắc rối cho ai khác, có phải không? Có lẽ bạn nên buông bỏ mọi thứ?"@
-` Tôi nói là đừng tự xem mình quá nghiêm túc.@
-` Tôi không biết cô đang nghĩ gì, nhưng tôi không thấy vấn đề gì ở đây.@
-` [line=4]Cô không gây rắc rối cho ai cả."
+`"Những thứ không thể bỏ qua, phải làm những việc vô nghĩa, nếu không gây phiền cho ai[line=4]thì cứ để nó vậy có sao đâu?@
+` Tôi đã nói rồi, đừng nghĩ về bản thân quá nghiêm túc.@
+` Tôi không biết cậu đang nghĩ gì, nhưng tôi chẳng thấy có vấn đề gì cả.@
+` Cậu không[line=4]gây phiền cho ai cả."
 \
 ld c,"tachi/ark_t03",crossfade,400
-`"Thật sao? Nhưng cậu luôn la mắng tôi, điều đó có khác gì không?"@
-`"[line=4]Tôi là ngoại lệ. Tôi mang tội giết cậu, nên việc đối xử với cậu chỉ là nghiệp chướng."@
-` "Đừng lo, tôi làm thế vì muốn. Vậy nên đừng nghĩ về rắc rối mà tôi gặp phải."
+`"Thật à?@ Nhưng cậu cứ quát tôi suốt, vậy là khác à?"@
+`"[line=4]Tôi là trường hợp ngoại lệ.@ Tôi mang tội đã giết cậu, nên đối xử với cậu chỉ là nghiệp báo.@
+` Không sao đâu, tôi làm vì tôi muốn.@ Nên đừng nghĩ là cậu đang gây phiền cho tôi."
 \
 ld c,"tachi/ark_t17",crossfade,400
-`"...@
-` Nụ biểu cảm của Arcueid trở nên u ám.@
-` ... Nếu cô ấy có biểu cảm như vậy, thì hơi đáng lo.@
-` Cô ấy trông quá yếu đuối, tôi muốn ôm cô ấy.
+`"…………"@
+` Biểu cảm của Arcueid u ám hẳn đi.@
+` …… Nếu cô ấy làm cái mặt như thế, tôi sẽ thấy khó xử.@
+` Cô ấy nhìn yếu đuối đến mức tôi muốn ôm lấy.
 \
-`" ... Xin Arcueid, hãy hiểu rõ giờ này."@
-` Đúng là cậu ích kỷ, không nghe lời người khác, và đầy rẫy vấn đề.@
-` Nhưng ngoài những điều đó, cậu khá bình thường. Cậu không bị hỏng hóc, chỉ giống một cô gái bình thường thôi.@
-` [line=4]Nên hãy mỉm cười. Nếu cậu cứ giữ biểu cảm đó, sẽ làm tôi thấy buồn."
+`"…… Arcueid này, nghe đây.@
+` Đúng là cậu ích kỷ, không nghe lời người khác, và đầy rẫy rắc rối.@
+` Nhưng ngoài những điều đó, cậu khá bình thường.@ Cậu không hỏng, cậu chỉ giống như một cô gái bình thường.@
+` [line=4]Nên hãy cười đi.@ Cứ làm cái mặt như thế thì làm tôi cũng khó chịu theo."
 \
 ld c,"tachi/ark_t14",crossfade,400
-`"... Điều đó thật tàn nhẫn. Tôi thực sự ích kỷ à?"@
-` Arcueid đột nhiên nhìn tôi như đang nghiên cứu biểu cảm của tôi.@
+`"…… Khá là độc địa đấy.@ Tôi thực sự ích kỷ đến vậy à?"@
+` Arcueid bất ngờ nhìn tôi như đang quan sát biểu cảm.@
 cl c,crossfade,400
 br
-` Tôi hơi ngạc nhiên.@
-` Có vẻ công chúa này chưa nhận ra bản thân mình ích kỷ.
+` Tôi hơi sững người.@
+` Có vẻ vị công chúa này không nhận ra rằng cô ấy ích kỷ.
 \
-`"[line=4] Ha ha ha! Cậu nói gì vậy? Nếu cậu loại bỏ hết sự ích kỷ, chẳng còn gì ngoài xương! Chỉ có xương thôi!"@
-` Điều tôi nói không thực sự có ý nghĩa, nhưng nó nghe rất hài hước.@
+`"[line=4]Hahahahaha!@ Cậu nói gì thế?@ Nếu rút hết phần ích kỷ ra khỏi cậu thì chẳng còn lại gì ngoài xương!@ Toàn xương luôn!"@
+` Điều tôi nói không hẳn có nghĩa lắm, nhưng nghe có vẻ rất buồn cười.@
 br
-` [line=2]Bởi ngay cả trong những giấc mơ hoang đường nhất của tôi, tôi cũng chưa từng tưởng tượng ra mình sẽ thấy Arcueid xấu hổ trước mặt mọi người.@
+` [line=2]Vì kể cả trong mơ hoang dại nhất, tôi cũng chưa bao giờ tưởng tượng được sẽ thấy Arcueid ngượng ngùng vì chính mình.@
 ld c,"tachi/ark_t16",crossfade,400
-`"“……………………!!”@
+`"……………………!!"@
 br
-` Cô ấy tức giận rồi.
+` Ố, cô ấy giận rồi.
 \
-`"Shiki ngốc nghếch! Tôi đang nghiêm túc thảo luận vấn đề và cậu lại cư xử vô tâm như vậy!!"@
-`"Như tôi đã nói, tôi không nói rằng tôi tốt với mọi người trừ cậu, nên việc đối xử tệ với cậu giờ đây chẳng có gì lạ."@
-` Tôi kìm nén tiếng cười, quay lại nhìn cô ấy.@
-` Mây đen trên đầu cô ấy tan biến và trên mặt cô ấy hiện lên một biểu cảm chân thành, gần giống với vẻ bình thường của cô ấy hơn.
+`"Shiki cậu khốn nạn!@ Tôi đang thảo luận nghiêm túc mà cậu lại cư xử vô tâm thế!!"@
+`"Đã nói rồi, tôi tốt với tất cả mọi người trừ cậu mà?@ Nên giờ độc địa với cậu cũng chẳng có gì mới."@
+` Cố nhịn cười, tôi nhìn lại cô ấy.@
+` Đám mây ảm đạm phía trên đầu cô đã tan biến và cô ấy đã có biểu cảm tự nhiên trở lại, đúng chất Arcueid hơn nhiều.
 \
-`"Nhưng mà, tôi nghĩ là tốt hơn cho cậu nếu cậu sống sôi nổi hơn. Tôi có chút nhẹ nhõm."@
+`"Mà này, tôi nghĩ cậu năng động thế này tốt hơn.@ Tôi cũng yên tâm hơn một chút."@
 ld c,"tachi/ark_t13",crossfade,400
-`"Ờ...? Tại sao cậu lại nhẹ nhõm? Cậu không được phép thờ ơ với tôi phải không?"@
-`"[line=4]Ừm... Đúng vậy."@
-` Tôi nghiêng đầu, nhìn chằm chằm.@
+`"Hả……?@ S, sao cậu lại yên tâm?@ Cậu chẳng phải nên vô tâm với tôi sao?"@
+`"À[line=4]ừ, đúng vậy."@
+` Tôi nghiêng đầu khó hiểu.@
 cl c,crossfade,400
-` ... Điều đó thật kỳ lạ, ngay cả tôi cũng không biết tại sao.
+` …… Lạ thật, chính tôi cũng không hiểu tại sao.
 \
-` [line=4]... Trước đây, tôi chỉ không muốn thấy cô ấy buồn bã và muốn bảo vệ cô ấy.
+` …… Trước, tôi chỉ là không muốn thấy cô ấy ủ rũ, và tôi muốn bảo vệ cô ấy[line=4]
 br
-`"..."@
+`"…………"@
 br
-` Điều đó thật ngớ ngẩn.@
-` Không có gì nghi ngờ, cô ấy rất xinh đẹp, và tôi biết cô ấy là một người tốt. @ Ngoài ra, ở bên cô ấy không hề nhàm chán. @
-` ... Nhưng không thể nào một chuyện ngớ ngẩn như vậy lại xảy ra được. @
-` "Shiki, hãy bình tĩnh lại." @ Cô ấy là một ma cà rồng.
+` Thật vớ vẩn.@
+` Không thể phủ nhận cô ấy đẹp, và tôi biết cô ấy là người tốt.@ Mà ở bên cô ấy cũng không nhàm chán.@
+` …… Nhưng không đời nào một chuyện vớ vẩn như vậy lại đang xảy ra.@
+` Bình tĩnh lại đi, Shiki.@ Cô ấy là ma cà rồng.
 \
 ld c,"tachi/ark_t16",crossfade,400
-`"Đó là một lời nói rất mơ hồ. @ Anh có nghĩa là anh không hiểu bản thân mình sao?" @
-`"... Im lặng đi, cũng không sao nếu tôi không hiểu bản thân mình. @ Tôi luôn nhận thức được sự kỳ lạ của bản thân từ đầu. @ Đó là lý do tại sao ký ức của tôi luôn mờ nhạt." @
+`"Khá mơ hồ đấy nhỉ.@ Cậu đang nói chính cậu cũng không hiểu mình à?"@
+`"…… Im đi, không hiểu mình cũng không sao mà.@ Tôi vẫn luôn ý thức được mình kỳ lạ ra sao ngay từ đầu.@ Vì thế nên ký ức của tôi lúc nào cũng mơ hồ."@
 ld c,"tachi/ark_t03",crossfade,400
-`"Ồ, tôi hiểu rồi. @ Vì vậy mới có lúc bạn luôn mất tập trung, Shiki." @
-` Arcueid gật đầu như thể đã hiểu rõ vấn đề. @
+`"À, ra vậy.@ Hèn chi cậu lúc nào cũng lơ đãng, Shiki."@
+` Arcueid gật gù như thể đã hiểu sâu sắc vấn đề.@
 cl c,crossfade,400
-`"..." @
-` Việc cô ấy lấy lời xin lỗi của tôi quá nghiêm túc khiến tôi tự hỏi liệu có thực sự là như vậy không.
+`"…………"@
+` Việc cô ấy nghiêm túc tiếp nhận lời bao biện của tôi làm tôi tự hỏi không biết có thật như thế không.
 \
 !w1000
-`"[line=4] Tốt lắm."@
-` Chúng ta không thể ở lại trong lớp học này mãi được.@
-` Chúng ta nên nhanh chóng rời đi trước khi bị giáo viên còn lại trong trường tìm thấy.
+`"[line=4]Thôi nào."@
+` Hai chúng tôi không thể ở mãi trong lớp học này.@
+` Phải nhanh chóng rời đi trước khi bị giáo viên còn sót lại trong trường phát hiện.
 \
-`"Đi thôi, chúng ta ra ngoài nào. Ở đây chẳng có gì để làm cả, phải không?"@
+`"Đi thôi, ra khỏi đây nào.@ Ở đây chẳng còn gì để làm nữa, đúng không?"@
 ld c,"tachi/ark_t14",crossfade,400
-`"Đúng vậy, chẳng có gì, nhưng..." "Shiki?"@
-` Tôi ném cho cô ấy một cái nhìn đầy nghi vấn.@
-` Cô ấy dường như đang suy ngẫm về lời nói của mình và sau đó hỏi tôi một câu hỏi kỳ lạ.
+`"Ừ, không còn gì, nhưng…… Shiki?"@
+` Tôi liếc nhìn cô ấy với vẻ thắc mắc.@
+` Cô ấy có vẻ đang cân nhắc lời lẽ, rồi hỏi tôi một câu hỏi kỳ lạ.
 \
-`"Shiki, cậu có thích những thứ này không?"@
-`"... Cậu có khỏe hôm nay hay sao?"@
+`"Shiki, cậu có thấy mọi thứ vui không?"@
+`"…… Hôm nay cậu bị bệnh hay sao?"@
 ld c,"tachi/ark_t06",crossfade,400
-`"Đừng trêu chọc tôi. Tôi biết một chút về cơ thể của cậu. Ngay cả cậu cũng biết đấy, phải không?"@
-` "Việc cậu có thể chết bất cứ lúc nào chẳng lạ gì."@
-`"[line=7]Hả..."
+`"Đừng có giễu cợt tôi.@ Tôi biết một chút về cơ thể cậu.@ Ngay cả cậu cũng biết, phải không?@
+` Rằng cậu chết bất cứ lúc nào cũng chẳng có gì lạ."@
+`"Cậu[line=7]"
 \
 br
 br
@@ -297,83 +297,83 @@ br
 br
 br
 br
-` [line=4](Một tiếng đập mạnh)@
-` Nốt sẹo trên ngực tôi gần như cảm thấy như đang quằn quại.@
+` [line=4]Thịch.@
+` Vết sẹo trên ngực tôi gần như cảm thấy đang ngọ nguậy.@
 !w1000
 \
-`"[line=4]Đúng vậy, con người cuối cùng cũng sẽ chết."@
+`"Cậu[line=4]thì, con người rồi cũng chết cả thôi."@
 ld c,"tachi/ark_t07",crossfade,400
-`"Nhưng đối với bạn, cái chết sẽ đến nhanh hơn so với những người khác."@
-` ... Mắt cô ấy nghiêm túc.@
-` Nhưng, mỗi người đều có đường nét của cái chết trên mình, nên có rất nhiều nơi họ có thể qua đời dễ dàng.@
+`"Nhưng trong trường hợp của cậu, cái chết sẽ đến nhanh hơn người khác."@
+` …… Mắt cô ấy nghiêm túc.@
+` Nhưng ai cũng có những đường tử tuyến trên cơ thể, nên có rất nhiều nơi họ có thể chết dễ dàng.@
 br
-` Không phải [line=4]tôi là người duy nhất rất gần với cái chết.
+` Không phải chỉ riêng[line=4]tôi mới rất gần với cái chết.
 \
 ld c,"tachi/ark_t06",crossfade,400
-`"Trả lời tôi. Bạn có bao giờ có những khoảnh khắc bạn tận hưởng bản thân dù cuộc sống của bạn không ổn định như vậy?"@
-`"[line=6]Bạn thực sự ngốc nghếch.@
-` Tôi không thể biết điều đó được."@
+`"Trả lời tôi đi.@ Đã bao giờ cậu có những khoảnh khắc thấy vui dù cuộc sống cậu mong manh đến thế chưa?"@
+`"[line=6]Cậu đúng là ngốc.@
+` Làm sao tôi biết được điều đó."@
 cl c,crossfade,400
 \
 bg "bg/ima_08",crossfade,400
-` ... Nhưng, có một điều rõ ràng với tôi.@
-` Tôi gần như đã chết cách đây tám năm, và trong một thời gian ngắn,
-` Có lẽ khi tôi đang trải qua ca phẫu thuật tại bệnh viện, tôi cảm thấy mình đang ở trong một nơi tối tăm.@
+` …… Nhưng có một điều rõ ràng với tôi.@
+` Tám năm trước tôi đã suýt chết, và trong một khoảnh khắc ngắn,
+` có lẽ là lúc tôi đang phẫu thuật ở bệnh viện, tôi đã cảm thấy như đang ở một nơi tăm tối.@
 br
 ` Có thể đó là một giấc mơ.@
-` Vào khoảnh khắc đó, tôi thực sự cảm thấy như mình đã chết, như nơi này thực sự là "cái chết".@
-` Tôi vô cùng hạnh phúc sau khi hồi phục kỳ diệu. Sau đó, tôi gặp Thầy và có thể quay trở lại cuộc sống bình thường.
+` Chỉ là, lúc đó, tôi thực sự cảm thấy như mình đã chết, rằng nơi đó thật sự là "cái chết".@
+` Tôi đã cực kỳ hạnh phúc sau khi hồi phục một cách kỳ diệu.@ Rồi tôi gặp Sensei và được trở về với cuộc sống bình thường.
 \
-` Tôi chưa bao giờ nhận ra điều đó cho đến khi tôi chết đi một lần.@
-` Nhưng thế giới này quá yên bình và là nơi tuyệt vời để ở.@
-` Họ nói rằng niềm vui không thể tìm thấy trong cuộc sống này, nhưng tôi nghĩ chỉ việc tồn tại cũng đã là đủ cho loài người.@
+` Tôi không bao giờ nhận ra điều đó cho đến khi tôi chết một lần.@
+` Nhưng thế giới này thật yên bình và là nơi vui vẻ để tồn tại.@
+` Họ nói khoái lạc không thể tìm thấy trong đời này, nhưng tôi nghĩ với con người, chỉ cần được sống là đã đủ tốt rồi.@
 br
-` [line=4]Đó là lý do tôi có thể tiếp tục sống như vậy, ngay cả khi biết rằng nó vô nghĩa.
+` Đó là lý do[line=4]tôi có thể tiếp tục sống thế này dù biết rõ tất cả đều vô nghĩa.
 \
-` …… Đó là lý do.@
-` Nếu ai đó hỏi tôi có thích cuộc sống không, trừ khi đó là điều không thể tha thứ, tôi không thể không trả lời rằng tôi đang làm điều đó.@
-` Dù tuyệt vọng đến mức nào, tôi vẫn hài lòng chỉ với việc tồn tại.@
-` Đó là điều chắc chắn hơn cả sự trống rỗng của cái chết.@
-` Không ai phải dạy tôi điều đó, nhưng tôi vẫn biết nó.@
-` [line=4]Chỉ được phép ở đây thực sự là một điều tuyệt vời.
+` …… Vì thế.@
+` Nếu có ai hỏi tôi có thấy cuộc sống vui không, trừ khi đó là điều thực sự không thể tha thứ, tôi đều phải trả lời là có.@
+` Dù tuyệt vọng đến đâu, tôi vẫn hài lòng chỉ với việc tồn tại.@
+` Đó là điều chắc chắn hơn cái hư vô của cái chết.@
+` Không cần ai dạy tôi điều đó, nhưng tôi vẫn biết.@
+` Chỉ được phép tồn tại ở đây thôi thực sự đã là điều tuyệt vời rồi[line=4]
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_06f",notrans,0
-`"[line=4]Đó là… cuộc sống có đáng để sống không?@ Mọi thứ cho đến bây giờ đều vui vẻ, nên tôi cảm thấy như mình muốn sống."@
-` "Vậy thì, đây là cách tôi có thể trả lời câu hỏi của bạn."@
+`"[line=4]Chỉ là… sống thôi mà chưa đủ vui sao?@ Mọi thứ từ trước đến giờ đều vui, nên tôi có thể cảm thấy muốn sống tiếp.@
+` …… Ừm, tôi đoán đó là cách tôi có thể trả lời câu hỏi của cậu."@
 br
-` Tôi không thực sự có thể nói điều gì quá sâu sắc. Tôi chỉ sống được mười bảy năm thôi.
+` Tôi không thực sự nói được điều gì sâu xa.@ Tôi mới chỉ sống được mười bảy năm.
 \
 ld c,"tachi/ark_t01a",crossfade,400
-`"Tôi hiểu rồi, vậy trái tim của cậu là như thế này. ... Chỉ làm điều đó cũng đã đủ vui rồi sao? Đúng vậy, dù cậu biết nó là điều gì đó khác biệt, nhưng cậu không thể từ bỏ nó vì cậu thích nó."@
+`"Ra vậy, đó là cách trái tim cậu hoạt động.@ …… Chỉ làm thế thôi mà đã đủ vui à?@ Đúng vậy, dù biết là dư thừa, cậu không thể từ bỏ vì cậu thấy vui.@
 ld c,"tachi/ark_t08",crossfade,400
-` ... Tôi sợ điều đó và đã hỏi, nhưng có lẽ đây cũng là một câu trả lời tốt.@
-`"[line=4]Này, cậu vẫn đang nghĩ về chuyện trước đó à?"
+` …… Tôi đã sợ điều đó và hỏi, nhưng có lẽ đó có thể là một câu trả lời tốt."@
+`"[line=4]Gì, cậu vẫn đang nghĩ về chuyện hồi nãy à?"
 \
 ld c,"tachi/ark_t01a",crossfade,400
-`"Đúng vậy, nhưng giờ những cảm xúc khó chịu ấy đã phai nhạt rồi. Tôi không thể lạc hướng cho đến khi con ma cà rồng này bị đánh bại. Cho đến lúc đó, chúng ta sẽ chiến đấu cùng nhau."@
+`"Ừ, nhưng giờ thì cảm giác nặng nề đã phai đi.@ Tôi không thể đi chệch hướng cho đến khi tên ma cà rồng này bị tiêu diệt.@ Cho đến lúc đó, chúng ta sẽ chiến đấu cùng nhau."@
 cl c,crossfade,400
 playstop
-` "Đúng không?" Cô ấy mỉm cười.@
+` "Đúng không?" cô ấy nói, mỉm cười.@
 br
-`"[line=4]Vâng."@
-` Cho đến khi con ma cà rồng này bị đánh bại, phải không?@
-`"...Đúng vậy. Đó là mối quan hệ giữa chúng ta."@
-` Vì hôm nay quá bình thường,
-` Tôi hoàn toàn quên mất sự thật cơ bản và quan trọng nhất.
+`"[line=4]"@
+` Cho đến khi tên ma cà rồng này bị tiêu diệt, hả?@
+`"…… Đúng rồi.@ Đó là mối quan hệ giữa hai chúng tôi."@
+` Vì hôm nay quá đỗi bình thường,
+` tôi đã hoàn toàn quên mất cái sự thật cơ bản nhất quan trọng đó.
 \
 `"[line=4]Này, Arcueid."@
 br
-` Tôi chỉ nói ra những lời đó một cách tự nhiên mà không suy nghĩ...
+` Chỉ là, không suy nghĩ gì cả…
 br
-`"[line=4]Khi tất cả kết thúc, khi chúng ta đã đánh bại con ma cà rồng này... Trước khi chia tay, có thể chúng ta làm điều gì đó như thế lần cuối?"@
-` Những từ ngữ ấy dường như tự chảy ra khỏi miệng tôi.
+`"Khi tất cả chuyện này kết thúc[line=4]khi chúng ta xong việc tiêu diệt tên ma cà rồng này… Trước khi chia tay, chúng ta có thể làm thêm chuyện như hôm nay một lần nữa không?"@
+` Những lời đó cứ thế tự nhiên thoát ra khỏi miệng tôi.
 \
 ld c,"tachi/ark_t13",crossfade,400
-`"[line=4]Ồ?@ Chuyện gì vậy?"@
-`"Tôi muốn nói rằng sau khi nhiệm vụ của cậu kết thúc, chúng ta hãy làm lại những việc vô nghĩa này một lần nữa."@
-` Cuối cùng, chúng ta ở đây bên nhau vì chúng ta đã đồng ý giúp đỡ lẫn nhau.@
-` [line=4]Vậy... Tôi thắc mắc, nếu chúng ta gặp lại nhau mà không còn bất kỳ trách nhiệm nào... nếu chỉ đơn giản là gặp gỡ vì một lý do vô tình thì sao?
+`"Hả[line=4]?@ Ý cậu là sao?"@
+`"Ý tôi là, sau khi nhiệm vụ của cậu xong, hãy làm thêm những chuyện vô nghĩa này một lần nữa.@
+` Cuối cùng, hai chúng ta ở đây vì đã đồng ý giúp đỡ nhau.@
+` Nên[line=4]tôi chỉ tự hỏi, sẽ thế nào nếu chúng ta gặp lại mà không có trách nhiệm nào… nếu chúng ta chỉ gặp nhau mà không vì lý do gì cụ thể."
 \
 cl c,crossfade,400
 !w500
@@ -381,96 +381,96 @@ br
 br
 br
 br
-` [line=4]Đó không phải là sự thật.@
-` Chỉ là bạn bè, và tôi hoàn toàn không nghĩ đến việc cô ấy là một ma cà rồng.@
-` Tôi chỉ nghĩ rằng nếu chúng ta tạo ra những kỷ niệm bình thường như vậy, Arcueid sẽ vui hơn.
+` [line=4]Không phải vậy đâu.@
+` Chỉ như bạn bè, và không hề nghĩ đến chuyện cô ấy là ma cà rồng.@
+` Tôi chỉ nghĩ Arcueid sẽ vui nếu chúng tôi tạo được vài kỷ niệm bình thường như thế.
 \
-`"[line=4]Nếu bạn quá bận rộn, thì cũng được. Tôi mới nghĩ ra điều này thôi."@
-` Nhưng thực ra điều đó trái ngược hoàn toàn với cảm xúc của tôi.@
+`"[line=4]Nếu cậu quá bận thì cũng không sao.@ Tôi cũng chỉ vừa nghĩ ra thôi mà."@
+` Nhưng đó hoàn toàn ngược lại với những gì tôi đang cảm thấy.@
 br
-` Sau khi cô ấy mở to mắt ngạc nhiên, cô gật đầu.
+` Sau khi đôi mắt cô ấy mở to vì ngạc nhiên, cô gật đầu.
 \
 ld c,"tachi/ark_t09",crossfade,400
-`"[line=4]Được rồi! Khi mọi thứ kết thúc, chúng ta hãy lại đến đây nhé, Shiki! Nó không có ý nghĩa gì, nhưng chắc chắn sẽ rất vui!"@
-` Trong lớp học ngập tràn ánh hoàng hôn,
-` Arcueid mỉm cười và hứa với tôi.
+`"Được[line=4]!@ Khi mọi chuyện kết thúc, chúng ta lại đến đây nhé, Shiki!@ Sẽ không có ý nghĩa gì cả, nhưng tôi chắc chắn sẽ rất, rất vui!"@
+` Trong lớp học tắm trong ánh hoàng hôn,
+` Arcueid mỉm cười và hứa với tôi một lời hẹn.
 \
 bg #ffffff,crossfade,1500
 bg #000000,notrans,0
 !w1000
 bg "bg/bg_24c",crossfade,800
-` ... Khi chúng tôi bước ra ngoài, mặt trời đã lặn.@
-` Đã qua bảy giờ ba mươi phút.@
-` Một chút sớm, nhưng vì chúng ta không có việc gì khác để làm, nên bắt đầu tìm kiếm con ma cà rồng đi.@
+` …… Cuối cùng, khi hai chúng tôi ra ngoài, mặt trời đã lặn từ lâu.@
+` Đã hơn bảy giờ rưỡi.@
+` Hơi sớm, nhưng vì không có gì khác để làm, chúng tôi nên bắt đầu tìm kiếm tên ma cà rồng.@
 br
-`"Vậy thì, chúng ta bắt đầu, Arcueid?"@
-` Tôi quay lại, đối mặt với Arcueid đang đi sau tôi.
+`"Vậy thì, bắt đầu nhé Arcueid?"@
+` Tôi quay lại nhìn Arcueid đang đi phía sau.
 \
 ld c,"tachi/ark_t11",lshutter,400
-`"Đã sớm thế này? Mặt trời vừa mới lặn à?"@
-`"Ừm, bắt đầu sớm cũng không sao. Chúng ta đã chơi đùa đủ lâu hôm nay rồi, nên vào ban đêm phải nghiêm túc hơn phải không?"@
-` "Arcueid, chúng ta hãy giữ vững quyết định của mình."
+`"Gì cơ, đã bắt đầu rồi à?@ Mặt trời mới vừa lặn mà?"@
+`"Ừ, nhưng bắt đầu sớm cũng không sao.@ Hôm nay chúng ta đã chơi đủ rồi, nên buổi tối phải nghiêm túc, đúng không?@
+` Arcueid này, hãy tuân theo quyết định của chúng ta."
 \
 ld c,"tachi/ark_t03",crossfade,400
-`"Shiki, cậu có vẻ nghiêm túc lạ. Nếu cậu thật sự nghiêm túc như vậy, thì tại sao hôm qua cậu đã vi phạm lời hứa?"@
-`"Ồ, tôi không thể ngăn mình được; tôi thậm chí còn không thể di chuyển. Tôi thực sự định đến công viên trước."@
-` "Đúng vậy, nếu Akiha không ngăn tôi, có lẽ tôi sẽ tiếp tục đến công viên trong tình trạng này."
+`"Shiki, cậu nghiêm túc một cách kỳ lạ.@ Nếu cậu nghiêm túc thế, sao hôm qua cậu lại lỡ hẹn với tôi?"@
+`"Này, không phải lỗi của tôi, tôi còn chẳng cử động được.@ Trước đó tôi thực sự định đi mà."@
+` Ừ, nếu Akiha không ngăn lại, có lẽ tôi đã đến công viên dù trong tình trạng đó.
 \
-`"Ừm, tôi hiểu rồi. Vậy thì chúng ta hãy làm điều đó."@
-` Với biểu cảm hơi trống rỗng, Arcueid nói điều mà tôi không hiểu được.@
-`"Làm gì?"@
-`"Shiki, cậu định đến công viên chứ? Chúng ta vẫn còn thời gian, nên nếu cậu không thể thực hiện được hôm qua, thì có lẽ giờ này chúng ta cũng có thể làm được chứ?"@
+`"Hửm, ra vậy.@ Vậy thì, làm thế này đi."@
+` Với biểu cảm hơi vô hồn, Arcueid nói điều gì đó tôi không hiểu.@
+`"Làm gì cơ?"@
+`"Cậu định đi đến công viên, đúng không Shiki?@ Chúng ta vẫn còn thời gian, nếu hôm qua cậu không làm được, thì giờ làm cũng đâu có sao?"@
 cl c,lshutter,400
 \
-` Cô ấy bắt đầu chạy nhẹ nhàng.@
-` Cô ấy dường như rất nghiêm túc khi đi đến công viên.@
-`"[line=2] Này, chờ đã. ...!"@
-` Tôi chạy hết sức mình để không mất cô ấy ra khỏi tầm nhìn.
+` Cô ấy bắt đầu chạy nhẹ.@
+` Có vẻ cô ấy thực sự nghiêm túc về việc đến công viên.@
+`"[line=2]Này, đợi đã.@ Này……!"@
+` Tôi chạy hết sức để không bị mất dấu cô ấy.
 \
 bg #000000,lcartain,800
 !w1000
 bg "bg/bg_28b",lcartain,800
 ld c,"tachi/ark_t08",notrans,0
 play "*1"
-`"Xem này, ngay cả khi bạn phàn nàn, bạn vẫn theo kịp, Shiki. Ha ha~"@
-` Arcueid cười.@
-`"... Ngốc... nếu tôi... bỏ rơi bạn... bạn sẽ... làm phiền... người khác..."@
-` Tôi cố gắng lấy lại hơi thở sau khi chạy suốt con đường đó.
+`"Thấy chưa, dù càu nhàu nhưng cậu vẫn theo kịp đấy thôi, Shiki.@ Hahaha~"@
+` Arcueid cười khúc khích.@
+`"…… Đồ ngốc… nếu tôi… để cậu một mình… cậu sẽ… làm phiền… người khác…"@
+` Tôi cố gắng hết sức để lấy lại hơi sau khi chạy cả đoạn đường.
 \
 ld c,"tachi/ark_t01a",crossfade,400
-`"Tôi biết sẽ có rất nhiều người ở đây bây giờ. Nó hơi làm tôi bất an vì tôi cảm nhận được sự hiện diện của họ khắp mọi nơi."@
-`"... Như tôi đã nói, tại sao... bạn... không bao giờ... nghe... những gì tôi... cần nói...?"@
+`"Tôi biết giờ này ở đây sẽ có nhiều người mà.@ Hơi khó chịu vì tôi cảm nhận được sự hiện diện của họ khắp nơi."@
+`"…… Đã bảo rồi, sao cậu… chẳng bao giờ… chịu nghe… tôi nói…?"@
 ld c,"tachi/ark_t03",crossfade,400
-`"Ừm? Tôi nghe tiếng bạn suốt cả ngày."@
-`"... Ồ. Vậy thì... bạn nghe tôi... nhưng chỉ bỏ qua tôi, điều đó... còn tệ hơn..."
+`"Hửm?@ Tôi nghe giọng cậu suốt mà."@
+`"…… À.@ Vậy là cậu… nghe tôi… nhưng vẫn lờ đi, càng tệ hơn…"
 \
 ld c,"tachi/ark_t11",crossfade,400
-`"Tôi không bỏ qua bạn. Nếu tôi trả lời mỗi khi bạn la mắng tôi, bạn sẽ chỉ gọi tôi là kẻ ngốc nên tôi im lặng."@
-`"... Ồ. Vậy có nghĩa là... tôi cũng có vấn đề... phải không?"@
-` Tôi vẫn cố gắng lấy lại hơi thở.@
+`"Tôi không lờ cậu.@ Nếu cứ trả lời mỗi khi cậu mắng tôi, cậu sẽ chỉ gọi tôi là ngốc nên tôi im lặng."@
+`"…… À.@ Vậy có lẽ… tôi cũng… có vấn đề?"@
+` Tôi vẫn cố lấy lại hơi.@
 cl c,crossfade,400
 \
-` Từ trường học đến công viên này khoảng sáu kilômét.@
-` Ngay cả khi đó chỉ là một cuộc dạo bộ ngắn, đi xa như vậy là quá sức với trái tim tôi.@
-` ... Không phải cô ấy đang chạy nhanh lắm. Thật ra, cô ấy dường như đang chạy chậm.@
-` Nhưng có lẽ do tác động của bệnh thiếu máu, tôi không thấy mình khỏe lắm.
+` Từ trường tôi đến công viên này khoảng sáu cây số.@
+` Dù chỉ là chạy bộ nhẹ, đi xa đến vậy là quá sức với trái tim của tôi.@
+` …… Cô ấy cũng không chạy nhanh lắm.@ Thật ra, cô ấy có vẻ chạy chậm.@
+` Nhưng có lẽ do tác động của chứng thiếu máu, tôi cảm thấy không khoẻ lắm.
 \
 ld c,"tachi/ark_t01b",crossfade,400
-`"Shiki, cậu ổn chứ? Cậu không cần phải cố gắng. Có phải cậu nên nghỉ ngơi trên băng ghế đó không?"@
-`"... Tôi sẽ làm thế. Sau khi nghỉ ngơi, chúng ta sẽ lại đi đến thành phố, Arcueid."@
+`"Cậu ổn không Shiki?@ Cậu không cần ép mình đâu.@ Có nên ngồi nghỉ trên cái ghế băng kia không?"@
+`"…… Tôi sẽ làm vậy.@ Khi nào khoẻ lại, chúng ta sẽ vào thành phố lần nữa, Arcueid."@
 ld c,"tachi/ark_t04",crossfade,400
-`"Ôi trời. Tôi vui vì cậu có động lực, nhưng vẫn còn quá sớm.@
-` Nrvnqsr cũng như vậy, nhưng ma cà rồng chỉ di chuyển khi thời gian của họ đến.@
-` Vì họ không di chuyển cho đến khi cảm nhận được đêm sâu, nên việc giết thêm chút thời gian ở đây là ổn."@
+`"Thật là.@ Tôi vui vì cậu có động lực, nhưng vẫn còn quá sớm.@
+` Nrvnqsr cũng vậy, nhưng ma cà rồng không di chuyển trừ khi đến giờ của chúng.@
+` Vì chúng sẽ không hành động cho đến khi cảm nhận đêm đã sâu, nên giết thời gian ở đây một chút cũng được."@
 br
 `"[line=4]"@
-` Nếu điều đó là sự thật, cô ấy có thể đã nói với tôi sớm hơn.@
+` Nếu là vậy thì cô ấy có thể nói sớm hơn chứ.@
 bg #000000,lshutter,400
 bg "bg/bg_28b",lshutter,400
 br
-` [line=4]Ngồi trên băng ghế, tôi vô định nhìn đồng hồ.@
+` [line=4]Ngồi trên ghế băng, tôi nhìn chằm chằm vào đồng hồ một cách vô định.@
 br
-` Đã quá 9 giờ rồi.@
-` Mọi người xung quanh đã rời đi và đêm nhanh chóng trở nên sâu thẳm hơn.@
-` Vì một lý do nào đó, Arcueid không ngồi yên mà đi lại ra vào như thể cô ấy chán nản.
+` Đã hơn chín giờ.@
+` Mọi người xung quanh đã đi hết và đêm xuống nhanh.@
+` Không hiểu sao Arcueid không ngồi xuống, mà cứ đi qua đi lại như chán nản.
 \

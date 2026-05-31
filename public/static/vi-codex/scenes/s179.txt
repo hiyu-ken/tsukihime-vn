@@ -4,51 +4,51 @@ wavestop
 bg "bg/bg_25b",notrans,0
 ` [line=4]Tôi sẽ đến căn hộ của Arcueid.@
 br
-` Tôi không biết điều gì đang xảy ra, nhưng cô ấy đang thở đau đớn.@
-` Có thể thay vì cố gắng săn lùng những Người Tử Thần, cô ấy chỉ đơn giản là quay về phòng của mình.
+` Tôi không biết đằng sau tất cả chuyện này là gì, nhưng cô ấy đã thở đau đớn đến vậy.@
+` Thay vì cố gắng đi săn Tử Giả, có lẽ cô ấy chỉ đơn giản là quay về phòng mình.
 \
 bg #000000,lcartain,800
 bg "bg/bg_12b",lcartain,800
 bg "bg/bg_13b",lcartain,800
-` Tôi nhấn chuông cửa.@
-` Không có vẻ như ai đang ra mở cửa.@
-`"[line=4]Chúa ơi, cô ấy không trở về à?"@
-` Dù tôi nhấn nút bao nhiêu lần, cánh cửa vẫn không mở.
+` …… Tôi nhấn chuông cửa.@
+` Không có vẻ như có ai sắp ra mở.@
+`"[line=4]Chết tiệt, cô ấy chưa về à?"@
+` Dù tôi có nhấn bao nhiêu lần, cánh cửa nhà cô ấy cũng không mở.
 \
-`"...@
-` Cô ấy không trở về hay là chỉ không ra mở cửa?@
+`"………"@
+` Cô ấy chưa về, hay chỉ là không chịu ra mở?@
 br
-` [line=4]Sau một lúc do dự, tôi quyết định bước vào bên trong.@
+` [line=4]Sau một lúc do dự, tôi quyết định vào trong.@
 br
-` Dễ dàng lắm, chỉ cần cắt những đường kẻ trên cửa thôi.@
-` Nhưng, tôi nên kiểm tra công tắc trước đã.
+` Cắt "đường" trên cánh cửa thì đơn giản thôi.@
+` Nhưng, tôi nên thử vặn nắm cửa trước đã.
 \
-`"…… Hừ?"@
-` Nó không bị khóa.@
-` Cánh cửa mở dễ dàng chỉ với một vòng quay.
+`"…… Hử?"@
+` Cửa không khóa.@
+` Cánh cửa mở ra dễ dàng chỉ với một cú xoay.
 \
 bg #000000,lcartain,800
 bg "bg/bg_15b",lcartain,800
-`"…… Arcueid, cậu ở đây à?"@
+`"…… Arcueid, cậu ở đây không?"@
 ` …… Không có hồi đáp.@
-` Có lẽ cô ấy chẳng khóa nó từ đầu? Không ai xung quanh cả.@
-`"Cô ta nghĩ mình đang đi đâu trong tình trạng này……!?"@
+` Hay cô ấy chẳng khóa cửa từ đầu?@ Không có ai xung quanh cả.@
+`"Cô ấy nghĩ mình đang đi đâu trong tình trạng đó vậy……!?"@
 quakex 1,300
-` "... Grr."@
-`"... Tôi đang làm gì vậy?@
-` Nếu tôi có thời gian để giải tỏa sự giận dữ này, tôi phải ra ngoài và tìm cô ấy.@
-` [line=4]... Tôi không thể tìm thấy cô ấy.
+` Tôi đấm tay vào tường.@
+`"…… Grr."@
+` …… mình đang làm gì thế?@
+` Nếu có thời gian trút giận lên tường, mình phải ra ngoài tìm cô ấy[line=4]
 \
 bg #000000,lcartain,800
 !w2000
 bg "bg/bg_25b",lcartain,800
-` Có lẽ nếu cô ấy thực sự không muốn bị tìm thấy, thì tôi sẽ chẳng bao giờ tìm được cô ấy cả.@
-` "... Cô ấy nói chúng ta sẽ gặp lại nhau ngày mai."
+` …… Tôi không tìm được cô ấy.@
+` Nghĩ kỹ ra, nếu cô ấy thực sự không muốn bị tìm thấy, tôi sẽ chẳng có cơ hội nào tìm thấy cô ấy.
 \
-`"(Tôi tự nhủ)@
-` Tất cả những gì tôi có thể làm trong tình huống này là tin tưởng cô ấy và chờ đợi đến đêm mai.@
-`"…………@
-` Với một sự bất an lớn trong ngực, tôi trở lại biệt thự.
+`"…… Cô ấy nói chúng ta sẽ gặp lại vào ngày mai."@
+` Tất cả những gì tôi có thể làm trong tình huống này là tin tưởng cô ấy và chờ đến đêm mai.@
+`"………………"@
+` Với nỗi bất an lớn trong lồng ngực, tôi trở về biệt thự.
 \
 bg #000000,lcartain,800
 !w2000

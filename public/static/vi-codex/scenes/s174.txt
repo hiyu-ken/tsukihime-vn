@@ -2,66 +2,66 @@ monocro off
 wavestop
 bg "bg/bg_56",notrans,0
 play "*1"
-` …… Đúng vậy.@
-` Tôi đã giúp Arcueid tìm kiếm kẻ thù này, nhưng tôi thậm chí còn không biết hắn là loại người gì.@
+` …… Đúng rồi.@
+` Tôi đã giúp Arcueid tìm "kẻ thù" này, nhưng tôi còn chưa biết hắn là loại người nào.@
 br
-`"Rồi tôi sẽ hỏi. Arcueid, kẻ thù của cô, hắn là loại ma cà rồng nào? Cô đã theo đuổi hắn lâu như vậy, nên cô phải biết ngoại hình của hắn, đúng không?"@
+`"Vậy thì tôi hỏi.@ Arcueid, 'kẻ thù' của cậu, hắn là loại ma cà rồng gì?@ Cậu đã truy đuổi hắn lâu thế này, nên cậu biết hắn trông ra sao chứ?"@
 ld c,"tachi/ark_t10",crossfade,400
-`"[line=4][line=4]Ừm..."@
-` Arcueid quay mặt đi.
+`"À[line=4]tôi[line=4]"@
+` Arcueid quay đi.
 \
-`"Chuyện gì vậy? Không phải cậu vừa nói là sẽ không giấu tôi điều gì sao?"@
+`"Sao thế?@ Chẳng phải cậu vừa nói sẽ không giấu tôi điều gì sao?"@
 ld c,"tachi/ark_t14",crossfade,400
-`"Đúng vậy, nhưng xin cậu hãy lắng nghe mà không nổi giận. Tôi mới chỉ biết gần đây rằng có một ma cà rồng ở thành phố này."@
-` Tôi đến đây ngay khi biết được 'kẻ thù' đang ở trong thành phố này, trong nước này, nhưng tôi chưa bao giờ gặp hắn.@
-` Vì vậy, để nói thật, tôi không biết gì về 'kẻ thù' lần này cả.@
-`"[line=4]Cậu không biết à? Cậu chẳng nhận ra Nrvnqsr ngay từ cái nhìn đầu tiên sao?"
+`"Đúng, nhưng xin nghe mà đừng nổi giận.@
+` Tôi chỉ mới biết gần đây thôi rằng ma cà rồng ở thành phố này là hắn.@ Tôi đến đây ngay khi biết 'kẻ thù' đang ở trong nước này, ở thành phố này, nhưng chưa từng gặp hắn.@
+` Nên nói thật, tôi không biết gì về 'kẻ thù' lần này."@
+`"Cậu không biết?[line=4]Cậu chẳng đã nhận ra Nrvnqsr ngay từ cái nhìn đầu tiên đó sao?"
 \
-`"Nrvnqsr nổi tiếng và ngoại hình của cậu ấy không bao giờ thay đổi.@
-` Trong khi 'kẻ thù' mà tôi đang truy lùng không mạnh bằng ma cà rồng, những đặc điểm và kỹ năng của hắn lần này lại rất đa dạng, tôi hoàn toàn không biết gì về chúng cả."@
-` "[line=3]Tôi thực sự xin lỗi Shiki, nhưng tôi chỉ có thể nói với bạn điều này thôi."@
+`"Nrvnqsr nổi tiếng, và hắn chưa từng thay đổi ngoại hình.@
+` Trong khi 'kẻ thù' tôi đang truy đuổi không phải là một ma cà rồng mạnh như vậy, đặc điểm của hắn lại nằm trong một dải rất rộng và tôi chẳng có ý niệm gì về sở trường hay đặc điểm của hắn lần này.@
+` Tôi thực sự xin lỗi Shiki[line=3]nhưng tôi chỉ có thể nói được đến đây."@
 br
-` "... Tôi biết cô ấy không nói dối. Tôi biết, nhưng vẫn cảm thấy như cô ấy đang giấu giếm điều gì đó."@
-` "[line=4]Như..."
+` …… Tôi biết cô ấy không nói dối.@ Tôi biết, nhưng vẫn cảm thấy cô ấy đang giấu giếm điều gì đó.@
+` Như[line=4]
 \
-`"Đừng lo. Bạn không thể biết nếu không được thông báo."@
-` "[line=4]Nhưng ít nhất bạn cũng biết tên của kẻ thù này, phải không?"@
+`"Không sao.@ Cậu không biết thì cũng đành chịu.@
+` Nhưng[line=4]ít nhất cậu cũng biết tên 'kẻ thù' này chứ?"@
 cl c,crossfade,400
-`"[line=4]Tên?"@
-`"Đúng vậy, tên của hắn."@
-` Cô ấy buồn bã xuống giọng, rơi vào sự im lặng.@
-` Cô ấy không thể nói cho tôi biết tên anh ta vì một lý do nào đó, và cô ấy lo lắng.@
+`"T[line=4]tên?"@
+`"Ừ, tên hắn."@
+` Cô ấy ủ rũ, chìm vào im lặng.@
+` Vì lý do nào đó cô ấy không thể nói tên hắn cho tôi, và đang khó xử.@
 br
-` Vâng, đó là điều tôi nghĩ thế.
+` Mà, đó là điều tôi đã nghĩ thế.
 \
 ld c,"tachi/ark_t05c",crossfade,400
-`"[line=4]Tên của anh ấy."@
+`"[line=4]Tên hắn."@
 ` Lạnh giá.@
-` Nhanh chóng, tôi cảm thấy một cơn lạnh lớn đến mức dường như có thể đóng băng cả căn phòng.@
+` Bỗng nhiên, tôi cảm thấy một cơn lạnh lớn đến mức như có thể đóng băng cả căn phòng.@
 br
-`"Shiki, tên của anh ấy là……"@
+`"Shiki, tên hắn là……"@
 ` Arcueid không gặp khó khăn gì khi nói ra.@
 br
-`"…… Tên của anh ấy là Michael.@ Michael Roa Valdamjong."@
-` Được gọi là Uroboros, một Tử Đồ từng là người bình thường.@
-` Cô ấy nói trong khi vẫn nhìn xuống.@
-` Sự thù địch thuần khiết, như thể cô ấy đang nhổ máu ra.@
+`"…… Tên hắn là Michael.@ Michael Roa Valdamjong.@
+` Được gọi là Uroboros, một Tử Đồ từng là con người."@
+` Cô ấy nói trong khi vẫn cúi đầu.@
+` Sự thù hận thuần khiết, như thể cô ấy đang nhổ ra máu.@
 cl c,crossfade,400
 \
-`"[line=4]Arcueid, bạn..."@
-`"[line=6]... (lặng im)"@
+`"Arcueid, cậu[line=4]"@
+`"[line=6]"@
 ` Vai cô ấy run rẩy.@
-` Có vẻ như cô ấy đang cố kìm nén bản thân để không lao vào tấn công.@
-`"... Xin lỗi. Tôi không nên hỏi. Đừng bận tâm, cứ quên đi."@
-` Arcueid nhẹ nhàng lắc đầu.@
-` Như thể cô ấy muốn nói rằng mình sẽ không bao giờ quên.@
+` Trông như cô ấy đang cố kìm chế để không bùng nổ.@
+`"…… Xin lỗi.@ Đáng lẽ tôi không nên hỏi.@ Không sao đâu, quên đi."@
+` Arcueid khẽ lắc đầu.@
+` Như thể đang nói rằng cô ấy không bao giờ có thể quên.@
 br
-` Một khoảng lặng kéo dài giữa chúng tôi.
+` Một khoảng im lặng kéo dài giữa hai chúng tôi.
 \
 `"[line=6]Tôi xin lỗi."@
-` Arcueid nói vậy, vẫn nhìn xuống đất.@
+` Arcueid nói thế, vẫn cúi đầu.@
 `"[line=4]Ừm."@
-` Tôi trả lời một cách không chắc chắn. Cả hai chúng tôi tự động đứng dậy khỏi ghế và rời nhà hàng.
+` Tôi đáp lại một cách miễn cưỡng.@ Cả hai chúng tôi tự động đứng dậy khỏi ghế và rời quán.
 \
 bg #000000,lcartain,800
 playstop

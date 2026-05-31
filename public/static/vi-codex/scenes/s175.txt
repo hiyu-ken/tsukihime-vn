@@ -2,67 +2,67 @@ monocro off
 wavestop
 bg "bg/bg_56",notrans,0
 play "*3"
-` [line=4]Ừm...@
+` [line=4]Ừm.@
 br
-` Có lẽ đây là lần cuối cùng tôi có cơ hội nói chuyện với Arcueid trong một nhà hàng thức ăn nhanh giữa ban ngày như thế này, nên tôi sẽ hỏi không phải về những con ma cà rồng, mà về điều gì đó bình thường hơn.
+` Có lẽ tôi sẽ chẳng bao giờ có cơ hội nói chuyện với Arcueid trong một quán ăn nhanh giữa ban ngày như thế này nữa, nên tôi sẽ hỏi không phải về ma cà rồng, mà về điều gì đó bình thường hơn.
 \
-`"Vậy thì tôi sẽ hỏi cô. Arcueid, cô có thể kể cho tôi nghe một chút về sở thích, quá khứ và ba kích cỡ của cô không?"@
+`"Vậy thì tôi sẽ hỏi cậu.@ Arcueid, cậu có thể kể cho tôi nghe một chút về sở thích, quá khứ và ba số đo của cậu không?"@
 ld c,"tachi/ark_t03",crossfade,400
-`"Cô muốn biết à? Cô chắc là hỏi những chuyện lạ lùng rồi đấy, Shiki."@
-`"Không lạ lùng đâu. Tôi không biết gì về cô, nên tự nhiên muốn tìm hiểu về cô."
+`"Cậu muốn biết chuyện đó à?@ Cậu hỏi mấy chuyện kỳ lạ đấy nhỉ, Shiki."@
+`"Không kỳ lạ đâu.@ Tôi không biết gì về cậu cả, nên muốn biết về cậu cũng là chuyện tự nhiên."
 \
 ld c,"tachi/ark_t01a",crossfade,400
-`"[line=4]Ừm, tôi cũng vậy, có lẽ... trong trường hợp này, tôi không ngại trả lời cả."@
+`"À, tôi cũng cảm thấy y như thế, có lẽ[line=4]vậy thì, tôi không ngại."@
 ld c,"tachi/ark_t03",crossfade,400
-`"Nhưng sở thích và quá khứ... Tôi chẳng có thứ nào trong số đó. Tôi cũng chưa bao giờ đo kích cỡ bản thân nên không thể nói cho cô biết ba kích cỡ của tôi. Tôi chẳng từng ghi lại tuổi tác hay chiều cao như các bạn đâu."@
-`"Cô muốn nói gì vậy? Cô chưa từng tự hỏi về chính mình à?"
+`"Nhưng, sở thích và quá khứ… tôi chẳng có thứ nào trong số đó.@ Tôi cũng chưa bao giờ tự đo nên không nói được ba số đo của mình.@ Tôi chưa từng ghi lại tuổi tác hay chiều cao như mấy người các cậu."@
+`"Ý cậu là sao?@ Cậu chưa bao giờ tự thắc mắc về chính mình à?"
 \
 ld c,"tachi/ark_t01b",crossfade,400
-`"Không, không phải thế, nhưng nó cũng không phải là điều tôi từng ưu tiên. Tất cả những gì tôi cần là khả năng săn lùng Tử Đồ... ma cà rồng."@
-`"Nhưng vẫn còn những chuyện xảy ra trước khi cậu đến thành phố này, phải không? Tôi muốn nghe về những chuyện đó."
+`"Không, không phải vậy đâu, nhưng đó không phải là việc tôi từng đặt ưu tiên.@ Tất cả những gì tôi cần là khả năng săn lùng Tử Đồ…… ma cà rồng."@
+`"Nhưng dù sao, vẫn có những chuyện đã xảy ra trước khi cậu đến thành phố này, đúng không?@ Tôi muốn nghe về những chuyện như vậy."
 \
 ld c,"tachi/ark_t03",crossfade,400
-`"Trước khi tôi đến đây... ừm, có lẽ là khoảng tám năm trước rồi. Khi ấy, tôi không ở trong nước này, mà đang ở một quốc gia khác săn lùng một ma cà rồng."@
-` "Một ma cà rồng đã lập căn cứ tại một ngôi làng nhỏ ở vùng nông thôn Pháp biến thành thị trấn ma. Sau hai ngày, tôi tìm thấy 'kẻ thù' và đối phó với nữ Tử Đồ kiểm soát ngôi làng." @
-` "[line=4]Như đang nhớ lại điều gì đó kinh khủng, Arcueid nhắm mắt và ngừng nói."@
+`"Trước khi tôi đến đây…… ừm, vậy thì có lẽ khoảng tám năm trước.@
+` Lúc đó, tôi không ở nước này, mà đang ở một nước khác săn ma cà rồng.@
+` Một ma cà rồng đã lập sào huyệt trong một ngôi làng nhỏ ở vùng nông thôn Pháp đã trở thành thị trấn ma.@ Sau hai ngày, tôi tìm thấy 'kẻ thù' và xử lý nữ Tử Đồ đang kiểm soát thị trấn[line=4]"@
 cl c,crossfade,400
-` "Tám năm trước? Vậy từ lúc đó đến nay, cậu đã làm gì, Arcueid?"
+` Như thể nhớ lại điều gì đó kinh khủng, Arcueid nhắm mắt lại và ngừng nói.
 \
-`"Cái gì? Tôi chỉ trở về lâu đài và ngủ. Nhiệm vụ của tôi là săn lùng Tử Đồ. Tôi không có ý nghĩa tồn tại nào khác, nên cho đến khi xuất hiện một Tử Đồ khác, chẳng còn việc gì để làm ngoài việc tiếp tục ngủ, phải không?"@
+`"Tám năm trước?@ Vậy từ đó đến nay, cậu đã làm gì, Arcueid?"@
 ld c,"tachi/ark_t01b",crossfade,400
-`"Cái gì... "@
-`"[line=6]" @
-` Tiếp tục ngủ?@ Cô ấy có ý nói thật sự vậy?@
+`"Tôi đã làm gì à?@ Tôi chỉ trở về lâu đài và ngủ.@ Nhiệm vụ của tôi là săn Tử Đồ.@ Tôi không có ý nghĩa tồn tại nào khác, nên cho đến khi một Tử Đồ khác nổi lên, chẳng có gì để làm ngoài tiếp tục ngủ, đúng không?"@
+`"Cá[line=6]"@
+` Tiếp tục ngủ?@ Cô ấy có ý nói theo nghĩa đen à?@
 ` Không, ngay từ đầu[line=4]
 \
-`"... Chờ đã.@ Lâu đài à, cô muốn nói lâu đài đó sao?@ Tôi sẽ khó tin điều đó, nhưng đừng nói nơi ở của cô giống như lâu đài của nàng Bạch Tuyết...!"@
+`"…… Khoan đã.@ Lâu đài, ý cậu là lâu đài kiểu đó sao?@ Tôi sẽ khó tin lắm, nhưng đừng nói nhà cậu giống lâu đài Lọ Lem nhé…!?"@
 ld c,"tachi/ark_t11",crossfade,400
-`"Lâu đài Bạch Tuyết?"@
-` Arcueid nghiêng đầu, như thể không hiểu.
+`"Lâu đài Lọ Lem?"@
+` Arcueid nghiêng đầu như không hiểu.
 \
-`"[line=4]Ờm... không, đó không phải là cách diễn đạt phù hợp lắm.@ À, tôi muốn nói, cô là, ừm... một công chúa?"@
+`"Ừ[line=4]không, đó không phải cách diễn đạt phù hợp lắm.@ Ờm, ý tôi là, cậu là, ừm…… công chúa à?"@
 ld c,"tachi/ark_t03",crossfade,400
-`"Đúng vậy, dường như thế.@ Ngày xưa, tôi được bảo không được cắt tóc và bị la mắng vì cư xử giống như một vị hoàng hậu."@
+`"Đúng vậy, có vẻ thế.@ Hồi rất lâu trước, tôi được dặn không được cắt tóc và bị mắng phải cư xử cho ra dáng hoàng tộc hơn."@
 `"[line=8]"@
-` Tôi… không biết phải nói gì.@
-` Khi nghĩ lại, thằng Nrvnqsr ấy luôn gọi cô ấy là "nàng công chúa".@
-` [line=4]Nhưng mà…
+` …… Tôi không nói nên lời.@
+` Nghĩ kỹ ra, thằng cha Nrvnqsr đó luôn gọi cô ấy là "công chúa".@
+` Nhưng dù vậy[line=4]
 \
-`"Một nàng công chúa thực sự ư?"@
-` Tôi lén nhìn Arcueid.@
-` Cô ấy xinh đẹp đến mức khiến người ta ngạt thở, nhưng một người nghịch ngợm như vậy có phải là một nàng công chúa? Cô ấy không giống với hình dung của tôi về một nàng công chúa.
+`"Công chúa hoàng tộc?"@
+` Tôi liếc trộm Arcueid.@
+` Cô ấy xinh đến mức khiến người ta nín thở, nhưng một người ồn ào nghịch ngợm như vậy mà là công chúa?@ Cô ấy chẳng giống hình ảnh tôi nghĩ đến khi nói về công chúa.
 \
-`"À… ít nhất cậu cũng ích kỷ như một nàng công chúa."@
-` Tôi thở dài sâu.@
+`"…… Ừm, ít nhất cậu cũng ích kỷ như một công chúa."@
+` Tôi thở dài sâu sắc.@
 ld c,"tachi/ark_t16",crossfade,400
-`"Này! Tôi chỉ nói vậy vì cậu hỏi, nên đừng phản ứng như thế!"@
-` Hoàng hậu của cô ấy nhìn tôi chằm chằm.@
+`"Này này!@ Tôi chỉ nói thế vì cậu hỏi, nên đừng phản ứng kiểu đó!"@
+` Nàng Công Chúa của chúng ta liếc tôi.@
 cl c,crossfade,400
-` …… Arcueid dường như cũng không xem mình là công chúa, nên tôi nghĩ tốt nhất là quên chuyện này đi.
+` …… Arcueid cũng có vẻ không nghĩ mình là công chúa, nên tôi nghĩ tốt nhất là quên chuyện này đi.
 \
 bg #000000,lshutter,800
 bg "bg/bg_56",lshutter,800
-` Vẫn còn giận, Arcueid tiếp tục ăn hamburger của mình.@
+` Vẫn còn giận, Arcueid tiếp tục ăn cái bánh hamburger của mình.@
 ` Sau khi cô ấy ăn xong và bình tĩnh lại, chúng tôi quyết định đi đâu đó khác.
 \
 bg #000000,lcartain,800

@@ -1,4 +1,4 @@
-Giai đoạn "bg/bg_47", l, ark, 07a, 7
+phase "bg/bg_47",l,ark,07a,7
 bg "bg/cmo_05",crossfade,800
 ` Ngày đó, toàn bộ biệt thự giống như một sân chơi khổng lồ.@
 br

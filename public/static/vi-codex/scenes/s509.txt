@@ -42,7 +42,7 @@ bg "bg/ima_02",crossfade,800
 bg #000000,crossfade,1500
 playstop
 !w4000
-Giai đoạn #000000,l,aki,13b,epi
+phase #000000,l,aki,13b,epi
 bg #ffffff,crossfade,1500
 monocro off
 bg "bg/ima_03",crossfade,800

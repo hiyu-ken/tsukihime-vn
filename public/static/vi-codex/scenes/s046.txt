@@ -1,6 +1,6 @@
 playstop
 bg "bg/bg_40c",crossfade,800
-Vòng lặp âm thanh se_11
+waveloop se_11
 ` Để mình một mình, tôi nằm trên giường.@
 ` Ngôi nhà này từ tám năm trước...
 ` Người thân của tôi từ tám năm trước...

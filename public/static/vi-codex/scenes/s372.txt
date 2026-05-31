@@ -10,7 +10,7 @@ br
 \
 bg "bg/ima_14",lshutter,400
 wave se_12
-"……!!"
+`"……!!"
 ` Lưỡi dao của SHIKI vút qua ngay trước mặt tôi.@
 ` May mắn thay dẫu dã tịnh không có vết chém nào.@
 ` [line=4]Thế nhưng hắn dẫu dã đánh bay chiếc kính mắt của tôi.

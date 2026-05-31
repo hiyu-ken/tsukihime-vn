@@ -46,61 +46,61 @@ play "*2"
 wave se_01
 bg #9c0120,crossfade,400
 bg "bg/bg_40a",crossfade,400
-"Ugh…………"
+`"Ugh…………"
     Một cảm giác buồn nôn lập tức ập đến.@
     Cơn thiếu máu từ hôm qua vẫn chưa dứt sao?@
     Lồng ngực tôi đau thắt lại và đầu óc quay cuồng.@
 br
 ld c,"tachi/his_t01",lshutter,400
-"Em xin phép vào ạ."@
+`"Em xin phép vào ạ."@
     Hisui khẽ khàng bước vào phòng tôi.@
     Chắc cô ấy nghĩ tôi vẫn còn đang ngủ nên trông hơi ngạc nhiên khi thấy tôi đã thức dậy.
 \
-"Chào buổi sáng cậu chủ Shiki. Cậu chủ đã thức giấc rồi ạ."@
-"[line=4]"@
+`"Chào buổi sáng cậu chủ Shiki. Cậu chủ đã thức giấc rồi ạ."@
+`"[line=4]"@
     Không hiểu vì sao,
     phản ứng của Hisui lại khiến tôi cảm thấy bực bội vô cớ.
 \
-"Chào buổi sáng.@ Đến giờ ăn sáng rồi phải không?@ Tôi sẽ xuống ngay, cô ra ngoài trước đi.@ Tôi chuẩn bị thay quần áo."@
+`"Chào buổi sáng.@ Đến giờ ăn sáng rồi phải không?@ Tôi sẽ xuống ngay, cô ra ngoài trước đi.@ Tôi chuẩn bị thay quần áo."@
 ld c,"tachi/his_t04",crossfade,400
-"…… Vâng, em xin phép ra ngoài trước ạ."@
+`"…… Vâng, em xin phép ra ngoài trước ạ."@
 cl c,lshutter,800
-"……………"
+`"……………"
     Cho dù tâm trạng có tồi tệ đến thế nào đi nữa, trút giận lên Hisui như vậy…… đầu óc mình thực sự có vấn đề rồi.
 \
 bg #ffffff,crossfade,400
 bg "bg/bg_40a",crossfade,400
-"[line=4]"@
+`"[line=4]"@
     Khó chịu quá.@
     Có đến trường với bộ dạng này thì tôi cũng chẳng thể học hành gì nổi.@
 br
-"…… Hay là hôm nay mình nghỉ học nhỉ."@
+`"…… Hay là hôm nay mình nghỉ học nhỉ."@
     Nhưng tôi bắt buộc phải đi.@
     Nếu đến trường, biết đâu tôi sẽ lại được gặp Senpai.
 \
     …… Dù có thể chị ấy không còn là "Senpai" mà tôi mong mỏi nữa[line=3]nhưng biết đâu chị ấy vẫn ở đó.@
 br
-"[line=5]*Phù*."@
+`"[line=5]*Phù*."@
     Hít một hơi thật sâu, tôi cố trấn tĩnh lại lòng mình.@
     Gượng sức chống lại cơn chóng mặt đang hành hạ, tôi bước ra khỏi phòng.
 \
 bg #000000,lcartain,800
 bg "bg/bg_34a",lcartain,800
 ld c,"tachi/aki_t16a",lshutter,800
-"A, anh Shiki.@ …… Chào buổi, sáng anh."@
+`"A, anh Shiki.@ …… Chào buổi, sáng anh."@
     …… Ngay khi tôi vừa bước vào phòng khách, Akiha đã cất lời chào tôi bằng chất giọng mệt mỏi trống rỗng.
 \
-"…… Ừm, chào buổi sáng Akiha.@ Em dậy sớm thế."@
-"Em lúc nào cũng dậy sớm vào giờ này mà…… Nhưng anh Shiki?"@
+`"…… Ừm, chào buổi sáng Akiha.@ Em dậy sớm thế."@
+`"Em lúc nào cũng dậy sớm vào giờ này mà…… Nhưng anh Shiki?"@
 ld c,"tachi/aki_t12a",crossfade,400
-"…… Anh có sao không ạ?@ Sắc mặt anh trông vẫn nhợt nhạt lắm.@ Nếu thấy không khỏe, anh cứ nghỉ ở nhà đi[line=3]"@
-"Không, anh ổn mà.@ Khỏe hơn nhiều rồi, em không cần phải lo lắng đâu."@
+`"…… Anh có sao không ạ?@ Sắc mặt anh trông vẫn nhợt nhạt lắm.@ Nếu thấy không khỏe, anh cứ nghỉ ở nhà đi[line=3]"@
+`"Không, anh ổn mà.@ Khỏe hơn nhiều rồi, em không cần phải lo lắng đâu."@
     Tôi nhanh nhảu đáp lời rồi lướt qua cô em gái.@
     Tôi đi thẳng về hướng nhà ăn, vì nếu không nạp chút gì vào bụng thì chắc tôi sẽ ngất xỉu giữa đường mất.
 \
-"Anh đi trước nhé.@ Sắp đến giờ đi học của em rồi phải không?"@
+`"Anh đi trước nhé.@ Sắp đến giờ đi học của em rồi phải không?"@
 ld c,"tachi/aki_t17a",crossfade,400
-「……………… Dạ vâng.@ Vậy thì em xin phép đi trước đây ạ.」@
+`"……………… Dạ vâng.@ Vậy thì em xin phép đi trước đây ạ."@
     Akiha nói bằng chất giọng ngập ngừng rồi lặng lẽ đứng dậy ra về.@
 cl c,lshutter,800
     Akiha rời khỏi phòng khách.@
@@ -116,6 +116,6 @@ bg "bg/bg_01a",lcartain,800
     Lúc này đã là bảy giờ bốn mươi phút.@
     Cổng trường bắt đầu đông nghịt học sinh đang vội vã chạy đua với thời gian để kịp giờ vào lớp.@
 br
-"………………"@
+`"………………"@
     Tôi không nghĩ Senpai sẽ xuất hiện, nhưng đứng đợi ở đây biết đâu vẫn tốt hơn là ngồi ngẩn ngơ trong lớp học?
 \

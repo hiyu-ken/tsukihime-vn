@@ -1912,7 +1912,7 @@ Cơ thể tôi run rẩy mạnh mẽ,
 playstop
 ` Nỗ lực sụp đổ xuống sàn nhà vang dội.
 \
-"Ôi trời ơi... không thể nào..."
+`"Ôi trời ơi... không thể nào..."
 bg #9c0120,crossfade,400
 bg "bg/bg_36c",crossfade,400
 `"[line=4]Hít một hơi sâu. Tôi không thể thở được.@

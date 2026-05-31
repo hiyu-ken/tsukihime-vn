@@ -225,7 +225,7 @@ bg #000000,crossfade,800
 playstop
 monocro off
 !w3000
-Giai đoạn "bg/bg_54a", l, aki, 05a, 5
+phase "bg/bg_54a",l,aki,05a,5
 bg #ffffff,crossfade,400
 wave se_01
 !w1500
@@ -651,7 +651,7 @@ br
 wave se_01
 bg #000000,crossfade,400
 bg "bg/bg_06a",crossfade,400
-Vòng lặp âm thanh se_02
+waveloop se_02
 `"[line=4]Ồ"@
 ` Đau lại rồi.@
 ` Cảm giác đau sắc nhọn ở cổ tôi.

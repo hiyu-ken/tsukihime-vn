@@ -208,7 +208,7 @@ br
 ` "Hôm qua, Ciel-senpai có băng trên cánh tay và nói rằng cô ấy đã trải qua một trải nghiệm đau đớn."@
 ` "... ..."
 \
-"………………"
+`"………………"
 ld c,"tachi/aki_t12a",crossfade,400
 `"…… Ừm, anh trai, em cũng không thấy anh khỏe lắm đâu."@
 `"À[line=4] không, đó là..."@
@@ -587,7 +587,7 @@ bg "event/aki_e08",lshutter,400
 \
 playstop
 bg #000000,crossfade,400
-Vòng lặp âm thanh se_02
+waveloop se_02
 bg "bg/cmo_05",crossfade,800
 ` [line=4]Vâng, tôi đã giết người.@
 br

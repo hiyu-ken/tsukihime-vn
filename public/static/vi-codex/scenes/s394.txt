@@ -92,7 +92,7 @@ br
 \
 bg #000000,crossfade,800
 bg "bg/bg_33a",crossfade,800
-Vòng lặp âm thanh se_11
+waveloop se_11
 ` Vì chưa đến hai giờ, Hisui không đang chờ ở sảnh.@
 `"... ..."@
 ` Tôi có thể nói là mình may mắn.@ Tôi không muốn gặp ai vào lúc này.
@@ -148,7 +148,7 @@ br
 ` Chắc chắn, chúng ta sẽ tìm thấy người mà chúng ta muốn một ngày nào đó, phải không?@
 ` Màu chữ trắng.
 \
-"Im đi!"
+`"Im đi!"
 ld c,"tachi/aki_t01c",notrans,0
 !w250
 bg "bg/bg_40a",notrans,0

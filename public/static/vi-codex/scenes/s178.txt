@@ -230,7 +230,7 @@ br
 ` Trước khi làm vậy,
 ` Một cơn đau xuyên qua vai tôi.
 \
-"………!!!"@
+`"………!!!"@
 ` Tay tôi không thể di chuyển chút nào.@
 ` Sự siết chặt mạnh mẽ của cô ấy vào vai khiến tay tôi tê bì.@
 `"[line=4][line=4][line=8]"@

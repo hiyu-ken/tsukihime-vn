@@ -1,7 +1,7 @@
 if (%flgE>=1) skip 3
 `phase "bg/bg_06g", l, ark, 06a, 6`
 Bỏ qua 2
-Chuyển cảnh "bg/bg_27b", Ciel, 06a, 6
+phase "bg/bg_27b",l,cel,06a,6
 bg #ffffff,crossfade,1500
 bg "bg/bg_40a",lcartain,400
 play "*2"

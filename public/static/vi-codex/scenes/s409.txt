@@ -1943,7 +1943,7 @@ br
 `"[line=4]Thật khó tin!"@
 ` Nó giống như một lời nguyền đưa người đọc xuống tận cùng của bóng tối.
 \
-Vòng lặp âm thanh se_02
+waveloop se_02
 ` GIỢI CỨU TÔI
 !w1000
 ` GIỢI CỨU TÔI

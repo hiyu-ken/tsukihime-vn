@@ -20,9 +20,9 @@ monocro #ffff00
 bg "event/cel_e05a",crossfade,400
 monocro off
 bg "bg/bg_06b",crossfade,400
-"…………"@
+`"…………"@
     Dẫu biết bản thân vĩnh viễn không thể với tới chị ấy nữa, nhưng tôi vẫn không thể cam lòng từ bỏ.@
-"Chết tiệt thật[line=3]mình rốt cuộc phải làm gì bây giờ cơ chứ……!"@
+`"Chết tiệt thật[line=3]mình rốt cuộc phải làm gì bây giờ cơ chứ……!"@
 br
     Tự lẩm bẩm một mình đầy tức tối, tôi bước chân ra khỏi lớp học.
 \
@@ -31,7 +31,7 @@ bg "bg/bg_11b",lcartain,800
     Dẫu biết thừa chị ấy chắc chắn sẽ không có ở bên trong, nhưng đôi chân tôi vẫn vô thức tự bước vào.
 \
 bg "bg/bg_09b",lcartain,800
-"[line=7]*Ha*."@
+`"[line=7]*Ha*."@
     Quả nhiên, bên trong vắng lặng không một bóng người.@
     Dẫu vốn chẳng dám kỳ vọng điều gì, nhưng khi đối diện với thực tại phũ phàng này, tầm nhìn của tôi bỗng chốc nhòe đi và quay cuồng.@
 br
@@ -55,7 +55,7 @@ quakey 1,100
     Mặt đất dưới chân rung chuyển dữ dội.@
     Tôi cứ ngỡ vừa có một trận động đất cực mạnh xảy ra[line=3]nhưng rồi tôi bừng tỉnh nhận ra đó chẳng phải là mặt đất rung chuyển, mà chỉ là cảm giác chấn động khi cơ thể tôi đổ sụp xuống mặt sàn gỗ mà thôi.
 \
-"A[line=4]ơ?"@
+`"A[line=4]ơ?"@
     Tôi không thể cất thành tiếng rõ ràng.@
 br
     Hơi thở dồn dập đứt quãng.@
@@ -71,12 +71,12 @@ br
 \
     Tiếng thở khò khè đứt quãng.@
 br
-  Có điều gì đó…… rất kỳ lạ.@
+`   Có điều gì đó…… rất kỳ lạ.@
     Trong lúc tôi đang nằm thở dốc điên cuồng trên sàn gỗ, máu tươi bỗng nhiên không ngừng tuôn tràn và loang rộng trên những tấm chiếu tatami[line=4]
 \
 monocro #ff0000
 quakey 1,100
-"[line=4]Hự."@
+`"[line=4]Hự."@
 br
     Đột ngột,
     một cơn đau buốt nhói như ngàn mũi kim đâm ập đến xé rách lồng ngực tôi.

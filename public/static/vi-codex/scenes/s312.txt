@@ -541,7 +541,7 @@ br
 playstop
 monocro #0000ff
 bg "bg/bg_25b",crossfade,400
-Vòng lặp âm thanh `se_02`
+waveloop se_02
 ` Một cơn đau ập đến đầu tôi.@
 !w300
 !w300
@@ -593,7 +593,7 @@ ld c,"tachi/stk_t02",crossfade,400
 cl a,lshutter,400
 wave se_15
 Lắc lư 4,50
-Vòng lặp âm thanh se_02
+waveloop se_02
 bg #000000,lshutter,400
 `"[line=4]Kuh...@
 ` Khi một tiếng động lớn vang lên, mọi thứ trở nên đen tối.@

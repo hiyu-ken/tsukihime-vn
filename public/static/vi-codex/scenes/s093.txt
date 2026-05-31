@@ -140,7 +140,7 @@ br
 ` [line=4]Tôi đã chứng kiến điều kinh khủng hơn thế nữa.
 \
 bg #000000,crossfade,400
-Vòng lặp âm thanh se_02
+waveloop se_02
 ld c,"tachi/kemo_t02",crossfade,400
 br
 ` Nâng cao.@

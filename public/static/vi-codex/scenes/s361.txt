@@ -883,7 +883,7 @@ br
 monocro off
 bg #000000,crossfade,1500
 !w4000
-Cảnh nền "bg/bg_11c", l, Akiha, 09a, 9
+phase "bg/bg_11c",l,aki,09a,9
 bg "bg/bg_40a",bshutter,400
 Chơi âm thanh se_11 lặp lại
 `"[line=4]!"@

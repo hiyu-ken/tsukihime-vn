@@ -2,12 +2,12 @@ monocro off
 playstop
 wavestop
 bg "bg/bg_01a",notrans,0
-"………"@
+`"………"@
     Không, tôi cảm giác dẫu có đợi ở đây cũng chẳng thể gặp được Senpai.@
     Nếu Senpai đã không muốn gặp tôi, chị ấy sẽ quay đầu bỏ đi ngay khi vừa nhìn thấy tôi.@
     …… Nếu đúng như vậy, chắc chắn chị ấy sẽ không đi học qua cổng chính rồi.@
 br
-"…… Nếu chị ấy có đến, chắc chắn sẽ đi lối cổng sau."@
+`"…… Nếu chị ấy có đến, chắc chắn sẽ đi lối cổng sau."@
     Nghĩ vậy, tôi vội vã chạy thẳng ra khu vực cổng sau trường.
 \
 bg #000000,lcartain,800

@@ -85,7 +85,7 @@ bg #000000,crossfade,800
 \
 playstop
 !w5000
-Giai đoạn "bg/bg_36d", l, koha, 08a, 8
+phase "bg/bg_36d",l,koha,08a,8
 bg #ffffff,crossfade,800
 bg "bg/bg_40a",crossfade,400
 play "*2"

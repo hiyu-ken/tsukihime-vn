@@ -38,7 +38,7 @@ br
 \
 `"[line=4] Ra khỏi đây!"@
 wave se_10
-"Ồ, anh trai ơi, em nói thế nào đây? Em không thể để em giết anh sao?"
+`"Ồ, anh trai ơi, em nói thế nào đây? Em không thể để em giết anh sao?"
 ld c,"tachi/aki_t15b",crossfade,400
 `"[line=3][line=3]Shiki nhìn anh ta với đôi mắt đầy nghi ngờ, giọng nói run rẩy.@
 `"[line=2]Đi ra ngoài đi! Tôi đã nói rồi! Tôi sẽ không để bạn giết tôi!"@

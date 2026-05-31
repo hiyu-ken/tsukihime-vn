@@ -1,7 +1,7 @@
 if (%flgE>=1) skip 3
-Cảnh nền "bg/bg_06g", lớp (l), Arcueid (ark), hình 06a, số khung 6
+phase "bg/bg_06g",l,ark,06a,6
 Nhảy qua 2 khung
-Cảnh nền "bg/bg_27b", lớp (l), Ciel (cel), hình 06a, số khung 6
+phase "bg/bg_27b",l,cel,06a,6
 bg #ffffff,crossfade,1500
 bg "bg/bg_40a",crossfade,800
 play "*2"

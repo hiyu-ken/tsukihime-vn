@@ -223,7 +223,7 @@ br
 bg #000000,crossfade,800
 playstop
 !w3000
-Giai đoạn "bg/bg_30a", l, Hisui, 05a, 5
+phase "bg/bg_30a",l,his,05a,5
 bg #ffffff,crossfade,400
 br
 ` [line=3]Một ánh sáng chói lóa tràn ngập nhận thức của tôi.@

@@ -737,7 +737,7 @@ br
 ` Con dao của người thầy chủ ngừng lại.
 \
 bg "event/aki_e05a",lshutter,800
-Vòng lặp âm thanh se_02
+waveloop se_02
 `"Haghh[line=3]"@
 ` Hít thở. Hơi thở của tôi, cứng nhắc.@
 ` *Thở gấp*, *thở gấp*, *thở gấp*, *thở gấp*...

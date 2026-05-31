@@ -608,7 +608,7 @@ playstop
 bg #ffffff,notrans,0
 !w2000
 bg "bg/bg_40a",crossfade,800
-Vòng lặp âm thanh se_11
+waveloop se_11
 `"! "[line=6]@
 ` Tôi nhảy dậy khỏi giường, không thể chịu đựng thêm được nữa.@
 `"[line=3][line=4]Ôi chà, ôi."@

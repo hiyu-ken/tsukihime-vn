@@ -139,7 +139,7 @@ br
 ` [line=3]Tôi thực sự... sẽ cảm thấy... choáng váng.
 \
 playstop
-Vòng lặp âm thanh se_02
+waveloop se_02
 ld c,"tachi/aki_t18b",crossfade,400
 `"Không, đó không chỉ là tưởng tượng của cậu. Cơ thể cậu đã lạ thường từ khi chúng ta bước vào, nhưng cậu đơn giản chưa bao giờ nhận ra điều đó, anh trai ạ."@
 ` Nhìn xem? Kohaku cười trước vì cậu thậm chí còn không hay biết điều đó.@

@@ -424,8 +424,8 @@ br
 bg #000000,crossfade,800
 monocro off
 !w3000
-Giai đoạn "bg/ima_19", l, aki, 07a, 7
-Vòng lặp âm thanh se_02
+phase "bg/ima_19",l,aki,07a,7
+waveloop se_02
 bg #ffffff,notrans,0
 !w750
 `"Cậu Shiki ơi[line=4]?"@`

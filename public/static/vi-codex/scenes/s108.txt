@@ -1,4 +1,4 @@
-"Bối cảnh: Mặt trăng 'bg/bg_33d', rực rỡ, Arcueid, màu 05a, 5"
+`"Bối cảnh: Mặt trăng 'bg/bg_33d', rực rỡ, Arcueid, màu 05a, 5"
 bg #ffffff,crossfade,800
 ` Tôi cảm nhận ánh nắng mặt trời buổi sáng.@
 ` Tôi giữ mắt nhắm lại khi cố gắng ngủ lại, nhưng ánh nắng nhẹ nhàng vẫn thúc giục tôi mở mắt ra.@

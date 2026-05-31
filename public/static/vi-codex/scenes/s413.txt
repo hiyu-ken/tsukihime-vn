@@ -664,7 +664,7 @@ bg "event/his_f02",crossfade,400
 \
 playstop
 bg #000000,crossfade,400
-"Tôi lấy con dao ra."
+`"Tôi lấy con dao ra."
 ` "Ừ."@
 ` Kính của tôi đã tháo rồi.@
 ` [line=3]Chỉ còn lại những mảnh vỡ.

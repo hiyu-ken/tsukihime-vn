@@ -821,7 +821,7 @@ bg "bg/ima_02",crossfade,400
 wave se_01
 !w500
 bg "bg/bg_54d",crossfade,400
-Vòng lặp âm thanh se_02
+waveloop se_02
 `"Vâng, vâng, vâng! Đó là tốt. Sẽ tuyệt vời nếu Akiha trở thành bữa ăn đầu tiên của cậu..."@
 ` [line=4]"Tôi đã quyết định rồi. Vâng, giờ tôi phải khiến Akiha giống mình càng sớm càng tốt."
 \
